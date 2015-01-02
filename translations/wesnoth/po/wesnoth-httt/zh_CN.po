@@ -4,15 +4,16 @@
 # Lim Choon Kiat <lim@singindustry.com>, 2005.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
+# Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-11-15 10:53+0100\n"
-"PO-Revision-Date: 2015-01-02 13:12+0800\n"
+"PO-Revision-Date: 2015-01-02 20:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +23,7 @@ msgstr ""
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Heir to the Throne"
-msgstr "王座之承"
+msgstr "王座继承人"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "HttT"
@@ -66,7 +67,7 @@ msgid ""
 "heir.\n"
 "\n"
 msgstr ""
-"为夺回韦诺的王座而战斗吧，你才是合法的继承者。\n"
+"为夺回韦诺的王座而战斗吧，你才是合法的继承人。\n"
 "\n"
 
 #. [campaign]: id=Heir_To_The_Throne
@@ -91,7 +92,7 @@ msgstr "其他"
 
 #. [scenario]: id=01_The_Elves_Besieged
 msgid "The Elves Besieged"
-msgstr "精灵受困"
+msgstr "受困的精灵"
 
 #. [objective]: condition=win
 msgid "Move Konrad to the signpost in the northwest"
@@ -313,7 +314,7 @@ msgstr "只有蠢货才会和我对抗！"
 
 #. [message]: speaker=Galdrad
 msgid "I am Galdrad. You will have to fight me to get any further!"
-msgstr "我是伽尔德拉德。要想继续前进也得问问我的剑同不同意！"
+msgstr "我是伽德拉德。要想继续前进也得问问我的剑同不同意！"
 
 #. [message]: speaker=Delfador
 msgid "Only a fool would dare to attack me!"
@@ -583,7 +584,7 @@ msgstr "祝你们一帆风顺，朋友们！放心吧，我们绝对不会向黑
 
 #. [message]: speaker=unit
 msgid "I have failed in my duty to protect the Rightful Heir and the port."
-msgstr "我没有能尽到保护王位继承者和港口的义务……"
+msgstr "我没有能尽到保护王位继承人和港口的义务。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -3701,7 +3702,7 @@ msgstr "让科纳德或者莉莎夺回圣火权杖"
 #. [note]
 msgid ""
 "If Delfador rests, he can concentrate on the location of the Sceptre of Fire."
-msgstr ""
+msgstr "如果让德法多原地休息一回合，那么他就能集中注意力而感知权杖的方位。"
 
 #. [message]: speaker=Konrad
 msgid "The Sceptre must be getting close now! Where shall we go?"
@@ -3742,8 +3743,8 @@ msgid ""
 "power of it!"
 msgstr ""
 "这权杖……这土地……这熔岩……这烈焰……这四周的气息……所有这一切。圣火权杖正在呼唤着"
-"王座的继承者——我几乎不能将这种感觉压在心底了。它是在这里铸造的，就在我们北边"
-"不远的地方。哦，那绝对的力量！"
+"王座的继承人——我几乎不能将这种感觉压在心底了。它是在这里铸造的，就在我们北边"
+"不远的地方。那绝对的力量！"
 
 #. [message]: speaker=Konrad
 msgid "Where? Where is it?"
@@ -3765,49 +3766,49 @@ msgstr "您获得了300枚金币！"
 msgid ""
 "I think... I think if I were to concentrate a bit I could tell you where it "
 "is."
-msgstr ""
+msgstr "我想……我想如果我能集中一点注意力，我就能告诉你权杖在哪里了。"
 
 #. [floating_text]
 msgid "Concentrating"
-msgstr ""
+msgstr "正在集中注意力"
 
 #. [message]: speaker=Delfador
 msgid ""
 "I sense we are quite near the Sceptre; in fact, we should be able to see it "
 "right about now..."
-msgstr ""
+msgstr "我感觉到我们已经很接近权杖了；事实上，我们应该马上就能看到它了……"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the east of me."
-msgstr ""
+msgstr "我感觉到权杖在我的东方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the south-east of me."
-msgstr ""
+msgstr "我感觉到权杖在我的东南方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the south of me."
-msgstr ""
+msgstr "我感觉到权杖在我的南方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the south-west of me."
-msgstr ""
+msgstr "我感觉到权杖在我的西南方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the west of me."
-msgstr ""
+msgstr "我感觉到权杖在我的西方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the north-west of me."
-msgstr ""
+msgstr "我感觉到权杖在我的西北方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the north of me."
-msgstr ""
+msgstr "我感觉到权杖在我的北方。"
 
 #. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
 msgid "I sense the path to the sceptre is to the north-east of me."
-msgstr ""
+msgstr "我感觉到权杖在我的东北方。"
 
 #. [scenario]: id=18_A_Choice_Must_Be_Made
 msgid "A Choice Must Be Made"
@@ -4632,7 +4633,7 @@ msgid ""
 "Konrad, leader of the group and heir to the throne of Wesnoth."
 msgstr ""
 "呃……当然可以，龙人爵士。请容我作自我介绍——我是科纳德王子，这个团队的领袖，韦"
-"诺王座的继承者。"
+"诺王座的继承人。"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -4640,7 +4641,7 @@ msgid ""
 "Queen Asheviere. I too am an heir to the throne of Wesnoth!"
 msgstr ""
 "而我是莉莎公主，先王伽拉德二世和女王艾斯威勒唯一的女儿。我也是韦诺王座的继承"
-"者！"
+"人！"
 
 #. [message]: speaker=Keh Ohn
 msgid ""
@@ -4781,7 +4782,7 @@ msgid ""
 "loyal to his princess — the heiress to the throne of Wesnoth!"
 msgstr ""
 "也许他是被派来杀掉你们的，但不是来杀掉我的。我很确信他仍然忠于他的公主——韦诺"
-"王座的继承者！"
+"王座的继承人！"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -5395,13 +5396,11 @@ msgstr ""
 "拉，您怎么说？"
 
 #. [message]: speaker=Parandra
-#, fuzzy
 msgid ""
 "Princess, when Delfador the Great speaks of the Queen Dowager, Asheviere, "
 "ordering the princes of Wesnoth to be put to death, he speaks the truth."
 msgstr ""
-"公主殿下，刚才德法多大师所说，您的母后，女王艾斯威勒下令处死韦诺众王子之事，"
-"句句属实。"
+"公主，刚才德法多大师所说，太后艾斯威勒下令处死韦诺众王子之事，句句属实。"
 
 #. [message]: speaker=Li'sar
 msgid "And what say you, Elf-king?"
@@ -5419,15 +5418,14 @@ msgstr ""
 "敬意。"
 
 #. [message]: speaker=Li'sar
-#, fuzzy
 msgid ""
 "Well, that is why I must take the Sceptre. I will return, and people will "
 "accept me as Queen. I will rule justly and fairly. My mother is only Queen "
 "Dowager. The throne is rightfully mine, and with the Sceptre I can prove it."
 msgstr ""
-"好吧，这就是我必须拿走权杖的原因了。我会回去的，而人民将会接受我成为女王。我"
-"会公正而公平地统治韦诺。我的母后将仅仅只是我的母后而已。王座理应是我的，有了"
-"权杖，我就能证明这一点。"
+"好吧，这就是为什么我必须得到权杖。我会回到王国，而人民将会接受我为女王。我的"
+"统治将会公正而公平。我的母后仅仅只是太后而已。王座理应是我的，有了权杖，我就"
+"能证明这一点。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -5438,7 +5436,6 @@ msgstr ""
 "该得到王座。"
 
 #. [message]: speaker=Li'sar
-#, fuzzy
 msgid ""
 "Well, I have the Sceptre! I will return and the people will accept me as "
 "Queen! My mother is only Queen Dowager. The Throne is rightfully mine, and I "
@@ -5952,9 +5949,8 @@ msgid "I think you are mistaken! You will help me be queen."
 msgstr "我想你们是搞错了！你们应该协助我成为女王！"
 
 #. [message]: role=clanboss
-#, fuzzy
 msgid "Who then is your leader? Whom do we serve?"
-msgstr "究竟谁才是你们的领袖？我们应该向谁尽忠？"
+msgstr "究竟谁才是你们的领袖？我们要向谁尽忠？"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -6104,7 +6100,7 @@ msgid ""
 "Now, let us not tarry here any longer! The dawn breaks! The time has come "
 "for the heir to the throne to claim it!"
 msgstr ""
-"现在，我们不能继续在这里耽搁了！就要破晓了！王座的继承者夺回王座的时刻来临"
+"现在，我们不能继续在这里耽搁了！就要破晓了！王座的继承人夺回王座的时刻来临"
 "了！"
 
 #. [side]: type=Orcish Warlord, id=Haliel-Maga
@@ -6312,7 +6308,7 @@ msgid ""
 "Heir to the Throne of Wesnoth, was crowned Queen and Bearer of the Sceptre "
 "of Fire, which she would pass on to all her successors."
 msgstr ""
-"就这样，黑暗女王的统治结束了。莉莎，伽拉德二世之女，韦诺王座的继承者，加冕为"
+"就这样，黑暗女王的统治结束了。莉莎，伽拉德二世之女，韦诺王座的继承人，加冕为"
 "女王，亦为圣火权杖之持有者。她将会把这一切传给自己所有的后代。"
 
 #. [part]
@@ -6403,14 +6399,13 @@ msgid "female^Dark Queen"
 msgstr "黑暗女王"
 
 #. [unit_type]: id=Dark Queen, race=human
-#, fuzzy
 msgid ""
 "The evil queen Asheviere has terrorized Wesnoth for many years. Her "
 "knowledge of magic makes her a worthy foe in combat, although her power is "
 "mostly derived from those she commands."
 msgstr ""
 "邪恶的母后艾斯威勒将韦诺陷于恐怖之中已经有很多年了。在战斗中，她的魔法知识使"
-"得她成为了一名有价值的对手，虽然她的力量最主要地还是来自于她麾下的部队。"
+"得她成为了一名战斗好手，虽然她的力量最主要地还是来自于她麾下的部队。"
 
 #. [attack]: type=impact
 msgid "scepter"
@@ -6455,7 +6450,6 @@ msgstr "公主"
 
 #. [unit_type]: id=Princess, race=human
 #. [variation]: id=Princess, race=human
-#, fuzzy
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals and battle tactics with the greatest sages, making her both a great "
@@ -6464,8 +6458,7 @@ msgid ""
 msgstr ""
 "公主是天生的贵族。她师从于最伟大的将军们，学会了剑术，又从最伟大的贤者那里，"
 "学会了战术。因而，她是一位伟大的战士，同时又是一位伟大的领导者。由于公主的存"
-"在，在她身周的较低等级的单位将会更好地战斗。公主聪慧机巧，身手敏捷，有着和盗"
-"贼一样的技能。（译者：作者你想说明啥……）"
+"在，在她身周的较低等级的单位将会更好地战斗。"
 
 #. [unit_type]: id=Sea Orc, race=orc
 msgid "Sea Orc"
@@ -6497,18 +6490,18 @@ msgstr "爪"
 
 #. [dummy]: id=initiative
 msgid "initiative"
-msgstr ""
+msgstr "主导"
 
 #. [dummy]: id=initiative
 msgid ""
 "All adjacent friendly units will strike first in melee combat, even when "
 "defending."
-msgstr ""
+msgstr "所有相邻的友军单位都能够在近战中抢先攻击，甚至在防守时也是如此。"
 
 msgid ""
 "This unit's grasp of melee tactics allows adjacent allies to strike the "
 "first blow even when defending."
-msgstr ""
+msgstr "该单位对近战战术的理解使得相邻友军即使在防守时也能抢先出手。"
 
 #. [message]: speaker=unit
 msgid "We are vanquished, for I have been defeated!"
@@ -6633,7 +6626,7 @@ msgstr ""
 msgid ""
 "This is the Sceptre of Fire. Only a true successor to the throne can "
 "possibly dare to take this!"
-msgstr "这是圣火权杖！只有王座的真正继承者才可能有胆量拿起它！"
+msgstr "这是圣火权杖！只有王座的真正继承人才可能有胆量拿起它！"
 
 #. [message]: speaker=Konrad
 msgid "Here it is at last, I have the Sceptre!"
@@ -6765,7 +6758,7 @@ msgid ""
 "ordered them all killed, and declared herself Queen of Wesnoth."
 msgstr ""
 "于是，艾斯威勒自己接管了军队的指挥权并领军回到了维尔帝。她知道国王的年轻侄子"
-"们是下一顺位的王位继承者，便下令把他们全杀了，并宣布自己为韦诺的女王。"
+"们是下一顺位的王位继承人，便下令把他们全杀了，并宣布自己为韦诺的女王。"
 
 #. [part]
 msgid ""
