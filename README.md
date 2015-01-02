@@ -19,7 +19,7 @@ We have a [Chinese forum](http://wesnoth.cn/), which only has minimal activity n
 
 When you finish the translation, please file a pull request, or send the resulting po file to me (cloudidust at gmail), who will take care of the rest.
 
-We target the stable branch of the game (currently 1.12). The translation progress and assignments are tracked in Issue #1.
+We target the stable branch of the game (currently 1.12). The translation progress and assignments are tracked in [Issue #1](https://github.com/CloudiDust/wesnoth-cn/issues/1).
 
 # Special Thanks
 
