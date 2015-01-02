@@ -15,9 +15,11 @@ Nowadays the game is [hosted on Github](https://https://github.com/wesnoth/wesno
 
 Anyone willing to translate the game into Simplified Chinese are welcome.
 
-We have a [Chinese forum](http://wesnoth.cn/).
+We have a [Chinese forum](http://wesnoth.cn/), which only has minimal activity now. The Wesnoth [Tieba](http://tieba.baidu.com/f?kw=%E9%9F%A6%E8%AF%BA%E4%B9%8B%E6%88%98&ie=utf-8) is fairly active.
 
 When you finish the translation, please file a pull request, or send the resulting po file to me (cloudidust at gmail), who will take care of the rest.
+
+We target the stable branch of the game (currently 1.12). The translation progress and assignments are tracked in Issue #1.
 
 # Special Thanks
 
