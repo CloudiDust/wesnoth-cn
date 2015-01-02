@@ -1,0 +1,6400 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2015 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# jan2xue <75jan@163.com>, 2005.
+# Huang Huan <unicon221@gmail.com>, 2005.
+# Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
+# sylecn <sylecn@yahoo.com.cn>, 2009.
+# CloudiDust <cloudidust@gmail.com>, 2010.
+# Dugucloud <dugucloud@qq.com>, 2010.
+# wind <everywherewind@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-1.12\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2014-11-15 10:53+0100\n"
+"PO-Revision-Date: 2015-01-02 13:03+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#. [advanced_preference]: type=combo
+#. Associated save_compression_short^ entries need to be as short as
+#. possible to avoid stretching the advanced preferences list too
+#. much.
+msgid "Compress saved games"
+msgstr "压缩游戏存档"
+
+#. [option]: type=combo
+msgid "save_compression^Gzip"
+msgstr "Gzip"
+
+#. [option]: type=combo
+msgid "save_compression_short^gzip"
+msgstr "gzip"
+
+#. [option]: type=combo
+msgid "save_compression_desc^Default compression, faster"
+msgstr "默认压缩比，速度较快"
+
+#. [option]: type=combo
+msgid "save_compression^Bzip2"
+msgstr "Bzip2"
+
+#. [option]: type=combo
+msgid "save_compression_short^bzip2"
+msgstr "bzip2"
+
+#. [option]: type=combo
+msgid "save_compression_desc^Best compression, slower"
+msgstr "最好压缩比，速度较慢"
+
+#. [option]: type=combo
+msgid "save_compression^No"
+msgstr "无"
+
+#. [option]: type=combo
+msgid "save_compression_short^no"
+msgstr "无"
+
+#. [option]: type=combo
+msgid "save_compression_desc^Large plain text files"
+msgstr "大文本文件"
+
+#. [advanced_preference]: type=boolean
+msgid "Confirm deleting saves"
+msgstr "删除存档时需要确认"
+
+#. [advanced_preference]: type=boolean
+msgid "Mouse scrolling"
+msgstr "鼠标滚屏"
+
+#. [advanced_preference]: type=boolean
+msgid "Middle-click scrolling"
+msgstr "鼠标中键滚屏"
+
+#. [advanced_preference]: type=boolean
+msgid "Keep scrolling when mouse leaves window"
+msgstr "鼠标离开窗口后继续滚屏"
+
+#. [advanced_preference]: type=boolean
+msgid "Local time of day area lighting"
+msgstr "局部时段光照"
+
+#. [advanced_preference]: type=boolean
+msgid "Show titlescreen animation"
+msgstr "显示标题画面动画"
+
+#. [advanced_preference]: type=boolean
+msgid "Show combat"
+msgstr "显示战斗"
+
+#. [advanced_preference]: type=int
+msgid "Ping timeout"
+msgstr "Ping超时"
+
+#. [advanced_preference]: type=int
+msgid ""
+"Number of seconds to wait for a ping reply before timing out. Set to 0 to "
+"disable"
+msgstr "在超时之前等待ping回复的秒数。设置为0表示无限制。"
+
+#. [advanced_preference]: type=boolean
+msgid "Accept whispers from friends only"
+msgstr "只接受好友发来的悄悄话"
+
+#. [advanced_preference]: type=boolean
+msgid "Auto-open whisper windows in lobby"
+msgstr "在游戏大厅中自动打开悄悄话窗口"
+
+#. [advanced_preference]: type=boolean
+msgid "Group players in lobby"
+msgstr "在游戏大厅中对玩家自动分组"
+
+#. [advanced_preference]: type=boolean
+msgid "Lobby sounds"
+msgstr "游戏大厅音效"
+
+#. [advanced_preference]: type=boolean
+msgid "Disable notifications"
+msgstr "禁止桌面提示"
+
+#. [advanced_preference]: type=boolean
+msgid "Reverse time graphics"
+msgstr "反转时段效果图"
+
+#. [advanced_preference]: type=boolean
+msgid "Choose whether the sun moves left-to-right or right-to-left"
+msgstr "选择太阳是左升右降还是右升左降"
+
+#. [advanced_preference]: type=boolean
+msgid "Follow unit actions"
+msgstr "跟随单位行动"
+
+#. [advanced_preference]: type=boolean
+msgid ""
+"Choose whether the map view should scroll to a unit when an action or move "
+"is animated"
+msgstr "选择当单位行动时，地图画面是否应该跟随移动"
+
+#. [advanced_preference]: type=int
+msgid "Chat message aging"
+msgstr "聊天信息过期设置"
+
+#. [advanced_preference]: type=int
+msgid ""
+"Number of minutes to wait before clearing an ingame chat message. Set to 0 "
+"to disable"
+msgstr "在清除游戏中的某条聊天信息之前，等待的分钟数。设置为0则禁用此功能"
+
+#. [advanced_preference]: type=boolean
+msgid "Use 12-hour clock format"
+msgstr "使用12小时制时钟格式"
+
+#. [advanced_preference]: type=boolean
+msgid "Confirm loading saves from a different version"
+msgstr "在读取与当前游戏版本不同的存档前进行确认"
+
+#. [advanced_preference]: type=boolean
+msgid "Show all unit types in help"
+msgstr "在帮助中显示所有单位类型"
+
+#. [advanced_preference]: type=boolean
+msgid ""
+"Show all unit types in the help (requires restart). This does not alter the "
+"list of encountered units"
+msgstr ""
+"在帮助中显示所有单位类型（需要重新启动）。这并不会改变已遭遇单位的列表。"
+
+#. [advanced_preference]: type=boolean
+msgid "Experimental multiplayer lobby"
+msgstr "试验性多人游戏大厅"
+
+#. [advanced_preference]: type=boolean
+msgid ""
+"Replace the classic multiplayer lobby with a newer, experimental interface"
+msgstr "用一个新的、试验性的界面来替换经典多人游戏大厅"
+
+#. [advanced_preference]: type=boolean
+msgid "Show color cursors"
+msgstr "显示彩色鼠标箭头"
+
+#. [advanced_preference]: type=boolean
+msgid ""
+"Use colored mouse cursors, which may be slower or break the game (use at "
+"your own risk)"
+msgstr "使用彩色的鼠标箭头，可能会使游戏变慢甚至崩溃（风险自担）"
+
+#. [advanced_preference]: type=boolean
+msgid "Joystick support"
+msgstr "游戏杆支持"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the scroll X-axis joystick"
+msgstr "手柄：用于横向卷屏的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the scroll X-axis"
+msgstr "手柄：用于横向卷屏的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the scroll Y-axis joystick"
+msgstr "手柄：用于纵向卷屏的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the scroll Y-axis"
+msgstr "手柄：用于纵向卷屏的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: deadzone of the scrolling stick"
+msgstr "手柄：用于卷屏的摇杆的死区大小"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the cursor X-axis joystick"
+msgstr "手柄：用于横向移动光标的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the cursor X-axis"
+msgstr "手柄：用于横向移动光标的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the cursor Y-axis joystick"
+msgstr "手柄：用于纵向移动光标的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the cursor Y-axis"
+msgstr "手柄：用于纵向移动光标的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: deadzone of the cursor stick"
+msgstr "手柄：用于移动光标的摇杆的死区大小"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the mouse X-axis joystick"
+msgstr "手柄：用于横向移动鼠标箭头的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the mouse X-axis"
+msgstr "手柄：用于横向移动鼠标箭头的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the mouse Y-axis joystick"
+msgstr "手柄：用于纵向移动鼠标箭头的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the mouse Y-axis"
+msgstr "手柄：用于纵向移动鼠标箭头的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: deadzone of the mouse stick"
+msgstr "手柄：用于移动鼠标箭头的摇杆的死区大小"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the thrust axis joystick"
+msgstr "手柄：用于加速的手柄编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: number of the thrust axis"
+msgstr "手柄：用于加速的摇杆编号"
+
+#. [advanced_preference]: type=int
+msgid "Joystick: deadzone of the thruster"
+msgstr "手柄：用于加速的摇杆的死区大小"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: set_status
+#. [unstore_unit]
+msgid "poisoned"
+msgstr "中毒"
+
+#. [lua]: generate_objectives
+#. [objectives]
+msgid "Gold carryover:"
+msgstr "带出金币："
+
+#. [lua]: generate_objectives
+#. [note]
+msgid "Notes:"
+msgstr "备注："
+
+#. [about]
+msgid "Programming"
+msgstr "程序设计"
+
+#. [about]
+msgid "General Purpose Administration and Coordination"
+msgstr "总体管理与协调"
+
+#. [about]
+msgid "Artwork and Graphics"
+msgstr "美术与图像"
+
+#. [about]
+msgid "Music"
+msgstr "音乐"
+
+#. [about]
+msgid "Sound Effects"
+msgstr "音效"
+
+#. [about]
+msgid "Campaign Design"
+msgstr "战役设计"
+
+#. [about]
+msgid "Multiplayer Maps and Balancing"
+msgstr "多人地图与平衡性调整"
+
+#. [about]
+msgid "Packagers"
+msgstr "打包人员"
+
+#. [about]
+msgid "Miscellaneous Contributors"
+msgstr "其他贡献者"
+
+#. [about]
+msgid "Internationalization Managers"
+msgstr "国际化经理"
+
+#. [about]
+msgid "English strings edition"
+msgstr "英语字符串编辑"
+
+#. [about]
+msgid "Afrikaans Translation"
+msgstr "南非荷兰文翻译"
+
+#. [about]
+msgid "Arabic Translation"
+msgstr "阿拉伯文翻译"
+
+#. [about]
+msgid "Basque Translation"
+msgstr "巴斯克文翻译"
+
+#. [about]
+msgid "Bulgarian Translation"
+msgstr "保加利亚文翻译"
+
+#. [about]
+msgid "Catalan Translation"
+msgstr "加泰罗尼亚文翻译"
+
+#. [about]
+msgid "Chinese Translation"
+msgstr "简体中文翻译"
+
+#. [about]
+msgid "Chinese (Taiwan) Translation"
+msgstr "繁体中文翻译"
+
+#. [about]
+msgid "Croatian Translation"
+msgstr "克罗地亚文翻译"
+
+#. [about]
+msgid "Czech Translation"
+msgstr "捷克文翻译"
+
+#. [about]
+msgid "Danish Translation"
+msgstr "丹麦文翻译"
+
+#. [about]
+msgid "Dutch Translation"
+msgstr "荷兰文翻译"
+
+#. [about]
+msgid "English (GB) Translation"
+msgstr "英式英文翻译"
+
+#. [about]
+msgid "English (Shaw) Translation"
+msgstr "英文（萧氏字母表）翻译"
+
+#. [about]
+msgid "Esperanto Translation"
+msgstr "世界语翻译"
+
+#. [about]
+msgid "Estonian Translation"
+msgstr "爱沙尼亚文翻译"
+
+#. [about]
+msgid "Filipino Translation"
+msgstr "菲律宾文翻译"
+
+#. [about]
+msgid "Finnish Translation"
+msgstr "芬兰文翻译"
+
+#. [about]
+msgid "French Translation"
+msgstr "法文翻译"
+
+#. [about]
+msgid "Friulian Translation"
+msgstr "弗留利文翻译"
+
+#. [about]
+msgid "Galician Translation"
+msgstr "巴伦西亚文翻译"
+
+#. [about]
+msgid "German Translation"
+msgstr "德文翻译"
+
+#. [about]
+msgid "Greek Translation"
+msgstr "希腊文翻译"
+
+#. [about]
+msgid "Hebrew Translation"
+msgstr "希伯来文翻译"
+
+#. [about]
+msgid "Hungarian Translation"
+msgstr "匈牙利文翻译"
+
+#. [about]
+msgid "Icelandic Translation"
+msgstr "冰岛文翻译"
+
+#. [about]
+msgid "Indonesian Translation"
+msgstr "印度尼西亚文翻译"
+
+#. [about]
+msgid "Irish Translation"
+msgstr "爱尔兰文翻译"
+
+#. [about]
+msgid "Italian Translation"
+msgstr "意大利文翻译"
+
+#. [about]
+msgid "Japanese Translation"
+msgstr "日文翻译"
+
+#. [about]
+msgid "Korean Translation"
+msgstr "韩文翻译"
+
+#. [about]
+msgid "Latin Translation"
+msgstr "拉丁文翻译"
+
+#. [about]
+msgid "Latvian Translation"
+msgstr "拉脱维亚文翻译"
+
+#. [about]
+msgid "Lithuanian Translation"
+msgstr "立陶宛文翻译"
+
+#. [about]
+msgid "Macedonian Translation"
+msgstr "马其顿文翻译"
+
+#. [about]
+msgid "Marathi Translation"
+msgstr "马拉地文翻译"
+
+#. [about]
+msgid "Norwegian Translation"
+msgstr "挪威文翻译"
+
+#. [about]
+msgid "Old English Translation"
+msgstr "古英文翻译"
+
+#. [about]
+msgid "Polish Translation"
+msgstr "波兰文翻译"
+
+#. [about]
+msgid "Portuguese Translation"
+msgstr "葡萄牙文翻译"
+
+#. [about]
+msgid "Portuguese (Brazil) Translation"
+msgstr "葡萄牙文（巴西）翻译"
+
+#. [about]
+msgid "Romanian Translation"
+msgstr "罗马尼亚文翻译"
+
+#. [about]
+msgid "Russian Translation"
+msgstr "俄文翻译"
+
+#. [about]
+msgid "Scottish Gaelic Translation"
+msgstr "苏格兰盖尔文翻译"
+
+#. [about]
+msgid "Serbian Translation"
+msgstr "塞尔维亚文翻译"
+
+#. [about]
+msgid "Slovak Translation"
+msgstr "斯洛伐克文翻译"
+
+#. [about]
+msgid "Slovenian Translation"
+msgstr "斯洛文尼亚文翻译"
+
+#. [about]
+msgid "Spanish Translation"
+msgstr "西班牙文翻译"
+
+#. [about]
+msgid "Swedish Translation"
+msgstr "瑞典文翻译"
+
+#. [about]
+msgid "Turkish Translation"
+msgstr "土耳其文翻译"
+
+#. [about]
+msgid "Ukrainian Translation"
+msgstr "乌克兰文翻译"
+
+#. [about]
+msgid "Valencian (southern Catalan) Translation"
+msgstr "瓦伦西亚文（南加泰罗尼亚）翻译"
+
+#. [about]
+msgid "Vietnamese Translation"
+msgstr "越南文翻译"
+
+#. [about]
+msgid "RACV’s Translation"
+msgstr "RACV的翻译"
+
+#. [about]
+msgid "Bots"
+msgstr "机器人"
+
+#. [item_group]: id=items
+msgid "Items"
+msgstr "物品"
+
+#. [item]: id=altar_evil
+msgid "Evil Altar"
+msgstr "邪恶圣坛"
+
+#. [item]: id=altar
+msgid "Altar"
+msgstr "圣坛"
+
+#. [item]: id=ankh-necklace
+msgid "Ankh Necklace"
+msgstr "圆环十字项链"
+
+#. [item]: id=anvil
+msgid "Anvil"
+msgstr "铁砧"
+
+#. [item]: id=archery-target
+msgid "Archery Target"
+msgstr "箭靶"
+
+#. [item]: id=armor-golden
+msgid "Golden Armor"
+msgstr "黄金铠甲"
+
+#. [item]: id=armor
+msgid "Armor"
+msgstr "铠甲"
+
+#. [item]: id=axe
+msgid "Axe"
+msgstr "斧"
+
+#. [item]: id=ball-blue
+msgid "Blue Ball"
+msgstr "蓝球"
+
+#. [item]: id=ball-green
+msgid "Green Ball"
+msgstr "绿球"
+
+#. [item]: id=ball-magenta
+msgid "Magenta Ball"
+msgstr "洋红球"
+
+#. [item]: id=barrel
+msgid "Barrel"
+msgstr "桶"
+
+#. [item]: id=bomb
+msgid "Bomb"
+msgstr "炸弹"
+
+#. [item]: id=bones
+msgid "Bones"
+msgstr "骨"
+
+#. [item]: id=bonestack
+msgid "Bonestack"
+msgstr "骨堆"
+
+#. [item]: id=book1
+#. [item]: id=book2
+#. [item]: id=book3
+#. [item]: id=book4
+#. [item]: id=book5
+msgid "Book"
+msgstr "书"
+
+#. [item]: id=bow-crystal
+msgid "Crystal Bow"
+msgstr "水晶弓"
+
+#. [item]: id=bow-elven
+msgid "Elven Bow"
+msgstr "精灵弓"
+
+#. [item]: id=bow
+msgid "Bow"
+msgstr "弓"
+
+#. [item]: id=box
+msgid "Box"
+msgstr "盒子"
+
+#. [item]: id=brazier
+msgid "Brazier"
+msgstr "火盆"
+
+#. [item]: id=buckler
+msgid "Buckler"
+msgstr "小圆盾"
+
+#. [item]: id=burial
+msgid "Burial"
+msgstr "葬堆"
+
+#. [item]: id=cage
+msgid "Cage"
+msgstr "笼子"
+
+#. [item]: id=chest-plain-closed
+msgid "Closed Plain Chest"
+msgstr "关着的普通箱子"
+
+#. [item]: id=chest-plain-open
+msgid "Open Plain Chest"
+msgstr "开着的普通箱子"
+
+#. [item]: id=chest
+msgid "Chest"
+msgstr "箱子"
+
+#. [item]: id=cloak-green
+msgid "Green Cloak"
+msgstr "绿斗篷"
+
+#. [item]: id=coffin-closed
+msgid "Closed Coffin"
+msgstr "关着的棺材"
+
+#. [item]: id=dragonstatue
+msgid "Dragon Statue"
+msgstr "龙之雕像"
+
+#. [item]: id=flame-sword
+msgid "Flaming Sword"
+msgstr "火焰剑"
+
+#. [item]: id=flower1
+#. [item]: id=flower2
+#. [item]: id=flower3
+#. [item]: id=flower4
+msgid "Flower"
+msgstr "花"
+
+#. [item]: id=gohere
+msgid "Go Here Overlay"
+msgstr "“去这儿”覆盖签"
+
+#. [item]: id=gold-coins-large
+msgid "Large Pile of Gold Coins"
+msgstr "大堆金币"
+
+#. [item]: id=gold-coins-medium
+msgid "Pile of Gold Coins"
+msgstr "一堆金币"
+
+#. [item]: id=gold-coins-small
+msgid "Small Pile of Gold Coins"
+msgstr "小堆金币"
+
+#. [item]: id=grain-sheaf
+msgid "Grain Sheaf"
+msgstr "一捆麦子"
+
+#. [item]: id=hammer-runic
+msgid "Runic Hammer"
+msgstr "符文锤"
+
+#. [item]: id=holly-water
+#. [object]
+msgid "Holy Water"
+msgstr "圣水"
+
+#. [item]: id=key
+msgid "Key"
+msgstr "钥匙"
+
+#. [item]: id=leather-pack
+msgid "Leather Pack"
+msgstr "皮革包"
+
+#. [item]: id=orcish-flag
+msgid "Orcish Flag"
+msgstr "兽人旗帜"
+
+#. [item]: id=ornate1
+#. [item]: id=ornate2
+msgid "Ornate"
+msgstr "奢华品"
+
+#. [item]: id=potion-blue
+msgid "Blue Potion"
+msgstr "蓝色药剂"
+
+#. [item]: id=potion-green
+msgid "Green Potion"
+msgstr "绿色药剂"
+
+#. [item]: id=potion-gray
+msgid "Gray Potion"
+msgstr "灰色药剂"
+
+#. [item]: id=potion-poison
+#. [object]: id={ID}
+msgid "Poison"
+msgstr "毒药"
+
+#. [item]: id=potion-red
+msgid "Red Potion"
+msgstr "红色药剂"
+
+#. [item]: id=potion-yellow
+msgid "Yellow Potion"
+msgstr "黄色药剂"
+
+#. [item]: id=ring-brown
+msgid "Brown Ring"
+msgstr "棕色戒指"
+
+#. [item]: id=ring-gold
+msgid "Golden Ring"
+msgstr "金色戒指"
+
+#. [item]: id=ring-red
+msgid "Red Ring"
+msgstr "红色戒指"
+
+#. [item]: id=ring-silver
+msgid "Silver Ring"
+msgstr "银色戒指"
+
+#. [item]: id=ring-white
+msgid "White Ring"
+msgstr "白色戒指"
+
+#. [item]: id=scarecrow
+msgid "Scarecrow"
+msgstr "稻草人"
+
+#. [item]: id=sceptre-of-fire
+msgid "Sceptre of Fire"
+msgstr "圣火权杖"
+
+#. [item]: id=spear-fancy
+msgid "Fancy Spear"
+msgstr "华丽的长矛"
+
+#. [item]: id=staff-magic
+msgid "Magic Staff"
+msgstr "法杖"
+
+#. [item]: id=staff
+msgid "Staff"
+msgstr "手杖"
+
+#. [item]: id=stone-tablet
+msgid "Stone Tablet"
+msgstr "石板"
+
+#. [item]: id=storm-trident
+#. [object]
+msgid "Storm Trident"
+msgstr "风暴三叉戟"
+
+#. [item]: id=straw-bale1
+#. [item]: id=straw-bale2
+msgid "Bale of Straw"
+msgstr "稻草包"
+
+#. [item]: id=sword
+msgid "Sword"
+msgstr "剑"
+
+#. [item_group]: id=scenery
+msgid "Scenery"
+msgstr "布景"
+
+#. [item]: id=castle-ruins
+msgid "Castle Ruins"
+msgstr "城堡废墟"
+
+#. [item]: id=circle-magic-glow
+msgid "Glowing Magic Circle"
+msgstr "发光的魔法环"
+
+#. [item]: id=circle-magic
+msgid "Magic Circle"
+msgstr "魔法环"
+
+#. [item]: id=dwarven-doors-closed
+msgid "Closed Dwarven Doors"
+msgstr "关着的矮人门"
+
+#. [item]: id=fire
+msgid "Campfire"
+msgstr "篝火"
+
+#. [item]: id=flames
+msgid "Flames"
+msgstr "火焰"
+
+#. [item]: id=gate-rusty-se
+msgid "Rusty Gate South East"
+msgstr "东南方向的生锈的门"
+
+#. [item]: id=gate-rusty-sw
+msgid "Rusty Gate South West"
+msgstr "西南方向的生锈的门"
+
+#. [item]: id=icepack1
+msgid "Ice Pack"
+msgstr "冰堆"
+
+#. [item]: id=leanto
+msgid "Lean-to"
+msgstr "披棚"
+
+#. [item]: id=lighthouse
+msgid "Lighthouse"
+msgstr "灯塔"
+
+#. [item]: id=mausoleum
+msgid "Mausoleum"
+msgstr "陵墓"
+
+#. [item]: id=mine-abandoned
+msgid "Abandoned Mine"
+msgstr "废弃的矿坑"
+
+#. [item]: id=monolith1
+#. [item]: id=monolith2
+#. [item]: id=monolith3
+#. [item]: id=monolith4
+msgid "Monolith"
+msgstr ""
+
+#. [item]: id=nest-empty
+msgid "Empty Nest"
+msgstr "空巢"
+
+#. [item]: id=nest-full
+msgid "Full Nest"
+msgstr ""
+
+#. [item]: id=oak-leaning
+msgid "Leaning Oak"
+msgstr "倾斜的橡树"
+
+#. [item]: id=pine1
+#. [item]: id=pine2
+msgid "Pine Tree"
+msgstr ""
+
+#. [item]: id=rock-cairn
+msgid "Rock Cairn"
+msgstr ""
+
+#. [item]: id=rock1
+#. [item]: id=rock2
+#. [item]: id=rock3
+#. [item]: id=rock4
+msgid "Rock"
+msgstr ""
+
+#. [item]: id=rubble
+msgid "Rubble"
+msgstr ""
+
+#. [item]: id=rune1
+#. [item]: id=rune2
+#. [item]: id=rune3
+#. [item]: id=rune4
+#. [item]: id=rune5
+#. [item]: id=rune6
+msgid "Rune"
+msgstr ""
+
+#. [item]: id=rune1-glow
+#. [item]: id=rune2-glow
+#. [item]: id=rune3-glow
+#. [item]: id=rune4-glow
+#. [item]: id=rune5-glow
+#. [item]: id=rune6-glow
+msgid "Glowing Rune"
+msgstr ""
+
+#. [item]: id=shipwreck
+#. [item]: id=wreck
+msgid "Shipwreck"
+msgstr ""
+
+#. [item]: id=signpost
+msgid "Signpost"
+msgstr ""
+
+#. [item]: id=slab1
+msgid "Slab"
+msgstr ""
+
+#. [item]: id=snowbits
+msgid "Piles of Snow"
+msgstr ""
+
+#. [item]: id=summoning-center
+msgid "Summoning Center"
+msgstr ""
+
+#. [item]: id=summoning-circle1
+#. [item]: id=summoning-circle2
+#. [item]: id=summoning-circle3
+#. [item]: id=summoning-circle4
+#. [item]: id=summoning-circle5
+#. [item]: id=summoning-circle6
+msgid "Summoning Circle"
+msgstr ""
+
+#. [item]: id=temple1
+msgid "Temple"
+msgstr ""
+
+#. [item]: id=tent-fancy-red
+msgid "Fancy Red Tent"
+msgstr ""
+
+#. [item]: id=tent-ruin-1
+msgid "Ruined Tent"
+msgstr ""
+
+#. [item]: id=tent-shop-weapons
+msgid "Weapons Shop Tent"
+msgstr ""
+
+#. [item]: id=trapdoor-closed
+msgid "Closed Trapdoor"
+msgstr ""
+
+#. [item]: id=trapdoor-open
+msgid "Open Trapdoor"
+msgstr ""
+
+#. [item]: id=trash
+msgid "Trash Pile"
+msgstr ""
+
+#. [item]: id=village-human-burned1
+#. [item]: id=village-human-burned2
+#. [item]: id=village-human-burned3
+#. [item]: id=village-human-burned4
+#, fuzzy
+msgid "Burned Human Village"
+msgstr "我军的村庄"
+
+#. [item]: id=well
+msgid "Well"
+msgstr ""
+
+#. [item]: id=whirlpool
+msgid "Whirlpool"
+msgstr ""
+
+#. [item]: id=windmill
+msgid "Windmill"
+msgstr ""
+
+#. [set_menu_item]: id=ai_controller_unit_control_{UNIT_ID}
+msgid "Ask $ai_controller_unit.name to move here"
+msgstr ""
+
+#. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
+msgid "Ask $ally_leader.name (leader of side $ally_leader.side) to move here"
+msgstr "让$ally_leader.name（$ally_leader.side阵营的领袖）移动到这里"
+
+#. [note]
+msgid ""
+"In this scenario, you may issue instructions to an allied side by right-"
+"clicking on a unit that belongs to it."
+msgstr ""
+"在此场景中，通过鼠标右键点击属于您的同盟阵营的单位，您可以向该阵营发出指令。"
+
+#. [literal]
+#. [overview_message_has_instructions]: speaker=narrator
+#. [overview_message_no_instructions]: speaker=narrator
+msgid "Instruct ally"
+msgstr "指示盟友"
+
+#. [overview_message_has_instructions]: speaker=narrator
+msgid ""
+"$ally_leader.name (side $ally_side|) is carrying out the following "
+"instructions:"
+msgstr "$ally_leader.name（阵营 $ally_side|）正在执行以下命令："
+
+#. [overview_message_no_instructions]: speaker=narrator
+msgid ""
+"$ally_leader.name (side $ally_side|) has not been given any instructions and "
+"is acting normally."
+msgstr "$ally_leader.name（阵营$ally_side|）没有被授予命令，目前正常行动。"
+
+#. [aggression]
+msgid "Be more aggressive"
+msgstr "更注重进攻"
+
+#. [aggression]
+msgid "aggressive."
+msgstr "注重进攻。"
+
+#. [caution]
+msgid "Be more defensive"
+msgstr "更注重防守"
+
+#. [caution]
+msgid "defensive."
+msgstr "注重防守。"
+
+#. [focus_on_enemy]
+msgid "Focus on defeating..."
+msgstr "着重于击败..."
+
+#. [focus_on_enemy]
+msgid ""
+"focusing on defeating $ai_controller.side_$ally_side|_current_settings."
+"focus_on_enemy.side_description|."
+msgstr ""
+"着重于击败$ai_controller.side_$ally_side|_current_settings.focus_on_enemy."
+"side_description|。"
+
+#. [else]
+#. [then]
+#, fuzzy
+msgid "Side $temp_i"
+msgstr "阵营$temp_i"
+
+#. [else]
+msgid "side $temp_i"
+msgstr "阵营$temp_i"
+
+#. [command]
+#, fuzzy
+msgid "side $temp_i ($side_i_leader.name|)"
+msgstr "$side_i_leader.name （阵营$temp_i|）"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [value]
+msgid "Back"
+msgstr "后退"
+
+#. [protect]
+msgid "Focus on protecting..."
+msgstr "着重于保护..."
+
+#. [protect]
+msgid ""
+"focusing on protecting $ai_controller.side_$ally_side|_current_settings."
+"protect.side_description|."
+msgstr ""
+"着重于保护$ai_controller.side_$ally_side|_current_settings.protect."
+"side_description|。"
+
+#. [option]: type=objective
+msgid "Defend a location..."
+msgstr "把守地点..."
+
+#. [print]
+msgid "Right-click to select a location to defend"
+msgstr "右键单击以选择要把守的地点"
+
+#. [set_menu_item]: id=ai_controller_defend_location_picker
+msgid "Defend this location"
+msgstr "把守此地点"
+
+#. [command]
+msgid "focusing on defending the area around $x1|,$y1|."
+msgstr "重点把守$x1|,$y1|周围的区域。"
+
+#. [print]
+msgid "Location selection canceled"
+msgstr "已取消地点选择"
+
+#. [revoke_objective_orders]
+msgid "Clear objective orders"
+msgstr "清除目标命令"
+
+#. [revoke_behavior_orders]
+#. [revoke_objective_orders]
+#. [then]
+msgid "none set."
+msgstr "未设置。"
+
+#. [revoke_behavior_orders]
+msgid "Clear behavior orders"
+msgstr "清除行为命令"
+
+#. [revoke_all_orders]
+msgid "Clear all orders"
+msgstr "清除所有命令"
+
+#. [do]
+msgid ""
+"Objective: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_objective_description\n"
+"Behavior: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_behavior_description"
+msgstr ""
+"目标：$ai_controller.side_$ally_side|_current_settings."
+"currently_doing_objective_description\n"
+"行为：$ai_controller.side_$ally_side|_current_settings."
+"currently_doing_behavior_description"
+
+#. [literal]
+msgid "Set objective..."
+msgstr "设置目标..."
+
+#. [literal]
+msgid "Set behavior..."
+msgstr "设置行为..."
+
+#. [literal]
+msgid "Exit"
+msgstr "退出"
+
+msgid "Set special orders..."
+msgstr "设置特殊命令..."
+
+msgid "Move leader to..."
+msgstr "把领袖移动到..."
+
+msgid "Right-click to select a location to move leader to"
+msgstr "右键单击以选择领袖移动的目标地点"
+
+msgid "Move leader here"
+msgstr "把领袖移动到这里"
+
+msgid "moving leader to $x1|,$y1|."
+msgstr "把领袖移动到$x1|,$y1|。"
+
+msgid "Clear special orders"
+msgstr "清除特殊命令"
+
+msgid ""
+"Special: $ai_controller.side_$ally_side|_current_settings."
+"currently_doing_special_description"
+msgstr ""
+"特殊：$ai_controller.side_$ally_side|_current_settings."
+"currently_doing_special_description"
+
+#. [message]: speaker=narrator
+msgid "You have come across a wishing well. What would you like to wish for?"
+msgstr "您遇到了一个许愿井。您想许个什么样的愿望？"
+
+#. [option]: speaker=narrator
+msgid "A swift victory"
+msgstr "快速胜利。"
+
+#. [message]: speaker=unit
+msgid ""
+"With this golden coin, I wish that this battle end in a swift and safe "
+"victory."
+msgstr "凭着这枚金币，我希望在这场战斗里能快速而安全地胜出。"
+
+#. [option]: speaker=narrator
+msgid "Lots of gold"
+msgstr "许多金币。"
+
+#. [message]: speaker=unit
+msgid "I wish this single gold coin be returned ten-fold to me."
+msgstr "我希望这一个金币能变成十个。"
+
+#. [option]: speaker=narrator
+msgid "Peace throughout Wesnoth."
+msgstr "世界和平。"
+
+#. [message]: speaker=unit
+msgid "The only thing worth wishing for is peace throughout the land."
+msgstr "让和平遍及这片土地是唯一值得许愿的事。"
+
+#. [option]: speaker=narrator
+msgid "Don’t make a wish."
+msgstr "才不许愿。"
+
+#. [object]: id={ID}
+msgid "Potion of Healing"
+msgstr "治疗药剂"
+
+#. [object]: id={ID}
+msgid "A feeling of well-being overwhelms the drinker."
+msgstr "饮者心中充满了幸福感。"
+
+#. [object]: id={ID}
+msgid "You are not worthy of healing."
+msgstr "你不值得治疗。"
+
+#. [object]: id={ID}
+msgid "Poison is seeping through the veins of this unit at this very moment."
+msgstr "毒素此刻正渗透到这个单位的全身。"
+
+msgid ""
+"Sprinkling this water on melee weapons grants them the <i>arcane</i> damage "
+"type until the end of the current scenario. Should $unit.name use it?"
+msgstr ""
+"近战武器沾上这种水之后，伤害类型将变为<b>奥术</b>，直到当前场景结束。$unit."
+"name应该使用它吗？"
+
+msgid "holy water^Take it"
+msgstr "拿走圣水"
+
+msgid "holy water^Leave it"
+msgstr "留下圣水"
+
+msgid "I am not suited to the use of this item! Let another take it."
+msgstr "我不适合用这个东西！让别人去用吧。"
+
+#. [object]
+msgid ""
+"This water will make melee weapons have the <i>arcane</i> damage type until "
+"the end of the current scenario."
+msgstr "这瓶水将使得近战武器的伤害类型变为<b>奥术</b>，直到当前场景结束。"
+
+#. [object]: id={ID}
+msgid "Potion of Strength"
+msgstr "力量药剂"
+
+#. [object]: id={ID}
+msgid "Strength is given to the drinker."
+msgstr "饮用者获得了力量。"
+
+#. [object]: id={ID}
+msgid "Potion of Decay"
+msgstr "衰退药剂"
+
+#. [object]: id={ID}
+msgid "This poor unit drank something really bad."
+msgstr "这个可怜的家伙喝了一些相当糟糕的东西。"
+
+#. [object]: id={ID}
+msgid "Ring of Regeneration"
+msgstr "再生戒指"
+
+#. [object]: id={ID}
+msgid "This ring will heal the bearer a little each turn."
+msgstr "这只戒指会让持有人每回合都得到一点治疗。"
+
+#. [object]: id={ID}
+msgid "Ring of Slowness"
+msgstr "迟缓戒指"
+
+#. [object]: id={ID}
+msgid "The bearer of this ring is slowed."
+msgstr "戴着这只戒指的人速度会变慢。"
+
+#. [object]: id={ID}
+msgid "Staff of Swiftness"
+msgstr "迅捷法杖"
+
+#. [object]: id={ID}
+msgid "This staff will grant the bearer swift movement."
+msgstr "这支法杖将赐予持有者加速移动的能力。"
+
+#. [object]: id={ID}
+msgid "Only magical beings can wield such an object."
+msgstr "只有魔法生物才可以携带这样的物体。"
+
+msgid "Only the mermen can use this item!"
+msgstr "只有人鱼才可以使用本物品！"
+
+msgid "Should $unit.name pick up the trident?"
+msgstr "希望$unit.name拿起三叉戟吗？"
+
+msgid "storm trident^Leave it"
+msgstr "留下风暴三叉戟"
+
+msgid "storm trident^Take it"
+msgstr "拿走风暴三叉戟"
+
+#. [object]
+msgid "This trident allows a merman to shoot electric bolts at his enemies!"
+msgstr "这柄三叉戟能让人鱼向敌人发射闪电！"
+
+#. [effect]: type=fire
+msgid "storm trident"
+msgstr "风暴三叉戟"
+
+#. [effect]: type=fire
+msgid "sceptre of fire"
+msgstr "圣火权杖"
+
+msgid ""
+"Egar,Elch,Ga’ash,Gadé Ihn,Gakré Ohm,Galeck,Galsh,Garadin,Garchin,Gark,Garlan,"
+"Garlin Ohn,Garrutin,Gart’lo,Garushi,Gashinar,Gashol,Gaushii,Gaustun,Gegchi,"
+"Gelka Kon,Gelknick,Gillan,Gisharri,Gost,Grada,Græt Ihn,Grashen,Gravlan,Grag,"
+"Grelnit,Grenn Ohn,Greth,Gribbel,Gridda,Grish,Gron Ihn,Ka,Kahn Ih,Karigan,"
+"Karri Kon,Karron,Kask,Kegrid,Kerath Ihn,Kerath Kor,Klash,Kon Garashé,Kraag,"
+"Krall Ohn,Kran Kor,Krash,Kraslar,Krenli,Kruggen,Kun,Mah Toa,Margian,"
+"Mar’Ildian,Markan,Markinos,Mar Ohn,Marra Di’lek,Marrito,Marritos,Merkush,"
+"Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
+"Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
+msgstr ""
+"埃加,埃尔奇,伽·埃希,伽德·伊亨,伽克雷·欧姆,伽雷克,伽尔什,伽拉丁,伽钦,伽克,伽"
+"兰,伽林·欧亨,伽鲁丁,伽特·洛,伽鲁什,伽什纳,伽朔尔,高什,高斯唐,基格奇,基尔卡·"
+"孔,基尔克内克,基立安,基沙里,格斯特,格拉达,格莱特·伊亨,格拉申,格拉夫兰,格拉格,"
+"格雷林特,格雷恩·欧亨,格雷斯,格里贝尔,格里达,格里什,格罗恩·伊亨,卡,卡亨·伊恩,"
+"卡里甘,卡里·孔,卡罗恩,卡斯克,克格利德,克拉斯·伊亨,克拉斯·阔,克拉什,孔·伽拉什,"
+"克拉格,克拉尔·欧亨,克拉恩·阔,克拉什,克拉斯拉,克伦利,克拉根,亢,玛·托拉,玛吉安,"
+"玛·伊尔迪安,玛坎,玛基诺斯,玛·欧亨,玛拉•狄雷克,玛利托,玛利托斯,玛库什,玛利托斯"
+"·伽克,莫鲁斯特,玛阿,欧玛塔克,瑞山,法希特,维尔尼克,维拉隆,维拉莫,维拉什,维拉迪"
+"特,维尔孔,维尔林,维尔麦德,维尔提克,维拉德尼尔"
+
+msgid ""
+"Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,"
+"Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,"
+"Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin"
+msgstr ""
+"艾伦·卡,艾尔纳什·玛尔,阿希尔特,奥基奈特·卡,奥格兰,达姆埃尔,戴尔,德穆拉,丁希"
+"尔,艾希,欧拉丝,欧玛格,欧玛格拉,欧拉·卡,欧丽丹,欧丽达,欧什比,瓦琳,瓦尔尼拉,瓦"
+"尔尼特,瓦丽思科,瓦拉,瓦琳·卡,瓦什塔,瓦什丁"
+
+msgid ""
+"Aigaithas,Aigaithil,Aigaithing,Aigaithol,Aigalas,Aigaling,Aigalis,Aigalol,"
+"Aigalsil,Aigatas,Aigatis,Aigatlos,Aigatsil,Aigatsol,Aigatus,Aigcatas,"
+"Aigcatil,Aigcating,Aigcatis,Aigcatsil,Aigcatsol,Aigcatus,Aigdring,Aigdris,"
+"Aigdrlos,Aigdrsil,Aigdrsol,Aigduras,Aigdurlos,Aigdursol,Aigthaing,Aigthais,"
+"Aigthasil,Aigthaus,Alaithas,Alaithis,Alaithlos,Alaithol,Alaithsol,Alaithus,"
+"Alalas,Alalil,Alalol,Alalsol,Alalus,Alatas,Alatil,Alating,Alatlos,Alatsil,"
+"Alcatil,Alcatis,Alcatlos,Alcatsil,Aldras,Aldril,Aldring,Aldris,Aldrlos,"
+"Aldrol,Aldrsol,Alduras,Aldurlos,Aldurol,Althaas,Althail,Althalos,Althaol,"
+"Althasil,Althasol,Althaus,Anaithas,Anaithil,Anaithing,Anaithis,Anaithsil,"
+"Anaithus,Analil,Anallos,Analol,Analsil,Analus,Anatas,Anating,Anatis,Anatol,"
+"Anatsol,Ancatas,Ancatil,Ancatol,Ancatus,Andril,Andris,Andrlos,Andrus,Anduril,"
+"Andurol,Andursol,Andurus,Anthaas,Anthaing,Anthais,Anthaol,Anthasil,Anthasol,"
+"Anthaus,Augaithas,Augaithing,Augaithsil,Augaithus,Augalas,Augaling,Augalol,"
+"Augating,Augatlos,Augatol,Augatsil,Augatsol,Augcatas,Augcatil,Augcatis,"
+"Augcatol,Augcatsil,Augcatus,Augdras,Augdris,Augdrsil,Augdrus,Augduras,"
+"Augduril,Augduring,Augdurol,Augdursol,Augdurus,Augthail,Augthais,Augthalos,"
+"Augthaol,Dulaithil,Dulaithing,Dulaithlos,Dulaithsil,Dulaithsol,Dulalas,"
+"Dulaling,Dulalis,Dulalsil,Dulatil,Dulating,Dulatol,Dulatsol,Dulatus,Dulcatil,"
+"Dulcating,Dulcatlos,Dulcatol,Dulcatsil,Dulcatsol,Duldril,Duldris,Duldrlos,"
+"Duldrol,Duldrsil,Duldrus,Dulduras,Dulduring,Duldursil,Duldurus,Dulthalos,"
+"Dulthasil,Dulthasol,Dulthaus,Glamaithil,Glamaithis,Glamaithol,Glamaithsol,"
+"Glamalil,Glamaling,Glamalis,Glamallos,Glamalsil,Glamalus,Glamatil,Glamatus,"
+"Glamcatas,Glamcatil,Glamcating,Glamcatsil,Glamcatus,Glamdras,Glamdril,"
+"Glamdrlos,Glamdrsol,Glamduras,Glamduril,Glamduring,Glamduris,Glamdursol,"
+"Glamthaas,Glamthaol,Glamthasil,Glamthasol,Glamthaus,Glomin,Gomaithas,"
+"Gomaithil,Gomaithol,Gomaithsol,Gomalil,Gomalis,Gomalus,Gomatas,Gomatil,"
+"Gomating,Gomatis,Gomatlos,Gomatol,Gomcatil,Gomcatis,Gomcatlos,Gomdras,"
+"Gomdril,Gomdring,Gomdris,Gomdrol,Gomdrsil,Gomduris,Gomdurlos,Gomdursil,"
+"Gomdursol,Gomdurus,Gomthaas,Gomthalos,Gomthasol,Naraithil,Naraithing,"
+"Naraithol,Naraithsil,Naraithsol,Naraithus,Naralas,Naralil,Naralsil,Naralus,"
+"Naratlos,Naratol,Naratsil,Narcating,Narcatis,Narcatol,Narcatsil,Narcatsol,"
+"Nardras,Nardril,Nardring,Nardris,Nardrol,Nardrsil,Nardrsol,Nardrus,Narduras,"
+"Narduril,Nardurol,Narthalos,Narthaol,Pelaithas,Pelaithil,Pelaithing,"
+"Pelaithis,Pelaithlos,Pelaithol,Pelaithsil,Pelaithsol,Pelalil,Pelaling,"
+"Pelalis,Pelalsil,Pelalsol,Pelalus,Pelatil,Pelating,Pelatis,Pelatol,Pelatsil,"
+"Pelatus,Pelcating,Pelcatlos,Pelcatol,Pelcatsil,Peldras,Peldril,Peldrsol,"
+"Peldrus,Pelduril,Pelduring,Pelduris,Peldurol,Peldursol,Peldurus,Pelthaas,"
+"Pelthail,Pelthasil,Trithaithas,Trithaithil,Trithaithis,Trithaithlos,"
+"Trithaithol,Trithaithsil,Trithaithsol,Trithaithus,Trithalis,Trithalol,"
+"Trithatas,Trithatil,Trithatlos,Trithatsol,Trithcatlos,Trithcatsol,Trithcatus,"
+"Trithdril,Trithdring,Trithdris,Trithdrlos,Trithdrol,Trithdrsol,Trithdrus,"
+"Trithduril,Trithduring,Trithdurlos,Trithdurol,Trithdursil,Trithdurus,"
+"Triththaas,Triththail,Triththaing,Triththasol,Triththaus"
+msgstr ""
+"埃该萨斯,埃该希尔,埃该辛,埃该索尔,埃加拉斯,埃加林,埃加利斯,埃加洛尔,埃加希尔,"
+"埃加塔斯,埃加提斯,埃加托洛斯,埃加特希尔,埃加特索尔,埃加塔斯,埃格卡塔斯,埃格卡"
+"提尔,埃格卡廷,埃格卡提斯,埃格卡特希尔,埃格卡特索尔,埃格卡托斯,埃格杜林,埃格杜"
+"林斯,埃格多洛斯,埃格多希尔,埃格多索尔,埃格杜拉斯,埃格杜洛斯,埃格杜索尔,埃格沙"
+"恩,埃格沙埃斯,埃格沙希尔,埃格沙斯,埃莱沙斯,埃莱希斯,埃莱希洛斯,埃莱希洛尔,埃"
+"莱希索尔,埃莱萨斯,阿拉拉斯,阿拉利尔,阿拉洛尔,阿拉尔索尔,阿拉拉鲁斯,阿拉塔斯,"
+"阿拉提尔,阿拉廷,阿拉特洛斯,阿拉特希尔,阿尔卡提尔,阿尔卡提斯,阿尔卡特洛斯,阿尔"
+"卡特希尔,阿尔德拉斯,阿尔德里尔,阿尔德林,阿尔德利斯,阿尔德洛斯,阿尔德洛尔,阿尔"
+"德索尔,阿尔杜拉斯,阿尔杜拉洛斯,阿尔杜洛尔,阿尔萨斯,阿尔赛尔,阿尔萨洛尔,阿尔萨"
+"欧尔,阿尔萨希尔,阿尔萨索尔,阿尔骚斯,阿奈萨斯,阿奈希尔,阿奈辛,阿奈希斯,阿奈斯"
+"希尔,阿耐萨尔斯,阿耐利尔,阿纳洛斯,阿纳洛尔,阿纳尔希尔,阿纳鲁斯,阿纳塔斯,阿纳"
+"廷,阿纳提斯,阿纳托尔,阿纳特索尔,安卡塔斯,安卡提尔,安卡托尔,安卡图斯,安德利尔,"
+"安德利斯,安德罗斯,安德鲁斯,安度利尔,安度洛尔,安度索尔,安度鲁斯,安萨斯,安萨因,"
+"安斯埃斯,安斯奥尔,安萨希尔,安萨索尔,安骚斯,奥该萨斯,奥该辛,奥该斯希尔,奥该苏"
+"斯,奥伽拉斯,奥伽林,奥伽洛尔,奥伽廷,奥伽托洛斯,奥伽托尔,奥加特希尔,奥加特索尔,"
+"奥格卡塔斯,奥格卡提尔,奥格卡提斯,奥格卡托尔,奥格卡特希尔,奥格卡托斯,奥格德拉"
+"斯,奥格德利斯,奥格德拉希尔,奥格德鲁斯,奥格杜拉斯,奥格杜利尔,奥格杜林,奥格度洛"
+"尔,奥格杜拉索尔,奥格杜鲁斯,奥格希尔,奥格夏斯,奥格夏洛斯,奥格夏埃尔,杜莱希尔,"
+"杜莱辛,杜莱希洛斯,杜莱斯尔,杜莱希索尔,杜拉拉斯,杜拉林,杜拉利斯,杜拉尔希尔,杜"
+"拉提尔,杜拉廷,杜拉托尔,杜拉特索尔,杜拉图斯,杜尔卡提尔,杜尔卡廷,杜尔卡特洛斯,"
+"杜尔卡托尔,杜尔卡特希尔,杜尔卡特索尔,杜尔德利尔,杜尔德利斯,杜尔德洛斯,杜尔德"
+"洛尔,杜尔德拉希尔,杜尔德鲁斯,杜尔杜拉斯,杜尔杜林,杜尔杜拉希尔,杜尔杜鲁斯,杜尔"
+"夏洛斯,杜尔夏希尔,杜尔夏索尔,杜尔沙斯,格拉迈希尔,格拉迈希斯,格拉迈索尔,格拉迈"
+"希索尔,格拉马利尔,格拉马林,格拉马利斯,格拉马洛斯,格拉马尔希尔,格拉马鲁斯,格拉"
+"马提尔,格拉马图斯,格拉姆卡塔斯,格拉姆卡提尔,格拉姆卡廷,格拉姆卡特希尔,格拉姆"
+"卡图斯,格拉姆德拉斯,格拉姆德利尔,格拉姆德洛斯,格拉姆德索尔,格拉姆杜拉斯,格拉"
+"姆杜利尔,格拉姆杜林,格拉姆杜利斯,格拉姆杜索尔,格拉姆萨阿斯,格拉姆萨奥尔,格拉"
+"姆萨希尔,格拉姆萨索尔,格拉姆骚斯,格罗明,戈麦萨斯,戈麦希尔,戈麦索尔,戈麦斯索"
+"尔,戈马利尔,戈马利斯,戈马鲁斯,戈马塔斯,戈马提尔,戈马廷,戈马提斯,戈马特洛斯,戈"
+"马托尔,戈姆卡提尔,戈姆卡提斯,戈姆卡特洛斯,戈姆德拉斯,戈姆德利尔,戈姆德林,戈姆"
+"德利斯,戈姆德洛尔,戈姆德希尔,戈姆杜利斯,戈姆杜尔洛斯,戈姆杜希尔,戈姆杜索尔,戈"
+"姆杜鲁斯,戈姆夏阿斯,戈姆夏洛斯,戈姆夏索尔,纳莱希尔,纳莱辛,纳莱索尔,纳莱希尔,"
+"纳莱希索尔,纳莱夏斯,纳拉拉斯,纳拉利尔,纳拉尔希尔,纳拉鲁斯,纳拉特洛斯,纳拉托"
+"尔,纳拉特希尔,纳,纳卡廷,纳卡托尔,纳卡特希尔,纳卡特索尔,纳德拉斯,纳德利尔,纳德"
+"林,纳德利斯,纳德洛尔,纳德希尔,纳德索尔,纳杜鲁斯,纳杜拉斯,纳杜利尔,纳杜洛尔,纳"
+"夏利斯,纳夏欧尔,佩莱萨斯,佩莱希尔,佩莱辛,佩莱希斯,佩莱希洛斯,佩莱索尔,佩莱夏"
+"希尔,佩莱夏索尔,佩莱利尔,佩拉林,佩拉利斯,佩拉尔希尔,佩拉尔索尔,佩拉鲁斯,佩拉"
+"提尔,佩拉廷,佩拉提斯,佩拉托尔,佩拉特索尔,佩拉图斯,佩尔卡廷,佩尔卡特洛斯,佩尔"
+"卡托尔,佩尔卡特索尔,佩尔德拉斯,佩尔德利尔,佩尔德拉索尔,佩尔德鲁斯,佩尔杜利尔,"
+"佩尔杜林,佩尔杜利斯,佩尔杜洛尔,佩尔杜索尔,佩尔杜鲁斯,佩尔萨阿斯,佩尔萨埃尔,佩"
+"尔萨希尔,崔塞萨斯,崔塞希尔,崔塞希斯,崔塞斯洛斯,崔赛索尔,崔赛斯希尔,崔塞斯索"
+"尔,崔赛苏斯,崔萨利斯,崔萨洛尔,崔萨塔斯,崔萨提尔,崔萨特洛斯,崔萨特索尔,崔斯卡"
+"特洛斯,崔斯卡特索尔,崔斯卡图斯,崔斯德利尔,崔斯德林,崔斯德利斯,崔斯德洛斯,崔斯"
+"德洛尔,崔斯德索尔,崔斯杜鲁斯,崔斯杜利尔,崔斯杜林,崔斯杜洛斯,崔斯杜洛尔,崔斯杜"
+"希尔,崔斯杜拉鲁斯,崔斯萨阿斯,崔斯赛尔,崔斯赛因,崔斯萨索尔,崔斯骚斯"
+
+msgid ""
+"Amadrieriand,Amáril,Amelad,Ameldor,Amendel,Ameng,Amilmaldur,Amilmalith,"
+"Amilmandir,Amind,Amiol,Amiorion,Amithrarion,Amóldor,Amorfimir,Amorfir,Amowyn,"
+"Amulas,Amundil,Anán,Anebrin,Anebrir,Anémbor,Anénduil,Anerion,Anilad,Anil-"
+"Gawyn,Anilmambor,Anilmariand,Anior,Anithranduil,Anol,Anon,Anorfing,Anundil,"
+"Belán,Belandil,Belarandel,Belel,Belén,Belil-Gandil,Belilmand,Belilmang,"
+"Beliondil,Beliril,Belithraldor,Belithrawyn,Belólad,Belómir,Belondel,Belyrion,"
+"Cadriembor,Cadrieriand,Cálad,Caladrielas,Calándel,Caldur,Cáldur,Calebrindel,"
+"Calebrindir,Calénduil,Calil-Gandir,Calil-Gawyn,Calioriand,Caliril,Calónduil,"
+"Caloril,Cándir,Canduil,Caraldur,Carang,Célad,Celadrieriand,Celang,Celaral,"
+"Celarandil,Celáriand,Celebririon,Celelas,Celendel,Celér,Celilmalas,Celiondir,"
+"Celior,Celiorion,Celong,Celór,Celóril,Celorion,Celundir,Celuwyn,Celyndel,"
+"Cénduil,Cindil,Ciong,Cithralad,Cithraldur,Cithrand,Cithrandel,Cithraril,Col,"
+"Corfil,Corfildur,Cówyn,Cun,Cundir,Cylas,Delán,Delánd,Delandel,Delaraldur,"
+"Deláril,Delawyn,Deléng,Delilmaldor,Deliol,Delithrar,Deliwyn,Delóldor,"
+"Delorfilad,Delorfilith,Delorion,Delundil,Eäradriendel,Eäradrier,Eäránduil,"
+"Eäraralad,Eärebrindel,Eäréldor,Eäreng,Eärérion,Eärithrandil,Eäromir,"
+"Eärorfiriand,Eäryldur,Eäryriand,Eladrieng,Elálith,Elánd,Elándil,Elebrildor,"
+"Elebrindel,Elebriril,Elélas,Elémbor,Elemir,Elen,Elil-Garil,Elilmaldur,"
+"Eliomir,Eliondil,Elolas,Elólas,Elor,Elorfilad,Elradrien,Elralith,Elran,"
+"Elreldur,Elrilmand,Elrioldor,Elriolith,Elrithralith,Elrithranduil,Elrorfir,"
+"Elval,Elvandir,Elvaramir,Elváwyn,Elvebrind,Elvebrindel,Elvélith,Elvémir,"
+"Elverion,Elvil-Garion,Elvilmaldur,Elvilmaril,Elvioldur,Elvombor,Elvónduil,"
+"Elvorfimir,Elvorfiriand,Elvorfiril,Elvóriand,Elvund,Elyldor,Elyrion,Eowambor,"
+"Eowanduil,Eowar,Eowaraldor,Eowaran,Eowarar,Eowariand,Eowarion,Eowebrind,"
+"Eowémir,Eowil-Garion,Eowimbor,Eowiomir,Eowithrawyn,Eowóldur,Eoworfildor,"
+"Eowówyn,Eowylas,Fadriendel,Fandel,Farandir,Fáwyn,Fendel,Fer,Filman,Fioril,"
+"Fithraril,Forfilas,Fyrion,Gadriendil,Gadrieng,Galadrieldor,Galálad,Galálas,"
+"Galalith,Galar,Galelas,Galeldur,Galelith,Galémbor,Galithrariand,Galoldur,"
+"Galuldur,Galur,Galurion,Gambor,Gán,Ganduil,Garaldor,Gararil,Gelad,Géril,Gil-"
+"Gandel,Gil-Gang,Giombor,Githral,Githralad,Gladriendil,Glal,Glámbor,Glandil,"
+"Glarang,Glararil,Glilmal,Glimir,Glior,Glólas,Gloldor,Glómir,Glon,Glul,Golad,"
+"Gor,Gumbor,Gyl,Gymbor,Gyn,Harariand,Háriand,Hebril,Hemir,Hénduil,Hilas,Hil-"
+"Garion,Hilmariand,Hiong,Hirion,Hithrandel,Horfilad,Horfindel,Hundel,Hymir,"
+"Hyrion,Hywyn,Isadrieng,Isándir,Isarandel,Isarar,Iselas,Isér,Isilmandel,"
+"Isirion,Isithral,Isól,Isóndel,Isóng,Isorfilad,Isorfindir,Isuwyn,Isyndel,"
+"Legal,Legaran,Legémir,Legéril,Legilad,Legil-Gal,Legiondel,Legithralith,"
+"Legorfindil,Legorfirion,Legówyn,Legyl,Legyn,Linduilas,Lómadrieril,Lómarand,"
+"Lómariand,Lómebrilad,Lómebrind,Lómémbor,Lómilmaril,Lómiriand,Lómorfindil,"
+"Lómowyn,Madrieril,Maldur,Mánduil,Maraldur,Mebrin,Méng,Mérion,Miolith,Miomir,"
+"Mithrand,Mondir,Móndir,Morfilas,Morfin,Morfiriand,Mylith,Nadrieldor,Nalith,"
+"Nán,Nél,Nil-Galas,Nil-Galith,Nil-Gar,Nilmar,Nóndel,Norfildor,Norfilith,"
+"Norfindil,Norfindir,Numbor,Nyldur,Padrieriand,Padrieril,Pamir,Paraldor,"
+"Parariand,Pilmalad,Pindir,Pór,Porfildur,Pumbor,Pyldur,Rebrir,Réndir,"
+"Rilmandil,Rithrandil,Ról,Róldor,Roldur,Róldur,Rorfilad,Rorfindil,Rówyn,Ryn,"
+"Sadrielas,Sebrin,Sebriril,Sénd,Sil-Gal,Sólad,Sorfind,Sóriand,Tadriendir,"
+"Taral,Taraldur,Táriand,Tendel,Téwyn,Thradrieriand,Thrambor,Thraral,Threbring,"
+"Thrélad,Thréldur,Thril-Gamir,Thril-Gandir,Thril-Gar,Thrilmandel,Thrimir,"
+"Thrion,Thrithran,Throlas,Thrón,Thróng,Thrund,Thryriand,Til-Gan,Tilmalad,"
+"Tilmalas,Tinandir,Tinarambor,Tinarariand,Tinén,Tinil-Ganduil,Tinilmand,"
+"Tinilmawyn,Tinimir,Tinindil,Tinithrar,Tinoldor,Tinond,Tinorfind,Tinorfiriand,"
+"Tinóriand,Tinowyn,Tinun,Tinyl,Tion,Tolas,Torfildur,Tówyn,Tylad,Unadrieldor,"
+"Unadrier,Unál,Unalas,Unálas,Unaraldur,Unaril,Unárion,Unebrin,Unebrind,"
+"Uneldor,Unil,Unil-Gan,Uniolith,Unioril,Unólith,Unombor,Unóndel,Unondir,"
+"Unorfildor,Unorfiril,Unorfiwyn,Unulad,Uradrielas,Uradrierion,Urálas,Urálith,"
+"Urambor,Urér,Uril-Gambor,Urilmalith,Uróldor,Urorfildor,Urul,Urymir,Válad,Ván,"
+"Vándel,Vandir,Varalas,Vararion,Vebril,Vebrilas,Vebrinduil,Vel,Vilith,Vol,"
+"Vólas,Vóldur,Vondel,Vorfin,Vorfindil,Vulas,Vuldur,Vunduil,Vylas,Vyldor"
+msgstr ""
+"阿玛德利艾兰德,阿玛利尔,阿梅拉德,阿梅尔多,阿蒙德尔,阿蒙,阿米尔玛尔多,阿米尔玛"
+"利斯,阿米尔曼迪尔,阿明德,阿密欧尔,阿米欧利温,阿密斯拉利温,阿莫尔多,阿莫尔菲米"
+"尔,阿莫尔菲尔,阿莫温,阿穆拉斯,阿穆恩迪尔,阿南,阿纳布林,阿纳布利尔,阿纳姆波,阿"
+"纳恩杜伊尔,阿纳利温,阿尼拉德,阿尼尔-伽温,阿尼尔曼波,阿尼尔玛利安德,阿尼欧,阿"
+"尼斯兰杜伊尔,阿诺尔,阿诺恩,阿诺夫林,阿努迪尔,贝隆,贝兰迪尔,贝拉兰迪尔,贝雷尔,"
+"贝伦,贝利尔-甘迪尔,贝利尔曼德,贝利尔曼,贝利温迪尔,贝利理尔,贝利斯拉尔多,贝利"
+"斯拉温,贝洛拉德,贝洛米尔,贝隆德尔,贝利利温,卡德利姆波尔,卡德利尔安德,克拉德,"
+"卡拉德利尔拉斯,卡隆德尔,卡尔多,科尔多,卡勒布林德尔,卡勒布林迪尔,卡伦杜伊尔,卡"
+"利尔-甘迪尔,卡利尔-伽温,卡利欧利安德,卡利理尔,卡隆杜伊尔,卡洛利尔,坎迪尔,坎杜"
+"伊尔,卡莱尔杜尔,卡朗,希尔安德,希拉德利艾兰德,希朗,希拉莱尔,希拉兰迪尔,希洛尔"
+"艾兰德,希利布利利温,希利拉斯,希伦德尔,希勒,西利尔玛拉斯,希利温迪尔,希利欧,希"
+"利欧利温,希朗,希罗,希罗利尔,希罗利温,希伦迪尔,希鲁温,希林德尔,辛杜伊尔,辛迪"
+"尔,希温,希斯拉拉德,希斯拉尔多,希斯兰德,希斯兰德尔,希斯兰利尔,科尔,科菲尔,科菲"
+"尔多,科温,库恩,康迪尔,赛拉斯,德隆,德洛德,德兰德尔,德拉拉尔多,德洛利尔,德拉温,"
+"德伦,德利尔玛尔多,德利欧尔,德利斯拉尔,德利温,德洛尔多,德洛尔菲拉德,德洛尔菲利"
+"斯,德洛利温,德伦迪尔,艾拉德伦迪尔,艾拉德里尔,艾隆杜伊尔,艾拉纳德,艾勒布林德"
+"尔,艾勒尔多,艾朗,艾勒利温,艾利斯兰迪尔,艾洛米尔,艾洛菲利安德,艾瑞尔多,艾瑞尔"
+"利安德,艾拉德林,艾洛利斯,艾洛恩德,艾隆迪尔,艾勒布利尔多,艾洛布林德尔,艾勒布利"
+"利尔,艾勒拉斯,艾勒姆波,艾勒米尔,艾伦,艾利尔-伽利尔,艾利尔玛尔多,艾利欧米尔,艾"
+"利温迪尔,艾洛尔拉斯,艾罗尔拉斯,艾洛尔,艾洛尔菲拉德,艾尔拉德恩,艾尔拉利斯,艾尔"
+"兰,艾尔瑞多,艾尔瑞曼德,艾尔利欧尔多,艾尔利欧利斯,艾尔利斯拉利斯,艾尔利斯兰道"
+"尔,艾尔洛菲尔,艾尔凡,艾尔凡迪尔,艾尔凡拉米尔,艾尔凡温,艾尔凡布林德,艾尔凡布林"
+"德尔,艾尔凡利斯,艾尔凡米尔,艾尔凡利温,艾尔维-伽利温,艾尔维玛尔多,艾尔维玛利"
+"尔,艾尔维欧尔多,艾尔维姆波,艾尔冯多尔,艾尔冯非米尔,艾尔冯菲利兰德,艾尔冯菲利"
+"尔,艾尔冯艾兰德,艾尔冯德,艾利尔多,艾利利温,艾欧瓦姆波,艾欧瓦多尔,艾欧瓦,艾欧"
+"瓦拉尔多,艾欧瓦兰,艾欧瓦拉,艾欧瓦兰德,艾欧瓦利温,艾欧维布林德,艾欧威米尔,艾欧"
+"威尔-伽利温,艾欧维姆波,艾欧维欧米尔,艾欧维斯拉温,艾欧维尔多,艾欧维菲尔多,艾欧"
+"沃温,艾欧维尔拉斯,法德利安德尔,凡德尔,法兰迪尔,佛温,芬德尔,凡,菲尔曼,菲欧利"
+"尔,菲斯拉利尔,法菲尔拉斯,菲利温,伽德利恩迪尔,伽德利恩,伽拉德利尔多,伽洛拉德,"
+"伽洛拉斯,伽拉利斯,伽拉尔,伽勒拉斯,伽勒尔多,伽勒利斯,伽勒姆波,伽利斯拉兰德,伽"
+"洛尔多,伽鲁尔多,伽鲁尔,伽鲁林,甘博,甘,甘杜伊尔,伽拉尔多,伽拉利尔,吉拉德,吉利"
+"尔,吉尔-甘德尔,吉尔-甘,吉欧姆波,吉斯拉尔,吉斯拉兰德,吉拉德利恩迪尔,格拉尔,格"
+"罗姆波,格兰迪尔,格拉兰,格拉拉利尔,格利尔玛尔,格利米尔,格利欧尔,格洛拉斯,格洛"
+"尔多,格洛米尔,格伦,格鲁尔,格拉德,格,伽姆波,吉尔,吉姆波,吉恩,哈拉利安德,霍利安"
+"德,哈布利尔,哈米尔,哈杜伊尔,希拉斯,希尔-伽利温,希尔玛利兰德,希温,希利温,希斯"
+"兰德尔,霍菲拉德,霍芬德尔,哈恩德尔,希米尔,希利温,希温,伊萨德林恩,伊松迪尔,伊萨"
+"兰迪尔,伊萨拉,伊瑟拉斯,伊瑟尔,伊希尔曼德尔,伊希利温,伊希斯拉尔,伊索尔,伊松德"
+"尔,伊松,伊索菲拉德,伊索尔芬迪尔,伊萨温,伊辛迪尔,利戈尔,利伽兰,利格米尔,利格利"
+"尔,利基兰德,利基尔-吉尔,利基温德尔,利基斯拉利斯,利戈尔芬迪尔,利戈尔菲利温,利"
+"戈温,利基尔,利金,林杜伊拉斯,洛玛德利拉尔,洛玛兰德,洛玛利安德,洛梅布利兰德,洛"
+"梅布林德,洛梅姆波,洛米尔玛利尔,洛米利安德,洛摩芬迪尔,洛摩温,曼迪尔利尔,玛尔"
+"多,蒙杜伊尔,玛拉尔多,摩布林,蒙,摩利温,米欧利斯,米欧米尔,米斯兰德,蒙迪尔,蒙蒂"
+"尔,摩菲拉斯,摩芬,摩菲利兰德,米利斯,纳迪尔多,纳利斯,诺,内尔,尼尔-伽拉斯,尼尔-"
+"伽利斯,尼尔-伽,尼尔玛,诺德尔,诺菲尔多,诺菲利斯,诺芬迪尔,诺菲迪尔,纳姆波,尼尔"
+"多,帕德利尔安德,帕德利安利尔,帕米尔,帕拉尔多,帕拉利安德,皮尔玛拉德,平迪尔,波"
+"尔,波芬尔多,帕姆波,皮尔多,瑞波利尔,林迪尔,利尔曼迪尔,利斯兰迪尔,洛尔,洛尔多,"
+"洛尔达,鲁尔达,洛菲拉德,洛芬迪尔,洛温,林,萨德利拉斯,赛博林,赛博利利尔,森德,希"
+"尔-伽尔,索拉德,索芬德,索利安德,塔德利恩迪尔,塔拉尔,塔拉尔多,托利安德,特迪尔,"
+"特温,萨拉德利尔利安德,萨拉姆波,萨拉拉尔,萨勒布林,萨勒拉德,萨里尔多,萨利尔-伽"
+"米尔,萨利尔-甘迪尔,萨利尔-伽,萨利尔曼迪尔,萨利米尔,萨利温,萨利萨兰,萨洛拉斯,"
+"萨隆,萨罗恩,萨朗德,萨利兰德,提尔-甘,提尔玛拉德,提尔玛拉斯,提南迪尔,提纳拉姆"
+"波,提纳拉利安德,提南,提尼尔-甘杜伊尔,提尼尔曼德,提尼尔玛温,提尼米尔,提宁迪尔,"
+"提尼斯拉,提诺尔多,提诺恩德,提诺芬德,提诺菲利兰德,提诺利安德,提诺温,提南,提尼"
+"尔,提温,托拉斯,托菲尔多,托温,提拉德,尤安德利尔多,尤安德里尔,尤诺尔,尤纳拉斯,"
+"尤诺拉斯,尤纳拉尔多,尤纳利尔,尤诺利温,尤诺博林,尤诺布林德,尤内尔多,尤尼尔,尤"
+"尼尔-甘,尤尼欧利斯,尤尼欧利尔,尤诺利斯,尤诺姆波,尤诺德尔,尤诺迪尔,尤诺菲尔多,"
+"尤诺菲利尔,尤诺菲温,尤纳拉德,尤拉德利尔拉斯,尤拉德利尔利温,尤洛拉斯,尤洛利斯,"
+"尤拉姆波,尤内尔,尤利尔-甘波,尤利尔玛利斯,尤洛尔多,尤洛尔菲尔多,尤鲁尔,尤利米"
+"尔,佛拉德,冯,冯迪尔,凡迪尔,法拉拉斯,法拉利温,菲布利尔,菲布利拉斯,菲布林杜伊"
+"尔,菲尔,菲利斯,佛尔,佛拉斯,佛尔达,冯迪尔,佛芬,佛芬迪尔,瓦拉斯,瓦尔多,瓦杜伊"
+"尔,维拉斯,维尔多"
+
+msgid ""
+"Amadrielia,Amadrielindë,Amadriendra,Amadriewen,Amarang,Amebrilindë,Amedë,"
+"Améthien,Amewien,Amil-Gadith,Amil-Garith,Amilmadia,Amiolith,Amionia,"
+"Amithraniel,Amithrawien,Amiwen,Amodë,Amorfilith,Amorith,Amulia,Amuviel,"
+"Amuwen,Analia,Anang,Anaraclya,Anáthien,Anebriniel,Anilmarith,Aning,Aniorith,"
+"Anówien,Anundra,Anuthiel,Anuthien,Anylindë,Anythien,Anywien,Belaclya,"
+"Beladrielith,Beladriewen,Beladriewien,Belarania,Belaraviel,Belebrindra,"
+"Belendra,Beliolia,Belithraniel,Belithrawiel,Belithrawien,Belowen,Belulindë,"
+"Cádë,Cadriewen,Caladrieng,Calándra,Calang,Calánia,Calebriwien,Calewen,"
+"Calewiel,Calil-Galith,Calilmalith,Calithraclya,Calóniel,Calorfiniel,Calówien,"
+"Caluclya,Ceclya,Celadë,Celália,Celálindë,Celarandra,Celararith,Celárith,"
+"Celebriniel,Celebriviel,Celelith,Celéng,Celérith,Celidien,Celilith,Celindë,"
+"Celiodë,Celioniel,Celith,Celithradith,Celódith,Celorfilindë,Celorfing,"
+"Celorfiwien,Celówien,Celylia,Cethien,Cing,Cithralith,Cithrania,Cithrawen,"
+"Cólindë,Corfiviel,Cydia,Delararith,Delebrinia,Deléthien,Delil-Ganiel,"
+"Deliowen,Delithrathiel,Delóndra,Delorfilindë,Delorfithien,Deloviel,Delydien,"
+"Eäradriedien,Eärániel,Eärarawien,Eärélia,Eärenia,Eärewen,Eäréwiel,Eärilmadë,"
+"Eärilmathien,Eäriolith,Eärithrang,Eärorfiwien,Eärudë,Eladriedë,Eladrielia,"
+"Elarawiel,Elebrindra,Eledë,Elelith,Elil-Gang,Elilmalia,Elilmawien,"
+"Elithraclya,Elithradien,Elóndra,Elorfing,Elorfithien,Elradrierith,Elránia,"
+"Elrebridith,Elréthiel,Elrilindë,Elrilmandra,Elrilmathien,Elrithiel,"
+"Elrithradith,Elriwen,Elródith,Elrorfidia,Eluviel,Elvádia,Elvánia,Elvil-"
+"Gawien,Elvilmathiel,Elviniel,Elviondra,Elvithrang,Elvithrathien,Elvowien,"
+"Elvyniel,Elvyviel,Elynia,Elywen,Eowalia,Eowarawien,Eowathiel,Eowebridith,"
+"Eowedith,Eowidien,Eowil-Galindë,Eowilindë,Eowiowien,Eowylia,Eowyniel,"
+"Fadriedith,Fadrielia,Fadriendra,Fadrienia,Falindë,Fáthiel,Fathien,Fáwien,"
+"Feclya,Féthiel,Fil-Galia,Fil-Gathiel,Fil-Gawien,Filmaclya,Fioniel,Fódë,"
+"Fólindë,Fulindë,Gadrieclya,Gadrieviel,Galadriethien,Galándra,Galaraniel,"
+"Galebrilia,Galebrindra,Galédë,Galedien,Galéwiel,Galil-Gania,Galilmadia,"
+"Galiothiel,Galithrathien,Galólia,Galolindë,Galorfiwiel,Galothiel,Galowen,"
+"Galundra,Galyniel,Gathien,Gáviel,Gebririth,Gewen,Gil-Gawien,Gilia,Gioniel,"
+"Gioviel,Giowen,Githrania,Githrawiel,Glália,Glebrithien,Gléndra,Glilmadien,"
+"Glilmawiel,Glithiel,Gloclya,Glodith,Glorfilith,Gloviel,Glowiel,Goclya,Godien,"
+"Gólia,Golindë,Guviel,Harawiel,Haviel,Háwien,Héclya,Hedia,Helith,Hewen,Hil-"
+"Gania,Hiodë,Hiwien,Hodia,Hódia,Horfinia,Horfiwien,Hóthiel,Huclya,Hunia,"
+"Huthien,Hyclya,Hythiel,Hythien,Isadrieng,Isáwen,Isebridien,Isebrinia,Isendra,"
+"Iséng,Iseviel,Isil-Garith,Isilindë,Isithradë,Isithradien,Isithrarith,"
+"Isithrawiel,Isóthien,Legádë,Legadien,Legadrieclya,Legadriedë,Legadrieniel,"
+"Legaraclya,Legebrilia,Legelith,Legeng,Legéniel,Legethiel,Legidia,Legil-"
+"Galindë,Legilmadith,Legilmawiel,Legithralindë,Legithrandra,Legithrania,"
+"Legolith,Legondra,Legorfidë,Lómániel,Lómebriclya,Lómebriniel,Lómedia,"
+"Lómeniel,Lómiclya,Lómilindë,Lómilmathiel,Lómilmawiel,Lómithradë,Lómithrarith,"
+"Lómódë,Lómolith,Lómóndra,Lómorfing,Lómorith,Lómudia,Lómulindë,Lómuniel,"
+"Lómuthiel,Lómynia,Lómythien,Mádia,Madrieclya,Maraclya,Mebriwiel,Meclya,"
+"Medien,Mil-Gathiel,Mil-Gathien,Milindë,Milith,Miowen,Miowiel,Mithradë,"
+"Mithralindë,Módë,Módia,Moniel,Morfilindë,Munia,Myndra,Mywiel,Narania,"
+"Naraniel,Náviel,Nawen,Newen,Nil-Gang,Nilmadia,Niodien,Niolia,Niothien,"
+"Nithraniel,Nithrarith,Nowen,Nydith,Pádia,Padriedith,Paralindë,Parandra,Pawen,"
+"Pebridien,Pil-Gadia,Pil-Gadien,Pilindë,Pindra,Pong,Porfindra,Porfiwien,"
+"Póviel,Pulia,Puthien,Reniel,Réviel,Ril-Gawien,Rindra,Riothien,Róng,Rorfiviel,"
+"Sadrienia,Sadrierith,Sálindë,Sáng,Saradith,Sarandra,Sédith,Sendra,Sethien,"
+"Silmaclya,Silmathiel,Sioclya,Siorith,Sithrang,Sithrawen,Soniel,Sothiel,"
+"Sothien,Syniel,Tadrierith,Tang,Taradien,Tarathiel,Tathiel,Terith,Thradia,"
+"Thrália,Thraraviel,Threbriniel,Thredien,Thrérith,Thridith,Thrinia,"
+"Thrithradia,Thrithrandra,Thrithraniel,Throlith,Throng,Throthiel,Thrulith,"
+"Thruthien,Thryng,Til-Gandra,Tilmaclya,Tilmaviel,Tináclya,Tinadriethien,"
+"Tinálindë,Tinaraniel,Tinarathien,Tinawiel,Tinebrithiel,Tinerith,Tinil-Gania,"
+"Tinil-Gawiel,Tiniolith,Tinithrathiel,Tinóng,Tinorfilith,Tinorfithien,Tinudia,"
+"Tiorith,Tithrathien,Tówiel,Tuniel,Unadrieng,Unáthien,Unebridë,Unénia,Unil-"
+"Gadia,Unilmadia,Unindra,Uniodë,Uniolia,Uniong,Unionia,Unóndra,Unorfiwen,"
+"Unulindë,Unuviel,Unynia,Uraclya,Uradriedia,Uránia,Urárith,Urebriclya,Ureclya,"
+"Urilmadia,Urilmawiel,Uriolia,Urithralindë,Uruthien,Uryrith,Vadrierith,"
+"Vadrieviel,Vadriewen,Varawiel,Vebrithien,Vil-Gandra,Violindë,Viowiel,"
+"Vithrang,Vithraniel,Viwiel,Vódia,Vóng,Vorficlya,Vorfing,Vorfirith,Vorfiwiel,"
+"Vówien"
+msgstr ""
+"艾玛德蕾莉娅,艾玛德莉尔琳德,艾玛德蕾德拉,艾玛德蕾,艾玛,艾美布莉琳,艾美,艾美馨"
+"儿,艾美薇儿,艾蜜儿-伽迪丝,艾蜜儿-伽莉丝,艾蜜儿玛蒂娅,艾蜜欧莉丝,艾蜜欧妮娅,艾"
+"蜜丝兰妮,艾蜜丝莱温,艾蜜,艾墨儿,艾墨菲莉丝,艾墨莉丝,艾墨莉娅,艾墨薇儿,艾墨莱"
+"托妮,艾娜莉娅,艾娜,艾娜莱莉娅,艾娜鑫儿,艾娜布琳妮,艾妮儿玛丽丝,艾宁,艾诺儿莉"
+"丝,艾诺云,艾楠德拉,艾楠丝伊儿,艾楠馨儿,艾妮琳德妮,艾妮馨儿,艾妮,贝莱赛尔卡,贝"
+"莱德莉莉丝,贝莱德莉,贝莱德莉洛妮,贝莱兰妮娅,贝莱莱菲儿,贝莱布琳德妮,贝莱德拉,"
+"贝莉欧莉娅,贝莉丝兰妮,贝莉丝兰薇儿,贝莉丝莱洛妮,贝洛琳妮,贝鲁琳,卡丝,卡德莱云"
+"妮,卡德琳,卡兰德拉,卡兰,卡兰妮娅,卡莱布莉,卡莱,卡莱薇儿,卡莉儿-嘉莉丝,卡莉儿"
+"玛莉丝,卡妮丝莱克莉娅,卡洛妮,卡洛芬妮,卡洛温妮,卡洛克莉娅,辛克莉娅,辛莱托妮,"
+"辛莱莉娅,辛莱琳德妮,辛娜莱德拉,辛娜莱莉丝,辛娜莉丝,辛莱布琳妮儿,辛莱布琳薇儿,"
+"辛莱莉丝,辛莱妮,辛莱特洛琳妮,辛莉丁妮,辛莉莉丝,辛琳德妮,辛莉欧德妮,辛莉欧妮"
+"儿,辛莉丝,辛莉丝莱蒂丝,辛洛蒂丝,辛洛菲琳德妮,辛洛菲,辛洛菲温妮,辛洛薇,赛莉莉"
+"娅,赛馨儿,馨,希丝拉莉丝,希丝兰妮娅,希丝莱温妮,珂琳德拉,珂菲薇儿,辛蒂娅,德拉拉"
+"莉丝,德勒布莉妮娅,德莱馨,德莉儿-伽妮儿,德莉欧薇,德莉丝莱希艾儿,德洛德拉,德洛"
+"菲琳德,德洛菲馨儿,德洛薇儿,德莉薇,艾拉德莉蒂儿,艾兰妮儿,艾拉拉薇,艾莱莉娅,艾"
+"蕾妮娅,艾蕾薇,艾莱薇儿,艾莉儿玛琳德妮,艾莉儿玛馨,艾莉欧莉丝,艾莉丝兰,艾洛儿菲"
+"薇,艾露德,艾莱德琳德妮,艾拉德莉艾莉娅,艾拉拉薇儿,艾勒布琳德拉,艾露德妮,艾勒莉"
+"丝,艾莉儿-甘娅,艾莉儿玛莉娅,艾莉儿玛薇,艾莉丝莱珂莉娅,艾莉丝莱蒂,艾洛德拉,艾"
+"洛芬妮,艾洛菲馨,艾尔莱德莉尔莉丝,艾尔兰妮娅,艾尔蕾布莉蒂丝,艾尔蕾馨儿,艾尔莉"
+"琳德妮,艾尔莉儿兰德拉,艾尔莉儿兰馨,艾尔莉瑟莉儿,艾尔莉丝兰蒂丝,艾尔莉薇,艾尔"
+"洛蒂丝,艾尔洛菲蒂娅,艾尔优薇儿,艾尔法蒂娅,艾尔凡妮娅,艾薇儿-嘉薇,艾尔薇曼瑟"
+"儿,艾尔薇云妮儿,艾尔薇德拉,艾尔薇丝兰,艾尔薇丝莱馨,艾尔娜薇,艾尔薇妮儿,艾尔薇"
+"薇儿,艾莉妮娅,艾莉薇,艾欧瓦莉娅,艾欧瓦莉薇,艾欧瓦瑟儿,艾欧薇布莉德莉丝,艾欧薇"
+"蒂丝,艾欧薇蒂恩妮,艾欧薇尔-嘉琳德,艾欧薇儿琳德妮,艾欧薇莉薇,艾欧薇莉娅,艾欧薇"
+"妮儿,法德莉蒂丝,法德莉艾莉娅,法德琳德拉,法德琳恩妮娅,法琳德妮,法瑟儿,法瑟薇,"
+"法妮薇,法珂莉娅,法瑟莱娜,菲儿-嘉莉娅,菲儿-伽瑟儿,菲儿-嘉薇,菲儿玛珂莱拉,非欧"
+"妮儿,芙德妮,芙琳德娜,芙琳德妮,嘉德莉珂莉娅,伽德莉薇儿,嘉拉德莉馨儿,嘉兰德拉,"
+"嘉拉拉妮儿,嘉勒布莉莉娅,嘉勒布琳德拉,嘉勒德妮,嘉勒蒂妮,嘉勒薇儿,嘉莉尔-嘉妮"
+"娅,嘉莉尔曼蒂娅,嘉莉欧馨儿,嘉莉丝拉馨儿,嘉洛莉娅,嘉洛琳德妮,嘉洛菲薇儿,嘉洛馨"
+"儿,嘉洛薇,嘉兰德拉,嘉莉妮儿,嘉瑟薇,嘉薇儿,吉布莉莉丝,吉薇,吉儿-嘉薇,吉莉娅,吉"
+"薇妮儿,吉欧薇儿,吉欧薇,吉丝拉妮娅,吉丝拉薇儿,格拉妮娅,格蕾布莉馨,格,格莉儿玛"
+"蒂恩妮,格莉儿玛薇,格莉希儿,格洛珂莉卡,格洛蒂丝,格洛菲莉丝,格洛薇儿,格洛薇妮,"
+"格珂莉卡,格蒂恩妮,格莉娅,格琳德妮,古薇儿,哈拉薇儿,哈薇儿,哈薇妮,海珂莉卡,海蒂"
+"娅,海莉丝,海薇,希儿-甘妮娅,希欧德妮,希薇,霍蒂娅,霍蒂妮,霍菲妮娅,霍菲尔薇,霍馨"
+"儿,霍珂莉卡,霍妮娅,霍妮露,海珂莉娅,海瑟儿,海馨妮,伊莎蒂伦,伊瑟薇,伊瑟贝汀,伊"
+"瑟贝妮雅,伊珊德拉,伊珊,伊丝薇儿,伊瑟-嘉莉丝,伊丝莱德,伊丝兰德,伊丝兰汀,伊瑟兰"
+"芮丝,伊丝兰薇儿,伊娑珊,丽嘉蒂,丽嘉汀,丽嘉吉克蕾雅,丽嘉蒂朵,丽嘉蒂妮雅,丽嘉克"
+"蕾雅,丽洁卜莉雅,丽洁莉丝,丽洁,丽洁妮儿,丽洁瑟儿,蕾洁蒂娅,蕾洁-嘉莱朵,蕾洁儿玛"
+"蒂丝,蕾洁玛薇儿,蕾洁瑟兰朵,蕾洁珊德拉,蕾洁珊妮雅,蕾葛莉丝,蕾葛萝洁拉,蕾葛儿斐"
+"德,萝蔓妮儿,萝梅卜瑞克蕾娅,萝梅卜瑞妮雅,萝梅蒂雅,萝梅妮雅,萝蜜克蕾娅,萝蜜莱"
+"朵,萝蜜尔玛瑟儿,萝蜜尔玛薇儿,萝蜜丝菈朵,萝蜜思菈芮丝,萝茉朵,萝茉莉丝,萝茉德"
+"拉,萝茉儿菲,萝茉芮丝,萝缪缇娅,萝缪莱朵,萝缪妮儿,萝缪丝儿,萝蜜妮雅,萝蜜馨儿,玛"
+"蒂娅,玛洁克蕾娅,玛芮克蕾娅,梅卜芮薇儿,梅克蕾娅,梅蒂儿,蜜尔-伽馨儿,蜜儿-嘉馨"
+"妮,蜜莱朵,蜜莉丝,蜜尔薇恩,蜜尔薇儿,蜜丝芮朵,蜜丝芮莱朵,茉朵儿,茉蒂娅,茉妮儿,"
+"茉斐莱朵,缪妮娅,蜜德拉,蜜薇儿,娜兰妮雅,娜兰妮儿,娜薇儿,娜温妮,奈温妮,妮儿-甘"
+"娜 ,妮尔玛蒂娅,妮欧蒂,妮欧莉亚,妮欧仙莉,妮瑟菈莉儿,妮瑟菈芮丝,诺温妮,妮蒂丝,"
+"帕蒂娅,帕朵瑞蒂丝,帕菈莱朵,帕兰德菈,帕薇妮,佩卜芮蒂娅,碧儿-嘉蒂娅,碧儿-伽蒂"
+"妮，碧莱朵,碧妮洁菈,珀珀,珀斐德菈,珀菲薇妮,珀薇儿,帕莉娅,帕仙妮,芮涅儿,芮薇"
+"儿,芮儿-嘉薇妮,琳洁菈,蕊奥仙妮,若若,瑞奥菲薇儿,莎得芮妮娅,莎吉尔芮丝,莎莉朵,"
+"桑桑,莎兰蒂丝,莎兰洁儿,塞蒂丝,仙德菈,塞馨妮,希欧玛克莉娅,希尔玛馨儿,希奥克莉"
+"娅,希尔芮丝,希瑟兰,希瑟兰薇,索妮儿,索馨儿,索仙妮,辛妮儿,妲杰芮丝,糖糖,妲兰蒂,"
+"妲瑞辛,妲馨儿,忒芮丝,瑟瑞蒂娅,瑟芮莉娅,瑟拉瑞薇儿,瑟瑞卜蕾妮,瑟蕾蒂妮,瑟蕾芮"
+"丝,瑟芮蒂丝,瑟芮妮雅,瑟芮丝莱蒂娅,瑟芮丝兰洁,瑟芮丝兰妮儿,瑟萝莉丝,瑟胧,瑟萝"
+"馨儿,瑟露莉丝,瑟露希儿,瑟琳,缇儿-嘉吉娅,缇尔玛克蕾娅,缇尔玛薇,缇娜克蕾娅,缇娜"
+"吉辛妮,缇娜莱朵,缇娜拉妮娅,缇娜拉辛妮,缇娜薇儿,缇妮卜芮希儿,缇娜芮丝,缇妮儿-"
+"嘉妮娅,缇妮儿-嘉薇,缇妮欧莉丝,缇妮瑟拉馨儿,缇诺,缇诺斐莉丝,提诺斐辛妮,缇奴蒂"
+"娅,缇儿芮丝,缇瑟兰馨妮,妥薇儿,荅妮儿,悠娜洁琳,悠娜馨妮,悠涅碧朵,悠涅莉娅,悠妮"
+"儿-嘉蒂娅,悠妮尔玛蒂娅,悠妮吉娅,悠妮阿朵,悠妮阿莉娅,悠妮儿,悠妮阿尼娅,悠诺吉"
+"娅,悠诺斐薇,悠奴琳朵,悠奴薇儿,悠妮莉亚,悠兰克蕾娅,悠兰杰蒂娅,悠兰妮娅,悠兰芮"
+"丝,悠芮卜莉克蕾雅,悠芮克蕾娅,悠蕾玛蒂娅,悠蕾玛薇儿,悠蕾欧莉娅,悠蕾瑟兰莉朵,悠"
+"瑞馨儿,悠莉莉丝,瓦吉尔芮丝,瓦吉尔薇儿,瓦吉尔薇妮,瓦兰薇儿,温卜芮辛妮,薇儿-嘉"
+"吉娅,薇欧莱朵,薇欧玟儿,薇瑟兰,薇瑟兰妮儿,薇薇儿,沃蒂娅,玟玟,沃尔斐克蕾雅,沃尔"
+"斐妮,沃尔菲芮丝,沃尔斐薇儿,沃薇妮"
+
+msgid "Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu"
+msgstr "葛拉,葛利拉,葛利,卡,卡什,柯什,柯罗,克拉,库,克匝,克苏"
+
+msgid "Kaasa,Kayya,Keyya,Kiira,Korra"
+msgstr "卡萨,卡娅,可娅,奇拉,可拉"
+
+msgid ""
+"Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,"
+"Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,"
+"Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,"
+"Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaeryn,Aethagwyn,Aethanry,"
+"Aetharcyn,Aethec,Aethellyn,Aethenvan,Aetheoc,Aetheollyn,Aetheonyc,Aetheorcyn,"
+"Aethercyn,Aetherraent,Aethibryn,Aethiddry,Aethircyn,Aethobryn,Aethoddyn,"
+"Aethonnyn,Aethuc,Aethudry,Aethugwyn,Aethun,Aethunry,Aethydry,Aethynyc,Blac,"
+"Bladoc,Blaec,Blaedry,Blanry,Blebryn,Bledoc,Blemyr,Blennyn,Blenvan,Bleollyn,"
+"Blercyn,Blidd,Bliddry,Blillyn,Blinvan,Blollyn,Blubryn,Blucyn,Bludry,Blullyn,"
+"Bluran,Blybryn,Blydd,Blygwyn,Blymyr,Blyr,Bucyn,Cac,Cadry,Caebryn,Caedry,"
+"Caeran,Caercyn,Car,Carac,Caraddry,Caradoc,Caraedry,Caraennyn,Cararyn,Caredd,"
+"Careddry,Caregwyn,Caren,Careobryn,Careogwyn,Careonvan,Careorraent,Careoryn,"
+"Carercyn,Caric,Cariddry,Carocyn,Caroddyn,Caror,Caroran,Carraent,Carudoc,"
+"Carullyn,Carygwyn,Caryn,Cebryn,Cemyr,Cennyn,Ceoc,Ceoddry,Ceoddyn,Ceomyr,"
+"Ceonnyn,Ceonry,Ceoryn,Cicyn,Cin,Cinry,Coc,Convan,Corcyn,Cubryn,Cunry,Curyn,"
+"Cynyc,Cyryn,Dac,Dadd,Dadoc,Daeddry,Daedoc,Daellyn,Demyr,Denvan,Deodd,Deollyn,"
+"Deonyc,Derraent,Dibryn,Dinnyn,Dircyn,Dycyn,Dyddyn,Gaddry,Gaebryn,Gaedry,"
+"Gaercyn,Gagwyn,Gan,Gannyn,Gar,Gecyn,Geddyn,Gegwyn,Geodry,Ginvan,Glacyn,"
+"Gladoc,Glaercyn,Glarraent,Gleddry,Gleoddyn,Gleran,Gliddyn,Glillyn,Glinry,"
+"Glircyn,Gloddry,Gloddyn,Glonry,Glonvan,Glumyr,Glun,Glunry,Glunvan,Glyc,Glydd,"
+"Glydoc,Glynry,Glynvan,Glyran,Goc,Gor,Gubryn,Gudd,Gullyn,Gumyr,Gur,Gwadoc,"
+"Gwaec,Gwaeddyn,Gwan,Gweddyn,Gwegwyn,Gwellyn,Gwennyn,Gwenyc,Gweocyn,Gweodd,"
+"Gweodoc,Gweodry,Gweogwyn,Gweoran,Gwidoc,Gwilam,Gwodd,Gwoddyn,Gwollyn,Gwor,"
+"Gwucyn,Gwudoc,Gwumyr,Gwuran,Gwybryn,Gwycyn,Gwyddry,Gwydoc,Gwymyr,Gwynnyn,"
+"Gydoc,Gyllyn,Gymyr,Haldar,Labryn,Ladoc,Laellyn,Lan,Lannyn,Laran,Lec,Lemyr,"
+"Lenvan,Leogwyn,Lercyn,Ligwyn,Lin,Liryn,Lonnyn,Lorraent,Luddry,Ludoc,Lunnyn,"
+"Lunvan,Lurraent,Mac,Maddyn,Maennyn,Manry,Manyc,Marcyn,Mec,Menvan,Meollyn,"
+"Meon,Meonnyn,Meorraent,Middry,Midry,Mimyr,Modd,Moddry,Monry,Moran,Morcyn,"
+"Mubryn,Mudoc,Mugwyn,Murcyn,Mydoc,Mygwyn,Myn,Myrraent,Owac,Owadd,Owaddyn,"
+"Owaecyn,Owaedry,Owain,Owarcyn,Owaryn,Owecyn,Owedry,Oweomyr,Oweor,Oweorcyn,"
+"Oweran,Owercyn,Owidry,Owinvan,Owinyc,Owodd,Owoddry,Owogwyn,Owollyn,Oworan,"
+"Oworcyn,Oworraent,Owuddry,Owuddyn,Owugwyn,Owur,Owyran,Rabryn,Radd,Ranvan,Rar,"
+"Reoddyn,Reodry,Rhaecyn,Rhaedoc,Rhaemyr,Rhaerraent,Rhanry,Rharcyn,Rhenry,"
+"Rhenvan,Rhenyc,Rheodd,Rheoddyn,Rheollyn,Rheor,Rheoran,Rheorraent,Rheran,"
+"Rherraent,Rhobryn,Rhodry,Rhollyn,Rhonvan,Rhubryn,Rhugwyn,Rhunyc,Rhur,Rhygwyn,"
+"Rhyllyn,Rhynyc,Rhyrcyn,Rhyrraent,Rocyn,Roddyn,Romyr,Ron,Ronry,Rubryn,Ruddry,"
+"Rumyr,Run,Rurcyn,Rybryn,Rycyn,Ryddry,Rygwyn,Rynnyn,Rynry,Saec,Saellyn,Saemyr,"
+"Saenvan,Saercyn,Sanyc,Saran,Sarraent,Secyn,Seddyn,Sedry,Sellyn,Sennyn,"
+"Seoddry,Seorcyn,Sercyn,Siddry,Simyr,Siryn,Sodd,Sodry,Soran,Suc,Sudd,Surcyn,"
+"Sydd,Syran,Syryn,Tabryn,Taec,Taedd,Taedoc,Taemyr,Taenvan,Taercyn,Tanry,"
+"Tarcyn,Teddyn,Tegwyn,Ten,Tennyn,Tenvan,Teobryn,Teoddyn,Teor,Teorcyn,Terraent,"
+"Tinry,Tinvan,Tiryn,Todd,Tudd,Tuddry,Tudoc,Tunvan,Turraent,Tyddyn,Vaddyn,"
+"Vaeddyn,Vaedry,Vaennyn,Varcyn,Ven,Vennyn,Veocyn,Veoddyn,Veodry,Veogwyn,"
+"Veomyr,Vinvan,Vinyc,Virraent,Vobryn,Vogwyn,Vonry,Vuddyn,Vugwyn,Vyc,Vygwyn,"
+"Vyrcyn,Yracyn,Yraec,Yran,Yrannyn,Yranvan,Yraryn,Yredd,Yreddyn,Yregwyn,Yreryn,"
+"Yrinvan,Yrirraent,Yroddry,Yrullyn,Yrumyr,Yrunnyn,Yrunvan,Yryllyn,Yrymyr,"
+"Yrynyc,Yryrcyn"
+msgstr ""
+"埃德莱辛,埃德莱凡,埃德拉尔,埃德拉尔辛,埃德拉林,埃德雷德利,埃德雷,埃德雷格温,"
+"埃德雷尼克,埃德雷欧德雷,埃德雷欧丁,埃德雷欧尼克,埃德雷欧拉辛,埃德雷兰,埃德里"
+"布林,埃德里德丁,埃德罗辛,埃德罗林,埃德朗凡,埃德鲁辛,埃德里尔林,埃德林凡,埃萨"
+"辛,埃萨德利,埃萨克,埃萨兰,埃萨琳,埃萨格温,埃森利,埃萨辛,埃瑟克,埃瑟尔林,埃森"
+"凡,埃瑟欧克,埃瑟欧林,埃瑟欧尼克,埃瑟欧辛,埃瑟辛,埃瑟拉恩特,埃希布林,埃西德利,"
+"埃希尔辛,埃索布林,埃索丁,埃索恩宁,埃舒克,埃舒德利,埃赛格温,埃桑,埃桑利,埃赛德"
+"利,埃赛尼克,布拉克,布拉多克,布拉埃克,布拉埃德利,布兰利,布勒布林,布勒多克,布勒"
+"米尔,布勒宁,布勒凡,布里欧林,布勒辛,布利德,布里德利,布里尔林,布林凡,布罗林,布"
+"鲁布林,布鲁辛,布鲁德利,布鲁林,布鲁兰,布里布林,布里德,布里格温,布里米尔,布里"
+"尔,布辛,卡克,卡德利,卡埃布林,卡埃德利,卡埃兰,卡尔辛,卡,卡拉克,卡拉德利,卡拉多"
+"克,卡拉埃德利,卡拉埃宁,卡拉林,卡雷德,卡雷德利,卡雷格温,卡伦,卡里欧布林,卡里欧"
+"格温,卡里欧凡,卡里欧拉恩特,卡里欧林,卡雷尔辛,卡里克,卡里德利,卡罗辛,卡罗丁,卡"
+"罗,卡罗兰,卡拉恩特,卡鲁多克,卡鲁林,卡雷格温,卡林,赛布林,赛米尔,赛宁,赛欧克,赛"
+"欧德利,赛欧丁,赛欧米尔,赛欧宁,赛温利,赛欧宁,希辛,辛,辛利,阔克,孔凡,科辛,库布"
+"林,库布利,库林,赛尼克,赛林,达克,达德,达多克,达埃德利,达埃多克,达尔林,德米尔,"
+"德凡,德欧德,德欧林,德欧尼克,德拉恩特,迪布林,迪宁,迪尔辛,迪辛,迪丁,伽德利,伽埃"
+"布林,伽埃德利,伽埃辛,伽格温,甘,甘宁,伽,格辛,格丁,格温,格欧德利,金凡,格拉辛,格"
+"拉多克,格拉埃辛,格拉拉恩特,格雷德利,格雷欧丁,格雷兰,格里德丁,格里尔林,格林利,"
+"格里尔辛,格罗德利,格罗丁,格隆利,格隆凡,格拉米尔,格朗,格朗利,格朗凡,格里克,格"
+"里德,格里多克,格里利,格林凡,格里兰,格克,格,伽布林,伽德,伽林,伽米尔,伽尔,格瓦"
+"多克,格瓦埃克,格瓦埃丁,格万,格温德丁,格温德温,格威尔林,格温宁,格威尼克,格威欧"
+"辛,格威欧德,格威欧多克,格威欧德利,格威欧温,格威欧兰,格威尔多克,格威尔兰姆,格"
+"沃德,格沃丁,格沃林,格沃尔,格乌辛,格乌多克,格乌米尔,格乌兰,格威布林,格威辛,格"
+"威德利,格威多克,格威米尔,格威宁,基多克,基林,基米尔,哈尔达,拉布林,拉多克,拉埃"
+"尔林,兰,兰宁,拉兰,雷克,雷米尔,勒凡,雷欧格温,勒辛,利格温,林,利林,隆宁,罗拉恩"
+"特,鲁德利,鲁多克,鲁宁,朗凡,朗拉恩特,麦克,玛丁,玛恩宁,曼利,玛尼克,玛辛,莫克,蒙"
+"凡,莫欧林,梅温,梅温宁,梅欧拉恩特,米德利,弥德利,米弥尔,莫德,墨德利,蒙利,莫兰,"
+"莫辛,玛布林,玛多克,玛格温,玛辛,麦多克,麦格温,明,米拉恩特,欧瓦克,欧瓦德,欧瓦"
+"丁,欧瓦埃辛,欧瓦埃德利,欧瓦恩,欧瓦辛,欧瓦林,欧威辛,欧威德利,欧威欧米尔,欧威"
+"尔,欧威奥辛,欧威兰,欧沃辛,欧沃德利,欧温凡,欧威尼克,欧沃德,欧沃德利,欧沃格温,"
+"欧沃林,欧沃兰,欧沃辛,欧沃拉恩特,欧瓦德利,欧瓦丁,欧瓦格温,欧瓦,欧威兰,拉布林,"
+"拉德,莱凡,拉,瑞欧丁,瑞欧德利,瑞埃辛,瑞埃多克,瑞埃米尔,瑞埃尔拉恩特,兰利,拉辛,"
+"瑞利,莱凡,雷尼克,雷欧德,雷欧丁,雷欧林,雷欧尔,雷欧兰,雷欧拉恩特,雷兰,雷拉恩特,"
+"洛布林,洛德利,洛林,洛恩凡,鲁布林,鲁格温,鲁尼克,鲁尔,瑞格温,瑞林,瑞尼克,瑞辛,"
+"瑞拉恩特,洛林,洛德林,洛米尔,荣恩,荣利,拉布林,拉德利,鲁米尔,朗,拉尔温,理布林,"
+"理辛,理德利,理格温,理宁,林利,萨埃克,萨埃林,萨埃米尔,萨恩凡,萨尔辛,萨尼克,萨"
+"兰,萨拉恩特,瑟辛,瑟丁,瑟德利,瑟林,瑟宁,瑟欧德利,瑟欧辛,瑟埃辛,希德利,希米尔,"
+"希林,索德,索德利,索兰,萨克,萨德,萨辛,希德,希兰,赛林,塔布林,塔埃克,塔埃德,塔埃"
+"多克,塔埃米尔,塔恩凡,塔尔辛,坦利,塔辛,特丁,特格温,腾,腾宁,腾凡,特欧布林,特欧"
+"丁,特欧尔,特欧尔辛,特拉恩特,廷利,廷凡,提林,托德,图德,塔德利,塔多克,塔凡,塔拉"
+"恩特,提丁,法丁,法埃丁,法埃德利,法恩宁,法辛,文,文宁,维欧辛,维欧丁,维欧德利,维"
+"欧格温,维欧米尔,温凡,威尼克,维拉恩特,伏布林,伏格温,伏利,乏丁,乏格温,维克,维格"
+"温,维辛,伊拉辛,伊拉埃克,伊兰,伊兰宁,伊莱凡,伊拉林,伊雷德,伊雷丁,伊雷格温,伊雷"
+"林,伊林凡,伊里拉恩特,伊洛德利,伊鲁林,伊鲁米尔,伊朗宁,伊朗凡,伊里尔林,伊里米"
+"尔,伊里尼克,伊里尔辛"
+
+msgid ""
+"Alabrylla,Alaebrylla,Alaeniver,Alalla,Alalonna,Alaryan,Aleacla,Aleaniver,"
+"Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,"
+"Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,"
+"Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravyan,Breabrylla,Breall,Brealla,"
+"Brealonna,Breana,Brell,Brellyra,Brera,Brerka,Breryan,Bricla,Brirka,Brobrylla,"
+"Brollyra,Brona,Bronoic,Brora,Brorka,Brungwen,Bruryan,Brwra,Brycla,Brynoic,"
+"Caella,Caena,Caengwen,Caevyan,Call,Calla,Cassa,Cealonna,Cera,Ceryan,Cibrylla,"
+"Cicla,Cinoic,Cira,Cissa,Clacla,Claella,Claelyan,Claenoic,Clalla,Clallyra,"
+"Clara,Clarka,Clavyan,Cleacla,Cleall,Clealyan,Cleana,Cleanoic,Clenoic,"
+"Clibrylla,Clill,Clillyra,Clilyan,Clinoic,Clissa,Clobrylla,Clollyra,Clona,"
+"Clongwen,Clungwen,Clurka,Cluvyan,Clwdda,Clwlla,Clwvyan,Clydda,Clylla,Cora,"
+"Coryan,Cucla,Cudda,Curyan,Cwdda,Cwlonna,Cwngwen,Cwvyan,Cydda,Cylla,Cyllyra,"
+"Cylyan,Cyniver,Cyvyan,Daedda,Daelyan,Daengwen,Daenoic,Dalla,Dallyra,Dangwen,"
+"Dara,Dassa,Deanoic,Deassa,Della,Devyan,Dicla,Diniver,Dissa,Dollyra,Dullyra,"
+"Dulonna,Dwbrylla,Dwdda,Dwna,Dwnoic,Dwra,Dybrylla,Dydda,Dyssa,Elacla,Elaedda,"
+"Elaell,Elaelonna,Elaessa,Elaevyan,Elallyra,Elalonna,Elara,Elavyan,Elealla,"
+"Eleanoic,Elearka,Elenoic,Elerka,Elivyan,Elulonna,Elurka,Elwllyra,Elwlonna,"
+"Elwngwen,Elwra,Elycla,Elyllyra,Elyngwen,Elyniver,Elyrka,Gwaera,Gwaessa,"
+"Gwangwen,Gweacla,Gwedda,Gwerka,Gwicla,Gwirka,Gwobrylla,Gwoll,Gwona,Gwongwen,"
+"Gwonoic,Gworyan,Gwullyra,Gwussa,Gwwcla,Gwwna,Gwwvyan,Gwycla,Gwydda,Heldra,"
+"Jacla,Jaena,Jaerka,Jaevyan,Jalyan,Jana,Jarka,Jassa,Jeabrylla,Jealla,Jeanoic,"
+"Jeniver,Jiryan,Jissa,Joll,Jolla,Jona,Jongwen,Jonoic,Jora,Jorka,Jovyan,Judda,"
+"Jull,Julonna,Jura,Jwll,Jwlyan,Jycla,Jyniver,Jynoic,Jyrka,Jyvyan,Laeniver,"
+"Laenoic,Laeryan,Langwen,Larka,Lassa,Lealonna,Lealyan,Ledda,Lelonna,Lelyan,"
+"Lengwen,Lerka,Lessa,Lidda,Lill,Lina,Lirka,Liryan,Livyan,Locla,Lodda,Lollyra,"
+"Lolonna,Lulla,Lulyan,Lungwen,Lunoic,Luryan,Lwcla,Lwlla,Lwnoic,Lwryan,Lycla,"
+"Lylla,Lylyan,Lyna,Lynoic,Maecla,Maeniver,Mavyan,Meacla,Mealyan,Meana,"
+"Meangwen,Meanoic,Medda,Melonna,Mengwen,Meniver,Meradda,Meraecla,Meraelyan,"
+"Merall,Merallyra,Meralonna,Merana,Meranoic,Merealonna,Mereangwen,Mereaniver,"
+"Merebrylla,Merella,Merengwen,Meressa,Merilyan,Merina,Merinoic,Merissa,"
+"Merivyan,Merolla,Merolyan,Merona,Meroniver,Merubrylla,Merudda,Merurka,"
+"Merwlla,Merwnoic,Merwryan,Merydda,Merylyan,Messa,Milonna,Molyan,Moniver,"
+"Mossa,Mudda,Mullyra,Mulyan,Muryan,Mwbrylla,Mwlyan,Mwngwen,Mwnoic,Mycla,Myll,"
+"Mylla,Myra,Myvyan,Nabrylla,Naebrylla,Naecla,Naell,Nalyan,Nangwen,Nealla,"
+"Neallyra,Nealonna,Neavyan,Nera,Nessa,Ninoic,Niryan,Nivyan,Nobrylla,Nolla,"
+"Nonoic,Norka,Noryan,Nucla,Nulla,Nulyan,Nungwen,Nuvyan,Nwllyra,Nwryan,Nwvyan,"
+"Nybrylla,Nyll,Nylyan,Nyryan,Nyssa,Nyvyan,Raebrylla,Raera,Raerka,Ralonna,Rara,"
+"Rarka,Rassa,Reacla,Realla,Reana,Reangwen,Rella,Relyan,Rengwen,Rerka,Revyan,"
+"Rilonna,Rilyan,Rirka,Rora,Rucla,Ruryan,Rwdda,Rwlla,Rwllyra,Rwlonna,Rwngwen,"
+"Rybrylla,Ryna,Ryngwen,Saell,Saellyra,Saeniver,Saerka,Saessa,Sallyra,Sanoic,"
+"Sara,Sassa,Searka,Sena,Senoic,Sera,Silonna,Sira,Siryan,Sona,Sorka,Subrylla,"
+"Sull,Sulonna,Sulyan,Sura,Sussa,Swlla,Swlyan,Swngwen,Swnoic,Swvyan,Syllyra,"
+"Sylyan,Syssa,Ysacla,Ysaenoic,Ysaerka,Ysanoic,Yseacla,Ysealonna,Ysealyan,"
+"Ysedda,Ysell,Yselonna,Ysilyan,Ysinoic,Ysodda,Ysongwen,Ysonoic,Ysura,Yswniver,"
+"Ysycla,Ysylla,Ysylyan,Ysyrka,Ysyssa"
+msgstr ""
+"艾拉布莱拉,艾拉尔布莱拉,艾拉艾妮法,艾拉莉娅,艾拉洛娜,艾拉莉安,艾莉娅卡,艾莉妮"
+"法,艾莉拉,艾莉尔卡,艾勒娜,艾勒格温妮,艾莉洛娜,艾琳格温妮,艾洛拉,艾洛露拉,艾罗"
+"拉,艾露布莉拉,艾露妮法,艾露莉安,艾露莎,艾尔瓦卡,艾尔薇莉拉,艾尔薇莉安,艾尔温"
+"娜,艾莉布莉拉,艾莉诺依可,艾莉拉,艾莉莱安,布拉艾妲,布拉莎,布拉薇安,布里布莉拉,"
+"布莉儿,布莉尔拉,布莉洛娜,布琳娜,布蕾儿,布蕾莉拉,布蕾拉,布蕾尔卡,布蕾尔兰,布莉"
+"珂拉,布莉尔卡,布洛布莉拉,布洛莉拉,布洛娜,布洛妮可,布洛拉,布洛卡,布莱温妮,布露"
+"莉安,布洛拉,布莉珂拉,布莉诺依可,卡艾拉,卡艾娜,卡恩格温妮,卡恩薇安,卡洛儿,卡"
+"拉,卡莎,卡尔洛娜,赛拉,赛莉安,赛布莉拉,希珂拉,希诺依可,希拉,希莎,珂拉卡拉,珂拉"
+"艾拉,克莱尔莉安,克莱尔诺依可,克拉拉,克拉莉拉,克洛拉拉,珂拉,珂拉薇安,克莉珂拉,"
+"珂莉儿,珂莉莉安,珂莉娜,珂莉诺依可,珂琳诺依可,珂莉布莉拉,珂莉儿珂莉莉拉,珂莉莉"
+"安,珂莉诺依可,珂莉莎,珂洛布莉拉,珂洛莉拉,珂洛娜,珂洛温妮,珂朗温妮,珂露卡,珂露"
+"薇安,珂薇妲,珂薇拉,珂尔薇安,珂莉妲,珂莉拉,珂拉,珂莉安妮,库拉,库妲,库莉安,库薇"
+"妲,克薇洛娜,克薇温妮,克薇安,赛妲,赛尔拉,赛莉拉,希莉安,希妮法,希薇安,达艾尔妲,"
+"达艾莉安,达艾温妮,达艾薇妮可,达拉,达莉拉,达温妮,达洛拉,达莎,蒂诺依可,蒂莎,蒂"
+"拉,蒂薇安,蒂珂拉,蒂妮法,迪莎,朵莉拉,杜莉拉,杜洛拉,德薇布莉拉,德薇妲,德薇娜,德"
+"薇诺依可,德薇拉,迪布莉拉,迪妲,迪妮莎,艾拉珂拉,艾拉艾妲,艾拉艾尔,艾拉艾尔洛娜,"
+"艾拉伊莎,艾拉伊薇安,艾拉莉拉,艾拉洛娜,艾拉娜,艾拉薇安,艾莉尔拉,艾莉诺依可,艾"
+"莉尔卡,艾蕾诺依可,艾蕾尔卡,艾莉薇安,艾露洛娜,艾露卡,艾尔薇莉拉,艾尔薇洛娜,艾"
+"尔薇温妮,艾尔薇拉,艾莉卡,艾莉莉拉,艾莉格温妮,艾莉妮法,艾莉薇卡,格瓦艾拉,格瓦"
+"艾莎,格瓦格温妮,格薇珂拉,格薇妲,格薇卡,格薇洛卡,格薇尔妮,格沃布莉拉,格沃薇儿,"
+"格沃娜,格沃温妮,格沃诺依可,格沃莉安,格乌尔莉娅,格乌莎,格乌珂拉,格乌娜,格乌薇"
+"安,格薇珂拉,格薇妲,海尔德拉,佳珂娜,珍娜,简洛娜,珍薇安,珍莉安,珍娜,珍卡,佳莎,"
+"吉布莉拉,吉莉拉,珍诺依可,珍妮,吉莉安,吉莎,吉儿,琼拉,琼娜,琼温妮,琼诺依可,乔"
+"娜,乔卡娜,乔薇安,裘妲,裘儿,裘洛娜,裘拉,裘薇儿,裘薇莉安,裘珂拉,裘妮法,裘诺伊"
+"可,裘莉卡,裘薇安,拉艾妮法,拉艾诺依可,拉艾莉安,朗温妮,拉卡,拉莎,莉尔诺娜,莉尔"
+"莉安,勒妲,勒诺娜,勒莉安,勒温妮,勒卡,勒莎,琳达,莉儿,莉娜,莉诺卡,莉莉安,莉薇安,"
+"洛珂拉,洛妲,洛莉拉,洛洛娜,露拉,露莉安,露温妮,露诺依可,露莉安,露珂拉,露薇拉,露"
+"薇依可,露薇莉安,莉珂垃,莉拉,莉莉安,莉娜,莉诺依可,玛艾珂拉,玛艾妮法,玛薇安,蜜"
+"珂拉,蜜莉安,蜜娜,蜜恩温妮,蜜诺伊可,梅妲,梅洛娜,梅温妮,梅妮法,梅娜妲,梅娜珂拉,"
+"梅娜莉安,梅娜儿,梅娜尔莉拉,梅拉诺娜,梅拉娜,梅娜诺伊可,梅莉尔诺娜,梅莉安温妮,"
+"梅莉安妮法,梅勒布莉拉,梅,梅勒温妮,梅勒莎,梅莉莉安,梅莉娜,梅莉诺妮可,梅莉莎,梅"
+"莉薇安,梅洛莉拉,梅洛莉安,梅洛娜,梅洛妮法,梅露布莉拉,梅露妲,梅露卡,墨薇拉,墨薇"
+"诺伊可,墨薇安,墨莉妲,墨莉莉安,梅莎,蜜洛娜,墨莉安,墨妮法,墨莎,慕妲,慕莉拉,慕莉"
+"安,慕莱安妮,慕薇布莉拉,慕薇莉安,慕薇温妮,慕薇诺伊可,蜜珂拉妮,蜜儿,蜜拉,蜜莱"
+"娜,蜜薇安,娜布莉拉,娜布尔莉娜,娜艾珂拉,娜艾儿,娜莉安,奈温妮,妮拉,妮莉拉,妮洛"
+"娜,妮薇安,奈拉,奈莎,妮诺依可,妮莉安,妮薇安,诺布莉拉,诺拉,诺诺依可,诺卡,诺莉"
+"安,努珂拉,努拉,努莉安,努温妮,努薇安,努薇莉拉,努薇莉安,努薇安,妮布莉拉,妮尔,妮"
+"莉安,妮莱安,妮莎,妮薇安娜,娜艾布莉拉,娜艾拉,娜艾卡,拉洛娜,娜娜,娜卡,娜布希卡,"
+"莉珂拉妮,莉莉拉,理娜,莉格薇妮,,利莉安,洛薇妮,洛卡妮,洛薇安,洛诺娜,洛莉安,莉尔"
+"卡,洛拉,洛珂拉,洛莉安,萝洛薇妲,洛薇拉,洛薇莉拉,洛薇诺娜,洛薇温妮,洛布莉拉,洛"
+"娜,琳薇,莎艾儿,莎艾莉拉,莎艾妮法,莎艾卡,莎艾莎,莎莉拉,莎诺依可,莎拉,萨莎,瑟卡"
+"莎,瑟娜,瑟诺依可,瑟拉,希洛娜,希拉,希莉安,索娜,索卡,苏布莉拉,苏儿,苏洛娜,苏莉"
+"卡,苏拉,苏莎,斯薇拉,斯薇莉安,斯薇温妮,斯薇诺依可,斯薇诺安,希莉拉,希莉安,希莎,"
+"依莎珂拉,依莎艾诺依可,依莎艾卡,依莎诺依可,依希珂拉,依希诺娜,依希莉安,依瑟妲,"
+"依瑟儿,依瑟洛娜,依希莉安,依希诺伊可,伊依索妲,依索温妮,依索诺依可,依苏娜,依苏"
+"薇妮法,依希珂拉,依希拉,依希莉安,依希莉卡,伊希莎"
+
+msgid ""
+"Aban,Abbas,Abbud,Abdul-ʿAdl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
+"Abdul-Aziz,Abdul-Badi,Abdul-Baʿith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
+"Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,Abdul-"
+"Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,Abdul-Haqq,"
+"Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,Abdul-Khabir,"
+"Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,Abdul-Mubdiʾ,"
+"Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-Muʿid,Abdul-Muʿizz,"
+"Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,Abdul-Musawwir,Abdul-"
+"Mutaʿal,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-Nur,Abdul-Qadir,Abdul-"
+"Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-"
+"Rahman,Abdul-Rashid,Abdul-Raʿuf,Abdul-Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-"
+"Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,Abdul-Wakil,Abdul-Wali,Abdul-"
+"Waliy,Abdul-Warith,Abdul-Zahir,Abdullah,ʿAbid,ʿAbidin,Abu Bakr,Aby al-Khayr,"
+"Adil,Adham,Adib,ʿAdli,ʿAdnan,ʿAfif,Ahmad,ʿAjib,ʿAkif,Akil,Akram,Alaʾ,Alaʾ al-"
+"Din,Alʿ Abbas,Aladdin,al-Bara,al-Hakam,al-Harith,Alhasan,Alhusain,Ali,Alim,"
+"Almahdi,al-Safi,Altaf,Altair,al-Tayyib,al-Tijani,al-Tufail,Amid,ʿAmid,Amin,"
+"Amir,ʿAmir,Amjad,ʿAmmar,ʿAmro,Anas,Anis,ʿAntarah,Anwar,ʿAqil,Arfan,Arif,"
+"ʿArif,Asad,Asʿad,Asadel,Ashraf,Asif,ʿAsim,Aswad,Ataʿ,Ataʿ Allah,Ataʿ al-"
+"Rahman,Athil,Athir,ʿAtif,ʿAwad,ʿAwf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,Aza,"
+"ʿAzab,Azhar,Azim,ʿAziz,ʿAzzam,Badi,Badi al-Zaman,Badr,Badr al-Din,Badri,"
+"Bahaʿ,Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,Barir,"
+"Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,"
+"Bushr,Butrus,Dabir,Dani,Darwish,Daʿud,Dhakir,Dhakiy,Dhakwan,Dhul Fiqar,Dirar,"
+"Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,Fahad,Fahmi,Faisal,"
+"Faʿiz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,"
+"Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,"
+"Fida,Fikri,Firas,Fuʿad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,"
+"Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,"
+"Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hanaʾi,Hanbal,Hani,Hanif,"
+"Hannad,Haris,Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,"
+"Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam al-"
+"Din,Ibrahim,ʿId,Idris,Ihsan,Ihtisham,ʿIkrimah,Ilias,ʿImad,Imad al-Din,Imran,"
+"Imtiyaz,Inʿam,Iqbal,ʿIrfan,ʿIsa,ʿIsam,Ishaq,Ismaʿil,Iyad,Iyas,Izz al-Din,"
+"Jabbar,Jabr,Jabir,Jad Allah,Jaʿfar,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal "
+"al-Din,Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,"
+"Jul,Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
+"Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
+"Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
+"Kutaiba,Labib,Lablab,Latif,Layth,LuʿayLubayd,Luqman,Lut,Lutfi,Maʿd,Madani,"
+"Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-Din,"
+"Majid,Makin,Malik,Mamduh,Maʿmun,Maʿin,Mandhur,Mansur,Marghub,Marid,Maʿruf,"
+"Marwan,Marzuq,Mashʿal,Mashhur,Masrur,Masʿud,Masun,Maysarah,Mazhar,Mazin,"
+"Mehmed,Mihran,Mihyar,Mikaʾil,Miqdad,Misbah,Mishʿal,Miyaz,Muʾadh,Muʾawiyah,"
+"Muʾayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,"
+"Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,Muʿin,Muʿizz,Mujab,"
+"Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Muʿmmar,Muʿmin,Mumtaz,Munahid,"
+"Mundhir,Munib,Munif,Munir,Muʿnis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,"
+"Murtada,Musa,Musʿab,Musaʿid,Mushtaq,Muslih,Muslim,Mutafa,Mutaʾ,Muʿtasim,"
+"Mutawalli,Muʿtazz,Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,"
+"Nabighah,Nabih,Nabil,Nadhir,Nadim,Nadir,Nafiʾ,Nahid,Naʾil,Naʾim,Naji,Najib,"
+"Najid,Najjar,Najm al-Din,Naʿaman,Namir,Nashʿah,Nashʿat,Nashwan,Nasib,Nasih,"
+"Nasim,Nasir,Nasir al-Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,"
+"Nazmi,Nibras,Nidal,Nijad,Nimr,Nizar,Nuʿaym,Nuh,Nuhayd,Numair,Nuʿman,Nur al-"
+"Din,Nuri,Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,"
+"Qutaybah,Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Raʿid,"
+"Raʿif,Rais,Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,"
+"Rashid,Rasil,Rasin,Rasmi,Rasul,Ratib,Raʿuf,Rayhan,Rayyan,Razin,Ridha,Ridwan,"
+"Rihab,Riyad,Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Saʿadah,Sab,Sabih,Sabir,Sabri,"
+"Saʿd,Saʿd al-Din,Sadad,Sadid,Sadiq,Saʿdun,Saʿid,Safi,Safiy,Safiy al-Din,"
+"Safuh,Safwah,Safwat,Safwan,Sahib,Sahir,Sahl,Saʾib,Saif,Saif al-Din,Sajid,"
+"Sajjad,Sakhr,Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,"
+"Samman,Saqr,Sariyah,Sati,Saud,Sayyid,Shaʿban,Shadi,Shadin,Shafi,Shafiq,"
+"Shahid,Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
+"Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shuʿayb,Shukri,Shumayl,Siddiq,"
+"Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,"
+"Sumrah,Suraqah,Suʿud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,Talal,Talib,"
+"Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,"
+"Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,Thawban,ʿUbaidah,Ubaid,Ubayy,"
+"ʿUdayl,ʿUday,ʿUmar,Umarah,Umair,ʾaUrwah,Usaym,Usama,ʿUtbah,Uthal,Uthman,"
+"Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,Waʾil,Wajdi,Wajid,Wajih,Wakil,"
+"Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,"
+"Wazir,Yahya,Yaman,Yaʿqub,Yasar,Yasin,Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,"
+"Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
+"Ziyad,Zubayr,Zuhayr"
+msgstr ""
+"阿班,阿巴斯,阿布德,阿卜杜勒-阿德,阿卜杜勒-阿哈德,阿卜杜勒-阿利姆,阿卜杜勒-阿"
+"利耶,阿卜杜勒-阿齐姆,阿卜杜勒-阿齐兹,阿卜杜勒-巴迪,阿卜杜勒-巴伊,阿卜杜勒-巴"
+"基,阿卜杜勒-巴里,阿卜杜勒-巴尔,阿卜杜勒-巴希尔,阿卜杜勒-巴西特,阿卜杜勒-法塔"
+"赫,阿卜杜勒-加法尔,阿卜杜勒-加富尔,阿卜杜勒-加尼,阿卜杜勒-哈迪,阿卜杜勒-哈菲"
+"兹,阿卜杜勒-哈卡姆,阿卜杜勒-哈基姆,阿卜杜勒-哈利姆,阿卜杜勒-阿米德,阿卜杜勒-"
+"哈基,阿卜杜勒-哈西卜,阿卜杜勒-哈伊,阿卜杜勒-贾巴尔,阿卜杜勒-贾利勒,阿卜杜勒-"
+"卡里姆,阿卜杜勒-哈比尔,阿卜杜勒-哈利克,阿卜杜勒-拉蒂夫,阿卜杜勒-马利克,阿卜杜"
+"勒-马吉德,阿卜杜勒-马丁,阿卜杜勒-穆卜迪尔,阿卜杜勒-穆格尼,阿卜杜勒-穆海明,阿"
+"卜杜勒-穆赫辛,阿卜杜勒-穆海依,阿卜杜勒-穆埃德,阿卜杜勒-穆伊兹,阿卜杜勒-穆吉"
+"布,阿卜杜勒-穆明,阿卜杜勒-穆卡迪姆,阿卜杜勒-穆克塔达,阿卜杜勒-穆萨维,阿卜杜"
+"勒-穆塔阿勒,阿卜杜勒-纳菲,阿卜杜勒-纳赛尔,阿卜杜勒-纳西尔,阿卜杜勒-努尔,阿卜"
+"杜勒-卡迪尔,阿卜杜勒-卡哈尔,阿卜杜勒-卡维,阿卜杜勒-加尧姆,阿卜杜勒-库杜斯,阿"
+"卜杜勒-拉菲,阿卜杜勒-拉希姆,阿卜杜勒-拉赫曼,阿卜杜勒-拉希德,阿卜杜勒-拉沃夫,"
+"阿卜杜勒-拉扎克,阿卜杜勒-沙库尔,阿卜杜勒-塔瓦卜,阿卜杜勒-瓦杜德,阿卜杜勒-瓦哈"
+"卜,阿卜杜勒-瓦希德,阿卜杜勒-瓦基德,阿卜杜勒-瓦基勒,阿卜杜勒-瓦利,阿卜杜勒-瓦"
+"利,阿卜杜勒-沃里思,阿卜杜勒-查希尔,阿卜杜拉,阿比德,阿比丁,阿布·贝克尔,阿比·阿"
+"勒凯,阿迪勒,阿扎姆,阿迪卜,阿德利,阿德南,阿菲夫,艾哈迈德,阿吉布,阿基夫,阿基勒,"
+"阿克拉姆,阿拉,阿拉·阿勒丁,阿勒·阿巴斯,阿拉丁,阿勒巴拉,阿勒哈卡姆,阿勒哈里斯,"
+"阿勒哈桑,阿勒侯赛因,阿里,阿利姆,阿勒迈赫迪,阿勒萨菲,阿尔塔夫,阿尔泰,阿勒塔伊"
+"布,阿勒提贾尼,阿勒图费勒,阿米德,阿米德,阿明,阿米尔,阿米尔,阿姆贾德,阿马尔,阿"
+"姆鲁,阿纳斯,阿尼斯,安塔罗,安瓦尔,阿其尔,阿尔法,阿里夫,阿里夫,阿萨德,阿斯阿德,"
+"阿萨德尔,阿什拉夫,阿西夫,阿西姆,阿斯瓦德,阿塔,阿塔·阿拉,阿塔·阿勒拉赫曼,阿西"
+"尔,阿西尔,阿蒂夫,阿瓦德,奥夫,奥斯,奥瓦博,艾哈姆,艾曼,艾塞尔,阿尤博,阿萨,阿萨"
+"博,艾兹哈尔,阿齐姆,阿齐兹,阿扎姆,巴迪,巴迪·阿勒扎曼,巴德尔,巴德尔·阿勒丁,巴德"
+"里,巴哈,巴希义·阿勒丁,巴希杰,巴希尔,贝克尔,巴克里,巴莱,班达尔,巴拉卡,巴里,巴"
+"希哈,巴西勒,巴锡明,巴萨姆,巴耶齐德,拜哈斯,比拉勒,比什尔,布洛斯,布达尔,布尔汉,"
+"布沙,布特鲁斯,达比尔,达尼,达尔维什,达乌德,达卡,达其,达卡万,度尔·菲恰,迪拉,迪"
+"亚,迪亚·阿勒丁,杜凯,法迪,法迪勒,法德勒,法德勒·阿拉,法赫德,法赫德,法赫米,费萨"
+"尔,法伊兹,法赫尔,法赫尔·阿勒丁,法赫里,法基,法拉赫,法利赫,法拉杰,法尔汉,法里"
+"德,法里其,法里斯,法鲁克,法特赫,法特希,法提赫,法廷,法瓦兹,福赞,法齐,法耶兹,费"
+"兰,菲达,菲克里,菲拉斯,福阿德,福达尔,贾迈勒,加斯,加利,加利卜,加尼姆,加桑,加瓦"
+"斯,加兹万,吉亚斯,哈巴卜,哈比卜,哈达德,哈迪,哈菲兹,哈卡姆,哈基姆,哈利姆,哈马"
+"尔,哈马斯,哈姆丹,哈姆迪,哈米德,哈米姆,哈姆扎,哈纳,哈奈,汉巴尔,哈尼,哈尼夫,汉"
+"纳德,哈里斯,哈里斯,哈伦,哈希姆,哈桑,哈特姆,海达尔,海赛姆,哈扬,哈兹姆,希拉勒,"
+"希勒米,希沙姆,胡德,胡达,胡德哈法赫,胡德哈法赫,胡马姆,侯赛因,胡萨姆,胡萨姆·阿"
+"勒丁,易卜拉欣,埃德,伊德里斯,伊赫桑,伊赫提沙姆,伊克里姆赫,伊利亚斯,伊马德,伊马"
+"德·阿勒丁,伊姆兰,伊姆提亚兹,伊纳姆,伊克巴尔,伊尔凡,伊萨,伊萨姆,伊沙克,伊斯梅"
+"尔,伊亚德,伊亚斯,伊兹·阿勒丁,贾巴尔,贾布尔,贾比尔,贾德·阿拉,贾法尔,贾尔,贾拉"
+"勒,贾拉勒·阿勒丁,贾利勒,贾迈勒,贾迈勒·阿勒丁,贾米勒,贾里尔,贾西姆,贾勒,贾温,"
+"贾瓦德,贾乌德,乔哈尔,朱卜兰,贾布里勒,朱巴尔,朱勒,朱马赫,朱奈德,朱万,卡达尔,卡"
+"丁,卡迪尔,卡希勒,卡里其,卡迈勒,卡米勒,卡拉姆,卡尔达勒,卡里夫,卡里姆,卡西卜,卡"
+"西姆,卡提卜,卡齐姆,哈拉夫,哈勒敦,哈立德,哈立德,哈利勒,哈利勒·阿勒阿拉,哈利斯,"
+"哈提卜,海尔·阿勒丁,哈伊里,胡利,胡卢西,胡扎亚姆赫,库塔伊巴,拉比卜,拉卜拉卜,拉"
+"蒂夫,拉斯，卢埃卢巴亚德,卢克曼,卢特,卢特菲,马德,迈达尼,马赫布卜,迈赫迪,马赫福"
+"兹,马希尔,马哈古卜,马哈茂德,马赫鲁斯,迈蒙,马吉德,马吉迪,马吉德·阿勒丁,马希德,"
+"马金,马利克,马姆杜,马蒙,马因,曼德赫,曼苏尔,马尔古布,马里德,马鲁夫,马尔万,马尔"
+"祖克,玛莎勒,马什胡尔,马斯罗尔,马苏德,马松,迈萨拉,马兹哈尔,马辛,穆罕默德,米伦,"
+"米哈,米凯尔,米克德,米斯巴赫,米沙勒,米亚兹,穆阿德,穆阿维耶,穆阿耶德,穆巴拉克,"
+"穆宾,穆达尔,穆达斯斯尔,穆菲德,穆夫利赫,穆哈卜,穆哈亚,穆罕默德,穆汉纳,穆汉纳"
+"德,穆希卜,穆希布,穆赫辛,穆赫塔迪,穆赫依·阿勒丁,穆因,穆伊兹,穆亚卜,穆贾希德,穆"
+"卡拉姆,穆赫利斯,穆赫塔尔,穆勒汉姆,穆勒希姆,穆马,穆明,蒙塔兹,蒙纳希德,蒙齐尔,"
+"穆尼卜,穆尼夫,穆尼尔,穆尼斯,蒙基德,蒙斯夫,蒙塔塞尔,穆拉德,穆尔德,穆尔希德,穆"
+"尔塔达,穆萨,穆沙卜,穆赛义德,穆什塔克,穆斯利赫,穆斯利姆,穆塔法,穆塔,穆塔西姆,"
+"穆塔瓦利,穆塔兹,穆萨纳,穆蒂,穆瓦法克,穆亚西尔,穆扎法尔,穆萨米勒,纳卜汉,纳比哈"
+"赫,纳比,纳比勒,纳德赫尔,纳迪姆,纳迪尔,纳菲,纳希德,纳伊尔,纳伊姆,纳吉,纳吉布,"
+"纳吉德,纳贾尔,纳杰姆·阿勒丁,纳曼,纳米尔,纳沙赫,纳沙特,纳什万,纳西卜,纳西赫,纳"
+"西姆,纳西尔,纳西尔·阿勒丁,纳斯尔,纳斯里,纳苏赫,纳瓦夫,纳乌法勒,纳伊夫,纳齐赫,"
+"纳齐姆,尼巴斯,尼达尔,尼亚德,尼米尔,尼扎尔,纳伊姆,努赫,努哈亚德,努马尔,努曼,努"
+"尔·阿勒丁,努里,努斯拉赫,努斯拉特,奥马尔,奥尔汗,奥斯曼,卡西姆,卡伊斯,库达马赫,"
+"库赛,卡塔达赫,库塔耶巴赫,库特卜,库土兹,拉巴赫,拉比,拉迪,拉菲,拉菲德,拉菲克,拉"
+"吉卜,拉赫曼,拉伊德,拉伊夫,赖斯,拉贾,拉杰卜,拉吉,拉吉赫,拉金,拉米,拉米赫,拉米"
+"兹,拉尼,拉沙德,拉希德,拉西勒,拉辛,拉斯米,拉苏尔,拉提卜,拉乌夫,拉伊汉,拉亚,拉"
+"赞,里达,里德万,里哈卜,里亚德,里兹克,鲁希,鲁什德,鲁什迪,鲁韦德,萨阿德,萨阿达"
+"赫,萨卜,萨比赫,萨比尔,萨布里,萨德,萨德·阿勒丁,萨达德,萨迪德,萨迪克,萨阿敦,赛"
+"义德,萨菲,萨菲耶,萨菲耶·阿勒丁,萨夫赫,萨夫瓦赫,萨夫瓦特,萨夫万,萨希卜,萨希尔,"
+"萨尔,赛义卜,赛义夫,赛义夫·阿勒丁,赛义德,萨贾德,萨赫尔,萨拉赫,萨拉赫·阿勒丁,萨"
+"拉马,萨利赫,萨利姆,萨勒曼,萨米,萨米赫,萨米尔,萨曼,萨克尔,萨里亚赫,萨提,沙特,"
+"赛义德,沙班,沙迪,沙丁,沙菲,沙菲克,沙希德,沙欣,沙赫尔,沙基卜,沙基尔,沙姆斯·阿"
+"勒丁,沙马勒,沙米勒,沙米姆,谢拉夫,谢里夫,舒基,谢哈布,谢哈布·阿勒丁,谢哈德,舒艾"
+"布,舒凯里,舒马勒,西迪克,锡南,西拉杰,西拉杰·阿勒丁,索菲安,苏卜希,苏夫杨,苏哈伊"
+"卜,苏海拉,苏海姆,苏莱曼,苏姆拉赫,苏拉卡赫,苏乌德,塔希尔,塔赫辛,塔伊姆·阿拉,塔"
+"杰,塔杰·阿勒丁,塔拉勒,塔利布,塔米米,塔米尔,塔玛姆,塔马姆,塔基,塔里夫,塔里克,"
+"塔斯林,陶菲克,陶希德,泰穆尔赫,泰西尔,塔伊布,萨比特,萨米尔,萨奇卜,萨瓦卜,萨瓦"
+"班,奥贝达赫,奥贝德,奥贝伊,乌代勒,乌代,奥马尔,奥马尔赫,乌马尔,厄瓦赫,乌萨姆,乌"
+"萨马,乌巴赫,乌泰尔,奥斯曼,瓦达,瓦迪,瓦迪德,瓦菲克,瓦哈布,瓦哈卜,瓦希德,瓦伊"
+"勒,瓦伊迪,瓦吉德,瓦吉赫,瓦基勒,瓦利德,瓦利夫,瓦利耶·阿拉,瓦利耶·阿勒丁,瓦卡"
+"尔,瓦卡斯,瓦尔德,瓦西夫,瓦西尔,瓦西姆,瓦齐尔,叶海亚,亚曼,雅各布,亚萨尔,亚辛,"
+"亚西尔,亚赞,耶齐德,尤努斯,尤沙,尤斯里,优素福,扎法尔,扎菲尔,扎希德,查希尔,扎伊"
+"德,扎伊姆,扎伊纳,扎里夫,扎卡里亚,扎基,扎卡万,齐亚德,祖巴伊尔,祖海尔"
+
+msgid ""
+"Amprixta,Anexir,Anitraz,Arix,Axiz,Bzz’Kza,Chamil,Cleezi,Clezz,Fazzis,"
+"Fizztrax,Flixta,Flizzil,Frikes,Frizzle,Hasz,Heffez,Hertrazzir,Hesz,Hezzir,"
+"Hezzis,Hix,Inexis,Irix,Jezzix,Jizz,Kaliez,Kepzs,Kernix,Kersezz,Kertrasz,Kerx,"
+"Kerxenix,Kezz,Klexaz,Klezyx,Krarax,Krenarex,Krex,Krinex,Krisess,Laizix,Lazki,"
+"Lixeez,Merax,Mexiss,Moxanzz,Naxisz,Nix,Pekzs,Plaxis,Plesix,Presch,Sailik,"
+"Salanix,Salik,Sandix,Saprazz,Satras,Skalix,Skandix,Skazix,Skeely,Skeezix,"
+"Sklizle,Skrez,Slizilx,Sprizz,Ssexur,Ssizer,Ssorix,Sszasz,Sterizz,Talerez,"
+"Tarex,Tarnix,Tezzaz,Tirasch,Tirax,Tirix,Trezz,Venezz,Vriss,Waks,Xaffrasz,"
+"Xartrez,Xasz,Xaztex,Xerxix,Xirasz,Xirr,Xirtras,Xirtrez,Xirz,Zandler,Zedrix,"
+"Zilrix,Zizzasz,Zslap,Zzalkz,Zzupde"
+msgstr ""
+"阿姆布里希塔,安纳希尔,安尼特拉兹,阿利克斯,阿克斯,布兹卡匝,查米尔,克里兹,克雷"
+"兹,法泽斯,菲兹特拉克斯,佛里克斯塔,佛利兹尔,佛里克斯,佛里索尔,哈兹,赫菲兹,赫塔"
+"兹尔,赫匝,赫兹尔,赫匝斯,希克斯,伊内科希斯,伊里克斯,杰希克斯,杰兹,卡勒兹,卡普"
+"兹,柯尼克斯,柯申斯,柯图拉特斯,柯克斯,柯申克斯,柯兹,柯勒克萨斯,柯勒辛斯,柯拉拉"
+"克斯,柯伦阿里克斯,柯雷克斯,柯里尼克斯,柯里申斯,莱希克斯,拉泽奇,历希斯,莫莱克"
+"斯,莫希斯,莫山斯,纳克希斯,尼克斯,佩克萨斯,普拉克希斯,普莱希克斯,普雷斯奇,赛里"
+"克,萨兰尼斯,赛里克,萨迪克斯,萨普拉兹,萨图拉斯,斯卡里克斯,斯堪迪克斯,斯卡希克"
+"斯,斯基利,斯基希克斯,斯基利希尔,斯柯雷兹,斯里兹里克斯,斯普里兹,瑟克萨,西萨,索"
+"里克斯,斯匝兹,斯特里兹,塔勒雷兹,塔雷克斯,塔尼克斯,特匝兹,提拉斯奇,提拉克斯,提"
+"里克斯,特雷兹,文内兹,文里斯,瓦克斯,夏夫拉兹,夏特雷兹,夏兹,夏特雷克斯,谢雷特西"
+"斯,希拉兹,希,希拉特拉斯,希拉特雷兹,希兹,赞多尔,泽德里克斯,希尔雷克斯,希兹阿"
+"兹,希斯拉普,匝尔克兹,匝普德"
+
+msgid ""
+"Absu,Abzu,Aigaion,Alastyn,Apalala,Apam,Apsu,Aremata,Atlahua,Atlaua,Barinthus,"
+"Dhakhan,Dylan,Elcmar,Ember,Enki,Faro,Habaek,Ikatere,Jamm,Jin,Kinilau,Kulullu,"
+"Labuna,Laut,Lir,Llyr,Ludd,Makara,Maui,Melicertes,Mimir,Natat,Nechtan,Neptune,"
+"Nereus,Nethuns,Njord,Nuada,Nudd,Nudimmud,Nun,Oceanus,Okeanos,Phorcys,Pontus,"
+"Popoa,Poseidon,Proteus,Raja,Rau,Rorua,Ryujin,Scylla,Sinilau,Sisiutl,Tagaloa,"
+"Tanaoa,Tangaloa,Tangaroa,Thaumas,Tikitiki,Tini,Tinilau,Tinirau,Toniwha,"
+"Triton,Vizi,Vodnik,Vourukasa"
+msgstr ""
+"艾布苏,艾布祖,艾该温,阿拉斯廷,阿帕拉拉,阿帕姆,阿帕苏,阿雷麦塔,阿塔拉华,阿塔拉"
+"瓦,巴林萨斯,达克汉,迪兰,艾尔克瓦,艾姆巴,恩基,法罗,哈巴克,伊卡特尔,伽姆,金,金"
+"尼劳,库鲁鲁,拉布那,劳特,利尔,里尔,路德,马卡拉,茅伊,梅利希特斯,米米尔,纳塔特,"
+"纳特琉斯,内普丁,内纳鲁斯,内森斯,内贾德,努阿达,努德,努迪蒙德,纳恩,欧辛纳斯,欧"
+"金诺斯,菲欧希斯,本图斯,波波阿,波塞冬,普洛图斯,拉伽,劳,洛拉,柳金,斯奇拉,辛尼"
+"劳,希修提尔,塔伽洛阿,塔纳阿,坦甲洛阿,坦加,陶玛斯,提奇提奇,提尼,提尼劳,提尼洛,"
+"托尼瓦,托尼温,维兹,伏德尼克,伏鲁卡萨"
+
+msgid ""
+"Aglaopheme,Amphitrite,Aphrodite,Ariel,Atargatis,Calypso,Delphine,Derceto,"
+"Diktynna,Electra,Galatea,Himeropa,Jengu,Leucosia,Ligia,Lori Lamaris,Mama "
+"Wata,Marina,Miranda,Miriam,Molpe,Parthenope,Pelagia,Pisinoe,Rân,Sedna,Stella "
+"Maris,Thelxiepia,Tirgata,Vatea,Ved-Ava,Veen emo,Vete-ema"
+msgstr ""
+"安吉拉菲米,艾蜜菲特,艾菲洛蒂特,艾莉儿,艾塔佳提丝,卡莉普索妮,德尔菲妮,德丝托"
+"妮,蒂可提娜,伊莱可特拉,伽拉提妮,希梅萝帕,珍古,琉克希娅,莉基娅,萝莉·拉玛莉丝,"
+"玛玛·瓦塔,玛丽娜,米兰达,米丽娅,莫尔菲,帕丝诺帕,佩娜吉拉,佩希诺伊,兰,希德娜,斯"
+"蒂拉·玛丽丝,希莉珂丝皮娅,提佳塔,瓦提,薇-艾娃,薇恩·艾墨儿,薇特-艾玛"
+
+msgid ""
+"Abraxas,Aleiss,Amail,Axmail,Blanal,Bleii,Blo,Bress,Briss,Gaxmol,Griam,Griss,"
+"Grissileii,Hailoss,Hainoss,Harxos,Huzel,Inaloss,Ineii,Issal,Klezel,Kras,"
+"Krezkps,Kzap,Lamaiss,Lameii,Lexpek,Liness,Lobor,Maissol,Malinos,Milbor,"
+"Mileii,Nildloss,Oxpeii,Poniaz,Psell,Pson,Pzakp,Reii,Sassal,Saxil,Saxrireii,"
+"Sekol,Silas,Skell,Skepz,Slell,Snol,Soill,Sorkol,Srell,Trixoz,Vilail,Vissal,"
+"Vlanis,Xabrak,Xamalel,Xinas,Xnamos,Xopkon,Zalsp,Zlek,Zpsek,Zsekp"
+msgstr ""
+"阿布拉克萨斯,阿雷斯,阿梅尔,阿克斯梅尔,布拉纳尔,布雷伊,布罗,布瑞斯,布利斯,伽克"
+"斯摩尔,格里阿姆,格里斯,格里斯雷伊,海尔洛斯,海诺斯,哈克索斯,忽则尔,伊纳诺斯,伊"
+"内伊,伊萨尔,克勒泽尔,克拉斯,克雷泽克普斯,克扎普,拉米伊斯,拉姆雷,勒克斯佩克,利"
+"内斯,洛博,麦索尔,玛里诺斯,米尔博,米雷伊,尼尔德罗斯,欧克斯佩伊,波尼亚兹,波赛"
+"尔,波松,波扎克,雷伊,萨赛尔,萨克希尔,萨克斯利雷伊,瑟克尔,希拉斯,斯克尔,斯克普"
+"斯,斯勒尔,斯诺尔,索伊尔,索克尔,斯瑞尔,崔克斯欧兹,维拉尔,维萨尔,维拉尼斯,希布"
+"拉克,希玛雷尔,希纳斯,希纳莫斯,希欧普空,扎尔斯普,兹雷克,兹普斯克,兹斯克"
+
+msgid ""
+"Aliasse,Amailis,Axmailia,Blai,Blanalai,Bli,Bliana,Brassas,Brissal,Gaxmail,"
+"Griama,Grissa,Grissilai,Haila,Haina,Harxias,Huzi,Inai,Inalai,Issalai,Klez,"
+"Kras,Krezkps,Kzap,Lamai,Lamaissa,Lexpek,Liabra,Lilin,Linassa,Maissa,Malina,"
+"Mila,Milbra,Nildlasi,Oxpel,Poniazal,Psal,Psen,Pzakp,Riaa,Sall,Sassalia,"
+"Saxiala,Saxririaa,Sek,Skal,Skepz,Sla,Snelia,Srak,Sral,Szak,Trixzed,Vilaila,"
+"Vissalai,Vlanissa,Xabrak,Xamalia,Xina,Xinasia,Xnamas,Xopkne,Zalsp,Zlek,Zpsek,"
+"Zsekp"
+msgstr ""
+"艾莉阿希,艾麦莉丝,艾克丝麦莉娅,巴莱,巴兰纳莱,波莉,波莉娅拉,布拉萨丝,布莉萨儿,"
+"伽克丝梅儿,格莉娅玛,格莉莎,格莉希莱,海莉娅,海娜,哈克夏丝,胡兹,伊娜儿,伊纳莱,"
+"伊萨莱,克勒丝,库拉丝,库瑞泽克普丝,克萨普斯,拉麦儿,拉麦萨,勒克丝佩可,莉娅波拉,"
+"琳琳,莉娜莎,麦莎,玛莉娜,米拉,米尔布拉,妮尔德拉丝,欧克丝佩儿,波妮娅瑟儿,赛儿,"
+"申,萨科普,莉娅,萨儿,萨萨莉娅,萨克丝夏拉,萨克丝莉莉娅,瑟科,斯卡儿,斯克普丝,斯"
+"拉,斯内莉娅,斯拉可,斯拉尔,斯扎可,崔克丝哲德,薇莱拉,薇萨莱,薇拉妮莎,夏布拉可,"
+"夏玛莉娅,希娜,希娜希娅,希纳玛丝,希欧普科内,扎尔丝帕,扎尔可,兹普丝可,兹丝可"
+
+msgid ""
+"Akoark,Akort,Akzalk,Arkarm,Barkuk,Blokkar,Borkuk,Bukkak,Bulruk,Corkkar,"
+"Delkkak,Garkuk,Gnukk,Goruk,Grak,Gurk,Gurm,Kalknix,Karak,Karbuk,Kargnak,"
+"Karterak,Kayrak,Kelkrar,Kerta,Kilkrar,Kingrok,Kirk,Klud,Kokkan,Kolk,Komak,"
+"Korgnak,Kork,Koruck,Kramak,Krog,Krukrak,Krumuk,Kuknuk,Kurkur,Kurmak,Makron,"
+"Markaak,Markuk,Merknik,Nargak,Olk,Orkut,Reknak,Takolak,Trabuk,Trakkon,Urkar,"
+"Urkark"
+msgstr ""
+"阿阔拉克,阿阔特,阿克扎尔克,阿克阿姆,巴库克,布罗卡,博库克,布卡克,布鲁克,阔卡,"
+"德尔卡克,伽库克,格努克,格鲁克,格拉克,嘎克,嘎姆,卡尔尼克斯,卡拉克,卡布克,卡格"
+"纳克,卡特拉克,凯拉克,基尔卡拉,柯塔,基尔克拉,金罗克,坷克,克鲁德,阔坎,阔克,阔马"
+"克,阔格纳克,阔尔克,阔鲁克,克拉马克,克鲁格,克鲁克拉克,克鲁马克,克鲁纳克,卡卡,"
+"卡马克,马克隆,马卡克,马库克,莫克内克,纳伽克,欧尔克,欧尔克特,雷克纳克,塔寇拉"
+"克,特拉布克,特拉空,乌卡,乌克阿克"
+
+msgid ""
+"Badush,Bagar,Bagdish,Barag,Barbag,Bart,Bashnak,Bidish,Bidush,Bik,Bilg,Bilo,"
+"Binak,Bink,Biol,Birt,Bogar,Bogdish,Bogdush,Bogor,Bok,Bolg,Bong,Borg,Bork,"
+"Bort,Boshnak,Budush,Bugdish,Buk,Bunak,Bung,Bunk,Burag,Burg,Burk,Buurk,"
+"Eradash,Eradish,Eragdish,Eragdush,Eragor,Eranak,Erang,Erarag,Erarg,Erart,"
+"Erigdush,Erik,Erinak,Eriol,Erirag,Erirbag,Erirg,Erirt,Erishnak,Eriurk,"
+"Erogdish,Erogdush,Erok,Erong,Eronk,Erorbag,Erudish,Erudush,Erugar,Erugdush,"
+"Erulo,Erunk,Eruol,Erurag,Eruurk,Gadash,Gagar,Gagdush,Gagor,Galo,Ganak,Gank,"
+"Gaol,Garag,Gashnak,Gigor,Ginak,Ging,Gink,Girt,Gogdish,Gogdush,Gong,Gork,Gort,"
+"Goshnak,Gradash,Gragar,Gragor,Grak,Gralg,Gralo,Granak,Graol,Grarbag,Gridash,"
+"Gridish,Gridush,Grigar,Grigor,Grilg,Grilo,Grink,Grirag,Grirg,Grirk,Grishnak,"
+"Grodish,Grogar,Grogdish,Grok,Grolg,Grong,Gronk,Grorag,Grorg,Grork,Grort,"
+"Groshnak,Grudash,Grugar,Grugdish,Grugdush,Gruk,Grulo,Grunk,Gruol,Grurg,Grurk,"
+"Grurt,Gruurk,Gugdish,Gugdush,Gulg,Gulo,Gunak,Gurbag,Gurt,Gushnak,Hadash,"
+"Hadish,Hadush,Hagar,Hagdush,Hagor,Hak,Halg,Hank,Hashnak,Hidash,Hidish,Hidush,"
+"Higdush,Hilg,Hinak,Hing,Hink,Hiol,Hirag,Hirg,Hodush,Hogar,Hogor,Hong,Hool,"
+"Horbag,Hork,Hort,Hoshnak,Hudash,Hudish,Hugor,Huk,Hulg,Hulo,Hunk,Huol,Hurag,"
+"Hurbag,Hurk,Hushnak,Huurk,Pagdish,Pagor,Palg,Palo,Paol,Parag,Pashnak,Pidush,"
+"Pigdish,Pigdush,Pilg,Pinak,Pink,Pirbag,Podash,Podish,Podush,Pogdish,Polg,"
+"Porbag,Porg,Pork,Port,Poshnak,Pradish,Pragdush,Pragor,Pralg,Pralo,Prang,"
+"Praol,Prarag,Prarbag,Prarg,Prark,Prart,Prashnak,Praurk,Pridish,Prigar,"
+"Prigdish,Prigor,Prilg,Prilo,Prinak,Priol,Prirbag,Prirg,Prirt,Priurk,Prodash,"
+"Prodish,Prodush,Prolg,Prolo,Pronak,Prong,Pronk,Prool,Prourk,Prudish,Prugar,"
+"Prugdish,Pruk,Prunak,Prunk,Prurg,Prurk,Pruurk,Puk,Pulg,Pulo,Punak,Pung,Punk,"
+"Purag,Purbag,Purg,Puurk,Radash,Ragar,Ragdish,Rak,Rang,Rank,Raol,Rarag,Rarbag,"
+"Rark,Rashnak,Raurk,Rigor,Rik,Rilg,Rinak,Rink,Rirg,Rirk,Rodish,Rodush,Rogdish,"
+"Rok,Rolo,Ronak,Rudash,Rugar,Rugdish,Ruk,Rung,Ruol,Rurag,Rushnak,Vadash,"
+"Vadish,Vadush,Vak,Valo,Vank,Varag,Varbag,Vigar,Vigdish,Vigor,Vilg,Vilo,Vink,"
+"Virag,Virt,Vishnak,Vogdish,Vogor,Vonak,Vong,Vorg,Vork,Voshnak,Vourk,Vradash,"
+"Vragar,Vragdush,Vragor,Vralo,Vrang,Vrarbag,Vrarg,Vrart,Vraurk,Vridash,"
+"Vridish,Vrigor,Vrik,Vrinak,Vring,Vrirt,Vrishnak,Vriurk,Vrodash,Vrodish,"
+"Vrogar,Vrogor,Vrolo,Vrong,Vrorg,Vrork,Vrudish,Vrugdush,Vrulg,Vrung,Vruol,"
+"Vrurg,Vrurt,Vruurk,Vudish,Vuk,Vulg,Vulo,Vunak,Vurag,Vurbag,Vurg,Vushnak"
+msgstr ""
+"巴达西,巴加,巴戈迪西,巴拉戈,巴巴戈,巴特,巴什纳克,比迪西,比达什,比克,比力格,比"
+"力欧,比纳克,宾克,比欧尔,博特,博加,博戈迪西,博戈达什,博戈,博克,博尔戈,崩,博戈,"
+"巴克,博特,博什纳克,巴达什,巴戈迪什,巴鲁克,巴纳克,邦,邦克,布拉戈,巴戈,布克,布"
+"鲁克,埃拉达什,埃拉迪什,埃拉戈迪什,埃拉戈达什,埃拉戈诺尔,埃拉纳克,埃朗,埃拉拉"
+"戈,埃拉戈,埃拉特,埃里戈达什,埃里克,埃里纳克,埃里欧尔,埃里拉戈,埃里巴戈,埃里"
+"戈,埃里特,埃里什纳克,埃里鲁拉克,埃罗格迪什,埃罗格达什,埃罗克,埃隆,埃隆克,埃罗"
+"巴戈,埃鲁迪什,埃鲁达什,埃鲁加,埃鲁戈达什,埃鲁罗,埃鲁克,埃鲁罗尔,埃鲁拉戈,埃鲁"
+"阿克,加达什,加加,加戈达什,加戈,加罗,加纳克,刚克,高尔,加拉戈,加什纳克,基高,基"
+"纳克,基恩,基克,各特,高戈迪什,高戈达什,龚戈,高克,高特,高什纳克,戈拉达什,戈拉"
+"加,戈拉高,戈拉克,戈拉,戈拉罗,戈拉纳克,戈拉尔,戈拉巴戈,戈里达什,戈里迪什,戈里"
+"达什姆,戈里加,戈里高,戈里尔戈,戈里欧,格林克,戈里拉戈,戈里戈,戈里克,戈里什纳"
+"克,戈罗迪什,戈罗加,戈罗迪什姆,戈罗克,戈罗尔戈,戈隆,戈隆克,戈罗拉戈,戈罗戈,戈"
+"罗克姆,戈罗特,戈罗什纳克,戈鲁达什,戈鲁加,戈鲁戈迪什,戈鲁戈达什,戈鲁克拉什,戈"
+"鲁罗,戈朗克,戈鲁尔,戈鲁戈,戈鲁克,戈鲁特,戈鲁阿克,加戈迪什,加戈达什,加尔戈,加"
+"尔罗,加纳克,加巴戈,加特,加什纳克,哈达什,哈迪什,哈度什,哈加,哈戈度什,哈戈,哈"
+"克,哈尔戈,汉克,哈什纳克,西达什,西迪什,西度什,西戈度什,西尔戈,西纳克,银,银克,"
+"西欧尔,西拉戈,西尔戈,霍度什,霍加,霍高,訇,霍尔,霍巴戈,霍克,霍特,霍什纳克,夯达"
+"什,夯迪什,夯克什,夯尔戈,夯戈,夯罗,夯克,夯尔,夯拉什,夯巴戈,夯尔克,夯什纳克,呼"
+"克,帕戈迪什,帕高,帕尔戈,帕罗,抛尔,帕拉戈,帕什纳克,匹迪什,匹戈迪什,匹戈达什,匹"
+"尔戈,匹纳克,匹克,匹尔巴戈,坡达什,坡迪什,坡度什,坡戈迪什,坡尔戈,坡巴戈,坡戈,坡"
+"克,坡特,坡什纳克,普拉迪什,普拉戈达什,普拉高,普拉戈,普拉罗,普朗,普劳尔,普拉拉"
+"戈,普拉巴戈,普拉戈,普拉克,普拉特,普拉什纳克,普劳阿克,普里迪什,普里加,普里戈达"
+"什,普里高,普里尔格,普里罗,普里纳克,普里欧尔,普里尔巴戈,普里尔戈,普里尔特,普里"
+"乌阿克,普罗达什,普罗迪什,普罗度什,普罗戈,普罗罗,普罗纳克,普朗,普隆克,普鲁尔,"
+"普劳尔克,普鲁迪什,普鲁加,普鲁戈迪什,普鲁克,普鲁纳克,普朗克,普鲁戈,普拉克,普鲁"
+"戈姆,帕克,帕尔戈,普罗,普纳克,庞,庞克,庞拉戈,庞巴戈,庞戈,庞戈姆,拉达什,拉伽,拉"
+"戈迪什,拉克,朗,朗克,朗尔,拉拉戈,拉巴戈,拉克,拉什纳克,劳克,里高,里克,里尔戈,里"
+"纳克,林克,里戈,里克姆,罗迪什,罗达什,罗戈迪什,罗克,罗罗,罗纳克,鲁达什,鲁加,鲁"
+"戈迪什,鲁克,鲁昂,鲁尔,鲁拉戈,鲁什纳克,乏达什,乏迪什,乏度什,乏克,乏罗,凡克,乏"
+"拉戈,乏巴戈,威加,威戈迪什,威高,威尔戈,威罗,威克,威拉戈,威特,威什纳克,孚戈迪"
+"什,孚高,孚纳克,孚,孚戈,孚克,孚什纳克,孚尔克,孚拉达什,孚拉加,孚拉戈达什,孚拉"
+"高,孚拉罗,孚朗,孚拉巴戈,孚拉戈,孚拉特,孚劳克,孚里达什,孚里迪什,孚里高,孚里克,"
+"孚里纳克,孚林,孚里阿特,孚里什纳克,孚里乌阿克,孚罗达什,孚罗迪什,孚罗加,孚罗高,"
+"孚罗罗,孚朗,孚罗戈,孚罗克,孚鲁迪什,孚鲁戈达什,孚鲁戈,孚阮,孚罗尔,孚罗鲁戈,孚"
+"鲁特,孚鲁卡姆,乏迪什,乏姆克,孚尔戈,孚罗姆,乏纳克姆,乏纳戈姆,乏巴戈姆,乏格姆,"
+"孚什纳克"
+
+msgid ""
+"Äg,Agh,Bog Äh,Borb,Brag,Brag Goh,Brok,Dak,Drog,Frok,Ga,Gah,Gark,Gnarf,Grar,"
+"Grokk,Grumph,Gulk,Hak,Hask,Hoth,Hug Bah,Hu Kah,Kak,Krak,Krug,Kub,Kuh,Lok,Luk,"
+"Nak,Nuk Kar,Pag,Reck,Rok,Ruk,Sark,Shak,Shuf,Stuh,Targ,Thog,Thruf,Thur,Tohg,"
+"Torg,Trok,Tsok,Tuh,Tuk Ruh,Ugg,Üh,Urg,Urgh,Urk,Vak,Zog,Zuug"
+msgstr ""
+"阿格,阿嘎,布格·阿,布博,布拉格,布拉格·嘎,布罗克,达克,德罗格,福罗克,嘎,格,嘎克,"
+"格纳夫,格拉,格罗克,格拉姆,格尔克,哈克,哈斯克,霍斯,哈格·巴,呼·卡,卡克,克拉克,"
+"库拉格,库博,库,罗克,鲁克,纳克,纳克·卡,帕格,雷克,路克,拉克,萨克,夏克,夏夫,斯"
+"图,塔格,图鲁格,图鲁夫,苏尔,托格,托尔格,托克,苏克,塔,塔克·拉,尤格,阿,乌格,乌"
+"拉,乌克,乏克,佐格,组格"
+
+msgid ""
+"Bludebalmen,Boladrumbadrum,Bolwuldelman,Bombempomgontor,Bomtanbomkenton,"
+"Bomtanbomtonum,Bregalad,Bremdebubde,Brenbasnudnem,Brendumadoak,"
+"Brommantendronnor,Brumbendublun,Brumennarunom,Brummdlebroak,Bumbadadabum,"
+"Buomdumdenlol,Carnimirië,Dabumdabumtam,Dammantongonnur,Danmonlulbam,"
+"Debundbemun,Delmduelmdelom,Diblembumnde,Dolmannumbil,Drongnoblemdu,"
+"Dulmandarook,Dulwulmendom,Dumdumdumatum,Elmaroomadrum,Grelmadrumbumadum,"
+"Gulladroamadoak,Gumabeladrelm,Laffalialomdium,Landunwonbam,Lassemista,"
+"Lefnublemdde,Libleddnumm,Lolmandindel,Monlamwimdan,Muldondindal,"
+"Mundionalafla,Mundumblemdum,Munnamdulbon,Nanmildaldum,Nunmaldildun,Orofarnië,"
+"Pambedrumne,Pomtamkomtrobum,Rithramcamhan,Tantondernintan,Temtundembenn,"
+"Temtunnongetem,Tondenkontenkon,Troombadoom,Tumtentantarun,Tumtonnongatum,"
+"Tumtumgamtomtom,Wonrunmaldin,Wudadoonopl"
+msgstr ""
+"布鲁德巴尔蒙,波拉杜鲁姆班德鲁姆,波尔乌尔德蒙,波姆博姆波姆托,波姆坎博姆坎通,波"
+"姆坦博姆通纳姆,布雷伽拉德,布雷姆德布布德,布雷巴斯努德纳姆,布雷达玛多阿克,布鲁"
+"姆蔓藤多诺诺尔,布鲁姆本多布伦,布鲁蒙纳鲁诺姆,布鲁姆莫德尔布洛克,巴姆巴达达巴"
+"姆,波姆达姆登罗,卡尼米利埃,达巴姆达巴姆塔姆,达姆蔓通龚诺尔,丹莫恩努尔巴姆,德"
+"巴德本穆恩,德尔姆丢尔姆德罗姆,迪布尔姆巴姆德,多尔蔓纳姆比尔,德隆诺波尔姆度,杜"
+"尔蔓达鲁克,杜尔乌尔蒙多幕,达姆达姆达玛托姆,埃尔玛洛玛德拉姆,格雷尔玛德拉姆巴"
+"姆达姆,古拉德罗玛德拉克,古玛贝拉德雷尔姆,拉法里尔姆迪乌姆,兰当沃巴姆,拉瑟姆密"
+"斯塔,勒夫纳波尔纳姆德,利波尔德纳姆,罗尔蔓丁德尔,莫拉姆威姆丹,玛尔冬丁达尔,玛"
+"迪温纳拉普拉,玛达姆波尔姆达姆,玛纳姆达尔波姆,纳米尔德波尔达姆,纳玛尔迪尔当,欧"
+"罗法尼,帕姆贝德拉姆达姆,帕姆达姆科姆特罗纳姆,里斯拉姆卡姆汉,坦通德宁坦,特姆坦"
+"恩德姆本,特姆坦农格特姆,通德恩孔腾孔,特鲁姆巴杜姆,塔姆腾塔塔格朗姆,塔姆腾朗格"
+"塔姆,塔姆塔姆格姆托姆托姆,沃壤玛尔丁,沃达多尔普"
+
+msgid ""
+"Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,"
+"Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York"
+msgstr ""
+"巴尔,卡姆,科恩,德尔,伊艾尔,艾尔,福克斯,福伦,葛尔,黑尔,海克斯,霍尔,霍克斯,伊"
+"尔,金,纳姆,尼斯,纽,欧尔,欧德,欧夫,欧乌尔,欧克斯,洛克,卢克,萨尔,萨姆,希德,赛"
+"尔,森,西尔,塔尔,沃特,维特,约克"
+
+#. [objective]: condition=lose
+msgid "Turns run out"
+msgstr "回合耗尽"
+
+#. [lua]: generate_objectives
+msgid "Early finish bonus."
+msgstr "提前过关奖励："
+
+#. [lua]: generate_objectives
+msgid "No early finish bonus."
+msgstr "无提前过关奖励。"
+
+msgid "<small>(early finish bonus)</small>"
+msgstr "<small>（提前过关奖励）</small>"
+
+msgid "(early finish bonus)"
+msgstr "（提前过关奖励）"
+
+#. [lua]: generate_objectives
+msgid "No gold carried over to the next scenario."
+msgstr "不会有任何金币被带到下一场景。"
+
+msgid ""
+"\n"
+"100% of finishing gold carried over to the next scenario."
+msgstr ""
+"\n"
+"100%的剩余金币会带到下一场景。"
+
+msgid ""
+"\n"
+"40% of finishing gold carried over to the next scenario."
+msgstr ""
+"\n"
+"40%的剩余金币会带到下一场景。"
+
+msgid ""
+"\n"
+"20% of finishing gold carried over to the next scenario."
+msgstr ""
+"\n"
+"20%的剩余金币会带到下一场景。"
+
+msgid "Alternative objective:"
+msgstr "替代目标："
+
+msgid "Bonus objective:"
+msgstr "奖励目标："
+
+#. [note]: description=<b>
+msgid "This is the last scenario."
+msgstr "这是最后一个场景。"
+
+#. [message]: speaker=narrator
+msgid ""
+"The computer player might not be able to play side $side_number properly in "
+"this scenario. Side $side_number is intended to be played by a human player."
+msgstr ""
+"在本场景中，电脑玩家不能使用阵营$side_number很好发挥。阵营$side_number是为人"
+"类玩家设计的。"
+
+#. [message]: speaker=narrator
+msgid "You retrieve $amount_gold pieces of gold."
+msgstr ""
+
+#. [color_range]: id=1
+#. [color_range]: id=red
+msgid "Red"
+msgstr "红"
+
+#. [color_range]: id=lightred
+msgid "Light Red"
+msgstr "浅红"
+
+#. [color_range]: id=darkred
+msgid "Dark Red"
+msgstr "深红"
+
+#. [color_range]: id=2
+#. [color_range]: id=blue
+msgid "Blue"
+msgstr "蓝"
+
+#. [color_range]: id=lightblue
+#, fuzzy
+msgid "Light blue"
+msgstr "浅红"
+
+#. [color_range]: id=3
+#. [color_range]: id=green
+msgid "Green"
+msgstr "绿"
+
+#. [color_range]: id=brightgreen
+msgid "Bright green"
+msgstr ""
+
+#. [color_range]: id=4
+#. [color_range]: id=purple
+msgid "Purple"
+msgstr "紫"
+
+#. [color_range]: id=5
+#. [color_range]: id=black
+msgid "Black"
+msgstr "黑"
+
+#. [color_range]: id=6
+#. [color_range]: id=brown
+msgid "Brown"
+msgstr "棕"
+
+#. [color_range]: id=7
+#. [color_range]: id=orange
+msgid "Orange"
+msgstr "橙"
+
+#. [color_range]: id=brightorange
+msgid "Bright orange"
+msgstr ""
+
+#. [color_range]: id=8
+#. [color_range]: id=white
+msgid "White"
+msgstr "白"
+
+#. [color_range]: id=9
+#. [color_range]: id=teal
+msgid "Teal"
+msgstr "青"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [color_range]: id=gold
+msgid "Gold"
+msgstr "金币"
+
+#. [color_range]: id=reef
+msgid "Reef"
+msgstr ""
+
+#. [color_range]: id=shallow_water
+msgid "Shallow water"
+msgstr ""
+
+#. [color_range]: id=deep_water
+msgid "Deep water"
+msgstr ""
+
+#. [color_range]: id=swamp_water
+msgid "Swamp water"
+msgstr ""
+
+#. [color_range]: id=flat
+msgid "Flat"
+msgstr ""
+
+#. [color_range]: id=hills
+#, fuzzy
+msgid "Hills"
+msgstr "杀死"
+
+#. [color_range]: id=mountains
+msgid "Mountains"
+msgstr ""
+
+#. [color_range]: id=forest
+msgid "Forest"
+msgstr ""
+
+#. [color_range]: id=sand
+msgid "Sand"
+msgstr ""
+
+#. [color_range]: id=frozen
+msgid "Frozen"
+msgstr ""
+
+#. [color_range]: id=cave
+msgid "Cave"
+msgstr ""
+
+#. [color_range]: id=fungus
+msgid "Fungus"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [color_range]: id=village
+msgid "Village"
+msgstr "村庄"
+
+#. [color_range]: id=castle
+msgid "Castle"
+msgstr ""
+
+#. [color_range]: id=keep
+msgid "Keep"
+msgstr ""
+
+#. [color_range]: id=rails
+msgid "Rail"
+msgstr ""
+
+#. [color_range]: id=unwalkable
+#, fuzzy
+msgid "Unwalkable"
+msgstr "不可治疗"
+
+#. [color_range]: id=impassable
+msgid "Impassable"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [color_range]: id=fog
+msgid "Fog"
+msgstr "迷雾"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [color_range]: id=shroud
+msgid "Shroud"
+msgstr "战场黑幕"
+
+#. [language]
+msgid "Easy"
+msgstr "简单"
+
+#. [language]
+msgid "Medium"
+msgstr "普通"
+
+#. [language]
+msgid "Hard"
+msgstr "困难"
+
+#. [language]
+msgid "Nightmare"
+msgstr "噩梦"
+
+#. [language]
+msgid ""
+"Lawful units fight better during the day, and worse at night.\n"
+"\n"
+"Day: +25% Damage\n"
+"Night: −25% Damage"
+msgstr ""
+"守序单位擅长在昼间战斗，不擅长在夜间战斗。\n"
+"\n"
+"昼间：+25%伤害\n"
+"夜间：−25%伤害"
+
+#. [language]
+msgid ""
+"Neutral units are unaffected by day and night, fighting equally well under "
+"both conditions."
+msgstr "中立单位不受昼夜影响，在两种情形下都能同样发挥战力。"
+
+#. [language]
+msgid ""
+"Chaotic units fight better at night, and worse during the day.\n"
+"\n"
+"Day: −25% Damage\n"
+"Night: +25% Damage"
+msgstr ""
+"混沌单位擅长在夜间战斗，不擅长在昼间战斗。\n"
+"\n"
+"昼间：−25%伤害\n"
+"夜间：+25%伤害"
+
+#. [language]
+msgid ""
+"Liminal units only reach their full strength during twilight.\n"
+"\n"
+"Day: −25% Damage\n"
+"Night: −25% Damage"
+msgstr ""
+"边缘单位只有在晨昏时段才能发挥出最大潜能。\n"
+"\n"
+"昼间：−25%伤害\n"
+"夜间：−25%伤害"
+
+#. [language]
+msgid "$name|’s Bridge,$name|’s Crossing"
+msgstr "$name之桥,$name之岔路"
+
+#. [language]
+msgid "$name|’s Highway,$name|’s Pass,Path of $name"
+msgstr "$name之大道,$name之隘口,$name之小径"
+
+#. [language]
+msgid "$name River,River $name"
+msgstr "$name河,$name河"
+
+#. [language]
+msgid "$name Forest,$name|’s Forest"
+msgstr "$name森林,$name之森林"
+
+#. [language]
+msgid "$name Lake"
+msgstr "$name湖"
+
+#. [language]
+msgid "$name|’s Peak,Mount $name"
+msgstr "$name之峰,$name山"
+
+#. [language]
+msgid "$name|’s Swamp,$name|marsh,$name|fen"
+msgstr "$name之沼泽,$name|沼泽,$name|泥沼"
+
+#. [language]
+msgid "$name|bury,$name|ham,$name|ton,$name|bury"
+msgstr "$name|伯里,$name|汉姆,$name|顿,$name|伯里"
+
+#. [language]
+msgid "$name|harbor,$name|port,$lake|port,$lake|harbor"
+msgstr "$name|湾,$name|港,$lake|港,$lake|湾"
+
+#. [language]
+msgid ""
+"$name|ham,$name|ford,$name|cross,$river|ford,$river|cross,$name on river"
+msgstr "$name|汉姆,$name|浅滩,$name|渡口,$river|浅滩,$river|渡口,河上的$name"
+
+#. [language]
+msgid ""
+"$river|bridge,$river|bridge,$river|bridge,$name|ham,$name|bridge,$bridge|ham,"
+"$bridge|ton"
+msgstr ""
+"$river|桥,$river|桥,$river|桥,$name|汉姆,$name|桥,$bridge|汉姆,$bridge|顿"
+
+#. [language]
+msgid "$name|ham,$name|ton,$name|field"
+msgstr "$name|汉姆,$name|顿,$name|菲尔德"
+
+#. [language]
+msgid ""
+"$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
+"ton"
+msgstr ""
+"$name|汉姆,$name|顿,$name|伍德,$name森林,$forest|伍德,$forest|汉姆,$forest|顿"
+
+#. [language]
+msgid "$name|ham,$name|bury,$name|ton,$name|hill,$name|crest"
+msgstr "$name|汉姆,$name|伯里,$name|顿,$name|山,$name|峰"
+
+#. [language]
+msgid "$mountain|mont,$mountain|cliff,$mountain|bury,$mountain|ham"
+msgstr "$mountain|峰,$mountain|崖,$mountain|伯里,$mountain|汉姆"
+
+#. [language]
+msgid ""
+"$name|ham,$name|bury,$name|ton,$name|mont,$name|mont,$name|cliff,$name|cliff"
+msgstr "$name|汉姆,$name|伯里,$name|顿,$name|峰,$name|峰,$name|崖,$name|崖"
+
+#. [language]
+msgid ""
+"$road|’s Rest,$road|’s Waypoint,$road|bury,$road|ham,$name|bury,$name|ham"
+msgstr "$road之驿站,$road之路标,$road|伯里,$road|汉姆,$name|伯里,$name|汉姆"
+
+#. [language]
+msgid "$name|bury,$name|ham,$name|ton,$swamp|bury,$swamp|ham,$swamp|ton,"
+msgstr "$name|伯里,$name|汉姆,$name|顿,$swamp|伯里,$swamp|汉姆,$swamp|顿,"
+
+#. [language]
+msgid "melee"
+msgstr "近战"
+
+#. [language]
+msgid "ranged"
+msgstr "远程"
+
+#. [language]
+msgid "blade"
+msgstr "剑刃"
+
+#. [language]
+msgid "pierce"
+msgstr "穿刺"
+
+#. [language]
+msgid "impact"
+msgstr "冲击"
+
+#. [language]
+msgid "fire"
+msgstr "火焰"
+
+#. [language]
+msgid "cold"
+msgstr "寒冰"
+
+#. [language]
+msgid "arcane"
+msgstr "奥术"
+
+#. [server]
+msgid "Official Wesnoth Server"
+msgstr "官方韦诺服务器"
+
+#. [server]
+msgid "Alternate Wesnoth Server"
+msgstr "替代用韦诺服务器"
+
+#. [fonts]
+msgid ""
+"DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,"
+"Junicode-Regular.ttf"
+msgstr ""
+"DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,"
+"Junicode-Regular.ttf"
+
+#. [fonts]
+msgid "DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode"
+msgstr "DejaVu Sans,Andagii,Droid Sans Fallback,Droid Sans Japanese,Junicode"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: set_status
+msgid "female^poisoned"
+msgstr "中毒"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: set_status
+msgid "female^slowed"
+msgstr "减速"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: set_status
+msgid "slowed"
+msgstr "减速"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: set_status
+msgid "female^petrified"
+msgstr "石化"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: set_status
+msgid "petrified"
+msgstr "石化"
+
+#. [lua]: set_status
+msgid "female^unhealable"
+msgstr "不可治疗"
+
+#. [lua]: set_status
+msgid "unhealable"
+msgstr "不可治疗"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: generate_objectives
+msgid "Victory:"
+msgstr "胜利："
+
+#. [lua]: generate_objectives
+msgid "Defeat:"
+msgstr "失败："
+
+#. [lua]: generate_objectives
+msgid "(%d turns left)"
+msgstr "（剩余%d回合）"
+
+#. [lua]: generate_objectives
+msgid "(this turn left)"
+msgstr "（剩余本回合）"
+
+#. [lua]: generate_objectives
+msgid "%d%% of gold carried over to the next scenario."
+msgstr "%d%%的金币将会带到下一场景。"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
+msgid "OK"
+msgstr "确定"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
+msgid "Cancel"
+msgstr "取消"
+
+msgid "very long"
+msgstr "非常长"
+
+msgid "electrical"
+msgstr "电能"
+
+#. [theme]: id=Default
+msgid "theme^Default"
+msgstr ""
+
+#. [theme]: id=Default
+msgid "Default theme."
+msgstr ""
+
+#. [menu]: id=menu-main
+msgid "Menu"
+msgstr "菜单"
+
+#. [menu]: id=menu-autosaves
+#, fuzzy
+msgid "Back to..."
+msgstr "回到回合"
+
+#. [menu]: id=actions-menu
+msgid "Actions"
+msgstr "行动"
+
+#. [action]: id=button-endturn
+msgid "End Turn"
+msgstr "结束回合"
+
+#. [action]: id=button-endturn
+msgid "End Scenario"
+msgstr "结束场景"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=label-hp
+msgid "HP"
+msgstr "生命值"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=label-xp
+msgid "XP"
+msgstr "经验值"
+
+#. [label]: id=label-mp
+msgid "MP"
+msgstr "移动点数"
+
+#. [label]: id=label-def
+msgid "def"
+msgstr ""
+
+#. [label]: id=gold-icon
+msgid "gold"
+msgstr "金币"
+
+#. [label]: id=villages-icon
+msgid "villages"
+msgstr "村庄"
+
+#. [label]: id=units-icon
+msgid "units"
+msgstr "单位"
+
+#. [label]: id=upkeep-icon
+msgid "upkeep"
+msgstr "维护费用"
+
+#. [label]: id=income-icon
+msgid "income"
+msgstr "收入"
+
+#. [unit_level]: id=unit-level
+#, fuzzy
+msgid "statuspanel^lvl"
+msgstr "等级"
+
+#. [action]: id=button-playreplay, type=image
+msgid "Play"
+msgstr "开始回放"
+
+#. [action]: id=button-playreplay, type=image
+msgid "continuous replay"
+msgstr "连续回放"
+
+#. [action]: id=button-stopreplay, type=image
+msgid "Stop"
+msgstr "停止回放"
+
+#. [action]: id=button-stopreplay, type=image
+msgid "pause at end of turn"
+msgstr "回合结束时暂停"
+
+#. [action]: id=button-resetreplay, type=image
+msgid "Reset"
+msgstr "重置"
+
+#. [action]: id=button-resetreplay, type=image
+msgid "reset to beginning"
+msgstr "重置到开局状态"
+
+#. [action]: id=button-nextturn, type=image
+msgid "Next Turn"
+msgstr "下一回合"
+
+#. [action]: id=button-nextturn, type=image
+msgid "play turn"
+msgstr "播放该回合"
+
+#. [action]: id=button-nextside, type=image
+msgid "Next Side"
+msgstr "下一阵营"
+
+#. [action]: id=button-nextside, type=image
+msgid "play side turn"
+msgstr "播放本阵营回合"
+
+#. [menu]: id=show-what
+msgid "Point of view"
+msgstr "视角"
+
+#. [action]: id=skip-animation, type=checkbox
+msgid "Skip animation"
+msgstr "跳过动画"
+
+#. [theme]: id=Pandora
+msgid "theme^Pandora"
+msgstr ""
+
+#. [theme]: id=Pandora
+msgid "800x480 theme optimized for Pandora devices."
+msgstr ""
+
+#. [action]: id=end-turn
+#, fuzzy
+msgid ""
+"End\n"
+"Turn"
+msgstr "结束回合"
+
+#. [tip]
+msgid ""
+"Use the map editor's <i>Areas</i> menu to define regions later addressed by "
+"event or ai coding."
+msgstr ""
+
+#. [tip]
+#, fuzzy
+msgid "<i>― The Wesnoth Design Guide</i>"
+msgstr "<b>——韦诺战术指南</b>"
+
+#. [tip]
+msgid ""
+"Create a <i>New Scenario</i> in the editor's <i>File</i> menu to make use of "
+"advanced features."
+msgstr ""
+
+#. [tip]
+msgid ""
+"Scenarios saved from the editor in their default folder can be selected in "
+"the mp create screen's <i>User Scenarios</i> section."
+msgstr ""
+
+#. [tip]
+msgid ""
+"Don’t neglect to earn your leader experience! You need to keep him safe, but "
+"if you coddle him too much he may be too weak to survive future battles."
+msgstr ""
+"不要忘了让您的领袖获得经验！您必须确保他的安全，但是如果您太惯着他，那他将会"
+"变得太弱，而不能在未来的战斗中存活。"
+
+#. [tip]
+msgid "<i>― Great Mage Delfador, 516YW</i>"
+msgstr "<b>——大法师德法多，韦元516年</b>"
+
+#. [tip]
+msgid ""
+"In the <b>Actions</b> menu, you can select <b>Show Enemy Moves</b> to "
+"highlight all the hexes your adversary can move to (assuming your units stay "
+"where they are). Use this to make sure the enemy can’t reach your weak or "
+"injured units on his next turn."
+msgstr ""
+"在<b>行动</b>菜单中选择<b>显示敌方移动范围</b>可以高亮显示所有对方可能到达的"
+"位置（假定您的单位都呆在自己位置上）。使用这个功能来确保敌人在下回合无法碰到"
+"您的虚弱或负伤的单位。"
+
+#. [tip]
+msgid "<i>― The Wesnoth Tactical Guide</i>"
+msgstr "<b>——韦诺战术指南</b>"
+
+#. [tip]
+msgid ""
+"Units with the <i>Intelligent</i> trait need fewer experience points to "
+"level up. Early in a campaign, try to give killing blows to these units so "
+"you can get some high-level troops sooner."
+msgstr ""
+"拥有<b>聪慧</b>特质的单位升级需要的经验比一般单位少。在战役早期，试着把最后一"
+"击留给这些单位，那么您就可以更快地拥有一些高等级部队了。"
+
+#. [tip]
+msgid "<i>― King Konrad, 536YW</i>"
+msgstr "<b>——科纳德国王，韦元536年</b>"
+
+#. [tip]
+msgid ""
+"The encircling tactic is very powerful, particularly against fast opponents. "
+"By placing two units on opposite sides of an enemy, their zones of control "
+"will restrict it to one hex of movement in any direction. Unfortunately, you "
+"must completely surround skirmishers to immobilize them."
+msgstr ""
+"包围战术是非常有效的，特别是对抗速度快的对手之时。只要把两个单位放置在一个敌"
+"方单位相对的两侧，他们的控制区域就能将敌方单位的移动范围在任何方向上都限制在"
+"一格。不幸的是，你必须完全包围住游击士才能让他们无法动弹。"
+
+#. [tip]
+msgid "<i>― Memoirs of Gweddry, 627YW</i>"
+msgstr "<b>——格温德利的回忆录，韦元627年</b>"
+
+#. [tip]
+msgid ""
+"You can access the <b>Recruit</b> and <b>Recall</b> commands by right-"
+"clicking on a castle tile. That will let you choose the precise hex you put "
+"a unit in. Placing units wisely can sometimes let you reach a village a turn "
+"earlier."
+msgstr ""
+"鼠标右键点击城堡地块就可以使用<b>征募</b>和<b>召回</b>命令。这样您就可以选择"
+"将新单位放置在哪个六角格里。明智地摆放单位有时可以让您提前一回合到达某个村"
+"庄。"
+
+#. [tip]
+msgid ""
+"There are some helpful summary screens in the main menu: for instance, the "
+"<b>Status Table</b> will let you know how your enemies are doing, and how "
+"you are doing in comparison."
+msgstr ""
+"主菜单里有些很有用的摘要信息屏：例如，<b>状态表</b>可以让您知道您的敌人们表现"
+"如何，而相比较之下，您的表现又是如何。"
+
+#. [tip]
+msgid ""
+"Units with the <i>Quick</i> trait get an extra movement point per turn. This "
+"can be very important when moving through difficult terrain such as water or "
+"caves. It can make the difference between being able to move one hex or two."
+msgstr ""
+"拥有<b>迅捷</b>特质的单位每回合多一点额外的移动力。这在通过复杂地形，例如水域"
+"或者洞穴时将变得非常重要。可以移动一格还是两格，这一区别足以对战局产生影响"
+"了。"
+
+#. [tip]
+msgid "<i>― High Lord Kalenz, 470YW</i>"
+msgstr "<b>——凯雷茨高阶领主，韦元470年</b>"
+
+#. [tip]
+msgid ""
+"After you have played a few scenarios, read the <b>Gameplay</b> section in "
+"the <b>Help</b> screen carefully. Details become important as scenarios get "
+"harder!"
+msgstr ""
+"玩过几个场景后，请您认真阅读<b>帮助</b>屏幕中的<b>游戏玩法</b>部分。随着场景"
+"变得越来越难，细节也就变得越来越重要了！"
+
+#. [tip]
+msgid ""
+"It is usually better to start the next scenario in a campaign with lower-"
+"level units that are about to level up than with those same units at a "
+"higher level."
+msgstr ""
+"在开始战役中的下一个场景时，通常最好能使用即将升级的低等级单位，而不是使用高"
+"等级的相同单位。"
+
+#. [tip]
+msgid ""
+"On www.wesnoth.org you can find strategy guides, technical support, the "
+"history of Wesnoth, and much more."
+msgstr ""
+"您可以在www.wesnoth.org找到战略指导，技术支持，韦诺的历史，以及更多其他的信"
+"息。使用中文的玩家也请访问wesnoth.cn。"
+
+#. [tip]
+msgid "<i>― The Wesnoth Community</i>"
+msgstr "<b>——韦诺社区</b>"
+
+#. [tip]
+msgid ""
+"<i>Lawful</i> units fight better by day, and <i>chaotic</i> units fight "
+"better at night. <i>Neutral</i> units are unaffected by the time of day. The "
+"rare <i>liminal</i> units fight best during twilight."
+msgstr ""
+"<b>守序</b>单位更擅长在昼间战斗，<b>混沌</b>单位更擅长在夜间战斗。<b>中立</b>"
+"单位则不受时段的影响。少见的<b>边缘</b>单位在晨昏时段最能施展身手。"
+
+#. [tip]
+msgid ""
+"<i>― Royal Compendium of Battle Terminology: Volume II (reprinted 221YW)</i>"
+msgstr "<b>——《皇家战斗术语纲要》第二卷（韦元221年重印）</b>"
+
+#. [tip]
+msgid ""
+"An otherwise sound plan can fail if you attack at the wrong time of day."
+msgstr "如果进攻的时段不对头，再好的战术也是白搭。"
+
+#. [tip]
+msgid "<i>― Haldric II, 42YW, Handbook of Tactical Analysis: Volume I</i>"
+msgstr "<b>——《战术分析手册》第一卷，哈德里克二世，韦元42年</b>"
+
+#. [tip]
+msgid ""
+"If you are playing with <b>Shroud</b> or <b>Fog of War</b> active, you won’t "
+"know what you’re facing. In this case, long-range scouting units are worth "
+"their cost. Try to choose scouts that can easily move across the surrounding "
+"terrain, because units can only see as far as they can move in one turn."
+msgstr ""
+"如果游戏时开启了<b>战场黑幕</b>和<b>战争迷雾</b>，您将不知道您面对的是什么。"
+"在这种情况下，远距离侦察单位会体现出他们的价值。尝试去选择一些可以很容易穿越"
+"周围地形的侦察单位，因为单位能看到的范围和他们在一回合内可以移动到的范围是一"
+"样的。"
+
+#. [tip]
+msgid ""
+"There are six types of attack: <i>pierce</i>, <i>blade</i>, <i>impact</i>, "
+"<i>fire</i>, <i>cold</i> and <i>arcane</i>. Different units have weaknesses "
+"against different types of attacks. Right-click on a unit and select <b>Unit "
+"Description</b> to see which attacks it is resistant to, and which will "
+"affect it the most."
+msgstr ""
+"有六种攻击类型：<b>穿刺</b>，<b>剑刃</b>，<b>冲击</b>，<b>火焰</b>，<b>寒冰</"
+"b>和<b>奥术</b>。不同的单位对不同的攻击有不同的弱点。鼠标右击一个单位，再选择"
+"<b>单位描述</b>，就可以查看它对哪些攻击有很高的抗性，又是哪些攻击对它的伤害最"
+"大。"
+
+#. [tip]
+msgid ""
+"The terrain occupied by your units is the main factor determining the chance "
+"that they will be hit. The defensive rating for the currently selected unit "
+"in the currently selected terrain is displayed in the top right corner of "
+"the screen."
+msgstr ""
+"您的单位所占据的地形是决定他们被命中的几率的重要因素。当前所选定单位所在地形"
+"对其闪避能力的影响会在屏幕的右上角显示。"
+
+#. [tip]
+msgid ""
+"Poisoned units will lose eight hitpoints every turn until they are one point "
+"from dying. They will then remain at death’s door until the poison is "
+"removed. Healers can prevent a poisoned unit from deteriorating, but the "
+"poison will not be removed unless the unit regenerates, or begins a turn in "
+"a village or next to a unit with the <i>Cures</i> ability."
+msgstr ""
+"中毒的单位每回合会损失8点生命值，直到他们剩下1点生命值为止。如果毒性不解除，"
+"那他们将一直停留在鬼门关。疗伤者可以避免毒性恶化，但是除非中毒单位有再生能"
+"力，或者在回合开始时处于村庄里，或者在拥有<b>治愈</b>技能的单位旁边，否则毒性"
+"不会解除。"
+
+#. [tip]
+msgid ""
+"You can reuse units from a previous scenario by selecting <b>Recall</b> from "
+"the <b>Actions</b> menu. By recalling the same units over and over, you can "
+"build up a powerful and experienced army."
+msgstr ""
+"您可以通过<b>行动</b>菜单中的<b>召回</b>选项来调回上一个场景中的单位。通过不"
+"断召回同一组单位，您可以建立一支强力而经验丰富的军队。"
+
+#. [tip]
+msgid ""
+"Units of level one and higher have a <i>Zone of Control</i> in the six hexes "
+"around them. If a unit moves into an enemy’s zone of control, it may not "
+"move any further that turn. This means that units can have two empty hexes "
+"between them and still create a barrier to the enemy. Beware, though: "
+"skirmishers can pass through these gaps."
+msgstr ""
+"一级或级别更高的单位旁边的六个六角格是他们的<b>控制区域</b>。如果单位移动到了"
+"敌人的控制区域，它在本回合将不能再移动。这意味着单位之间即使有两个空格也仍然"
+"能困住敌人。不过请当心：游击士可以通过这些空隙。"
+
+#. [tip]
+msgid ""
+"The chance to hit a unit usually depends on how well that unit can defend "
+"itself in the terrain in which it is standing. However, magical attacks "
+"always have a 70% chance to hit, and units with the <i>Marksman</i> ability "
+"are guaranteed at least a 60% chance of a hit when they attack on their own "
+"turn."
+msgstr ""
+"命中单位的几率通常取决于这个单位在它所处的地形上能够多有效地进行闪避。不过，"
+"魔法攻击总是有70%的命中率，而拥有<b>精准</b>技能的单位在自己的行动回合中发起"
+"进攻时，也能保证至少有60%的命中率。"
+
+#. [tip]
+msgid "<i>― Haldric II, 43YW, Handbook of Tactical Analysis: Volume II</i>"
+msgstr "<b>——《战术分析手册》第二卷，哈德里克二世，韦元42年</b>"
+
+#. [tip]
+msgid ""
+"Units stationed in villages will either heal eight hitpoints at the "
+"beginning of their turn, or will recover from poisoning."
+msgstr ""
+"驻扎在村庄里的单位在下回合开始时要么恢复8点生命值，要么从中毒状态中恢复过来。"
+
+#. [tip]
+msgid ""
+"Don’t move an injured unit if you don’t have to — let it rest. If a unit "
+"does not move or attack, it will recover two hitpoints at the beginning of "
+"its next turn."
+msgstr ""
+"除非有必要，否则不要移动负伤的单位——让它休息。如果一个单位既不移动也不攻击，"
+"它将在下回合开始时恢复2点生命值。"
+
+#. [tip]
+msgid ""
+"On maps where <i>Shroud</i> or <i>Fog of War</i> has been enabled, all "
+"units’ sightlines are limited by their maximum movement. If you have some "
+"valuable but slow units, keep at least one fast unit with them so that you "
+"are not caught out by a surprise attack."
+msgstr ""
+"在开启了<b>战场黑幕</b>或<b>战争迷雾</b>的地图上，所有单位的视线都被他们的最"
+"大移动步数所限制。如果您有一些很有价值但移动缓慢的单位，那一定要派至少一个快"
+"速单位跟随他们，这样便不会被突然袭击所算计。"
+
+#. [tip]
+msgid ""
+"Foot units tend to defend better in villages and castles than in other "
+"terrain types, while most mounted units do not gain any defensive advantages "
+"from villages or castles."
+msgstr ""
+"大多数步兵单位在村庄和城堡中的闪避率要好于其它地形，而大多数骑兵在城堡和村庄"
+"中则不会有闪避方面的优势。"
+
+#. [tip]
+msgid "<i>― Sir Kaylan, 498YW</i>"
+msgstr "<b>——凯兰爵士，韦元498年</b>"
+
+#. [tip]
+msgid ""
+"Horse-based units are generally resistant to attacks with bladed or impact "
+"weapons, but are vulnerable to attacks with piercing weapons, including bows "
+"and spears."
+msgstr ""
+"骑乘单位通常能够抵御剑刃或冲击武器的攻击，但却易受穿刺武器的伤害，比如说弓和"
+"矛。"
+
+#. [tip]
+msgid "<i>― Sir Kaylan, 502YW</i>"
+msgstr "<b>——凯兰爵士，韦元502年</b>"
+
+#. [tip]
+msgid ""
+"Inflicting the killing blow on an enemy unit is the best way to gain "
+"experience. Units killing an enemy will gain eight experience points for "
+"every level of the unit they kill, or four experience points for a zero-"
+"level opponent."
+msgstr ""
+"对敌人打出致命一击是获取经验值的最好方式。杀死敌人的单位会按照敌人的等级得到"
+"经验值，每一级8点，如果杀死0级的对手则获得4点经验值。"
+
+#. [tip]
+msgid ""
+"Elvish units move and fight well in forest. Dwarvish units move and fight "
+"well in hills, mountains and caves."
+msgstr "精灵擅长在森林中移动和战斗。矮人擅长在丘陵、山脉和洞穴中移动和战斗。"
+
+#. [tip]
+msgid ""
+"Patience is often key. Rather than attacking in bad conditions or with few "
+"troops, wait for better conditions and then attack."
+msgstr ""
+"耐心是制胜的法宝。与其在劣势下进攻，或使用很少的部队去进攻，还不如等待更好的"
+"时机再进攻。"
+
+#. [tip]
+msgid ""
+"If you are attacked from several directions, it may be a good idea to send "
+"expendable units in some directions to delay enemy units."
+msgstr ""
+"如果您多面受敌，向某些方向派出可牺牲的单位以拖延敌人可能是一个不错的主意。"
+
+#. [tip]
+msgid ""
+"Do not be afraid to retreat and regroup; it is often the key to victory."
+msgstr "别害怕撤退和重整队形：这通常是胜利的关键。"
+
+#. [tip]
+msgid "<i>― Meneldur, 123YW</i>"
+msgstr "<b>——蒙内杜尔，韦元123年</b>"
+
+#. [tip]
+msgid ""
+"In most campaigns you will receive a gold bonus for finishing early, "
+"depending on the number of villages on the map and the number of turns "
+"remaining. You will usually earn more gold this way than through capturing "
+"villages and waiting for the turns to run out."
+msgstr ""
+"在绝大多数战役中，提前完成任务目标会获得金币奖励，其数目取决于地图上村庄的数"
+"量和剩余的回合数。和占领剩下的村庄并等待回合数耗尽相比，提前完成目标常常能让"
+"您获得更多的金币。"
+
+#. [tip]
+msgid ""
+"<i>Leaders</i> can recruit or recall units from any keep inside a castle, "
+"not just the keep they start on. Sometimes your allies may be willing to "
+"make room for you on their keep so you can recruit from there, and you can "
+"even capture an enemy’s keep and use that."
+msgstr ""
+"<b>领袖</b>们可以在任意城堡的主楼里征募或召回单位，而不仅仅是战斗开始时他们所"
+"在的主楼。有些时候，您的盟友会愿意在他们的主楼里为您腾出空间以招募单位，而且"
+"您甚至可以占领敌人的主楼并利用之。"
+
+#. [tip]
+msgid ""
+"Skeletons are resistant to piercing, bladed and cold-based attacks but are "
+"vulnerable to impact, fire, and arcane attacks."
+msgstr ""
+"骷髅对穿刺、剑刃和寒冰攻击具有较强的抗性，但却容易受到冲击、火焰和奥术攻击的"
+"伤害。"
+
+#. [tip]
+msgid ""
+"Units with the <i>Leadership</i> ability help lower-level adjacent units on "
+"the same side fight better. You can move these units slowly along your "
+"battle lines and give bonuses to large numbers of lower-level troops."
+msgstr ""
+"有<b>领导</b>技能的单位会使得与其相邻的同一阵营而等级低于它的单位更有效地战"
+"斗。您可以让这些单位沿着战线缓慢移动，这样便可以为大量等级较低的部队提供攻击"
+"加成。"
+
+#. [tip]
+msgid ""
+"Try to avoid moving next to unoccupied villages. An enemy unit may move into "
+"the village and attack you, while enjoying the defense and healing of the "
+"village."
+msgstr ""
+"尽量避免将单位移动到无人驻守的村庄旁边。敌方单位可能会移动到村庄里，在享受村"
+"庄带给它的闪避和治疗优势的同时攻击您的单位。"
+
+#. [tip]
+msgid "Use lines of troops to screen your injured units while they recover."
+msgstr "让部队站成一线以掩护受伤的单位，让他们得到恢复。"
+
+#. [tip]
+msgid "<i>― Princess Li’sar, 515YW</i>"
+msgstr "<b>——莉莎公主，韦元515年</b>"
+
+#. [tip]
+msgid "Read the <b>Hotkeys</b> list in the <b>Preferences</b> menu."
+msgstr "请查看<b>首选项</b>菜单中的<b>热键</b>列表。"
+
+#. [tip]
+msgid ""
+"If you move a unit, but don’t attack or discover any additional information, "
+"you can undo your move by pressing <b>u</b>."
+msgstr ""
+"如果您移动了某个单位，但没有发动攻击，也没有发现任何额外的信息，那么您就可以"
+"按<b>u</b>键来撤销移动。"
+
+#. [tip]
+msgid ""
+"You can see how far enemy units can move by moving the mouse cursor over "
+"them."
+msgstr "通过将鼠标移动到敌方单位之上，您将可以看到他们究竟可以移动多远。"
+
+#. [tip]
+msgid ""
+"Use healers to support your attacks — they will win you battles without "
+"needing to attack anything themselves."
+msgstr "用疗伤者来支援您的进攻——他们不需要亲手攻击任何东西，就可以帮助您获胜。"
+
+#. [tip]
+msgid "<i>― The Scroll of Chantal, 516YW</i>"
+msgstr "<b>——香黛儿之卷轴，韦元516年</b>"
+
+#. [tip]
+msgid ""
+"The <i>Slow</i> attack makes enemy units move slower and halves the damage "
+"they do on all attacks until they end a turn."
+msgstr ""
+"<b>减速</b>攻击将使得敌方单位的移动变慢，并让他们所有攻击的伤害输出减半，直到"
+"本回合结束。"
+
+#. [tip]
+msgid "<i>Arcane</i> attacks are very powerful against undead."
+msgstr "<b>奥术</b>攻击对付亡灵时非常给力。"
+
+#. [tip]
+msgid "<i>― Great Sage Dacyn, 626YW</i>"
+msgstr "<b>——大贤者达辛，韦元626年</b>"
+
+#. [tip]
+msgid ""
+"Units are healed when they advance a level. Used wisely, this can turn a "
+"fight."
+msgstr "单位升级时生命值会恢复全满。明智地利用这一点，就可以在战斗中翻盘。"
+
+#. [tip]
+msgid ""
+"Charging units are best used against enemies they can kill with a single "
+"blow."
+msgstr "冲锋单位最好用来对付那些他们能够一击解决的敌人。"
+
+#. [tip]
+msgid ""
+"Instead of leveling up, high-level units gain an <i>After Maximum Level "
+"Advancement</i> (AMLA) bonus, which usually increases the unit’s maximum "
+"hitpoints by three and fully heals it. This is much less than the normal "
+"benefits of advancing a level, so it is generally wiser to advance your "
+"lower-level units instead."
+msgstr ""
+"高等级单位不能再升级，而是获得<b>满级奖励</b>（AMLA）。通常情况下，AMLA会使该"
+"单位增加3点最大生命值，并完全恢复。这比升级通常所能带来的好处要少得多，所以不"
+"获取AMLA，而是让您的低等级单位升级往往更加明智。"
+
+#. [tip]
+msgid ""
+"Nearly every button and icon in the Wesnoth game has a tooltip. Hover the "
+"mouse pointer over any button or icon to get a description or explanation of "
+"what it does."
+msgstr ""
+"韦诺的游戏屏幕中几乎所有的按钮和图标都有工具提示。把鼠标指针指向任何一个按钮"
+"或者图标，便可以看到对其作用的描述或者解释。"
+
+#. [tip]
+msgid ""
+"To advance low-level units quickly, team them with a veteran and use the "
+"veteran to damage a joint target heavily enough for the junior partner to "
+"get in the killing blow."
+msgstr ""
+"为了使低等级单位快速升级，可以将他们与老兵组成一队，并让老兵给予共同的目标足"
+"够的伤害。这样一来同队的后辈就可以打出致命一击了。"
+
+#. [tip]
+msgid "<i>― Queen Li’sar, 528YW</i>"
+msgstr "<b>——莉莎女王，韦元528年</b>"
+
+#. [tip]
+msgid ""
+"You cannot undo a move that uncovers hexes hidden by fog or shroud. Turn on "
+"the <b>Delay Shroud Updates</b> option when you need to move units while "
+"retaining the ability to undo, or use the new Whiteboard planning tool."
+msgstr ""
+"如果某次移动揭开了迷雾或者黑幕之下的地图六角格，那么该移动就不能被撤销。如果"
+"您想在移动单位的同时保留撤销的能力，可以开启<b>暂缓更新黑幕</b>选项，或者使用"
+"全新的白板计划工具。"
+
+#. [tip]
+msgid ""
+"If an enemy benefits more from a rare terrain type than you do, occupying "
+"that terrain will deprive them of its benefits."
+msgstr ""
+"如果敌人在某种稀有地形上的闪避率比您的更好，那么占领该地形可以避免他们获益。"
+
+#. [tip]
+msgid ""
+"Few units have good defenses in water; a line of attackers along the edge of "
+"a river can inflict heavy casualties. Elves can use the edge of a forest in "
+"a similar manner, and dwarves can do the same with mountains."
+msgstr ""
+"几乎没有什么单位在水中具有很好的闪避；沿岸排成一条线的进攻部队可以造成重大的"
+"伤亡。精灵可以用类似的方法来利用森林的边界，而矮人们则可以照此方法来利用山"
+"脉。"
+
+#. [tip]
+msgid ""
+"In many campaign scenarios, you may issue simple instructions for your "
+"computer-controlled allies using the right-click context menu."
+msgstr ""
+"在许多战役场景中，您都可以通过右键上下文菜单向您由计算机控制的盟友下达简单的"
+"指令。"
+
+#. [tip]
+msgid ""
+"The <i>Slow</i> ability is extremely powerful because it has such wide-"
+"ranging effects. Enemy undead get half the normal benefit from their "
+"<i>Drain</i> ability, the damage bonus from <i>Charge</i> or <i>Backstab</i> "
+"is cancelled, and the <i>Berserk</i> ability is weakened. Fast foes struggle "
+"to escape; slow enemies are almost immobilized, and your own units suffer "
+"less retaliation damage, so it’s quicker to heal them."
+msgstr ""
+"<b>减速</b>技能非常强力，这是由于其具有多样的效果。敌方亡灵的<b>吸血</b>技能"
+"的效果会减半，<b>冲锋</b>和<b>背刺</b>的伤害加成会无效化，而<b>狂暴</b>技能也"
+"会被削弱。速度快的对手将疲于逃命，而速度慢的敌人则几乎会被钉死在原地。同时，"
+"你自己的单位所受到的反击伤害则会减轻，于是便可以更快地为他们疗伤。"
+
+#. [tip]
+msgid ""
+"Try to operate units with a small number of powerful attacks—such as Dark "
+"Adepts, Horsemen, Orcish Grunts or Dwarvish Thunderers—in pairs or threes. "
+"This gives you another try whenever your first devastating attack misses — "
+"as inevitably happens from time to time."
+msgstr ""
+"设法让拥有强力攻击但攻击次数较少的单位——例如黑暗狂徒，骑手，兽人步兵或者矮人"
+"雷霆战士之类——三两成群。这样当第一下毁天灭地的攻击失手时，你总会有再来一次的"
+"机会——而不可避免地，失手是时而会发生的情况。"
+
+#. [tip]
+msgid ""
+"Units with three or more attacks—especially magical attacks—are ideal for "
+"finishing off enemies with only a few hitpoints remaining. Be sure to use "
+"leadership—or a strong or dextrous unit—whenever the extra point or two of "
+"damage makes a one-hit kill possible."
+msgstr ""
+"拥有三种或更多攻击方式——尤其是魔法攻击——的单位非常适合于解决只剩下很少生命值"
+"的敌人。当额外的一两点伤害使得一击必杀成为可能时，一定要确保使用领导技能——或"
+"使用一个强壮或者灵巧的单位。"
+
+#. [tip]
+msgid ""
+"Think twice before dismissing any unit from your recall list, no matter how "
+"little experience it has. Sometimes it’s worth paying a premium to know "
+"exactly what traits a new arrival will have."
+msgstr ""
+"不论其经验值多么少，在解散召回列表中的任何单位之前都请三思。有时候，花点额外"
+"的小钱以确知新上场的单位具有何种特质，是值得的。"
+
+#. [tip]
+msgid ""
+"When a tough unit is heavily injured, send it to heal in a village several "
+"turns’ movement away from the fighting. Then it can recover in peace (at 10 "
+"hitpoints per turn) without tying up front-line villages."
+msgstr ""
+"当一个强壮的单位受重伤时，请把它送到距离战场几个回合的路途之远的村庄里治疗。"
+"这样一来它便可以安宁地恢复状态（每回合10点生命值），而且还不会把前线村庄挤"
+"爆。"
+
+#. [tip]
+msgid "<i>― Lord Hamel of Knalga</i>"
+msgstr "<b>——纳尔迦的哈梅尔领主</b>"
+
+#. [tip]
+msgid ""
+"Combining multiple special abilities can be deadly. While it may take some "
+"work to combine, for example, <i>Leadership</i>, <i>Illuminates</i> and "
+"<i>Charge</i> against a slowed opponent, the results can be impressive."
+msgstr ""
+"将多种特殊技能组合起来运用将是致命的。例如，尽管要把<b>领导</b>，<b>照明</b>"
+"和<b>冲锋</b>组合起来是得花点工夫，但其效果实在会让人印象深刻。"
+
+#. [tip]
+msgid ""
+"While finishing early gives a gold bonus, and reduces the opportunities for "
+"enemies to kill your valuable troops, it also means you lose chances to earn "
+"your units extra experience. When deciding whether or not to finish a "
+"scenario early, weigh these factors against one another."
+msgstr ""
+"虽然提前完成任务目标会有一笔赏金，同时也减少了敌人杀掉您的重要部队的机会，但"
+"这也意味着您失去了让单位获得额外经验值的良机。在定夺是否要尽早结束战斗时，请"
+"权衡两方面的因素。"
+
+#. [tip]
+msgid ""
+"If your forces have weak defenses everywhere on the map, occupy the areas "
+"where your enemies can only attack you by sharing the same disadvantages. "
+"Avoid places where your defenses are poor and your enemy’s are merely "
+"average. Plan for heavy losses, and take firm control of any hex where the "
+"land does favor you."
+msgstr ""
+"如果您的军队在地图上各处的闪避能力都很弱，那就占据那些让敌人也有同样劣势的区"
+"域。避免占据您的闪避率很糟糕而敌人的闪避率只是一般的地方。做好遭受重大损失的"
+"准备，同时也要牢牢控制住那些会为您提供优势的地形。"
+
+#. [tip]
+msgid ""
+"<i>Feral</i> units, such as Bats and wild animals, will avoid villages. Even "
+"if they occupy a village hex, they do not gain any defensive benefits from "
+"the village, although they will still be healed."
+msgstr ""
+"<b>野生</b>单位——例如蝙蝠和野生动物——会避开村庄。就算它们占据了一个村庄六角"
+"格，也不能够得到村庄带来的任何闪避率加成，虽然说它们仍然会得到治疗。"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "An invalid attacker weapon got selected."
+msgstr "选中了无效的攻击武器。"
+
+msgid "An invalid defender weapon got selected."
+msgstr "所选防御武器无效。"
+
+msgid "You don’t have a leader to recall with."
+msgstr "您没有领袖，无法进行召回。"
+
+#, fuzzy
+msgid "None of your leaders are able to recall that unit."
+msgstr "您的领袖都不能召回该单位。"
+
+msgid "You must have a leader on a keep who is able to recall that unit."
+msgstr "您必须让一位领袖站在城堡主楼上才能召回该单位。"
+
+msgid "There are no vacant castle tiles in which to recall the unit."
+msgstr "城堡内没有空格，无法招募单位。"
+
+msgid "An unrecognized error has occurred."
+msgstr ""
+
+msgid "You don’t have a leader to recruit with."
+msgstr "您没有领袖，无法进行征募。"
+
+#, fuzzy
+msgid "None of your leaders are able to recruit that unit."
+msgstr "您的领袖都不能召回该单位。"
+
+msgid "You must have a leader on a keep who is able to recruit the unit."
+msgstr "您必须让一位领袖站在城堡主楼上才能征募该单位。"
+
+msgid "There are no vacant castle tiles in which to recruit the unit."
+msgstr "城堡内没有空格，无法征募单位。"
+
+msgid "cured"
+msgstr ""
+
+#, fuzzy
+msgid "female^cured"
+msgstr "减速"
+
+msgid "Ambushed!"
+msgstr "遭到伏击！"
+
+msgid "Failed teleport! Exit not empty"
+msgstr "传送失败！出口阻塞"
+
+msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
+msgid_plural "$friends friendly"
+msgstr[0] "1 个友军"
+msgstr[1] "$friends 个友军"
+
+msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
+msgid_plural "$enemies enemy"
+msgstr[0] "1 个敌军"
+msgstr[1] "$enemies 个敌军"
+
+msgid "Units sighted! ($friendphrase, $enemyphrase)"
+msgstr "发现单位！（$friendphrase，$enemyphrase）"
+
+msgid "Enemy unit sighted!"
+msgid_plural "$enemies enemy units sighted!"
+msgstr[0] "发现敌军单位！"
+msgstr[1] "发现$enemies个敌军单位！"
+
+msgid "Friendly unit sighted"
+msgid_plural "$friends friendly units sighted"
+msgstr[0] "发现友军单位"
+msgstr[1] "发现$friends个友军单位"
+
+msgid "(press $hotkey to keep moving)"
+msgstr "（按$hotkey键继续移动）"
+
+#, fuzzy
+msgid "Connecting to $server_address|..."
+msgstr "正在连接到服务器……"
+
+#, fuzzy
+msgid "Downloading list of add-ons..."
+msgstr "正在请求附加组件列表"
+
+#, fuzzy
+msgid "Requesting distribution terms..."
+msgstr "正在请求条款"
+
+#, fuzzy
+msgid "Sending add-on <i>$addon_title</i>..."
+msgstr "正在下载附加组件：$addon_title|……"
+
+#, fuzzy
+msgid "Removing add-on <i>$addon_title</i> from the server..."
+msgstr "正在下载附加组件：$addon_title|……"
+
+#, fuzzy
+msgid "Downloading add-on <i>$addon_title</i>..."
+msgstr "正在下载附加组件：$addon_title|……"
+
+#, fuzzy
+msgid ""
+"The add-on <i>$addon_title</i> has an invalid file or directory name and "
+"cannot be installed."
+msgstr "附加组件中的文件或者目录名称无效，因此无法安装。"
+
+#, fuzzy
+msgid "Add-ons Manager"
+msgstr "附加组件已安装"
+
+msgid "addon_type^Campaign"
+msgstr "战役"
+
+msgid "addon_type^Scenario"
+msgstr "场景"
+
+#, fuzzy
+msgid "addon_type^SP/MP Campaign"
+msgstr "多人游戏战役"
+
+msgid "addon_type^MP era"
+msgstr "多人游戏时代"
+
+msgid "addon_type^MP faction"
+msgstr "多人游戏派系"
+
+msgid "addon_type^MP map-pack"
+msgstr "多人游戏地图包"
+
+msgid "addon_type^MP scenario"
+msgstr "多人游戏场景"
+
+msgid "addon_type^MP campaign"
+msgstr "多人游戏战役"
+
+#, fuzzy
+msgid "addon_type^MP modification"
+msgstr "多人游戏派系"
+
+msgid "addon_type^Resources"
+msgstr "资源"
+
+msgid "addon_type^Other"
+msgstr "其它"
+
+msgid "addon_type^(unknown)"
+msgstr "（未知）"
+
+msgid "unit_byte^B"
+msgstr "B"
+
+#, fuzzy
+msgid "addon_state^Not installed"
+msgstr "附加组件已安装"
+
+msgid "addon_state^Published, not installed"
+msgstr ""
+
+#, fuzzy
+msgid "addon_state^Installed"
+msgstr "附加组件已安装"
+
+msgid "addon_state^Published"
+msgstr ""
+
+msgid "addon_state^Installed, upgradable"
+msgstr ""
+
+msgid "addon_state^Published, upgradable"
+msgstr ""
+
+msgid "addon_state^Installed, outdated on server"
+msgstr ""
+
+msgid "addon_state^Published, outdated on server"
+msgstr ""
+
+msgid "addon_state^Installed, broken"
+msgstr ""
+
+msgid "addon_state^Published, broken"
+msgstr ""
+
+#, fuzzy
+msgid "addon_state^Unknown"
+msgstr "（未知）"
+
+#, fuzzy
+msgid ""
+"The selected add-on has the following dependency, which is not currently "
+"installed or available from the server. Do you wish to continue?"
+msgid_plural ""
+"The selected add-on has the following dependencies, which are not currently "
+"installed or available from the server. Do you wish to continue?"
+msgstr[0] "这个插件必须依赖以下插件。您要安装吗？"
+msgstr[1] "这个插件必须依赖以下插件。您要安装吗？"
+
+#, fuzzy
+msgid "Broken Dependencies"
+msgstr "安装依赖的插件"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Type"
+msgstr "类型"
+
+#, fuzzy
+msgid "Install Dependencies"
+msgstr "安装依赖的插件"
+
+#, fuzzy
+msgid ""
+"The selected add-on has the following dependency, which is not currently "
+"installed. Do you wish to install it before continuing?"
+msgid_plural ""
+"The selected add-on has the following dependencies, which are not currently "
+"installed. Do you wish to install them before continuing?"
+msgstr[0] "这个插件必须依赖以下插件。您要安装吗？"
+msgstr[1] "这个插件必须依赖以下插件。您要安装吗？"
+
+#, fuzzy
+msgid "The server responded with an error:"
+msgstr "服务器返回一个错误：\""
+
+msgid ""
+"The following dependency could not be installed. Do you still wish to "
+"continue?"
+msgid_plural ""
+"The following dependencies could not be installed. Do you still wish to "
+"continue?"
+msgstr[0] ""
+msgstr[1] ""
+
+#, fuzzy
+msgid "Dependencies Installation Failed"
+msgstr "安装失败"
+
+msgid ""
+"The add-on '$addon|' is already installed and contains additional "
+"information that will be permanently lost if you continue:"
+msgstr ""
+
+msgid "Publishing information file (.pbl)"
+msgstr ""
+
+msgid "Version control system (VCS) information"
+msgstr ""
+
+#, fuzzy
+msgid "Do you really wish to continue?"
+msgstr "您希望继续吗？"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid ""
+"Deleting '$addon|' will permanently erase its download and upload counts on "
+"the add-ons server. Do you really wish to continue?"
+msgstr ""
+"删除“$addon|”将永久性地擦除其在附加组件服务器上的下载与上传计数。您真的希望继"
+"续吗？"
+
+msgid "Response"
+msgstr "回应"
+
+msgid "Terms"
+msgstr "条件"
+
+#, fuzzy
+msgid "New Version"
+msgstr "新版本"
+
+#, fuzzy
+msgid "Old Version"
+msgstr "旧版本"
+
+msgid "Downloads"
+msgstr "下载数"
+
+#, fuzzy
+msgid "Publish: $addon_title"
+msgstr "发布附加组件： "
+
+#, fuzzy
+msgid "Delete: $addon_title"
+msgstr "删除附加组件： "
+
+msgid "There are no add-ons available for download from this server."
+msgstr "这个服务器上无可供下载的附加组件。"
+
+#, fuzzy
+msgid "There are no add-ons matching the specified criteria on this server."
+msgstr "这个服务器上无可供下载的附加组件。"
+
+msgid "Filter: "
+msgstr "过滤条件："
+
+msgid "Description"
+msgstr "描述"
+
+#, fuzzy
+msgid "Update All"
+msgstr "全部更新"
+
+#, fuzzy
+msgid "filter^Options"
+msgstr "白板选项"
+
+msgid "Add-on Installed"
+msgstr "附加组件已安装"
+
+#, fuzzy
+msgid "Add-on Updated"
+msgstr "附加组件已删除"
+
+msgid "The add-on '$addon_title|' has been successfully installed."
+msgstr "附加组件“$addon_title|”已经成功安装。"
+
+#, fuzzy
+msgid "The add-on '$addon_title|' has been successfully updated."
+msgstr "附加组件“$addon_title|”已经成功安装。"
+
+#, fuzzy
+msgid "Add-ons Installed"
+msgstr "附加组件已安装"
+
+#, fuzzy
+msgid "Add-ons Updated"
+msgstr "附加组件已删除"
+
+#, fuzzy
+msgid "All add-ons installed successfully."
+msgstr "所有附加组件都更新成功了。"
+
+msgid "All add-ons updated successfully."
+msgstr "所有附加组件都更新成功了。"
+
+#, fuzzy
+msgid "Installation Failed"
+msgstr "安装失败"
+
+#, fuzzy
+msgid "Update Failed"
+msgstr "更新失败"
+
+#, fuzzy
+msgid "The following add-on could not be downloaded or installed successfully:"
+msgid_plural ""
+"The following add-ons could not be downloaded or installed successfully:"
+msgstr[0] "以下附加组件有错误，无法成功地下载或更新："
+msgstr[1] "以下附加组件有错误，无法成功地下载或更新："
+
+#, fuzzy
+msgid "An error occurred while downloading the add-ons list from the server."
+msgstr "与服务器通讯时发生错误。"
+
+msgid "Network communication error."
+msgstr "网络通讯错误。"
+
+msgid "Remote host disconnected."
+msgstr "远程主机断开连接。"
+
+msgid ""
+"A problem occurred when trying to create the files necessary to install this "
+"add-on."
+msgstr "试图创建安装本附加组件所必需的文件时发生了问题。"
+
+msgid ""
+"A local file with add-on publishing information could not be read.\n"
+"\n"
+"File: $path\n"
+"Error message: $msg"
+msgstr ""
+
+msgid "The add-ons server address specified is not valid."
+msgstr ""
+
+msgid "You have no add-ons installed."
+msgstr "您没有安装任何附加组件。"
+
+msgid "Are you sure you want to remove the following installed add-on?"
+msgid_plural "Are you sure you want to remove the following installed add-ons?"
+msgstr[0] "您确定要移除下列已安装的附加组件吗？"
+msgstr[1] "您确定要移除下列已安装的附加组件吗？"
+
+msgid ""
+"The following add-on appears to have publishing or version control "
+"information stored locally, and will not be removed:"
+msgid_plural ""
+"The following add-ons appear to have publishing or version control "
+"information stored locally, and will not be removed:"
+msgstr[0] ""
+"下列附加组件似乎在本地存储了发布信息或版本控制信息，因此将不会被移除："
+msgstr[1] ""
+"下列附加组件似乎在本地存储了发布信息或版本控制信息，因此将不会被移除："
+
+msgid "The following add-on could not be deleted properly:"
+msgid_plural "The following add-ons could not be deleted properly:"
+msgstr[0] "下列附加组件无法正确删除："
+msgstr[1] "下列附加组件无法正确删除："
+
+msgid "Add-on Deleted"
+msgid_plural "Add-ons Deleted"
+msgstr[0] "附加组件已删除"
+msgstr[1] "附加组件已删除"
+
+msgid "The following add-on was successfully deleted:"
+msgid_plural "The following add-ons were successfully deleted:"
+msgstr[0] "下列附加组件已成功删除："
+msgstr[1] "下列附加组件已成功删除："
+
+msgid "Attacker"
+msgstr "进攻方"
+
+msgid "Defender"
+msgstr "防御方"
+
+msgid "Expected Battle Result (HP)"
+msgstr "战斗结果期望（生命值）"
+
+msgid "Time of day"
+msgstr "时段"
+
+msgid "Leadership"
+msgstr "领导技能"
+
+msgid " resistance vs "
+msgstr "抗性"
+
+msgid " vulnerability vs "
+msgstr "弱点"
+
+msgid "Slowed"
+msgstr "减速"
+
+msgid "Total damage"
+msgstr "总伤害输出"
+
+msgid "No usable weapon"
+msgstr "无可用武器"
+
+msgid "Chance of being unscathed"
+msgstr "不受伤的几率"
+
+msgid "Damage Calculations"
+msgstr "伤害计算"
+
+msgid "Do you really want to dismiss him?"
+msgstr "您真的想解散他吗？"
+
+#. TRANSLATORS: this string ends with a space
+#, fuzzy
+msgid "This unit is loyal and requires no upkeep. "
+msgstr "阁下，这个单位忠诚于您，而且不需要维护费用！"
+
+msgid "Do you really want to dismiss her?"
+msgstr "您真的想解散她吗？"
+
+#. TRANSLATORS: this string ends with a space
+#, fuzzy
+msgid "This unit is an experienced one, having advanced levels. "
+msgstr "阁下，这个单位富有经验，而且等级很高！"
+
+#. TRANSLATORS: this string ends with a space
+#, fuzzy
+msgid "This unit is close to advancing a level. "
+msgstr "阁下，这个单位就快要升级了！"
+
+msgid "Dismiss Unit"
+msgstr "解散单位"
+
+msgid "Advance Unit"
+msgstr "升级单位"
+
+msgid "What should our victorious unit become?"
+msgstr "我们获胜的单位应该成为什么身份呢？"
+
+msgid "Moves"
+msgstr "移动"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Level^Lvl."
+msgstr "等级"
+
+msgid "unit list^Traits"
+msgstr "特质"
+
+msgid "Unit List"
+msgstr "单位列表"
+
+msgid "Scroll To"
+msgstr "将画面滚动到该单位"
+
+msgid "No objectives available"
+msgstr "无有效的任务目标"
+
+msgid "Recruit"
+msgstr "征募"
+
+msgid "Select unit:"
+msgstr "选择单位："
+
+msgid "Traits"
+msgstr "特质"
+
+msgid "Recall"
+msgstr "召回"
+
+msgid "%a %b %d %H:%M %Y"
+msgstr "%Y年%m月%d日，%H时%M分"
+
+msgid "%a %b %d %I:%M %p %Y"
+msgstr "%a %b %d %I:%M %p %Y"
+
+msgid "#(Invalid)"
+msgstr "#（无效的）"
+
+msgid "Campaign: $campaign_name"
+msgstr "战役：$campaign_name"
+
+msgid "Multiplayer"
+msgstr "多人游戏"
+
+msgid "Tutorial"
+msgstr "教程"
+
+msgid "Test scenario"
+msgstr "测试场景"
+
+msgid "Replay"
+msgstr "游戏录像"
+
+msgid "Turn"
+msgstr "回合"
+
+msgid "Scenario start"
+msgstr "场景开始"
+
+msgid "Difficulty: "
+msgstr "难度："
+
+msgid "Version: "
+msgstr "版本："
+
+msgid "No Saved Games"
+msgstr "没有存档"
+
+msgid ""
+"There are no saved games to load.\n"
+"\n"
+"(Games are saved automatically when you complete a scenario)"
+msgstr ""
+"没有可以读取的游戏存档。\n"
+"\n"
+"（当您完成一个场景时会自动存档）"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Load Game"
+msgstr "读取游戏"
+
+#, fuzzy
+msgid "Change difficulty"
+msgstr "难度："
+
+msgid "Change campaign difficulty before loading"
+msgstr ""
+
+msgid "Show replay"
+msgstr "显示游戏录像"
+
+msgid "Play the embedded replay from the saved game if applicable"
+msgstr ""
+
+msgid "Cancel orders"
+msgstr "取消命令"
+
+msgid "Cancel any pending unit movements in the saved game"
+msgstr ""
+
+msgid "Delete Save"
+msgstr "删除存档"
+
+msgid "Profile"
+msgstr "资料"
+
+msgid "level"
+msgstr "等级"
+
+msgid "HP: "
+msgstr "生命值："
+
+msgid "XP: "
+msgstr "经验值："
+
+msgid "Moves: "
+msgstr "移动："
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Female ♀"
+msgstr "女性 ♀"
+
+msgid "Male ♂"
+msgstr "男性 ♂"
+
+msgid "Only random sides in the current era."
+msgstr "仅允许当前时代中的随机阵营"
+
+msgid "Unable to find a leader type for faction $faction"
+msgstr "无法找到$faction派系的可用领袖类型"
+
+msgid "Cannot obtain genders for invalid leader $leader"
+msgstr ""
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%I:%M %p"
+msgstr "%I:%M %p"
+
+msgid "%A, %H:%M"
+msgstr "%A, %H:%M"
+
+msgid "%A, %I:%M %p"
+msgstr "%A, %H:%M %p"
+
+msgid "%b %d"
+msgstr "%m月%d日"
+
+#, fuzzy
+msgid "%b %d %Y"
+msgstr "%Y年%m月%d日"
+
+msgid "Invalid color range: "
+msgstr "无效颜色范围："
+
+#, fuzzy
+msgid "Error loading game configuration files. The game will now exit."
+msgstr "读取游戏配置文件时出错： '"
+
+msgid "The following add-on had errors and could not be loaded:"
+msgid_plural "The following add-ons had errors and could not be loaded:"
+msgstr[0] "以下附加组件有错误，无法读取："
+msgstr[1] "以下附加组件有错误，无法读取："
+
+msgid "Please report this to the author or maintainer of this add-on."
+msgid_plural ""
+"Please report this to the respective authors or maintainers of these add-ons."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The Battle for Wesnoth"
+msgstr "韦诺之战"
+
+msgid "The file you have tried to load is corrupt"
+msgstr "您试图读取的文件已损坏"
+
+msgid "The file you have tried to load is corrupt: '"
+msgstr "您试图读取的文件已损坏：'"
+
+msgid "File I/O Error while reading the game"
+msgstr "读取游戏时发生文件I/O错误。"
+
+msgid "File I/O Error while reading the game: '"
+msgstr "读取游戏时发生文件I/O错误："
+
+msgid ""
+"This is a multiplayer scenario. Some parts of it may not work properly in "
+"single-player. It is recommended to load this scenario through the "
+"Multiplayer -> Load Game dialog instead."
+msgstr ""
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "No campaigns are available.\n"
+msgstr "无可用战役。\n"
+
+msgid "Error while starting server: "
+msgstr "启动服务器时发生错误： "
+
+msgid "The game could not be loaded: "
+msgstr "无法读取游戏： "
+
+msgid "Error while playing the game: "
+msgstr "进行游戏时发生错误："
+
+msgid "The game map could not be loaded: "
+msgstr "无法读取游戏地图： "
+
+#, fuzzy
+msgid "Chat message"
+msgstr "聊天信息过期设置"
+
+msgid "Turn changed"
+msgstr "回合改变了"
+
+msgid "Invalid value in the result key for [end_level]"
+msgstr "[end_level]的结果键值无效"
+
+msgid "Error: "
+msgstr "错误："
+
+msgid "Warning: "
+msgstr "警告："
+
+msgid "Debug: "
+msgstr "调试："
+
+msgid "Info: "
+msgstr "信息："
+
+msgid "Random maps with an odd width aren't supported."
+msgstr "不支持宽度为奇怪数据的随机地图"
+
+msgid ""
+"No valid castle location found. Too many or too few mountain hexes? (please "
+"check the 'max hill size' parameter)"
+msgstr ""
+"未找到合法的城堡位置。是不是因为山脉六角格太多或者太少了？（请检查“最大丘陵尺"
+"寸”参数）"
+
+msgid "Unknown era: $era_id"
+msgstr "未知时代：$era_id"
+
+msgid "Unknown era"
+msgstr "未知时代"
+
+msgid "Remote scenario"
+msgstr "远程场景"
+
+msgid "Unknown scenario: $scenario_id"
+msgstr "未知场景：$scenario_id"
+
+msgid "Unknown scenario"
+msgstr "未知场景"
+
+msgid "Reloaded game"
+msgstr "重新读取了游戏"
+
+msgid "Turn "
+msgstr "回合"
+
+msgid "Vacant Slot:"
+msgid_plural "Vacant Slots:"
+msgstr[0] "空槽："
+msgstr[1] "空槽："
+
+msgid "none"
+msgstr "无"
+
+msgid "In game:"
+msgstr "在游戏中："
+
+msgid "(observing)"
+msgstr "（观察中）"
+
+msgid "(playing)"
+msgstr "（正在游戏）"
+
+msgid "In lobby"
+msgstr "在大厅中"
+
+msgid "On friends list"
+msgstr "在好友列表中"
+
+msgid "On ignores list"
+msgstr "在忽略列表中"
+
+msgid "Neither a friend nor ignored"
+msgstr "不在好友或忽略列表中"
+
+msgid "You"
+msgstr "您自己"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Quit"
+msgstr "退出"
+
+#, fuzzy
+msgid "Do you really want to quit?"
+msgstr "您真的想解散他吗？"
+
+msgid "Map-Screenshot"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Screenshot Done"
+msgstr ""
+
+msgid "The End"
+msgstr "结束"
+
+msgid "System default language"
+msgstr "系统默认语言"
+
+msgid "Leader"
+msgstr "领袖"
+
+msgid "Team"
+msgstr "团队"
+
+msgid "Villages"
+msgstr "村庄"
+
+msgid "status^Units"
+msgstr "单位"
+
+msgid "Upkeep"
+msgstr "维护费用"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Current Status"
+msgstr "当前状态"
+
+msgid "More >"
+msgstr "更多 >"
+
+msgid "scenario settings^Leader"
+msgstr "领袖"
+
+msgid "scenario settings^Side"
+msgstr "阵营"
+
+msgid ""
+"scenario settings^Start\n"
+"Gold"
+msgstr ""
+"起始\n"
+"金币"
+
+msgid ""
+"scenario settings^Base\n"
+"Income"
+msgstr ""
+"基本\n"
+"收入"
+
+msgid ""
+"scenario settings^Gold Per\n"
+"Village"
+msgstr ""
+"每村庄\n"
+"收入"
+
+#, fuzzy
+msgid ""
+"scenario settings^Support Per\n"
+"Village"
+msgstr ""
+"每村庄\n"
+"收入"
+
+msgid "scenario settings^Fog"
+msgstr "战争迷雾"
+
+msgid "scenario settings^Shroud"
+msgstr "战场黑幕"
+
+msgid "no"
+msgstr "否"
+
+msgid "yes"
+msgstr "是"
+
+msgid "Scenario Settings"
+msgstr "场景设定"
+
+msgid " < Back"
+msgstr " < 后退"
+
+msgid "Initializing user interface"
+msgstr "正在初始化用户界面"
+
+msgid "Loading game configuration"
+msgstr "正在读取游戏配置"
+
+msgid "Verifying cache"
+msgstr "正在验证缓存"
+
+msgid "Reading files and creating cache"
+msgstr "正在读取文件并创建缓存"
+
+msgid "Reading unit files"
+msgstr "正在读取单位文件"
+
+msgid "Reinitialize fonts for the current language"
+msgstr "为当前语言重新初始化字体"
+
+msgid "Searching for installed add-ons"
+msgstr "正在搜索已经安装的附加组件"
+
+msgid "Loading title screen"
+msgstr "正在读取主屏幕"
+
+msgid "Loading data files"
+msgstr "正在读取数据文件"
+
+msgid "Loading level"
+msgstr "正在读取关卡文件"
+
+msgid "Initializing teams"
+msgstr "正在初始化队伍"
+
+msgid "Loading units"
+msgstr "正在读取单位定义"
+
+msgid "Initializing display"
+msgstr "正在初始化显示"
+
+msgid "Building terrain rules"
+msgstr "正在构造地形规则"
+
+msgid "Starting game"
+msgstr "正在开始游戏"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Save the Map As"
+msgstr "地图另存为"
+
+msgid "The map already exists. Do you want to overwrite it?"
+msgstr "地图已存在，要覆盖吗？"
+
+msgid "Map saved."
+msgstr "地图已保存。"
+
+msgid "Could not save the map: $msg"
+msgstr "无法保存地图：$msg"
+
+msgid "Message:"
+msgstr "信息："
+
+msgid "Send to allies only"
+msgstr "仅发送给盟友"
+
+msgid "Send to observers only"
+msgstr "仅发送给观察者"
+
+msgid "unit^Gold"
+msgid_plural "Gold"
+msgstr[0] "金币"
+msgstr[1] "金币"
+
+msgid "You have no units available to recruit."
+msgstr "没有可供征募的单位。"
+
+msgid "You don’t have enough gold to recruit that unit"
+msgstr "您没有足够的金币以征募该单位"
+
+msgid "You are separated from your soldiers and may not recall them"
+msgstr "您与您的士兵分开了，因此不能召回他们"
+
+msgid ""
+"There are no troops available to recall\n"
+"(You must have veteran survivors from a previous scenario)"
+msgstr ""
+"没有可供召回的部队\n"
+"（您在上一个场景中必须有老练的生还部队）"
+
+msgid "You currently can't recall at the highlighted location"
+msgstr "目前您不能在高亮位置进行召回"
+
+msgid "You must have at least 1 gold piece to recall a unit"
+msgid_plural "You must have at least $cost gold pieces to recall a unit"
+msgstr[0] "要召回一个单位，您至少需要有1个金币"
+msgstr[1] "要召回一个单位，您至少需要有$cost个金币"
+
+msgid "You cannot end your turn yet!"
+msgstr "您还不可以结束自己的回合！"
+
+msgid ""
+"You have not started your turn yet. Do you really want to end your turn?"
+msgstr "您在这回合还没有进行操作，您真的想结束本回合吗？"
+
+msgid "Some units have movement left. Do you really want to end your turn?"
+msgstr "有些单位还可以移动。您真的想结束本回合吗？"
+
+#, fuzzy
+msgid "Some units have not moved. Do you really want to end your turn?"
+msgstr "有些单位还可以移动。您真的想结束本回合吗？"
+
+msgid "Rename Unit"
+msgstr "单位重命名"
+
+#, fuzzy
+msgid "Name:"
+msgstr "名称："
+
+msgid "Race"
+msgstr "种族"
+
+msgid "Create Unit (Debug!)"
+msgstr "创建单位（调试！）"
+
+msgid "Gender: "
+msgstr "性别："
+
+msgid "gender^Random"
+msgstr "随机"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "This command is currently unavailable."
+msgstr "当前无法使用这个命令。"
+
+msgid ""
+"Unknown command '$command', try $help_command for a list of available "
+"commands."
+msgstr "未知命令“$command”，请尝试使用$help_command来获取可用命令的列表。"
+
+msgid ""
+"Available commands list and command-specific help. Use \"help all\" to "
+"include currently unavailable commands."
+msgstr ""
+"当前可用命令列表和针对特定命令的帮助。如果想包括当前不可用的命令，请使"
+"用“help all”。"
+
+msgid "do not translate the 'all'^[all|<command>]"
+msgstr "[all|<命令>]"
+
+msgid "Error:"
+msgstr "错误："
+
+msgid "Missing argument $arg_id"
+msgstr "缺少参数$arg_id"
+
+msgid ""
+"Available commands $flags_description:\n"
+"$list_of_commands"
+msgstr ""
+"可用命令$flags_description：\n"
+"$list_of_commands"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "Type $help_command <command> for more info."
+msgstr "键入 $help_command <命令> 以获得更多信息。"
+
+msgid " No help available."
+msgstr " 没有可用的帮助信息。"
+
+msgid "Usage:"
+msgstr "使用方法："
+
+msgid "aliases:"
+msgstr "别名："
+
+msgid "(A) — admin command"
+msgstr "(A) — 管理员命令"
+
+msgid "(admin only)"
+msgstr "（管理员专用）"
+
+msgid ""
+"Send a query to the server. Without arguments the server should tell you the "
+"available commands."
+msgstr "向服务器发送查询。如果不带参数，服务器应该会告诉您可以使用的命令。"
+
+msgid ""
+"Ban and kick a player or observer. If he is not in the game but on the "
+"server he will only be banned."
+msgstr "封禁并剔除一个玩家或观察者。如果他不在游戏中，则只会被封禁。"
+
+msgid "<nickname>"
+msgstr "<昵称>"
+
+msgid "Unban a user. He does not have to be in the game but on the server."
+msgstr "取消封禁一个用户。该用户不必在游戏中，但是必须在服务器上。"
+
+msgid "Kick a player or observer."
+msgstr "踢出一名玩家或者观察者。"
+
+msgid "Mute an observer. Without an argument displays the mute status."
+msgstr "禁止一个观察者发言。 如果不附加参数则显示禁言状态。"
+
+msgid "Unmute an observer. Without an argument unmutes everyone."
+msgstr "对一个观察者取消禁言。如果不使用参数则取消所有观察者的禁言状态。"
+
+msgid "Mute/Unmute all observers. (toggles)"
+msgstr "禁言/取消禁言所有观察者。(切换)"
+
+msgid ""
+"Report abuse, rule violations, etc. to the server moderators. Make sure to "
+"mention relevant nicknames, etc."
+msgstr ""
+"请将滥用与违反规则的情况报告给服务器管理员。请确保提及相关的用户昵称等信息。"
+
+msgid "<message>"
+msgstr "<消息>"
+
+msgid "Send an emotion or personal action in chat."
+msgstr "在聊天中发送表情符号或者个人动作。"
+
+msgid ""
+"Sends a private message. You cannot send private messages to players in a "
+"running game you observe or play in."
+msgstr ""
+"发送一条私人消息。对您正在观察或者参与的游戏中的其他玩家，不能发送私人消息。"
+
+msgid "<nickname> <message>"
+msgstr "<昵称> <信息>"
+
+msgid "<level> <domain>"
+msgstr "<级别> <域>"
+
+msgid "Change the log level of a log domain."
+msgstr "更改日志域的记录级别。"
+
+msgid "Add a nickname to your ignores list."
+msgstr "将一个昵称列入您的忽略列表。"
+
+msgid "Add a nickname to your friends list."
+msgstr "将一个昵称列入您的好友列表。"
+
+msgid "Remove a nickname from your ignores or friends list."
+msgstr "将一个昵称从您的忽略列表或好友列表中移除。"
+
+msgid "Show your ignores and friends list."
+msgstr "显示您的忽略列表和好友列表。"
+
+msgid "Display version information."
+msgstr "显示版本信息。"
+
+msgid "<password> <email (optional)>"
+msgstr "<密码> <电子邮件（可选）>"
+
+msgid "Register your nickname"
+msgstr "注册昵称"
+
+msgid "Drop your nickname."
+msgstr "放弃昵称。"
+
+msgid "Update details for your nickname. For possible details see '/details'."
+msgstr "为昵称设置详细信息。输入“/details”查看可设置的内容。"
+
+msgid "<detail> <value>"
+msgstr "<详细信息> <值>"
+
+msgid "Request information about a nickname."
+msgstr "请求有关于某昵称的信息。"
+
+msgid "Request a list of details you can set for your registered nickname."
+msgstr "对于注册好的昵称，获取一份可供配置的详细资料的清单。"
+
+msgid "<room>"
+msgstr "<房间>"
+
+msgid "Join a room."
+msgstr "加入房间。"
+
+msgid "Part a room."
+msgstr "离开房间。"
+
+msgid "List room members."
+msgstr "显示房间内的成员。"
+
+msgid "List available rooms."
+msgstr "显示可用的房间。"
+
+msgid "<room> <msg>"
+msgstr "<房间> <消息>"
+
+msgid "Room message."
+msgstr "房间消息。"
+
+msgid "<room> <type> [value]"
+msgstr "<房间> <类型> [值]"
+
+msgid "Room query."
+msgstr "房间查询。"
+
+msgid "(D) — debug only, (N) — network only, (A) — admin only"
+msgstr "(D) — 调试专用，(N) — 网战专用，(A) — 管理员专用"
+
+msgid "(debug command)"
+msgstr "（调试指令）"
+
+msgid "(network only)"
+msgstr "（仅针对网战）"
+
+msgid "Refresh gui."
+msgstr "刷新界面。"
+
+msgid "Switch a side to/from AI control."
+msgstr "对某一阵营开启/关闭AI控制。"
+
+msgid "do not translate the on/off^[<side> [on/off]]"
+msgstr "[<阵营> [on/off]]"
+
+#, fuzzy
+msgid "Switch a side to/from idle state."
+msgstr "对某一阵营开启/关闭AI控制。"
+
+msgid "<side> <nickname>"
+msgstr "<阵营> <昵称>"
+
+msgid "Assign control of a side to a different player or observer."
+msgstr "将某阵营的控制权授予另一玩家或观察者。"
+
+msgid "<side>"
+msgstr ""
+
+msgid "Query the controller status of a side."
+msgstr ""
+
+msgid "Clear chat history."
+msgstr "清除聊天历史。"
+
+msgid "Visualize the screen refresh procedure."
+msgstr "让屏幕刷新过程可视。"
+
+msgid "Debug foreground terrain."
+msgstr "调试前景地形。"
+
+msgid "Debug layers from terrain under the mouse."
+msgstr "调试鼠标所指向的地形中的各层。"
+
+msgid "Show fps."
+msgstr "显示FPS。"
+
+msgid "Save game."
+msgstr "保存游戏。"
+
+msgid "Quit game."
+msgstr "退出游戏。"
+
+msgid "Save and quit."
+msgstr "保存并退出。"
+
+msgid "Ignore replay errors."
+msgstr "忽视录像中的错误。"
+
+msgid "Disable autosaves."
+msgstr "禁止自动存档。"
+
+msgid "<id>"
+msgstr "<ID>"
+
+msgid "Advance to the next scenario, or scenario identified by 'id'"
+msgstr "进入下一个场景，或ID为“ID”的场景"
+
+msgid "Choose next scenario"
+msgstr "选择下一个场景"
+
+msgid ""
+"Change turn number (and time of day), or increase by one if no number is "
+"specified."
+msgstr "改变回合序号（以及时段），如果不设置，则回合序号增加一。"
+
+msgid "[turn]"
+msgstr "[回合]"
+
+msgid ""
+"Change turn limit, or turn the turn limit off if no number is specified or "
+"it’s −1."
+msgstr "改变回合数上限，如果为-1，则回合数无上限。"
+
+msgid "[limit]"
+msgstr "[时限]"
+
+msgid "Turn debug mode on."
+msgstr "打开调试模式。"
+
+msgid "Turn debug mode off."
+msgstr "关闭调试模式。"
+
+msgid "<command>[;<command>...]"
+msgstr "<命令>[;<命令>...]"
+
+msgid "Execute a Lua statement."
+msgstr "执行Lua语句。"
+
+msgid "Grant higher privileges to Lua scripts."
+msgstr "赋予Lua脚本更高的权限。"
+
+msgid "Set the command used by the custom command hotkey"
+msgstr "为自定义热键设置命令"
+
+msgid "Invoke a dialog allowing changing control of MP sides."
+msgstr "弹出对话框，用于改变多人游戏阵营的控制方。"
+
+msgid "Launch the gamestate inspector"
+msgstr "启动游戏状态检查器"
+
+msgid "Manage persistence data"
+msgstr "管理持久化数据"
+
+msgid "<name>[=<command>]"
+msgstr "<名字>[=<命令>]"
+
+msgid "Set or show alias to a command"
+msgstr "设置或者显示一条命令的别名"
+
+msgid "<var>=<value>"
+msgstr "<变量>=<值>"
+
+msgid "Set a scenario variable."
+msgstr "设置一个场景变量。"
+
+msgid "<var>"
+msgstr "<变量>"
+
+msgid "Show a scenario variable."
+msgstr "显示一个场景变量。"
+
+msgid "Modify a unit variable. (Only top level keys are supported.)"
+msgstr "修改一个单位变量。（只支持顶层的键值。）"
+
+msgid "Discover all units in help."
+msgstr "在帮助中显示所有单位。"
+
+msgid "'Undiscover' all units in help."
+msgstr "在帮助中清除所有单位。"
+
+msgid "Create a unit."
+msgstr "创建一个单位"
+
+msgid "Toggle fog for the current player."
+msgstr "为当前玩家开/关战争迷雾。"
+
+msgid "Toggle shroud for the current player."
+msgstr "为当前玩家开/关战场黑幕。"
+
+msgid "Give gold to the current player."
+msgstr "给当前玩家金币。"
+
+msgid "Fire a game event."
+msgstr "触发游戏事件。"
+
+msgid "Toggle overlaying of x,y coordinates on hexes."
+msgstr "开/关单元格x,y坐标显示。"
+
+msgid "Toggle overlaying of terrain codes on hexes."
+msgstr "开/关单元格地形编码。"
+
+msgid "Toggle planning mode."
+msgstr "开关计划模式。"
+
+msgid "Access whiteboard options dialog."
+msgstr "访问白板选项对话框。"
+
+msgid "Unknown debug level: '$level'."
+msgstr "未知调试级别：“$level”。"
+
+msgid "error"
+msgstr "错误"
+
+msgid "Unknown debug domain: '$domain'."
+msgstr "未知调试域：“$domain”。"
+
+msgid "Switched domain: '$domain' to level: '$level'."
+msgstr "将“$domain”域切换到“$level”级别。"
+
+msgid "whisper to $receiver"
+msgstr "对$receiver说悄悄话"
+
+msgid "whisper: $sender"
+msgstr "悄悄话：$sender"
+
+msgid "(empty)"
+msgstr "（空置）"
+
+msgid "ignores list"
+msgstr "忽略列表"
+
+msgid "Added to ignore list: $nick"
+msgstr "已加入忽略列表：$nick"
+
+msgid "Invalid username: $nick"
+msgstr "无效的用户名：$nick"
+
+msgid "friends list"
+msgstr "好友列表"
+
+msgid "Added to friends list: $nick"
+msgstr "已加入好友列表：$nick"
+
+msgid "Removed from list: $nick"
+msgstr "已从列表中移除：$nick"
+
+msgid "friends and ignores list"
+msgstr "好友与忽略列表"
+
+msgid "There are no players on your friends or ignore list."
+msgstr "您的好友列表与忽略列表是空的。"
+
+msgid "version"
+msgstr "版本"
+
+msgid "registering with password *** and no email address"
+msgstr "以密码 *** 注册，未使用电子邮件地址"
+
+msgid "registering with password *** and email address $email"
+msgstr "以密码***和电子邮件地址$email注册"
+
+msgid "nick registration"
+msgstr "昵称注册"
+
+msgid "dropping your username"
+msgstr "正在废弃您的用户名"
+
+msgid "setting $var to $value"
+msgstr "正在设置$var为$value"
+
+msgid "requesting information for user $nick"
+msgstr "正在请求用户$nick的信息"
+
+#, fuzzy
+msgid "Could not find label or unit containing the string ‘$search’."
+msgstr "无法找到含有字符串“$search”的标签或单位。"
+
+msgid "Can't droid invalid side: '$side'."
+msgstr "无法托管无效阵营：“$side”。"
+
+msgid "Can't droid networked side: '$side'."
+msgstr "无法托管网络阵营：“$side”。"
+
+#, fuzzy
+msgid "Can't idle invalid side: '$side'."
+msgstr "无法托管无效阵营：“$side”。"
+
+msgid "Can't change control of invalid side: '$side'."
+msgstr "无法改变无效阵营的控制权：“$side”。"
+
+msgid "Can't change control of out-of-bounds side: '$side'."
+msgstr "无法改变超出范围的阵营的控制权：“$side”。"
+
+#, fuzzy
+msgid "Can't query control of invalid side: '$side'."
+msgstr "无法改变无效阵营的控制权：“$side”。"
+
+#, fuzzy
+msgid "Can't query control of out-of-bounds side: '$side'."
+msgstr "无法改变超出范围的阵营的控制权：“$side”。"
+
+msgid "Layers"
+msgstr "层 "
+
+msgid "Choose Scenario (Debug!)"
+msgstr "选择场景（调试！）"
+
+msgid "Debug mode activated!"
+msgstr "调试模式激活！"
+
+msgid "Debug mode not available in network games"
+msgstr "调试模式在网络游戏中不可用"
+
+msgid "Debug mode deactivated!"
+msgstr "调试模式关闭！"
+
+msgid "Unsafe Lua scripts."
+msgstr "不安全的Lua脚本。"
+
+msgid ""
+"You are about to open a security breach in Wesnoth. Are you sure you want to "
+"continue? If you have downloaded add-ons, do not click 'ok'! They would "
+"instantly take over your computer. You have been warned."
+msgstr ""
+"您的操作有可能将破坏韦诺的安全性。您真的确定要继续吗？如果您下载过附加组件，"
+"请不要点击“确定”！这些脚本将可能完全控制您的计算机！我们已经警告过您了！"
+
+msgid "Unsafe mode enabled!"
+msgstr "不安全模式已启用！"
+
+msgid "Variable not found"
+msgstr "变量未找到"
+
+msgid ""
+"Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
+"chaotic, or liminal."
+msgstr ""
+"无效立场：“$alignment”，应该是lawful（守序），neutral（中立），chaotic（混"
+"沌）或liminal（边缘）之一。"
+
+msgid "Do you wish to clear all of your discovered units from help?"
+msgstr "您想删除“帮助”里的所有单位吗？"
+
+msgid "Invalid unit type"
+msgstr "无效单位类型"
+
+msgid "Invalid location"
+msgstr "无效位置"
+
+msgid "Planning mode activated!"
+msgstr "计划模式激活！"
+
+msgid "Planning mode deactivated!"
+msgstr "计划模式关闭！"
+
+msgid "ai"
+msgstr "ai"
+
+msgid "prompt^Command:"
+msgstr "命令："
+
+msgid ""
+"You cannot move your leader away from the keep with some planned recruits or "
+"recalls left."
+msgstr "在有剩余的征募或者召回计划时，您不能将领袖移动到主楼之外。"
+
+msgid "Attack Enemy"
+msgstr "攻击敌人"
+
+msgid "Choose weapon:"
+msgstr "选择武器："
+
+#, fuzzy
+msgid "Failed to resolve dependencies"
+msgstr "安装依赖的插件"
+
+msgid "Scenario can't be activated. Some dependencies are missing: "
+msgstr ""
+
+#, fuzzy
+msgid "No compatible eras found."
+msgstr "没有找到任何时代。"
+
+msgid "Era can't be activated. Some dependencies are missing: "
+msgstr ""
+
+#, fuzzy
+msgid "No compatible scenarios found."
+msgstr "没有发现多人游戏阵营"
+
+msgid ""
+"Not all of the chosen modifications are compatible. Some of them will be "
+"disabled."
+msgstr ""
+
+msgid "Cannot find era $era"
+msgstr "无法找到$era时代"
+
+msgid "Defeat enemy leader(s)"
+msgstr "击败敌军领袖(们)"
+
+msgid "Connection timed out"
+msgstr "连接超时"
+
+msgid "Connecting to Server..."
+msgstr "正在连接到服务器……"
+
+msgid "Reading from Server..."
+msgstr "正在从服务器读取数据……"
+
+#, fuzzy
+msgid ""
+"The server accepts versions '$version1' while you are using version "
+"'$version2'"
+msgstr "本服务器需要版本“$version1”，而您的版本是“$version2”"
+
+msgid "Server-side redirect loop"
+msgstr "服务器端重定向循环"
+
+msgid ""
+"The nickname ‘$nick’ is inactive. You cannot claim ownership of this "
+"nickname until you activate your account via email or ask an administrator "
+"to do it for you."
+msgstr ""
+"昵称‘$nick’处于未激活状态。除非您使用电子邮件或请管理员进行激活，否则您不能取"
+"得此昵称的所有权。"
+
+msgid "Do you want to continue?"
+msgstr "您希望继续吗？"
+
+msgid "Bad data received from server"
+msgstr "从服务器处收到损坏的数据"
+
+msgid "You must login first."
+msgstr "您必须先登录。"
+
+msgid "The nickname ‘$nick’ is already taken."
+msgstr "昵称‘$nick’已经被使用了。"
+
+msgid ""
+"The nickname ‘$nick’ contains invalid characters. Only alpha-numeric "
+"characters, underscores and hyphens are allowed."
+msgstr "昵称‘$nick’包含无效字符。只能使用字母，下划线和连字符。"
+
+msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
+msgstr "昵称‘$nick’太长了。昵称长度不得超过20个字符。"
+
+msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
+msgstr "昵称‘$nick’是被保留的，无法由玩家使用。"
+
+msgid "The nickname ‘$nick’ is not registered on this server."
+msgstr "昵称‘$nick’未在本服务器上注册。"
+
+msgid " This server disallows unregistered nicknames."
+msgstr " 本服务器不允许使用没有注册的昵称。"
+
+msgid "The nickname ‘$nick’ is registered on this server."
+msgstr "昵称‘$nick’已经在本服务器上注册。"
+
+msgid ""
+"WARNING: There is already a client using this nickname, logging in will "
+"cause that client to be kicked!"
+msgstr "警告：已经有一个客户端使用这个昵称登录。如果继续登录将踢走那个客户端！"
+
+msgid ""
+"Error in the login procedure (the server had no seed for your connection)."
+msgstr "登录错误（服务器没有安排您连接的位置）。"
+
+msgid "The password you provided was incorrect."
+msgstr "您提供的密码是不正确的。"
+
+msgid "You have made too many login attempts."
+msgstr "您尝试登录的次数太多了。"
+
+#, fuzzy
+msgid "Configure Game"
+msgstr "确认"
+
+msgid "Time limit"
+msgstr "时限"
+
+msgid "Generic"
+msgstr ""
+
+msgid "Name of game:"
+msgstr "游戏名："
+
+msgid "Use map settings"
+msgstr "使用地图设置"
+
+msgid "Random start time"
+msgstr "随机开始时间"
+
+msgid "Fog of war"
+msgstr "战争迷雾"
+
+msgid "Observers"
+msgstr "观察者"
+
+msgid "Shuffle sides"
+msgstr "随机分配阵营"
+
+msgid "Set Password..."
+msgstr "设定密码..."
+
+#, fuzzy
+msgid "Select an entry point:"
+msgstr "选择要更新的附加组件："
+
+msgid "The maximum number of turns the game can last"
+msgstr "游戏允许的最大回合数"
+
+msgid "Enables user time limit"
+msgstr "启用玩家时限"
+
+msgid "Longest time allowed for first turn (seconds)"
+msgstr "首回合的最长时限（秒）"
+
+msgid "Longest time possible for any turn (seconds)"
+msgstr "任意回合的最长时限（秒）"
+
+msgid "Time for general tasks each turn (seconds)"
+msgstr "每回合普通行动的时限（秒）"
+
+msgid "Time for each attack, recruit, and capture"
+msgstr "每次攻击、征募和占领的时限"
+
+msgid "The amount of income each village yields per turn"
+msgstr "每村庄每回合产生的收入"
+
+#, fuzzy
+msgid "The number of unit levels each village can support"
+msgstr "游戏允许的最大回合数"
+
+msgid "The amount of experience a unit needs to advance"
+msgstr "一个单位升级所需的经验值"
+
+msgid "Use scenario specific settings"
+msgstr "使用场景的特殊设置"
+
+msgid "Randomize time of day in begin"
+msgstr "随机选择开始时的时段"
+
+msgid "Enemy units cannot be seen unless they are in range of your units"
+msgstr "敌人单位在进入您的单位的移动范围之前不可见"
+
+msgid "The map is unknown until your units explore it"
+msgstr "在您的单位进行探索之前，地图不可见"
+
+msgid "Allow users who are not playing to watch the game"
+msgstr "允许不在对战的用户观看游戏"
+
+msgid "Assign sides to players at random"
+msgstr "随机将各个阵营分配给玩家"
+
+msgid "Share View"
+msgstr "共享视野"
+
+msgid "Share Maps"
+msgstr "共享地图"
+
+msgid "Share None"
+msgstr "无共享"
+
+msgid "$login|’s game"
+msgstr "$login|的游戏"
+
+msgid "You must enter a name."
+msgstr "您必须输入名字。"
+
+msgid "Turns: "
+msgstr "回合数："
+
+msgid "Unlimited turns"
+msgstr "回合数不限"
+
+msgid "Init. limit: "
+msgstr "起始限制："
+
+msgid "Turn bonus: "
+msgstr "回合奖励："
+
+msgid "Reservoir: "
+msgstr "蓄水池："
+
+msgid "Action bonus: "
+msgstr "行动奖励："
+
+msgid "Village gold: "
+msgstr "村庄金币："
+
+#, fuzzy
+msgid "Village support: "
+msgstr "村庄金币："
+
+msgid "Experience modifier: "
+msgstr "经验值修正："
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "("
+msgstr "（"
+
+msgid ")"
+msgstr "）"
+
+msgid "+"
+msgstr "+"
+
+msgid "Game Lobby: "
+msgstr "游戏大厅："
+
+msgid "Player/Type"
+msgstr "玩家/类型"
+
+#, fuzzy
+msgid "Faction/Name"
+msgstr "派系"
+
+#, fuzzy
+msgid "Leader/Gender"
+msgstr "队伍/性别"
+
+#, fuzzy
+msgid "Team/Color"
+msgstr "颜色"
+
+msgid "I’m Ready"
+msgstr "准备就绪"
+
+msgid "The scenario is invalid because it has no id."
+msgstr "由于没有ID，本场景无法使用。"
+
+msgid "The scenario is invalid because it has no sides."
+msgstr "由于没有阵营，本场景无法使用。"
+
+msgid "Waiting for players to join..."
+msgstr "正在等待玩家加入……"
+
+msgid "Waiting for players to choose factions..."
+msgstr "正在等待玩家选择阵营"
+
+msgid "(Vacant slot)"
+msgstr "（空闲槽位）"
+
+msgid "Anonymous local player"
+msgstr "本地匿名玩家"
+
+msgid "Computer Player"
+msgstr "电脑玩家"
+
+msgid "$playername $side"
+msgstr "$playername $side"
+
+msgid "(Empty slot)"
+msgstr "（空置槽位）"
+
+msgid "(Reserved for $playername)"
+msgstr "（预留给$playername）"
+
+msgid "Network Player"
+msgstr "网络玩家"
+
+msgid "Local Player"
+msgstr "本地玩家"
+
+msgid "Empty"
+msgstr "空位"
+
+msgid "Reserved"
+msgstr "保留"
+
+msgid "--give--"
+msgstr "--给予--"
+
+msgid "Create Game"
+msgstr "创建游戏"
+
+#, fuzzy
+msgid "Filter:"
+msgstr "过滤条件："
+
+msgid "Number of players: any"
+msgstr ""
+
+#, fuzzy
+msgid "Random map options:"
+msgstr "随机开始时间"
+
+msgid "Era:"
+msgstr "时代："
+
+msgid ""
+"No eras available\n"
+"for this game."
+msgstr ""
+
+#, fuzzy
+msgid "Modifications:"
+msgstr "禁止桌面提示"
+
+#, fuzzy
+msgid "Next"
+msgstr "下一回合"
+
+msgid "Regenerate"
+msgstr "重新生成"
+
+msgid "Settings..."
+msgstr "设置..."
+
+msgid "Load Game..."
+msgstr "读取游戏..."
+
+msgid "Activate"
+msgstr ""
+
+#, fuzzy
+msgid "Scenarios"
+msgstr "场景开始"
+
+#, fuzzy
+msgid "Campaigns"
+msgstr "战役设计"
+
+#, fuzzy
+msgid "User Maps"
+msgstr "共享地图"
+
+#, fuzzy
+msgid "User Scenarios"
+msgstr "结束场景"
+
+#, fuzzy
+msgid "Random Maps"
+msgstr "随机"
+
+#, fuzzy
+msgid "No games found."
+msgstr "没有找到任何时代。"
+
+msgid "No eras found."
+msgstr "没有找到任何时代。"
+
+msgid "No eras found"
+msgstr "没有找到任何时代"
+
+msgid ""
+"Modifications:\n"
+"None found."
+msgstr ""
+
+#, fuzzy
+msgid "Deactivate"
+msgstr "调试模式激活！"
+
+#, fuzzy
+msgid "The level is invalid."
+msgstr "本地图无效。"
+
+msgid "Players: "
+msgstr "玩家： "
+
+msgid "Size: "
+msgstr "大小"
+
+#, fuzzy
+msgid "Number of players: "
+msgstr "游戏名："
+
+msgid "No description available."
+msgstr "没有描述信息。"
+
+#, fuzzy
+msgid "Map could not be loaded: "
+msgstr "无法读取游戏： "
+
+#, fuzzy
+msgid "Map could not be loaded."
+msgstr "无法读取游戏： "
+
+#, fuzzy
+msgid "not available."
+msgstr " 没有可用的帮助信息。"
+
+msgid "User made map"
+msgstr ""
+
+msgid "--no games open--"
+msgstr "--没有游戏处于开放状态--"
+
+msgid " (Unknown Era)"
+msgstr "（未知时代）"
+
+#, fuzzy
+msgid "Scenario:"
+msgstr "结束场景"
+
+#, fuzzy
+msgid "Campaign:"
+msgstr "战役设计"
+
+#, fuzzy
+msgid "Unknown campaign: $campaign_id"
+msgstr "战役：$campaign_name"
+
+msgid " (missing)"
+msgstr ""
+
+msgid "Password Required"
+msgstr "需要输入密码"
+
+msgid "Game Lobby"
+msgstr "游戏大厅"
+
+msgid "Observe Game"
+msgstr "旁观本游戏"
+
+msgid "Join Game"
+msgstr "加入游戏"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Apply filter"
+msgstr "应用过滤条件"
+
+msgid "Invert"
+msgstr "反转"
+
+msgid "Vacant slots"
+msgstr "空闲槽位"
+
+msgid "Friends in game"
+msgstr "游戏中的好友"
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "Quick replays"
+msgstr "快速读取游戏录像"
+
+msgid "Enter blindfolded"
+msgstr ""
+
+msgid "Skip quickly to the active turn when observing"
+msgstr "在旁观时快速跳到活动回合"
+
+msgid "Do not show replay turns"
+msgstr ""
+
+msgid ""
+"Enable the games filter. If unchecked all games are shown, regardless of any "
+"filter."
+msgstr ""
+"启用游戏过滤条件。如果不勾选，那么所有的游戏都将被显示出来，而无视任何过滤条"
+"件。"
+
+msgid ""
+"Show all games that do *not* match your filter. Useful for hiding games you "
+"are not interested in."
+msgstr "显示所有*不*满足过滤条件的游戏。当需要隐藏您不感兴趣的游戏时很有用。"
+
+msgid "Only show games that have at least one vacant slot"
+msgstr "只显示至少有一个空闲槽位的游戏"
+
+msgid ""
+"Only show games that are played or observed by at least one of your friends"
+msgstr "只显示至少有一位好友正在玩或者旁观的游戏"
+
+msgid "Only show games whose title or description contain the entered text"
+msgstr "只显示标题或描述中包含所输入文字的游戏"
+
+msgid "Joining this game requires a password."
+msgstr "需要输入密码才能加入本游戏"
+
+msgid "Password: "
+msgstr "密码："
+
+msgid "Invalid Color"
+msgstr "无效颜色"
+
+msgid "Selected user: "
+msgstr "选定用户："
+
+msgid "Leader: "
+msgstr "领袖："
+
+msgid "Recruits: "
+msgstr "征募： "
+
+msgid "Waiting for game to start..."
+msgstr "正在等待游戏开始……"
+
+msgid "No era information found."
+msgstr "没有找到时代信息。"
+
+msgid "No multiplayer sides found"
+msgstr "没有发现多人游戏阵营"
+
+msgid "Choose your faction:"
+msgstr "选择派系："
+
+msgid "Starting position: "
+msgstr "开始位置："
+
+msgid "multiplayer_starting_gold^Gold"
+msgid_plural "multiplayer_starting_gold^Gold"
+msgstr[0] "金币"
+msgstr[1] "金币"
+
+msgid "Getting game data..."
+msgstr "正在获取游戏数据……"
+
+msgid "invalid network handle"
+msgstr "无效网络句柄"
+
+msgid "Client disconnected"
+msgstr "客户端断开连接"
+
+msgid "Could not connect to host."
+msgstr "无法连接到主机。"
+
+msgid "Could not add socket to socket set"
+msgstr "无法向套接字集合中添加游戏要用的套接字"
+
+msgid "Could not send initial handshake"
+msgstr "不能发送最初的握手信息"
+
+msgid "Could not connect to host"
+msgstr "无法连接到主机"
+
+msgid "Terrain with a movement cost less than 1 encountered."
+msgstr "遇到了移动力消耗小于1的地形。"
+
+msgid "time left for current turn"
+msgstr "本回合剩余时间"
+
+msgid "current local time"
+msgstr "当前本地时间"
+
+msgid "Auto-Save"
+msgstr "自动存档"
+
+#, fuzzy
+msgid "Back to Turn "
+msgstr "回到回合"
+
+#, fuzzy
+msgid "Back to Start"
+msgstr "回到回合"
+
+msgid ""
+"The game is out of sync. It might not make much sense to continue. Do you "
+"want to save your game?"
+msgstr "游戏失去了同步。继续游戏似乎没有多少意义了。您想保存游戏吗？"
+
+msgid "Error details:"
+msgstr "错误细节："
+
+#, fuzzy
+msgid "(press $hk to disable)"
+msgstr "（按$hotkey键继续移动）"
+
+msgid "Accelerated speed enabled!"
+msgstr ""
+
+msgid "Accelerated speed disabled!"
+msgstr ""
+
+msgid "Scenario Report"
+msgstr "场景报告"
+
+msgid "Victory"
+msgstr "胜利"
+
+msgid "You have emerged victorious!"
+msgstr "您取得了胜利！"
+
+msgid "Defeat"
+msgstr "失败"
+
+msgid "You have been defeated!"
+msgstr "您被击败了！"
+
+msgid "Error while reading the WML: "
+msgstr "读取WML文件时出错： "
+
+msgid "Game Over"
+msgstr "游戏结束"
+
+msgid "This scenario has ended. Do you want to continue the campaign?"
+msgstr "这一场景结束了。您想继续这个战役吗？"
+
+msgid "Unknown scenario: '$scenario|'"
+msgstr "未知场景：“$scenario|”"
+
+msgid "$name has taken control"
+msgstr "$name接管控制权"
+
+msgid "Undoing moves not yet transmitted to the server."
+msgstr "正在取消还没传输到服务器的移动。"
+
+msgid "Waiting for next scenario..."
+msgstr "正在等待下一场景开始……"
+
+msgid ""
+"The game is out of sync, and cannot continue. There are a number of reasons "
+"this could happen: this can occur if you or another player have modified "
+"their game settings. This may mean one of the players is attempting to "
+"cheat. It could also be due to a bug in the game, but this is less likely.\n"
+"\n"
+"Do you want to save an error log of your game?"
+msgstr ""
+"游戏失去了同步，因此不能继续。有以下的一些原因：例如您或另一个玩家改动了游戏"
+"设置，这意味着有一位玩家可能想作弊。 这也可能是游戏bug造成的，虽然不是太可"
+"能。\n"
+"\n"
+"您想为游戏保存错误日志吗？"
+
+#, fuzzy
+msgid "(press $hotkey to deactivate)"
+msgstr "（按$hotkey键继续移动）"
+
+msgid "Remaining gold: "
+msgstr "所剩金币："
+
+msgid "Early finish bonus: "
+msgstr "提前过关奖励："
+
+msgid "per turn"
+msgstr "金币/回合"
+
+msgid "Turns finished early: "
+msgstr "提早结束回合数："
+
+msgid "Bonus: "
+msgstr "奖励："
+
+msgid "Gold: "
+msgstr "金币："
+
+msgid "Carry over percentage: "
+msgstr "金币转移比例："
+
+msgid "Bonus Gold: "
+msgstr "奖励金币："
+
+msgid "Retained Gold: "
+msgstr "所剩金币："
+
+msgid ""
+"You will start the next scenario with $gold on top of the defined minimum "
+"starting gold."
+msgid_plural ""
+"You will start the next scenario with $gold on top of the defined minimum "
+"starting gold."
+msgstr[0] "您将会以$gold金币来开始下一个场景。不会考虑规定的最小起始资金。"
+msgstr[1] "您将会以$gold金币来开始下一个场景。不会考虑规定的最小起始资金。"
+
+msgid ""
+"You will start the next scenario with the defined minimum starting gold."
+msgid_plural ""
+"You will start the next scenario with the defined minimum starting gold."
+msgstr[0] "您将以所规定的最小起始资金来开始下一个场景。"
+msgstr[1] "您将以所规定的最小起始资金来开始下一个场景。"
+
+msgid ""
+"You will start the next scenario with $gold or its defined minimum starting "
+"gold, whichever is higher."
+msgid_plural ""
+"You will start the next scenario with $gold or its defined minimum starting "
+"gold, whichever is higher."
+msgstr[0] "您将会以$gold金币或者所规定的最小起始资金中较高者来开始下一个场景。"
+msgstr[1] "您将会以$gold金币或者所规定的最小起始资金中较高者来开始下一个场景。"
+
+msgid "The game is over."
+msgstr "游戏结束了。"
+
+msgid ""
+"A network disconnection has occurred, and the game cannot continue. Do you "
+"want to save the game?"
+msgstr "网络连接已断开，游戏无法继续进行。您想保存游戏吗？"
+
+msgid "It is now $name|’s turn"
+msgstr "现在是$name|的回合"
+
+msgid "Replace with AI"
+msgstr "让AI替换上阵"
+
+msgid "Replace with local player"
+msgstr "让本地玩家替换上阵"
+
+msgid "Set side to idle"
+msgstr ""
+
+#, fuzzy
+msgid "Save and abort game"
+msgstr "终止游戏"
+
+msgid "Replace with $player"
+msgstr "让$player替换上阵"
+
+msgid "$player has left the game. What do you want to do?"
+msgstr "$player已经离开游戏，您想做什么？"
+
+msgid ""
+"The replay is corrupt/out of sync. It might not make much sense to continue. "
+"Do you want to save the game?"
+msgstr ""
+"这段录像损坏了或者失去了同步，继续观看似乎没有多少意义了。您想保存游戏吗？"
+
+msgid "Name: "
+msgstr "名称："
+
+msgid "Type: "
+msgstr "类型："
+
+msgid "Race: "
+msgstr "种族："
+
+msgid "Level: "
+msgstr "等级："
+
+msgid "No advancement"
+msgstr "没有升级"
+
+msgid "Advances to:"
+msgstr "升级为："
+
+msgid "Trait: "
+msgstr "特质："
+
+msgid "invisible: "
+msgstr "隐形： "
+
+msgid "This unit is invisible. It cannot be seen or attacked by enemy units."
+msgstr "本单位隐形了。敌人看不见它，也不能攻击它。"
+
+msgid "slowed: "
+msgstr "减速： "
+
+msgid ""
+"This unit has been slowed. It will only deal half its normal damage when "
+"attacking and its movement cost is doubled."
+msgstr "本单位被减速了，它只能输出正常情况下一半的伤害，且移动消耗也加倍了。"
+
+msgid "poisoned: "
+msgstr "中毒： "
+
+msgid ""
+"This unit is poisoned. It will lose 8 HP every turn until it can seek a cure "
+"to the poison in a village or from a friendly unit with the ‘cures’ "
+"ability.\n"
+"\n"
+"Units cannot be killed by poison alone. The poison will not reduce it below "
+"1 HP."
+msgstr ""
+"本单位中毒了。它每回合将失去8点生命值，直到在村庄里解毒或由具有“治愈”能力的友"
+"军单位解毒为止。\n"
+"\n"
+"单位不会仅仅因为中毒而死。毒素不会使单位的生命值降到1以下。"
+
+msgid "petrified: "
+msgstr "石化："
+
+msgid "This unit has been petrified. It may not move or attack."
+msgstr "本单位被石化了，它不能移动或者攻击。"
+
+msgid "Alignment: "
+msgstr "立场："
+
+msgid "Ability: "
+msgstr "技能："
+
+msgid " (inactive)"
+msgstr ""
+
+msgid "Resistances: "
+msgstr "抗性："
+
+msgid "(Att / Def)"
+msgstr "（攻击/防御）"
+
+msgid "Experience Modifier: "
+msgstr "经验值修正： "
+
+msgid "Terrain: "
+msgstr "地形："
+
+msgid "maximum^max."
+msgstr "最大："
+
+msgid "minimum^min."
+msgstr "最小："
+
+msgid "Defense: "
+msgstr "闪避率："
+
+#, fuzzy
+msgid "vision: "
+msgstr "版本："
+
+msgid "Movement Costs:"
+msgstr ""
+
+msgid "Weapon: "
+msgstr "武器："
+
+msgid "Damage: "
+msgstr "伤害："
+
+msgid "Base damage: "
+msgstr "基本伤害："
+
+#, fuzzy
+msgid "With specials: "
+msgstr "武器特性"
+
+msgid "Time of day: "
+msgstr "时段："
+
+msgid "Leadership: "
+msgstr "领导技能："
+
+msgid "Slowed: "
+msgstr "减速： "
+
+msgid "Attacks: "
+msgstr "进攻方："
+
+#, fuzzy
+msgid "Max swarm bonus: "
+msgstr "回合奖励："
+
+msgid "Swarm: "
+msgstr "群击："
+
+msgid "Base attacks: "
+msgstr "基本攻击："
+
+#, fuzzy
+msgid "Specials: "
+msgstr "武器特性"
+
+msgid "Subject to swarm: "
+msgstr ""
+
+msgid "Weapon range: "
+msgstr "武器攻击范围："
+
+msgid "Damage type: "
+msgstr "伤害类型："
+
+msgid "Damage versus: "
+msgstr "伤害目标："
+
+msgid "Accuracy:"
+msgstr "精确度："
+
+msgid "Parry:"
+msgstr "闪避："
+
+msgid "Weapon special: "
+msgstr "武器特性"
+
+msgid "None"
+msgstr "无"
+
+msgid "Lawful units: "
+msgstr "守序单位："
+
+msgid "Neutral units: "
+msgstr "中立单位："
+
+msgid "Chaotic units: "
+msgstr "混沌单位："
+
+msgid "Liminal units: "
+msgstr "边缘单位："
+
+msgid "Observers:"
+msgstr "观察者："
+
+msgid " replay"
+msgstr " 游戏录像"
+
+msgid "Warning: The file you have tried to load is corrupt. Loading anyway.\n"
+msgstr "警告：您试图读取的文件已损坏。继续尝试读取。\n"
+
+msgid ""
+"The save has corrupt version information ($version_number|) and cannot be "
+"loaded."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This save is from an old, unsupported version ($version_number|) and cannot "
+"be loaded."
+msgstr "这个存档是由一个太早期的游戏版本保存的，现在的版本无法读取。"
+
+#, fuzzy
+msgid ""
+"This save is from a different version of the game ($version_number|). Do you "
+"wish to try to load it?"
+msgstr "这个存档来自于不同版本的游戏。您仍然想读取吗？"
+
+#, fuzzy
+msgid "This is not a multiplayer save."
+msgstr "这不是多人游戏存档"
+
+msgid "The game could not be saved: "
+msgstr "无法保存游戏："
+
+msgid "Save already exists. Do you want to overwrite it?"
+msgstr "存档已存在，要覆盖吗？"
+
+msgid "Overwrite?"
+msgstr "覆盖？"
+
+#, fuzzy
+msgid ""
+"Save names should not end on '.gz' or '.bz2'. Please remove the extension."
+msgstr "存档名不能以'.gz'结尾，请选择一个不同的名字。"
+
+msgid "Saved"
+msgstr "已保存"
+
+#, fuzzy
+msgid "The game has been saved."
+msgstr "游戏已保存"
+
+msgid "Could not write to file"
+msgstr "无法写入文件"
+
+msgid "Save Replay"
+msgstr "保存游戏录像"
+
+msgid "replay"
+msgstr "游戏录像"
+
+msgid "Could not auto save the game. Please save the game manually."
+msgstr "不能自动保存当前游戏，请手动存档。"
+
+msgid "Save Game"
+msgstr "保存游戏"
+
+msgid "Unexpected characters at line start"
+msgstr "行首部出现非预期的字符"
+
+#, fuzzy
+msgid "Missing closing tag for tag [$tag]"
+msgstr "在$pos处缺少$tag标签的结束标签"
+
+msgid "expected at $pos"
+msgstr ""
+
+msgid "opened at $pos"
+msgstr ""
+
+msgid "Unterminated [element] tag"
+msgstr "未终止的 [element] 标签"
+
+msgid "Invalid tag name"
+msgstr "无效标签名"
+
+msgid "Unterminated [+element] tag"
+msgstr "未终止的 [+element] 标签"
+
+msgid "Invalid closing tag name"
+msgstr "无效的结束标签名"
+
+msgid "Unterminated closing tag"
+msgstr "未终止的结束标签"
+
+msgid "Unexpected closing tag"
+msgstr "非预期的结束标签"
+
+#, fuzzy
+msgid "Found invalid closing tag [/$tag2] for tag [$tag1]"
+msgstr "结束标签$tag2无法匹配开启标签$tag1（开启位置为 $pos）"
+
+msgid "closed at $pos"
+msgstr ""
+
+msgid "Empty variable name"
+msgstr "空变量名"
+
+msgid "Unexpected characters after variable name (expected , or =)"
+msgstr "变量名后出现非预期的字符（预期字符为,或=）"
+
+msgid "Unterminated quoted string"
+msgstr "未终止的引用字符串"
+
+msgid "at $pos"
+msgstr ""
+
+#, fuzzy
+msgid "Value: '$value' Previous: '$previous_value'"
+msgstr "$error，值为“$value”，原值为“$previous_value”，位于$pos"
+
+msgid "prefix_milli^m"
+msgstr "m"
+
+msgid "prefix_micro^µ"
+msgstr "µ"
+
+msgid "prefix_nano^n"
+msgstr "n"
+
+msgid "prefix_pico^p"
+msgstr "p"
+
+msgid "prefix_femto^f"
+msgstr "f"
+
+msgid "prefix_atto^a"
+msgstr "a"
+
+msgid "prefix_zepto^z"
+msgstr "z"
+
+msgid "prefix_yocto^y"
+msgstr "y"
+
+msgid "prefix_kibi^K"
+msgstr "K"
+
+msgid "prefix_kilo^k"
+msgstr "k"
+
+msgid "prefix_mega^M"
+msgstr "M"
+
+msgid "prefix_giga^G"
+msgstr "G"
+
+msgid "prefix_tera^T"
+msgstr "T"
+
+msgid "prefix_peta^P"
+msgstr "P"
+
+msgid "prefix_exa^E"
+msgstr "E"
+
+msgid "prefix_zetta^Z"
+msgstr "Z"
+
+msgid "prefix_yotta^Y"
+msgstr "Y"
+
+msgid "infix_binary^i"
+msgstr "i"
+
+msgid "Recruits"
+msgstr "征募"
+
+msgid "Recalls"
+msgstr "召回"
+
+msgid "Advancements"
+msgstr "升级"
+
+msgid "Losses"
+msgstr "损失"
+
+msgid "Kills"
+msgstr "杀死"
+
+msgid "Details"
+msgstr "详细信息"
+
+#, fuzzy
+msgid "Select Scenario"
+msgstr "测试场景"
+
+#, fuzzy
+msgid "Campaign"
+msgstr "战役设计"
+
+#, fuzzy
+msgid "Scenario"
+msgstr "结束场景"
+
+msgid "Damage"
+msgstr "伤害"
+
+msgid "Overall"
+msgstr "总计"
+
+msgid "This Turn"
+msgstr "本回合"
+
+msgid "Inflicted"
+msgstr "伤害输出"
+
+msgid "Taken"
+msgstr "承受伤害"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Mon"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+#, fuzzy
+msgid "Wed"
+msgstr "红"
+
+msgid "Fri"
+msgstr ""
+
+#, fuzzy
+msgid "Sat"
+msgstr "状态"
+
+msgid "Thu"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "abbrev^May"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+#, fuzzy
+msgid "March"
+msgstr "搜索"
+
+msgid "April"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%a %b %e %H:%M:%S %Y"
+
+msgid "%a %d %b %Y %H:%M:%S %z"
+msgstr "%a %d %b %Y %H:%M:%S %z"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "am"
+msgstr "AM"
+
+msgid "pm"
+msgstr "pm"
+
+msgid "Allied village"
+msgstr "友军的村庄"
+
+msgid "Enemy village"
+msgstr "敌军的村庄"
+
+msgid "Owned village"
+msgstr "我军的村庄"
+
+msgid "border_size should be between 0.0 and 0.5."
+msgstr "border_size应设为0.0到0.5之间的数值。"
+
+msgid "Hotkey(s): "
+msgstr ""
+
+#, fuzzy
+msgid "Stub Time of Day"
+msgstr "时段"
+
+msgid " and "
+msgstr " 以及"
+
+msgid "$attack_list|: $effect_description"
+msgstr "$attack_list|：$effect_description"
+
+msgid "moves"
+msgstr "移动点数"
+
+msgid "XP to advance"
+msgstr "升级所需经验值"
+
+msgid " move"
+msgstr " 移动"
+
+msgid "$effect_description per level"
+msgstr "每一等级$effect_description"
+
+msgid "damage"
+msgid_plural "damage"
+msgstr[0] "伤害"
+msgstr[1] "伤害"
+
+msgid "strike"
+msgid_plural "strikes"
+msgstr[0] "次打击"
+msgstr[1] "次打击"
+
+#, no-c-format
+msgid "% accuracy"
+msgstr "% 精确度"
+
+#, no-c-format
+msgid "% parry"
+msgstr "% 闪避"
+
+msgid "chaotic"
+msgstr "混沌"
+
+msgid "lawful"
+msgstr "守序"
+
+msgid "liminal"
+msgstr "边缘"
+
+msgid "neutral"
+msgstr "中立"
+
+msgid "female^chaotic"
+msgstr "混沌"
+
+msgid "female^lawful"
+msgstr "守序"
+
+msgid "female^liminal"
+msgstr "边缘"
+
+msgid "female^neutral"
+msgstr "中立"
+
+msgid "SHOW ALL allies’ plans"
+msgstr "显示所有盟友的计划"
+
+msgid "HIDE ALL allies’ plans"
+msgstr "隐藏所有盟友的计划"
+
+msgid "Show plans for $player"
+msgstr "显示 $player 的计划"
+
+msgid "Hide plans for $player"
+msgstr "隐藏 $player 的计划"
+
+msgid "Whiteboard Options"
+msgstr "白板选项"

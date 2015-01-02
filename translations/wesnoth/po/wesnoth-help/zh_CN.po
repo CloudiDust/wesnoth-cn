@@ -1,0 +1,4870 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2015 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# jan2xue <75jan@163.com>, 2005.
+# Huang Huan <unicon221@gmail.com>, 2005.
+# Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
+# sylecn <sylecn@yahoo.com.cn>, 2009.
+# CloudiDust <cloudidust@gmail.com>, 2010.
+# Dugucloud <dugucloud@qq.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-1.12\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2014-11-15 10:53+0100\n"
+"PO-Revision-Date: 2015-01-02 13:11+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#. [time]: id=underground
+msgid "Underground"
+msgstr "地下"
+
+#. [berserk]: id=berserk
+msgid "berserk"
+msgstr "狂暴"
+
+#. [berserk]: id=berserk
+#, fuzzy
+msgid ""
+"Whether used offensively or defensively, this attack presses the engagement "
+"until one of the combatants is slain, or 30 rounds of attacks have occurred."
+msgstr ""
+"狂暴：\n"
+"不论是在进攻时还是在防御时，狂暴都将使得作战双方维持战斗状态，直到其中一方被"
+"杀，或者恶斗三十回合为止。"
+
+#. [chance_to_hit]: id=magical
+msgid "magical"
+msgstr "魔法"
+
+#. [chance_to_hit]: id=magical
+#, fuzzy
+msgid ""
+"This attack always has a 70% chance to hit regardless of the defensive "
+"ability of the unit being attacked."
+msgstr ""
+"魔法：\n"
+"本攻击无视被攻击单位的闪避能力，而总是具有70%的命中率。"
+
+#. [firststrike]: id=firststrike
+#, fuzzy
+msgid "first strike"
+msgstr "先制"
+
+#. [firststrike]: id=firststrike
+#, fuzzy
+msgid ""
+"This unit always strikes first with this attack, even if they are defending."
+msgstr ""
+"先制：\n"
+"使用本攻击时，本单位每次都能率先攻击，即使是在防御时也不例外。"
+
+#. [heals]: id=healing
+msgid "heals +4"
+msgstr "治疗+4"
+
+#. [heals]: id=healing
+msgid "female^heals +4"
+msgstr "治疗+4"
+
+#. [heals]: id=healing
+#, fuzzy
+msgid ""
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 4 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+"治疗+4：\n"
+"允许本单位在每回合开始时治疗相邻区域内受伤的友军单位。\n"
+"\n"
+"本治疗师所治疗的单位每回合最多能恢复4点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由治疗师解毒，只有进入村庄或者被拥有治愈技能的单位治愈。"
+
+#. [heals]: id=healing
+msgid "heals +8"
+msgstr "治疗+8"
+
+#. [heals]: id=healing
+msgid "female^heals +8"
+msgstr "治疗+8"
+
+#. [heals]: id=healing
+#, fuzzy
+msgid ""
+"This unit combines herbal remedies with magic to heal units more quickly "
+"than is normally possible on the battlefield.\n"
+"\n"
+"A unit cared for by this healer may heal up to 8 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+"治疗+8：\n"
+"本单位将魔法与草药混合使用以在战场上治疗单位，比通常可能的速度快得多。\n"
+"\n"
+"本治疗师所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由治疗师解毒，只有进入村庄或者被拥有治愈技能的单位治愈。"
+
+#. [section]: id=encyclopedia
+#. [topic]: id=..encyclopedia
+msgid "Encyclopedia"
+msgstr "韦诺大百科"
+
+#. [topic]: id=..encyclopedia
+msgid "<ref>dst='..geography' text='Geography'</ref>"
+msgstr "<ref>dst='..geography' text='地理'</ref>"
+
+#. [topic]: id=caste
+msgid "Caste"
+msgstr "阶层"
+
+#. [topic]: id=caste
+msgid ""
+"One of the variant forms of the drake: either be a <ref>dst='unit_Drake "
+"Clasher' text='Clasher'</ref> or a <ref>dst='unit_Drake Fighter' text='Drake "
+"Fighter'</ref>."
+msgstr ""
+"龙人的两种变体中的一种：或者是<ref>dst='unit_Drake Clasher' text='冲击者'</"
+"ref>，或者是<ref>dst='unit_Drake Fighter' text='战士'</ref>。"
+
+#. [topic]: id=aerie
+msgid "Aerie"
+msgstr "龙穴"
+
+#. [topic]: id=aerie
+msgid ""
+"A very large castle-like structure that is home to a <ref>dst='flight' "
+"text='flight'</ref>. It contains the <ref>dst='breeding_pen' text='breeding "
+"pens'</ref>."
+msgstr ""
+"<ref>dst='flight' text='龙群'</ref>的家，一座非常巨大的类似城堡的建筑物。其中"
+"有<ref>dst='breeding_pen' text='饲育栏'</ref>。"
+
+#. [topic]: id=breeding_pen
+msgid "Breeding Pen"
+msgstr "饲育栏"
+
+#. [topic]: id=breeding_pen
+msgid ""
+"The portion of an <ref>dst='aerie' text='aerie'</ref> where the nonsentient "
+"<ref>dst='breeder' text='Breeders'</ref> live under the <ref>dst='dominant' "
+"text='Dominant'</ref>’s eye."
+msgstr ""
+"<ref>dst='aerie' text='龙穴'</ref>的一部分，在这里，无意识的"
+"<ref>dst='breeder' text=饲育者'</ref>们在<ref>dst='dominant' text='统御者'</"
+"ref>的眼皮底下生活。"
+
+#. [topic]: id=breeding_cycle
+msgid "Breeding Cycle"
+msgstr "饲育周期"
+
+#. [topic]: id=breeding_cycle
+msgid ""
+"The time that passes between one <ref>dst=egg text='egg'</ref> laying to the "
+"next."
+msgstr "从产下一个<ref>dst=egg text='蛋'</ref>到产下另一个蛋之间所经历的时间。"
+
+#. [topic]: id=world_ocean
+msgid "World Ocean"
+msgstr "世界洋"
+
+#. [topic]: id=world_ocean
+msgid ""
+"The World Ocean is the name of the open seas that surround the archipelago "
+"of <ref>dst='morogor' text='Morogor'</ref>. The drakes believe it to end at "
+"the <ref>dst='abyss' text='Abyss'</ref>, a vast and deadly waterfall."
+msgstr ""
+"世界洋是环绕着<ref>dst='morogor' text='莫罗戈'</ref>群岛的开阔的大海的名字。"
+"龙人们相信大洋在<ref>dst='abyss' text='深渊'</ref>终结，那是一片宽阔而致命的"
+"瀑布。"
+
+#. [topic]: id=new_continent
+msgid "New Continent"
+msgstr "新大陆"
+
+#. [topic]: id=new_continent
+msgid ""
+"The great continent to the east of <ref>dst='morogor' text='Morogor'</ref>. "
+"Its existence is unknown to the drakes until the flight of Galun."
+msgstr ""
+"位于<ref>dst='morogor' text='莫罗戈'</ref>东方的大陆。在伽朗部落到达之前，其"
+"存在并不为龙人们所知。"
+
+#. [topic]: id=abyss
+msgid "Abyss"
+msgstr "深渊"
+
+#. [topic]: id=abyss
+msgid ""
+"In the cosmology of the Drakes, a vast and deadly waterfall where the ocean "
+"falls off the world-disc."
+msgstr "在龙人的宇宙观里，这是一片宽广而致命的大瀑布，大洋在此坠落，消失于世。"
+
+#. [topic]: id=spiral_path
+msgid "Spiral Path"
+msgstr "灵魂之路"
+
+#. [topic]: id=spiral_path
+msgid ""
+"A quasi-secret organization among the drakes devoted to avoiding a "
+"Malthusian final war. See also <ref>dst='straight_path' text='Straight "
+"Path'</ref>"
+msgstr ""
+"一个准秘密的龙人组织，致力于阻止一场可能发生的马尔萨斯式的大决战。也请参见"
+"<ref>dst='straight_path' text='正统之路'</ref>。"
+
+#. [topic]: id=straight_path
+msgid "Straight Path"
+msgstr "正统之路"
+
+#. [topic]: id=straight_path
+msgid ""
+"The drakish tradition of perpetual expansion and conquest. This term is "
+"mostly used by the members of the <ref>dst='spiral_path' text='Spiral Path'</"
+"ref>."
+msgstr ""
+"永不停止扩张与征服的龙人传统。这个术语通常是由<ref>dst='spiral_path' text=灵"
+"魂之路'</ref>的成员们使用的。"
+
+#. [topic]: id=dominant
+msgid "Dominant"
+msgstr "统御者"
+
+#. [topic]: id=dominant
+msgid ""
+"The <ref>dst='aspirant' text='Aspirant'</ref> that emerges as the drake "
+"leader, the only drake in the tribe that is allowed to reproduce with the "
+"<ref>dst='breeder' text='breeders'</ref>. Rarely, he may confer breeding "
+"privileges on others."
+msgstr ""
+"成为龙人领袖的<ref>dst='aspirant' text='渴求者'</ref>，他是在部落中唯一一个可"
+"以和<ref>dst='breeder' text='饲育者'</ref>繁衍后代的龙人。在很不常见的情况"
+"下，他也可能把繁殖的权限赐予其他龙人。"
+
+#. [topic]: id=vulcaniad
+msgid "Vulcaniad"
+msgstr "火山周期"
+
+#. [topic]: id=vulcaniad
+msgid ""
+"The (irregular) period between consecutive eruptions of "
+"<ref>dst='mount_morogor' text='Mount Morogor'</ref>. The "
+"<ref>dst='long_count' text='Long Count'</ref> calendar is based upon it."
+msgstr ""
+"<ref>dst='mount_morogor' text='莫罗戈山'</ref>的（不规则的）喷发间歇期。 "
+"<ref>dst='long_count' text='长时历'</ref>便是以此为基础的。"
+
+#. [topic]: id=recorder
+msgid "Recorder"
+msgstr "记录者"
+
+#. [topic]: id=recorder
+msgid ""
+"A Recorder is a Drakish scrollkeeper who has mastered the drakish "
+"<ref>dst='drakish_script' text='script'</ref>. The recorders are the only "
+"<ref>dst='caste' text='caste'</ref> of Drake not determined by biology: they "
+"recruit their members from all of the other castes."
+msgstr ""
+"记录者是龙人的书记员，他们已经完全掌握了龙人的<ref>dst='drakish_script' "
+"text='文字'</ref>。记录者<ref>dst='caste' text='阶层'</ref>是龙人阶层中唯一一"
+"个不取决于遗传的：他们从所有其他的阶层中征募新成员。"
+
+#. [topic]: id=laying
+msgid "Laying"
+msgstr "产卵"
+
+#. [topic]: id=hatching
+#. [topic]: id=laying
+msgid "A portion of the <ref>dst='breeding_cycle' text='breeding cycle'</ref>."
+msgstr "<ref>dst='breeding_cycle' text='饲育期'</ref>的一部分。"
+
+#. [topic]: id=hatching
+msgid "Hatching"
+msgstr "孵化"
+
+#. [topic]: id=hatchling
+msgid "Hatchling"
+msgstr "幼仔"
+
+#. [topic]: id=hatchling
+msgid ""
+"A young drake that has not yet seen another generation hatch. The younger of "
+"the current generation of hatchlings are the most aggressive is the behavior "
+"of the <ref>dst='flight' text='flight'</ref>."
+msgstr ""
+"最年幼的一代龙人。在每一代的幼仔中，总是越小的幼仔越具有侵略性，这是"
+"<ref>dst='flight' text='龙群'</ref>的特点。"
+
+#. [topic]: id=fledgling
+msgid "Fledgling"
+msgstr "雏龙"
+
+#. [topic]: id=fledgling
+msgid ""
+"A young drake that has seen another generation hatch. If the "
+"<ref>dst='flight' text='flight'</ref> can afford the loss of a generation "
+"they start the <ref>dst='swarming' text='Swarming'</ref>."
+msgstr ""
+"稍大的一代幼年龙人，已有更幼小的一代后辈出生。如果<ref>dst='flight' text='龙"
+"群'</ref>可以承受一下子失去一整代幼仔的代价的话，他们便会开始 "
+"<ref>dst='swarming' text='云游'</ref>。"
+
+#. [topic]: id=breeder
+msgid "Breeder"
+msgstr "饲育者"
+
+#. [topic]: id=breeder
+msgid ""
+"The female drake. They are rare since <ref>dst='egg' text='eggs'</ref> that "
+"become breeders have to be handled with extra care. The number of breeders "
+"is also limited by the amounts of non-breeders around, since breeders can't "
+"take care of their food for themselves when laying. Drake breeders become "
+"fertile after the next <ref>dst='hatching' text='hatching'</ref>."
+msgstr ""
+"雌性龙人。她们的数量很稀少，因为将孵化出饲育者的<ref>dst='egg' text='龙蛋'</"
+"ref>必须要特别小心地照料才行。饲育者的数量也被周围非饲育者的数量所限制，这是"
+"由于在产卵时，她们不能自己觅食。在下一次<ref>dst='hatching' text='孵化'</ref>"
+"之后，龙人饲育者们会变得多产。"
+
+#. [topic]: id=egg
+msgid "Egg, Drake"
+msgstr "龙人的蛋"
+
+#. [topic]: id=egg
+msgid ""
+"The <ref>dst=caste text='caste'</ref> the <ref>dst='hatchling' "
+"text='Hatchling'</ref> will belongs to is determined by the time it is laid "
+"and to some extent the ambient temperature."
+msgstr ""
+"<ref>dst='hatchling' text='幼仔'</ref>所属的<ref>dst=caste text='阶层'</ref>"
+"取决于它被产下的时间，也部分取决于周遭的温度。"
+
+#. [topic]: id=flight
+msgid "Flight"
+msgstr "龙群"
+
+#. [topic]: id=flight
+msgid ""
+"Tribe of Drakes, lives in an <ref>dst='aerie' text='Aerie'</ref>, "
+"controlling a hunting range. Each tribe has one <ref>dst='dominant' "
+"text='Dominant'</ref>, who confers mating privileges."
+msgstr ""
+"龙人的部落，他们生活在一个<ref>dst='aerie' text='龙穴'</ref>中，控制着一片狩"
+"猎区。每个部落都有一位 <ref>dst='dominant' text='统御者'</ref>，他有权赐予其"
+"他龙人交配的权利。"
+
+#. [topic]: id=aspirant
+msgid "Aspirant"
+msgstr "渴求者"
+
+#. [topic]: id=aspirant
+msgid ""
+"Male drake that has passed through a hormonal metamorphosis that makes him "
+"able to mate with the <ref>dst='breeder' text='breeders'</ref>. The "
+"secretion of the hormone is caused by hunt and combat actions in which the "
+"drake is involved."
+msgstr ""
+"发育了的雄性龙人，他因此能够和<ref>dst='breeder' text='饲育者'</ref>们结合。"
+"荷尔蒙的分泌是由这只龙人参与的狩猎和战斗行动所造成的。"
+
+#. [topic]: id=ascendant
+msgid "Ascendant"
+msgstr "飞升者"
+
+#. [topic]: id=ascendant
+msgid ""
+"The drake name for a true <ref>dst='unit_Fire Dragon' text='dragon'</ref>."
+msgstr "龙人们对真正的<ref>dst='unit_Fire Dragon' text='巨龙'</ref>的称谓。"
+
+#. [topic]: id=intendant
+msgid "Intendant"
+msgstr "监督者"
+
+#. [topic]: id=intendant
+msgid ""
+"One of the <ref>dst='aspirant' text='Aspirant'</ref> lieutenants of a "
+"<ref>dst='dominant' text='Dominant'</ref>. Traditionally he has one of each "
+"<ref>dst=caste text='caste'</ref> other than his own. Additional "
+"'Intendants' are sometimes designated for special duties. Intendants are "
+"likeliest to be granted mating privileges, especially after a notable "
+"service."
+msgstr ""
+"<ref>dst='dominant' text='统御者'</ref>手下的<ref>dst='aspirant' text='渴求"
+"者'</ref>副官之一。传统上，除了统御者自己所在的<ref>dst=caste text='阶层'</"
+"ref>之外，他在每个阶层里都有一位副官。有时候，另外的一些“监督者”会被指派给特"
+"殊的使命。监督者们是最可能被赐予交配权限的，尤其是当他们立下显赫的功劳之后。"
+
+#. [topic]: id=swarm
+msgid "Swarm"
+msgstr "游子"
+
+#. [topic]: id=swarm
+msgid ""
+"The <ref>dst='swarmlings' text='Swarmlings'</ref> that have left the "
+"<ref>dst='aerie' text='aerie'</ref> to found a new one."
+msgstr ""
+"离开<ref>dst='aerie' text='龙穴'</ref>去寻找新家园的<ref>dst='swarmlings' "
+"text='游子'</ref>。"
+
+#. [topic]: id=swarming
+msgid "Swarming"
+msgstr "云游"
+
+#. [topic]: id=swarming
+msgid ""
+" The <ref>dst='flight' text='flight'</ref> for a new drake <ref>dst='aerie' "
+"text='aerie'</ref> that recurs every <ref>dst='breeding_cycle' "
+"text='breeding cycle'</ref>. See <ref>dst='swarm' text='Swarm'</ref>"
+msgstr ""
+" 为了寻找新<ref>dst='aerie' text='龙穴'</ref>的<ref>dst='flight' text='远"
+"游'</ref>，每个<ref>dst='breeding_cycle' text='饲育周期'</ref>中都会重复一"
+"次。请参见<ref>dst='swarm' text='游子'</ref>"
+
+#. [topic]: id=runners
+msgid "Runners"
+msgstr "逃跑者"
+
+#. [topic]: id=runners
+msgid "Drakish term for escaped slaves hunted as game."
+msgstr "龙人语中用来指逃跑后被当作猎物猎取的奴隶。"
+
+#. [topic]: id=mount_morogor
+msgid "Mount Morogor"
+msgstr "莫罗戈山"
+
+#. [topic]: id=mount_morogor
+msgid ""
+"Volcanic mountain on the central island of the archipelago "
+"<ref>dst='morogor' text='Morogor'</ref>."
+msgstr "位于<ref>dst='morogor' text='莫罗戈'</ref>群岛的中心岛上的火山。"
+
+#. [topic]: id=long_count
+msgid "Long Count"
+msgstr "长时历"
+
+#. [topic]: id=long_count
+msgid ""
+"The drake calender based on <ref>dst='vulcaniad' text='Vulcaniad'</ref> and "
+"<ref>dst=breeding_cycle text='Breeding cycles'</ref>."
+msgstr ""
+"基于<ref>dst='vulcaniad' text='火山周期'</ref> and <ref>dst=breeding_cycle "
+"text='饲育周期'</ref>的龙人历法。"
+
+#. [topic]: id=long_pig
+msgid "Long Pig"
+msgstr "长猪"
+
+#. [topic]: id=long_pig
+msgid ""
+"South Seas pidgin for human meat, used to translate a Drakish word with the "
+"same meaning."
+msgstr "在南海商旅的黑话中，指的是人肉。这是用来翻译一个含义相同的龙人语汇的。"
+
+#. [topic]: id=ceramic
+msgid "Ceramics"
+msgstr "制陶术"
+
+#. [topic]: id=ceramic
+msgid ""
+"The drakes work metal, but are are masters in the craftsmanship of making "
+"ceramics. Only the <ref>dst='unit_Drake Burner' text='burners'</ref> can "
+"generate the amount of heat to cure the pieces to full strength."
+msgstr ""
+"陶瓷是龙人最常用的材料。他们是制陶术的大师。只有<ref>dst='unit_Drake Burner' "
+"text='灼烧者'</ref>们才能产生出足够的热量，将陶瓷锻造到最坚固的程度。"
+
+#. [topic]: id=drakish_script
+msgid "Drakish, script"
+msgstr "龙人文字"
+
+#. [topic]: id=drakish_script
+msgid ""
+"The scripted language of the drakes. Stored on <ref>dst='ceramic' "
+"text='ceramic'</ref> tablets by members of the <ref>dst='recorder' "
+"text='Recorder'</ref> vocation."
+msgstr ""
+"龙人的书面语。由<ref>dst='recorder' text='记录者'</ref>这一职阶的成员们书写在"
+"<ref>dst='ceramic' text='陶瓷'</ref>版上。"
+
+#. [topic]: id=drakish_language
+msgid "Drakish, language"
+msgstr "龙人语"
+
+#. [topic]: id=drakish_language
+msgid "The language spoken by the drakes."
+msgstr "龙人所说的语言"
+
+#. [section]: id=geography
+#. [topic]: id=..geography
+msgid "Geography"
+msgstr "地理"
+
+#. [topic]: id=arkan_thoria
+msgid "Arkan-thoria"
+msgstr "阿坎-索里亚"
+
+#. [topic]: id=arkan_thoria
+msgid ""
+"A river rising in the <ref>dst='heart_mountains' text='Heart Mountains'</"
+"ref> and running east to the Listra."
+msgstr ""
+"发源于<ref>dst='heart_mountains' text='心之山脉'</ref>，并向东流入利斯特拉河"
+"的河流。"
+
+#. [topic]: id=great_ocean
+msgid "Great Ocean"
+msgstr "大洋"
+
+#. [topic]: id=great_ocean
+msgid ""
+"Lies to the west of the <ref>dst='great_continent' text='continent'</ref> "
+"and all rivers eventually flow to it. Far to the west in the the Great Ocean "
+"is a huge archipelago called <ref>dst='morogor' text='Morogor'</ref>."
+msgstr ""
+"位于<ref>dst='great_continent' text='大陆'</ref>之西，一切河流终将汇入的所"
+"在。大洋的极西面有称为<ref>dst='morogor' text='莫罗戈'</ref>的巨大群岛。"
+
+#. [topic]: id=morogor
+msgid "Morogor"
+msgstr "莫罗戈"
+
+#. [topic]: id=morogor
+msgid ""
+"Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
+"Ocean'</ref> west of the <ref>dst='green_isle' text='Green Isle'</ref> and "
+"east of the <ref>dst=old_continent text='Old Continent'</ref>.\n"
+"It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
+"The central island of the archipelago is also called ‘Morogor’."
+msgstr ""
+"群岛，位于<ref>dst='great_ocean' text='大洋'</ref>中的某处，在"
+"<ref>dst='green_isle' text='绿岛'</ref> 之西，<ref>dst=old_continent text='旧"
+"大陆'</ref>之东。\n"
+"此地居住的主要是<ref>dst='..race_drake' text='龙人'</ref>。\n"
+"群岛的中心岛也被称为“莫罗戈”。"
+
+#. [topic]: id=green_isle
+msgid "Green Isle"
+msgstr "绿岛"
+
+#. [topic]: id=green_isle
+msgid ""
+"A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
+msgstr "<ref>dst='great_ocean' text='大洋'</ref>中较大的一个岛。"
+
+#. [topic]: id=old_continent
+msgid "Old Continent"
+msgstr "旧陆"
+
+#. [topic]: id=old_continent
+msgid ""
+"Lies to the west of <ref>dst='morogor' text='Morogor'</ref> across the "
+"<ref>dst='great_ocean' text='Great Ocean'</ref>."
+msgstr ""
+"在<ref>dst='morogor' text='莫罗戈'</ref>的西面，与它隔着"
+"<ref>dst='great_ocean' text='大洋'</ref>相望。"
+
+#. [topic]: id=great_continent
+msgid "Great Continent"
+msgstr "大陆"
+
+#. [topic]: id=great_continent
+msgid ""
+"The continent on which the <ref>dst='kingdom_wesnoth' text='Kingdom of "
+"Wesnoth'</ref> lies. Its west coast is surrounded by the "
+"<ref>dst='great_ocean' text='Great Ocean'</ref>."
+msgstr ""
+"<ref>dst='kingdom_wesnoth' text='韦诺王国'</ref>所在的大陆。其西海岸被"
+"<ref>dst='great_ocean' text='大洋'</ref>所包围。"
+
+#. [topic]: id=irdya
+msgid "Irdya"
+msgstr "伊利迪亚"
+
+#. [topic]: id=irdya
+msgid ""
+"The name of the world in which the kingdom of <ref>dst='kingdom_wesnoth' "
+"text='Wesnoth'</ref> is situated is ‘Irdya’. This term is, however, only "
+"rarely used in the era depicted by the main map. People normally just say "
+"“the world” or, poetically, “the wide green world”."
+msgstr ""
+"<ref>dst='kingdom_wesnoth' text='韦诺'</ref>王国所在的世界的名字叫做“伊利迪"
+"亚”。然而，在主地图所描述的时代里，这个名字很少会被提起。人们通常只是说“世"
+"界”，或者更诗意一些，“宽广而翠绿的世界”。 "
+
+#. [topic]: id=kingdom_wesnoth
+msgid "Kingdom of Wesnoth"
+msgstr "韦诺王国"
+
+#. [topic]: id=kingdom_wesnoth
+msgid ""
+"The Kingdom of Wesnoth is located in the north-central portion of the "
+"<ref>dst='great_continent' text='Great Continent'</ref>. Most of the "
+"mainline campaigns revolve around it. It is bounded on the map by the Great "
+"River to the north, the shore of the Great Ocean to the west, the Aethenwood "
+"to the <ref>dst='southwest_elven_lands' text='southwest'</ref>, and the "
+"Bitter Swamp to the southeast (lower right corner of the main map).\n"
+"\n"
+"Over the River Aethen, south of Fort Tahn, is a Wesnothian frontier region. "
+"It is bounded to the south (off-map) by dense woods of which the Aethenwood "
+"may be considered a northernmost extension.\n"
+"\n"
+"    • Notable cities:\n"
+"          ◦ Weldyn: The capital of Wesnoth.\n"
+"          ◦ Aldril: City lying on the Bay of Pearls.\n"
+"          ◦ Blackwater Port: City lying south of the Bay of Pearls.\n"
+"          ◦ Carcyn: Located between the Grey Woods and the Great River.\n"
+"          ◦ Dan’Tonk: Wesnoth’s largest city, located in the center of the "
+"country, just west and north of Weldyn.\n"
+"          ◦ Soradoc: The northernmost border outpost of Wesnoth, controls "
+"the confluence of the Weldyn River and the Great River.\n"
+"          ◦ Fort Tahn: The southernmost border outpost, controls the north/"
+"south road crossing the River Aethen.\n"
+"          ◦ Tath: Important fort city north of Dan’Tonk, exerts control over "
+"the wilderness country around the east of the Brown Hills and north to the "
+"Ford of Abez.\n"
+"\n"
+"    • Notable land features:\n"
+"          ◦ Gryphon Mountain: Home of the fabled Gryphons\n"
+"          ◦ Ford of Abez: Shallow part of the Great River, it is usually "
+"controlled by Wesnothian forces\n"
+"          ◦ Weldyn River: It branches from the Great River and goes south\n"
+"          ◦ Great Central Plain: Area bounded by Weldyn, Dan’Tonk, and Fort "
+"Tahn, this plain is Wesnoth’s bread basket and home to most of its "
+"population\n"
+"          ◦ Dulatus Hills: These rolling hills bordering the Great Central "
+"Plain provide much of Wesnoth’s livestock and agriculture\n"
+"          ◦ Brown Hills: Wasteland surrounding Gryphon Mountain that is not "
+"well-populated and occasionally very dangerous.\n"
+"          ◦ Horse Plains: Region of rolling plains just south of the Great "
+"River, bounded by Glyn’s Forest to the west and the River Weldyn to the "
+"east; the southern reach merges into the Central Plain. Home of the powerful "
+"Clans; the best horses in Wesnoth are bred here.\n"
+"          ◦ Estmark Hills: Largish range rising south of the Great River and "
+"east of the Weldyn River. The northernmost portion, nearest the River "
+"Weldyn, has at various times been settled by Wesnothians, but the Kingdom’s "
+"control is tenuous at best and banditry is common.\n"
+"          ◦ Glyn’s Forest: Sometimes known as the Royal Forest, named for "
+"one of Haldric II’s sons\n"
+"          ◦ Gray Woods: Large forest in the heart of the wilds of Wesnoth, "
+"located between Carcyn and Aldril and generally considered to be haunted\n"
+"          ◦ Green Swamp: Large swamp in the heart of the wilds of Wesnoth, "
+"south of Aldril. It receives drainage from the Brown Hills and feeds into "
+"the Great River. (Not shown on the main map.)"
+msgstr ""
+"韦诺王国位于<ref>dst='great_continent' text='大陆'</ref>的中北部。绝大部分主"
+"线战役的剧情围绕此地。北面的大河，西面的大洋，"
+"<ref>dst='southwest_elven_lands' text='西南面'</ref>的艾森丛林，以及东南面的"
+"苦涩沼泽（位于主地图的右下角）为它划定了疆界。\n"
+"\n"
+"在艾森河之上，塔恩要塞之南，是韦诺的一块边疆领地。其南部以茂密的大森林（地图"
+"上未标注）为界，艾森丛林可以视作是这一大森林最北边的突出部分。\n"
+"\n"
+"    • 著名城市：\n"
+"          ◦ 维尔帝：韦诺的首都。\n"
+"          ◦ 艾迪尔：珍珠湾中的城市。\n"
+"          ◦ 黑水港：珍珠湾南方的城市。\n"
+"          ◦ 卡辛：位于灰色丛林和大河之间。\n"
+"          ◦ 丹·冬克：韦诺的最大城市，位于王国的正中，紧靠在维尔帝的西北面。\n"
+"          ◦ 索拉多克：位于韦诺极北边境的哨站，扼守着维尔帝河与大河的交汇"
+"点。\n"
+"          ◦ 塔恩要塞：位于韦诺极南边境的哨站，控制着横跨艾森河的南北方向的通"
+"路。\n"
+"          ◦ 塔斯：位于丹·冬克北方的重要的要塞都市，固守着棕色丘陵以东、雅碧滩"
+"以北的蛮荒地区。\n"
+"\n"
+"    • 著名地貌：\n"
+"          ◦ 狮鹫山：传说中的狮鹫的家园。\n"
+"          ◦ 雅碧滩：大河狭窄的一部分，通常在韦诺军队的控制之下。\n"
+"          ◦ 维尔帝河：大河的支流，一直向南流去。\n"
+"          ◦ 中央大平原：以维尔帝、丹·冬克和塔恩要塞为界的区域，这里是韦诺的粮"
+"食主产区，绝大部分人口居住于此。\n"
+"          ◦ 杜拉图斯丘陵：位于中央大平原边界之上的延绵不断的丘陵，这里蓄养着"
+"韦诺的大部分家畜，也滋养着其农业。\n"
+"          ◦ 棕色丘陵：位于狮鹫山周围的荒地，没有什么人口，有时会十分危险。\n"
+"          ◦ 骏马平原：大河西面紧靠的延绵不绝的平原，西至格林之森，东至维尔帝"
+"河，而其南部边域则融入了中央大平原。这里是强大的氏族的家园，韦诺最优良的骏马"
+"在此饲育。\n"
+"          ◦ 艾斯玛克丘陵：位于大河以南维尔帝河以东的巨大隆起。其最北边最靠近"
+"维尔帝河的区域，曾多次有过韦诺人定居。但王国对此地的控制充其量只能说是无力"
+"的，而贼党却四处横行。\n"
+"          ◦ 格林之森：有时被称作皇家森林，是以哈德里克二世的一个儿子的名字来"
+"命名的。\n"
+"          ◦ 灰色丛林：位于韦诺荒野的中心位置的大森林，在卡辛和艾迪尔之间，通"
+"常被认为是个闹鬼的地方。\n"
+"          ◦ 绿色沼泽：位于韦诺荒野的中心位置的大沼泽，在艾迪尔之南。棕色丘陵"
+"上的污水流入这里，而其自身又流入大河。（未在主地图上标明。）"
+
+#. [topic]: id=elensefar
+msgid "Elensefar"
+msgstr "埃仁萨伐"
+
+#. [topic]: id=elensefar
+msgid ""
+"Elensefar is at times a province of <ref>dst='kingdom_wesnoth' "
+"text='Wesnoth'</ref>, at times an independent country, and at times in a "
+"treaty federation with Wesnoth. Its borders are the Great River to the "
+"north, a loosely defined line with Wesnoth to the east, the Bay of Pearls to "
+"the south, and the <ref>dst='great_ocean' text='ocean'</ref> to the west. "
+"More information is found in the historical narrative of Wesnoth.\n"
+"\n"
+"    • Notable cities:\n"
+"          ◦ Elensefar: The capital, located on an island in the "
+"<ref>dst='great_river' text='Great River'</ref> delta\n"
+"          ◦ Carcyn: City on the Wesnoth–Elensefar border, disputed with "
+"Wesnoth\n"
+"    • Notable land features:\n"
+"          ◦ <ref>dst='great_river' text='Great River'</ref>: It is very wide "
+"at this point, and only ships can cross it."
+msgstr ""
+"埃仁萨伐有时是<ref>dst='kingdom_wesnoth' text='韦诺'</ref>的一个省，有时是一"
+"个独立的国家，还有时和韦诺缔结条约组成联邦。 其领土北面以大河为界，东面与韦诺"
+"由一条不甚严谨的国境线分隔开，南面直到珍珠湾，而西面则是"
+"<ref>dst='great_ocean' text='大洋'</ref>。在韦诺的历史记载中有更多相关的信"
+"息。\n"
+"\n"
+"    • 著名城市：\n"
+"          ◦ 埃仁萨伐：都城，位于<ref>dst='great_river' text='大河'</ref>三角"
+"洲的一个岛上。\n"
+"          ◦ 卡辛：位于韦诺-埃仁萨伐边境的城市，两国对此城之归属有争议。\n"
+"     • 著名地貌：\n"
+"          ◦ <ref>dst='great_river' text='大河'</ref>：大河的这一河段十分宽"
+"阔，只有船只才能横渡之。"
+
+#. [topic]: id=northlands
+msgid "Northlands"
+msgstr "北方大陆"
+
+#. [topic]: id=northlands
+#, fuzzy
+msgid ""
+"There is no government of the Northlands. Various groups of orcs, dwarves, "
+"barbarian men and even elves populate the region. The northern and eastern "
+"borders are not defined, the southern border is the <ref>dst='great_river' "
+"text='Great River'</ref>, and the western border is the "
+"<ref>dst='great_ocean' text='Great Ocean'</ref>.\n"
+"\n"
+"    • Notable cities:\n"
+"          ◦ Glamdrol: An Orcish tribal capital\n"
+"          ◦ Wesmere: The location of the Ka’lian — the Elvish Council\n"
+"          ◦ Dwarven Doors: A mixed human/dwarven town in the region of "
+"Knalga in the southern Heart Mountains. A major trade center.\n"
+"          ◦ Dallben and Delwyn: Human villages originally built by settlers "
+"who crossed the Great River during Wesnoth’s Golden Age expansion. Now "
+"abandoned. The forested area northeast of Elensefar, where these villages "
+"were located, was named the Annuvin province by men but was known by the "
+"elves as Wesmere.\n"
+"\n"
+"    • Notable land features:\n"
+"          ◦ Heart Mountains: A virtually impassable barrier between the "
+"river country and the Northern Plains.\n"
+"          ◦ Heartfangs: the particularly forbidding stretch of high peaks "
+"southwest of Lake Vrug and north of the Forest of Wesmere. The most "
+"inhospitable and dangerous portion of the Heart Mountains; only hermits, "
+"madmen, and mages live there.\n"
+"          ◦ Swamp of Dread: a very large bog located between the Heart "
+"Mountains and the Great River. A notoriously dangerous place.\n"
+"          ◦ Lake Vrug: A large mountain lake whose river carves the only "
+"pathway through the Northern Mountains\n"
+"          ◦ Arkan-thoria: The river than comes out of Lake Vrug. This is the "
+"elvish name; among humans it is called Longlier.\n"
+"          ◦ River Listra: The south-running tributary of the Great River "
+"into which the Arkan-thoria empties.\n"
+"          ◦ Lintanir Forest: The southernmost portion of the Great Northern "
+"Forest, a gigantic wood whose eastern and northern boundaries are known only "
+"the elves. Their capitol, Elensiria, has only seldom been visited by "
+"humans.\n"
+"          ◦ Great River: The origin of this river is somewhere in the east "
+"of the northern lands"
+msgstr ""
+"北方大陆并没有政府存在。各路兽人、矮人、野蛮人甚至精灵居住于此。北陆的北方和"
+"东方边界并不明确，而南方边界是<ref>dst='great_river' text='大河'</ref>，西方"
+"边界是<ref>dst='great_ocean' text='大洋'</ref>。\n"
+"\n"
+"    • 著名城市：\n"
+"          ◦ 戈拉姆多：一个兽人部落的首都。\n"
+"          ◦ 罗迈尔：另一个兽人部落的首都。\n"
+"          ◦ 韦弥尔：卡·利安——精灵大元老会所在地。\n"
+"          ◦ 矮人之门：心之山脉南部纳尔迦区域中的一个人类和矮人混居的城镇，是"
+"主要的贸易中心。\n"
+"          ◦ 达尔本和德尔温：人类村庄，是由韦诺黄金时代的大扩张中渡过大河的移"
+"民们所建造的，现在已经被废弃了。埃仁萨伐东北面的森林区域，也就是这些村庄所在"
+"的地方，被人类称为艾纽温省，但精灵却称此地为韦弥尔。\n"
+"\n"
+"    • 著名地貌：\n"
+"          ◦ 心之山脉：北方平原与河滩之间的一道几乎无法逾越的天险。\n"
+"          ◦ 心之利齿：瓦格湖西南部，韦弥尔森林北部的那些特别让人望而生畏的高"
+"峰，是整个心之山脉中最危险的最不适合居住的区域。只有隐士、疯子和法师定居于"
+"此。\n"
+"          ◦ 恐惧沼泽：心之山脉和大河之间的非常巨大的沼泽，因危险而恶名昭著的"
+"地方。\n"
+"          ◦ 瓦格湖： 广阔的高山湖，其引出的河流雕琢出了穿过北方山脉的唯一一条"
+"通路。\n"
+"          ◦ 阿坎-索里亚：从瓦格湖中流出的河。这是精灵语名称。人类称其为“绵长"
+"之河”。\n"
+"          ◦ 利斯特拉河：大河的支流，向南方流淌着，阿坎-索里亚注入此河。\n"
+"          ◦ 林坦尼森林：北方大森林的最南边的部分，是巨大的丛林。其东面和北面"
+"的边界究竟在何方，只有精灵们才知道。其议会所在地，埃仁希利亚，只有屈指可数的"
+"人类到访过。\n"
+"          ◦ 大河：大河的源头在北陆东方的某处。"
+
+#. [topic]: id=southwest_elven_lands
+msgid "Southwest Elven Lands"
+msgstr "西南精灵领地"
+
+#. [topic]: id=southwest_elven_lands
+msgid ""
+"The Wood Elves are separate from those of the north, and have only "
+"intermittent relations with them and most other countries. Its borders are "
+"the Green Swamp to the northeast, the desert (not shown) to the south, and "
+"the <ref>dst='great_ocean' text='Ocean'</ref> to the west.\n"
+"\n"
+"    • Notable cities\n"
+"          ◦ None known\n"
+"    • Notable land features:\n"
+"          ◦ Aethen Forest: The largest southern forest, it extends far to "
+"the southwest—much farther than is charted—and is home to <ref>dst='.."
+"race_elf' text='elves'</ref>."
+msgstr ""
+"树精灵和北方精灵是被区隔开来的，他们之间只有断断续续的联系，树精灵和大部分其"
+"他国家之间的联系也是如此。其领地以绿色沼泽为东北界，南至大沙漠（未标注），西"
+"至<ref>dst='great_ocean' text='大洋'</ref>。\n"
+"\n"
+"    • 著名城市：\n"
+"          ◦ 未知。\n"
+"    • 著名地貌：\n"
+"          ◦ 艾森丛林：南方最大的森林，一直向西南延伸至很远的地方——比地图上所"
+"画出的部分还远得多——那里是<ref>dst='..race_elf' text='精灵'</ref>的家园。"
+
+#. [topic]: id=heart_mountains
+msgid "Heart Mountains"
+msgstr "心之山脉"
+
+#. [topic]: id=heart_mountains
+msgid ""
+"A virtually impassable barrier between the <ref>dst='arkan_thoria' "
+"text='river'</ref> country and the <ref>dst='far_north' text='Northern "
+"Plains'</ref>."
+msgstr ""
+"一道位于<ref>dst='arkan_thoria' text='河'</ref> 滩和<ref>dst='far_north' "
+"text='北方平原'</ref>之间的几乎无法逾越的天险。"
+
+#. [topic]: id=far_north
+msgid "Far North"
+msgstr "极北之地"
+
+#. [topic]: id=far_north
+#, fuzzy
+msgid ""
+"Cold, harsh, and inaccessible, the Far North is the ancestral home of the "
+"Orcish Clannate. It lies north of the <ref>dst='heart_mountains' text='Heart "
+"Mountains'</ref>, which the Orcs call the Haggid-Dargor and claim (without "
+"merit) as their own. To the east lie the Unaligned Tribes of the Wild "
+"Steppe, who fell out of the control of the Clannate, instead roaming with "
+"wild human barbarians and clashing with the High Elves of the North Plains "
+"(known as North Elves in human lands). The High Elves themselves reside "
+"further east, where it is rumored they rule a vast kingdom.\n"
+"\n"
+"    • Notable cities:\n"
+"          ◦ Barag Gor, a city home to the Orcish Council\n"
+"          ◦ Bitok\n"
+"          ◦ Borstep\n"
+"          ◦ Farzi\n"
+"          ◦ Lmarig\n"
+"          ◦ Melmog\n"
+"          ◦ Prestim\n"
+"          ◦ Tirigaz\n"
+"          ◦ Dorest, the northernmost human city\n"
+"    • Notable land features:\n"
+"          ◦ Black Marshes\n"
+"          ◦ Mountains of Dorth\n"
+"          ◦ Mountains of Haag\n"
+"          ◦ Greenwood\n"
+"          ◦ Silent Forest\n"
+"          ◦ Forest of Thelien\n"
+"          ◦ River Oumph\n"
+"          ◦ River Bork\n"
+"          ◦ Frosty Wastes\n"
+"          ◦ Barren Plains"
+msgstr ""
+"寒冷、严酷、遥不可及的极北是兽人大部落的故乡。它位于"
+"<ref>dst='heart_mountains' text='心之山脉'</ref>的北方。兽人们称此山脉为“哈吉"
+"德-达戈”并（很不要脸地）宣称那是他们的领地。极北的东面是“荒原的不结盟部落”，"
+"他们脱离了大部落的控制，转而和野蛮的人类结伴游荡，与北方平原的高等精灵（人类"
+"称为“北方精灵”）兵刃相见。高等精灵们则居住在更加偏东的地方，传言说他们在那儿"
+"统治着一个广袤的王国。\n"
+"\n"
+"    • 著名城市：\n"
+"          ◦ 巴拉戈·高，兽人大元老会所在的城市\n"
+"          ◦ 毕图克\n"
+"          ◦ 波斯特普\n"
+"          ◦ 卡斯特弗朗\n"
+"          ◦ 法兹\n"
+"          ◦ 非斯托戈\n"
+"          ◦ 戈里斯比\n"
+"          ◦ 玛里戈\n"
+"          ◦ 梅莫戈\n"
+"          ◦ 普里斯提姆\n"
+"          ◦ 提里戈兹\n"
+"    • 著名地貌：\n"
+"          ◦ 孤寂沼泽\n"
+"          ◦ 多斯山脉\n"
+"          ◦ 哈戈山脉\n"
+"          ◦ 绿林\n"
+"          ◦ 寂静之林\n"
+"          ◦ 瑟利恩森林\n"
+"          ◦ 奥姆河\n"
+"          ◦ 伯克河\n"
+"          ◦ 荒原"
+
+#. [section]: id=introduction
+#. [topic]: id=..introduction
+msgid "Introduction"
+msgstr "游戏介绍"
+
+#. [section]: id=gameplay
+#. [topic]: id=..gameplay
+msgid "Gameplay"
+msgstr "游戏玩法"
+
+#. [section]: id=traits_section
+#. [topic]: id=..traits_section
+msgid "Traits"
+msgstr "特质"
+
+#. [section]: id=units
+#. [topic]: id=..units
+msgid "Units"
+msgstr "单位"
+
+#. [section]: id=abilities_section
+#. [topic]: id=..abilities_section
+msgid "Abilities"
+msgstr "技能"
+
+#. [section]: id=weapon_specials
+#. [topic]: id=..weapon_specials
+msgid "Weapon Specials"
+msgstr "武器特性"
+
+#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [section]: id=factions_section
+msgid "Factions"
+msgstr "派系"
+
+#. [section]: id=terrains_section
+#. [topic]: id=..terrains_section
+msgid "Terrains"
+msgstr "地形"
+
+#. [section]: id=addons
+#. [topic]: id=..addons
+msgid "Add-ons"
+msgstr ""
+
+#. [section]: id=commands
+#. [topic]: id=..commands
+msgid "Commands"
+msgstr "命令"
+
+#. [topic]: id=..units
+msgid ""
+"This section will list all the units you discover as you explore the world "
+"of Wesnoth. When you see a new unit during a campaign or multiplayer "
+"scenario it will be added to its race’s subsection; you can then view its "
+"page any time you wish. A unit’s page will provide a general description, "
+"its statistics, attacks, resistances, and movement and defense values.\n"
+"\n"
+msgstr ""
+
+#. [topic]: id=..abilities_section
+#, fuzzy
+msgid ""
+"Certain units have abilities that either directly affect other units or have "
+"an impact on how the unit interacts with other units. These abilities will "
+"be listed under this section as you encounter them. Each page will provide a "
+"description of what the ability does and which (currently discovered) units "
+"have it.\n"
+"\n"
+msgstr ""
+"某些单位拥有一些技能，可以直接影响其他单位，或影响该单位与其他单位的互动。当"
+"您遇到这些技能时，它们将被列在本主题下面。\n"
+"\n"
+
+#. [topic]: id=..weapon_specials
+msgid ""
+"Some weapons have special features that increase the effectiveness of "
+"attacking with them. When you see a new weapon special during a campaign or "
+"multiplayer scenario it will be added to this list; you can then view its "
+"page any time you wish. Each page will provide a description of what the "
+"weapon special does and which (currently discovered) units have it.\n"
+"\n"
+msgstr ""
+
+#. [topic]: id=.unknown_unit
+msgid "Unknown Unit"
+msgstr "未知单位"
+
+#. [topic]: id=.unknown_unit
+msgid ""
+"\n"
+"\n"
+"This unit is unknown for the moment. You must discover it in the game to be "
+"allowed to see its description."
+msgstr ""
+"\n"
+"\n"
+"现在此单位还是未知的。您必须在游戏中遇到这个单位后才能看到对它的描述。"
+
+#. [topic]: id=introduction_topic
+msgid "Overview"
+msgstr "概述"
+
+#. [topic]: id=introduction_topic
+msgid ""
+"\n"
+"\n"
+"<italic>text='Battle for Wesnoth'</italic> is a turn-based fantasy strategy "
+"game somewhat unusual among modern strategy games. While other games strive "
+"for complexity, <italic>text='Battle for Wesnoth'</italic> strives for "
+"simplicity of both rules and gameplay. This does not make the game simple, "
+"however — from these simple rules arise a wealth of strategy, making the "
+"game easy to learn but a challenge to master."
+msgstr ""
+"\n"
+"\n"
+"<italic>text='韦诺之战'</italic>是一个回合制奇幻策略游戏，它在诸多当代策略游"
+"戏之中是有点不寻常的。其他游戏着力于变得更加复杂，而<italic>text='韦诺之战'</"
+"italic>却醉心于简单的规则与玩法，不过这并不会使得游戏变得“简陋”——从简易的规则"
+"中可以演化出丰富的策略，使得本游戏易于上手，难于精通。"
+
+#. [topic]: id=fundamentals
+msgid "Fundamentals of Gameplay"
+msgstr "游戏基础"
+
+#. [topic]: id=fundamentals
+msgid ""
+"\n"
+"\n"
+"To begin with, it’s best to click the <bold>text='Tutorial'</bold> button at "
+"the main menu. This will take you to the interactive tutorial, which will "
+"teach you the basics of Wesnoth. After this, it is recommended that you play "
+"the Heir to the Throne campaign first — click <bold>text='Campaign'</bold> "
+"then <italic>text='Heir to the Throne'</italic>. As <italic>text='Battle for "
+"Wesnoth'</italic> can be quite challenging, you may wish to start on easy."
+msgstr ""
+"\n"
+"\n"
+"刚开始玩时，建议您在主菜单中点击<bold>text='教程'</bold>按钮。这将带您进入互"
+"动教程，该模式将教给您韦诺的基本玩法。在这之后，建议您先玩“王座之承”战役——先"
+"点击<bold>text='战役'</bold>，再点击<italic>text='王座之承'</italic>。由于"
+"<italic>text='韦诺之战'</italic>可能具有很强的挑战性，您可能会希望从"
+"<italic>text='容易'</italic>级别开始游戏。"
+
+#. [topic]: id=fundamentals
+msgid ""
+"These pages outline all you need to know to play <italic>text='Battle for "
+"Wesnoth'</italic>. They cover how to play and the basic mechanics behind the "
+"game. As you play the game, new information is added to these pages as you "
+"come across new aspects of the game. For more detailed information on "
+"special situations and exceptions, please follow the links included."
+msgstr ""
+"这些页面概述了玩<italic>text='韦诺之战'</italic>所需要的所有知识，包括基本玩"
+"法与游戏背后的基本机制。当您在游戏时遇到新的要素时，相应的新信息也会添加到这"
+"些页面中。欲了解特殊情形与例外情况的详细信息，请点击文中包含的链接。"
+
+#. [topic]: id=fundamentals
+msgid ""
+"While playing, keep in mind that if you mouse-over many items in the game, "
+"such as the information displayed in the status pane, a brief description "
+"will be shown explaining each item. This is especially useful when you "
+"encounter new <ref>dst='..abilities_section' text='abilities'</ref> for the "
+"first time."
+msgstr ""
+"在游戏时请牢记，如果您将鼠标悬停在游戏中的物件上，如状态面板中的信息上时，会"
+"显示出一条简短的描述以解释每一个物件。这一功能在您第一次遇到新的<ref>dst='.."
+"abilities_section' text='技能'</ref>时非常有用。"
+
+#. [topic]: id=about_game
+msgid "About the Game"
+msgstr "关于游戏"
+
+#. [topic]: id=about_game
+msgid ""
+"\n"
+"\n"
+"<italic>text='Campaigns'</italic> consist of multiple scenarios that follow "
+"on from each other, telling a story. In a campaign, you often need to play "
+"more carefully, preserving your best troops so that they can be used again "
+"in later scenarios in the campaign."
+msgstr ""
+"\n"
+"\n"
+"<italic>text='战役'</italic>讲述着一个故事，是由一系列环环相扣的场景组成的。"
+"在玩战役时，您常常得更小心谨慎，确保最精良的部队存活下来，使他们能够在战役中"
+"的下一场景里继续战斗。"
+
+#. [topic]: id=about_game
+msgid ""
+"The game takes place over a series of battles, called "
+"<italic>text='scenarios'</italic>. Each scenario pits your troops against "
+"the troops of one or more adversaries. You can play against the computer, or "
+"with friends who each take turns sitting at the computer (hotseat play). If "
+"your computer is connected to a computer network, you can also play against "
+"other people connected to that network. If your computer has a connection to "
+"the Internet, you can play against other people across the Internet."
+msgstr ""
+"本游戏由一系列的战斗，也称为<italic>text='场景'</italic>所组成。在每个场景"
+"中，您的部队都将和一个或更多的对手作战。您可以和电脑对战，或和朋友在同一台电"
+"脑上对战（热座模式）。如果您的电脑在局域网内，您也可以和局域网内的其他人对"
+"战。如果您的电脑能连接因特网，则可以和因特网上的其他人对战。"
+
+#. [topic]: id=victory_and_defeat
+msgid "Victory and Defeat"
+msgstr "胜利与失败"
+
+#. [topic]: id=victory_and_defeat
+msgid ""
+"\n"
+"\n"
+"When you win a scenario, the map grays over and the <bold>text='End Turn'</"
+"bold> button changes to <bold>text='End Scenario'</bold>. You can now do "
+"things like changing your save options or (if you are in a multiplayer game) "
+"chatting with other players before pressing that button to advance."
+msgstr ""
+"\n"
+"\n"
+"当您在场景中获胜后，地图将变为灰色，而<bold>text='结束回合'</bold>按钮会变成"
+"<bold>text='结束场景'</bold>。在按下该按钮继续之前，您可以做些别的事，例如改"
+"变游戏存档选项，或者（在多人游戏中）和其他玩家交谈。"
+
+#. [topic]: id=victory_and_defeat
+msgid ""
+"Pay careful attention to the <bold>text='Objectives'</bold> pop-up box at "
+"the beginning of each scenario. Usually you will achieve victory by killing "
+"all enemy leaders, and only be defeated by having your leader killed. But "
+"scenarios may have other victory objectives — getting your leader to a "
+"designated point, say, or rescuing someone, or solving a puzzle, or holding "
+"out against a siege until a certain number of turns have elapsed."
+msgstr ""
+"特别要注意每个场景开始前弹出的<bold>text='任务目标'</bold>窗口。通常杀死所有"
+"的敌人领袖您就能取得胜利，而只有当己方领袖阵亡时游戏才会失败。但是有些场景可"
+"能有其他胜利目标——例如，让您的领袖到达指定地点，或者救出某人，或者解决一个迷"
+"题，或者在被围攻时坚守城池直到撑过一定回合数。"
+
+#. [topic]: id=recruit_and_recall
+msgid "Recruiting and Recalling"
+msgstr "征募与召回"
+
+#. [topic]: id=recruit_and_recall
+msgid ""
+"\n"
+"\n"
+"If you right-clicked on a castle hex and selected recruit, the new unit will "
+"appear in that hex. Otherwise, it will appear in a free hex near the keep. "
+"You may only recruit as many units as you have free hexes in your castle, "
+"and you cannot spend more gold than you actually have on recruiting."
+msgstr ""
+"\n"
+"\n"
+"如果您是右击城堡里的六角格后选择征募的，那么新的单位将出现在该格内。否则，新"
+"兵将出现在主楼旁的某一个空格里。您最多只能征募与城堡内空格数相同个数的单位，"
+"并且在招募时，您的总花费不能超出您所拥有的金币数量。"
+
+#. [topic]: id=recruit_and_recall
+msgid ""
+"Each side begins with one leader in their keep. At the start of any battle, "
+"and at times during it, you will need to recruit <ref>dst='..units' "
+"text='units'</ref> into your army. To recruit, you must have your leader "
+"(for instance, Konrad in the <italic>text='Heir to the Throne'</italic> "
+"campaign) on the keep hex of a <ref>dst='terrain_castle' text='castle'</"
+"ref>. Then you may recruit by either choosing <bold>text='Recruit'</bold> "
+"from the menu or right-clicking on a hex and selecting <bold>text='Recruit'</"
+"bold>. This brings up the recruit menu, which lists units available for "
+"recruitment, along with their gold cost. Click on a unit to see its "
+"statistics, then press the recruit button to recruit it."
+msgstr ""
+"游戏开始时，每一方都有一位领袖在城堡主楼里。在战斗开始时，以及战斗过程中，您"
+"可能需要为您的部队征募<ref>dst='..units' text='单位'</ref>。要想征募单位，您"
+"的领袖（例如<italic>text='王座之承'</italic>战役中的科纳德）必须位于"
+"<ref>dst='terrain_castle' text='城堡'</ref>的主楼上。而后您将可以在菜单中选择"
+"<bold>text='征募'</bold>或右键点击城堡内的一个六角格并选择<bold>text='征募'</"
+"bold>。此时会弹出征募菜单，其中列出了所有可以征募的单位和所需金币数。点击一个"
+"单位可以查看其能力数据，然后点击征募按钮就可将其征募。"
+
+#. [topic]: id=recruit_and_recall
+msgid ""
+"\n"
+"\n"
+"Recruited units come with two random <ref>dst='..traits_section' "
+"text='traits'</ref> which modify their statistics."
+msgstr ""
+"\n"
+"\n"
+"招募来的单位具有两项随机的<ref>dst='..traits_section' text='特质'</ref>，对其"
+"数据有影响。"
+
+#. [topic]: id=recruit_and_recall
+msgid ""
+"\n"
+"\n"
+"In later scenarios, you may also Recall survivors from earlier battles. "
+"Recalling costs a standard 20 gold and presents you with a list of all "
+"surviving units from previous scenarios."
+msgstr ""
+"\n"
+"\n"
+"在以后的战役中，您也可以召回早先战斗中的生还者。召回一律花费20金币。在召回时"
+"您将看到一张先前场景中全部生还单位的清单。"
+
+#. [topic]: id=recruit_and_recall
+msgid ""
+"\n"
+"\n"
+"Units not only cost gold to Recruit or Recall, they also require money to "
+"support. See <ref>dst='income_and_upkeep' text='income and upkeep'</ref> for "
+"more information."
+msgstr ""
+"\n"
+"\n"
+"单位不仅仅需要花费金币来征募或召回，还需要金钱来进行维护。参见"
+"<ref>dst='income_and_upkeep' text='收入与维护费用'</ref>以获取更多信息。"
+
+#. [topic]: id=orbs
+msgid "Orbs"
+msgstr "行动状态球"
+
+#. [topic]: id=orbs
+msgid ""
+"On top of the energy bar shown next to each unit of yours is an orb. For "
+"units you control, this orb is:"
+msgstr ""
+"在您的每一个单位的能量条上方是一个行动状态球。对于您所控制的单位，行动状态球"
+"有以下状态："
+
+#. [topic]: id=orbs
+msgid " green if it hasn’t moved this turn,"
+msgstr " 绿色：表明本单位本回合还没有移动过，"
+
+#. [topic]: id=orbs
+msgid " yellow if it has moved, but could still move further or attack, or"
+msgstr " 黄色：表明本单位移动过，但还可以继续移动或攻击，或者"
+
+#. [topic]: id=orbs
+#, fuzzy
+msgid ""
+" black if it can no longer move or attack, or the user ended the unit’s turn."
+msgstr " 红色：表明本单位不能继续移动或攻击，或玩家结束了其回合。"
+
+#. [topic]: id=orbs
+msgid " blue if the unit is an ally you do not control."
+msgstr " 蓝色：表明本单位是您所不能控制的友军。"
+
+#. [topic]: id=orbs
+#, fuzzy
+msgid " Enemy units have a red orb on top of their energy bar."
+msgstr " 敌方单位的能量条上方没有行动状态球。"
+
+#. [topic]: id=hitpoints
+msgid "Hitpoints and Experience"
+msgstr "生命值与经验值"
+
+#. [topic]: id=hitpoints
+msgid ""
+"Each unit has a certain number of <italic>text='hitpoints'</italic> (HP). If "
+"the hitpoints of a unit drop below 1, the unit dies. Each unit also has a "
+"certain number of <italic>text='experience points'</italic> (XP). A freshly "
+"recruited unit starts with no experience points, and gains experience by "
+"fighting enemies."
+msgstr ""
+"每个单位都有一定数量的生命值（HP）。如果单位的生命值降到1以下，它就会死掉。每"
+"个单位也拥有一定的经验值（XP）。新征募的单位在开始时没有经验值，他们通过与敌"
+"人战斗来获得经验值。"
+
+#. [topic]: id=hitpoints
+msgid ""
+"The hitpoints and experience points are both indicated in the status pane "
+"using two numbers (the current value and the maximum value the unit can "
+"have)."
+msgstr ""
+"生命值和经验值都会在状态面板上分别以两个数字来表示（当前值和该单位所能拥有的"
+"最大值）。"
+
+#. [topic]: id=hitpoints
+msgid ""
+"The hitpoints are also indicated by an energy bar next to each unit, which "
+"is green, yellow or red. A unit with at least 1 experience point has a blue "
+"experience bar, which turns white as the unit is about to "
+"<ref>dst='experience_and_advancement' text='advance'</ref>."
+msgstr ""
+"生命值也显示在单位旁边的能量条上。能量条可能是绿色、黄色或红色。至少有1点经验"
+"值的单位拥有一条蓝色经验条，当单位就快<ref>dst='experience_and_advancement' "
+"text='升级'</ref>时经验条会变为白色。"
+
+#. [topic]: id=movement
+msgid "Movement"
+msgstr "移动"
+
+#. [topic]: id=movement
+msgid ""
+"\n"
+"\n"
+"Each unit has a certain number of movement points which are used up when "
+"moving into a new hex, depending on the Terrain of that particular hex. For "
+"instance, grassland nearly always costs 1 movement point to enter. Exactly "
+"how many movement points are spent entering a hex depends on the unit type — "
+"in forest, elvish units only spend 1 movement point, most human and orc "
+"units spend 2, while horsemen spend 3. You can learn how many movement "
+"points a unit requires to enter a certain terrain type by right-clicking on "
+"it, selecting <bold>text='Unit Description'</bold>, and then looking at "
+"<bold>text='Terrain Modifiers'</bold>."
+msgstr ""
+"\n"
+"\n"
+"每个单位都有一定的移动点数，这些点数将在移动到新的六角格中时被消耗掉，其消耗"
+"量取决于目标格的地形。例如，进入草地几乎总是耗费1点移动点数。进入特定六角格所"
+"耗费的移动点数取决于单位种类——在森林里，精灵族单位只需花费1点移动点数，绝大多"
+"数人类和兽人单位花费2点，而骑兵则要花费3点。如要获悉某个单位进入某个地形所需"
+"的移动点数，只需右击该单位，选择<bold>text='单位描述'</bold>，然后阅读"
+"<bold>text='地形影响'</bold>部分。"
+
+#. [topic]: id=movement
+msgid ""
+"Movement in <italic>text='Battle for Wesnoth'</italic> is simple. Click on "
+"the unit you wish to move to select it, then click on the hex you wish to "
+"move it to. When a unit is selected, everywhere it can move this turn will "
+"be highlighted, and all other hexes on the map are made dull. Mousing over a "
+"highlighted hex shows the defense rating the unit would have if you moved it "
+"to that hex. Mousing over a dull hex will also show the number of turns "
+"required to reach it, and clicking will cause the unit to move towards it by "
+"the fastest route over this and subsequent turns. If you don’t use up all of "
+"a unit’s movement when you first move a unit, you may move it again. This is "
+"useful when having two units switch places. Attacking with a unit will use "
+"up its movement. Ending a move in a village you don’t already own will also "
+"use up a unit’s movement, but will still allow it to attack."
+msgstr ""
+"<italic>text='韦诺之战'</italic>中单位的移动很简单。只需点击选中您想要移动的"
+"单位，再点击目的地就行了。当单位被选中时，该单位在本回合可移动的范围就会以高"
+"亮显示，而本回合无法到达的区域则会暗下去。移动鼠标到高亮显示的六角格里，该单"
+"位在目的地的闪避率便会显示出来。移动鼠标到暗六角格上还会显示要到达那里所需的"
+"回合数，点击该六角格会让单位以最佳的路线移动，并在接下来的几回合中到达目的"
+"地。如果您没有用完本回合中某单位所有的移动点数，则还可以继续移动他。当您要交"
+"换两个单位的位置时，这是很有用的。如果命令单位进行攻击，则将耗尽他的移动点"
+"数。当单位进入一个您还没有占领的村庄时也会耗尽所有的移动点数，但他仍然能够攻"
+"击。"
+
+#. [topic]: id=movement
+msgid ""
+"\n"
+"\n"
+"Another thing to keep in mind while moving is <italic>text='zones of "
+"control'</italic>. Each unit generates a zone of control in the hexes "
+"immediately surrounding it, and any enemy unit entering those hexes "
+"immediately ends its movement. Learning how to use zones of control to your "
+"advantage is an important part of Wesnoth, as only "
+"<ref>dst='ability_skirmisher' text='skirmishers'</ref> can ignore zones of "
+"control."
+msgstr ""
+"\n"
+"\n"
+"移动时，您还需要记住<italic>text='控制区域'</italic>的概念。每个单位都会在紧"
+"邻自身的六角格中产生控制区域，敌军若进入那些六角格，将立即无法继续移动。学习"
+"如何利用控制区域，是玩韦诺时的一个重点。只有<ref>dst='ability_skirmisher' "
+"text='游击士'</ref>可以忽略控制区域的影响。"
+
+#. [topic]: id=movement
+msgid ""
+"\n"
+"\n"
+"To see where the enemy can move to during their next turn, press Ctrl-v or "
+"Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were "
+"not on the map to block their progress."
+msgstr ""
+"\n"
+"\n"
+"按下Ctrl-v或Cmd-v就可以查看敌人下回合能移动到的区域。按下Ctrl-b或Cmd-b可以显"
+"示在您的部队不影响敌人移动的情况下，他们可以移动到的区域。"
+
+#. [topic]: id=shroud_and_fog
+msgid "Shroud and Fog of War"
+msgstr "战场黑幕与战争迷雾"
+
+#. [topic]: id=shroud_and_fog
+msgid ""
+"In some scenarios, parts of the map will be hidden from you. There are two "
+"mechanisms that can be used separately or together. The "
+"<italic>text='shroud'</italic> hides both the terrain and any units at a "
+"location. However, once it is cleared, you can always see that location. The "
+"<italic>text='fog of war'</italic> only hides units and ownership of "
+"villages (other than by you or your allies). The fog of war is cleared "
+"temporarily when you have units nearby, but returns when they leave. Both "
+"the shroud and the fog of war are cleared by units. Each unit clears "
+"locations adjacent to those within one turn’s move (ignoring zones of "
+"control and enemy units).\n"
+"\n"
+"Normally you can undo a unit’s movement, as long as an event with a "
+"randomized result has not occurred, such as combat or recruitment (as most "
+"units receive random traits when recruited). Exploring hidden terrain by "
+"clearing shroud or fog will also prevent undos to a previous state. You may "
+"wish to activate <bold>text='Delay Shroud Updates'</bold> in the actions "
+"menu. This will prevent units from clearing shroud or fog until the next "
+"randomized event or a manual update via <bold>text='Update Shroud Now'</"
+"bold> (or the end of your turn) and thereby preserve your ability to undo "
+"movement."
+msgstr ""
+"某些场景的部分地图是不可见的，这背后有两种机理，可以分开或一同作用。"
+"<italic>text='战场黑幕'</italic>会隐藏某位置的地形和任何单位。但是，一旦清除"
+"黑幕之后，您将总是能看见该位置。<italic>text='战争迷雾'</italic>只会隐藏单"
+"位，以及村庄的归属（除了属于您或者您的盟友的村庄之外）。当迷雾附近有您的单位"
+"时，它会暂时消失，而当他们离去后则会再次笼罩。黑幕和迷雾都可以被单位所清除。"
+"单位清除黑幕或迷雾的范围，是其在一回合内可以移动到的区域，再加上与这一区域紧"
+"临的一圈六角格（忽略控制区域和敌方单位的影响）。\n"
+"\n"
+"通常您可以撤销单位的移动，只要没有发生会产生随机结果的事件即可，比如战斗和征"
+"募（绝大多数单位被征募时都会获得随机的特质）。为了探索被隐藏的地形而清除黑幕"
+"或迷雾的行动，也将阻止您撤销回之前的状态。您也许会希望激活行动菜单中的"
+"<bold>text='暂缓刷新黑幕'</bold>功能，该功能将阻止单位清除黑幕或者迷雾，直到"
+"下一个随机事件发生，或者使用<bold>text='立即刷新黑幕'</bold>进行手动刷新，或"
+"者您的回合结束为止。如此一来，您就可以保留撤销移动的能力了。"
+
+#. [topic]: id=combat
+msgid "Combat"
+msgstr "战斗"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"<header>text='Order and Number of Strikes'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='攻击顺序与次数'</header>"
+
+#. [topic]: id=combat
+msgid ""
+"Combat in <italic>text='Battle for Wesnoth'</italic> always takes place "
+"between units in adjacent hexes. Click on your unit, and click on the enemy "
+"you want to attack: your unit will move towards the enemy unit, and when "
+"they are next to each other, combat will begin. The attacker and defender "
+"alternate strikes until each has used their allotted number of strikes. The "
+"attacker chooses one of its weapons to attack with, and the defender "
+"retaliates with one of its attacks of the same type. There are two types of "
+"attacks: <italic>text='melee'</italic>, which usually involves weapons such "
+"as swords, axes or fangs; and <italic>text='ranged'</italic>, which usually "
+"involves weapons such as bows, spears and fireballs."
+msgstr ""
+"<italic>text='韦诺之战'</italic>中的战斗总是发生在相邻的两个单位之间。点击您"
+"的单位，然后再点击您想攻击的敌人：您的单位会向敌人移动，当两个单位相邻时，战"
+"斗就会开始。进攻方和防御方交替攻击对方，直到都用完被分配的攻击次数为止。进攻"
+"方选择一种武器进行攻击，而防御方会使用相同种类的武器进行防御。攻击类型有两"
+"种：<italic>text='近战'</italic>，使用的武器通常包括剑，斧，或者利齿；"
+"<italic>text='远程'</italic>，使用的武器通常包括弓，矛以及火球。"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"The attacker gets the first strike, then the defender retaliates. Each "
+"strike either hits, doing a given amount of damage, or misses, doing no "
+"damage at all. Strikes alternate until each unit has used up all of its "
+"strikes. The number of strikes a unit has varies; for instance, an elvish "
+"fighter with a 5–4 attack may strike 4 times, each successful strike dealing "
+"5 damage, while an orcish grunt with a 9–2 attack can only strike twice (but "
+"at 9 damage for each hit)."
+msgstr ""
+"\n"
+"\n"
+"进攻方率先进行攻击，然后防御方反击。每次攻击要么命中，造成一定的伤害，要么击"
+"偏，完全不造成伤害。攻击将反复轮流进行，直到双方都用尽其攻击次数为止。单位拥"
+"有的攻击次数是不同的：例如，具有5–4攻击力的精灵战士可以攻击4次，每次命中敌人"
+"将造成5点伤害，而具有9–2攻击力的兽人步兵只能攻击2次（但每次命中敌人会造成9点"
+"伤害）。"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"<header>text='Chance to Hit'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='命中率'</header>"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"Every unit has a chance of being hit, based on the <italic>text='terrain'</"
+"italic> it is in. This is shown in the status pane, and may also be found by "
+"right-clicking a unit, selecting <bold>text='Unit Description'</bold>, and "
+"then looking at <bold>text='Terrain Modifiers'</bold>. For instance, many "
+"elves have a defense rating of 70% in forest, so a unit attacking them has "
+"only a 30% chance of hitting. Conversely, the elf’s chance of hitting the "
+"attacker in return depends on what terrain the attacker is in."
+msgstr ""
+"\n"
+"\n"
+"根据其所处的<italic>text='地形'</italic>，每个单位都有一定的几率被命中。这在"
+"状态面板上会有显示。也可以右击单位，选择<bold>text='单位描述'</bold>，而后查"
+"看<bold>text='地形影响'</bold>的内容。例如，许多精灵在森林里都有70%的闪避率，"
+"这表示进攻方只有30%的几率命中目标。同样地，精灵在反击中命中进攻方的几率取决于"
+"进攻方所处的地形。"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"There are two exceptions to this rule: <ref>dst='weaponspecial_magical' "
+"text='magical attacks'</ref> and <ref>dst='weaponspecial_marksman' "
+"text='marksmen'</ref>. Magical attacks always have a 70% chance to hit, "
+"regardless of terrain, and, when used offensively, marksmen always have at "
+"least a 60% chance to hit, regardless of terrain."
+msgstr ""
+"\n"
+"\n"
+"以上规则有两个例外：<ref>dst='weaponspecial_magical' text='魔法攻击'</ref>和"
+"<ref>dst='weaponspecial_marksman' text='精准射击'</ref>。魔法攻击可以无视地"
+"形，总是有70%的命中率。而精准射击在进攻时也可以无视地形，并最少有60%的命中"
+"率。"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"<header>text=Damage</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text=伤害</header>"
+
+# sometimes there are quotations in "text='Time of Day'", for example, but sometimes there aren't, as in "text=resistance". what's the difference? and shall i use quotations in a likewise manner in translation?
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"Each strike which hits causes a base amount of damage depending on the "
+"attack type. For instance, an elvish fighter with a 5–4 attack does 5 base "
+"damage. This is usually modified by two things: "
+"<ref>dst='damage_types_and_resistance' text='resistance'</ref> and "
+"<ref>dst='time_of_day' text='time of day'</ref>. To see how base damage is "
+"modified by the circumstances, select <bold>text='Damage Calculations'</"
+"bold> in the attack selection menu."
+msgstr ""
+"\n"
+"\n"
+"根据攻击类型的不同，每次成功的攻击都会造成一定量的基础伤害。例如，具有5–4攻击"
+"力的精灵战士可以造成5点基本伤害。通常有两种因素会对此作出修正：即"
+"<ref>dst='damage_types_and_resistance' text='抗性'</ref>和"
+"<ref>dst='time_of_day' text='时段'</ref>。欲查看这些因素是如何修正基本伤害"
+"的，请在攻击选择菜单中选择<bold>text='伤害计算'</bold>。"
+
+#. [topic]: id=combat
+msgid ""
+"\n"
+"\n"
+"A few units have special <ref>dst='..abilities_section' text='abilities'</"
+"ref> which affect damage dealt in combat. The most common of these is "
+"<ref>dst='weaponspecial_charge' text='charge'</ref>, which doubles the "
+"damage dealt by both attacker and defender when the unit with charge attacks."
+msgstr ""
+"\n"
+"\n"
+"有些单位拥有特别的<ref>dst='..abilities_section' text='技能'</ref>，会影响在"
+"战斗中的伤害输出。最常见的能力是<ref>dst='weaponspecial_charge' text='冲锋'</"
+"ref>，当具有冲锋技能的单位进攻时，进攻方和防御方都将输出双倍伤害。"
+
+#. [topic]: id=damage_types_and_resistance
+msgid "Damage Types and Resistance"
+msgstr "伤害类型与抗性"
+
+#. [topic]: id=damage_types_and_resistance
+msgid ""
+"\n"
+"\n"
+"Resistances work very simply: if a unit has 40% resistance against a damage "
+"type, then it will suffer 40% less damage when hit with that damage type. It "
+"is also possible for a unit to be vulnerable against some damage types. If a "
+"unit has −100% resistance against a damage type, it will suffer 100% more "
+"damage when hit by that type."
+msgstr ""
+"\n"
+"\n"
+"抗性的适用规则很简单：如果一个单位对某种伤害类型有40%的抗性，则被该种伤害命中"
+"时会减少40%的伤害值。一个单位也有可能更易受某种伤害：如果一个单位对某种伤害有"
+"−100%的抗性，则被该种伤害命中时会增加100%的伤害值。"
+
+#. [topic]: id=damage_types_and_resistance
+msgid ""
+"In Wesnoth, there are three types of damage usually associated with physical "
+"attacks: <italic>text='blade, pierce, and impact damage'</italic>. "
+"Additionally, there are three further types of damage usually associated "
+"with magical attacks: <italic>text='fire, cold, and arcane attacks'</"
+"italic>. Different units may have resistances which alter the damage which "
+"they take from certain damage types."
+msgstr ""
+"在韦诺中，有三种伤害类型通常属于物理攻击：<italic>text='剑刃、穿刺和冲击伤"
+"害'</italic>。此外，还有三种伤害类型通常属于魔法攻击：<italic>text='火焰、寒"
+"冰和奥术攻击'</italic>。不同的单位可能对特定的伤害类型具有抗性，从而改变被这"
+"些类型的攻击命中时受到的伤害。"
+
+#. [topic]: id=damage_types_and_resistance
+msgid ""
+"\n"
+"\n"
+"For example, skeletons are highly resistant to blade and pierce damage, but "
+"are vulnerable to impact and fire damage, and extremely vulnerable to arcane "
+"damage."
+msgstr ""
+"\n"
+"\n"
+"例如，骷髅对剑刃和穿刺伤害具有很高的抗性，但却容易受到冲击和火焰伤害，并且非"
+"常害怕奥术伤害。"
+
+#. [topic]: id=damage_types_and_resistance
+msgid ""
+"\n"
+"\n"
+"If a strike is determined to hit, it will always do at least 1 point of "
+"damage. This applies even if the defender has 100% resistance to the damage "
+"type."
+msgstr ""
+"\n"
+"\n"
+"如果某次攻击命中，则至少会造成1点伤害，即使防御方对其伤害类型有100%的抗性时也"
+"是如此。"
+
+#. [topic]: id=time_of_day
+msgid "Time of Day"
+msgstr "时段"
+
+#. [topic]: id=time_of_day
+msgid ""
+"The time of day affects the damage of certain units as follows:\n"
+" Lawful units get +25% damage in daytime, and −25% damage at night.\n"
+" Chaotic units get +25% damage at night, and −25% in daytime.\n"
+" Neutral units are unaffected by the time of day.\n"
+" Liminal units get −25% damage during both night and daytime."
+msgstr ""
+"时段对某些单位的伤害输出有影响，具体如下：\n"
+" 守序单位昼间伤害+25%，夜间伤害−25%。\n"
+" 混沌单位夜间伤害+25%，昼间伤害−25%。\n"
+" 中立单位不受时段的影响。\n"
+" 边缘单位在昼间和夜间的伤害都−25%。"
+
+#. [topic]: id=time_of_day
+msgid ""
+"\n"
+"\n"
+"The current time of day can be observed under the minimap in the status "
+"pane. For the usual day/night cycle, morning and afternoon count as day, "
+"first and second watch count as night:\n"
+msgstr ""
+"\n"
+"\n"
+"当前时段可以在小地图下方的状态面板中看到。在通常的昼夜循环里，上午和下午算作"
+"昼间，而前半夜和后半夜则算作夜间：\n"
+
+#. [time]: id=dawn
+#. [time]: id=dawn_hour
+#. [topic]: id=time_of_day
+msgid "Dawn"
+msgstr "黎明"
+
+#. [time]: id=morning
+#. [topic]: id=time_of_day
+msgid "Morning"
+msgstr "上午"
+
+#. [time]: id=afternoon
+#. [topic]: id=time_of_day
+msgid "Afternoon"
+msgstr "下午"
+
+#. [time]: id=dusk
+#. [time]: id=dusk_hour
+#. [topic]: id=time_of_day
+msgid "Dusk"
+msgstr "黄昏"
+
+#. [time]: id=first_watch
+#. [topic]: id=time_of_day
+msgid "First Watch"
+msgstr "前半夜"
+
+#. [time]: id=second_watch
+#. [topic]: id=time_of_day
+msgid "Second Watch"
+msgstr "后半夜"
+
+#. [topic]: id=time_of_day
+msgid ""
+"Keep in mind that some scenarios take place underground, where it is "
+"perpetually night!"
+msgstr "请记住，有些场景是发生在地下的，那里永远都是夜间！"
+
+#. [topic]: id=experience_and_advancement
+msgid "Experience and Advancement"
+msgstr "经验值与升级"
+
+#. [topic]: id=experience_and_advancement
+msgid ""
+"\n"
+"\n"
+"Units have a certain amount of experience required to advance (this is 20% "
+"less for units with the Intelligent trait). Once they achieve this amount, "
+"they immediately advance to the next level, healing fully in the process. In "
+"some cases, you will be given a choice of advancement options."
+msgstr ""
+"\n"
+"\n"
+"所有单位都需要获得一定的经验值才能升级（具有聪慧特质的单位所需的经验值减少"
+"20%）。 一旦获得足够的经验值，他们就会立刻升级，同时生命值完全回复。在有些情"
+"况下，您将可以选择一个升级选项。"
+
+#. [topic]: id=experience_and_advancement
+msgid ""
+"If both units survive a combat, they gain a number of experience points "
+"equal to the level of the unit they’re fighting. If a unit kills another in "
+"combat, however, it gains much more experience — 4 for a level 0 unit, 8 for "
+"level 1, 16 for level 2, 24 for level 3, and so forth."
+msgstr ""
+"如果两个单位在战斗之后都存活下来，他们都能得到相当于对手等级的经验值。但如果"
+"一个单位在战斗中杀死了另一个，则能得到多得多的经验值——0级单位提供4点，1级单位"
+"8点，2级单位16点，3级单位24点，依此类推。"
+
+#. [topic]: id=experience_and_advancement
+msgid ""
+"\n"
+"\n"
+"While most units have three levels, not all do. Occasional units (such as "
+"<ref>dst='unit_Mage' text='magi'</ref>) may have four. Once a unit has "
+"reached its maximum level, it may have an <italic>text='After Maximum Level "
+"Advancement'</italic> (AMLA) available to it. The AMLA will modify the unit "
+"each time the unit reaches the experience goal, but the unit will remain the "
+"same level. The typical AMLA effect is for the unit to raise the maximum HP "
+"by 3 and full-heal it. The first AMLA will normally be reached with 150 XP "
+"gained (120 XP for intelligent units). However, gaining an AMLA becomes "
+"progressively harder for each AMLA the unit receives, and so it is usually "
+"more useful to try to advance your lower level units."
+msgstr ""
+"\n"
+"\n"
+"尽管大多数单位有三个等级，但并非都是如此。有些单位（例如<ref>dst='unit_Mage' "
+"text='法师'</ref>）能升到四级。单位升到最高级以后，可以获得<italic>text='满级"
+"奖励'</italic>（AMLA）。AMLA会在单位获得所需经验值后改变单位属性，但等级不"
+"变。典型的AMLA效果是增加3点最大生命值并补满血。通常情况下，单位会在获得150点"
+"经验值（聪慧单位是120点）后得到第一次AMLA。不过，以后每次获得AMLA的难度逐渐变"
+"大，所以尝试让您的低等级单位升级通常会更有用。"
+
+#. [topic]: id=healing
+msgid "Healing"
+msgstr "治疗"
+
+#. [topic]: id=healing
+msgid ""
+"\n"
+"\n"
+"<italic>text='Resting'</italic>: A unit which neither moves, attacks, nor is "
+"attacked will heal 2 HP in its next turn."
+msgstr ""
+"\n"
+"\n"
+"<italic>text='休息'</italic>：若某单位在本回合不移动、攻击或被攻击，则会在下"
+"回合开始时恢复2点生命值。"
+
+#. [topic]: id=healing
+msgid ""
+"In combat, your units will inevitably take damage. When a unit "
+"<ref>dst='experience_and_advancement' text='advances'</ref>, it will heal "
+"fully. This can happen as you finish fighting an enemy, whether it is your "
+"turn or not. Wesnoth offers several other ways for your units to heal, all "
+"of which take place at the beginning of your turn, before you take action."
+msgstr ""
+"战斗中，您的单位不可避免地会受到伤害。当一个单位"
+"<ref>dst='experience_and_advancement' text='升级'</ref>时，其生命值会完全回"
+"复。这会在您和敌人单位的战斗结束后发生，而不论当前是否是您的回合。韦诺还为您"
+"的单位提供了几种其他的治疗方式，这些治疗全部在您的回合的开始，而您还没有进行"
+"操作时发生。"
+
+#. [topic]: id=healing
+msgid ""
+"\n"
+"<italic>text='Villages'</italic>: A unit which starts a turn in a village "
+"will heal 8HP."
+msgstr ""
+"\n"
+"<italic>text='村庄'</italic>：每回合开始时，在村庄中的单位可以恢复8点生命值。"
+
+#. [topic]: id=healing
+msgid ""
+"\n"
+"<ref>dst='ability_regenerates' text='Regeneration'</ref>: Certain units "
+"(such as trolls) will automatically heal 8HP every turn."
+msgstr ""
+"\n"
+"<ref>dst='ability_regenerates' text='再生'</ref>：某些单位（如巨魔）每回合将"
+"自动回复8点生命值。"
+
+#. [topic]: id=healing
+msgid ""
+"\n"
+"<italic>text='Healing units'</italic>: Units with the "
+"<ref>dst='ability_heals +4' text='Heals'</ref> ability will heal each allied "
+"adjacent unit, usually <ref>dst='ability_heals +4' text='4HP'</ref> or "
+"<ref>dst='ability_heals +8' text='8HP'</ref> per turn, or prevent Poison "
+"from causing that unit damage."
+msgstr ""
+"\n"
+"<italic>text='治疗单位'</italic>：有<ref>dst='ability_heals +4' text='治疗'</"
+"ref>技能的单位每回合能恢复相邻友军单位<ref>dst='ability_heals +4' text='4"
+"点'</ref>或<ref>dst='ability_heals +8' text='8点'</ref>生命值，或防止中毒状态"
+"对该单位造成伤害。"
+
+#. [topic]: id=healing
+msgid ""
+"\n"
+"<italic>text='Curing units'</italic>: Units with the "
+"<ref>dst='ability_cures' text='cures'</ref> ability will cure Poison in all "
+"allied adjacent units (in preference to healing, if it has that ability as "
+"well)."
+msgstr ""
+"\n"
+"<italic>text='治愈单位'</italic>：有<ref>dst='ability_cures' text='治愈'</"
+"ref>技能的单位可以治愈全部相邻友军单位的中毒状态（如果本单位还有治疗技能，则"
+"治愈优先于治疗）。"
+
+#. [topic]: id=healing
+msgid ""
+"\n"
+"\n"
+"Resting can be combined with other forms of healing, but villages, "
+"regeneration, healing and curing cannot combine with each other: the best "
+"option will be used. Finally, units heal fully between scenarios."
+msgstr ""
+"\n"
+"\n"
+"休息可以和其它治疗方式叠加，但是村庄、再生、治疗和治愈效果则不能互相叠加：游"
+"戏会使用最优的治疗方式。最后，单位在过场时会完全回复生命值。"
+
+#. [topic]: id=income_and_upkeep
+msgid "Income and Upkeep"
+msgstr "收入和维护费用"
+
+#. [topic]: id=income_and_upkeep
+msgid ""
+"\n"
+"\n"
+"Income is simple. You have a base income of 2 gold per turn. For every "
+"village you control, you gain one additional gold each turn. (In general "
+"this is configurable but in campaigns it is almost always one gold per "
+"village.) Thus, if you have ten villages, you would normally gain 12 gold "
+"each turn. Your upkeep costs are subtracted from this income, as detailed "
+"below."
+msgstr ""
+"\n"
+"\n"
+"收入这一概念很简单。每回合您都会得到2金币的基本收入。您所占领的每个村庄每回合"
+"也会给您1金币的额外收入。（一般来说这个数值是可以配置的，但在战役中，几乎总是"
+"每个村庄产出一金币。）因此如果您占领了十个村庄，每回合就会有12金币的收入。但"
+"您的收入中还需要扣除维护费用，详细说明见下。"
+
+#. [topic]: id=income_and_upkeep
+msgid ""
+"In Wesnoth, it is not enough simply to recruit units and fight. You must "
+"watch your gold as well, especially in campaigns, where you can carry extra "
+"gold over from one scenario to the next. There are two aspects to this; "
+"<italic>text='income'</italic> and <italic>text='upkeep'</italic>."
+msgstr ""
+"在韦诺中，仅仅征募单位并战斗是不够的。您还得注意您的金币，特别是在战役中，因"
+"为可以将多余的金币携带到下一场景。影响金币数量的主要是两个方面："
+"<italic>text='收入'</italic> and <italic>text='维护费用'</italic>."
+
+#. [topic]: id=income_and_upkeep
+msgid ""
+"\n"
+"\n"
+"Upkeep is also fairly simple. Each unit requires an amount of Upkeep equal "
+"to its level. You can support as many levels worth of units as you have "
+"villages, without paying any upkeep. However, for each level of unit beyond "
+"the number of villages you have, you must pay one gold per turn. For "
+"example, if you have twelve level one units and ten villages, you would have "
+"to pay two gold each turn in upkeep."
+msgstr ""
+"\n"
+"\n"
+"维护费用这一概念也相当简单。每个单位都需要支付与其等级相等的维护费用。您所能"
+"免费供给的单位的等级之和与您所拥有的村庄数量相同。然而，单位等级之和每超过您"
+"所拥有的村庄数一级，您就得每回合支付一金币的维护费用。例如，如果您拥有十二个"
+"一级的单位和十个村庄，那就得每回合支付两金币的维护费用。"
+
+#. [topic]: id=income_and_upkeep
+msgid ""
+"\n"
+"\n"
+"Upkeep costs are subtracted from your income, so in the case of twelve "
+"levels of units and ten villages, your resultant Income would be 10 gold per "
+"turn."
+msgstr ""
+"\n"
+"\n"
+"维护费用将从您的收入中扣除。所以，在有等级总和为十二的单位和十个村庄的情况"
+"下，最终您的收入将会是每回合10金币。"
+
+#. [topic]: id=income_and_upkeep
+msgid ""
+"\n"
+"\n"
+"There are two important exceptions to upkeep: units with the loyal trait and "
+"leaders never incur upkeep. Units you begin the scenario with (such as "
+"Delfador), or units who join you during a scenario (such as the horseman in "
+"the second scenario of <italic>text='Heir to the Throne'</italic>) will "
+"usually have the <italic>text='loyal'</italic> trait. The unit you are "
+"playing (such as Konrad) will almost always be a leader."
+msgstr ""
+"\n"
+"维护费用的支付规则中有两个重要的例外：即具有忠诚特质的单位以及领袖不需要支付"
+"维护费用。每个场景开始时您所拥有的单位（比如黎伐多），或在场景中加入己方的单"
+"位（如在<italic>text='王座之承'</italic>第二场景中加入的骑手）通常都具有"
+"<italic>text='忠诚'</italic>特质。而您所扮演的角色（如科纳德）几乎总是一位领"
+"袖。"
+
+#. [topic]: id=wrap_up
+msgid "Wrap Up"
+msgstr "总结"
+
+#. [topic]: id=wrap_up
+msgid ""
+"This concludes the fundamentals of Wesnoth. You might want to read up on "
+"basic strategy, or familiarize yourself with <ref>dst='..traits_section' "
+"text='traits'</ref> and <ref>dst='..abilities_section' text='abilities'</"
+"ref>, but you now know everything you need to know to play the "
+"<italic>text='Heir to the Throne'</italic> campaign. Have fun, and good luck!"
+msgstr ""
+"韦诺的基础介绍到此结束。您或许想要继续阅读基本策略的相关内容，或熟悉一下"
+"<ref>dst='..traits_section' text='特质'</ref>和<ref>dst='.."
+"abilities_section' text='技能'</ref>，不过现在您已经准备万全，可以去玩"
+"<italic>text='王座之承'</italic>战役了。祝您好运，玩得开心！"
+
+#. [topic]: id=about
+msgid "ingame_help_item^Contributors"
+msgstr "贡献者"
+
+#. [topic]: id=license
+msgid "License"
+msgstr "许可证"
+
+#. [topic]: id=..traits_section
+msgid ""
+"\n"
+"\n"
+"The traits that are available to all non-undead units are "
+"<ref>dst='traits_intelligent' text='intelligent'</ref>, "
+"<ref>dst='traits_quick' text='quick'</ref>, <ref>dst='traits_resilient' "
+"text='resilient'</ref>, and <ref>dst='traits_strong' text='strong'</ref>."
+msgstr ""
+"\n"
+"\n"
+"所有的非亡灵单位都可能获得的特质有<ref>dst='traits_intelligent' text='聪慧'</"
+"ref>，<ref>dst='traits_quick' text='迅捷'</ref>，<ref>dst='traits_resilient' "
+"text='坚韧'</ref>和<ref>dst='traits_strong' text='强壮'</ref>。"
+
+#. [topic]: id=..traits_section
+msgid ""
+"Most units have two traits. However, undead units are assigned the single "
+"trait <italic>text='undead'</italic>, and woses do not receive any traits. "
+"Traits are modifications that change a unit’s attributes slightly. They are "
+"usually randomly assigned to a unit when it is recruited."
+msgstr ""
+"大多数单位有两种特质。然而，亡灵只有一种特质，即<italic>text='亡灵'</"
+"italic>，而树人则没有任何特质。特质是对单位属性的细微修正。通常，特质是在征募"
+"单位时随机地分配给他们的。"
+
+#. [topic]: id=..traits_section
+msgid ""
+"\n"
+"\n"
+"Other traits that may be assigned to units are <ref>dst='traits_dextrous' "
+"text='dextrous'</ref>, <ref>dst='traits_loyal' text='loyal'</ref>, and "
+"<ref>dst='traits_undead' text='undead'</ref>.\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"单位能获得的其它特质有：<ref>dst='traits_dextrous' text='灵巧'</ref>，"
+"<ref>dst='traits_loyal' text='忠诚'</ref>，和<ref>dst='traits_undead' "
+"text='亡灵'</ref> 。\n"
+"\n"
+
+#. [topic]: id=traits_intelligent
+msgid "Intelligent"
+msgstr "聪慧"
+
+#. [topic]: id=traits_intelligent
+msgid ""
+"\n"
+"\n"
+"<italic>text='Intelligent'</italic> units are very useful at the beginning "
+"of a campaign as they can advance to higher levels more quickly. Later in "
+"campaigns Intelligent is not quite as useful because the <italic>text='After "
+"Maximum Level Advancement'</italic> (AMLA) is not as significant a change as "
+"advancing a level. If you have many ‘maximum level’ units you may wish to "
+"recall units with more desirable traits."
+msgstr ""
+"\n"
+"\n"
+"<italic>text='聪慧'</italic>单位在战役的开始阶段非常有用，因为他们能更快地升"
+"到高等级。在战役的后期聪慧单位并不是很有用，因为<italic>text='满级奖励'</"
+"italic>（AMLA）与升级相比效果并不显著。如果拥有很多达到“满级”的单位，那您也许"
+"会希望召回那些拥有更有用的特质的单位。"
+
+#. [topic]: id=traits_intelligent
+msgid "Intelligent units require 20% less experience than usual to advance."
+msgstr "聪慧单位每次升级所需的经验值比通常情况少20%。"
+
+#. [topic]: id=traits_quick
+msgid "Quick"
+msgstr "迅捷"
+
+#. [topic]: id=traits_quick
+msgid ""
+"\n"
+"\n"
+"Quick is the most noticeable trait, particularly in slower moving units such "
+"as trolls or heavy infantry. Units with the quick trait often have greatly "
+"increased mobility in rough terrain, which can be important to consider when "
+"deploying your forces. Also, quick units aren’t quite as tough as units "
+"without this trait and are subsequently less good at holding contested "
+"positions."
+msgstr ""
+"\n"
+"\n"
+"迅捷是最容易察觉的特质，特别是对移动很慢的单位而言，比如巨魔或重甲步兵。具有"
+"迅捷特质的单位在恶劣地形上的机动性经常大为提升，在部署您的部队时这是需要考虑"
+"的重要因素。但迅捷单位不如没有该特质的单位强壮，因而在守卫炮火连天的阵地时没"
+"有那些单位好用。"
+
+#. [topic]: id=traits_quick
+msgid ""
+"<italic>text='Quick'</italic> units have 1 extra movement point, but 5% less "
+"HP than usual."
+msgstr ""
+"<italic>text='迅捷'</italic>单位有1点额外的移动点数，但是比通常单位要少5%的生"
+"命值。"
+
+#. [topic]: id=traits_resilient
+msgid "Resilient"
+msgstr "坚韧"
+
+#. [topic]: id=traits_resilient
+msgid ""
+"\n"
+"\n"
+"Resilient units can be useful at all stages of a campaign, and this is a "
+"useful trait for all units. Resilient is often most helpful as a trait when "
+"it occurs in a unit that has some combination of low hitpoints, good "
+"defense, or high resistances. Resilient units are especially useful for "
+"holding strategic positions against opponents."
+msgstr ""
+"\n"
+"\n"
+"坚韧单位在战役的整个阶段中都非常有用，并且这是一个对所有单位都有用的特质。坚"
+"韧特质对拥有较低的生命值、较高的闪避能力或较高抗性的单位特别有帮助。坚韧单位"
+"在把守战略要害部位方面尤其有用。"
+
+#. [topic]: id=traits_resilient
+msgid ""
+"<italic>text='Resilient'</italic> units have 4 HP plus 1 HP per level more "
+"than usual."
+msgstr ""
+"<italic>text='坚韧'</italic>单位有额外的4点生命值，且每升一级增加的生命值也多"
+"1点。"
+
+#. [topic]: id=traits_strong
+msgid "Strong"
+msgstr "强壮"
+
+#. [topic]: id=traits_strong
+msgid ""
+"\n"
+"\n"
+"While useful for any close-combat unit, strong is most effective for units "
+"who have a high number of swings such as the elvish fighter. Strong units "
+"can be very useful when a tiny bit of extra damage is all that is needed to "
+"turn a damaging stroke into a killing blow."
+msgstr ""
+"\n"
+"\n"
+"虽然对任何近战单位都有用，但强壮这一特质对于像精灵战士这样攻击次数多的单位是"
+"最有效的。当仅仅一点点额外的伤害便能让一次普通攻击变成致命一击时，强壮单位的"
+"价值便完全体现出来了。"
+
+#. [topic]: id=traits_strong
+msgid ""
+"<italic>text='Strong'</italic> units do 1 more damage for every successful "
+"strike in melee combat, and have 1 more HP."
+msgstr ""
+"<italic>text='强壮'</italic>单位在近战中每次成功的攻击都将造成1点额外伤害，并"
+"且这种单位具有1点额外生命值。"
+
+#. [topic]: id=traits_fearless
+msgid "Fearless"
+msgstr "无畏"
+
+#. [topic]: id=traits_fearless
+msgid "Aversion to light and dark holds no sway over these brave individuals."
+msgstr "对光明或者黑暗的不适绝不可能使这些勇敢的战士动摇。"
+
+#. [topic]: id=traits_feral
+msgid "Feral"
+msgstr "野生"
+
+#. [topic]: id=traits_feral
+msgid ""
+"Dwellings of sentient beings are not easily used for cover by feral "
+"creatures of low intelligence. As a result, <italic>text='feral'</italic> "
+"units receive a maximum of 50% defense in any land-based village regardless "
+"of base terrain."
+msgstr ""
+"对低智商的野生生物而言，智慧生物的居所并不能很容易地作为自己的掩护。因此，"
+"<italic>text='野生'</italic>单位在任何一个陆地村庄中都只能获得最高50%的闪避"
+"率，而不论其下的地形如何。"
+
+#. [topic]: id=traits_loyal
+msgid "Loyal"
+msgstr "忠诚"
+
+#. [topic]: id=traits_loyal
+msgid ""
+"\n"
+"\n"
+"During campaigns, certain units may opt to join the player’s forces of their "
+"own volition. These units are marked with the loyal trait. Although they may "
+"require payment to be recalled, they never incur any upkeep costs. This can "
+"make them invaluable during a long campaign, when gold is in short supply. "
+"This trait is never given to recruited units, so it may be unwise to dismiss "
+"such units or to send them to a foolish death."
+msgstr ""
+"\n"
+"\n"
+"在战役中，一些单位会自愿加入玩家的阵营。这些单位都有忠诚特质作为其标志。虽然"
+"召回他们需要付费，但却不需要维护费用。在漫长的战役中，金币短缺，这种特质真是"
+"不可多得。招募而来的单位永远都不会有这种特质，所以解散这样的单位或让他们去白"
+"白送死或许是很不聪明的做法。"
+
+#. [topic]: id=traits_loyal
+msgid ""
+"<italic>text='Loyal'</italic> units don’t incur upkeep. Most units incur an "
+"upkeep cost at the end of every turn, which is equal to their level. Loyal "
+"units do not incur this cost."
+msgstr ""
+"<italic>text='忠诚'</italic>单位不需要维护费用。大多数单位在每回合结束时都需"
+"要花费维护费用，该费用与他们的等级相等。而忠诚单位不会增加这笔开销。"
+
+#. [topic]: id=traits_undead
+msgid "trait^Undead"
+msgstr "亡灵"
+
+#. [topic]: id=traits_undead
+msgid ""
+"\n"
+"\n"
+"Undead units generally have undead as their only trait. Since undead units "
+"are the bodies of the dead, risen to fight again, poison has no effect upon "
+"them. This can make them invaluable in dealing with foes who use poison in "
+"conjunction with their attacks."
+msgstr ""
+"\n"
+"\n"
+"亡灵单位通常只拥有亡灵这一种特质。亡灵单位通常是些被召唤起来再次战斗的尸体，"
+"因此毒素对它们不起作用。这使得它们在与那些善于用毒的对手作战时的价值无法估"
+"量。"
+
+#. [topic]: id=traits_undead
+msgid ""
+"<italic>text='Undead'</italic> units are immune to poison, drain, and plague."
+msgstr ""
+"<italic>text='亡灵'</italic>单位对毒素免疫，而吸血与瘟疫对它们同样无效。"
+
+#. [topic]: id=traits_mechanical
+msgid "trait^Mechanical"
+msgstr "机械"
+
+#. [topic]: id=traits_mechanical
+msgid ""
+"\n"
+"\n"
+"Mechanical units generally have mechanical as their only trait. Since "
+"mechanical units don’t really have life, drain, poison, and plague have no "
+"effect upon them."
+msgstr ""
+"\n"
+"\n"
+"机械单位通常只拥有机械这一种特质。由于机械单位并不真的拥有生命，所以吸血、毒"
+"素和瘟疫对它们不起作用。"
+
+#. [topic]: id=traits_mechanical
+msgid ""
+"<italic>text='Mechanical'</italic> units are immune to poison, drain, and "
+"plague."
+msgstr ""
+"<italic>text='机械'</italic>单位对毒素免疫，而吸血与瘟疫对它们同样无效。"
+
+#. [topic]: id=traits_elemental
+msgid "trait^Elemental"
+msgstr "元素"
+
+#. [topic]: id=traits_elemental
+msgid ""
+"\n"
+"\n"
+"Elemental units generally have elemental as their only trait. Since "
+"elemental units are energy-based beings, drain, poison, and plague have no "
+"effect upon them."
+msgstr ""
+"\n"
+"\n"
+"元素单位通常只拥有<italic>text='元素'</italic>这一种特质。由于元素单位是由纯"
+"能量组成的存在，所以吸血、毒素和瘟疫对它们不起作用。"
+
+#. [topic]: id=traits_elemental
+msgid ""
+"<italic>text='Elemental'</italic> units are immune to poison, drain, and "
+"plague."
+msgstr ""
+"<italic>text='元素'</italic> 单位对毒素免疫，而吸血与瘟疫对它们同样无效。"
+
+#. [topic]: id=traits_dextrous
+msgid "Dextrous"
+msgstr "灵巧"
+
+#. [topic]: id=traits_dextrous
+msgid ""
+"\n"
+"\n"
+"Dextrous is a trait possessed only by elves. The elven people are known for "
+"their uncanny grace, and their great facility with the bow. Some, however, "
+"are gifted with natural talent that exceeds their brethren. These elves "
+"inflict an additional point of damage with each arrow."
+msgstr ""
+"\n"
+"\n"
+"灵巧是精灵独有的特质。精灵以其不同寻常的优雅与善用弓箭而闻名。甚而，有些精灵"
+"天赋异禀，远远胜过自己的同胞。这些精灵每次用箭攻击都会造成1点的额外伤害。"
+
+#. [topic]: id=traits_dextrous
+msgid ""
+"<italic>text='Dextrous'</italic> units do 1 more damage for every successful "
+"strike in ranged combat."
+msgstr ""
+"<italic>text='灵巧'</italic>单位每次成功的远程攻击都将造成1点的额外伤害。"
+
+#. [topic]: id=traits_healthy
+msgid "Healthy"
+msgstr "活力"
+
+#. [topic]: id=traits_healthy
+msgid ""
+"\n"
+"\n"
+"<italic>text='Healthy'</italic> units have 1 HP plus 1 HP per level more "
+"than usual and rest heal the usual 2 HP after each turn they did not fight. "
+"They also suffer a quarter less damage from poison."
+msgstr ""
+"\n"
+"\n"
+"<italic>text='活力'</italic>单位天生拥有1点附加生命值，每次升级所增加的生命值"
+"也多1点，并且在每个无战斗的回合后都会休息并恢复2点生命值。他们中毒时受到的伤"
+"害也减少1/4。"
+
+#. [topic]: id=traits_healthy
+msgid ""
+"Renowned for their vitality, some dwarves are sturdier than others and can "
+"rest even when travelling."
+msgstr ""
+"矮人们以生命力顽强著称，有些矮人比别的矮人更强壮，甚至可以在旅行的同时休息。"
+
+#. [topic]: id=traits_dim
+msgid "Dim"
+msgstr "愚笨"
+
+#. [topic]: id=traits_dim
+msgid ""
+"\n"
+"\n"
+"Dim is a trait all too common in goblins and other lesser species. There are "
+"reasons these species are lesser, and this is one of them."
+msgstr ""
+"\n"
+"\n"
+"愚笨在地精和其他低等种族中是常见得过头的特质。这些种族之所以低等是有原因的，"
+"而这便是其中之一。"
+
+#. [topic]: id=traits_dim
+msgid ""
+"Units with trait <italic>text='dim'</italic> suffer a 20% increase in "
+"experience required to advance."
+msgstr ""
+"拥有<italic>text='愚笨'</italic>特质的单位升级所需的经验值比一般单位多20%。"
+
+#. [topic]: id=traits_slow
+msgid "Slow"
+msgstr "缓慢"
+
+#. [topic]: id=traits_slow
+msgid ""
+"\n"
+"\n"
+"Thick-bodied and clumsy, slow individuals of goblins and other species take "
+"a movement penalty but are compensated for it with a slight increase in "
+"endurance."
+msgstr ""
+"\n"
+"\n"
+"体型庞大而笨拙，地精和其它种族中的慢速个体在移动上受到限制，但在忍耐力上却得"
+"到了少许补偿。"
+
+#. [topic]: id=traits_slow
+msgid ""
+"<italic>text='Slow'</italic> units have −1 movement but 5% more hitpoints."
+msgstr "<italic>text='缓慢'</italic>单位的移动点数少1点，但是生命值多5%。"
+
+#. [topic]: id=traits_weak
+msgid "Weak"
+msgstr "虚弱"
+
+#. [topic]: id=traits_weak
+msgid ""
+"Units with trait <italic>text='weak'</italic> get a −1 increment in "
+"hitpoints and melee damage."
+msgstr ""
+"拥有<italic>text='虚弱'</italic>特质的单位，其生命值和近战伤害各减少1点。"
+
+#. [topic]: id=traits_aged
+msgid "trait^Aged"
+msgstr "年长"
+
+#. [topic]: id=traits_aged
+msgid ""
+"Units with trait <italic>text='aged'</italic> get a −8 increment in "
+"hitpoints and a −1 increment in movement and melee damage."
+msgstr ""
+"拥有<italic>text='年长'</italic>特质的单位，其生命值减少8点，移动点数和近战伤"
+"害均减少1点。"
+
+#. [topic]: id=..terrains_section
+#, fuzzy
+msgid ""
+"Game maps feature a variety of terrains that affect both unit movement and a "
+"unit’s defensive capability in combat."
+msgstr ""
+"游戏地图中包含了许多不同的地形，这些地形既能影响单位的移动，也能影响单位在战"
+"斗中的闪避能力。\n"
+"\n"
+
+#. [topic]: id=..addons
+msgid ""
+"The degree of customization offered by the Wesnoth engine allows players to "
+"create their own game content, including new scenarios, campaigns, and much "
+"more beyond what is offered in the official content bundled with the game.\n"
+"\n"
+msgstr ""
+
+#. [topic]: id=using_addons
+msgid "Using Add-ons"
+msgstr ""
+
+#. [topic]: id=using_addons
+#, fuzzy
+msgid ""
+"\n"
+"\n"
+"<header>text='Campaigns and Scenarios'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text=伤害</header>"
+
+#. [topic]: id=using_addons
+msgid ""
+"The game supports different types of add-on content, which are not all "
+"available in every gameplay mode."
+msgstr ""
+
+#. [topic]: id=using_addons
+msgid ""
+"\n"
+"\n"
+"Single-player campaigns are collections of scenarios that fit together to "
+"tell a story. Both stand-alone scenarios—if intended to be played as such—"
+"and regular campaigns are available from the <italic>text='Campaigns'</"
+"italic> menu at the title screen."
+msgstr ""
+
+#. [topic]: id=using_addons
+#, fuzzy
+msgid ""
+"\n"
+"\n"
+"<header>text='Multiplayer Campaigns, Scenarios, and Map Packs'</header>"
+msgstr "<header>text='拥有这种特殊攻击的单位'</header>"
+
+#. [topic]: id=using_addons
+msgid ""
+"\n"
+"\n"
+"<italic>text='Multiplayer'</italic> games can be played in fully customized, "
+"scripted scenarios or even specially designed campaigns. There are also "
+"packs providing sets of individual multiplayer scenarios."
+msgstr ""
+
+#. [topic]: id=using_addons
+#, fuzzy
+msgid ""
+"\n"
+"\n"
+"<header>text='Multiplayer Eras and Factions'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='攻击顺序与次数'</header>"
+
+#. [topic]: id=using_addons
+msgid ""
+"\n"
+"\n"
+"For gameplay purposes, various races of creatures in the world cooperate "
+"with each other in factions. Factions are grouped in balanced sets with a "
+"common theme; for example, the main factions of Wesnoth can be found in the "
+"included Default Era.\n"
+"\n"
+"In <italic>text='Multiplayer'</italic> mode, you can choose an era when "
+"creating a new game, and players can pick from the available factions for "
+"that era when setting up their sides and teams."
+msgstr ""
+
+#. [topic]: id=using_addons
+#, fuzzy
+msgid ""
+"\n"
+"\n"
+"<header>text='Multiplayer Modifications'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='命中率'</header>"
+
+#. [topic]: id=using_addons
+msgid ""
+"\n"
+"\n"
+"Modifications are optional scenario- and era-independent scripts for "
+"<italic>text='Multiplayer'</italic> games that can alter the default ruleset "
+"in various ways. You can choose and configure modifications when creating a "
+"new game."
+msgstr ""
+
+#. [topic]: id=using_addons
+#, fuzzy
+msgid ""
+"\n"
+"\n"
+"<header>text='Creator Resources'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='命中率'</header>"
+
+#. [topic]: id=using_addons
+msgid ""
+"\n"
+"\n"
+"Content authors can use resource packs available on the add-ons server to "
+"enrich their own content with existing assets such as images, music, and "
+"code. These are not generally intended for direct use in-game; however, "
+"other playable add-ons may depend on them and suggest or require their "
+"installation during download."
+msgstr ""
+
+#. [topic]: id=installing_addons
+msgid "Installing Add-ons"
+msgstr ""
+
+#. [topic]: id=installing_addons
+msgid ""
+"User-made add-ons can be obtained and updated through the <italic>text='Add-"
+"ons'</italic> option in the main menu. After connecting to the add-ons "
+"server (by default <italic>text='add-ons.wesnoth.org'</italic>), you will be "
+"presented with a list of add-ons available on the server for downloading.\n"
+"\n"
+"The installation status for each add-on is shown below each entry. For add-"
+"ons that are <italic>text='upgradable'</italic> or <italic>text='outdated'</"
+"italic> on the server, their installed and published versions will be shown "
+"in the <italic>text='Version'</italic> column.\n"
+"\n"
+"To search for add-ons by keywords, type any relevant terms in any order in "
+"the <bold>text='Filter'</bold> box, separated by spaces. You can also sort "
+"the add-on list by clicking the column headers. It is also possible to "
+"choose to only display add-ons of specific categories by clicking on the "
+"<bold>text='Options'</bold> button in the top-right corner.\n"
+"\n"
+"To install an add-on, select it from the list and click <bold>text='OK'</"
+"bold>, or simply double-click on the add-on’s title. The "
+"<bold>text='Description'</bold> button provides you with additional details "
+"about the add-on, such as its full description, installation status, and "
+"available languages."
+msgstr ""
+
+#. [topic]: id=removing_addons
+msgid "Removing Add-ons"
+msgstr ""
+
+#. [topic]: id=removing_addons
+msgid ""
+"To remove add-ons, choose <bold>text='Remove Add-ons'</bold> in the add-ons "
+"server connection dialog. You will be presented with options to remove any "
+"number of add-ons you currently have installed.\n"
+"\n"
+"It is not possible to remove add-ons for which there is publishing "
+"information (<italic>text='.pbl'</italic> files) attached, in order to "
+"prevent its accidental loss. If necessary, you must manually delete the "
+"information files or the add-ons themselves using a file manager provided by "
+"your platform."
+msgstr ""
+
+#. [topic]: id=general_commands
+msgid "General commands"
+msgstr "常规命令"
+
+#. [topic]: id=debug_commands
+#. [topic]: id=general_commands
+#. [topic]: id=mp_commands
+msgid ""
+"These commands can either be issued via the command line by prefixing them "
+"with ':' (as shown here) or via the chat by prefixing them with '/' (press "
+"'m' first to open the chat line).\n"
+"\n"
+msgstr ""
+"这些命令有两种输入方法：一是通过命令行输入，请在命令前加上“:”（如此处所示）；"
+"二是通过聊天窗口输入，请在命令前加上“/”（请先按“m”键来打开聊天窗口）。\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Clear chat messages.\n"
+"\n"
+msgstr ""
+"\n"
+"清除聊天信息。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Switch debug mode on (does not work in multiplayer). See "
+"<ref>dst='debug_commands' text='debug mode commands'</ref>.\n"
+"Debug mode is turned off by quitting the game or :nodebug.\n"
+"\n"
+msgstr ""
+"\n"
+"开启调试模式（不能用于多人游戏）。请参阅<ref>dst='debug_commands' text='调试"
+"模式命令'</ref>。\n"
+"退出游戏或输入 :nodebug 将关闭调试模式。\n"
+"\n"
+
+# can someone explain this to me in other words? i have not seen this in real multiplayer yet
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Set or toggle player on side between human and AI player. The player/client "
+"who controls that side needs to issue this command. If no second parameter "
+"is supplied, toggle bewteen human and AI. If it is ‘on’, set an AI "
+"controller. If it is ‘off’ set a human controller. Defaults to the currently "
+"active side if no parameter is supplied.\n"
+"\n"
+msgstr ""
+"\n"
+"设置某一阵营由人类玩家或者AI玩家来控制。这条命令需要由控制该阵营的玩家/客户端"
+"来发出。如果不指定第二个参数，则在人类和AI之间切换。如果第二个参数是“on”，则"
+"设置为AI控制。如果第二个参数是“off”，则设置为玩家控制。如果不指定参数，则默认"
+"为当前活动的阵营。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Display the controller status of a side.\n"
+"\n"
+msgstr ""
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Toggle the display of the current frames per second.\n"
+"\n"
+msgstr ""
+"\n"
+"开/关“每秒帧数”（FPS）的显示。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Switch a log domain to a different log level.\n"
+"\n"
+msgstr ""
+"\n"
+"将一个日志域切换到不同的日志级别。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Redraws the screen and reloads any image files that have been changed.\n"
+"\n"
+msgstr ""
+"\n"
+"重绘屏幕并重新读取所有被更改过的图片。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Bring up theme selection menu.\n"
+"\n"
+msgstr ""
+"\n"
+"弹出主题选择菜单。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Quit the scenario (without prompting).\n"
+"\n"
+msgstr ""
+"\n"
+"退出场景（无确认提示）。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Save the game (without prompting).\n"
+"\n"
+msgstr ""
+"\n"
+"保存游戏（无确认提示）。\n"
+"\n"
+
+#. [topic]: id=general_commands
+msgid ""
+"\n"
+"Save the game and quit the scenario (without prompting)."
+msgstr ""
+"\n"
+"保存游戏并退出场景（无确认提示）。"
+
+#. [topic]: id=mp_commands
+msgid "Multiplayer commands"
+msgstr "多人游戏命令"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Ban a user in a multiplayer game by the IP address used by that username and "
+"kick him. Can be used on users not in the game but on the server. (Of course "
+"they won’t be kicked then.)\n"
+"\n"
+msgstr ""
+"\n"
+"在多人游戏中根据某个用户名所使用的IP地址来封禁该用户，并把他踢出游戏。可以对"
+"并不在游戏过程中但在服务器上的用户使用。（当然这时他们是不会被踢出游戏"
+"的。）\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Change the controller for side (write here the number of the side) to "
+"username (write here the nickname of the player or observer). You can check "
+"what side belongs to which player in the <bold>text='Scenario Settings'</"
+"bold> dialog (Press the <bold>text='More'</bold> button in the "
+"<bold>text='Status Table'</bold> (alt+s by default) to get there.). The host "
+"can change control of any side.\n"
+"\n"
+msgstr ""
+"\n"
+"将某一阵营的控制权（此处输入该阵营的编号）赋予某个用户（此处输入玩家或观察者"
+"的昵称）。您可以在<bold>text='场景设置'</bold>对话框中查看哪个玩家控制着哪个"
+"阵营(在<bold>text='状态表'</bold>中按<bold>text='更多'</bold>按钮即可，默认快"
+"捷键是alt+s）。主机可以改变任何阵营的控制权。\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Launch a dialog to assist the host in changing the human controllers of "
+"sides.\n"
+"\n"
+msgstr ""
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Toggle the idle state for a side. The host may make a side idle after a "
+"network disconnection.\n"
+"\n"
+msgstr ""
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Kick a user in multiplayer. They will be able to rejoin the game. If you "
+"just want to change control of their side(s) use the :control command "
+"instead.\n"
+"\n"
+msgstr ""
+"\n"
+"从多人游戏中踢出某个用户。他们可以重新进入加入游戏。如果您只是希望改变他所控"
+"制的阵营，请使用 :control 命令。\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Send a private message to a user. When in a game, it is not possible to send "
+"private messages to players who are currently controlling a side in the same "
+"game.\n"
+"\n"
+msgstr ""
+"\n"
+"向一名用户发送私人消息。在游戏进行中，向正控制着同一场游戏中的某个阵营的玩家"
+"发送私人消息是不可能的。\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Mute a specific observer. If no username is supplied the muted usernames are "
+"displayed.\n"
+"\n"
+msgstr ""
+"\n"
+"将一个指定的观察者禁言。如果没有指定用户名，则显示被禁言的观察者的列表。\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Toggle muting/silencing of all observers on/off.\n"
+"\n"
+msgstr ""
+"\n"
+"对所有观察者禁言/取消禁言。\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Unban a user in a multiplayer game by the IP address used by that username. "
+"Can be used on users not in the game but on the server.\n"
+"\n"
+msgstr ""
+"\n"
+"在多人游戏中解封使用这一用户名的用户的IP地址。可以对并不在游戏过程中但在服务"
+"器上的用户使用。\n"
+"\n"
+
+#. [topic]: id=mp_commands
+msgid ""
+"\n"
+"Unmute a specific observer. If no username is supplied the list of muted "
+"observers is cleared."
+msgstr ""
+"\n"
+"对一个指定的观察者取消禁言。如果没有指定用户名，则解禁所有被禁言的观察者。"
+
+#. [topic]: id=debug_commands
+msgid "Debug mode commands"
+msgstr "调试模式命令"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Brings up a menu for choosing a scenario to immediately advance to in a "
+"campaign.\n"
+"\n"
+msgstr ""
+"\n"
+"在战役中弹出菜单，以选择一个场景立即进入。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Create a unit of the specified type on the selected hex.\n"
+"\n"
+msgstr ""
+"\n"
+"在所选的六角格中创建指定类型的单位。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Toggle fog/shroud for the current side.\n"
+"\n"
+msgstr ""
+"\n"
+"为当前阵营开关战争迷雾或战场黑幕。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Adds the specified amount to the current side’s gold.\n"
+"\n"
+msgstr ""
+"\n"
+"为当前阵营添加指定数量的金币。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Immediately advances to the next scenario in a campaign.\n"
+"\n"
+msgstr ""
+"\n"
+"立即进入该战役的下一个场景。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Manually set a gamestate variable to value.\n"
+"\n"
+msgstr ""
+"\n"
+"手动设置一个游戏变量的值。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Show a gamestate variable.\n"
+"\n"
+msgstr ""
+"\n"
+"显示一个游戏变量。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Manually fire the specified event.\n"
+"\n"
+msgstr ""
+"\n"
+"手动触发指定的事件。\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Modifies the specified property of the selected unit. Example: :unit "
+"hitpoints=100\n"
+"\n"
+msgstr ""
+"\n"
+"改变被选定单位的指定属性。例如：:unit hitpoints=100\n"
+"\n"
+
+#. [topic]: id=debug_commands
+msgid ""
+"\n"
+"Makes the selected unit level up N times. Example: :unit advances=2"
+msgstr ""
+"\n"
+"使被选定单位连升N级。例如：:unit advances=2"
+
+#. [heals]: id=curing
+msgid "cures"
+msgstr "治愈"
+
+#. [heals]: id=curing
+msgid "female^cures"
+msgstr "治愈"
+
+#. [heals]: id=curing
+#, fuzzy
+msgid ""
+"A curer can cure a unit of poison, although that unit will receive no "
+"additional healing on the turn it is cured of the poison."
+msgstr ""
+"治愈：\n"
+"治愈者可以治愈单位的中毒状态，虽然该单位在被治愈的回合将不会获得额外的治疗。"
+
+#. [regenerate]: id=regenerates
+msgid "regenerates"
+msgstr "再生"
+
+#. [regenerate]: id=regenerates
+msgid "female^regenerates"
+msgstr "再生"
+
+#. [regenerate]: id=regenerates
+#, fuzzy
+msgid ""
+"The unit will heal itself 8 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr ""
+"再生：\n"
+"本单位可以每回合回复自身8点生命值。如果中了毒，那么就移除中毒状态，而不是进行"
+"治疗。"
+
+#. [resistance]: id=steadfast
+msgid "steadfast"
+msgstr "坚定"
+
+#. [resistance]: id=steadfast
+msgid "female^steadfast"
+msgstr "坚定"
+
+# not very sure about "vulnerabilities are not affected"
+#. [resistance]: id=steadfast
+#, fuzzy
+msgid ""
+"This unit’s resistances are doubled, up to a maximum of 50%, when defending. "
+"Vulnerabilities are not affected."
+msgstr ""
+"坚定：\n"
+"当进行防御时，本单位具有双倍抗性，最高50%。该单位的弱点不受此技能影响。"
+
+#. [leadership]: id=leadership
+msgid "leadership"
+msgstr "领导"
+
+#. [leadership]: id=leadership
+msgid "female^leadership"
+msgstr "领导"
+
+#. [leadership]: id=leadership
+#, fuzzy
+msgid ""
+"This unit can lead our own units that are next to it, making them fight "
+"better.\n"
+"\n"
+"Adjacent own units of lower level will do more damage in battle. When a unit "
+"adjacent to, of a lower level than, and on the same side as a unit with "
+"Leadership engages in combat, its attacks do 25% more damage times the "
+"difference in their levels."
+msgstr ""
+"领导：\n"
+"本单位可以领导相邻的我军单位，使他们更好地战斗。\n"
+"\n"
+"相邻的等级比领导者低的我军单位将在战斗中造成更大的伤害。当有领导者与比他等级"
+"低的我军单位相邻时，这些单位的攻击将比平时多造成25%乘以其与领袖等级之差的伤"
+"害。"
+
+#. [skirmisher]: id=skirmisher
+msgid "skirmisher"
+msgstr "游击"
+
+#. [skirmisher]: id=skirmisher
+msgid "female^skirmisher"
+msgstr "游击"
+
+#. [skirmisher]: id=skirmisher
+#, fuzzy
+msgid ""
+"This unit is skilled in moving past enemies quickly, and ignores all enemy "
+"Zones of Control."
+msgstr ""
+"游击：\n"
+"本单位擅长于从敌人旁边迅速通过，且能忽略所有敌人单位的控制区域。"
+
+#. [illuminates]: id=illumination
+msgid "illuminates"
+msgstr "照明"
+
+#. [illuminates]: id=illumination
+msgid "female^illuminates"
+msgstr "照明"
+
+#. [illuminates]: id=illumination
+#, fuzzy
+msgid ""
+"This unit illuminates the surrounding area, making lawful units fight "
+"better, and chaotic units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"night, and as if it were day when it is dusk."
+msgstr ""
+"照明：\n"
+"本单位照亮附近的区域，使守序单位更好地战斗，而使混沌单位的表现变差。\n"
+"\n"
+"如果现在是夜间，那么与这个单位相邻的单位会像在黄昏时那样战斗，如果现在是黄"
+"昏，那么他们会像在白天时那样战斗。"
+
+#. [teleport]: id=teleport
+msgid "teleport"
+msgstr "传送"
+
+#. [teleport]: id=teleport
+msgid "female^teleport"
+msgstr "传送"
+
+#. [teleport]: id=teleport
+#, fuzzy
+msgid ""
+"This unit may teleport between any two empty villages owned by its side "
+"using one of its moves."
+msgstr ""
+"传送：\n"
+"本单位可以花费一次移动机会，在任意两个属于本阵营的无人驻守的村庄之间传送。"
+
+#. [hides]: id=ambush
+msgid "ambush"
+msgstr "伏击"
+
+#. [hides]: id=ambush
+msgid "female^ambush"
+msgstr "伏击"
+
+#. [hides]: id=ambush
+#, fuzzy
+msgid ""
+"This unit can hide in forest, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in forest, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+"伏击：\n"
+"本单位可以隐藏在森林里，不会被敌人发觉。\n"
+"\n"
+"当本单位在森林里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现本单位的"
+"敌军单位将立刻丧失其剩余的全部行动点数。"
+
+#. [hides]: id=nightstalk
+msgid "nightstalk"
+msgstr "夜行"
+
+#. [hides]: id=nightstalk
+#, fuzzy
+msgid ""
+"The unit becomes invisible during night.\n"
+"\n"
+"Enemy units cannot see this unit at night, except if they have units next to "
+"it. Any enemy unit that first discovers this unit immediately loses all its "
+"remaining movement."
+msgstr ""
+"夜行：\n"
+"本单位在晚上将变为隐形。\n"
+"\n"
+"敌军单位在晚上看不见本单位，除非敌军有单位与他相邻。第一个发现本单位的敌军单"
+"位将立刻丧失其剩余的全部行动点数。"
+
+#. [hides]: id=nightstalk
+msgid "female^nightstalk"
+msgstr "夜行"
+
+#. [hides]: id=concealment
+msgid "concealment"
+msgstr "隐蔽"
+
+#. [hides]: id=concealment
+msgid "female^concealment"
+msgstr "隐蔽"
+
+#. [hides]: id=concealment
+#, fuzzy
+msgid ""
+"This unit can hide in villages (with the exception of water villages), and "
+"remain undetected by its enemies, except by those standing next to it.\n"
+"\n"
+"Enemy units can not see this unit while it is in a village, except if they "
+"have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+"隐蔽：\n"
+"本单位可以隐藏在村庄里（水中村庄除外）而不会被敌人发觉，除了那些与他相邻的敌"
+"人之外。\n"
+"\n"
+"当本单位在村庄里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现本单位的"
+"敌军单位将立刻丧失其剩余的全部行动点数。"
+
+#. [hides]: id=submerge
+msgid "submerge"
+msgstr "潜水"
+
+#. [hides]: id=submerge
+msgid "female^submerge"
+msgstr "潜水"
+
+#. [hides]: id=submerge
+#, fuzzy
+msgid ""
+"This unit can hide in deep water, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in deep water, except if they "
+"have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+"潜水：\n"
+"本单位可以潜入深水，不会被敌人发觉。\n"
+"\n"
+"当本单位在深水里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现本单位的"
+"敌军单位将立刻丧失其剩余的全部行动点数。"
+
+#. [dummy]: id=feeding
+msgid "feeding"
+msgstr "食尸"
+
+#. [dummy]: id=feeding
+msgid "female^feeding"
+msgstr "食尸"
+
+#. [dummy]: id=feeding
+#, fuzzy
+msgid ""
+"This unit gains 1 hitpoint added to its maximum whenever it kills a unit, "
+"except units that are immune to plague."
+msgstr " 本单位每杀死一个活体单位就会获得1点额外的最大生命值。"
+
+#. [unstore_unit]
+msgid "+1 max HP"
+msgstr "+1 最大生命值"
+
+#. [damage]: id=backstab
+msgid "backstab"
+msgstr "背刺"
+
+#. [damage]: id=backstab
+#, fuzzy
+msgid ""
+"When used offensively, this attack deals double damage if there is an enemy "
+"of the target on the opposite side of the target, and that unit is not "
+"incapacitated (turned to stone or otherwise paralyzed)."
+msgstr ""
+"背刺：\n"
+"在用于进攻时，如果目标的另一面（与进攻方相对）紧邻着与目标敌对的单位，且该单"
+"位具有战斗力（例如，没有被石化或者用别的方式麻痹）时，本攻击将造成双倍伤害。"
+
+#. [plague]: id=plague({TYPE}), type={TYPE}
+#. [plague]: id=plague, type=Walking Corpse
+msgid "plague"
+msgstr "瘟疫"
+
+#. [plague]: id=plague({TYPE}), type={TYPE}
+#, fuzzy
+msgid ""
+"When a unit is killed by a Plague attack, that unit is replaced with a unit "
+"identical to and on the same side as the unit with the Plague attack. This "
+"doesn’t work on Undead or units in villages."
+msgstr ""
+"瘟疫：\n"
+"当一个单位被瘟疫攻击杀死时，这个单位将变成与进行瘟疫攻击的单位完全一样的单"
+"位，并与其属于同一阵营。这对亡灵或在村庄里的单位不起作用。 "
+
+#. [plague]: id=plague, type=Walking Corpse
+#, fuzzy
+msgid ""
+"When a unit is killed by a Plague attack, that unit is replaced with a "
+"Walking Corpse on the same side as the unit with the Plague attack. This "
+"doesn’t work on Undead or units in villages."
+msgstr ""
+"瘟疫：\n"
+"当一个单位被瘟疫攻击杀死时，这个单位将变成行尸，并与进行瘟疫攻击的单位属于同"
+"一阵营。这对亡灵或在村庄中的单位不起作用。"
+
+#. [slow]: id=slow
+msgid "slows"
+msgstr "减速"
+
+#. [slow]: id=slow
+#, fuzzy
+msgid ""
+"This attack slows the target until it ends a turn. Slow halves the damage "
+"caused by attacks and the movement cost for a slowed unit is doubled. A unit "
+"that is slowed will feature a snail icon in its sidebar information when it "
+"is selected."
+msgstr ""
+"减速：\n"
+"本攻击将使目标减速，直到本回合结束。减速攻击使目标的攻击伤害减半，而移动消耗"
+"则加倍。被减速的单位被选中时，其侧边栏信息中会显示一个蜗牛图标。"
+
+#. [petrifies]: id=petrifies
+msgid "petrifies"
+msgstr "石化"
+
+#. [petrifies]: id=petrifies
+#, fuzzy
+msgid ""
+"This attack petrifies the target, turning it to stone. Units that have been "
+"petrified may not move or attack."
+msgstr ""
+"石化：\n"
+"本攻击将使目标石化，也就是把他变成石头。被石化的单位将不能移动或攻击。"
+
+#. [chance_to_hit]: id=marksman
+msgid "marksman"
+msgstr "精准"
+
+#. [chance_to_hit]: id=marksman
+#, fuzzy
+msgid ""
+"When used offensively, this attack always has at least a 60% chance to hit."
+msgstr ""
+"精准：\n"
+"当用于进攻时，本攻击至少有60%的命中率。"
+
+#. [swarm]: id=swarm
+msgid "swarm"
+msgstr "群击"
+
+#. [swarm]: id=swarm
+#, fuzzy
+msgid ""
+"The number of strikes of this attack decreases when the unit is wounded. The "
+"number of strikes is proportional to the percentage of its of maximum HP the "
+"unit has. For example a unit with 3/4 of its maximum HP will get 3/4 of the "
+"number of strikes."
+msgstr ""
+"群击：\n"
+"这种攻击的攻击次数随着本单位的伤势递减，其攻击次数与本单位当前生命值所占最大"
+"生命值的比重成正比。例如，一个生命值只剩下最大值的3/4的单位，其攻击次数也只有"
+"峰值的3/4。"
+
+#. [damage]: id=charge
+msgid "charge"
+msgstr "冲锋"
+
+#. [damage]: id=charge
+#, fuzzy
+msgid ""
+"When used offensively, this attack deals double damage to the target. It "
+"also causes this unit to take double damage from the target’s counterattack."
+msgstr ""
+"冲锋：\n"
+"用于进攻时，本攻击将对目标造成双倍伤害，但目标的反击也会使本单位受到双倍伤"
+"害。"
+
+#. [drains]: id=drains
+msgid "drains"
+msgstr "吸血"
+
+#. [drains]: id=drains
+#, fuzzy
+msgid ""
+"This unit drains health from living units, healing itself for half the "
+"amount of damage it deals (rounded down)."
+msgstr ""
+"吸血：\n"
+"本单位从活体单位身上吸取体力，使得自身的生命值回复所造成伤害的一半（向下舍"
+"入）。"
+
+#. [poison]: id=poison
+msgid "poison"
+msgstr "毒素"
+
+#. [poison]: id=poison
+#, fuzzy
+msgid ""
+"This attack poisons living targets. Poisoned units lose 8 HP every turn "
+"until they are cured or are reduced to 1 HP. Poison can not, of itself, kill "
+"a unit."
+msgstr ""
+"毒素：\n"
+"本攻击使活体目标中毒。中毒单位每回合失去8点生命值，直到他们被治愈或生命值降到"
+"1。仅仅靠毒素本身是不足以杀死一个单位的。"
+
+#. [advancement]: id=amla_default
+msgid "Max HP bonus +3, Max XP +20%"
+msgstr "最大生命值奖励+3，最大经验值+20%"
+
+#. [time]: id=midday
+#. [time]: id=midday_hour
+msgid "Midday"
+msgstr "正午"
+
+#. [time]: id=midnight
+#. [time]: id=midnight_hour
+msgid "Midnight"
+msgstr "午夜"
+
+#. [time]: id=indoors
+msgid "Indoors"
+msgstr "室内"
+
+#. [time]: id=deep_underground
+msgid "Deep Underground"
+msgstr "深层地下"
+
+#. [time]: id=second_watch_hour1
+msgid "Second Watch — First Hour"
+msgstr "后半夜 — 第一小时"
+
+#. [time]: id=second_watch_hour2
+msgid "Second Watch — Second Hour"
+msgstr "后半夜 — 第二小时"
+
+#. [time]: id=second_watch_hour3
+msgid "Second Watch — Third Hour"
+msgstr "后半夜 — 第三小时"
+
+#. [time]: id=second_watch_hour4
+msgid "Second Watch — Fourth Hour"
+msgstr "后半夜 — 第四小时"
+
+#. [time]: id=second_watch_hour5
+msgid "Second Watch — Fifth Hour"
+msgstr "后半夜 — 第五小时"
+
+#. [time]: id=second_watch_hour6
+msgid "Second Watch — Sixth Hour"
+msgstr "后半夜 — 第六小时"
+
+#. [time]: id=morning_hour1
+msgid "Morning — First Hour"
+msgstr "上午 — 第一小时"
+
+#. [time]: id=morning_hour2
+msgid "Morning — Second Hour"
+msgstr "上午 — 第二小时"
+
+#. [time]: id=morning_hour3
+msgid "Morning — Third Hour"
+msgstr "上午 — 第三小时"
+
+#. [time]: id=morning_hour4
+msgid "Morning — Fourth Hour"
+msgstr "上午 — 第四小时"
+
+#. [time]: id=afternoon_hour1
+msgid "Afternoon — First Hour"
+msgstr "下午 — 第一小时"
+
+#. [time]: id=afternoon_hour2
+msgid "Afternoon — Second Hour"
+msgstr "下午 — 第二小时"
+
+#. [time]: id=afternoon_hour3
+msgid "Afternoon — Third Hour"
+msgstr "下午 — 第三小时"
+
+#. [time]: id=afternoon_hour4
+msgid "Afternoon — Fourth Hour"
+msgstr "下午 — 第四小时"
+
+#. [time]: id=afternoon_hour5
+msgid "Afternoon — Fifth Hour"
+msgstr "下午 — 第五小时"
+
+#. [time]: id=afternoon_hour6
+msgid "Afternoon — Sixth Hour"
+msgstr "下午 — 第六小时"
+
+#. [time]: id=first_watch_hour1
+msgid "First Watch — First Hour"
+msgstr "前半夜 — 第一小时"
+
+#. [time]: id=first_watch_hour2
+msgid "First Watch — Second Hour"
+msgstr "前半夜 — 第二小时"
+
+#. [time]: id=first_watch_hour3
+msgid "First Watch — Third Hour"
+msgstr "前半夜 — 第三小时"
+
+#. [time]: id=first_watch_hour4
+msgid "First Watch — Fourth Hour"
+msgstr "前半夜 — 第四小时"
+
+#. [time]: id=dawn1
+#, fuzzy
+msgid "First Dawn"
+msgstr "前半夜"
+
+#. [time]: id=dawn2
+#, fuzzy
+msgid "Second Dawn"
+msgstr "后半夜"
+
+#. [time]: id=morning1
+#, fuzzy
+msgid "First Morning"
+msgstr "上午"
+
+#. [time]: id=morning2
+#, fuzzy
+msgid "Second Morning"
+msgstr "上午"
+
+#. [time]: id=midday1
+#, fuzzy
+msgid "First Midday"
+msgstr "正午"
+
+#. [time]: id=midday2
+#, fuzzy
+msgid "Second Midday"
+msgstr "后半夜"
+
+#. [time]: id=afternoon1
+#, fuzzy
+msgid "First Afternoon"
+msgstr "下午"
+
+#. [time]: id=afternoon2
+#, fuzzy
+msgid "Second Afternoon"
+msgstr "下午"
+
+#. [time]: id=dusk1
+msgid "First Dusk"
+msgstr ""
+
+#. [time]: id=dusk2
+#, fuzzy
+msgid "Second Dusk"
+msgstr "后半夜"
+
+#. [time]: id=short_dark
+msgid "The Short Dark"
+msgstr ""
+
+#. [time]: id=long_dark1
+msgid "The Long Dark (1)"
+msgstr ""
+
+#. [time]: id=long_dark2
+msgid "The Long Dark (2)"
+msgstr ""
+
+#. [time]: id=long_dark3
+msgid "The Long Dark (3)"
+msgstr ""
+
+#. [time]: id=long_dark4
+msgid "The Long Dark (4)"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"Special Notes:"
+msgstr ""
+"\n"
+"\n"
+"特别提示："
+
+msgid ""
+" Spirits have very unusual resistances to damage, and move quite slowly over "
+"open water."
+msgstr " 亡魂们对伤害具有相当不寻常的抗性，但在开阔的水面上移动得很慢。"
+
+msgid ""
+" This unit’s arcane attack deals tremendous damage to magical creatures, and "
+"even some to mundane creatures."
+msgstr ""
+" 本单位的奥术攻击对魔法造物将造成巨大的伤害，对某些凡间的生物也是如此。"
+
+msgid " This unit is capable of basic healing."
+msgstr " 本单位能够进行简单的治疗。"
+
+msgid " This unit is capable of rapid healing."
+msgstr " 本单位能够进行迅速的治疗。"
+
+msgid ""
+" This unit is capable of healing those around it, and curing them of poison."
+msgstr " 本单位能够治疗周围的单位，并治愈中毒状态。"
+
+msgid ""
+" This unit is capable of neutralizing the effects of poison in units around "
+"it."
+msgstr " 本单位能够中和周围单位身上的毒素。"
+
+msgid ""
+" This unit regenerates, which allows it to heal as though always stationed "
+"in a village."
+msgstr " 本单位能够再生，也就是可以治疗自己，就像一直驻扎在村庄里一样。"
+
+msgid ""
+" The steadiness of this unit reduces damage from some attacks, but only "
+"while defending."
+msgstr ""
+" 本单位的坚忍不拔使得他遭到某些攻击时受到的伤害下降，但这只在防御时有效。"
+
+msgid ""
+" The leadership of this unit enables adjacent units of the same side to deal "
+"more damage in combat, though this only applies to units of lower level."
+msgstr ""
+" 本单位的领导技能使得相邻的本方单位在战斗中造成更多的伤害，虽然这只对比本单位"
+"等级低的单位有效。"
+
+msgid ""
+" This unit’s skill at skirmishing allows it to ignore enemies’ zones of "
+"control and thus move unhindered around them."
+msgstr ""
+" 本单位的游击技能使其能够忽视敌人的控制区域，因而能毫无阻碍地在他们附近移动。"
+
+msgid " Illumination increases the lighting level in adjacent areas."
+msgstr " 照明技能会提升相邻区域的明亮程度。"
+
+msgid ""
+" This unit can use one move to teleport between any two empty villages "
+"controlled by its side."
+msgstr ""
+" 本单位可以花费一次移动机会，在任意两个属于本阵营的无人驻守的村庄之间移动。"
+
+msgid ""
+" In woodlands, this unit’s ambush skill renders it invisible to enemies "
+"unless it is immediately adjacent or has revealed itself by attacking."
+msgstr ""
+" 在树林中，本单位的伏击技能让敌人无法察觉到其存在，除非敌人与其紧邻。本单位在"
+"攻击时也会暴露自己。"
+
+msgid " This unit is able to hide at night, leaving no trace of its presence."
+msgstr " 本单位能够在夜晚隐匿身形，不留蛛丝马迹。"
+
+msgid ""
+" This unit can hide in villages (with the exception of water villages), and "
+"remain undetected by its enemies, except by those standing next to it."
+msgstr ""
+" 本单位可以隐藏在村庄里（水中村庄除外）而不会被敌人发觉，除了那些与他相邻的敌"
+"人之外。"
+
+msgid ""
+" This unit can move unseen in deep water, requiring no air from the surface."
+msgstr " 本单位可以在深水中移动而不被发现，他不需要呼吸水面上的空气。"
+
+msgid ""
+" This unit gains 1 hitpoint added to its maximum whenever it kills a living "
+"unit."
+msgstr " 本单位每杀死一个活体单位就会获得1点额外的最大生命值。"
+
+msgid ""
+" Whenever its berserk attack is used, this unit continues to push the attack "
+"until either it or its enemy lies dead."
+msgstr ""
+" 无论何时，只要本单位使用狂暴攻击，就将不停战斗，直到他或者他的对手被杀死。"
+
+msgid ""
+" If there is an enemy of the target on the opposite side of the target while "
+"attacking it, this unit may backstab, inflicting double damage by creeping "
+"around behind that enemy."
+msgstr ""
+" 如果目标被本单位和其他对其怀有敌意的单位前后包夹，本单位就可以悄悄绕到敌人背"
+"后并背刺之，造成双倍伤害。"
+
+msgid ""
+" Foes who lose their life to the plague will rise again in unlife, unless "
+"they are standing on a village."
+msgstr " 因瘟疫而丧生的敌人将重生为亡灵，除非他们在村庄里。"
+
+msgid ""
+" This unit is able to slow its enemies, halving their movement speed and "
+"attack damage until they end a turn."
+msgstr ""
+" 本单位能够使敌人减速，让他的移动速度和攻击伤害都减半，直到本回合结束。"
+
+msgid ""
+" The ability to turn the living to stone makes this unit extremely dangerous."
+msgstr " 把活人变成石头的能力使本单位变得极其危险。"
+
+msgid ""
+" This unit’s marksmanship gives it a high chance of hitting targeted "
+"enemies, but only on the attack."
+msgstr ""
+" 本单位的精准射术让他有很高的几率命中被瞄准的敌人，但只有在进攻时有效。"
+
+msgid ""
+" This unit has magical attacks, which always have a high chance of hitting "
+"an opponent."
+msgstr " 本单位拥有魔法攻击，该攻击总是有很高的几率能命中对手。"
+
+msgid ""
+" The swarming attacks of this unit become less deadly whenever its members "
+"are wounded."
+msgstr " 当本单位的成员受伤时，他们的成群攻击就不那么致命了。"
+
+msgid ""
+" Using a charging attack doubles both damage dealt and received; this does "
+"not affect defensive retaliation."
+msgstr " 冲锋攻击将使得输出与受到的伤害都加倍。这不会影响防御时反击的杀伤力。"
+
+msgid ""
+" During battle, this unit can drain life from victims to renew its own "
+"health."
+msgstr " 在作战时，本单位能够从受害者身上吸取生命以补充自己的体力。"
+
+msgid ""
+" The length of this unit’s weapon allows it to strike first in melee, even "
+"in defense."
+msgstr " 本单位的武器很长，使得他在近战中可以先发制人，甚至在防御时也是如此。"
+
+msgid ""
+" The victims of this unit’s poison will continually take damage until they "
+"can be cured in town or by a unit which cures."
+msgstr ""
+" 本单位的毒素的受害者们将持续地受到伤害，直到他们在城镇中治愈，或者被有此技能"
+"的单位治愈。"
+
+#. [trait]: id=loyal
+msgid "loyal"
+msgstr "忠诚"
+
+#. [trait]: id=loyal
+msgid "female^loyal"
+msgstr "忠诚"
+
+#. [trait]: id=loyal
+msgid "Zero upkeep"
+msgstr "无维护费用"
+
+#. [trait]: id=undead
+msgid "undead"
+msgstr "亡灵"
+
+#. [trait]: id=undead
+msgid "female^undead"
+msgstr "亡灵"
+
+#. [trait]: id=elemental
+#. [trait]: id=mechanical
+#. [trait]: id=undead
+msgid "Immune to drain, poison, and plague"
+msgstr "免疫吸血、毒素和瘟疫"
+
+#. [trait]: id=mechanical
+msgid "mechanical"
+msgstr "机械"
+
+#. [trait]: id=mechanical
+msgid "female^mechanical"
+msgstr "机械"
+
+#. [trait]: id=elemental
+msgid "elemental"
+msgstr "元素"
+
+#. [trait]: id=elemental
+msgid "female^elemental"
+msgstr "元素"
+
+#. [trait]: id=strong
+msgid "strong"
+msgstr "强壮"
+
+#. [trait]: id=strong
+msgid "female^strong"
+msgstr "强壮"
+
+#. [trait]: id=dextrous
+msgid "dextrous"
+msgstr "灵巧"
+
+#. [trait]: id=dextrous
+msgid "female^dextrous"
+msgstr "灵巧"
+
+#. [trait]: id=quick
+msgid "quick"
+msgstr "迅捷"
+
+#. [trait]: id=quick
+msgid "female^quick"
+msgstr "迅捷"
+
+#. [trait]: id=intelligent
+msgid "intelligent"
+msgstr "聪慧"
+
+#. [trait]: id=intelligent
+msgid "female^intelligent"
+msgstr "聪慧"
+
+#. [trait]: id=resilient
+msgid "resilient"
+msgstr "坚韧"
+
+#. [trait]: id=resilient
+msgid "female^resilient"
+msgstr "坚韧"
+
+#. [trait]: id=healthy
+msgid "healthy"
+msgstr "活力"
+
+#. [trait]: id=healthy
+msgid "female^healthy"
+msgstr "活力"
+
+#. [trait]: id=healthy
+msgid "Always rest heals"
+msgstr "总是能得到休息治疗"
+
+#. [trait]: id=fearless
+msgid "fearless"
+msgstr "无畏"
+
+#. [trait]: id=fearless
+msgid "female^fearless"
+msgstr "无畏"
+
+#. [trait]: id=fearless
+msgid "Fights normally during unfavorable times of day/night"
+msgstr "在不适应的时段（昼间/夜间）也能正常作战"
+
+#. [trait]: id=feral
+msgid "feral"
+msgstr "野生"
+
+#. [trait]: id=feral
+msgid "female^feral"
+msgstr "野生"
+
+#. [trait]: id=feral
+msgid "Receives only 50% defense in land-based villages"
+msgstr "在陆地村庄里只能拥有50%的闪避率"
+
+#. [trait]: id=weak
+msgid "weak"
+msgstr "虚弱"
+
+#. [trait]: id=weak
+msgid "female^weak"
+msgstr "虚弱"
+
+#. [trait]: id=slow
+msgid "slow"
+msgstr "缓慢"
+
+#. [trait]: id=slow
+msgid "female^slow"
+msgstr "缓慢"
+
+#. [trait]: id=dim
+msgid "dim"
+msgstr "愚笨"
+
+#. [trait]: id=dim
+msgid "female^dim"
+msgstr "愚笨"
+
+#. [trait]: id=aged
+msgid "aged"
+msgstr "年长"
+
+#. [trait]: id=aged
+msgid "female^aged"
+msgstr "年长"
+
+#. [race]: id=bats
+msgid "race^Bat"
+msgstr "蝙蝠"
+
+#. [race]: id=bats
+msgid "race+female^Bat"
+msgstr "蝙蝠"
+
+#. [race]: id=bats
+msgid "race^Bats"
+msgstr "蝙蝠"
+
+#. [race]: id=bats
+msgid ""
+"Bats come in many shapes and sizes, and most are fairly harmless, feeding on "
+"insects and other small animals. The larger and more vicious breeds are "
+"known to pose a threat to humans and other races as well as their livestock, "
+"especially when encountered in groups. Typically nocturnal, they are often "
+"kept (and occasionally tamed) by those who share their love of the night."
+msgstr ""
+"蝙蝠有多种不同的外形和大小，其中大部分都是基本无害的，只是吃昆虫和其他小动物"
+"为生。而现已确知，更大更凶残的蝙蝠种群对人类、其他种族以及他们的牲畜而言都是"
+"一种威胁，尤其是当它们成群袭来时。它们通常在夜间活动，也往往会被那些同样热爱"
+"夜晚的家伙们收留（有时是被驯养）。"
+
+#. [race]: id=drake
+msgid "race^Drake"
+msgstr "龙人"
+
+#. [race]: id=drake
+msgid "race+female^Drake"
+msgstr "龙人"
+
+#. [race]: id=drake
+msgid "race^Drakes"
+msgstr "龙人"
+
+#. [race]: id=drake
+#, fuzzy
+msgid ""
+"Drakes are large, winged and fire-breathing creatures, reminiscent of true "
+"dragons. On average, an adult drake stands around three meters tall and "
+"easily weighs more than a man and a horse combined. Their skin is made up of "
+"hard scales, resistant to most physical strikes except piercing and cold "
+"damage. Most drakes are capable of true flight and can travel long distances "
+"quickly. However, their sheer weight and bulk limits their flight ability "
+"somewhat, making them ungainly in the air. Where possible, they make use of "
+"terrain features such as hills, mountains and trees as launch points in "
+"order to gain greater height and speed. Fortunately for their enemies, they "
+"are still quite clumsy creatures and surprisingly slow in combat. This, "
+"combined with their large size, renders them easy targets for those who dare "
+"attack them.\n"
+"\n"
+"Drakes are inherently magical creatures, with a mysterious internal fire "
+"fueling their very lives. This can easily be witnessed when one of their "
+"kind perishes in combat; its internal fire is released, burning their "
+"remains in to ashes. Their internal fire is also their greatest weakness; it "
+"makes them extremely vulnerable to cold attacks. Despite their magical "
+"nature, drakes are incapable of channeling magic in a controlled manner. "
+"While the magic imbued within a drake’s body enables it to spit fire and "
+"gives it life, they have no willful control over the functions of this "
+"magic.\n"
+"\n"
+"<header>text='Society'</header>\n"
+"Drakes are a relatively warlike race and their societies can be best "
+"described as cultured martial societies. The core of a drake tribe is a "
+"small group of veteran warriors headed by a mutually respected — or simply "
+"feared — <ref>dst='dominant' text='dominant'</ref> who rules the society "
+"with an iron fist. Every drake is expected to earn their place in the strict "
+"hierarchy, to obey their superiors and command their inferiors. Entry to the "
+"ruling elite is only possible through challenging and defeating a superior "
+"in single combat, which is the way the hierarchy within the elite itself is "
+"established. The use of deception of any kind towards any fellow drake is, "
+"without exception, seen as cowardly and unacceptable.\n"
+"\n"
+"While their warlike nature and sense of territory drives them to defend "
+"their territories savagely, drakes rarely invade or trespass on areas "
+"already occupied by the other major races. Instead, they settle in "
+"unpopulated areas to establish their own territory there. They primarily "
+"feed on large game they hunt in the lowlands around their homes, but "
+"hatchlings and lower caste drakes are known to feed also on certain kinds of "
+"moss and fungi they cultivate deep in their caverns. The only technology "
+"drakes value is armor- and weapon-smithing, and neither know or need other "
+"science and culture besides this. However the few implements they do fashion "
+"are almost unrivaled in quality, only matched by those produced in the "
+"finest Dwarvish foundries.\n"
+"\n"
+"Drakes are hatched from eggs and usually live naturally between 20 to 30 "
+"years. Death in battle is the most preferred way for a drake to leave this "
+"world. Unlike the elder members of other races, drakes naturally grow more "
+"aggressive and reckless towards the ends of their natural lives, perhaps to "
+"help ensure their place in the heroic legends of their kind.\n"
+"\n"
+"<header>text='Geography'</header>\n"
+"Drakes originated from an archipelago of volcanic islands called "
+"<ref>dst='morogor' text='Morogor'</ref> in the <ref>dst='great_ocean' "
+"text='Great Ocean'</ref>. A combination of population pressure and the "
+"subsidence of many of their home islands has caused colonies of drakes to "
+"spread to the <ref>dst='great_continent' text='Great Continent'</ref>. "
+"Drakes tend to make their homes in mountain caverns near volcanoes to "
+"protect their eggs, hatchings and forges. While drakes naturally prefer "
+"warmth, their internal fire is more than capable of sustaining them even in "
+"a relatively cold climate, a feature which has allowed them to populate even "
+"some of the mountains of the far north of the Great Continent."
+msgstr ""
+"龙人是庞大，有翼，喷吐火焰的生物，是真正的巨龙的后裔。平允而言，成年龙人站起"
+"来大约有三米高，比一个人加一匹马的总重量还重得多。他们的皮肤由坚硬的鳞片组"
+"成，对穿刺和寒冰之外的绝大多数物理攻击都有很高的抗性。他们大多数都能真正地飞"
+"行，而且能快速地远距离移动。但龙人巨大的体重和身形似乎有些影响飞行能力，使得"
+"他们在空中有点儿笨拙。所以他们尽可能地从丘陵、山头或者树上起飞，以获得更高的"
+"高度和更快的速度。对于他们的敌人来说幸运的是，龙人仍然是很笨拙的生物，在战斗"
+"中速度出奇地缓慢。这个弱点，再加上大身材，使得对于那些胆敢袭击他们的家伙们而"
+"言，龙人是很容易对付的目标。\n"
+"\n"
+"龙人天生就是魔法生物，正是他们体内的神秘火焰滋养着他们的生命。当一个龙人战士"
+"在战斗中死去时，这一点很容易就能观察到：逝者体内的火焰会释放出来，将尸体燃烧"
+"殆尽。体内的火焰也是他们最大的弱点：这使他们极易被寒冰攻击所伤。虽然他们有魔"
+"力本能，但龙人却不能用可控的方式来使用魔法。尽管龙人体内的魔法使得他们可以吐"
+"火，也给了他们生命，但他们却不能有意识地控制这魔法的作用。\n"
+"\n"
+"<header>text='社会'</header>\n"
+"龙人是一个相对好战的种族，他们的社会可以准确地称为教化后的军事社会。龙人部落"
+"的核心由一小群经验丰富的老兵组成，并由一位与他们相互尊重的——或者只是相互畏惧"
+"的——<ref>dst='dominant' text='统御者'</ref>来领导，他用铁腕统治着龙人社会。龙"
+"人成员必须在这个严格的层级体系中争取自己的地位，服从上级，指挥下属。进入精英"
+"统治阶层的唯一可能性是单挑上级并取得胜利，这也是精英们内部层级体系的建立方"
+"法。针对龙人同胞的任何形式的欺骗，都毫无例外地被视为懦弱而不可接受的。\n"
+"\n"
+"虽然龙人好战的天性和对领土的敏感使得他们野蛮地捍卫自己的领地，但他们很少会入"
+"侵已经被其他主要种族占据的区域。相反，他们会在无人居住的地区定居，并建立自己"
+"的领地。他们主要猎取家园周边低地中的猎物为食，但刚孵化的幼仔和低等阶层的龙人"
+"也会在自己的洞穴里培养特定种类的苔藓和真菌，并以此来过活。龙人唯一看重的技术"
+"是铠甲和武器锻造，他们不知道也不需要除此之外的科学与文化。然而，他们所使用的"
+"那少数几种用具的质量几乎无可匹敌，只有最好的矮人铸造场的产品才可以比肩。\n"
+"\n"
+"龙人是从蛋中孵化出来的，通常有20至30年寿命。战死沙场是龙人最偏爱的离开这个世"
+"界的方法。和其他种族中的年长者不同的是，很自然地，龙人越接近寿命的极限就会越"
+"具侵略性而鲁莽，也许是为了奠定自己在部族的英雄传说中的地位吧。\n"
+"\n"
+"<header>text='地理'</header>\n"
+"龙人发源于<ref>dst='great_ocean' text='大洋'</ref>上的一片称为"
+"<ref>dst='morogor' text='莫罗戈'</ref>的火山岛链。人口压力和岛屿沉降使得他们"
+"的殖民地遍布于整个<ref>dst='great_continent' text='大陆'</ref>。龙人倾向于把"
+"他们的家安在火山附近的山洞中，以保护他们的蛋、幼崽以及铸造场。尽管龙人天生就"
+"喜欢温暖，但即使是在相对寒冷的气候里，他们体内的火焰也足以维持生命了。这一特"
+"点使得他们甚至能够在大陆极北的一些山脉里居住。"
+
+#. [race]: id=dwarf
+msgid "race^Dwarf"
+msgstr "矮人"
+
+#. [race]: id=dwarf
+msgid "race+female^Dwarf"
+msgstr "矮人"
+
+#. [race]: id=dwarf
+msgid "race^Dwarves"
+msgstr "矮人"
+
+#. [race]: id=dwarf
+msgid ""
+"The dwarves are a race famed for their miners, blacksmiths, merchants and "
+"warriors. Considered as the third oldest race on the great continent after "
+"the elves and trolls, their early history is shrouded in mystery. Legends "
+"tell of a time long forgotten when their people began emerging from their "
+"underground world through caves. Nothing is known about their life prior to "
+"their arrival, or their reasons for entering the surface world, but they "
+"have been an integral part of the history of the continent since. Soon after "
+"their emergence from the underground, the dwarves entered into conflict with "
+"the original inhabitants of the land, the elves. The original reason for "
+"their dispute has been lost to history, but the two races have since fought "
+"three long wars, interrupted by a few decades of peace. During these wars "
+"the dwarves could not dislodge the elves from the deep forests in the south, "
+"but managed to consolidate their position in hills and the mountains in the "
+"north of the continent, known now as the Northlands. Since then they have "
+"constructed fantastic fortifications and settlements deep within the "
+"mountains and crags of their territory.\n"
+"\n"
+"Possibly due to their isolation, the dwarves are generally distrustful or "
+"hostile towards most other races, particularly the elves. The single "
+"exception to this temperament is towards humans. This could be traced back "
+"to the era of Haldric I and the arrival of humans and orcs to the continent. "
+"At this point the dwarves began allowing some humans, mostly dissidents and "
+"outlaws from the Kingdom of Wesnoth, to settle in certain areas of the "
+"Northlands. Their motivation was unsurprising. The plight of these "
+"individuals reminded the dwarves of their early history of persecution, "
+"eliciting a sense of solidarity. The dwarves also had much to gain in "
+"forming a bond with these outcasts. They would settle in areas where dwarves "
+"disliked living themselves; plains, forests, and swamps, freeing them from "
+"defending these areas.\n"
+"\n"
+"Dwarves are of small stature by human measure, but they are by no means "
+"fragile. Their warriors, tough and powerful are both feared and respected "
+"throughout the continent for their prowess in battle. In addition, dwarves "
+"are known for their calculating intellects and superb craftsmanship. Dwarven "
+"smiths are renowned for their deadly weapons and heavy armor. These "
+"accouterments are unrivaled in quality, possibly only matched by those "
+"produced by drake armorers. Their intelligence and natural inquisitiveness "
+"has also made them the most technically advanced race on the continent. One "
+"of their most famous, and feared, discoveries was a mysterious powder that "
+"produces an immense explosion when exposed to fire or sparks. Certain dwarf "
+"warriors use this powder to hurl small objects at tremendous speeds. Given "
+"their technological inclinations, many dwarves tend to distrust magic users. "
+"However some practice a form of magic based on the engraving of runes. "
+"Called runesmiths, they use these carvings to enchant items in order to "
+"augment certain aspects of their natures."
+msgstr ""
+"矮人是一个以族中的矿工、铁匠、商人和战士闻名于世的族群，被认为是仅次于精灵和"
+"巨魔的大陆上第三古老的种族，他们的早期历史一直被笼罩在各种谜团之中。传说记述"
+"了那个早已被遗忘的远古年代，他们的族人穿过洞穴，从地下世界来到大陆，而有关他"
+"们在那之前的生活，一切都并不为人所知，他们来到地表世界的原因也同样是个谜。不"
+"过至此之后，矮人便成为了整个大陆历史不可或缺的一部分。矮人们从地底世界来到地"
+"表后不久，便和大陆上的原住民──精灵发生了冲突。这起纷争的真正原因早已流失在历"
+"史的长河之中，但可以肯定的是，此后两个种族之间爆发了三场旷日持久的战争，其间"
+"短暂的和平仅仅维系了数十年。漫长的战争期间，矮人始终无法将精灵从南方的密林之"
+"中驱离出去，但却成功地巩固了他们在大陆北方的山岳地区──也就是如今所称的“北方大"
+"陆”的势力范围。此后，他们在领地内的山峦崖壁深处构筑起了许多梦幻般的防御工事和"
+"居所。\n"
+"\n"
+"可能是由于与世隔绝的原因，矮人普遍对别的种族，尤其是精灵感到不堪信任甚至是怀"
+"有敌意，这一种族思维定势的唯一例外是人类。这可以追溯到哈德里克一世时代，当人"
+"类和兽人同时来到大陆的时候。当时矮人便开始允许一些人类，主要是来自韦诺王国的"
+"政治避难者和罪犯，在北方大陆的某些特定区域内安顿下来。矮人们的动机并不让人感"
+"到意外，这些人类当时所处的窘境不禁使矮人们回忆起他们在历史上曾经受到的迫害，"
+"这使得他们悻悻相惜。矮人们亦从他们和流亡者们之间的纽带关系中获益匪浅。他们会"
+"在矮人们不喜居住的地区定居下来，例如平原、树林以及沼泽，这让矮人们从防御这些"
+"地区的苦差事中解脱了出来。\n"
+"\n"
+"以人类的标准来衡量，矮人的身材都很短小，但他们一点儿都不脆弱，他们中的战士坚"
+"韧强悍，整个大陆的人们都对他们在战斗中表现出的高超技艺敬畏有加。除此之外，矮"
+"人的计算能力和卓越的工匠技术也为人所熟知。矮人铁匠们则因他们打造的致命武器和"
+"坚厚铠甲而闻名遐迩，这些军械在质量上无与伦比，可能只有龙人军械师的作品才能与"
+"之比肩。杰出的智慧和天生巨细靡遗一问到底的性格亦使矮人成为大陆上科技最为进步"
+"的种族。其中最有名也是最为骇人的矮人发明之一便是那一遇上火焰或是火花就能产生"
+"剧烈爆炸的神秘药粉。某些矮人战士使用这种药粉将小型物体以极高的速度推射出去。"
+"由于这种对于科技的偏好，许多矮人倾向于不信任那些魔法使用者。但是有一些矮人练"
+"习一种以雕刻符文为基础的魔法形式，他们被称为符文工匠，并使用这些雕刻来对物件"
+"施法，以增强它们的某些自然性质。"
+
+#. [race]: id=elf
+msgid "race^Elf"
+msgstr "精灵"
+
+#. [race]: id=elf
+msgid "race+female^Elf"
+msgstr "精灵"
+
+#. [race]: id=elf
+msgid "race^Elves"
+msgstr "精灵"
+
+#. [race]: id=elf
+msgid ""
+"Compared to humans, elves are somewhat taller, more agile but less sturdy. "
+"They have slightly pointy ears, pale skin and usually blond hair. Few "
+"differences between humans and elves are more pronounced than the Elves’ "
+"unusually long life — most, unless claimed by illness, accident or war, live "
+"a full two and a half centuries. While some elves possessing a high magical "
+"aptitude have been known to live an additional full century, most elves "
+"begin to grow physically frail at some point between 250 and 300 years of "
+"age and pass away rapidly (generally within a year or two) thereafter.\n"
+"\n"
+"Elves are naturally imbued with magic to a small degree. Though most are "
+"unable to channel it directly, its latent presence gives them their keen "
+"senses and long life. Many elves have magic-driven talents such as "
+"marksmanship or stealth, allowing them to achieve tasks that most normal "
+"beings would find astonishing. Those elves that learn to wield this power in "
+"more general ways can become truly formidable in its use. Many choose to use "
+"their gift to heal others.\n"
+"\n"
+"A few elves, venturing far down the paths of magic and mysticism, become "
+"sensitive to the presence of cold iron and can even be burned by it. Elvish "
+"legend hints that this was more common in the far past.\n"
+"\n"
+"Elves spend much of their time honing their talents and skills. Those not "
+"adept at the magical arts typically devote their time honing their physical "
+"skills. As a result, elves excel at archery, which is perhaps their most "
+"important method of warfare. Most elvish troops carry a bow and no other "
+"race can rival their archers in speed and accuracy. All elves also share an "
+"intense affection for unspoiled nature. They often feel uncomfortable in "
+"open unvegetated spaces. They live primarily in the forests of the Great "
+"Continent; the Aethenwood in the southwest, Wesmere in the northwest, and "
+"the great northern woods of which the Lintanir Forest is the southernmost "
+"edge.\n"
+"\n"
+"Elves are the eldest race of the continent, with the possible exception of "
+"trolls. Many of their settlements cannot be reliably dated, undoubtedly "
+"having existed for over a millennium."
+msgstr ""
+"相较于人类，精灵长得较高一些，行动更为敏捷，但是体格不如人类壮硕。他们有对尖"
+"长的耳朵，肤色较白，而且通常一头金发。精灵与人类之间的最大差别莫过于他们拥有"
+"非比寻常的寿命——除非死于疾病、意外或者战争，他们整整可以活两百五十年。大部分"
+"精灵活到出生后250年到300年间就开始迅速虚弱死亡（一般在一两年内），不过据了解"
+"一些拥有高魔法资质的精灵可以再多活一个世纪。\n"
+"\n"
+"精灵天生就有微弱的魔力，虽然大部分的精灵不会直接运用魔法，但这潜藏的魔力也会"
+"赋予他们灵敏的知觉以及极长的寿命。许多精灵拥有着魔法所产生的天赋，例如高超的"
+"射术或者匿踪能力，使他们能够完成令大多数生物惊讶的任务。那些学习将这些力量用"
+"于更通用的场合的精灵们会在这方面变得十分强大。很多精灵选择将这个天赋用于治疗"
+"他人。\n"
+"\n"
+"有少数精灵，因为在魔法与秘术的道路上走得太远，竟变得对冰冷的铁器十分敏感，甚"
+"至会被这些铁器烫伤。精灵族的传说暗示说，在遥远的过去，这种情况要常见得多。\n"
+"\n"
+"精灵们花很多时间来打磨他们的天赋与技能，不擅魔法的就将时间都花在锻炼身体技能"
+"上。因而精灵擅长射术，这可能是他们在战争中最重要的战斗方式。绝大多数精灵士兵"
+"都会携带一把弓，不论是在速度还是在精准度方面，没有任何一个其他种族可以跟精灵"
+"部队的弓箭手匹敌。所有的精灵都对没有被破坏的自然世界有种强烈的情感，在空旷而"
+"没有高大植被的地带里他们常常会觉得很不适应。精灵主要居住在大陆的森林中，像是"
+"西南边的埃森伍德，西北边的韦弥尔，以及以林坦尼森林为最南端的南部大森林地"
+"区。\n"
+"\n"
+"也许除了巨魔以外，精灵是这片大陆上最古老的种族。他们的许多定居点都无法确定究"
+"竟有多少年的历史，但毋庸置疑地都已经存在了超过一千年。"
+
+#. [race]: id=falcon, description=
+#, fuzzy
+msgid "race^Falcon"
+msgstr "人类"
+
+#. [race]: id=falcon, description=
+#, fuzzy
+msgid "race+female^Falcon"
+msgstr "人类"
+
+#. [race]: id=falcon, description=
+#, fuzzy
+msgid "race^Falcons"
+msgstr "人类"
+
+#. [race]: id=goblin
+msgid "race^Goblin"
+msgstr "地精"
+
+#. [race]: id=goblin
+msgid "race+female^Goblin"
+msgstr "地精"
+
+#. [race]: id=goblin
+msgid "race^Goblins"
+msgstr "地精"
+
+#. [race]: id=goblin
+msgid ""
+"Goblins are, despite their appearance, born as siblings to the orcs and "
+"members of the same race. While other races usually bear children singly or "
+"in pairs, orcs will have large litters of children all at once, causing "
+"their populations to explode rather quickly. Within any litter, there will "
+"only be one or two true orcs, who will grow to the full size and strength of "
+"their race. A few more will be half-orcs, notably weaker than their big "
+"brothers, and relegated to supporting roles in combat, such as archery. The "
+"rest, often a full half of more of any litter, will be goblins. Goblins are "
+"puny and quite frail, rarely growing past the size and stature of a human "
+"child. Goblins are born into a lifetime of near-slavery to their larger kin, "
+"and used as sword-fodder in battle. They thrive in spite of their tragic "
+"fate; in part because they are so very numerous, and also because their "
+"brother orcs are well aware how dependent they are on the goblins.\n"
+"\n"
+"Goblins perform the bulk of manual labor needed by the orcs, with the sole "
+"exception of jobs that require the brute strength of true orcs. Those the "
+"orcs revel in as proof of their prowess."
+msgstr ""
+"虽然外表上有区别，但地精天生就是兽人的兄弟，是同一种族的成员。其他种族通常只"
+"会抚养一个或一对孩子，但兽人却会一下子抚养一大窝后代，以至于他们的人口很快便"
+"会爆炸。在任一窝后代中，只会有一个或两个真正的兽人，他们将成长到与种族中其他"
+"成员拥有一样的身材和力量。另一些将成为半兽人，与身躯庞大的兄弟们相比，他们明"
+"显地弱小，在战斗中只能降格担任支援角色，例如弓箭手。而剩下的那些，通常是一窝"
+"后代中的一半或者更多，则会成为地精。地精又小又脆弱，很少能长过人类孩童的身"
+"材。他们天生就要为那些大号的同类过一辈子近乎于奴隶的生活，在战斗中也被当成炮"
+"灰。虽然命运悲惨，但地精仍旧欣欣向荣：这一部分是由于他们的数量实在太多，也是"
+"因为他们的兄弟兽人十分清楚自己是多么需要依靠地精才能存活。\n"
+"\n"
+"地精们负责完成兽人所需的大部分体力劳动，只除了那些需要真正兽人的蛮力的工作以"
+"外。兽人们很陶醉于这类能证明自己强大力量的工作。"
+
+#. [race]: id=gryphon, description=
+msgid "race^Gryphon"
+msgstr "狮鹫"
+
+#. [race]: id=gryphon, description=
+msgid "race+female^Gryphon"
+msgstr "狮鹫"
+
+#. [race]: id=gryphon, description=
+msgid "race^Gryphons"
+msgstr "狮鹫"
+
+#. [race]: id=human
+msgid "race^Human"
+msgstr "人类"
+
+#. [race]: id=human
+msgid "race+female^Human"
+msgstr "人类"
+
+#. [race]: id=human
+msgid "race^Humans"
+msgstr "人类"
+
+# TODO this is not checked by sylecn.
+#. [race]: id=human
+msgid ""
+"The race of men is an extremely diverse one. Although they originally came "
+"from the Old Continent, men have spread all over the world and split into "
+"many different cultures and races. Although they are not imbued with magic "
+"like other creatures, humans can learn to wield it and able to learn more "
+"types than most others. They have no extra special abilities or aptitudes "
+"except their versatility and drive. While often at odds with other races, "
+"they can occasionally form alliances with the less aggressive races such as "
+"elves and dwarves. The less scrupulous among them do not shrink back from "
+"hiring orcish mercenaries, either. They have no natural enemies, although "
+"the majority of men, like most people of all races, have an instinctive "
+"dislike of the undead. Men are shorter than the elves, but taller still than "
+"dwarves. Their skin color can vary, from almost white to dark brown.\n"
+"\n"
+"<header>text='Subjects of the Crown'</header>\n"
+"Many different groups of men exist, but the majority of them on the Great "
+"Continent live under the rule of the Crown of Wesnoth. The humans first "
+"appeared on the Great Continent from a land far across the ocean to the "
+"West, the Green Isle, and soon established their capital at the inland city "
+"of Weldyn. Over the following centuries they have built up a number cities "
+"across the continent. The soldiers from the Crown of Wesnoth protect the "
+"country, forming the most organized military force in the known world. Its "
+"warriors come from the main provinces, where all men are conscripted at an "
+"early age.\n"
+"\n"
+"<header>text='The Clansmen'</header>\n"
+"The eastern provinces of Wesnoth, known as the Clan Homelands, have a "
+"geography consisting of more open plains and rolling hills than the western, "
+"more civilized provinces. They are home to the Horse Clans, who are allied "
+"with the Crown of Wesnoth but operate independently and maintain their own "
+"identity. Some consider them to be a tributary state, which sends food and "
+"soldiers to Crown in exchange for protection. Others say they are on equal "
+"footing with the western half of Wesnoth. In any case, the eastern provinces "
+"do not have a conscript army the way Western Wesnoth does. Training for "
+"fighting is part of the way of life of the Clans; the parents teach the "
+"children to ride horses, fight and shoot a bow from an early age. In "
+"general, the Clan warriors are less organized than the civilized fighters, "
+"and the strengths and weaknesses of these groups complement each other."
+msgstr ""
+"人类是一个充满着多样性的种族。虽然他们最初来自旧大陆，但却遍布这个世界，并分"
+"裂成许多不同的文化和种族。尽管并不像别的生物那样有天生的魔力，但人类同样可以"
+"学习并掌握魔法，而且比绝大多数其他种族所能学到的种类更多。他们并没有任何特殊"
+"的能力或者资质，除了高超的适应能力和毅力。虽然往往与其他种族相处并不融洽，他"
+"们也偶尔可以和一些不那么有侵略性的种族结盟，比如精灵和矮人。而且人类之中不太"
+"谨慎的家伙们也不会拒绝雇佣兽族佣兵。他们没有天敌，不过大多数人类和其他所有种"
+"族中的大部分成员一样本能地厌恶亡灵。人类比精灵矮，但还是比矮人高。他们的皮肤"
+"颜色各不相同，从近乎白色到深棕色都有。\n"
+"\n"
+"<header>text='王国属民'</header>\n"
+"有许多不同的人类群体存在着，但居住于大陆上的人类中的绝大部分是在韦诺王国的统"
+"治下生活。最初来到大陆的人类来自于绿岛，一块远在大洋之西的土地，他们上岸后很"
+"快便在内陆城市维尔帝建立了首都。在接下来的几个世纪中，人类在大陆各处建立了一"
+"些城市。韦诺王国的士兵们保卫着这个国家，形成了已知的世界中最有组织的军事力"
+"量。战士们来自于王国的主要省份，在那里所有的男人都在很小的年纪就被征召入"
+"伍。\n"
+"\n"
+"<header>text='氏族成员'</header>\n"
+"韦诺的东部省份称被为氏族的家乡，那里和西部更文明的省份相比，有着更多开放的平"
+"原和连绵起伏的丘陵，是马上氏族的家园。他们与韦诺王国结盟，但独立运作，也保持"
+"着自己的身份。有些人把他们当做附庸国，向王国进贡食物和士兵以换取保护。而其他"
+"人说他们与韦诺的西半边平起平坐。不管怎么说，东部省份并没有一支像西韦诺那样的"
+"由义务兵组成的军队。为战斗而训练就是氏族的生活方式：从孩子的幼年开始，父母就"
+"教导他们骑马、格斗和射箭。一般来说，氏族武士们的组织性要比文明社会的战士们差"
+"一些，而他们可以互相取长补短。"
+
+#. [race]: id=khalifate
+#, fuzzy
+msgid "race^Khalifate Human"
+msgstr "人类"
+
+#. [race]: id=khalifate
+#, fuzzy
+msgid "race+female^Khalifate Human"
+msgstr "人类"
+
+#. [race]: id=khalifate
+#, fuzzy
+msgid "race+plural^Khalifate"
+msgstr "机械"
+
+#. [race]: id=khalifate
+msgid "This race does not have a description yet."
+msgstr ""
+
+#. [race]: id=lizard, description=
+msgid "race^Saurian"
+msgstr "蜥蜴人"
+
+#. [race]: id=lizard, description=
+msgid "race+female^Saurian"
+msgstr "蜥蜴人"
+
+#. [race]: id=lizard, description=
+msgid "race^Saurians"
+msgstr "蜥蜴人"
+
+#. [race]: id=mechanical
+msgid "race^Mechanical"
+msgstr "机械"
+
+#. [race]: id=mechanical
+msgid "race+plural^Mechanical"
+msgstr "机械"
+
+#. [race]: id=mechanical
+msgid ""
+"Animated neither by natural life nor by necromancy, the term "
+"<italic>text='mechanical'</italic> describes a created artifact of an "
+"intelligent being. Most mechanical things neither move nor think on their "
+"own, but some do so as a result of magical enchantment."
+msgstr ""
+"术语<italic>text='机械'</italic>描述了一种由智慧生物创造出来的加工品，它们既"
+"不是由自然的生命，也不是由死灵术来驱动的。绝大多数机械物体都不会自主移动或者"
+"思考，但有一些会由于魔法影响而能够如此。"
+
+#. [race]: id=merman
+msgid "race^Merman"
+msgstr "人鱼"
+
+#. [race]: id=merman
+msgid "race^Mermaid"
+msgstr "人鱼"
+
+#. [race]: id=merman
+msgid "race^Mermen"
+msgstr "人鱼"
+
+#. [race]: id=merman
+msgid ""
+"Something like a fusion between humans and fish, the merfolk are an "
+"enigmatic race with both piscine and humanoid attributes. They have strong "
+"tails that lend themselves to quick movement in any watery environment while "
+"their dextrous hands and intelligent minds allow fine craftsmanship and "
+"toolmaking. Semi-aquatic by nature, merfolk can breathe both water and air "
+"without difficulty. Despite being able to survive on land, they are much "
+"quicker and more agile in the water and will rarely be found far from the "
+"ocean. They are typically wary of dry land, as they are awkward and clumsy "
+"there and they struggle greatly to move over rough or forested terrain."
+msgstr ""
+"人鱼似乎是人和鱼的混合体，是一个同时具有鱼类和人类特性的神秘种族。他们拥有强"
+"壮的尾巴，可以在任何水域中快速移动，而灵巧的手和聪慧的心让他们拥有了高超的技"
+"艺和制造工具的能力。人鱼天生就是半水生的，他们可以毫无困难地呼吸水或者空气。"
+"虽然能够在陆地上存活，但他们在水中要敏捷灵巧得多，也几乎不会在远离大洋的地方"
+"被发现。人鱼通常会很小心干燥的陆地，因为在那儿他们会变得十分笨拙。而通过起伏"
+"的地形或林地，对他们而言也是一件天大的苦差。"
+
+#. [race]: id=monster
+msgid "race^Monster"
+msgstr "怪物"
+
+#. [race]: id=monster
+msgid "race+female^Monster"
+msgstr "怪物"
+
+#. [race]: id=monster
+msgid "race^Monsters"
+msgstr "怪物"
+
+#. [race]: id=monster
+msgid ""
+"The term “monster” incorporates many hideous beasts that haunt the caves, "
+"wilderness, ocean depths, and other climes of the world. They figure largely "
+"in the tales and nightmares of its denizens, as well."
+msgstr ""
+"术语“怪物”中包含了很多可怕的野兽。它们经常出没于洞穴、荒野、大洋深处以及世界"
+"的其他地方，同样地，也经常出没于世界住民的传说和梦魇之中。"
+
+#. [race]: id=naga
+msgid "race^Naga"
+msgstr "娜迦"
+
+#. [race]: id=naga
+msgid "race^Nagini"
+msgstr "娜迦"
+
+#. [race]: id=naga
+msgid "race^Nagas"
+msgstr "娜迦"
+
+#. [race]: id=naga
+msgid ""
+"The serpentine nagas are one of the least understood races of the Great "
+"Continent. Part of this is due to their xenophobic nature and part is due to "
+"their alien environment. Nagas are one of the few races capable of any "
+"meaningful mobility in water, giving them access to a whole world "
+"effectively forbidden to land dwellers and further separating them from the "
+"terrestrial beings that they shun. Still, they are not true creatures of the "
+"sea, and their inability to breathe water leaves them in trepidation of the "
+"abyss. Living in coastal areas gives them an escape route on land against "
+"denizens of the deep while keeping them out of reach of those who travel by "
+"foot, wing, and hoof. Although nagas are somewhat frail in form, they are "
+"often faster and more nimble than their opponents. They sometimes find "
+"themselves at odds with merfolk when their territories overlap, but overall "
+"nagas tend to favor swamps and rivers as much as open water."
+msgstr ""
+"蛇形的娜迦是大陆上最不被了解的种族之一。这一部分是由于他们害怕外族的天性，一"
+"部分是由于他们赖以生存的异域。娜迦是仅有的几个确实称得上能够在水中移动的种族"
+"之一。这让他们能够探访陆地居民事实上无法接触的世界，也让他们进一步远离了他们"
+"所想要躲开的陆生生物。然而，他们并不是真正的海洋生物，无法在水中呼吸，因而十"
+"分害怕深渊。娜迦居住在海岸区域，当来自海洋深处的威胁到来时，便有了逃脱的路"
+"径，同时，这也让他们免受靠脚、翅膀或者蹄子来行动的生物的打扰。虽然娜迦的体格"
+"稍显脆弱，但却常常比对手们更快更敏捷。有时，当他们的领地和人鱼的重叠之时，双"
+"方便会冲突起来，但总的来说娜迦对沼泽以及河流的偏爱程度和对开放水域的偏爱程度"
+"是一样的。"
+
+#. [race]: id=ogre
+msgid "race^Ogre"
+msgstr "食人魔"
+
+#. [race]: id=ogre
+msgid "race+female^Ogre"
+msgstr "食人魔"
+
+#. [race]: id=ogre
+msgid "race^Ogres"
+msgstr "食人魔"
+
+#. [race]: id=ogre
+#, fuzzy
+msgid ""
+"Ogres are a wild and uncivilized race who dwell mainly in the wilderness of "
+"the Great Continent. Physically, they resemble humans and orcs but are "
+"larger and stronger. Even their adolescents are more than a match for most "
+"men. Ogres are distrusted in many populated areas and usually either avoid "
+"them or are driven out by force. Instead, they lurk the mountainous areas on "
+"the edges of civilization, where hungry ogre bandits provide a constant "
+"threat to travelers and caravans. While ogres are not particularly "
+"intelligent or quick, their toughness and physical strength make them a "
+"valuable asset in the armies of other races. They are especially valued by "
+"more ruthless commanders who don’t mind the ogres’ brutality. Little is "
+"known about their biology or society, if they can truly be said to have one, "
+"but they are said to attack alongside wolves and other beasts. Whether this "
+"is a sign of cooperation, domestication, or simply mutual opportunism is not "
+"known."
+msgstr ""
+"食人魔是野蛮而未开化的种族，主要居住在大陆的荒野之中。在体格上，他们长得很像"
+"人类和兽人，但体型更大也更强壮。就连少年食人魔都要比绝大多数人都来得壮实。食"
+"人魔在许多人口众多的地方都不受信任，因此常常会避开这些区域，或者被强行赶出"
+"去。他们转而蛰伏于文明边缘的山区之中，在这些地方，饥饿的食人魔土匪对旅行者和"
+"商队造成了持续性的威胁。虽然食人魔们并不特别聪慧或者敏捷，但强壮的身躯和强大"
+"的力量使得他们成为了其他种族军队中的重要一员。他们特别受到那些残忍的指挥官们"
+"的偏爱，这些人根本不在意食人魔的暴虐。关于他们的生理特性和社会结构，人们所知"
+"甚少——如果真的可以认为他们有一个社会的话——但有人说他们会和狼以及其他野兽一起"
+"发动袭击。尚不清楚这究竟标志着合作、驯化，还是单纯的相互利用。"
+
+#. [race]: id=orc
+msgid "race^Orc"
+msgstr "兽人"
+
+#. [race]: id=orc
+msgid "race+female^Orc"
+msgstr "兽人"
+
+#. [race]: id=orc
+msgid "race^Orcs"
+msgstr "兽人"
+
+#. [race]: id=orc
+msgid ""
+"In appearance, orcs are half men and half beasts. They are taller, sturdier "
+"and stronger than humans. They are warlike, savage, and cruel by nature. "
+"Their blood is darker and thicker than that of normal humans and they have "
+"little care for personal hygiene or their personal appearance. Although Orcs "
+"are violent even among themselves creatures, they are pack-oriented; an orc "
+"never travels long or lives alone in groups smaller than half a dozen.\n"
+"\n"
+"<header>text='Society'</header>\n"
+"Almost every orc are a member of a tribe or a clan. Relations between "
+"neighboring tribes are usually violent, except in cases of a mutual enemy "
+"threatens their existence or prospects of great plunder override mutual "
+"animosity. Occasionally, a single strong chieftain may emerge to lead "
+"multiple tribes from time to time, usually through intimidation of "
+"followers. An orc tribe in times of peace tends to focus almost solely on "
+"strengthening itself in preparation for the next armed conflict. Orcs are "
+"known to possess a crude system of writing — usually in blood — although "
+"it’s most commonly used to trade insults or threats among tribal leaders.\n"
+"\n"
+"Orc societies are based on little else but strength; might makes right, and "
+"a leader leads and survives only as long as no one manages to wrest the "
+"title from him. A constant struggle for power simmers among potential tribal "
+"chiefs. An orcish leader rarely lives more than a handful of years to enjoy "
+"his absolute authority before being killed for his position — although "
+"history knows some notable exceptions. Orcs hold no particular honor code "
+"and while indisputable raw strength is usually the preferred method of "
+"displaying power, assassination, poisoning and backstabbing are completely "
+"viable means to further one’s own goals.\n"
+"\n"
+"Orcs mostly live in rural areas, often in foothills or mountainous regions, "
+"sometimes in caves. They grow no crops nor keep livestock, but are competent "
+"hunters as a result of their physical stature and brutality. Due to their "
+"large numbers they are capable of hunting an area virtually clean of "
+"anything larger than rodents in relatively short period of time. Due to this "
+"and their unstable leadership, orcish tribes tend to lead a semi-nomadic "
+"lifestyle, never settling in one region for too long. The larger tribes may "
+"establish themselves firmly in an area for years or even decades and build "
+"large encampments almost resembling cities, but even these are easily "
+"dismantled and abandoned if there is a need to relocate the horde.\n"
+"\n"
+"The oldest known orcs have been around 50 to 60 years of age, but very few "
+"individuals ever live to see over two or three decades before meeting their "
+"end either in war or by the hand of one of their kin. The oldest orcs are "
+"often shamans, which are perhaps the only ones most of their kind sees as "
+"being trustworthy and neutral. The origins of this custom are unknown, as "
+"the shamans do not directly contribute much to orcish societies but only act "
+"as advisors — not something orcs tend to otherwise tolerate. Shamans are in "
+"many ways the opposite of most other orcs: they are often physically "
+"withered and frail in comparison and lack skill in battle. Despite their "
+"reliance on raw strength, not nearly all orcs are destined to grow to "
+"possess any. Many orcs are born smaller and weaker than the rest, and "
+"already almost as newborns are put in their place by their stronger "
+"siblings. The stronger ones will routinely grab most of the food and thus "
+"grow stronger still, while their weaker siblings do not. Many of these "
+"individuals tend to specialize in other skills, like archery or "
+"assassination."
+msgstr ""
+"从外表上看，兽人们是半人半兽。他们比人类更高更壮，而且天性好战，野蛮而残酷。"
+"他们的血液比普通的人类更黑更浓，而且很不在意个人卫生以及形象。尽管兽人是一种"
+"甚至对自己人都很暴力的生物，但他们还是成群生活：一个兽人永远不会独自旅行很"
+"远，少于六人的兽人群体也不存在。\n"
+"\n"
+"<header>text='社会'</header>\n"
+"几乎每个兽人都是一个部落或氏族的成员。邻近部落之间的关系通常充满着暴力，但当"
+"共同的敌人威胁他们的生存或者似乎要大加劫掠时，他们也会暂时压下相互之间的敌"
+"意。有时候，一位强大的酋长会出现并领导多个部落，他们通常是通过恐吓追随者而做"
+"到这一点的。在和平时期，一个兽人部落往往把几乎所有的精力都集中于加强自身，为"
+"下次武装冲突做准备。兽人拥有原始的书写系统──通常是血书——虽然这最常用于在部落"
+"领袖之间交换侮辱性或者威胁性的言辞。\n"
+"\n"
+"兽人社会几乎只依赖强力。力量就是正义，只有当没有人能够从领导者那里抢走头衔"
+"时，他们才能领导自己的部落，也才能活着。持续不断的权力斗争在潜在的部落酋长之"
+"间沸腾着。在被夺权者杀死之前，一个兽人首领很少能多活几年以享受自己的绝对权威"
+"──尽管历史上也有几个著名的例外。兽人没有特定的荣誉守则，虽说不可质疑的强大蛮"
+"力是显示实力的常用手段，但为了达成个人的目的，行刺、下毒或者背后捅刀子也都是"
+"完全可行的。\n"
+"\n"
+"兽人通常生活在野外，在山脚下的丘陵地带或者多山的区域，有时候也会在洞穴里。他"
+"们既不种植作物也不饲养家畜，但身材和残忍的本性让他们成了很在行的猎手。拜他们"
+"庞大的数量所赐，兽人能够在相对很短的时间里把一大片地区内比啮齿动物体型大的猎"
+"物几乎都打个精光。由于这一原因，也由于领导权不稳定的缘故，兽人部落往往采用半"
+"游牧的生活方式，不会在一个区域里待太久。较大的部落可以在一个地区内建立牢固的"
+"势力范围，延续多年甚至几十年，并建造起几乎可以和城市媲美的大型宿营地。但如果"
+"有迁移部落的必要，那么甚至这些宿营地都是可以轻易拆除并抛弃的。\n"
+"\n"
+"已知最年长的兽人可以活到五、六十岁，但是只有极少数个体能活过二、三十年，其间"
+"他们大有可能死在战场上或者同族人手里。最年长的兽人多数是萨满，因为他们或许是"
+"唯一被同类认为值得信赖而保持中立的人。这种风俗的起源不得而知，因为萨满并不直"
+"接为兽人社会做出多少贡献，而只是扮演顾问的角色──这并不是兽人们通常会容忍的行"
+"为。从很多方面来讲，萨满都是绝大多数其他兽人的对立面：相比较而言，他们的身体"
+"常常是干瘦而虚弱的，而且缺乏战斗能力。尽管兽人很依赖蛮力，但并非所有的兽人都"
+"有足够的好运来获得它。很多兽人生来比其他族人虚弱瘦小，还是新生儿的时候其地位"
+"就已经被他们那些强壮的兄弟们决定了。强壮的兽人将总是能抢占到绝大部分食物，因"
+"此将越长越强壮，而他们虚弱的兄弟就不是这样了。这些虚弱的个体倾向于专精其他的"
+"技能，例如射术或者暗杀。"
+
+#. [race]: id=troll
+msgid "race^Troll"
+msgstr "巨魔"
+
+#. [race]: id=troll
+msgid "race+female^Troll"
+msgstr "巨魔"
+
+#. [race]: id=troll
+msgid "race^Trolls"
+msgstr "巨魔"
+
+#. [race]: id=troll
+msgid ""
+"Trolls are ancient creatures, one of the oldest known races known to inhabit "
+"the Great Continent. They are large, slow, simple-minded, and live extremely "
+"long lives inside deep caves or atop high mountains. The most unique "
+"characteristic of trolls is an internal vitality that sustains and heals "
+"them from within. As a result they live very different lives from almost any "
+"known creature. Trolls have few real needs: they require little food or "
+"water, and thus they have little incentive to pursue much besides protection "
+"from those who are hostile towards them. This in turn means they rarely have "
+"to worry about anything and can spend much of their time sleeping or in "
+"contemplation. Trolls have a curious affinity with nature. They do not "
+"relate with living things like elves do, but instead with earth and stone. "
+"They are also somewhat curious of their surroundings and many younger whelps "
+"even enjoy traveling and seeing the world. As trolls grow older they tend to "
+"become increasingly passive, gradually losing interest in their environment "
+"and spending more of their time sleeping in a quiet, familiar corner of "
+"their home cave. This is until they finally pass away as their bodies "
+"themselves slowly turn into lifeless statues of stone.\n"
+"\n"
+"Trolls are seen by many as being little more than yet another race of savage "
+"monsters. This common misconception is in part perpetuated by orcs to "
+"persuade trolls to join their armies. Because they are rather simple and do "
+"not understand the ways of other races or sometimes can even tell them "
+"apart, it is usually easy for an orcish band to convince a group of trolls "
+"that by joining them they get to exact revenge on those that have before "
+"hunted them. These new recruits are then directed to attack whoever the orcs "
+"themselves are currently in conflict with, whether previously a foe of the "
+"trolls or not, accumulating even more enemies for the misled trolls. The "
+"most common enemy of trolls are dwarves, and the animosity between these two "
+"races is ancient.\n"
+"\n"
+"<header>text='Geography'</header>\n"
+"Trolls have inhabited the mountains of the Great Continent longer than the "
+"dwarves who migrated there. Trolls are a common sight on the mountain ranges "
+"north and east of Wesnoth, and wherever Orcish hordes travel."
+msgstr ""
+"巨魔是远古生物，已知的在大陆定居的最古老种族。他们庞大，缓慢，思维简单，寿命"
+"极为长久，深居洞穴之中或着高居山峰之上。巨魔最独特的特征是体内的某种生命力，"
+"能够自内而外地支撑并治疗他们。其结果是他们的生活方式和绝大多数已知生物都不"
+"同。巨魔只有很少的实际需求：他们几乎不需要食物和水，因此除了保护自己不受恶意"
+"人士伤害之外，没什么动机去追求其他事物。这反过来就表示他们几乎不需要担心任何"
+"事，而可以把大量的时间花在睡觉或者沉思上。巨魔对大自然有一种特别的好奇心。他"
+"们并不像精灵那样与活着的事物有联系，而是和土地与岩石有联结。他们对周遭的事物"
+"也有点好奇，很多幼崽甚至乐于旅行，乐于亲眼看世界。随着巨魔渐渐长大，他们也倾"
+"向于变得越来越消极，逐渐对环境失去了兴趣，而把更多的时间用于在自家洞穴某个熟"
+"悉的角落里睡觉，直到身体缓慢地变成无生命的石像，他们也就最终逝去了。\n"
+"\n"
+"巨魔常常被很多人认为不过是又一个野蛮的怪物种族而已。这种常见的误解顽固不化的"
+"原因之一，是兽人总会劝说巨魔加入他们的军队。巨魔的思维很简单，不理解其他种族"
+"的生存之道，有时甚至都不能把他们区分开来，因此兽人战团想要说服巨魔通常是很容"
+"易的。而巨魔们也就相信，加入兽人部队之后就可以向那些曾经追捕过自己的人复仇"
+"了。接着这些新兵就被派去攻击任何正与兽人们起冲突的人，不管他们原本是不是巨魔"
+"的敌人。于是对被误导的巨魔来说，敌人越来越多了。巨魔们最常见的敌人是矮人，这"
+"两个种族之间的敌意可以上溯到上古时期。\n"
+"\n"
+"<header>text='地理'</header>\n"
+"在矮人们移居到大陆的山脉里之前，巨魔们就已经在这些地方定居了。巨魔在韦诺北方"
+"和东方的山脉里很常见，在兽人部落经过的地方也是如此。"
+
+#. [race]: id=undead
+msgid "race^Undead"
+msgstr "亡灵"
+
+#. [race]: id=undead
+msgid "race+female^Undead"
+msgstr "亡灵"
+
+#. [race]: id=undead
+msgid "race+plural^Undead"
+msgstr "亡灵"
+
+#. [race]: id=undead
+#, fuzzy
+msgid ""
+"Undead are not really a single race of creatures, although often treated as "
+"such. Almost any dead creature can, by a sufficiently skilled necromancer, "
+"be reanimated and rise again in undeath. Undead are for the most part "
+"unnatural but mindless constructs, obeying whoever created them without "
+"question nor thought. A greater mystery of necromancy is in how constructs "
+"are sustained without continuous effort from the necromancer. An undead "
+"creature does not require the constant attention of the necromancer to "
+"command and sustain, but can work autonomously according to the commands of "
+"its master. Only rarely, perhaps once every few months, does the necromancer "
+"need to maintain his creation.\n"
+"\n"
+"Necromancy is almost solely limited to humans. Even the legends of magically "
+"apt races like elves and mermen tell of very few of their kind who have ever "
+"delved in the dark arts. It is surmised that necromantic magic requires "
+"great adaptability and a flexible mind, extremes of which are most commonly "
+"found in humans. The ultimate goal of most necromancers is to turn the same "
+"art of preserving and imbuing life upon themselves, to alter themselves at "
+"whatever cost, to ultimately escape death by preserving their own mind and "
+"spirit.\n"
+"\n"
+"<header>text='Geography'</header>\n"
+"While undead lords arrived on the Great Continent in considerable numbers "
+"only in the wake of Haldric I, they were not completely unheard of by elves "
+"and dwarves before that."
+msgstr ""
+"亡灵事实上并不是一个单一的种族，尽管经常被当成是这样。几乎任何死去的生物都可"
+"以被一个足够强大的死灵法师召回并成为亡灵。亡灵基本上是非自然而没有心智的存"
+"在，只听从创造它们的人的命令，从不会质疑，也不懂得思考。死灵术的重要秘密之"
+"一，就是在死灵法师并没有持续地施法的情况下，这些存在是如何维持自身的。亡灵生"
+"物不需要死灵法师的持续关注、具体操纵或者维持，但可以自动地按照主人的命令来行"
+"动。只有在很少见的情况下，也许是每过几个月，死灵法师才需要才维护一次他创造出"
+"来的东西。\n"
+"\n"
+"死灵术几乎只有人类才会研习。就连有魔法倾向的种族，比如精灵和人鱼的传说中，都"
+"几乎没有他们的族人研习黑魔法的记载。有人推测说，死灵术需要非常好的适应能力以"
+"及灵活的思维，而在这些方面超常的个体在人类之中最最常见。绝大多数死灵法师的终"
+"极目标是将这种保留和注入生命的技艺用在自己身上。他们改变自身以逃脱死亡，不论"
+"付出什么代价，都要将自己的心智和灵魂保留下来。\n"
+"\n"
+"<header>text='地理'</header>\n"
+"虽然直到哈德里克一世的时代，才开始有大批亡灵领主到达大陆，但在那之前，精灵和"
+"矮人们并非没有听说过他们。"
+
+#. [race]: id=wolf, description=
+msgid "race^Wolf"
+msgstr "狼族"
+
+#. [race]: id=wolf, description=
+msgid "race+female^Wolf"
+msgstr "狼族"
+
+#. [race]: id=wolf, description=
+msgid "race^Wolves"
+msgstr "狼族"
+
+#. [race]: id=wose
+msgid "race^Wose"
+msgstr "树人"
+
+#. [race]: id=wose
+msgid "race^Woses"
+msgstr "树人"
+
+#. [race]: id=wose
+msgid ""
+"The mighty wose resides within the deepest forests of the known world. To "
+"the untrained eye, the wose appears to be nothing more than an oddly shaped, "
+"yet noble, tree. As guardians of the forest, the woses share a deeper "
+"connection to the woodlands than even the elves. While the woses are a "
+"peaceful race, disturbance of the ancient forests, which they tend, will "
+"incite the wrath of nature itself. Woses are slow moving creatures that may "
+"spend centuries standing in one location undisturbed by the ebb and flow of "
+"time.\n"
+"\n"
+"Although they practice no magic of their own, the woses share a deep "
+"connection to faerie. What little is known of this ancient race comes from "
+"elvish scholars who believe that this mystical power, which the mightiest "
+"elves have dedicated their lives to master, is inherent to the wose. Though "
+"woses resemble them, they share no ancestry with trees. Woses are believed "
+"to be some of the oldest creatures in the world, perhaps even more ancient "
+"than the forests in which they dwell, and it is thought that the power of "
+"faerie has given these beings the eternal task of serving as wardens of the "
+"forest.\n"
+"\n"
+"Woses are not warlike in the least and are ill-accustomed to combat. They "
+"will however respond with indiscriminate violence in defense of their "
+"forested territory. Woses are slow moving and are vulnerable away from the "
+"woodlands. Due to their close connection with faerie, woses are particularly "
+"sensitive to the arcane. The hardwood that makes the wose nigh-impervious to "
+"physical assault has left it grievously vulnerable to flame. Their thick "
+"bark and ability to harness the power of faerie to regenerate quickly when "
+"injured allows the wose to survive an enemy onslaught long enough to respond "
+"with a crushing might belied by its peaceful, plodding nature. Within its "
+"forest home, the wose can disappear amongst the trees and ambush even the "
+"best-trained elvish scout.\n"
+"\n"
+"The life span of the wose is unknown, although the most ancient members of "
+"this race have lived many hundreds of years and have grown to massive "
+"heights. It is thought that unless a wose falls in battle, it will find no "
+"natural end. Content to pass the centuries standing like a sentry, "
+"uninterested in the goings-on of the civilized world, the wose will stir "
+"only to march to the defense of the natural world and the forests it calls "
+"home."
+msgstr ""
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "<header>text='Units having this special attack'</header>"
+msgstr "<header>text='拥有这种特殊攻击的单位'</header>"
+
+msgid "<header>text='Units having this ability'</header>"
+msgstr "<header>text='拥有此技能的单位'</header>"
+
+msgid "Leaders:"
+msgstr "领袖： "
+
+msgid "Recruits:"
+msgstr "征募： "
+
+msgid "Era:"
+msgstr "时代："
+
+msgid "Factions:"
+msgstr "派系："
+
+msgid "Factions are only used in multiplayer"
+msgstr "派系只在多人游戏中使用"
+
+#, fuzzy
+msgid "Base Terrain: "
+msgstr "地形"
+
+msgid "level"
+msgstr "等级"
+
+msgid "Advances from: "
+msgstr "升级自："
+
+msgid "Advances to: "
+msgstr "升级为："
+
+msgid "Base unit: "
+msgstr ""
+
+msgid "Base units: "
+msgstr ""
+
+#, fuzzy
+msgid "Variations: "
+msgstr "派系："
+
+msgid "race^Miscellaneous"
+msgstr "其他"
+
+msgid "Race: "
+msgstr "种族："
+
+msgid "Abilities: "
+msgstr "技能："
+
+msgid "Ability Upgrades: "
+msgstr "技能升级："
+
+msgid "HP: "
+msgstr "生命值："
+
+msgid "Moves: "
+msgstr "移动："
+
+msgid "Vision: "
+msgstr ""
+
+msgid "Jamming: "
+msgstr ""
+
+msgid "Cost: "
+msgstr "价格："
+
+msgid "Alignment: "
+msgstr "立场："
+
+msgid "Required XP: "
+msgstr "升级所需经验值："
+
+msgid "unit help^Attacks"
+msgstr "攻击"
+
+msgid "unit help^Name"
+msgstr "名称"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Strikes"
+msgstr "输出"
+
+msgid "Range"
+msgstr "范围"
+
+msgid "Special"
+msgstr "特性"
+
+msgid "Resistances"
+msgstr "抗性"
+
+msgid "Attack Type"
+msgstr "攻击类型"
+
+msgid "Resistance"
+msgstr "抗性"
+
+msgid "Terrain Modifiers"
+msgstr "地形影响"
+
+msgid "Terrain"
+msgstr "地形"
+
+msgid "Defense"
+msgstr "闪避率"
+
+msgid "Movement Cost"
+msgstr "移动点数耗费"
+
+msgid "Vision Cost"
+msgstr ""
+
+msgid "Jamming Cost"
+msgstr ""
+
+msgid "<header>text='Units of this race'</header>"
+msgstr "<header>text='这个种族的单位'</header>"
+
+msgid " < Back"
+msgstr " < 后退"
+
+msgid "Forward >"
+msgstr "前进 >"
+
+msgid "Reference to unknown topic: "
+msgstr "引用了未知主题："
+
+msgid "corrupted original file"
+msgstr "原始文件出错"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "The Battle for Wesnoth Help"
+msgstr "韦诺之战帮助"
+
+msgid "Parse error when parsing help text: "
+msgstr "分析帮助文本时出现语法错误："

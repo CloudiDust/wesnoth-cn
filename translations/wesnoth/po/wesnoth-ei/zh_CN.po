@@ -1,0 +1,3035 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2015 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# CloudiDust <cloudidust@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-1.12\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2014-03-02 18:56+0100\n"
+"PO-Revision-Date: 2015-01-02 13:09+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "The Eastern Invasion"
+msgstr "东部入侵"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "EI"
+msgstr "EI"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "(Easy)"
+msgstr "（容易）"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "Spearman"
+msgstr "矛兵"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "(Normal)"
+msgstr "（普通）"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "Swordsman"
+msgstr "剑士"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "(Challenging)"
+msgstr "（挑战）"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "Royal Guard"
+msgstr "皇家卫兵"
+
+#. [campaign]: id=Eastern_Invasion
+msgid ""
+"There are rumors of undead attacks on the eastern border of Wesnoth. You, an "
+"officer in the Royal Army, have been sent to the eastern front to protect "
+"the villagers and find out what is happening.\n"
+"\n"
+msgstr ""
+"有传闻说，韦诺的东部边境遭受死灵侵袭。你，一名皇家军队的军官，被派往东部前线"
+"保护村民并查明状况。\n"
+"\n"
+
+#. [campaign]: id=Eastern_Invasion
+msgid "(Intermediate level, 16 scenarios.)"
+msgstr "（中等级别，16幕场景。）"
+
+#. [about]
+msgid "Campaign Design"
+msgstr "战役设计"
+
+#. [about]
+msgid "Campaign Maintenance"
+msgstr "战役维护"
+
+#. [about]
+msgid "Campaign Epilogue and Continuity"
+msgstr "战役尾声和连续性"
+
+#. [about]
+msgid "Prose and Story Edits"
+msgstr ""
+
+#. [about]
+msgid "Artwork and Graphics Design"
+msgstr "艺术和图形设计"
+
+#. [scenario]: id=01_The_Outpost
+msgid "The Outpost"
+msgstr "前哨站"
+
+#. [part]
+#, fuzzy
+msgid ""
+"It was the thirteenth year of Konrad II’s reign when the strange occurrences "
+"in the Estmark Hills on the eastern border of Wesnoth began."
+msgstr ""
+"这是科纳德二世统治的第三十个年头，在韦诺东部边境的伊斯特玛克丘陵周遭发生了一"
+"些奇怪的事情。"
+
+#. [part]
+msgid ""
+"Cattle and beasts of burden were found dead in the fields, and men went "
+"missing from their houses, with no clues but a thin stream of black blood. "
+"At first the settlers suspected raiders from the great desert, but when they "
+"sent scouts east they found nothing but a small mountain range and miles of "
+"swamp."
+msgstr ""
+"牲畜家禽被发现死在田地里，人也从家里失踪了，除了少许黑色的血迹之外，没有任何"
+"的线索。开始时，居民们怀疑是大漠里来的劫掠者干的好事，但当他们派出侦察兵前往"
+"东方时，却只发现了一座小小的山脉和绵延数里的沼泽。"
+
+#. [part]
+msgid ""
+"The disappearances did not stop, and every day the terror grew greater. "
+"Eventually, the people living in the eastern villages sent a messenger to "
+"the King, asking for help. The messenger rode hard for many days and nights, "
+"and finally reached the city of Weldyn."
+msgstr ""
+"失踪的现象并没有停止，恐慌情绪每天都在蔓延。终于，住在东边小镇的人们给国王送"
+"去了一个消息，寻求他的帮助。经过很多个难熬的日夜，这消息终于到达了维尔帝城。"
+
+#. [part]
+msgid ""
+"When the King received news of the problem, his advisor Dacyn had much to "
+"say. Apparently, these attacks were connected to similar ones that occurred "
+"earlier on the far southern border, attacks by undead. Dacyn outlined a plan "
+"to combat these intrusions."
+msgstr ""
+"当国王收到有关这问题的消息时，他的顾问达辛有许多话要说。看上去，这些攻击和在"
+"极南边境发生的相似事件有些联系。南方是被亡灵所攻击的。达辛构思了一个反击入侵"
+"的计划。"
+
+#. [part]
+msgid ""
+"In the days of the king Garard I, two strong-points had been built along the "
+"near bank of the Weldyn, south of Soradoc, to stop bandits and orcish "
+"raiders out of the Estmarks from entering Wesnoth. But in later years the "
+"River Guard posts had been abandoned, as colonists spread into the Estmarks "
+"and the orcs were driven in retreat north of the Great River."
+msgstr ""
+"在伽拉德一世国王统治的时期，为了阻挡伊斯特玛克外围的强盗和兽人掠夺者，人们在"
+"索拉多克南部的维尔帝河岸边建造了两座坚固的堡垒，以阻止伊斯特玛克之外匪盗以及"
+"兽人劫掠者进入韦诺。但近年来，殖民者深入伊斯特玛克各处定居，而兽人也被赶回了"
+"大河的北面，河岸卫队的岗哨随之也都被放弃了。"
+
+#. [part]
+msgid ""
+"With unknown enemies pressing Wesnoth from the East, Konrad II decided to re-"
+"build and re-man the River Guard outposts, and use them to keep the Crown’s "
+"eye and hand firmly on the settled country to either side of the lower "
+"Weldyn. He sent two of the most promising young officers to them."
+msgstr ""
+"来自东面的未知敌人威胁着韦诺，科纳德二世决定重建并重新派兵驻守河岸卫队的哨"
+"站，以便让王国可以密切注视并牢牢控制住维尔帝河下游两岸的有人居住区。他派出两"
+"位最有前途的年轻军官前往哨站。"
+
+#. [part]
+#, fuzzy
+msgid ""
+"To the northern outpost he sent Owaec, a clan noble. To the southern "
+"outpost, he sent Gweddry, who would be accompanied by Dacyn the mage. Our "
+"story begins there."
+msgstr ""
+"他派出欧瓦埃克前往北哨站，这是一位氏族的贵族。而前往南哨站的是格温德利，大法"
+"师达辛也将前去辅佐他。这个故事所讲述的，便是他们的战斗。"
+
+#. [part]
+msgid ""
+"All went well once the King’s forces arrived. There were no attacks for "
+"several weeks, and Gweddry’s men started to grow incautious. Then, at dawn "
+"one day, Gweddry and his men were roused by the startled cries of the night "
+"watchmen..."
+msgstr ""
+"国王的军队到来之后，一切都很正常。有好几周都没有遇到袭击，格温德利的部队开始"
+"松懈起来。而后，在某一天的黎明，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
+
+#. [side]: race=Humans, type=Lieutenant, id=Gweddry
+#. [side]: type=General, id=Gweddry
+#. [side]: type=Lieutenant, id=Gweddry
+#. [side]: type=Sergeant, id=Gweddry
+msgid "Gweddry"
+msgstr "格温德利"
+
+#. [side]
+#. [side]: race=Humans, type=Lieutenant, id=Gweddry
+#. [side]: type=Dwarvish Steelclad, id=Knutan
+#. [side]: type=General, id=Gweddry
+#. [side]: type=General, id=Halrad
+#. [side]: type=General, id=Halric
+#. [side]: type=General, id=Halrod
+#. [side]: type=General, id=Konrad II
+#. [side]: type=Great Mage, id=Kaldor
+#. [side]: type=Lieutenant, id=Gweddry
+#. [side]: type=Mounted Fighter, id=Owaec
+#. [side]: type=Sergeant, id=Gweddry
+msgid "Wesnothians"
+msgstr "韦诺人"
+
+#. [unit]: type=White Mage, id=Dacyn
+msgid "Dacyn"
+msgstr "达辛"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
+msgid "Mal-Sakkat"
+msgstr "玛尔-萨卡特"
+
+#. [side]
+#. [side]: type=Ancient Lich, id=Mal-Ravanal
+#. [side]: type=Dark Adept, id=Mal-Tar
+#. [side]: type=Dark Sorcerer, id=Mal-Galkar
+#. [side]: type=Dark Sorcerer, id=Mal-Kallat
+#. [side]: type=Dark Sorcerer, id=Mal-Marak
+#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
+#. [side]: type=Dark Sorcerer, id=Mal-Skraat
+#. [side]: type=Dark Sorcerer, id=Mal-Talar
+#. [side]: type=Death Knight, id=Ravanal-Guard
+#. [side]: type=Lich Lord, id=Mal-Ravanal
+#. [side]: type=Lich, id=Lich2
+#. [side]: type=Lich, id=Lich3
+#. [side]: type=Lich, id=Lich4
+#. [side]: type=Lich, id=Lich5
+#. [side]: type=Lich, id=Lich6
+#. [side]: type=Lich, id=Lich7
+#. [side]: type=Lich, id=Lich8
+#. [side]: type=Lich, id=Mal-Grekulak
+#. [side]: type=Lich, id=Mal-Telnarad
+#. [side]: type=Lich, id=Mal-Uknalu
+#. [side]: type=Lich, id=Mal-Uldhar
+#. [side]: type=Lich, id=Mal-Xakralan
+#. [side]: type=Necromancer, id=Mal-un-Darak
+#. [side]: type=Necromancer, id=Mal-un-Karad
+#. [side]: type=Necromancer, id=Mal-un-Xadrux
+#. [side]: type=Necromancer, id=Mal-un-Zanrad
+#. [side]: type=Revenant, id=Garnad
+#. [side]: type=Revenant, id=Lanar-Skal
+msgid "Undead"
+msgstr "亡灵"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Talar
+msgid "Mal-Talar"
+msgstr "玛尔-塔拉"
+
+#. [side]: type=Lich, id=Mal-Uldhar
+msgid "Mal-Uldhar"
+msgstr "玛尔-乌尔达"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defend the outpost"
+msgstr "前哨站"
+
+#. [objective]: condition=lose
+msgid "Death of Gweddry"
+msgstr "格温德利阵亡"
+
+#. [objective]: condition=lose
+msgid "Death of Dacyn"
+msgstr "达辛阵亡"
+
+#. [message]: speaker=Gweddry
+msgid "What? What is going on?"
+msgstr "什么事？发生了什么事？"
+
+#. [message]: speaker=Dacyn
+msgid "Look. To the east. Undead approach!"
+msgstr ""
+
+#. [message]: speaker=Mal-Talar
+msgid "Ah, interesting..."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Men, to arms!"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "I sense a great evil... Can it be? Gweddry, I must not be seen."
+msgstr ""
+
+#. [event]
+#. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
+#. [side]: type=Ancient Lich, id=Mal-Ravanal
+#. [side]: type=Lich Lord, id=Mal-Ravanal
+#. [unit]: type=Lich Lord, id=Mal-Ravanal
+#. [variable]
+msgid "Mal-Ravanal"
+msgstr "玛尔-拉法纳尔"
+
+#. [message]: speaker=Mal-Ravanal
+msgid ""
+"This is the resistance you spoke of, an untrained commander and a few fresh "
+"recruits? You will suffer for your incompetence. Destroy them, and dare not "
+"bother me again."
+msgstr ""
+
+#. [message]: speaker=Mal-Talar
+#, fuzzy
+msgid "Apologies, Dark Archon. They will die. And then?"
+msgstr "很好，暗黑执政官。他们死定了。然后？"
+
+#. [message]: speaker=Mal-Ravanal
+msgid ""
+"Slaughter the villagers and march onwards. You have wasted enough time here "
+"already."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid "What?! We must hold the outpost! And where did Dacyn go?!"
+msgstr "什么？！所有人，拿起武器！达辛去哪里了？！"
+
+#. [message]: speaker=Dacyn
+msgid "Gweddry? Good! You are still alive. Quickly, we must leave this place!"
+msgstr "格温德利？太好了！你还活着。快，我们必须离开这个地方！"
+
+#. [message]: speaker=Gweddry
+msgid "Where did you go?! And where did you come from?"
+msgstr "你到哪里去了？现在又是从哪里冒出来的？"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"There is no time to explain. If you wish to survive, you will escape through "
+"this trapdoor."
+msgstr "没有时间解释了，如果你想要活着，就必须通过这个暗门逃脱。"
+
+#. [message]: speaker=Gweddry
+msgid "But what about the outpost?"
+msgstr "可是哨站怎么办？"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"This outpost is already lost. We must defeat this evil if Wesnoth is to "
+"survive. Now, come on, we do not have much time to spare!"
+msgstr "试图保卫它是没有意义的，现在赶快，我们没有多余的时间了！"
+
+#. [objective]: condition=win
+msgid "Move Gweddry to the trapdoor"
+msgstr "把格温德利移动到暗门处"
+
+#. [message]: speaker=Dacyn
+msgid "Hurry! We cannot defeat this evil today! We must escape!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Follow me, men! Through the trapdoor!"
+msgstr "跟我上，士兵们！通过暗门！"
+
+#. [scenario]: id=02_The_Escape_Tunnel
+msgid "The Escape Tunnel"
+msgstr "离脱隧道"
+
+#. [side]: type=Troll, id=Kabak
+msgid "Kabak"
+msgstr "卡巴克"
+
+#. [side]: type=Gryphon, id=Kraagak
+#. [side]: type=Ogre, id=Grug
+#. [side]: type=Orcish Warrior, id=Gruga-Har
+#. [side]: type=Troll Warrior, id=Darg
+#. [side]: type=Troll, id=Kabak
+msgid "Monsters"
+msgstr "怪物"
+
+#. [side]: type=Dwarvish Steelclad, id=Knutan
+msgid "Knutan"
+msgstr "努坦"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Move Gweddry to the tunnel exit"
+msgstr "把格温德利移动到暗门处"
+
+#. [message]: speaker=Gweddry
+msgid "Where are we? I can’t see where we are going."
+msgstr "我们在哪儿？我不知道我们在往哪里走。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"This is an old escape tunnel for the outpost; unfortunately these caves are "
+"currently inhabited by trolls. Now hurry, we have to move quickly; the "
+"undead will surely follow us down here."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Wait, before we go anywhere — who were those undead?"
+msgstr "等等，在我们继续前进之前——那些亡灵是谁？"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"I will explain later. For now, suffice to say they are much too powerful for "
+"us; our only hope is to head north."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "TROL TREZZUR HOLE: KEEP OWT"
+msgstr "巨麻臧宝同：不得人内"
+
+#. [message]: speaker=unit
+msgid "Who goes there?"
+msgstr "是谁？"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"We are soldiers of the king of Wesnoth. Will you help us fight these trolls?"
+msgstr "我们是韦诺国王麾下的士兵。你能帮助我们从巨魔手里逃脱吗？"
+
+#. [message]: speaker=unit
+msgid ""
+"Aye, we’ll help ye, for we have nae love for the trolls. Anyone attacked by "
+"them deserves some help, I think."
+msgstr ""
+"当然，俺们会帮忙的，因为俺们对巨魔一点感都没。我想被他们攻击的人都得要帮帮"
+"忙。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Thank you. Now, I invite you to join us. Undead have followed us into these "
+"caves, and they will kill you if you stay behind."
+msgstr ""
+"谢谢你。现在，我邀请你们加入我们。亡灵紧随我们进了洞穴，如果你们不走，它们会"
+"杀了你们的。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Thank you. Now, I invite you to join us. Undead are in these lands, and they "
+"will find these caves."
+msgstr ""
+"谢谢你。现在，我邀请你们加入我们。亡灵来到了这片土地上，它们会发现这些洞穴"
+"的。"
+
+#. [message]: speaker=unit
+msgid ""
+"My clan ha’ lived in these caves for centuries. We’ll no’ be scattered now "
+"by a few undead."
+msgstr "俺的部落在这个洞穴里过了好几百年了，俺们不会为了一些亡灵分散开的。"
+
+#. [message]: speaker=Dacyn
+msgid "Very well. The best of luck in your battle."
+msgstr "那也好，祝你们在战斗中好运。"
+
+#. [scenario]: id=02_The_Escape_Tunnel
+#. [scenario]: id=05_Northern_Outpost
+#. [scenario]: id=09_Xenophobia
+#. [scenario]: id=11_Captured
+msgid ""
+"Wearing this amulet will cause every blow you deal to inflict <i>arcane</i> "
+"damage!"
+msgstr "装备这个护身符将使得你的每次攻击都造成<b>奥术</b>伤害！"
+
+#. [scenario]: id=02_The_Escape_Tunnel
+#. [scenario]: id=05_Northern_Outpost
+#. [scenario]: id=09_Xenophobia
+#. [scenario]: id=11_Captured
+msgid "holy amulet^Take it"
+msgstr "取走"
+
+#. [scenario]: id=02_The_Escape_Tunnel
+#. [scenario]: id=05_Northern_Outpost
+#. [scenario]: id=09_Xenophobia
+#. [scenario]: id=11_Captured
+msgid "holy amulet^Leave it"
+msgstr "留下"
+
+#. [scenario]: id=02_The_Escape_Tunnel
+#. [scenario]: id=05_Northern_Outpost
+#. [scenario]: id=09_Xenophobia
+#. [scenario]: id=11_Captured
+msgid "I am not suited to using this item! Let another take it."
+msgstr "我不适合用这个装备！给其他人试试。"
+
+#. [object]
+msgid "Holy Amulet"
+msgstr "神圣护身符"
+
+#. [message]: speaker=unit
+msgid ""
+"There is a great fortune in this chest of treasure! I can count two hundred "
+"pieces of gold."
+msgstr "在这个藏宝箱里有很多财宝！我点到了两百枚金币。"
+
+#. [unit]: type=Dark Sorcerer, id=Mal-Bakral
+msgid "Mal-Bakral"
+msgstr "玛尔-巴克拉尔"
+
+#. [message]: speaker=Mal-Bakral
+msgid "We have found you, fleshbag! Prepare to die!"
+msgstr "找到你们了，生肉！受死吧！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"They follow us... we must get out of this tunnel. It looks like it is "
+"leading east. That is unfortunate, for it will take us beyond the borders of "
+"Wesnoth. But it is our only option."
+msgstr ""
+"它们紧跟着……我们一定要从这个隧道里逃出去。看上去隧道通向东方。这真不幸，我们"
+"会离维尔帝更远的。但这是唯一的选择。"
+
+#. [message]: speaker=Gweddry
+msgid "We have reached the end of the tunnel. I see daylight above us!"
+msgstr "我们已经来到隧道尽头了。我看到上方有阳光！"
+
+#. [scenario]: id=03_An_Unexpected_Appearance
+msgid "An Unexpected Appearance"
+msgstr "意外的露面"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Skraat
+msgid "Mal-Skraat"
+msgstr "玛尔-斯克拉特"
+
+#. [side]: type=Dark Adept, id=Mal-Tar
+msgid "Mal-Tar"
+msgstr "玛尔-塔"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Kallat
+msgid "Mal-Kallat"
+msgstr "玛尔-卡拉特"
+
+#. [objective]: condition=win
+msgid "Defeat either enemy dark sorcerer"
+msgstr "击败任意一名黑暗巫师"
+
+#. [message]: speaker=Gweddry
+msgid "We have escaped from those dark tunnels! But where are we now?"
+msgstr "我们终于从黑暗的隧道逃出来了！但是现在我们要去哪里？"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"We are in the middle of the eastern mountains, in a mountain pass leading "
+"east and west. We need to head north, but we cannot go through the "
+"mountains... we must go east, or west, and hope we can get around them."
+msgstr ""
+"现在我们身处东部群山之中,在一条横贯东西的山间道路上。我们得北上，和欧瓦埃克回"
+"合，但是我们无法穿山而过……必须得往东或者往西走，但愿能绕过山脉。"
+
+#. [message]: speaker=Mal-Kallat
+msgid "Hahaha! We have you surrounded!"
+msgstr "哈哈哈！我们包围你们啦！"
+
+#. [message]: speaker=Mal-Skraat
+msgid ""
+"Why don’t we see if the new recruit can handle them. After all, there are "
+"only two!"
+msgstr "不如我们来看看新人们能不能对付他们好了。毕竟他们就两个人而已！"
+
+#. [message]: speaker=Mal-Tar
+msgid "No!! They’ll kill me!"
+msgstr "不！！他们会杀掉我的！"
+
+#. [message]: speaker=Mal-Kallat
+msgid "That would be your problem, then."
+msgstr "那这就是你的问题了。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"These undead are toying with us! This adept is weak — we may be able to take "
+"his fort."
+msgstr "这些亡灵在戏弄我们！这个学徒很弱——我们或许能夺下他的城堡。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"A good idea. Then, we must kill either of the dark sorcerers. I would prefer "
+"to attack the western one, so we can return to Wesnoth."
+msgstr ""
+"好主意，而后我们必须杀掉一个黑暗巫师。我偏向于攻击西面的那个，那样我们会离韦"
+"诺更近一些。"
+
+#. [message]: speaker=Mal-Skraat
+msgid "No! You have defeated me, and can re-enter Wesnoth!"
+msgstr "不！你打败了我，也能回到韦诺了！"
+
+#. [message]: speaker=Mal-Skraat
+msgid "You have defeated my brother, but I will follow you and kill you!"
+msgstr "你打败了我的兄弟，但我会追杀你到死！"
+
+#. [scenario]: id=04a_An_Elven_Alliance
+msgid "An Elven Alliance"
+msgstr "精灵联盟"
+
+#. [part]
+#, fuzzy
+msgid ""
+"But Gweddry and Dacyn were to find no respite within the borders of Wesnoth. "
+"They marched out of the foothills of the Estmarks into an unknown forest..."
+msgstr ""
+"然而离脱隧道已经不能再用，格温德利和达辛很快就会发现想重新进入韦诺并不容易。"
+"他们从伊斯特玛克山脚出发，朝着一个很少有韦诺人去过的方向，进入大河南部陌生的"
+"森林国度。"
+
+#. [side]: type=Elvish Ranger, id=Volas
+#. [side]: type=Lieutenant, id=Gweddry
+msgid "Allies"
+msgstr "同盟"
+
+#. [side]: type=Elvish Ranger, id=Volas
+msgid "Volas"
+msgstr "沃拉斯"
+
+#. [side]: type=Orcish Warrior, id=Gruga-Har
+msgid "Gruga-Har"
+msgstr "格鲁嘎-哈"
+
+#. [objective]: condition=win
+msgid "Defeat enemy leader"
+msgstr "击败敌人领袖"
+
+#. [objective]: condition=lose
+msgid "Death of Volas"
+msgstr "沃拉斯阵亡"
+
+#. [message]: speaker=Volas
+msgid "Greetings, travelers! Welcome to my realm."
+msgstr "你们好，旅行者！欢迎来到我的国度。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Would it be possible for us to rest in your lands for a while? We have been "
+"pursued by fell undead, although they did not dare follow us into the "
+"forest... yet."
+msgstr ""
+"我们能够在你的土地上休息一会吗？我们被可怕的亡灵追击，尽管他们还……不敢进入这"
+"片森林。"
+
+#. [message]: speaker=Volas
+msgid "Certainly."
+msgstr "当然。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Good. Now, you should be warned: this undead warlord is very powerful. If "
+"you choose to fight, even if you are victorious, few will survive. I invite "
+"you to join us, and head north."
+msgstr ""
+"太好了，你应该有所警惕。这个不死族首领非常强大。如果你选择与他战斗，就算胜利"
+"也只会有很少人幸存。所以我建议你和我们一起向北进发。我们也许能安全离开这片他"
+"想征服的地方。"
+
+#. [message]: speaker=Volas
+msgid ""
+"I thank you for your offer. But I will not leave my homeland. These undead "
+"cannot be as powerful as you say; I will fight them."
+msgstr ""
+"谢谢你的邀请。但我不会离开我的家园，在这里这些不死不会象你说的那样强；我将会"
+"与他们战斗。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"This is not a wise choice, but it is yours to make. If you will not join us, "
+"will you at least help us reach the northern outpost? We wish to warn our "
+"comrades there."
+msgstr ""
+"这不是一个明智的选择，但是你的决定。如果你不加入我们，你可以帮我们到达北方的"
+"哨所吗？我们希望对那里的同伴发出警告。"
+
+#. [message]: speaker=Volas
+msgid ""
+"I will aid you. Although, I too, think that yours is the foolish choice. You "
+"should stay, and fight."
+msgstr "我会帮助你们，虽然我同样觉得你们的选择很愚蠢。你们应该留下一起作战。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"After we rest for a short while, we will leave. We have little time to spare."
+msgstr "休息一会后，我们就会离开。我们只有很少的时间了。"
+
+#. [message]: speaker=Gruga-Har
+msgid "Intruders!"
+msgstr "入侵者！"
+
+#. [message]: speaker=Dacyn
+msgid "What? Orcs! Where did they come from?"
+msgstr "什么？！兽人！他们从哪里来的？"
+
+#. [message]: speaker=Volas
+#, fuzzy
+msgid ""
+"I know not. But they have made camp on the northern path. You will have to "
+"fight them to move on."
+msgstr "我不知道。但是它们在北边道路中央。你们只能用战斗开路了。"
+
+#. [message]: speaker=Gruga-Har
+msgid "Bring forth the assassins, we may be able to poison them!"
+msgstr "带着这些暗杀者，我们可能让他们中毒！"
+
+#. [unit]: type=Orcish Slayer, id=Nafga
+msgid "Nafga"
+msgstr "Nafga"
+
+#. [message]: speaker=Nafga
+msgid ""
+"Your Warlordship, I am the only assassin left! Do you want me to go poison "
+"their leader?"
+msgstr "强大的战争之王，我是唯一剩下的暗杀者！您想让我去让他们的领袖中毒吗？"
+
+#. [message]: speaker=Gruga-Har
+msgid "Perfect! Go, into the forest!"
+msgstr "很好！到森林去！"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"They have sent an assassin into the forest. We will have to be careful, and "
+"make sure he does not come out and attack us unexpectedly."
+msgstr ""
+"他们派了一个暗杀者潜伏在森林里面。我们一定要小心谨慎，确保他不会出来和出其不"
+"意的攻击我们。"
+
+#. [message]: speaker=Nafga
+msgid "Hahaha! Nafga will kill the elves!"
+msgstr "哈哈哈！Nafga杀死精灵！"
+
+#. [message]: speaker=Nafga
+#, fuzzy
+msgid ""
+"No! This is the first time I have failed a mission, and it will be my last!"
+msgstr "不！我的任务第一次失败了，这也是最后一次！"
+
+#. [message]: speaker=Gruga-Har
+msgid ""
+"My assassin is dead! The elves must pay, not for his death, but for stopping "
+"him in his mission!"
+msgstr ""
+"我的暗杀者死了！精灵要付出代价，不为他的死，而是你们竟然阻止他完成任务！"
+
+#. [message]: speaker=Volas
+msgid "You have failed me, man of Wesnoth..."
+msgstr "你们失去我了，韦诺的人。。。"
+
+#. [message]: speaker=Volas
+#, fuzzy
+msgid "We have defeated the orcs! Now you can rest before your journey."
+msgstr "我们击败了兽人！现在你们可以休息一下，然后再走。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"We have not the time. This battle has wasted too much of it already. We must "
+"leave now."
+msgstr "我们没时间了。这场战争已经浪费了太多的时间，我们必须马上离开。"
+
+#. [message]: speaker=Volas
+#, fuzzy
+msgid "Very well. I will send guides to lead you north to your allies."
+msgstr "好吧，我将派向导带你们到你的同盟那里。"
+
+#. [scenario]: id=04b_The_Undead_Border_Patrol
+msgid "The Undead Border Patrol"
+msgstr "不死边境巡逻队"
+
+#. [side]: type=Lich, id=Mal-Telnarad
+msgid "Mal-Telnarad"
+msgstr "Mal-Telnarad"
+
+#. [objective]: condition=win
+msgid "Defeat either enemy leader"
+msgstr "打败所有敌人的领袖"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Now that we are free of the mountain range the path northwards is clear. Let "
+"us go north and try to reach Owaec at the outpost."
+msgstr ""
+"我们已经远离那些山脉了，去北方的道路也已清理干净。让我们去北方吧，并试着与"
+"Owaec会合。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Wait. I am not sure that is the best option. If we go east now, we may be "
+"able to find the lich who attacked us and destroy him. He must be nearby."
+msgstr ""
+"等等。我并不确定这是最正确的选择。如果我们现在去东边，也许能找到攻击我们的巫"
+"妖Mal-Ravanal，并在他再次攻击韦诺之前消灭他。当我们逃出后，我怀疑他回到东方去"
+"找我们。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"This is no ordinary Lich you hunt. Even if you manage to find him, how will "
+"you prevent him from simply teleporting away? We should head north; there is "
+"much I must learn before we confront this menace."
+msgstr ""
+
+#. [message]: speaker=Mal-Skraat
+msgid ""
+"They run from me! Still, it will not help them, the border patrol will "
+"destroy them. I may even be promoted!"
+msgstr ""
+"他们从我面前溜掉了！但是，这起不到任何帮组，边境巡逻队会毁灭他们。我仍然会晋"
+"升！"
+
+#. [message]: speaker=Mal-Skraat
+msgid "Now I will never get promoted!"
+msgstr "现在我永远不会晋升！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid "Come, let us return to Wesnoth and head for the Northern Outpost."
+msgstr "来吧，我们回到韦诺去，并支援北方前哨站。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"We have defeated this patrol, but we can still turn back! Do you insist on "
+"traveling east, or shall we defeat this dark sorcerer?"
+msgstr ""
+"我们已经击败了这支巡逻队，但是我们还要回转！难道我们还要继续前进，往东走；还"
+"是说我们想要回头打倒黑暗法师？"
+
+#. [message]: speaker=Gweddry
+msgid "Hmm..."
+msgstr "恩.."
+
+#. [option]: speaker=Gweddry
+msgid "I wish to destroy the evil before it can spread. East we go!"
+msgstr "我希望在他们能更进一步之前消灭这些邪恶。让我们向东边去！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid "I cannot say this is a good decision, but I will follow you."
+msgstr "我不知道这是否是一个好的决议，但是我会跟随你。"
+
+#. [message]: speaker=Mal-Skraat
+msgid "Noo!! I can’t be promoted if they run away!"
+msgstr "不要！！！如果他们逃跑的话我将不能晋升！"
+
+#. [option]: speaker=Gweddry
+#, fuzzy
+msgid "You are right. It is foolish to go onward — we will turn back."
+msgstr ""
+"你是对的。不应该向前了 － 我们必须打败Mal-Skraat然后撤回，去北部前哨站。"
+
+#. [message]: speaker=Mal-Skraat
+msgid "Good! If I defeat them, I can become a lich!"
+msgstr "好的！如果我打败他们，我就能成为一名巫妖！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"We failed to defeat either enemy! Now more undead will come and we will be "
+"overwhelmed!"
+msgstr "我们打败敌人的计划失败了！现在更多的巫妖会来，我们会被击溃！"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"We cannot spend any more time attempting to defeat Mal-Skraat. Like it or "
+"not, we must go further into these undead lands."
+msgstr ""
+"我们不能花更多的时间来尝试打败Mal-Skraat。不管你喜不喜欢，我们必须更深入的进"
+"入这不死族领土。"
+
+#. [message]: speaker=Mal-Skraat
+msgid ""
+"Noo!! He will reach Mal-Ravanal’s capital, and I shall be punished for "
+"letting him escape!"
+msgstr "不要！！！他会到达Mal-Ravanal的首都，我则会为他的逃脱而受惩罚！"
+
+#. [scenario]: id=04c_Mal-Ravanals_Capital
+msgid "Mal-Ravanal’s Capital"
+msgstr "Mal-Ravanal的首都"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Marak
+msgid "Mal-Marak"
+msgstr "Mal-Marak"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Galkar
+msgid "Mal-Galkar"
+msgstr "Mal-Galkar"
+
+#. [side]: type=Death Knight, id=Ravanal-Guard
+msgid "Rava-Krodaz"
+msgstr "Rava-Krodaz"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Escape by defeating one of the dark sorcerers"
+msgstr "杀死一个黑暗法师，逃离都市"
+
+#. [unit]: type=Paladin, id=Terraent
+msgid "Terraent"
+msgstr "Terraent"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"The Bitter Swamp’s ill reputation is, it seems, well merited. Mal-Ravanal’s "
+"capital lies before us!"
+msgstr "真是郁闷，在Bitter Swamp这地方。Mal-Ravanal的总部就在我们后面！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Yes, but look! The undead forces are closing in behind us. As I said before "
+"we cannot kill Mal-Ravanal. It was foolish to come this far; we must turn "
+"back!"
+msgstr ""
+"是的，但是看看！不死族的力量就在我们后面。正如我先前说的那样，我们不能杀死"
+"Mal-Ravanal。来到这真笨，我们必须回去！"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Perhaps. To retreat, we must kill one of these dark sorcerers that follow "
+"us. But, perhaps we can kill this Mal-Ravanal. I might wish to try."
+msgstr ""
+"可能。要撤退，我们必须杀掉一个跟在后面黑暗法师。但，我们可能也杀死Mal-"
+"Ravanal。我想试一下。"
+
+#. [message]: speaker=Mal-Ravanal
+msgid ""
+"These humans have dared foolishly to come this far into my land. Crush them!"
+msgstr "这些人类胆敢窜来我的领地。撕碎他们！"
+
+#. [message]: speaker=$freed_prisoner.id
+msgid ""
+"Thank you for destroying that skeleton warrior! Every time you kill one of "
+"the Revenants, one of us knights is let free!"
+msgstr "谢谢你毁掉那个骷髅！你每杀掉一个亡魂，就能让我们骑士中的一个重获自由！"
+
+#. [message]: speaker=Gweddry
+msgid "Why? Are you the undead’s prisoners?"
+msgstr "为什么？你是不死族的囚犯吗？"
+
+#. [message]: speaker=$freed_prisoner.id
+msgid ""
+"Yes. My allies and I were questing when we were ambushed by undead. The "
+"guard is playing a sick game — whenever one of their warriors dies, one of "
+"us is let free, but whenever you lose a fighter, they kill one of us."
+msgstr ""
+"是的。我的盟友和我在探索中被不死族伏击了。现在守卫在玩着变态的游戏 － 每当他"
+"们战士中的一个死去，就能让我们骑士中的一个重获自由，但是每当你失去一个战士，"
+"他们会杀掉我们中的一个。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"This sounds dangerous. We will try to free as many of you as possible before "
+"we escape from here."
+msgstr ""
+"这听起来很危险。在我们从这里逃出之前，我们会尽可能多的释放你们（至少我们也不"
+"想死）。"
+
+#. [message]: speaker=$freed_prisoner.id
+msgid ""
+"Five of my comrades are still imprisoned. We will gladly enter your service "
+"in appreciation for our freedom."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid ""
+"Wait! I recognize that magic! Dacyn, have you come to surrender to me? Or "
+"perhaps you wish to finish the duel we started so long ago?"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"If I have one regret, it is that mercy slowed my hand thirty three years "
+"ago. Stop this madness and I will release you from your torment."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid ""
+"Torment?! You have no idea... but you soon will. Kill them all and bring "
+"Dacyn to me!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "You know this lich?"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Yes... We studied together many years ago. He was most powerful then, but "
+"the dark power I sense today is far greater. We must escape immediately!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid "Ah, so you’ve decided to fight me."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "I will atone for my failure thirty three years ago."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid "Enough! You cannot possibly defeat me!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Is he... dead?"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Merely departed. He will return once he has recovered; we would best be away "
+"from here by then."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"Gweddry’s men retreated swiftly from the Bitter Swamp, fleeing north and "
+"west as if their heels were winged. Finding a low pass through the northern "
+"Estmarks, they were greatly relieved to see the valley of the Weldyn open "
+"before them on the other side."
+msgstr ""
+"Gweddry的人像插了翅膀似的从Bitter Swamp向西北部飞速逃离。一条小路通往北部的"
+"Estmarks，在前哨易主之前可以放心地看到Weldyn的村庄。"
+
+#. [scenario]: id=05_Northern_Outpost
+msgid "Northern Outpost"
+msgstr "北部前哨站"
+
+#. [side]: type=Mounted Fighter, id=Owaec
+#. [unit]: id=Owaec, type=$stored_Owaec.type
+msgid "Owaec"
+msgstr "Owaec"
+
+#. [side]: type=Revenant, id=Lanar-Skal
+msgid "Lanar-Skal"
+msgstr "Lanar-Skal"
+
+#. [side]
+#. [side]: type=Dark Sorcerer, id=Mal-Arnai
+#. [side]: type=Orcish Warlord, id=Draka-Kura
+#. [side]: type=Orcish Warlord, id=Ran-Lar
+#. [side]: type=Orcish Warlord, id=Varrak-Klar
+#. [side]: type=Orcish Warlord, id=Wak-Rano
+#. [side]: type=Troll Warrior, id=Unhk
+msgid "Evil"
+msgstr "邪恶势力"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Find the outlaw leader and defeat him"
+msgstr "在村庄找到罪犯首领并消灭他"
+
+#. [objective]: condition=win
+msgid "Defeat the undead leader"
+msgstr "打败不死族领袖"
+
+#. [objective]: condition=lose
+msgid "Death of Owaec"
+msgstr "Owaec死亡"
+
+#. [message]: speaker=Owaec
+msgid "Hail, Gweddry!"
+msgstr "致敬，Gweddry!"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"Greetings, Owaec! We have been forced from our positions by undead invaders. "
+"They follow us even now."
+msgstr ""
+"向你问候,Owaec!不死的侵略逼迫我们从自己的阵地到这里,甚至现在,他们仍跟在我们后"
+"面."
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Indeed, they do. And do not think you will be able to defeat them. They are "
+"too powerful. We are heading for the Northlands, where I hope to find a "
+"means to stop this invasion. Will you join us?"
+msgstr ""
+"他们确实这样，并且我不认为你能击败他们。他们太强大了。我们要到北方去，在那儿"
+"我们或许会摆脱他们。你会加入我们吗？"
+
+#. [message]: speaker=Owaec
+msgid ""
+"I cannot. My orders were to protect these villages. If I leave, the "
+"villagers will be at the mercy of a gang of bandits. I cannot find a way to "
+"defeat them; the outlaws hide in the villages whenever I send in my troops."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Hoping to protect these villages is foolish; all who stay here will die. "
+"However, if we can drive these bandits out, will you organize the villagers "
+"to flee to the west? There they may survive for a time. But soon nowhere in "
+"Wesnoth will be safe."
+msgstr ""
+"希望保护这些村庄非明智之举; 留下来的只是死人。 但是，假如我们赶出那些强盗，那"
+"么我们就可以带着所有人去北方。他们会活下来。只是韦诺也已不再安全。"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"If the situation is as dire as you’ve described, I must... but we have no "
+"way to remove these bandits."
+msgstr "好的，你似乎知道我们讨论的是...但是，我们不知道怎样剔除这些强盗。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"I think I may be able to help. Gweddry, I believe I can cast a spell that "
+"will reveal the bandits when our troops enter a village. However, this magic "
+"will require my full attention; I won’t be able to help you in battle."
+msgstr ""
+"我想我也许能帮助你。我是一名魔法师：我相信当你进入村庄是，我能施放一个魔法让"
+"他们显露出来。然而，我不能帮助你们战斗。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"That sounds good; it is time to drive out some bandits. Dacyn, cast your "
+"spell!"
+msgstr "那听起来挺好：是时候找出这些强盗了。Dacyn，施展法术吧！"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"I believe there is a leader behind these outlaws; kill him and we will face "
+"no further resistance. I will place my clansmen at your service."
+msgstr "我相信这些强盗有一个领袖在他们后面：杀死他，我们就能打败这些强盗了。"
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid "You may now recruit horsemen!"
+msgstr "你现在可以招募食人魔了!"
+
+#. [message]: speaker=Lanar-Skal
+msgid "Go, go far from here! But me and my kind will chase you, and kill you!"
+msgstr "走，离开这里！但是我和我的同伴将会追着你，把你结果！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"It seems the undead have caught up with us! We will have to kill them too if "
+"we want the villagers to be safe. Well, I will begin casting the spell."
+msgstr ""
+"看上去不死族追上我们了！我们不得不打败他们。如果我们想让这些村庄安全。打败强"
+"盗和不死族后再见！"
+
+#. [message]: speaker=unit
+msgid "They’re here!"
+msgstr "他们在这儿！"
+
+#. [unit]: type=Assassin, id=Shodrano
+msgid "Shodrano"
+msgstr "Shodrano"
+
+#. [message]: speaker=Shodrano
+msgid ""
+"So, you have found my hiding place. Very well, I guess I will have to kill "
+"you!"
+msgstr "你找到了我藏身的地方。干得不错；同时，该你划个终止符了！"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid "That’s the bandit leader! Kill him!"
+msgstr "那就是强盗领袖！杀死他，我们就能圆满完成任务了！"
+
+#. [message]: speaker=unit
+msgid "No outlaws in this village."
+msgstr "没有强盗在村庄里。"
+
+#. [message]: speaker=Shodrano
+msgid "You have defeated me! I can terrorize the villagers no more..."
+msgstr "你打败了我！我的统治结束了..."
+
+#. [message]: speaker=Owaec
+msgid "We still need to defeat these undead for the villagers to be safe."
+msgstr "我们仍然需要为确保这些村庄的安全，而打败这些不死族。"
+
+#. [message]: speaker=Owaec
+msgid ""
+"There are still these outlaws to take care of — we must continue fighting "
+"here."
+msgstr "这儿仍然有些强盗需要注意 － 我们必须继续在这儿战斗。"
+
+#. [message]: speaker=Owaec
+msgid ""
+"Well, both the outlaws and undead are defeated. We have some time to spare "
+"now before more undead arrive."
+msgstr ""
+"好啦，强盗和不死族都被打败了。我们在更多的不死族到来之前还有足够的时间。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Good! Now, we must move onward, north. Tell the villagers to pack their "
+"belongings and head west."
+msgstr "做得好！现在，我们能向前进，直到北方。告诉村民们打包行李并跟随我们。"
+
+#. [scenario]: id=06_Two_Paths
+msgid "Two Paths"
+msgstr "分岔口"
+
+#. [side]: type=Orcish Warlord, id=Wak-Rano
+msgid "Wak-Rano"
+msgstr "Wak-Rano"
+
+#. [side]: type=Dark Sorcerer, id=Mal-Arnai
+msgid "Mal-Arnai"
+msgstr "Mal-Arnai"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid "It looks like the road splits here. Which way shall we go?"
+msgstr "看！这条路在这一分为二。我们应该走哪条？"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"We’re in the land of the Clans now; I know it well. The road north leads "
+"directly to the Great River; across it lies the orcs’ home country in the "
+"Northlands. The westward road will keep us inside the realm of Wesnoth, for "
+"a time, before we reach another river crossing north of Glyn’s Forest. If we "
+"travel west we will not have to fight orcs immediately."
+msgstr ""
+"我们到达部族之地了，我了解这块区域。在以前巡逻时来过这。在这儿北方有一条路能"
+"通向大河，河那边是住着兽人的北地。西边道路则是韦诺的国界，曾经是。如果我们从"
+"这边走到达Glyn北部森里的交叉点，就不会很快与发生兽人战斗。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"We should probably go north to the orcish lands as quickly as possible. The "
+"longer we tarry in Wesnoth, the more undead we will have to face."
+msgstr ""
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"The orcs are more powerful than you suspect. I doubt the few undead in "
+"Wesnoth can rival the might of the orcish homeland."
+msgstr ""
+"兽人比你的猜想更强大。我怀疑不死族已经有很大一部分绕过我们去了西边，他们则比"
+"兽人更危险。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Either way we will have to fight. Look, the orcs and undead block our path "
+"ahead!"
+msgstr "无论走哪条路都得战斗。看，兽人和不死已经在前面，并阻塞了我们的道路！"
+
+#. [message]: speaker=Mal-Arnai
+msgid ""
+"Well, orc, we can either continue this fight, or we can crush the humans and "
+"battle later. How shall it be?"
+msgstr "喂，兽人，我们要么继续打，要么先压扁这些碍眼的杂碎然后再打。你说吧。"
+
+#. [message]: speaker=Wak-Rano
+msgid ""
+"Hmm... I know. We will make a pact to destroy these men, and continue our "
+"fight later. "
+msgstr ""
+"恩...我知道了。我们订个条约灭掉人类，然后继续我们的战斗。(也许他会死掉，我就"
+"不战而胜啦。）"
+
+#. [message]: speaker=Wak-Rano
+msgid "Perhaps he will die, and I will win our battle without fighting."
+msgstr "也许他会死掉，而我将不战而胜。"
+
+#. [message]: speaker=Mal-Arnai
+msgid "This foolish orc will surely perish."
+msgstr "非常好，我们目前是联盟了。(这愚蠢的兽人一定会死。)"
+
+#. [message]: speaker=Mal-Arnai
+msgid "Very well, we are allies, for now. "
+msgstr "非常好，我们目前是联盟了。(这愚蠢的兽人一定会死。)"
+
+#. [message]: speaker=Wak-Rano
+msgid "Arrgh! I have failed to defend the northern homeland!"
+msgstr "呃！家园，恕我无力保卫你了!"
+
+#. [message]: speaker=Mal-Arnai
+msgid "I was supposed to kill you all! I have failed."
+msgstr "我真想把你们全都杀死！可惜我失败了。"
+
+#. [scenario]: id=07a_The_Crossing
+msgid "The Crossing"
+msgstr "渡口"
+
+#. [side]: type=Revenant, id=Garnad
+msgid "Garnad"
+msgstr "Garnad"
+
+#. [side]: type=Orcish Warlord, id=Draka-Kura
+msgid "Draka-Kura"
+msgstr "Draka-Kura"
+
+#. [side]: type=Ogre, id=Grug
+#. [unit]: type=Ogre, id=Grug
+msgid "Grug"
+msgstr "Grug"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Move Gweddry and Owaec across the river"
+msgstr "带Gweddry和Owaec穿过这条河"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"We have come to the Great River. Should we cross here, or try to find a ford?"
+msgstr "我们来到大河边了。怎么办？是否应过河试试？"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"We must cross here. The undead are chasing us, and their hordes are much too "
+"great for us to defeat. Reinforcements for the undead will arrive soon. We "
+"must be across the river before that happens."
+msgstr ""
+"我们必须穿过这条河。不死族在追我们，他们数量太多很难打败。他们的增援部队也快"
+"到了。我们必须在那发生之前穿过这条河。"
+
+#. [message]: speaker=Owaec
+msgid ""
+"Across this river lies the Northlands. If we can get there, we may be able "
+"to get some ogres to help us — but the orcs will definitely attack us before "
+"that happens."
+msgstr ""
+"穿过这条河就是北国之地。如果我们能到那，我们可能能找到一些食人魔来帮助我们 "
+"－ 但在那发生之前兽人毫无疑问会攻击我们。"
+
+#. [message]: speaker=Grug
+msgid "Grug say we no help you! We finish must battle orc with!"
+msgstr "Grug说我们孤立无援！我们必须完成和兽人的战斗！"
+
+#. [message]: speaker=Draka-Kura
+msgid ""
+"Was that comprehensible to anyone? Silence, foolish ogre. I will deal with "
+"you later. Right now there are men trying to cross this river."
+msgstr ""
+"那会让所有人理解吗？安静，愚蠢的食人魔。我稍后会收拾你，现在那儿有人正准备要"
+"渡河。"
+
+#. [message]: speaker=Grug
+msgid "Orc foolish! Die you now!"
+msgstr "笨蛋兽人！死吧！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"If we show ourselves as enemies of the orcs, they may aid us. But first we "
+"need to cross the river."
+msgstr ""
+"如果我们显示出自己是兽人的敌人，他们可能协助我们。当然，让食人魔明白之前，最"
+"好先过河。"
+
+#. [unit]: type=Lich, id=Mal-Hakralan
+msgid "Mal-Hakralan"
+msgstr "Mal-Hakralan"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"The undead reinforcements have arrived! We must cross the river immediately!"
+msgstr "不死族增援部队已到！我们必须马上过河！"
+
+#. [message]: speaker=unit
+msgid "Hurry up. We must get across before these undead slaughter us!"
+msgstr "快点。我们必须在不死杀戮之前通过！"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Good! We have crossed. Now let’s see if we can get the ogres to join us. "
+"They have been convinced to work for the Crown in the past; maybe it can be "
+"done again."
+msgstr ""
+"好的！我们过来了。现在看看能否让食人魔加入我们。他们过去曾为王国战斗过；也许"
+"现在也可以。"
+
+#. [message]: speaker=Grug
+msgid "Grug say join you will he."
+msgstr "Grug 要加入你们。"
+
+#. [unit]: type=Ogre
+msgid "Gork"
+msgstr "Gork"
+
+#. [unit]: type=Ogre
+msgid "Drog"
+msgstr "德罗格"
+
+#. [scenario]: id=07b_Undead_Crossing
+msgid "Undead Crossing"
+msgstr "不死族渡口"
+
+#. [side]: type=Necromancer, id=Mal-un-Karad
+msgid "Mal-un-Karad"
+msgstr "Mal-un-Karad"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defeat the enemy leader"
+msgstr "打败所有敌人的领袖"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"These fens look impassable. I don’t think we will be able to continue on "
+"this road; it is time to turn northwards, away from these undead."
+msgstr ""
+"这些沼泽看上去不可能通过。我觉得我们不可能继续在这条路上前进：是时候向北方前"
+"进了，远离这些不死族。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"We must cross this river, then. We must make haste, already we have wasted "
+"too much time. Undead have positioned themselves in the middle of the ford."
+msgstr ""
+"我们必须穿过这条河，而且，我们必须加油前进，我们已经浪费了太多时间。不死族已"
+"经到达了浅滩的中部。"
+
+#. [message]: speaker=Owaec
+msgid ""
+"Across this river lies the Northland. Ogres live there, as do orcs. We "
+"should proceed with caution. The undead are dangerous, but the orcs may be "
+"more dangerous still."
+msgstr ""
+"过河后即是北国之地。食人魔住在那边，兽人也是。我们必须小心谨慎。不死族非常危"
+"险，但是兽人可能更危险。"
+
+#. [message]: speaker=Mal-un-Karad
+msgid ""
+"I will leave your bodies to rot in the river, then I will raise you up to "
+"serve in my Master’s undead hordes!"
+msgstr "我会让你的身体在河里腐烂，然后复活你作为我的主人部下里的一员。"
+
+#. [message]: speaker=Mal-un-Karad
+msgid "I summon from the depths of the river beasts to destroy you!"
+msgstr "我从河深处召唤出来的生物会消灭你们！"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"It seems as if in addition to summoning undead this foul sorcerer has "
+"learned to call up monsters from the deep!"
+msgstr "看上去通过学习召唤不死生物，这些邪恶的术士也学会了从深渊召唤怪物。"
+
+#. [scenario]: id=08_Training_the_Ogres
+#, fuzzy
+msgid "Capturing the Ogres"
+msgstr "训练食人魔"
+
+#. [side]
+msgid "Ogres"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "(captured ogres will be made available for recall)"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Capture as many ogres as you can"
+msgstr ""
+
+#. [note]
+msgid ""
+"An ogre is captured when it starts a turn being unable to move more than one "
+"hex."
+msgstr ""
+
+#. [note]
+msgid "If an ogre reaches the edge of the map, it will escape."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Look, this valley is inhabited by a tribe of ogres. We should try to capture "
+"some to train."
+msgstr "看，我们找到了一伙食人魔。我们应该试试捕获一些并投入训练。"
+
+#. [message]: race=ogre
+msgid "Humans are coming! Run!"
+msgstr ""
+
+#. [message]: speaker=Owaec
+msgid ""
+"Looks like they are fleeing. I think they will surrender easily if we can "
+"surround them."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "All right, we have to capture them one by one."
+msgstr ""
+
+#. [value]
+msgid "Waah! Run!"
+msgstr ""
+
+#. [value]
+msgid "Run for your lives!"
+msgstr ""
+
+#. [value]
+msgid "Help!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "We have let one escape. Let’s hope they don’t all!"
+msgstr "我们已经让一个跑掉了。不要再让其他的溜了！"
+
+#. [value]
+msgid "$ogre_name surrender!"
+msgstr ""
+
+#. [value]
+msgid "Don't hurt $ogre_name|!"
+msgstr ""
+
+#. [value]
+msgid "$ogre_name will be good! Promise!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "We failed to capture any of them!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "We only captured one ogre."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "We failed to capture more than two of the ogres."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "We captured three ogres! I hope they will prove useful."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"We managed to capture many ogres! They will make a good addition to our "
+"troops."
+msgstr ""
+
+#. [scenario]: id=09_Xenophobia
+msgid "Xenophobia"
+msgstr "Xenophobia"
+
+#. [side]: type=Dwarvish Lord, id=Pelathsil
+msgid "Pelathsil"
+msgstr "Pelathsil"
+
+#. [side]: type=Orcish Warlord, id=Prok-Bak
+msgid "Prok-Bak"
+msgstr "Prok-Bak"
+
+#. [side]: type=Elvish Marshal, id=Elandin
+msgid "Elandin"
+msgstr "Elandin"
+
+#. [objective]: condition=win
+msgid "Defeat all enemy leaders"
+msgstr "打败所有敌人领袖"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Hail, dwarves! Will you help us get by these foul orcs? We are headed "
+"farther north."
+msgstr ""
+"欢迎，矮人们！你们会帮助我们打击这些邪恶肮脏的兽人么？我们需要沿路前行得更"
+"远。"
+
+#. [message]: speaker=Prok-Bak
+msgid "You human! Call us foul, will you?!"
+msgstr "你们，人类！说我们肮脏邪恶，是吗？！？！"
+
+#. [message]: speaker=Pelathsil
+msgid "Why should we help you? You’re not a dwarf!"
+msgstr "为什么我们要帮助你们？你们又不是矮人！"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"Your people helped us in the past, in the tunnels in the south. Will you not "
+"help us now?"
+msgstr "你们的人民以前帮助过我们，在南边的隧道。为什么你们现在不帮忙了？"
+
+#. [message]: speaker=Pelathsil
+msgid "Impossible! I canna’ believe any of my kin would ha’ helped a human!"
+msgstr "不可能！我不相信任何我们的族人会帮助一个人类！"
+
+#. [message]: speaker=Elandin
+msgid "Indeed. Why should any of us help those not of our people?"
+msgstr "事实是！为什么我们帮助不是同胞的家伙？"
+
+#. [message]: speaker=Owaec
+msgid "Will you but let us pass, so that we may fight the orcs on our own?"
+msgstr "那你们能让我们通过吗，那样我们可以自己与兽人战斗？"
+
+#. [message]: speaker=Elandin
+msgid "I am afraid that is... impossible."
+msgstr "我想那是...不可能的。"
+
+#. [message]: speaker=Prok-Bak
+msgid "Orcs, kill’em all! Humans, elves or dwarves, it don’t matter!"
+msgstr "兽人，杀光他们！人类，精灵或矮人，都一样！"
+
+#. [message]: speaker=Elandin
+msgid ""
+"These orcs will die. But so will you, human. You have trespassed on elvish "
+"land."
+msgstr "这些兽人会死掉，但是你们也是，人类。你们侵犯了精灵的领地。"
+
+#. [message]: speaker=Pelathsil
+msgid "Oh, elvish land is it now? Die, ye elf-dog! And you too, human!"
+msgstr "噢，精灵的领地就在这儿？死吧，你这狗精灵！还有你们也得死，人类！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"These people won’t listen to reason, they are all blinded by their beliefs "
+"in their own supposed superiority. We probably will have to fight them, "
+"although we can let them fight each other first."
+msgstr ""
+"这些人不听任何解释，他们都瞎了，在他们的信念建立在假想的高傲之上。我们可能不"
+"得不与之战斗，虽然我们也许能绕过他们。"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"True. As much as I dislike killing anything but orcs and undead, it seems we "
+"will have to kill these elves, and these dwarves, before they do the same to "
+"us."
+msgstr ""
+"真的。我非常不喜欢杀除了兽人和不死外的任何生物，看上去我们必须在他们杀死我们"
+"之前，杀掉这些精灵和矮人。"
+
+#. [message]: speaker=Pelathsil
+msgid "Argh! I’m dead! Well, dwarves are still the best!"
+msgstr "啊！我死了！好啦，矮人仍然是最强的！"
+
+#. [message]: speaker=Prok-Bak
+msgid "I die? Orcs rule all!"
+msgstr "我会死？兽人统治一切！"
+
+#. [message]: speaker=Elandin
+msgid "It seems these humans are more powerful than I thought. Ugh."
+msgstr "看上去这些人类比我想象的要强大。哼。"
+
+#. [message]: speaker=Elandin
+msgid "Cursed dwarves! Perhaps we should have allied with the humans..."
+msgstr "该死的矮人！我们也许该和人类结盟。。。"
+
+#. [message]: speaker=Elandin
+msgid "Foul orcs! Perhaps we should have allied with the humans..."
+msgstr "污垢的兽人！我们也许该和人类结盟。。。"
+
+#. [message]: speaker=Pelathsil
+msgid "It seems yon humans are mightier than I kenned..."
+msgstr "看上去这些人类比我想象的要强大。哼。。。"
+
+#. [message]: speaker=Pelathsil
+msgid "Foul orcs! Perhaps we should ha’ allied wi’ the humans..."
+msgstr "污垢的兽人！我们也许该和人类结盟。。。"
+
+#. [message]: speaker=Pelathsil
+msgid "Cursed elves! Perhaps we should have allied wi’ the humans..."
+msgstr "该死的精灵！我们也许该和人类结盟。。。"
+
+#. [scenario]: id=10_Lake_Vrug
+msgid "Lake Vrug"
+msgstr "Vrug湖"
+
+#. [side]: type=Troll Warrior, id=Darg
+msgid "Darg"
+msgstr "Darg"
+
+#. [side]: type=Gryphon, id=Kraagak
+msgid "Kraagak"
+msgstr "Kraagak"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defeat the enemy leaders"
+msgstr "打败所有敌人的领袖"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Move Dacyn to the stronghold"
+msgstr "把格温德利移动到暗门处"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"The trail stops soon. We have almost reached Lake Vrug. There is a small "
+"island off the coast ahead that was once home to a great school of magic. I "
+"pray that the library is still intact."
+msgstr ""
+
+#. [message]: speaker=Owaec
+msgid "But what happened to the people living on it?"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Few enough remained before the trolls and gryphons took up residence in the "
+"mountains. But now the school is deserted, and has been for decades."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"Very well, we will take care of the trolls and gryphons. Search the library "
+"and may you find us an answer. Onward!"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"The island ahead is mountainous; it would be wise to select troops that do "
+"well on such terrain."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "This must be the academy Dacyn mentioned."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"It still looks quite defensible. We should be able to hold there while Dacyn "
+"is working."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Very well. Let us rally there after the trolls and gryphons are defeated."
+msgstr "很好，让我们在这儿重整旗鼓，然后去消灭那些魔兽与狮鹫。"
+
+#. [message]: speaker=narrator
+msgid "You find 100 gold in the fortress!"
+msgstr "你在要塞中找到了100金币。"
+
+#. [message]: speaker=Dacyn
+msgid "Excellent; I’ll start my research."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Alright, now we should be safe while Dacyn is researching."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "I have found an answer! We must return to Wesnoth immediately! ..."
+msgstr ""
+
+#. [unit]: type=Troll Warrior, id=Groog
+msgid "Groog"
+msgstr "Groog"
+
+#. [message]: speaker=Groog
+msgid "Be not going too fast. You gonna come wid us."
+msgstr "不要高兴得太早，你们得跟我们走。"
+
+#. [scenario]: id=11_Captured
+msgid "Captured"
+msgstr "被俘"
+
+#. [part]
+msgid ""
+"After reaching what they believed was safety, Gweddry and his men had been "
+"captured by northern orcs."
+msgstr "到达他们认为安全的地方之后，Gweddry和他的人马却被北方的兽人俘获了。"
+
+#. [part]
+msgid ""
+"Gweddry, Dacyn and Owaec were promptly taken before the orcish king, Dra-"
+"Nak, while the rest were thrown into the orcish prisons to await their "
+"turn..."
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=King Dra-Nak
+msgid "King Dra-Nak"
+msgstr "Dra-Nak王"
+
+#. [side]: type=Orcish Warlord, id=King Dra-Nak
+msgid "Orcs"
+msgstr ""
+
+#. [side]
+#, fuzzy
+msgid "Prisoners"
+msgstr "监狱"
+
+#. [message]: speaker=narrator
+msgid ""
+"Several of Gweddry's men find themselves locked away in a crude orcish cell."
+msgstr ""
+
+#. [message]: role=escapee sidekick 1
+msgid "We've got to get out of here!"
+msgstr ""
+
+#. [message]: role=escapee sidekick 2
+msgid "I'm sure the commander will come and save us!"
+msgstr ""
+
+#. [message]: role=escapee sidekick 1
+msgid "What? Didn't you see those huge trolls drag them away? It's hopeless!"
+msgstr ""
+
+#. [message]: role=escapee leader
+msgid "Be quiet, you two! There's something back here..."
+msgstr ""
+
+#. [message]: role=escapee leader
+msgid ""
+"Look! There's a gap in the wall over here. I think I can slip through if I "
+"clear away some of these rocks..."
+msgstr ""
+
+#. [message]: role=escapee leader
+msgid "Come on! This way!"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Find Gweddry, Dacyn and Owaec"
+msgstr ""
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Release the other prisoners"
+msgstr "好啦，囚犯在哪儿？"
+
+#. [objective]: condition=lose
+#, fuzzy
+msgid "Death of the escapees"
+msgstr "沃拉斯阵亡"
+
+#. [message]: speaker=unit
+msgid "The door won't open from this side."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "There's strange noises coming from those pits. I don't like this."
+msgstr ""
+
+#. [message]: side,race=2,bat
+msgid "Neep! Neep!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid "Ack! Get away from me!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "This tunnel seems to go deeper into the caves. We can't go that way."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "There's a pile of orcish gear and trash here. The stench is wretched."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"The other prison cells should be to the north of that chamber. If we can get "
+"past those trolls we could free our comrades."
+msgstr ""
+
+#. [message]
+msgid "But there's too many of them!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Hmm... I have an idea."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "After a while..."
+msgstr ""
+
+#. [message]: id=$unit.id
+msgid "So, how do I look?"
+msgstr ""
+
+#. [message]: id=$unit.id
+msgid "I'll try to slip past the trolls. You wait here."
+msgstr ""
+
+#. [message]: speaker=King Dra-Nak
+msgid "Ha-ha! These humans will make excellent slaves in my mines!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"Opening the cells should confuse the guards for a moment. But I better not "
+"get too close to them..."
+msgstr ""
+
+#. [message]
+msgid "Eh?"
+msgstr ""
+
+#. [message]: speaker=King Dra-Nak
+msgid "Hey! Who are you? Get her!"
+msgstr ""
+
+#. [message]: speaker=King Dra-Nak
+msgid "Hey! Who are you? Get him!"
+msgstr ""
+
+#. [message]
+msgid "Uh oh!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Here's one of the prison cells! Let me open it..."
+msgstr ""
+
+#. [message]
+msgid "Finally, we're rescued!"
+msgstr ""
+
+#. [message]
+msgid "At last!"
+msgstr ""
+
+#. [message]
+msgid "Now let's get out of here!"
+msgstr ""
+
+#. [message]: speaker=King Dra-Nak
+msgid "What? Who's there? Get them!"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "The guards are distracted! Now is the time to escape!"
+msgstr "守卫现在很混乱！现在是时候逃跑了！"
+
+#. [message]: speaker=Owaec
+msgid ""
+"The eastern entrance is teeming with orcs. We have to find another way to "
+"exit to the west!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"We have to get our gold back first! It must have been taken to their "
+"treasury."
+msgstr ""
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Gweddry reaches the western exit"
+msgstr "格温德利到达隧道的尽头"
+
+#. [objective]: condition=win
+msgid "Retrieve the stolen gold"
+msgstr ""
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Release the remaining prisoners"
+msgstr "好啦，囚犯在哪儿？"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"They have reinforcements pouring in from the eastern entrance! We have to "
+"get out of here quickly!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "All the gold the orcs took is in this chest!"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You've regained $stored_player_gold gold!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Phew! I made it."
+msgstr ""
+
+#. [message]
+msgid "Where are you going?! Come back!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Good! We have escaped these accursed caves!"
+msgstr "好的！我们终于逃出了这该死的洞穴！"
+
+#. [scenario]: id=12_Evacuation
+msgid "Evacuation"
+msgstr "撤退"
+
+#. [part]
+msgid ""
+"Gweddry and his men had escaped from the orcish prisons, but after returning "
+"to the daylight they soon found themselves surrounded by a host of orcs."
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Varrak-Klar
+msgid "Varrak-Klar"
+msgstr "Varrak-Klar"
+
+#. [side]: type=Troll Warrior, id=Unhk
+msgid "Unhk"
+msgstr "Unhk"
+
+#. [side]: type=Orcish Warlord, id=Ran-Lar
+msgid "Ran-Lar"
+msgstr "Ran-Lar"
+
+#. [objective]: condition=win
+msgid "Destroy the bridge OR defeat all enemies"
+msgstr "摧毁桥梁或击败所有敌人"
+
+#. [objectives]
+#, fuzzy
+msgid ""
+"Note: every unit not south of the bridge when it is destroyed will be lost "
+"(including non-recalled units)"
+msgstr "注意：将会失去任何摧毁桥梁时不在南边的单位(包括那些未被召回的单位)"
+
+#. [unit]: id=Engineer, type=Red Mage
+msgid "Engineer"
+msgstr "工兵"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"We have to get out of the Northlands as quickly as possible! Run for your — "
+"what the...?! Who are you?"
+msgstr "所有的都失去了！我们得离开北国越快越好！ 快跑 － 这是...？！？你是谁？"
+
+#. [message]: speaker=Engineer
+#. This is thickly accented English
+msgid ""
+"I’m an enginea’. I s’pect you’ll have a need of me services. I bet you’re "
+"gonna want me to blow up that bridge ov’r theah."
+msgstr "我是一名建筑师。你现在可能需要我。我敢打赌你现在想要我炸掉这座桥。"
+
+#. [message]: speaker=Owaec
+msgid "Why would we want to do that?!"
+msgstr "为什么我们想那样做？！？"
+
+#. [message]: speaker=Engineer
+msgid ""
+"Well, I see those orcs are chasin’ you, and if I blow up the bridge, they "
+"can’t get across. It’ll help you to escape."
+msgstr "我看到兽人追捕你们，如果我摧毁桥梁，他们不可能通过。我要帮助你们逃脱。"
+
+#. [message]: speaker=Dacyn
+msgid "I see... I think it is a good idea to hire him. How much?"
+msgstr "我明白了...我想雇佣他是个好主意。多少钱？"
+
+#. [message]: speaker=Engineer
+msgid ""
+"I ain’t charging gold — I wants protecshun! Everywhere I go, I see orcs, "
+"undead. ’T’ain’t safe ’round ’ere!"
+msgstr "我不需要金子 ── 我要保护！任何地方我都见到兽人、不死。哪里都不安全！"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Very well, we’ll protect you from the undead. But we can’t help you until we "
+"get off this island. Now let’s go!"
+msgstr ""
+"那太好了，我们会保护你不受不死族攻击。但是我们没有能力帮助你，除非我们跨过这"
+"条河。现在我们走吧！"
+
+#. [message]: speaker=Engineer
+msgid ""
+"Deal. I c’n blow’er up once I get to that signpost ov’r dere. That’s where "
+"my eq’pment is. But ev’ryone not ov’r theah on that side when it blows w’ll "
+"be killed by the orcs fa’ sure!"
+msgstr ""
+"就这样干。在到达标记处之前我不能炸掉它。我的设备都在那里。但是炸桥时仍在北面"
+"的人肯定会被兽人杀死！"
+
+#. [message]: speaker=Engineer
+msgid "So, d’ya want me to blow up der bridge yet, Cap’n?"
+msgstr "所以，你想让我现在炸掉它，是吗？"
+
+#. [option]: speaker=Gweddry
+msgid "Yes, blow it up."
+msgstr "是的，炸掉它。"
+
+#. [message]: speaker=Engineer
+msgid "All right! Blast’n time!"
+msgstr "好的！爆炸开始！"
+
+#. [message]: speaker=narrator
+msgid "<big><i>BOOM!!</i></big>"
+msgstr "<big><b>轰隆！！</b></big>"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Good, we have escaped from the orcs. Now we must return to save Wesnoth."
+msgstr "好的，我们从兽人那里逃出来了。但是现在我们要去哪呢？不死在韦诺王国。"
+
+#. [option]: speaker=Gweddry
+msgid "No, wait until later."
+msgstr "不，等一会。"
+
+#. [message]: speaker=Engineer
+msgid "Neh? A’right then, we’ll wait fa’ later, eh?"
+msgstr "啊？这个时候，我们还得等，呃？"
+
+#. [message]: speaker=Dacyn
+msgid "We have not thrown down the bridge in time! The orcs will kill us all!"
+msgstr "我们没有足够的时间炸倒这座桥！兽人会杀了我们！"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Well, we didn’t have to blow up the bridge after all. Now we must return to "
+"save Wesnoth."
+msgstr ""
+"呢，我们还没有摧毁桥梁，但是我们仍然要离开北方土地。更多的兽人将会赶来。但我"
+"们去哪里？不死在韦诺王国。"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid "How do you propose to do that?"
+msgstr "那你打算怎么办呢?"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"We head south. My research revealed that the dragon Khrakrahs is in "
+"possession of a Null Stone; with it I will be able to block Mal-Ravanal’s "
+"teleportation. Once we have retrieved the stone, we must travel to Weldyn. "
+"Our experience fighting the undead will prove invaluable in the defense of "
+"our homeland. Also, I have advice to give the king: I know Mal-Ravanal’s "
+"weakness."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"Very well, we will head south. Let us hope we reach Weldyn before Mal-"
+"Ravanal."
+msgstr ""
+
+#. [message]: speaker=Engineer
+msgid ""
+"I’ll be followin’ yah from now on. Hope yah can get to Weld’n an’ all so I "
+"c’n stop runnin’..."
+msgstr "我现在开始跟上你。希望你能带领我们到Weldyn，而让我们停止脚步..."
+
+#. [scenario]: id=13_The_Drowned_Plains
+msgid "The Drowned Plains"
+msgstr "溺死平原"
+
+#. [objective]: condition=win
+msgid "Defeat Khrakrahs"
+msgstr "打败Khrakrahs，这个骨龙"
+
+#. [message]
+#. [unit]: type=Skeletal Dragon, id=Khrakrahs
+msgid "Khrakrahs"
+msgstr "Khrakrahs"
+
+#. [object]
+msgid "Null Stone"
+msgstr ""
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"Now, we have reached the Horse Plains, the fair homeland of my people. They "
+"may be able to help us find—"
+msgstr "现在我们到达我们美丽的祖国Horse Plains，他们也许能帮我们进去 -"
+
+#. [message]: speaker=Owaec
+msgid ""
+"What?! Swamps?! Those undead have destroyed the grasslands of my House, and "
+"they shall pay for it!"
+msgstr "什么？！沼泽？！那些不死破坏了家乡的土地，他们要付出代价！"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"The lich-lord must have flooded the valley. The undead like the swamp. It is "
+"death, decay, everything that they are themselves. I can sense them lurking "
+"in the swamps, waiting to ambush us."
+msgstr ""
+"巫妖之主肯定淹没了这峡谷。不死们喜欢沼泽。那些腐败和死亡的东西它们都很亲切。"
+"我能感知到它们潜伏在沼泽准备伏击我们。"
+
+#. [message]: speaker=Engineer
+msgid "I s’ppose we’ll hav’ to wade across it anyway... ugh."
+msgstr "我们不得不通过。。。呃。"
+
+#. [message]
+msgid "Findshhhh... slayhhhh... killhhhh..."
+msgstr "找到了哈哈啊。。。。撕开哈哈啊。。。。杀啊哈哈啊。。。。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid "What was that?!"
+msgstr "那是什么声音？！？"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"That was the dragon Khrakrahs. He was a powerful beast indeed in the time of "
+"Haldric, living in the Northern Mountains. But he radiates a dark power "
+"these days, and I know not why he has taken up residence this far south. We "
+"must find him, and pray that he still has the Null Stone."
+msgstr ""
+"我不知道，但我的猜想告诉那是恶龙Khrakrahs。他是Haldric时代的强大怪兽，住在北"
+"面群山。但是这声音听起来不像是还活着。我不知道怎么回事，但我们一定要消灭他。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"Ah! It appears that the mighty Khrakrahs is no longer among the living. But "
+"this undead abomination does not appear weak to my arcane powers... he must "
+"still have the Null Stone!"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "The Null Stone! With it we may finally defeat Mal-Ravanal!"
+msgstr ""
+
+#. [scenario]: id=14_Approaching_Weldyn
+msgid "Approaching Weldyn"
+msgstr "逼近Weldyn"
+
+#. [side]: type=Necromancer, id=Mal-un-Darak
+msgid "Mal-un-Darak"
+msgstr "Mal-un-Darak"
+
+#. [side]: type=Necromancer, id=Mal-un-Zanrad
+msgid "Mal-un-Zanrad"
+msgstr "Mal-un-Zanrad"
+
+#. [side]: type=Necromancer, id=Mal-un-Xadrux
+msgid "Mal-un-Xadrux"
+msgstr "Mal-un-Xadrux"
+
+#. [side]: type=General, id=Konrad II
+#. [unit]: id=Konrad, type=General
+msgid "Konrad II"
+msgstr "Konrad II "
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Move Gweddry to Weldyn castle"
+msgstr "带 Gweddry 去 Weldyn"
+
+#. [objective]: condition=lose
+msgid "Death of Konrad II"
+msgstr "Konrad II死亡"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"We have finally reached Weldyn, but it seems the undead have it surrounded. "
+"We must break through to reach the king!"
+msgstr ""
+"我们最终到达了Weldyn，但是看上去到处是不死族。我们必须杀出一条血路找到他们的"
+"王！"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"It would be best not to waste time defeating these undead, they are but a "
+"small fraction of the host we face. We should go straight to the city and "
+"prepare our defenses."
+msgstr "最好别试着去打败这所有的不死族，他们太多了。直接去城市。"
+
+#. [message]: speaker=Gweddry
+msgid "My liege, we have vital information about the leader of these undead."
+msgstr ""
+
+#. [message]: speaker=Konrad II
+msgid "Come, into the castle."
+msgstr "快，到城堡里来。"
+
+#. [message]: speaker=Konrad II
+msgid "Weldyn has been captured, and Wesnoth is no more..."
+msgstr "Weldyn已经被占领，韦诺已不在..."
+
+#. [scenario]: id=15_The_Council
+msgid "The Council"
+msgstr "议会"
+
+#. [part]
+#, fuzzy
+msgid ""
+"Before we begin our council, I must tell you all the history of this lich we "
+"face. He was at first a mage of the realm, like me, and his fall began "
+"during the reign of Haldric VII..."
+msgstr ""
+"在开始我们的会议之前，我必须告诉你一些事情，关于我们面对的这个巫妖。他开始和"
+"我一样，是个光明法师，然而在Haldric VII执政期间堕落了..."
+
+#. [part]
+msgid ""
+"The greatest seer in the land, Galdren, foresaw that some day, some day "
+"soon, a great evil would spread over the land. The king, naturally, was "
+"worried. The seer told him that the only way to stop the evil was to appoint "
+"a mage, versed well in combat with the spirits of darkness, to be the king’s "
+"advisor."
+msgstr ""
+"陆地上最伟大的先知，Galdren，预言即将到来的某天，邪恶将覆盖在这片土地上。国王"
+"自然很担心。先知告诉他唯一阻止邪恶的方法是挑选一名通晓与黑暗之灵作战的法师作"
+"为国王的顾问。"
+
+#. [part]
+#, fuzzy
+msgid ""
+"In all the land, there were two magi that clearly stood out from the rest. A "
+"mage from the east named Ravan, and myself. The King, wishing to choose the "
+"best advisor, sent us both before Galdren. Then he conversed with the seer "
+"privately. None know what was said, but when he came out he announced that "
+"the seer was dead, and he had chosen me as his new advisor."
+msgstr ""
+"来这片陆地上，仅仅有两个光明法师有资格。一个是东边的Ravan，另一个是我。国王希"
+"望选择一个好顾问，就送我们来到Galdren面前。然后他和先知进行了密谈，没有人知道"
+"他们谈的是什么，但是当他出来后即声明先知已死，并选择我作为他的新顾问。"
+
+#. [part]
+#, fuzzy
+msgid ""
+"Ravan took this quietly enough, we all thought, but now I think that this "
+"was when he began his fall. He went deep into conversation with the spirits "
+"of darkness, hoping to discover their weaknesses. But it was they who found "
+"his."
+msgstr ""
+"Ravan已经调查的足够深入了，我们曾经认为，但是现在我想那就是他堕落的开端。他想"
+"继续深入调查黑暗之灵，希望能找到他们的弱点，但是却被他们找到了自己的弱点。就"
+"在那时候，作为所有死灵法师做的那样，他使用自己的生命转化为巫妖，而且是历史上"
+"最强大的巫妖之一。"
+
+#. [part]
+#, fuzzy
+msgid ""
+"One day, Ravan returned to the castle where I was living. He demanded to see "
+"me and the guards let him in, for then he was still a well-respected mage. "
+"When I greeted him, he named himself Mal-Ravanal and challenged me to a duel."
+msgstr ""
+"某天，他伪装自己并进入城堡，来到我所居住的地方。他希望见我，并且守卫也放了他"
+"进来，毕竟他仍然是议会受尊敬的一员。当我见到他，他显露出他的本色，并命名自己"
+"为Mal-Ravanal，并要求我和他决斗。"
+
+#. [part]
+msgid ""
+"His attack was swift and his power great, but through unwavering faith and "
+"no small skill I emerged victorious. As he lie there mortally wounded I "
+"prepared to excise the darkness in his soul."
+msgstr ""
+
+#. [part]
+msgid ""
+"But I hesitated too long... He simply vanished, teleported away. The mage "
+"Ravan died that day; yet death is a mere inconvenience to those most skilled "
+"in the arts of necromancy..."
+msgstr ""
+
+#. [side]: type=Great Mage, id=Kaldor
+msgid "Kaldor"
+msgstr "Kaldor"
+
+#. [message]: speaker=Dacyn
+msgid "This is the lich we are facing: Mal-Ravanal."
+msgstr ""
+
+#. [message]: speaker=Konrad II
+msgid "So what should we do now?"
+msgstr "我们该做些什么呢？"
+
+#. [message]: speaker=Kaldor
+msgid ""
+"We must fight, obviously. Surely the might of Wesnoth can triumph over a "
+"mere lich!"
+msgstr "我们必须战斗，这毫无疑问。韦诺肯定征服一个疯狂的巫妖！"
+
+#. [message]: speaker=Owaec
+msgid ""
+"I can tell by your words that you have not seen the hordes for yourself. It "
+"is like all of the dead warriors from all the ages have come back to attack "
+"us. There is no end to the columns of marching skeletons, the wailing "
+"ghosts, the infernal bats, led by the foul necromancers who raised them."
+msgstr ""
+"我向你保证你从没看见过向这样一群。就像任何时期的勇士都回来与我们战斗。一望无"
+"垠的骷髅海，哀嚎的幽灵，阴间的蝙蝠，被召唤他们出来的邪恶死灵法师领导着。"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"We barely escaped the Southern Outpost with our lives; Mal-Ravanal’s army "
+"cannot be defeated by even the might of all Wesnoth."
+msgstr ""
+
+#. [message]: speaker=Kaldor
+#, fuzzy
+msgid ""
+"That simply makes you cowards. True warriors would have stayed and fought to "
+"the death!"
+msgstr "这证明你是胆小鬼。真正的勇士是不会退缩的，直到战死！"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"A meaningless sacrifice and a few more corpses marching upon Weldyn. We "
+"realized our only path to victory is to destroy the head of these "
+"necromancers, the lich Mal-Ravanal. With this Null Stone I can counteract "
+"his teleportation and finally put his tortured soul to rest."
+msgstr ""
+
+#. [message]: speaker=Kaldor
+msgid "But if we cannot defeat the army, how may we strike at the leader?!"
+msgstr ""
+
+#. [message]: speaker=Owaec
+msgid ""
+"I recommend a full assault. Our mounted units are more maneuverable; if we "
+"attack in force we may be able to punch through the enemy lines and isolate "
+"Mal-Ravanal in the chaos of battle."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"I suggest that we appeal to his arrogance: I believe Mal-Ravanal would be "
+"<i>compelled</i> to face me if I were to challenge him to a duel."
+msgstr ""
+
+#. [message]: speaker=Owaec
+msgid ""
+"We cannot trust that he would honor the terms of the challenge! You would "
+"likely find yourself facing his entire army!"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"We face his entire army regardless. The only difference is whether Mal-"
+"Ravanal is commanding in back or gloating in front."
+msgstr ""
+
+#. [message]: speaker=Konrad II
+msgid ""
+"Two risky plans. But if these undead are as strong as you say then we are "
+"pressed for options. Gweddry, you are most familiar with this situation. I "
+"will leave this choice in your hands."
+msgstr ""
+
+#. [message]: speaker=guard
+msgid "Sire, the undead armies are attacking!"
+msgstr "殿下，不死部队开始攻击了！"
+
+#. [message]: speaker=Konrad II
+msgid "Well, that will have to be the end of our council. Let us fight!"
+msgstr "好啦，我们不得不结束讨论了，开始战斗吧！"
+
+#. [scenario]: id=16_Weldyn_under_Attack
+msgid "Weldyn under Attack"
+msgstr "Weldyn遭袭"
+
+#. [side]: type=General, id=Halrad
+msgid "Halrad"
+msgstr "Halrad"
+
+#. [side]: type=General, id=Halric
+msgid "Halric"
+msgstr "Halric"
+
+#. [side]: type=General, id=Halrod
+msgid "Halrod"
+msgstr "Halrod"
+
+#. [side]: type=Lich, id=Mal-Grekulak
+msgid "Mal-Grekulak"
+msgstr "Mal-Grekulak"
+
+#. [side]: type=Lich, id=Mal-Xakralan
+msgid "Mal-Xakralan"
+msgstr "Mal-Xakralan"
+
+#. [side]: type=Lich, id=Mal-Uknalu
+msgid "Mal-Uknalu"
+msgstr "Mal-Uknalu"
+
+#. [objective]: condition=win
+msgid "Survive the long night"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"We will fight soon, my lord. Look, night approaches; and with it the undead "
+"hordes. I stand ready to defend the kingdom."
+msgstr ""
+"我们即将战斗，我的王，看看，夜晚即将到来：他们很快就会攻击，我希望我们能控制"
+"住。"
+
+#. [message]: speaker=Konrad
+msgid "Very well. But this... Mal-Ravanal, that you spoke of, is he here?"
+msgstr "非常好。但是这个... 你所说的那个Mal-Ravanal，他在这儿吗？"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"I sense his dark magic prolonging the night, but I do not feel his presence."
+msgstr "我察觉不到他的魔法，但是他也能隐匿行踪。"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"In any case, the undead are attacking now. Let us show them the might of "
+"Wesnoth!"
+msgstr "无论如何，不死族开始攻击了。希望我们能持续整个晚上。"
+
+#. [message]: speaker=Konrad
+#, fuzzy
+msgid "I have died, and with me gone the kingdom is lost."
+msgstr "我死了，而我的城市也随之沦陷。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid "Look, the sun has finally risen, and the undead are retreating."
+msgstr "看，太阳升起了，不死族被召回了。"
+
+#. [message]: speaker=Owaec
+msgid "Even this infernal darkness cannot dim the spirits of our men!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"This long night is over, and Wesnoth still stands. Yet I do not know how "
+"many more such nights we can endure."
+msgstr ""
+
+#. [message]: speaker=Konrad
+msgid "Gweddry, have you made a decision regarding our course of action?"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "I have. I think we should..."
+msgstr ""
+
+#. [option]: speaker=Gweddry
+msgid "challenge Mal-Ravanal to a duel."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "I will send the message at once."
+msgstr ""
+
+#. [option]: speaker=Gweddry
+msgid "try to isolate Mal-Ravanal in battle."
+msgstr ""
+
+#. [message]: speaker=Owaec
+msgid "I will begin preparing our troops."
+msgstr ""
+
+#. [scenario]: id=17a_The_Duel
+msgid "The Duel"
+msgstr "决斗"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defeat Mal-Ravanal while Dacyn is nearby"
+msgstr "打败 Mal-Ravanal"
+
+#. [message]: speaker=Mal-Ravanal
+#, fuzzy
+msgid ""
+"I have waited a long time for this day to come. I shall have my revenge, "
+"Dacyn!"
+msgstr "我等这一天已经很长时间了。准备受死吧，韦诺的Gweddry！"
+
+#. [message]: speaker=Dacyn
+msgid "Indeed, it is time to end this."
+msgstr ""
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid ""
+"The rules of the duel are these:\n"
+"You may recruit or recall up to 5 units.\n"
+"At the end of your first turn, your keep will disappear, and you must battle "
+"with whatever troops you have at that time."
+msgstr ""
+"决斗的规则是：\n"
+"你能征募和召回最多6个单位。\n"
+"在你的首回合结尾，你的要塞会不见，并必须用你所能得到的任何部队来进行战斗。\n"
+"最先失败的领袖会在决斗中输掉。"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"When we attack Mal-Ravanal I will need to be nearby with the Null Stone to "
+"prevent his teleportation. We cannot afford to let him escape."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid ""
+"Wait — what just happened? He called more warriors out of the ground! That’s "
+"not allowed!"
+msgstr "等等——刚才发生什么了？他从地底召来了更多的战士！这是不允许的！"
+
+#. [message]: speaker=Mal-Ravanal
+#, fuzzy
+msgid ""
+"Stop talking and fight! The rules say nothing about bringing up warriors "
+"that were already here."
+msgstr "闭嘴，给我战斗！规则并没说不能让我带更多已经在那儿的勇士。"
+
+#. [message]: speaker=Gweddry
+msgid "No! This cannot be the way it was meant to end!"
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "Wesnoth, I have failed you..."
+msgstr ""
+
+#. [scenario]: id=17b_Weldyn_Besieged
+msgid "Weldyn Besieged"
+msgstr "围攻Weldyn"
+
+#. [side]: type=Lich, id=Lich2
+#. [side]: type=Lich, id=Lich3
+#. [side]: type=Lich, id=Lich4
+#. [side]: type=Lich, id=Lich5
+#. [side]: type=Lich, id=Lich6
+#. [side]: type=Lich, id=Lich7
+#. [side]: type=Lich, id=Lich8
+msgid "?"
+msgstr "？"
+
+#. [objective]: condition=lose
+msgid "Death of Konrad"
+msgstr "Konrad II死亡"
+
+#. [objective]: condition=lose
+#, fuzzy
+msgid "Letting any enemy unit onto your keep"
+msgstr "让任何敌人处于你的掌握之中"
+
+#. [message]: speaker=Dacyn
+msgid ""
+"I can sense Mal-Ravanal is here somewhere... When we attack him I will need "
+"to be nearby with the Null Stone to prevent his teleportation. We cannot "
+"afford to let him escape."
+msgstr ""
+
+#. [event]
+msgid "Mal-Hadanak"
+msgstr "Mal-Hadanak"
+
+#. [event]
+msgid "Mal-Katklagad"
+msgstr "Mal-Katklagad"
+
+#. [event]
+msgid "Mal-Xaskanat"
+msgstr "Mal-Xaskanat"
+
+#. [event]
+msgid "Mal-Akranbral"
+msgstr "Mal-Akranbral"
+
+#. [event]
+msgid "Mal-Larakan"
+msgstr "Mal-Larakan"
+
+#. [event]
+msgid "Mal-Drakanal"
+msgstr "Mal-Drakanal"
+
+#. [event]
+msgid "You dare to attack me? Now you will pay!"
+msgstr "你胆敢攻击我？受死！"
+
+#. [event]
+msgid "I will enjoy watching you suffer!"
+msgstr ""
+
+#. [event]
+msgid "Death will only be the beginning of your torment!"
+msgstr ""
+
+#. [event]
+msgid "You will serve me in death!"
+msgstr ""
+
+#. [event]
+msgid "Allow me to free you from your wretched existence!"
+msgstr ""
+
+#. [event]
+msgid "My master is merely toying with you!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid "I shall destroy you personally!"
+msgstr ""
+
+#. [message]: speaker=unit
+#, fuzzy
+msgid "Kill them all!"
+msgstr "杀掉他们。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"They killed the royal family... now, even if we save Weldyn, Wesnoth has "
+"fallen."
+msgstr "他们杀掉了Konrad... 现在，即使我们拯救了Weldyn，韦诺也已沦陷。"
+
+#. [message]: speaker=Konrad
+msgid "The Kingdom of Wesnoth dies with me!"
+msgstr "我一死，韦诺王国也完了！"
+
+#. [scenario]: id=18_Epilogue
+msgid "Epilogue"
+msgstr "尾声"
+
+#. [part]
+#, fuzzy
+msgid ""
+"When Mal-Ravanal fell his undead army simply collapsed like puppets with "
+"their strings cut. As the lich’s death-scream echoed in the air, a vast and "
+"louring column of shadow arose from his corpse like smoke from an unclean "
+"fire; then it divided fivefold at its height, reaching for the heavens like "
+"a clutching hand.\n"
+"\n"
+"Men let weapons fall from nerveless fingers and horses reared in terror as "
+"that great dark pall obscured the sun..."
+msgstr ""
+"当Mal-Ravanal倒下后，他旗下的一切能动之物或灭或逃; 不死简单的像木偶断线般破"
+"裂。巫妖死时的尖叫回响在空中，深远灰暗的烟柱从他尸身升起恰像污浊的火焰; 然后"
+"分成伍支，到达了天空，如同紧握的手。\n"
+"\n"
+"人们的武器从疲惫到无知觉的手指缝中落下，马匹在恐怖的阴暗中跳起好像太阳被遮"
+"住。。。"
+
+#. [part]
+msgid ""
+"... and then it thinned, and paled, and a breeze from the west dissolved it "
+"in tatters, and the light of day shone once again undiminished on Weldyn."
+msgstr "。。。"
+
+#. [message]: speaker=Konrad II
+#, fuzzy
+msgid ""
+"It is a great victory we have won here today, vanquishing the arch-lich Mal-"
+"Ravanal."
+msgstr "伟大的胜利。我们消灭了Wesnoth灾难的策划者。"
+
+#. [message]: speaker=Gweddry
+msgid ""
+"So many months of fighting... I feel as though I am awakening from a long "
+"nightmare."
+msgstr "很多月的战斗。。。我觉得我从梦魇中醒来了。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid ""
+"Nor is our work yet complete. Mal-Ravanal’s host has been broken, but in its "
+"wake chaos and disorder prevail throughout the countryside."
+msgstr ""
+"我们任务还都没完成。Mal-Ravanal的主要据点已被捣毁，但它的手下在外破坏每一个地"
+"方。"
+
+#. [message]: speaker=Konrad II
+msgid ""
+"We will be years... perhaps decades... recovering from the ill he has "
+"wrought."
+msgstr "我们还要很多年。。。也许是几世纪。。。来复原这疯狂的家伙带来的破坏"
+
+#. [message]: speaker=Owaec
+#, fuzzy
+msgid ""
+"Even now we should be sending our cavalry to restore order throughout the "
+"land."
+msgstr "特别是现在我们应该送出近卫骑兵尽量快速铲除躲藏的兽人。"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid ""
+"Even now we should be sending our troops to restore order throughout the "
+"land."
+msgstr "特别是现在我们应该派出军队尽量快速铲除躲藏的兽人。"
+
+#. [message]: speaker=Konrad II
+#, fuzzy
+msgid ""
+"It shall be so. But first, know that you have served Us, and Our Kingdom, "
+"full well. We are minded to reward you."
+msgstr "确实该这样。但是你们三位为我们服务，为整个王国服务。我们决议嘉奖你们。"
+
+#. [message]: speaker=Konrad II
+msgid ""
+"Sir Terraent, your service to the crown has been a beacon of light in these "
+"dark times. We are appointing you to command the River Guard in Estmark."
+msgstr ""
+
+#. [message]: speaker=Terraent
+msgid ""
+"It is an honor to serve my kingdom, and I humbly accept your commission."
+msgstr ""
+
+#. [message]: speaker=Konrad II
+msgid ""
+"Grug, Gweddry has told me of the help you and your tribe provided his men. "
+"We wish to offer you a new home in the Estmark Hills along with Our thanks."
+msgstr ""
+
+#. [message]: speaker=Grug
+#, fuzzy
+msgid "Grug say new home will make thanks with."
+msgstr "Grug 要加入你们。"
+
+#. [message]: speaker=Konrad II
+#, fuzzy
+msgid ""
+"Dacyn. I would have you remain by Our side, here; as you counseled these two "
+"in war, so shall you counsel Us in peace and the rebuilding of the Kingdom."
+msgstr ""
+"Dacyn。您将留在我们这里; 您曾在战争中劝告那两位，希望在和平的重建中也是。"
+
+#. [message]: speaker=Dacyn
+msgid "I am honored, your highness."
+msgstr ""
+
+#. [message]: speaker=Konrad II
+msgid ""
+"Engineer, much of Estmark region stands in ruins. The crown has need of your "
+"skills to clear the wreckage and organize the reconstruction."
+msgstr ""
+
+#. [message]: speaker=Engineer
+msgid "I’ll be glad ta help yah. It’ll be fun to work in peace again."
+msgstr ""
+
+#. [message]: speaker=Konrad II
+msgid "Now as for you..."
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "Sire, we but did our duty."
+msgstr "先生，我们只是尽职。"
+
+#. [message]: speaker=Konrad II
+msgid "Quite. Now do not interrupt while I am doing mine... Kneel, Owaec."
+msgstr "安静。现在不要打断我。。。致敬，Owaec。"
+
+#. [message]: speaker=Konrad II
+#, fuzzy
+msgid ""
+"Arise, Owaec, Knight Commander of the King’s Horse. And take as Our first "
+"command to you your own wish; go from here, secure our borders, and show all "
+"that the might of Wesnoth will endure."
+msgstr ""
+"起身，王之骑士指挥Owaec。依你的愿望而决定是否领取我们第一个命令; 从这里迅速前"
+"去摧毁敌人直到Weldyn土地变成兽人们的世代战栗之地。"
+
+#. [message]: speaker=Konrad II
+msgid "Kneel, Gweddry."
+msgstr "致敬，Gweddry!"
+
+#. [message]: speaker=Gweddry
+#, fuzzy
+msgid "Sire, I but did my duty."
+msgstr "先生，我们只是尽职。"
+
+#. [message]: speaker=Konrad II
+msgid "Quite. Now do not interrupt while I am doing mine... Kneel, Gweddry."
+msgstr "安静。现在不要打断我。。。致敬， Gweddry。"
+
+#. [message]: speaker=Konrad II
+msgid ""
+"And arise, Gweddry, Earl of Estmark. The land for which you shed your blood "
+"shall be put under your hand to be made green again."
+msgstr "起身, Gweddry, Estmark伯爵。这片你染血的土地会经你的手重获绿色。"
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid ""
+"And so began the Silver Age of Wesnoth, that time known to historians as the "
+"Reconstruction..."
+msgstr ""
+"这些话语和指令揭幕了Wesnoth的白银时代（Silver Age of Wesnoth），那被历史学家"
+"认为是Wesnoth的复兴。。。"
+
+#. [unit_type]: id=Horse Lord, race=human
+msgid "Horse Lord"
+msgstr "骑将"
+
+#. [unit_type]: id=Horse Lord, race=human
+msgid ""
+"The greatest of the men of the plains, Horse Lords are heads of their houses "
+"and are respected by all, friend or foe. Their sword can kill most ordinary "
+"enemies, and their morning star crushes those who are left."
+msgstr ""
+"平原上的翘楚，骑将是骑军氏族的首脑，无论面对的是敌或友。他们的剑能杀死在世"
+"的，他们的锤可以砸碎那些离世的。"
+
+#. [attack]: type=blade
+msgid "greatsword"
+msgstr "巨剑"
+
+#. [attack]: type=impact
+msgid "morning star"
+msgstr "晨星之锤"
+
+#. [unit_type]: id=Lich Lord
+msgid "Lich Lord"
+msgstr ""
+
+#. [unit_type]: id=Mounted Fighter, race=human
+msgid "Mounted Fighter"
+msgstr "骠骑军"
+
+#. [unit_type]: id=Mounted Fighter, race=human
+msgid ""
+"The nobles of the men of the plains are trained with the rest of the "
+"horsemen to become great warriors. However, they are also trained in "
+"commanding their comrades, and they are the ones that become captains of the "
+"armies of the Clans."
+msgstr ""
+"这些平原上的贵族把其它骑手训练成真正的勇士。然而，他们也要接受成为指挥官的训"
+"练，他们是氏族军队里队长的候选。"
+
+#. [attack]: type=blade
+msgid "sword"
+msgstr "剑"
+
+#. [unit_type]: id=Mounted Warrior, race=human
+msgid "Mounted Warrior"
+msgstr "骠骑勇士"
+
+#. [unit_type]: id=Mounted Warrior, race=human
+msgid ""
+"Leaders of the plains, Mounted Warriors are skilled with the use of the "
+"sword and the morning star. Riding horses, they are able to move around the "
+"battlefield with great speed, and can provide much needed assistance to "
+"different fronts."
+msgstr ""
+"平原上的领导者，骠骑勇士训练有素，他们熟练地使用剑和晨星之锤，飞速骑行于战场"
+"中，给人们以援助，是前线的重要力量。"
+
+#. [attacks]: id=shock
+msgid "shock"
+msgstr "震击"
+
+#. [attacks]: id=shock
+#, fuzzy
+msgid ""
+"When this attack is used on offense, the opponent will retaliate with one "
+"less strike than normally, to a minimum of one strike."
+msgstr ""
+"震击：\n"
+"当在进攻中使用本攻击时，对手的反击次数将比通常少一次，但最少还是会有一次反"
+"击。"
+
+#. [message]: speaker=Gweddry
+msgid "No! I... die..."
+msgstr "不！我……死了……"
+
+#. [message]: speaker=Dacyn
+msgid "We are doomed..."
+msgstr "我们完了……"
+
+#. [message]: speaker=Owaec
+msgid "I... must— Argh...!"
+msgstr "我……必须——啊……！"
+
+#. [message]: speaker=Grug
+msgid "Grarrgghh..."
+msgstr "嘎啊啊啊……"
+
+#. [message]: speaker=Engineer
+msgid "Wha’? Yah fail’d to give me protecshun..."
+msgstr "什么？你们没保护好俺……"
+
+#. [message]: speaker=narrator
+msgid ""
+"It was perhaps as well for the men of Gweddry’s troop that they did not live "
+"to see the grim tide of undead sweeping westward into Wesnoth, laying waste "
+"to all in its path."
+msgstr ""
+"对格温德利麾下的部队来说，没能活着见到亡灵的狂潮向西涌入韦诺，也许是一件幸"
+"事。狂潮所到之处，寸草不留。"
+
+#. [message]: speaker=narrator
+msgid ""
+"Wesnoth never learned the fate of Gweddry’s band, but all too soon they "
+"would suffer the rage and malice of marauding orcs and undead in a war that "
+"would end only in misery and death."
+msgstr ""
+"韦诺从未知晓格温德利部队的最终命运，然而很快，他们便将遭受来自兽人与亡灵掠袭"
+"者的狂怒与恶意的侵袭，那将是一场只能以苦难与死亡作结的战争。"
+
+#. [message]: speaker=narrator
+msgid ""
+"Their home country proved to be no refuge for Gweddry’s weary men, and no "
+"more would it for the inhabitants of Wesnoth as foes pressed them on all "
+"sides to a final defense of the doomed kingdom."
+msgstr ""
+"对格温德利疲惫不堪的部队来说，祖国终未能成为避风港，对韦诺居民而言亦如是。即"
+"将毁灭的王国已是四面楚歌，所余唯有最后一战。"
+
+#. [message]: speaker=narrator
+msgid ""
+"With the staunchest defenders of Wesnoth bested on their home ground, the "
+"once-great kingdom was plunged into final darkness under the vengeful hand "
+"of Mal-Ravanal."
+msgstr ""
+"韦诺最坚定的守卫者在自己的国土之上败阵，曾经辉煌的王国亦最终堕入黑暗，陷于复"
+"仇者玛尔-拉瓦纳尔之手。"
+
+#. [message]: speaker=Dacyn
+msgid "Your evil will darken the earth no longer!"
+msgstr ""
+
+#. [message]: speaker=Terraent
+msgid "I shall avenge the death of my comrades!"
+msgstr ""
+
+#. [message]: speaker=Engineer
+msgid "I’m gonna blow you up!"
+msgstr ""
+
+#. [message]: speaker=Grug
+msgid "Grug again dead make!"
+msgstr ""
+
+#. [message]: speaker=Owaec
+msgid "Taste the steel of the Horse Clans!"
+msgstr ""
+
+#. [message]: speaker=Gweddry
+msgid "This is for Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid ""
+"You are more powerful than I expected, but you cannot possibly defeat me."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "No. Your reign of terror ends today."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravanal
+msgid "What?!... I... cannot... lose..."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid "I wasn’t able to prevent his escape from here. Now Wesnoth is doomed..."
+msgstr ""

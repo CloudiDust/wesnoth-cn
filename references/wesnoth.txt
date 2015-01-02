@@ -1,0 +1,138 @@
+Wesnoth                       韦诺
+The Battle For Wesnoth        韦诺之战
+
+########################################
+
+Tutorial                      教程
+Campaign                      战役
+Scenario                      场景
+
+Add-ons                       附加组件
+
+########################################
+
+Recruit                       征募
+Recall                        召回
+
+Orb                           行动状态球
+Ellipses                      光环
+Zone of Control               控制区域
+Shroud                        战场黑幕
+Fog                           战争迷雾
+
+########################################
+
+Time of day                   时段
+
+Day                           昼间
+Night                         夜间
+Dawn                          黎明
+Morning                       上午
+Afternoon                     下午
+Dusk                          黄昏
+First Watch                   前半夜
+Second Watch                  后半夜
+
+########################################
+
+Alignments				      立场
+
+Lawful                        守序
+Neutral                       中立
+Liminal                       边缘
+Chaotic                       混沌
+
+########################################
+
+Traits                        特质
+
+Dextrous                      灵巧
+Dim                           愚笨
+Elemental                     元素
+Fearless                      无畏
+Feral                         野生
+Healthy                       活力
+Intelligent                   聪慧
+Loyal                         忠诚
+Mechanical                    机械
+Quick                         迅捷
+Resilient                     坚韧
+Slow                          缓慢
+Strong                        强壮
+Undead                        亡灵
+Weak                          虚弱
+
+########################################
+
+Abilities				      技能
+
+Ambush                        伏击
+Concealment                   隐蔽
+Cures                         治愈
+Heals +4                      治疗+4
+Heals +8                      治疗+8
+Illuminates                   照明
+Leadership                    领导
+Nightstalk                    夜行
+Regenerates                   再生
+Skirmisher                    游击
+Steadfast                     坚定
+Submerge                      潜水
+Teleport                      传送
+
+########################################
+
+Weapon Specialties            武器特性
+
+Backstab                      背刺
+Berserk                       狂暴
+Charge                        冲锋
+Drain                         吸血
+Feeding                       食尸
+Firststrike                   先制
+Magical                       魔法
+Marksman                      精准
+Plague                        瘟疫
+Poison                        毒素
+Slow                          减速
+Petrify                       石化
+Swarm                         群击
+
+########################################
+
+Attack Types                  攻击类型
+
+Blade                         剑刃
+Piercing                      穿刺
+Impact                        冲击
+Cold                          寒冰
+Fire                          火焰
+Arcane                        奥术
+
+########################################
+
+Terrains                      地形
+
+Flat                          平原
+Road                          道路
+Forest                        森林
+Hills                         丘陵
+Mountains                     山岭
+Swamp                         沼泽
+Shallow Water                 浅水
+Deep Water                    深水
+Frozen                        雪地
+Castle                        城堡
+Sand                          沙地
+Desert                        沙漠
+Cave                          洞穴
+Rockbound Cave                岩石洞穴
+Illuminated Cave              明亮洞穴
+Mushroom Grove                蘑菇林
+Submerged Village             水中村庄
+Unwalkable                    不可步行地形
+Lava                          熔岩
+River Ford                    河滩
+Coastal Reef                  礁石
+Bridge                        桥梁
+Impassable                    不可通过地形

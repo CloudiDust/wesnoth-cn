@@ -1,0 +1,358 @@
+Heir to the Throne            王座继承者
+
+****************************************
+
+Prelude                       序幕
+
+Garard                        伽拉德
+Eldred                        埃雷德
+Asheviere                     艾斯威勒
+Delfador                      黎伐多
+Konrad                        科纳德
+
+Galcadar                      伽尔卡达
+Ford of Abez                  雅碧滩
+Weldyn                        维尔帝
+Tath                          塔斯
+Aethenwood                    埃森丛林
+
+****************************************
+
+01 - The Elves Besieged       精灵受困
+
+Urug-Telfar                   乌鲁戈-特尔法
+Knafa-Tan                     克纳法-坦
+Maga-Knafa                    马加-克纳法
+Galdrad                       伽尔德拉德
+Chantal                       香黛儿
+
+Isle of Alduin                安度云岛
+
+****************************************
+
+02 - Blackwater Port          黑水港
+
+Sir Kaylan                    凯兰爵士
+Mokolo Qimur                  魔科洛·奇穆
+Veocyn                        维欧辛
+Yran                          伊兰
+Haldiel                       哈尔迪尔
+Yredd                         伊雷德
+Tarcyn                        塔辛
+Syryn                         希林
+Cicyn                         希辛
+Ginvan                        金凡
+Simyr                         西米尔
+
+****************************************
+
+03 - The Isle of Alduin       安度云岛
+
+Usadar Q'kai                  乌萨达·丘凯
+Elrian                        艾尔利安
+Seimus                        西穆斯
+
+Bay of Pearls                 珍珠湾
+
+****************************************
+
+04 - The Bay of Pearls        珍珠湾
+
+Dwaba-Kukai                   达瓦巴-库凯
+Managa'Gwin                   马纳加-戈温
+Bugg                          巴戈
+Xnamas                        希纳玛斯
+Inalai                        伊纳莱
+Gwaba                         格瓦巴
+Nepba                         内普巴
+Triram                        特里拉姆
+Mriram                        米里拉姆
+Mabooa                        玛博阿
+Earooa                        伊洛阿
+Nethuns                       内桑斯
+Gwoama                        格沃玛
+Kaba                          卡巴
+Kwaboo                        卡瓦布
+Gwimli                        格威姆利
+Jarla                         伽拉
+Gwarloa                       格瓦洛阿
+Heldaga                       黑尔达伽
+Apalala                       阿帕拉拉
+Oceania                       欧辛妮娅
+Elcmar                        艾尔克玛
+Aigaion                       艾该温
+Tini                          提尼
+
+Elensefar                     埃仁撒伐
+Elense city-state             埃仁斯城邦
+Elven Council                 精灵元老会
+
+****************************************
+
+05a - Muff Malal's Peninsula  玛夫·玛拉尔的半岛
+
+Muff Malal                    玛夫·玛拉尔
+
+****************************************
+
+05b - Isle of the Damned      被诅咒者之岛
+
+Haf-Mal                       哈夫-玛尔
+Jarmal-Gorg                   加马尔-高戈
+Kalba                         卡尔巴
+Gnaba                         格纳巴
+Delurin                       德鲁林
+Moremirmu                     莫密尔姆
+Xakae                         夏凯
+
+****************************************
+
+06 - The Siege of Elensefar   围攻埃仁撒伐
+
+Agadla                        阿伽德拉
+Muff Jaanal                   玛夫·伽纳尔
+Reglok                        瑞格罗克
+Gelgar                        格尔伽
+Gamlel                        伽姆蕾尔
+Darglen                       达格朗
+Kalenz                        凯雷茨
+
+Ka'lian                       卡·利安
+Great Council of the Elves    精灵大元老会
+Knalga                        纳尔迦
+Wesmere                       韦弥儿
+
+Scepter of Fire               圣火权杖
+
+****************************************
+
+07 - Crossroads               交叉路口之战
+
+Kojun Herolm                  阔军·荷洛姆
+Mokho Kimer                   莫科荷·基莫
+Niodien                       尼欧迪恩
+Loflar                        罗夫拉
+
+Dan'Tonk                      丹·冬克
+Fort Tahn                     塔恩关
+
+****************************************
+
+08 - The Princess of Wesnoth  韦诺公主
+
+Li'sar                        莉莎
+Ronry                         荣利
+
+Elmar's Crossing              艾尔玛河口
+Elbridge                      艾尔桥
+
+****************************************
+
+09 - The Valley of Death - The Princess's Revenge
+                              亡魂谷 - 公主的复仇
+
+Galga                         伽尔伽
+Na-alga                       纳-阿尔伽
+Selda-Mana                    希尔达-玛纳
+
+****************************************
+
+10 - Gryphon Mountain         狮鹫山
+
+Robryn                        罗伯林
+Graak                         格拉克
+Grook                         格鲁克
+Gruak                         格鲁阿克
+Graik                         格莱克
+Griak                         格里阿克
+
+Gryphon Mountain              狮鹫山
+
+****************************************
+
+11 - The Ford of Abez         雅碧滩
+
+Gaga-Breuk                    加加-布鲁克
+
+Heart Mountains               心之山脉
+
+****************************************
+
+12 - Northern Winter          北国之冬
+
+Halgar Du'nar                 哈尔加·杜纳
+
+****************************************
+
+13 - The Dwarven Doors        矮人国门
+
+Knafa-Telfar                  克纳法-特尔法
+Urug-Tan                      乌拉戈-坦
+Shuuga-Mool                   舒加-莫尔
+Uncle Somf                    苏莫夫大叔
+
+Pillars of Thunedain          苏内达因之柱
+The Great Doors               伟大之门
+
+****************************************
+
+14 - Plunging into the Darkness
+                              突入黑暗
+
+Hywyn                         海温
+Relgorn                       瑞尔高恩
+
+****************************************
+
+15 - The Lost General         失落的将军
+
+Geldar                        格尔达
+Brugg                         布鲁格
+Lionel                        黎尔诺
+Burlin                        巴尔林
+Ulfdain                       乌尔夫戴恩
+
+****************************************
+
+16 - Hasty Alliance           草率的联盟
+
+Haaf-Garga                    哈夫-加加
+
+****************************************
+
+17 - The Scepter of Fire      圣火权杖
+
+****************************************
+
+18 - A Choice Must Be Made    必须的抉择
+
+Unan-Ka'tall                  乌南-卡塔尔
+
+Longlier                      绵长之河
+Arkan-thoria                  阿坎-索丽亚
+The River of Bones            万骨河
+
+****************************************
+
+19a - Snow Plains             覆雪平原
+
+Urag-Tifer                    乌拉戈-提法
+Ila'alion                     伊拉·艾利温
+
+****************************************
+
+19b - Swamp Of Dread          恐惧沼泽
+
+Aimucasur                     艾姆卡苏尔
+Clarustus                     卡拉鲁斯图斯
+Merlunius                     莫鲁纽斯
+Secadius                      瑟卡丢斯
+Dafeis                        达非伊斯
+
+****************************************
+
+19c - The Cliffs of Thoria    索丽亚之崖
+
+Warven                        沃尔文
+Keh Ohn                       克·欧亨
+
+Everlore                      艾拂洛尔
+
+****************************************
+
+20a - Home of the North Elves 北精灵国
+
+Kior-Dal                      基欧-达尔
+Herbert                       赫伯特
+El'rien                       艾尔林恩
+Telerandor                    特勒兰多
+Glarilon                      格拉利洛
+Thalindil                     萨林迪尔
+Rholandir                     罗兰蒂尔
+
+Lintanir Forest               林坦尼森林
+Emetria                       艾梅提亚
+Elensiria                     埃仁希利亚
+
+****************************************
+
+20b - Underground Channels    地下通道
+
+Szerkz                        斯扎克斯
+Muff Argulak                  玛夫·阿古拉克
+Haralamdum                    哈拉兰杜姆
+Bona-Melodia                  波娜-梅洛蒂娅
+
+****************************************
+
+21 - The Elven Council        精灵元老会
+
+Uradredia                     尤拉德雷迪亚
+Parandra                      帕兰德拉
+Bellrok                       贝尔洛克
+Tindolean                     婷朵莉安
+Everlore                      艾芙洛儿
+Elandria                      艾兰德莉娅
+Kliada                        克利亚达
+
+Mountains of the Dragons      火龙山脉
+Dark Valley                   黑暗幽谷
+
+****************************************
+
+22 - Return to Wesnoth        重返韦诺
+
+Josephus                      约瑟夫
+Dwar-Ni                       德瓦-尼
+Malatus                       玛拉图斯
+Dacayan                       达卡扬
+
+****************************************
+
+23 - Test of the Clan         氏族的考验
+
+Sir Alric                     埃里克爵士
+Sir Ruga                      鲁加爵士
+Sir Daryn                     达林爵士
+Lord Bayar                    巴亚尔领主
+
+Mount Elnar                   艾尔纳山
+
+****************************************
+
+24 - The Battle for Wesnoth   韦诺之战
+
+Haliel-Maga                   哈里尔-马加
+Heford                        黑福德
+Sir Kalm                      卡尔姆爵士
+
+High Provost                  高等教长
+Council of Archmagi           大法师元老会
+Staff of An-Usrukhar          安-尤斯鲁卡法杖
+Book of Crelanu               克雷拉努之书
+
+****************************************
+
+Epilogue                      尾声
+
+****************************************
+
+Units                         单位
+
+Battle Princess               武士公主
+Commander                     指挥官
+Dark Queen                    黑暗女王
+Fighter                       战士
+Injured Sergeant              负伤军士
+Lord                          领主
+Princess                      公主
+Sea Orc                       海洋兽人
+Sleeping Gryphon              沉睡狮鹫
+
+****************************************
+
+Items                         物品
+
+Flaming Sword                 烈火之剑
+Void Armor                    虚空战甲
+Scepter of Fire               圣火权杖

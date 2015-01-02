@@ -1,0 +1,4031 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2015 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
+# sylecn <sylecn@yahoo.com.cn>, 2009.
+# CloudiDust <cloudidust@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-1.12\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2014-11-15 10:53+0100\n"
+"PO-Revision-Date: 2015-01-02 13:14+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#. [terrain_type]: id=deep_water
+#. [terrain_type]: id=deep_water_gray
+#. [terrain_type]: id=deep_water_medium
+#. [terrain_type]: id=deep_water_tropical
+msgid "Deep Water"
+msgstr "深水"
+
+#. [terrain_type]: id=deep_water_gray
+msgid "Gray Deep Water"
+msgstr "灰色深水"
+
+#. [terrain_type]: id=deep_water_medium
+msgid "Medium Deep Water"
+msgstr "中等深水"
+
+#. [terrain_type]: id=deep_water_tropical
+msgid "Tropical Deep Water"
+msgstr "热带深水"
+
+#. [terrain_type]: id=gray_tropical_water
+#. [terrain_type]: id=medium_shallow_water
+#. [terrain_type]: id=shallow_water
+#. [terrain_type]: id=tropical_water
+msgid "Shallow Water"
+msgstr "浅水"
+
+#. [terrain_type]: id=gray_tropical_water
+msgid "Gray Shallow Water"
+msgstr "灰色浅水"
+
+#. [terrain_type]: id=medium_shallow_water
+msgid "Medium Shallow Water"
+msgstr "中等的浅水"
+
+#. [terrain_type]: id=tropical_water
+msgid "Tropical Shallow Water"
+msgstr "热带浅水"
+
+#. [terrain_type]: id=ford
+msgid "Ford"
+msgstr "浅滩"
+
+#. [terrain_type]: id=ford
+msgid ""
+"When a river happens to be extremely shallow, passing over it is a trivial "
+"matter for land based units. Moreover, any creature best adapted to swimming "
+"has full mobility even at such places in the river. As far as gameplay is "
+"concerned, a river ford is treated as either grassland or shallow water, "
+"choosing whichever one offers the best defensive and movement bonuses for "
+"the unit on it."
+msgstr ""
+
+#. [terrain_type]: id=gray_reef
+#. [terrain_type]: id=medium_reef
+#. [terrain_type]: id=reef
+#. [terrain_type]: id=tropical_reef
+msgid "Coastal Reef"
+msgstr "礁石"
+
+#. [terrain_type]: id=gray_reef
+msgid "Gray Coastal Reef"
+msgstr "灰色礁石"
+
+#. [terrain_type]: id=medium_reef
+#, fuzzy
+msgid "Medium Coastal Reef"
+msgstr "礁石"
+
+#. [terrain_type]: id=tropical_reef
+msgid "Tropical Coastal Reef"
+msgstr "热带礁石"
+
+#. [terrain_type]: id=quagmire
+#. [terrain_type]: id=swamp_water
+#. [terrain_type]: id=swamp_water_reed
+msgid "Swamp"
+msgstr "沼泽"
+
+#. [terrain_type]: id=swamp_water_reed
+#, fuzzy
+msgid "Swamp Water Reed"
+msgstr "沼泽中的人类城堡主楼"
+
+#. [terrain_type]: id=quagmire
+msgid "Muddy Quagmire"
+msgstr "泥泞的沼泽"
+
+#. [terrain_type]: id=grass_dry
+#. [terrain_type]: id=grassland
+#. [terrain_type]: id=leaf_litter
+#. [terrain_type]: id=savanna
+msgid "Grassland"
+msgstr "草原"
+
+#. [terrain_type]: id=grassland
+msgid "Green Grass"
+msgstr "绿草"
+
+#. [terrain_type]: id=savanna
+msgid "Semi-dry Grass"
+msgstr "半干的草"
+
+#. [terrain_type]: id=grass_dry
+msgid "Dry Grass"
+msgstr "干草"
+
+#. [terrain_type]: id=leaf_litter
+msgid "Leaf Litter"
+msgstr "残败的落叶"
+
+#. [terrain_type]: id=dirt
+#. [terrain_type]: id=dirt_dark
+#. [terrain_type]: id=dirt_dry
+msgid "Dirt"
+msgstr "尘土"
+
+#. [terrain_type]: id=dirt_dark
+msgid "Dark Dirt"
+msgstr "暗色尘土"
+
+#. [terrain_type]: id=dirt
+msgid "Regular Dirt"
+msgstr "普通尘土"
+
+#. [terrain_type]: id=dirt_dry
+msgid "Dry Dirt"
+msgstr "干燥尘土"
+
+#. [terrain_type]: id=cave_path
+#. [terrain_type]: id=flagstones_dark
+#. [terrain_type]: id=road
+#. [terrain_type]: id=road_clean
+#. [terrain_type]: id=stone_path
+msgid "Road"
+msgstr "道路"
+
+#. [terrain_type]: id=road
+msgid "Regular Cobbles"
+msgstr "普通卵石"
+
+#. [terrain_type]: id=road
+msgid ""
+"<italic>text='Roads'</italic> are beaten paths of dirt, formed by many "
+"travelers passing over them. As far as gameplay is concerned, roads behave "
+"as flat terrain."
+msgstr ""
+
+#. [terrain_type]: id=road_clean
+msgid "Clean Gray Cobbles"
+msgstr "干净的灰色卵石"
+
+#. [terrain_type]: id=stone_path
+msgid "Overgrown Cobbles"
+msgstr "杂草丛生的卵石"
+
+#. [terrain_type]: id=ice
+msgid "Ice"
+msgstr "冰面"
+
+#. [terrain_type]: id=snow
+msgid "Snow"
+msgstr "雪地"
+
+#. [terrain_type]: id=desert
+msgid "Desert"
+msgstr "沙漠"
+
+#. [terrain_type]: id=desert
+msgid "Desert Sands"
+msgstr "沙漠沙砾"
+
+#. [terrain_type]: id=desert
+msgid ""
+"<italic>text='Deserts'</italic> have a somewhat different composition than "
+"small sand pits or beaches, however for gameplay purposes they are "
+"identical. See <ref>dst='terrain_sand' text='sand'</ref>."
+msgstr ""
+
+#. [terrain_type]: id=sand
+#. [terrain_type]: id=sand_beach
+msgid "Sand"
+msgstr "沙地"
+
+#. [terrain_type]: id=sand_beach
+msgid "Beach Sands"
+msgstr "海滩沙砾"
+
+#. [terrain_type]: id=sand
+#. [terrain_type]: id=sand_beach
+msgid ""
+"The instability of <italic>text='sand'</italic> makes it harder for most "
+"units to cross, and leaves them wide open to attack. In contrast, the wide "
+"feet or snakelike bodies of the reptilian races make sand much easier for "
+"them to navigate.\n"
+"\n"
+"Most units receive 20 to 40% defense in sand."
+msgstr ""
+
+#. [terrain_type]: id=oasis
+msgid "Oasis"
+msgstr "绿洲"
+
+#. [terrain_type]: id=sand_rubble
+msgid "Rubble"
+msgstr "碎石"
+
+#. [terrain_type]: id=crater
+msgid "Crater"
+msgstr "火山口"
+
+#. [terrain_type]: id=flowers_mixed
+msgid "Mixed Flowers"
+msgstr "多种鲜花"
+
+#. [terrain_type]: id=farm
+msgid "Farmland"
+msgstr "农场"
+
+#. [terrain_type]: id=stones_small
+msgid "Stones"
+msgstr "石头"
+
+#. [terrain_type]: id=mushrooms_small
+msgid "Small Mushrooms"
+msgstr "小蘑菇"
+
+#. [terrain_type]: id=mushrooms_farm
+msgid "Mushroom Farm"
+msgstr "蘑菇林"
+
+#. [terrain_type]: id=desert_plants
+msgid "Desert Plants"
+msgstr "沙漠植物"
+
+#. [terrain_type]: id=desert_plants_sans_bones
+msgid "Desert Plants without Bones"
+msgstr "没有茎干的沙漠植物"
+
+#. [terrain_type]: id=windmill
+msgid "Windmill"
+msgstr "风车"
+
+#. [terrain_type]: id=campfire
+#, fuzzy
+msgid "Campfire"
+msgstr "战役"
+
+#. [terrain_type]: id=fence
+msgid "Fence"
+msgstr "篱笆"
+
+#. [terrain_type]: id=sand_drifts
+msgid "Stones with Sand Drifts"
+msgstr "积沙岩石"
+
+#. [terrain_type]: id=water-lilies
+msgid "Water Lilies"
+msgstr "睡莲"
+
+#. [terrain_type]: id=water-lilies-flower
+msgid "Flowering Water Lilies"
+msgstr "盛开的睡莲"
+
+#. [terrain_type]: id=detritus_trash
+msgid "Trash"
+msgstr ""
+
+#. [terrain_type]: id=detritus_bones
+msgid "Remains"
+msgstr ""
+
+#. [terrain_type]: id=great_tree
+#. [terrain_type]: id=great_tree_dead
+msgid "Great Tree"
+msgstr "参天大树"
+
+#. [terrain_type]: id=great_tree_dead
+msgid "Dead Great Tree"
+msgstr "已死的参天大树"
+
+#. [terrain_type]: id=deciduous_forest_fall
+#. [terrain_type]: id=deciduous_forest_summer
+#. [terrain_type]: id=deciduous_forest_winter
+#. [terrain_type]: id=deciduous_forest_winter_snow
+#. [terrain_type]: id=forest
+#. [terrain_type]: id=mixed_forest_fall
+#. [terrain_type]: id=mixed_forest_summer
+#. [terrain_type]: id=mixed_forest_winter
+#. [terrain_type]: id=mixed_forest_winter_snow
+#. [terrain_type]: id=palm_desert_forest
+#. [terrain_type]: id=palm_forest
+#. [terrain_type]: id=pine_forest
+#. [terrain_type]: id=rainforest
+#. [terrain_type]: id=savanna_forest
+#. [terrain_type]: id=snow_forest
+#. [terrain_type]: id=tropical_forest
+msgid "Forest"
+msgstr "森林"
+
+#. [terrain_type]: id=tropical_forest
+msgid "Tropical Forest"
+msgstr "热带森林"
+
+#. [terrain_type]: id=rainforest
+#, fuzzy
+msgid "Rainforest"
+msgstr "松林"
+
+#. [terrain_type]: id=palm_desert_forest
+#, fuzzy
+msgid "Palm Forest"
+msgstr "松林"
+
+#. [terrain_type]: id=palm_forest
+#, fuzzy
+msgid "Dense Palm Forest"
+msgstr "松林"
+
+#. [terrain_type]: id=savanna_forest
+msgid "Savanna"
+msgstr ""
+
+#. [terrain_type]: id=pine_forest
+msgid "Pine Forest"
+msgstr "松林"
+
+#. [terrain_type]: id=snow_forest
+msgid "Snowy Pine Forest"
+msgstr "雪松林"
+
+#. [terrain_type]: id=deciduous_forest_summer
+msgid "Summer Deciduous Forest"
+msgstr "夏季落叶林"
+
+#. [terrain_type]: id=deciduous_forest_fall
+msgid "Fall Deciduous Forest"
+msgstr "秋季落叶林"
+
+#. [terrain_type]: id=deciduous_forest_winter
+msgid "Winter Deciduous Forest"
+msgstr "冬季落叶林"
+
+#. [terrain_type]: id=deciduous_forest_winter_snow
+msgid "Snowy Deciduous Forest"
+msgstr "雪地落叶林"
+
+#. [terrain_type]: id=mixed_forest_summer
+msgid "Summer Mixed Forest"
+msgstr "夏季混交林"
+
+#. [terrain_type]: id=mixed_forest_fall
+msgid "Fall Mixed Forest"
+msgstr "秋季混交林"
+
+#. [terrain_type]: id=mixed_forest_winter
+msgid "Winter Mixed Forest"
+msgstr "东季混交林"
+
+#. [terrain_type]: id=mixed_forest_winter_snow
+msgid "Snowy Mixed Forest"
+msgstr "雪地混交林"
+
+#. [terrain_type]: id=hills
+#. [terrain_type]: id=hills_dry
+#. [terrain_type]: id=hills_regular
+#. [terrain_type]: id=snow_hills
+msgid "Hills"
+msgstr "丘陵"
+
+#. [terrain_type]: id=hills_regular
+msgid "Regular Hills"
+msgstr "普通丘陵"
+
+#. [terrain_type]: id=hills_dry
+msgid "Dry Hills"
+msgstr "干燥丘陵"
+
+#. [terrain_type]: id=desert_hills
+msgid "Dunes"
+msgstr "沙丘"
+
+#. [terrain_type]: id=snow_hills
+msgid "Snow Hills"
+msgstr "雪丘"
+
+#. [terrain_type]: id=cloud
+#. [terrain_type]: id=cloud_snow
+#. [terrain_type]: id=clouddesert
+#. [terrain_type]: id=desert_mountains
+#. [terrain_type]: id=mountains
+#. [terrain_type]: id=regular_mountains
+#. [terrain_type]: id=snow_mountains
+msgid "Mountains"
+msgstr "山岭"
+
+#. [terrain_type]: id=regular_mountains
+#, fuzzy
+msgid "Regular Mountains"
+msgstr "普通的高不可攀的山脉"
+
+#. [terrain_type]: id=desert_mountains
+msgid "Dry Mountains"
+msgstr "干燥山脉"
+
+#. [terrain_type]: id=snow_mountains
+msgid "Snowy Mountains"
+msgstr "雪中的山脉"
+
+#. [terrain_type]
+msgid "Wooden Floor"
+msgstr "木质地面"
+
+#. [terrain_type]
+msgid "Basic Wooden Floor"
+msgstr "基本的木地面"
+
+#. [terrain_type]: id=lit
+msgid "Lit"
+msgstr "光照"
+
+#. [terrain_type]: id=lit
+msgid "Beam of Light"
+msgstr "光束"
+
+#. [terrain_type]: id=cave
+#. [terrain_type]: id=cave_earthy
+#. [terrain_type]: id=cave_floor
+msgid "Cave"
+msgstr "洞穴"
+
+#. [terrain_type]: id=cave_floor
+msgid "Cave Floor"
+msgstr "洞穴地面"
+
+#. [terrain_type]: id=cave_earthy
+msgid "Earthy Cave Floor"
+msgstr "泥土洞穴地面"
+
+#. [terrain_type]: id=flagstones_dark
+msgid "Dark Flagstones"
+msgstr "暗色石子路"
+
+#. [terrain_type]: id=cave_path
+msgid "Cave Path"
+msgstr "洞穴小径"
+
+#. [terrain_type]: id=fungus_beam
+#. [terrain_type]: id=fungus_grove
+msgid "Mushroom Grove"
+msgstr "蘑菇林"
+
+#. [terrain_type]: id=fungus_beam
+msgid "Lit Mushroom Grove"
+msgstr "被照亮的蘑菇林"
+
+#. [terrain_type]: id=rocky_cave
+msgid "Rockbound Cave"
+msgstr "岩石洞穴"
+
+#. [terrain_type]: id=rocky_cave
+msgid ""
+"<italic>text='Rockbound cave'</italic> terrain is formed by the action of "
+"water and wind, carrying erosive particles that carve the rock. It resembles "
+"a scraggy underground cavern which reduces efficiency of most units, but "
+"shoulders defense. Dwarves and trolls, who are main settlers of caves, have "
+"a relatively easy time navigating this terrain. Dwarves, who by dint of "
+"their small size have the full advantage of navigation in such topography. "
+"Occasionally caves are <ref>dst='terrain_illuminated_cave' "
+"text='illuminated'</ref>\n"
+"\n"
+"Most units have about 50% defense in rocky caves, whereas cavalry are "
+"limited to 40%. Dwarves enjoy 60% defense in rockbound caves."
+msgstr ""
+
+#. [terrain_type]: id=mine_rails
+#. [terrain_type]: id=mine_railsdiag1
+#. [terrain_type]: id=mine_railsdiag2
+msgid "Mine Rail"
+msgstr "矿中铁轨"
+
+#. [terrain_type]: id=abyss
+#. [terrain_type]: id=canyon
+#. [terrain_type]: id=chasm_earthy
+#. [terrain_type]: id=lava_chasm
+msgid "Chasm"
+msgstr "裂隙"
+
+#. [terrain_type]: id=canyon
+msgid "Regular Chasm"
+msgstr "普通裂隙"
+
+#. [terrain_type]: id=chasm_earthy
+msgid "Earthy Chasm"
+msgstr "泥土裂隙"
+
+#. [terrain_type]: id=abyss
+msgid "Ethereal Abyss"
+msgstr "无底深渊"
+
+#. [terrain_type]: id=lava_chasm
+msgid "Lava Chasm"
+msgstr "熔岩裂隙"
+
+#. [terrain_type]: id=lava
+msgid "Lava"
+msgstr "熔岩"
+
+#. [terrain_type]: id=lava
+msgid ""
+"The dangers inherent in trying to walk on <italic>text='lava'</italic> are "
+"fairly obvious. As far as movement is concerned, lava is equivalent to "
+"<ref>dst='terrain_unwalkable' text='unwalkable'</ref> terrain, and can only "
+"be crossed by those units capable of flying a considerable distance above "
+"it. The molten magma also produces a substantial glow, illuminating the area "
+"immediately above it. This provides an attack bonus for lawful units and "
+"removes the attack bonus from chaotic units."
+msgstr ""
+
+#. [terrain_type]: id=volcano
+msgid "Volcano"
+msgstr "火山"
+
+#. [terrain_type]: id=cloud
+msgid "Regular Impassable Mountains"
+msgstr "普通的高不可攀的山脉"
+
+#. [terrain_type]: id=clouddesert
+msgid "Desert Impassable Mountains"
+msgstr "沙漠中的高不可攀的山脉"
+
+#. [terrain_type]: id=cloud_snow
+msgid "Snowy Impassable Mountains"
+msgstr "雪中的高不可攀的山脉"
+
+#. [terrain_type]: id=cavewall
+#. [terrain_type]: id=cavewall_earthy
+#. [terrain_type]: id=cavewall_earthy_hewn
+#. [terrain_type]: id=cavewall_hewn
+msgid "Cave Wall"
+msgstr "洞穴墙壁"
+
+#. [terrain_type]: id=cavewall
+msgid "Natural Cave Wall"
+msgstr "普通的洞穴墙壁"
+
+#. [terrain_type]: id=cavewall_hewn
+msgid "Hewn Cave Wall"
+msgstr "粗糙的洞穴墙壁"
+
+#. [terrain_type]: id=cavewall_earthy
+msgid "Natural Earthy Cave Wall"
+msgstr "天然的泥土洞穴墙壁"
+
+#. [terrain_type]: id=cavewall_earthy_hewn
+msgid "Reinforced Earthy Cave Wall"
+msgstr "加固的泥土洞穴墙壁"
+
+#. [terrain_type]: id=wall_stone
+#. [terrain_type]: id=wall_stone_lit
+msgid "Stone Wall"
+msgstr "石墙"
+
+#. [terrain_type]: id=wall_stone_lit
+msgid "Lit Stone Wall"
+msgstr "被照亮的石墙"
+
+#. [terrain_type]: id=impassable_overlay
+msgid "Impassable Overlay"
+msgstr "不可通过地形覆盖层"
+
+#. [terrain_type]: id=unwalkable_overlay
+#, fuzzy
+msgid "Unwalkable Overlay"
+msgstr "不可通过地形覆盖层"
+
+#. [terrain_type]: id=off_map
+#. [terrain_type]: id=off_map2
+#. [terrain_type]: id=void
+msgid "Void"
+msgstr "空"
+
+#. [terrain_type]: id=camp_village
+#. [terrain_type]: id=city_village
+#. [terrain_type]: id=city_village_ruin
+#. [terrain_type]: id=city_village_wno
+#. [terrain_type]: id=desert_village
+#. [terrain_type]: id=desert_village_tent
+#. [terrain_type]: id=drake_village
+#. [terrain_type]: id=dwarven_village
+#. [terrain_type]: id=elven_snow_village
+#. [terrain_type]: id=elven_village
+#. [terrain_type]: id=hill_village
+#. [terrain_type]: id=hill_village_ruin
+#. [terrain_type]: id=human_village
+#. [terrain_type]: id=human_village_ruin
+#. [terrain_type]: id=hut_snow_village
+#. [terrain_type]: id=hut_village
+#. [terrain_type]: id=igloo
+#. [terrain_type]: id=logcabin_snow_village
+#. [terrain_type]: id=logcabin_village
+#. [terrain_type]: id=mermen-village
+#. [terrain_type]: id=orcish_snow_village
+#. [terrain_type]: id=orcish_village
+#. [terrain_type]: id=snow-hill_village
+#. [terrain_type]: id=snow_village
+#. [terrain_type]: id=swamp_village
+#. [terrain_type]: id=tropical_forest_village
+#. [terrain_type]: id=underground_village
+#. [terrain_type]: id=village
+#. [terrain_type]: id=village_overlay
+#. [terrain_type]: id=windmill_village
+msgid "Village"
+msgstr "村庄"
+
+#. [terrain_type]: id=desert_village
+msgid "Adobe Village"
+msgstr "泥砖村庄"
+
+#. [terrain_type]: id=desert_village_tent
+msgid "Desert Tent Village"
+msgstr "沙漠中的帐篷村庄"
+
+#. [terrain_type]: id=camp_village
+msgid "Tent Village"
+msgstr "帐篷村庄"
+
+#. [terrain_type]: id=orcish_village
+msgid "Orcish Village"
+msgstr "兽人村庄"
+
+#. [terrain_type]: id=orcish_snow_village
+msgid "Snowy Orcish Village"
+msgstr "雪中的兽人村庄"
+
+#. [terrain_type]: id=elven_snow_village
+msgid "Snowy Elven Village"
+msgstr "雪中的精灵村庄"
+
+#. [terrain_type]: id=elven_village
+msgid "Elven Village"
+msgstr "精灵村庄"
+
+#. [terrain_type]: id=human_village
+msgid "Cottage"
+msgstr "小农舍"
+
+#. [terrain_type]: id=snow_village
+msgid "Snowy Cottage"
+msgstr "雪中小农舍"
+
+#. [terrain_type]: id=human_village_ruin
+msgid "Ruined Cottage"
+msgstr "荒废的小农舍"
+
+#. [terrain_type]: id=city_village
+msgid "Human City"
+msgstr "人类城市"
+
+#. [terrain_type]: id=windmill_village
+msgid "Windmill Village"
+msgstr "风车村庄"
+
+#. [terrain_type]: id=city_village_wno
+msgid "Snowy Human City"
+msgstr "雪中的人类城市"
+
+#. [terrain_type]: id=city_village_ruin
+msgid "Ruined Human City"
+msgstr "荒废的人类城市"
+
+#. [terrain_type]: id=hill_village
+msgid "Hill Stone Village"
+msgstr "山石村庄"
+
+#. [terrain_type]: id=snow-hill_village
+msgid "Snowy Hill Stone Village"
+msgstr "雪中的山石村庄"
+
+#. [terrain_type]: id=hill_village_ruin
+msgid "Ruined Hill Stone Village"
+msgstr "荒废的山石村庄"
+
+#. [terrain_type]: id=tropical_forest_village
+msgid "Tropical Village"
+msgstr "热带村庄"
+
+#. [terrain_type]: id=drake_village
+msgid "Drake Village"
+msgstr "龙人村庄"
+
+#. [terrain_type]: id=underground_village
+msgid "Cave Village"
+msgstr "洞穴村庄"
+
+#. [terrain_type]: id=dwarven_village
+msgid "Dwarven Village"
+msgstr "矮人村庄"
+
+#. [terrain_type]: id=hut_village
+msgid "Hut"
+msgstr "小屋"
+
+#. [terrain_type]: id=hut_snow_village
+msgid "Snowy Hut"
+msgstr "雪中的小屋"
+
+#. [terrain_type]: id=logcabin_village
+msgid "Log Cabin"
+msgstr "小木屋"
+
+#. [terrain_type]: id=logcabin_snow_village
+msgid "Snowy Log Cabin"
+msgstr "雪中的小木屋"
+
+#. [terrain_type]: id=igloo
+msgid "Igloo"
+msgstr "圆顶屋"
+
+#. [terrain_type]: id=swamp_village
+msgid "Swamp Village"
+msgstr "沼泽村庄"
+
+#. [terrain_type]: id=mermen-village
+msgid "Merfolk Village"
+msgstr "人鱼村庄"
+
+#. [terrain_type]: id=mermen-village
+msgid ""
+"<italic>text='Submerged villages'</italic> are the homes of merfolk and "
+"nagas. While water-dwelling creatures are at home here, land-dwellers have a "
+"hard time navigating and defending these villages. However, like any "
+"village, the facilities are available to all creatures which allow units to "
+"tend to their wounds. Any unit stationed in a village can heal eight "
+"hitpoints each turn, or be cured of poison.\n"
+"\n"
+"Merfolk and nagas have 60% defense in submerged villages, whereas land based "
+"units usually have a low defense."
+msgstr ""
+
+#. [terrain_type]: id=village_overlay
+msgid "Village Overlay"
+msgstr "村庄覆盖层"
+
+#. [terrain_type]: id=encampment
+#. [terrain_type]: id=encampment_snow
+msgid "Encampment"
+msgstr "营地"
+
+#. [terrain_type]: id=encampment_snow
+msgid "Snowy Encampment"
+msgstr "雪中营地"
+
+#. [terrain_type]: id=castle
+#. [terrain_type]: id=castle_overlay
+#. [terrain_type]: id=dwarven_castle
+#. [terrain_type]: id=elven_castle
+#. [terrain_type]: id=human_castle
+#. [terrain_type]: id=orcish_fort
+#. [terrain_type]: id=sand_castle
+#. [terrain_type]: id=snow_castle
+#. [terrain_type]: id=snow_orcish_fort
+msgid "Castle"
+msgstr "城堡"
+
+#. [terrain_type]: id=orcish_fort
+msgid "Orcish Castle"
+msgstr "兽人城堡"
+
+#. [terrain_type]: id=snow_orcish_fort
+msgid "Snowy Orcish Castle"
+msgstr "雪中的兽人城堡"
+
+#. [terrain_type]: id=human_castle
+msgid "Human Castle"
+msgstr "人类城堡"
+
+#. [terrain_type]: id=snow_castle
+msgid "Snowy Human Castle"
+msgstr "雪中的人类城堡"
+
+#. [terrain_type]: id=elven_castle
+#, fuzzy
+msgid "Elven Castle"
+msgstr "精灵城堡主楼"
+
+#. [terrain_type]: id=dwarven_castle
+msgid "Dwarven Castle"
+msgstr "矮人城堡"
+
+#. [terrain_type]: id=ruin
+#. [terrain_type]: id=sand_castle_ruin
+#. [terrain_type]: id=sunkenruin
+#. [terrain_type]: id=swampruin
+msgid "Ruined Castle"
+msgstr "荒废的城堡"
+
+#. [terrain_type]: id=ruin
+msgid "Ruined Human Castle"
+msgstr "荒废的人类城堡"
+
+#. [terrain_type]: id=sunkenruin
+msgid "Sunken Human Ruin"
+msgstr "沉陷的人类废墟"
+
+#. [terrain_type]: id=swampruin
+msgid "Swamp Human Ruin"
+msgstr "沼泽中的人类废墟"
+
+#. [terrain_type]: id=sand_castle
+msgid "Desert Castle"
+msgstr "沙漠城堡"
+
+#. [terrain_type]: id=sand_castle_ruin
+msgid "Ruined Desert Castle"
+msgstr "荒废的沙漠城堡"
+
+#. [terrain_type]: id=encampment_keep
+#. [terrain_type]: id=encampment_keep_tall
+#. [terrain_type]: id=encampment_snow_keep
+msgid "Encampment Keep"
+msgstr "营地主楼"
+
+#. [terrain_type]: id=encampment_keep_tall
+msgid "Tall Encampment Keep"
+msgstr "高耸的营地主楼"
+
+#. [terrain_type]: id=encampment_snow_keep
+msgid "Snowy Encampment Keep"
+msgstr "雪中的营地主楼"
+
+# i'd like to translate it as城堡主楼
+#. [terrain_type]: id=desert_keep
+#. [terrain_type]: id=dwarven_keep
+#. [terrain_type]: id=elven_keep
+#. [terrain_type]: id=human_keep
+#. [terrain_type]: id=keep_overlay
+#. [terrain_type]: id=orcish_keep
+#. [terrain_type]: id=snow_keep
+#. [terrain_type]: id=snow_orcish_keep
+msgid "Keep"
+msgstr "主楼"
+
+# i'd like to translate it as城堡主楼
+#. [terrain_type]: id=orcish_keep
+msgid "Orcish Keep"
+msgstr "兽人主楼"
+
+#. [terrain_type]: id=snow_orcish_keep
+msgid "Snowy Orcish Keep"
+msgstr "雪中的兽人主楼"
+
+#. [terrain_type]: id=human_keep
+msgid "Human Castle Keep"
+msgstr "人类城堡主楼"
+
+#. [terrain_type]: id=snow_keep
+msgid "Snowy Human Castle Keep"
+msgstr "雪中的人类城堡主楼"
+
+#. [terrain_type]: id=elven_keep
+msgid "Elven Castle Keep"
+msgstr "精灵城堡主楼"
+
+#. [terrain_type]: id=dwarven_keep
+msgid "Dwarven Castle Keep"
+msgstr "矮人城堡主楼"
+
+#. [terrain_type]: id=desert_keep_ruined
+#. [terrain_type]: id=ruined_keep
+#. [terrain_type]: id=sunken_keep
+#. [terrain_type]: id=swamp_keep
+msgid "Ruined Keep"
+msgstr "荒废的主楼"
+
+#. [terrain_type]: id=ruined_keep
+msgid "Ruined Human Castle Keep"
+msgstr "荒废的人类城堡主楼"
+
+#. [terrain_type]: id=sunken_keep
+msgid "Sunken Human Castle Keep"
+msgstr "沉陷的人类城堡主楼"
+
+#. [terrain_type]: id=swamp_keep
+msgid "Swamp Human Castle Keep"
+msgstr "沼泽中的人类城堡主楼"
+
+#. [terrain_type]: id=desert_keep
+msgid "Desert Keep"
+msgstr "沙漠主楼"
+
+#. [terrain_type]: id=desert_keep_ruined
+msgid "Ruined Desert Keep"
+msgstr "荒废的沙漠主楼"
+
+#. [terrain_type]: id=castle_overlay
+msgid "Castle Overlay"
+msgstr "城堡覆盖层"
+
+#. [terrain_type]: id=keep_overlay
+msgid "Keep Overlay"
+msgstr "主楼覆盖层"
+
+#. [terrain_type]: id=bridge
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+#. [terrain_type]: id=bridgediag1
+#. [terrain_type]: id=bridgediag2
+#. [terrain_type]: id=rotbridge
+#. [terrain_type]: id=rotbridgediag1
+#. [terrain_type]: id=rotbridgediag2
+#. [terrain_type]: id=stone_bridge
+#. [terrain_type]: id=stone_bridgediag1
+#. [terrain_type]: id=stone_bridgediag2
+msgid "Bridge"
+msgstr "桥梁"
+
+#. [terrain_type]: id=bridge
+#. [terrain_type]: id=bridgediag1
+#. [terrain_type]: id=bridgediag2
+msgid "Wooden Bridge"
+msgstr "木桥"
+
+#. [terrain_type]: id=bridge
+msgid ""
+"To those capable of building one, the ability to lay a "
+"<italic>text='bridge'</italic> offers a liberation from the fickle nature of "
+"waterways, whose fords come and go with the rise and fall of the waterline. "
+"This is to say nothing of the luxury of dry feet, the loss of which is no "
+"laughing matter in the cold months of the year.\n"
+"\n"
+"For those who go by land or sea, a bridge is the best of both worlds — for "
+"gameplay purposes, it is treated either as grassland or the underlying "
+"water, whichever offers the best movement and defensive bonuses for the unit "
+"occupying the bridge hex. Note that a swimming unit and a land unit are not "
+"capable of occupying a bridge hex at the same time."
+msgstr ""
+
+#. [terrain_type]: id=rotbridge
+#. [terrain_type]: id=rotbridgediag1
+#. [terrain_type]: id=rotbridgediag2
+msgid "Rotting Bridge"
+msgstr "腐坏中的村庄"
+
+#. [terrain_type]: id=stone_bridge
+#. [terrain_type]: id=stone_bridgediag1
+#. [terrain_type]: id=stone_bridgediag2
+msgid "Basic Stone Bridge"
+msgstr "基本的石桥"
+
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+msgid "Cave Chasm Bridge"
+msgstr "洞穴裂缝上的桥"
+
+#. [terrain_type]: id=hangingbridge
+#. [terrain_type]: id=hangingbridgediag1
+#. [terrain_type]: id=hangingbridgediag2
+#, fuzzy
+msgid "Hanging Bridge"
+msgstr "腐坏中的村庄"
+
+#. [terrain_type]: id=stonechasmbridge
+#. [terrain_type]: id=stonechasmbridgediag1
+#. [terrain_type]: id=stonechasmbridgediag2
+#, fuzzy
+msgid "Stone Chasm Bridge"
+msgstr "洞穴裂缝上的桥"
+
+#. [terrain_type]: id=plankbridge
+#. [terrain_type]: id=plankbridgediag1
+#. [terrain_type]: id=plankbridgediag2
+#, fuzzy
+msgid "Plank Bridge"
+msgstr "桥梁"
+
+#. [terrain_type]: id=off_map
+msgid "Off Map"
+msgstr "地图之外"
+
+#. [terrain_type]: id=off_map2
+msgid "Experimental Fake Map Edge"
+msgstr "试验性的伪地图边缘"
+
+#. [terrain_type]: id=shroud
+#. [toggle_button]: id=shroud
+msgid "Shroud"
+msgstr "战场黑幕"
+
+#. [terrain_type]: id=fog
+msgid "Fog"
+msgstr "战争迷雾"
+
+#. [terrain_type]: id=fungus
+msgid "Fungus"
+msgstr ""
+
+#. [terrain_type]: id=fungus
+msgid ""
+"<italic>text='Mushroom groves'</italic> are vast underground forests of "
+"giant mushrooms,\n"
+"which thrive in the damp darkness. Most units have trouble negotiating the "
+"spongy floor of smaller fungi, but they have plenty of cover behind the "
+"larger stalks. Mounted units, however, become completely mired and lack "
+"proper freedom of movement in combat. Undead units have a natural affinity "
+"for decay and function quite well in mushroom forests.\n"
+"\n"
+"Most units receive 50% to 60% defense in mushroom groves, whereas cavalry "
+"receive only 20%."
+msgstr ""
+
+#. [terrain_type]: id=cave
+msgid ""
+"<italic>text='Cave'</italic> terrain represents any underground cavern with "
+"enough room for a unit to pass.\n"
+"Most units are wholly unfamiliar with the terrain, and thus are both slowed "
+"down and hindered in defense. Dwarves and trolls, who make their homes in "
+"caves, both have a relatively easy time navigating this terrain, especially "
+"dwarves, who by dint of their small size can navigate many obstacles that "
+"other races cannot. Occasionally caves are "
+"<ref>dst='terrain_illuminated_cave' text='illuminated'</ref>.\n"
+"\n"
+"Rare patches of the underground world are illuminated by light from the "
+"surface shining down into the gloomy darkness. This provides an attack bonus "
+"for lawful units and removes the attack bonus from chaotic units. In all "
+"other regards this terrain is functionally identical to normal "
+"<ref>dst='terrain_cave' text='cave terrains'</ref>.\n"
+"\n"
+"Most units receive 20 to 40% defense in caves, whereas dwarves have 50%."
+msgstr ""
+
+#. [terrain_type]: id=sand
+#, fuzzy
+msgid "Sands"
+msgstr "沙地"
+
+#. [terrain_type]: id=reef
+msgid ""
+"<italic>text='Coastal reefs'</italic> are shallows formed by stone, coral "
+"and sand.\n"
+"This provides most land units with a more steady footing and defensive "
+"positions than wading in shallow water normally would and also grants most "
+"water-dwelling races an exceptionally high defense.\n"
+"\n"
+"Mermen and Naga both receive 70% defense on coastal reefs."
+msgstr ""
+
+#. [terrain_type]: id=hills
+msgid ""
+"<italic>text='Hills'</italic> represent any reasonably rough terrain,\n"
+"with enough dips and rises in the ground to provide some cover. Hills are "
+"difficult for most troops to navigate. Dwarves, trolls, and orcs have enough "
+"familiarity with the terrain that they can pass through it without being "
+"slowed down. Cavalry have enough trouble navigating the terrain that any "
+"defensive aid lent by cover is negated.\n"
+"\n"
+"Most units have about 50% defense in hills, whereas cavalry are limited to "
+"40%. Dwarves enjoy 60% defense in hills."
+msgstr ""
+
+#. [terrain_type]: id=swamp_water
+msgid ""
+"<italic>text='Swamps'</italic> represent any sort of wetlands.\n"
+"Swamps slow down nearly everyone, and inhibit their ability to defend "
+"themselves. An exception to this is any race bodily skilled in navigating "
+"water; these receive both full movement and a defensive bonus. Those that "
+"make their living in the wetlands are also adept at using this terrain for "
+"cover.\n"
+"\n"
+"Most units make do with 30% defense in swamps. Mermen, naga, and saurians "
+"all generally enjoy 60%."
+msgstr ""
+
+#. [terrain_type]: id=shallow_water
+msgid ""
+"<italic>text='Shallow water'</italic> represents any body of water deep "
+"enough to come up to roughly a man’s waist. This is enough to slow down "
+"nearly anyone and leave them wide open to attack. Dwarves, given that the "
+"water reaches up almost to their heads, have an extremely hard time of this. "
+"The exception is any race whose bodies naturally lend themselves to "
+"swimming, for which they receive a considerable defensive bonus and full "
+"movement.\n"
+"\n"
+"Most units make do with 20 to 30% defense in shallow water, whereas both "
+"naga and mermen enjoy 60%."
+msgstr ""
+
+#. [terrain_type]: id=castle
+msgid ""
+"<italic>text='Castles'</italic> are any sort of permanent fortification.\n"
+"Nearly all units receive a considerable bonus to their defense by being "
+"stationed in a castle, and most units receive full movement in a castle. "
+"Stationing units in a castle represents its defensive capability. Without a "
+"unit in each wall hex, an enemy can simply sneak into the castle "
+"unchallenged, gaining the same defensive bonus as everyone inside.\n"
+"\n"
+"Most units have about 60% defense in a castle."
+msgstr ""
+
+#. [terrain_type]: id=mountains
+msgid ""
+"<italic>text='Mountains'</italic> are steep enough that units often have to "
+"climb over obstacles to move.\n"
+"By this nature, they provide a considerable defensive bonus for most troops, "
+"but they also severely impede any passage through them. Most cavalry simply "
+"cannot enter mountainous terrain; however, elvish cavalry is an exception to "
+"this, as are the goblin wolf riders. Both dwarves and trolls are native to "
+"mountainous terrain, and have a very easy time getting around.\n"
+"\n"
+"Most units receive about 60% defense in mountains, whereas Dwarves enjoy 70%."
+msgstr ""
+
+#. [terrain_type]: id=deep_water
+msgid ""
+"<italic>text='Deep water'</italic> represents any body of water deep enough "
+"to cover a man’s head.\n"
+"Most units cannot enter deep water: it is the domain of units which can "
+"either fly, or are exceptionally strong swimmers.\n"
+"\n"
+"Mermen and naga both receive 50% defense in deep water, with full movement."
+msgstr ""
+
+#. [terrain_type]: id=flat
+msgid "Flat"
+msgstr "平原"
+
+#. [terrain_type]: id=flat
+msgid ""
+"<italic>text='Grassland'</italic> represents open plains, whether "
+"cultivated, cut back for grazing, or wild.\n"
+"Being open ground, grassland is both very easy to move across, but is also "
+"difficult to defend oneself in. Typically, those units that perform best on "
+"grassland are either cavalry, or very agile units which take advantage of "
+"the open space.\n"
+"\n"
+"Most units have defense of 30 to 40% on grassland."
+msgstr ""
+
+#. [terrain_type]: id=forest
+msgid ""
+"<italic>text='Forests'</italic> represent any woodland with significant "
+"undergrowth, enough to hinder passage. Though they slow nearly everyone "
+"down, forests do offer better defense to most units than open ground. "
+"Cavalry, however, have so much trouble navigating them that any benefit "
+"gained by stealth is negated. Elves are an exception to this general rule "
+"for forests. Not only do they possess full movement in forests, but they "
+"also gain a considerable defensive bonus. Dwarves are another exception to "
+"this rule; though they are able to plow through the forests without much "
+"loss of speed, their utter unfamiliarity with the terrain causes them to "
+"receive no defensive bonus.\n"
+"\n"
+"Most units have 50% defense in forests, but cavalry are limited to 30%. "
+"Elves, on the other hand, enjoy 60 to 70% defense, even their mounted units. "
+"Dwarves generally receive only 30% defense in forests."
+msgstr ""
+
+#. [terrain_type]: id=frozen
+msgid "Frozen"
+msgstr "雪地"
+
+#. [terrain_type]: id=frozen
+msgid ""
+"<italic>text='Frozen'</italic> terrain represents any flat area that is "
+"covered by snow or ice.\n"
+"Most units are slowed down on it, and have a harder time defending "
+"themselves. Note that swimming units, even those who can breathe underwater, "
+"cannot swim underneath ice.\n"
+"\n"
+"Most units have 20 to 40% defense in frozen terrain."
+msgstr ""
+
+#. [terrain_type]: id=village
+msgid ""
+"<italic>text='Villages'</italic> represent any group of buildings, human or "
+"otherwise.\n"
+"Almost all units, even cavalry, have an easy time navigating villages, and "
+"most units gain a defensive bonus from being stationed in a village. "
+"Villages allow units the resources to clean and tend to their wounds, which "
+"allows any unit stationed therein to heal eight hitpoints each turn, or to "
+"be cured of poison.\n"
+"\n"
+"Most units have 50 to 60% defense in villages, whereas cavalry receive only "
+"40%."
+msgstr ""
+
+#. [terrain_type]: id=impassable
+msgid "Impassable"
+msgstr "不可通过地形"
+
+#. [terrain_type]: id=impassable
+msgid ""
+"Obstacles that not even the most determined traveler may overcome include "
+"solid walls of stone and mountains so tall and steep that they are "
+"constantly wreathed in cloud. Even flying creatures cannot navigate the "
+"jagged peaks at such rarefied heights, and not even the fiercest troll can "
+"smash through thick walls of stone."
+msgstr ""
+
+#. [terrain_type]: id=unwalkable
+msgid "Unwalkable"
+msgstr "不可步行地形"
+
+#. [terrain_type]: id=unwalkable
+msgid ""
+"<italic>text='Unwalkable terrain'</italic> covers any chasm or gorge which, "
+"as the name implies, cannot be crossed simply by walking. Chasms are noted "
+"for sheer walls which would take days to traverse. As far as gameplay is "
+"concerned, only units capable of flying can cross this terrain."
+msgstr ""
+
+#. [terrain_type]: id=rails
+msgid "Rails"
+msgstr ""
+
+#. [terrain_type]: id=rails
+msgid ""
+"<italic>text='Rails'</italic> are used to transport ore. By Dwarfs. Mostly."
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#. [button]: id=click_dismiss
+#. [button]: id=close_window
+#. [button]: id=ok
+msgid "Close"
+msgstr "关闭"
+
+#. [column]
+#. [label]
+msgid "Connect to Server"
+msgstr "连接到服务器"
+
+#. [label]
+msgid "You will now connect to a server to download add-ons."
+msgstr "现在您将连接到服务器以下载附加组件。"
+
+#. [label]
+msgid "Server:"
+msgstr "服务器："
+
+#. [button]: id=remove_addons
+#. [label]
+msgid "Remove Add-ons"
+msgstr "移除附加组件"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=help
+#. [button]: id=show_help
+msgid "Help"
+msgstr "帮助"
+
+#. [button]: id=ok
+msgid "Connect"
+msgstr "连接"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+msgid "Cancel"
+msgstr "取消"
+
+#. [label]
+#, fuzzy
+msgid "Type:"
+msgstr "类型"
+
+#. [label]
+#, fuzzy
+msgid "Status:"
+msgstr "状态"
+
+#. [label]
+msgid "Version:"
+msgstr "版本："
+
+#. [label]
+msgid "Size:"
+msgstr "尺寸："
+
+#. [label]
+msgid "Author:"
+msgstr "作者："
+
+#. [label]
+msgid "Downloads:"
+msgstr ""
+
+#. [label]
+msgid "date^Last updated:"
+msgstr ""
+
+#. [label]
+msgid "date^First uploaded:"
+msgstr ""
+
+#. [label]
+msgid "Description:"
+msgstr "描述："
+
+#. [scroll_label]: id=description
+msgid "No description available."
+msgstr "没有可用的描述。"
+
+#. [label]
+msgid "Website:"
+msgstr ""
+
+#. [label]: id=url_none
+msgid "url^None"
+msgstr ""
+
+#. [button]: id=url_copy
+#, fuzzy
+msgid "url^Copy"
+msgstr "复制"
+
+#. [button]: id=url_copy
+msgid "Copy this URL to clipboard"
+msgstr ""
+
+#. [button]: id=url_go
+msgid "url^Go"
+msgstr ""
+
+#. [button]: id=url_go
+msgid "Visit this URL with a web browser"
+msgstr ""
+
+#. [label]
+msgid "Dependencies:"
+msgstr ""
+
+#. [scroll_label]: id=dependencies
+msgid "addon_dependencies^None"
+msgstr ""
+
+#. [label]
+msgid "Translations:"
+msgstr "翻译："
+
+#. [scroll_label]: id=translations
+msgid "translations^None"
+msgstr "无"
+
+#. [row]
+msgid "addons_of_type^Campaigns"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^MP eras"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^Scenarios"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^MP factions"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^SP/MP campaigns"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^MP campaigns"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^Resources"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^MP scenarios"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^Other"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^MP map-packs"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^Unknown"
+msgstr ""
+
+#. [row]
+msgid "addons_of_type^MP modifications"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Options"
+msgstr "行动"
+
+#. [label]
+msgid "Add-ons matching the following criteria will be displayed."
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Installation status:"
+msgstr "翻译："
+
+#. [label]
+#, fuzzy
+msgid "Add-on types:"
+msgstr "附加组件"
+
+# TODO 这个是啥？
+#. [button]: id=toggle_all_displayed_types
+#, fuzzy
+msgid "Toggle All"
+msgstr "开/关光环"
+
+#. [label]
+msgid "Add-ons will be sorted as follows when no column is selected:"
+msgstr ""
+
+#. [row]
+msgid "sort^By name"
+msgstr ""
+
+#. [row]
+msgid "sort^By last updated"
+msgstr ""
+
+#. [row]
+msgid "sort^By first upload"
+msgstr ""
+
+#. [row]
+msgid "sort^Ascending"
+msgstr ""
+
+#. [row]
+msgid "sort^Descending"
+msgstr ""
+
+#. [scroll_label]
+msgid "Choose the add-ons you want to remove."
+msgstr "选择您希望移除的附加组件。"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#. [button]: id=remove
+msgid "Remove"
+msgstr "移除"
+
+#. [label]
+#, fuzzy
+msgid "Play a Campaign"
+msgstr "开始战役"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#. [button]: id=save
+msgid "OK"
+msgstr "确定"
+
+#. [label]: id=title
+msgid "Difficulty"
+msgstr "难度"
+
+#. [scroll_label]: id=message
+msgid "Select difficulty level:"
+msgstr "请选择难度："
+
+#. [label]
+msgid "Chat Log"
+msgstr "聊天记录"
+
+#. [label]
+msgid "Page:"
+msgstr "页码："
+
+#. [slider]: id=page_number
+msgid "Last"
+msgstr "末页"
+
+#. [button]: id=previous_page
+#. [button]: id=previous_tip
+#. [button]: id=previous_tod
+msgid "Previous"
+msgstr "回退"
+
+#. [button]: id=previous_page
+#, fuzzy
+msgid "Previous page"
+msgstr "回退"
+
+#. [button]: id=next_page
+#. [button]: id=next_tip
+#. [button]: id=next_tod
+msgid "Next"
+msgstr "继续"
+
+#. [button]: id=next_page
+#, fuzzy
+msgid "Next page"
+msgstr "下一阵营"
+
+#. [label]
+msgid "Filter:"
+msgstr "过滤条件："
+
+#. [button]: id=copy
+msgid "clipboard^Copy"
+msgstr ""
+
+#. [label]
+msgid "Custom Time of Day Schedule"
+msgstr ""
+
+#. [label]
+msgid "Name:"
+msgstr "名字："
+
+#. [label]
+msgid "ID:"
+msgstr ""
+
+#. [label]
+msgid "Metadata:"
+msgstr ""
+
+#. [button]: id=image_button
+msgid "Image"
+msgstr ""
+
+#. [button]: id=mask_button
+msgid "Mask"
+msgstr ""
+
+#. [button]: id=sound_button
+msgid "Sound"
+msgstr ""
+
+#. [label]: id=current_sound
+msgid "long size text"
+msgstr ""
+
+#. [label]
+msgid "Lawful Bonus:"
+msgstr ""
+
+#. [label]
+msgid "Red:"
+msgstr "红:"
+
+#. [label]
+msgid "Green:"
+msgstr "绿:"
+
+#. [label]
+msgid "Blue:"
+msgstr "蓝:"
+
+#. [label]: id=tod_number
+msgid "100/100"
+msgstr ""
+
+#. [button]: id=new
+msgid "New ToD"
+msgstr ""
+
+#. [button]: id=delete
+#, fuzzy
+msgid "Delete ToD"
+msgstr "删除"
+
+#. [label]: id=lblTitle
+msgid "Manage Data"
+msgstr "管理数据"
+
+#. [label]: id=lblChoose
+msgid "Choose the game to load"
+msgstr "选择要读取的游戏"
+
+#. [label]: id=lblFilter
+msgid "Filter"
+msgstr "过滤条件"
+
+#. [label]: id=filename
+#. [label]: id=name
+msgid "Name"
+msgstr "名字"
+
+#. [label]: id=date
+msgid "Date"
+msgstr "日期"
+
+#. [button]: id=clear
+msgid "Clear"
+msgstr "清除"
+
+#. [button]: id=restore
+msgid "Restore"
+msgstr "恢复"
+
+#. [button]: id=backup
+msgid "Backup"
+msgstr "备份"
+
+#. [label]: id=title
+msgid "Place Label"
+msgstr "放置标签"
+
+#. [label]
+msgid "Label:"
+msgstr "标签："
+
+#. [toggle_button]: id=team_only_toggle
+msgid "Team only"
+msgstr "仅用于团队"
+
+#. [toggle_button]: id=immutable_toggle
+#, fuzzy
+msgid "Immutable"
+msgstr "不可通过地形"
+
+#. [toggle_button]: id=visible_fog_toggle
+msgid "Visible in fog"
+msgstr ""
+
+#. [toggle_button]: id=visible_shroud_toggle
+msgid "Visible in shroud"
+msgstr ""
+
+#. [label]: id=title
+#, fuzzy
+msgid "Edit Scenario Settings"
+msgstr "编辑器设置"
+
+#. [label]
+msgid "Identifier:"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Experience modifier:"
+msgstr "经验值修正"
+
+#. [label]
+#, fuzzy
+msgid "Turns:"
+msgstr "回合"
+
+#. [toggle_button]: id=victory_when_enemies_defeated
+msgid "Declare victory once all enemies are defeated"
+msgstr ""
+
+#. [toggle_button]: id=random_start_time
+#, fuzzy
+msgid "Random starting time"
+msgstr "游戏开始时的时段随机"
+
+#. [label]: id=title
+#, fuzzy
+msgid "Side Setup"
+msgstr "阵营 $side"
+
+#. [label]
+#, fuzzy
+msgid "Number:"
+msgstr "丘陵的数量："
+
+#. [label]
+msgid "Team identifier:"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Team name:"
+msgstr "仅用于团队"
+
+#. [toggle_button]: id=share_maps
+#, fuzzy
+msgid "Share map"
+msgstr "开启地图动画"
+
+#. [toggle_button]: id=no_leader
+#, fuzzy
+msgid "No leader"
+msgstr "领袖"
+
+#. [toggle_button]: id=fog
+msgid "Fog of war"
+msgstr "战争迷雾"
+
+#. [toggle_button]: id=share_view
+msgid "Share view"
+msgstr ""
+
+#. [toggle_button]: id=hidden
+#, fuzzy
+msgid "Hide in status table"
+msgstr "状态表"
+
+#. [label]
+msgid "Gold:"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Gold per village:"
+msgstr "金币/村庄"
+
+#. [label]
+msgid "Income:"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Support per village:"
+msgstr "金币/村庄"
+
+#. [label]
+msgid "Controller:"
+msgstr ""
+
+#. [row]
+msgid "controller^Human"
+msgstr ""
+
+#. [row]
+msgid "controller^AI only"
+msgstr ""
+
+#. [row]
+msgid "controller^None"
+msgstr ""
+
+#. [row]
+msgid "controller^Player number:"
+msgstr ""
+
+#. [label]
+msgid "Generate Random Map"
+msgstr "生成随机地图"
+
+#. [button]: id=next_generator
+msgid "Next Generator"
+msgstr "下一个生成器"
+
+#. [button]: id=settings
+msgid "Settings"
+msgstr "设置"
+
+#. [button]: id=ok
+msgid "Generate"
+msgstr "生成"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "New Map"
+msgstr "新地图"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Width:"
+msgstr "宽度："
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Height:"
+msgstr "高度："
+
+#. [button]: id=ok
+#, fuzzy
+msgid "Create"
+msgstr "创建游戏"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Resize Map"
+msgstr "改变地图大小"
+
+#. [label]
+msgid "New width:"
+msgstr "新宽度："
+
+#. [label]
+msgid "Old width:"
+msgstr "旧宽度："
+
+#. [label]
+msgid "New height:"
+msgstr "新高度："
+
+#. [label]
+msgid "Old height:"
+msgstr "旧高度："
+
+#. [label]
+#, fuzzy
+msgid "Expand/shrink direction:"
+msgstr "扩展/收缩方向"
+
+#. [toggle_button]: id=copy_edge_terrain
+msgid "Copy edge terrain"
+msgstr "复制边界地形"
+
+#. [button]: id=ok
+#, fuzzy
+msgid "Resize"
+msgstr "改变地图大小"
+
+#. [label]: id=title
+msgid "Choose Player"
+msgstr "选择玩家"
+
+#. [label]: id=message
+msgid "Which player should start here?"
+msgstr "哪位玩家应在此开始游戏？"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=title
+msgid "New Folder"
+msgstr "新建文件夹"
+
+#. [label]
+msgid "Formula debugger"
+msgstr "公式调试器"
+
+#. [label]
+msgid "Welcome"
+msgstr "欢迎"
+
+#. [label]: id=state
+msgid "state"
+msgstr "状态"
+
+#. [label]
+msgid "Call stack"
+msgstr "调用栈"
+
+#. [label]
+msgid "Actions"
+msgstr "行动"
+
+#. [button]: id=step
+msgid "Step operation"
+msgstr "步进操作"
+
+#. [button]: id=next
+msgid "Next operation"
+msgstr "下一个操作"
+
+#. [button]: id=stepout
+msgid "Step out"
+msgstr "步出"
+
+#. [button]: id=continue
+msgid "Continue"
+msgstr "继续"
+
+#. [label]
+msgid "Execution trace"
+msgstr "执行轨迹"
+
+#. [button]: id=cancel
+#. [button]: id=quit
+#. [grid]
+msgid "Quit"
+msgstr "退出"
+
+#. [label]: id=lblTitle
+msgid "Delete Save"
+msgstr "删除存档"
+
+#. [label]: id=lblMessage
+msgid "Do you really want to delete this game?"
+msgstr "您真的想删除这个游戏吗？"
+
+#. [toggle_button]: id=do_not_show_again
+#. [toggle_button]: id=dont_ask_again
+#, fuzzy
+msgid "Do not show again"
+msgstr "不显示玩家进入游戏大厅的信息"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+msgid "Yes"
+msgstr "是"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+msgid "No"
+msgstr "否"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+msgid "Load Game"
+msgstr "读取游戏"
+
+#. [button]: id=delete
+msgid "Delete"
+msgstr "删除"
+
+#. [toggle_button]: id=change_difficulty
+#, fuzzy
+msgid "Change difficulty"
+msgstr "难度"
+
+#. [toggle_button]: id=change_difficulty
+msgid "Change campaign difficulty before loading"
+msgstr ""
+
+#. [toggle_button]: id=show_replay
+msgid "Show replay"
+msgstr "显示录像"
+
+#. [toggle_button]: id=show_replay
+msgid "Play the embedded replay from the saved game if applicable"
+msgstr ""
+
+#. [toggle_button]: id=cancel_orders
+msgid "Cancel orders"
+msgstr "取消命令"
+
+#. [toggle_button]: id=cancel_orders
+msgid "Cancel any pending unit movements in the saved game"
+msgstr ""
+
+#. [button]: id=copy
+#. [button]: id=copy_
+msgid "filesystem^Copy"
+msgstr ""
+
+#. [button]: id=copy
+#. [button]: id=copy_
+#, fuzzy
+msgid "Copy this path to clipboard"
+msgstr "选择要读取的游戏"
+
+#. [button]: id=browse_
+msgid "filesystem^Browse"
+msgstr ""
+
+#. [button]: id=browse_
+msgid "Browse this location using a file manager"
+msgstr ""
+
+#. [label]: id=title
+#, fuzzy
+msgid "Game Paths"
+msgstr "洞穴小径"
+
+#. [grid]
+msgid "Game data:"
+msgstr ""
+
+#. [grid]
+msgid "Configuration:"
+msgstr ""
+
+#. [grid]
+msgid "User data:"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Saved games:"
+msgstr "保存游戏"
+
+#. [grid]
+#, fuzzy
+msgid "Add-ons:"
+msgstr "附加组件"
+
+#. [grid]
+msgid "Cache:"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+msgid "Save Game"
+msgstr "保存游戏"
+
+#. [toggle_button]: id=ignore_all
+msgid "Ignore all"
+msgstr "忽略全部"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=quit_game
+msgid "Quit Game"
+msgstr "退出游戏"
+
+#. [label]: id=lblTitle
+msgid "Overwrite?"
+msgstr "覆盖？"
+
+#. [label]: id=lblMessage
+msgid "Save already exists. Do you want to overwrite it?"
+msgstr "存档已经存在。要覆盖吗？"
+
+#. [label]
+msgid "Gamestate Inspector"
+msgstr "游戏状态观察器"
+
+#. [label]: id=typename
+#. [label]: id=unit_type
+msgid "Type"
+msgstr "类型"
+
+#. [label]: id=name
+msgid "Items"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Contents"
+msgstr "内容"
+
+#. [grid]
+#. [label]
+msgid "Language"
+msgstr "语言"
+
+#. [label]
+msgid "Choose your preferred language:"
+msgstr "选择你偏好的语言："
+
+#. [row]
+msgid "Games"
+msgstr "游戏"
+
+#. [row]
+msgid "Assign sides to players at random"
+msgstr "随机将各阵营分配给玩家"
+
+#. [row]
+msgid "Requires a password to join"
+msgstr "需要密码才能加入游戏"
+
+#. [row]
+#. [toggle_button]: id=use_map_settings
+msgid "Use map settings"
+msgstr "使用地图设置"
+
+#. [row]
+msgid "Reloaded game"
+msgstr "重新读取的游戏"
+
+#. [row]
+msgid "Unknown era"
+msgstr "未知时代"
+
+#. [row]
+msgid "Gold per village"
+msgstr "金币/村庄"
+
+#. [label]
+#. [row]
+msgid "Experience modifier"
+msgstr "经验值修正"
+
+#. [row]
+msgid "Time limit"
+msgstr "时间限制"
+
+#. [button]: id=join_global
+#. [row]
+msgid "Join"
+msgstr "加入"
+
+#. [button]: id=observe_global
+#. [row]
+msgid "Observe"
+msgstr "观察"
+
+#. [label]
+msgid "Sort players:"
+msgstr "玩家排序："
+
+#. [toggle_button]: id=player_list_sort_relation
+msgid "Friends first, ignored people last"
+msgstr "好友优先，被忽略的用户在最后"
+
+#. [toggle_button]: id=player_list_sort_name
+msgid "Alphabetically"
+msgstr "字母顺序"
+
+#. [definition]
+msgid "Selected game"
+msgstr "选中的游戏"
+
+#. [definition]
+msgid "Current room"
+msgstr "当前房间"
+
+#. [definition]
+msgid "Lobby"
+msgstr "大厅"
+
+#. [definition]
+msgid "Other games"
+msgstr "其它游戏"
+
+#. [label]: id=room
+msgid "Rooms"
+msgstr "房间"
+
+#. [image]: id=pending_messages
+msgid "Messages waiting"
+msgstr "消息等待中"
+
+#. [label]
+msgid "Multiplayer Lobby"
+msgstr "多人游戏大厅"
+
+#. [toggle_button]: id=filter_with_friends
+msgid "Friends"
+msgstr "好友列表"
+
+#. [toggle_button]: id=filter_without_ignored
+msgid "No ignored"
+msgstr "无被忽略的用户"
+
+#. [toggle_button]: id=filter_vacant_slots
+msgid "Vacant slots"
+msgstr "空位个数"
+
+#. [toggle_button]: id=filter_invert
+msgid "Invert filter"
+msgstr "反转过滤条件"
+
+#. [button]: id=ok
+#. [button]: id=send_message
+msgid "Send"
+msgstr "发送"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=show_preferences
+#. [grid]
+msgid "Preferences"
+msgstr "首选项"
+
+#. [button]: id=refresh
+msgid "Refresh"
+msgstr "刷新"
+
+#. [button]: id=create
+#. [label]
+msgid "Create Game"
+msgstr "创建游戏"
+
+#. [toggle_button]: id=skip_replay
+msgid "Quick replay"
+msgstr "快速回放"
+
+#. [label]
+msgid "Player Info — "
+msgstr "玩家信息——"
+
+#. [button]: id=start_whisper
+msgid "Send Private Message"
+msgstr "发送个人消息"
+
+#. [button]: id=add_to_friends
+msgid "Add to Friends"
+msgstr "加入好友列表"
+
+#. [button]: id=add_to_ignores
+msgid "Add to Ignores"
+msgstr "加入忽略列表"
+
+#. [button]: id=remove_from_list
+msgid "Remove from List"
+msgstr "从列表中移除"
+
+#. [label]
+msgid "Moderation"
+msgstr "管理"
+
+#. [button]: id=check_status
+msgid "Check status"
+msgstr "检查状态"
+
+#. [label]
+msgid "Kick / ban reason:"
+msgstr "剔出/封禁的理由："
+
+#. [button]: id=kick
+msgid "Kick"
+msgstr "踢出"
+
+#. [label]
+msgid "Ban time:"
+msgstr "封禁时间："
+
+#. [button]: id=kick_ban
+msgid "Kick/ban"
+msgstr "剔出/封禁"
+
+#. [label]: id=side_title
+msgid "Side"
+msgstr "阵营"
+
+#. [label]: id=nick_title
+msgid "Nickname"
+msgstr "昵称"
+
+#. [label]
+msgid "Change Control"
+msgstr "更改控制方"
+
+#. [window]: id=mp_cmd_wrapper
+msgid "Multiplayer command dialog"
+msgstr "多人游戏命令对话框"
+
+#. [label]
+msgid "Messaging"
+msgstr "消息"
+
+#. [label]
+msgid "Message:"
+msgstr "消息："
+
+#. [label]
+msgid "Friends/Ignored List"
+msgstr "好友/忽略列表"
+
+#. [button]: id=add_friend
+msgid "Add as Friend"
+msgstr "加入好友列表"
+
+#. [button]: id=add_ignore
+msgid "Add as Ignore"
+msgstr "加入忽略列表"
+
+#. [label]
+msgid "Moderating"
+msgstr "中等的"
+
+#. [label]
+msgid "Reason:"
+msgstr "原因："
+
+#. [label]
+msgid "Time:"
+msgstr "时间："
+
+#. [button]: id=status
+msgid "Status"
+msgstr "状态"
+
+#. [button]: id=ban
+msgid "Ban"
+msgstr "封禁"
+
+#. [label]
+msgid "You will now connect to the multiplayer server."
+msgstr "您现在将连接到多人游戏服务器。"
+
+#. [button]: id=list
+msgid "View List"
+msgstr "查看列表"
+
+#. [label]
+#. [text_box]: id=game_name
+msgid "Name of game:"
+msgstr "游戏名称："
+
+#. [label]: id=map_players
+msgid "Players: "
+msgstr "玩家数量："
+
+#. [label]: id=map_size
+msgid "Map size: "
+msgstr "地图尺寸："
+
+#. [label]
+msgid "Era:"
+msgstr "时代："
+
+#. [button]: id=era
+msgid "Default"
+msgstr "默认"
+
+#. [button]: id=password
+#. [label]: id=title
+msgid "Set Password"
+msgstr "设置密码"
+
+#. [label]
+msgid "Map to play:"
+msgstr "使用地图："
+
+#. [label]
+msgid "Number of turns"
+msgstr "回合数："
+
+#. [slider]: id=turn_count
+msgid "Unlimited"
+msgstr "不限"
+
+#. [label]
+msgid "Village gold"
+msgstr "村庄金币"
+
+#. [toggle_button]: id=random_start_time
+msgid "Random start time"
+msgstr "游戏开始时的时段随机"
+
+#. [label]
+#, fuzzy
+msgid "Choose Modifications"
+msgstr "选择分辨率"
+
+#. [label]: id=message
+msgid "Enable the modifications you want to be active during the game."
+msgstr ""
+
+#. [scroll_label]: id=message
+msgid ""
+"Set the password that people wanting to join your game as players must enter."
+msgstr "设置密码，这是想加入您的游戏的人所必需输入的。"
+
+#. [label]
+msgid "Password:"
+msgstr "密码："
+
+#. [label]
+msgid "Confirm"
+msgstr ""
+
+#. [label]
+msgid "Would you like to apply the changes?"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "User Interaction Required"
+msgstr "用户界面声效"
+
+#. [label]: id=message
+#, fuzzy
+msgid "User interaction required"
+msgstr "用户界面声效"
+
+#. [column]
+#. [label]
+msgid "Host Networked Game"
+msgstr "建立联网游戏"
+
+#. [label]
+msgid ""
+"A local server instance has to be started in order to host a networked game. "
+"The server will run as a background process until all users have "
+"disconnected. Do you wish to continue?"
+msgstr ""
+
+#. [window]: id=mp_login
+msgid "Multiplayer server login dialog"
+msgstr "多人游戏服务器登录对话框"
+
+#. [label]
+msgid "Login"
+msgstr "登录"
+
+#. [label]
+msgid "Login:"
+msgstr "账号："
+
+#. [toggle_button]: id=remember_password
+msgid "Save password to preferences (clear text)"
+msgstr "保存密码（明文）"
+
+#. [button]: id=password_reminder
+msgid "Password Reminder"
+msgstr "密码提示"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [grid]
+#. [label]
+msgid "Multiplayer"
+msgstr "多人游戏"
+
+#. [text_box]: id=user_name
+msgid ""
+"You may login to the official multiplayer server with your forum username "
+"and password.\n"
+"Note that registration is not required to join the server: you need to "
+"supply a password only if you wish to use a registered username.\n"
+"\n"
+"The Battle for Wesnoth forum can be found at http://forums.wesnoth.org/"
+msgstr ""
+"您可以使用官方论坛的用户名和密码登录官方多人游戏服务器。\n"
+"请注意，要加入服务器时并不需要注册，只有在您想使用一个已经注册的用户名时才需"
+"要提供密码。\n"
+"\n"
+"Battle for Wesnoth论坛的地址为：http://www.wesnoth.org/forum/"
+
+#. [column]
+msgid "Join Official Server"
+msgstr "加入官方服务器"
+
+#. [column]
+msgid "Log on to the official Wesnoth multiplayer server"
+msgstr "登录到官方多人游戏服务器"
+
+#. [column]
+msgid "Join a different server"
+msgstr "加入另一个服务器"
+
+#. [column]
+msgid "Host a game using dedicated server ‘wesnothd’"
+msgstr "使用专用服务器“wesnothd”建立游戏"
+
+#. [column]
+msgid "Local Game"
+msgstr "本地游戏"
+
+#. [column]
+msgid "Play a multiplayer game with the AI or humans sharing the same machine"
+msgstr "在同一台机器上和AI或者别的玩家一起玩多人游戏"
+
+#. [label]: id=address
+msgid "Address"
+msgstr "地址"
+
+#. [button]: id=ok
+msgid "Select"
+msgstr "选择"
+
+#. [button]: id=open
+msgid "filesystem^Open"
+msgstr ""
+
+#. [button]: id=open
+msgid "Open this file with an external application"
+msgstr ""
+
+#. [label]: id=title
+#, fuzzy
+msgid "Screenshot Saved"
+msgstr "屏幕截图完成"
+
+#. [button]: id=browse_dir
+#, fuzzy
+msgid "Screenshots..."
+msgstr "屏幕截图"
+
+#. [button]: id=browse_dir
+msgid "Browse the screenshots folder using a file manager"
+msgstr ""
+
+#. [label]
+msgid "Choose Theme"
+msgstr "选择主题"
+
+#. [label]
+#, fuzzy
+msgid "The new theme will take effect after loading or starting a new game."
+msgstr "新主题在下一次新建或读取游戏时生效。"
+
+#. [button]: id=help
+msgid "Show Battle for Wesnoth help"
+msgstr "显示韦诺之战帮助"
+
+#. [button]: id=previous_tip
+msgid "Show previous tip of the day"
+msgstr "显示前一条每日提示"
+
+#. [button]: id=next_tip
+msgid "Show next tip of the day"
+msgstr "显示后一条每日提示"
+
+#. [grid]
+msgid "Start a tutorial to familiarize yourself with the game"
+msgstr "开始游戏教程以熟悉游戏"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [grid]
+msgid "Tutorial"
+msgstr "教程"
+
+#. [grid]
+msgid "Campaign"
+msgstr "战役"
+
+#. [grid]
+msgid "Start a new single player campaign"
+msgstr "开始一场新的单人战役"
+
+#. [grid]
+msgid ""
+"Play multiplayer (hotseat, LAN, or Internet), or a single scenario against "
+"the AI"
+msgstr "玩多人游戏（热座、局域网或因特网游戏），或者玩与AI对战的单人场景。"
+
+#. [grid]
+msgid "Load"
+msgstr "读取"
+
+#. [grid]
+msgid "Load a saved game"
+msgstr "读取保存的游戏"
+
+#. [grid]
+msgid "Add-ons"
+msgstr "附加组件"
+
+#. [grid]
+msgid "Download usermade campaigns, eras, or map packs"
+msgstr "下载玩家制作的战役、时代或者地图包"
+
+#. [grid]
+msgid "Map Editor"
+msgstr "地图编辑器"
+
+#. [grid]
+msgid "Start the map editor"
+msgstr "启动地图编辑器"
+
+#. [grid]
+msgid "Change the language"
+msgstr "切换语言"
+
+#. [grid]
+msgid "Configure the game’s settings"
+msgstr "配置游戏的各项设置"
+
+#. [grid]
+msgid "Credits"
+msgstr "贡献者"
+
+#. [grid]
+msgid "View the credits"
+msgstr "查看制作者名单"
+
+#. [grid]
+msgid "Quit the game"
+msgstr "退出游戏"
+
+#. [button]: id=ok
+msgid "Attack"
+msgstr "攻击"
+
+#. [label]
+msgid "Attack enemy"
+msgstr "攻击敌人"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Create Unit (Debug!)"
+msgstr "创建单位（调试！）"
+
+#. [label]
+msgid "Gender:"
+msgstr "性别："
+
+#. [toggle_button]: id=male_toggle
+msgid "Male"
+msgstr "男"
+
+#. [toggle_button]: id=female_toggle
+msgid "Female"
+msgstr "女"
+
+#. [label]: id=race
+msgid "Race"
+msgstr "种族"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Error"
+msgstr "错误"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=details_heading
+msgid "Details:"
+msgstr ""
+
+#. [button]: id=copy
+msgid "Copy this report to clipboard"
+msgstr ""
+
+msgid "File: "
+msgstr "文件："
+
+msgid "Delete File"
+msgstr "删除文件"
+
+msgid "Deletion of the file failed."
+msgstr "删除文件失败。"
+
+msgid "Creation of the directory failed."
+msgstr "建立目录失败。"
+
+msgid "No server has been defined."
+msgstr "服务器未定义。"
+
+msgid "player"
+msgstr "玩家"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%I:%M %p"
+msgstr "%I:%M %p"
+
+msgid "Full screen"
+msgstr "全屏"
+
+msgid "Accelerated speed"
+msgstr "加速"
+
+msgid "Skip AI moves"
+msgstr "略过AI的移动"
+
+msgid "Interrupt move when an ally is sighted"
+msgstr "发现友军时中断移动"
+
+msgid "Show grid"
+msgstr "显示网格"
+
+msgid "Save replays at the end of scenarios"
+msgstr ""
+
+msgid "Delete auto-saves at the end of scenarios"
+msgstr ""
+
+msgid "Do not show lobby joins"
+msgstr "不显示玩家进入游戏大厅的信息"
+
+msgid "Show lobby joins of friends only"
+msgstr "只显示好友进入游戏大厅的信息"
+
+msgid "Show all lobby joins"
+msgstr "显示所有玩家进入游戏大厅的信息"
+
+msgid "Sort lobby list"
+msgstr "对玩家列表排序"
+
+msgid "Iconize lobby list"
+msgstr "以图标形式显示玩家列表"
+
+msgid "Save password to preferences (plain text)"
+msgstr "保存首选项的密码（明文）"
+
+msgid "Set Path to wesnothd"
+msgstr "设置wesnothd所在路径"
+
+msgid "Friends List"
+msgstr "好友列表"
+
+msgid "Multiplayer Options"
+msgstr "多人游戏选项"
+
+msgid "Add As Friend"
+msgstr "加入好友列表"
+
+msgid "Add As Ignore"
+msgstr "加入忽略列表"
+
+msgid "Show floating labels"
+msgstr "显示浮动标签"
+
+msgid "Turn dialog"
+msgstr "回合对话框"
+
+msgid "Enable planning mode on start"
+msgstr "开始时便启用计划模式"
+
+msgid "Hide allies’ plans by default"
+msgstr "默认隐藏盟友的计划"
+
+msgid "Turn bell"
+msgstr "回合提示音"
+
+msgid "Show team colors"
+msgstr "显示团队颜色"
+
+msgid "Show haloing effects"
+msgstr "开启光晕效果"
+
+msgid "Change Resolution"
+msgstr "改变分辨率"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Hotkeys"
+msgstr "快捷键"
+
+msgid "Paths"
+msgstr ""
+
+msgid "Sound effects"
+msgstr "音效"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "Chat timestamping"
+msgstr "开启聊天时间戳"
+
+msgid "sound^Advanced Options"
+msgstr "高级选项"
+
+msgid "sound^Standard Options"
+msgstr "标准选项"
+
+msgid "User interface sounds"
+msgstr "用户界面声效"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Show unit idle animations"
+msgstr "显示单位空闲动画"
+
+msgid "Show unit standing animations"
+msgstr "显示单位站立动画"
+
+msgid "Animate map"
+msgstr "开启地图动画"
+
+msgid "Volume:"
+msgstr "音量："
+
+msgid "Scroll speed:"
+msgstr "滚屏速度："
+
+msgid "Sample rate (Hz):"
+msgstr "采样频率（Hz）："
+
+msgid "Frequency:"
+msgstr "频率："
+
+msgid "Sound effects on/off"
+msgstr "开/关音效"
+
+msgid "Change the sound effects volume"
+msgstr "调整音效的音量大小"
+
+msgid "Music on/off"
+msgstr "开/关音乐"
+
+msgid "Change the music volume"
+msgstr "调整音乐的音量大小"
+
+msgid "Change the bell volume"
+msgstr "调整提示音的音量大小"
+
+msgid "Turn menu and button sounds on/off"
+msgstr "开/关菜单和按钮音效"
+
+msgid "Change the sound volume for button clicks, etc."
+msgstr "调整点击按钮等操作时的音量大小。"
+
+msgid "Change the sample rate"
+msgstr "调整采样频率"
+
+msgid "User defined sample rate"
+msgstr "用户自定义采样频率"
+
+msgid "Change the buffer size"
+msgstr "调整缓冲区大小"
+
+msgid "Buffer size: "
+msgstr "缓冲区大小："
+
+msgid "Change the speed of scrolling around the map"
+msgstr "调整卷屏速度"
+
+msgid "Set the amount of chat lines shown"
+msgstr "设置在屏幕上显示的聊天记录的行数"
+
+msgid "Add a timestamp to chat messages"
+msgstr "在聊天消息上加上时间戳"
+
+msgid "Choose whether the game should run full screen or in a window"
+msgstr "选择游戏是以全屏模式还是窗口模式运行"
+
+msgid "Make units move and fight faster"
+msgstr "加快单位的移动和攻击速度"
+
+msgid "Units move and fight speed"
+msgstr "单位的移动和攻击速度"
+
+msgid "Play short random animations for idle units"
+msgstr "在空闲单位上显示随机而短小的待机动画"
+
+msgid "Continuously animate standing units in the battlefield"
+msgstr "让战场上的待命单位持续地做小动作"
+
+msgid "Display animated terrain graphics"
+msgstr "显示地形动画效果"
+
+msgid "Set the frequency of unit idle animations"
+msgstr "设置单位空闲动画显示频率"
+
+msgid "Set maximum number of automatic saves to be retained"
+msgstr "设置自动存档的最大保留数量"
+
+msgid "Do not animate AI units moving"
+msgstr "不显示AI单位的移动动画"
+
+msgid "Sighting an allied unit interrupts your unit’s movement"
+msgstr "当看到友军单位时中断您的单位的移动"
+
+msgid ""
+"Saves replays of games on victory in all modes and defeat in multiplayer"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Deletes previous auto-saves on victory in all modes and defeat in multiplayer"
+msgstr "当单人/多人游戏胜利或者多人游戏失败时，删除自动存档"
+
+msgid "Overlay a grid onto the map"
+msgstr "在地图上显示六角网格"
+
+msgid "Sort the player list in the lobby by player groups"
+msgstr "根据玩家分组对游戏大厅中的玩家列表进行排序"
+
+#, fuzzy
+msgid "Show icons in front of the player names in the lobby"
+msgstr "在游戏大厅中玩家的名字前显示图标。"
+
+#, fuzzy
+msgid "Uncheck to delete the saved password (on exit)"
+msgstr "取消勾选，以删除以前保存的密码（在退出时）。"
+
+msgid "Do not show messages about players joining the multiplayer lobby"
+msgstr "不显示玩家进入多人游戏大厅的信息"
+
+msgid "Show messages about your friends joining the multiplayer lobby"
+msgstr "显示好友进入多人游戏大厅的信息"
+
+msgid "Show messages about all players joining the multiplayer lobby"
+msgstr "显示所有玩家进入多人游戏大厅的信息"
+
+#, fuzzy
+msgid "Find and set path to MP server to host LAN games"
+msgstr "查找并设置多人游戏服务器的路径以便建立局域网游戏。"
+
+msgid "View and edit your friends and ignores list"
+msgstr "查看并编辑好友和忽略列表"
+
+msgid "Back to the multiplayer options"
+msgstr "回到多人游戏选项"
+
+msgid ""
+"Add this username to your friends list (add optional notes, e.g., "
+"'player_name notes on friend')"
+msgstr ""
+
+msgid ""
+"Add this username to your ignores list (add optional reason, e.g., "
+"'player_name reason ignored')"
+msgstr ""
+
+msgid "Remove this username from your list"
+msgstr "把这个用户名从列表中移除"
+
+msgid "Insert a username"
+msgstr "插入一个用户名"
+
+msgid "Show text above a unit when it is hit to display damage inflicted"
+msgstr "在单位受到攻击时，在其上显示所受到的伤害值"
+
+msgid "Change the resolution the game runs at"
+msgstr "改变游戏运行分辨率"
+
+msgid "Change the theme the game runs with"
+msgstr "改变游戏界面主题"
+
+msgid "Display a dialog at the beginning of your turn"
+msgstr "在您的回合开始时显示提示对话框"
+
+msgid "Activates Planning Mode on game start"
+msgstr "当游戏开始时，激活计划模式"
+
+msgid "Hides allies’ Planning Mode plans in multiplayer games"
+msgstr "在多人游戏中，隐藏盟友在计划模式下所制定的计划"
+
+msgid "Play a bell sound at the beginning of your turn"
+msgstr "在您的回合开始时播放提示音"
+
+msgid ""
+"Show a colored circle around the base of each unit to show which side it is "
+"on"
+msgstr "在单位脚底周围显示彩色圆环以表示其所属阵营"
+
+msgid "Use graphical special effects (may be slower)"
+msgstr "使用图形特效（可能会使游戏变慢）"
+
+msgid "View and configure keyboard shortcuts"
+msgstr "查看并设置快捷键"
+
+msgid "View game file paths"
+msgstr ""
+
+msgid "Speed: "
+msgstr "速度："
+
+msgid "Maximum auto-saves: "
+msgstr "最大自动存档数："
+
+msgid "infinite"
+msgstr "无限"
+
+msgid "Chat lines: "
+msgstr "聊天记录行数："
+
+msgid "Invalid username"
+msgstr "用户名无效"
+
+msgid "yes"
+msgstr "是"
+
+msgid "no"
+msgstr "否"
+
+msgid "friend"
+msgstr "好友"
+
+msgid "ignored"
+msgstr "被忽略"
+
+msgid "(empty list)"
+msgstr "（空列表）"
+
+msgid "Prefs section^General"
+msgstr "常规"
+
+msgid "Prefs section^Display"
+msgstr "图像"
+
+msgid "Prefs section^Sound"
+msgstr "声音"
+
+msgid "Prefs section^Multiplayer"
+msgstr "多人游戏"
+
+msgid "Advanced section^Advanced"
+msgstr "高级"
+
+msgid "No known themes. Try changing from within an existing game."
+msgstr "当前无已知主题。请尝试在游戏时切换主题。"
+
+msgid "Find $filename server binary to host networked games"
+msgstr "查找$filename服务器可执行文件以便建立联网游戏"
+
+msgid "Map Generator"
+msgstr "地图生成器"
+
+msgid "Players:"
+msgstr "玩家数量："
+
+msgid "Number of hills:"
+msgstr "丘陵的数量："
+
+msgid "Max hill size:"
+msgstr "丘陵最大面积："
+
+msgid "Villages:"
+msgstr "村庄："
+
+msgid "Castle size:"
+msgstr "城堡面积："
+
+msgid "Landform:"
+msgstr "地形："
+
+msgid "Roads between castles"
+msgstr "城堡之间的道路数"
+
+#, fuzzy
+msgid "Show labels"
+msgstr "显示浮动标签"
+
+msgid "/1000 tiles"
+msgstr "/1000个区块"
+
+msgid "Coastal"
+msgstr "滨海"
+
+msgid "Inland"
+msgstr "内陆"
+
+msgid "Island"
+msgstr "岛屿"
+
+msgid "Line doesn't fit on canvas."
+msgstr "线条无法在画布上显示。"
+
+msgid "Rectangle doesn't fit on canvas."
+msgstr "矩形无法在画布上显示。"
+
+msgid "Circle doesn't fit on canvas."
+msgstr "圆无法在画布上显示。"
+
+msgid "Image doesn't fit on canvas."
+msgstr "图像无法适应画布。"
+
+msgid "Text has a font size of 0."
+msgstr "字体大小是0。"
+
+msgid "Text doesn't start on canvas."
+msgstr "文字没有从画布上开始。"
+
+msgid "No resolution defined."
+msgstr "分辨率未定义。"
+
+msgid "No grid defined."
+msgstr "网格未定义。"
+
+msgid "Linked '$id' group has multiple definitions."
+msgstr "连接的“$id”组有重复定义。"
+
+msgid "Linked '$id' group needs a 'fixed_width' or 'fixed_height' key."
+msgstr "连接的“$id”组需要“fixed_width”或“fixed_height”主键。"
+
+msgid "A row must have a column."
+msgstr "每行至少要有一列。"
+
+msgid "Number of columns differ."
+msgstr "列数不一致。"
+
+msgid "Found a widget with a helptip and without a tooltip."
+msgstr "在画面组件上显示或者不显示小提示。"
+
+msgid "No list defined."
+msgstr "列表未定义。"
+
+msgid "A 'list_definition' should contain one row."
+msgstr "每个“list_definition”（列表定义）应该至少有一行。"
+
+msgid ""
+"'list_data' must have the same number of columns as the 'list_definition'."
+msgstr ""
+"“list_data”（列表数据）与“list_definition”（列表定义）中的列数必须一致。"
+
+msgid "No page defined."
+msgstr "页面未定义"
+
+msgid "Need at least 1 parallel item."
+msgstr ""
+
+msgid "The number of value_labels and values don't match."
+msgstr "value_labels （值标签）与 values (值) 数量不匹配。"
+
+msgid "No stack defined."
+msgstr "堆栈未定义"
+
+msgid "No nodes defined for a tree view."
+msgstr "树状视图中没有定义节点。"
+
+msgid "[node]id 'root' is reserved for the implementation."
+msgstr "[节点]ID 'root'是保留给游戏实现专用的。"
+
+msgid "No node defined."
+msgstr "未定义任何节点。"
+
+msgid "addon_state^Not installed"
+msgstr ""
+
+msgid "addon_state^Published, not installed"
+msgstr ""
+
+msgid "addon_state^Installed"
+msgstr ""
+
+msgid "addon_state^Published"
+msgstr ""
+
+msgid "addon_state^Installed, not tracking local version"
+msgstr ""
+
+msgid "addon_state^Published, not tracking local version"
+msgstr ""
+
+msgid "addon_state^Installed ($local_version|), upgradable"
+msgstr ""
+
+msgid "addon_state^Published ($local_version| installed), upgradable"
+msgstr ""
+
+msgid "addon_state^Installed ($local_version|), outdated on server"
+msgstr ""
+
+msgid "addon_state^Published ($local_version| installed), outdated on server"
+msgstr ""
+
+msgid "addon_state^Installed, broken"
+msgstr ""
+
+msgid "addon_state^Published, broken"
+msgstr ""
+
+msgid "addon_state^Unknown"
+msgstr ""
+
+msgid "addons_view^Not Installed"
+msgstr ""
+
+msgid "addons_view^Upgradable"
+msgstr ""
+
+msgid "addons_view^Installed"
+msgstr ""
+
+#, fuzzy
+msgid "addons_view^All Add-ons"
+msgstr "卸载附加组件"
+
+msgid "unit_byte^B"
+msgstr "B"
+
+msgid "#(Invalid)"
+msgstr "#（无效）"
+
+msgid "Campaign: $campaign_name"
+msgstr "战役：$campaign_name"
+
+msgid "Test scenario"
+msgstr "测试场景"
+
+msgid "Replay"
+msgstr "录像"
+
+msgid "Turn"
+msgstr "回合"
+
+msgid "Scenario start"
+msgstr "场景开始"
+
+msgid "Difficulty: "
+msgstr "难度："
+
+msgid "Version: "
+msgstr "版本："
+
+msgid "whisper to $receiver"
+msgstr "对$receiver说悄悄话"
+
+msgid "Games: showing $num_shown out of $num_total"
+msgstr "游戏：$num_shown个已显示，共有$num_total个"
+
+msgid "Observers allowed"
+msgstr "允许观察"
+
+msgid "Observers not allowed"
+msgstr "不允许观察"
+
+msgid ""
+"Whisper session with $name started. If you don’t want to receive messages "
+"from this user, type /ignore $name\n"
+msgstr ""
+"和 $name 的悄悄话开始。如果您不希望接收来自该用户的消息，请输入 /ignore "
+"$name\n"
+
+msgid "Room $name joined"
+msgstr "已加入$name房间"
+
+msgid "$player has entered the room"
+msgstr "$player进入了房间"
+
+msgid "$player has left the room"
+msgstr "$player离开了房间"
+
+msgid "Password Required"
+msgstr "需要输入密码"
+
+msgid "Joining this game requires a password."
+msgstr "加入这个游戏需要密码。"
+
+msgid "Password: "
+msgstr "密码："
+
+msgid "Side $side"
+msgstr "阵营 $side"
+
+msgid "Load Game..."
+msgstr "读取游戏..."
+
+msgid "$requester requires the following modifications to be enabled:"
+msgstr ""
+
+msgid "$requester requires the following modifications to be disabled:"
+msgstr ""
+
+msgid ""
+"The currently chosen scenario is not compatible with your setup.\n"
+"Please select a compatible one."
+msgstr ""
+
+msgid ""
+"The currently chosen era is not compatible with your setup.\n"
+"Please select a compatible one."
+msgstr ""
+
+msgid ""
+"The currently chosen modification is not compatible with your setup.\n"
+"Please select a compatible one."
+msgstr ""
+
+msgid "Version "
+msgstr "版本"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Mandatory widget '$id' hasn't been defined."
+msgstr "必须的构件“$id”未定义。"
+
+msgid ""
+"Widget definition '$definition' doesn't contain the definition for '$id'."
+msgstr "构件定义“$definition”不包含“$id”的定义。"
+
+msgid "No default gui defined."
+msgstr "默认图形界面未定义。"
+
+msgid "No state or draw section defined."
+msgstr "状态或绘制区域未定义。"
+
+msgid "Unknown builder id for tree view node."
+msgstr "树状视图节点的构造器的ID未知。"
+
+msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
+msgstr "单击“解散”需要一个“click_dismiss”或“ok”按钮。"
+
+msgid "Failed to show a dialog, which doesn't fit on the screen."
+msgstr "无法显示对话框，屏幕大小不够。"
+
+#, fuzzy
+msgid "cancel"
+msgstr "取消"
+
+#, fuzzy
+msgid "Select Hex"
+msgstr "取消选择"
+
+#, fuzzy
+msgid "Deselect Hex"
+msgstr "取消选择"
+
+#, fuzzy
+msgid "Move/Attack"
+msgstr "攻击"
+
+msgid "Select/Move/Attack"
+msgstr ""
+
+msgid "Animate Map"
+msgstr "开启地图动画"
+
+msgid "Next Unit"
+msgstr "下一单位"
+
+msgid "Previous Unit"
+msgstr "上一单位"
+
+msgid "Hold Position"
+msgstr "保持位置"
+
+msgid "End Unit Turn"
+msgstr "结束单位的回合"
+
+msgid "Leader"
+msgstr "领袖"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Redo"
+msgstr "恢复"
+
+msgid "Zoom In"
+msgstr "放大"
+
+msgid "Zoom Out"
+msgstr "缩小"
+
+msgid "Default Zoom"
+msgstr "默认缩放比例"
+
+msgid "Toggle Full Screen"
+msgstr "开/关全屏显示"
+
+msgid "Screenshot"
+msgstr "屏幕截图"
+
+msgid "Map Screenshot"
+msgstr "地图屏幕截图"
+
+msgid "Accelerated"
+msgstr "加速"
+
+#, fuzzy
+msgid "Terrain Description"
+msgstr "单位描述"
+
+msgid "Unit Description"
+msgstr "单位描述"
+
+msgid "Rename Unit"
+msgstr "单位重命名"
+
+#, fuzzy
+msgid "Delete Unit"
+msgstr "删除文件"
+
+msgid "Save Replay"
+msgstr "保存录像"
+
+msgid "Save Map"
+msgstr "保存地图"
+
+msgid "Recruit"
+msgstr "征募"
+
+msgid "Repeat Recruit"
+msgstr "重复征募"
+
+msgid "Recall"
+msgstr "召回"
+
+msgid "End Turn"
+msgstr "结束回合"
+
+# TODO 这个是啥？
+msgid "Toggle Ellipses"
+msgstr "开/关光环"
+
+msgid "Toggle Grid"
+msgstr "开/关网格"
+
+msgid "Mouse Scrolling"
+msgstr "鼠标滚屏"
+
+msgid "Status Table"
+msgstr "状态表"
+
+msgid "Mute"
+msgstr "静音"
+
+msgid "Speak"
+msgstr "聊天"
+
+msgid "Change Side (Debug!)"
+msgstr "改变阵营（调试！）"
+
+#, fuzzy
+msgid "Kill Unit (Debug!)"
+msgstr "创建单位（调试！）"
+
+msgid "Scenario Objectives"
+msgstr "场景任务目标"
+
+msgid "Unit List"
+msgstr "单位列表"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Pause Network Game"
+msgstr "暂停联网游戏"
+
+msgid "Continue Network Game"
+msgstr "继续联网游戏"
+
+#, fuzzy
+msgid "Quit Editor"
+msgstr "启动编辑器"
+
+msgid "Set Team Label"
+msgstr "设置团队标签"
+
+msgid "Set Label"
+msgstr "设置标签"
+
+msgid "Clear Labels"
+msgstr "清除标签"
+
+msgid "Show Enemy Moves"
+msgstr "显示敌方移动范围"
+
+msgid "Best Possible Enemy Moves"
+msgstr "显示敌方最大可能移动范围"
+
+msgid "Play Replay"
+msgstr "播放录像"
+
+msgid "Reset Replay"
+msgstr "重置录像"
+
+msgid "Stop Replay"
+msgstr "停止播放录像"
+
+msgid "Next Turn"
+msgstr "下一回合"
+
+msgid "Next Side"
+msgstr "下一阵营"
+
+msgid "Full Map"
+msgstr "全地图"
+
+msgid "Each Team"
+msgstr "每一团队"
+
+msgid "Team 1"
+msgstr "第一团队"
+
+msgid "Skip Animation"
+msgstr "略过动画"
+
+#. TRANSLATORS: whiteboard menu entry: toggle planning mode
+msgid "whiteboard^Planning Mode"
+msgstr "计划模式"
+
+#. TRANSLATORS: whiteboard menu entry: execute planned action
+msgid "whiteboard^Execute Action"
+msgstr "执行行动"
+
+#. TRANSLATORS: whiteboard menu entry: execute all planned actions
+msgid "whiteboard^Execute All Actions"
+msgstr "执行全部行动"
+
+#. TRANSLATORS: whiteboard menu entry: delete planned action
+msgid "whiteboard^Delete Action"
+msgstr "删除行动"
+
+#. TRANSLATORS: whiteboard menu entry: move planned action up queue
+msgid "whiteboard^Move Action Up"
+msgstr "将行动前移"
+
+#. TRANSLATORS: whiteboard menu entry: move planned action down queue
+msgid "whiteboard^Move Action Down"
+msgstr "将行动后移"
+
+#. TRANSLATORS: whiteboard menu entry: plan as though the chosen unit were dead
+msgid "whiteboard^Suppose Dead"
+msgstr "认为已死亡"
+
+msgid "Quit to Desktop"
+msgstr "退出到桌面"
+
+msgid "Close Map"
+msgstr "关闭地图"
+
+msgid "Switch Time of Day"
+msgstr ""
+
+msgid "Switch Map"
+msgstr "切换地图"
+
+msgid "Assign Local Time"
+msgstr ""
+
+msgid "Custom Time of Day Creator"
+msgstr ""
+
+msgid "Partial Undo"
+msgstr "部分撤销"
+
+#, fuzzy
+msgid "New Scenario"
+msgstr "测试场景"
+
+msgid "Load Map"
+msgstr "读取地图"
+
+msgid "Save Map As"
+msgstr "地图另存为"
+
+#, fuzzy
+msgid "Save Scenario As"
+msgstr "场景开始"
+
+msgid "Save All Maps"
+msgstr "保存所有地图"
+
+msgid "Revert All Changes"
+msgstr "取消所有更改"
+
+msgid "Map Information"
+msgstr "地图信息"
+
+#, fuzzy
+msgid "Clear Selected Item Set"
+msgstr "选中的游戏"
+
+#, fuzzy
+msgid "Swap Foreground/Background Palette Item"
+msgstr "交换前景／背景地形"
+
+msgid "Change Palette Group"
+msgstr ""
+
+msgid "Scroll Palette Left"
+msgstr ""
+
+msgid "Scroll Palette Right"
+msgstr ""
+
+#, fuzzy
+msgid "Add New Side"
+msgstr "下一阵营"
+
+msgid "Next Tool"
+msgstr "下一工具"
+
+msgid "Paint Tool"
+msgstr "绘图工具"
+
+msgid ""
+"Use left/right mouse button to draw fore-/background terrain. Hold Shift to "
+"paint base layer only. Ctrl+click to sample terrain under cursor."
+msgstr ""
+
+msgid "Fill Tool"
+msgstr "填充工具"
+
+msgid ""
+"Left mouse button selects or deselects with Ctrl, right brings up a context "
+"menu. Hold Shift for magic-wand selection of tiles with same terrain."
+msgstr ""
+
+msgid "Selection Tool"
+msgstr "选择工具"
+
+msgid ""
+"Left mouse button displays player selection, right clears. Number keys "
+"scroll to the starting position, alt+number sets respective starting "
+"position under cursor, delete clears."
+msgstr ""
+
+#, fuzzy
+msgid "Starting Positions Tool"
+msgstr "设置起始点工具"
+
+#, fuzzy
+msgid "Label Tool"
+msgstr "填充工具"
+
+msgid "Left mouse button sets or drags a label, right clears."
+msgstr ""
+
+msgid ""
+"Left mouse button sets a new unit or moves a unit via drag and drop, right "
+"brings up a context menu. Needs a defined side."
+msgstr ""
+
+#, fuzzy
+msgid "Unit Tool"
+msgstr "绘图工具"
+
+#, fuzzy
+msgid "Item Tool"
+msgstr "下一工具"
+
+msgid ""
+"Left mouse button sets a new item or moves it via drag and drop, right "
+"clears. Not implemented yet."
+msgstr ""
+
+msgid ""
+"Left mouse button sets or drags a sound source, right clears. Not "
+"implemented yet."
+msgstr ""
+
+msgid "Sound Source Tool"
+msgstr ""
+
+msgid ""
+"Left mouse button sets the village ownership to the current side, right "
+"clears. Needs a defined side."
+msgstr ""
+
+#, fuzzy
+msgid "Village Tool"
+msgstr "村庄金币"
+
+#, fuzzy
+msgid "Can Recruit"
+msgstr "征募"
+
+msgid "Toggle the recruit attribute of a unit."
+msgstr ""
+
+msgid "Can be Renamed"
+msgstr ""
+
+msgid "Toggle the unit being renameable."
+msgstr ""
+
+msgid "Assign Recruit List"
+msgstr ""
+
+msgid "Assign the selected unit set as recruit list to the unit."
+msgstr ""
+
+#, fuzzy
+msgid "Change Unit ID"
+msgstr "更改控制方"
+
+msgid "Loyal"
+msgstr ""
+
+msgid "Toggle Minimap Unit Coding"
+msgstr ""
+
+msgid "Toggle Minimap Terrain Coding"
+msgstr ""
+
+msgid "Toggle Minimap Unit Drawing"
+msgstr ""
+
+msgid "Toggle Minimap Village Drawing"
+msgstr ""
+
+msgid "Toggle Minimap Terrain Drawing"
+msgstr ""
+
+msgid "Next Brush"
+msgstr "下一笔刷"
+
+msgid "Default Brush"
+msgstr "默认笔刷"
+
+msgid "Single Tile"
+msgstr ""
+
+msgid "Radius One"
+msgstr ""
+
+msgid "Radius Two"
+msgstr ""
+
+msgid "Brush NW-SE"
+msgstr ""
+
+msgid "Brush SW-NE"
+msgstr ""
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid ""
+"Left mouse button pastes from the clipboard, right brings up a context menu."
+msgstr ""
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Export Selected Coordinates to System Clipboard"
+msgstr "导出所选坐标至系统剪贴板"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select Inverse"
+msgstr "反选"
+
+msgid "Select None"
+msgstr "取消选择"
+
+msgid "Rotate Clipboard Clockwise"
+msgstr "顺时针旋转剪贴板"
+
+msgid "Rotate Clipboard Counter-Clockwise"
+msgstr "逆时针旋转剪贴板"
+
+msgid "Flip Clipboard Horizontally"
+msgstr "水平翻转剪贴板"
+
+msgid "Flip Clipboard Vertically"
+msgstr "垂直翻转剪贴板"
+
+msgid "Rotate Selection"
+msgstr "旋转选定区域"
+
+msgid "Flip Selection"
+msgstr "翻转选定区域"
+
+msgid "Fill Selection"
+msgstr "填充选定区域"
+
+#, fuzzy
+msgid "Generate Tiles in Selection"
+msgstr "在选定区域内生成区块"
+
+#, fuzzy
+msgid "Randomize Tiles in Selection"
+msgstr "在选定区域内打乱区块"
+
+msgid "Rotate Map"
+msgstr "旋转地图"
+
+msgid "Generate Map"
+msgstr "生成地图"
+
+msgid "Apply a Mask"
+msgstr "应用遮罩"
+
+msgid "Create Mask"
+msgstr "创建遮罩"
+
+msgid "Refresh Display"
+msgstr "刷新显示"
+
+msgid "Update Terrain Transitions"
+msgstr "刷新地形过渡"
+
+#, fuzzy
+msgid "Toggle Terrain Transition Update"
+msgstr "刷新地形过渡"
+
+msgid "Auto-update Terrain Transitions"
+msgstr "自动刷新地形过渡"
+
+#, fuzzy
+msgid "Auto-update Terrain Transitions: No"
+msgstr "自动刷新地形过渡"
+
+#, fuzzy
+msgid "Auto-update Terrain Transitions: Partial"
+msgstr "自动刷新地形过渡"
+
+msgid "Refresh Image Cache"
+msgstr "刷新图像缓存"
+
+msgid "Draw Hex Coordinates"
+msgstr "绘制六角格坐标"
+
+msgid "Draw Terrain Codes"
+msgstr "绘制地形编码"
+
+#, fuzzy
+msgid "Save Selection to Area"
+msgstr "旋转选定区域"
+
+#, fuzzy
+msgid "Rename Selected Area"
+msgstr "选中的游戏"
+
+#, fuzzy
+msgid "Remove Selected Area"
+msgstr "选中的游戏"
+
+msgid "Add New Area"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Scenario"
+msgstr "测试场景"
+
+#, fuzzy
+msgid "Edit Side"
+msgstr "下一阵营"
+
+#, fuzzy
+msgid "Remove Side"
+msgstr "移除"
+
+msgid "Delay Shroud Updates"
+msgstr "暂缓更新黑幕"
+
+# personally i like the original translation阴影区域, gonna discuss about this
+msgid "Update Shroud Now"
+msgstr "立即刷新黑幕"
+
+msgid "Continue Move"
+msgstr "继续移动"
+
+msgid "Find Label or Unit"
+msgstr "查找标签或单位"
+
+msgid "Speak to Ally"
+msgstr "与盟友聊天"
+
+msgid "Speak to All"
+msgstr "与所有人聊天"
+
+msgid "View Chat Log"
+msgstr "察看聊天纪录"
+
+msgid "Enter User Command"
+msgstr "输入用户命令"
+
+msgid "Custom Command"
+msgstr "自定义命令"
+
+msgid "Run Formula"
+msgstr "运行AI公式"
+
+msgid "Clear Messages"
+msgstr "清除所有信息"
+
+msgid "Change Language"
+msgstr "改变语言"
+
+msgid "Refresh WML"
+msgstr "刷新WML"
+
+msgid "Next Tip of the Day"
+msgstr "下一条每日提示"
+
+msgid "Previous Tip of the Day"
+msgstr "前一条每日提示"
+
+msgid "Start Tutorial"
+msgstr "开始教程"
+
+msgid "Start Campaign"
+msgstr "开始战役"
+
+msgid "Start Multiplayer Game"
+msgstr "开始多人游戏"
+
+msgid "Manage Add-ons"
+msgstr "管理附加组件"
+
+msgid "Start Editor"
+msgstr "启动编辑器"
+
+msgid "Show Credits"
+msgstr "显示制作者名单"
+
+msgid "Show Helptip"
+msgstr "显示帮助提示"
+
+msgid "Unrecognized Command"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Joystick"
+msgstr ""
+
+msgid "Centered"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+#, fuzzy
+msgid "Right"
+msgstr "高度："
+
+msgid "Down"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "RightUp"
+msgstr ""
+
+msgid "RightDown"
+msgstr ""
+
+msgid "LeftUp"
+msgstr ""
+
+msgid "LeftDown"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown"
+msgstr "未知时代"
+
+#, fuzzy
+msgid "Hat"
+msgstr "小屋"
+
+#, fuzzy
+msgid "Hotkeys Reset"
+msgstr "快捷键"
+
+msgid "All hotkeys have been reset to their default values."
+msgstr ""
+
+msgid "Hotkey Settings"
+msgstr "快捷键设置"
+
+#, fuzzy
+msgid "Defaults"
+msgstr "默认"
+
+msgid "Reset all bindings to the default values"
+msgstr ""
+
+#, fuzzy
+msgid "Prefs section^Title Screen"
+msgstr "声音"
+
+#, fuzzy
+msgid "Prefs section^Game"
+msgstr "常规"
+
+#, fuzzy
+msgid "Prefs section^Editor"
+msgstr "声音"
+
+#, fuzzy
+msgid "Add Hotkey"
+msgstr "快捷键"
+
+msgid "Clear Hotkey"
+msgstr "清除快捷键"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Binding"
+msgstr "快捷键"
+
+msgid "Press desired hotkey (Esc cancels)"
+msgstr "请按下您所期望的快捷键（按ESC取消）"
+
+msgid ""
+"\"$hotkey_sequence|\" is in use by \"$old_hotkey_action|\". Do you wish to "
+"reassign it to \"$new_hotkey_action|\"?"
+msgstr ""
+
+#, fuzzy
+msgid "Reassign Hotkey"
+msgstr "清除快捷键"
+
+#. TRANSLATORS: This is the language code which will be used
+#. to store and fetch localized non-textual resources, such as images,
+#. when they exist. Normally it is just the code of the PO file itself,
+#. e.g. "de" of de.po for German. But it can also be a comma-separated
+#. list of language codes by priority, when the localized resource
+#. found for first of those languages will be used. This is useful when
+#. two languages share sufficient commonality, that they can use each
+#. other's resources rather than duplicating them. For example,
+#. Swedish (sv) and Danish (da) are such, so Swedish translator could
+#. translate this message as "sv,da", while Danish as "da,sv".
+msgid "language code for localized resources^en_US"
+msgstr "zh_CN"
+
+msgid "The maximum text width is less than 1."
+msgstr "最大文字宽度小于1。"
+
+msgid ""
+"The video mode could not be changed. Your window manager must be set to 16 "
+"bits per pixel to run the game in windowed mode. Your display must support "
+"1024x768x16 to run the game full screen."
+msgstr ""
+"无法改变视频模式。以窗口模式运行游戏需要将窗口管理器设为16位色，全屏模式需要"
+"您的显示设备支持1024x768分辨率和16位色。"
+
+msgid "There are no alternative video modes available"
+msgstr "没有其他可用的显示模式"
+
+msgid "Choose Resolution"
+msgstr "选择分辨率"
+
+msgid ""
+"A terrain with a string with more than 4 characters has been found, the "
+"affected terrain is :"
+msgstr "找到一个具有超过4个字符的字符串的地形，受影响的地形是："
+
+msgid "The text contains invalid markup: "
+msgstr "此文本中有非法的标记："
+
+msgid ""
+"An error due to possibly invalid WML occurred\n"
+"The error message is :"
+msgstr ""
+"发现一个错误，可能是由于无效的WML导致的\n"
+"错误信息如下："
+
+msgid "When reporting the bug please include the following error message :"
+msgstr "报告BUG时请包含以下错误信息："
+
+msgid ""
+"In section '[$section|]' where '$primary_key| = $primary_value' the "
+"mandatory key '$key|' isn't set."
+msgstr ""
+"在小节“[$section|]”中有“$primary_key| = $primary_value”，其必须设定的键"
+"值“$key|”没有设定。"
+
+msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
+msgstr "在小节“[$section|]”中，必须设定的键值“$key|”没有设定。"
+
+msgid ""
+"The key '$key' is deprecated and support will be removed in version "
+"$removal_version."
+msgstr "主键“$key”已被废弃，对此主键的支持将在版本 $removal_version 中移除。"
+
+msgid ""
+"The key '$deprecated_key' has been renamed to '$key'. Support for "
+"'$deprecated_key' will be removed in version $removal_version."
+msgstr ""
+"主键“$deprecated_key”已被重命名为“$key”，对“$deprecated_key”的支持将在版本 "
+"$removal_version 中移除。"

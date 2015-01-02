@@ -1,0 +1,15 @@
+Factions                      派系
+
+Loyalists                     保皇军队
+Rebels                        反抗势力
+Northerners                   北方民族
+Drakes                        龙人部落
+Knalgan Alliance              纳尔迦联盟
+Undead                        亡灵军团
+Alliance of Light             光明联盟
+Alliance of Darkness          黑暗联盟
+
+########################################
+
+Side                          阵营
+Team                          团队

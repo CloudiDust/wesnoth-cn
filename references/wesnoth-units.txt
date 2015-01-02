@@ -1,0 +1,307 @@
+Units                         单位
+Races                         种族
+
+########################################
+
+Bats                          蝙蝠
+
+Blood Bat                     血色蝙蝠
+Dread Bat                     恐惧蝙蝠
+Vampire Bat                   吸血蝙蝠
+
+########################################
+
+Drakes                        龙人
+
+Drake Arbiter                 龙人仲裁者
+Armageddon Frake              末日龙战士
+Drake Blademaster             龙人剑圣
+Drake Burner                  龙人灼烧者
+Drake Clasher                 龙人冲击者
+Drake Enforcer                龙人执行者
+Drake Fighter                 龙人战士
+Drake Flameheart              熔火之心
+Drake Flare                   龙人闪耀者
+Drake Glider                  龙人滑翔者
+Hurricane Drake               飓风龙战士
+Inferno Drake                 地狱龙战士
+Sky Drake                     天空龙战士
+Drake Thrasher                龙人痛击者
+Drake Warden                  龙人守望者
+Drake Warrior                 龙人勇士
+
+########################################
+
+Dwarves                       矮人
+
+Dwarvish Arcanister           矮人奥术师
+Dwarvish Berserker            矮人狂战士
+Dwarvish Dragonguard          矮人龙卫士
+Dwarvish Explorer             矮人探险者
+Dwarvish Fighter              矮人战士
+Dwarvish Guardsman            矮人卫兵
+Dwarvish Lord                 矮人领主
+Dwarvish Pathfinder           矮人寻路者
+Dwarvish Runemaster           矮人符文大师
+Dwarvish Runesmith            矮人符文工匠
+Dwarvish Scout                矮人侦察兵
+Dwarvish Sentinel             矮人哨卫
+Dwarvish Stalwart             矮人坚守者
+Dwarvish Steelclad            矮人铁甲兵
+Dwarvish Thunderer            矮人雷霆战士
+Dwarvish Thunderguard         矮人雷霆卫士
+Dwarvish Ulfserker            矮人双手斧战士 
+
+########################################
+
+Elves                         精灵
+
+Elvish Archer                 精灵弓箭手
+Elvish Avenger                精灵复仇者
+Elvish Captain                精灵队长
+Elvish Champion               精灵斗士
+Elvish Druid                  精灵德鲁伊
+Elvish Enchantress            精灵魔女
+Elvish Fighter                精灵战士
+Elvish Hero                   精灵英雄
+Elvish High Lord              高阶精灵领主
+Elvish Lady                   精灵女领主
+Elvish Lord                   精灵领主
+Elvish Marksman               精灵神射手
+Elvish Marshal                精灵元帅
+Elvish Outrider               精灵骑卫兵
+Elvish Ranger                 精灵游侠
+Elvish Rider                  精灵骑兵
+Elvish Scout                  精灵侦察兵
+Elvish Shaman                 精灵萨满
+Elvish Sharpshooter           精灵狙击手
+Elvish Shyde                  精灵仙子
+Elvish Sorceress              精灵女巫
+Elvish Sylph                  空气精灵
+
+########################################
+
+Goblins                       地精
+Wolves                        狼
+
+Direwolf Rider                恐怖巨狼骑兵
+Goblin Impaler                地精穿刺兵
+Goblin Knight                 地精骑士
+Goblin Pillager               地精掠夺者
+Goblin Rouser                 地精煽动者
+Goblin Spearman               地精矛兵
+Wolf Rider                    狼骑兵
+
+########################################
+
+Gryphons                      狮鹫
+
+Gryphon                       狮鹫
+Gryphon Master                狮鹫大师
+Gryphon Rider                 狮鹫骑士
+
+#######################################
+
+Humans                        人类
+
+Loyalists                     保皇党
+
+Grand Knight                  高阶骑士
+Knight                        骑士
+Lancer                        长枪轻骑兵
+Paladin                       圣骑士
+Horseman                      骑手
+Bowman                        弓手
+Cavalier                      近卫骑兵
+Cavalryman                    骑兵
+Dragoon                       龙骑士
+Duelist                       决斗者
+Fencer                        剑客
+General                       将军
+Grand Marshal                 大元帅
+Halberdier                    戟兵
+Heavy Infantryman             重甲步兵
+Iron Mauler                   铁锤人
+Javelineer                    标枪兵
+Lieutenant                    中尉
+Longbowman                    长弓手
+Master Bowman                 大师弓手
+Master at Arms                卫队士官
+Pikeman                       长矛兵
+Royal Guard                   皇家卫兵
+Royal Warrior                 皇家勇士
+Sergeant                      军士
+Shook Trooper                 震慑步兵
+Spearman                      矛兵
+Swordsman                     剑士
+
+Mages                         法师
+
+Mage                          法师
+Arch Mage                     大法师
+Elder Mage                    长老法师
+Great Mage                    高阶大法师
+Red Mage                      红袍法师
+Silver Mage                   银袍法师
+White Mage                    白袍法师
+Mage of Light                 光明法师
+
+Outlaws                       游寇
+
+Outlaw                        游寇
+Assassin                      刺客
+Bandit                        强盗
+Footpad                       走卒
+Fugitive                      亡命徒
+Highwayman                    拦路强盗
+Rogue                         飞贼
+Ruffian                       无赖
+Thief                         盗贼
+Thug                          暴徒
+
+Civilians                     平民
+
+Peasant                       农民
+Woodsman                      山民
+Huntsman                      狩猎高手
+Poacher                       偷猎者
+Ranger                        游荡者
+Trapper                       陷阱猎人
+
+########################################
+
+Mechanical                    机械
+
+Boat                          小艇
+Galleon                       大帆船
+Pirate Galleon                海盗船
+Transport Galleon             运输船
+
+########################################
+
+Mermen                        人鱼
+
+Mermaid Diviner               人鱼占卜师
+Mermaid Enchantress           人鱼魔女
+Merman Entangler              人鱼缠绕者
+Merman Fighter                人鱼战士
+Merman Hoplite                人鱼重甲兵
+Merman Hunter                 人鱼猎手
+Mermaid Initiate              人鱼魔法学徒
+Merman Javelineer             人鱼标枪兵
+Merman Netcaster              人鱼布网者
+Mermaid Priestess             人鱼女祭司
+Mermaid Siren                 人鱼女妖
+Merman Spearman               人鱼矛兵
+Merman Triton                 人鱼三叉戟战士
+Merman Warrior                人鱼勇士
+
+########################################
+
+Monsters                      怪物
+
+Giant Rat                     巨鼠
+Giant Spider                  巨型蜘蛛
+Cuttle Fish                   乌贼
+Fire Dragon                   烈火巨龙
+Fire Guardian                 烈火卫士
+Giant Mudcrawler              巨型粘土怪
+Giant Scorpion                巨蝎
+Mudcrawler                    粘土怪
+Sea Serpent                   巨型海蛇
+Skeletal Dragon               骸骨巨龙
+Tentacles of the Deep         深渊触手
+Water Serpent                 巨型水蛇
+Wolf                          狼
+Yeti                          雪人
+
+########################################
+
+Nagas                         娜迦
+
+Naga/Nagini Fighter           娜迦战士
+Naga/Nagini Myrmidon          娜迦忠勇武士
+Naga/Nagini Warrior           娜迦勇士
+
+########################################
+
+Ogres                         食人魔
+
+Ogre                          食人魔
+Young Ogre                    食人魔幼兽
+
+########################################
+
+Orcs                          兽人
+
+Orcish Archer                 兽人弓箭手
+Orcish Assassin               兽人刺客
+Orcish Crossbowman            兽人弩手
+Orcish Grunt                  兽人步兵
+Orcish Leader                 兽人领袖
+Orcish Ruler                  兽人统治者
+Orcish Slayer                 兽人杀手
+Orcish Slurbow                兽人重弩手
+Orcish Sovereign              兽人君主
+Orcish Warlord                兽人军阀
+Orcish Warrior                兽人勇士
+
+########################################
+
+Saurians                      蜥蜴人
+
+Saurian Ambusher              蜥蜴人伏击者
+Saurian Augur                 蜥蜴人占卜师
+Saurian Flanker               蜥蜴人侧卫
+Saurian Oracle                蜥蜴人先知
+Saurian Skirmisher            蜥蜴人游击士
+Saurian Soothsayer            蜥蜴人预言者
+
+########################################
+
+Trolls                        巨魔
+
+Great Troll                   巨魔长者
+Troll Hero                    巨魔英雄
+Troll Rocklobber              巨魔抛石者
+Troll                         巨魔
+Troll Shaman                  巨魔萨满
+Troll Warrior                 巨魔勇士
+Troll Whelp                   巨魔幼崽
+
+########################################
+
+Undead                        亡灵
+
+Ghoul                         食尸鬼
+Necrophage                    死灵食尸鬼
+Ghast                         邪灵食尸鬼
+Soulless                      无魂怪
+Walking Corpse                行尸
+Ancient Lich                  远古巫妖
+Dark Adept                    黑暗狂徒
+Dark Sorcerer/Sorceress       黑暗巫师
+Lich                          巫妖
+Necromancer                   死灵法师
+Banebow                       毁灭射手
+Bone Shooter                  枯骨射手
+Chocobone                     骷髅骑士
+Death Knight                  死亡骑士
+Deathblade                    死亡剑士
+Draug                         战魂
+Revenant                      亡魂
+Skeleton                      骷髅战士
+Skeleton Archer               骷髅弓箭手
+Ghost                         鬼魂
+Nightgaunt                    夜之荒芜
+Shadow                        暗影
+Spectre                       幽鬼
+Wraith                        幽魂
+
+########################################
+
+Woses                         树人
+
+Ancient Wose                  远古树人
+Elder Wose                    树人长者
+Wose                          树人
