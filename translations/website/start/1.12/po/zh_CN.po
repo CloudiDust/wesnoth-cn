@@ -28,7 +28,7 @@ msgstr "zh_CN"
 #: template.html:13 template.html:31
 #, fuzzy
 msgid "The Battle for Wesnoth 1.12"
-msgstr "韦诺之战 1.10"
+msgstr "韦诺之战 1.12"
 
 #. type: Content of: <html><body><div><div><a>
 #: template.html:27
@@ -80,7 +80,7 @@ msgstr "<a href='#download'>下载</a>"
 #: template.html:49
 #, fuzzy
 msgid "What’s New in Wesnoth 1.12"
-msgstr "韦诺之战 1.10 新增元素"
+msgstr "韦诺之战 1.12 新增元素"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:51
