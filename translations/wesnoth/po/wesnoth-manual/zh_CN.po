@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
+# Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "POT-Creation-Date: 2014-11-15 10:52+0100\n"
-"PO-Revision-Date: 2015-01-02 13:17+0800\n"
+"PO-Revision-Date: 2015-01-07 21:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -718,7 +719,6 @@ msgid "Full map, scaled"
 msgstr "缩小后的战场全地图"
 
 #. type: Content of: <book><chapter><section><section><orderedlist><listitem><simpara>
-#, fuzzy
 msgid ""
 "Current hex position (x-coordinate, y-coordinate), defense and movement of "
 "the currently selected unit on the marked hex"
@@ -1394,7 +1394,7 @@ msgstr "设定团队标签"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid ":"
-msgstr ":"
+msgstr "："
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid ""
@@ -2022,45 +2022,44 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Aged"
-msgstr ""
+msgstr "年迈"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 msgid ""
 "The oldest units may have the Aged trait, receiving an 8 points HP decrease "
 "and having -1 movement and melee damage."
-msgstr ""
+msgstr "最老的单位会拥有"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Dim"
-msgstr ""
+msgstr "愚笨"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 msgid "Units with the Dim trait require 20% more experience to advance."
-msgstr ""
+msgstr "拥有愚笨特质的单位需要20%的额外经验才能升级。"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Elemental"
-msgstr ""
+msgstr "元素"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
-#, fuzzy
 msgid ""
 "Elemental units aren&#8217;t alive and thus are immune to poison, and drain "
 "and plague don&#8217;t work on them.  Elemental units generally have "
 "<emphasis>Elemental</emphasis> as their only trait."
 msgstr ""
-"机械单位并没有生命，所以对毒素免疫，而吸血与瘟疫对它们同样无效。机械单位通常"
-"只拥有<emphasis>机械</emphasis>这一个特质。"
+"元素单位并没有生命，所以对毒素免疫，而吸血与瘟疫对它们同样无效。元素单位通常"
+"只拥有<emphasis>元素</emphasis>这一个特质。"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Feral"
-msgstr ""
+msgstr "不驯"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 msgid ""
 "Units with the Feral trait only receive 50% defense in villages regardless "
 "of the base terrain the village is on."
-msgstr ""
+msgstr "拥有不驯特质的单位，不管在那种村庄地形中，闪避率均为50%"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Loyal"
@@ -2088,7 +2087,6 @@ msgid "Mechanical"
 msgstr "机械"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
-#, fuzzy
 msgid ""
 "Mechanical units aren&#8217;t alive and thus are immune to poison, and drain "
 "and plague don&#8217;t work on them.  Mechanical units generally have "
@@ -2105,7 +2103,7 @@ msgstr "减速"
 msgid ""
 "Large, unwieldy units with the Slow trait have -1 movement and 5% more "
 "hitpoints."
-msgstr ""
+msgstr "巨大而笨拙的单位拥有缓慢特质，移动力减1，生命值增加5%。"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Undead"
@@ -2125,13 +2123,13 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Weak"
-msgstr ""
+msgstr "虚弱"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 msgid ""
 "Units may have the Weak trait, receiving a -1 increment in hitpoints and "
 "melee damage."
-msgstr ""
+msgstr "拥有虚弱特质的单位"
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Unit Specialties"
@@ -2337,13 +2335,14 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Feeding"
-msgstr ""
+msgstr "食尸"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 msgid ""
 "This unit gains 1 hitpoint added to its maximum whenever it kills a unit, "
 "except units that are immune to plague."
 msgstr ""
+"每当该单位杀死一个单位时，其生命值上限增加1点。在死亡单位免疫瘟疫的场合无效。"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Heals +4"
@@ -2482,17 +2481,15 @@ msgstr ""
 "本单位可以花费一次移动机会，在任意两个属于本阵营的无人驻守的村庄之间移动。"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
-#, fuzzy
 msgid "Unpoison"
-msgstr "毒素"
+msgstr "解毒"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
-#, fuzzy
 msgid ""
 "A curer can cure a unit of poison, although that unit will receive no "
 "additional healing on the turn it is cured of the poison."
 msgstr ""
-"治愈者可以治愈单位的中毒状态，虽然该单位在被治愈的回合将不会获得额外的治疗。"
+"治愈者可以治愈单位的中毒状态，但是该单位在被治愈的回合将不会获得额外的治疗。"
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Experience"
@@ -2714,19 +2711,17 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/orb-black.jpg\"/> </imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/orb-blue.jpg\"/> </imageobject>"
+"<imageobject> <imagedata fileref=\"images/orb-black.jpg\"/> </imageobject>"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject><textobject><phrase>
-#, fuzzy
 msgid "Black orb"
-msgstr "蓝色球"
+msgstr "黑色球"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid ""
@@ -2767,9 +2762,8 @@ msgid "Red orb"
 msgstr "红色球"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
-#, fuzzy
 msgid "Enemy units have a red orb on the top of their energy bar"
-msgstr "敌方单位的能量条顶部不显示状态球。"
+msgstr "敌方单位的能量条顶部有个红色球。"
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Ellipses, Team Colors, and Hero Icons"
