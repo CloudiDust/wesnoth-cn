@@ -4,15 +4,16 @@
 # Huang Huan <unicon221@gmail.com>, 2005.
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
+# Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-03-02 18:57+0100\n"
-"PO-Revision-Date: 2015-01-02 13:25+0800\n"
+"PO-Revision-Date: 2015-01-07 21:24+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -546,8 +547,8 @@ msgstr "保护你的部队"
 #. [message]: speaker=narrator
 msgid ""
 "Remember to pull back wounded units into villages and recruit more if "
-"needed. Take special care of units with the highest <i>experience points (XP)"
-"</i> so they can gain levels and become more powerful."
+"needed. Take special care of units with the highest <i>experience points "
+"(XP)</i> so they can gain levels and become more powerful."
 msgstr ""
 "记得把受伤的单位撤回村庄，如果需要的话征募更多的单位。特别要注意保护那些得到"
 "最多<b>经验值（XP）</b>的单位，让他们得以升级，并变得更强。"
@@ -638,13 +639,15 @@ msgstr ""
 
 #. [set_menu_item]: id=skip_item
 msgid "End Scenario"
-msgstr ""
+msgstr "结束场景"
 
 #. [message]: speaker=narrator
 msgid ""
 "Do you want to keep practicing? You can end this scenario at any time by "
 "using the <b>End Scenario</b> item in the context menu."
 msgstr ""
+"你还想继续练习吗？你随时可以通过点击上下文菜单中的<b>结束场景</b>来结束这一幕"
+"场景。"
 
 #. [option]: speaker=narrator
 msgid "Yes, I’m still figuring it out."
@@ -1102,17 +1105,14 @@ msgid "Attack the orc with an Archer"
 msgstr "用弓箭手攻击那个兽人"
 
 #. [event]
-#, fuzzy
 msgid ""
 "To review the capabilities of any unit—including an enemy—hover the mouse "
 "over it, and you will see a unit summary on the right of the screen"
 msgstr ""
-"\n"
-"若要查看某个单位的能力——包括敌人的能力——那就将鼠标指向它，你就会在屏幕右边看"
+"若要查看某个单位的能力——包括敌人的能力——只要将鼠标指向它，你就会在屏幕右边看"
 "到单位概述。"
 
 #. [event]
-#, fuzzy
 msgid "Unit Summaries"
 msgstr "<big>单位概述</big>"
 
@@ -1149,20 +1149,17 @@ msgstr ""
 "村庄。需要两回合才能抵达那里。"
 
 #. [event]
-#, fuzzy
 msgid "Long-distance Movement"
 msgstr "<big>长距离移动</big>"
 
 #. [event]
-#, fuzzy
 msgid ""
 "You can order a unit to move for multiple turns by selecting the unit and "
 "clicking on the destination. A number will indicate how many turns it will "
 "take to get there."
 msgstr ""
-"\n"
-"你可以命令一个单位在多个回合中进行连续移动。只要选中单位，然后单击目的地即"
-"可。一个数字将会显示该单位需要多少回合才能到达目的地。"
+"你可以命令一个单位进行跨越多回合的移动。只要选中单位，然后单击目的地即可。一"
+"个数字将会显示该单位需要多少回合才能到达目的地。"
 
 #. [event]
 msgid "Tell a Fighter to move to the far east village"
@@ -1307,18 +1304,15 @@ msgstr ""
 "间变得强大，而在夜间变得弱小。精灵则是<b>中立</b>的：不受时段的影响。"
 
 #. [event]
-#, fuzzy
 msgid ""
 "After this dialog, hold the mouse over the landscape image below the minimap "
 "on the right. This brings up a description of the time of day, showing who "
 "has the advantage."
 msgstr ""
-"\n"
-"在这对白之后，把鼠标移动到右边小地图上方的风景图上停留一会儿。你将会看到关于"
+"在这段对话后，把鼠标移动到右边小地图上方的小地图上停留一会儿。你将会看到关于"
 "时段的描述，以及何类单位在此时具有优势。"
 
 #. [event]
-#, fuzzy
 msgid "Time of Day"
 msgstr "<big>时段</big>"
 
@@ -1342,12 +1336,10 @@ msgid ""
 msgstr "注意那些正在渡河的兽人！如果让他们进入森林，那就很难击退了！"
 
 #. [event]
-#, fuzzy
 msgid "Tracking Unused Units"
 msgstr "<big>跟踪未使用的单位</big>"
 
 #. [event]
-#, fuzzy
 msgid ""
 "You can ensure you use all your troops by pressing <b>n</b> to step from one "
 "unit to the next. If you press <b>space</b>, you can mark the currently "
@@ -1355,40 +1347,33 @@ msgid ""
 "accident later on. When <b>n</b> no longer selects a new unit, it’s safe to "
 "end your turn."
 msgstr ""
-"\n"
 "通过按<b>n</b>键依次选中各个单位，你可以确保自己使用了所有的部队。如果按下<b>"
-"空格</b>，你就可以将当前选中的单位标记为行动完成，这样就不可能因不小心而移动"
-"它了。当<b>n</b>键无法选中新的单位时，就可以放心地结束您的回合了。"
+"空格</b>，你就可以将当前选中的单位标记为当前回合行动完成，以免你一会儿不小心"
+"又移动了它。当<b>n</b>键无法选中新的单位时，就可以放心地结束您的回合了。"
 
 #. [event]
-#, fuzzy
 msgid ""
 "In this scenario, you only need to defeat the orc leader to win. (Victory "
 "conditions for a scenario are given under <b>Scenario Objectives</b> in the "
 "<b>Main Menu</b>)."
 msgstr ""
-"\n"
-"在此场景中，你只需要打败兽人领袖就能获胜了。（场景的胜利条件在<b>主菜单</b>的"
+"在此场景中，你只需要打败兽人首领就能获胜了。（场景的胜利条件在<b>主菜单</b>的"
 "<b>场景任务目标</b>中给出。）"
 
 #. [event]
-#, fuzzy
 msgid "Victory Conditions"
 msgstr "<big>胜利条件</big>"
 
 #. [event]
-#, fuzzy
 msgid "Recruit the Right Unit Types"
 msgstr "<big>征募正确的单位类型</big>"
 
 #. [event]
-#, fuzzy
 msgid ""
 "Remember to recruit troops useful for the situation. Archers are "
 "particularly effective against Grunts, Wolf Riders and the orcish leader."
 msgstr ""
-"\n"
-"记得要征募在当前状况下有用的部队。弓箭手们在对付兽人步兵、狼骑兵和兽人领袖时"
+"记得要征募在当前战局中有用的部队。弓箭手们在对付兽人步兵、狼骑兵和兽人领袖时"
 "特别有效。"
 
 #. [then]
@@ -1466,18 +1451,15 @@ msgid ""
 msgstr "失去一位治疗师是对整支军队的打击！保证他们处在敌人的攻击范围之外！"
 
 #. [then]
-#, fuzzy
 msgid "Tracking Enemy Movement"
 msgstr "<big>跟踪敌人的移动</big>"
 
 #. [then]
-#, fuzzy
 msgid ""
 "You can see where an enemy can reach by moving the mouse over them. You can "
 "see all possible enemy moves at once with the <b>Show Enemy Moves</b> "
 "command from the <b>Actions</b> menu."
 msgstr ""
-"\n"
 "你可以将鼠标移动到敌人之上以查看他们的移动范围。你可以使用<b>行动</b>菜单中的"
 "<b>显示敌方移动范围</b>命令一下子查看到所有敌人的移动范围。"
 

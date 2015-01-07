@@ -7,15 +7,16 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
+# Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-11-15 10:53+0100\n"
-"PO-Revision-Date: 2015-01-02 13:11+0800\n"
+"PO-Revision-Date: 2015-01-07 21:24+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,12 +33,10 @@ msgid "berserk"
 msgstr "狂暴"
 
 #. [berserk]: id=berserk
-#, fuzzy
 msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 30 rounds of attacks have occurred."
 msgstr ""
-"狂暴：\n"
 "不论是在进攻时还是在防御时，狂暴都将使得作战双方维持战斗状态，直到其中一方被"
 "杀，或者恶斗三十回合为止。"
 
@@ -46,26 +45,19 @@ msgid "magical"
 msgstr "魔法"
 
 #. [chance_to_hit]: id=magical
-#, fuzzy
 msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
-msgstr ""
-"魔法：\n"
-"本攻击无视被攻击单位的闪避能力，而总是具有70%的命中率。"
+msgstr "本攻击无视被攻击单位的闪避能力，而总是具有70%的命中率。"
 
 #. [firststrike]: id=firststrike
-#, fuzzy
 msgid "first strike"
 msgstr "先制"
 
 #. [firststrike]: id=firststrike
-#, fuzzy
 msgid ""
 "This unit always strikes first with this attack, even if they are defending."
-msgstr ""
-"先制：\n"
-"使用本攻击时，本单位每次都能率先攻击，即使是在防御时也不例外。"
+msgstr "本单位每次都能率先攻击，即使是在防御时也不例外。"
 
 #. [heals]: id=healing
 msgid "heals +4"
@@ -76,7 +68,6 @@ msgid "female^heals +4"
 msgstr "治疗+4"
 
 #. [heals]: id=healing
-#, fuzzy
 msgid ""
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
@@ -85,7 +76,6 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"治疗+4：\n"
 "允许本单位在每回合开始时治疗相邻区域内受伤的友军单位。\n"
 "\n"
 "本治疗师所治疗的单位每回合最多能恢复4点生命值，或阻止毒药在该回合发作。\n"
@@ -100,7 +90,6 @@ msgid "female^heals +8"
 msgstr "治疗+8"
 
 #. [heals]: id=healing
-#, fuzzy
 msgid ""
 "This unit combines herbal remedies with magic to heal units more quickly "
 "than is normally possible on the battlefield.\n"
@@ -110,7 +99,6 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"治疗+8：\n"
 "本单位将魔法与草药混合使用以在战场上治疗单位，比通常可能的速度快得多。\n"
 "\n"
 "本治疗师所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
@@ -746,7 +734,6 @@ msgid "Northlands"
 msgstr "北方大陆"
 
 #. [topic]: id=northlands
-#, fuzzy
 msgid ""
 "There is no government of the Northlands. Various groups of orcs, dwarves, "
 "barbarian men and even elves populate the region. The northern and eastern "
@@ -793,7 +780,6 @@ msgstr ""
 "\n"
 "    • 著名城市：\n"
 "          ◦ 戈拉姆多：一个兽人部落的首都。\n"
-"          ◦ 罗迈尔：另一个兽人部落的首都。\n"
 "          ◦ 韦弥尔：卡·利安——精灵大元老会所在地。\n"
 "          ◦ 矮人之门：心之山脉南部纳尔迦区域中的一个人类和矮人混居的城镇，是"
 "主要的贸易中心。\n"
@@ -864,7 +850,6 @@ msgid "Far North"
 msgstr "极北之地"
 
 #. [topic]: id=far_north
-#, fuzzy
 msgid ""
 "Cold, harsh, and inaccessible, the Far North is the ancestral home of the "
 "Orcish Clannate. It lies north of the <ref>dst='heart_mountains' text='Heart "
@@ -908,7 +893,6 @@ msgstr ""
 "          ◦ 巴拉戈·高，兽人大元老会所在的城市\n"
 "          ◦ 毕图克\n"
 "          ◦ 波斯特普\n"
-"          ◦ 卡斯特弗朗\n"
 "          ◦ 法兹\n"
 "          ◦ 非斯托戈\n"
 "          ◦ 戈里斯比\n"
@@ -916,8 +900,9 @@ msgstr ""
 "          ◦ 梅莫戈\n"
 "          ◦ 普里斯提姆\n"
 "          ◦ 提里戈兹\n"
+"          ◦ 多雷斯特：最北端的人类城市\n"
 "    • 著名地貌：\n"
-"          ◦ 孤寂沼泽\n"
+"          ◦ 黑沼泽\n"
 "          ◦ 多斯山脉\n"
 "          ◦ 哈戈山脉\n"
 "          ◦ 绿林\n"
@@ -925,6 +910,7 @@ msgstr ""
 "          ◦ 瑟利恩森林\n"
 "          ◦ 奥姆河\n"
 "          ◦ 伯克河\n"
+"          ◦ 寒霜荒原\n"
 "          ◦ 荒原"
 
 #. [section]: id=introduction
@@ -957,7 +943,6 @@ msgstr "技能"
 msgid "Weapon Specials"
 msgstr "武器特性"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=factions_section
 msgid "Factions"
 msgstr "派系"
@@ -970,7 +955,7 @@ msgstr "地形"
 #. [section]: id=addons
 #. [topic]: id=..addons
 msgid "Add-ons"
-msgstr ""
+msgstr "附加组件"
 
 #. [section]: id=commands
 #. [topic]: id=..commands
@@ -986,9 +971,13 @@ msgid ""
 "its statistics, attacks, resistances, and movement and defense values.\n"
 "\n"
 msgstr ""
+"这一部分将会列出所有你在探索韦诺世界的过程中发现的单位。当你在战役或多人场景"
+"中见到新单位时，它们会按种族被添加到这里，之后你随时可以阅览相关页面。每个单"
+"位的信息页面会提供它的单位描述、血量造价、攻击闪避、抗性以及移动能力等数"
+"据。\n"
+"\n"
 
 #. [topic]: id=..abilities_section
-#, fuzzy
 msgid ""
 "Certain units have abilities that either directly affect other units or have "
 "an impact on how the unit interacts with other units. These abilities will "
@@ -998,7 +987,8 @@ msgid ""
 "\n"
 msgstr ""
 "某些单位拥有一些技能，可以直接影响其他单位，或影响该单位与其他单位的互动。当"
-"您遇到这些技能时，它们将被列在本主题下面。\n"
+"您遇到这些技能时，它们将被收列到在本部分中。每页会提供一份关于能力的描述，并"
+"列出哪些（已发现的）单位拥有这些能力\n"
 "\n"
 
 #. [topic]: id=..weapon_specials
@@ -1010,6 +1000,11 @@ msgid ""
 "weapon special does and which (currently discovered) units have it.\n"
 "\n"
 msgstr ""
+"某些攻击方式拥有与众不同的特效，可以令其进攻变得更有效。每当你在战役或多人场"
+"景中看到一种新的武器特效时，它会被加入到这个列表中。有闲心时你随时可以浏览相"
+"关页面。每页会提供关于武器特效的描述，并列出哪些（已发现的）单位拥有这种特"
+"效。\n"
+"\n"
 
 #. [topic]: id=.unknown_unit
 msgid "Unknown Unit"
@@ -1261,19 +1256,17 @@ msgid " yellow if it has moved, but could still move further or attack, or"
 msgstr " 黄色：表明本单位移动过，但还可以继续移动或攻击，或者"
 
 #. [topic]: id=orbs
-#, fuzzy
 msgid ""
 " black if it can no longer move or attack, or the user ended the unit’s turn."
-msgstr " 红色：表明本单位不能继续移动或攻击，或玩家结束了其回合。"
+msgstr "黑色：表明本单位不能继续移动或攻击，或玩家结束了其回合。"
 
 #. [topic]: id=orbs
 msgid " blue if the unit is an ally you do not control."
 msgstr " 蓝色：表明本单位是您所不能控制的友军。"
 
 #. [topic]: id=orbs
-#, fuzzy
 msgid " Enemy units have a red orb on top of their energy bar."
-msgstr " 敌方单位的能量条上方没有行动状态球。"
+msgstr " 敌方单位的能量条上方有个红色的行动状态球。"
 
 #. [topic]: id=hitpoints
 msgid "Hitpoints and Experience"
@@ -2363,14 +2356,12 @@ msgstr ""
 "害均减少1点。"
 
 #. [topic]: id=..terrains_section
-#, fuzzy
 msgid ""
 "Game maps feature a variety of terrains that affect both unit movement and a "
 "unit’s defensive capability in combat."
 msgstr ""
 "游戏地图中包含了许多不同的地形，这些地形既能影响单位的移动，也能影响单位在战"
-"斗中的闪避能力。\n"
-"\n"
+"斗中的闪避能力。"
 
 #. [topic]: id=..addons
 msgid ""
@@ -2379,13 +2370,15 @@ msgid ""
 "more beyond what is offered in the official content bundled with the game.\n"
 "\n"
 msgstr ""
+"韦诺引擎的高度可定制性使得玩家能够创造他们自己的游戏内容。除了新的场景，新的"
+"战役以外，还有很多未被打包进官方文件的游戏内容。\n"
+"\n"
 
 #. [topic]: id=using_addons
 msgid "Using Add-ons"
-msgstr ""
+msgstr "使用附加组件"
 
 #. [topic]: id=using_addons
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -2393,13 +2386,13 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text=伤害</header>"
+"<header>text=战役和场景</header>"
 
 #. [topic]: id=using_addons
 msgid ""
 "The game supports different types of add-on content, which are not all "
 "available in every gameplay mode."
-msgstr ""
+msgstr "游戏支持各种类型的附加组件内容，分别适用于不同的游戏模式。"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2410,14 +2403,20 @@ msgid ""
 "and regular campaigns are available from the <italic>text='Campaigns'</"
 "italic> menu at the title screen."
 msgstr ""
+"\n"
+"\n"
+"单人战役是讲述同一个故事的一系列场景的集合。独幕场景（如果被设计成这样玩的"
+"话）和常规战役都可以在标题画面中的<italic>text='战役'</italic>菜单中被选取。"
 
 #. [topic]: id=using_addons
-#, fuzzy
 msgid ""
 "\n"
 "\n"
 "<header>text='Multiplayer Campaigns, Scenarios, and Map Packs'</header>"
-msgstr "<header>text='拥有这种特殊攻击的单位'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='多人游戏战役，场景和地图包'</header>"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2427,9 +2426,12 @@ msgid ""
 "scripted scenarios or even specially designed campaigns. There are also "
 "packs providing sets of individual multiplayer scenarios."
 msgstr ""
+"\n"
+"\n"
+"<italic>text='多人游戏'</italic>能够以自定义的脚本场景或者甚至是专门设计的战"
+"役的形式进行。网上也有许多多人游戏场景可供下载。"
 
 #. [topic]: id=using_addons
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -2437,7 +2439,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text='攻击顺序与次数'</header>"
+"<header>text='多人游戏时代与阵营'</header>"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2452,9 +2454,14 @@ msgid ""
 "creating a new game, and players can pick from the available factions for "
 "that era when setting up their sides and teams."
 msgstr ""
+"\n"
+"\n"
+"不同种族的生物们相互合作，组成阵营，以供玩家在游戏中使用。各阵营根据平衡性和"
+"主题被组合成套，比如韦诺的主要阵营都被包括在了默认时代中。\n"
+"在<italic>text='多人游戏'</italic>模式中，你在创建新游戏时可以选择时代，然后"
+"各玩家可以在开始大厅中从该时代所提供的选项中选取他们的阵营。"
 
 #. [topic]: id=using_addons
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -2462,7 +2469,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text='命中率'</header>"
+"<header>text='多人游戏组件'</header>"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2473,9 +2480,13 @@ msgid ""
 "in various ways. You can choose and configure modifications when creating a "
 "new game."
 msgstr ""
+"\n"
+"\n"
+"模组是用于<italic>text='多人'</italic>游戏的相对于场景和时代独立的可选脚本，"
+"它们提供了各种修改默认游戏规则的选项。在创建新游戏时，你可以选择和配置这些模"
+"组。"
 
 #. [topic]: id=using_addons
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -2483,7 +2494,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text='命中率'</header>"
+"<header>text='创造者资源'</header>"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2495,10 +2506,16 @@ msgid ""
 "other playable add-ons may depend on them and suggest or require their "
 "installation during download."
 msgstr ""
+"\n"
+"\n"
+"游戏内容创造者们可以使用附加组件服务器上的资源包，利用其中的图像、音乐和代码"
+"等材料来丰富他们自己的游戏内容。尽管这些资源包并非为了在游戏直接使用而设计，"
+"其他一些附加组件可能会调用它们。因此，在下载那些附加组件时会建议或要求下载对"
+"应的资源包。"
 
 #. [topic]: id=installing_addons
 msgid "Installing Add-ons"
-msgstr ""
+msgstr "安装附加组件"
 
 #. [topic]: id=installing_addons
 msgid ""
@@ -2524,10 +2541,25 @@ msgid ""
 "about the add-on, such as its full description, installation status, and "
 "available languages."
 msgstr ""
+"通过主菜单中的<italic>text='附加组件'</italic>选项，玩家可以下载或者更新用户"
+"制作的附加组件。连接到附加组件服务器后（默认为<italic>text='add-ons.wesnoth."
+"org'</itlalic>），你可以看到一份可供下载的组件列表。\n"
+"\n"
+"在每个条目下显示了该组件的安装状态。对于服务器中<italic>text='可升级的'</"
+"italic>或者<italic>text='已过期的'</italic>的附加组件，它们的所安装版本号和最"
+"新版本号都会被列在<italic>text='版本'</italic>栏中。\n"
+"\n"
+"要通过关键字搜索组件，只需要在<bold>text='过滤项'</bold>中键入任何相关条目，"
+"并以空格隔开即可。你也可以通过点击各栏的顶端来为附加组件排序。通过点击右上角"
+"的<bold>text='选项'</bold>按钮，你也可以只让电脑显示特定类别的附加组件。\n"
+"\n"
+"要安装某个附加组件，只需从列表中选取他，并点击<bold>text='OK'</bold>按钮，或"
+"者双击附加组件的标题。 <bold>text='描述'</bold> 按钮可以向你提供关于该附加组"
+"件的一些更多的细节，比如其完整描述、安装状态或者支持的语言。"
 
 #. [topic]: id=removing_addons
 msgid "Removing Add-ons"
-msgstr ""
+msgstr "移除附加组件"
 
 #. [topic]: id=removing_addons
 msgid ""
@@ -2541,6 +2573,12 @@ msgid ""
 "information files or the add-ons themselves using a file manager provided by "
 "your platform."
 msgstr ""
+"要移除附加组件，选择附加组件服务器连接对话中的 <bold>text='移除附加组件'</"
+"bold> 选项。你可以从中勾选想要移除的附加组件。\n"
+"\n"
+" 如果附加组件中包含了发布信息的(<italic>text='.pbl文件'</italic> files)的话，"
+"你将无法移除它。这样设计是为了避免文件的意外损失。如果必要的话，你可以在文件"
+"管理器中手动删除信息文件和附加组件。"
 
 #. [topic]: id=general_commands
 msgid "General commands"
@@ -2606,6 +2644,9 @@ msgid ""
 "Display the controller status of a side.\n"
 "\n"
 msgstr ""
+"\n"
+"显示一方的控制权状态。\n"
+"\n"
 
 #. [topic]: id=general_commands
 msgid ""
@@ -2718,6 +2759,9 @@ msgid ""
 "sides.\n"
 "\n"
 msgstr ""
+"\n"
+"启动对话，帮助主机改变各方的控制权\n"
+"\n"
 
 #. [topic]: id=mp_commands
 msgid ""
@@ -2726,6 +2770,9 @@ msgid ""
 "network disconnection.\n"
 "\n"
 msgstr ""
+"\n"
+"\n"
+"\n"
 
 #. [topic]: id=mp_commands
 msgid ""
@@ -2908,12 +2955,10 @@ msgid "female^cures"
 msgstr "治愈"
 
 #. [heals]: id=curing
-#, fuzzy
 msgid ""
 "A curer can cure a unit of poison, although that unit will receive no "
 "additional healing on the turn it is cured of the poison."
 msgstr ""
-"治愈：\n"
 "治愈者可以治愈单位的中毒状态，虽然该单位在被治愈的回合将不会获得额外的治疗。"
 
 #. [regenerate]: id=regenerates
@@ -2925,12 +2970,10 @@ msgid "female^regenerates"
 msgstr "再生"
 
 #. [regenerate]: id=regenerates
-#, fuzzy
 msgid ""
 "The unit will heal itself 8 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"再生：\n"
 "本单位可以每回合回复自身8点生命值。如果中了毒，那么就移除中毒状态，而不是进行"
 "治疗。"
 
@@ -2944,12 +2987,10 @@ msgstr "坚定"
 
 # not very sure about "vulnerabilities are not affected"
 #. [resistance]: id=steadfast
-#, fuzzy
 msgid ""
 "This unit’s resistances are doubled, up to a maximum of 50%, when defending. "
 "Vulnerabilities are not affected."
 msgstr ""
-"坚定：\n"
 "当进行防御时，本单位具有双倍抗性，最高50%。该单位的弱点不受此技能影响。"
 
 #. [leadership]: id=leadership
@@ -2961,7 +3002,6 @@ msgid "female^leadership"
 msgstr "领导"
 
 #. [leadership]: id=leadership
-#, fuzzy
 msgid ""
 "This unit can lead our own units that are next to it, making them fight "
 "better.\n"
@@ -2971,7 +3011,6 @@ msgid ""
 "Leadership engages in combat, its attacks do 25% more damage times the "
 "difference in their levels."
 msgstr ""
-"领导：\n"
 "本单位可以领导相邻的我军单位，使他们更好地战斗。\n"
 "\n"
 "相邻的等级比领导者低的我军单位将在战斗中造成更大的伤害。当有领导者与比他等级"
@@ -2987,13 +3026,10 @@ msgid "female^skirmisher"
 msgstr "游击"
 
 #. [skirmisher]: id=skirmisher
-#, fuzzy
 msgid ""
 "This unit is skilled in moving past enemies quickly, and ignores all enemy "
 "Zones of Control."
-msgstr ""
-"游击：\n"
-"本单位擅长于从敌人旁边迅速通过，且能忽略所有敌人单位的控制区域。"
+msgstr "本单位擅长于从敌人旁边迅速通过，且能忽略所有敌人单位的控制区域。"
 
 #. [illuminates]: id=illumination
 msgid "illuminates"
@@ -3004,7 +3040,6 @@ msgid "female^illuminates"
 msgstr "照明"
 
 #. [illuminates]: id=illumination
-#, fuzzy
 msgid ""
 "This unit illuminates the surrounding area, making lawful units fight "
 "better, and chaotic units fight worse.\n"
@@ -3012,7 +3047,6 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "night, and as if it were day when it is dusk."
 msgstr ""
-"照明：\n"
 "本单位照亮附近的区域，使守序单位更好地战斗，而使混沌单位的表现变差。\n"
 "\n"
 "如果现在是夜间，那么与这个单位相邻的单位会像在黄昏时那样战斗，如果现在是黄"
@@ -3027,13 +3061,11 @@ msgid "female^teleport"
 msgstr "传送"
 
 #. [teleport]: id=teleport
-#, fuzzy
 msgid ""
 "This unit may teleport between any two empty villages owned by its side "
 "using one of its moves."
 msgstr ""
-"传送：\n"
-"本单位可以花费一次移动机会，在任意两个属于本阵营的无人驻守的村庄之间传送。"
+"本单位可以花费一点行动力，在任意两个属于本阵营的无人驻守的村庄之间传送。"
 
 #. [hides]: id=ambush
 msgid "ambush"
@@ -3044,7 +3076,6 @@ msgid "female^ambush"
 msgstr "伏击"
 
 #. [hides]: id=ambush
-#, fuzzy
 msgid ""
 "This unit can hide in forest, and remain undetected by its enemies.\n"
 "\n"
@@ -3052,7 +3083,6 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
-"伏击：\n"
 "本单位可以隐藏在森林里，不会被敌人发觉。\n"
 "\n"
 "当本单位在森林里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现本单位的"
@@ -3063,7 +3093,6 @@ msgid "nightstalk"
 msgstr "夜行"
 
 #. [hides]: id=nightstalk
-#, fuzzy
 msgid ""
 "The unit becomes invisible during night.\n"
 "\n"
@@ -3071,7 +3100,6 @@ msgid ""
 "it. Any enemy unit that first discovers this unit immediately loses all its "
 "remaining movement."
 msgstr ""
-"夜行：\n"
 "本单位在晚上将变为隐形。\n"
 "\n"
 "敌军单位在晚上看不见本单位，除非敌军有单位与他相邻。第一个发现本单位的敌军单"
@@ -3090,7 +3118,6 @@ msgid "female^concealment"
 msgstr "隐蔽"
 
 #. [hides]: id=concealment
-#, fuzzy
 msgid ""
 "This unit can hide in villages (with the exception of water villages), and "
 "remain undetected by its enemies, except by those standing next to it.\n"
@@ -3099,7 +3126,6 @@ msgid ""
 "have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
-"隐蔽：\n"
 "本单位可以隐藏在村庄里（水中村庄除外）而不会被敌人发觉，除了那些与他相邻的敌"
 "人之外。\n"
 "\n"
@@ -3115,7 +3141,6 @@ msgid "female^submerge"
 msgstr "潜水"
 
 #. [hides]: id=submerge
-#, fuzzy
 msgid ""
 "This unit can hide in deep water, and remain undetected by its enemies.\n"
 "\n"
@@ -3123,7 +3148,6 @@ msgid ""
 "have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
-"潜水：\n"
 "本单位可以潜入深水，不会被敌人发觉。\n"
 "\n"
 "当本单位在深水里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现本单位的"
@@ -3138,11 +3162,11 @@ msgid "female^feeding"
 msgstr "食尸"
 
 #. [dummy]: id=feeding
-#, fuzzy
 msgid ""
 "This unit gains 1 hitpoint added to its maximum whenever it kills a unit, "
 "except units that are immune to plague."
-msgstr " 本单位每杀死一个活体单位就会获得1点额外的最大生命值。"
+msgstr ""
+" 本单位每杀死一个活体单位就会获得1点额外的最大生命值，生效条件与瘟疫相同。"
 
 #. [unstore_unit]
 msgid "+1 max HP"
@@ -3153,13 +3177,11 @@ msgid "backstab"
 msgstr "背刺"
 
 #. [damage]: id=backstab
-#, fuzzy
 msgid ""
 "When used offensively, this attack deals double damage if there is an enemy "
 "of the target on the opposite side of the target, and that unit is not "
 "incapacitated (turned to stone or otherwise paralyzed)."
 msgstr ""
-"背刺：\n"
 "在用于进攻时，如果目标的另一面（与进攻方相对）紧邻着与目标敌对的单位，且该单"
 "位具有战斗力（例如，没有被石化或者用别的方式麻痹）时，本攻击将造成双倍伤害。"
 
@@ -3169,24 +3191,20 @@ msgid "plague"
 msgstr "瘟疫"
 
 #. [plague]: id=plague({TYPE}), type={TYPE}
-#, fuzzy
 msgid ""
 "When a unit is killed by a Plague attack, that unit is replaced with a unit "
 "identical to and on the same side as the unit with the Plague attack. This "
 "doesn’t work on Undead or units in villages."
 msgstr ""
-"瘟疫：\n"
 "当一个单位被瘟疫攻击杀死时，这个单位将变成与进行瘟疫攻击的单位完全一样的单"
 "位，并与其属于同一阵营。这对亡灵或在村庄里的单位不起作用。 "
 
 #. [plague]: id=plague, type=Walking Corpse
-#, fuzzy
 msgid ""
 "When a unit is killed by a Plague attack, that unit is replaced with a "
 "Walking Corpse on the same side as the unit with the Plague attack. This "
 "doesn’t work on Undead or units in villages."
 msgstr ""
-"瘟疫：\n"
 "当一个单位被瘟疫攻击杀死时，这个单位将变成行尸，并与进行瘟疫攻击的单位属于同"
 "一阵营。这对亡灵或在村庄中的单位不起作用。"
 
@@ -3195,14 +3213,12 @@ msgid "slows"
 msgstr "减速"
 
 #. [slow]: id=slow
-#, fuzzy
 msgid ""
 "This attack slows the target until it ends a turn. Slow halves the damage "
 "caused by attacks and the movement cost for a slowed unit is doubled. A unit "
 "that is slowed will feature a snail icon in its sidebar information when it "
 "is selected."
 msgstr ""
-"减速：\n"
 "本攻击将使目标减速，直到本回合结束。减速攻击使目标的攻击伤害减半，而移动消耗"
 "则加倍。被减速的单位被选中时，其侧边栏信息中会显示一个蜗牛图标。"
 
@@ -3211,39 +3227,31 @@ msgid "petrifies"
 msgstr "石化"
 
 #. [petrifies]: id=petrifies
-#, fuzzy
 msgid ""
 "This attack petrifies the target, turning it to stone. Units that have been "
 "petrified may not move or attack."
-msgstr ""
-"石化：\n"
-"本攻击将使目标石化，也就是把他变成石头。被石化的单位将不能移动或攻击。"
+msgstr "本攻击将使目标石化，也就是把他变成石头。被石化的单位将不能移动或攻击。"
 
 #. [chance_to_hit]: id=marksman
 msgid "marksman"
 msgstr "精准"
 
 #. [chance_to_hit]: id=marksman
-#, fuzzy
 msgid ""
 "When used offensively, this attack always has at least a 60% chance to hit."
-msgstr ""
-"精准：\n"
-"当用于进攻时，本攻击至少有60%的命中率。"
+msgstr "当用于进攻时，本攻击至少有60%的命中率。"
 
 #. [swarm]: id=swarm
 msgid "swarm"
 msgstr "群击"
 
 #. [swarm]: id=swarm
-#, fuzzy
 msgid ""
 "The number of strikes of this attack decreases when the unit is wounded. The "
 "number of strikes is proportional to the percentage of its of maximum HP the "
 "unit has. For example a unit with 3/4 of its maximum HP will get 3/4 of the "
 "number of strikes."
 msgstr ""
-"群击：\n"
 "这种攻击的攻击次数随着本单位的伤势递减，其攻击次数与本单位当前生命值所占最大"
 "生命值的比重成正比。例如，一个生命值只剩下最大值的3/4的单位，其攻击次数也只有"
 "峰值的3/4。"
@@ -3253,12 +3261,10 @@ msgid "charge"
 msgstr "冲锋"
 
 #. [damage]: id=charge
-#, fuzzy
 msgid ""
 "When used offensively, this attack deals double damage to the target. It "
 "also causes this unit to take double damage from the target’s counterattack."
 msgstr ""
-"冲锋：\n"
 "用于进攻时，本攻击将对目标造成双倍伤害，但目标的反击也会使本单位受到双倍伤"
 "害。"
 
@@ -3267,12 +3273,10 @@ msgid "drains"
 msgstr "吸血"
 
 #. [drains]: id=drains
-#, fuzzy
 msgid ""
 "This unit drains health from living units, healing itself for half the "
 "amount of damage it deals (rounded down)."
 msgstr ""
-"吸血：\n"
 "本单位从活体单位身上吸取体力，使得自身的生命值回复所造成伤害的一半（向下舍"
 "入）。"
 
@@ -3281,13 +3285,11 @@ msgid "poison"
 msgstr "毒素"
 
 #. [poison]: id=poison
-#, fuzzy
 msgid ""
 "This attack poisons living targets. Poisoned units lose 8 HP every turn "
 "until they are cured or are reduced to 1 HP. Poison can not, of itself, kill "
 "a unit."
 msgstr ""
-"毒素：\n"
 "本攻击使活体目标中毒。中毒单位每回合失去8点生命值，直到他们被治愈或生命值降到"
 "1。仅仅靠毒素本身是不足以杀死一个单位的。"
 
@@ -3394,73 +3396,64 @@ msgid "First Watch — Fourth Hour"
 msgstr "前半夜 — 第四小时"
 
 #. [time]: id=dawn1
-#, fuzzy
 msgid "First Dawn"
-msgstr "前半夜"
+msgstr "第一个黎明"
 
 #. [time]: id=dawn2
-#, fuzzy
 msgid "Second Dawn"
-msgstr "后半夜"
+msgstr "第二个黎明"
 
 #. [time]: id=morning1
-#, fuzzy
 msgid "First Morning"
-msgstr "上午"
+msgstr "第一个清晨"
 
 #. [time]: id=morning2
-#, fuzzy
 msgid "Second Morning"
-msgstr "上午"
+msgstr "第二个清晨"
 
 #. [time]: id=midday1
-#, fuzzy
 msgid "First Midday"
-msgstr "正午"
+msgstr "第一个正午"
 
 #. [time]: id=midday2
-#, fuzzy
 msgid "Second Midday"
-msgstr "后半夜"
+msgstr "第二个正午"
 
 #. [time]: id=afternoon1
-#, fuzzy
 msgid "First Afternoon"
-msgstr "下午"
+msgstr "第一个下午"
 
 #. [time]: id=afternoon2
-#, fuzzy
 msgid "Second Afternoon"
-msgstr "下午"
+msgstr "第二个下午"
 
 #. [time]: id=dusk1
 msgid "First Dusk"
-msgstr ""
+msgstr "第一个黄昏"
 
 #. [time]: id=dusk2
-#, fuzzy
 msgid "Second Dusk"
-msgstr "后半夜"
+msgstr "第二个黄昏"
 
 #. [time]: id=short_dark
 msgid "The Short Dark"
-msgstr ""
+msgstr "短夜"
 
 #. [time]: id=long_dark1
 msgid "The Long Dark (1)"
-msgstr ""
+msgstr "长夜(1)"
 
 #. [time]: id=long_dark2
 msgid "The Long Dark (2)"
-msgstr ""
+msgstr "长夜(2)"
 
 #. [time]: id=long_dark3
 msgid "The Long Dark (3)"
-msgstr ""
+msgstr "长夜(3)"
 
 #. [time]: id=long_dark4
 msgid "The Long Dark (4)"
-msgstr ""
+msgstr "长夜(4)"
 
 msgid ""
 "\n"
@@ -3811,7 +3804,6 @@ msgid "race^Drakes"
 msgstr "龙人"
 
 #. [race]: id=drake
-#, fuzzy
 msgid ""
 "Drakes are large, winged and fire-breathing creatures, reminiscent of true "
 "dragons. On average, an adult drake stands around three meters tall and "
@@ -3878,7 +3870,7 @@ msgid ""
 "a relatively cold climate, a feature which has allowed them to populate even "
 "some of the mountains of the far north of the Great Continent."
 msgstr ""
-"龙人是庞大，有翼，喷吐火焰的生物，是真正的巨龙的后裔。平允而言，成年龙人站起"
+"龙人是庞大，有翼，喷吐火焰的生物，是真正的巨龙的后裔。平均而言，成年龙人站起"
 "来大约有三米高，比一个人加一匹马的总重量还重得多。他们的皮肤由坚硬的鳞片组"
 "成，对穿刺和寒冰之外的绝大多数物理攻击都有很高的抗性。他们大多数都能真正地飞"
 "行，而且能快速地远距离移动。但龙人巨大的体重和身形似乎有些影响飞行能力，使得"
@@ -4089,19 +4081,16 @@ msgstr ""
 "竟有多少年的历史，但毋庸置疑地都已经存在了超过一千年。"
 
 #. [race]: id=falcon, description=
-#, fuzzy
 msgid "race^Falcon"
-msgstr "人类"
+msgstr "猎鹰"
 
 #. [race]: id=falcon, description=
-#, fuzzy
 msgid "race+female^Falcon"
-msgstr "人类"
+msgstr "猎鹰"
 
 #. [race]: id=falcon, description=
-#, fuzzy
 msgid "race^Falcons"
-msgstr "人类"
+msgstr "猎鹰"
 
 #. [race]: id=goblin
 msgid "race^Goblin"
@@ -4240,23 +4229,20 @@ msgstr ""
 "一些，而他们可以互相取长补短。"
 
 #. [race]: id=khalifate
-#, fuzzy
 msgid "race^Khalifate Human"
-msgstr "人类"
+msgstr "哈里发"
 
 #. [race]: id=khalifate
-#, fuzzy
 msgid "race+female^Khalifate Human"
-msgstr "人类"
+msgstr "哈里发"
 
 #. [race]: id=khalifate
-#, fuzzy
 msgid "race+plural^Khalifate"
-msgstr "机械"
+msgstr "哈里发"
 
 #. [race]: id=khalifate
 msgid "This race does not have a description yet."
-msgstr ""
+msgstr "这个种族暂时还没有描述。"
 
 #. [race]: id=lizard, description=
 msgid "race^Saurian"
@@ -4392,7 +4378,6 @@ msgid "race^Ogres"
 msgstr "食人魔"
 
 #. [race]: id=ogre
-#, fuzzy
 msgid ""
 "Ogres are a wild and uncivilized race who dwell mainly in the wilderness of "
 "the Great Continent. Physically, they resemble humans and orcs but are "
@@ -4613,7 +4598,6 @@ msgid "race+plural^Undead"
 msgstr "亡灵"
 
 #. [race]: id=undead
-#, fuzzy
 msgid ""
 "Undead are not really a single race of creatures, although often treated as "
 "such. Almost any dead creature can, by a sufficiently skilled necromancer, "
@@ -4641,7 +4625,7 @@ msgid ""
 "and dwarves before that."
 msgstr ""
 "亡灵事实上并不是一个单一的种族，尽管经常被当成是这样。几乎任何死去的生物都可"
-"以被一个足够强大的死灵法师召回并成为亡灵。亡灵基本上是非自然而没有心智的存"
+"以被一个足够强大的死灵法师唤起并成为亡灵。亡灵基本上是非自然而没有心智的存"
 "在，只听从创造它们的人的命令，从不会质疑，也不懂得思考。死灵术的重要秘密之"
 "一，就是在死灵法师并没有持续地施法的情况下，这些存在是如何维持自身的。亡灵生"
 "物不需要死灵法师的持续关注、具体操纵或者维持，但可以自动地按照主人的命令来行"
@@ -4719,6 +4703,30 @@ msgid ""
 "only to march to the defense of the natural world and the forests it calls "
 "home."
 msgstr ""
+"强大的树人们居住在已知世界的森林最深处。在外行人眼里，树人看起来只不过是颗长"
+"得奇怪却高贵的树而已。作为森林的守护者，树人们与林地间有种很深的联系，即使精"
+"灵也不能与他们相比。尽管树人们是个和平的种族，但是对森林的侵扰行为会激起他们"
+"的怒火。树人是移动缓慢的生物，他们有时甚至会在同一个地点待上几个世纪，巍然不"
+"动，任由时间流逝。\n"
+"\n"
+"尽管树人本身并不使用魔法，但是树人与仙境之间有很深的联系。对于这个古老种族仅"
+"有的一点知识来自于精灵学者们，他们相信树人天生就拥有这种即使是最强大的精灵也"
+"得耗尽一生才能掌握的神秘力量。尽管树人长得很像树，但是他们并非从树木演化而"
+"来。人们相信树人是世界上最古老的种族之一，可能甚至比他们所居住的森林还要古"
+"老。人们认为是仙境的力量赋予了树人们作为森林守护者的永恒任务。\n"
+"\n"
+"树人们并不是好战的种族，他们也非常不适应战斗。但是，为了守卫他们的森林领土，"
+"他们会不由分说地使用暴力。树人们移动缓慢，而且离开林地后会变得非常脆弱。因为"
+"他们与仙境的联系，树人们对于奥术特别敏感。它们难以被物理攻击穿透的树皮在火焰"
+"面前也特别的脆弱。他们厚厚的树皮和驾驭仙境力量的能力使他们能够在受伤时快速的"
+"恢复，这使得他们能够在敌人的猛攻中存活很久，给了他们用压倒性的巨力进行还击的"
+"机会。在他们的森林家园里，树人隐藏在树木间，伏击即使是受过最好训练的精灵哨"
+"探。\n"
+"\n"
+"树人的寿命不为人知。不过这个种族中最古老的成员们已经生活了数百年，并且生长出"
+"了硕大的身躯。人们猜测树人只会在战斗中殒命，而不会自然的寿终正寝。树人们乐得"
+"像个哨兵那样一动不动的站着，坐看一个个世纪流逝。他们对于文明世界中的事情丝毫"
+"不感兴趣，只有到了需要保卫自然和守护森林家园的时候他们才会参和进来。"
 
 msgid "Help"
 msgstr "帮助"
@@ -4744,9 +4752,8 @@ msgstr "派系："
 msgid "Factions are only used in multiplayer"
 msgstr "派系只在多人游戏中使用"
 
-#, fuzzy
 msgid "Base Terrain: "
-msgstr "地形"
+msgstr "基础地形"
 
 msgid "level"
 msgstr "等级"
@@ -4758,14 +4765,13 @@ msgid "Advances to: "
 msgstr "升级为："
 
 msgid "Base unit: "
-msgstr ""
+msgstr "基类单位："
 
 msgid "Base units: "
-msgstr ""
+msgstr "基类单位："
 
-#, fuzzy
 msgid "Variations: "
-msgstr "派系："
+msgstr "衍生兵种："
 
 msgid "race^Miscellaneous"
 msgstr "其他"
@@ -4786,10 +4792,10 @@ msgid "Moves: "
 msgstr "移动："
 
 msgid "Vision: "
-msgstr ""
+msgstr "视野："
 
 msgid "Jamming: "
-msgstr ""
+msgstr "干扰："
 
 msgid "Cost: "
 msgstr "价格："
@@ -4840,10 +4846,10 @@ msgid "Movement Cost"
 msgstr "移动点数耗费"
 
 msgid "Vision Cost"
-msgstr ""
+msgstr "视野耗费"
 
 msgid "Jamming Cost"
-msgstr ""
+msgstr "干扰耗费"
 
 msgid "<header>text='Units of this race'</header>"
 msgstr "<header>text='这个种族的单位'</header>"
