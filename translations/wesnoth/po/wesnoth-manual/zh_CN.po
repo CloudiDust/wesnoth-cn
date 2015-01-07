@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "POT-Creation-Date: 2014-11-15 10:52+0100\n"
-"PO-Revision-Date: 2015-01-07 21:47+0800\n"
+"PO-Revision-Date: 2015-01-07 22:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -196,12 +196,11 @@ msgstr ""
 "列表中选择这个战役即可。"
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/main-menu-1.11.9.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/zh_CN/main-menu-1.8.0.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/main-menu-1.11.9.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject><textobject><phrase>
@@ -483,12 +482,11 @@ msgid ""
 msgstr "单击“多人游戏”按钮后会出现这几个选项："
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/multiplayer-1.11.9.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/zh_CN/multiplayer-1.8.0.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/multiplayer-1.11.9.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -619,12 +617,11 @@ msgid "The Game Screen"
 msgstr "游戏画面"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/game-screen-1.11.9.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/zh_CN/game-screen-1.8.0.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/game-screen-1.11.9.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -644,12 +641,11 @@ msgstr ""
 "信息的元素。下面逐一介绍。"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/top_pane-1.11.9.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/zh_CN/top_pane-1.8.0.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/top_pane-1.11.9.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -698,12 +694,11 @@ msgid "Current time or time left (in timed multiplayer games)"
 msgstr "当前时间或者剩余时间（在限时多人游戏中）"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/right_pane-1.11.9.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/zh_CN/right_pane-1.8.0.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/right_pane-1.11.9.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -1517,12 +1512,11 @@ msgid "Recruiting and Recalling"
 msgstr "征募与召回"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/recruit-1.11.9.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/zh_CN/recruit-1.8.0.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/recruit-1.11.9.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -2028,7 +2022,7 @@ msgstr "年迈"
 msgid ""
 "The oldest units may have the Aged trait, receiving an 8 points HP decrease "
 "and having -1 movement and melee damage."
-msgstr "最老的单位会拥有"
+msgstr "最老的单位会拥有年迈特质，生命值减少8点，并且生命值和近战伤害减1。"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 msgid "Dim"
@@ -2129,7 +2123,7 @@ msgstr "虚弱"
 msgid ""
 "Units may have the Weak trait, receiving a -1 increment in hitpoints and "
 "melee damage."
-msgstr "拥有虚弱特质的单位"
+msgstr "拥有虚弱特质的单位，生命值和近战伤害减1."
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Unit Specialties"
