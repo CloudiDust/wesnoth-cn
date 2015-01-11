@@ -6,15 +6,16 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # MrKing <yideey@gmail.com>, 2012.
+# wind <everywherewind@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-03-02 18:56+0100\n"
-"PO-Revision-Date: 2015-01-02 13:19+0800\n"
+"PO-Revision-Date: 2015-01-11 19:57+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,7 +115,7 @@ msgstr ""
 "在韦诺的北面，矮人洞穴纳尔迦附近，曾经有一个繁盛的混合社区，被人称为“矮人之"
 "门”。来自整个韦诺和许多精灵领土的食物、木材和布料被运到这里卖给矮人，而矿产、"
 "金属和矮人的工艺品则从这里被贩卖到所有地面国家去。矮人和人类工作生活在一起，"
-"甚至来这里经商的精灵也比别处更多的与异族通婚。矮人之门变得人口众多，而且富"
+"甚至来这里经商的精灵也比别处更多的与异族混居。矮人之门变得人口众多，而且富"
 "饶。"
 
 #. [part]
@@ -667,7 +668,6 @@ msgstr ""
 "比坐在后方整天搞研究有意思多了......"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "... Uh, sure!"
 msgstr "......哦，是的！"
 
@@ -690,7 +690,6 @@ msgid "Hordes of trolls and skeletons! Where?! Let’s go burn ’em all!"
 msgstr "一大群巨魔和骷髅兵！在哪儿？让我烧死他们！"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "Er... let’s go..."
 msgstr "呃......好的......"
 
@@ -1619,11 +1618,11 @@ msgstr "地牢"
 
 #. [message]: speaker=unit
 msgid "Those poor wretches!"
-msgstr ""
+msgstr "那些可恶的巫师！"
 
 #. [message]: speaker=Tallin
 msgid "We won’t leave them in Malifor's chains!"
-msgstr ""
+msgstr "我们要把他们从莫利弗的铁链中解开！"
 
 #. [message]: speaker=Tervor
 msgid "They are trying to free the prisoners! Stop them!"
@@ -2213,9 +2212,8 @@ msgstr ""
 "你的责任。快来，或者派一个人，时间紧迫。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "Should I pick up the Rod of Justice?"
-msgstr "确定要让这个单位拿起公正之杖吗？"
+msgstr "确定要让我拿起公正之杖吗？"
 
 #. [option]: speaker=narrator
 msgid "rod of justice^Take it"

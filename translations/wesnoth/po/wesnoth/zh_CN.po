@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-11-15 10:53+0100\n"
-"PO-Revision-Date: 2015-01-02 13:03+0800\n"
+"PO-Revision-Date: 2015-01-11 20:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -267,7 +267,6 @@ msgstr "手柄：用于加速的摇杆编号"
 msgid "Joystick: deadzone of the thruster"
 msgstr "手柄：用于加速的摇杆的死区大小"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #. [unstore_unit]
 msgid "poisoned"
@@ -872,7 +871,7 @@ msgstr "废弃的矿坑"
 #. [item]: id=monolith3
 #. [item]: id=monolith4
 msgid "Monolith"
-msgstr ""
+msgstr "巨石"
 
 #. [item]: id=nest-empty
 msgid "Empty Nest"
@@ -880,7 +879,7 @@ msgstr "空巢"
 
 #. [item]: id=nest-full
 msgid "Full Nest"
-msgstr ""
+msgstr "满巢"
 
 #. [item]: id=oak-leaning
 msgid "Leaning Oak"
@@ -889,22 +888,22 @@ msgstr "倾斜的橡树"
 #. [item]: id=pine1
 #. [item]: id=pine2
 msgid "Pine Tree"
-msgstr ""
+msgstr "松树"
 
 #. [item]: id=rock-cairn
 msgid "Rock Cairn"
-msgstr ""
+msgstr "岩石山"
 
 #. [item]: id=rock1
 #. [item]: id=rock2
 #. [item]: id=rock3
 #. [item]: id=rock4
 msgid "Rock"
-msgstr ""
+msgstr "岩石"
 
 #. [item]: id=rubble
 msgid "Rubble"
-msgstr ""
+msgstr "瓦砾"
 
 #. [item]: id=rune1
 #. [item]: id=rune2
@@ -913,7 +912,7 @@ msgstr ""
 #. [item]: id=rune5
 #. [item]: id=rune6
 msgid "Rune"
-msgstr ""
+msgstr "符文"
 
 #. [item]: id=rune1-glow
 #. [item]: id=rune2-glow
@@ -922,28 +921,28 @@ msgstr ""
 #. [item]: id=rune5-glow
 #. [item]: id=rune6-glow
 msgid "Glowing Rune"
-msgstr ""
+msgstr "发光符文"
 
 #. [item]: id=shipwreck
 #. [item]: id=wreck
 msgid "Shipwreck"
-msgstr ""
+msgstr "残骸"
 
 #. [item]: id=signpost
 msgid "Signpost"
-msgstr ""
+msgstr "路标"
 
 #. [item]: id=slab1
 msgid "Slab"
-msgstr ""
+msgstr "石板路面"
 
 #. [item]: id=snowbits
 msgid "Piles of Snow"
-msgstr ""
+msgstr "雪堆"
 
 #. [item]: id=summoning-center
 msgid "Summoning Center"
-msgstr ""
+msgstr "召唤阵中心"
 
 #. [item]: id=summoning-circle1
 #. [item]: id=summoning-circle2
@@ -952,59 +951,58 @@ msgstr ""
 #. [item]: id=summoning-circle5
 #. [item]: id=summoning-circle6
 msgid "Summoning Circle"
-msgstr ""
+msgstr "召唤阵圆环"
 
 #. [item]: id=temple1
 msgid "Temple"
-msgstr ""
+msgstr "神庙"
 
 #. [item]: id=tent-fancy-red
 msgid "Fancy Red Tent"
-msgstr ""
+msgstr "靓丽的红帐篷"
 
 #. [item]: id=tent-ruin-1
 msgid "Ruined Tent"
-msgstr ""
+msgstr "毁坏的帐篷"
 
 #. [item]: id=tent-shop-weapons
 msgid "Weapons Shop Tent"
-msgstr ""
+msgstr "武器商店帐篷"
 
 #. [item]: id=trapdoor-closed
 msgid "Closed Trapdoor"
-msgstr ""
+msgstr "关闭的活版门"
 
 #. [item]: id=trapdoor-open
 msgid "Open Trapdoor"
-msgstr ""
+msgstr "打开的活版门"
 
 #. [item]: id=trash
 msgid "Trash Pile"
-msgstr ""
+msgstr "垃圾堆"
 
 #. [item]: id=village-human-burned1
 #. [item]: id=village-human-burned2
 #. [item]: id=village-human-burned3
 #. [item]: id=village-human-burned4
-#, fuzzy
 msgid "Burned Human Village"
-msgstr "我军的村庄"
+msgstr "烧毁的人类村庄"
 
 #. [item]: id=well
 msgid "Well"
-msgstr ""
+msgstr "井"
 
 #. [item]: id=whirlpool
 msgid "Whirlpool"
-msgstr ""
+msgstr "漩涡"
 
 #. [item]: id=windmill
 msgid "Windmill"
-msgstr ""
+msgstr "风车"
 
 #. [set_menu_item]: id=ai_controller_unit_control_{UNIT_ID}
 msgid "Ask $ai_controller_unit.name to move here"
-msgstr ""
+msgstr "让 $ai_controller_unit.name 移动到此处"
 
 #. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
 msgid "Ask $ally_leader.name (leader of side $ally_leader.side) to move here"
@@ -1065,20 +1063,17 @@ msgstr ""
 
 #. [else]
 #. [then]
-#, fuzzy
 msgid "Side $temp_i"
-msgstr "阵营$temp_i"
+msgstr "阵营 $temp_i"
 
 #. [else]
 msgid "side $temp_i"
 msgstr "阵营$temp_i"
 
 #. [command]
-#, fuzzy
 msgid "side $temp_i ($side_i_leader.name|)"
-msgstr "$side_i_leader.name （阵营$temp_i|）"
+msgstr "阵营 $temp_i （$side_i_leader.name）"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [value]
 msgid "Back"
 msgstr "后退"
@@ -2327,7 +2322,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "You retrieve $amount_gold pieces of gold."
-msgstr ""
+msgstr "您获得了  $amount_gold 块金币。"
 
 #. [color_range]: id=1
 #. [color_range]: id=red
@@ -2348,9 +2343,8 @@ msgid "Blue"
 msgstr "蓝"
 
 #. [color_range]: id=lightblue
-#, fuzzy
 msgid "Light blue"
-msgstr "浅红"
+msgstr "浅蓝"
 
 #. [color_range]: id=3
 #. [color_range]: id=green
@@ -2359,7 +2353,7 @@ msgstr "绿"
 
 #. [color_range]: id=brightgreen
 msgid "Bright green"
-msgstr ""
+msgstr "亮绿"
 
 #. [color_range]: id=4
 #. [color_range]: id=purple
@@ -2383,7 +2377,7 @@ msgstr "橙"
 
 #. [color_range]: id=brightorange
 msgid "Bright orange"
-msgstr ""
+msgstr "亮橙"
 
 #. [color_range]: id=8
 #. [color_range]: id=white
@@ -2395,92 +2389,86 @@ msgstr "白"
 msgid "Teal"
 msgstr "青"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=gold
 msgid "Gold"
 msgstr "金币"
 
 #. [color_range]: id=reef
 msgid "Reef"
-msgstr ""
+msgstr "礁石"
 
 #. [color_range]: id=shallow_water
 msgid "Shallow water"
-msgstr ""
+msgstr "浅水"
 
 #. [color_range]: id=deep_water
 msgid "Deep water"
-msgstr ""
+msgstr "深水"
 
 #. [color_range]: id=swamp_water
 msgid "Swamp water"
-msgstr ""
+msgstr "沼泽水域"
 
 #. [color_range]: id=flat
 msgid "Flat"
-msgstr ""
+msgstr "平原"
 
 #. [color_range]: id=hills
-#, fuzzy
 msgid "Hills"
-msgstr "杀死"
+msgstr "丘陵"
 
 #. [color_range]: id=mountains
 msgid "Mountains"
-msgstr ""
+msgstr "山脉"
 
 #. [color_range]: id=forest
 msgid "Forest"
-msgstr ""
+msgstr "森林"
 
 #. [color_range]: id=sand
 msgid "Sand"
-msgstr ""
+msgstr "沙漠"
 
 #. [color_range]: id=frozen
 msgid "Frozen"
-msgstr ""
+msgstr "冻结"
 
 #. [color_range]: id=cave
 msgid "Cave"
-msgstr ""
+msgstr "洞穴"
 
 #. [color_range]: id=fungus
 msgid "Fungus"
-msgstr ""
+msgstr "真菌"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
 
 #. [color_range]: id=castle
 msgid "Castle"
-msgstr ""
+msgstr "城堡"
 
 #. [color_range]: id=keep
 msgid "Keep"
-msgstr ""
+msgstr "城堡主楼"
 
 #. [color_range]: id=rails
 msgid "Rail"
-msgstr ""
+msgstr "轨道"
 
 #. [color_range]: id=unwalkable
-#, fuzzy
 msgid "Unwalkable"
-msgstr "不可治疗"
+msgstr "不可行走"
 
 #. [color_range]: id=impassable
 msgid "Impassable"
-msgstr ""
+msgstr "不可通过"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -2676,27 +2664,22 @@ msgstr ""
 msgid "DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode"
 msgstr "DejaVu Sans,Andagii,Droid Sans Fallback,Droid Sans Japanese,Junicode"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -2709,7 +2692,6 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -2730,12 +2712,10 @@ msgstr "（剩余本回合）"
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%%的金币将会带到下一场景。"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
 msgid "OK"
 msgstr "确定"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
 msgid "Cancel"
 msgstr "取消"
@@ -2748,20 +2728,19 @@ msgstr "电能"
 
 #. [theme]: id=Default
 msgid "theme^Default"
-msgstr ""
+msgstr "默认"
 
 #. [theme]: id=Default
 msgid "Default theme."
-msgstr ""
+msgstr "默认主题"
 
 #. [menu]: id=menu-main
 msgid "Menu"
 msgstr "菜单"
 
 #. [menu]: id=menu-autosaves
-#, fuzzy
 msgid "Back to..."
-msgstr "回到回合"
+msgstr "回到……"
 
 #. [menu]: id=actions-menu
 msgid "Actions"
@@ -2775,12 +2754,10 @@ msgstr "结束回合"
 msgid "End Scenario"
 msgstr "结束场景"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=label-hp
 msgid "HP"
 msgstr "生命值"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=label-xp
 msgid "XP"
 msgstr "经验值"
@@ -2791,7 +2768,7 @@ msgstr "移动点数"
 
 #. [label]: id=label-def
 msgid "def"
-msgstr ""
+msgstr "闪避"
 
 #. [label]: id=gold-icon
 msgid "gold"
@@ -2814,7 +2791,6 @@ msgid "income"
 msgstr "收入"
 
 #. [unit_level]: id=unit-level
-#, fuzzy
 msgid "statuspanel^lvl"
 msgstr "等级"
 
@@ -2868,41 +2844,45 @@ msgstr "跳过动画"
 
 #. [theme]: id=Pandora
 msgid "theme^Pandora"
-msgstr ""
+msgstr "潘多拉"
 
 #. [theme]: id=Pandora
 msgid "800x480 theme optimized for Pandora devices."
-msgstr ""
+msgstr "为潘多拉设备优化的800x480主题。"
 
 #. [action]: id=end-turn
-#, fuzzy
 msgid ""
 "End\n"
 "Turn"
-msgstr "结束回合"
+msgstr ""
+"结束\n"
+"回合"
 
 #. [tip]
 msgid ""
 "Use the map editor's <i>Areas</i> menu to define regions later addressed by "
 "event or ai coding."
 msgstr ""
+"使用地图编辑器的 <i>区域</i> 菜单来定义区域，之后可以在事件或AI代码中指定这些"
+"区域。"
 
 #. [tip]
-#, fuzzy
 msgid "<i>― The Wesnoth Design Guide</i>"
-msgstr "<b>——韦诺战术指南</b>"
+msgstr "<i>——韦诺设计指南</i>"
 
 #. [tip]
 msgid ""
 "Create a <i>New Scenario</i> in the editor's <i>File</i> menu to make use of "
 "advanced features."
-msgstr ""
+msgstr "使用编辑器的 <i>文件</i> 菜单来创建一个 <i>新场景<i> 以使用高级特性。"
 
 #. [tip]
 msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the mp create screen's <i>User Scenarios</i> section."
 msgstr ""
+"编辑器中保存在默认文件夹下的场景可以在多人游戏创建界面的 <i>用户场景</i> 区域"
+"中选择。"
 
 #. [tip]
 msgid ""
@@ -3518,7 +3498,6 @@ msgstr "所选防御武器无效。"
 msgid "You don’t have a leader to recall with."
 msgstr "您没有领袖，无法进行召回。"
 
-#, fuzzy
 msgid "None of your leaders are able to recall that unit."
 msgstr "您的领袖都不能召回该单位。"
 
@@ -3529,14 +3508,13 @@ msgid "There are no vacant castle tiles in which to recall the unit."
 msgstr "城堡内没有空格，无法招募单位。"
 
 msgid "An unrecognized error has occurred."
-msgstr ""
+msgstr "发生了无法识别的错误。"
 
 msgid "You don’t have a leader to recruit with."
 msgstr "您没有领袖，无法进行征募。"
 
-#, fuzzy
 msgid "None of your leaders are able to recruit that unit."
-msgstr "您的领袖都不能召回该单位。"
+msgstr "您的领袖都不能征募该单位。"
 
 msgid "You must have a leader on a keep who is able to recruit the unit."
 msgstr "您必须让一位领袖站在城堡主楼上才能征募该单位。"
@@ -3545,11 +3523,10 @@ msgid "There are no vacant castle tiles in which to recruit the unit."
 msgstr "城堡内没有空格，无法征募单位。"
 
 msgid "cured"
-msgstr ""
+msgstr "治愈"
 
-#, fuzzy
 msgid "female^cured"
-msgstr "减速"
+msgstr "治愈"
 
 msgid "Ambushed!"
 msgstr "遭到伏击！"
@@ -3583,39 +3560,32 @@ msgstr[1] "发现$friends个友军单位"
 msgid "(press $hotkey to keep moving)"
 msgstr "（按$hotkey键继续移动）"
 
-#, fuzzy
 msgid "Connecting to $server_address|..."
-msgstr "正在连接到服务器……"
+msgstr "正在连接到 $server_address ……"
 
-#, fuzzy
 msgid "Downloading list of add-ons..."
-msgstr "正在请求附加组件列表"
+msgstr "正在下载附加组件列表……"
 
-#, fuzzy
 msgid "Requesting distribution terms..."
-msgstr "正在请求条款"
+msgstr "正在对分发条款进行请求……"
 
-#, fuzzy
 msgid "Sending add-on <i>$addon_title</i>..."
-msgstr "正在下载附加组件：$addon_title|……"
+msgstr "正在发送附加组件 <i>$addon_title</i> ……"
 
-#, fuzzy
 msgid "Removing add-on <i>$addon_title</i> from the server..."
-msgstr "正在下载附加组件：$addon_title|……"
+msgstr "正在从服务器上移除附加组件 <i>$addon_title</i> ……"
 
-#, fuzzy
 msgid "Downloading add-on <i>$addon_title</i>..."
-msgstr "正在下载附加组件：$addon_title|……"
+msgstr "正在下载附加组件 <i>$addon_title</i>……"
 
-#, fuzzy
 msgid ""
 "The add-on <i>$addon_title</i> has an invalid file or directory name and "
 "cannot be installed."
-msgstr "附加组件中的文件或者目录名称无效，因此无法安装。"
+msgstr ""
+"附加组件  <i>$addon_title</i> 中的某个文件名或者目录名无效，因此无法安装。"
 
-#, fuzzy
 msgid "Add-ons Manager"
-msgstr "附加组件已安装"
+msgstr "附加组件管理器"
 
 msgid "addon_type^Campaign"
 msgstr "战役"
@@ -3623,9 +3593,8 @@ msgstr "战役"
 msgid "addon_type^Scenario"
 msgstr "场景"
 
-#, fuzzy
 msgid "addon_type^SP/MP Campaign"
-msgstr "多人游戏战役"
+msgstr "单人/多人游戏战役"
 
 msgid "addon_type^MP era"
 msgstr "多人游戏时代"
@@ -3642,9 +3611,8 @@ msgstr "多人游戏场景"
 msgid "addon_type^MP campaign"
 msgstr "多人游戏战役"
 
-#, fuzzy
 msgid "addon_type^MP modification"
-msgstr "多人游戏派系"
+msgstr "多人游戏模组"
 
 msgid "addon_type^Resources"
 msgstr "资源"
@@ -3658,55 +3626,54 @@ msgstr "（未知）"
 msgid "unit_byte^B"
 msgstr "B"
 
-#, fuzzy
 msgid "addon_state^Not installed"
-msgstr "附加组件已安装"
+msgstr "未安装"
 
 msgid "addon_state^Published, not installed"
-msgstr ""
+msgstr "已发布，未安装"
 
-#, fuzzy
 msgid "addon_state^Installed"
-msgstr "附加组件已安装"
+msgstr "已安装"
 
 msgid "addon_state^Published"
-msgstr ""
+msgstr "已发布"
 
 msgid "addon_state^Installed, upgradable"
-msgstr ""
+msgstr "已安装，可更新"
 
 msgid "addon_state^Published, upgradable"
-msgstr ""
+msgstr "已发布，可更新"
 
 msgid "addon_state^Installed, outdated on server"
-msgstr ""
+msgstr "已安装，服务器上的版本已过时"
 
 msgid "addon_state^Published, outdated on server"
-msgstr ""
+msgstr "已发布，服务器上的版本已过时"
 
 msgid "addon_state^Installed, broken"
-msgstr ""
+msgstr "已安装，损坏"
 
 msgid "addon_state^Published, broken"
-msgstr ""
+msgstr "已发布，损坏"
 
-#, fuzzy
 msgid "addon_state^Unknown"
-msgstr "（未知）"
+msgstr "未知"
 
-#, fuzzy
 msgid ""
 "The selected add-on has the following dependency, which is not currently "
 "installed or available from the server. Do you wish to continue?"
 msgid_plural ""
 "The selected add-on has the following dependencies, which are not currently "
 "installed or available from the server. Do you wish to continue?"
-msgstr[0] "这个插件必须依赖以下插件。您要安装吗？"
-msgstr[1] "这个插件必须依赖以下插件。您要安装吗？"
+msgstr[0] ""
+"这个附加组件有如下依赖项目。这个依赖项目尚未安装，且不存在于服务器上。您希望"
+"继续吗？"
+msgstr[1] ""
+"这个附加组件有如下依赖项目。这些依赖项目尚未安装，且不存在于服务器上。您希望"
+"继续吗？"
 
-#, fuzzy
 msgid "Broken Dependencies"
-msgstr "安装依赖的插件"
+msgstr "损坏的依赖项目"
 
 msgid "Author"
 msgstr "作者"
@@ -3723,23 +3690,20 @@ msgstr "大小"
 msgid "Type"
 msgstr "类型"
 
-#, fuzzy
 msgid "Install Dependencies"
-msgstr "安装依赖的插件"
+msgstr "安装依赖项目"
 
-#, fuzzy
 msgid ""
 "The selected add-on has the following dependency, which is not currently "
 "installed. Do you wish to install it before continuing?"
 msgid_plural ""
 "The selected add-on has the following dependencies, which are not currently "
 "installed. Do you wish to install them before continuing?"
-msgstr[0] "这个插件必须依赖以下插件。您要安装吗？"
-msgstr[1] "这个插件必须依赖以下插件。您要安装吗？"
+msgstr[0] "这个附加组件有如下依赖项目。这个依赖项目尚未安装。您希望继续吗？"
+msgstr[1] "这个附加组件有如下依赖项目。这些依赖项目尚未安装。您希望继续吗？"
 
-#, fuzzy
 msgid "The server responded with an error:"
-msgstr "服务器返回一个错误：\""
+msgstr "服务器返回一个错误："
 
 msgid ""
 "The following dependency could not be installed. Do you still wish to "
@@ -3747,27 +3711,27 @@ msgid ""
 msgid_plural ""
 "The following dependencies could not be installed. Do you still wish to "
 "continue?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "下列依赖项目无法安装。您仍然希望继续吗？"
+msgstr[1] "下列依赖项目无法安装。您仍然希望继续吗？"
 
-#, fuzzy
 msgid "Dependencies Installation Failed"
-msgstr "安装失败"
+msgstr "依赖项目安装失败"
 
 msgid ""
 "The add-on '$addon|' is already installed and contains additional "
 "information that will be permanently lost if you continue:"
 msgstr ""
+"附加组件“$addon”已安装并包含有额外的信息，如果您继续，则这些额外信息将永久丢"
+"失："
 
 msgid "Publishing information file (.pbl)"
-msgstr ""
+msgstr "发布信息文件（.pbl）"
 
 msgid "Version control system (VCS) information"
-msgstr ""
+msgstr "版本控制系统（VCS）信息"
 
-#, fuzzy
 msgid "Do you really wish to continue?"
-msgstr "您希望继续吗？"
+msgstr "您真的希望继续吗？"
 
 msgid "Confirm"
 msgstr "确认"
@@ -3785,31 +3749,26 @@ msgstr "回应"
 msgid "Terms"
 msgstr "条件"
 
-#, fuzzy
 msgid "New Version"
 msgstr "新版本"
 
-#, fuzzy
 msgid "Old Version"
 msgstr "旧版本"
 
 msgid "Downloads"
 msgstr "下载数"
 
-#, fuzzy
 msgid "Publish: $addon_title"
-msgstr "发布附加组件： "
+msgstr "发布： $addon_title"
 
-#, fuzzy
 msgid "Delete: $addon_title"
-msgstr "删除附加组件： "
+msgstr "删除：$addon_title"
 
 msgid "There are no add-ons available for download from this server."
 msgstr "这个服务器上无可供下载的附加组件。"
 
-#, fuzzy
 msgid "There are no add-ons matching the specified criteria on this server."
-msgstr "这个服务器上无可供下载的附加组件。"
+msgstr "这个服务器上没有符合规定条件的附加组件。"
 
 msgid "Filter: "
 msgstr "过滤条件："
@@ -3817,61 +3776,50 @@ msgstr "过滤条件："
 msgid "Description"
 msgstr "描述"
 
-#, fuzzy
 msgid "Update All"
 msgstr "全部更新"
 
-#, fuzzy
 msgid "filter^Options"
-msgstr "白板选项"
+msgstr "选项"
 
 msgid "Add-on Installed"
 msgstr "附加组件已安装"
 
-#, fuzzy
 msgid "Add-on Updated"
-msgstr "附加组件已删除"
+msgstr "附加组件已更新"
 
 msgid "The add-on '$addon_title|' has been successfully installed."
 msgstr "附加组件“$addon_title|”已经成功安装。"
 
-#, fuzzy
 msgid "The add-on '$addon_title|' has been successfully updated."
-msgstr "附加组件“$addon_title|”已经成功安装。"
+msgstr "附加组件“$addon_title”已经成功更新。"
 
-#, fuzzy
 msgid "Add-ons Installed"
 msgstr "附加组件已安装"
 
-#, fuzzy
 msgid "Add-ons Updated"
-msgstr "附加组件已删除"
+msgstr "附加组件已更新"
 
-#, fuzzy
 msgid "All add-ons installed successfully."
-msgstr "所有附加组件都更新成功了。"
+msgstr "所有附加组件都已安装成功。"
 
 msgid "All add-ons updated successfully."
 msgstr "所有附加组件都更新成功了。"
 
-#, fuzzy
 msgid "Installation Failed"
 msgstr "安装失败"
 
-#, fuzzy
 msgid "Update Failed"
 msgstr "更新失败"
 
-#, fuzzy
 msgid "The following add-on could not be downloaded or installed successfully:"
 msgid_plural ""
 "The following add-ons could not be downloaded or installed successfully:"
-msgstr[0] "以下附加组件有错误，无法成功地下载或更新："
-msgstr[1] "以下附加组件有错误，无法成功地下载或更新："
+msgstr[0] "以下附加组件无法成功地下载或更新："
+msgstr[1] "以下附加组件无法成功地下载或更新："
 
-#, fuzzy
 msgid "An error occurred while downloading the add-ons list from the server."
-msgstr "与服务器通讯时发生错误。"
+msgstr "从服务器上下载附加组件列表时发生错误。"
 
 msgid "Network communication error."
 msgstr "网络通讯错误。"
@@ -3890,9 +3838,13 @@ msgid ""
 "File: $path\n"
 "Error message: $msg"
 msgstr ""
+"包含有附加组件所需的发布信息的本地文件无法读取。\n"
+"\n"
+"文件：$path\n"
+"出错信息：$msg"
 
 msgid "The add-ons server address specified is not valid."
-msgstr ""
+msgstr "指定的附加组件服务器地址是无效的。"
 
 msgid "You have no add-ons installed."
 msgstr "您没有安装任何附加组件。"
@@ -3968,22 +3920,19 @@ msgid "Do you really want to dismiss him?"
 msgstr "您真的想解散他吗？"
 
 #. TRANSLATORS: this string ends with a space
-#, fuzzy
 msgid "This unit is loyal and requires no upkeep. "
-msgstr "阁下，这个单位忠诚于您，而且不需要维护费用！"
+msgstr "这个单位是忠诚的，不需要维护费用！"
 
 msgid "Do you really want to dismiss her?"
 msgstr "您真的想解散她吗？"
 
 #. TRANSLATORS: this string ends with a space
-#, fuzzy
 msgid "This unit is an experienced one, having advanced levels. "
-msgstr "阁下，这个单位富有经验，而且等级很高！"
+msgstr "这个单位富有经验，等级较高。"
 
 #. TRANSLATORS: this string ends with a space
-#, fuzzy
 msgid "This unit is close to advancing a level. "
-msgstr "阁下，这个单位就快要升级了！"
+msgstr "这个单位就快要升级了。"
 
 msgid "Dismiss Unit"
 msgstr "解散单位"
@@ -4028,7 +3977,7 @@ msgid "Recall"
 msgstr "召回"
 
 msgid "%a %b %d %H:%M %Y"
-msgstr "%Y年%m月%d日，%H时%M分"
+msgstr "%a %b %d %H:%M %Y"
 
 msgid "%a %b %d %I:%M %p %Y"
 msgstr "%a %b %d %I:%M %p %Y"
@@ -4081,24 +4030,23 @@ msgstr "日期"
 msgid "Load Game"
 msgstr "读取游戏"
 
-#, fuzzy
 msgid "Change difficulty"
-msgstr "难度："
+msgstr "改变难度"
 
 msgid "Change campaign difficulty before loading"
-msgstr ""
+msgstr "在读取之前改变战役的难度"
 
 msgid "Show replay"
 msgstr "显示游戏录像"
 
 msgid "Play the embedded replay from the saved game if applicable"
-msgstr ""
+msgstr "如果可行，则播放游戏存档中内嵌的录像"
 
 msgid "Cancel orders"
 msgstr "取消命令"
 
 msgid "Cancel any pending unit movements in the saved game"
-msgstr ""
+msgstr "取消游戏存档中所有尚未执行的单位移动。"
 
 msgid "Delete Save"
 msgstr "删除存档"
@@ -4134,7 +4082,7 @@ msgid "Unable to find a leader type for faction $faction"
 msgstr "无法找到$faction派系的可用领袖类型"
 
 msgid "Cannot obtain genders for invalid leader $leader"
-msgstr ""
+msgstr "无法获取无效的领袖 $leader 的性别"
 
 msgid "%H:%M"
 msgstr "%H:%M"
@@ -4151,16 +4099,14 @@ msgstr "%A, %H:%M %p"
 msgid "%b %d"
 msgstr "%m月%d日"
 
-#, fuzzy
 msgid "%b %d %Y"
-msgstr "%Y年%m月%d日"
+msgstr "%b %d %Y"
 
 msgid "Invalid color range: "
 msgstr "无效颜色范围："
 
-#, fuzzy
 msgid "Error loading game configuration files. The game will now exit."
-msgstr "读取游戏配置文件时出错： '"
+msgstr "读取游戏配置文件时出错。现在游戏将退出。"
 
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
@@ -4170,8 +4116,8 @@ msgstr[1] "以下附加组件有错误，无法读取："
 msgid "Please report this to the author or maintainer of this add-on."
 msgid_plural ""
 "Please report this to the respective authors or maintainers of these add-ons."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "请将此问题反映给此附加组件的作者或维护者。"
+msgstr[1] "请将此问题反映给这些附加组件的作者或维护者。"
 
 msgid "The Battle for Wesnoth"
 msgstr "韦诺之战"
@@ -4193,6 +4139,8 @@ msgid ""
 "single-player. It is recommended to load this scenario through the "
 "Multiplayer -> Load Game dialog instead."
 msgstr ""
+"这是一个多人游戏场景。部分内容在单人游戏中可能无法正常工作。建议您在 多人游"
+"戏 -> 读取游戏 对话框中读取本场景。"
 
 msgid "Warning"
 msgstr "警告"
@@ -4212,9 +4160,8 @@ msgstr "进行游戏时发生错误："
 msgid "The game map could not be loaded: "
 msgstr "无法读取游戏地图： "
 
-#, fuzzy
 msgid "Chat message"
-msgstr "聊天信息过期设置"
+msgstr "聊天信息"
 
 msgid "Turn changed"
 msgstr "回合改变了"
@@ -4303,18 +4250,17 @@ msgstr "错误"
 msgid "Quit"
 msgstr "退出"
 
-#, fuzzy
 msgid "Do you really want to quit?"
-msgstr "您真的想解散他吗？"
+msgstr "您真的想退出吗？"
 
 msgid "Map-Screenshot"
-msgstr ""
+msgstr "地图-屏幕截图"
 
 msgid "Screenshot"
-msgstr ""
+msgstr "屏幕截图"
 
 msgid "Screenshot Done"
-msgstr ""
+msgstr "屏幕截图完成"
 
 msgid "The End"
 msgstr "结束"
@@ -4373,13 +4319,12 @@ msgstr ""
 "每村庄\n"
 "收入"
 
-#, fuzzy
 msgid ""
 "scenario settings^Support Per\n"
 "Village"
 msgstr ""
 "每村庄\n"
-"收入"
+"供给"
 
 msgid "scenario settings^Fog"
 msgstr "战争迷雾"
@@ -4507,14 +4452,12 @@ msgstr "您在这回合还没有进行操作，您真的想结束本回合吗？
 msgid "Some units have movement left. Do you really want to end your turn?"
 msgstr "有些单位还可以移动。您真的想结束本回合吗？"
 
-#, fuzzy
 msgid "Some units have not moved. Do you really want to end your turn?"
-msgstr "有些单位还可以移动。您真的想结束本回合吗？"
+msgstr "有些单位还没有移动。您真的想结束您的回合吗？"
 
 msgid "Rename Unit"
 msgstr "单位重命名"
 
-#, fuzzy
 msgid "Name:"
 msgstr "名称："
 
@@ -4721,9 +4664,8 @@ msgstr "对某一阵营开启/关闭AI控制。"
 msgid "do not translate the on/off^[<side> [on/off]]"
 msgstr "[<阵营> [on/off]]"
 
-#, fuzzy
 msgid "Switch a side to/from idle state."
-msgstr "对某一阵营开启/关闭AI控制。"
+msgstr "对某一阵营开启/关闭空闲状态。"
 
 msgid "<side> <nickname>"
 msgstr "<阵营> <昵称>"
@@ -4732,10 +4674,10 @@ msgid "Assign control of a side to a different player or observer."
 msgstr "将某阵营的控制权授予另一玩家或观察者。"
 
 msgid "<side>"
-msgstr ""
+msgstr "<阵营>"
 
 msgid "Query the controller status of a side."
-msgstr ""
+msgstr "查询一个阵营的控制状态"
 
 msgid "Clear chat history."
 msgstr "清除聊天历史。"
@@ -4939,7 +4881,6 @@ msgstr "正在设置$var为$value"
 msgid "requesting information for user $nick"
 msgstr "正在请求用户$nick的信息"
 
-#, fuzzy
 msgid "Could not find label or unit containing the string ‘$search’."
 msgstr "无法找到含有字符串“$search”的标签或单位。"
 
@@ -4949,9 +4890,8 @@ msgstr "无法托管无效阵营：“$side”。"
 msgid "Can't droid networked side: '$side'."
 msgstr "无法托管网络阵营：“$side”。"
 
-#, fuzzy
 msgid "Can't idle invalid side: '$side'."
-msgstr "无法托管无效阵营：“$side”。"
+msgstr "无法将无效阵营置为空闲状态：“$side”。"
 
 msgid "Can't change control of invalid side: '$side'."
 msgstr "无法改变无效阵营的控制权：“$side”。"
@@ -4959,13 +4899,11 @@ msgstr "无法改变无效阵营的控制权：“$side”。"
 msgid "Can't change control of out-of-bounds side: '$side'."
 msgstr "无法改变超出范围的阵营的控制权：“$side”。"
 
-#, fuzzy
 msgid "Can't query control of invalid side: '$side'."
-msgstr "无法改变无效阵营的控制权：“$side”。"
+msgstr "无法查询无效阵营的控制状态：“$side”。"
 
-#, fuzzy
 msgid "Can't query control of out-of-bounds side: '$side'."
-msgstr "无法改变超出范围的阵营的控制权：“$side”。"
+msgstr "无法查询超出范围的阵营的控制状态：“$side”。"
 
 msgid "Layers"
 msgstr "层 "
@@ -5038,28 +4976,25 @@ msgstr "攻击敌人"
 msgid "Choose weapon:"
 msgstr "选择武器："
 
-#, fuzzy
 msgid "Failed to resolve dependencies"
-msgstr "安装依赖的插件"
+msgstr "依赖项目解析失败"
 
 msgid "Scenario can't be activated. Some dependencies are missing: "
-msgstr ""
+msgstr "场景无法激活。部分依赖项目未找到："
 
-#, fuzzy
 msgid "No compatible eras found."
-msgstr "没有找到任何时代。"
+msgstr "没有找到兼容的时代。"
 
 msgid "Era can't be activated. Some dependencies are missing: "
-msgstr ""
+msgstr "时代无法激活。部分依赖项目未找到："
 
-#, fuzzy
 msgid "No compatible scenarios found."
-msgstr "没有发现多人游戏阵营"
+msgstr "没有找到兼容的场景。"
 
 msgid ""
 "Not all of the chosen modifications are compatible. Some of them will be "
 "disabled."
-msgstr ""
+msgstr "所选定的模组并非全部互相兼容。其中一部分将被禁用。"
 
 msgid "Cannot find era $era"
 msgstr "无法找到$era时代"
@@ -5076,11 +5011,10 @@ msgstr "正在连接到服务器……"
 msgid "Reading from Server..."
 msgstr "正在从服务器读取数据……"
 
-#, fuzzy
 msgid ""
 "The server accepts versions '$version1' while you are using version "
 "'$version2'"
-msgstr "本服务器需要版本“$version1”，而您的版本是“$version2”"
+msgstr "本服务器接受版本“$version1”，而您正在使用的版本是“$version2”"
 
 msgid "Server-side redirect loop"
 msgstr "服务器端重定向循环"
@@ -5140,15 +5074,14 @@ msgstr "您提供的密码是不正确的。"
 msgid "You have made too many login attempts."
 msgstr "您尝试登录的次数太多了。"
 
-#, fuzzy
 msgid "Configure Game"
-msgstr "确认"
+msgstr "配置游戏"
 
 msgid "Time limit"
 msgstr "时限"
 
 msgid "Generic"
-msgstr ""
+msgstr "通用"
 
 msgid "Name of game:"
 msgstr "游戏名："
@@ -5171,9 +5104,8 @@ msgstr "随机分配阵营"
 msgid "Set Password..."
 msgstr "设定密码..."
 
-#, fuzzy
 msgid "Select an entry point:"
-msgstr "选择要更新的附加组件："
+msgstr "选择进入点："
 
 msgid "The maximum number of turns the game can last"
 msgstr "游戏允许的最大回合数"
@@ -5196,9 +5128,8 @@ msgstr "每次攻击、征募和占领的时限"
 msgid "The amount of income each village yields per turn"
 msgstr "每村庄每回合产生的收入"
 
-#, fuzzy
 msgid "The number of unit levels each village can support"
-msgstr "游戏允许的最大回合数"
+msgstr "每个村庄可供给的单位等级数"
 
 msgid "The amount of experience a unit needs to advance"
 msgstr "一个单位升级所需的经验值"
@@ -5257,9 +5188,8 @@ msgstr "行动奖励："
 msgid "Village gold: "
 msgstr "村庄金币："
 
-#, fuzzy
 msgid "Village support: "
-msgstr "村庄金币："
+msgstr "村庄供给："
 
 msgid "Experience modifier: "
 msgstr "经验值修正："
@@ -5282,17 +5212,14 @@ msgstr "游戏大厅："
 msgid "Player/Type"
 msgstr "玩家/类型"
 
-#, fuzzy
 msgid "Faction/Name"
-msgstr "派系"
+msgstr "派系/名字"
 
-#, fuzzy
 msgid "Leader/Gender"
-msgstr "队伍/性别"
+msgstr "领袖/性别"
 
-#, fuzzy
 msgid "Team/Color"
-msgstr "颜色"
+msgstr "队伍/颜色"
 
 msgid "I’m Ready"
 msgstr "准备就绪"
@@ -5345,16 +5272,14 @@ msgstr "--给予--"
 msgid "Create Game"
 msgstr "创建游戏"
 
-#, fuzzy
 msgid "Filter:"
 msgstr "过滤条件："
 
 msgid "Number of players: any"
-msgstr ""
+msgstr "玩家人数：任意"
 
-#, fuzzy
 msgid "Random map options:"
-msgstr "随机开始时间"
+msgstr "随机地图选项："
 
 msgid "Era:"
 msgstr "时代："
@@ -5363,14 +5288,14 @@ msgid ""
 "No eras available\n"
 "for this game."
 msgstr ""
+"没有这一游戏\n"
+"可用的时代。"
 
-#, fuzzy
 msgid "Modifications:"
-msgstr "禁止桌面提示"
+msgstr "模组"
 
-#, fuzzy
 msgid "Next"
-msgstr "下一回合"
+msgstr "下一步"
 
 msgid "Regenerate"
 msgstr "重新生成"
@@ -5382,31 +5307,25 @@ msgid "Load Game..."
 msgstr "读取游戏..."
 
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
-#, fuzzy
 msgid "Scenarios"
-msgstr "场景开始"
+msgstr "场景"
 
-#, fuzzy
 msgid "Campaigns"
-msgstr "战役设计"
+msgstr "战役"
 
-#, fuzzy
 msgid "User Maps"
-msgstr "共享地图"
+msgstr "用户地图"
 
-#, fuzzy
 msgid "User Scenarios"
-msgstr "结束场景"
+msgstr "用户场景"
 
-#, fuzzy
 msgid "Random Maps"
-msgstr "随机"
+msgstr "随机地图"
 
-#, fuzzy
 msgid "No games found."
-msgstr "没有找到任何时代。"
+msgstr "没有找到游戏。"
 
 msgid "No eras found."
 msgstr "没有找到任何时代。"
@@ -5418,14 +5337,14 @@ msgid ""
 "Modifications:\n"
 "None found."
 msgstr ""
+"模组：\n"
+"未找到。"
 
-#, fuzzy
 msgid "Deactivate"
-msgstr "调试模式激活！"
+msgstr "取消激活"
 
-#, fuzzy
 msgid "The level is invalid."
-msgstr "本地图无效。"
+msgstr "本关卡无效。"
 
 msgid "Players: "
 msgstr "玩家： "
@@ -5433,27 +5352,23 @@ msgstr "玩家： "
 msgid "Size: "
 msgstr "大小"
 
-#, fuzzy
 msgid "Number of players: "
-msgstr "游戏名："
+msgstr "玩家人数："
 
 msgid "No description available."
 msgstr "没有描述信息。"
 
-#, fuzzy
 msgid "Map could not be loaded: "
-msgstr "无法读取游戏： "
+msgstr "无法读取地图："
 
-#, fuzzy
 msgid "Map could not be loaded."
-msgstr "无法读取游戏： "
+msgstr "无法读取地图。"
 
-#, fuzzy
 msgid "not available."
-msgstr " 没有可用的帮助信息。"
+msgstr "不可用。"
 
 msgid "User made map"
-msgstr ""
+msgstr "用户模式地图"
 
 msgid "--no games open--"
 msgstr "--没有游戏处于开放状态--"
@@ -5461,20 +5376,17 @@ msgstr "--没有游戏处于开放状态--"
 msgid " (Unknown Era)"
 msgstr "（未知时代）"
 
-#, fuzzy
 msgid "Scenario:"
-msgstr "结束场景"
+msgstr "场景："
 
-#, fuzzy
 msgid "Campaign:"
-msgstr "战役设计"
+msgstr "战役："
 
-#, fuzzy
 msgid "Unknown campaign: $campaign_id"
-msgstr "战役：$campaign_name"
+msgstr "未知战役：$campaign_id"
 
 msgid " (missing)"
-msgstr ""
+msgstr "（丢失）"
 
 msgid "Password Required"
 msgstr "需要输入密码"
@@ -5510,13 +5422,13 @@ msgid "Quick replays"
 msgstr "快速读取游戏录像"
 
 msgid "Enter blindfolded"
-msgstr ""
+msgstr "蒙眼进入"
 
 msgid "Skip quickly to the active turn when observing"
 msgstr "在旁观时快速跳到活动回合"
 
 msgid "Do not show replay turns"
-msgstr ""
+msgstr "不显示录像回合数"
 
 msgid ""
 "Enable the games filter. If unchecked all games are shown, regardless of any "
@@ -5611,13 +5523,11 @@ msgstr "当前本地时间"
 msgid "Auto-Save"
 msgstr "自动存档"
 
-#, fuzzy
 msgid "Back to Turn "
 msgstr "回到回合"
 
-#, fuzzy
 msgid "Back to Start"
-msgstr "回到回合"
+msgstr "回到开头"
 
 msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
@@ -5627,15 +5537,14 @@ msgstr "游戏失去了同步。继续游戏似乎没有多少意义了。您想
 msgid "Error details:"
 msgstr "错误细节："
 
-#, fuzzy
 msgid "(press $hk to disable)"
-msgstr "（按$hotkey键继续移动）"
+msgstr "（按$hk键禁用）"
 
 msgid "Accelerated speed enabled!"
-msgstr ""
+msgstr "已启用加速！"
 
 msgid "Accelerated speed disabled!"
-msgstr ""
+msgstr "已禁用加速！"
 
 msgid "Scenario Report"
 msgstr "场景报告"
@@ -5687,9 +5596,8 @@ msgstr ""
 "\n"
 "您想为游戏保存错误日志吗？"
 
-#, fuzzy
 msgid "(press $hotkey to deactivate)"
-msgstr "（按$hotkey键继续移动）"
+msgstr "（按$hotkey键取消激活）"
 
 msgid "Remaining gold: "
 msgstr "所剩金币："
@@ -5761,11 +5669,10 @@ msgid "Replace with local player"
 msgstr "让本地玩家替换上阵"
 
 msgid "Set side to idle"
-msgstr ""
+msgstr "将阵营设置为空闲"
 
-#, fuzzy
 msgid "Save and abort game"
-msgstr "终止游戏"
+msgstr "保存并中止游戏"
 
 msgid "Replace with $player"
 msgstr "让$player替换上阵"
@@ -5843,7 +5750,7 @@ msgid "Ability: "
 msgstr "技能："
 
 msgid " (inactive)"
-msgstr ""
+msgstr "（未激活）"
 
 msgid "Resistances: "
 msgstr "抗性："
@@ -5866,12 +5773,11 @@ msgstr "最小："
 msgid "Defense: "
 msgstr "闪避率："
 
-#, fuzzy
 msgid "vision: "
-msgstr "版本："
+msgstr "视野："
 
 msgid "Movement Costs:"
-msgstr ""
+msgstr "移动耗费："
 
 msgid "Weapon: "
 msgstr "武器："
@@ -5882,9 +5788,8 @@ msgstr "伤害："
 msgid "Base damage: "
 msgstr "基本伤害："
 
-#, fuzzy
 msgid "With specials: "
-msgstr "武器特性"
+msgstr "特殊条件"
 
 msgid "Time of day: "
 msgstr "时段："
@@ -5898,9 +5803,8 @@ msgstr "减速： "
 msgid "Attacks: "
 msgstr "进攻方："
 
-#, fuzzy
 msgid "Max swarm bonus: "
-msgstr "回合奖励："
+msgstr "最高群击加成："
 
 msgid "Swarm: "
 msgstr "群击："
@@ -5908,12 +5812,11 @@ msgstr "群击："
 msgid "Base attacks: "
 msgstr "基本攻击："
 
-#, fuzzy
 msgid "Specials: "
-msgstr "武器特性"
+msgstr "特殊条件："
 
 msgid "Subject to swarm: "
-msgstr ""
+msgstr "群击有效："
 
 msgid "Weapon range: "
 msgstr "武器攻击范围："
@@ -5960,23 +5863,21 @@ msgstr "警告：您试图读取的文件已损坏。继续尝试读取。\n"
 msgid ""
 "The save has corrupt version information ($version_number|) and cannot be "
 "loaded."
-msgstr ""
+msgstr "该存档的版本信息损坏（$version_number）因此无法读取。"
 
-#, fuzzy
 msgid ""
 "This save is from an old, unsupported version ($version_number|) and cannot "
 "be loaded."
-msgstr "这个存档是由一个太早期的游戏版本保存的，现在的版本无法读取。"
+msgstr ""
+"这个存档来自于一个陈旧且不被支持的游戏版本（$version_number），因此无法读取。"
 
-#, fuzzy
 msgid ""
 "This save is from a different version of the game ($version_number|). Do you "
 "wish to try to load it?"
-msgstr "这个存档来自于不同版本的游戏。您仍然想读取吗？"
+msgstr "这个存档来自于不同的游戏版本（$version_number）。您希望尝试读取吗？"
 
-#, fuzzy
 msgid "This is not a multiplayer save."
-msgstr "这不是多人游戏存档"
+msgstr "这不是多人游戏存档。"
 
 msgid "The game could not be saved: "
 msgstr "无法保存游戏："
@@ -5987,17 +5888,15 @@ msgstr "存档已存在，要覆盖吗？"
 msgid "Overwrite?"
 msgstr "覆盖？"
 
-#, fuzzy
 msgid ""
 "Save names should not end on '.gz' or '.bz2'. Please remove the extension."
-msgstr "存档名不能以'.gz'结尾，请选择一个不同的名字。"
+msgstr "存档名不能以“.gz”或者“.bz2”结尾。请移除扩展名。"
 
 msgid "Saved"
 msgstr "已保存"
 
-#, fuzzy
 msgid "The game has been saved."
-msgstr "游戏已保存"
+msgstr "游戏已保存。"
 
 msgid "Could not write to file"
 msgstr "无法写入文件"
@@ -6017,15 +5916,14 @@ msgstr "保存游戏"
 msgid "Unexpected characters at line start"
 msgstr "行首部出现非预期的字符"
 
-#, fuzzy
 msgid "Missing closing tag for tag [$tag]"
-msgstr "在$pos处缺少$tag标签的结束标签"
+msgstr "缺少标签 [$tag] 的结束标签"
 
 msgid "expected at $pos"
-msgstr ""
+msgstr "预期位置：$pos"
 
 msgid "opened at $pos"
-msgstr ""
+msgstr "在 $pos 处打开"
 
 msgid "Unterminated [element] tag"
 msgstr "未终止的 [element] 标签"
@@ -6045,12 +5943,11 @@ msgstr "未终止的结束标签"
 msgid "Unexpected closing tag"
 msgstr "非预期的结束标签"
 
-#, fuzzy
 msgid "Found invalid closing tag [/$tag2] for tag [$tag1]"
-msgstr "结束标签$tag2无法匹配开启标签$tag1（开启位置为 $pos）"
+msgstr "发现无法匹配开启标签[$tag1]的结束标签[/$tag2]"
 
 msgid "closed at $pos"
-msgstr ""
+msgstr "于 $pos 处关闭"
 
 msgid "Empty variable name"
 msgstr "空变量名"
@@ -6062,11 +5959,10 @@ msgid "Unterminated quoted string"
 msgstr "未终止的引用字符串"
 
 msgid "at $pos"
-msgstr ""
+msgstr "在 $pos"
 
-#, fuzzy
 msgid "Value: '$value' Previous: '$previous_value'"
-msgstr "$error，值为“$value”，原值为“$previous_value”，位于$pos"
+msgstr "当前值：“$value” 之前值：“$previous_value”"
 
 msgid "prefix_milli^m"
 msgstr "m"
@@ -6140,17 +6036,14 @@ msgstr "杀死"
 msgid "Details"
 msgstr "详细信息"
 
-#, fuzzy
 msgid "Select Scenario"
-msgstr "测试场景"
+msgstr "选择场景"
 
-#, fuzzy
 msgid "Campaign"
-msgstr "战役设计"
+msgstr "战役"
 
-#, fuzzy
 msgid "Scenario"
-msgstr "结束场景"
+msgstr "场景"
 
 msgid "Damage"
 msgstr "伤害"
@@ -6171,121 +6064,118 @@ msgid "Skip"
 msgstr "跳过"
 
 msgid "Mon"
-msgstr ""
+msgstr "周一"
 
 msgid "Sun"
-msgstr ""
+msgstr "周日"
 
 msgid "Tue"
-msgstr ""
+msgstr "周二"
 
-#, fuzzy
 msgid "Wed"
-msgstr "红"
+msgstr "周三"
 
 msgid "Fri"
-msgstr ""
+msgstr "周五"
 
-#, fuzzy
 msgid "Sat"
-msgstr "状态"
+msgstr "已坐下"
 
 msgid "Thu"
-msgstr ""
+msgstr "周四"
 
 msgid "Monday"
-msgstr ""
+msgstr "星期一"
 
 msgid "Sunday"
-msgstr ""
+msgstr "星期日"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "星期二"
 
 msgid "Friday"
-msgstr ""
+msgstr "星期五"
 
 msgid "Saturday"
-msgstr ""
+msgstr "星期六"
 
 msgid "Thursday"
-msgstr ""
+msgstr "星期四"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "星期三"
 
 msgid "Apr"
-msgstr ""
+msgstr "四月"
 
 msgid "Feb"
-msgstr ""
+msgstr "二月"
 
 msgid "Jan"
-msgstr ""
+msgstr "一月"
 
 msgid "Mar"
-msgstr ""
+msgstr "三月"
 
 msgid "Aug"
-msgstr ""
+msgstr "把语文"
 
 msgid "Jul"
-msgstr ""
+msgstr "七月"
 
 msgid "Jun"
-msgstr ""
+msgstr "六月"
 
 msgid "Oct"
-msgstr ""
+msgstr "十月"
 
 msgid "Sep"
-msgstr ""
+msgstr "九月"
 
 msgid "abbrev^May"
-msgstr ""
+msgstr "五月"
 
 msgid "Dec"
-msgstr ""
+msgstr "十二月"
 
 msgid "Nov"
-msgstr ""
+msgstr "十一月"
 
 msgid "February"
-msgstr ""
+msgstr "二月"
 
 msgid "January"
-msgstr ""
+msgstr "一月"
 
-#, fuzzy
 msgid "March"
-msgstr "搜索"
+msgstr "三月"
 
 msgid "April"
-msgstr ""
+msgstr "四月"
 
 msgid "August"
-msgstr ""
+msgstr "八月"
 
 msgid "July"
-msgstr ""
+msgstr "七月"
 
 msgid "June"
-msgstr ""
+msgstr "六月"
 
 msgid "May"
-msgstr ""
+msgstr "五月"
 
 msgid "December"
-msgstr ""
+msgstr "十二月"
 
 msgid "November"
-msgstr ""
+msgstr "十一月"
 
 msgid "October"
-msgstr ""
+msgstr "十月"
 
 msgid "September"
-msgstr ""
+msgstr "九月"
 
 msgid "%a %b %e %H:%M:%S %Y"
 msgstr "%a %b %e %H:%M:%S %Y"
@@ -6318,14 +6208,13 @@ msgid "border_size should be between 0.0 and 0.5."
 msgstr "border_size应设为0.0到0.5之间的数值。"
 
 msgid "Hotkey(s): "
-msgstr ""
+msgstr "热键："
 
-#, fuzzy
 msgid "Stub Time of Day"
-msgstr "时段"
+msgstr "定下时段"
 
 msgid " and "
-msgstr " 以及"
+msgstr " 以及 "
 
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|：$effect_description"
