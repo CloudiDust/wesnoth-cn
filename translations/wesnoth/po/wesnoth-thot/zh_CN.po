@@ -4,15 +4,16 @@
 # luojie <luojie-dune@operamail.com>, 2008.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # wind <everywherewind@gmail.com>, 2011.
+# Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-03-23 19:14+0100\n"
-"PO-Revision-Date: 2015-01-02 13:23+0800\n"
+"PO-Revision-Date: 2015-01-12 20:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -823,26 +824,24 @@ msgid "The axe-bearers must not be let near our nestlings. Attack!"
 msgstr "不能让这帮拿斧头的接近我们的幼龙。进攻！"
 
 #. [message]: speaker=Master Perrin
-#, fuzzy
 msgid ""
 "We’re grateful for your assistance. And I’d like to send a couple of our "
 "senior apprentices with you to the east. It has come time for them to be "
 "journeymen... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
-"我们感激你们的援助。我会派至少一位高年级学徒跟你们向东去。到了他们历练的时候"
-"了……并且我感觉到东方诞生了我不喜的东西。"
+"我们感激你们的援助。我会派几位高年级学徒跟你们向东去。到了他们历练的时候了……"
+"并且我感觉到东方诞生了我不喜的东西。"
 
 #. [message]: speaker=Master Perrin
-#, fuzzy
 msgid ""
 "We’re grateful for your assistance. And I’d like to send one of our senior "
 "apprentices with you to the east. It has come time for him to be "
 "journeyman... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
-"我们感激你们的援助。我会派至少一位高年级学徒跟你们向东去。到了他们历练的时候"
-"了……并且我感觉到东方诞生了我不喜的东西。"
+"我们感激你们的援助。我会派一位高年级学徒跟你们向东去。到了他历练的时候了……并"
+"且我感觉到东方诞生了我不喜的东西。"
 
 #. [message]: speaker=Aiglondur
 msgid "What sort of thing?"
@@ -1959,36 +1958,30 @@ msgid "inspire"
 msgstr "鼓舞"
 
 #. [leadership]: id=inspire_0
-#, fuzzy
 msgid ""
 "This unit can inspire own L0 or L1 units that are next to it, making them "
 "fight better. Adjacent own units of L1 will do 25% more damage; L0 units "
 "will do 50% more."
 msgstr ""
-"鼓舞：\n"
 "这个单位能鼓励在他周围的友方0级和1级单位，让他们更好地战斗。1级单位多25%伤"
 "害；0级单位多50%伤害。"
 
 #. [leadership]: id=inspire_0
-#, fuzzy
 msgid ""
 "This unit can inspire own L0, L1, or L2 units that are next to it, making "
 "them fight better. Adjacent own units of L2 will do more 25% more damage; L1 "
 "units will do 50% more, and L0 will do 75% more."
 msgstr ""
-"鼓舞：\n"
 "这个单位能鼓励在他周围的友方0级，1级和2级单位，让他们更好地战斗。2级单位多25%"
 "伤害；1级单位多50%伤害，0级单位多75%伤害。"
 
 #. [leadership]: id=inspire_0
-#, fuzzy
 msgid ""
 "This unit can inspire own L0, L1, L2, or L3 units that are next to it, "
 "making them fight better. Adjacent own units of L3 will do more 25% more "
 "damage; L2 units will do 50% more, L1 will do 75% more, and L0 units will do "
 "100% more."
 msgstr ""
-"鼓舞：\n"
 "这个单位能鼓励在他周围的友方0级，1级，2级和3级单位，让他们更好地战斗。3级单位"
 "多25%伤害；2级单位多50%伤害，1级单位多75%伤害，0级单位多100%伤害。"
 
