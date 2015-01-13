@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-03-23 19:14+0100\n"
-"PO-Revision-Date: 2015-01-12 20:19+0800\n"
+"PO-Revision-Date: 2015-01-13 18:36+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -61,9 +61,9 @@ msgid ""
 "though great, pale beside the evil they will face at its end.\n"
 "\n"
 msgstr ""
-"在北方联盟的头几年，一支从克纳尔加出发的探险队寻找他们在卡尔卡塔的同族，并获"
-"悉传说中的瑟萨冈之锤的命运。他们贯穿了野蛮北国的危险旅途虽然伟大，但他们最终"
-"面对的邪恶让其黯然失色。\n"
+"在北方联盟的头几年，一支从纳尔迦出发的探险队寻找他们在卡尔卡塔的同族，并获悉"
+"传说中的瑟萨冈之锤的命运。他们贯穿了野蛮北国的危险旅途虽然伟大，但他们最终面"
+"对的邪恶让其黯然失色。\n"
 "\n"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
@@ -143,9 +143,9 @@ msgid ""
 "even greater than before, and began also reaching out for contact with their "
 "scattered kinfolk."
 msgstr ""
-"在北方联盟建立后的头几年，克纳尔加族的矮人和矮人之门的所有人，一心一意地重建"
-"曾经被兽人长期占据时破坏的地方。很快他们又重新兴旺起来。他们采集他们的过去作"
-"为灵感来重建克纳尔加，所以它建得比以往的还大，并开始出去寻找他们失散的亲属。"
+"在北方联盟建立后的头几年，纳尔迦族的矮人和矮人之门的所有人，一心一意地重建曾"
+"经被兽人长期占据时破坏的地方。很快他们又重新兴旺起来。他们采集他们的过去作为"
+"灵感来重建纳尔迦，所以它建得比以往的还大，并开始出去寻找他们失散的亲属。"
 
 #. [part]
 msgid ""
@@ -155,7 +155,7 @@ msgid ""
 "received a warning that a small band of rogue orcs had been sighted."
 msgstr ""
 "但来自敌对兽人，不友好的人类和残余亡灵的威胁并没有结束。矮人把强壮的守卫驻扎"
-"在克纳尔加附近。在韦诺建立后550年，矮人的东门指挥官收到警告，发现一小群流窜兽"
+"在纳尔迦附近。在韦诺建立后550年，矮人的东门指挥官收到警告，发现一小群流窜兽"
 "人。"
 
 #. [message]: speaker=Aiglondur
@@ -199,8 +199,8 @@ msgid ""
 "Alliance. Beside the dais stood a stranger in the robes of the Order of "
 "Loremasters..."
 msgstr ""
-"在取得和兽人的胜利后，艾格隆德被召到哈梅尔的会客大厅，克纳尔加的领主同时也是"
-"北方联盟的共事王。台边站着一位穿着博学者修会长袍的陌生人……"
+"在取得和兽人的胜利后，艾格隆德被召到哈梅尔的会客大厅，纳尔迦的领主同时也是北"
+"方联盟的共事王。台边站着一位穿着博学者修会长袍的陌生人……"
 
 #. [unit]: type=Dwarvish Witness, id=Angarthing
 #. [unit]: type=Dwarvish Witness, id=Angarthing_dummy
@@ -225,8 +225,8 @@ msgid ""
 "enough one to get this."
 msgstr ""
 "这个带钉斗篷上的印记是我们在东边山脉近宗卡尔卡塔族的，我们一直没有他们的消"
-"息，直到塔林终结了兽人对克纳尔加的占领。兽人居然能持有这个让我们很困扰；但兽"
-"人甚至应该不知道博学者的存在，更不用说到能取得印记的地步。"
+"息，直到塔林终结了兽人对纳尔迦的占领。兽人居然能持有这个让我们很困扰；但兽人"
+"甚至应该不知道博学者的存在，更不用说到能取得印记的地步。"
 
 #. [message]: speaker=Hamel
 msgid "I fear some grave ill may have become Kal Kartha."
@@ -324,14 +324,14 @@ msgid ""
 "of which holding shall have the training of the new runesmiths in its hands "
 "would be... delicate."
 msgstr ""
-"我主，这项发现是最近的是。我们还在译读这本书。还有这个：拥有在卡尔卡塔的瑟萨"
+"我主，这项发现是最近的事。我们还在译读这本书。还有这个：拥有在卡尔卡塔的瑟萨"
 "冈之锤和这本书，就可以掌握培训新符文工匠方法的问题……很微妙。"
 
 #. [message]: speaker=Angarthing_dummy
 msgid ""
 "We feared stirring up a controversy before the book was even properly "
 "understood."
-msgstr "我们害怕这书在被真正理解前会激起论战。"
+msgstr "我们害怕这书在被真正理解前会激起争议。"
 
 #. [message]: speaker=Hamel
 msgid ""
@@ -710,8 +710,8 @@ msgid ""
 "to the east; we’ve had few reports on it since before the orcs took Knalga. "
 "Those mages should know at least rumors."
 msgstr ""
-"让我们带上他，艾格隆德。再向东的地方我们一点也不熟悉；在兽人占领克纳尔加前我"
-"们也几乎没有相关消息。那些法师们至少会了解些传言。"
+"让我们带上他，艾格隆德。再向东的地方我们一点也不熟悉；在兽人占领纳尔迦前我们"
+"也几乎没有相关消息。那些法师们至少会了解些传言。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -830,8 +830,8 @@ msgid ""
 "journeymen... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
-"我们感激你们的援助。我会派几位高年级学徒跟你们向东去。到了他们历练的时候了……"
-"并且我感觉到东方诞生了我不喜的东西。"
+"我们感激你们的援助。我会派至少几个高年级学徒跟你们向东去。到了他们历练的时候"
+"了……并且我感觉到东方诞生了我不喜的东西。"
 
 #. [message]: speaker=Master Perrin
 msgid ""
@@ -840,8 +840,8 @@ msgid ""
 "journeyman... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
-"我们感激你们的援助。我会派一位高年级学徒跟你们向东去。到了他历练的时候了……并"
-"且我感觉到东方诞生了我不喜的东西。"
+"我们感激你们的援助。我会派至少一位高年级学徒跟你们向东去。到了他们历练的时候"
+"了……并且我感觉到东方诞生了我不喜的东西。"
 
 #. [message]: speaker=Aiglondur
 msgid "What sort of thing?"
@@ -1313,7 +1313,7 @@ msgstr "欢迎，矮人朋友。所有卡尔卡塔人民感谢你及时的救援
 msgid ""
 "We are from Knalga; your clans are kin to ours of old. We but did our duty "
 "to kin."
-msgstr "我们来自克纳尔加；你们氏族古时候是我们的同宗。我们只是尽了亲戚的职责。"
+msgstr "我们来自纳尔迦；你们氏族古时候是我们的同宗。我们只是尽了亲戚的职责。"
 
 #. [message]: speaker=Karrag
 msgid ""
@@ -1337,15 +1337,15 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 msgid "It is remembered in Knalga that Kal Kartha holds the Hammer."
-msgstr "在克纳尔加族的记录上是卡尔卡塔族持有此锤的。"
+msgstr "在纳尔迦族的记录上是卡尔卡塔族持有此锤的。"
 
 #. [message]: speaker=Karrag
 msgid ""
 "Yes! And the Hammer holds the soul of the dwarves, the true people. "
 "Together, we can march to greater victories! Will you of Knalga join me?"
 msgstr ""
-"对！这锤掌握着矮人们的灵魂，上等人的。我们一起能到达更大胜利！你们克纳尔加加"
-"入我？"
+"对！这锤掌握着矮人们的灵魂，上等人的。我们一起能到达更大胜利！你们纳尔迦加入"
+"我？"
 
 #. [message]: speaker=Angarthing
 msgid ""
@@ -1613,7 +1613,7 @@ msgstr "一扇门。也许加雷格正躲在这里……"
 
 #. [message]: speaker=unit
 msgid "150 gold pieces. This should help."
-msgstr "150枚金币。这该帮的上忙。"
+msgstr "150枚金币。这应该有用。"
 
 #. [message]: speaker=unit
 msgid ""
@@ -1774,7 +1774,7 @@ msgstr "珀利阿斯"
 msgid ""
 "I was told I’d find Aiglondur of Knalga here. I bear a message from Tallin, "
 "the Lord Protector of the Alliance."
-msgstr "我被告知到这里来找克纳尔加的艾格隆德。我带来了联盟的守护王塔林的口信。"
+msgstr "我被告知到这里来找纳尔迦的艾格隆德。我带来了联盟的守护王塔林的口信。"
 
 #. [message]: speaker=Aiglondur
 msgid "I am he. Speak your message."
@@ -1797,8 +1797,8 @@ msgid ""
 "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids "
 "you return to Knalga as soon as convenient, for your investiture."
 msgstr ""
-"艾格隆德，守护王授予你联盟共事王称号。他吩咐你尽快方便的话尽快返回克纳尔加，"
-"为你进行授职。"
+"艾格隆德，守护王授予你联盟共事王称号。他吩咐你尽快方便的话尽快返回纳尔迦，为"
+"你进行授职。"
 
 #. [message]: speaker=Dulcatulos
 msgid "(<i>Wonderingly</i>) A Lord Companion? And kin of ours..."
@@ -1808,7 +1808,7 @@ msgstr "（<b>吃惊地</b>）共事王？我们的同宗……"
 msgid ""
 "It would be no shame for a Lord Companion to rule this holding, as Hamel "
 "does at Knalga."
-msgstr "共事王来统治这里就没什么羞耻的了，就像哈梅尔统治克纳尔加一样。"
+msgstr "共事王来统治这里就没什么羞耻的了，就像哈梅尔统治纳尔迦一样。"
 
 #. [message]: speaker=narrator
 msgid ""
