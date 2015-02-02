@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-03-02 18:56+0100\n"
-"PO-Revision-Date: 2015-02-02 20:40+0800\n"
+"PO-Revision-Date: 2015-02-02 20:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1031,7 +1031,7 @@ msgstr "卡文"
 #. [message]: speaker=Krawg
 #. "I see a house in the distance!"
 msgid "Iii zeee hoose iiin eee d’zztaaan’eee!"
-msgstr "本大爷瞅着那地儿有个屋！"
+msgstr "俺瞅着那地儿有个屋！"
 
 #. [message]: speaker=unit
 msgid "I see a house in the distance!"
@@ -1166,7 +1166,7 @@ msgstr "是的，我们成功了。这位是克拉格，在北陆曾经帮助过
 #. [message]: speaker=Krawg
 #. "Yeah! Me Krawg!"
 msgid "Yaa! Mee Krawg!"
-msgstr "咿呀！沃思克拉格！"
+msgstr "咿呀！俺是克拉格！"
 
 #. [message]: speaker=Thursagan
 msgid "Now, where is this ruby that I am to work with, eh Durstorn?"
@@ -1306,7 +1306,7 @@ msgstr ""
 #. [message]: speaker=Krawg
 #. "Me, too!"
 msgid "M’ ’u!"
-msgstr "俺丫四！"
+msgstr "俺也是！"
 
 #. [scenario]: id=4_Gathering_Materials
 #. [settings]
