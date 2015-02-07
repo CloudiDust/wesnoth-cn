@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2015-01-23 17:35-0300\n"
-"PO-Revision-Date: 2015-02-07 13:12+0800\n"
+"PO-Revision-Date: 2015-02-07 15:50+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1701,47 +1701,47 @@ msgstr "尾声"
 
 #. [event]
 msgid "Glamcatsil"
-msgstr "Glamcatsil"
+msgstr "格莱姆卡希尔"
 
 #. [event]
 msgid "Trithdurus"
-msgstr "Trithdurus"
+msgstr "崔斯达鲁斯"
 
 #. [event]
 msgid "Althasol"
-msgstr "Althasol"
+msgstr "艾尔萨索"
 
 #. [event]
 msgid "Dulalas"
-msgstr "Dulalas"
+msgstr "杜拉那斯"
 
 #. [event]
 msgid "Pelalsol"
-msgstr "Pelalsol"
+msgstr "佩拉尔索"
 
 #. [event]
 msgid "Aigthaing"
-msgstr "Aigthaing"
+msgstr "艾格夏"
 
 #. [event]
 msgid "Pelcatol"
-msgstr "Pelcatol"
+msgstr "佩尔卡托"
 
 #. [event]
 msgid "Narithil"
-msgstr "Narithil"
+msgstr "纳利希"
 
 #. [event]
 msgid "Glamdrsol"
-msgstr "Glamdrsol"
+msgstr "格拉姆得利索"
 
 #. [event]
 msgid "Pelaithil"
-msgstr "Pelaithil"
+msgstr "佩莱希"
 
 #. [event]
 msgid "Alaithus"
-msgstr "Alaithus"
+msgstr "艾尔艾萨斯"
 
 #. [message]: speaker=Angarthing
 msgid ""
