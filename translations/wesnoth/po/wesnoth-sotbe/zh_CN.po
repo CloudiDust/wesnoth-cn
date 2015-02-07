@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-11-15 10:53+0100\n"
-"PO-Revision-Date: 2015-01-02 13:21+0800\n"
+"POT-Creation-Date: 2015-01-23 17:35-0300\n"
+"PO-Revision-Date: 2015-02-07 13:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 msgid "Son of the Black-Eye"
@@ -2381,8 +2381,9 @@ msgstr ""
 "愚蠢的人类。进攻，战士们，我要这城市一周之内成为兽人领土！刺穿，砍翻，杀光！"
 
 #. [message]: speaker=Al'Brock
+#, fuzzy
 msgid ""
-"Easier said then done, Chief. There are many humans in that city. And they "
+"Easier said than done, Chief. There are many humans in that city. And they "
 "are well armed, too."
 msgstr "说的比做得容易，老大。那城里有太多人了。而且他们武装精良。"
 
@@ -2499,9 +2500,10 @@ msgid "Blast it, the orcs have caught up to us."
 msgstr "见鬼，兽人们追上来了。"
 
 #. [message]: speaker=Darstang
+#, fuzzy
 msgid ""
 "Elf, our kind can move and fight far better and faster in these conditions "
-"then your kind can. Take the orcish prisoners and hurry to Melmog. The "
+"than your kind can. Take the orcish prisoners and hurry to Melmog. The "
 "dwarves shall stop this orcish menace!"
 msgstr ""
 "精灵，在这里我们可以比你们更好的行军和战斗。赶紧带着兽人俘虏去米尔默格。矮人"
@@ -2693,8 +2695,9 @@ msgid "Err, sorry, there were some humans in way. We squash, no problem."
 msgstr "呃，对不起，那里有人类挡路。俺们砸扁他们，没问题了。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Better late then never. Now it’s time to kill! Let nobody escape and "
+"Better late than never. Now it’s time to kill! Let nobody escape and "
 "everyone keep an eye out for the shamans."
 msgstr "迟到总比来不了好。现在是屠杀时间！一个也不许跑了，另外留意好萨满。"
 
@@ -3073,9 +3076,10 @@ msgid "Accomplishments?"
 msgstr "成就?"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "Well let’s see, first he betrays the trust of his sworn sovereign and "
-"becomes no less then a boot-licking spy for the humans. Then goes on to "
+"becomes no less than a boot-licking spy for the humans. Then goes on to "
 "engineer the death of half of the Great Council and in doing so makes "
 "himself directly responsible for the deaths of hundreds of orcs. And best of "
 "all, he is directly responsible for a bloody civil war right at the time "
@@ -3585,12 +3589,13 @@ msgstr ""
 "作为对兽人凝聚力的证实，两次入侵都被迅速瓦解了，甚至还没等到北方联盟来调解。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "In order to keep fighting between the tribes to a minimum, Kapou’e also "
 "maintained an enormous army, drawn from all corners of his empire. To offset "
 "the cost of maintaining such an army, he often hired out portions of it to "
 "act as mercenaries in foreign struggles. People of all races took advantage "
-"of this and, consequently, those orcs thirsting for battle got more then "
+"of this and, consequently, those orcs thirsting for battle got more than "
 "enough to keep them from attacking their nearest neighbors."
 msgstr ""
 "为了减少部族内战，卡破尔组织了庞大的正规军，军员选拔自帝国各个角落。为了补偿"

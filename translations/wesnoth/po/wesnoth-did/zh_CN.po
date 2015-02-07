@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-03-02 18:56+0100\n"
-"PO-Revision-Date: 2015-01-02 13:06+0800\n"
+"POT-Creation-Date: 2015-01-23 17:35-0300\n"
+"PO-Revision-Date: 2015-02-07 13:04+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
-"Language-Team:  Wesnoth Simplified Chinese Team\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #. [scenario]: id=11_Descent_into_Darkness, id=Mal Keshar
@@ -278,6 +278,12 @@ msgstr ""
 msgid "Welcome to Parthyn"
 msgstr "欢迎来到帕辛"
 
+#. [message]: speaker=narrator
+msgid ""
+"Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. "
+"Hate leads to suffering."
+msgstr "恐惧乃暗面之途。恐惧致愤怒。愤怒致憎恨。憎恨致苦痛。"
+
 #. [message]: speaker=Drogan
 msgid "The orcs have broken through our line. Parthyn is open to attack!"
 msgstr "兽人已经攻破了我们的防线。帕辛暴露在敌人的攻击之下了！"
@@ -493,9 +499,21 @@ msgstr "这将是对你的新技能的很有价值的检验。"
 msgid "Beware the goblin guards in the villages."
 msgstr "小心防备那些守卫着村庄的地精。"
 
-#. [then]
+#. [unit]: id=guard_$x1|_$y1|_$guard_i, type=Goblin Spearman
 msgid "Villager"
 msgstr "村民"
+
+#. [modify_unit]
+#. Shaun and Ed are characters from the zombie film "Shaun of the Dead".
+#. If the names cannot be translated into your language so that the
+#. movie reference remains recognizable, then simply translate these the
+#. same as "Villager" above.
+msgid "Shaun"
+msgstr "肖恩"
+
+#. [modify_unit]
+msgid "Ed"
+msgstr "埃德"
 
 #. [message]: speaker=Darken Volk
 msgid ""

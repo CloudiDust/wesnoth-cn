@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-11-15 10:53+0100\n"
-"PO-Revision-Date: 2015-01-11 20:22+0800\n"
+"POT-Creation-Date: 2015-01-23 17:35-0300\n"
+"PO-Revision-Date: 2015-02-07 13:00+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #. [advanced_preference]: type=combo
 #. Associated save_compression_short^ entries need to be as short as
@@ -2726,74 +2726,6 @@ msgstr "非常长"
 msgid "electrical"
 msgstr "电能"
 
-#. [theme]: id=Default
-msgid "theme^Default"
-msgstr "默认"
-
-#. [theme]: id=Default
-msgid "Default theme."
-msgstr "默认主题"
-
-#. [menu]: id=menu-main
-msgid "Menu"
-msgstr "菜单"
-
-#. [menu]: id=menu-autosaves
-msgid "Back to..."
-msgstr "回到……"
-
-#. [menu]: id=actions-menu
-msgid "Actions"
-msgstr "行动"
-
-#. [action]: id=button-endturn
-msgid "End Turn"
-msgstr "结束回合"
-
-#. [action]: id=button-endturn
-msgid "End Scenario"
-msgstr "结束场景"
-
-#. [label]: id=label-hp
-msgid "HP"
-msgstr "生命值"
-
-#. [label]: id=label-xp
-msgid "XP"
-msgstr "经验值"
-
-#. [label]: id=label-mp
-msgid "MP"
-msgstr "移动点数"
-
-#. [label]: id=label-def
-msgid "def"
-msgstr "闪避"
-
-#. [label]: id=gold-icon
-msgid "gold"
-msgstr "金币"
-
-#. [label]: id=villages-icon
-msgid "villages"
-msgstr "村庄"
-
-#. [label]: id=units-icon
-msgid "units"
-msgstr "单位"
-
-#. [label]: id=upkeep-icon
-msgid "upkeep"
-msgstr "维护费用"
-
-#. [label]: id=income-icon
-msgid "income"
-msgstr "收入"
-
-#. [unit_level]: id=unit-level
-msgid "statuspanel^lvl"
-msgstr "等级"
-
 #. [action]: id=button-playreplay, type=image
 msgid "Play"
 msgstr "开始回放"
@@ -2842,13 +2774,113 @@ msgstr "视角"
 msgid "Skip animation"
 msgstr "跳过动画"
 
+#. [label]: id=replay-label
+msgid "Replay"
+msgstr "游戏录像"
+
+#. [action]: id=button-nextmove, type=image
+msgid "Next Move"
+msgstr "下一手"
+
+#. [action]: id=button-nextmove, type=image
+msgid "play single move"
+msgstr "进行下一手"
+
+#. [theme]: id=Classic
+msgid "theme^Classic"
+msgstr "经典"
+
+#. [theme]: id=Classic
+msgid "The classic, pre-1.12 theme"
+msgstr "经典的，1.12以前的版本所使用的主题"
+
+#. [menu]: id=menu-main
+msgid "Menu"
+msgstr "菜单"
+
+#. [menu]: id=actions-menu
+msgid "Actions"
+msgstr "行动"
+
+#. [action]: id=button-endturn
+msgid "End Turn"
+msgstr "结束回合"
+
+#. [action]: id=button-endturn
+msgid "End Scenario"
+msgstr "结束场景"
+
+#. [label]: id=label-hp
+msgid "HP"
+msgstr "生命值"
+
+#. [label]: id=label-xp
+msgid "XP"
+msgstr "经验值"
+
+#. [label]: id=gold-icon
+msgid "gold"
+msgstr "金币"
+
+#. [label]: id=villages-icon
+msgid "villages"
+msgstr "村庄"
+
+#. [label]: id=units-icon
+msgid "units"
+msgstr "单位"
+
+#. [label]: id=upkeep-icon
+msgid "upkeep"
+msgstr "维护费用"
+
+#. [label]: id=income-icon
+msgid "income"
+msgstr "收入"
+
+#. [unit_level]: id=unit-level
+msgid "statuspanel^level"
+msgstr "等级"
+
+#. [unit_moves]: id=unit-moves
+msgid "statuspanel^moves"
+msgstr "移动"
+
+#. [unit_defense]: id=unit-defense
+msgid "statuspanel^terrain def."
+msgstr "地形闪避"
+
+#. [theme]: id=Default
+msgid "theme^Default"
+msgstr "默认"
+
+#. [theme]: id=Default
+msgid "The default theme"
+msgstr "默认主题"
+
+#. [menu]: id=menu-autosaves
+msgid "Back to..."
+msgstr "回到……"
+
+#. [label]: id=label-mp
+msgid "MP"
+msgstr "移动点数"
+
+#. [label]: id=label-def
+msgid "def"
+msgstr "闪避"
+
+#. [unit_level]: id=unit-level
+msgid "statuspanel^lvl"
+msgstr "等级"
+
 #. [theme]: id=Pandora
 msgid "theme^Pandora"
 msgstr "潘多拉"
 
 #. [theme]: id=Pandora
-msgid "800x480 theme optimized for Pandora devices."
-msgstr "为潘多拉设备优化的800x480主题。"
+msgid "An 800×480 theme optimized for Pandora devices"
+msgstr "为潘多拉设备优化的800x480主题"
 
 #. [action]: id=end-turn
 msgid ""
@@ -3996,9 +4028,6 @@ msgstr "教程"
 
 msgid "Test scenario"
 msgstr "测试场景"
-
-msgid "Replay"
-msgstr "游戏录像"
 
 msgid "Turn"
 msgstr "回合"
@@ -5418,10 +5447,13 @@ msgstr "游戏中的好友"
 msgid "Search:"
 msgstr "搜索："
 
-msgid "Quick replays"
-msgstr "快速读取游戏录像"
+msgid "Normal Replays"
+msgstr "普通游戏录像"
 
-msgid "Enter blindfolded"
+msgid "Quick Replays"
+msgstr "快速游戏录像"
+
+msgid "Enter Blindfolded"
 msgstr "蒙眼进入"
 
 msgid "Skip quickly to the active turn when observing"

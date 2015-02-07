@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # luojie <lililjlj@gmail.com>, 2009.
 # MrKing <yideey@gmail.com>, 2012.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-11-15 10:53+0100\n"
+"POT-Creation-Date: 2015-01-23 17:35-0300\n"
 "PO-Revision-Date: 2015-01-02 13:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team:  Wesnoth Simplified Chinese Team\n"
@@ -3881,10 +3881,11 @@ msgstr ""
 "斗。"
 
 #. [message]: speaker=Zhul
+#, fuzzy
 msgid ""
 "Perhaps they wanted to further test our prowess in battle. And besides, "
 "every troll we kill is one they don’t have to. Still, I think we caused a "
-"bigger distraction then they were expecting."
+"bigger distraction than they were expecting."
 msgstr ""
 "也许他们想在战斗中进一步考验我们的能力。况且，我们每杀一个巨魔，他们就能少一"
 "个敌人。而且，我想我们引起的混乱已经超出了他们的预期。"
@@ -4373,10 +4374,11 @@ msgstr ""
 "那个所谓的“薄弱防线”。如果我们能直接接近矮人首领，可以省去很多不必要的战斗。"
 
 #. [message]: speaker=Zhul
+#, fuzzy
 msgid ""
 "Perhaps they wanted to further test our prowess in battle. And besides, "
 "every dwarf we kill is one they don’t have to. Still, I think we caused a "
-"bigger distraction then they were expecting."
+"bigger distraction than they were expecting."
 msgstr ""
 "也许他们想在战斗中进一步考察我们的能力。况且，我们每杀一个矮人，他们就少一个"
 "敌人。我想我们造成的混乱超乎他们的预期。"
@@ -6984,7 +6986,8 @@ msgid "Faugh, boy, you know nothing! There are fates worse than death."
 msgstr "呸，小子，你什么都不知道！我不死的后果比让我死更可怕。"
 
 #. [message]: speaker=Nym
-msgid "He killed himself rather then surrender to us!"
+#, fuzzy
+msgid "He killed himself rather than surrender to us!"
 msgstr "他宁愿自杀也不向我们投降！"
 
 #. [message]
@@ -9057,11 +9060,12 @@ msgstr ""
 "的魔法和知识，我们解读出了那些文字，然后拼凑出了黄金时代晚期的历史事实。"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
 "The islands seemed lush and bountiful so we decided to settle in the shallow "
 "waters. But we discovered that the largest island was a strange and sinister "
 "place. The interior of the island was choked with a thick jungle, and at the "
-"center we could see several tall rocky peaks. On the tallest peak was build "
+"center we could see several tall rocky peaks. On the tallest peak was built "
 "some sort of stronghold and occasionally at night we saw strange lights "
 "emanating from it. We sent several expeditions into the jungle to explore "
 "the building, but none ever returned. Soon afterwards merfolk sleeping on "
