@@ -12,7 +12,7 @@ import shutil
 import subprocess
 
 TEXTDOMAINS = [
-    'wesnoth', 'anl', 'aoi', 'did', 'dm', 'dw', 'editor', 'ei', 'help', 'httt',
+    'wesnoth', 'ai', 'anl', 'aoi', 'did', 'dm', 'dw', 'editor', 'ei', 'help', 'httt',
     'l', 'lib', 'low', 'manpages', 'manual', 'multiplayer', 'nr', 'sof',
     'sotbe', 'tb', 'test', 'thot', 'trow', 'tsg', 'tutorial', 'units', 'utbs'
 ]

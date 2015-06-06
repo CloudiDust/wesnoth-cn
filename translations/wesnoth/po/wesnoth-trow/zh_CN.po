@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-01-23 17:35-0300\n"
-"PO-Revision-Date: 2015-02-07 13:12+0800\n"
+"POT-Creation-Date: 2015-06-05 21:33-0300\n"
+"PO-Revision-Date: 2015-06-06 15:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.7.4\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #. [scenario]: id=22_The_Rise_of_Wesnoth
@@ -3367,7 +3367,7 @@ msgid "I bet this wasn’t the welcome you were expecting."
 msgstr "我打赌这不是你所希望的欢迎！"
 
 #. [event]
-#. [side]: type=Elvish Shyde, id=Lady Dionli
+#. [side]: type=Autumn Shyde, id=Lady Dionli
 msgid "Lady Dionli"
 msgstr "戴安莉女士"
 
@@ -3488,9 +3488,9 @@ msgstr "这是我第二次和艾德睿克家的人说再见。至少这一次没
 msgid "The Ka’lian"
 msgstr "卡利安"
 
+#. [side]: type=Autumn Shyde, id=Lady Dionli
 #. [side]: type=Elvish Champion, id=Lord Logalmier
 #. [side]: type=Elvish Sharpshooter, id=Lord Aryad
-#. [side]: type=Elvish Shyde, id=Lady Dionli
 msgid "Elves"
 msgstr "精灵"
 
@@ -5541,33 +5541,9 @@ msgstr ""
 "着她的贵族血统，还有她在战场上获得的宝贵的经验，她可以与她的人民分享经验以使"
 "战斗朝有利的方向转变。"
 
-#. [unit_type]: id=Wose Sapling, race=wose
+#. [unit_type]: id=Wose Sapling
 msgid "Wose Sapling"
 msgstr "幼年树人"
-
-#. [unit_type]: id=Wose Sapling, race=wose
-msgid ""
-"Rarely seen, even by Elves, a Wose is an order of creature about which "
-"little is known. The Elves are the source of most of this knowledge; they "
-"know that these beings are not descended from trees, despite the similarity "
-"in form, and they know that a Wose is more closely tied to the faerie world "
-"than the Elves themselves, though in a different way. The motives and "
-"workings of their kind are unknown, though most posit the obvious idea that "
-"woses are wardens of the natural world.\n"
-"\n"
-"Woses are utterly unwarlike, but possess a great strength. They are, "
-"however, neither used to, nor quick at moving around."
-msgstr ""
-"树人是一类世人知之甚少的生灵，即使精灵们也很少见到他们。精灵是大部分关于树人"
-"的认知的源头:他们知道，这些生灵尽管有着树的外形，却不是由树而生的，并且他们知"
-"道树人比精灵更接近仙境，虽然具体方式不同。尽管大多数意见认为他们很显然是自然"
-"界的保护者，树人的动机和行动方式现在仍亦未可知。\n"
-"\n"
-"树人绝不好战，但拥有巨大的力量。然而，他们既不经常，也不快速在周围移动。"
-
-#. [attack]: type=impact
-msgid "crush"
-msgstr "压碎"
 
 #. [skirmisher]: id=distract
 msgid "distract"

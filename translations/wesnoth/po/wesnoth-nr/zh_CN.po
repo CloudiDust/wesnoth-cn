@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-01-23 17:35-0300\n"
-"PO-Revision-Date: 2015-02-07 13:11+0800\n"
+"POT-Creation-Date: 2015-06-05 21:33-0300\n"
+"PO-Revision-Date: 2015-06-06 15:32+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.7.4\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Northern Rebirth"
@@ -274,7 +274,6 @@ msgstr ""
 "着多年的观察、偷听和计划，他成功地从沃塔那里偷走了一些武器和少量的金币。他逃"
 "到了森林里一处被遗弃的废墟，在这里召集了跟随他的农民。"
 
-#. [part]
 #. [side]: type=Lieutenant, id=Tallin
 #. [side]: type=Peasant, id=Tallin
 msgid "Tallin"
@@ -570,7 +569,6 @@ msgstr "巨魔"
 msgid "Krog"
 msgstr "克洛格"
 
-#. [part]
 #. [side]: type=Dwarvish Lord, id=Hamel
 #. [unit]: type=Dwarvish Lord, id=Hamel
 msgid "Hamel"
@@ -987,20 +985,20 @@ msgid ""
 "by Tallin and the dwarves led by Lord Hamel made council."
 msgstr "在到达矮人营地后，人类的领袖泰林和矮人的领袖哈默尔领主开始商讨。"
 
-#. [part]
+#. [story]
 msgid ""
 "Be welcome to the Southern Tunnels, friends... or at least, what’s left o’ "
 "them."
 msgstr "朋友们......或者说，他们的后代，欢迎你们来到南部坑道。"
 
-#. [part]
+#. [story]
 msgid ""
 "Thank you, Lord Hamel. Though Knalga lies in chaos, it is a great relief to "
 "see that at least some dwarves have survived."
 msgstr ""
 "谢谢，哈默尔。纳尔迦仍陷在黑暗的深渊中，对于幸存的矮人来说这是个极大的伤痛。"
 
-#. [part]
+#. [story]
 msgid ""
 "Thank you, human. It is likewise a great relief to see that our allies of "
 "old have managed to break their bonds, and live as free men once again."
@@ -1008,7 +1006,7 @@ msgstr ""
 "是的，人类。这是整个古老联盟的伤痛，我们要打破他们的束缚。让人们再次获得自"
 "由。"
 
-#. [part]
+#. [story]
 msgid ""
 "Yes, that touches on the main reason for our visit. We have broken free, but "
 "to stay free we need better weapons and armor. Clubs and pitchforks will not "
@@ -1017,13 +1015,13 @@ msgstr ""
 "是的，这正是我此行的目的。我们自由了，但我们需要更好的武器和盔甲来保护来之不"
 "易的自由。棍子和耙子不能给我们太多的帮助了。"
 
-#. [part]
+#. [story]
 msgid ""
 "Dwarves are known to be the finest metalworkers and weapon-smiths. We were "
 "hoping that you would be able to help us."
 msgstr "矮人们是公认最好的冶炼工人和武器制造者。我希望你们能够帮助我们。"
 
-#. [part]
+#. [story]
 msgid ""
 "Aye, our craft is great... but we dinna’ ha’ much of weapons and armor "
 "ourselves. We’re but a remnant that survived the orcs’ in-taking of these "
@@ -1034,7 +1032,7 @@ msgstr ""
 "是兽人攻占这些洞穴时的幸存者罢了。也许还有别的幸存者吧，但就算有，我们也还没"
 "有见过。"
 
-#. [part]
+#. [story]
 msgid ""
 "If you don’t mind me asking, Lord Hamel, how exactly did you manage to "
 "survive the orcish invasion? And since it was the orcs who reduced Knalga to "
@@ -1045,7 +1043,7 @@ msgstr ""
 "兽人让纳尔迦陷入了今天的糟糕境地，那么现在他们到哪里去了？我所看到的，最近出"
 "没在这些洞穴里的大部分是巨魔和骷髅啊。"
 
-#. [part]
+#. [story]
 msgid ""
 "Oh, there are orcs enough down here, but ye’ll not likely see them; they "
 "hide from us like vermin. You see, lad, in these caves there is no more "
@@ -1064,7 +1062,7 @@ msgstr ""
 "图斯克之前，我们怎么能让他们成功呢。后来，虽然兽人还在用他们的恶臭来污染这些"
 "洞穴，但他们的进攻已经变得毫无组织纪律，更别说他们相互之间似乎也在争斗着。"
 
-#. [part]
+#. [story]
 msgid ""
 "In more recent years, however, I ha’ noticed that there have been fewer orcs "
 "and more skeletons around. The orcs seem to fear them and shy away from them "
@@ -1076,7 +1074,7 @@ msgstr ""
 "可能回避他们，不过兽人的巨魔盟友却不是这样。那些巨魔似乎非常乐意去把骷髅兵砸"
 "个粉碎，然后吸取骷髅骨头里残存的骨髓......"
 
-#. [part]
+#. [story]
 msgid ""
 "What is the story with those skeletons anyway? They look like they were "
 "dwarves when they lived, but now they just seem to be mindless killers, "
@@ -1085,7 +1083,7 @@ msgstr ""
 "这些骷髅兵是怎样一回事？看起来他们生前是矮人，但现在他们是毫无心智的杀手，攻"
 "击任何生物。"
 
-#. [part]
+#. [story]
 msgid ""
 "In truth, we ha’ no idea. They just started appearing one day some years "
 "after we were trapped here — by ones and twos in the beginning, and now by "
@@ -1100,7 +1098,7 @@ msgstr ""
 "他们的存在，因为我们遇见过更难对付的敌人。真正让人担忧的，是他们不断增长的数"
 "量......"
 
-#. [part]
+#. [story]
 msgid ""
 "Well, we are here with you now Lord Hamel, and in exchange for proper "
 "weapons, we will gladly assist you in clearing these caves of monsters."
@@ -1108,7 +1106,7 @@ msgstr ""
 "哈默尔领主，现在我们并肩作战，作为获取武器的交换，我们很乐意帮你清除洞穴里的"
 "这些怪物。"
 
-#. [part]
+#. [story]
 msgid ""
 "That is the problem lad, we ha’ been stranded in these tunnels for years "
 "now, almost completely cut off from sources of food or metals or tools. It "
@@ -1123,11 +1121,11 @@ msgstr ""
 "会有更多的食物。我们的仓库里有丰富的工具，以前有兽人和巨魔把守我们没法去拿，"
 "现在可以了。所以当前最紧缺的是金属。而为了熔炼，矿石是首先必须有的。"
 
-#. [part]
+#. [story]
 msgid "So, is there not any source of good ores nearby?"
 msgstr "那么，附近有好的矿场吗？"
 
-#. [part]
+#. [story]
 msgid ""
 "Aye, there is. A few miles north of here is the place where we mined many of "
 "our raw metals. However, that place also seems to be where all those "
@@ -1138,7 +1136,7 @@ msgstr ""
 "嗯，有的。北部数里外的地方有很多金属矿藏。但所有的骷髅兵好像都来自那里，我们"
 "全部力量也只够守住我们自己的阵地，到那里去是必死无疑。"
 
-#. [part]
+#. [story]
 msgid ""
 "With all respect, my Lord Hamel, we the people from Dwarven Doors have faced "
 "certain death many times now. Rising up against the orcs was said to be "
@@ -1150,7 +1148,7 @@ msgstr ""
 "死，义无反顾地进入地洞也是必死。如果命中注定我们要死，那就由它去吧。但只要还"
 "活着，我的人民就会继续战斗，我就会领导他们继续战斗！"
 
-#. [part]
+#. [story]
 msgid ""
 "Och, human though ye be, ye speak very like a dwarf, lad. Form up, men! To "
 "the mines! Let the guardsmen stay behind along with the noncombatants — for "
@@ -2989,11 +2987,11 @@ msgid ""
 "humans and dwarves once again met in council."
 msgstr "当泰林的部队休整好之后，人类和矮人再次开会商讨。"
 
-#. [part]
+#. [story]
 msgid "It is well, Hamel. Our people prosper."
 msgstr "不错，哈默尔。我们的人越来越多了。"
 
-#. [part]
+#. [story]
 msgid ""
 "Aye. Word ha’ spread, and dwarves who had been living rough in the wilds for "
 "fear of the orcs have been coming to join us. Thanks to you, Tallin, Knalga "
@@ -3002,13 +3000,13 @@ msgstr ""
 "是啊。消息已经传开，那些因为害怕兽人而在野区艰难生存的矮人们正赶来加入我们。"
 "谢谢你，泰林，纳尔迦正在恢复繁荣！"
 
-#. [part]
+#. [story]
 msgid ""
 "We have cleared the connecting tunnels to here and to the old keep as well "
 "as other parts o’ Knalga."
 msgstr "我们清理了到这里，和到旧要塞以及到纳尔迦其它地方的坑道。"
 
-#. [part]
+#. [story]
 msgid ""
 "It is slow and dangerous work, mostly due to the trolls. But it ha’ been "
 "made easier by Malifor’s ending."
@@ -3016,7 +3014,7 @@ msgstr ""
 "这是一项缓慢而艰险的工作，主要是因为巨魔的存在。不过随着莫利弗的倒台，事情还"
 "是变得容易了些。"
 
-#. [part]
+#. [story]
 msgid ""
 "The lich’s skeletons were fighting the trolls, but when you destroyed him, "
 "they all just fell apart. So, there are many tunnels that are now infested "
@@ -3025,17 +3023,17 @@ msgstr ""
 "以前巫妖的骷髅兵也攻击巨魔，但当你消灭他以后，他们就都散架了。所以，许多曾经"
 "被侵占的坑道里，现在只留下了一堆堆老骨头。"
 
-#. [part]
+#. [story]
 msgid "Great! How about the weapons and armor?"
 msgstr "太好了！武器和盔甲方面的情况怎样？"
 
-#. [part]
+#. [story]
 msgid ""
 "As you can see, Tallin, there are muckle heaps of them, all ready to be "
 "borne into battle."
 msgstr "泰林，如你所见，这有一堆一堆的，随时可以投入战斗。"
 
-#. [part]
+#. [story]
 msgid ""
 "What’s more, some of the dwarves who are expert with the sword, mace and "
 "bow, as well as some of yer own men who have grown skilled by experience, "
@@ -3044,14 +3042,14 @@ msgstr ""
 "另外，有些矮人是使用刀剑，棍棒和弓箭的专家，你的人里也有一部分因经验丰富而十"
 "分有技巧，他们可以教其他人如何使用这些武器。"
 
-#. [part]
+#. [story]
 msgid ""
 "I didn’t know that you dwarves knew swordplay. I thought you all fought with "
 "axes, hammers or those thunder weapons."
 msgstr ""
 "我不知道原来你们矮人也通晓剑术。我以为你们全都用斧子，锤子或着那些雷霆武器。"
 
-#. [part]
+#. [story]
 msgid ""
 "Aye, it’s true we do prefer our axes and hammers, but then again, we make "
 "swords. We couldna’ claim to be expert weaponsmiths wi’out kenning how to "
@@ -3060,7 +3058,7 @@ msgstr ""
 "是的，我们确实更喜欢斧子和锤子，但我们也制作刀剑。如果我们连自己造的武器都不"
 "知道怎么用，我们又怎么敢自称专业的武器制造商呢。"
 
-#. [part]
+#. [story]
 msgid ""
 "There are some dwarves out there that are bonny fighters wi’ a sword as any "
 "ye are like to meet. Belike with bows, maces and any other weapons we "
@@ -3069,7 +3067,7 @@ msgstr ""
 "那边的几个矮人就是用剑的好手，你们要不要见识一下。我希望你喜欢我们造的箭，棍"
 "棒和其它武器。"
 
-#. [part]
+#. [story]
 msgid ""
 "That’s great! What is the price of your weapons? We have gathered much booty "
 "from Malifor’s treasury and we will be able to pay you generously."
@@ -3077,7 +3075,7 @@ msgstr ""
 "太好了！你的这些武器怎么卖？我们从莫利弗的金库里抢回了很多战利品，我们可以花"
 "大价钱跟你买。"
 
-#. [part]
+#. [story]
 msgid ""
 "Price?! Don’t insult us, Tallin. Ye have done great things to help the "
 "dwarves — it’s because of you that we ha’ made a start rebuilding Knalga in "
@@ -3086,11 +3084,11 @@ msgstr ""
 "价钱？！这是对我们的侮辱，泰林。你们做了伟大的事情来帮助矮人，因为你，我们才"
 "能在原地开始纳尔迦的重建。别再和我们谈价钱的事了。"
 
-#. [part]
+#. [story]
 msgid "But don’t you need the gold to help rebuild Knalga? And we have plenty."
 msgstr "难道你们不需要金币来重建纳尔迦吗？我们有很多金币呢。"
 
-#. [part]
+#. [story]
 msgid ""
 "Tallin, Knalga was an extremely rich nation. Malifor’s treasury is hardly a "
 "fraction of the riches that we will find, and are finding every day now. So "
@@ -3100,15 +3098,15 @@ msgstr ""
 "到更多，和那些比起来，莫利弗的宝库只不过是九牛一毛罢了。所以我们不用！而且你"
 "重建矮人之门的时候也要用到那些金币的。"
 
-#. [part]
+#. [story]
 msgid "Thank you, Hamel."
 msgstr "谢谢，哈默尔。"
 
-#. [part]
+#. [story]
 msgid "Pahhh, thank <i>you</i>!"
 msgstr "呸呸呸，应该是谢谢<b>你</b>才对！"
 
-#. [part]
+#. [story]
 msgid ""
 "And Tallin, one more thing, I have been leading our people into battle for "
 "many years now. As a young dwarf I was trained in the arts of leadership and "
@@ -3117,7 +3115,7 @@ msgstr ""
 "泰林，还有一件事，我领导我的人民征战多年。年轻的时候，我接受过领导和战争方面"
 "的训练。有些事我想让你知道......"
 
-#. [part]
+#. [story]
 msgid ""
 "I know you’re impressive wi’ a pitchfork, and you are not half bad with a "
 "sword when you choose to use one. But there skills beyond swingin’ a weapon "
@@ -3126,11 +3124,11 @@ msgstr ""
 "我知道你用草叉很厉害，如果你要用剑，应该也很强。不过，作为一个将军，除了挥动"
 "武器以外，还有更多东西要学。"
 
-#. [part]
+#. [story]
 msgid "I would be honored, Lord Hamel."
 msgstr "十分乐意接受，哈默尔。"
 
-#. [part]
+#. [story]
 msgid ""
 "Ahhhh, quit with the formality, me lad. Now, first things first. One of the "
 "most important things about being a leader is...."
@@ -3571,11 +3569,15 @@ msgstr "兽人发动了一波又一波的疯狂进攻，不过在矮人的防御
 msgid "As the battle raged on, Tallin again made council with Hamel."
 msgstr "随着战事的发展，泰林和哈默尔再次开会商讨。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "How did ye fare?"
 msgstr "现在进展如何？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "It was fierce and bloody. We fought them for three days and nights with no "
 "end in sight. Every time we killed an orc, it seemed that two more would "
@@ -3584,7 +3586,9 @@ msgstr ""
 "这太血腥，太残酷了。我们抵抗了三天三夜，但情况并无好转。每次我们杀死一个兽"
 "人，就会有两个或更多的兽人涌上来。如果情况还是如此，此战我们必输无疑。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "So you withdrew. Rightly done, me lad. Our prepared defenses will be able to "
 "hold the orcs off far longer and with less loss than ye could ha’ done in "
@@ -3593,7 +3597,9 @@ msgstr ""
 "所以你撤退了。这是正确的，我的好小伙子。我们准备好的防线可以拖住兽人很久，并"
 "且和在开阔地作战相比，我们的损失会更小。看来我对你的训练还是有效果的。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "And I am grateful — but what should we do from here? The number of humans "
 "and dwarves is limited, unlike the orcs whose numbers seem unlimited."
@@ -3601,13 +3607,17 @@ msgstr ""
 "谢谢你。但我们在这里能做什么？我们人类和矮人的数量是有限的，而兽人的数量好象"
 "是无穷的。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Aye. But we must utterly crush this orcish host if we are to ha’ anything "
 "other than a brief respite."
 msgstr "是的。但我们必须完全摧毁这个兽人集团，否则我们只能获得片刻的安宁。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Orcs are fickle; if we negotiated a treaty with them — assuming they would "
 "accept — it would just be broken as soon as the next warlord arose among "
@@ -3616,14 +3626,16 @@ msgstr ""
 "兽人是善变的。如果我们提出一份和约，就算他们接受了，等他们的另一个军阀产生以"
 "后，和约也还是会被撕毁的。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Then what shall we do? Can we assassinate this Rakshas fellow and throw them "
 "into disarray once more?"
 msgstr ""
 "那我们该怎么办？我们能不能刺杀这个叫拉克夏斯的家伙，然后让他们再次陷入混乱？"
 
-#. [part]
+#. [story]
 #. "coil" meant, in Middle and Early Modern English, a difficulty
 #. or problem.
 msgid ""
@@ -3635,11 +3647,15 @@ msgstr ""
 "这很难办到。我们以前这样做过，现在他们肯定已经加强了戒备。况且，这也只能解一"
 "时之困。另一个强势的头领很快又会被选出来，到时候我们又会陷入同样的困境。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "Well, back to the drawing board. What should we do?"
 msgstr "好吧，回到开始的讨论，我们现在该做什么？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "I think we should try to gather more allies. That way we can engage them on "
 "many fronts, or divide them into smaller groups, or cut them off from their "
@@ -3648,12 +3664,16 @@ msgstr ""
 "我想我们可以试着结交更多盟友。那样我们就可以把他们包围起来，分割他们的力量，"
 "阻断他们的后援。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Wise words, but who is there in these wild Northlands that might aid us?"
 msgstr "好建议，但是在这茫茫北国谁可以助我们一臂之力？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "You can count the Elves out. They are a selfish lot, only interested in "
 "themselves. They would only aid us if something drastic happened to them and "
@@ -3662,13 +3682,17 @@ msgstr ""
 "先把精灵排除了。他们很自私，只关心自己。如果要让他们帮助我们除非他们也需要我"
 "们的帮助。请求韦诺帮助怎样？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Wesnoth is too far away, and we have no idea what political state they are "
 "in."
 msgstr "韦诺国离我们太远了，我们也不知道那里现在的政治情况。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "The last news we heard of them was years ago when Prince Konrad passed "
 "through here. At that time the evil queen Asheviere was ruling, and it was "
@@ -3677,13 +3701,17 @@ msgstr ""
 "我们所知道的关于他们的最近的消息还是多年前科纳德王子通过这里的时候。那时候正"
 "是邪恶的艾斯威勒王后的统治时期，有消息说她和兽人结盟了。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "And then that Princess Li’sar was in hot pursuit of Konrad as well. I wonder "
 "what became of them."
 msgstr "那时莉莎公主也正在紧紧地追捕着科纳德。我不知道他们后来怎么样了。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "The last time any dwarf set eyes on Konrad was when he set out to the "
 "eastern tunnels in search of the Sceptre of Fire, so he could claim his "
@@ -3692,19 +3720,25 @@ msgstr ""
 "矮人最后一次见到科纳德，还是在他前往东部的隧道寻找圣火权杖的时候，他想凭着那"
 "个来证明自己王者的地位。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Geez, what a fool’s quest. Everyone in these Northlands knows that the "
 "Sceptre is long gone."
 msgstr ""
 "天哪，真是个不靠谱的想法。每个北方大地上的人都知道，权杖已经丢失很久了。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "But we’re meandering. Where can we find allies in these wild Northlands?"
 msgstr "我们真是不走运啊。在这北方的蛮荒之地，我们到哪里去找盟友啊？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Tallin, before I was captured by Malifor, I used to be in contact with a "
 "powerful magician called Ro’Arthian and his brother Ro’Sothian."
@@ -3712,15 +3746,21 @@ msgstr ""
 "泰林，我被莫利弗抓住之前，曾和一个强大的法师若·艾瑟恩以及他的弟弟若·索瑟恩有"
 "来往。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "Ro’Arthian, bah! Don’t utter that cursed name!"
 msgstr "若·艾瑟恩，呸！别提这个可恶的名字！"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "Why not, Hamel, have you a grievance with him?"
 msgstr "怎么了，哈默尔，为何对他如此不满？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "I have heard all about him from my good friend Stalrag. He is — or was "
 "anyway, haven’t heard from him in years — the chief o’ the villages that lay "
@@ -3729,11 +3769,15 @@ msgstr ""
 "我已经从我的好朋友斯托莱格那里听说了他的事情。我的朋友是——或者曾经是，因为我"
 "已经多年没有他的消息了——高溪谷一带村子的首领。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "Those foul mages have long terrorized Stalrag and his people."
 msgstr "那些可恶的法师长期恐吓威胁斯托莱格和他的子民。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Remember, Hamel, there are often two sides to a story like this. Perhaps the "
 "mages see your dwarves as invaders. How would you feel if say... the elves "
@@ -3743,35 +3787,49 @@ msgstr ""
 "记住，哈默尔，这类事情要站在双方立场来看。或许法师把你们矮人当成了入侵者。如"
 "果精灵决定来把纳尔迦推平，在上面种植另一片大森林，你会怎么想呢？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "Those filthy elves! I’ll..."
 msgstr "那些丑恶的精灵！我会......"
 
 #. [message]: speaker=Sister Thera
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "See?"
 msgstr "你明白了吗？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "What were you doing keeping contact with mages such as those anyway? Trying "
 "to save their souls?"
 msgstr "你们为什么要和那些法师来往？拯救他们的灵魂？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "(<i>Giggle</i>) Something like that."
 msgstr "（<b>咯咯笑</b>）差不多吧。"
 
 #. [message]: speaker=Tallin
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "(<i>Rolls eyes</i>)"
 msgstr "（<b>转眼珠</b>）"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "Father Morvin, what are you trying to say?"
 msgstr "莫文神父，你有什么想说的吗？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "I propose that we go to Highbrook Pass and see how matters stand for "
 "ourselves. If the wizards are still alive, we might be able to persuade them "
@@ -3781,11 +3839,15 @@ msgstr ""
 "我建议去高溪谷，看看到底情况如何。如果法师还活着，我们可以劝说他们帮助我们。"
 "当然，如果斯托莱格还在，我们也可以请他帮忙。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "I don’t see how just two mages could help us very much, Father."
 msgstr "神父，我不明白，区区两个法师能帮到我们什么。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "They are not just any two mages. They have fine control over many creatures "
 "of the wild such as ogres, gryphons, and sometimes even trolls! It would be "
@@ -3794,11 +3856,15 @@ msgstr ""
 "他们并不是仅仅两个人。他们控制着很多野性的生物，像食人魔、狮鹫兽甚至还有巨"
 "魔！让他们加入我们的队伍也不是坏事。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "That sounds really good. What do you think, Hamel?"
 msgstr "听起来不错。你怎么想，哈默尔？"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Hrmph. These are desperate times. If those lunatics of mages will agree to "
 "help, I guess we’ll nae have any other choice but to accept."
@@ -3806,7 +3872,9 @@ msgstr ""
 "唉，现在是生死存亡的关头。如果那些发疯的法师愿意帮助我们，我们也别无选择，只"
 "能接受了。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Hey, we have had experiences with crazy mages ourselves. Believe me, they "
 "are dangerous! You will feel a lot better with some of them on your side."
@@ -3814,7 +3882,9 @@ msgstr ""
 "嘿，我们已经有了和疯狂的法师相处的经验。相信我，他们真的很危险！如果他们和你"
 "是一伙的，你会觉得很不错。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid ""
 "Ye’ll need to travel light to reach Highbrook Pass before the orcs mount "
 "another assault in force. I think ye should take as little gold as you think "
@@ -3825,7 +3895,9 @@ msgstr ""
 "够用的金币，把剩下的都留在这儿。我们会把金子存在隧道最深处，以防兽人突破防"
 "线。"
 
-#. [part]
+#. [story]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 msgid "So it shall be. Now how exactly do we get to this mountain pass?"
 msgstr "就这样吧。我们具体该怎样到达那个山口？"
 
@@ -4581,7 +4653,7 @@ msgstr ""
 msgid "I think we have a chance to make some new allies here..."
 msgstr "我想我们现在有一个结交新盟友的机会了......"
 
-#. [part]
+#. [story]
 msgid ""
 "Allies? I take it we’re to go to them and ask them to join us in return for "
 "our help in rescuing their Princess? You heard their message — those elves "
@@ -4592,17 +4664,17 @@ msgstr ""
 "也知道他们之前是怎么回复我们的了，那些精灵的鼻子都翘到天上去了，他们根本看不"
 "上咱们。他们不会和像我们这样的人结盟的。"
 
-#. [part]
+#. [story]
 msgid ""
 "Of course we won’t do that. As a matter of fact I think it’s best that we "
 "don’t say anything to the elves at all."
 msgstr "我们当然不要那么做。其实，我觉得我们最好什么也别对精灵说。"
 
-#. [part]
+#. [story]
 msgid "Why d’ye say that?"
 msgstr "这话从何说起？"
 
-#. [part]
+#. [story]
 msgid ""
 "Well, suppose we do join up with the elves — assuming they will let us — and "
 "we make a combined raid on the fortress, what will the orcs most likely do "
@@ -4611,13 +4683,13 @@ msgstr ""
 "你看，假设我们和精灵结盟了——假设他们已经答应我们了——然后我们对那要塞搞了一次"
 "联合突袭，如果兽人快要装进口袋的赎金溜走了，他们最可能会怎么做？"
 
-#. [part]
+#. [story]
 msgid ""
 "Kenning the way of orcs, belike they’d kill the princess, especially if it "
 "seems the rescue ha’ any chance of succeeding."
 msgstr "按照兽人的行事，他们最可能会杀死公主，尤其是在营救有可能成功的情况下。"
 
-#. [part]
+#. [story]
 msgid ""
 "Exactly. On the other hand, if we raided the fortress while the orcs were "
 "talking ransom with the elves, the orcs might hesitate just long enough."
@@ -4625,7 +4697,7 @@ msgstr ""
 "很好。另一方面，如果我们在兽人与精灵讨价还价的时候发动突袭，兽人可能会措手不"
 "及。"
 
-#. [part]
+#. [story]
 msgid ""
 "Hmmm... I think you’ve the right of it, lad. Most orcs being thicker than a "
 "wood-knot, I’d lay odds on Rakshas giving strict orders that she not be "
@@ -4634,7 +4706,7 @@ msgstr ""
 "嗯......你是对的，小伙子。大多数兽人比木疙瘩还要呆，我敢打赌拉克夏斯严格下令"
 "没有他的直接命令任何人都不能碰她。"
 
-#. [part]
+#. [story]
 msgid ""
 "But it would be unwise to trust that the orcs will stay stupid forever. If "
 "we do go ahead with this raid, we are going to have to be in and out like "
@@ -4642,7 +4714,7 @@ msgid ""
 msgstr ""
 "但是，我们不能过分依赖兽人的愚蠢。如果突袭中我们打头阵，我们必须来个闪电战。"
 
-#. [part]
+#. [story]
 msgid ""
 "My Shinsplitters will be invaluable for a job like this. They are fierce and "
 "never give ground and will not stop attacking until either they or their "
@@ -4651,14 +4723,14 @@ msgstr ""
 "我们的敢死队正合适。他们非常凶残，在他们或对手倒下之前，他们不会停止攻击。他"
 "们攻无不克。"
 
-#. [part]
+#. [story]
 msgid ""
 "Ha ha, I like this plan. Once we get our hands on this little sorceress the "
 "elves will be forced to do whatever we want them to."
 msgstr ""
 "哈哈，我喜欢这个计划。当我们把这个公主掌握在自己手里时，精灵就不得不低头。"
 
-#. [part]
+#. [story]
 msgid ""
 "Remember, Ro’Arthian, we need willing allies rather than resentful lackeys "
 "that would turn on us at the first reverse. If we rescue their princess, the "
@@ -4668,7 +4740,7 @@ msgstr ""
 "愤恨的奴隶。如果我们救出了公主，但精灵还是仍不肯合作，那我们也没办法，不过这"
 "还是值得一试的。"
 
-#. [part]
+#. [story]
 msgid ""
 "Elves are deeply honor-bound, especially in matters that touch their kin. If "
 "we rescue the princess, I am certain the deed will not go without reward."
@@ -4676,17 +4748,17 @@ msgstr ""
 "精灵是知恩图报的，尤其是这事涉及到他们的族人。如果我们营救了他们的公主，我肯"
 "定这个行动会收到回报的。"
 
-#. [part]
+#. [story]
 msgid ""
 "And at the very least, the orcs will not be able to raise troops with ransom "
 "money they don’t have."
 msgstr "至少，我们能让兽人拿不到那笔赎金，这样他们就不能用这钱征募军队了。"
 
-#. [part]
+#. [story]
 msgid "Bah... weak, soft humans. Have it your way if you must."
 msgstr "呸......软弱的人类。如果你坚持的话，那就按你说的办吧。"
 
-#. [part]
+#. [story]
 msgid ""
 "So it shall be, Tallin, I’ll hold the caves here while you and Stalrag’s "
 "Shinsplitters fare to Bitterhold. The orcs still haven’t given up their "
@@ -4695,7 +4767,7 @@ msgstr ""
 "就这样吧，泰林，你和斯托莱格的敢死队赶往苦门关，我留在洞穴里驻守，兽人仍然没"
 "有停止对我们南部坑道的入侵。"
 
-#. [part]
+#. [story]
 msgid "Then to arms, men! For Knalga and the princess!"
 msgstr "拿起武器！为了纳尔迦和公主！"
 
@@ -5925,34 +5997,34 @@ msgid ""
 "meet his eyes."
 msgstr "泰林非常担心，他火速找到了哈默尔，不过他不敢直视泰林的眼睛。"
 
-#. [part]
+#. [story]
 msgid "Hamel, what is wrong?! Why is everyone acting so strangely?"
 msgstr "哈默尔，怎么了？！为什么每个人看起来都怪怪的？"
 
-#. [part]
+#. [story]
 msgid ""
 "We are deeply ashamed of ourselves, Tallin. We ha’ failed the trust that ye "
 "gave us."
 msgstr "我们感到很惭愧，泰林。我们辜负了你的信任。"
 
-#. [part]
+#. [story]
 msgid "What do you mean?"
 msgstr "什么意思？"
 
-#. [part]
+#. [story]
 msgid "Yer gold, Tallin, we ha’ failed to protect it."
 msgstr "那些金币，泰林，我们没能保护好。"
 
-#. [part]
+#. [story]
 msgid "My gold!? Why, what happened? Start from the beginning."
 msgstr "我的金币！？发生了什么事？从头说起。"
 
-#. [part]
+#. [story]
 msgid ""
 "No sooner had ye left then the orcs once again launched a massive assault."
 msgstr "在你走后没多久，兽人就发动了一场大规模的突袭。"
 
-#. [part]
+#. [story]
 msgid ""
 "Such a massive and fierce assault it was that we had to call upon all our "
 "reserves. When that proved insufficient, we had nae other choice then to "
@@ -5961,7 +6033,7 @@ msgstr ""
 "那个突袭太激烈了，我们只能选择派出全部兵力防守。但后来我们发现人手还是不足，"
 "所以只能放弃一些防御工事。"
 
-#. [part]
+#. [story]
 msgid ""
 "It was a ploy. Nae sooner ha’ we thinned the ranks of the northern defenders "
 "then a small, hardened group of trolls smashed through the defenses and made "
@@ -5970,30 +6042,30 @@ msgstr ""
 "那是个调虎离山计。就在我们北边的防线变得薄弱的时候，一小群巨魔精兵突破了防"
 "线，直奔你的金币而去。"
 
-#. [part]
+#. [story]
 msgid ""
 "We beat them back, but not before they made off with your entire stock of "
 "gold."
 msgstr "当我们把他们击退，所有积攒起来的金币都被劫走了。"
 
-#. [part]
+#. [story]
 msgid ""
 "I am sorry, Tallin, we did all that we could. I would we could ha’ done more."
 msgstr "对不起，泰林，我们尽了最大的努力。我们做了所有我们能做的。"
 
-#. [part]
+#. [story]
 msgid "Oh no! Rakshas will raise many troops with that gold!"
 msgstr "噢，不！拉克夏斯会用那些金币扩充军力！"
 
-#. [part]
+#. [story]
 msgid "Aye. Well I ken it, Tallin."
 msgstr "呃。这我知道，泰林。"
 
-#. [part]
+#. [then]
 msgid "Were you able to pursue them?"
 msgstr "为什么不去追他们？"
 
-#. [part]
+#. [then]
 msgid ""
 "Och, we tried, Tallin, but with the orcs still pressing our southern "
 "defenses and other groups of trolls trying to break through everywhere, we "
@@ -6002,43 +6074,46 @@ msgstr ""
 "呀，我们试过了，泰林，但是兽人仍然对我们的南部防线进攻，其他巨魔则试图从各处"
 "突破，我们实在抽不出人手来。"
 
-#. [part]
+#. [else]
+#. [then]
 msgid "How long ago did the trolls make off with the gold?"
 msgstr "巨魔劫走金币多久了？"
 
-#. [part]
+#. [then]
 msgid "It couldna’ been more than a day now."
 msgstr "不到一天。"
 
-#. [part]
+#. [then]
 msgid ""
 "Then we shall pursue them. Even if we don’t catch them, we might be able to "
 "hit Rakshas before he has had a chance to put all that gold to good use."
 msgstr ""
 "我们去追吧。如果我们追不上他们，我们就进攻拉克夏斯，让他来不及用掉这些金币。"
 
-#. [part]
+#. [else]
+#. [then]
 msgid ""
 "Hamel, rally the dwarves and prepare to mount an all-out offensive against "
 "the orcs. It’s time to give them some of their own."
 msgstr "哈默尔，集合矮人，准备对兽人展开全力进攻。让我们给他们一点教训。"
 
-#. [part]
+#. [else]
+#. [then]
 msgid ""
 "We will follow the trail of the trolls; it should lead us back to Rakshas."
 msgstr "我们要沿着巨魔的脚印走，他会带我们找到拉克夏斯。"
 
-#. [part]
+#. [then]
 msgid "Eryssa, what news of the elves?"
 msgstr "伊蕊莎，精灵那边有什么消息吗？"
 
-#. [part]
+#. [then]
 msgid ""
 "Our gryphons have reached them. They are no more than a few days march from "
 "us."
 msgstr "狮鹫已经找到了精灵的军队，他们不出几日就可以赶到这里了。"
 
-#. [part]
+#. [then]
 msgid ""
 "I will send another message to them asking them to send out scouts to locate "
 "the trolls who took your gold. Mayhap the elves will be able to get between "
@@ -6047,7 +6122,7 @@ msgstr ""
 "我会再发出命令，让他们派出侦察兵搜索偷走你们金币的巨魔。说不定精灵可以在巨魔"
 "接触他们的盟友之前截住他们。"
 
-#. [part]
+#. [then]
 msgid ""
 "So it shall be. Hamel, when I make contact with the orcs I’ll send you a "
 "message. When you get it, come at all speed. It is near time for the battle "
@@ -6056,11 +6131,123 @@ msgstr ""
 "就这么做吧。哈默尔，当我遇到兽人时我会传信给你。你得到消息后，马上来接应我"
 "们。打一场决定性战役的时候到了。"
 
-#. [part]
+#. [then]
 msgid "The axes and hammers o’ every dwarf thirst for the blood of the orcs!"
 msgstr "每个矮人的斧子和铁锤都渴望着兽人的鲜血！"
 
-#. [part]
+#. [else]
+msgid ""
+"This isn’t looking good. Not only do we fail to get the princess but now we "
+"lost all of our gold! Seriously Hamel, I don’t know if we’re gonna make it."
+msgstr ""
+"事情不太妙啊。我们不仅没有争取到公主，还弄丢了所有黄金！说真的，哈默尔，我都"
+"不知道该怎么办了。"
+
+#. [else]
+msgid ""
+"Don’t give in to despair, Tallin. At least you prevented the orcs from "
+"getting the ransom money."
+msgstr "不要失望，泰林。起码你让兽人拿不到赎金了。"
+
+#. [else]
+msgid "Yeah, they ran off with all the rest of our gold instead."
+msgstr "是啊，然后他们带着我们的黄金逃走了。"
+
+#. [else]
+msgid ""
+"Snap out of it Tallin! We are not in control of fate. We will do all we can "
+"to the best of our ability and leave the results to the gods."
+msgstr "行了，泰林！我们无法掌控命运。我们尽了全力，结果就看天意了。"
+
+#. [else]
+msgid "You’re right, Hamel, sorry. Were you able to pursue the trolls?"
+msgstr "你说得对，哈默尔，抱歉。你们去追巨魔了吗？"
+
+#. [else]
+#. [then]
+msgid ""
+"We tried, Tallin, but with the orcs still pressing our southern defenses and "
+"other groups of trolls trying to break through everywhere, we simply didna’ "
+"ha’ the manpower."
+msgstr ""
+"我们试过了，泰林，但是兽人仍在对我们的南部防线展开进攻，而其他巨魔也试图从各"
+"处突破。我们实在没有多余的人手了。"
+
+#. [else]
+#. [then]
+msgid "It couldna’ ha’ been more than a day now."
+msgstr "我想还不到一天时间。"
+
+#. [else]
+#. [then]
+msgid ""
+"Then we shall pursue them. Even if we don’t catch them then we might be able "
+"to hit Rakshas before he has had a chance to put all that gold to good use."
+msgstr ""
+"我们去追吧。如果我们追不上他们，我们就进攻拉克夏斯，让他来不及用掉这些金币。"
+
+#. [else]
+msgid "It is well thought. May the Bright Gods be with you."
+msgstr "好计划，愿英明的神与你同在。"
+
+#. [then]
+msgid ""
+"See, you wretched human! At least now you will appreciate the generosity of "
+"the elves."
+msgstr "看吧，可怜的人类！现在你们应该感谢精灵的慷慨了吧。"
+
+#. [then]
+msgid ""
+"Shut up, you little snot! If it wasn’t for you we wouldn’t have lost our "
+"gold in the first place!"
+msgstr "闭嘴，你这个讨厌的小鬼！如果不是为了你，我们的黄金怎么会丢！"
+
+#. [then]
+msgid "I wasn’t talking to you, lich! Learn to keep your mouth shut."
+msgstr "我没跟你说话，巫妖！你给我闭上嘴巴。"
+
+#. [then]
+msgid "Who is this annoying chit?"
+msgstr "这讨厌的小孩是谁？"
+
+#. [then]
+msgid ""
+"This is the famous and benevolent princess Eryssa, in whose rescue we "
+"sacrificed many lives and <i>much</i> gold."
+msgstr ""
+"这就是著名的仁慈的伊蕊莎公主，为了救她我们牺牲了很多伙伴，还有<b>大量的</b>金"
+"币。"
+
+#. [then]
+msgid ""
+"That’s it! I have had enough from you worthless rabble. I will soon send a "
+"rider with the promised gold, and in the meantime, I’m leaving!"
+msgstr ""
+"是又怎么样！我受够了你们这些卑微的乌合之众。等会儿我会派个骑兵送来应许的黄"
+"金，现在，我要走了！"
+
+#. [then]
+msgid "Begone and good riddance, brat!"
+msgstr "滚开，闪边去，小鬼！"
+
+#. [then]
+msgid ""
+"Back to the issue of the stolen gold, were you able to pursue the trolls?"
+msgstr "回到黄金问题，你们有能力追巨魔吗？"
+
+#. [then]
+msgid ""
+"Hamel, rally the dwarves and prepare to make an all-out offensive against "
+"the orcs. It’s time to give them some of their own."
+msgstr "哈默尔，集合矮人，准备对兽人展开全力进攻。让我们给他们一点教训。"
+
+#. [then]
+msgid ""
+"It is well thought. The axes and hammers of every dwarf thirst for the blood "
+"of the orcs!"
+msgstr "那很好。每个矮人的斧子和铁锤都等着兽人的血来祭祀！"
+
+#. [story]
 msgid "All right, let’s move out, people!"
 msgstr "好的，伙计们，出发！"
 
@@ -6081,132 +6268,6 @@ msgid ""
 msgstr ""
 "不久以后，他们发现巨魔的足迹指向了东边，后来又转向南面。几小时后，他们走出了"
 "坑道，出现在黎明的第一缕光线中。"
-
-#. [part]
-msgid ""
-"This isn’t looking good. Not only do we fail to get the princess but now we "
-"lost all of our gold! Seriously Hamel, I don’t know if we’re gonna make it."
-msgstr ""
-"事情不太妙啊。我们不仅没有争取到公主，还弄丢了所有黄金！说真的，哈默尔，我都"
-"不知道该怎么办了。"
-
-#. [part]
-msgid ""
-"Don’t give in to despair, Tallin. At least you prevented the orcs from "
-"getting the ransom money."
-msgstr "不要失望，泰林。起码你让兽人拿不到赎金了。"
-
-#. [part]
-msgid "Yeah, they ran off with all the rest of our gold instead."
-msgstr "是啊，然后他们带着我们的黄金逃走了。"
-
-#. [part]
-msgid ""
-"Snap out of it Tallin! We are not in control of fate. We will do all we can "
-"to the best of our ability and leave the results to the gods."
-msgstr "行了，泰林！我们无法掌控命运。我们尽了全力，结果就看天意了。"
-
-#. [part]
-msgid "You’re right, Hamel, sorry. Were you able to pursue the trolls?"
-msgstr "你说得对，哈默尔，抱歉。你们去追巨魔了吗？"
-
-#. [part]
-msgid ""
-"We tried, Tallin, but with the orcs still pressing our southern defenses and "
-"other groups of trolls trying to break through everywhere, we simply didna’ "
-"ha’ the manpower."
-msgstr ""
-"我们试过了，泰林，但是兽人仍在对我们的南部防线展开进攻，而其他巨魔也试图从各"
-"处突破。我们实在没有多余的人手了。"
-
-#. [part]
-msgid "It couldna’ ha’ been more than a day now."
-msgstr "我想还不到一天时间。"
-
-#. [part]
-msgid ""
-"Then we shall pursue them. Even if we don’t catch them then we might be able "
-"to hit Rakshas before he has had a chance to put all that gold to good use."
-msgstr ""
-"我们去追吧。如果我们追不上他们，我们就进攻拉克夏斯，让他来不及用掉这些金币。"
-
-#. [part]
-msgid "We will follow the trail of the trolls; that should lead us to Rakshas."
-msgstr "沿着巨魔的脚印走，会带我们找到拉克夏斯。"
-
-#. [part]
-msgid "It is well thought. May the Bright Gods be with you."
-msgstr "好计划，愿英明的神与你同在。"
-
-#. [part]
-msgid "All right people, let’s move out!"
-msgstr "好的，伙计们，我们出发！"
-
-#. [part]
-msgid ""
-"See, you wretched human! At least now you will appreciate the generosity of "
-"the elves."
-msgstr "看吧，可怜的人类！现在你们应该感谢精灵的慷慨了吧。"
-
-#. [part]
-msgid ""
-"Shut up, you little snot! If it wasn’t for you we wouldn’t have lost our "
-"gold in the first place!"
-msgstr "闭嘴，你这个讨厌的小鬼！如果不是为了你，我们的黄金怎么会丢！"
-
-#. [part]
-msgid "I wasn’t talking to you, lich! Learn to keep your mouth shut."
-msgstr "我没跟你说话，巫妖！你给我闭上嘴巴。"
-
-#. [part]
-msgid "Who is this annoying chit?"
-msgstr "这讨厌的小孩是谁？"
-
-#. [part]
-msgid ""
-"This is the famous and benevolent princess Eryssa, in whose rescue we "
-"sacrificed many lives and <i>much</i> gold."
-msgstr ""
-"这就是著名的仁慈的伊蕊莎公主，为了救她我们牺牲了很多伙伴，还有<b>大量的</b>金"
-"币。"
-
-#. [part]
-msgid ""
-"That’s it! I have had enough from you worthless rabble. I will soon send a "
-"rider with the promised gold, and in the meantime, I’m leaving!"
-msgstr ""
-"是又怎么样！我受够了你们这些卑微的乌合之众。等会儿我会派个骑兵送来应许的黄"
-"金，现在，我要走了！"
-
-#. [part]
-msgid "Begone and good riddance, brat!"
-msgstr "滚开，闪边去，小鬼！"
-
-#. [part]
-msgid ""
-"Back to the issue of the stolen gold, were you able to pursue the trolls?"
-msgstr "回到黄金问题，你们有能力追巨魔吗？"
-
-#. [part]
-msgid ""
-"Hamel, rally the dwarves and prepare to make an all-out offensive against "
-"the orcs. It’s time to give them some of their own."
-msgstr "哈默尔，集合矮人，准备对兽人展开全力进攻。让我们给他们一点教训。"
-
-#. [part]
-msgid ""
-"We will follow the trail of the trolls, which, lead us back to Rakshas..."
-msgstr "沿着巨魔的脚印走，会带我们找到拉克夏斯。"
-
-#. [part]
-msgid ""
-"It is well thought. The axes and hammers of every dwarf thirst for the blood "
-"of the orcs!"
-msgstr "那很好。每个矮人的斧子和铁锤都等着兽人的血来祭祀！"
-
-#. [part]
-msgid "All right, let’s move out people!"
-msgstr "好的，伙计们，我们出发！"
 
 #. [side]: type=Troll Warrior, id=Tor
 msgid "Tor"
@@ -6880,7 +6941,7 @@ msgstr ""
 "伊蕊莎泪流满面，扑向倒下的英雄，扶起他的头枕在自己的膝上。伊蕊莎抚摸他的脸的"
 "时候，他的眼睛慢慢睁开了。"
 
-#. [part]
+#. [story]
 msgid ""
 "I am sorry, princess... We held him for... as long as we could... but his "
 "bodyguards... were... just too many and powerful... And then... the "
@@ -6898,11 +6959,11 @@ msgstr ""
 "伊蕊莎满脸泪痕，祈求地望着莫文神父和席拉修女。他们轻轻地叹口气，摇了摇头。太"
 "晚了，来不及救海达尔了。伊蕊莎哭着对他说："
 
-#. [part]
+#. [story]
 msgid "Hidel, I am sorry. I have sent you to your death, and I grieve."
 msgstr "海达尔，对不起，是我害死你的，我真对不起。"
 
-#. [part]
+#. [story]
 msgid ""
 "... Don’t tax yourself... princess... I have died... a warrior’s death... "
 "You should be proud..."
@@ -6910,7 +6971,7 @@ msgstr ""
 "......别责备自己......公主......作为一个武士......我死得其所......你该为我感"
 "到骄傲......"
 
-#. [part]
+#. [story]
 msgid ""
 "... But... there is... one thing... we... could do. We... managed to... "
 "recover the gold... Sisal... took it and... retreated south..."
@@ -6918,7 +6979,7 @@ msgstr ""
 "......但是......有件事......我们做到了。我们......夺回了......金币。塞"
 "索......带着它......撤到......南部去了......"
 
-#. [part]
+#. [story]
 msgid ""
 "I held out as... long as... I could... but they... defeated us... Rakshas "
 "went... east and the... rest... went... after... Sisal..."
@@ -6926,7 +6987,7 @@ msgstr ""
 "我......拖住......他们很久......但他们......打败了......我们......拉克夏"
 "斯......去了东部......余下的兽人......追着......塞索去了......"
 
-#. [part]
+#. [story]
 msgid ""
 "Now... uphold the honor... of the Northern... Elves... Recover... the "
 "gold... slay this monster... and bring peace and... prosperity... back to "
@@ -6941,11 +7002,11 @@ msgid ""
 "respect."
 msgstr "听到海达尔的呼唤，泰林走过去跪在他旁边，低头靠近他。"
 
-#. [part]
+#. [story]
 msgid "At your service, sir."
 msgstr "愿意为你效劳，先生。"
 
-#. [part]
+#. [story]
 msgid ""
 "Eryssa has been... my charge ever... since she was born... I now return... "
 "to the earth... from which... I sprang... Please take care... of her."
@@ -6953,13 +7014,13 @@ msgstr ""
 "伊蕊莎......从她出生......就一直由我......保护......现在我要回到我出生"
 "的......大地去了......请照顾好她......"
 
-#. [part]
+#. [story]
 msgid ""
 "Rest assured, sir, I will place myself between Eryssa and any ill that "
 "strength or love may counter."
 msgstr "放心吧，先生，不论遇到什么样的磨难，我都会挡在伊蕊莎前面的。"
 
-#. [part]
+#. [story]
 msgid ""
 "Thank you... Tallin... Now I may rest... in... peace... May you... be "
 "victorious..."
@@ -7003,7 +7064,7 @@ msgstr ""
 "在泰林安慰伊蕊莎的同时，其余的人开始集合散乱的精灵们，把受伤的安顿在一起。完"
 "成以后，大家围到了泰林和伊蕊莎前面。"
 
-#. [part]
+#. [story]
 msgid ""
 "Princess... it is a hard thing, I know, but you must put your grief behind "
 "you. Or at least, put it aside for a little while. We must go quickly to the "
@@ -7012,7 +7073,7 @@ msgstr ""
 "公主......这是很痛苦的事，我知道，但你必须放下你的悲伤。或者至少，暂时把它放"
 "在一边。我们必须赶去帮助塞索，并找回金币。"
 
-#. [part]
+#. [story]
 msgid ""
 "Forge your sorrow into rage, girl, and visit it on the slayers of your "
 "kinsmen. Teach them what happens to those who make an enemy of an elf."
