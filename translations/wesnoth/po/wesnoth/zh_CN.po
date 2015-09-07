@@ -2906,7 +2906,7 @@ msgstr "<i>——韦诺设计指南</i>"
 msgid ""
 "Create a <i>New Scenario</i> in the editor's <i>File</i> menu to make use of "
 "advanced features."
-msgstr "使用编辑器的 <i>文件</i> 菜单来创建一个 <i>新场景<i> 以使用高级特性。"
+msgstr "使用编辑器的 <i>文件</i> 菜单来创建一个 <i>新场景</i> 以使用高级特性。"
 
 #. [tip]
 msgid ""
