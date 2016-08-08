@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-06-05 21:33-0300\n"
-"PO-Revision-Date: 2015-06-06 15:28+0800\n"
+"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"PO-Revision-Date: 2016-08-08 20:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. [brush]: id=brush-1
 msgid "Single Hex"
@@ -37,8 +37,8 @@ msgid "Hex Line NW-SE"
 msgstr "格子沿西北-东南排列"
 
 #. [brush]: id=brush-sw-ne
-msgid "Hex Line SE-NW"
-msgstr "西北-东南六角格边线"
+msgid "Hex Line SW-NE"
+msgstr "西南-东北六角格线"
 
 #. [editor_group]: id=all
 msgid "all"
@@ -147,6 +147,10 @@ msgstr "编辑器"
 #. [menu]: id=menu-editor-file, type=turbo
 msgid "File"
 msgstr "文件"
+
+#. [menu]: id=menu-editor-recent
+msgid "Load Recent"
+msgstr "读取最近使用的文件"
 
 #. [menu]: id=menu-editor-map
 msgid "Map"
@@ -257,6 +261,9 @@ msgstr "选择要打开的文件"
 
 msgid "(New Scenario)"
 msgstr "（新场景）"
+
+msgid "No Recent Files"
+msgstr "没有最近使用的文件"
 
 msgid "(Unnamed Area)"
 msgstr "（未命名区域）"

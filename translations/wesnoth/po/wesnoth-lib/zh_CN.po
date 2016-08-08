@@ -5,12 +5,12 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-06-05 21:33-0300\n"
+"POT-Creation-Date: 2016-05-17 20:24-0400\n"
 "PO-Revision-Date: 2015-06-06 15:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -951,12 +951,21 @@ msgstr "主楼覆盖层"
 #. [terrain_type]: id=bridgechasmdiag2
 #. [terrain_type]: id=bridgediag1
 #. [terrain_type]: id=bridgediag2
+#. [terrain_type]: id=hangingbridge
+#. [terrain_type]: id=hangingbridgediag1
+#. [terrain_type]: id=hangingbridgediag2
+#. [terrain_type]: id=plankbridge
+#. [terrain_type]: id=plankbridgediag1
+#. [terrain_type]: id=plankbridgediag2
 #. [terrain_type]: id=rotbridge
 #. [terrain_type]: id=rotbridgediag1
 #. [terrain_type]: id=rotbridgediag2
 #. [terrain_type]: id=stone_bridge
 #. [terrain_type]: id=stone_bridgediag1
 #. [terrain_type]: id=stone_bridgediag2
+#. [terrain_type]: id=stonechasmbridge
+#. [terrain_type]: id=stonechasmbridgediag1
+#. [terrain_type]: id=stonechasmbridgediag2
 msgid "Bridge"
 msgstr "桥梁"
 
@@ -1362,6 +1371,7 @@ msgid ""
 "<italic>text='Rails'</italic> are used to transport ore. By Dwarfs. Mostly."
 msgstr "<italic>text='轨道'</italic> 主要被矮人用来运输矿石。"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 #. [button]: id=click_dismiss
 #. [button]: id=close_window
@@ -1387,6 +1397,7 @@ msgstr "服务器："
 msgid "Remove Add-ons"
 msgstr "移除附加组件"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=help
 #. [button]: id=show_help
 msgid "Help"
@@ -1396,6 +1407,7 @@ msgstr "帮助"
 msgid "Connect"
 msgstr "连接"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 msgid "Cancel"
 msgstr "取消"
@@ -1577,6 +1589,7 @@ msgstr "递减"
 msgid "Choose the add-ons you want to remove."
 msgstr "选择您希望移除的附加组件。"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #. [button]: id=remove
 msgid "Remove"
@@ -1586,6 +1599,7 @@ msgstr "移除"
 msgid "Play a Campaign"
 msgstr "开始战役"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #. [button]: id=save
 msgid "OK"
@@ -1868,14 +1882,17 @@ msgstr "设置"
 msgid "Generate"
 msgstr "生成"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "New Map"
 msgstr "新地图"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Width:"
 msgstr "宽度："
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Height:"
 msgstr "高度："
@@ -1884,6 +1901,7 @@ msgstr "高度："
 msgid "Create"
 msgstr "创建"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Resize Map"
 msgstr "改变地图大小"
@@ -1924,6 +1942,7 @@ msgstr "选择玩家"
 msgid "Which player should start here?"
 msgstr "哪位玩家应在此开始游戏？"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "New Folder"
 msgstr "新建文件夹"
@@ -1987,14 +2006,17 @@ msgstr "您真的想删除这个游戏吗？"
 msgid "Do not show again"
 msgstr "不再显示"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Yes"
 msgstr "是"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 msgid "No"
 msgstr "否"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 msgid "Load Game"
 msgstr "读取游戏"
@@ -2073,6 +2095,7 @@ msgstr "附加组件："
 msgid "Cache:"
 msgstr "缓存："
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 msgid "Save Game"
 msgstr "保存游戏"
@@ -2081,6 +2104,7 @@ msgstr "保存游戏"
 msgid "Ignore all"
 msgstr "忽略全部"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=quit_game
 msgid "Quit Game"
 msgstr "退出游戏"
@@ -2228,6 +2252,7 @@ msgstr "反转过滤条件"
 msgid "Send"
 msgstr "发送"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=show_preferences
 #. [grid]
 msgid "Preferences"
@@ -2467,6 +2492,7 @@ msgstr "保存密码（明文）"
 msgid "Password Reminder"
 msgstr "密码提示"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
 #. [label]
 msgid "Multiplayer"
@@ -2563,6 +2589,7 @@ msgstr "显示后一条每日提示"
 msgid "Start a tutorial to familiarize yourself with the game"
 msgstr "开始游戏教程以熟悉游戏"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
 msgid "Tutorial"
 msgstr "教程"
@@ -2633,6 +2660,7 @@ msgstr "攻击"
 msgid "Attack enemy"
 msgstr "攻击敌人"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Create Unit (Debug!)"
 msgstr "创建单位（调试！）"
@@ -2653,10 +2681,12 @@ msgstr "女"
 msgid "Race"
 msgstr "种族"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Error"
 msgstr "错误"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=details_heading
 msgid "Details:"
 msgstr "详细："

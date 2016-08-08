@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-06-05 21:33-0300\n"
-"PO-Revision-Date: 2015-06-06 15:29+0800\n"
+"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"PO-Revision-Date: 2016-08-08 20:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "The Eastern Invasion"
@@ -1689,6 +1689,10 @@ msgstr "你在要塞里找到了100金币！"
 #. [message]: speaker=Dacyn
 msgid "Excellent; I’ll start my research."
 msgstr "太好了。我马上开始研究。"
+
+#. [message]: speaker=narrator
+msgid "Some time later..."
+msgstr "过了一会儿……"
 
 #. [message]: speaker=Gweddry
 msgid "Alright, now we should be safe while Dacyn is researching."

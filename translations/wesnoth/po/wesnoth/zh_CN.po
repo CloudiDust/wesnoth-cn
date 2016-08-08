@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-06-05 21:33-0300\n"
-"PO-Revision-Date: 2015-06-06 15:27+0800\n"
+"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"PO-Revision-Date: 2016-08-08 20:52+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. [advanced_preference]: type=combo
 #. Associated save_compression_short^ entries need to be as short as
@@ -180,6 +180,15 @@ msgstr "试验性多人游戏大厅"
 msgid ""
 "Replace the classic multiplayer lobby with a newer, experimental interface"
 msgstr "用一个新的、试验性的界面来替换经典多人游戏大厅"
+
+#. [advanced_preference]: type=int
+msgid "Editor recent files limit"
+msgstr "编辑器中最近使用的文件的最大数量"
+
+#. [advanced_preference]: type=int
+msgid ""
+"The maximum number of items to display on the Recent Files menu in the editor"
+msgstr "在编辑器中“最近使用的文件”菜单中显示的最大项目数"
 
 #. [advanced_preference]: type=boolean
 msgid "Show color cursors"
@@ -5481,8 +5490,10 @@ msgid ""
 "Only show games that are played or observed by at least one of your friends"
 msgstr "只显示至少有一位好友正在玩或者旁观的游戏"
 
-msgid "Only show games whose title or description contain the entered text"
-msgstr "只显示标题或描述中包含所输入文字的游戏"
+msgid ""
+"Only show games whose title, description, era or mods contain the entered "
+"text"
+msgstr "只显示标题、描述、时代或模组中包含所输入文字的游戏"
 
 msgid "Joining this game requires a password."
 msgstr "需要输入密码才能加入本游戏"

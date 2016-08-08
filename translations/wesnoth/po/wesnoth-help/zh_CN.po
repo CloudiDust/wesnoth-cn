@@ -8,12 +8,12 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2015-06-05 21:33-0300\n"
+"POT-Creation-Date: 2016-05-17 20:24-0400\n"
 "PO-Revision-Date: 2015-06-06 15:29+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -563,6 +563,7 @@ msgstr "技能"
 msgid "Weapon Specials"
 msgstr "武器特性"
 
+#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=factions_section
 msgid "Factions"
 msgstr "派系"
