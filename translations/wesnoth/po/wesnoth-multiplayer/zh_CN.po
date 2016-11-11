@@ -79,7 +79,7 @@ msgstr ""
 
 #. [era]: id=era_khalifate
 msgid "Default + Khalifate"
-msgstr "默认 + 哈里发"
+msgstr "默认 + 沙漠"
 
 #. [era]: id=era_khalifate
 msgid ""
@@ -90,14 +90,14 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"此时代中除了默认时代的六大派系之外，还含有一个额外的派系。哈里发单位不使用魔"
+"此时代中除了默认时代的六大派系之外，还含有一个额外的派系。沙漠单位不使用魔"
 "法，而是依赖于对地形的谨慎利用和晨昏时段的协同攻击。\n"
 "\n"
 "此时代仍在开发中，因此请务必报告出现的一切问题。"
 
 #. [era]: id=era_khalifate_heroes
 msgid "Age of Heroes + Khalifate"
-msgstr "英雄时代 + 哈里发"
+msgstr "英雄时代 + 沙漠"
 
 #. [era]: id=era_khalifate_heroes
 msgid ""
@@ -108,7 +108,7 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"此时代中除了英雄时代的六大派系之外，还含有一个额外的派系。哈里发单位不使用魔"
+"此时代中除了英雄时代的六大派系之外，还含有一个额外的派系。沙漠单位不使用魔"
 "法，而是依赖于对地形的谨慎利用和晨昏时段的协同攻击。\n"
 "\n"
 "此时代仍在开发中，因此请务必报告出现的一切问题。"
@@ -119,7 +119,7 @@ msgstr "龙人部落"
 
 #. [multiplayer_side]: id=Khalifate, type=random
 msgid "Khalifate"
-msgstr "哈里发"
+msgstr "沙漠"
 
 #. [multiplayer_side]: id=Knalgan Alliance, type=random
 msgid "Knalgan Alliance"

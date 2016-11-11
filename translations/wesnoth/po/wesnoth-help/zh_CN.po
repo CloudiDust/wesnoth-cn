@@ -3852,15 +3852,15 @@ msgstr ""
 
 #. [race]: id=khalifate
 msgid "race^Khalifate Human"
-msgstr "哈里发"
+msgstr "沙漠"
 
 #. [race]: id=khalifate
 msgid "race+female^Khalifate Human"
-msgstr "哈里发"
+msgstr "沙漠"
 
 #. [race]: id=khalifate
 msgid "race+plural^Khalifate"
-msgstr "哈里发"
+msgstr "沙漠"
 
 #. [race]: id=khalifate
 msgid "This race does not have a description yet."
