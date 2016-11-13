@@ -261,10 +261,10 @@ msgid ""
 "be more expensive than those of the Loyalist faction, they make up for this "
 "with high mobility — especially on hilly terrains."
 msgstr ""
-"这个版本能见到在多人游戏中玩家可玩的新派系——哈里发。您可以在游戏中选用“默认"
-"+哈里发”时代，这个派系的子民缺乏魔法师，而擅长于利用地形在黎明或者黄昏发起进"
+"这个版本能见到在多人游戏中玩家可玩的新派系——沙漠。您可以在游戏中选用“默认"
+"+沙漠”时代，这个派系的子民缺乏魔法师，而擅长于利用地形在黎明或者黄昏发起进"
 "攻。他们的兵种有守序和边缘单位，治疗者、高命中率的肉搏型战士，可怕的骑兵型射"
-"手。哈里发单位常常比保皇军队更贵，不过有更高的机动性来平衡——尤其在丘陵地形。"
+"手。沙漠单位常常比保皇军队更贵，不过有更高的机动性来平衡——尤其在丘陵地形。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:91
