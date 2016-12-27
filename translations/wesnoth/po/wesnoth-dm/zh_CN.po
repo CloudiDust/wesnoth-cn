@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:23 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:28+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -20,7 +20,6 @@ msgstr ""
 "X-Generator: Poedit 1.8.1\n"
 
 #. [campaign]: id=Delfadors_Memoirs
-#. [editor_group]: id=dm
 msgid "Delfador’s Memoirs"
 msgstr "德翁往事"
 
@@ -29,15 +28,17 @@ msgid "DM"
 msgstr "DM"
 
 #. [campaign]: id=Delfadors_Memoirs
-msgid "(Normal)"
-msgstr "（标准）"
-
-#. [campaign]: id=Delfadors_Memoirs
 msgid "Apprentice"
 msgstr "学徒"
 
 #. [campaign]: id=Delfadors_Memoirs
-msgid "(Challenging)"
+#, fuzzy
+msgid "Normal"
+msgstr "（标准）"
+
+#. [campaign]: id=Delfadors_Memoirs
+#, fuzzy
+msgid "Challenging"
 msgstr "（挑战）"
 
 #. [campaign]: id=Delfadors_Memoirs
@@ -45,7 +46,8 @@ msgid "Mage"
 msgstr "法师"
 
 #. [campaign]: id=Delfadors_Memoirs
-msgid "(Difficult)"
+#, fuzzy
+msgid "Difficult"
 msgstr "（困难）"
 
 #. [campaign]: id=Delfadors_Memoirs
@@ -91,6 +93,13 @@ msgstr "鸣谢"
 #. [scenario]: id=01_Overture
 msgid "Overture"
 msgstr "序曲"
+
+#. [side]: type=Journeyman Mage
+#. [side]: type=Mage of Light, id=Marshal
+#. [side]: type=White Mage, id=Arpus
+#, fuzzy
+msgid "Mages"
+msgstr "法师"
 
 #. [side]: type=Mage of Light, id=Marshal
 msgid "Marshal"
@@ -218,9 +227,9 @@ msgid "The light fills me!"
 msgstr "光明充满了我的身躯！"
 
 #. [message]: speaker=First Oracle
-#. [message]: speaker=Fourth Oracle
 #. [message]: speaker=Second Oracle
 #. [message]: speaker=Third Oracle
+#. [message]: speaker=Fourth Oracle
 msgid "It is well."
 msgstr "很好。"
 
@@ -253,6 +262,22 @@ msgstr "此谷是我开"
 #. [side]: type=Goblin Pillager, id=Grogor-Tuk
 msgid "Grogor-Tuk"
 msgstr "格罗格-图克"
+
+#. [side]: type=Goblin Pillager, id=Grogor-Tuk
+#. [side]: type=Orcish Warrior, id=Urthaka-Tan
+#. [side]: type=Orcish Slayer, id=Hagha-Tan
+#. [side]: type=Orcish Warrior, id=Tan-Garthak
+#. [side]: type=Orcish Warlord, id=Tish Golub
+#. [side]: type=Orcish Warlord, id=Knafa-ord
+#. [side]: type=Orcish Warlord, id=Tan-drul
+#. [side]: type=Orcish Warlord, id=Krardul
+#. [side]: type=Orcish Sovereign, id=Zorlan
+#. [side]: type=Orcish Warrior, id=T'bhan
+#. [side]: type=Orcish Warrior, id=Qgthun
+#. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
+#. [side]: type=Orcish Warlord, id=Upgar
+msgid "Pillagers"
+msgstr ""
 
 #. [part]
 msgid ""
@@ -364,25 +389,9 @@ msgstr ""
 msgid "The Road to Weldyn"
 msgstr "韦林之路"
 
-#. [side]
-#. [side]: type=Journeyman Mage
-#. [side]: type=King of Wesnoth, id=Garard
-#. [side]: type=King of Wesnoth, id=Garard II
-msgid "Player"
-msgstr "玩家"
-
 #. [side]: type=Orcish Warrior, id=Urthaka-Tan
 msgid "Urthaka-Tan"
 msgstr "乌萨卡-坦"
-
-#. [side]: type=Ancient Wose, id=Ur-Thorodor
-#. [side]: type=Bandit, id=Harold
-#. [side]: type=Orcish Warlord, id=Tish Golub
-#. [side]: type=Orcish Warrior, id=Tan-Garthak
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Rogue, id=Garrath
-msgid "Enemies"
-msgstr "敌人"
 
 #. [label]
 msgid "The Great Valley"
@@ -397,7 +406,8 @@ msgid "Fort Miryen"
 msgstr "米里亚关"
 
 #. [objective]: condition=win
-msgid "Defeat enemy leader"
+#, fuzzy
+msgid "Defeat the enemy leader"
 msgstr "打败敌人领袖"
 
 #. [message]: speaker=narrator
@@ -474,8 +484,8 @@ msgstr ""
 "也许最好让我们的一些青年跟随你去韦林。这些地方对孤独的游历者来说不安全，而且"
 "我们想知道是哪门子把兽人招来南方的。"
 
-#. [scenario]: id=04_Leollyn
 #. [side]: type=Arch Mage, id=Leollyn
+#. [scenario]: id=04_Leollyn
 #. [unit]: type=Arch Mage, id=Leollyn
 msgid "Leollyn"
 msgstr "利奥林"
@@ -483,6 +493,20 @@ msgstr "利奥林"
 #. [side]: type=Orcish Slayer, id=Hagha-Tan
 msgid "Hagha-Tan"
 msgstr "阿格-坦"
+
+#. [side]: type=Arch Mage, id=Leollyn
+#. [side]: type=Journeyman Mage
+#. [side]: type=King of Wesnoth, id=Garard
+#. [modify_side]
+#. [side]: type=King of Wesnoth, id=Garard II
+#. [side]: type=Mage Commander
+#. [side]
+#. [side]: type=General, id=Eldred
+#. [side]: type=General, id=Lowel
+#. [side]: type=General, id=Pilafman
+#. [side]: type=Lieutenant, id=Niktor
+msgid "Loyalists"
+msgstr ""
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -549,11 +573,13 @@ msgid "You are a brave fighter, young friend."
 msgstr "年轻人，你是个勇敢的战士。"
 
 #. [message]: speaker=Leollyn
-msgid "I’ve told you, all of you have to be extra careful!"
+#, fuzzy
+msgid "All of you have to be extra careful!"
 msgstr "我告诉过你们的，你们所有人都要格外小心！"
 
 #. [message]: speaker=Delfador
-msgid "Kill them all! For our murdered friends."
+#, fuzzy
+msgid "Kill them all! For our murdered friend."
 msgstr "为了我们死去的战友，把他们全部干掉！"
 
 #. [message]: speaker=Leollyn
@@ -765,6 +791,11 @@ msgstr "伊卢汶沼泽"
 msgid "Garrath"
 msgstr "加勒思"
 
+#. [side]: type=Rogue, id=Garrath
+#. [side]: type=Bandit, id=Harold
+msgid "Bandits"
+msgstr ""
+
 #. [side]: type=Bandit, id=Harold
 msgid "Harold"
 msgstr "哈罗德"
@@ -807,7 +838,7 @@ msgstr ""
 "陌生人，你好啊！这沼泽很危险……你们想过去，就需要保护——我们只收你 $fee 金币的"
 "保护费！"
 
-#. [option]: speaker=Garrath
+#. [option]
 msgid "Thanks very much. Here’s the gold..."
 msgstr "谢谢。给你钱……"
 
@@ -827,7 +858,7 @@ msgstr "嚯 嚯 嚯！傻瓜！"
 msgid "Well, at least we only have to deal with one of them now..."
 msgstr "还好，至少我们现在只需要应付其中一边了……"
 
-#. [option]: speaker=Garrath
+#. [option]
 msgid "No thanks — we’ll manage by ourselves..."
 msgstr "谢谢你的好意，不用——我们会自己解决的……"
 
@@ -848,6 +879,23 @@ msgstr "这箱子里装着那恶棍所有从上当的路人手上抢来的钱！
 msgid "Night in the Swamp"
 msgstr "沼泽之夜"
 
+#. [side]
+#. [side]: type=Death Knight, id=Arakar
+#. [side]: type=Death Knight, id=Rudimil
+#. [side]: type=Necromancer, id=Roth-Malal
+#. [side]: type=Necromancer, id=Barth-Malal
+#. [side]: type=Necromancer, id=Gruv-Malal
+#. [side]: type=Death Knight, id=Prepolur
+#. [side]: type=Dark Adept, id=Unuvim
+#. [side]: type=Lich, id=Iliah-Malal
+#. [side]: type=Necromancer, id=Maldun
+#. [side]: type=Death Knight, id=Alderoth
+#. [side]: type=Lich, id=Sagus
+#. [side]: type=Necromancer, id=Iliah-Malal
+#. [side]: type=Death Knight, id=Dirator
+msgid "Undead"
+msgstr ""
+
 #. [message]: speaker=Delfador
 msgid ""
 "I think that’s all of them! Let’s move on — the less time we spend in this "
@@ -855,7 +903,8 @@ msgid ""
 msgstr "他们应该全完蛋了！前进吧——在沼泽里待的时间越短越好。"
 
 #. [objective]: condition=win
-msgid "Survive until daybreak."
+#, fuzzy
+msgid "Survive until daybreak"
 msgstr "存活到破晓"
 
 #. [message]: speaker=Delfador
@@ -907,10 +956,14 @@ msgstr ""
 "我再也不想度过那样的夜晚了！我们尽快离开这万恶的地方吧——我想在黄昏前离开伊卢"
 "汶。"
 
-#. [scenario]: id=08_Ur-Thorodor
 #. [side]: type=Ancient Wose, id=Ur-Thorodor
+#. [scenario]: id=08_Ur-Thorodor
 msgid "Ur-Thorodor"
 msgstr "乌-索罗多"
+
+#. [side]: type=Ancient Wose, id=Ur-Thorodor
+msgid "Wose"
+msgstr ""
 
 #. [side]: type=Orcish Warrior, id=Tan-Garthak
 msgid "Tan-Garthak"
@@ -1074,7 +1127,7 @@ msgstr "<b>砰</b>！"
 msgid "Do you serve Iliah-Malal, living man?"
 msgstr "大活人，你为伊利亚-玛拉做事吗？"
 
-#. [option]: speaker={STRING}
+#. [option]
 msgid "Yes, I serve him."
 msgstr "是啊。"
 
@@ -1082,7 +1135,7 @@ msgstr "是啊。"
 msgid "Then you will not mind if we kill you! Hahahahah!"
 msgstr "那么你不会介意我们杀掉你吧！哈哈哈哈！"
 
-#. [option]: speaker={STRING}
+#. [option]
 msgid "No, I do not."
 msgstr "不是。"
 
@@ -1111,6 +1164,10 @@ msgstr "我必须找到鬼说的东西；这似乎是伊利亚-玛拉手里很�
 #. [scenario]: id=09_Houses_of_the_Dead
 msgid "Houses of the Dead"
 msgstr "鬼灵室"
+
+#. [side]
+msgid "Undead Followers"
+msgstr ""
 
 #. [unit]: id=Rorthin, type=Ghost
 msgid "Rorthin"
@@ -1409,9 +1466,9 @@ msgstr ""
 msgid "The Gate Between Worlds"
 msgstr "两界之门"
 
+#. [unit]: id=Iliah-Malal, type=Lich
 #. [side]: type=Lich, id=Iliah-Malal
 #. [side]: type=Necromancer, id=Iliah-Malal
-#. [unit]: id=Iliah-Malal, type=Lich
 msgid "Iliah-Malal"
 msgstr "伊利亚-玛拉"
 
@@ -1487,6 +1544,12 @@ msgstr "不毛之地"
 #. [side]: type=Orcish Warlord, id=Tish Golub
 msgid "Tish Golub"
 msgstr "蒂什·戈卢布"
+
+#. [side]: type=Elvish Druid
+#. [side]: id=Delfador
+#. [side]: type=Elvish Captain, id=Clartakis
+msgid "Elves"
+msgstr ""
 
 #. [side]: type=Elvish Druid
 msgid "Istelimir"
@@ -1634,6 +1697,12 @@ msgstr "兽人来进攻了？或许我能帮你们打败他们，就算是报答
 msgid "Death of Chantal"
 msgstr "香黛儿阵亡"
 
+#. [message]: speaker=Delfador
+msgid ""
+"Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth "
+"now..."
+msgstr "香黛儿！不——你不能死！我返回韦诺已经没希望了……"
+
 #. [message]: speaker=Chantal
 msgid ""
 "With your help, Delfador, we have overrun the orcish warlord of this area, "
@@ -1746,7 +1815,7 @@ msgstr "兽人！河滩上有兽人！"
 msgid "Prepare to fight them! We must clear the Ford!"
 msgstr "准备干掉他们！我们必须清理这浅滩！"
 
-#. [message]: speaker=Niktor
+#. [message]: role=Commander
 msgid "Halt! Who goes there?"
 msgstr "停！那边是谁？"
 
@@ -1759,7 +1828,7 @@ msgstr ""
 "我是德法多，韦诺内阁的法师，利奥林法师长的使者；跟着我的这个是香黛儿，一位林"
 "坦尼的精灵女士。快点，我要和你们的指挥官说话；死亡快要接踵而来了。"
 
-#. [message]: speaker=Niktor
+#. [message]: role=Commander
 msgid ""
 "I command here, but we have lost the north shore. Uncanny creatures stalk "
 "the night; our weapons scarcely seem to scathe them. I fear we cannot hold "
@@ -1777,7 +1846,7 @@ msgstr ""
 "我跟这些东西交过手。老实告诉你：冲击和魔法可以打败它们。如果我没记错的话，这"
 "附近应该有法师学校吧？"
 
-#. [message]: speaker=Niktor
+#. [message]: role=Commander
 msgid ""
 "Yes, close by the southeast wall of our fort across the Ford. But they are "
 "jealous of their privileges and hold aloof from us."
@@ -1793,17 +1862,16 @@ msgstr ""
 "很快不会这样了。以我和法师长利奥林的名义请他们出来；实在不行，就告诉他们我是"
 "奉国王圣旨来的！"
 
-#. [message]: speaker=Niktor
+#. [message]: role=Commander
 msgid "I heed the King’s voice. My men are at your command."
 msgstr "我注意到了国王的旨意。我的人现在听从您的指挥。"
 
 #. [message]: speaker=narrator
-msgid ""
-"To wake up the mages, move a unit that is currently out of sight of their "
-"tower to within visual range of it."
+#, fuzzy
+msgid "To wake up the mages, move a unit near their tower."
 msgstr "为了叫醒那些法师，请把一个目前在法师塔的视野外的单位移动到他们视野内。"
 
-#. [message]: speaker=Arpus
+#. [message]: role=Teacher
 msgid "What are you doing here, disturbing our peace and concentration?"
 msgstr "你们来做甚？打搅我们的和平与专注吗？"
 
@@ -1811,7 +1879,7 @@ msgstr "你们来做甚？打搅我们的和平与专注吗？"
 msgid "Undead are attacking the fort on the north shore. We need your help!"
 msgstr "亡灵正在进攻北岸。请求援助！"
 
-#. [message]: speaker=Arpus
+#. [message]: role=Teacher
 msgid ""
 "I have told the commander of that garrison that we take orders from none "
 "other than the Chief Mage of the High Council, Master Leollyn!"
@@ -1824,7 +1892,7 @@ msgid ""
 "which is not lightly given."
 msgstr "利奥林的使者德法多，请求你们的帮助。他接受利奥林的重任而来。"
 
-#. [message]: speaker=Arpus
+#. [message]: role=Teacher
 msgid "I recognize it. Very well; we shall join battle."
 msgstr "明白了。好吧；我们应该加入战斗。"
 
@@ -1865,10 +1933,6 @@ msgid ""
 "I do not know. No one has seen their faces and lived. All I could hear is my "
 "comrades’ screams as they were being slaughtered."
 msgstr "我不知道。见过的都死了。我仅仅听到同志们被屠戮时的尖叫声。"
-
-#. [objective]: condition=win
-msgid "Defeat all enemies"
-msgstr "打败所有敌人"
 
 #. [unit]: type=Heavy Infantryman, id=Donc
 msgid "Donc"
@@ -2137,6 +2201,11 @@ msgstr ""
 "大批兽人军队开始进攻精灵森林的边界，甚至林坦尼。卡伦茨很快召集了一队卫兵。精"
 "灵领地上的战争又回来了。"
 
+#. [side]: id=Delfador
+#. [part]
+msgid "Delfador"
+msgstr "德法多"
+
 #. [side]: type=Orcish Warlord, id=Knafa-ord
 msgid "Knafa-ord"
 msgstr "纳法-奥德"
@@ -2152,6 +2221,10 @@ msgstr "克拉尔杜"
 #. [side]: type=Elvish Captain, id=Clartakis
 msgid "Clartakis"
 msgstr "克拉塔基斯"
+
+#. [objective]: condition=win
+msgid "Defeat all enemies"
+msgstr "打败所有敌人"
 
 #. [objective]: condition=lose
 msgid "Death of Kalenz"
@@ -2339,7 +2412,7 @@ msgstr "夜骇"
 msgid "Rkrin"
 msgstr "日格林"
 
-#. [message]: id=Rudimil
+#. [message]
 msgid "We have more help!"
 msgstr "我们还有援兵！"
 
@@ -2367,7 +2440,7 @@ msgstr "尼费格特"
 msgid "Dert"
 msgstr "德尔"
 
-#. [message]: id=Rudimil
+#. [message]
 msgid "And now even more help!"
 msgstr "现在还有更多！"
 
@@ -2684,10 +2757,6 @@ msgstr ""
 "四散而逃。特别要感谢德法多的帮助。"
 
 #. [part]
-msgid "Delfador"
-msgstr "德法多"
-
-#. [part]
 msgid ""
 "I did very little, sire. It was actually the elves who saved us on that day."
 msgstr "陛下，我只尽了绵薄之力。那天其实是精灵救了我们。"
@@ -2901,6 +2970,10 @@ msgstr "雷尔戈恩"
 #. [event]
 msgid "Udrin"
 msgstr "乌德林"
+
+#. [side]: type=Dwarvish Lord
+msgid "Dwarves"
+msgstr ""
 
 #. [side]: type=Necromancer, id=Gruv-Malal
 msgid "Gruv-Malal"
@@ -3210,6 +3283,10 @@ msgstr "马尔敦"
 msgid "Alderoth"
 msgstr "奥尔德罗特"
 
+#. [objective]: condition=lose
+msgid "Loss of all Undead veterans before Iliah-Malal is defeated"
+msgstr ""
+
 #. [note]
 msgid ""
 "The killing blow against Iliah-Malal can only be struck by one of your "
@@ -3287,6 +3364,12 @@ msgid ""
 msgstr ""
 "这次不会了。我已经研究了克雷拉努法书中巫术的黑暗核心，发现你最后会死在亡灵的"
 "手上。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"Alas! Without any undead to strike the killing blow, we will never be able "
+"to defeat Iliah-Malal!"
+msgstr ""
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -3375,7 +3458,6 @@ msgid ""
 "Evil has been vanquished on this day. May this victory bring lasting peace."
 msgstr "邪恶今天被打败了。希望胜利能带来长久的和平。"
 
-#. [message]: speaker=Admirer5
 #. [message]: speaker=Kalenz
 msgid ""
 "You have earned the name the accursed one gave you... Delfador the Great."
@@ -3540,6 +3622,11 @@ msgid ""
 msgstr ""
 "也许吧。现在我再考虑这事，我想我最好比我来时更快地回到王宫，尽管我得跑死三匹"
 "马。"
+
+#. [modify_side]
+#. [side]: type=Journeyman Mage
+msgid "Rebels"
+msgstr ""
 
 #. [message]: id=Kalenz
 msgid "We are too late! All is lost!"
@@ -3787,11 +3874,6 @@ msgstr ""
 "用；在多年的战争和冲突中，很少有法师毕业，更没有一个人能达到德法多的力量和技"
 "能，能让韦诺宫廷感到荣耀的伟大法师。"
 
-#. [terrain_type]: id=milestone1
-#. [terrain_type]: id=milestone2
-msgid "Milestone"
-msgstr "里程碑"
-
 #. [unit_type]: id=Journeyman Mage
 msgid "Journeyman Mage"
 msgstr "行者法师"
@@ -3890,12 +3972,6 @@ msgstr "不行！我死得太早了……"
 #. [message]: speaker=Delfador
 msgid "No! Without Lionel’s help, I am as good as defeated!"
 msgstr "不要！没有莱昂内尔帮忙，我就已经被打败了！"
-
-#. [message]: speaker=Delfador
-msgid ""
-"Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth "
-"now..."
-msgstr "香黛儿！不——你不能死！我返回韦诺已经没希望了……"
 
 #. [message]: speaker=unit
 msgid "I have been defeated!"

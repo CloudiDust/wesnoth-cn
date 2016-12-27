@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:29 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -30,33 +30,6 @@ msgid "UtBS"
 msgstr "UtBS"
 
 #. [campaign]: id=Under_the_Burning_Suns
-msgid "(Normal)"
-msgstr "(普通)"
-
-#. [campaign]: id=Under_the_Burning_Suns
-#. [unit_type]: id=Desert Hunter, race=elf
-msgid "Desert Hunter"
-msgstr "沙漠猎人"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "(Challenging)"
-msgstr "(挑战)"
-
-#. [campaign]: id=Under_the_Burning_Suns
-#. [unit_type]: id=Desert Sentinel, race=elf
-msgid "Desert Sentinel"
-msgstr "沙漠护卫"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "(Nightmare)"
-msgstr "(噩梦)"
-
-#. [campaign]: id=Under_the_Burning_Suns
-#. [unit_type]: id=Desert Prowler, race=elf
-msgid "Desert Prowler"
-msgstr "沙漠巡游者"
-
-#. [campaign]: id=Under_the_Burning_Suns
 msgid ""
 "In the distant future a small band of elves struggles to survive amidst the "
 "ruins of fallen empires. Lead your people out of the desert on an epic "
@@ -70,6 +43,64 @@ msgstr ""
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "(Expert level, 10 scenarios.)"
 msgstr "（专家级别，10幕场景。）"
+
+#. [unit_type]: id=Desert Hunter, race=elf
+#. [campaign]: id=Under_the_Burning_Suns
+msgid "Desert Hunter"
+msgstr "沙漠猎人"
+
+#. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
+msgid "Normal"
+msgstr "(普通)"
+
+#. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
+msgid "Challenging"
+msgstr "(挑战)"
+
+#. [unit_type]: id=Desert Sentinel, race=elf
+#. [campaign]: id=Under_the_Burning_Suns
+msgid "Desert Sentinel"
+msgstr "沙漠护卫"
+
+#. [unit_type]: id=Desert Prowler, race=elf
+#. [campaign]: id=Under_the_Burning_Suns
+msgid "Desert Prowler"
+msgstr "沙漠巡游者"
+
+#. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
+msgid "Nightmare"
+msgstr "(噩梦)"
+
+#. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
+msgid "Fighter"
+msgstr "沙漠战士"
+
+#. [campaign]: id=Under_the_Burning_Suns
+msgid "Normal, redesigned elf units"
+msgstr ""
+
+#. [campaign]: id=Under_the_Burning_Suns
+msgid "Challenging, redesigned elf units"
+msgstr ""
+
+#. [advancement]: id=warrior_1
+#. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
+msgid "Warrior"
+msgstr "被召唤的战士"
+
+#. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
+msgid "Champion"
+msgstr "沙漠斗士"
+
+#. [campaign]: id=Under_the_Burning_Suns
+msgid "Nightmare, redesigned elf units"
+msgstr ""
 
 #. [about]
 msgid "Campaign Design"
@@ -91,20 +122,36 @@ msgstr "其他"
 msgid "And special thanks to everyone else who I forgot to mention."
 msgstr "特别感谢忘记提到的人们。"
 
-#. [lua]
+#. [lua]: wesnoth.theme_items.unit_status
+msgid ""
+"dehydrated: This unit is dehydrated. It will lose 4 HP and have its damage "
+"reduced by 1 each turn during the day unless prevented by healers or cured "
+"by water at an oasis.\n"
+"\n"
+"Units cannot be killed or deal no damage as a result of dehydration."
+msgstr ""
+"脱水：在白天，该单位会脱水，并将失去4HP，同时在每一回合伤害值将减少1，但有医"
+"治者或在绿洲的水中治疗除外。\n"
+"\n"
+"由于脱水，单位不会死去活或不造成伤害。"
+
+#. [lua]: wesnoth.theme_items.unit_status
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
 msgstr "昏迷: 此单位已昏迷，无法确保其控制区域。"
+
+#. [lua]: wesnoth.theme_items.unit_status
+msgid ""
+"dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
+"chance to hit (except for magical attacks)."
+msgstr ""
 
 #. [scenario]: id=01_The_Morning_After
 msgid "The Morning After"
 msgstr "天亮以后"
 
-#. [side]: id=Kaleh, type=Kaleh
-msgid "Kaleh"
-msgstr "卡勒"
-
+#. [side]
+#. [side]: id=Kaleh, type=Quenoth Youth
 #. [side]: id=Kaleh, type=Desert Fighter
-#. [side]: id=Kaleh, type=Kaleh
 msgid "team_name^Quenoth Elves"
 msgstr "奎诺精灵卡勒"
 
@@ -143,34 +190,42 @@ msgstr "歌莱克死亡"
 msgid "Death of Zhul"
 msgstr "助死亡"
 
+#. [value]: type=Quenoth Fighter
 #. [value]: type=Desert Fighter
 msgid "Lrea"
 msgstr "瑞"
 
+#. [value]: type=Quenoth Fighter
 #. [value]: type=Desert Fighter
 msgid "Piyru"
 msgstr "皮鲁"
 
+#. [value]: type=Quenoth Fighter
 #. [value]: type=Desert Archer
 msgid "Frea"
 msgstr "弗雷"
 
+#. [value]: type=Quenoth Scout
 #. [value]: type=Desert Archer
 msgid "Danu"
 msgstr "达努"
 
+#. [value]: type=Quenoth Scout
 #. [value]: type=Desert Hunter
 msgid "Hamuil"
 msgstr "哈缪"
 
+#. [value]: type=Quenoth Scout
 #. [value]: type=Desert Hunter
 msgid "Anioh"
 msgstr "艾尼奥"
 
+#. [value]: type=Tauroch Rider
 #. [value]: type=Desert Scout
 msgid "Vemuil"
 msgstr "瓦缪"
 
+#. [value]: type=Tauroch Rider
 #. [value]: type=Desert Scout
 msgid "Taliu"
 msgstr "泰柳"
@@ -266,18 +321,18 @@ msgstr "艾然诺"
 msgid "Seela"
 msgstr "希拉"
 
-#. [message]: speaker=Garak
 #. [message]: speaker=Vecnu
+#. [message]: speaker=Garak
 msgid "Kaleh, Nym, help us!"
 msgstr "卡勒, 妮慕, 来帮我们!"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Nym
+#. [message]: speaker=Kaleh
 msgid "What in Uria’s name is that?"
 msgstr "那尤里安的是什么？"
 
-#. [message]: speaker=Garak
 #. [message]: speaker=Vecnu
+#. [message]: speaker=Garak
 msgid ""
 "They came with the stones that fell from the sky. I know not what they are, "
 "but more seem to be emerging from the craters. If we don’t stop them there "
@@ -314,11 +369,11 @@ msgstr "雷那"
 msgid "More of these muddy crawlies, let’s get rid of them with haste."
 msgstr "更多的土傀儡，我们快点解决它们。"
 
-#. [event]
+#. [event]: role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror
 msgid "Jorazan"
 msgstr "乔拉森"
 
-#. [event]
+#. [event]: role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror, role=Rocky Horror
 msgid "Zyara"
 msgstr "杰拉"
 
@@ -578,6 +633,15 @@ msgstr "新任务:"
 msgid "Defeat Xanthos"
 msgstr "打败赞瑟斯"
 
+#. [message]: speaker=unit
+msgid ""
+"Some of our people felt crowded in the village, and wanted to live out on "
+"the open sands. They thought they could flee to the safety of our walls if "
+"danger came. I shudder to imagine what may have become of them."
+msgstr ""
+"一些人感觉村内太拥挤，露宿在外。他们以为若危险来时能逃到安全的地方，比如我们"
+"的村庄围墙里面。想象他们的劫难我就不寒而栗。"
+
 #. [message]: speaker=Kaleh
 msgid "The necromancer is finally vanquished."
 msgstr "死灵法师终于完蛋了。"
@@ -600,15 +664,6 @@ msgid ""
 "We’ve explored the village, and I think we’ve rescued the last of the "
 "survivors."
 msgstr "整个村庄搜遍了, 我们已经救出了最后的幸存者。"
-
-#. [message]: speaker=unit
-msgid ""
-"Some of our people felt crowded in the village, and wanted to live out on "
-"the open sands. They thought they could flee to the safety of our walls if "
-"danger came. I shudder to imagine what may have become of them."
-msgstr ""
-"一些人感觉村内太拥挤，露宿在外。他们以为若危险来时能逃到安全的地方，比如我们"
-"的村庄围墙里面。想象他们的劫难我就不寒而栗。"
 
 #. [event]
 msgid "Pythos"
@@ -976,7 +1031,7 @@ msgstr "戴上这个戒指的单位在白天将不会受到沙漠炎热的伤害
 msgid "Should I take this ring?"
 msgstr "我该拿这枚戒指吗?"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "Yes, I’ll take it."
 msgstr "好，我来拿。"
 
@@ -988,7 +1043,7 @@ msgstr "旅行者的戒指"
 msgid "At the end of each turn, this unit takes no damage from the desert."
 msgstr "回合结束时，这个单位不受沙的伤害"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "No, I think someone else should wear it."
 msgstr "不，我想应该让别人来佩戴它。"
 
@@ -1023,8 +1078,8 @@ msgstr ""
 "在艰难的地形上我们需要掩护额外的距离，如果你想要从它们身边绕过的话，我建议直"
 "接向北走，希望能找到一个绿洲。"
 
-#. [message]: type=Ogre
 #. [message]: type=Ogre, role=Hunting Ogre
+#. [message]: type=Ogre
 msgid "Fresh meat!"
 msgstr "鲜肉!"
 
@@ -1111,11 +1166,11 @@ msgstr "我们不知道你们是谁，也不关心这个。在黑手党的力量
 msgid "Elyssa"
 msgstr "伊丽莎"
 
-#. [event]: (id=Go'hag, (id=Go'hag, (id=Go'hag
+#. [event]
 msgid "Go’hag"
 msgstr "勾哈格"
 
-#. [event]: (id=Go'hag, (id=Go'hag, (id=Go'hag
+#. [event]
 msgid "Undead Raider"
 msgstr "骷髅骑士"
 
@@ -1359,7 +1414,7 @@ msgid ""
 "powerful against the undead."
 msgstr "这瓶水将让你的近战武器发出<b>奥术攻击</b>，这会对亡灵造成强力伤害。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "No, I think someone else should take it."
 msgstr "不，我想应该让别人来佩戴它。"
 
@@ -1753,8 +1808,8 @@ msgid ""
 "true power."
 msgstr "不！你我的争斗还没结束，阿兹卡提。给你看看我真正的力量。"
 
-#. [event]
 #. [then]
+#. [event]
 msgid "Possessed Garak"
 msgstr "疯狂的歌莱克"
 
@@ -1815,8 +1870,8 @@ msgstr ""
 "代价，我们都要打败至少一个恶魔。我不愿意让那......那种东西控制我们朋友的躯"
 "体。"
 
-#. [message]: speaker=Azkotep
 #. [message]: speaker=Ystara
+#. [message]: speaker=Azkotep
 msgid "The stench of death is in the air."
 msgstr "有死亡的恶臭。"
 
@@ -2502,7 +2557,7 @@ msgstr ""
 "子不深，我能很轻易地涉水过去捡起它。但是还有人在墙上刻了字，<b>“如果你敢拿起"
 "这把剑，你最恐惧的东西将出现。”</b>这看上去是把好剑，但我敢冒险拿起它吗？"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "I fear no creature, I will take the blade!"
 msgstr "我无所畏惧,我接受!"
 
@@ -2537,7 +2592,7 @@ msgstr "今天看到了恶心的东西，怎么会这样。"
 msgid "The voices say I have no choice, I must attack!"
 msgstr "这声音说我没有选择......我必须进攻!"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "I don’t like the sound of this. I’m out of here."
 msgstr "我不喜欢这个声音。我要离开这里。"
 
@@ -2640,13 +2695,13 @@ msgstr ""
 msgid "A Subterranean Struggle"
 msgstr "地下挣扎"
 
-#. [modify_side]
 #. [side]
+#. [modify_side]
 msgid "team_name^Trolls"
 msgstr "巨魔"
 
-#. [modify_side]
 #. [side]
+#. [modify_side]
 msgid "team_name^Dwarves"
 msgstr "矮人"
 
@@ -2658,14 +2713,17 @@ msgstr "地下探险"
 msgid "Defeat all Enemies"
 msgstr "打倒所有敌人"
 
+#. [unit]: type=Quenoth Fighter
 #. [unit]: type=Desert Fighter
 msgid "Nantheos"
 msgstr "南斯奥"
 
+#. [unit]: type=Quenoth Fighter
 #. [unit]: type=Desert Archer
 msgid "Sylestria"
 msgstr "塞拉史翠"
 
+#. [unit]: type=Quenoth Flanker
 #. [unit]: type=Desert Ranger
 msgid "Rygar"
 msgstr "瑞格"
@@ -3076,19 +3134,19 @@ msgid ""
 "together, we must follow Grimnir."
 msgstr "看来我们的工作还没有完成。好吧，行动起来，让我们跟着格雷纳。"
 
-#. [event]: (role=Dwarf Defender)}, (role=Dwarf Defender)}
+#. [event]
 msgid "Dwarf Defender"
 msgstr "矮人守卫"
 
-#. [event]: (role=Dwarf Defender)}, (role=Dwarf Defender)}
+#. [event]
 msgid "Troll Defender"
 msgstr "巨魔守卫"
 
-#. [event]: (role=Dwarf Defender)}, (role=Dwarf Defender)}
+#. [event]
 msgid "Dwarf Leader"
 msgstr "矮人首领"
 
-#. [event]: (role=Dwarf Defender)}, (role=Dwarf Defender)}
+#. [event]
 msgid "Troll Leader"
 msgstr "巨魔首领"
 
@@ -3201,7 +3259,7 @@ msgstr ""
 msgid "But they both look evenly matched. Who should we ally with?"
 msgstr "但是他们看起来势均力敌。帮哪边？"
 
-#. [option]: speaker=$explorer.id
+#. [option]
 msgid "Let’s aid the dwarves."
 msgstr "让我们援助矮人。"
 
@@ -3223,7 +3281,7 @@ msgstr "凡丁死亡"
 msgid "Death of Nori"
 msgstr "诺瑞死亡"
 
-#. [option]: speaker=$explorer.id
+#. [option]
 msgid "Let’s aid the trolls."
 msgstr "我们帮巨魔。"
 
@@ -3254,8 +3312,8 @@ msgstr ""
 "前面那个看起来是个废弃的矮人要塞。如果我们能夺取那个要塞，我们就能开始招募我"
 "们自己的战士来投入战斗了。"
 
-#. [modify_unit]
 #. [then]
+#. [modify_unit]
 msgid "Troll Skirmisher"
 msgstr "巨魔游击兵"
 
@@ -3515,8 +3573,8 @@ msgstr "杀死巨魔首领"
 msgid "Troll Interrogator"
 msgstr "巨魔审问者"
 
-#. [unit]: type=Troll Whelp
 #. [unit]: type=Troll Whelp, id=Troll Assistant
+#. [unit]: type=Troll Whelp
 msgid "Troll Assistant"
 msgstr "巨魔助手"
 
@@ -3614,8 +3672,8 @@ msgstr "有入侵者！杀啊！"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Wounded Dwarf
+#. [message]: speaker=Kaleh
 msgid "Never!"
 msgstr "绝不!"
 
@@ -3697,15 +3755,15 @@ msgstr ""
 
 # 游戏中双日之下没有出现中文
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"Any unit that ends its turn on a lava hex, except the Desert Shyde and Star "
-"who can fly over the lava, will take 25 damage at the beginning of the next "
-"turn. This lava damage can kill units. Desert Shydes and Stars will just "
-"take $heat_damage damage per turn when flying over lava, though they too can "
-"die if they spend too much time over lava. Also because of the heat in the "
-"cavern, all units on cave floor hexes will take $heat_damage damage at the "
-"start of each turn. This heat damage can reduce a unit to 1 hit point, but "
-"it can’t kill it."
+"Any unit that ends its turn on a lava hex, except Shydes who can fly over "
+"the lava, will take 25 damage at the beginning of the next turn. This lava "
+"damage can kill units. Shydes will just take $heat_damage damage per turn "
+"when flying over lava, though they too can die if they spend too much time "
+"over it. Also because of the heat in the cavern, all units on cave floor "
+"hexes will take $heat_damage damage at the start of each turn. This heat "
+"damage can reduce a unit to 1 hit point, but it can’t kill it."
 msgstr ""
 "除了可以飞跃岩浆的沙漠仙子和沙漠之星以外，任何停留在岩浆上的单位都会在下一回"
 "合开始的时候受到25点伤害。当然如果沙漠仙子和沙漠之星在岩浆上停留太久，他们也"
@@ -3989,7 +4047,7 @@ msgstr ""
 "懂，不过上面刻的这只有着翡翠眼睛和巨大毒牙的毒蛇的威力我还是能看出来的。我们"
 "一般不容许下毒的行为，但是具体情况具体分析，我觉得我们以后能用得到这个。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "It might be useful, I’ll take it."
 msgstr "它应该会有用的——我要带上它。"
 
@@ -4007,7 +4065,7 @@ msgstr "剧毒翡翠魔杖"
 msgid "This wand makes this unit’s melee attacks deal poison damage."
 msgstr "这根魔杖使这个单位的近身攻击附带给敌人毒素伤害。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "On second thought, it’s better to leave the dead in peace."
 msgstr "想了想，还是让死者安息比较好。"
 
@@ -4021,8 +4079,8 @@ msgid "Enemies"
 msgstr "敌人"
 
 #. [side]
-#. [side]: id=Great Leader Darmog, type=Great Troll
 #. [side]: id=King Thurongar, type=Dwarvish Lord
+#. [side]: id=Great Leader Darmog, type=Great Troll
 #. [side]: id=Melusand, type=Mermaid Diviner
 msgid "Allies"
 msgstr "同盟"
@@ -4035,8 +4093,8 @@ msgstr "矮人领主"
 msgid "Kill Dwarf Chieftain"
 msgstr "杀死矮人首领"
 
-#. [event]
 #. [unit]: type=Dwarvish Steelclad, id=Dwarf Sergeant
+#. [event]
 msgid "Dwarf Sergeant"
 msgstr "矮人军士"
 
@@ -4095,10 +4153,10 @@ msgid "Once you done moving into position, Zurg will destroy wall."
 msgstr "一旦你靠近了那个位置，泽格就会打通那面墙。"
 
 #. [event]
-#. [unit]: type=Dwarvish Berserker
-#. [unit]: type=Dwarvish Dragonguard
 #. [unit]: type=Dwarvish Sentinel
 #. [unit]: type=Dwarvish Steelclad
+#. [unit]: type=Dwarvish Berserker
+#. [unit]: type=Dwarvish Dragonguard
 msgid "Dwarf Guard"
 msgstr "矮人守卫"
 
@@ -4479,7 +4537,7 @@ msgstr ""
 "倒”</b>虽然盗墓不太光彩，但是这腰带似乎是有魔力的，我想它的前主人应该不会介意"
 "失去它吧。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "I fear no ghosts, I’ll take it."
 msgstr "我不怕幽灵，让我把它拿走。"
 
@@ -4784,10 +4842,11 @@ msgid ""
 msgstr "选择单位持起烈火剑。如果需要，卡勒可以征募或召回其他人。"
 
 #. [message]: speaker=King Thurongar
+#, fuzzy
 msgid ""
 "And now I think you should be off as soon as possible. The trolls have "
-"retreated back into their holes for the present, but who knows when they "
-"will strike again."
+"retreated into their holes for the present, but who knows when they will "
+"strike again."
 msgstr "现在我想你应该尽快离开了。巨魔退回了洞穴，但不知什么时候会再来进攻。"
 
 #. [message]: speaker=Nym
@@ -4814,7 +4873,14 @@ msgid ""
 "remember you, Elyssa."
 msgstr "我会自豪的挥舞这利刃，看到它，我会想起你，伊丽莎。"
 
-#. [option]: speaker=unit
+#. [message]: speaker=King Thurongar
+msgid ""
+"And now I think you should be off as soon as possible. The trolls have "
+"retreated back into their holes for the present, but who knows when they "
+"will strike again."
+msgstr "现在我想你应该尽快离开了。巨魔退回了洞穴，但不知什么时候会再来进攻。"
+
+#. [option]
 msgid "No, I think someone else should wield it."
 msgstr "不，我想应该换别人使用它。"
 
@@ -4830,8 +4896,8 @@ msgstr "大首领大摩格"
 msgid "Nog"
 msgstr "诺格"
 
-#. [unit]: type=Troll Shaman
 #. [unit]: type=Troll Shaman, id=Spiritual Advisor
+#. [unit]: type=Troll Shaman
 msgid "Spiritual Advisor"
 msgstr "圣言者"
 
@@ -5135,6 +5201,7 @@ msgid "Wait, did you feel that?"
 msgstr "等下，你们感觉到什么了吗？"
 
 #. [message]: speaker=Nym
+#. [message]
 #. [message]: type=Desert Fighter3, Desert Fighter4, Desert Fighter5, Desert Fighter6, Desert Fighter7, Desert Fighter8
 msgid "What?"
 msgstr "什么？"
@@ -5143,8 +5210,8 @@ msgstr "什么？"
 msgid "It felt like a distant rumbling. And what’s that roaring sound?"
 msgstr "远处似乎传来轰隆隆的异响。这个轰鸣声是什么？"
 
-#. [unit]: type=Troll Shaman, role=avenger
 #. [unit]: type=Troll Whelp
+#. [unit]: type=Troll Shaman, role=avenger
 msgid "Troll Avenger"
 msgstr "巨魔复仇者"
 
@@ -5158,8 +5225,8 @@ msgstr ""
 "了。死后再见我们吧！"
 
 #. [unit]: type=Dwarvish Fighter
-#. [unit]: type=Dwarvish Pathfinder, role=avenger
 #. [unit]: type=Dwarvish Thunderer
+#. [unit]: type=Dwarvish Pathfinder, role=avenger
 msgid "Dwarf Avenger"
 msgstr "矮人复仇者"
 
@@ -5730,7 +5797,7 @@ msgstr ""
 "的。现在他好像漂浮在那发光的魔法阵的中央睡觉。我可以擦除那圈的一部分来破坏"
 "它，但我不知道这会有什么后果。我可不想那种东西来攻击我。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "Break the circle"
 msgstr "破坏魔法圈"
 
@@ -5770,7 +5837,7 @@ msgid ""
 "what it likes to eat?"
 msgstr "它肯定不适合我，虽然挺厉害。不知道它吃什么？"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "Leave that thing alone."
 msgstr "别考虑这种事了。"
 
@@ -5863,7 +5930,7 @@ msgstr ""
 "这是什么？祭坛边缘下边有个铁制拉杆。看起来有点锈住了，不过我用点力就能拉动"
 "它。我不知道这是干嘛用的，不过我们也别无选择了。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "Pull the lever."
 msgstr "拉动拉杆。"
 
@@ -5898,7 +5965,7 @@ msgid ""
 msgstr ""
 "没错，走东边的通道。我不知道它通向哪里，但是只要水继续在涨，哪里都比这里好。"
 
-#. [option]: speaker=unit
+#. [option]
 msgid "Leave it alone."
 msgstr "放开它。"
 
@@ -6327,8 +6394,8 @@ msgstr ""
 "若格瑞莫，谢谢你带我们离开洞穴。如果没有你我们一定走不到这里。但是坑道已经被"
 "洪水淹了，你怎么回去呢？"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "Och, it is I who should be congratulating you, laddie. I showed you the way, "
 "but it was you and your people who defeated the many perils and obstacles to "
@@ -6337,8 +6404,8 @@ msgstr ""
 "呀，小伙子，要表示祝贺的人是我啊。我只是指示了道路，真正在旅途中克服了困难越"
 "过了阻碍的人是你和你的人民们。我这辈子还没有见过像你们这么勇敢的人。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "But truly I cannot return the way I came and even if there are other tunnels "
 "which lead back down to my homeland, I do not know where to search for them. "
@@ -6347,8 +6414,8 @@ msgstr ""
 "不过我的确不能原路返回了，而且就算有另外一条能回去的路，我也不知道该去哪里找"
 "了。对于这里地面上的情况，我和你们一样一无所知。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "But my king told me to protect you from all dangers, and I plan to keep that "
 "oath. I do not like the above ground, it is too open and exposed; I feel "
@@ -6427,8 +6494,8 @@ msgstr ""
 "天际似乎有闪光，但我不知道那是什么。"
 
 #. [event]
-#. [side]
 #. [unit]: type=Divine Avatar, id=Eloh
+#. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
 msgid "Eloh"
 msgstr "伊洛"
@@ -6463,8 +6530,8 @@ msgid ""
 "you to congratulate you."
 msgstr "你怀疑我的力量？你从黑暗中脱出，我现身来祝贺你。"
 
-#. [message]: speaker=Zhul
 #. [message]: speaker=unit
+#. [message]: speaker=Zhul
 msgid "Kaleh, who are you talking to?"
 msgstr "卡勒，你和谁说话？"
 
@@ -6572,8 +6639,8 @@ msgstr ""
 "我当然是神。哦，你能了解的实在太少了。不要担心那些小小的问题。听我的话，你就"
 "会最终了解。"
 
-#. [event]
 #. [unit]: type=Human Commander, id=Sergeant Durstrag
+#. [event]
 msgid "Sergeant Durstrag"
 msgstr "德崔格长官"
 
@@ -6769,8 +6836,8 @@ msgid ""
 "squish."
 msgstr "诺格也不喜欢人类。他们很小气。但是他们被压扁的时候的声音还挺好听。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "I never liked humans much anyway. I’ll be glad to be fighting something "
 "besides undead."
@@ -6829,7 +6896,7 @@ msgstr "那我们要确保没有任何一个信使能逃出这个山谷去请求
 msgid "If a human messenger escapes the valley"
 msgstr "人类信使逃脱山谷"
 
-#. [objectives]
+#. [note]
 msgid "The messenger is the leader of the special white colored units"
 msgstr "信使是白色装束的特别单位的首领。"
 
@@ -7291,10 +7358,10 @@ msgstr "血浓于水"
 msgid "Darius"
 msgstr "达瑞斯"
 
-#. [side]
 #. [side]: type=Human Commander, id=Darius
-#. [side]: type=Javelineer, id=Alastra
+#. [side]
 #. [side]: type=Shock Trooper, id=Zelgant
+#. [side]: type=Javelineer, id=Alastra
 msgid "Human Allies"
 msgstr "人类同盟"
 
@@ -7318,10 +7385,12 @@ msgstr "在第十六回合前至少救出两个人鱼"
 msgid "Three merfolk must survive"
 msgstr "至少三个人鱼存活"
 
+#. [unit]: type=Quenoth Fighter, id=Ulothanir
 #. [unit]: type=Desert Fighter, id=Ulothanir
 msgid "Ulothanir"
 msgstr "乌洛珊"
 
+#. [unit]: type=Quenoth Scout, id=Elonea
 #. [unit]: type=Desert Archer, id=Elonea
 msgid "Elonea"
 msgstr "艾洛尼"
@@ -7362,8 +7431,8 @@ msgid ""
 "under hot sun."
 msgstr "树木看起来又大又壮，就像巨魔一样，还很阴凉，诺格厌倦了在烈日下行走。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "It looks nice and dark under the trees, less exposed to that blazing sun. "
 "I’m exhausted after walking across all that harsh sand."
@@ -7909,8 +7978,8 @@ msgid ""
 msgstr ""
 "讨厌的精灵已经放出了一些人鱼。他们还在闹事。执行第二计划。杀了那些人鱼！"
 
-#. [message]: speaker=Alastra
 #. [message]: speaker=Darius
+#. [message]: speaker=Alastra
 msgid "I must go report to the Iron Council. Keep fighting!"
 msgstr "我必须去报告给钢铁议会。继续战斗！"
 
@@ -7943,6 +8012,7 @@ msgstr ""
 "那是钢铁三巨头之一。他们很少离开他们的殿堂。他们一般都让他们的手下来干肮脏的"
 "活。"
 
+#. [unit]: type=Quenoth Champion, id=Tanstafaal
 #. [unit]: type=Desert Captain, id=Tanstafaal
 msgid "Tanstafaal"
 msgstr "坦斯特福"
@@ -7974,10 +8044,12 @@ msgid ""
 "Behold, our goddess has returned to us. All bow down to Eloh, our savior!"
 msgstr "安静，我们的女神回来了。膜拜我们的救主伊洛！"
 
+#. [message]
 #. [message]: type=Desert Fighter3, Desert Fighter4, Desert Fighter5, Desert Fighter6, Desert Fighter7, Desert Fighter8, Desert Hunter3, Desert Hunter4, Desert Hunter5, Desert Hunter6, Desert Hunter7, Desert Hunter8
 msgid "The Goddess!"
 msgstr "女神！"
 
+#. [message]
 #. [message]: type=Desert Archer3, Desert Archer4, Desert Archer5, Desert Archer6, Desert Archer7, Desert Archer8
 msgid "Forgive me my sins!"
 msgstr "请原谅我的罪过！"
@@ -7998,11 +8070,13 @@ msgid ""
 msgstr ""
 "我来告诉你们一个坏消息：你们中有一个人背叛了我，他是你们遭受磨难的原因。"
 
+#. [message]
 #. [message]: speaker=Zhul
 #. [message]: type=Desert Hunter3, Desert Hunter4, Desert Hunter5, Desert Hunter6, Desert Hunter7, Desert Hunter8
 msgid "No!"
 msgstr "不！"
 
+#. [message]
 #. [message]: type=Desert Archer3, Desert Archer4, Desert Archer5, Desert Archer6, Desert Archer7, Desert Archer8
 msgid "Who?"
 msgstr "谁？"
@@ -8071,6 +8145,7 @@ msgstr ""
 "的矮人。同样地，在我们从洞穴里逃出来的时候，她又向我显现，让我服从人类，否则"
 "她就要毁了我。真正的伊洛绝不会威胁我们中的任何人，也不会命令我们去做任何事。"
 
+#. [message]
 #. [message]: type=Desert Fighter3, Desert Fighter4, Desert Fighter5, Desert Fighter6, Desert Fighter7, Desert Fighter8, Desert Hunter3, Desert Hunter4, Desert Hunter5, Desert Hunter6, Desert Hunter7, Desert Hunter8, Desert Archer3, Desert Archer4, Desert Archer5, Desert Archer6, Desert Archer7, Desert Archer8
 msgid ""
 "Why should we trust you? We have not heard Eloh’s words directly. Only now "
@@ -8115,6 +8190,7 @@ msgstr ""
 "的巨魔。同样地，在我们从洞穴里逃出来的时候，她又向我显现，让我服从人类，否则"
 "她就要毁了我。真正的伊洛绝不会威胁我们中的任何人，也不会命令我们去做任何事。"
 
+#. [message]
 #. [message]: type=Desert Fighter3, Desert Fighter4, Desert Fighter5, Desert Fighter6, Desert Fighter7, Desert Fighter8, Desert Hunter3, Desert Hunter4, Desert Hunter5, Desert Hunter6, Desert Hunter7, Desert Hunter8, Desert Archer3, Desert Archer4, Desert Archer5, Desert Archer6, Desert Archer7, Desert Archer8
 msgid ""
 "Why should we trust you? We have not heard these words directly. Only now "
@@ -8201,8 +8277,8 @@ msgstr ""
 "大首领告诉果洛格要追随你，所以诺格会继续听从你的命令。其他精灵应该在那个离岸"
 "的岛上。我们怎样才能渡过深水区呢？"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "The chieftain told me to serve you, and it will take more than this to "
 "shatter my confidence in you, lad. But those elves must be out on a "
@@ -8369,17 +8445,9 @@ msgstr "可怜的克伦夫，他最终安息了。"
 msgid "Angry Crab"
 msgstr "生气的螃蟹"
 
-#. [message]: role=Angry Crab
-msgid "Aaaargh! Fresh meat!"
-msgstr "啊嘎呃! 鲜肉!"
-
 #. [message]: speaker=unit
 msgid "Where did those things come from? They look dangerous."
 msgstr "它们从哪儿来的？危险。"
-
-#. [message]: role=Angry Crab
-msgid "Gaaaggghhh! Kill!"
-msgstr "嘎! 杀!"
 
 #. [message]: speaker=unit
 msgid "What are those things? They looked like ticked off giant crabs."
@@ -8477,9 +8545,10 @@ msgid "Gosh, just when things were starting to calm down."
 msgstr "天啊，一瞬间安静下来了。"
 
 #. [message]: speaker=Zhul
+#, fuzzy
 msgid ""
 "Our people are scattered and exhausted, where will we go now Kaleh? Shall we "
-"retreat back into the dunes?"
+"retreat into the dunes?"
 msgstr ""
 "我们的人分散开了而且精疲力尽，卡勒我们现在该往哪里去？我们要退回沙丘上么？"
 
@@ -8568,8 +8637,8 @@ msgstr ""
 "诺格害怕水和明亮的太阳，但是诺格不会违背大首领。大首领要我追随卡勒，那诺格就"
 "会一直跟着卡勒。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "Ouch, being stuck between the water and the sun is a terrible place to be, "
 "but where you go I will follow."
@@ -8775,10 +8844,10 @@ msgstr "对鱼谈话"
 msgid "Melusand"
 msgstr "美露莎"
 
-#. [unit]: type=Merman Entangler
+#. [unit]: type=Merman Warrior
 #. [unit]: type=Merman Hoplite
 #. [unit]: type=Merman Spearman
-#. [unit]: type=Merman Warrior
+#. [unit]: type=Merman Entangler
 msgid "Merfolk Guard"
 msgstr "鱼人守卫"
 
@@ -8840,8 +8909,8 @@ msgstr ""
 "不，你们不必自我介绍。我已经知道你们是谁，也知道你们一路旅途的目的。而且我要"
 "说，若格瑞莫，你最近的举动，以及你和这些好伙伴的相处，都为你的族人争了光。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid "Thank you for your kindness."
 msgstr "谢谢你的友善。"
 
@@ -9232,8 +9301,8 @@ msgid ""
 "her war for her?"
 msgstr "诺格不知道这位鱼女士是否可信。万一她是骗你们精灵帮她打仗呢？"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "I’m still not sure I trust her. What if she’s just trying to get you all to "
 "fight her war for her?"
@@ -9391,8 +9460,8 @@ msgstr ""
 "爪。如果大首领知道要对抗这样一个恶魔，他一定会交给你一整支巨魔军队的，但是恐"
 "怕现在你只有诺格一个。不过诺格依然会全力以赴来打败她的。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "Even in the deepest tunnels underground we could not forever escape "
 "Yechnagoth’s power if she remains unchecked. Against such evil I am sure my "
@@ -9762,10 +9831,10 @@ msgstr "左克拉诺岛之战"
 msgid "Boyicht"
 msgstr "波依奇"
 
-#. [side]
+#. [side]: type=Saurian Oracle, id=Boyicht
 #. [side]: type=Draug, id=Kelur
 #. [side]: type=Orcish Sovereign, id=Graghht
-#. [side]: type=Saurian Oracle, id=Boyicht
+#. [side]
 msgid "Eloh Cultists"
 msgstr "伊洛信徒"
 
@@ -9785,10 +9854,12 @@ msgstr "被困的人鱼"
 msgid "Kaleh must capture a keep"
 msgstr "卡勒 必须占领一个要塞"
 
+#. [unit]: type=Quenoth Fighter
 #. [unit]: type=Desert Hunter
 msgid "Eagath"
 msgstr "伊格斯"
 
+#. [unit]: type=Quenoth Scout
 #. [unit]: type=Desert Archer
 msgid "Alusan"
 msgstr "厄鲁森"
@@ -10267,8 +10338,8 @@ msgstr ""
 "诺格不会让卡勒一个人承担所有的战斗。卡勒需要像诺格这样强大的战士。其他精灵或"
 "许会害怕，但是诺格从不怕黑暗的地方，诺格只是希望那里有点东西可以砸碎。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "I’ve followed that boy this far, I’m not going to just let him march in "
 "there without me. Besides, whoever heard of a dwarf being afraid of going "
@@ -10367,10 +10438,12 @@ msgid ""
 "and despair!"
 msgstr "你是这么认为的吗？我会证明你是错的。看看外面你的族人，绝望吧！"
 
+#. [unit]: type=Quenoth Fighter, id=Anarion
 #. [unit]: type=Desert Fighter, id=Anarion
 msgid "Anarion"
 msgstr "艾纳瑞"
 
+#. [unit]: type=Tauroch Rider, id=Zylea
 #. [unit]: type=Desert Archer, id=Zylea
 msgid "Zylea"
 msgstr "吉离"
@@ -10454,6 +10527,7 @@ msgstr ""
 "荒唐，我怎么会是那个蠢货，我才不会惦记着复仇这种无关紧要的事，我也不需要凡人"
 "来履行我的意志。不需要，我要亲自杀了你们！"
 
+#. [message]: type=Quenoth Fighter, Tauroch Rider
 #. [message]: type=Desert Fighter, Desert Archer
 msgid "Huh? What happened?"
 msgstr "哈？发生什么事了？"
@@ -10463,6 +10537,7 @@ msgid ""
 "Her spell has been broken. But I don’t think we have won yet. Come aid us!"
 msgstr "她的咒语解除了，但我们还没有胜利。来帮我们！"
 
+#. [message]: type=Quenoth Fighter, Tauroch Rider
 #. [message]: type=Desert Fighter, Desert Archer
 msgid "Yes priestess."
 msgstr "遵命，祭祀。"
@@ -10572,8 +10647,8 @@ msgstr ""
 "啊，血、内脏还有恶心的蓝色液体溅了果洛格一身。她到底是什么鬼东西，死了都这么"
 "难闻。"
 
-#. [message]: speaker=Jarl
 #. [message]: speaker=Rogrimir
+#. [message]: speaker=Jarl
 msgid ""
 "Ugh. I’m covered in blood and guts, and this nasty blue stuff. I don’t know "
 "what in the nine hells we were fighting, but she doesn’t smell any better "
@@ -11305,11 +11380,31 @@ msgstr "那我们可不能错过啊。去年还有酒留下吗？"
 msgid "We’ll just have to find out. Come on!"
 msgstr "我们去找找看，来啊！"
 
+# 游戏中双日之下没有出现中文
+#. [message]: speaker=narrator
+msgid ""
+"Any unit that ends its turn on a lava hex, except the Desert Shyde and Star "
+"who can fly over the lava, will take 25 damage at the beginning of the next "
+"turn. This lava damage can kill units. Desert Shydes and Stars will just "
+"take $heat_damage damage per turn when flying over lava, though they too can "
+"die if they spend too much time over lava. Also because of the heat in the "
+"cavern, all units on cave floor hexes will take $heat_damage damage at the "
+"start of each turn. This heat damage can reduce a unit to 1 hit point, but "
+"it can’t kill it."
+msgstr ""
+"除了可以飞跃岩浆的沙漠仙子和沙漠之星以外，任何停留在岩浆上的单位都会在下一回"
+"合开始的时候受到25点伤害。当然如果沙漠仙子和沙漠之星在岩浆上停留太久，他们也"
+"会死的，飞跃岩浆时，他们每回合会受到 $temp_damage 点伤害。同时由于洞穴里的高"
+"温，所有在洞穴中的单位每回合开始的时候会受到 $temp_damage 点伤害，这种热量的"
+"伤害最多会让单位的血量减到1点，但不会致死。"
+
 #. [unit_type]: id=Corrupted Elf, race=elf
+#. [unit_type]: id=Corrupted Quenoth Elf, race=elf
 msgid "Corrupted Elf"
 msgstr "堕落精灵"
 
 #. [unit_type]: id=Corrupted Elf, race=elf
+#. [unit_type]: id=Corrupted Quenoth Elf, race=elf
 msgid ""
 "Imbued with a dark spirit these corrupted elves combine unhuman strength "
 "with potent magics to create formidable opponents. Though the elvish body "
@@ -11366,8 +11461,8 @@ msgstr ""
 msgid "female^Desert Avenger"
 msgstr "沙漠复仇者"
 
-#. [unit_type]: id=Desert Captain, race=elf
 #. [variation]
+#. [unit_type]: id=Desert Captain, race=elf
 msgid "Desert Captain"
 msgstr "沙漠队长"
 
@@ -11380,8 +11475,8 @@ msgstr ""
 "沙漠队长掌握指挥的艺术，他们能提升相邻的级别为1的己方单位的能力。沙漠队长更喜"
 "欢和敌人近战，但他们也接受过弓箭训练。"
 
-#. [unit_type]: id=Desert Champion, race=elf
 #. [variation]
+#. [unit_type]: id=Desert Champion, race=elf
 msgid "Desert Champion"
 msgstr "沙漠斗士"
 
@@ -11419,8 +11514,8 @@ msgstr "诱捕"
 msgid "thorns"
 msgstr "荆棘"
 
-#. [unit_type]: id=Desert Fighter, race=elf
 #. [variation]
+#. [unit_type]: id=Desert Fighter, race=elf
 msgid "Desert Fighter"
 msgstr "沙漠战士"
 
@@ -11433,8 +11528,8 @@ msgstr ""
 "沙漠战士是奎诺军中的主力。他们同时接受剑术和弓道的训练，就像其他大部分同胞一"
 "样，他们更喜欢用剑而不是弓。这些精灵脚力不错，在开阔的沙地里他们效率最高。"
 
-#. [unit_type]: id=Desert Hero, race=elf
 #. [variation]
+#. [unit_type]: id=Desert Hero, race=elf
 msgid "Desert Hero"
 msgstr "沙漠英雄"
 
@@ -11472,13 +11567,13 @@ msgstr ""
 "沙漠猎人被训练来搜索沙漠中的猎物和敌人。沙漠猎人能快速用链球缠住敌人，然后用"
 "剑结果他们。"
 
-#. [attack]: type=impact
 #. [effect]: type=impact
+#. [attack]: type=impact
 msgid "bolas"
 msgstr "链球"
 
-#. [female]
 #. [unit_type]: id=Nym Hunter
+#. [female]
 msgid "female^Desert Hunter"
 msgstr "沙漠猎人"
 
@@ -11504,8 +11599,8 @@ msgstr "长弓"
 msgid "female^Desert Marksman"
 msgstr "沙漠狙击手"
 
-#. [unit_type]: id=Desert Marshal, race=elf
 #. [variation]
+#. [unit_type]: id=Desert Marshal, race=elf
 msgid "Desert Marshal"
 msgstr "沙漠元帅"
 
@@ -11544,8 +11639,8 @@ msgstr ""
 "靠近敌人，偷袭他们。他们的武器结合了链球和剑，可以轻易地杀死敌人或者使他们残"
 "废。"
 
-#. [female]
 #. [unit_type]: id=Nym Prowler
+#. [female]
 msgid "female^Desert Prowler"
 msgstr "沙漠巡游者"
 
@@ -11599,8 +11694,8 @@ msgstr ""
 "沙漠护卫巡视沙漠，他们会在时机有利时驱逐敌人。沙漠护卫能用链球削弱敌人，然后"
 "用剑取其性命。"
 
-#. [female]
 #. [unit_type]: id=Nym Sentinel
+#. [female]
 msgid "female^Desert Sentinel"
 msgstr "沙漠护卫"
 
@@ -11648,8 +11743,8 @@ msgstr ""
 "沙漠仙子是精灵中献身自然和仙境的存在。背后伸出的蜻蜓般的翅膀让她们光彩夺目。"
 "她们可以轻松地从空中掠过几乎所有的地形。"
 
-#. [unit_type]: id=Desert Shyde, race=elf
 #. [unit_type]: id=Desert Star
+#. [unit_type]: id=Desert Shyde, race=elf
 msgid "SPECIAL_NOTE^ This unit can fly across any terrain except deep water."
 msgstr "本单位可以飞越除深水外的一切地形。"
 
@@ -11781,9 +11876,14 @@ msgstr ""
 "当本单位在沙丘、沙山、绿洲和沙地火山口中的时候，敌人无法发现他，除非敌人就在"
 "相邻的格子上。第一个发现隐藏状态下的本单位都将立即失去其剩余的所有移动点数。"
 
+#. [unit_type]: id=Kaleh, race=elf
 msgid "Kaleh of the Quenoth Elves"
 msgstr "奎诺精灵卡勒"
 
+#. [unit_type]: id=Kaleh, race=elf
+#. [unit_type]: id=Quenoth Youth, race=elf
+#. [unit_type]: id=Quenoth Youth 2, race=elf
+#. [unit_type]: id=Quenoth Youth 3, race=elf
 msgid ""
 "Kaleh is still a young Elf of the Quenoth, on the verge of adulthood. He "
 "trained with his father with the bow and sword, joining him in lighter "
@@ -11802,8 +11902,8 @@ msgid "Desert Youth"
 msgstr "沙漠青年"
 
 #. [unit_type]: id=Nym Hunter
-#. [unit_type]: id=Nym Prowler
 #. [unit_type]: id=Nym Sentinel
+#. [unit_type]: id=Nym Prowler
 msgid ""
 "Nym is Kaleh’s childhood friend who follows the tradition of a family of "
 "Desert Hunters, as much as that can be said about a young, rebellious lady "
@@ -11887,14 +11987,16 @@ msgstr ""
 "对方；它们也能从远处喷出一张网，使敌人的速度减慢。"
 
 #. [unit_type]: id=Crab Man, race=monster
-msgid "Crab Man"
-msgstr "螃蟹人"
+#, fuzzy
+msgid "Monster Crab"
+msgstr "怪物"
 
 #. [unit_type]: id=Crab Man, race=monster
+#, fuzzy
 msgid ""
-"The Crab Men are part crab, part humanoid, and are certainly one of the most "
-"twisted monsters ever recorded by the sages of Wesnoth. Probably the "
-"creation of some twisted mage, these monstrosities have spread into the wild "
+"The Monster Crab is a semi-sentient crab the size of a horse. It is one of "
+"many twisted monsters recorded by the sages of Wesnoth and probably the "
+"creation of some twisted mage. These monstrosities have spread into the wild "
 "and prefer to live around coastal waters, preying on both humans and animals."
 msgstr ""
 "螃蟹人是半螃蟹半人的生物，它是被韦诺学者们记录下的怪物中最为扭曲的一种了，可"
@@ -12002,6 +12104,7 @@ msgid "Naga Guardian"
 msgstr "纳迦守卫"
 
 #. [unit_type]: id=Naga Guardian, race=naga
+#. [unit_type]: id=Naga Sentinel, race=naga
 #. [unit_type]: id=Naga Warden, race=naga
 msgid ""
 "These heavy fighters are the elite guards of the naga. They are slower and "
@@ -12035,17 +12138,6 @@ msgstr ""
 msgid "Naga Sentinel"
 msgstr "纳迦护卫"
 
-#. [unit_type]: id=Naga Sentinel, race=naga
-msgid ""
-"The heavy fighters are the elite guards of the naga. They are slower and "
-"more heavily armored than most naga and wield huge maces which they use to "
-"crush their enemies. They mostly guard naga outposts, but occasionally "
-"participate in offensive raids."
-msgstr ""
-"这些重装战士是纳迦守卫者中的精英。他们比一般娜迦穿着更厚的盔甲，但移动得也更"
-"慢，他们会挥舞巨大的锤子来击碎敌人。他们通常守卫着娜迦的哨卡，但有时也参与进"
-"攻行动。"
-
 #. [unit_type]: id=Naga Warden, race=naga
 msgid "Naga Warden"
 msgstr "纳迦典狱官"
@@ -12070,6 +12162,342 @@ msgstr "长镰刀"
 #. [attack]: type=blade
 msgid "darts"
 msgstr "螯刺"
+
+#. [unit_type]: id=Quenoth Archer, race=elf
+#, fuzzy
+msgid "Quenoth Archer"
+msgstr "沙漠弓手"
+
+#. [unit_type]: id=Quenoth Archer, race=elf
+msgid ""
+"With the open sands providing much less protection than their old forests "
+"did, the wide ranks of elvish archers that could once have stopped an "
+"advancing orcish horde in its tracks have all but disappeared. Instead, the "
+"few who still choose to dedicate themselves to the traditional weapon of "
+"their ancestors practise the art from the saddle, easily avoiding the perils "
+"of melee combat."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Champion, race=elf
+#, fuzzy
+msgid "Quenoth Champion"
+msgstr "沙漠斗士"
+
+#. [attack]: type=pierce
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Druid, race=elf
+#, fuzzy
+msgid "female^Quenoth Druid"
+msgstr "沙漠德鲁伊"
+
+#. [attack]: type=impact
+#, fuzzy
+msgid "sand"
+msgstr "美露莎"
+
+#. [unit_type]: id=Quenoth Fighter, race=elf
+#, fuzzy
+msgid "Quenoth Fighter"
+msgstr "沙漠战士"
+
+#. [unit_type]: id=Quenoth Fighter, race=elf
+msgid ""
+"Fighters make up the bulk of the Quenoth warriors. Aside from being "
+"proficient in the use of the spear, they are remarkably skilled in working "
+"together and coordinating defense."
+msgstr ""
+
+#. [unit_type]: id=Tauroch Flagbearer, race=elf
+#, fuzzy
+msgid "Tauroch Flagbearer"
+msgstr "火焰巨魔"
+
+#. [unit_type]: id=Tauroch Flagbearer, race=elf
+msgid ""
+"Carrying the banners of the Quenoth elves into battle, the prestigious "
+"Flagbearers are also masters of tactics. Any enemy commander intending on "
+"besting them on the battlefield must invariably possess vastly superior "
+"numbers."
+msgstr ""
+
+#. [attack]: type=impact
+msgid "ram"
+msgstr ""
+
+#. [attack]: type=pierce
+msgid "javelin"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Flanker, race=elf
+msgid "Quenoth Flanker"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Flanker, race=elf
+msgid ""
+"Some fighters find that their true talents lie not within rigid spear ranks, "
+"but out in the sands, striking at the flanks and rear of enemy forces. Fast "
+"and nimble, these elves can take advantage of the smallest weaknesses in "
+"enemy formations."
+msgstr ""
+
+#. [attack]: type=pierce
+msgid "blowgun"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Horseman, race=elf
+#, fuzzy
+msgid "Quenoth Horseman"
+msgstr "沙漠骑兵"
+
+#. [unit_type]: id=Quenoth Horseman, race=elf
+msgid ""
+"In most cases, turning and fleeing from an engagement is a risky tactic. "
+"These elusive Horsemen, however, are masters of weakening an enemy while at "
+"the same time provoking them to give chase — often into a trap."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Marksman, race=elf
+#, fuzzy
+msgid "Quenoth Marksman"
+msgstr "沙漠狙击手"
+
+#. [unit_type]: id=Quenoth Marksman, race=elf
+msgid ""
+"A marksman can loose volleys of arrows at their enemies with deadly "
+"accuracy, even at full gallop."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Moon Shyde, race=elf
+#, fuzzy
+msgid "female^Quenoth Moon Shyde"
+msgstr "沙漠仙子"
+
+#. [attack]: type=cold
+#. [attack]: type=arcane
+#. [attack]: type=fire
+msgid "touch"
+msgstr "触碰"
+
+#. [attack]: type=cold
+#, fuzzy
+msgid "chill gale"
+msgstr "冷冻波"
+
+#. [unit_type]: id=Quenoth Moon Singer, race=elf
+#, fuzzy
+msgid "female^Quenoth Moon Singer"
+msgstr "沙漠游侠"
+
+#. [unit_type]: id=Quenoth Mystic, race=elf
+#, fuzzy
+msgid "female^Quenoth Mystic"
+msgstr "奎诺精灵卡勒"
+
+#. [unit_type]: id=Quenoth Mystic, race=elf
+msgid ""
+"Like their ancestors, Quenoth Mystics have the potential to become great "
+"wielders of magic. It is a testament to the resilience of elves that they "
+"are able to accomplish this in a world devoid of the vast forests from which "
+"their forebears drew much of their strength from."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Outrider, race=elf
+#, fuzzy
+msgid "Quenoth Outrider"
+msgstr "沙漠游骑兵"
+
+#. [unit_type]: id=Quenoth Outrider, race=elf
+#, fuzzy
+msgid ""
+"Riding like the wind, Outriders breeze across the sands to strike at weaker "
+"units and exposed flanks, before flying off into the sands to evade response."
+msgstr ""
+"沙漠游骑兵像风一样飞驰，他们掠过沙地去攻击较弱的敌人和敌阵的侧翼。沙漠游骑兵"
+"擅长用剑，也接受过弓箭训练，他们会给予敌人一记重击，随后撤回沙漠以回避敌人的"
+"反击。"
+
+#. [unit_type]: id=Tauroch Protector, race=elf
+msgid "Tauroch Protector"
+msgstr ""
+
+#. [unit_type]: id=Tauroch Protector, race=elf
+msgid ""
+"It is told that once, an elf fleeing from an orcish hunting party came "
+"across a young stray tauroch on a small oasis. Understanding that neither "
+"meant any harm to the other, they are said to have fought side by side "
+"through a long night, driving off the orcs at sunrise. Afterwards, as the "
+"elf had mended the tauroch's wounds and finally collapsed from exhaustion, "
+"the beast had gently picked her up with its horns and carried back to her "
+"village.\n"
+"\n"
+"Whether the story is true is unknown, but the loyalty and resolve of these "
+"mounts and riders both is undeniable."
+msgstr ""
+
+#. [attack]: type=impact
+msgid "trample"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Ranger, race=elf
+#, fuzzy
+msgid "Quenoth Ranger"
+msgstr "沙漠游侠"
+
+#. [unit_type]: id=Tauroch Rider, race=elf
+msgid "Tauroch Rider"
+msgstr ""
+
+#. [unit_type]: id=Tauroch Rider, race=elf
+msgid ""
+"Taurochs are huge, hardened beasts of the desert, considered untamable by "
+"most surviving races. However, the elves' affinity with nature has allowed "
+"them to form an unlikely bond with them. While taurochs can easily carry or "
+"pull heavy loads, their thick hides and unwavering resolution also make them "
+"formidable mounts in battle. A tauroch guided by a skilled rider can hold "
+"off multiple enemies long enough for assistance to arrive."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Scout, race=elf
+#, fuzzy
+msgid "Quenoth Scout"
+msgstr "人类哨兵"
+
+#. [unit_type]: id=Quenoth Scout, race=elf
+#, fuzzy
+msgid ""
+"The Quenoth Scouts move swiftly across the sands. Their skill on horseback "
+"is virtually unmatched, which they use to harry and incapacitate enemies."
+msgstr "沙漠哨兵在沙漠中移动迅速，虽然他们骑术出众，但是缺乏战斗能力。"
+
+#. [unit_type]: id=Quenoth Shaman, race=elf
+#, fuzzy
+msgid "female^Quenoth Shaman"
+msgstr "沙漠萨满"
+
+#. [unit_type]: id=Quenoth Shaman, race=elf
+msgid ""
+"Shamans seek to maintain the elves' traditional connection with the natural "
+"world. Using their vast knowledge of plants of the desert to heal allies and "
+"their magical abilities to bolster crops, they serve an invaluable role "
+"among the Quenoth elves."
+msgstr ""
+
+#. [unit_type]: id=Tauroch Stalwart, race=elf
+msgid "Tauroch Stalwart"
+msgstr ""
+
+#. [unit_type]: id=Tauroch Stalwart, race=elf
+msgid ""
+"It is difficult enough to dislodge a stubborn wild tauroch. When one has "
+"made common cause with a skilled javelineer on its back, however, it is "
+"wiser to seek another path."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Sun Shyde, race=elf
+#, fuzzy
+msgid "female^Quenoth Sun Shyde"
+msgstr "沙漠仙子"
+
+#. [unit_type]: id=Quenoth Sun Shyde, race=elf
+msgid ""
+"Stepping beyond what may have once been thought of as the boundaries of the "
+"faerie world, these shydes have transformed into beings of light and fire. "
+"Not having spent centuries exploring and perfecting their abilities as their "
+"ancestors did, it is unknown what may yet be achieved by elvenkind in the "
+"new world."
+msgstr ""
+
+#. [attack]: type=arcane
+#, fuzzy
+msgid "faerie fire"
+msgstr "仙境之触"
+
+#. [unit_type]: id=Quenoth Sun Singer, race=elf
+#, fuzzy
+msgid "female^Quenoth Sun Singer"
+msgstr "沙漠护卫"
+
+#. [unit_type]: id=Quenoth Sun Singer, race=elf
+msgid ""
+"Elves may be slower to adapt than many other races, but when they do, the "
+"results can be surprising. Where the elves of old may have sang the song of "
+"the woodlands, these elves have found their spiritual home in the light of "
+"the twin suns."
+msgstr ""
+
+#. [unit_type]: id=Tauroch Vanguard, race=elf
+msgid "Tauroch Vanguard"
+msgstr ""
+
+#. [unit_type]: id=Tauroch Vanguard, race=elf
+msgid ""
+"The massive and fearless taurochs are often employed not only to hold "
+"ground, but also to lead a charge to break enemy formations. Shielding and "
+"inspiring infantry behind them, these commanders can survive the thick of "
+"battle better than those on foot or on more slender mounts."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Warrior, race=elf
+#, fuzzy
+msgid "Quenoth Warrior"
+msgstr "被召唤的战士"
+
+#. [advancement]: id=hunter_1
+#, fuzzy
+msgid "Hunter"
+msgstr "纳迦猎手"
+
+#. [advancement]: id=leader_1
+#, fuzzy
+msgid "Leader"
+msgstr "那珈首领"
+
+#. [advancement]: id=warrior_2_1
+msgid "Warrior (choose only one): specialize in melee combat"
+msgstr ""
+
+#. [advancement]: id=warrior_2_2
+msgid "Warrior (choose only one): specialize in archery"
+msgstr ""
+
+#. [advancement]: id=hunter_2_1
+msgid "Hunter (choose only one): specialize in surprise attacks"
+msgstr ""
+
+#. [advancement]: id=hunter_2_2
+msgid "Hunter (choose only one): specialize in skirmishing"
+msgstr ""
+
+#. [advancement]: id=leader_2_1
+msgid "Leader (choose only one): specialize in supporting allies"
+msgstr ""
+
+#. [advancement]: id=leader_2_2
+msgid "Leader (choose only one): specialize in distracting enemies"
+msgstr ""
+
+#. [unit_type]: id=Quenoth Youth, race=elf
+#. [unit_type]: id=Quenoth Youth 2, race=elf
+#. [unit_type]: id=Quenoth Youth 3, race=elf
+#, fuzzy
+msgid "Quenoth Youth"
+msgstr "沙漠青年"
+
+#. [female]
+#, fuzzy
+msgid "female^Quenoth Youth"
+msgstr "奎诺精灵卡勒"
+
+#. [female]
+#, fuzzy
+msgid ""
+"Nym is Kaleh’s childhood friend, a young, rebellious lady with quick wits "
+"and strong will. Her high spirits are a great boon in dark times."
+msgstr ""
+"妮慕是卡勒幼时的伙伴，她出身沙漠猎人世家，别看有些年轻，却是个志向远大，桀骜"
+"不羁的机智姑娘。她的那份机警是危难时刻的宝贵财富。"
 
 #. [unit_type]: id=EGhost
 msgid "Ethereal Ghost"
@@ -12212,10 +12640,6 @@ msgstr ""
 "的魔杖，这些怪物是不死族的爪牙。"
 
 #. [attack]: type=cold
-msgid "touch"
-msgstr "触碰"
-
-#. [attack]: type=cold
 msgid "chill wave"
 msgstr "冷冻波"
 
@@ -12247,6 +12671,106 @@ msgid ""
 " This unit is capable of healing those around it, slowing dehydration, and "
 "curing them of poison."
 msgstr "这个单位可以治疗周围的同志，缓解脱水，并治疗中毒。"
+
+#. [dummy]: id=teaching
+msgid "teaching"
+msgstr ""
+
+#. [dummy]: id=teaching
+msgid ""
+"At the start of every turn, this unit redistributes its experience points to "
+"all the units of the same side adjacent to it. If no suitable unit is "
+"adjacent, its experience just goes back to zero."
+msgstr ""
+
+#. [attacks]: id=shock
+msgid "shock"
+msgstr ""
+
+#. [attacks]: id=shock
+msgid ""
+"When this attack is used on offense, the opponent will retaliate with one "
+"less strike than normally, to a minimum of one strike."
+msgstr ""
+
+#. [dummy]: id=formation
+msgid "formation"
+msgstr ""
+
+#. [dummy]: id=formation
+msgid ""
+"This unit gains a +10% bonus to defense when another unit with the same "
+"ability is adjacent to it and the enemy. However, this cannot raise the "
+"unit's defense above 70%."
+msgstr ""
+
+#. [dummy]: id=disengage
+msgid "disengage"
+msgstr ""
+
+#. [dummy]: id=disengage
+msgid ""
+"If this unit doesn't move before attacking, it will retain its movement "
+"points after the attack."
+msgstr ""
+
+#. [dummy]: id=daze
+msgid "daze"
+msgstr ""
+
+#. [dummy]: id=daze
+msgid ""
+"When hit with this attack, an enemy suffers a 10% penalty both to their "
+"defense and chance to hit for one turn, except for magical attacks."
+msgstr ""
+
+#. [skirmisher]: id=distract
+msgid "distract"
+msgstr ""
+
+#. [skirmisher]: id=distract
+msgid ""
+"This unit negates enemy Zones of Control around itself for allied units (but "
+"not for itself)."
+msgstr ""
+
+#. [dummy]: id=support
+msgid "support"
+msgstr ""
+
+#. [dummy]: id=support
+msgid ""
+"At the start of each turn, no upkeep costs are incurred by adjacent friendly "
+"units."
+msgstr ""
+
+msgid ""
+" This unit’s melee attack can overwhelm the defenses of enemies, preventing "
+"them from retaliating as effectively."
+msgstr ""
+
+msgid " Groups of units of this type are able to shield each other in combat."
+msgstr ""
+
+msgid " This unit can move either before or after attacking."
+msgstr ""
+
+msgid ""
+" This unit can daze its enemies, reducing their accuracy and defense until "
+"they end a turn."
+msgstr ""
+
+msgid ""
+"This unit is capable of distracting opponents, allowing allied units to "
+"trespass their Zones of Control and move unhindered around them."
+msgstr ""
+
+#. [unstore_unit]
+msgid "dazed"
+msgstr ""
+
+msgid "Kaleh"
+msgstr "卡勒"
 
 msgid "Nym"
 msgstr "妮慕"
@@ -12322,25 +12846,15 @@ msgstr "口渴"
 msgid "refreshed"
 msgstr "恢复"
 
-#. [lua]
-msgid ""
-"dehydrated: This unit is dehydrated. It will lose 4 HP and have its damage "
-"reduced by 1 each turn during the day unless prevented by healers or cured "
-"by water at an oasis.\n"
-"\n"
-"Units cannot be killed or deal no damage as a result of dehydration."
+msgid "+%d XP"
 msgstr ""
-"脱水：在白天，该单位会脱水，并将失去4HP，同时在每一回合伤害值将减少1，但有医"
-"治者或在绿洲的水中治疗除外。\n"
-"\n"
-"由于脱水，单位不会死去活或不造成伤害。"
 
-#. [set_variable]
-msgid "female^stunned"
+#. [unstore_unit]
+msgid "stunned"
 msgstr "眩晕"
 
-#. [set_variable]
-msgid "stunned"
+#. [unstore_unit]
+msgid "female^stunned"
 msgstr "眩晕"
 
 #. [part]
@@ -13105,10 +13619,6 @@ msgid ""
 "you can do for those you love."
 msgstr ""
 "第十二章：真正的强大不在于力量或是知识，而在于你愿意为你所爱的一切做什么。"
-
-#. [part]
-msgid "Epilogue:"
-msgstr "尾声："
 
 #. [terrain_type]: id=lava_overlay
 msgid "Lava"

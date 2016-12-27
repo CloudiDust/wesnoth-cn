@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
 "PO-Revision-Date: 2015-01-02 20:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -28,30 +28,6 @@ msgstr "王座继承人"
 #. [campaign]: id=Heir_To_The_Throne
 msgid "HttT"
 msgstr "HttT"
-
-#. [campaign]: id=Heir_To_The_Throne
-msgid "(Beginner)"
-msgstr "（初心者）"
-
-#. [campaign]: id=Heir_To_The_Throne
-msgid "Fighter"
-msgstr "战士"
-
-#. [campaign]: id=Heir_To_The_Throne
-msgid "(Normal)"
-msgstr "（普通）"
-
-#. [campaign]: id=Heir_To_The_Throne
-msgid "Hero"
-msgstr "英雄"
-
-#. [campaign]: id=Heir_To_The_Throne
-msgid "(Challenging)"
-msgstr "（挑战）"
-
-#. [campaign]: id=Heir_To_The_Throne
-msgid "Champion"
-msgstr "斗士"
 
 # I have translated Wesnoth into two chinese characters counting from the last four characters.
 # Wesnoth = mid(TranslatedString, 9,2)
@@ -73,6 +49,33 @@ msgstr ""
 #. [campaign]: id=Heir_To_The_Throne
 msgid "(Novice level, 23 scenarios.)"
 msgstr "（新手级别，23幕场景。）"
+
+#. [campaign]: id=Heir_To_The_Throne
+#, fuzzy
+msgid "Beginner"
+msgstr "（初心者）"
+
+#. [campaign]: id=Heir_To_The_Throne
+msgid "Fighter"
+msgstr "战士"
+
+#. [campaign]: id=Heir_To_The_Throne
+msgid "Hero"
+msgstr "英雄"
+
+#. [campaign]: id=Heir_To_The_Throne
+#, fuzzy
+msgid "Normal"
+msgstr "（普通）"
+
+#. [campaign]: id=Heir_To_The_Throne
+#, fuzzy
+msgid "Challenging"
+msgstr "（挑战）"
+
+#. [campaign]: id=Heir_To_The_Throne
+msgid "Champion"
+msgstr "斗士"
 
 #. [about]
 msgid "Campaign Design"
@@ -111,46 +114,42 @@ msgstr "德法多阵亡"
 msgid "Konrad"
 msgstr "科纳德"
 
-#. [side]
-#. [side]: id=Geldar, type=Dwarvish Lord
-#. [side]: id=Relgorn, type=Dwarvish Lord
-#. [side]: type=Ancient Wose, id=Haralamdum
 #. [side]: type=Commander, id=Konrad
+#. [side]: type=Grand Knight, id=Kaylan
+#. [side]: id=Relgorn, type=Dwarvish Lord
+#. [side]: id=Geldar, type=Dwarvish Lord
+#. [side]
+#. [side]: type=Fighter, id=Konrad
 #. [side]: type=Elvish Champion, id=Galdrad
 #. [side]: type=Elvish Shyde, id=Chantal
+#. [side]: type=Ancient Wose, id=Haralamdum
 #. [side]: type=Elvish Sylph, id=Bona-Melodia
-#. [side]: type=Fighter, id=Konrad
-#. [side]: type=Grand Knight, id=Kaylan
 msgid "Rebels"
 msgstr "反抗军"
-
-#. [unit]: id=Delfador, type=Elder Mage
-msgid "Delfador"
-msgstr "德法多"
 
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 msgid "Urug-Telfar"
 msgstr "乌鲁戈-特尔法"
 
-#. [side]: type=Goblin Rouser
-#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
-#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
-#. [side]: type=Orcish Warlord
-#. [side]: type=Orcish Warlord, id=Gaga-Breuk
-#. [side]: type=Orcish Warlord, id=Kior-Dal
-#. [side]: type=Orcish Warlord, id=Knafa-Tan
-#. [side]: type=Orcish Warlord, id=Kojun Herolm
-#. [side]: type=Orcish Warlord, id=Maga-Knafa
-#. [side]: type=Orcish Warlord, id=Urag-Tifer
-#. [side]: type=Orcish Warlord, id=Urug-Tan
-#. [side]: type=Orcish Warlord, id=Urug-Telfar
-#. [side]: type=Orcish Warrior, id=Dwaba-Kukai
-#. [side]: type=Orcish Warrior, id=Gorlak
-#. [side]: type=Orcish Warrior, id=Halgar Du'nar
-#. [side]: type=Orcish Warrior, id=Managa'Gwin
-#. [side]: type=Orcish Warrior, id=Mokho Kimer
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
+#. [side]: type=Orcish Warlord, id=Gaga-Breuk
+#. [side]: type=Orcish Warlord, id=Urag-Tifer
+#. [side]: type=Orcish Warlord, id=Kior-Dal
+#. [side]: type=Orcish Warrior, id=Halgar Du'nar
+#. [side]: type=Orcish Warrior, id=Gorlak
+#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
+#. [side]: type=Orcish Warlord, id=Urug-Tan
+#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
+#. [side]: type=Orcish Warlord, id=Urug-Telfar
+#. [side]: type=Orcish Warlord, id=Knafa-Tan
+#. [side]: type=Orcish Warlord, id=Maga-Knafa
+#. [side]: type=Orcish Warlord, id=Kojun Herolm
+#. [side]: type=Orcish Warrior, id=Mokho Kimer
+#. [side]: type=Orcish Warrior, id=Dwaba-Kukai
+#. [side]: type=Orcish Warrior, id=Managa'Gwin
+#. [side]: type=Goblin Rouser
+#. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
 msgid "Orcs"
 msgstr "兽人"
@@ -349,6 +348,7 @@ msgid "(special bonus)"
 msgstr "（特别奖励）"
 
 #. [objective]: condition=win
+#. [objectives]
 msgid "Defeat the enemy leader"
 msgstr "击败敌军领袖"
 
@@ -437,8 +437,9 @@ msgid "And the ship will take us to Alduin?"
 msgstr "那这艘船会把我们带到安度云？"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
-"Yes, we will sail to the Isle of Alduin, my home Konrad, and the home of "
+"Yes, we will sail to the Isle of Alduin, my home, Konrad, and the home of "
 "many magi."
 msgstr "没错，我们将航向安度云岛，我的家乡，科纳德，也是许多法师的家乡。"
 
@@ -739,6 +740,7 @@ msgid "Defeat one enemy leader, and resist the other until turns run out"
 msgstr "击败一名敌军领袖，并抵御另一名领袖的攻击直到回合耗尽。"
 
 #. [objective]: condition=win
+#. [objectives]
 msgid "Defeat all enemy leaders"
 msgstr "击败所有的敌军领袖"
 
@@ -754,7 +756,6 @@ msgstr "达瓦巴-库凯"
 msgid "Managa’Gwin"
 msgstr "马纳加·戈温"
 
-#. [then]
 #. [unit]: type=Orcish Archer, id=Bugg
 msgid "Bugg"
 msgstr "巴戈"
@@ -1015,7 +1016,7 @@ msgstr ""
 "它在西北方向，内陆地区，离海边大概有几里格那么远。有两条路可以选，坐船或者步"
 "行，各有各的危险。你必须选择一条才行。"
 
-#. [option]: speaker=Delfador
+#. [option]
 msgid "Ships? Ugh! I have been seasick for the last time. We shall walk!"
 msgstr "又坐船？呃！上次我都晕船了！还是干脆走路吧！"
 
@@ -1023,7 +1024,7 @@ msgstr "又坐船？呃！上次我都晕船了！还是干脆走路吧！"
 msgid "Safe journey to you, Konrad. Until we meet again!"
 msgstr "一路平安，科纳德。后会有期！"
 
-#. [option]: speaker=Delfador
+#. [option]
 msgid ""
 "Going by ship we may at least get a little rest for ourselves. By sea it is!"
 msgstr "坐船多省心，终于可以稍微休息一下了。就坐船吧！"
@@ -1112,7 +1113,7 @@ msgstr "玛夫·玛拉尔的半岛"
 msgid "Escape down the road to Elensefar"
 msgstr "沿着通往埃仁撒伐的道路奔逃"
 
-#. [objective]: condition=win
+#. [objectives]
 msgid "Defeat Muff Malal"
 msgstr "击败玛夫·玛拉尔"
 
@@ -1120,19 +1121,18 @@ msgstr "击败玛夫·玛拉尔"
 msgid "Muff Malal"
 msgstr "玛夫·玛拉尔"
 
-#. [side]
-#. [side]: id=Haf-Mal, type=Lich
-#. [side]: id=Jarmal-Gorg, type=Lich
-#. [side]: type=Ancient Lich, id=Muff Argulak
-#. [side]: type=Dark Sorcerer, id=Muff Malal
-#. [side]: type=Death Knight, id=Clarustus
-#. [side]: type=Death Knight, id=Dafeis
-#. [side]: type=Death Knight, id=Merlunius
-#. [side]: type=Death Knight, id=Secadius
-#. [side]: type=Lich, id=Aimucasur
 #. [side]: type=Lich, id=Galga
 #. [side]: type=Lich, id=Na-alga
 #. [side]: type=Lich, id=Selda-Mana
+#. [side]: type=Death Knight, id=Clarustus
+#. [side]: type=Death Knight, id=Merlunius
+#. [side]: type=Lich, id=Aimucasur
+#. [side]: type=Death Knight, id=Secadius
+#. [side]: type=Death Knight, id=Dafeis
+#. [side]: type=Dark Sorcerer, id=Muff Malal
+#. [side]: id=Haf-Mal, type=Lich
+#. [side]: id=Jarmal-Gorg, type=Lich
+#. [side]: type=Ancient Lich, id=Muff Argulak
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1210,10 +1210,6 @@ msgstr ""
 msgid "Isle of the Damned"
 msgstr "被诅咒者之岛"
 
-#. [objectives]
-msgid "No gold carried over to the next scenario."
-msgstr "此场景中没有金币留到下一个场景中。"
-
 #. [part]
 msgid ""
 "But the voyage did not go as smoothly as had been hoped. A storm blew up and "
@@ -1240,11 +1236,11 @@ msgstr "哈夫-玛尔"
 msgid "Jarmal-Gorg"
 msgstr "加马尔-高戈"
 
-#. [event]: id=Delurin 21 12}
+#. [event]
 msgid "Kalba"
 msgstr "卡尔巴"
 
-#. [event]: id=Delurin 21 12}
+#. [event]
 msgid "Gnaba"
 msgstr "格纳巴"
 
@@ -1277,7 +1273,7 @@ msgstr ""
 "岛上应该还有一些人类躲藏着，殿下。如果您征募一些人来助阵，我们也许就有希望挡"
 "住那一大群亡灵！"
 
-#. [event]: id=Delurin 21 12}
+#. [event]
 msgid "Delurin"
 msgstr "德鲁林"
 
@@ -1348,6 +1344,13 @@ msgstr "奇怪！法师没找到，却找到了你们这些肮脏的人类！"
 msgid "Fight on against the undead without me, friends!"
 msgstr "朋友，我死之后，你们一定要继续和亡灵作战！"
 
+#. [message]: speaker=hidden_advisor
+msgid ""
+"Thank goodness we have found you, sir! Come aboard quickly, we shall take "
+"you away from this horrible island!"
+msgstr ""
+"谢天谢地我们找到您了，阁下！请快快上船，我们会带您离开这座恐怖的岛屿的！"
+
 #. [message]: speaker=Konrad
 msgid ""
 "We have wrested control of the island from the evil undead! Now all we have "
@@ -1361,17 +1364,6 @@ msgid ""
 "Together we have vanquished the foul undead! Come, I will join you on your "
 "noble quest."
 msgstr "我们齐心协力战胜了邪恶的亡灵！来吧，我会加入你们高尚的事业。"
-
-#. [message]: speaker=narrator
-msgid "You regain your lost troops and $isle_damned_starting_gold gold!"
-msgstr "你找到了走失的部队，还有$isle_damned_starting_gold金币！"
-
-#. [message]: speaker=narrator
-msgid ""
-"Thank goodness we have found you, sir! Come aboard quickly, we shall take "
-"you away from this horrible island!"
-msgstr ""
-"谢天谢地我们找到您了，阁下！请快快上船，我们会带您离开这座恐怖的岛屿的！"
 
 #. [message]: speaker=Konrad
 msgid ""
@@ -1390,6 +1382,10 @@ msgstr ""
 "弟兄们，谢谢你们的协助。我会留在这里继续抵抗邪恶的亡灵。愿命运眷顾你们高尚的"
 "事业，也愿我们后会有期！"
 
+#. [message]: speaker=narrator
+msgid "You regain your lost troops and $isle_damned_starting_gold gold!"
+msgstr "你找到了走失的部队，还有$isle_damned_starting_gold金币！"
+
 #. [scenario]: id=06_The_Siege_of_Elensefar
 msgid "The Siege of Elensefar"
 msgstr "围攻埃仁撒伐"
@@ -1404,11 +1400,11 @@ msgstr "阿伽德拉"
 
 #. [side]: id=Brugg, type=Troll Warrior
 #. [side]: id=Lionel, type=Death Knight
-#. [side]: type=Dark Sorcerer, id=Muff Jaanal
-#. [side]: type=Death Knight, id=Unan-Ka'tall
-#. [side]: type=Orcish Warlord, id=Agadla
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
+#. [side]: type=Death Knight, id=Unan-Ka'tall
 #. [side]: type=Troll Warrior, id=Haaf-Garga
+#. [side]: type=Orcish Warlord, id=Agadla
+#. [side]: type=Dark Sorcerer, id=Muff Jaanal
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -1517,7 +1513,7 @@ msgstr ""
 msgid "Hmm... I have to consider this..."
 msgstr "嗯……我得考虑考虑……"
 
-#. [option]: speaker=Konrad
+#. [option]
 msgid "Help us infiltrate the city. We can do the rest."
 msgstr "帮我们潜入城中。剩下的事情交给我们处理。"
 
@@ -1527,7 +1523,7 @@ msgid ""
 "across from Elensefar’s docks."
 msgstr "很好。凌晨两点，我们在河的西岸碰头，从埃仁撒伐的船坞渡河过去。"
 
-#. [option]: speaker=Konrad
+#. [option]
 msgid "I want you to reinforce us once we break through their line."
 msgstr "我军冲破他们的防线后，希望你们前来增援。"
 
@@ -1573,6 +1569,11 @@ msgid "Let’s expel these invaders! Today, the city is ours again!"
 msgstr "驱逐这些侵略者！今天，我们要光复这座城市！"
 
 #. [message]: speaker=narrator
+#, fuzzy
+msgid "You can now recruit Thieves!"
+msgstr "您现在可以征募法师了！"
+
+#. [message]: speaker=narrator
 msgid ""
 "On the banks of Elensefar’s port district, three shadowy figures appeared."
 msgstr "在埃仁撒伐码头区的岸边，出现了三条黑影。"
@@ -1606,10 +1607,6 @@ msgstr "胜利了！埃仁撒伐的盗贼们现在听从您的号令，殿下。
 #. [message]: speaker=narrator
 msgid "The party rested for three days, after which an old friend returned."
 msgstr "大伙儿休息三天后，一位老朋友归来了。"
-
-#. [unit]: id=Kalenz, type=Elvish Lord
-msgid "Kalenz"
-msgstr "凯雷茨"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -1679,7 +1676,8 @@ msgstr ""
 "杖，谁就可以统治这个国家！"
 
 #. [message]: speaker=Konrad
-msgid "Oh, and you want me to get this scepter?"
+#, fuzzy
+msgid "Oh, and you want me to get this Sceptre?"
 msgstr "哦，而您希望我找回这支权杖？"
 
 #. [message]: speaker=Kalenz
@@ -1828,7 +1826,13 @@ msgid "The Princess of Wesnoth"
 msgstr "韦诺公主"
 
 #. [objective]: condition=win
-msgid "Force Li’sar’s surrender (reduce her hitpoints to 0 or lower)"
+#, fuzzy
+msgid "(reduce her hitpoints to 0 or lower)"
+msgstr "逼迫莉莎投降（将她的生命值减到0或者以下）"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Force Li’sar’s surrender"
 msgstr "逼迫莉莎投降（将她的生命值减到0或者以下）"
 
 #. [part]
@@ -1848,22 +1852,21 @@ msgstr "艾尔玛河口"
 msgid "Elbridge"
 msgstr "艾尔桥"
 
-#. [event]
 #. [side]: type=Princess, id=Li'sar
-#. [unit]: id=Li'sar, type=$stored_Lisar.type
+#. [event]
 msgid "Li’sar"
 msgstr "莉莎"
 
+#. [side]: type=Princess, id=Li'sar
+#. [side]: type=General, id=Honber
+#. [side]: type=General, id=Robryn
+#. [side]: type=Orcish Warlord, id=Haliel-Maga
+#. [side]: type=General, id=Heford
 #. [side]: type=Cavalier, id=Sir Kalm
 #. [side]: type=Dark Queen, id=Asheviere
-#. [side]: type=General, id=Heford
-#. [side]: type=General, id=Honber
 #. [side]: type=General, id=Josephus
-#. [side]: type=General, id=Malatus
-#. [side]: type=General, id=Robryn
 #. [side]: type=Orcish Warlord, id=Dwar-Ni
-#. [side]: type=Orcish Warlord, id=Haliel-Maga
-#. [side]: type=Princess, id=Li'sar
+#. [side]: type=General, id=Malatus
 msgid "Asheviere"
 msgstr "艾斯威勒"
 
@@ -1993,7 +1996,7 @@ msgstr "亡魂谷 — 公主的复仇"
 msgid "Survive for two days"
 msgstr "撑过两天"
 
-#. [objective]: condition=win
+#. [objectives]
 msgid "Eradicate the liches"
 msgstr "根除所有巫妖"
 
@@ -2157,7 +2160,8 @@ msgid "Gryphon Mountain"
 msgstr "狮鹫山"
 
 #. [objective]: condition=win
-msgid "Defeat the mother gryphon and the enemy commander"
+#, fuzzy
+msgid "Defeat the mother gryphon before the enemy does"
 msgstr "击败母狮鹫与敌军指挥官"
 
 #. [side]: type=General, id=Robryn
@@ -2166,6 +2170,11 @@ msgstr "罗伯林"
 
 #. [side]: type=Gryphon, id=Mother Gryphon
 msgid "Mother Gryphon"
+msgstr "母狮鹫"
+
+#. [side]: type=Gryphon, id=Mother Gryphon
+#, fuzzy
+msgid "Gryphons"
 msgstr "母狮鹫"
 
 #. [event]
@@ -2480,9 +2489,23 @@ msgstr ""
 msgid "Not her again! Quickly! We must hurry!"
 msgstr "天啊怎么又是她！快点！我们必须赶快渡河！"
 
-#. [message]: speaker=second_unit
-msgid "Stop! You shall not pass! Quick, reinforcements, protect the Princess!"
+#. [message]: type=Royal Guard
+msgid "Stop! You shall not pass!"
+msgstr ""
+
+#. [message]
+#, fuzzy
+msgid "Quick, reinforcements, protect the Princess!"
 msgstr "站住！你们不得通过！快！增援部队！保护公主殿下！"
+
+#. [message]: speaker=second_unit
+msgid "Quick, reinforcements!"
+msgstr ""
+
+#. [message]
+#, fuzzy
+msgid "Protect the Princess!"
+msgstr "武士公主"
 
 #. [message]: speaker=Li'sar
 msgid "You drive me from the field, but you have not vanquished me, impostor!"
@@ -2670,9 +2693,10 @@ msgstr ""
 "的翅膀还是太小，还不能载人。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "Konrad finally decided he could not wait until the gryphons grew to maturity "
-"— Delfador’s insistence that the scepter must be recovered was too "
+"— Delfador’s insistence that the Sceptre must be recovered was too "
 "compelling. And so after many days of rest, the party set out once again for "
 "the dwarven kingdom..."
 msgstr ""
@@ -2689,8 +2713,9 @@ msgstr ""
 "四处徘徊的兽人巡逻兵的骚扰。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"Eventually Delfador’s insistence that the scepter must be recovered proved "
+"Eventually Delfador’s insistence that the Sceptre must be recovered proved "
 "too compelling, even when it meant dismantling the camp without the spring "
 "having yet fully arrived. And so after many days of rest, the party set out "
 "once again for the dwarven kingdom..."
@@ -3194,8 +3219,8 @@ msgstr "野兽？我们正在计划把它们当作坐骑。"
 msgid "Ha ha! Gryphons as mounts! Is there no end to your folly?"
 msgstr "哈！哈！把狮鹫当作坐骑？你们人类的愚蠢有止境么？"
 
-#. [message]: speaker=Kalenz
 #. [message]: speaker=Konrad
+#. [message]: speaker=Kalenz
 msgid "(looks miffed)"
 msgstr "（面有怒色）"
 
@@ -3531,7 +3556,7 @@ msgstr ""
 "我不清楚，科纳德。但我能感觉到，正确的路就是继续深入地下。我们将继续向东北方"
 "前进，去往这些洞穴的最深处。"
 
-#. [scenario]: id=16_Hasty_Alliance, id=Li'sar
+#. [scenario]: id=16_Hasty_Alliance
 msgid "Hasty Alliance"
 msgstr "草率的联盟"
 
@@ -3669,8 +3694,7 @@ msgstr "谢谢，公主殿下。前进，战士们。让我们找回权杖吧！
 msgid "I can’t believe it should end like this!"
 msgstr "我不相信……居然这样就……结束了……"
 
-#. [scenario]: id=17_Scepter_of_Fire
-#. [settings]
+#. [scenario]: id=17_Sceptre_of_Fire
 msgid "The Sceptre of Fire"
 msgstr "圣火权杖"
 
@@ -3698,8 +3722,8 @@ msgstr ""
 msgid "Capture the Sceptre of Fire with Konrad or Li’sar"
 msgstr "让科纳德或者莉莎夺回圣火权杖"
 
-#. [message]: speaker=narrator
 #. [note]
+#. [message]: speaker=narrator
 msgid ""
 "If Delfador rests, he can concentrate on the location of the Sceptre of Fire."
 msgstr "如果让德法多原地休息一回合，那么他就能集中注意力而感知权杖的方位。"
@@ -3778,36 +3802,36 @@ msgid ""
 "right about now..."
 msgstr "我感觉到我们已经很接近权杖了；事实上，我们应该马上就能看到它了……"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the east of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the east of me."
 msgstr "我感觉到权杖在我的东方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the south-east of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the south-east of me."
 msgstr "我感觉到权杖在我的东南方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the south of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the south of me."
 msgstr "我感觉到权杖在我的南方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the south-west of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the south-west of me."
 msgstr "我感觉到权杖在我的西南方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the west of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the west of me."
 msgstr "我感觉到权杖在我的西方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the north-west of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the north-west of me."
 msgstr "我感觉到权杖在我的西北方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the north of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the north of me."
 msgstr "我感觉到权杖在我的北方。"
 
-#. [lua]: speaker='Delfador', message= dirs[ai_helper.get_direction_index(delf, goal, 8, true)]}
-msgid "I sense the path to the sceptre is to the north-east of me."
+#, fuzzy
+msgid "I sense the path to the Sceptre is to the north-east of me."
 msgstr "我感觉到权杖在我的东北方。"
 
 #. [scenario]: id=18_A_Choice_Must_Be_Made
@@ -4135,14 +4159,14 @@ msgstr "科纳德王子殿下，您确定想这样做么？"
 msgid "I say that..."
 msgstr "我认为……"
 
-#. [option]: speaker=Konrad
+#. [option]
 msgid ""
 "Our need for speed outweighs the danger. With the Merfolk to help us, we "
 "will win through."
 msgstr ""
 "我们必须尽快，相比之下危险不算什么。有人鱼们的帮忙，我们可以通过这条河的。"
 
-#. [option]: speaker=Konrad
+#. [option]
 msgid "On second thought, perhaps we should choose a safer way to go."
 msgstr "仔细考虑了一下之后，也许我们应该选一条更安全的路。"
 
@@ -4392,6 +4416,15 @@ msgstr ""
 #. [message]: speaker=narrator
 msgid ""
 "A final blow destroys the lich, releasing a small shock wave of energy "
+"outwards. A giant cloud of dust billows out as the remnants of the lich’s "
+"once-mortal body disintegrate for the last time."
+msgstr ""
+"致命一击摧毁了巫妖，一瞬间火石四射。巫妖身上仅存的曾经鲜活的皮肤，积压了好几"
+"个世纪的尘垢，以及那体内的软骨，最后一次散落，扬起了一片巨大的浮尘。"
+
+#. [message]: speaker=narrator
+msgid ""
+"A final blow destroys the lich, releasing a small shock wave of energy "
 "outwards. The last of his minions silently falls like a puppet with its "
 "strings cut. A cloud of dust billows outwards as the remnants of the lich’s "
 "once-mortal body disintegrate for the last time."
@@ -4406,15 +4439,6 @@ msgid ""
 "outwards. His minions fall like puppets with their strings cut. A cloud of "
 "dust billows out as the remnants of the lich’s once-mortal body disintegrate "
 "for the last time."
-msgstr ""
-"致命一击摧毁了巫妖，一瞬间火石四射。巫妖身上仅存的曾经鲜活的皮肤，积压了好几"
-"个世纪的尘垢，以及那体内的软骨，最后一次散落，扬起了一片巨大的浮尘。"
-
-#. [message]: speaker=narrator
-msgid ""
-"A final blow destroys the lich, releasing a small shock wave of energy "
-"outwards. A giant cloud of dust billows out as the remnants of the lich’s "
-"once-mortal body disintegrate for the last time."
 msgstr ""
 "致命一击摧毁了巫妖，一瞬间火石四射。巫妖身上仅存的曾经鲜活的皮肤，积压了好几"
 "个世纪的尘垢，以及那体内的软骨，最后一次散落，扬起了一片巨大的浮尘。"
@@ -4465,6 +4489,14 @@ msgstr "索丽亚之崖"
 #. [objective]: condition=win
 msgid "Make it to the end of the river"
 msgstr "设法移动到河的尽头"
+
+#. [objective]: condition=win
+msgid "Reach the cave"
+msgstr "抵达洞穴。"
+
+#. [objective]: condition=win
+msgid "Rescue the sergeant"
+msgstr "拯救军士"
 
 #. [side]
 #. [side]: type=Saurian Oracle, id=Szerkz
@@ -4530,19 +4562,9 @@ msgid ""
 msgstr "我们接下来该怎么办？我们还得在这条河里走多远？"
 
 #. [message]: speaker=Delfador
-msgid ""
-"The mountains north of the river are impassable. Perhaps we should try "
-"moving south, to the swamps."
+#, fuzzy
+msgid "The mountains north and south of the river are impassable."
 msgstr "这条河北面的山脉是无法通过的。也许我们应该尝试往南走，前往沼泽。"
-
-#. [message]: speaker=Kalenz
-msgid ""
-"I don’t recommend it. Long ago, a lich who was at war with my people "
-"appointed some of his most powerful minions to guard the swamps. We must not "
-"go that way!"
-msgstr ""
-"我不建议这样做。很久以前，一只和我们族人作战的巫妖指派了他的几名最强大的属下"
-"去保卫那片沼泽。我们绝对不能走那条路！"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -4676,7 +4698,8 @@ msgstr ""
 "们。如果你们继续深入进来，那我们就不得不让你们看看爪子的厉害了。"
 
 #. [message]: speaker=Delfador
-msgid "But we can not go back. We are on an important mission."
+#, fuzzy
+msgid "But we cannot go back. We are on an important mission."
 msgstr "但我们不能回去，我们还有重要的任务在身。"
 
 #. [message]: speaker=Keh Ohn
@@ -4693,19 +4716,6 @@ msgstr ""
 #. [message]: speaker=Keh Ohn
 msgid "You will regret challenging us. Drakes, to arms!"
 msgstr "胆敢挑战我们，你们会后悔的！龙人战士们，准备战斗！"
-
-#. [message]: speaker=second_unit
-msgid ""
-"I slew the undead monster but somehow it has revived! Dark magic is stirring "
-"around us!"
-msgstr "我杀死了这亡灵怪物但不知为什么它又复活了！黑魔法把我们围绕了！"
-
-#. [message]: speaker=Kalenz
-msgid ""
-"Those are some of the monsters I warned about. Such undead guardians are "
-"indestructible. We must find another way to go."
-msgstr ""
-"这就是我所说的怪物之一。这些亡灵守卫者是无法摧毁的。我们必须找到另一条路。"
 
 #. [message]: speaker=unit
 msgid "We’ve found $random gold in the drake nest."
@@ -4751,9 +4761,10 @@ msgid ""
 msgstr "是一位年轻的人类军士，只比小男孩大一点。他看上去受了重伤，但仍然活着。"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
 "I wonder why the drakes haven’t finished him by now? It is strange that "
-"there are not any drakes or undead in that area."
+"there are not any drakes in that area."
 msgstr ""
 "奇怪，为什么龙人到现在还没有干掉他？这个地区里竟然一个龙人或者亡灵都没有，真"
 "是太奇怪了。"
@@ -4819,10 +4830,6 @@ msgstr "说得好。"
 #. [message]: speaker=Delfador
 msgid "Fair enough..."
 msgstr "说得好……"
-
-#. [objective]: condition=win
-msgid "Rescue the sergeant"
-msgstr "拯救军士"
 
 #. [message]: speaker=Warven
 msgid "Who...who are you? A friend or a foe?"
@@ -4896,10 +4903,6 @@ msgstr ""
 msgid "Unfortunately, we have no other options. Onward into the cave!"
 msgstr "不幸的是，我们确实没有其他选项。前进！进入洞穴！"
 
-#. [objective]: condition=win
-msgid "Reach the cave"
-msgstr "抵达洞穴。"
-
 #. [message]: speaker=Konrad
 msgid ""
 "I’ve reached the cave entrance. There seems to be a system of channels "
@@ -4948,14 +4951,15 @@ msgstr "科纳德必须到达东方的林坦尼森林，并坚守阵地直到回
 msgid "Turns run out before reaching the forest"
 msgstr "在到达森林之前回合数耗尽"
 
-#. [objectives]
-msgid "Note: your encampment will be dismantled after the first turn."
+#. [note]
+#, fuzzy
+msgid "Your encampment will be dismantled after the first turn."
 msgstr "注意：您的营地在第一回合后会被拆除。"
 
 #. [side]: type=Commander, id=Konrad
-#. [side]: type=Elvish Lady, id=Parandra
-#. [side]: type=Elvish Lord, id=Uradredia
 #. [side]: type=Elvish Marshal, id=El'rien
+#. [side]: type=Elvish Lord, id=Uradredia
+#. [side]: type=Elvish Lady, id=Parandra
 msgid "Allies"
 msgstr "同盟军"
 
@@ -5003,8 +5007,8 @@ msgstr ""
 msgid "Telerandor"
 msgstr "特勒兰多"
 
-#. [message]: speaker=Glarilon
 #. [message]: speaker=Telerandor
+#. [message]: speaker=Glarilon
 msgid "My lords! I have found you at last."
 msgstr "阁下们！我终于找到你们了！"
 
@@ -5214,6 +5218,30 @@ msgstr ""
 "多谢您，艾尔林恩领主。北方精灵就和你们南方的同胞一样慷慨好客！我的士兵会帮助"
 "您抵抗敌人的。"
 
+#. [message]
+#, fuzzy
+msgid ""
+"Welcome to Emetria. You must take shelter here until the battle passes. If "
+"you stay for a while, we will all be safe."
+msgstr ""
+"你们好，精灵之友！欢迎来到艾梅提亚，我在林坦尼的要塞。你们必须在这里躲避一"
+"下，直到战斗结束。如果你们和我在一起在这里呆一会儿的话，我们都会安全的。"
+
+#. [message]: speaker=Konrad
+#, fuzzy
+msgid ""
+"Thank you. The hospitality of the North Elves is as generous as that of your "
+"kin in the south! My men will help you hold out against our enemies."
+msgstr ""
+"多谢您，艾尔林恩领主。北方精灵就和你们南方的同胞一样慷慨好客！我的士兵会帮助"
+"您抵抗敌人的。"
+
+#. [message]: speaker=Konrad
+msgid ""
+"There is nobody here! We can take shelter here, but must hold out against "
+"our enemies alone."
+msgstr ""
+
 #. [message]: speaker=Delfador
 msgid ""
 "Konrad, you have made it to the domain of the North Elves. Continue moving "
@@ -5241,6 +5269,30 @@ msgstr "艾尔林恩，我们已经取回了圣火权杖！我们必须护送他
 #. [message]: speaker=El'rien
 msgid "Indeed. We will escort you to our capital, where we will make Council."
 msgstr "确实如此。我们将护送你们去我们的首都，在那里我们会进行商议的。"
+
+#. [message]: speaker=Kalenz
+#, fuzzy
+msgid "Where is your leader? Where is El’rien?"
+msgstr "究竟谁才是你们的领袖？我们要向谁尽忠？"
+
+#. [message]
+msgid ""
+"Alas, he has fallen just this day! We were told of your coming, Lord Kalenz. "
+"Council has already been called. You must hurry, but we cannot afford the "
+"men to escort you."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid ""
+"This is grave news. We will carry word to Elensiria. Hold fast! We will send "
+"reinforcements."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid ""
+"Where is El’rien? Where are his men? Things are moving quicker than we "
+"feared. Hurry, we must reach Elensiria."
+msgstr ""
 
 #. [scenario]: id=20b_Underground_Channels
 msgid "Underground Channels"
@@ -5277,6 +5329,245 @@ msgstr "一行人进入了那神秘的洞穴，做好了面对未知敌人的准
 #. [message]: speaker=Bona-Melodia
 msgid "Get that vile creature!"
 msgstr "消灭那只邪恶的生物！"
+
+#. [message]: speaker=Kalenz
+msgid "Hold!"
+msgstr ""
+
+#. [message]: speaker=Bona-Melodia
+msgid ""
+"Milord Kalenz! My apologies. I mistook him for one of those foul lizardmen. "
+"How came you to be traveling such paths?"
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid ""
+"Change is coming to the human lands. We rush to Elensiria seeking "
+"assistance, and the perils of the Longlier presented the quickest route."
+msgstr ""
+
+#. [message]: speaker=Bona-Melodia
+msgid ""
+"Uradredia has already called a meeting of the Council of Lintanir. You must "
+"hurry, for they gather even now."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid "Then there is little time! Fare well."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid "What is this? Where is your leader?"
+msgstr ""
+
+#. [message]
+msgid "We were beset by many foul lizardmen. Alas, Bona-Melodia has fallen."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid ""
+"This bodes ill for Lintanir. We rush to Elensiria on other matters but will "
+"carry word of what has transpired here."
+msgstr ""
+
+#. [message]
+msgid ""
+"Lord Uradredia has called a meeting of the Council of Lintanir. Rumor is "
+"there are greater needs than ours."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid "Then we must hurry. Stand fast, we will send reinforcements."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid ""
+"What is this? Where are the guardians? I see signs of battle everywhere: "
+"Saurian footprints, Elvish blood. This bodes ill for Lintanir. We must hurry "
+"onward to Elensiria. Quickly, before we, too, are beset."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"From far in the distance comes the sound of branches snapping, followed by a "
+"long, hollow boom. The world goes silent for a moment."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid ""
+"Can you feel it? It is as if the entire forest is stunned! Something has "
+"happened and, I fear, not for the good."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"A hollow screech echoes throughout the caverns. The air suddenly seems "
+"fresher and lighter."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "Whatever that was, the world rejoices."
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid "Greetings, Sir Wose. We seek the exit to these caverns."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"If ... hmm dum ... you could help rid us of these ... alam hurum ... "
+"infernal undead, I would be ... alam alam ... look to the north and east ... "
+"hmm ... most grateful. Har alam dum."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Well met, stranger."
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid "Well met, indeed. We seek the exit to these caverns."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"Then you should look to the north and east. But, if you would, might we ask "
+"your assistance."
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid "What aid might we offer?"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"If you would help rid these caverns of those infernal undead, the Ancient "
+"One would be most grateful."
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid "Ancient one?"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Our elder. Called, by some, Haralamdum."
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid "Har hum har ... hmm ... well ... har alam dum ... good."
+msgstr ""
+
+#. [message]: speaker=Konrad
+msgid "Those undead will bother you no more, Sir Wose."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "We still must find the exit from these caverns, Konrad."
+msgstr ""
+
+#. [message]: speaker=Konrad
+msgid "Yes, Delfador. I'm afraid we must be going, Sir Wose."
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid ""
+"Well, I say ... hmm dum har ... young Master Delfador? Harum-alam-alam. So "
+"it is! Hmm hmm alam ... how is your head?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "My head?"
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid ""
+"Just the other day ... hmm ... I was speaking with that twig ... alam ... "
+"alam dum ... Thorodor? Hmm ... yes ... hum ... he said you took a ... alam "
+"har ... nasty blow to the head ... hmm ... and he feared you were dead."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid ""
+"That was many years ago, I'm afraid. Now, we really must be moving along ..."
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid "So hasty ... hmm ... there was something ..."
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid "Har dum ... oh, yes, the book."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "Book?"
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid ""
+"When you asked Thorodor for ... harum ... assistance? Hmm ... hmm ... He "
+"thought you meant the book ... har hmm ... but you had rushed off ... "
+"alam ... alam dum ... and died before he could tell you I have it."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "I remember no book."
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+msgid ""
+"I am sure ... dum hum ... well, the head ... alam lum alam ... yes, it was "
+"somewhere around here ... hum dum da dum ... Thorodor thought it ... hmm ... "
+"quite important ... lum harum dum ... perhaps near my home stump?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "I am sorry, I remember no book. Now, we really must be off."
+msgstr ""
+
+#. [message]: speaker=Haralamdum
+#, fuzzy
+msgid "So hasty. Har alam dum."
+msgstr "哈拉兰杜姆"
+
+#. [message]: speaker=narrator
+msgid "The wose silently fade into the forest."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "Should $unit.name| read the book?"
+msgstr ""
+
+#. [option]
+msgid "Yes"
+msgstr "是"
+
+#. [object]: id=wose_lore
+msgid "Wose Lore"
+msgstr ""
+
+#. [object]: id=wose_lore
+msgid ""
+"This massive book is filled with the Lore and Legends of the Wose. Any who "
+"read it learn deeply of the ways of the twig and leaf, the tree and the "
+"forest."
+msgstr ""
+
+#. [object]: id=wose_lore
+msgid ""
+"The book is filled with meaningless tales of sticks and leaves, and childish "
+"stories about trees and forest creatures."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"Upon finishing the book, $unit.name| has a much greater understanding of the "
+"forest, its nature and ways, and all the creatures within it. Unfortunately, "
+"as the last page was turned, the book crumbled to dust."
+msgstr ""
+
+#. [option]
+msgid "No"
+msgstr "否"
 
 #. [scenario]: id=21_Elven_Council
 msgid "The Elven Council"
@@ -5646,6 +5937,33 @@ msgstr ""
 msgid "Return to Wesnoth"
 msgstr "重返韦诺"
 
+#. [message]: speaker=narrator
+msgid "The battlefield falls silent as a loud shriek fills the air."
+msgstr ""
+
+#. [message]: speaker=Kalenz
+msgid "Look! In the distance! I have never before seen such a thing!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "What a surprise! This world never ceases to amaze me."
+msgstr ""
+
+#. [message]: speaker=Konrad
+msgid ""
+"Such wondrous beasts! It appears our aid in their mountain homeland is being "
+"repaid."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+msgid "Assault from the air? What an intriguing idea!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid "You can now recruit Gryphons!"
+msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+
 #. [part]
 msgid ""
 "After many days enjoying the strange food and fine linen of his hosts, "
@@ -5745,6 +6063,7 @@ msgid "You leave us no choice but to kill you."
 msgstr "那就没办法了，只有杀掉你们。"
 
 #. [message]: speaker=Malatus
+#. [message]: speaker=Josephus
 msgid ""
 "These intruders are stronger than we expected. Call in the reinforcements!"
 msgstr "这些入侵者比我们所想的强大得多。快请求增援！"
@@ -5758,6 +6077,7 @@ msgid "The Queen has sent us to aid you in capturing these rebels."
 msgstr "女王陛下派我们来协助你们，抓住这些反叛者。"
 
 #. [message]: speaker=Malatus
+#. [message]: speaker=Josephus
 msgid "We have changed the plan. Now we are killing them."
 msgstr "我们改变了计划。现在杀光他们。"
 
@@ -5775,10 +6095,15 @@ msgstr "氏族的考验"
 msgid "Defeat $units_to_slay enemy units"
 msgstr "击败$units_to_slay个敌军单位"
 
-#. [side]: type=Grand Knight, id=Bayar
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defeat enemy leaders"
+msgstr "击败所有的敌军领袖"
+
 #. [side]: type=Grand Knight, id=Sir Alric
-#. [side]: type=Grand Knight, id=Sir Daryn
 #. [side]: type=Grand Knight, id=Sir Ruga
+#. [side]: type=Grand Knight, id=Sir Daryn
+#. [side]: type=Grand Knight, id=Bayar
 msgid "Plainsmen"
 msgstr "平原居民"
 
@@ -5890,9 +6215,9 @@ msgstr ""
 "不，小崽子，你们也许会被削弱，但马上氏族是永恒的。不过，我可以向你承诺，如果"
 "你能够亲自击败我，那我个人将会加入你对Weldyn的围攻。"
 
-#. [message]: speaker=Sir Alric
-#. [message]: speaker=Sir Daryn
 #. [message]: speaker=Sir Ruga
+#. [message]: speaker=Sir Daryn
+#. [message]: speaker=Sir Alric
 msgid "Aye."
 msgstr "没错。"
 
@@ -6147,9 +6472,10 @@ msgstr ""
 "我会忍受的。"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
 "How long must the people endure your rule? Give the throne to your daughter. "
-"She is the rightful heir. We even hold the scepter to prove it!"
+"She is the rightful heir. We even hold the Sceptre to prove it!"
 msgstr ""
 "你的统治，人民还需要再忍受多久？把王座让给你的女儿。她才是合法的继位者。我们"
 "甚至还有圣火权杖来证明这一点！"
@@ -6345,13 +6671,13 @@ msgstr ""
 "小王子科纳德的尸骨从精灵那里运了回来，安葬在维尔帝的皇家陵寝中。每个星期，科"
 "纳德都会前往吊唁。"
 
-#. [unit_type]: id=Battle Princess, race=human
 #. [variation]: id=Battle Princess, race=human
+#. [unit_type]: id=Battle Princess, race=human
 msgid "female^Battle Princess"
 msgstr "武士公主"
 
-#. [unit_type]: id=Battle Princess, race=human
 #. [variation]: id=Battle Princess, race=human
+#. [unit_type]: id=Battle Princess, race=human
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals, and battle tactics with the greatest sages, making her both a "
@@ -6381,8 +6707,8 @@ msgstr "剑"
 msgid "bow"
 msgstr "弓"
 
-#. [unit_type]
 #. [variation]
+#. [unit_type]
 msgid ""
 "The rank of Commander is held by those who lead battle groups into combat. "
 "Possessing leadership skills, they give lower-level units in adjacent hexes "
@@ -6415,8 +6741,8 @@ msgstr "权杖"
 msgid "raging blizzard"
 msgstr "狂怒暴雪"
 
-#. [unit_type]
 #. [variation]
+#. [unit_type]
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. However they have the potential to become great warriors "
@@ -6432,8 +6758,8 @@ msgstr "负伤军士"
 msgid "Lord"
 msgstr "领主"
 
-#. [unit_type]
 #. [variation]
+#. [unit_type]
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
 "combat, and also possess skill with the bow. Like Commanders, Lords possess "
@@ -6443,13 +6769,13 @@ msgstr ""
 "领主是大型军队的高贵领袖，他们在白刃战中尤为强力，同时也会使弓。像指挥官们一"
 "样，他们拥有领导技能，能够提升所有临近的较低等级单位的作战能力。"
 
-#. [unit_type]: id=Princess, race=human
 #. [variation]: id=Princess, race=human
+#. [unit_type]: id=Princess, race=human
 msgid "female^Princess"
 msgstr "公主"
 
-#. [unit_type]: id=Princess, race=human
 #. [variation]: id=Princess, race=human
+#. [unit_type]: id=Princess, race=human
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals and battle tactics with the greatest sages, making her both a great "
@@ -6520,12 +6846,21 @@ msgid "At least I die an honorable death."
 msgstr "至少我能光荣地战死……"
 
 #. [message]: speaker=narrator
-msgid "Do you want this unit to pick up the sword?"
-msgstr "您希望这个单位捡起这把宝剑吗？"
+msgid "Nearby is a clearing with a huge tree standing alone in the center."
+msgstr ""
 
-#. [option]: speaker=narrator
-msgid "Yes"
-msgstr "是"
+#. [message]: speaker=narrator
+msgid ""
+"A large tree stands alone in a clearing. Driven into the trunk is a huge "
+"sword with flames dancing along its blade. Stangely, while the trunk near "
+"the sword is blackened and scorched, the tree seems otherwise unaffected by "
+"the flames."
+msgstr ""
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid "Should $unit.name| attempt to pick up the sword?"
+msgstr "您希望这个单位捡起这把宝剑吗？"
 
 #. [object]: id={ID}
 msgid "Flaming Sword"
@@ -6546,26 +6881,37 @@ msgstr ""
 msgid "Only the leader of an army can wield this sword!"
 msgstr "只有军队的领袖才能持有这把宝剑！"
 
-#. [message]: speaker=narrator
+#. [message]: speaker=$unit.id|
+#, fuzzy
 msgid ""
-"As you place your hand around the glittering leather hilt, the sword roars "
-"to life! Strangely, you feel no heat once you pick it up, yet the grass at "
-"your feet bursts into flame as you test the heft of this mighty weapon."
+"As $unit.name| places his hand around the glittering leather hilt, the sword "
+"roars to life! Strangely, he feels no heat once he picks it up, yet the "
+"grass at his feet bursts into flame as he tests the heft of this mighty "
+"weapon."
 msgstr ""
 "当您手握那闪闪发光的皮革剑柄之时，宝剑咆哮起来，似乎有了生命！奇怪的是，一旦"
 "拿起了剑，您竟然就感觉不到它的任何热量了。但当您想试试这强力武器的重量之时，"
 "您脚下的草地却一下子燃烧起来。"
 
-#. [effect]: type=blade #excludes Paladin's lance
+#. [message]: speaker=$unit.id|
+#, fuzzy
+msgid ""
+"As $unit.name| places her hand around the glittering leather hilt, the sword "
+"roars to life! Strangely, she feels no heat once she picks it up, yet the "
+"grass at her feet bursts into flame as she tests the heft of this mighty "
+"weapon."
+msgstr ""
+"当您手握那闪闪发光的皮革剑柄之时，宝剑咆哮起来，似乎有了生命！奇怪的是，一旦"
+"拿起了剑，您竟然就感觉不到它的任何热量了。但当您想试试这强力武器的重量之时，"
+"您脚下的草地却一下子燃烧起来。"
+
+#. [effect]
 msgid "flaming sword"
 msgstr "烈火之剑"
 
-#. [option]: speaker=narrator
-msgid "No"
-msgstr "否"
-
 #. [message]: speaker=narrator
-msgid "Do you want this unit to pick up the armor?"
+#, fuzzy
+msgid "Should $unit.name| attempt to pick up the armor?"
 msgstr "您希望这个单位捡起这副战甲吗？"
 
 #. [object]: id={ID}
@@ -6583,10 +6929,22 @@ msgstr ""
 msgid "Only a powerful warrior may don this armor!"
 msgstr "只有强大的武士才能穿戴这副战甲！"
 
-#. [message]: speaker=narrator
+#. [message]: speaker=$unit.id|
+#, fuzzy
 msgid ""
-"You struggle to lift and don the heavy plate. Once worn, however, it is "
-"amazingly comfortable. You have increased resistance to all physical damage!"
+"$unit.name| struggles to lift and don the heavy plate. Once worn, however, "
+"it is amazingly comfortable. He feels an increased resistance to all "
+"physical damage!"
+msgstr ""
+"您花了好大的力气才举起了沉重的战甲，并穿在了身上。可一旦穿上之后，它却变得惊"
+"人地舒适。您对所有物理伤害的抗性都提高了！"
+
+#. [message]: speaker=$unit.id|
+#, fuzzy
+msgid ""
+"$unit.name| struggles to lift and don the heavy plate. Once worn, however, "
+"it is amazingly comfortable. She feels an increased resistance to all "
+"physical damage!"
 msgstr ""
 "您花了好大的力气才举起了沉重的战甲，并穿在了身上。可一旦穿上之后，它却变得惊"
 "人地舒适。您对所有物理伤害的抗性都提高了！"
@@ -6609,11 +6967,11 @@ msgstr ""
 "冲击： 40%\n"
 "火焰：+10%"
 
-#. [object]: id=object_scepter
+#. [object]: id=object_sceptre
 msgid "Sceptre of Fire"
 msgstr "圣火权杖"
 
-#. [object]: id=object_scepter
+#. [object]: id=object_sceptre
 msgid ""
 "This ancient Sceptre was forged by the great Dwarves of the Heart Mountains. "
 "A symbol of the kingship of Wesnoth, the Sceptre has the power to shoot "
@@ -6622,7 +6980,7 @@ msgstr ""
 "这支古老的权杖是由“心之山脉”的伟大矮人们铸造的。它是韦诺王权的象征，拥有向持"
 "有者的敌人发射火球的力量！"
 
-#. [object]: id=object_scepter
+#. [object]: id=object_sceptre
 msgid ""
 "This is the Sceptre of Fire. Only a true successor to the throne can "
 "possibly dare to take this!"
@@ -6668,6 +7026,18 @@ msgstr ""
 #. [message]: speaker=Li'sar
 msgid "I think I know what I’m doing. Come, let us go!"
 msgstr "我想我知道我在做什么。来吧，让我们出发吧！"
+
+#. [unit]: id=Delfador, type=Elder Mage
+msgid "Delfador"
+msgstr "德法多"
+
+#. [unit]: id=Kalenz, type=Elvish Lord
+msgid "Kalenz"
+msgstr "凯雷茨"
+
+#. [unit]: id=Li'sar, type=Princess
+msgid "Li'sar"
+msgstr ""
 
 #. [part]
 msgid ""

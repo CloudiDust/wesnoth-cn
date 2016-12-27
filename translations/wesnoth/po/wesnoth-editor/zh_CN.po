@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-06 02:28+0300\n"
 "PO-Revision-Date: 2016-08-08 20:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -156,6 +156,10 @@ msgstr "读取最近使用的文件"
 msgid "Map"
 msgstr "地图"
 
+#. [menu]: id=menu-unit-facing
+msgid "Unit Facing"
+msgstr ""
+
 #. [menu]: id=menu-editor-transitions
 msgid "Transition Update"
 msgstr "渐变"
@@ -224,8 +228,9 @@ msgstr "严重错误"
 msgid "Do you really want to quit?"
 msgstr "您真的想退出吗？"
 
+#, fuzzy
 msgid ""
-"Do you really want to quit? Changes in the map since the last save will be "
+"Do you really want to quit? Changes to this map since the last save will be "
 "lost."
 msgstr "您真的想退出吗？上次保存之后对地图所作的修改将会全部丢失。"
 
@@ -234,9 +239,6 @@ msgid ""
 "since the last save will be lost:"
 msgstr ""
 "您真的想退出吗？以下地图已经被修改，上次保存之后所作的修改将会全部丢失："
-
-msgid "Quit"
-msgstr "退出"
 
 msgid "No editor time-of-day found."
 msgstr "没有找到编辑器的时段设置。"
@@ -256,8 +258,8 @@ msgstr "名字："
 msgid "(New Map)"
 msgstr "（新建地图）"
 
-msgid "Choose a File to Open"
-msgstr "选择要打开的文件"
+msgid "Load Map"
+msgstr ""
 
 msgid "(New Scenario)"
 msgstr "（新场景）"
@@ -271,8 +273,8 @@ msgstr "（未命名区域）"
 msgid "(New Side)"
 msgstr "（新阵营）"
 
-msgid "Choose a Mask to Apply"
-msgstr "选择要使用的遮罩"
+msgid "Apply Mask"
+msgstr ""
 
 msgid "Error loading mask"
 msgstr "读取遮罩时发生错误"
@@ -289,13 +291,12 @@ msgstr "选择目标地图"
 msgid "Error loading map"
 msgstr "读取地图时发生错误"
 
-msgid "Save the Map As"
+#, fuzzy
+msgid "Save Map As"
 msgstr "地图另存为"
 
-msgid "The file already exists. Do you want to overwrite it?"
-msgstr "文件已存在，要覆盖吗？"
-
-msgid "Save the Scenario As"
+#, fuzzy
+msgid "Save Scenario As"
 msgstr "场景另存为"
 
 msgid "No random map generators found."
@@ -307,8 +308,8 @@ msgstr "创建地图失败。"
 msgid "Unsaved Changes"
 msgstr "未保存的更改"
 
-msgid ""
-"Do you want to discard all changes you made to the map since the last save?"
+#, fuzzy
+msgid "Do you want to discard all changes made to the map since the last save?"
 msgstr "您想要放弃上次保存之后所作的修改吗？"
 
 msgid "This scenario is already open."
@@ -336,8 +337,17 @@ msgstr ""
 "已读取被引用的地图文件：\n"
 "$new"
 
-msgid "Player"
-msgstr "玩家"
+#, fuzzy
+msgid "New Map"
+msgstr "（新建地图）"
+
+#, fuzzy
+msgid "New Scenario"
+msgstr "（新场景）"
+
+#, fuzzy
+msgid "Player $side_num"
+msgstr "玩家 $player_number"
 
 msgid "The size of the target map is different from the current map"
 msgstr "目标地图的尺寸与当前地图不同"
@@ -372,6 +382,18 @@ msgstr "（非核心）"
 msgid "Will not work in game without extra care."
 msgstr "除非特别注意，否则不会正常工作。"
 
+msgid "Go To"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "New Location Identifer"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
 msgid "FG: "
 msgstr "前景地形："
 
@@ -380,6 +402,9 @@ msgstr "背景地形："
 
 msgid "Choose File"
 msgstr "选择文件"
+
+msgid "Select"
+msgstr ""
 
 msgid "player^None"
 msgstr "无"

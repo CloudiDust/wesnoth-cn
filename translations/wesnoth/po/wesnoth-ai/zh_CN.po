@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:32 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:55+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -23,36 +23,25 @@ msgstr ""
 msgid "Multiplayer_AI^Default AI (RCA)"
 msgstr "默认AI（RCA）"
 
-#. [ai]: id=ai_default_rca_strong
-msgid "Multiplayer_AI^Strong AI (RCA)"
-msgstr "强AI（RCA）"
-
 #. [ai]: id=experimental_ai
 msgid "Multiplayer_AI^Experimental AI"
 msgstr "试验性AI"
 
-#. [ai]: id=ai_old_recruitment
-msgid "Multiplayer_AI^Dev AI: Default + Old Recruitment"
+#. [ai]: id=ai_default_rca_alternate_recruiting
+#, fuzzy
+msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
 msgstr "开发AI：默认+旧征募规则"
-
-#. [ai]: id=ai_akihara
-msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (C++ Akihara)"
-msgstr ""
 
 #. [ai]: id=formula_ai # id is needed to uniquely identify a MP AI, it is not needed in the scenario AI
 msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (Formula AI)"
 msgstr ""
 
-#. [ai]: id=default_ai_poisoning
+#. [ai]: id=formula_ai_poisoning
 msgid "Multiplayer_AI^Dev AI: Default + Poisoning (Formula AI)"
 msgstr ""
 
-#. [ai]: id=ai_idle
+#. [ai]: id=idle_ai
 msgid "Multiplayer_AI^Dev AI: Idle AI"
-msgstr ""
-
-#. [ai]: id=testing_ai_recruitment
-msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (C++)"
 msgstr ""
 
 #. [test]: id=The_Elves_Besieged
@@ -64,9 +53,9 @@ msgstr ""
 msgid "Konrad"
 msgstr ""
 
+#. [side]: type=Spearman, id=Konrad
 #. [side]: type=Elvish Champion, id=Galdrad
 #. [side]: type=Elvish Shyde, id=Chantal
-#. [side]: type=Spearman, id=Konrad
 msgid "Rebels"
 msgstr ""
 
@@ -78,10 +67,10 @@ msgstr ""
 msgid "Urug-Telfar"
 msgstr ""
 
-#. [side]: id=Vanak, type=Orcish Ruler
+#. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
-#. [side]: type=Orcish Warlord, id=Urug-Telfar
+#. [side]: id=Vanak, type=Orcish Ruler
 msgid "Orcs"
 msgstr ""
 
@@ -227,8 +216,8 @@ msgid ""
 "self control of a well trained sheep dog."
 msgstr ""
 
-#. [event]
 #. [test]: id=animals
+#. [event]
 msgid "Animals"
 msgstr ""
 
@@ -259,8 +248,8 @@ msgstr ""
 msgid "Yetis"
 msgstr ""
 
-#. [event]
 #. [side]
+#. [event]
 #. [test]: id=wolves
 msgid "Wolves"
 msgstr ""
@@ -269,8 +258,8 @@ msgstr ""
 msgid "Whelps"
 msgstr ""
 
-#. [event]
 #. [set_menu_item]: id=m01_end_animals
+#. [event]
 #. [set_menu_item]: id=m01_end_swarm
 #. [set_menu_item]: id=m01_end_wolves
 #. [set_menu_item]: id=m04_end_animals
@@ -319,11 +308,11 @@ msgid ""
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "<span font='16'>I'll just watch the animals.</span>"
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "<span font='16'>I want to have control of Side 1.</span>"
 msgstr ""
 
@@ -358,17 +347,15 @@ msgstr ""
 msgid "Big Bad Orc"
 msgstr ""
 
-#. [event]: (id=Big Bad Orc) profile profile}
+#. [event]
 msgid "All right, chaps. Those orcs need to be stopped."
 msgstr ""
 
-#. [event]: (id=Big Bad Orc) profile profile}
-#. [event]: id=Kraa profile profile}
-#. [event]: id=Vanak profile profile}
+#. [event]
 msgid "They there!  We them get!"
 msgstr ""
 
-#. [event]: (id=Big Bad Orc) profile profile}
+#. [event]
 msgid ""
 "We need to hold that pass for as long as we can. Let's put our strongest "
 "fighters on the front line and bring injured units to the back for healing. "
@@ -389,11 +376,11 @@ msgid ""
 "that?"
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "<span font='16'>I'll watch the two AIs fight it out.</span>"
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "<span font='16'>I'll play the orcs.</span>"
 msgstr ""
 
@@ -418,8 +405,8 @@ msgid ""
 "I may have fallen, but we will continue to defend the pass to the last man!"
 msgstr ""
 
-#. [event]
 #. [test]: id=dragon
+#. [event]
 msgid "Dragon"
 msgstr ""
 
@@ -439,11 +426,11 @@ msgstr ""
 msgid "Rowck"
 msgstr ""
 
-#. [event]: (id=Dreadful Bat) profile profile}
+#. [event]
 msgid "Be careful to stay out of the way of that dragon. He's a mean one."
 msgstr ""
 
-#. [event]: (id=Dreadful Bat) profile profile}
+#. [event]
 msgid ""
 "Hi there. I am Rowck and here is what I do:\n"
 "When hungry, I move around part of the map in a random wander until I get "
@@ -485,6 +472,22 @@ msgstr ""
 msgid "I'm out of here."
 msgstr ""
 
+#. [test]: id=fast
+msgid "Fast"
+msgstr ""
+
+#. [event]
+msgid ""
+"This scenario presents a situation with so many units on the map, that there "
+"is a noticeable delay (a few seconds or so) before each move by the default "
+"AI. By contrast, the Fast Micro AI has a much shorter delay. To demonstrate "
+"the difference, side 1 is played by the Fast Micro AI and side 2 by the "
+"default (RCA) AI.\n"
+"\n"
+"There is nothing to do here, just watch or use this scenario as a template "
+"or for your own tests."
+msgstr ""
+
 #. [event]
 #. [test]: id=goto
 msgid "Goto"
@@ -510,19 +513,19 @@ msgstr ""
 msgid "team_name^Ghosts"
 msgstr ""
 
-#. [event]: id=guard1}, id=guard2}, (id,name=fort_commander,Aethubry)}
+#. [event]
 msgid "General Minry"
 msgstr ""
 
-#. [event]: id=guard1}, id=guard2}, (id,name=fort_commander,Aethubry)}
+#. [event]
 msgid "Lieutenant Gadoc"
 msgstr ""
 
-#. [event]: id=guard1}, id=guard2}, (id,name=fort_commander,Aethubry)}
+#. [event]
 msgid "Lieutenant Senvan"
 msgstr ""
 
-#. [event]: id=guard1}, id=guard2}, (id,name=fort_commander,Aethubry)}
+#. [event]
 msgid "Sergeant Aethubry"
 msgstr ""
 
@@ -530,8 +533,8 @@ msgstr ""
 msgid "Place Side 1 Footpad"
 msgstr ""
 
-#. [set_menu_item]: id=m02_kill_unit
 #. [set_menu_item]: id=m05_kill_unit
+#. [set_menu_item]: id=m02_kill_unit
 msgid "Kill Unit under Cursor"
 msgstr ""
 
@@ -590,15 +593,15 @@ msgid ""
 "'unique_goals=yes', the other without."
 msgstr ""
 
-#. [event]: id=ghost1}
+#. [event]
 msgid "Aaiiieeeeeee !!!"
 msgstr ""
 
-#. [event]: id=ghost1}
+#. [event]
 msgid "O no, a ghost!"
 msgstr ""
 
-#. [event]: id=ghost1}
+#. [event]
 msgid ""
 "Don't worry, those are really shy ghosts.  Nobody knows why, but they always "
 "appear in the north this time of year and move through to the south.  Also, "
@@ -912,11 +915,11 @@ msgid ""
 "no more enemies, it goes back to patrol in its basic zone."
 msgstr ""
 
-#. [event]: id=Kraa profile profile}
+#. [event]
 msgid "Kraahhh!!!!"
 msgstr ""
 
-#. [event]: id=Kraa profile profile}
+#. [event]
 msgid ""
 "Gryphons of the High Plains, look at all these enemies. They don't behave "
 "normally. Most of them don't move at all unless we get close. Let's check "
@@ -1134,8 +1137,6 @@ msgid ""
 msgstr ""
 
 #. [event]
-#. [event]: id=Konrad profile profile}
-#. [event]: id=Vanak profile profile}
 msgid "Notes"
 msgstr ""
 
@@ -1186,9 +1187,9 @@ msgstr ""
 msgid "Vanak"
 msgstr ""
 
-#. [event]
 #. [side]
 #. [unit]: type=Dragoon, id=messenger
+#. [event]
 msgid "Messenger"
 msgstr ""
 
@@ -1208,13 +1209,13 @@ msgstr ""
 msgid "AI moves Messenger here"
 msgstr ""
 
-#. [event]: id=Vanak profile profile}
+#. [event]
 msgid ""
 "Men, I need to get to that signpost in the north, to get the message to our "
 "leader. Let's head up there as quickly as we can."
 msgstr ""
 
-#. [event]: id=Vanak profile profile}
+#. [event]
 msgid ""
 "The Messenger Escort AI will try to move the dragoon messenger to the "
 "signpost in the north, while protecting him as well as possible with the "
@@ -1254,8 +1255,8 @@ msgstr ""
 msgid "Nooo!  All is lost. We will never stop the orcs now!"
 msgstr ""
 
-#. [event]
 #. [test]: id=patrols
+#. [event]
 msgid "Patrols"
 msgstr ""
 
@@ -1311,7 +1312,7 @@ msgstr ""
 msgid "Urudin retreats here"
 msgstr ""
 
-#. [event]: id=Konrad profile profile}
+#. [event]
 msgid ""
 "Hello!  I'm a Konrad impostor. We are going to demonstrate the Patrol AI to "
 "you in this scenario.\n"
@@ -1325,7 +1326,7 @@ msgid ""
 "All of this is implemented by use of the Patrol [micro_ai] tag."
 msgstr ""
 
-#. [event]: id=Konrad profile profile}
+#. [event]
 msgid ""
 "By contrast, I am a zone guardian patrolling, in a way, the southernmost "
 "part of the map.  This AI is implemented via the Guardian [micro_ai] tag.  "
@@ -1334,7 +1335,7 @@ msgid ""
 "separate test scenario specializing on those."
 msgstr ""
 
-#. [event]: id=Konrad profile profile}
+#. [event]
 msgid ""
 "And I am Urudin. I will attack my enemies for a few turns, but will retreat "
 "toward the right edge of the map if my hitpoints are below half of maximum "
@@ -1343,7 +1344,7 @@ msgid ""
 "This is an AI separate from the Patrols of Side 2."
 msgstr ""
 
-#. [event]: id=Konrad profile profile}
+#. [event]
 msgid ""
 "You, as the player, are in charge of Gertburt's bandits in this scenario. "
 "You can either simply watch the patrols move around, or you can move units "
@@ -1392,8 +1393,8 @@ msgstr ""
 msgid "Let's go home, chaps."
 msgstr ""
 
-#. [event]
 #. [test]: id=protect_unit
+#. [event]
 msgid "Protect Unit"
 msgstr ""
 
@@ -1417,21 +1418,21 @@ msgstr ""
 msgid "Move Rossauba here"
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid "There's that traitor wizard. Let's get him."
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid ""
 "Men, you know the deal. We must protect Rossauba under all circumstances. "
 "Even my survival is not as important."
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid "That's very kind of you, but ..."
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid ""
 "No buts!  You stay behind the lines and do not engage in battle unless there "
 "is no risk to your life, is that understood?  And get to that signpost in "
@@ -1452,17 +1453,17 @@ msgid ""
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "<span font='16'>I'll watch the two AIs fight it out</span>"
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid ""
 "<span font='16'>I'll play Langzhar's side (to see how Koorzhar's units "
 "target Rossauba)</span>"
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid ""
 "<span font='16'>I'll play Koorzhar's side (to see how Langzhar's units "
 "protect Rossauba)</span>"
@@ -1472,8 +1473,8 @@ msgstr ""
 msgid "Protect Rossauba while moving him to the signpost"
 msgstr ""
 
-#. [objective]: condition=lose
 #. [objective]: condition=win
+#. [objective]: condition=lose
 msgid "Rossauba makes it to the signpost"
 msgstr ""
 
@@ -1505,30 +1506,31 @@ msgstr ""
 msgid "I made it"
 msgstr ""
 
-#. [event]
 #. [test]: id=recruiting
+#. [event]
 msgid "Recruiting"
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid ""
 "This is a very simple scenario that can be used to test out different "
 "recruiting patterns."
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid ""
 "Just watch the recruiting of both sides and see if it is what you would "
 "expect. The recruitment lists cover level 0 to level 2 units, in order to "
 "make differences more obvious."
 msgstr ""
 
-#. [event]: id=Koorzhar profile profile}
+#. [event]
 msgid ""
 "If you have not changed anything in the scenario code, Side 1 uses the "
 "Random Recruitment Micro AI, with swordsmen and peasants having been given "
-"higher probability than the other units. This is not meant as a good "
-"recruitment pattern, it simply serves as a demonstration how to use the AI.\n"
+"higher probability than the other units, and mages a middling probability. "
+"This is not meant as a good recruitment pattern, it simply serves as a "
+"demonstration how to use the AI.\n"
 "\n"
 "Side 2 uses the Rush Recruitment Micro AI (which is also used in the "
 "Experimental AI).\n"
@@ -1579,6 +1581,10 @@ msgstr ""
 #. [event]
 #. [test]: id=simple_attack
 msgid "Simple Attack"
+msgstr ""
+
+#. [event]
+msgid "Fast AI"
 msgstr ""
 
 #. [set_menu_item]: id=m01_menu_bottleneck_defense
@@ -1773,7 +1779,7 @@ msgid ""
 msgstr ""
 
 #. [command]
-#. [set_menu_item]: id=m14_simple_attack
+#. [set_menu_item]: id=m15_simple_attack
 msgid "Simple Attack Micro AI demo"
 msgstr ""
 
@@ -1782,6 +1788,17 @@ msgid ""
 "This scenario demonstrates how certain attacks can be executed with higher "
 "priority than the standard Wesnoth attacks and how the AI can be forced to "
 "do attacks that it would otherwise avoid."
+msgstr ""
+
+#. [command]
+#. [set_menu_item]: id=m16_fast
+msgid "Fast Micro AI demo"
+msgstr ""
+
+#. [command]
+msgid ""
+"A simple demonstration of the calculation time advantage of the Fast Micro "
+"AI over the default AI in scenarios with many units."
 msgstr ""
 
 #. [event]
@@ -1983,7 +2000,7 @@ msgid ""
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "<span font='16'>I'll just watch the two wolf sides.</span>"
 msgstr ""
 
@@ -2030,10 +2047,6 @@ msgid ""
 "not to be attacked."
 msgstr ""
 
-#. [message]: speaker=narrator
-msgid "This situation should test the recruitment phase"
-msgstr ""
-
 #. [test]: id=ai_arena_small
 msgid "AI Arena - small"
 msgstr ""
@@ -2054,12 +2067,10 @@ msgstr ""
 msgid "Select another test"
 msgstr ""
 
-#. [side]: id=leader1, type=Lich
 #. [side]: type=Nightgaunt
 msgid "AI Developer"
 msgstr ""
 
-#. [side]: id=leader1, type=Lich
 #. [side]: type=Nightgaunt
 msgid "team_name^AI Developer"
 msgstr ""
@@ -2084,108 +2095,48 @@ msgstr ""
 msgid "Which AI do you wish to use, O Mighty AI Developer?"
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
 msgid "I am happy with the current AI of team 2, [$test_path_to_ai]"
 msgstr ""
 
-#. [option]: speaker=narrator
-msgid "Akihara's ai will be awesome, won't it?"
+#. [option]
+msgid "My AI is the RCA AI (the current default)."
 msgstr ""
 
-#. [option]: speaker=narrator
-msgid "My AI is TESTING AI DEFAULT, implemented as ai_composite."
-msgstr ""
-
-#. [option]: speaker=narrator
+#. [option]
 msgid ""
 "I am the king of FORMULA AI, and I will use its vast powers for world "
 "domination."
 msgstr ""
 
-#. [option]: speaker=narrator
+#. [option]
+msgid "I want to test formulaAI-based poisoning improvements"
+msgstr ""
+
+#. [option]
 msgid "I've come with my own AI, and I am ready to test its strength"
 msgstr ""
 
 #. [message]: speaker=narrator
-msgid "and where is it located (path follows the usual WML convention)"
+msgid "And where is it located (path follows the usual WML convention)"
 msgstr ""
 
 #. [text_input]
 msgid "AI Location:"
 msgstr ""
 
-#. [option]: speaker=narrator
-msgid "I want to test formulaAI-based poisoning improvements"
-msgstr ""
-
 #. [message]: speaker=narrator
-msgid "and so, the AI for team 2 was redeployed from file '$test_path_to_ai'"
+msgid "And so, the AI for team 2 was redeployed from file '$test_path_to_ai'"
 msgstr ""
 
 #. [test]: id=lua_ai
-msgid "Test scenario for Lua AI"
+msgid "Lua AI Test scenario"
 msgstr ""
 
-#. [label]
-msgid "Patrol waypoint 1"
-msgstr ""
-
-#. [label]
-msgid "Patrol waypoint 2"
-msgstr ""
-
-#. [label]
-msgid "Formula priorities test"
-msgstr ""
-
-#. [label]
-msgid "first"
-msgstr ""
-
-#. [label]
-msgid "second"
-msgstr ""
-
-#. [label]
-msgid "third"
-msgstr ""
-
-#. [label]
-msgid "Location guarded (range = 3)"
+#. [test]: id=lua_ai_old_syntax
+msgid "Lua AI Test scenario (old syntax)"
 msgstr ""
 
 #. [unit]: type=Skeletal Dragon, id=Kiressh
 msgid "Kiressh"
 msgstr ""
-
-#. [unit]: type=Orcish Archer
-msgid "Bilbo"
-msgstr ""
-
-#. [unit]: type=Walking Corpse
-msgid "Sirené"
-msgstr ""
-
-#. [unit]: type=Wolf Rider
-msgid "Rark"
-msgstr ""
-
-#. [test]: id=lua_ai_no_engine
-msgid "Test scenario for Lua AI with no Lua engine defined"
-msgstr ""
-
-#. [test]: id=move_to_targets
-msgid "Move to targets"
-msgstr ""
-
-#. [test]: id=move_to_targets
-msgid "Test ai move-to-targets logic"
-msgstr ""
-
-#. [side]: type=Orcish Slayer
-msgid "AI under test"
-msgstr "测试中AI"
-
-#. [side]: id=leader3, type=Mage of Light
-msgid "Idle AI"
-msgstr "空闲AI"

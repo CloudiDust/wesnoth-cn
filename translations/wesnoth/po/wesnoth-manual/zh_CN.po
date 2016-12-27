@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-06 02:31+0300\n"
 "PO-Revision-Date: 2015-06-06 15:32+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1016,7 +1016,7 @@ msgstr "+"
 msgid "Zoom in"
 msgstr "放大"
 
-#. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
+#. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid "-"
 msgstr "-"
 
@@ -2704,18 +2704,18 @@ msgstr ""
 "人。"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
-msgid "Black"
-msgstr "黑色"
+msgid "Red"
+msgstr "红"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject>
 msgid ""
-"<imageobject> <imagedata fileref=\"images/orb-black.jpg\"/> </imageobject>"
+"<imageobject> <imagedata fileref=\"images/orb-red.jpg\"/> </imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/orb-black.jpg\"/> </imageobject>"
+"<imageobject> <imagedata fileref=\"images/orb-red.jpg\"/> </imageobject>"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject><textobject><phrase>
-msgid "Black orb"
-msgstr "黑色球"
+msgid "Red orb"
+msgstr "红色球"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid ""
@@ -2741,22 +2741,21 @@ msgstr "蓝色球"
 msgid "If the unit is an ally you do not control"
 msgstr "如果这是一个您不能控制的友军单位"
 
-#. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
-msgid "Red"
-msgstr "红"
-
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject>
+#, fuzzy
 msgid ""
-"<imageobject> <imagedata fileref=\"images/orb-red.jpg\"/> </imageobject>"
+"<imageobject> <imagedata fileref=\"images/orb-none.jpg\"/> </imageobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"images/orb-red.jpg\"/> </imageobject>"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject><textobject><phrase>
-msgid "Red orb"
-msgstr "红色球"
+#, fuzzy
+msgid "No orb"
+msgstr "黄色球"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
-msgid "Enemy units have a red orb on the top of their energy bar"
+#, fuzzy
+msgid "Enemy units have no orb on the top of their energy bar"
 msgstr "敌方单位的能量条顶部有个红色球。"
 
 #. type: Content of: <book><chapter><section><section><title>
@@ -2827,11 +2826,12 @@ msgstr ""
 "相同的武器，他在战斗中就不能反击，当然也就不能对您造成伤害。"
 
 #. type: Content of: <book><chapter><section><simpara>
+#, fuzzy
 msgid ""
 "Different types of attacks do different amounts of damage, and a certain "
 "number of strikes may be made with each weapon. For instance, an Elvish "
 "Fighter does 5 points of damage with its sword every time it hits, and can "
-"strike 4 blows with the sword in one exchange. This is written as 5–4, "
+"strike 4 blows with the sword in one exchange. This is written as 5&times;4, "
 "meaning 5 damage per hit, and 4 strikes."
 msgstr ""
 "不同类型武器的伤害输出不同，每回战斗的攻击次数也不同。例如，精灵战士使用剑的"

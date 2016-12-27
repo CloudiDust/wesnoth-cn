@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:31 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -26,15 +26,17 @@ msgid "SoF"
 msgstr "SoF"
 
 #. [campaign]: id=Sceptre_of_Fire
-msgid "(Normal)"
-msgstr "（普通）"
-
-#. [campaign]: id=Sceptre_of_Fire
 msgid "Fighter"
 msgstr "战士"
 
 #. [campaign]: id=Sceptre_of_Fire
-msgid "(Challenging)"
+#, fuzzy
+msgid "Normal"
+msgstr "（普通）"
+
+#. [campaign]: id=Sceptre_of_Fire
+#, fuzzy
+msgid "Challenging"
 msgstr "（挑战）"
 
 #. [campaign]: id=Sceptre_of_Fire
@@ -42,7 +44,8 @@ msgid "Steelclad"
 msgstr "铁甲兵"
 
 #. [campaign]: id=Sceptre_of_Fire
-msgid "(Difficult)"
+#, fuzzy
+msgid "Difficult"
 msgstr "（困难）"
 
 #. [campaign]: id=Sceptre_of_Fire
@@ -50,15 +53,16 @@ msgid "Lord"
 msgstr "领主"
 
 #. [campaign]: id=Sceptre_of_Fire
+#, fuzzy
 msgid ""
-"The land of Wesnoth’s banner bold\n"
+"<i>The land of Wesnoth’s banner bold\n"
 "Comes not from its own land;\n"
 "It comes from Dwarfdom, grim and old\n"
 "Made by a runesmith’s hand.\n"
 "So now I tell from whence it came —\n"
 "The Fire-sceptre great —\n"
 "And of the makers of the same,\n"
-"Their tale I now relate...\n"
+"Their tale I now relate...</i>\n"
 "\n"
 msgstr ""
 "韦诺之信，源出异邦，\n"
@@ -113,13 +117,13 @@ msgstr "哈德里克二世"
 msgid "Glildur"
 msgstr "基利达"
 
-#. [side]
-#. [side]: type=Elvish Captain, id=Glildur
-#. [side]: type=Elvish Captain, id=Glindur
-#. [side]: type=Elvish Captain, id=Kalnar
-#. [side]: type=Elvish Marshal, id=Crintil
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
+#. [side]: type=Elvish Captain, id=Kalnar
+#. [side]: type=Elvish Captain, id=Glildur
+#. [side]: type=Elvish Captain, id=Glindur
+#. [side]
+#. [side]: type=Elvish Marshal, id=Crintil
 msgid "Elves"
 msgstr "精灵"
 
@@ -168,7 +172,7 @@ msgstr "运送4辆装满银币的大蓬车回矮人城堡"
 msgid "Bring Alanin, who has the Ruby of Fire, to the dwarvish castle"
 msgstr "让携带火焰之红宝石的阿拉宁到达矮人城堡"
 
-#. [objective]: condition=win
+#. [objectives]
 msgid "Defeat Glildur"
 msgstr "击败基利达"
 
@@ -285,8 +289,9 @@ msgstr ""
 "匠！"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"Uh, no, wait! Lets talk business — how much will you pay us to do this for "
+"Uh, no, wait! Let’s talk business — how much will you pay us to do this for "
 "you?"
 msgstr "啊，别，等等！让我们谈谈交易——我们做这事儿，你准备出多少钱？"
 
@@ -1309,7 +1314,6 @@ msgid "M’ ’u!"
 msgstr "俺也是！"
 
 #. [scenario]: id=4_Gathering_Materials
-#. [settings]
 msgid "Gathering Materials"
 msgstr "收集原料"
 
@@ -1622,8 +1626,8 @@ msgstr "绍比尔族之山"
 msgid "Glonoin"
 msgstr "格罗诺因"
 
-#. [side]
 #. [side]: type=Dwarvish Lord, id=Glonoin
+#. [side]
 msgid "Enemies"
 msgstr "敌人"
 
@@ -2025,11 +2029,12 @@ msgstr ""
 "精灵，作为降物。然后我们也许可以活着走出这里。"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
 "You don’t have authority over me, Durstorn. And I wouldn’t give the Sceptre "
-"to them even if you did. It’s not yours to give, its mine, and Rugnur’s, and "
-"Baglur’s. Krawg’s done more for its existence than you have! And yet, you "
-"still get the profits from selling it to Haldric."
+"to them even if you did. It’s not yours to give, it’s mine, and Rugnur’s, "
+"and Baglur’s. Krawg’s done more for its existence than you have! And yet, "
+"you still get the profits from selling it to Haldric."
 msgstr ""
 "你无权命令我，达司拓恩。就算你有这权力，我也不会把权杖给他们。这要给的东西不"
 "是你的，这是我的，是拉格纳的，是巴格拉的。就是克拉格对它的贡献都比你多！而"
@@ -2145,8 +2150,9 @@ msgid "... and then ride south until you reach one of your outposts."
 msgstr "……然后向南骑，直到抵达你们的某个边境岗哨。"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
-"I’m not going to do that, its suicide! And in any case, I’ve been with you "
+"I’m not going to do that, it’s suicide! And in any case, I’ve been with you "
 "for ten years, almost as long as I was in the Wesnothian army; I’d prefer to "
 "fight with you."
 msgstr ""
@@ -2171,8 +2177,9 @@ msgid "Come out, dwarves, and surrender! Or die in that cave, your choice."
 msgstr "出来投降！矮人！不然就死在洞里，看着办吧。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"Alanin, ride as fast as you can south. Tell Haldric we are heading "
+"Alanin, ride south as fast as you can. Tell Haldric we are heading "
 "northeast, towards the old eastern mines, and if he wants his precious "
 "sceptre he should send forces to meet us there as soon as he can!"
 msgstr ""
@@ -2526,8 +2533,8 @@ msgstr "所以矮人们没办法出去。他们无法离开已经进入的山洞
 msgid "Explore as much of the cave as possible"
 msgstr "尽可能地探索洞窟"
 
-#. [unit]: type=Orcish Warrior, role=Guardian
 #. [unit]: type=Troll, role=Guardian
+#. [unit]: type=Orcish Warrior, role=Guardian
 msgid "Guardian"
 msgstr "守卫"
 

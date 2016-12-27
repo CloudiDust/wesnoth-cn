@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:32+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -26,39 +26,15 @@ msgstr ""
 msgid "User Map"
 msgstr "玩家地图"
 
-#. [multiplayer_side]: id=Custom
-msgid "Custom"
-msgstr "自定义"
-
 #. [multiplayer_side]: id=Random
 msgid "Random"
 msgstr "随机"
 
-#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
-msgid "<span strikethrough='true' foreground='#%02x%02x%02x'>Side %d</span>"
-msgstr "<span strikethrough='true' foreground='#%02x%02x%02x'>阵营 %d</span>"
-
-#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
-msgid ""
-"<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit "
-"score = %d  Gold = %d"
-msgstr ""
-"<span foreground='#%02x%02x%02x'>阵营 %d</span>:  收入得分 = %d  单位得分 = "
-"%d  金币 = %d"
-
-#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
-msgid "Grand total: <b>%d</b>"
-msgstr "总得分：<b>%d</b>"
-
-#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
-msgid "<span foreground='%s'>Side %d</span> has the advantage."
-msgstr "<span foreground='%s'>阵营 %d</span> 取得了优势。"
-
-#. [era]: id=era_default
+#. [era]: id=era_default, type=hybrid
 msgid "Default"
 msgstr "默认"
 
-#. [era]: id=era_default
+#. [era]: id=era_default, type=hybrid
 msgid ""
 "The standard era for Wesnoth multiplayer. Consists of six factions and is "
 "generally balanced."
@@ -113,33 +89,135 @@ msgstr ""
 "\n"
 "此时代仍在开发中，因此请务必报告出现的一切问题。"
 
+#. [lua]: f
+msgid "<span strikethrough='true' foreground='#%02x%02x%02x'>Side %d</span>"
+msgstr "<span strikethrough='true' foreground='#%02x%02x%02x'>阵营 %d</span>"
+
+#. [lua]: f
+msgid ""
+"<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit "
+"score = %d  Gold = %d"
+msgstr ""
+"<span foreground='#%02x%02x%02x'>阵营 %d</span>:  收入得分 = %d  单位得分 = "
+"%d  金币 = %d"
+
+#. [lua]: f
+msgid "Grand total: <b>%d</b>"
+msgstr "总得分：<b>%d</b>"
+
+#. [lua]: f
+msgid "<span foreground='%s'>Side %d</span> has the advantage."
+msgstr "<span foreground='%s'>阵营 %d</span> 取得了优势。"
+
 #. [multiplayer_side]: id=Drakes, type=random
 msgid "Drakes"
 msgstr "龙人部落"
+
+#. [multiplayer_side]: id=Drakes, type=random
+msgid ""
+"The <bold>text='Drakes'</bold> are a faction of dragon-like "
+"<ref>text='Drakes' dst='..race_drake'</ref> and their lizard "
+"<ref>text='Saurian' dst='..race_lizard'</ref> allies. Drakes are descendants "
+"of dragons, but smaller in size. Saurians are considerably smaller than "
+"Drakes and from different ancestry. Together, the Drake faction has high "
+"mobility but low defense, leading to unusual tactics for a "
+"<ref>text='Default Era' dst='..era_era_default'</ref> faction."
+msgstr ""
 
 #. [multiplayer_side]: id=Khalifate, type=random
 msgid "Khalifate"
 msgstr "沙漠"
 
+#. [multiplayer_side]: id=Khalifate, type=random
+msgid ""
+"The <bold>text='Khalifate'</bold> are a faction of humans from the deserts "
+"and hills of the southern lands. Lacking magic users, the Khalifate instead "
+"specialize in using terrain features to coordinate attacks at dawn or dusk. "
+"Their ranks boast lawful and liminal units, healers, high-accuracy melee "
+"fighters, and fearsome horse-mounted archers. While Khalifate units tend to "
+"be more expensive than those of the Loyalist faction, they make up for this "
+"with high mobility — especially on hilly terrains."
+msgstr ""
+
 #. [multiplayer_side]: id=Knalgan Alliance, type=random
 msgid "Knalgan Alliance"
 msgstr "纳尔迦联盟"
+
+#. [multiplayer_side]: id=Knalgan Alliance, type=random
+msgid ""
+"The <bold>text='Knalgan Alliance'</bold> is a faction of <ref>text='Dwarves' "
+"dst='..race_dwarf'</ref> and their outlaw <ref>text='Human' dst='.."
+"race_human'</ref> allies. Dwarves are an old race who live underground and "
+"have tough, but short, warriors. The outlaws are humans who are not socially "
+"acceptable among others of their race, but have become allies of the dwarves "
+"due to common enemies. This leads to a combination of tough and defensive "
+"dwarves who are only good on certain terrain and humans who can cover ground "
+"that dwarves are not good at fighting in."
+msgstr ""
 
 #. [multiplayer_side]: id=Loyalists, type=random
 msgid "Loyalists"
 msgstr "保皇军队"
 
-#. [multiplayer_side]: id=Northerners, type=random
+#. [multiplayer_side]: id=Loyalists, type=random
+msgid ""
+"The <bold>text='Loyalists'</bold> are a faction of <ref>text='Humans' dst='.."
+"race_human'</ref> who are loyal to the throne of Wesnoth. Humans are a "
+"versatile race who specialize in many different areas. Similarly, the "
+"Loyalist faction is a very versatile melee-oriented faction with important "
+"ranged support from bowmen and mages."
+msgstr ""
+
+#. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.png~BG()' align='middle'</img>
 msgid "Northerners"
 msgstr "北方民族"
+
+#. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.png~BG()' align='middle'</img>
+msgid ""
+"The <bold>text='Northerners'</bold> are a faction of <ref>text='Orcs' dst='.."
+"race_orc'</ref> and their allies who live in the north of the Great "
+"Continent, thus their name. Northerners consist of the warrior orcs race, "
+"the enslaved <ref>text='goblins' dst='..race_goblin'</ref>, "
+"<ref>text='trolls' dst='..race_troll'</ref> who are tricked into combat by "
+"the orcs, and the serpentine <ref>text='naga' dst='..race_naga'</ref>. The "
+"Northerners play best by taking advantage of having many low-cost and high "
+"HP soldiers."
+msgstr ""
 
 #. [multiplayer_side]: id=Rebels, type=random
 msgid "Rebels"
 msgstr "反抗势力"
 
+#. [multiplayer_side]: id=Rebels, type=random
+msgid ""
+"The <bold>text='Rebels'</bold> are a faction of <ref>text='Elves' dst='.."
+"race_elf'</ref> and their various forest-dwelling allies. They get their "
+"human name, Rebels, from the time of Heir to the Throne, when they started "
+"the rebellion against the evil Queen Asheviere. Elves are a magical race "
+"that are masters of the bow and are capable of living many years longer than "
+"humans. In harmony with nature, the elves find allies with the "
+"<ref>text='human' dst='..race_human'</ref> mages, certain "
+"<ref>text='merfolk' dst='..race_merman'</ref>, and tree creatures called "
+"<ref>text='Woses' dst='..race_wose'</ref>. Rebels are best played taking "
+"advantage of their high forest defense, mastery of ranged attacks, and the "
+"elves’ neutral alignment."
+msgstr ""
+
 #. [multiplayer_side]: id=Undead, type=random
 msgid "Undead"
 msgstr "亡灵军团"
+
+#. [multiplayer_side]: id=Undead, type=random
+msgid ""
+"The <bold>text='Undead'</bold> are a faction of <ref>text='undead' dst='.."
+"race_undead'</ref> creatures and <ref>text='human' dst='..race_human'</ref> "
+"practitioners of dark arts that usually accompany them. Often, these “Dark "
+"Adepts” are the units that do the most damage for the faction, but they have "
+"a major vulnerability — their practicing of this forbidden, evil magic has "
+"consumed all their energy and so they have no melee attack at all. The "
+"Undead are a very aggressive faction and the most powerful "
+"<ref>text='Default Era' dst='..era_era_default'</ref> faction at nighttime."
+msgstr ""
 
 #. [multiplayer]: id=multiplayer_Aethermaw
 msgid "2p — Aethermaw"
@@ -182,12 +260,10 @@ msgid "Aethermaw — Created by Doc Paterson"
 msgstr "安瑟茂 — 本地图由多克·帕特森设计。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "The Great Mage Sulla has transported your armies to this bizarre nexus, and "
 "demands that you amuse her by doing battle.\n"
-"\n"
-"\n"
-"\n"
 "\n"
 "<span color='red'>Note:</span>\n"
 "\n"
@@ -684,43 +760,6 @@ msgstr ""
 "\n"
 "注意：您需要使用地图设置，以便让这个场景能够正确运行。"
 
-#. [message]: speaker=narrator
-msgid ""
-"The screams and pleas for mercy are finally silenced, as you remove your "
-"blood soaked blade from the last of the rebels. There will be no more "
-"resistance from the local scum. Your reign has finally earned stability."
-msgstr ""
-"当您把浴血的剑刃从最后一个反抗者的体内拔出来时，尖叫声和求饶声最终都消散了。"
-"再也不会有本地渣滓们的反抗，您的统治终于稳定了下来。"
-
-#. [message]
-msgid ""
-"The last and most powerful of these creatures are almost upon us. I feel "
-"that if we can finish them off in time, we shall be victorious."
-msgstr ""
-"这些生物中最后也是最强的家伙就要来到我们面前了。我觉得如果我们能在时限内解决"
-"他们的话，那我们就能赢！"
-
-#. [case]
-msgid "Heavy Snowfall"
-msgstr "大雪"
-
-#. [case]
-msgid "Snowfall"
-msgstr "降雪"
-
-#. [case]
-msgid "Heavy Rains"
-msgstr "大雨"
-
-#. [case]
-msgid "Drought"
-msgstr "干旱"
-
-#. [else]
-msgid "Clear Weather"
-msgstr "晴天"
-
 #. [side]
 msgid "teamname^Revolt"
 msgstr "反抗者"
@@ -842,6 +881,47 @@ msgstr ""
 "敌人的欢呼声，像从地面上升起的黑暗薄雾一般将你吞噬。如同鬼魂一般的轻烟吸走了"
 "你的意志，你明白了，自己在这片土地上的存在已经结束了。"
 
+#. [slider]: id=enemey_gold_factor
+msgid "Changes the gold worth of the enemy spawns by a certain percentage"
+msgstr ""
+
+#. [lua]: final_spawn
+msgid ""
+"The last and most powerful of these creatures are almost upon us. I feel "
+"that if we can finish them off in time, we shall be victorious."
+msgstr ""
+"这些生物中最后也是最强的家伙就要来到我们面前了。我觉得如果我们能在时限内解决"
+"他们的话，那我们就能赢！"
+
+#. [lua]: final_spawn
+msgid ""
+"The screams and pleas for mercy are finally silenced, as you remove your "
+"blood soaked blade from the last of the rebels. There will be no more "
+"resistance from the local scum. Your reign has finally earned stability."
+msgstr ""
+"当您把浴血的剑刃从最后一个反抗者的体内拔出来时，尖叫声和求饶声最终都消散了。"
+"再也不会有本地渣滓们的反抗，您的统治终于稳定了下来。"
+
+#. [lua]: weather_map
+msgid "Clear Weather"
+msgstr "晴天"
+
+#. [lua]: weather_map
+msgid "Drought"
+msgstr "干旱"
+
+#. [lua]: weather_map
+msgid "Heavy Rains"
+msgstr "大雨"
+
+#. [lua]: weather_map
+msgid "Snowfall"
+msgstr "降雪"
+
+#. [lua]: weather_map
+msgid "Heavy Snowfall"
+msgstr "大雪"
+
 #. [multiplayer]: id=multiplayer_Den_of_Onis
 msgid "2p — Den of Onis"
 msgstr "2p — 鬼之巢穴"
@@ -926,7 +1006,7 @@ msgstr "科尔巴"
 msgid "Vilhelm Viskitynnyri"
 msgstr "维尔赫姆·维斯基提尼利"
 
-#. [unit]: type=Woodsman, id=Clockwork Boy
+#. [unit]: type=Woodsman
 msgid "Clockwork Boy"
 msgstr "发条小子"
 
@@ -1120,19 +1200,19 @@ msgstr "这个极其重要的运输通道在韦诺的许多最伟大的战役中
 msgid "3p — Alirok Marsh"
 msgstr "3p — 埃尔洛克沼泽"
 
-#. [multiplayer]: id=multiplayer_3p_Morituri
-#. [multiplayer]: id=multiplayer_4p_Hamlets
-#. [multiplayer]: id=multiplayer_4p_Morituri
-#. [multiplayer]: id=multiplayer_4p_Underworld
-#. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
-#. [multiplayer]: id=multiplayer_8p_Morituri
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
+#. [multiplayer]: id=multiplayer_Island_of_the_Horatii
+#. [multiplayer]: id=multiplayer_3p_Morituri
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #. [multiplayer]: id=multiplayer_Clash
-#. [multiplayer]: id=multiplayer_Island_of_the_Horatii
+#. [multiplayer]: id=multiplayer_4p_Hamlets
 #. [multiplayer]: id=multiplayer_Loris_River
+#. [multiplayer]: id=multiplayer_4p_Morituri
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
+#. [multiplayer]: id=multiplayer_4p_Underworld
+#. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
+#. [multiplayer]: id=multiplayer_8p_Morituri
 msgid " Recommended setting of 2 gold per village."
 msgstr " 建议设置每座村庄供给2个金币。"
 
@@ -1368,8 +1448,8 @@ msgstr "在这混合了多种地形的地方，五支部队为争夺霸权而战
 msgid "5p — The Wilderlands"
 msgstr "5p — 蛮荒之地"
 
-#. [multiplayer]: id=multiplayer_Crusaders_Field
 #. [multiplayer]: id=multiplayer_The_Wilderlands
+#. [multiplayer]: id=multiplayer_Crusaders_Field
 msgid " Recommended setting of 1 gold per village."
 msgstr " 推荐设置每座村庄供给1个金币。"
 
@@ -1564,8 +1644,8 @@ msgstr ""
 "9一队，2、6、7一队，3、4、8一队（北部对东南对西南）。每个玩家平均拥有的村庄数"
 "很少，所以建议设定每座村庄提供3个金币。"
 
-#. [multiplayer]: id=multiplayer_Random_Map
 #. [scenario]: id=multiplayer_Random_Map
+#. [multiplayer]: id=multiplayer_Random_Map
 msgid "Random map"
 msgstr "随机地图"
 
@@ -1577,8 +1657,8 @@ msgstr ""
 "一幅随机生成的地图。注意：随机地图往往不太平衡，但是如果您有足够的时间，可以"
 "不断地重新生成，直到得到一幅平衡的地图。"
 
-#. [multiplayer]: id=multiplayer_Random_Map_Desert
 #. [scenario]: id=multiplayer_Random_Map_Desert
+#. [multiplayer]: id=multiplayer_Random_Map_Desert
 msgid "Random map (Desert)"
 msgstr "随机地图（沙漠）"
 
@@ -1591,8 +1671,8 @@ msgstr ""
 "一幅以沙地为主要地形的随机地图。注意：随机地图往往不太平衡，但是如果您有足够"
 "的时间，可以不断地重新生成，直到得到一幅平衡的地图。"
 
-#. [multiplayer]: id=multiplayer_Random_Map_Marsh
 #. [scenario]: id=multiplayer_Random_Map_Marsh
+#. [multiplayer]: id=multiplayer_Random_Map_Marsh
 msgid "Random map (Marsh)"
 msgstr "随机地图（沼泽）"
 
@@ -1605,8 +1685,8 @@ msgstr ""
 "一幅以沼泽为主要地形的随机地图。注意：随机地图往往不太平衡，但是如果您有足够"
 "的时间，可以不断地重新生成，直到得到一幅平衡的地图。"
 
-#. [multiplayer]: id=multiplayer_Random_Map_Winter
 #. [scenario]: id=multiplayer_Random_Map_Winter
+#. [multiplayer]: id=multiplayer_Random_Map_Winter
 msgid "Random map (Winter)"
 msgstr "随机地图（冬天）"
 

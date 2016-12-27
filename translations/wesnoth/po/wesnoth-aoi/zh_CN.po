@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-07-24 20:26 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:28+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -28,30 +28,6 @@ msgid "AOI"
 msgstr "AOI"
 
 #. [campaign]: id=An_Orcish_Incursion
-msgid "(Beginner)"
-msgstr "（初学者）"
-
-#. [campaign]: id=An_Orcish_Incursion
-msgid "Fighter"
-msgstr "战士"
-
-#. [campaign]: id=An_Orcish_Incursion
-msgid "(Normal)"
-msgstr "（普通）"
-
-#. [campaign]: id=An_Orcish_Incursion
-msgid "Lord"
-msgstr "领主"
-
-#. [campaign]: id=An_Orcish_Incursion
-msgid "(Challenging)"
-msgstr "（挑战）"
-
-#. [campaign]: id=An_Orcish_Incursion
-msgid "High Lord"
-msgstr "高阶领主"
-
-#. [campaign]: id=An_Orcish_Incursion
 msgid ""
 "Defend the forests of the elves against the first orcs to reach the Great "
 "Continent, learning valuable tactics as you do so.\n"
@@ -63,6 +39,33 @@ msgstr ""
 #. [campaign]: id=An_Orcish_Incursion
 msgid "(Novice level, 7 scenarios.)"
 msgstr "（新手级别，7幕场景。）"
+
+#. [campaign]: id=An_Orcish_Incursion
+#, fuzzy
+msgid "Beginner"
+msgstr "（初学者）"
+
+#. [campaign]: id=An_Orcish_Incursion
+msgid "Fighter"
+msgstr "战士"
+
+#. [campaign]: id=An_Orcish_Incursion
+msgid "Lord"
+msgstr "领主"
+
+#. [campaign]: id=An_Orcish_Incursion
+#, fuzzy
+msgid "Normal"
+msgstr "（普通）"
+
+#. [campaign]: id=An_Orcish_Incursion
+#, fuzzy
+msgid "Challenging"
+msgstr "（挑战）"
+
+#. [campaign]: id=An_Orcish_Incursion
+msgid "High Lord"
+msgstr "高阶领主"
 
 #. [about]
 msgid "Campaign Design"
@@ -87,27 +90,6 @@ msgstr "编辑，校对和游戏测试"
 #. [scenario]: id=01_Defend_the_Forest
 msgid "Defend the Forest"
 msgstr "保卫森林"
-
-#. [side]: type=Elvish Lord, id=Erlornas
-msgid "Erlornas"
-msgstr "艾洛纳斯"
-
-#. [side]: type=Elvish Lord, id=Erlornas
-msgid "Elves"
-msgstr "精灵"
-
-#. [side]: type=Orcish Warrior, id=Urugha
-msgid "Urugha"
-msgstr "乌鲁加"
-
-#. [side]: type=Lich, id=Keremal
-#. [side]: type=Orcish Slayer, id=Gharlsa
-#. [side]: type=Orcish Sovereign, id=Rualsha
-#. [side]: type=Orcish Warlord, id=Gnargha
-#. [side]: type=Orcish Warlord, id=Krughnar
-#. [side]: type=Orcish Warrior, id=Urugha
-msgid "Orcs"
-msgstr "兽人"
 
 #. [part]
 msgid ""
@@ -154,14 +136,26 @@ msgid ""
 "Wesmere."
 msgstr "兽人最早在韦弥儿大森林的北部边境被发现。"
 
-#. [objectives]
-msgid ""
-"Hint:\n"
-"Elves can move quickly and safely among the trees. Pick off the enemy grunts "
-"with your archers from the safety of the forest."
-msgstr ""
-"提示：\n"
-"精灵可以在树林里快速而安全的穿行。在安全的森林里用你的弓箭手截击敌人的步兵。"
+#. [side]
+#. [side]: type=Elvish Lord
+msgid "Elves"
+msgstr "精灵"
+
+#. [unit]: type=Elvish Rider, id=Lomarfel
+msgid "Lomarfel"
+msgstr "洛玛菲尔"
+
+#. [side]: type=Orcish Warrior, id=Urugha
+#. [side]: type=Orcish Slayer, id=Gharlsa
+#. [side]: type=Orcish Warlord, id=Gnargha
+#. [side]: type=Orcish Warlord, id=Krughnar
+#. [side]: type=Orcish Sovereign, id=Rualsha
+msgid "Orcs"
+msgstr "兽人"
+
+#. [side]: type=Orcish Warrior, id=Urugha
+msgid "Urugha"
+msgstr "乌鲁加"
 
 #. [objective]: condition=win
 msgid "Defeat Urugha"
@@ -171,11 +165,16 @@ msgstr "击败乌鲁加"
 msgid "Death of Erlornas"
 msgstr "艾洛纳斯阵亡"
 
-#. [event]
-msgid "Lomarfel"
-msgstr "洛玛菲尔"
+#. [objectives]
+#, fuzzy
+msgid ""
+"Elves can move quickly and safely among the trees. Pick off the enemy grunts "
+"with your archers from the safety of the forest."
+msgstr ""
+"提示：\n"
+"精灵可以在树林里快速而安全的穿行。在安全的森林里用你的弓箭手截击敌人的步兵。"
 
-#. [message]: id=Lomarfel
+#. [message]: speaker=Lomarfel
 msgid ""
 "My lord! A party of aliens has made camp to the north and lays waste to the "
 "forest. Our scouts believe it’s a band of orcs."
@@ -183,7 +182,7 @@ msgstr ""
 "阁下！一群外来人在北面扎营了，他们还在糟蹋森林。我们的侦察兵认为他们是一群兽"
 "人。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Orcs? It seems unlikely. The human king, Haldric, crushed them when they "
 "landed on these shores, and since then they’ve been no more than a bogey "
@@ -192,7 +191,7 @@ msgstr ""
 "兽人？不太可能吧。人类国王哈德里克，在他们刚上岸时就把他们消灭了呀，自那以后"
 "他们不过是母亲用来吓唬小孩的怪物而已。"
 
-#. [message]: id=Lomarfel
+#. [message]: speaker=Lomarfel
 msgid ""
 "So it seemed, my lord. Yet there is a band of them in the north cutting down "
 "healthy trees by the dozen, and making great fires from the wood. They "
@@ -203,7 +202,7 @@ msgstr ""
 "火。他们将草皮踩进泥里，甚至不掩埋他们那肮脏的粪便。我感觉在这儿都能闻到那股"
 "恶臭。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "So the grim tales of them prove true. They must not be allowed to continue; "
 "we must banish this blight from our forests. I shall marshal the wardens and "
@@ -214,11 +213,11 @@ msgstr ""
 "林。我将立刻召集守备军并击退他们。必须让元老会知道这件事；你去送个信，带上增"
 "援部队回来，他们可能还有更多人。"
 
-#. [message]: id=Lomarfel
+#. [message]: speaker=Lomarfel
 msgid "Yes, my lord!"
 msgstr "遵命，阁下！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Look at them. Big, slow, clumsy and hardly a bow in hand. Keep to the trees, "
 "use your arrows and the day will be ours."
@@ -230,7 +229,7 @@ msgstr ""
 msgid "It’s hopeless; we’ve tried everything, and they’re still coming back."
 msgstr "没有希望了；我们已经尽人事了，但他们还是不断地打过来。"
 
-#. [message]: id=Urugha
+#. [message]: speaker=Urugha
 msgid ""
 "Forward, you worthless worms! Look at them, they’re tired and afraid! You "
 "killed their will to fight, now go and finish the job!"
@@ -238,7 +237,7 @@ msgstr ""
 "向前冲啊，没用的废物们！看看他们那疲惫又惊恐的样子！你们消磨了他们战斗的意"
 "志，现在前进，把他们解决掉！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "That cloud of dust on the horizon... flee! There’s more of the abominations "
 "heading this way! Fall back before we’re outnumbered and crushed."
@@ -263,11 +262,11 @@ msgstr ""
 "接下来发生的事情鲜为人知，因为太多都在混沌和混乱中消失了，但有件事却是痛苦的"
 "事实。精灵们输掉了战役。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Ugh..."
 msgstr "呃啊……"
 
-#. [message]: id=Urugha
+#. [message]: speaker=Urugha
 msgid "Finally! Got him!"
 msgstr "终于！干掉他了！"
 
@@ -275,7 +274,7 @@ msgstr "终于！干掉他了！"
 msgid "Lord!"
 msgstr "阁下！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Take... command... Drive them... away."
 msgstr "传……令…… 把他们……赶出去。"
 
@@ -296,7 +295,7 @@ msgstr ""
 "我战败了，但是战斗并不公平……我诅咒你千遍，干枯的懦夫！我诅咒你受尽苦难……还"
 "有，当我的主人，鲁瓦沙，找到你的时候，愿他把你们这些人从地面上扫光！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Rualsha? Hmm... What if... Assemble a war-party, we need to scout north!"
 msgstr "鲁瓦沙？嗯……要是……集合一支战斗部队，我们得侦察一下北边的情况！"
@@ -304,10 +303,6 @@ msgstr "鲁瓦沙？嗯……要是……集合一支战斗部队，我们得侦
 #. [scenario]: id=02_Assassins
 msgid "Assassins"
 msgstr "刺客"
-
-#. [side]: type=Orcish Slayer, id=Gharlsa
-msgid "Gharlsa"
-msgstr "加尔萨"
 
 #. [part]
 msgid ""
@@ -326,9 +321,17 @@ msgstr ""
 "不久，他们来到了一个地方，森林被许多溪流分割成了多片，却发现了一些前所未料的"
 "事。"
 
+#. [side]: type=Orcish Slayer, id=Gharlsa
+msgid "Gharlsa"
+msgstr "加尔萨"
+
+#. [objective]: condition=win
+msgid "Defeat Gharlsa"
+msgstr "击败加尔萨"
+
 #. [objectives]
+#, fuzzy
 msgid ""
-"Hint:\n"
 "Assassins are hard to hit, and their poison is insidious. Stay close to the "
 "villages, where poisoning can be cured, and force your enemies to attack you "
 "from the river."
@@ -337,15 +340,11 @@ msgstr ""
 "刺客们难以被击中，并且他们的毒素也相当阴险。呆在村庄附近，在那里中毒状态可以"
 "被治愈。并且，要迫使您的敌人站在河里攻击您。"
 
-#. [objective]: condition=win
-msgid "Defeat Gharlsa"
-msgstr "击败加尔萨"
-
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid "The trail leads straight to this place, my lord."
 msgstr "阁下，兽人的踪迹直接通到了此地。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "There is a keep ahead of us. How comes it that we know nothing of it? I "
 "thought our borders were watched more carefully."
@@ -353,7 +352,7 @@ msgstr ""
 "我们面前有一座城堡主楼。我们怎么会对此一无所知？我原本以为我们的边境是被更小"
 "心的监视着。"
 
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid ""
 "I... I know not, my lord. For ages there was no one in these lands that "
 "could build such a thing save us. I fear we have fallen prey a false sense "
@@ -363,27 +362,27 @@ msgstr ""
 "造起这样的东西。恐怕我们已经成了虚假安全感的牺牲品，以至于我们的侦察兵的警觉"
 "性也受到了影响。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "When the fighting ends, I’ll have some answers. But for now—"
 msgstr "战斗结束之后，我会知道答案的。但是现在——"
 
-#. [message]: id=Gharlsa
+#. [message]: speaker=Gharlsa
 msgid "Gharlsa sees elves... yes... Fresh meat for wolves. Yes, yes..."
 msgstr "加尔萨看到了精灵……对……狼儿们喜欢的鲜肉……对，对……"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "— let’s focus on the task at hand."
 msgstr "——让我们把注意力集中到当前的任务上。"
 
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid "Does that demented creature truly believe he can kill us?"
 msgstr "那个发狂的生物真的以为他能杀了我们吗？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Appearances can be deceiving. Tell the men to be cautious."
 msgstr "外表是有欺骗性的。告诉我们的人提高警惕。"
 
-#. [message]: id=Gharlsa
+#. [message]: speaker=Gharlsa
 msgid "Yes... yes... Slay them!"
 msgstr "对……对……杀死他们！"
 
@@ -391,7 +390,7 @@ msgstr "对……对……杀死他们！"
 msgid "Hurts... failed... Rualsha gonna be angry..."
 msgstr "痛痛痛……我完了……鲁瓦沙一定会发飙的……"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "This... ‘Rualsha’ again. We need to forge ahead; the answers we seek are not "
 "here. Perhaps we will find them further north."
@@ -399,7 +398,7 @@ msgstr ""
 "又是……鲁瓦沙。我们得稳步前进；我们要找的答案不在这里。也许可以在更北面的地方"
 "找到。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Destroy this place and let the forest take the ruins. We don’t want any more "
 "undesirables to use it."
@@ -408,10 +407,6 @@ msgstr "拆了这地方，让森林覆盖这废墟。我们可不想让更多的
 #. [scenario]: id=03_Wasteland
 msgid "Wasteland"
 msgstr "荒地"
-
-#. [side]: type=Orcish Warlord, id=Gnargha
-msgid "Gnargha"
-msgstr "戈纳加"
 
 #. [part]
 msgid ""
@@ -456,9 +451,17 @@ msgstr ""
 "可能吧，但不是在这儿。这个营地里驻扎的部落规模太小，还不足以让其他兽人感到敬"
 "畏。当明天早晨到来的时候，精灵们将做好战斗的准备。"
 
+#. [side]: type=Orcish Warlord, id=Gnargha
+msgid "Gnargha"
+msgstr "戈纳加"
+
+#. [objective]: condition=win
+msgid "Defeat Gnargha"
+msgstr "击败戈纳加"
+
 #. [objectives]
+#, fuzzy
 msgid ""
-"Hint:\n"
 "There are no villages in this scenario — you must use healers instead. Use "
 "hit-and-run tactics to weaken enemy units who cannot heal themselves."
 msgstr ""
@@ -466,17 +469,13 @@ msgstr ""
 "这个场景里没有村庄——您必须用治疗者代替。使用打了就跑战术削弱这些无法治疗自己"
 "的敌军单位。"
 
-#. [objective]: condition=win
-msgid "Defeat Gnargha"
-msgstr "击败戈纳加"
-
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid ""
 "Lord... I’m... I am filled with grief. This senseless destruction is... "
 "overwhelming."
 msgstr "阁下……我……我很担心。他们愚蠢的破坏行径是……无法抵抗的。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Yes. And this is the threat we were blind to but are now facing. This tribe "
 "is small, yet we must drive them back to the north. They must have no "
@@ -485,14 +484,14 @@ msgstr ""
 "是的。而这是我们之前没有意识到的威胁，但现在必须去面对。这只是一个小部落，即"
 "使如此我们也必须把他们赶回北边去。不能让他们在山的南面建立据点。"
 
-#. [message]: id=Gnargha
+#. [message]: speaker=Gnargha
 msgid ""
 "Elves!? This means Urugha failed and his spirit will suffer greatly for his "
 "weakness. So be it!"
 msgstr ""
 "精灵！？这就是说乌鲁加失败了。他的灵魂会为他的弱小受到煎熬。肯定会这样！"
 
-#. [message]: id=Gnargha
+#. [message]: speaker=Gnargha
 msgid ""
 "Rise up, grunts! We have a great fight upon us! Let your rage flow freely! "
 "Let your blades slay all! First one to draw blood will feast by my fire this "
@@ -501,7 +500,7 @@ msgstr ""
 "准备好了，兽人步兵！我们即将面对一场恶战！把你的愤怒自由地发泄出来把！用你的"
 "刀刃把他们杀光！得到第一滴血的勇士，今晚将和我共进晚宴！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Aim true, men, with wit and courage the day will be ours. And spare no-one, "
 "there can be no orc south of the hills, else we’ll never have peace again."
@@ -509,18 +508,18 @@ msgstr ""
 "好好瞄准，战士们，依靠你们的智慧和勇气，胜利一定属于我们。不要放过任何人，不"
 "能让任何兽人到山的南面去，否则精灵族将再也不会拥有和平。"
 
-#. [message]: id=Gnargha
+#. [message]: speaker=unit
 msgid "You won... elf... But it changes... nothing... (<i>cough</i>)"
 msgstr "你赢了……精灵……但是……这什么……都不能改变……（<b>咳血</b>）"
 
-#. [message]: id=Gnargha
+#. [message]: speaker=unit
 msgid ""
 "We found the way... Now... we will come in numbers... (<i>cough</i>) you "
 "can’t imagine..."
 msgstr ""
 "我们已经找到通路了……现在……我们会蜂拥而至……（<b>咳血</b>）你绝对想象不到……"
 
-#. [message]: id=Gnargha
+#. [message]: speaker=unit
 msgid "(<i>Cough</i>) I’ll be waiting... among the dead..."
 msgstr "（<b>咳血</b>）我会等着……和死去的同胞一起……"
 
@@ -535,12 +534,12 @@ msgstr ""
 "废墟的营地，这里到处都是交战双方的尸体，视野中再没有强壮的兽人，也没有乞求宽"
 "恕的兽人。精灵们没有留下任何俘虏。"
 
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid ""
 "It’s done, lord. No-one escaped. No-one tried to escape. I’m... disturbed."
 msgstr "结束了，阁下。没人逃脱，也没人想逃脱。我……觉得很困扰。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Good. But their disregard for self-preservation is astounding. As is their "
 "ferocity when defending what they claim as their own. Have the scouts found "
@@ -549,14 +548,14 @@ msgstr ""
 "很好。不过兽人们完全无视自身防御的进攻方式真是令人惊骇。他们守卫自称属于他们"
 "的东西时的凶猛也是一样。侦察兵们有没有发现山这边有其他敌人？"
 
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid ""
 "No, lord. But trolls were spotted in the hills ahead. Do we really need to "
 "cross them to the north?"
 msgstr ""
 "没有，阁下。不过前方的山中出现了巨魔。我们真的要穿过他们的领地继续向北吗？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Yes. The council has spoken to me through a dream-sending. They are "
 "troubled. Reinforcements have been sent after us, but we need to press on. "
@@ -565,13 +564,13 @@ msgstr ""
 "是的。元老会已经托梦和我对话了。他们很担忧。增援部队已经开拔前来，但是我们得"
 "继续前进。下令让部队休整一下，破晓就出发。"
 
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid ""
 "What about the loot lord? We found supplies worth over a hundred gold in the "
 "camp."
 msgstr "战利品怎么办，阁下？我们在营地里发现了价值超过100金币的战备物资。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Distribute some among the men, save the rest for the road. This country is a "
 "wasteland now; we won’t find much forage on the march."
@@ -579,41 +578,23 @@ msgstr ""
 "给我们的战士发一些下去，剩下的留着在路上用。这片郊区现在已经成为荒地了；我们"
 "在行军时不会找到太多粮草。"
 
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid ""
 "We found some supplies when searching the camp, but nothing much. What is to "
 "be done with them?"
 msgstr "我们在搜寻营地时找到了一些战备物资，不过不是很多。怎么处理呢？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Save it for the march north. There is little to be found in this barren "
 "country."
 msgstr "留着北征时用吧。在这个贫瘠的郊区里几乎一无所有。"
 
-#. [message]: speaker=narrator
-msgid ""
-"Lord Erlornas never saw the blade that felled him. He died on the spot, with "
-"not a chance to issue last commands or farewells. Without him his wardens "
-"soon fell into confusion, and losing heart withdrew from the battle."
-msgstr ""
-"艾洛纳斯领主没有看到砍倒自己的那利刃。他瞬间身亡，都没有机会下达最后的命令或"
-"者道别。失去领袖之后，他的属下们很快陷入了混乱，失去了信心并退出了战场。"
-
-#. [message]: speaker=narrator
-msgid ""
-"When reinforcements finally arrived, elves managed to dislodge the orcish "
-"tribe. But the threat from the north remained unresolved and loomed large "
-"over their future."
-msgstr ""
-"当援军最终到来时，精灵们成功地驱逐了兽人部落。但是来自北方的威胁并没有解决，"
-"这给他们的未来蒙上了巨大的阴影。"
-
-#. [message]: role=Adviser
+#. [message]: role=advisor
 msgid "We can’t carry on Lord, the men are too tired. We have to fall back."
 msgstr "我们不能继续往前走了，阁下，士兵们都太累了。我们必须后撤。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Damn it. Sound the retreat, we’ll try again when reinforcements arrive."
 msgstr "该死。鸣金收兵，等援军到了我们再出击。"
 
@@ -629,19 +610,6 @@ msgstr ""
 #. [scenario]: id=04_Valley_of_Trolls
 msgid "Valley of Trolls"
 msgstr "巨魔山谷"
-
-#. [side]: type=Troll, type=Troll Warrior, id=Gurk
-msgid "Gurk"
-msgstr "古尔克"
-
-#. [side]: type=Troll, type=Troll Warrior, id=Gurk
-#. [side]: type=Troll, type=Troll Warrior, id=Hrugu
-msgid "Trolls"
-msgstr "巨魔"
-
-#. [side]: type=Troll, type=Troll Warrior, id=Hrugu
-msgid "Hrugu"
-msgstr "赫鲁古"
 
 #. [part]
 msgid ""
@@ -675,9 +643,26 @@ msgstr ""
 "当太阳升起来的时候，精灵们排起了战斗阵形。不管前方的山坡上有什么在等待他们，"
 "精灵们都会准备好。"
 
+#. [side]: type=Troll, type=Troll Warrior, id=Gurk
+#. [side]: type=Troll, type=Troll Warrior, id=Hrugu
+msgid "Trolls"
+msgstr "巨魔"
+
+#. [side]: type=Troll, type=Troll Warrior, id=Gurk
+msgid "Gurk"
+msgstr "古尔克"
+
+#. [side]: type=Troll, type=Troll Warrior, id=Hrugu
+msgid "Hrugu"
+msgstr "赫鲁古"
+
+#. [objective]: condition=win
+msgid "Defeat all enemy leaders"
+msgstr "击败所有敌军领袖"
+
 #. [objectives]
+#, fuzzy
 msgid ""
-"Hint:\n"
 "Trolls are poor fighters when not on rugged terrain and fare even worse "
 "during the daytime. Lure them out of the hills and attack in the sunlight."
 msgstr ""
@@ -685,11 +670,7 @@ msgstr ""
 "巨魔在并不崎岖的地形上是很弱的战士，白天他们更难发挥自如。把他们从丘陵里引出"
 "来，在阳光之下攻击他们。"
 
-#. [objective]: condition=win
-msgid "Defeat all enemy leaders"
-msgstr "击败所有敌军领袖"
-
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "We are far from our lands, now, Erlornas, and we have driven the orcs from "
 "the forest. Why do we not return home?"
@@ -697,7 +678,7 @@ msgstr ""
 "我们已经远离我们的领土了，现在，艾洛纳斯，我们也已经把兽人从森林里赶了出去。"
 "为什么我们不回家呢？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "You know well enough... Rualsha. That name sounds everywhere we go since the "
 "incursion began. That orc is much more than a mere marauding bandit in "
@@ -710,16 +691,16 @@ msgstr ""
 "b>的土地。他正在策划着一场入侵，我敢肯定这一点。在回去之前，我们要收集更多有"
 "关于他计划的情报。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "And tell me... How did you sleep last night?"
 msgstr "另外，告诉我……你昨晚睡的怎么样？"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "How did I?... Uneasy, lord. My dreams were bleak, some of them nightmares."
 msgstr "怎么样？……很不安，阁下。我的梦中没有希望，有一些还是噩梦。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Yes. The earth currents are perturbed here, and the bridges to the dreamland "
 "are tainted. I think there is a mage dwelling somewhere nearby. Or perhaps "
@@ -729,17 +710,17 @@ msgstr ""
 "是的。土壤的流动被扰乱了，而通往梦境的桥梁也被污染了。我想这附近一定住着一个"
 "法师。可能还不止一个；魔法的痕迹纵横交错，其中有一些还散发着腐味。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "It would be dire indeed for us if these orcs have magic to add to their "
 "battle-might."
 msgstr "如果这些兽人拥有魔法来增强他们的战斗力，那对我们来说真是太可怕了。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "We must discover if this is so."
 msgstr "我们必须搞清楚事实是不是如此。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "Information will do us no good if we are killed before we return with it! "
 "These mountains look like troll territory."
@@ -747,17 +728,17 @@ msgstr ""
 "如果我们在带着情报返回之前就被杀掉，那情报就一点用都没有了！这些山脉看起来像"
 "是巨魔的领地。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Enough. The sun’s fully over the horizon. Give the order to advance."
 msgstr "够了。太阳已经完全升上地平线了。下令前进。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "That was the last of the chieftains, lord. The lesser trolls seem to be "
 "retreating now."
 msgstr "那是最后一位酋长，阁下。下等的巨魔们现在似乎在撤退。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "It is well. Break camp and move everyone through the pass before they rally. "
 "We’ll rest a bit on the other side; we have earned it."
@@ -765,11 +746,11 @@ msgstr ""
 "这很好。撤掉我们的营地，让所有人在他们重新集结前穿过去。我们将在山谷的另一边"
 "休整一下；这是我们挣得的。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid "At once. How much time do you think we have?"
 msgstr "我马上执行。您认为我们还有多少时间？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "A day, perhaps. We fought two clans today; they won’t take long to rally. We "
 "need to be gone from here by sunset next."
@@ -777,7 +758,7 @@ msgstr ""
 "一天，也许吧。今天我们和两个氏族作战了；他们并不需要多久就能重整旗鼓。我们在"
 "日落之前必须离开这里。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "We have slain a chieftain! Take heart! This battle is almost won!"
 msgstr "我们已经干掉了一名酋长！鼓起勇气！战斗就要胜利了！"
 
@@ -785,7 +766,7 @@ msgstr "我们已经干掉了一名酋长！鼓起勇气！战斗就要胜利了
 msgid "Ha! Me smashed da funny elf. Me got a trophy!"
 msgstr "哈！俺敲碎了一嘎有趣的精灵。俺到了一个战利品！"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid "No! This can’t be!"
 msgstr "不！ 这不可能！"
 
@@ -806,19 +787,19 @@ msgstr ""
 "撤退途中，他们在通道里遇到了朝相反方向前进的另一支部队。兽人们已经回到了通路"
 "的南面，而这次他们想在那儿呆上很长很长时间。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "We can’t get through, my Lord. These whelps are not individually very "
 "dangerous, but there are huge numbers of them."
 msgstr ""
 "我们会顶不住的，阁下。这些幼崽单个并不很危险，但他们的数量实在是太多了。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Four days of combat and nothing to show for it. How does it feel to you?"
 msgstr "四天的战斗却没有任何结果。你感觉怎么样？"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "Terrible, my lord. Never in my life did I dream I’d be bested by mere "
 "trolls. What are your orders?"
@@ -826,7 +807,7 @@ msgstr ""
 "很糟糕，阁下。我这辈子做梦都没想到自己竟然会败在小小的巨魔手下。您有什么命"
 "令？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Withdraw and make camp a safe distance from the hills. There is no further "
 "point in this fight. We’ll wait for reinforcements."
@@ -880,22 +861,9 @@ msgstr ""
 msgid "Krughnar"
 msgstr "克鲁戈那"
 
-#. [side]: type=Silver Mage, id=Linaera
-msgid "Linaera"
-msgstr "莉娜艾拉"
-
-#. [side]: type=Silver Mage, id=Linaera
-msgid "Wizards"
-msgstr "巫师"
-
-#. [objectives]
-msgid ""
-"Hint:\n"
-"Use Elven Scouts and Linaera’s power of teleportation to mount hit-and-run "
-"attacks."
+#. [side]
+msgid "Mages"
 msgstr ""
-"提示：\n"
-"使用精灵侦察兵以及莉娜艾拉的传送技能来实施打了就跑的攻击策略。"
 
 #. [objective]: condition=win
 msgid "Defeat Krughnar and break the siege"
@@ -905,11 +873,20 @@ msgstr "击败克鲁戈那，并挫败围攻"
 msgid "Death of Linaera"
 msgstr "莉娜艾拉死亡"
 
+#. [objectives]
+#, fuzzy
+msgid ""
+"Use Elven Scouts and Linaera’s power of teleportation to mount hit-and-run "
+"attacks."
+msgstr ""
+"提示：\n"
+"使用精灵侦察兵以及莉娜艾拉的传送技能来实施打了就跑的攻击策略。"
+
 #. [message]: id=Erlornas
 msgid "Report."
 msgstr "报告情况。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "A warband of orcs, no women or children among them, besieges a tower. It’s "
 "of human design... but we are far from the lands granted to humans by "
@@ -918,7 +895,7 @@ msgstr ""
 "一个兽人军团——其中没有女人和小孩——正在围攻一座高塔。那是人类设计的……但我们现"
 "在和条约授予人类的土地相距甚远，艾洛纳斯阁下。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Under the letter of the treaty, it is so. But this country is too cold and "
 "barren for us. I wonder, what manner of human would choose to live here, far "
@@ -927,11 +904,11 @@ msgstr ""
 "照条约所言，确实是这样。但这个地方对我们来说又冷又贫瘠。我真奇怪，究竟是什么"
 "样的人类会住在这儿，远离自己的族人？嗯……"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid "It trespasses, and should be driven out!"
 msgstr "这是入侵，应该把他们驱逐出去！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Hold. It is only one human, or a few of them at most. Time enough to speak "
 "of driving it out when we have no enemies in common."
@@ -939,7 +916,7 @@ msgstr ""
 "等下。只是一个人类而已，或者最多也只有几个。等到我们解决了共同的敌人，那就有"
 "足够的时间来讨论把他们驱逐出去的问题了。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Tell me: I see no bridge over the chasm around that keep. Is there any sign "
 "that one has been withdrawn by the defenders?"
@@ -947,7 +924,7 @@ msgstr ""
 "告诉我：在那座城堡周围的峡谷之上我并没有看到桥。有什么桥被守卫者们收起来的迹"
 "象么？"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "No, lord. No traces of any construction. It looks like no bridge has ever "
 "existed there. There must be other, hidden means of access to the tower."
@@ -955,17 +932,17 @@ msgstr ""
 "没有，阁下。没有任何建造物的痕迹。看起来那里从来就没有过任何桥。一定有其他"
 "的，隐蔽的方式可以到达那座塔。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "Interesting... Go to my personal stores and bring me a bottle of wine. And a "
 "couple of glasses."
 msgstr "有意思……从我的个人珍藏里拿一瓶酒来，还有一对酒杯。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid "... Glasses?"
 msgstr "……酒杯？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Do it. We’ll have a guest soon."
 msgstr "去吧。我们马上就会迎来一位客人了。"
 
@@ -977,7 +954,7 @@ msgstr "去吧。我们马上就会迎来一位客人了。"
 #. and fairies was extremely blurry. In Wesnoth it is
 #. deliberately unclear whether Faerie is a place that is
 #. the source of magical power or a label for the inner
-#. nonhuman/magical nature of the Elves.  Translate freely.
+#. nonhuman/magical nature of the Elves. Translate freely.
 msgid ""
 "Erlornas closed his eyes and brought his hands forward, joined palms forming "
 "a cup open to the sky. Soon they began to glow, then to flare like a brazier "
@@ -995,7 +972,7 @@ msgstr ""
 msgid "Some time later..."
 msgstr "过了一会儿……"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "So you decided to accept the invitation. Good. Welcome, I am lord Erlornas "
 "of Wesmere. I find your presence here... surprising."
@@ -1024,13 +1001,13 @@ msgstr ""
 msgid "Count me an ally, then, lord Erlornas. We can defeat them together."
 msgstr "那么，把我当成盟友吧，艾洛纳斯阁下。我们可以一起对付他们。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "My lord... humans cannot be trusted! They shift their allegiances with the "
 "changing of the wind!"
 msgstr "阁下……人类不可信！他们转变自己的忠贞，就像风向的变化一样！"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "That may be, but I do not think this one will betray us to the orcs. And we "
 "may need her assistance, too: that is a powerful force of orcs ahead."
@@ -1038,11 +1015,7 @@ msgstr ""
 "也许是那样，但我不相信这位人类会背叛我们投靠兽人。而且我们也需要她的帮助：我"
 "们面对的是一群强大的兽人。"
 
-#. [message]: id=Linaera
-msgid "Alas, Erlornas, I have failed us..."
-msgstr "唉，厄洛纳斯，我辜负了大家……"
-
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "And that is well ended. But, Linaera, there is somewhat else that concerns "
 "me. You are a mage; do you not feel something... wrong... to the east of "
@@ -1062,7 +1035,7 @@ msgstr ""
 "探我领地的边缘。这件事本来应该由我自己来处理，不过既然你们精灵崇敬绿色的大"
 "地，那我想你们也和我一样希望将它消灭。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "We are of one mind, then. Let us go to it."
 msgstr "那我们就是一条心了。让我们一起干吧。"
 
@@ -1071,21 +1044,25 @@ msgid "A Detour through the Swamp"
 msgstr "绕道沼泽"
 
 #. [side]: type=Lich, id=Keremal
+msgid "Undead"
+msgstr ""
+
+#. [side]: type=Lich, id=Keremal
 msgid "Keremal"
 msgstr "克瑞玛尔"
 
+#. [objective]: condition=win
+msgid "Defeat Keremal"
+msgstr "击败克瑞玛尔"
+
 #. [objectives]
+#, fuzzy
 msgid ""
-"Hint:\n"
 "Undead are resistant to physical attack. Use mages to attack the undead, and "
 "elves to protect and support the mages."
 msgstr ""
 "提示：\n"
 "亡灵对物理攻击有抗性。使用法师攻击亡灵，精灵保护和支持法师。"
-
-#. [objective]: condition=win
-msgid "Defeat Keremal"
-msgstr "击败克瑞玛尔"
 
 #. [message]: speaker=Linaera
 msgid ""
@@ -1095,12 +1072,6 @@ msgid ""
 msgstr ""
 "居住在这个湿地里的邪恶灵魂们把这里变成了肮脏的沼泽。我和我的学徒拥有驱散他们"
 "的力量，不过您得保护我们不受他们的武器所伤。"
-
-#. [message]: id=Erlornas
-msgid ""
-"All is lost! Without Linaera’s help, I cannot hope to defeat these "
-"horrifying apparitions!"
-msgstr "全完了！没有莉娜艾拉的帮助，我不指望能击败这些让人恐惧的幽灵！"
 
 #. [message]: speaker=Linaera
 msgid ""
@@ -1118,7 +1089,7 @@ msgstr ""
 "我一直希望能见到精灵，而现在我已经和他们并肩战斗过了！请问我能和您一起前进"
 "吗？"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "Certainly... I shall be glad of your help."
 msgstr "当然了……我很高兴能得到你的帮助。"
 
@@ -1130,9 +1101,13 @@ msgstr "摊牌"
 msgid "Rualsha"
 msgstr "鲁瓦沙"
 
+#. [objective]: condition=win
+msgid "Defeat Rualsha"
+msgstr "击败鲁瓦沙"
+
 #. [objectives]
+#, fuzzy
 msgid ""
-"Hint:\n"
 "Your enemy is well-defended against attacks from the south. Use rangers to "
 "sneak through the forest and mount a surprise attack from the north."
 msgstr ""
@@ -1140,9 +1115,21 @@ msgstr ""
 "你的敌人会很好地防御住来自南面的攻击。使用游侠悄悄地通过森林并从北面发动奇"
 "袭。"
 
-#. [objective]: condition=win
-msgid "Defeat Rualsha"
-msgstr "击败鲁瓦沙"
+#. [unit]: type=Elvish Ranger, id=Celodith
+msgid "Celodith"
+msgstr ""
+
+#. [unit]: type=Elvish Ranger, id=Earanduil
+msgid "Earanduil"
+msgstr ""
+
+#. [unit]: type=Elvish Ranger, id=Elvyniel
+msgid "Elvyniel"
+msgstr ""
+
+#. [unit]: type=Elvish Ranger, id=Delorfilith
+msgid "Delorfilith"
+msgstr ""
 
 #. [message]: speaker=Lomarfel
 msgid ""
@@ -1178,17 +1165,55 @@ msgstr ""
 "但鲁瓦沙高估了他的军队的意志。随着首领的阵亡，他们作鸟兽散。兽人们从精灵那里"
 "逃离，撤退到了他们位于遥远北方的要塞。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid "It grieves me to take life, even of a barbarian such as Rualsha."
 msgstr "夺取性命真让我悲伤，即使是鲁瓦沙这样一个野蛮人的性命。"
 
-#. [message]: role=Advisor
+#. [message]: role=advisor
 msgid ""
 "If the orcs press us, we shall need to become more accustomed to fighting."
 msgstr "如果兽人继续威胁我们，那我们就需要变得更加适应战斗才行。"
 
-#. [message]: id=Erlornas
+#. [message]: speaker=Erlornas
 msgid ""
 "I fear it will be so. We have won a first victory here, but dark times come "
 "upon its heels."
 msgstr "这正是我所担心的。我们这里赢了第一场胜利，但黑暗时代就要接踵而至了。"
+
+msgid "Erlornas"
+msgstr "艾洛纳斯"
+
+msgid "Linaera"
+msgstr "莉娜艾拉"
+
+#. [message]: speaker=narrator
+msgid ""
+"Lord Erlornas never saw the blade that felled him. He died on the spot, with "
+"not a chance to issue last commands or farewells. Without him his wardens "
+"soon fell into confusion, and losing heart withdrew from the battle."
+msgstr ""
+"艾洛纳斯领主没有看到砍倒自己的那利刃。他瞬间身亡，都没有机会下达最后的命令或"
+"者道别。失去领袖之后，他的属下们很快陷入了混乱，失去了信心并退出了战场。"
+
+#. [message]: speaker=narrator
+msgid ""
+"When reinforcements finally arrived, elves managed to dislodge the orcish "
+"tribe. But the threat from the north remained unresolved and loomed large "
+"over their future."
+msgstr ""
+"当援军最终到来时，精灵们成功地驱逐了兽人部落。但是来自北方的威胁并没有解决，"
+"这给他们的未来蒙上了巨大的阴影。"
+
+#. [message]: speaker=Linaera
+msgid "Alas, Erlornas, I have failed us..."
+msgstr "唉，厄洛纳斯，我辜负了大家……"
+
+#. [message]: speaker=Erlornas
+#, fuzzy
+msgid ""
+"All is lost! Without Linaera’s help, I cannot hope to defeat these "
+"abominations!"
+msgstr "全完了！没有莉娜艾拉的帮助，我不指望能击败这些让人恐惧的幽灵！"
+
+msgid "Hint:"
+msgstr ""

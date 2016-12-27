@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:28+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -19,8 +19,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 1.8.1\n"
 
+#. [scenario]: id=11_Descent_into_Darkness
 #. [campaign]: id=Descent_into_Darkness
-#. [scenario]: id=11_Descent_into_Darkness, id=Mal Keshar
 msgid "Descent into Darkness"
 msgstr "堕入黑暗"
 
@@ -29,15 +29,17 @@ msgid "DiD"
 msgstr "DiD"
 
 #. [campaign]: id=Descent_into_Darkness
-msgid "(Normal)"
-msgstr "（普通）"
-
-#. [campaign]: id=Descent_into_Darkness
 msgid "Neophyte"
 msgstr "信徒"
 
 #. [campaign]: id=Descent_into_Darkness
-msgid "(Challenging)"
+#, fuzzy
+msgid "Normal"
+msgstr "（普通）"
+
+#. [campaign]: id=Descent_into_Darkness
+#, fuzzy
+msgid "Challenging"
 msgstr "（挑战）"
 
 #. [campaign]: id=Descent_into_Darkness
@@ -45,7 +47,8 @@ msgid "Evoker"
 msgstr "秘法师"
 
 #. [campaign]: id=Descent_into_Darkness
-msgid "(Difficult)"
+#, fuzzy
+msgid "Difficult"
 msgstr "（困难）"
 
 #. [campaign]: id=Descent_into_Darkness
@@ -82,6 +85,7 @@ msgid "Saving Parthyn"
 msgstr "拯救帕辛"
 
 #. [part]
+#. If the target language has a specialized term for a fortified town, like Latin "oppidum", use it for Parthyn.
 msgid ""
 "Malin Keshar was born ten years after the death of Haldric IV. He grew up in "
 "the northern border town of Parthyn, the second child and eldest son of the "
@@ -159,24 +163,17 @@ msgstr ""
 "盟。”</b>"
 
 #. [side]
-#. [side]: type=Apprentice Mage, id=Malin Keshar
-#. [side]: type=Frontier Baroness, id=Dela Keshar
-#. [side]: type=General, id=Taylor
 #. [side]: type=Sergeant, id=Drogan
+#. [side]: type=General, id=Taylor
 msgid "Defenders"
 msgstr "守卫者"
 
-#. [side]: type=Apprentice Mage, id=Malin Keshar
-#. [unit]: id=Malin Keshar, type=Dark Mage
-msgid "Malin Keshar"
-msgstr "马林·凯沙"
-
-#. [side]: type=Orcish Warlord, id=Borth
-#. [side]: type=Orcish Warlord, id=Gron'r Hronk
-#. [side]: type=Orcish Warlord, id=K'Vark
-#. [side]: type=Orcish Warlord, id=K'rrlar Oban
-#. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
+#. [side]: type=Orcish Warlord, id=Borth
+#. [side]: type=Orcish Warlord, id=P'Gareth
+#. [side]: type=Orcish Warlord, id=K'Vark
+#. [side]: type=Orcish Warlord, id=Gron'r Hronk
+#. [side]: type=Orcish Warlord, id=K'rrlar Oban
 msgid "Orcs"
 msgstr "兽人"
 
@@ -184,8 +181,8 @@ msgstr "兽人"
 msgid "Kreg’a’shar Trr"
 msgstr "克里嘎沙·塔"
 
-#. [side]: type=Lieutenant, id=Drogan
 #. [side]: type=Sergeant, id=Drogan
+#. [side]: type=Lieutenant, id=Drogan
 msgid "Drogan"
 msgstr "德罗甘"
 
@@ -292,6 +289,15 @@ msgstr "兽人已经攻破了我们的防线。帕辛暴露在敌人的攻击之
 msgid "Who will be left to defend Parthyn?"
 msgstr "谁将会留下来保卫帕辛呢？"
 
+#. [message]: speaker=narrator
+msgid ""
+"The raiding party returns, and the orcs flee in the face of a superior force."
+msgstr "突击队回来了，兽人面对着一支比他们更强的部队，于是逃跑了。"
+
+#. [message]: speaker=narrator
+msgid "The orcs are broken, dead or fled."
+msgstr "兽人们被击溃了，不是阵亡，便是逃跑。"
+
 #. [message]: speaker=Drogan
 msgid ""
 "By all rights, I should have you executed on the spot, Malin. I certainly "
@@ -391,15 +397,6 @@ msgstr ""
 "那么你可以走，没有我的祝福，也没有我的战士们的支援。在这种差事上我可不会分出"
 "任何人手。"
 
-#. [message]: speaker=narrator
-msgid ""
-"The raiding party returns, and the orcs flee in the face of a superior force."
-msgstr "突击队回来了，兽人面对着一支比他们更强的部队，于是逃跑了。"
-
-#. [message]: speaker=narrator
-msgid "The orcs are broken, dead or fled."
-msgstr "兽人们被击溃了，不是阵亡，便是逃跑。"
-
 #. [scenario]: id=02_Peaceful_Valley
 msgid "Peaceful Valley"
 msgstr "平静的村庄"
@@ -428,6 +425,15 @@ msgstr ""
 "如何召回死者的死灵法师。死灵法师很同情马林无依无靠的情形，并要求马林随他一起"
 "旅行。几周过去了，他传授给了马林更多的黑魔法。"
 
+#. [side]
+#. [unit]: id=Malin Keshar, type=Dark Mage
+msgid "Malin Keshar"
+msgstr "马林·凯沙"
+
+#. [side]: type=Goblin Knight, id=T'shar Lggi
+msgid "Goblins"
+msgstr ""
+
 #. [side]: type=Goblin Knight, id=T'shar Lggi
 msgid "T’shar Lggi"
 msgstr "塔沙·拉吉"
@@ -439,18 +445,6 @@ msgstr "占领所有的地精村庄"
 #. [objective]: condition=lose
 msgid "Death of Darken Volk"
 msgstr "达肯·佛克阵亡"
-
-#. [unit]: id=Darken Volk, type=Dark Sorcerer DiD
-msgid "Darken Volk"
-msgstr "达肯·佛克"
-
-#. [trait]: id=loyal
-msgid "loyal"
-msgstr "忠诚"
-
-#. [trait]: id=loyal
-msgid "to himself"
-msgstr "对他自己"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -499,7 +493,7 @@ msgstr "这将是对你的新技能的很有价值的检验。"
 msgid "Beware the goblin guards in the villages."
 msgstr "小心防备那些守卫着村庄的地精。"
 
-#. [unit]: id=guard_$x1|_$y1|_$guard_i, type=Goblin Spearman
+#. [unit]: id=guard_$x1|_$y1|_$guard_location.n, type=Goblin Spearman
 msgid "Villager"
 msgstr "村民"
 
@@ -579,7 +573,7 @@ msgstr ""
 msgid "Excellent. I’m eager to move on to the real foes."
 msgstr "太好了。我渴望能开始对付真正的敌人。"
 
-#. [scenario]: id=03_A_Haunting_in_Winter, race=dwarf (
+#. [scenario]: id=03_A_Haunting_in_Winter
 msgid "A Haunting in Winter"
 msgstr "冬季闹鬼"
 
@@ -593,14 +587,18 @@ msgstr ""
 "整个夏季和秋季，马林和达肯·佛克在北方大陆的南部到处穿行，一发现地精小村庄和兽"
 "人营地就攻击他们。马林的力量在死灵法师的时常教导下显著增强了。"
 
-#. [side]: type=Bandit, id=Gorak Cole
 #. [side]: type=Dwarvish Steelclad, id=Dap Horner
+#. [side]: type=Bandit, id=Gorak Cole
 msgid "Outlaws"
 msgstr "流寇"
 
 #. [side]: type=Dwarvish Steelclad, id=Dap Horner
 msgid "Dap Horner"
 msgstr "达普·霍纳"
+
+#. [side]: type=Dwarvish Steelclad, id=Dap Horner
+msgid "Watchman"
+msgstr "哨兵"
 
 #. [side]: type=Bandit, id=Gorak Cole
 msgid "Gorak Cole"
@@ -613,10 +611,6 @@ msgstr "释放亡灵"
 #. [objective]: condition=win
 msgid "Clear the cave of enemies"
 msgstr "消灭洞穴中的全部敌人"
-
-#. [event]
-msgid "Watchman"
-msgstr "哨兵"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -647,7 +641,7 @@ msgid ""
 msgstr ""
 "矮人！他们经常和我们结盟对付兽人部落。他们一定会允许我们和他们一起过冬。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=unit
 msgid ""
 "Two necromancers are at the cave entrance! Up yer axes, boys, if ye dinna’ "
 "want tae be a walking pile o’ bones."
@@ -671,7 +665,7 @@ msgstr ""
 "奥秘就一定会引起恐惧和怀疑。别担心，一旦你把兽人的威胁连根拔除，你的族人一定"
 "会重新热情地对待你的。现在，这些洞中居民并没给我们选择的余地。"
 
-#. [event]: type=Ghost side 4}
+#. [event]: id=Tortured Soul
 msgid "Tortured Soul"
 msgstr "被折磨的灵魂"
 
@@ -774,6 +768,10 @@ msgstr "感受我的愤怒吧，卑鄙的东西！"
 msgid "The ice doesn’t look very thick..."
 msgstr "这里的冰面看起来不太厚……"
 
+#. [message]: speaker=Darken Volk
+msgid "..."
+msgstr ""
+
 #. [message]: speaker=narrator
 msgid ""
 "The weak ice gives way beneath the undead creature, who becomes mired in the "
@@ -825,10 +823,6 @@ msgstr ""
 "抵抗。最终，在一条人类称为“绵长之河”而精灵称为“阿坎-索里亚”的河流的某处狭窄的"
 "所在，他们成功地包围了人类，并迫使他们开战。"
 
-#. [scenario]: id=05_Orc_War
-msgid "River Longlier"
-msgstr "绵长之河"
-
 #. [side]: type=Orcish Warlord, id=Borth
 msgid "Borth"
 msgstr "博斯"
@@ -840,6 +834,10 @@ msgstr "帕戈雷斯"
 #. [side]: type=Orcish Warlord, id=K'Vark
 msgid "K’Vark"
 msgstr "卡乏克"
+
+#. [label]
+msgid "River Longlier"
+msgstr "绵长之河"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -906,7 +904,7 @@ msgstr ""
 "你的训练的最后一部分。现在只不过有些……事情……我必须去办。这些不需要你关心。几"
 "周后我会和你在西面见面的。在这期间，别让最后那个酋长逃脱正义的惩罚。"
 
-#. [scenario]: id=06_Return_to_Parthyn, id=Dela Keshar
+#. [scenario]: id=06_Return_to_Parthyn
 msgid "Return to Parthyn"
 msgstr "返回帕辛"
 
@@ -928,10 +926,14 @@ msgstr "没过几天，马林便认出了熟悉的风景……"
 msgid "Guardsmen"
 msgstr "守卫"
 
-#. [side]: type=Frontier Baroness, id=Dela Keshar
-#. [unit]: type=Frontier Baroness, id=Dela Keshar
-msgid "Dela Keshar"
-msgstr "黛拉·凯沙"
+#. [side]: type=Lieutenant, id=Drogan
+msgid "River fort guard"
+msgstr "河口要塞守卫"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Kill the orc leader"
+msgstr "杀死所有的兽人领袖"
 
 #. [objective]: condition=win
 msgid "Remove the traitor Drogan"
@@ -941,17 +943,15 @@ msgstr "干掉叛徒德罗甘"
 msgid "Kill any people from Parthyn but Drogan"
 msgstr "杀死任何除了德罗甘以外的帕辛居民"
 
-#. [event]
-msgid "River fort guard"
-msgstr "河口要塞守卫"
-
 #. [message]: speaker=Malin Keshar
-msgid "I bring word of a great victory against the orcs, Drogan."
+#, fuzzy
+msgid "I bring word of a great victory against the orcs, Drogan!"
 msgstr "我带来了对兽人之战大获全胜的消息，德罗甘。"
 
 #. [message]: speaker=Drogan
+#, fuzzy
 msgid ""
-"I had hoped you would never return, Malin. You have been banished, and now "
+"I had hoped never to see you again, Malin. You have been banished, and now "
 "return. You give me no choice but to order my soldiers to attack you."
 msgstr ""
 "我本来希望你永远不会回来，马林。你已经被驱逐，但现在却又回来了。你害得我没有"
@@ -970,9 +970,42 @@ msgid "Silence from you."
 msgstr "你闭嘴。"
 
 #. [message]: speaker=Malin Keshar
+#, fuzzy
 msgid ""
-"I have eliminated two orc chieftains. I doubt that we will see any orc raids "
+"I have eliminated two orc chieftains! I doubt that we will see any orc raids "
 "this summer. The beasts will be too busy trying to regroup."
+msgstr ""
+"我已经干掉了两名兽人酋长。我怀疑这个夏天我们都不会遇到任何兽人的侵袭了。这些"
+"畜生正忙着重整部队呢。"
+
+#. [message]: speaker=Drogan
+msgid ""
+"I had not thought to see you again, Malin. But what is this foul creature "
+"that stands by your side?"
+msgstr ""
+
+#. [message]: speaker=Malin Keshar
+msgid ""
+"A spirit I raised with the arts taught to me by Darken Volk. With his help, "
+"I have slain two orcish chieftains!"
+msgstr ""
+
+#. [message]: speaker=Drogan
+#, fuzzy
+msgid ""
+"You allowed yourself to be corrupted by the foul taint of the necromancer? "
+"Better to face the orcish menace than even dabble in dark magic! People "
+"would have rebuilt the town, just as they always have in the past. Your "
+"father would be ashamed to see the end to which you’ve come."
+msgstr ""
+"对，那也比涉及黑魔法强。人民会重建城镇的，就像他们过去一直做的那样。真希望法"
+"师们能让你更有判断力一些。"
+
+#. [message]: speaker=Malin Keshar
+#, fuzzy
+msgid ""
+"I doubt that we will see any orc raids this summer. The beasts will be too "
+"busy trying to regroup! Is this how you repay me?"
 msgstr ""
 "我已经干掉了两名兽人酋长。我怀疑这个夏天我们都不会遇到任何兽人的侵袭了。这些"
 "畜生正忙着重整部队呢。"
@@ -1014,6 +1047,25 @@ msgstr ""
 "那么你才是叛国者，德罗甘，因为你在阻止我保护这个城市。我会守护帕辛的，如果你"
 "妨碍我，我将因你的叛乱而砍倒你。"
 
+#. [message]: speaker=Malin Keshar
+msgid ""
+"Behold, Drogan! I have slain the last orc chieftain. Do you trust my word "
+"now?"
+msgstr ""
+
+#. [message]: speaker=Drogan
+msgid ""
+"You have saved us the trouble of killing those worthless orcs ourselves; for "
+"that I thank you. But you cannot return to Parthyn, Malin."
+msgstr ""
+
+#. [message]: speaker=Malin Keshar
+msgid ""
+"What! You still do not trust my word? Well, perhaps you have lost sight of "
+"the true threat. The orcs will not be gone forever, and without me, how will "
+"the town stand? You jeopardize its very safety. Attack him!"
+msgstr ""
+
 #. [message]: speaker=Dela Keshar
 msgid ""
 "I am defeated but not dead, foul thing that was once my brother. Watch your "
@@ -1024,6 +1076,10 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 msgid "Now the people of Parthyn will never accept me back!"
 msgstr "现在帕辛的人民决不会接受我的归来了！"
+
+#. [message]: speaker=Malin Keshar
+msgid "See how you die when you spurn the help of Malin Keshar!"
+msgstr "敢藐视马林·凯沙的帮助，看看你们自己是怎么死的吧！"
 
 #. [message]: speaker=Malin Keshar
 msgid "See what your traitorous ways have won you, Drogan?"
@@ -1046,6 +1102,15 @@ msgstr ""
 "即使发挥我的新力量，我也不可能同时对抗整个城镇的军力还有兽人。我必须逃到西边"
 "去找达肯·佛克！"
 
+#. [message]: speaker=Malin Keshar
+#, fuzzy
+msgid ""
+"Even with my new power, I cannot fight the entire town. I must flee to the "
+"west to find Darken Volk!"
+msgstr ""
+"即使发挥我的新力量，我也不可能同时对抗整个城镇的军力还有兽人。我必须逃到西边"
+"去找达肯·佛克！"
+
 #. [objective]: condition=win
 msgid "Escape to the northwest"
 msgstr "逃到西北面"
@@ -1054,6 +1119,15 @@ msgstr "逃到西北面"
 msgid ""
 "While our forces must stay here to fight off your pet orcs, when we are done "
 "I shall come after you. You are my brother no longer."
+msgstr ""
+"我们的军队必须要守在这里对付你的兽人走狗，等收拾掉他们后，我会追杀你的。你不"
+"再是我的弟弟了。"
+
+#. [message]: speaker=Dela Keshar
+#, fuzzy
+msgid ""
+"While our forces must stay here and make sure the orcs are routed, when we "
+"are done I shall come after you. You are my brother no longer."
 msgstr ""
 "我们的军队必须要守在这里对付你的兽人走狗，等收拾掉他们后，我会追杀你的。你不"
 "再是我的弟弟了。"
@@ -1078,10 +1152,6 @@ msgid ""
 msgstr ""
 "现在还想要我活着的唯一存在，是一名死灵法师。诅咒所有人！不论将生存还是毁灭，"
 "我要报复所有冤枉我的人。"
-
-#. [message]: speaker=Malin Keshar
-msgid "See how you die when you spurn the help of Malin Keshar!"
-msgstr "敢藐视马林·凯沙的帮助，看看你们自己是怎么死的吧！"
 
 #. [scenario]: id=07_A_Small_Favor
 msgid "A Small Favor"
@@ -1125,7 +1195,6 @@ msgstr ""
 "里有我们要找的书。我们需要闯入他的庄园，在里面找到这本书。”</b>"
 
 #. [side]
-#. [side]: type=Apprentice Mage, id=Malin Keshar
 msgid "Intruders"
 msgstr "入侵者"
 
@@ -1133,25 +1202,26 @@ msgstr "入侵者"
 msgid "Taylor"
 msgstr "泰勒"
 
-#. [objective]: condition=win
-msgid "Malin and Darken Volk enter the Mage Lord’s manor"
-msgstr "马林和达肯·佛克进入法师领主的庄园"
-
-#. [event]
+#. [side]: type=General, id=Taylor
 msgid "Night Watchman"
 msgstr "守夜人"
 
-#. [event]
+#. [side]: type=General, id=Taylor
 msgid "Gate Guard"
 msgstr "大门守卫"
 
-#. [event]
+#. [side]: type=General, id=Taylor
 msgid "Head Trainer"
 msgstr "训练长官"
 
-#. [event]
+#. [side]: type=General, id=Taylor
 msgid "Townperson"
 msgstr "镇民"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Move Malin and Darken Volk into the Mage Lord’s manor"
+msgstr "马林和达肯·佛克进入法师领主的庄园"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -1170,7 +1240,7 @@ msgid ""
 "Note: Only the units you recruit now will be available to you once inside."
 msgstr "注意：只有你在此时征募的部队才能在庄园的内部战斗。"
 
-#. [message]
+#. [message]: speaker=second_unit
 msgid ""
 "Sir! Undead creatures are coming out of the forest! Wake the guard "
 "immediately!"
@@ -1205,6 +1275,12 @@ msgstr "入口在这里！快！"
 msgid "A Small Favor — Part 2"
 msgstr "小小请求 —— 第二部分"
 
+#. [side]
+#. [do]
+#. [event]
+msgid "Guard"
+msgstr "守卫"
+
 #. [objective]: condition=win
 msgid "Find the mage Lord Karres"
 msgstr "找到法师卡瑞斯领主"
@@ -1212,11 +1288,6 @@ msgstr "找到法师卡瑞斯领主"
 #. [unit]: type=Arch Mage, type=Great Mage, id=Lord Karres
 msgid "Lord Karres"
 msgstr "卡瑞斯领主"
-
-#. [do]
-#. [event]
-msgid "Guard"
-msgstr "守卫"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1243,26 +1314,21 @@ msgid "Move through the passageway in the northwest leading to the great hall"
 msgstr "通过西北面的通道到达大礼堂"
 
 #. [message]: speaker=unit
-msgid "I think I have found the passage to the great hall. Follow me quickly!"
+#, fuzzy
+msgid "I think I found the passage to the great hall. Follow me quickly!"
 msgstr "我想我已经找到了通向大礼堂的通道。快点跟我来！"
-
-#. [message]: speaker=narrator
-msgid ""
-"As dawn breaks, the city guards force their way into the manor and capture "
-"the two necromancers."
-msgstr "天刚破晓，城市守卫们便强行冲入了庄园并俘获了两名死灵法师。"
 
 #. [scenario]: id=09_A_Small_Favor3
 msgid "A Small Favor — Part 3"
 msgstr "小小请求 —— 第三部分"
 
+#. [side]
+msgid "Guardian"
+msgstr "看守者"
+
 #. [objective]: condition=win
 msgid "Find the book"
 msgstr "找到书"
-
-#. [event]
-msgid "Guardian"
-msgstr "看守者"
 
 #. [message]: speaker=Malin Keshar
 msgid "I feel the book is very close, somewhere to the northwest."
@@ -1330,6 +1396,10 @@ msgstr ""
 "下地平线时，他们终于走出来了。"
 
 #. [side]
+msgid "Darken Volk"
+msgstr "达肯·佛克"
+
+#. [side]
 msgid "Wesnothians"
 msgstr "韦诺人"
 
@@ -1358,13 +1428,13 @@ msgid ""
 "Darken Volk grabs the mysterious book from Malin’s hands and stalks away."
 msgstr "达肯·佛克从马林手里拿走了神秘之书，而后偷偷摸摸地走开。"
 
-#. [message]: speaker=Malin Keshar
-msgid "You can’t just leave me here!"
-msgstr "你不能就这样离我而去！"
-
 #. [message]: speaker=Darken Volk
 msgid "Now go your own way, and I will go mine."
 msgstr "现在你走你的阳关道，我过我的独木桥。"
+
+#. [message]: speaker=Malin Keshar
+msgid "You can’t just leave me here!"
+msgstr "你不能就这样离我而去！"
 
 #. [message]: role=advisor
 msgid "Master, do you not see? He has merely been using you to get that book!"
@@ -1497,7 +1567,8 @@ msgid "With my dying breath I curse you, Malin the Damned!"
 msgstr "用我临终的这口气诅咒你，被诅咒的马林！"
 
 #. [message]: speaker=Malin Keshar
-msgid "Now I’ve just got to get that book out of the battleground!"
+#, fuzzy
+msgid "Now I’ve just got to get that book off the battlefield!"
 msgstr "现在我只需要把那本书带出战场就行了！"
 
 #. [objective]: condition=win
@@ -1511,11 +1582,13 @@ msgid ""
 msgstr "移动一个单位到书所在的地方并捡起它。蝙蝠和幽灵不能携带书。"
 
 #. [message]: speaker=unit
-msgid "I have the book."
+#, fuzzy
+msgid "I have the book!"
 msgstr "我拿到了书。"
 
 #. [message]: speaker=unit
-msgid "I am sorry master, that is too heavy for me."
+#, fuzzy
+msgid "I am sorry, master, but that is too heavy for me."
 msgstr "对不起，主人，这对我而言太重了。"
 
 #. [message]: speaker=Malin Keshar
@@ -1567,6 +1640,10 @@ msgstr ""
 "么大群的兽人时，他意识到了自己的任务是多么地艰巨。不论如何，他还是攻击了兽人"
 "营地，但很快便被击退了，在撤退时又被兽人投掷的匕首严重刺伤。他找了个小山洞暂"
 "时避难。"
+
+#. [side]
+msgid "Mal Keshar"
+msgstr "玛尔·凯沙"
 
 #. [side]
 msgid "Trolls"
@@ -1642,11 +1719,6 @@ msgstr "然后，这平静被拉扯所替代，这是无法忍受的极端痛苦
 msgid "by emptiness."
 msgstr "一切化为虚无。"
 
-#. [side]: type=Lich, id=Mal Keshar
-#. [unit]: type=Lich DiD, id=Mal Keshar
-msgid "Mal Keshar"
-msgstr "玛尔·凯沙"
-
 #. [message]: speaker=Mal Keshar
 msgid "<big>AAAaaiiigghh!!</big>"
 msgstr "<big>啊啊啊啊啊！！</big>"
@@ -1694,9 +1766,10 @@ msgid "Clear your new home of trolls"
 msgstr "将你的新家里的巨魔都清理掉"
 
 #. [message]: speaker=Dumdumbadoom
+#, fuzzy
 msgid ""
 "Who has awoken me from my slumber? Undead? I shall not suffer the existence "
-"of such foul creatures."
+"of such foul creatures!"
 msgstr "谁在我小睡时吵醒了我？亡灵？我不会忍受这么邪恶的生物的存在。"
 
 #. [message]
@@ -1730,11 +1803,11 @@ msgstr ""
 msgid "Defeat the foolish hero"
 msgstr "击败愚蠢的英雄"
 
-#. [unit]: type=Assassin, id=Foolish Hero
-#. [unit]: type=Dwarvish Lord, id=Foolish Hero
-#. [unit]: type=Elvish Marshal, id=Foolish Hero
-#. [unit]: type=Orcish Warlord, id=Foolish Hero
 #. [unit]: type=Royal Guard, id=Foolish Hero
+#. [unit]: type=Assassin, id=Foolish Hero
+#. [unit]: type=Elvish Marshal, id=Foolish Hero
+#. [unit]: type=Dwarvish Lord, id=Foolish Hero
+#. [unit]: type=Orcish Warlord, id=Foolish Hero
 msgid "Foolish Hero"
 msgstr "愚蠢的英雄"
 
@@ -1925,9 +1998,24 @@ msgstr "杖"
 msgid "sling"
 msgstr "弹弓"
 
+msgid "Dela Keshar"
+msgstr "黛拉·凯沙"
+
+#. [trait]: id=loyal
+msgid "loyal"
+msgstr "忠诚"
+
+#. [trait]: id=loyal
+msgid "to himself"
+msgstr "对他自己"
+
 #. [message]: speaker=unit
 msgid "I’m not ready to die..."
 msgstr "我还不该死啊……"
+
+#. [message]: speaker=unit
+msgid "Then my battle against the orcs is lost!"
+msgstr "我败给了兽人！"
 
 #. [message]: speaker=unit
 msgid ""
@@ -1946,6 +2034,8 @@ msgstr ""
 "这么简单的任务你都无法胜任，真是令人震惊。你永远都不可能变得强大到能够为我所"
 "用。"
 
-#. [message]: speaker=unit
-msgid "Then my battle against the orcs is lost!"
-msgstr "我败给了兽人！"
+#. [message]: speaker=narrator
+msgid ""
+"As dawn breaks, the city guards force their way into the manor and capture "
+"the two necromancers."
+msgstr "天刚破晓，城市守卫们便强行冲入了庄园并俘获了两名死灵法师。"

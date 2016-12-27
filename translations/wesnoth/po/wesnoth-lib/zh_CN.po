@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-06 02:25+0300\n"
 "PO-Revision-Date: 2015-06-06 15:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -21,10 +21,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 1.8.1\n"
 
-#. [terrain_type]: id=deep_water
 #. [terrain_type]: id=deep_water_gray
 #. [terrain_type]: id=deep_water_medium
 #. [terrain_type]: id=deep_water_tropical
+#. [terrain_type]: id=deep_water
 msgid "Deep Water"
 msgstr "深水"
 
@@ -42,8 +42,8 @@ msgstr "热带深水"
 
 #. [terrain_type]: id=gray_tropical_water
 #. [terrain_type]: id=medium_shallow_water
-#. [terrain_type]: id=shallow_water
 #. [terrain_type]: id=tropical_water
+#. [terrain_type]: id=shallow_water
 msgid "Shallow Water"
 msgstr "浅水"
 
@@ -78,8 +78,8 @@ msgstr ""
 
 #. [terrain_type]: id=gray_reef
 #. [terrain_type]: id=medium_reef
-#. [terrain_type]: id=reef
 #. [terrain_type]: id=tropical_reef
+#. [terrain_type]: id=reef
 msgid "Coastal Reef"
 msgstr "礁石"
 
@@ -95,9 +95,9 @@ msgstr "中型海岸礁石"
 msgid "Tropical Coastal Reef"
 msgstr "热带礁石"
 
+#. [terrain_type]: id=swamp_water_reed
 #. [terrain_type]: id=quagmire
 #. [terrain_type]: id=swamp_water
-#. [terrain_type]: id=swamp_water_reed
 msgid "Swamp"
 msgstr "沼泽"
 
@@ -109,10 +109,10 @@ msgstr "沼泽芦苇"
 msgid "Muddy Quagmire"
 msgstr "泥泞的沼泽"
 
-#. [terrain_type]: id=grass_dry
 #. [terrain_type]: id=grassland
-#. [terrain_type]: id=leaf_litter
 #. [terrain_type]: id=savanna
+#. [terrain_type]: id=grass_dry
+#. [terrain_type]: id=leaf_litter
 msgid "Grassland"
 msgstr "草原"
 
@@ -132,8 +132,8 @@ msgstr "干草"
 msgid "Leaf Litter"
 msgstr "残败的落叶"
 
-#. [terrain_type]: id=dirt
 #. [terrain_type]: id=dirt_dark
+#. [terrain_type]: id=dirt
 #. [terrain_type]: id=dirt_dry
 msgid "Dirt"
 msgstr "尘土"
@@ -150,11 +150,11 @@ msgstr "普通尘土"
 msgid "Dry Dirt"
 msgstr "干燥尘土"
 
-#. [terrain_type]: id=cave_path
-#. [terrain_type]: id=flagstones_dark
 #. [terrain_type]: id=road
 #. [terrain_type]: id=road_clean
 #. [terrain_type]: id=stone_path
+#. [terrain_type]: id=flagstones_dark
+#. [terrain_type]: id=cave_path
 msgid "Road"
 msgstr "道路"
 
@@ -204,8 +204,8 @@ msgstr ""
 "<italic>text='沙漠'</italic> 的构造与小沙丘和沙滩有所不同。但是，从游戏规则的"
 "角度看，它们是等同的。请见 <ref>dst='terrain_sand' text='sand'</ref>。"
 
-#. [terrain_type]: id=sand
 #. [terrain_type]: id=sand_beach
+#. [terrain_type]: id=sand
 msgid "Sand"
 msgstr "沙地"
 
@@ -213,8 +213,8 @@ msgstr "沙地"
 msgid "Beach Sands"
 msgstr "海滩沙砾"
 
-#. [terrain_type]: id=sand
 #. [terrain_type]: id=sand_beach
+#. [terrain_type]: id=sand
 msgid ""
 "The instability of <italic>text='sand'</italic> makes it harder for most "
 "units to cross, and leaves them wide open to attack. In contrast, the wide "
@@ -277,6 +277,14 @@ msgstr "风车"
 msgid "Campfire"
 msgstr "营火"
 
+#. [terrain_type]: id=brazier
+msgid "Brazier"
+msgstr ""
+
+#. [terrain_type]: id=brazier-lit
+msgid "Lit Brazier"
+msgstr ""
+
 #. [terrain_type]: id=fence
 msgid "Fence"
 msgstr "篱笆"
@@ -310,22 +318,22 @@ msgstr "参天大树"
 msgid "Dead Great Tree"
 msgstr "已死的参天大树"
 
-#. [terrain_type]: id=deciduous_forest_fall
-#. [terrain_type]: id=deciduous_forest_summer
-#. [terrain_type]: id=deciduous_forest_winter
-#. [terrain_type]: id=deciduous_forest_winter_snow
-#. [terrain_type]: id=forest
-#. [terrain_type]: id=mixed_forest_fall
-#. [terrain_type]: id=mixed_forest_summer
-#. [terrain_type]: id=mixed_forest_winter
-#. [terrain_type]: id=mixed_forest_winter_snow
+#. [terrain_type]: id=tropical_forest
+#. [terrain_type]: id=rainforest
 #. [terrain_type]: id=palm_desert_forest
 #. [terrain_type]: id=palm_forest
-#. [terrain_type]: id=pine_forest
-#. [terrain_type]: id=rainforest
 #. [terrain_type]: id=savanna_forest
+#. [terrain_type]: id=pine_forest
 #. [terrain_type]: id=snow_forest
-#. [terrain_type]: id=tropical_forest
+#. [terrain_type]: id=deciduous_forest_summer
+#. [terrain_type]: id=deciduous_forest_fall
+#. [terrain_type]: id=deciduous_forest_winter
+#. [terrain_type]: id=deciduous_forest_winter_snow
+#. [terrain_type]: id=mixed_forest_summer
+#. [terrain_type]: id=mixed_forest_fall
+#. [terrain_type]: id=mixed_forest_winter
+#. [terrain_type]: id=mixed_forest_winter_snow
+#. [terrain_type]: id=forest
 msgid "Forest"
 msgstr "森林"
 
@@ -389,10 +397,10 @@ msgstr "东季混交林"
 msgid "Snowy Mixed Forest"
 msgstr "雪地混交林"
 
-#. [terrain_type]: id=hills
-#. [terrain_type]: id=hills_dry
 #. [terrain_type]: id=hills_regular
+#. [terrain_type]: id=hills_dry
 #. [terrain_type]: id=snow_hills
+#. [terrain_type]: id=hills
 msgid "Hills"
 msgstr "丘陵"
 
@@ -412,13 +420,15 @@ msgstr "沙丘"
 msgid "Snow Hills"
 msgstr "雪丘"
 
-#. [terrain_type]: id=cloud
-#. [terrain_type]: id=cloud_snow
-#. [terrain_type]: id=clouddesert
-#. [terrain_type]: id=desert_mountains
-#. [terrain_type]: id=mountains
 #. [terrain_type]: id=regular_mountains
+#. [terrain_type]: id=dry_mountains
 #. [terrain_type]: id=snow_mountains
+#. [terrain_type]: id=desert_mountains
+#. [terrain_type]: id=cloud
+#. [terrain_type]: id=cloud_dry
+#. [terrain_type]: id=cloud_snow
+#. [terrain_type]: id=cloud_desert
+#. [terrain_type]: id=mountains
 msgid "Mountains"
 msgstr "山岭"
 
@@ -426,7 +436,7 @@ msgstr "山岭"
 msgid "Regular Mountains"
 msgstr "普通的山脉"
 
-#. [terrain_type]: id=desert_mountains
+#. [terrain_type]: id=dry_mountains
 msgid "Dry Mountains"
 msgstr "干燥山脉"
 
@@ -434,13 +444,23 @@ msgstr "干燥山脉"
 msgid "Snowy Mountains"
 msgstr "雪中的山脉"
 
-#. [terrain_type]
+#. [terrain_type]: id=desert_mountains
+#, fuzzy
+msgid "Desert Mountains"
+msgstr "干燥山脉"
+
+#. [terrain_type]: id=wood_floor
 msgid "Wooden Floor"
 msgstr "木质地面"
 
-#. [terrain_type]
+#. [terrain_type]: id=wood_floor
 msgid "Basic Wooden Floor"
 msgstr "基本的木地面"
+
+#. [terrain_type]: id=old_wood_floor
+#, fuzzy
+msgid "Old Wooden Floor"
+msgstr "木质地面"
 
 #. [terrain_type]: id=lit
 msgid "Lit"
@@ -450,9 +470,9 @@ msgstr "光照"
 msgid "Beam of Light"
 msgstr "光束"
 
-#. [terrain_type]: id=cave
-#. [terrain_type]: id=cave_earthy
 #. [terrain_type]: id=cave_floor
+#. [terrain_type]: id=cave_earthy
+#. [terrain_type]: id=cave
 msgid "Cave"
 msgstr "洞穴"
 
@@ -472,8 +492,8 @@ msgstr "暗色石子路"
 msgid "Cave Path"
 msgstr "洞穴小径"
 
-#. [terrain_type]: id=fungus_beam
 #. [terrain_type]: id=fungus_grove
+#. [terrain_type]: id=fungus_beam
 msgid "Mushroom Grove"
 msgstr "蘑菇林"
 
@@ -514,9 +534,9 @@ msgstr ""
 msgid "Mine Rail"
 msgstr "矿中铁轨"
 
-#. [terrain_type]: id=abyss
 #. [terrain_type]: id=canyon
 #. [terrain_type]: id=chasm_earthy
+#. [terrain_type]: id=abyss
 #. [terrain_type]: id=lava_chasm
 msgid "Chasm"
 msgstr "裂隙"
@@ -564,18 +584,22 @@ msgstr "火山"
 msgid "Regular Impassable Mountains"
 msgstr "普通的高不可攀的山脉"
 
-#. [terrain_type]: id=clouddesert
-msgid "Desert Impassable Mountains"
+#. [terrain_type]: id=cloud_dry
+#, fuzzy
+msgid "Dry Impassable Mountains"
 msgstr "沙漠中的高不可攀的山脉"
 
 #. [terrain_type]: id=cloud_snow
 msgid "Snowy Impassable Mountains"
 msgstr "雪中的高不可攀的山脉"
 
+#. [terrain_type]: id=cloud_desert
+msgid "Desert Impassable Mountains"
+msgstr "沙漠中的高不可攀的山脉"
+
 #. [terrain_type]: id=cavewall
 #. [terrain_type]: id=cavewall_earthy
 #. [terrain_type]: id=cavewall_earthy_hewn
-#. [terrain_type]: id=cavewall_hewn
 msgid "Cave Wall"
 msgstr "洞穴墙壁"
 
@@ -583,17 +607,14 @@ msgstr "洞穴墙壁"
 msgid "Natural Cave Wall"
 msgstr "普通的洞穴墙壁"
 
-#. [terrain_type]: id=cavewall_hewn
-msgid "Hewn Cave Wall"
-msgstr "粗糙的洞穴墙壁"
+#. [terrain_type]: id=minewall
+#, fuzzy
+msgid "Mine Wall"
+msgstr "矿中铁轨"
 
 #. [terrain_type]: id=cavewall_earthy
 msgid "Natural Earthy Cave Wall"
 msgstr "天然的泥土洞穴墙壁"
-
-#. [terrain_type]: id=cavewall_earthy_hewn
-msgid "Reinforced Earthy Cave Wall"
-msgstr "加固的泥土洞穴墙壁"
 
 #. [terrain_type]: id=wall_stone
 #. [terrain_type]: id=wall_stone_lit
@@ -604,6 +625,34 @@ msgstr "石墙"
 msgid "Lit Stone Wall"
 msgstr "被照亮的石墙"
 
+#. [terrain_type]: id=portal_gate_rusty
+#. [terrain_type]: id=p_open_rusty
+msgid "Gate"
+msgstr ""
+
+#. [terrain_type]: id=portal_gate_rusty
+msgid "Rusty Gate"
+msgstr ""
+
+#. [terrain_type]: id=portal_door_wooden
+#. [terrain_type]: id=p_open_wooden
+msgid "Door"
+msgstr ""
+
+#. [terrain_type]: id=portal_door_wooden
+#, fuzzy
+msgid "Wooden Door"
+msgstr "木质地面"
+
+#. [terrain_type]: id=p_open_rusty
+msgid "Rusty Open Gate"
+msgstr ""
+
+#. [terrain_type]: id=p_open_wooden
+#, fuzzy
+msgid "Wooden Open Door"
+msgstr "木质地面"
+
 #. [terrain_type]: id=impassable_overlay
 msgid "Impassable Overlay"
 msgstr "不可通过地形覆盖层"
@@ -612,47 +661,53 @@ msgstr "不可通过地形覆盖层"
 msgid "Unwalkable Overlay"
 msgstr "不可通过地形覆盖层"
 
+#. [terrain_type]: id=void
 #. [terrain_type]: id=off_map
 #. [terrain_type]: id=off_map2
-#. [terrain_type]: id=void
 msgid "Void"
 msgstr "空"
 
-#. [terrain_type]: id=camp_village
-#. [terrain_type]: id=city_village
-#. [terrain_type]: id=city_village_ruin
-#. [terrain_type]: id=city_village_wno
 #. [terrain_type]: id=desert_village
+#. [terrain_type]: id=desert_village_ruin
 #. [terrain_type]: id=desert_village_tent
-#. [terrain_type]: id=drake_village
-#. [terrain_type]: id=dwarven_village
+#. [terrain_type]: id=camp_village
+#. [terrain_type]: id=orcish_village
+#. [terrain_type]: id=orcish_snow_village
 #. [terrain_type]: id=elven_snow_village
 #. [terrain_type]: id=elven_village
-#. [terrain_type]: id=hill_village
-#. [terrain_type]: id=hill_village_ruin
 #. [terrain_type]: id=human_village
-#. [terrain_type]: id=human_village_ruin
-#. [terrain_type]: id=hut_snow_village
-#. [terrain_type]: id=hut_village
-#. [terrain_type]: id=igloo
-#. [terrain_type]: id=logcabin_snow_village
-#. [terrain_type]: id=logcabin_village
-#. [terrain_type]: id=mermen-village
-#. [terrain_type]: id=orcish_snow_village
-#. [terrain_type]: id=orcish_village
-#. [terrain_type]: id=snow-hill_village
 #. [terrain_type]: id=snow_village
-#. [terrain_type]: id=swamp_village
-#. [terrain_type]: id=tropical_forest_village
-#. [terrain_type]: id=underground_village
-#. [terrain_type]: id=village
-#. [terrain_type]: id=village_overlay
+#. [terrain_type]: id=human_village_ruin
+#. [terrain_type]: id=city_village
 #. [terrain_type]: id=windmill_village
+#. [terrain_type]: id=city_village_wno
+#. [terrain_type]: id=city_village_ruin
+#. [terrain_type]: id=hill_village
+#. [terrain_type]: id=snow-hill_village
+#. [terrain_type]: id=hill_village_ruin
+#. [terrain_type]: id=tropical_forest_village
+#. [terrain_type]: id=drake_village
+#. [terrain_type]: id=underground_village
+#. [terrain_type]: id=dwarven_village
+#. [terrain_type]: id=hut_village
+#. [terrain_type]: id=hut_snow_village
+#. [terrain_type]: id=logcabin_village
+#. [terrain_type]: id=logcabin_snow_village
+#. [terrain_type]: id=igloo
+#. [terrain_type]: id=swamp_village
+#. [terrain_type]: id=mermen-village
+#. [terrain_type]: id=village_overlay
+#. [terrain_type]: id=village
 msgid "Village"
 msgstr "村庄"
 
 #. [terrain_type]: id=desert_village
 msgid "Adobe Village"
+msgstr "泥砖村庄"
+
+#. [terrain_type]: id=desert_village_ruin
+#, fuzzy
+msgid "Ruined Adobe Village"
 msgstr "泥砖村庄"
 
 #. [terrain_type]: id=desert_village_tent
@@ -789,6 +844,7 @@ msgstr "村庄覆盖层"
 
 #. [terrain_type]: id=encampment
 #. [terrain_type]: id=encampment_snow
+#. [terrain_type]: id=aquatic_camp
 msgid "Encampment"
 msgstr "营地"
 
@@ -796,15 +852,16 @@ msgstr "营地"
 msgid "Snowy Encampment"
 msgstr "雪中营地"
 
-#. [terrain_type]: id=castle
-#. [terrain_type]: id=castle_overlay
-#. [terrain_type]: id=dwarven_castle
-#. [terrain_type]: id=elven_castle
-#. [terrain_type]: id=human_castle
 #. [terrain_type]: id=orcish_fort
-#. [terrain_type]: id=sand_castle
-#. [terrain_type]: id=snow_castle
 #. [terrain_type]: id=snow_orcish_fort
+#. [terrain_type]: id=human_castle
+#. [terrain_type]: id=snow_castle
+#. [terrain_type]: id=elven_castle
+#. [terrain_type]: id=dwarven_castle
+#. [terrain_type]: id=sand_castle
+#. [terrain_type]: id=aquatic_castle
+#. [terrain_type]: id=castle_overlay
+#. [terrain_type]: id=castle
 msgid "Castle"
 msgstr "城堡"
 
@@ -833,9 +890,9 @@ msgid "Dwarven Castle"
 msgstr "矮人城堡"
 
 #. [terrain_type]: id=ruin
-#. [terrain_type]: id=sand_castle_ruin
 #. [terrain_type]: id=sunkenruin
 #. [terrain_type]: id=swampruin
+#. [terrain_type]: id=sand_castle_ruin
 msgid "Ruined Castle"
 msgstr "荒废的城堡"
 
@@ -859,9 +916,20 @@ msgstr "沙漠城堡"
 msgid "Ruined Desert Castle"
 msgstr "荒废的沙漠城堡"
 
+#. [terrain_type]: id=aquatic_camp
+#, fuzzy
+msgid "Aquatic Encampment"
+msgstr "营地"
+
+#. [terrain_type]: id=aquatic_castle
+#, fuzzy
+msgid "Aquatic Castle"
+msgstr "人类城堡"
+
 #. [terrain_type]: id=encampment_keep
 #. [terrain_type]: id=encampment_keep_tall
 #. [terrain_type]: id=encampment_snow_keep
+#. [terrain_type]: id=merman_campkeep
 msgid "Encampment Keep"
 msgstr "营地主楼"
 
@@ -874,14 +942,15 @@ msgid "Snowy Encampment Keep"
 msgstr "雪中的营地主楼"
 
 # i'd like to translate it as城堡主楼
-#. [terrain_type]: id=desert_keep
-#. [terrain_type]: id=dwarven_keep
-#. [terrain_type]: id=elven_keep
-#. [terrain_type]: id=human_keep
-#. [terrain_type]: id=keep_overlay
 #. [terrain_type]: id=orcish_keep
-#. [terrain_type]: id=snow_keep
 #. [terrain_type]: id=snow_orcish_keep
+#. [terrain_type]: id=human_keep
+#. [terrain_type]: id=snow_keep
+#. [terrain_type]: id=elven_keep
+#. [terrain_type]: id=dwarven_keep
+#. [terrain_type]: id=desert_keep
+#. [terrain_type]: id=merman_castlekeep
+#. [terrain_type]: id=keep_overlay
 msgid "Keep"
 msgstr "主楼"
 
@@ -910,10 +979,10 @@ msgstr "精灵城堡主楼"
 msgid "Dwarven Castle Keep"
 msgstr "矮人城堡主楼"
 
-#. [terrain_type]: id=desert_keep_ruined
 #. [terrain_type]: id=ruined_keep
 #. [terrain_type]: id=sunken_keep
 #. [terrain_type]: id=swamp_keep
+#. [terrain_type]: id=desert_keep_ruined
 msgid "Ruined Keep"
 msgstr "荒废的主楼"
 
@@ -937,6 +1006,16 @@ msgstr "沙漠主楼"
 msgid "Ruined Desert Keep"
 msgstr "荒废的沙漠主楼"
 
+#. [terrain_type]: id=merman_campkeep
+#, fuzzy
+msgid "Aquatic Encampment Keep"
+msgstr "高耸的营地主楼"
+
+#. [terrain_type]: id=merman_castlekeep
+#, fuzzy
+msgid "Aquatic Keep"
+msgstr "荒废的主楼"
+
 #. [terrain_type]: id=castle_overlay
 msgid "Castle Overlay"
 msgstr "城堡覆盖层"
@@ -946,26 +1025,26 @@ msgid "Keep Overlay"
 msgstr "主楼覆盖层"
 
 #. [terrain_type]: id=bridge
-#. [terrain_type]: id=bridgechasm
-#. [terrain_type]: id=bridgechasmdiag1
-#. [terrain_type]: id=bridgechasmdiag2
 #. [terrain_type]: id=bridgediag1
 #. [terrain_type]: id=bridgediag2
-#. [terrain_type]: id=hangingbridge
-#. [terrain_type]: id=hangingbridgediag1
-#. [terrain_type]: id=hangingbridgediag2
-#. [terrain_type]: id=plankbridge
-#. [terrain_type]: id=plankbridgediag1
-#. [terrain_type]: id=plankbridgediag2
 #. [terrain_type]: id=rotbridge
 #. [terrain_type]: id=rotbridgediag1
 #. [terrain_type]: id=rotbridgediag2
 #. [terrain_type]: id=stone_bridge
 #. [terrain_type]: id=stone_bridgediag1
 #. [terrain_type]: id=stone_bridgediag2
-#. [terrain_type]: id=stonechasmbridge
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+#. [terrain_type]: id=hangingbridgediag1
+#. [terrain_type]: id=hangingbridgediag2
+#. [terrain_type]: id=hangingbridge
 #. [terrain_type]: id=stonechasmbridgediag1
 #. [terrain_type]: id=stonechasmbridgediag2
+#. [terrain_type]: id=stonechasmbridge
+#. [terrain_type]: id=plankbridgediag1
+#. [terrain_type]: id=plankbridgediag2
+#. [terrain_type]: id=plankbridge
 msgid "Bridge"
 msgstr "桥梁"
 
@@ -1015,21 +1094,21 @@ msgstr "基本的石桥"
 msgid "Cave Chasm Bridge"
 msgstr "洞穴裂缝上的桥"
 
-#. [terrain_type]: id=hangingbridge
 #. [terrain_type]: id=hangingbridgediag1
 #. [terrain_type]: id=hangingbridgediag2
+#. [terrain_type]: id=hangingbridge
 msgid "Hanging Bridge"
 msgstr "吊桥"
 
-#. [terrain_type]: id=stonechasmbridge
 #. [terrain_type]: id=stonechasmbridgediag1
 #. [terrain_type]: id=stonechasmbridgediag2
+#. [terrain_type]: id=stonechasmbridge
 msgid "Stone Chasm Bridge"
 msgstr "洞穴裂缝上的桥"
 
-#. [terrain_type]: id=plankbridge
 #. [terrain_type]: id=plankbridgediag1
 #. [terrain_type]: id=plankbridgediag2
+#. [terrain_type]: id=plankbridge
 msgid "Plank Bridge"
 msgstr "桥梁"
 
@@ -1043,10 +1122,12 @@ msgstr "试验性的伪地图边缘"
 
 #. [terrain_type]: id=shroud
 #. [toggle_button]: id=shroud
+#. [toggle_button]: id=sort_7
 msgid "Shroud"
 msgstr "战场黑幕"
 
 #. [terrain_type]: id=fog
+#. [toggle_button]: id=sort_6
 msgid "Fog"
 msgstr "战争迷雾"
 
@@ -1076,6 +1157,7 @@ msgstr ""
 "大多数单位在蘑菇丛中获得50%到60%的闪避率，但是骑兵只有20%。"
 
 #. [terrain_type]: id=cave
+#, fuzzy
 msgid ""
 "<italic>text='Cave'</italic> terrain represents any underground cavern with "
 "enough room for a unit to pass.\n"
@@ -1089,8 +1171,8 @@ msgid ""
 "Rare patches of the underground world are illuminated by light from the "
 "surface shining down into the gloomy darkness. This provides an attack bonus "
 "for lawful units and removes the attack bonus from chaotic units. In all "
-"other regards this terrain is functionally identical to normal "
-"<ref>dst='terrain_cave' text='cave terrains'</ref>.\n"
+"other regards this terrain is functionally identical to normal cave "
+"terrains.\n"
 "\n"
 "Most units receive 20 to 40% defense in caves, whereas dwarves have 50%."
 msgstr ""
@@ -1367,20 +1449,37 @@ msgid "Rails"
 msgstr "轨道"
 
 #. [terrain_type]: id=rails
+#, fuzzy
 msgid ""
-"<italic>text='Rails'</italic> are used to transport ore. By Dwarfs. Mostly."
+"<italic>text='Rails'</italic> are used to transport ore, mostly by dwarves."
 msgstr "<italic>text='轨道'</italic> 主要被矮人用来运输矿石。"
 
+#. [settings]
+msgid " (Press '$hotkey' for more information)"
+msgstr ""
+
+#. [label]: id=room
+msgid "Rooms"
+msgstr "房间"
+
+#. [image]: id=pending_messages
+msgid "Messages waiting"
+msgstr "消息等待中"
+
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=cancel
 #. [button]: id=click_dismiss
 #. [button]: id=close_window
 #. [button]: id=ok
+#. [button]: id=cancel
 msgid "Close"
 msgstr "关闭"
 
-#. [column]
+#. [button]: id=type_profile
+msgid "Profile"
+msgstr ""
+
 #. [label]
+#. [widget]: id=name
 msgid "Connect to Server"
 msgstr "连接到服务器"
 
@@ -1398,8 +1497,8 @@ msgid "Remove Add-ons"
 msgstr "移除附加组件"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=help
 #. [button]: id=show_help
+#. [button]: id=help
 msgid "Help"
 msgstr "帮助"
 
@@ -1525,20 +1624,25 @@ msgid "addons_of_type^MP scenarios"
 msgstr "多人游戏场景"
 
 #. [row]
-msgid "addons_of_type^Other"
-msgstr "其他"
+#, fuzzy
+msgid "addons_of_type^Cores"
+msgstr "资源"
 
 #. [row]
 msgid "addons_of_type^MP map-packs"
 msgstr "多人游戏地图包"
 
 #. [row]
-msgid "addons_of_type^Unknown"
-msgstr "未知"
+msgid "addons_of_type^Other"
+msgstr "其他"
 
 #. [row]
 msgid "addons_of_type^MP modifications"
 msgstr "多人游戏模组"
+
+#. [row]
+msgid "addons_of_type^Unknown"
+msgstr "未知"
 
 #. [label]
 msgid "Options"
@@ -1585,25 +1689,113 @@ msgstr "递增"
 msgid "sort^Descending"
 msgstr "递减"
 
+#. [label]: id=name
+#. [toggle_button]: id=sort_0
+#. [toggle_button]: id=sort_1
+msgid "Name"
+msgstr "名字"
+
+#. [label]
+msgid "Version"
+msgstr "版本"
+
+#. [toggle_button]: id=sort_1
+#, fuzzy
+msgid "Author"
+msgstr "作者："
+
+#. [toggle_button]: id=sort_2
+#, fuzzy
+msgid "Size"
+msgstr "尺寸："
+
+#. [toggle_button]: id=sort_3
+#, fuzzy
+msgid "Downloads"
+msgstr "下载："
+
+#. [toggle_button]: id=sort_4
+#. [toggle_button]: id=sort_1
+#. [toggle_button]: id=sort_0
+msgid "Type"
+msgstr "类型"
+
 #. [scroll_label]
 msgid "Choose the add-ons you want to remove."
 msgstr "选择您希望移除的附加组件。"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #. [button]: id=remove
 msgid "Remove"
 msgstr "移除"
 
+msgid "Nearest Neighbor"
+msgstr ""
+
+msgid "Nearest Neighbor scaling (fastest)"
+msgstr ""
+
+msgid "xBRZ + linear"
+msgstr ""
+
+msgid "xBRZ followed by Bilinear interpolation"
+msgstr ""
+
+msgid "xBRZ + NN"
+msgstr ""
+
+msgid "xBRZ followed by Nearest Neighbor (recommended)"
+msgstr ""
+
+msgid "Bilinear interpolation scaling"
+msgstr ""
+
+msgid "Linear"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Advanced Graphics Options"
+msgstr "高级选项"
+
+#. [label]
+msgid "Images will be scaled using the following algorithms:"
+msgstr ""
+
+#. [column]
+msgid "All units, haloes, border hexes"
+msgstr ""
+
+#. [column]
+msgid "Scaled to zoom"
+msgstr ""
+
+#. [column]
+msgid "Everything else"
+msgstr ""
+
+#. [column]
+msgid "Scaled to hex"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+msgid "OK"
+msgstr "确定"
+
 #. [label]
 msgid "Play a Campaign"
 msgstr "开始战役"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=ok
-#. [button]: id=save
-msgid "OK"
-msgstr "确定"
+#. [toggle_button]: id=checkbox_deterministic
+msgid "Deterministic mode"
+msgstr ""
+
+#. [toggle_button]: id=checkbox_deterministic
+msgid ""
+"Makes the random number generator yield the same results even after "
+"reloading a game"
+msgstr ""
 
 #. [label]: id=title
 msgid "Difficulty"
@@ -1612,6 +1804,31 @@ msgstr "难度"
 #. [scroll_label]: id=message
 msgid "Select difficulty level:"
 msgstr "请选择难度："
+
+#. [label]
+#, fuzzy
+msgid "Advanced Settings"
+msgstr "高级选项"
+
+#. [label]
+msgid "Additional dialogs:"
+msgstr ""
+
+#. [toggle_button]: id=mp_connect
+#, fuzzy
+msgid "Configure sides"
+msgstr "配置："
+
+#. [label]: id=era_label
+msgid "Era:"
+msgstr "时代："
+
+#. [label]: id=mod_label
+#. [label]: id=mods_label
+#. [label]: id=mods_header
+#, fuzzy
+msgid "Modifications:"
+msgstr "选择模组"
 
 #. [label]
 msgid "Chat Log"
@@ -1625,9 +1842,9 @@ msgstr "页码："
 msgid "Last"
 msgstr "末页"
 
-#. [button]: id=previous_page
-#. [button]: id=previous_tip
 #. [button]: id=previous_tod
+#. [button]: id=previous_tip
+#. [button]: id=previous_page
 msgid "Previous"
 msgstr "回退"
 
@@ -1635,9 +1852,9 @@ msgstr "回退"
 msgid "Previous page"
 msgstr "上一页"
 
-#. [button]: id=next_page
-#. [button]: id=next_tip
 #. [button]: id=next_tod
+#. [button]: id=next_tip
+#. [button]: id=next_page
 msgid "Next"
 msgstr "继续"
 
@@ -1653,8 +1870,19 @@ msgstr "过滤条件："
 msgid "clipboard^Copy"
 msgstr "复制"
 
+#. [button]: id=copy
+#, fuzzy
+msgid "Copy this log to clipboard"
+msgstr "将此URL复制到剪贴板"
+
 #. [label]
-msgid "Custom Time of Day Schedule"
+#, fuzzy
+msgid "Load Core"
+msgstr "读取游戏"
+
+#. [label]
+#, fuzzy
+msgid "Custom Time Schedule"
 msgstr "自定义时段表"
 
 #. [label]
@@ -1678,12 +1906,10 @@ msgid "Mask"
 msgstr "遮罩"
 
 #. [button]: id=sound_button
+#. [label]
+#. [widget]: id=label
 msgid "Sound"
 msgstr "声音"
-
-#. [label]: id=current_sound
-msgid "long size text"
-msgstr "全长版本文字"
 
 #. [label]
 msgid "Lawful Bonus:"
@@ -1701,10 +1927,6 @@ msgstr "绿:"
 msgid "Blue:"
 msgstr "蓝:"
 
-#. [label]: id=tod_number
-msgid "100/100"
-msgstr "100/100"
-
 #. [button]: id=new
 msgid "New ToD"
 msgstr "新时段"
@@ -1713,38 +1935,32 @@ msgstr "新时段"
 msgid "Delete ToD"
 msgstr "删除时段"
 
-#. [label]: id=lblTitle
-msgid "Manage Data"
-msgstr "管理数据"
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Confirm"
+msgstr "确认"
 
-#. [label]: id=lblChoose
-msgid "Choose the game to load"
-msgstr "选择要读取的游戏"
+#. [label]
+msgid "Would you like to apply the changes?"
+msgstr "你想应用这些改变吗？"
 
-#. [label]: id=lblFilter
-msgid "Filter"
-msgstr "过滤条件"
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+msgid "Yes"
+msgstr "是"
 
-#. [label]: id=filename
-#. [label]: id=name
-msgid "Name"
-msgstr "名字"
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+msgid "No"
+msgstr "否"
 
-#. [label]: id=date
-msgid "Date"
-msgstr "日期"
+#. [label]
+msgid "User Interaction Required"
+msgstr "需要用户操作"
 
-#. [button]: id=clear
-msgid "Clear"
-msgstr "清除"
-
-#. [button]: id=restore
-msgid "Restore"
-msgstr "恢复"
-
-#. [button]: id=backup
-msgid "Backup"
-msgstr "备份"
+#. [label]: id=message
+msgid "User interaction required"
+msgstr "需要用户操作"
 
 #. [label]: id=title
 msgid "Place Label"
@@ -1757,6 +1973,18 @@ msgstr "标签："
 #. [toggle_button]: id=team_only_toggle
 msgid "Team only"
 msgstr "仅用于团队"
+
+#. [label]
+msgid "Category:"
+msgstr ""
+
+#. [label]
+msgid "Properties"
+msgstr ""
+
+#. [label]
+msgid "Color"
+msgstr ""
 
 #. [toggle_button]: id=immutable_toggle
 msgid "Immutable"
@@ -1810,10 +2038,6 @@ msgstr "队伍标识符："
 msgid "Team name:"
 msgstr "队伍名："
 
-#. [toggle_button]: id=share_maps
-msgid "Share map"
-msgstr "共享地图"
-
 #. [toggle_button]: id=no_leader
 msgid "No leader"
 msgstr "无领袖"
@@ -1821,10 +2045,6 @@ msgstr "无领袖"
 #. [toggle_button]: id=fog
 msgid "Fog of war"
 msgstr "战争迷雾"
-
-#. [toggle_button]: id=share_view
-msgid "Share view"
-msgstr "共享视野"
 
 #. [toggle_button]: id=hidden
 msgid "Hide in status table"
@@ -1862,21 +2082,44 @@ msgstr "仅AI"
 msgid "controller^None"
 msgstr "无"
 
+#. [label]
+#, fuzzy
+msgid "Share Vision:"
+msgstr "共享视野"
+
 #. [row]
-msgid "controller^Player number:"
-msgstr "玩家编号："
+msgid "vision^All"
+msgstr ""
+
+#. [row]
+#, fuzzy
+msgid "vision^Shroud"
+msgstr "战场黑幕"
+
+#. [row]
+#, fuzzy
+msgid "vision^None"
+msgstr "无"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Generate Map"
+msgstr "生成地图"
 
 #. [label]
-msgid "Generate Random Map"
-msgstr "生成随机地图"
-
-#. [button]: id=next_generator
-msgid "Next Generator"
-msgstr "下一个生成器"
+#, fuzzy
+msgid "Choose a map generator:"
+msgstr "地图生成器"
 
 #. [button]: id=settings
+#. [button]: id=random_map_settings
 msgid "Settings"
 msgstr "设置"
+
+#. [label]
+#, fuzzy
+msgid "Seed:"
+msgstr "速度："
 
 #. [button]: id=ok
 msgid "Generate"
@@ -1887,13 +2130,13 @@ msgstr "生成"
 msgid "New Map"
 msgstr "新地图"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
+#. [grid]
 msgid "Width:"
 msgstr "宽度："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
+#. [grid]
 msgid "Height:"
 msgstr "高度："
 
@@ -1942,10 +2185,36 @@ msgstr "选择玩家"
 msgid "Which player should start here?"
 msgstr "哪位玩家应在此开始游戏？"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "↑ ↓ to adjust speed"
+msgstr ""
+
+#. [label]
+msgid "Places"
+msgstr ""
+
+#. [button]: id=add_bookmark
+msgid "Bookmarks the current folder"
+msgstr ""
+
+#. [button]: id=remove_bookmark
+msgid "Removes the current bookmark"
+msgstr ""
+
+#. [button]: id=delete_file
+#. [button]: id=delete
+msgid "Delete"
+msgstr "删除"
+
 #. [label]: id=title
+#. [button]: id=new_dir
 msgid "New Folder"
 msgstr "新建文件夹"
+
+#. [label]
+#, fuzzy
+msgid "File:"
+msgstr "文件："
 
 #. [label]
 msgid "Formula debugger"
@@ -1988,10 +2257,64 @@ msgid "Execution trace"
 msgstr "执行轨迹"
 
 #. [button]: id=cancel
-#. [button]: id=quit
 #. [grid]
 msgid "Quit"
 msgstr "退出"
+
+#. [label]: id=title
+#, fuzzy
+msgid "WML Cache"
+msgstr "缓存："
+
+#. [label]
+msgid ""
+"Wesnoth maintains a cache of preprocessed WML data for campaigns, "
+"multiplayer scenarios, and other add-ons to speed up the loading process. "
+"The cache may be safely cleaned to free up disk space, thus removing stale "
+"files generated by older versions; or you may purge its entire contents if "
+"you are experiencing issues when loading the game data."
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Path:"
+msgstr "路径"
+
+#. [button]: id=copy
+#. [button]: id=copy_
+msgid "filesystem^Copy"
+msgstr "复制"
+
+#. [button]: id=copy
+#. [button]: id=copy_
+msgid "Copy this path to clipboard"
+msgstr "将路径复制到剪贴板"
+
+#. [button]: id=browse
+#. [button]: id=browse_
+msgid "filesystem^Browse"
+msgstr "浏览"
+
+#. [button]: id=browse
+#. [button]: id=browse_
+msgid "Browse this location using a file manager"
+msgstr "使用文件管理器浏览这个文件夹"
+
+#. [button]: id=clean
+msgid "cache^Clean"
+msgstr ""
+
+#. [button]: id=clean
+msgid "Clear stale and unused cache files"
+msgstr ""
+
+#. [button]: id=purge
+msgid "cache^Purge"
+msgstr ""
+
+#. [button]: id=purge
+msgid "Purge the entire contents of the cache"
+msgstr ""
 
 #. [label]: id=lblTitle
 msgid "Delete Save"
@@ -2001,29 +2324,25 @@ msgstr "删除存档"
 msgid "Do you really want to delete this game?"
 msgstr "您真的想删除这个游戏吗？"
 
-#. [toggle_button]: id=do_not_show_again
 #. [toggle_button]: id=dont_ask_again
+#. [toggle_button]: id=do_not_show_again
 msgid "Do not show again"
 msgstr "不再显示"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=ok
-msgid "Yes"
-msgstr "是"
-
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=cancel
-msgid "No"
-msgstr "否"
-
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=load_game
 #. [label]: id=lblTitle
 msgid "Load Game"
 msgstr "读取游戏"
 
-#. [button]: id=delete
-msgid "Delete"
-msgstr "删除"
+#. [label]: id=lblFilter
+#. [label]
+msgid "Filter"
+msgstr "过滤条件"
+
+#. [toggle_button]: id=sort_1
+msgid "Date"
+msgstr "日期"
 
 #. [toggle_button]: id=change_difficulty
 msgid "Change difficulty"
@@ -2049,27 +2368,120 @@ msgstr "取消命令"
 msgid "Cancel any pending unit movements in the saved game"
 msgstr "取消所存游戏中所有未实施行动"
 
-#. [button]: id=copy
-#. [button]: id=copy_
-msgid "filesystem^Copy"
-msgstr "复制"
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+msgid "Save Game"
+msgstr "保存游戏"
 
-#. [button]: id=copy
-#. [button]: id=copy_
-msgid "Copy this path to clipboard"
-msgstr "将路径复制到剪贴板"
+#. [toggle_button]: id=ignore_all
+msgid "Ignore all"
+msgstr "忽略全部"
 
-#. [button]: id=browse_
-msgid "filesystem^Browse"
-msgstr "浏览"
+#. [button]: id=quit_game
+msgid "Quit Game"
+msgstr "退出游戏"
 
-#. [button]: id=browse_
-msgid "Browse this location using a file manager"
-msgstr "使用文件管理器浏览这个文件夹"
+#. [label]: id=lblTitle
+msgid "Overwrite?"
+msgstr "覆盖？"
 
+#. [label]: id=lblMessage
+msgid "Save already exists. Do you want to overwrite it?"
+msgstr "存档已经存在。要覆盖吗？"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [toggle_button]: id=sort_0
+msgid "Leader"
+msgstr "领袖"
+
+#. [toggle_button]: id=sort_1
+#, fuzzy
+msgid "Team"
+msgstr "第一团队"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [toggle_button]: id=sort_2
+#. [image]: id=gold_icon
+#. [label]: id=side_gold
+#, fuzzy
+msgid "Gold"
+msgstr "金币："
+
+#. [toggle_button]: id=sort_3
+#, fuzzy
+msgid "Villages"
+msgstr "村庄："
+
+#. [toggle_button]: id=sort_4
+#, fuzzy
+msgid "Units"
+msgstr "单位列表"
+
+#. [toggle_button]: id=sort_5
+msgid "Upkeep"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [toggle_button]: id=sort_6
+#. [image]: id=income_icon
+#. [label]: id=side_income
+#, fuzzy
+msgid "Income"
+msgstr "收入："
+
+#. [label]: id=side_title
+#. [toggle_button]: id=sort_1
+msgid "Side"
+msgstr "阵营"
+
+#. [toggle_button]: id=sort_2
+msgid ""
+"Starting\n"
+"Gold"
+msgstr ""
+
+#. [toggle_button]: id=sort_3
+#, fuzzy
+msgid ""
+"Base\n"
+"Income"
+msgstr "收入："
+
+#. [toggle_button]: id=sort_4
+#, fuzzy
+msgid ""
+"Gold Per\n"
+"Village"
+msgstr "金币/村庄"
+
+#. [toggle_button]: id=sort_5
+#, fuzzy
+msgid ""
+"Support Per\n"
+"Village"
+msgstr "每村庄供给："
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
-msgid "Game Paths"
+#, fuzzy
+msgid "Current Status"
+msgstr "当前房间"
+
+#. [widget]: id=tab_label
+#, fuzzy
+msgid "Game Stats"
 msgstr "游戏路径"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [widget]: id=tab_label
+#, fuzzy
+msgid "Scenario Settings"
+msgstr "编辑场景设置"
+
+#. [button]: id=ok
+#, fuzzy
+msgid "Scroll To"
+msgstr "滚屏速度："
 
 #. [grid]
 msgid "Game data:"
@@ -2095,47 +2507,121 @@ msgstr "附加组件："
 msgid "Cache:"
 msgstr "缓存："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [label]: id=lblTitle
-msgid "Save Game"
-msgstr "保存游戏"
+#. [button]: id=open_stderr
+msgid "Open Log File"
+msgstr ""
 
-#. [toggle_button]: id=ignore_all
-msgid "Ignore all"
-msgstr "忽略全部"
+#. [button]: id=open_stderr
+msgid "Opens the log file, which may contain useful debug information"
+msgstr ""
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=quit_game
-msgid "Quit Game"
-msgstr "退出游戏"
+#. [label]
+msgid "library^Name"
+msgstr ""
 
-#. [label]: id=lblTitle
-msgid "Overwrite?"
-msgstr "覆盖？"
+#. [label]
+msgid "library^Build version"
+msgstr ""
 
-#. [label]: id=lblMessage
-msgid "Save already exists. Do you want to overwrite it?"
-msgstr "存档已经存在。要覆盖吗？"
+#. [label]
+msgid "library^Runtime version"
+msgstr ""
+
+#. [label]
+msgid ""
+"The following features were selected when building this version of Wesnoth:"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "The Battle for Wesnoth"
+msgstr "显示韦诺之战帮助"
+
+#. [widget]: id=tab_label
+msgid "Paths"
+msgstr "路径"
+
+#. [widget]: id=tab_label
+msgid "Libraries"
+msgstr ""
+
+#. [widget]: id=tab_label
+msgid "Features"
+msgstr ""
+
+#. [button]: id=copy_all
+#, fuzzy
+msgid "page^Copy"
+msgstr "复制"
+
+#. [button]: id=copy_all
+#, fuzzy
+msgid "Copy the full report to clipboard"
+msgstr "将报告复制到剪贴板"
 
 #. [label]
 msgid "Gamestate Inspector"
 msgstr "游戏状态观察器"
 
-#. [label]: id=typename
-#. [label]: id=unit_type
-msgid "Type"
-msgstr "类型"
+#. [button]: id=copy
+msgid "Copy this report to clipboard"
+msgstr "将报告复制到剪贴板"
 
-#. [label]: id=name
-msgid "Items"
-msgstr "物品"
+#. [button]: id=lua
+#. [label]
+msgid "Lua Console"
+msgstr ""
 
 #. [label]
-msgid "Contents"
-msgstr "内容"
+#, fuzzy
+msgid "Map Generator Settings"
+msgstr "地图生成器"
 
 #. [grid]
 #. [label]
+msgid "Players:"
+msgstr "玩家数量："
+
+#. [grid]
+#, fuzzy
+msgid "Number of Hills:"
+msgstr "丘陵的数量："
+
+#. [grid]
+#, fuzzy
+msgid "Max Hill Size:"
+msgstr "丘陵最大面积："
+
+#. [grid]
+msgid "Villages:"
+msgstr "村庄："
+
+#. [grid]
+#, fuzzy
+msgid "Castle Size:"
+msgstr "城堡面积："
+
+#. [grid]
+msgid "Landform:"
+msgstr "地形："
+
+#. [toggle_button]: id=connect_castles
+#, fuzzy
+msgid "Roads Between Castles"
+msgstr "城堡之间的道路数"
+
+#. [toggle_button]: id=show_labels
+#, fuzzy
+msgid "Show Labels"
+msgstr "显示标签"
+
+#. [label]: id=title
+#, fuzzy
+msgid "Show or Hide Labels"
+msgstr "显示浮动标签"
+
+#. [label]
+#. [grid]
 msgid "Language"
 msgstr "语言"
 
@@ -2143,7 +2629,12 @@ msgstr "语言"
 msgid "Choose your preferred language:"
 msgstr "选择你偏好的语言："
 
-#. [row]
+#. [label]: id=status
+#, fuzzy
+msgid "Loading..."
+msgstr "读取游戏..."
+
+#. [label]: id=map
 msgid "Games"
 msgstr "游戏"
 
@@ -2156,7 +2647,10 @@ msgid "Requires a password to join"
 msgstr "需要密码才能加入游戏"
 
 #. [row]
-#. [toggle_button]: id=use_map_settings
+msgid "Only registered users may join"
+msgstr ""
+
+#. [row]
 msgid "Use map settings"
 msgstr "使用地图设置"
 
@@ -2172,7 +2666,6 @@ msgstr "未知时代"
 msgid "Gold per village"
 msgstr "金币/村庄"
 
-#. [label]
 #. [row]
 msgid "Experience modifier"
 msgstr "经验值修正"
@@ -2181,13 +2674,13 @@ msgstr "经验值修正"
 msgid "Time limit"
 msgstr "时间限制"
 
+#. [button]: id=join
 #. [button]: id=join_global
-#. [row]
 msgid "Join"
 msgstr "加入"
 
+#. [button]: id=observe
 #. [button]: id=observe_global
-#. [row]
 msgid "Observe"
 msgstr "观察"
 
@@ -2203,34 +2696,7 @@ msgstr "好友优先，被忽略的用户在最后"
 msgid "Alphabetically"
 msgstr "字母顺序"
 
-#. [definition]
-msgid "Selected game"
-msgstr "选中的游戏"
-
-#. [definition]
-msgid "Current room"
-msgstr "当前房间"
-
-#. [definition]
-msgid "Lobby"
-msgstr "大厅"
-
-#. [definition]
-msgid "Other games"
-msgstr "其它游戏"
-
-#. [label]: id=room
-msgid "Rooms"
-msgstr "房间"
-
-#. [image]: id=pending_messages
-msgid "Messages waiting"
-msgstr "消息等待中"
-
-#. [label]
-msgid "Multiplayer Lobby"
-msgstr "多人游戏大厅"
-
+#. [widget]: id=tab_label
 #. [toggle_button]: id=filter_with_friends
 msgid "Friends"
 msgstr "好友列表"
@@ -2247,77 +2713,233 @@ msgstr "空位个数"
 msgid "Invert filter"
 msgstr "反转过滤条件"
 
-#. [button]: id=ok
-#. [button]: id=send_message
-msgid "Send"
-msgstr "发送"
-
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=show_preferences
-#. [grid]
-msgid "Preferences"
-msgstr "首选项"
+#. [button]: id=quit
+#, fuzzy
+msgid "Log Out"
+msgstr "缩小"
 
 #. [button]: id=refresh
 msgid "Refresh"
 msgstr "刷新"
 
-#. [button]: id=create
 #. [label]
+#. [button]: id=ok
+#. [button]: id=create
 msgid "Create Game"
 msgstr "创建游戏"
 
-#. [toggle_button]: id=skip_replay
-msgid "Quick replay"
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=show_preferences
+#. [grid]
+#. [label]: id=title
+msgid "Preferences"
+msgstr "首选项"
+
+#. [option]
+#, fuzzy
+msgid "Normal Replays"
+msgstr "保存录像"
+
+#. [option]
+#, fuzzy
+msgid "Quick Replays"
 msgstr "快速回放"
+
+#. [option]
+msgid "Skip quickly to the active turn when observing"
+msgstr ""
+
+#. [option]
+msgid "Enter Blindfolded"
+msgstr ""
+
+#. [option]
+msgid "Do not show the map until given control of a side"
+msgstr ""
+
+#. [label]
+msgid "Multiplayer Lobby"
+msgstr "多人游戏大厅"
 
 #. [label]
 msgid "Player Info — "
 msgstr "玩家信息——"
 
-#. [button]: id=start_whisper
-msgid "Send Private Message"
-msgstr "发送个人消息"
-
+#. [button]: id=add_friend
 #. [button]: id=add_to_friends
-msgid "Add to Friends"
+#, fuzzy
+msgid "Add Friend"
 msgstr "加入好友列表"
 
+#. [button]: id=add_ignored
 #. [button]: id=add_to_ignores
-msgid "Add to Ignores"
-msgstr "加入忽略列表"
+msgid "Block"
+msgstr ""
 
 #. [button]: id=remove_from_list
 msgid "Remove from List"
 msgstr "从列表中移除"
 
-#. [label]
-msgid "Moderation"
-msgstr "管理"
+#. [button]: id=start_whisper
+msgid "Send Private Message"
+msgstr "发送个人消息"
 
-#. [button]: id=check_status
-msgid "Check status"
-msgstr "检查状态"
+#. [label]
+#, fuzzy
+msgid "Moderator Controls"
+msgstr "管理"
 
 #. [label]
 msgid "Kick / ban reason:"
 msgstr "剔出/封禁的理由："
 
-#. [button]: id=kick
-msgid "Kick"
-msgstr "踢出"
-
 #. [label]
 msgid "Ban time:"
 msgstr "封禁时间："
 
+#. [button]: id=check_status
+#, fuzzy
+msgid "Check Status"
+msgstr "检查状态"
+
+#. [button]: id=kick
+msgid "Kick"
+msgstr "踢出"
+
 #. [button]: id=kick_ban
-msgid "Kick/ban"
+#, fuzzy
+msgid "Kick + Ban"
 msgstr "剔出/封禁"
 
-#. [label]: id=side_title
-msgid "Side"
-msgstr "阵营"
+#. [label]
+#, fuzzy
+msgid "Logging Options"
+msgstr "选项"
+
+#. [button]: id=clear
+#, fuzzy
+msgid "Clear Console"
+msgstr "干净的灰色卵石"
+
+#. [button]: id=clear
+msgid "Clear the log area"
+msgstr ""
+
+#. [label]: id=title
+#, fuzzy
+msgid "Multiplayer Alerts"
+msgstr "多人游戏"
+
+#. [label]
+msgid ""
+"Choose how you wish to be notified of events in multiplayer games or in the "
+"multiplayer lobby; either by playing sound alerts or (if the game window is "
+"inactive or minimized) displaying desktop notifications."
+msgstr ""
+
+#. [label]
+msgid "Event"
+msgstr ""
+
+#. [label]: id=notification_label
+#, fuzzy
+msgid "Desktop Notification"
+msgstr "选择模组"
+
+#. [label]
+#, fuzzy
+msgid "In Lobby"
+msgstr "大厅"
+
+#. [grid]
+#, fuzzy
+msgid "Player joins:"
+msgstr "玩家数量："
+
+#. [grid]
+msgid "When a player joins the lobby or game"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Player leaves:"
+msgstr "玩家数量："
+
+#. [grid]
+msgid "When a player leaves the lobby or game"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "When a whisper is received"
+msgstr "对$receiver说悄悄话"
+
+#. [grid]
+msgid "Whisper:"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Friend message:"
+msgstr "好友列表"
+
+#. [grid]
+msgid "When a message from a friend is received"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Public message:"
+msgstr "消息："
+
+#. [grid]
+msgid "When a public message is received"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Server message:"
+msgstr "发送个人消息"
+
+#. [grid]
+msgid "When a server message is received"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Ready to start:"
+msgstr "游戏开始时的时段随机"
+
+#. [grid]
+msgid "When the game you are hosting is ready to start"
+msgstr ""
+
+#. [grid]
+msgid "Game has begun:"
+msgstr ""
+
+#. [grid]
+msgid "When the host (not you) has started the game"
+msgstr ""
+
+#. [grid]
+msgid "Turn changed:"
+msgstr ""
+
+#. [grid]
+msgid "When a new turn has begun"
+msgstr ""
+
+#. [button]: id=revert_to_defaults
+#. [button]: id=btn_reset_hotkeys
+#. [button]: id=orb_defaults
+msgid "Defaults"
+msgstr "默认"
+
+#. [button]: id=revert_to_defaults
+#, fuzzy
+msgid "Reset all options to their default values"
+msgstr "将所有的捆绑重置为默认值"
 
 #. [label]: id=nick_title
 msgid "Nickname"
@@ -2338,6 +2960,10 @@ msgstr "消息"
 #. [label]
 msgid "Message:"
 msgstr "消息："
+
+#. [button]: id=ok
+msgid "Send"
+msgstr "发送"
 
 #. [label]
 msgid "Friends/Ignored List"
@@ -2364,6 +2990,7 @@ msgid "Time:"
 msgstr "时间："
 
 #. [button]: id=status
+#. [label]
 msgid "Status"
 msgstr "状态"
 
@@ -2380,86 +3007,245 @@ msgid "View List"
 msgstr "查看列表"
 
 #. [label]
-#. [text_box]: id=game_name
-msgid "Name of game:"
-msgstr "游戏名称："
-
-#. [label]: id=map_players
-msgid "Players: "
-msgstr "玩家数量："
-
-#. [label]: id=map_size
-msgid "Map size: "
-msgstr "地图尺寸："
+msgid "Eras:"
+msgstr ""
 
 #. [label]
-msgid "Era:"
-msgstr "时代："
-
-#. [button]: id=era
-msgid "Default"
-msgstr "默认"
-
-#. [button]: id=password
-#. [label]: id=title
-msgid "Set Password"
-msgstr "设置密码"
+msgid "Random Faction Matchups:"
+msgstr ""
 
 #. [label]
-msgid "Map to play:"
-msgstr "使用地图："
+msgid "Allow for mirror matchups when random factions are chosen."
+msgstr ""
 
-#. [label]
-msgid "Number of turns"
+#. [toggle_button]: id=use_map_settings
+#, fuzzy
+msgid "Use Map Settings"
+msgstr "使用地图设置"
+
+#. [toggle_button]: id=use_map_settings
+#, fuzzy
+msgid "Use scenario specific settings"
+msgstr "使用地图设置"
+
+#. [grid]
+#, fuzzy
+msgid "Number of Turns"
 msgstr "回合数："
 
-#. [slider]: id=turn_count
-msgid "Unlimited"
+#. [grid]
+msgid "The maximum number of turns the game can last"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "unlimited"
 msgstr "不限"
 
-#. [label]
-msgid "Village gold"
+#. [grid]
+msgid "The amount of income each village yields per turn"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Village Gold"
 msgstr "村庄金币"
+
+#. [grid]
+msgid "The number of unit levels each village can support"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Village Support"
+msgstr "村庄金币"
+
+#. [grid]
+#, fuzzy
+msgid "Experience Modifier"
+msgstr "经验值修正"
+
+#. [grid]
+msgid "The amount of experience a unit needs to advance"
+msgstr ""
+
+#. [toggle_button]: id=fog
+msgid "Enemy units cannot be seen unless they are in range of your units"
+msgstr ""
+
+#. [toggle_button]: id=shroud
+msgid "The map is unknown until your units explore it"
+msgstr ""
 
 #. [toggle_button]: id=random_start_time
 msgid "Random start time"
 msgstr "游戏开始时的时段随机"
 
+#. [toggle_button]: id=random_start_time
+#, fuzzy
+msgid "Randomize the starting time of day"
+msgstr "随机初始时段"
+
+#. [toggle_button]: id=time_limit
+#, fuzzy
+msgid "Time Limit"
+msgstr "时间限制"
+
+#. [toggle_button]: id=time_limit
+msgid "Enable custom time limits"
+msgstr ""
+
+#. [grid]
+msgid "Initial Limit"
+msgstr ""
+
+#. [grid]
+msgid "Longest time allowed for first turn (seconds)"
+msgstr ""
+
+#. [grid]
+msgid "Time for general tasks each turn (seconds)"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Turn Bonus"
+msgstr "回合："
+
+#. [grid]
+msgid "Longest time possible for any turn (seconds)"
+msgstr ""
+
+#. [grid]
+msgid "Reservoir"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Action Bonus"
+msgstr "行动"
+
+#. [grid]
+msgid "Time for each attack, recruit, and capture"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [widget]: id=tab_label
+#. [widget]: id=label
+#, fuzzy
+msgid "General"
+msgstr "生成"
+
+#. [widget]: id=tab_label
+#, fuzzy
+msgid "Custom Options"
+msgstr "选项"
+
+#. [widget]: id=tab_label
+#, fuzzy
+msgid "Game Settings"
+msgstr "设置"
+
+#. [slider]: id=num_players
+msgid "Any"
+msgstr ""
+
 #. [label]
-msgid "Choose Modifications"
-msgstr "选择模组"
+#, fuzzy
+msgid "Random map options: "
+msgstr "随机初始时段"
 
-#. [label]: id=message
-msgid "Enable the modifications you want to be active during the game."
-msgstr "启用您想在游戏过程中激活的模块。"
+#. [button]: id=random_map_regenerate
+#, fuzzy
+msgid "Regenerate"
+msgstr "生成"
 
-#. [scroll_label]: id=message
-msgid ""
-"Set the password that people wanting to join your game as players must enter."
-msgstr "设置密码，这是想加入您的游戏的人所必需输入的。"
+msgid "Shuffle Sides"
+msgstr ""
+
+msgid "Allow users who are not playing to watch the game"
+msgstr ""
+
+#, fuzzy
+msgid "Observers"
+msgstr "观察"
+
+msgid "Allow only registered users to join the game"
+msgstr ""
+
+msgid "Registered Users Only"
+msgstr ""
+
+msgid "Strict Synchronization"
+msgstr ""
+
+msgid "Stricter checks for out-of-sync errors"
+msgstr ""
+
+#. [label]
+msgid "Name of game:"
+msgstr "游戏名称："
 
 #. [label]
 msgid "Password:"
 msgstr "密码："
 
-#. [label]
-msgid "Confirm"
-msgstr "确认"
+#. [scroll_label]: id=message
+#. [text_box]: id=game_password
+msgid ""
+"Set the password that people wanting to join your game as players must enter."
+msgstr "设置密码，这是想加入您的游戏的人所必需输入的。"
 
 #. [label]
-msgid "Would you like to apply the changes?"
-msgstr "你想应用这些改变吗？"
+#, fuzzy
+msgid "Map size:"
+msgstr "地图尺寸："
+
+#. [label]: id=title
+msgid "Set Password"
+msgstr "设置密码"
 
 #. [label]
-msgid "User Interaction Required"
-msgstr "需要用户操作"
+#, fuzzy
+msgid "Leader:"
+msgstr "领袖"
 
-#. [label]: id=message
-msgid "User interaction required"
-msgstr "需要用户操作"
-
-#. [column]
 #. [label]
+msgid "Gender:"
+msgstr "性别："
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [row]
+msgid "Random"
+msgstr ""
+
+#. [row]
+#. [toggle_button]: id=male_toggle
+msgid "Male"
+msgstr "男"
+
+#. [row]
+#. [toggle_button]: id=female_toggle
+msgid "Female"
+msgstr "女"
+
+#. [label]
+#, fuzzy
+msgid "Recruits:"
+msgstr "征募"
+
+#. [label]
+#, fuzzy
+msgid "Choose Your Faction"
+msgstr "选择分辨率"
+
+#. [label]
+#, fuzzy
+msgid "Starting position:"
+msgstr "起始点工具"
+
+#. [label]
+#. [widget]: id=name
 msgid "Host Networked Game"
 msgstr "建立联网游戏"
 
@@ -2471,6 +3257,42 @@ msgid ""
 msgstr ""
 "必须启动一个本地服务器实例之后才能发起一场网络游戏。服务器将作为后台进程运"
 "行，直到所有玩家全部断线为止。您希望继续吗？"
+
+#. [label]
+msgid "<b>Faction:</b>"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "<b>Gender:</b>"
+msgstr "性别："
+
+#. [label]
+#, fuzzy
+msgid "Connected Players"
+msgstr "选择玩家"
+
+#. [button]: id=ok
+msgid "I’m Ready"
+msgstr ""
+
+#. [label]: id=title
+#, fuzzy
+msgid "Game Lobby"
+msgstr "大厅"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=status_label
+msgid "Waiting for players to join..."
+msgstr ""
+
+#. [label]: id=title
+msgid "Password Required"
+msgstr "需要输入密码"
+
+#. [scroll_label]: id=message
+msgid "Joining this game requires a password."
+msgstr "加入这个游戏需要密码。"
 
 #. [window]: id=mp_login
 msgid "Multiplayer server login dialog"
@@ -2493,8 +3315,9 @@ msgid "Password Reminder"
 msgstr "密码提示"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [grid]
 #. [label]
+#. [grid]
+#. [widget]: id=label
 msgid "Multiplayer"
 msgstr "多人游戏"
 
@@ -2514,36 +3337,484 @@ msgstr ""
 "Battle for Wesnoth论坛的地址为：http://www.wesnoth.org/forum/"
 
 #. [column]
-msgid "Join Official Server"
-msgstr "加入官方服务器"
-
-#. [column]
 msgid "Log on to the official Wesnoth multiplayer server"
 msgstr "登录到官方多人游戏服务器"
+
+#. [widget]: id=name
+msgid "Join Official Server"
+msgstr "加入官方服务器"
 
 #. [column]
 msgid "Join a different server"
 msgstr "加入另一个服务器"
 
 #. [column]
-msgid "Host a game using dedicated server ‘wesnothd’"
+#, fuzzy
+msgid "Host a game using a dedicated server"
 msgstr "使用专用服务器“wesnothd”建立游戏"
-
-#. [column]
-msgid "Local Game"
-msgstr "本地游戏"
 
 #. [column]
 msgid "Play a multiplayer game with the AI or humans sharing the same machine"
 msgstr "在同一台机器上和AI或者别的玩家一起玩多人游戏"
 
+#. [widget]: id=name
+msgid "Local Game"
+msgstr "本地游戏"
+
 #. [label]: id=address
 msgid "Address"
 msgstr "地址"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Select"
 msgstr "选择"
+
+#. [widget]: id=label
+msgid "Hotkeys"
+msgstr "快捷键"
+
+#. [widget]: id=label
+#, fuzzy
+msgid "Display"
+msgstr "刷新显示"
+
+#. [widget]: id=label
+msgid "Advanced"
+msgstr ""
+
+#. [label]
+msgid "Scroll speed:"
+msgstr "滚屏速度："
+
+#. [slider]: id=scroll_speed
+msgid "Change the speed of scrolling around the map"
+msgstr "调整卷屏速度"
+
+#. [toggle_button]: id=turbo_toggle
+msgid "Accelerated speed"
+msgstr "加速"
+
+#. [toggle_button]: id=turbo_toggle
+msgid "Make units move and fight faster"
+msgstr "加快单位的移动和攻击速度"
+
+#. [toggle_button]: id=skip_ai_moves
+msgid "Skip AI moves"
+msgstr "略过AI的移动"
+
+#. [toggle_button]: id=skip_ai_moves
+msgid "Do not animate AI units moving"
+msgstr "不显示AI单位的移动动画"
+
+#. [column]
+#, fuzzy
+msgid "Speed:"
+msgstr "速度："
+
+#. [column]
+msgid "Units move and fight speed"
+msgstr "单位的移动和攻击速度"
+
+#. [toggle_button]: id=disable_auto_moves
+msgid "Disable automatic moves"
+msgstr ""
+
+#. [toggle_button]: id=disable_auto_moves
+#, fuzzy
+msgid "Do not allow automatic movements at the beginning of a turn"
+msgstr "在您的回合开始时播放提示音"
+
+#. [toggle_button]: id=show_turn_dialog
+msgid "Turn dialog"
+msgstr "回合对话框"
+
+#. [toggle_button]: id=show_turn_dialog
+msgid "Display a dialog at the beginning of your turn"
+msgstr "在您的回合开始时显示提示对话框"
+
+#. [toggle_button]: id=whiteboard_on_start
+msgid "Enable planning mode on start"
+msgstr "开始时便启用计划模式"
+
+#. [toggle_button]: id=whiteboard_on_start
+msgid "Activates Planning Mode on game start"
+msgstr "当游戏开始时，激活计划模式"
+
+#. [toggle_button]: id=whiteboard_hide_allies
+msgid "Hide allies’ plans by default"
+msgstr "默认隐藏盟友的计划"
+
+#. [toggle_button]: id=whiteboard_hide_allies
+#, fuzzy
+msgid "Hide allies’ Planning Mode plans in multiplayer games"
+msgstr "在多人游戏中，隐藏盟友在计划模式下所制定的计划"
+
+#. [toggle_button]: id=interrupt_move_when_ally_sighted
+msgid "Interrupt move when an ally is sighted"
+msgstr "发现友军时中断移动"
+
+#. [toggle_button]: id=interrupt_move_when_ally_sighted
+msgid "Sighting an allied unit interrupts your unit’s movement"
+msgstr "当看到友军单位时中断您的单位的移动"
+
+#. [toggle_button]: id=save_replays
+msgid "Save replays at the end of scenarios"
+msgstr "在场景结束时保存录像"
+
+#. [toggle_button]: id=save_replays
+#, fuzzy
+msgid "Save replays of games on victory in all modes and defeat in multiplayer"
+msgstr "在所有模式胜利和多人游戏被击败时，储存回放录像"
+
+#. [toggle_button]: id=delete_saves
+msgid "Delete auto-saves at the end of scenarios"
+msgstr "在场景结束时删除自动存档"
+
+#. [toggle_button]: id=delete_saves
+#, fuzzy
+msgid ""
+"Delete previous auto-saves on victory in all modes and defeat in multiplayer"
+msgstr "当单人/多人游戏胜利或者多人游戏被击败时，删除自动存档"
+
+#. [column]
+#, fuzzy
+msgid "Maximum auto-saves:"
+msgstr "最大自动存档数："
+
+#. [column]
+msgid "Set maximum number of automatic saves to be retained"
+msgstr "设置自动存档的最大保留数量"
+
+#. [button]: id=cachemg
+#, fuzzy
+msgid "Cache"
+msgstr "缓存："
+
+#. [button]: id=cachemg
+#, fuzzy
+msgid "Manage the game WML cache"
+msgstr "调整采样频率"
+
+#. [toggle_button]: id=sort_0
+msgid "Action"
+msgstr "动作"
+
+#. [toggle_button]: id=sort_1
+#, fuzzy
+msgid "Hotkey"
+msgstr "快捷键"
+
+#. [toggle_button]: id=sort_2
+msgid "game_hotkeys^G"
+msgstr ""
+
+#. [toggle_button]: id=sort_2
+msgid "Available in game"
+msgstr ""
+
+#. [toggle_button]: id=sort_3
+msgid "editor_hotkeys^E"
+msgstr ""
+
+#. [toggle_button]: id=sort_3
+msgid "Available in editor"
+msgstr ""
+
+#. [toggle_button]: id=sort_4
+msgid "titlescreen_hotkeys^T"
+msgstr ""
+
+#. [toggle_button]: id=sort_4
+msgid "Available at titlescreen"
+msgstr ""
+
+#. [button]: id=btn_add_hotkey
+msgid "Add Hotkey"
+msgstr "增加快捷键"
+
+#. [button]: id=btn_clear_hotkey
+msgid "Clear Hotkey"
+msgstr "清除快捷键"
+
+#. [label]
+#, fuzzy
+msgid "Resolution:"
+msgstr "改变分辨率"
+
+#. [menu_button]: id=resolution_set
+#, fuzzy
+msgid "Change the game resolution"
+msgstr "改变分辨率"
+
+#. [toggle_button]: id=fullscreen
+msgid "Full screen"
+msgstr "全屏"
+
+#. [toggle_button]: id=fullscreen
+msgid "Toggle between fullscreen and window mode"
+msgstr ""
+
+#. [toggle_button]: id=show_floating_labels
+msgid "Show floating labels"
+msgstr "显示浮动标签"
+
+#. [toggle_button]: id=show_floating_labels
+msgid "Show damage and healing amounts above a unit"
+msgstr ""
+
+#. [toggle_button]: id=show_ellipses
+msgid "Show team colors"
+msgstr "显示团队颜色"
+
+#. [toggle_button]: id=show_ellipses
+msgid ""
+"Show a colored circle around the base of each unit to show which side it is "
+"on"
+msgstr "在单位脚底周围显示彩色圆环以表示其所属阵营"
+
+#. [toggle_button]: id=show_grid
+msgid "Show grid"
+msgstr "显示网格"
+
+#. [toggle_button]: id=show_grid
+#, fuzzy
+msgid "Overlay a grid over the map"
+msgstr "在地图上显示六角网格"
+
+#. [toggle_button]: id=animate_terrains
+msgid "Animate map"
+msgstr "开启地图动画"
+
+#. [toggle_button]: id=animate_terrains
+msgid "Display animated terrain graphics"
+msgstr "显示地形动画效果"
+
+#. [toggle_button]: id=animate_water
+#, fuzzy
+msgid "Animate water"
+msgstr "开启地图动画"
+
+#. [toggle_button]: id=animate_water
+#, fuzzy
+msgid "Display animated water graphics (can be slow)"
+msgstr "显示地形动画效果"
+
+#. [toggle_button]: id=animate_units_standing
+msgid "Show unit standing animations"
+msgstr "显示单位站立动画"
+
+#. [toggle_button]: id=animate_units_standing
+#, fuzzy
+msgid "Continuously animate standing units on the battlefield"
+msgstr "让战场上的待命单位持续地做小动作"
+
+#. [toggle_button]: id=animate_units_idle
+msgid "Show unit idle animations"
+msgstr "显示单位空闲动画"
+
+#. [toggle_button]: id=animate_units_idle
+msgid "Play short random animations for idle units"
+msgstr "在空闲单位上显示随机而短小的待机动画"
+
+#. [label]
+msgid "Frequency:"
+msgstr "频率："
+
+#. [slider]: id=idle_anim_frequency
+msgid "Set the frequency of unit idle animations"
+msgstr "设置单位空闲动画显示频率"
+
+#. [label]
+msgid "Font Scaling:"
+msgstr ""
+
+#. [slider]: id=scaling_slider
+msgid "Set the scaling factor of fonts"
+msgstr ""
+
+#. [button]: id=choose_theme
+msgid "Theme"
+msgstr "主题"
+
+#. [button]: id=choose_theme
+#, fuzzy
+msgid "Change the in-game theme"
+msgstr "调整采样频率"
+
+#. [label]
+msgid "Volume:"
+msgstr "音量："
+
+#. [toggle_button]: id=sound_toggle_stop_music_in_background
+msgid "Pause music on focus loss"
+msgstr ""
+
+#. [toggle_button]: id=sound_toggle_stop_music_in_background
+msgid "Pause the music when you switch to any other window"
+msgstr ""
+
+#. [column]
+msgid "Sound effects"
+msgstr "音效"
+
+#. [column]
+msgid "Sound effects on/off"
+msgstr "开/关音效"
+
+#. [column]
+msgid "Change the sound effects volume"
+msgstr "调整音效的音量大小"
+
+#. [column]
+msgid "Music"
+msgstr "音乐"
+
+#. [column]
+msgid "Music on/off"
+msgstr "开/关音乐"
+
+#. [column]
+msgid "Change the music volume"
+msgstr "调整音乐的音量大小"
+
+#. [column]
+msgid "Play a bell sound at the beginning of your turn"
+msgstr "在您的回合开始时播放提示音"
+
+#. [column]
+msgid "Turn bell"
+msgstr "回合提示音"
+
+#. [column]
+msgid "Change the bell volume"
+msgstr "调整提示音的音量大小"
+
+#. [column]
+msgid "Turn menu and button sounds on/off"
+msgstr "开/关菜单和按钮音效"
+
+#. [column]
+msgid "User interface sounds"
+msgstr "用户界面声效"
+
+#. [column]
+msgid "Change the sound volume for button clicks, etc."
+msgstr "调整点击按钮等操作时的音量大小。"
+
+#. [label]
+#, fuzzy
+msgid "Chat lines:"
+msgstr "聊天记录行数："
+
+#. [slider]: id=chat_lines
+#, fuzzy
+msgid "Set the number of chat lines shown"
+msgstr "设置在屏幕上显示的聊天记录的行数"
+
+#. [toggle_button]: id=chat_timestamps
+msgid "Chat timestamping"
+msgstr "开启聊天时间戳"
+
+#. [toggle_button]: id=chat_timestamps
+msgid "Add a timestamp to chat messages"
+msgstr "在聊天消息上加上时间戳"
+
+#. [toggle_button]: id=remember_password
+msgid "Save password to preferences (plain text)"
+msgstr "保存首选项的密码（明文）"
+
+#. [toggle_button]: id=remember_password
+msgid "Uncheck to delete the saved password (on exit)"
+msgstr "取消勾选，以删除以前保存的密码（在退出时）"
+
+#. [toggle_button]: id=lobby_sort_players
+msgid "Sort lobby list"
+msgstr "对玩家列表排序"
+
+#. [toggle_button]: id=lobby_sort_players
+msgid "Sort the player list in the lobby by player groups"
+msgstr "根据玩家分组对游戏大厅中的玩家列表进行排序"
+
+#. [toggle_button]: id=lobby_player_icons
+msgid "Iconize lobby list"
+msgstr "以图标形式显示玩家列表"
+
+#. [toggle_button]: id=lobby_player_icons
+msgid "Show icons in front of the player names in the lobby"
+msgstr "在游戏大厅中玩家的名字前显示图标"
+
+#. [toggle_button]: id=lobby_whisper_friends_only
+msgid "Accept whispers from friends only"
+msgstr ""
+
+#. [toggle_button]: id=lobby_whisper_friends_only
+msgid "Only accept whisper messages from people on your friends list"
+msgstr ""
+
+#. [toggle_button]: id=lobby_joins_none
+msgid "Do not show lobby joins"
+msgstr "不显示玩家进入游戏大厅的信息"
+
+#. [toggle_button]: id=lobby_joins_none
+msgid "Do not show messages about players joining the multiplayer lobby"
+msgstr "不显示玩家进入多人游戏大厅的信息"
+
+#. [toggle_button]: id=lobby_joins_friends
+msgid "Show lobby joins of friends only"
+msgstr "只显示好友进入游戏大厅的信息"
+
+#. [toggle_button]: id=lobby_joins_friends
+msgid "Show messages about your friends joining the multiplayer lobby"
+msgstr "显示好友进入多人游戏大厅的信息"
+
+#. [toggle_button]: id=lobby_joins_all
+msgid "Show all lobby joins"
+msgstr "显示所有玩家进入游戏大厅的信息"
+
+#. [toggle_button]: id=lobby_joins_all
+msgid "Show messages about all players joining the multiplayer lobby"
+msgstr "显示所有玩家进入多人游戏大厅的信息"
+
+#. [button]: id=mp_alerts
+msgid "Alerts"
+msgstr ""
+
+#. [button]: id=mp_alerts
+#, fuzzy
+msgid "Configure multiplayer notification settings"
+msgstr "配置游戏的各项设置"
+
+#. [button]: id=mp_wesnothd
+msgid "Server Executable"
+msgstr ""
+
+#. [button]: id=mp_wesnothd
+msgid "Find and set path to MP server to host LAN games"
+msgstr "查找并设置多人游戏服务器的路径以便建立局域网游戏"
+
+#. [button]: id=add_friend
+msgid ""
+"Add this username to your friends list (add optional notes, e.g., "
+"'player_name notes on friend')"
+msgstr ""
+"将此用户名加入您的好友列表中（可添加可选的备注，如：“[玩家名称] 好友备注”）"
+
+#. [button]: id=add_ignored
+#, fuzzy
+msgid ""
+"Add this username to your ignore list (add optional reason, e.g., "
+"'player_name reason ignored')"
+msgstr ""
+"将此用户名加入您的忽略列表中（可添加可选的备注，如：“[玩家名称] 忽略原因”）"
+
+#. [button]: id=remove
+msgid "Remove this username from your list"
+msgstr "把这个用户名从列表中移除"
+
+#. [label]: id=no_friends_notice
+msgid "You have not befriended or ignored any other players."
+msgstr ""
 
 #. [button]: id=open
 msgid "filesystem^Open"
@@ -2564,6 +3835,56 @@ msgstr "屏幕截图中..."
 #. [button]: id=browse_dir
 msgid "Browse the screenshots folder using a file manager"
 msgstr "使用文件管理器浏览屏幕截图文件夹"
+
+#. [label]
+msgid "Choose Orb/Minimap Colors"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Show unmoved orb"
+msgstr "显示敌方移动范围"
+
+#. [grid]
+msgid "Show partial moved orb"
+msgstr ""
+
+#. [grid]
+#, fuzzy
+msgid "Show moved orb"
+msgstr "显示团队颜色"
+
+#. [grid]
+#, fuzzy
+msgid "Show ally orb"
+msgstr "显示所有玩家进入游戏大厅的信息"
+
+#. [grid]
+#, fuzzy
+msgid "Show enemy orb"
+msgstr "显示敌方移动范围"
+
+#. [label]
+#, fuzzy
+msgid "Configure Options"
+msgstr "配置："
+
+#. [label]
+msgid "Configure settings for the selected custom modifications."
+msgstr ""
+
+#. [label]: id=lblTitle
+msgid "Waiting..."
+msgstr ""
+
+#. [label]: id=lblMessage
+msgid "Waiting for remote input"
+msgstr ""
+
+#. [button]: id=btn_quit_game
+#, fuzzy
+msgid "Quit game"
+msgstr "退出游戏"
 
 #. [label]
 msgid "Choose Theme"
@@ -2594,8 +3915,10 @@ msgstr "开始游戏教程以熟悉游戏"
 msgid "Tutorial"
 msgstr "教程"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
-msgid "Campaign"
+#, fuzzy
+msgid "Campaigns"
 msgstr "战役"
 
 #. [grid]
@@ -2625,6 +3948,16 @@ msgid "Download usermade campaigns, eras, or map packs"
 msgstr "下载玩家制作的战役、时代或者地图包"
 
 #. [grid]
+#, fuzzy
+msgid "Cores"
+msgstr "森林"
+
+#. [grid]
+#, fuzzy
+msgid "Select the game core data"
+msgstr "选中的游戏"
+
+#. [grid]
 msgid "Map Editor"
 msgstr "地图编辑器"
 
@@ -2652,34 +3985,98 @@ msgstr "查看制作者名单"
 msgid "Quit the game"
 msgstr "退出游戏"
 
+#. [button]: id=about
+msgid "Display the game version and build information"
+msgstr ""
+
+#. [label]
+#, fuzzy
+msgid "Advance Unit"
+msgstr "更改单位ID"
+
+#. [label]
+msgid "What should our victorious unit become?"
+msgstr ""
+
+#. [button]: id=damage_calculation
+msgid "Damage Calculation"
+msgstr ""
+
 #. [button]: id=ok
 msgid "Attack"
 msgstr "攻击"
 
 #. [label]
-msgid "Attack enemy"
+#, fuzzy
+msgid "Attack Enemy"
 msgstr "攻击敌人"
+
+#. [label]
+#, fuzzy
+msgid "Choose weapon:"
+msgstr "选择分辨率"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Create Unit (Debug!)"
 msgstr "创建单位（调试！）"
 
-#. [label]
-msgid "Gender:"
-msgstr "性别："
-
-#. [toggle_button]: id=male_toggle
-msgid "Male"
-msgstr "男"
-
-#. [toggle_button]: id=female_toggle
-msgid "Female"
-msgstr "女"
-
-#. [label]: id=race
+#. [toggle_button]: id=sort_0
 msgid "Race"
 msgstr "种族"
+
+#. [toggle_button]: id=sort_2
+msgid "Moves"
+msgstr ""
+
+#. [toggle_button]: id=sort_3
+msgid "HP"
+msgstr ""
+
+#. [toggle_button]: id=sort_4
+#. [toggle_button]: id=sort_2
+msgid "Lvl"
+msgstr ""
+
+#. [toggle_button]: id=sort_5
+#. [toggle_button]: id=sort_3
+msgid "XP"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [toggle_button]: id=sort_6
+#. [toggle_button]: id=sort_4
+msgid "Traits"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+msgid "Unit List"
+msgstr "单位列表"
+
+#. [label]: id=title
+#, fuzzy
+msgid "Recall Unit"
+msgstr "单位重命名"
+
+#. [button]: id=dismiss
+msgid "Dismiss"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+msgid "Recall"
+msgstr "召回"
+
+#. [label]
+#, fuzzy
+msgid "Recruit Unit"
+msgstr "征募"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+msgid "Recruit"
+msgstr "征募"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -2691,21 +4088,59 @@ msgstr "错误"
 msgid "Details:"
 msgstr "详细："
 
-#. [button]: id=copy
-msgid "Copy this report to clipboard"
-msgstr "将报告复制到剪贴板"
+msgid "feature^Experimental OpenMP support"
+msgstr ""
 
-msgid "File: "
-msgstr "文件："
+msgid "feature^PNG screenshots"
+msgstr ""
 
-msgid "Delete File"
-msgstr "删除文件"
+msgid "feature^Lua console completion"
+msgstr ""
 
-msgid "Deletion of the file failed."
-msgstr "删除文件失败。"
+msgid "feature^Legacy bidirectional rendering"
+msgstr ""
 
-msgid "Creation of the directory failed."
-msgstr "建立目录失败。"
+msgid "feature^D-Bus notifications back end"
+msgstr ""
+
+msgid "feature^Win32 notifications back end"
+msgstr ""
+
+msgid "feature^Cocoa notifications back end"
+msgstr ""
+
+msgid "feature^Growl notifications back end"
+msgstr ""
+
+msgid "filesystem_path_system^Volumes"
+msgstr ""
+
+msgid "filesystem_path_game^Game executables"
+msgstr ""
+
+msgid "filesystem_path_game^Game data"
+msgstr ""
+
+msgid "filesystem_path_game^User data"
+msgstr ""
+
+msgid "filesystem_path_game^User preferences"
+msgstr ""
+
+msgid "filesystem_path_system^Home"
+msgstr ""
+
+msgid "filesystem_path_system^Root"
+msgstr ""
+
+msgid "operating_system^<unknown>"
+msgstr ""
+
+msgid "The maximum text width is less than 1."
+msgstr "最大文字宽度小于1。"
+
+msgid "The text contains invalid markup: "
+msgstr "此文本中有非法的标记："
 
 msgid "No server has been defined."
 msgstr "服务器未定义。"
@@ -2713,396 +4148,13 @@ msgstr "服务器未定义。"
 msgid "player"
 msgstr "玩家"
 
-msgid "%H:%M"
+#, fuzzy
+msgid "[%H:%M]"
 msgstr "%H:%M"
 
-msgid "%I:%M %p"
+#, fuzzy
+msgid "[%I:%M %p]"
 msgstr "%I:%M %p"
-
-msgid "Full screen"
-msgstr "全屏"
-
-msgid "Accelerated speed"
-msgstr "加速"
-
-msgid "Skip AI moves"
-msgstr "略过AI的移动"
-
-msgid "Interrupt move when an ally is sighted"
-msgstr "发现友军时中断移动"
-
-msgid "Show grid"
-msgstr "显示网格"
-
-msgid "Save replays at the end of scenarios"
-msgstr "在场景结束时保存录像"
-
-msgid "Delete auto-saves at the end of scenarios"
-msgstr "在场景结束时删除自动存档"
-
-msgid "Do not show lobby joins"
-msgstr "不显示玩家进入游戏大厅的信息"
-
-msgid "Show lobby joins of friends only"
-msgstr "只显示好友进入游戏大厅的信息"
-
-msgid "Show all lobby joins"
-msgstr "显示所有玩家进入游戏大厅的信息"
-
-msgid "Sort lobby list"
-msgstr "对玩家列表排序"
-
-msgid "Iconize lobby list"
-msgstr "以图标形式显示玩家列表"
-
-msgid "Save password to preferences (plain text)"
-msgstr "保存首选项的密码（明文）"
-
-msgid "Set Path to wesnothd"
-msgstr "设置wesnothd所在路径"
-
-msgid "Friends List"
-msgstr "好友列表"
-
-msgid "Multiplayer Options"
-msgstr "多人游戏选项"
-
-msgid "Add As Friend"
-msgstr "加入好友列表"
-
-msgid "Add As Ignore"
-msgstr "加入忽略列表"
-
-msgid "Show floating labels"
-msgstr "显示浮动标签"
-
-msgid "Turn dialog"
-msgstr "回合对话框"
-
-msgid "Enable planning mode on start"
-msgstr "开始时便启用计划模式"
-
-msgid "Hide allies’ plans by default"
-msgstr "默认隐藏盟友的计划"
-
-msgid "Turn bell"
-msgstr "回合提示音"
-
-msgid "Show team colors"
-msgstr "显示团队颜色"
-
-msgid "Show haloing effects"
-msgstr "开启光晕效果"
-
-msgid "Change Resolution"
-msgstr "改变分辨率"
-
-msgid "Theme"
-msgstr "主题"
-
-msgid "Hotkeys"
-msgstr "快捷键"
-
-msgid "Paths"
-msgstr "路径"
-
-msgid "Sound effects"
-msgstr "音效"
-
-msgid "Music"
-msgstr "音乐"
-
-msgid "Chat timestamping"
-msgstr "开启聊天时间戳"
-
-msgid "sound^Advanced Options"
-msgstr "高级选项"
-
-msgid "sound^Standard Options"
-msgstr "标准选项"
-
-msgid "User interface sounds"
-msgstr "用户界面声效"
-
-msgid "Custom"
-msgstr "自定义"
-
-msgid "Apply"
-msgstr "应用"
-
-msgid "Show unit idle animations"
-msgstr "显示单位空闲动画"
-
-msgid "Show unit standing animations"
-msgstr "显示单位站立动画"
-
-msgid "Animate map"
-msgstr "开启地图动画"
-
-msgid "Volume:"
-msgstr "音量："
-
-msgid "Scroll speed:"
-msgstr "滚屏速度："
-
-msgid "Sample rate (Hz):"
-msgstr "采样频率（Hz）："
-
-msgid "Frequency:"
-msgstr "频率："
-
-msgid "Sound effects on/off"
-msgstr "开/关音效"
-
-msgid "Change the sound effects volume"
-msgstr "调整音效的音量大小"
-
-msgid "Music on/off"
-msgstr "开/关音乐"
-
-msgid "Change the music volume"
-msgstr "调整音乐的音量大小"
-
-msgid "Change the bell volume"
-msgstr "调整提示音的音量大小"
-
-msgid "Turn menu and button sounds on/off"
-msgstr "开/关菜单和按钮音效"
-
-msgid "Change the sound volume for button clicks, etc."
-msgstr "调整点击按钮等操作时的音量大小。"
-
-msgid "Change the sample rate"
-msgstr "调整采样频率"
-
-msgid "User defined sample rate"
-msgstr "用户自定义采样频率"
-
-msgid "Change the buffer size"
-msgstr "调整缓冲区大小"
-
-msgid "Buffer size: "
-msgstr "缓冲区大小："
-
-msgid "Change the speed of scrolling around the map"
-msgstr "调整卷屏速度"
-
-msgid "Set the amount of chat lines shown"
-msgstr "设置在屏幕上显示的聊天记录的行数"
-
-msgid "Add a timestamp to chat messages"
-msgstr "在聊天消息上加上时间戳"
-
-msgid "Choose whether the game should run full screen or in a window"
-msgstr "选择游戏是以全屏模式还是窗口模式运行"
-
-msgid "Make units move and fight faster"
-msgstr "加快单位的移动和攻击速度"
-
-msgid "Units move and fight speed"
-msgstr "单位的移动和攻击速度"
-
-msgid "Play short random animations for idle units"
-msgstr "在空闲单位上显示随机而短小的待机动画"
-
-msgid "Continuously animate standing units in the battlefield"
-msgstr "让战场上的待命单位持续地做小动作"
-
-msgid "Display animated terrain graphics"
-msgstr "显示地形动画效果"
-
-msgid "Set the frequency of unit idle animations"
-msgstr "设置单位空闲动画显示频率"
-
-msgid "Set maximum number of automatic saves to be retained"
-msgstr "设置自动存档的最大保留数量"
-
-msgid "Do not animate AI units moving"
-msgstr "不显示AI单位的移动动画"
-
-msgid "Sighting an allied unit interrupts your unit’s movement"
-msgstr "当看到友军单位时中断您的单位的移动"
-
-msgid ""
-"Saves replays of games on victory in all modes and defeat in multiplayer"
-msgstr "在所有模式胜利和多人游戏被击败时，储存回放录像"
-
-msgid ""
-"Deletes previous auto-saves on victory in all modes and defeat in multiplayer"
-msgstr "当单人/多人游戏胜利或者多人游戏被击败时，删除自动存档"
-
-msgid "Overlay a grid onto the map"
-msgstr "在地图上显示六角网格"
-
-msgid "Sort the player list in the lobby by player groups"
-msgstr "根据玩家分组对游戏大厅中的玩家列表进行排序"
-
-msgid "Show icons in front of the player names in the lobby"
-msgstr "在游戏大厅中玩家的名字前显示图标"
-
-msgid "Uncheck to delete the saved password (on exit)"
-msgstr "取消勾选，以删除以前保存的密码（在退出时）"
-
-msgid "Do not show messages about players joining the multiplayer lobby"
-msgstr "不显示玩家进入多人游戏大厅的信息"
-
-msgid "Show messages about your friends joining the multiplayer lobby"
-msgstr "显示好友进入多人游戏大厅的信息"
-
-msgid "Show messages about all players joining the multiplayer lobby"
-msgstr "显示所有玩家进入多人游戏大厅的信息"
-
-msgid "Find and set path to MP server to host LAN games"
-msgstr "查找并设置多人游戏服务器的路径以便建立局域网游戏"
-
-msgid "View and edit your friends and ignores list"
-msgstr "查看并编辑好友和忽略列表"
-
-msgid "Back to the multiplayer options"
-msgstr "回到多人游戏选项"
-
-msgid ""
-"Add this username to your friends list (add optional notes, e.g., "
-"'player_name notes on friend')"
-msgstr ""
-"将此用户名加入您的好友列表中（可添加可选的备注，如：“[玩家名称] 好友备注”）"
-
-msgid ""
-"Add this username to your ignores list (add optional reason, e.g., "
-"'player_name reason ignored')"
-msgstr ""
-"将此用户名加入您的忽略列表中（可添加可选的备注，如：“[玩家名称] 忽略原因”）"
-
-msgid "Remove this username from your list"
-msgstr "把这个用户名从列表中移除"
-
-msgid "Insert a username"
-msgstr "插入一个用户名"
-
-msgid "Show text above a unit when it is hit to display damage inflicted"
-msgstr "在单位受到攻击时，在其上显示所受到的伤害值"
-
-msgid "Change the resolution the game runs at"
-msgstr "改变游戏运行分辨率"
-
-msgid "Change the theme the game runs with"
-msgstr "改变游戏界面主题"
-
-msgid "Display a dialog at the beginning of your turn"
-msgstr "在您的回合开始时显示提示对话框"
-
-msgid "Activates Planning Mode on game start"
-msgstr "当游戏开始时，激活计划模式"
-
-msgid "Hides allies’ Planning Mode plans in multiplayer games"
-msgstr "在多人游戏中，隐藏盟友在计划模式下所制定的计划"
-
-msgid "Play a bell sound at the beginning of your turn"
-msgstr "在您的回合开始时播放提示音"
-
-msgid ""
-"Show a colored circle around the base of each unit to show which side it is "
-"on"
-msgstr "在单位脚底周围显示彩色圆环以表示其所属阵营"
-
-msgid "Use graphical special effects (may be slower)"
-msgstr "使用图形特效（可能会使游戏变慢）"
-
-msgid "View and configure keyboard shortcuts"
-msgstr "查看并设置快捷键"
-
-msgid "View game file paths"
-msgstr "查看游戏文件路径"
-
-msgid "Speed: "
-msgstr "速度："
-
-msgid "Maximum auto-saves: "
-msgstr "最大自动存档数："
-
-msgid "infinite"
-msgstr "无限"
-
-msgid "Chat lines: "
-msgstr "聊天记录行数："
-
-msgid "Invalid username"
-msgstr "用户名无效"
-
-msgid "yes"
-msgstr "是"
-
-msgid "no"
-msgstr "否"
-
-msgid "friend"
-msgstr "好友"
-
-msgid "ignored"
-msgstr "被忽略"
-
-msgid "(empty list)"
-msgstr "（空列表）"
-
-msgid "Prefs section^General"
-msgstr "常规"
-
-msgid "Prefs section^Display"
-msgstr "图像"
-
-msgid "Prefs section^Sound"
-msgstr "声音"
-
-msgid "Prefs section^Multiplayer"
-msgstr "多人游戏"
-
-msgid "Advanced section^Advanced"
-msgstr "高级"
-
-msgid "No known themes. Try changing from within an existing game."
-msgstr "当前无已知主题。请尝试在游戏时切换主题。"
-
-msgid "Find $filename server binary to host networked games"
-msgstr "查找$filename服务器可执行文件以便建立联网游戏"
-
-msgid "Map Generator"
-msgstr "地图生成器"
-
-msgid "Players:"
-msgstr "玩家数量："
-
-msgid "Number of hills:"
-msgstr "丘陵的数量："
-
-msgid "Max hill size:"
-msgstr "丘陵最大面积："
-
-msgid "Villages:"
-msgstr "村庄："
-
-msgid "Castle size:"
-msgstr "城堡面积："
-
-msgid "Landform:"
-msgstr "地形："
-
-msgid "Roads between castles"
-msgstr "城堡之间的道路数"
-
-msgid "Show labels"
-msgstr "显示标签"
-
-msgid "/1000 tiles"
-msgstr "/1000个区块"
-
-msgid "Coastal"
-msgstr "滨海"
-
-msgid "Inland"
-msgstr "内陆"
-
-msgid "Island"
-msgstr "岛屿"
 
 msgid "Line doesn't fit on canvas."
 msgstr "线条无法在画布上显示。"
@@ -3125,11 +4177,11 @@ msgstr "文字没有从画布上开始。"
 msgid "No resolution defined."
 msgstr "分辨率未定义。"
 
-msgid "No grid defined."
-msgstr "网格未定义。"
-
 msgid "Linked '$id' group has multiple definitions."
 msgstr "连接的“$id”组有重复定义。"
+
+msgid "No grid defined."
+msgstr "网格未定义。"
 
 msgid "Linked '$id' group needs a 'fixed_width' or 'fixed_height' key."
 msgstr "连接的“$id”组需要“fixed_width”或“fixed_height”主键。"
@@ -3139,41 +4191,6 @@ msgstr "每行至少要有一列。"
 
 msgid "Number of columns differ."
 msgstr "列数不一致。"
-
-msgid "Found a widget with a helptip and without a tooltip."
-msgstr "在画面组件上显示或者不显示小提示。"
-
-msgid "No list defined."
-msgstr "列表未定义。"
-
-msgid "A 'list_definition' should contain one row."
-msgstr "每个“list_definition”（列表定义）应该至少有一行。"
-
-msgid ""
-"'list_data' must have the same number of columns as the 'list_definition'."
-msgstr ""
-"“list_data”（列表数据）与“list_definition”（列表定义）中的列数必须一致。"
-
-msgid "No page defined."
-msgstr "页面未定义"
-
-msgid "Need at least 1 parallel item."
-msgstr "还需要至少一件并行的物品。"
-
-msgid "The number of value_labels and values don't match."
-msgstr "value_labels （值标签）与 values (值) 数量不匹配。"
-
-msgid "No stack defined."
-msgstr "堆栈未定义"
-
-msgid "No nodes defined for a tree view."
-msgstr "树状视图中没有定义节点。"
-
-msgid "[node]id 'root' is reserved for the implementation."
-msgstr "[节点]ID 'root'是保留给游戏实现专用的。"
-
-msgid "No node defined."
-msgstr "未定义任何节点。"
 
 msgid "addon_state^Not installed"
 msgstr "未安装"
@@ -3214,6 +4231,9 @@ msgstr "已发布，已损坏"
 msgid "addon_state^Unknown"
 msgstr "未知"
 
+msgid "Clipboard support not found, contact your packager"
+msgstr ""
+
 msgid "addons_view^Not Installed"
 msgstr "未安装"
 
@@ -3226,75 +4246,33 @@ msgstr "已安装"
 msgid "addons_view^All Add-ons"
 msgstr "全部附加组件"
 
-msgid "unit_byte^B"
-msgstr "B"
+#, fuzzy
+msgid "addon_state^Installed, upgradable"
+msgstr "已安装，已损坏"
 
-msgid "#(Invalid)"
-msgstr "#（无效）"
+#, fuzzy
+msgid "addon_state^Published, upgradable"
+msgstr "已发布，已损坏"
 
-msgid "Campaign: $campaign_name"
-msgstr "战役：$campaign_name"
+#, fuzzy
+msgid "addon_state^Installed, outdated on server"
+msgstr "已安装（$local_version），服务器上的版本已过期"
 
-msgid "Test scenario"
-msgstr "测试场景"
-
-msgid "Replay"
-msgstr "录像"
-
-msgid "Turn"
-msgstr "回合"
-
-msgid "Scenario start"
-msgstr "场景开始"
-
-msgid "Difficulty: "
-msgstr "难度："
-
-msgid "Version: "
-msgstr "版本："
-
-msgid "whisper to $receiver"
-msgstr "对$receiver说悄悄话"
-
-msgid "Games: showing $num_shown out of $num_total"
-msgstr "游戏：$num_shown个已显示，共有$num_total个"
-
-msgid "Observers allowed"
-msgstr "允许观察"
-
-msgid "Observers not allowed"
-msgstr "不允许观察"
+#, fuzzy
+msgid "addon_state^Published, outdated on server"
+msgstr "已发布，未安装"
 
 msgid ""
-"Whisper session with $name started. If you don’t want to receive messages "
-"from this user, type /ignore $name\n"
+"Era:\n"
+"\n"
+"Not allowed."
 msgstr ""
-"和 $name 的悄悄话开始。如果您不希望接收来自该用户的消息，请输入 /ignore "
-"$name\n"
 
-msgid "Room $name joined"
-msgstr "已加入$name房间"
-
-msgid "$player has entered the room"
-msgstr "$player进入了房间"
-
-msgid "$player has left the room"
-msgstr "$player离开了房间"
-
-msgid "Password Required"
-msgstr "需要输入密码"
-
-msgid "Joining this game requires a password."
-msgstr "加入这个游戏需要密码。"
-
-msgid "Password: "
-msgstr "密码："
-
-msgid "Side $side"
-msgstr "阵营 $side"
-
-msgid "Load Game..."
-msgstr "读取游戏..."
+msgid ""
+"Modifications:\n"
+"\n"
+"None found."
+msgstr ""
 
 msgid "$requester requires the following modifications to be enabled:"
 msgstr "$requester 需要启用以下模组："
@@ -3323,14 +4301,514 @@ msgstr ""
 "当前选定的模组与您的游戏配置不兼容。\n"
 "请选择一个兼容的模组。"
 
-msgid "Version "
+msgid "/1000 tiles"
+msgstr "/1000个区块"
+
+msgid "Coastal"
+msgstr "滨海"
+
+msgid "Inland"
+msgstr "内陆"
+
+msgid "Island"
+msgstr "岛屿"
+
+msgid "Find File"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+#, fuzzy
+msgid "Save"
+msgstr "保存地图"
+
+#, fuzzy
+msgid "The file already exists. Do you wish to overwrite it?"
+msgstr "存档已经存在。要覆盖吗？"
+
+msgid "The file or folder $path cannot be created."
+msgstr ""
+
+msgid "The file or folder $path does not exist."
+msgstr ""
+
+msgid ""
+"Could not create a new folder at $path|. Make sure you have the appropriate "
+"permissions to write to this location."
+msgstr ""
+
+msgid "The following folder and its contents will be permanently deleted:"
+msgstr ""
+
+msgid "The following file will be permanently deleted:"
+msgstr ""
+
+msgid "Do you wish to continue?"
+msgstr ""
+
+msgid ""
+"Could not delete $path|. Make sure you have the appropriate permissions to "
+"write to this location."
+msgstr ""
+
+msgid "New Bookmark"
+msgstr ""
+
+#, fuzzy
+msgid "dir_size^Unknown"
+msgstr "未知"
+
+msgid "unit_byte^B"
+msgstr "B"
+
+msgid "Cache Cleaned"
+msgstr ""
+
+msgid "The game data cache has been cleaned."
+msgstr ""
+
+msgid "The game data cache could not be completely cleaned."
+msgstr ""
+
+msgid "Cache Purged"
+msgstr ""
+
+msgid "The game data cache has been purged."
+msgstr ""
+
+msgid "The game data cache could not be purged."
+msgstr ""
+
+#, fuzzy
+msgid "(Invalid)"
+msgstr "#（无效）"
+
+msgid "Campaign: $campaign_name"
+msgstr "战役：$campaign_name"
+
+msgid "Test scenario"
+msgstr "测试场景"
+
+msgid "Replay"
+msgstr "录像"
+
+msgid "Turn"
+msgstr "回合"
+
+msgid "Scenario start"
+msgstr "场景开始"
+
+msgid "Difficulty: "
+msgstr "难度："
+
+msgid "Version: "
+msgstr "版本："
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "no"
+msgstr "否"
+
+msgid "yes"
+msgstr "是"
+
+#, fuzzy
+msgid "Version $version"
 msgstr "版本"
 
-msgid "Version"
+msgid "Running on $os"
+msgstr ""
+
+#, fuzzy
+msgid "version^N/A"
 msgstr "版本"
+
+#, fuzzy
+msgid "Team Labels"
+msgstr "设置团队标签"
+
+msgid "Side $side_number ($name)"
+msgstr ""
+
+msgid "Building terrain rules"
+msgstr ""
+
+msgid "Reading files and creating cache"
+msgstr ""
+
+msgid "Initializing display"
+msgstr ""
+
+msgid "Reinitialize fonts for the current language"
+msgstr ""
+
+msgid "Initializing teams"
+msgstr ""
+
+#, fuzzy
+msgid "Loading game configuration"
+msgstr "配置："
+
+#, fuzzy
+msgid "Loading data files"
+msgstr "盛开的睡莲"
+
+msgid "Loading level"
+msgstr ""
+
+msgid "Initializing scripting engine"
+msgstr ""
+
+#, fuzzy
+msgid "Initializing planning mode"
+msgstr "开始时便启用计划模式"
+
+msgid "Reading unit files"
+msgstr ""
+
+msgid "Loading units"
+msgstr ""
+
+msgid "Searching for installed add-ons"
+msgstr ""
+
+#, fuzzy
+msgid "Starting game"
+msgstr "随机初始时段"
+
+msgid "Verifying cache"
+msgstr ""
+
+#, fuzzy
+msgid "Connecting to server"
+msgstr "连接到服务器"
+
+msgid "Logging in"
+msgstr ""
+
+msgid "Waiting for server"
+msgstr ""
+
+#, fuzzy
+msgid "Connecting to redirected server"
+msgstr "连接到服务器"
+
+msgid "Waiting for next scenario"
+msgstr ""
+
+#, fuzzy
+msgid "Getting game data"
+msgstr "游戏日期："
+
+#, fuzzy
+msgid "Selected Game"
+msgstr "选中的游戏"
+
+#, fuzzy
+msgid "Other Games"
+msgstr "其它游戏"
+
+#, fuzzy
+msgid "Current Room"
+msgstr "当前房间"
+
+msgid "Lobby"
+msgstr "大厅"
+
+#, fuzzy
+msgid "Do you really want to log out?"
+msgstr "您真的想删除这个游戏吗？"
+
+msgid "Games: showing $num_shown out of $num_total"
+msgstr "游戏：$num_shown个已显示，共有$num_total个"
+
+msgid "Observers allowed"
+msgstr "允许观察"
+
+msgid "Observers not allowed"
+msgstr "不允许观察"
+
+msgid "Incompatible User-made Content."
+msgstr ""
+
+msgid ""
+"This game cannot be joined because the host has out-of-date add-ons that are "
+"incompatible with your version. You might wish to suggest that the host's "
+"add-ons be updated."
+msgstr ""
+
+msgid "Missing User-made Content."
+msgstr ""
+
+msgid ""
+"This game requires one or more user-made addons to be installed or updated "
+"in order to join.\n"
+"Do you want to try to install them?"
+msgstr ""
+
+msgid ""
+"Something is wrong with the addon version check database supporting the "
+"multiplayer lobby. Please report this at http://bugs.wesnoth.org."
+msgstr ""
+
+msgid ""
+"This build of wesnoth does not include support for desktop notifications, "
+"contact your package manager"
+msgstr ""
+
+msgid "Side $side"
+msgstr "阵营 $side"
+
+#, fuzzy
+msgid "Scenarios"
+msgstr "场景开始"
+
+#, fuzzy
+msgid "User Maps"
+msgstr "关闭地图"
+
+#, fuzzy
+msgid "User Scenarios"
+msgstr "新场景"
+
+#, fuzzy
+msgid "Random Maps"
+msgstr "生成随机地图"
+
+#, fuzzy
+msgid "SP Campaigns"
+msgstr "战役"
+
+msgid "No games found."
+msgstr ""
+
+msgid "No eras found."
+msgstr ""
+
+msgid "No eras found"
+msgstr ""
+
+msgid "Independent: Random factions assigned independently"
+msgstr ""
+
+msgid "No Mirror: No two players will get the same faction"
+msgstr ""
+
+msgid "No Ally Mirror: No two allied players will get the same faction"
+msgstr ""
+
+msgid "No eras available for this game."
+msgstr ""
+
+#, fuzzy
+msgid "No description available"
+msgstr "没有可用的描述。"
+
+msgid "Choose Starting Scenario"
+msgstr ""
+
+msgid "Select at which point to begin this campaign."
+msgstr ""
+
+#, fuzzy
+msgid "No era information found."
+msgstr "地图信息"
+
+#, fuzzy
+msgid "Computer Player"
+msgstr "选择玩家"
+
+#, fuzzy
+msgid "Empty slot"
+msgstr "（空列表）"
+
+msgid "Reserved for $playername"
+msgstr ""
+
+#, fuzzy
+msgid "Vacant slot"
+msgstr "空位个数"
+
+msgid "empty"
+msgstr ""
+
+#, fuzzy
+msgid "Team:"
+msgstr "第一团队"
+
+msgid "Response"
+msgstr ""
+
+msgid "Waiting for players to choose factions..."
+msgstr ""
+
+msgid "friend"
+msgstr "好友"
+
+msgid "ignored"
+msgstr "被忽略"
+
+msgid "No username specified"
+msgstr ""
+
+msgid "Invalid username"
+msgstr "用户名无效"
+
+#, fuzzy
+msgid "Not on friends or ignore lists"
+msgstr "查看并编辑好友和忽略列表"
+
+#, fuzzy
+msgid "Saved Games"
+msgstr "保存游戏"
+
+#, fuzzy
+msgid "Map Commands"
+msgstr "自定义命令"
+
+#, fuzzy
+msgid "Unit Commands"
+msgstr "自定义命令"
+
+#, fuzzy
+msgid "Player Chat"
+msgstr "玩家数量："
+
+#, fuzzy
+msgid "Replay Control"
+msgstr "更改控制方"
+
+#, fuzzy
+msgid "Planning Mode"
+msgstr "计划模式"
+
+#, fuzzy
+msgid "Scenario Editor"
+msgstr "场景开始"
+
+msgid "Editor Palettes"
+msgstr ""
+
+#, fuzzy
+msgid "Editor Tools"
+msgstr "单位工具"
+
+msgid "Editor Clipboard"
+msgstr ""
+
+#, fuzzy
+msgid "Debug Commands"
+msgstr "自定义命令"
+
+#, fuzzy
+msgid "Custom WML Commands"
+msgstr "自定义命令"
+
+msgid "&#9679;"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"“<b>$hotkey_sequence|</b>” is in use by “<b>$old_hotkey_action|</b>”.\n"
+"Do you wish to reassign it to “<b>$new_hotkey_action|</b>”?"
+msgstr ""
+"“$hotkey_sequence”目前已用于“$old_hotkey_action”。您希望将该快捷键序列重新设"
+"定为“$new_hotkey_action|”吗？"
+
+msgid "Reassign Hotkey"
+msgstr "重新指定快捷键"
+
+msgid "All hotkeys have been reset to their default values."
+msgstr "所有的快捷键都被重置为默认值。"
+
+msgid "Hotkeys Reset"
+msgstr "重置快捷键"
+
+msgid "∞"
+msgstr ""
+
+#, fuzzy
+msgid "file_size^Unknown"
+msgstr "未知"
+
+msgid "Damage Calculations"
+msgstr ""
+
+msgid "This unit is loyal and requires no upkeep."
+msgstr ""
+
+#, fuzzy
+msgid "Do you really want to dismiss him?"
+msgstr "您真的想删除这个游戏吗？"
+
+#, fuzzy
+msgid "Do you really want to dismiss her?"
+msgstr "您真的想删除这个游戏吗？"
+
+msgid "This unit is an experienced one, having advanced levels."
+msgstr ""
+
+msgid "This unit is close to advancing a level."
+msgstr ""
+
+msgid "Dismiss Unit"
+msgstr ""
+
+msgid "whisper to $receiver"
+msgstr "对$receiver说悄悄话"
+
+#, fuzzy
+msgid ""
+"Whisper session with <i>“$name”</i> started. If you do not want to receive "
+"messages from this user, type <i>/ignore $name</i>\n"
+msgstr ""
+"和 $name 的悄悄话开始。如果您不希望接收来自该用户的消息，请输入 /ignore "
+"$name\n"
+
+#, fuzzy
+msgid "Room <i>“$name”</i> joined"
+msgstr "已加入$name房间"
+
+msgid "$player has entered the room"
+msgstr "$player进入了房间"
+
+msgid "$player has left the room"
+msgstr "$player离开了房间"
+
+msgid "Found a widget with a helptip and without a tooltip."
+msgstr "在画面组件上显示或者不显示小提示。"
 
 msgid "Mandatory widget '$id' hasn't been defined."
 msgstr "必须的构件“$id”未定义。"
+
+msgid "Opening links is not supported, contact your packager"
+msgstr ""
+
+#, fuzzy
+msgid "Do you want to open this link?"
+msgstr "您真的想删除这个游戏吗？"
+
+msgid "Copied link!"
+msgstr ""
+
+msgid ""
+"'list_data' must have the same number of columns as the 'list_definition'."
+msgstr ""
+"“list_data”（列表数据）与“list_definition”（列表定义）中的列数必须一致。"
+
+msgid "No list defined."
+msgstr "列表未定义。"
+
+msgid "A 'list_definition' should contain one row."
+msgstr "每个“list_definition”（列表定义）应该至少有一行。"
+
+msgid "No page defined."
+msgstr "页面未定义"
+
+msgid "Need at least 1 parallel item."
+msgstr "还需要至少一件并行的物品。"
 
 msgid ""
 "Widget definition '$definition' doesn't contain the definition for '$id'."
@@ -3342,14 +4820,67 @@ msgstr "默认图形界面未定义。"
 msgid "No state or draw section defined."
 msgstr "状态或绘制区域未定义。"
 
+msgid "The number of value_labels and values don't match."
+msgstr "value_labels （值标签）与 values (值) 数量不匹配。"
+
+#, fuzzy
+msgid "No stack layers defined."
+msgstr "堆栈未定义"
+
+msgid "No nodes defined for a tree view."
+msgstr "树状视图中没有定义节点。"
+
+msgid "[node]id 'root' is reserved for the implementation."
+msgstr "[节点]ID 'root'是保留给游戏实现专用的。"
+
+msgid "No node defined."
+msgstr "未定义任何节点。"
+
 msgid "Unknown builder id for tree view node."
 msgstr "树状视图节点的构造器的ID未知。"
+
+#, fuzzy
+msgid "Attacks"
+msgstr "攻击"
+
+msgid "Weapon special: "
+msgstr ""
+
+msgid "Lvl $lvl"
+msgstr ""
+
+msgid "HP: "
+msgstr ""
+
+msgid "XP: "
+msgstr ""
+
+msgid "MP: "
+msgstr ""
+
+msgid "Abilities"
+msgstr ""
 
 msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
 msgstr "单击“解散”需要一个“click_dismiss”或“ok”按钮。"
 
 msgid "Failed to show a dialog, which doesn't fit on the screen."
 msgstr "无法显示对话框，屏幕大小不够。"
+
+#, fuzzy
+msgid "Scroll Up"
+msgstr "滚屏速度："
+
+msgid "Scroll Down"
+msgstr ""
+
+#, fuzzy
+msgid "Scroll Left"
+msgstr "左卷调色板"
+
+#, fuzzy
+msgid "Scroll Right"
+msgstr "右卷调色板"
 
 msgid "cancel"
 msgstr "取消"
@@ -3380,9 +4911,6 @@ msgstr "保持位置"
 
 msgid "End Unit Turn"
 msgstr "结束单位的回合"
-
-msgid "Leader"
-msgstr "领袖"
 
 msgid "Undo"
 msgstr "撤销"
@@ -3429,14 +4957,12 @@ msgstr "保存录像"
 msgid "Save Map"
 msgstr "保存地图"
 
-msgid "Recruit"
-msgstr "征募"
-
 msgid "Repeat Recruit"
 msgstr "重复征募"
 
-msgid "Recall"
-msgstr "召回"
+#, fuzzy
+msgid "Show/Hide Labels"
+msgstr "显示标签"
 
 msgid "End Turn"
 msgstr "结束回合"
@@ -3469,9 +4995,6 @@ msgstr "杀死单位（调试！）"
 msgid "Scenario Objectives"
 msgstr "场景任务目标"
 
-msgid "Unit List"
-msgstr "单位列表"
-
 msgid "Statistics"
 msgstr "统计"
 
@@ -3481,8 +5004,8 @@ msgstr "暂停联网游戏"
 msgid "Continue Network Game"
 msgstr "继续联网游戏"
 
-msgid "Quit Editor"
-msgstr "退出编辑器"
+msgid "Quit to Titlescreen"
+msgstr ""
 
 msgid "Set Team Label"
 msgstr "设置团队标签"
@@ -3514,17 +5037,26 @@ msgstr "下一回合"
 msgid "Next Side"
 msgstr "下一阵营"
 
+#, fuzzy
+msgid "Next Move"
+msgstr "下一页"
+
 msgid "Full Map"
 msgstr "全地图"
 
 msgid "Each Team"
 msgstr "每一团队"
 
-msgid "Team 1"
-msgstr "第一团队"
+#, fuzzy
+msgid "Human Team"
+msgstr "人类城堡"
 
 msgid "Skip Animation"
 msgstr "略过动画"
+
+#, fuzzy
+msgid "End Replay"
+msgstr "录像"
 
 #. TRANSLATORS: whiteboard menu entry: toggle planning mode
 msgid "whiteboard^Planning Mode"
@@ -3569,8 +5101,8 @@ msgstr "切换地图"
 msgid "Assign Local Time"
 msgstr "指派本地时间"
 
-msgid "Custom Time of Day Creator"
-msgstr "自定义时段创建器"
+msgid "Time Schedule Editor"
+msgstr ""
 
 msgid "Partial Undo"
 msgstr "部分撤销"
@@ -3610,6 +5142,10 @@ msgstr "左卷调色板"
 
 msgid "Scroll Palette Right"
 msgstr "右卷调色板"
+
+#, fuzzy
+msgid "Remove Location"
+msgstr "移除附加组件"
 
 msgid "Add New Side"
 msgstr "添加新阵营"
@@ -3807,9 +5343,6 @@ msgstr "在选定区域内随机区块"
 msgid "Rotate Map"
 msgstr "旋转地图"
 
-msgid "Generate Map"
-msgstr "生成地图"
-
 msgid "Apply a Mask"
 msgstr "应用遮罩"
 
@@ -3842,6 +5375,10 @@ msgstr "绘制六角格坐标"
 
 msgid "Draw Terrain Codes"
 msgstr "绘制地形编码"
+
+#, fuzzy
+msgid "Draw Number of Bitmaps"
+msgstr "回合数："
 
 msgid "Save Selection to Area"
 msgstr "将选区保存到区域"
@@ -3922,6 +5459,10 @@ msgstr "开始多人游戏"
 msgid "Manage Add-ons"
 msgstr "管理附加组件"
 
+#, fuzzy
+msgid "Manage Cores"
+msgstr "管理附加组件"
+
 msgid "Start Editor"
 msgstr "启动编辑器"
 
@@ -3931,105 +5472,14 @@ msgstr "显示制作者名单"
 msgid "Show Helptip"
 msgstr "显示帮助提示"
 
+msgid "Show Lua Console"
+msgstr ""
+
 msgid "Unrecognized Command"
 msgstr "未识别指令"
 
-msgid "Button"
-msgstr "按键"
-
-msgid "Mouse"
-msgstr "鼠标"
-
-msgid "Joystick"
-msgstr "摇杆"
-
-msgid "Centered"
-msgstr "中"
-
-msgid "Up"
-msgstr "上"
-
-msgid "Right"
-msgstr "右"
-
-msgid "Down"
-msgstr "下"
-
-msgid "Left"
-msgstr "左"
-
-msgid "RightUp"
-msgstr "右上"
-
-msgid "RightDown"
-msgstr "右下"
-
-msgid "LeftUp"
-msgstr "左上"
-
-msgid "LeftDown"
-msgstr "左下"
-
-msgid "Unknown"
-msgstr "未知"
-
-msgid "Hat"
-msgstr "帽子"
-
-msgid "Add a new binding to \"$hotkey_description|\""
-msgstr "向“$hotkey_description”添加一个新绑定"
-
-msgid "Clears the current bindings for \"$hotkey_description|\""
-msgstr "清除“$hotkey_description”的当前绑定"
-
-msgid "Hotkeys Reset"
-msgstr "重置快捷键"
-
-msgid "All hotkeys have been reset to their default values."
-msgstr "所有的快捷键都被重置为默认值。"
-
-msgid "Hotkey Settings"
-msgstr "快捷键设置"
-
-msgid "Defaults"
-msgstr "默认"
-
-msgid "Reset all bindings to the default values"
-msgstr "将所有的捆绑重置为默认值"
-
-msgid "Prefs section^Title Screen"
-msgstr "主选单"
-
-msgid "Prefs section^Game"
-msgstr "游戏"
-
-msgid "Prefs section^Editor"
-msgstr "编辑器"
-
-msgid "Add Hotkey"
-msgstr "增加快捷键"
-
-msgid "Clear Hotkey"
-msgstr "清除快捷键"
-
-msgid "Action"
-msgstr "动作"
-
-msgid "Binding"
-msgstr "快捷键"
-
 msgid "Press desired hotkey (Esc cancels)"
 msgstr "请按下您所期望的快捷键（按ESC取消）"
-
-msgid ""
-"\"$hotkey_sequence|\" is in use by \"$old_hotkey_action|\". Do you wish to "
-"reassign it to \"$new_hotkey_action|\"?"
-msgstr ""
-"“$hotkey_sequence”目前已用于“$old_hotkey_action”。您希望将该快捷键序列重新设"
-"定为“$new_hotkey_action|”吗？"
-
-msgid "Reassign Hotkey"
-msgstr "重新指定快捷键"
 
 #. TRANSLATORS: This is the language code which will be used
 #. to store and fetch localized non-textual resources, such as images,
@@ -4044,30 +5494,22 @@ msgstr "重新指定快捷键"
 msgid "language code for localized resources^en_US"
 msgstr "zh_CN"
 
-msgid "The maximum text width is less than 1."
-msgstr "最大文字宽度小于1。"
+msgid "No known themes. Try changing from within an existing game."
+msgstr "当前无已知主题。请尝试在游戏时切换主题。"
 
 msgid ""
-"The video mode could not be changed. Your window manager must be set to 16 "
-"bits per pixel to run the game in windowed mode. Your display must support "
-"1024x768x16 to run the game full screen."
+"The <b>$filename</b> server application provides multiplayer server "
+"functionality and is required for hosting local network games. It will "
+"normally be found in the same folder as the game executable."
 msgstr ""
-"无法改变视频模式。以窗口模式运行游戏需要将窗口管理器设为16位色，全屏模式需要"
-"您的显示设备支持1024x768分辨率和16位色。"
 
-msgid "There are no alternative video modes available"
-msgstr "没有其他可用的显示模式"
-
-msgid "Choose Resolution"
-msgstr "选择分辨率"
+msgid "Find Server Application"
+msgstr ""
 
 msgid ""
 "A terrain with a string with more than 4 characters has been found, the "
 "affected terrain is :"
 msgstr "找到一个具有超过4个字符的字符串的地形，受影响的地形是："
-
-msgid "The text contains invalid markup: "
-msgstr "此文本中有非法的标记："
 
 msgid ""
 "An error due to possibly invalid WML occurred\n"

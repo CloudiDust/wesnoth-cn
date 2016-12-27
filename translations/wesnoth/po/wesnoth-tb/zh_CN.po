@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-05-17 20:24-0400\n"
+"POT-Creation-Date: 2016-11-05 23:23 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team <http://code.google.com/p/"
@@ -28,7 +28,8 @@ msgid "AToTB"
 msgstr "AToTB"
 
 #. [campaign]: id=Two_Brothers
-msgid "(Beginner)"
+#, fuzzy
+msgid "Beginner"
 msgstr "（新手）"
 
 #. [campaign]: id=Two_Brothers
@@ -36,7 +37,8 @@ msgid "Horseman"
 msgstr "骑手"
 
 #. [campaign]: id=Two_Brothers
-msgid "(Challenging)"
+#, fuzzy
+msgid "Challenging"
 msgstr "（挑战）"
 
 #. [campaign]: id=Two_Brothers
@@ -173,6 +175,58 @@ msgstr ""
 "留意到护身符上的呼唤后，Arvith召集了所有他能召集的人，并立即赶往Maghre去帮助"
 "Baran。"
 
+#. [side]
+#. [side]: type=Longbowman, id=Reeve Hoban
+msgid "Humans"
+msgstr "人类"
+
+#. [side]: type=Orcish Warlord, id=Tairach
+#. [side]: type=Dark Sorcerer, id=Mordak
+#. [side]: type=Dark Sorcerer, id=Rotharik
+#. [side]
+msgid "Enemies"
+msgstr "敌人"
+
+#. [side]: type=Dark Sorcerer, id=Mordak
+msgid "Mordak"
+msgstr "Mordak"
+
+#. [event]
+msgid "Alwyn"
+msgstr "Alwyn"
+
+#. [event]
+msgid "Brent"
+msgstr "Brent"
+
+#. [event]
+msgid "Cadell"
+msgstr "Cadell"
+
+#. [event]
+msgid "Dannen"
+msgstr "Dannen"
+
+#. [event]
+msgid "Efran"
+msgstr "Efran"
+
+#. [event]
+msgid "Faren"
+msgstr "Faren"
+
+#. [event]
+msgid "Tarek"
+msgstr "Tarek"
+
+#. [event]
+msgid "Hann"
+msgstr "Hann"
+
+#. [event]
+msgid "Magrid"
+msgstr "Magrid"
+
 #. [objective]: condition=win
 msgid "Slay Mordak, the evil mage"
 msgstr "消灭邪恶的法师Mordak"
@@ -180,66 +234,6 @@ msgstr "消灭邪恶的法师Mordak"
 #. [objective]: condition=lose
 msgid "Death of Arvith"
 msgstr "Arvith战死"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Arvith"
-msgstr "Arvith"
-
-#. [unit]: id=Baran, type=Red Mage
-msgid "Baran"
-msgstr "Baran"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Alwyn"
-msgstr "Alwyn"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Brent"
-msgstr "Brent"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Cadell"
-msgstr "Cadell"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Dannen"
-msgstr "Dannen"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Efran"
-msgstr "Efran"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Faren"
-msgstr "Faren"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Tarek"
-msgstr "Tarek"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Hann"
-msgstr "Hann"
-
-#. [side]: type=Knight, id=Arvith
-msgid "Magrid"
-msgstr "Magrid"
-
-#. [side]: type=Knight, id=Arvith
-#. [side]: type=Longbowman, id=Reeve Hoban
-msgid "Humans"
-msgstr "人类"
-
-#. [side]: type=Dark Sorcerer, id=Mordak
-msgid "Mordak"
-msgstr "Mordak"
-
-#. [side]
-#. [side]: type=Dark Sorcerer, id=Mordak
-#. [side]: type=Dark Sorcerer, id=Rotharik
-#. [side]: type=Orcish Warlord, id=Tairach
-msgid "Enemies"
-msgstr "敌人"
 
 #. [message]: speaker=Baran
 msgid "Greetings, brother, and welcome home."
@@ -365,10 +359,6 @@ msgstr "听说那些东西对我们的武器免疫，让我们看看！"
 msgid "That was not so hard!"
 msgstr "没有那么困难呢！"
 
-#. [message]: speaker=Arvith
-msgid "All is lost now that I am dead..."
-msgstr "我死了，一切都完了……"
-
 #. [scenario]: id=02_The_Chase
 msgid "The Chase"
 msgstr "追击"
@@ -434,17 +424,34 @@ msgstr ""
 "\n"
 "除此以外……我想我弟弟回来。"
 
-#. [objective]: condition=win
-msgid "Fight your way through the woods before the kidnappers escape"
-msgstr "在绑架者逃跑之前杀出一条通过森林的路"
+#. [side]: type=Elvish Rider, id=Nil-Galion
+msgid "Elves"
+msgstr "精灵"
 
 #. [side]: type=Elvish Rider, id=Nil-Galion
 msgid "Nil-Galion"
 msgstr "Nil-Galion"
 
-#. [side]: type=Elvish Rider, id=Nil-Galion
-msgid "Elves"
-msgstr "精灵"
+#. [side]: type=Dark Adept, id=Muff Toras
+#, fuzzy
+msgid "Kidnappers"
+msgstr "逮住绑架者"
+
+#. [side]: type=Dark Adept, id=Muff Toras
+msgid "Muff Toras"
+msgstr "Muff Toras"
+
+#. [objective]: condition=win
+msgid "Fight your way through the woods before the kidnappers escape"
+msgstr "在绑架者逃跑之前杀出一条通过森林的路"
+
+#. [objective]: condition=win
+msgid "Catch the kidnappers"
+msgstr "逮住绑架者"
+
+#. [objective]: condition=win
+msgid "Kill the Dark Adept before his reinforcements arrive"
+msgstr "在敌援到来之前杀死这个黑暗狂徒"
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -473,7 +480,7 @@ msgid ""
 "Baran!"
 msgstr "鬼故事到此为止。弱小的精灵不能阻止我去救出Baran！"
 
-#. [message]: role=speaker
+#. [message]: role=Mercenary
 msgid ""
 "I am glad at least that we will not have to face ghosts. But those elves "
 "will have us at a disadvantage; our horses will not maneuver well in the "
@@ -491,11 +498,7 @@ msgstr ""
 "呸，待在路上就行了；我们的矛兵和弓箭手可以在丛林深处战斗。我们曾经面对过比这"
 "些业余对手更危险的人，并且取得了胜利。"
 
-#. [unit]: type=Dark Adept, id=Muff Toras
-msgid "Muff Toras"
-msgstr "Muff Toras"
-
-#. [message]: speaker=unit
+#. [message]: speaker=second_unit
 msgid "I see them! There they are!"
 msgstr "我看到了他们了！他们在那儿！"
 
@@ -505,10 +508,6 @@ msgid ""
 "already be here to meet us."
 msgstr ""
 "妈的！如果他们再来一个小时，我们主人的援军说不定已经来这里和我们汇合了。"
-
-#. [objective]: condition=win
-msgid "Kill the Dark Adept before his reinforcements arrive"
-msgstr "在敌援到来之前杀死这个黑暗狂徒"
 
 #. [message]: speaker=Arvith
 msgid "Come on, men, let’s catch those kidnappers!"
@@ -564,10 +563,11 @@ msgid "Katklagad"
 msgstr "Katklagad"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
 "Three days ride to the northeast, in a deserted castle. The passwords to the "
-"guards are $first_password_$first_password_number and $second_password_"
-"$second_password_number|."
+"guards are $first_password_$first_password and $second_password_"
+"$second_password|."
 msgstr ""
 "往东北方向三天的骑程,在一个荒废的城堡里。警卫口令是 $first_password_"
 "$first_password_number 和 $second_password_$second_password_number|。"
@@ -576,7 +576,7 @@ msgstr ""
 msgid "Bind him and take him with us. If he has played us false, he will die."
 msgstr "绑着他，带他跟着我们。如果他敢耍花样，就得死。"
 
-#. [message]: role=speaker
+#. [message]: role=Mercenary
 msgid ""
 "Captain, what are we riding into? I thought you wanted nothing to do with "
 "Baran any more, not since Toen Caric."
@@ -615,7 +615,7 @@ msgid ""
 "you, if you permit."
 msgstr "我非常痛恨不死族。如果你允许的话，我可以跟随你们一起对付他们。"
 
-#. [message]: role=speaker
+#. [message]: role=Mercenary
 msgid "He would only slow us down!"
 msgstr "他只会拖慢我们的速度！"
 
@@ -623,7 +623,7 @@ msgstr "他只会拖慢我们的速度！"
 msgid "It is my place to decide this."
 msgstr "这件事由我来决定。"
 
-#. [option]: speaker=Arvith
+#. [option]
 msgid "Oh, all right then. Come along with us."
 msgstr "噢，好的。一起来吧。"
 
@@ -631,7 +631,7 @@ msgstr "噢，好的。一起来吧。"
 msgid "Thank you. My comrades and I will help you on your noble quest."
 msgstr "谢谢您。我和我的同伴会在您高尚的追寻中帮助您。"
 
-#. [option]: speaker=Arvith
+#. [option]
 msgid "I am sorry. We have not the time to spare."
 msgstr "抱歉。我们没有空余时间了。"
 
@@ -667,17 +667,14 @@ msgstr ""
 msgid "Follow their back trail!"
 msgstr "跟上他们的足迹！"
 
-#. [objective]: condition=win
-msgid "Catch the kidnappers"
-msgstr "逮住绑架者"
-
 #. [scenario]: id=03_Guarded_Castle
 msgid "Guarded Castle"
 msgstr "戒备森严的城堡"
 
 #. [part]
+#, fuzzy
 msgid ""
-"19 IV, 363 YW\n"
+"19 V, 363 YW\n"
 "Excerpt from the journal of Rotharik the Clanless\n"
 "\n"
 "The last of Mordak’s servants arrived this morning bearing the news of his "
@@ -711,8 +708,9 @@ msgstr ""
 "不会放手，就像如果他们抓住了Mordak我也不会。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"19 IV, 363 YW\n"
+"19 V, 363 YW\n"
 "Excerpt from the journal of Rotharik the Clanless\n"
 "\n"
 "I have done what I can to fortify this dilapidated castle. The orcs who came "
@@ -740,9 +738,9 @@ msgstr ""
 msgid "Rotharik"
 msgstr "Rotharik"
 
-#. [unit]: id=Guard2_leader, type=Rogue
-#. [unit]: id=Guard_leader, type=Assassin
+#. [unit]: role=Guard, id=Guard_leader, type=Assassin
 #. [unit]: role=Guard, type=Bandit
+#. [unit]: role=Guard2, id=Guard2_leader, type=Rogue
 #. [unit]: role=Guard2, type=Bandit
 msgid "Guard"
 msgstr "守卫"
@@ -760,6 +758,18 @@ msgstr "城堡守卫"
 msgid "Rescue Baran"
 msgstr "解救Baran"
 
+#. [objective]: condition=win
+msgid "Kill the dark sorcerer to get the cell key"
+msgstr "杀死黑暗巫师获取牢房钥匙"
+
+#. [objective]: condition=win
+msgid "Move Arvith to the cell with his brother to free him"
+msgstr "让Arvith亲自去牢房解救他的兄弟"
+
+#. [objective]: condition=lose
+msgid "Death of Baran"
+msgstr "Baran战死"
+
 #. [message]: speaker=narrator
 msgid ""
 "Arvith and his men halt outside of the castle, gazing for a moment at the "
@@ -776,21 +786,25 @@ msgstr "停下！是友是敌？说出口令。"
 msgid "The password is"
 msgstr "口令是"
 
-#. [option]: speaker=Arvith
-msgid "$first_password_1|!"
-msgstr "$first_password_1|！"
+#. [option]
+#, fuzzy
+msgid "Sithrak!"
+msgstr "Sithrak"
 
-#. [option]: speaker=Arvith
-msgid "$first_password_2|!"
-msgstr "$first_password_2|！"
+#. [option]
+#, fuzzy
+msgid "Eleben!"
+msgstr "Eleben"
 
-#. [option]: speaker=Arvith
-msgid "$first_password_3|!"
-msgstr "$first_password_3|！"
+#. [option]
+#, fuzzy
+msgid "Jarlom!"
+msgstr "Jarlom"
 
-#. [option]: speaker=Arvith
-msgid "$first_password_4|!"
-msgstr "$first_password_4|！"
+#. [option]
+#, fuzzy
+msgid "Hamik!"
+msgstr "Hamik"
 
 #. [message]: speaker=Guard_leader
 msgid "Pass, friend."
@@ -848,21 +862,25 @@ msgstr "唔，你们得报上口令。"
 msgid "Oh, of course. I had nearly forgotten."
 msgstr "噢，这个自然。我差点忘了。"
 
-#. [option]: speaker=Arvith
-msgid "$second_password_1|!"
-msgstr "$second_password_1|！"
+#. [option]
+#, fuzzy
+msgid "Akranbral!"
+msgstr "Akranbral"
 
-#. [option]: speaker=Arvith
-msgid "$second_password_2|!"
-msgstr "$second_password_2|！"
+#. [option]
+#, fuzzy
+msgid "Drakanal!"
+msgstr "Drakanal"
 
-#. [option]: speaker=Arvith
-msgid "$second_password_3|!"
-msgstr "$second_password_3|！"
+#. [option]
+#, fuzzy
+msgid "Xaskanat!"
+msgstr "Xaskanat"
 
-#. [option]: speaker=Arvith
-msgid "$second_password_4|!"
-msgstr "$second_password_4|！"
+#. [option]
+#, fuzzy
+msgid "Katklagad!"
+msgstr "Katklagad"
 
 #. [message]: speaker=Guard2_leader
 msgid "Thanks! Irritating little formality, isn’t it?"
@@ -895,10 +913,6 @@ msgid ""
 "That may well be the key to the cell they’re holding Baran in! I will take "
 "it."
 msgstr "这肯定是关押Baran牢房的钥匙！我拿到了。"
-
-#. [objective]: condition=win
-msgid "Move Arvith to the cell with his brother to free him"
-msgstr "让Arvith亲自去牢房解救他的兄弟"
 
 #. [message]: speaker=unit
 msgid "Look what I have found in here! I can count a hundred pieces of gold."
@@ -934,9 +948,17 @@ msgstr ""
 "该死的黑暗巫师Rotharik把我囚禁在这魔法加持过的铁门后。只能用一把合适的钥匙打"
 "开门。你只能从巫师身上拿到钥匙来救我。"
 
-#. [objective]: condition=win
-msgid "Kill the dark sorcerer to get the cell key"
-msgstr "杀死黑暗巫师获取牢房钥匙"
+#. [message]: speaker=Arvith
+msgid ""
+"I have already met, and killed, the sorcerer. Is this the key to which you "
+"referred?"
+msgstr ""
+
+#. [message]: speaker=Baran
+msgid ""
+"Yes, it is. Come, unlock this cell door, and let us depart this place, "
+"brother!"
+msgstr ""
 
 #. [message]: speaker=Baran
 msgid "Thank you for saving me. I... was not certain you would come."
@@ -970,9 +992,9 @@ msgstr ""
 msgid "Thank you for coming to my aid. Let us return to the village."
 msgstr "谢谢你来救我我。一起回村子吧。"
 
-#. [message]: speaker=Arvith
-msgid "Everything is lost now that I am dead..."
-msgstr "我死了一切都完了……"
+#. [unit]: id=Rotharik, type=Orcish Assassin
+msgid "Minion of Tairach"
+msgstr ""
 
 #. [message]: speaker=Rotharik
 msgid "You are too late! Your brother is already dead! Muahahaha...!"
@@ -1049,14 +1071,6 @@ msgstr ""
 "但我还是有些心烦。我想知道……这种不详之感只不过是由于我被关在地牢时的残余，还"
 "是预示着真有事情要发生了？"
 
-#. [objective]: condition=win
-msgid "Find out what is happening in the village"
-msgstr "探明村子里发生的事"
-
-#. [objective]: condition=lose
-msgid "Death of Baran"
-msgstr "Baran战死"
-
 #. [side]: type=Orcish Warlord, id=Tairach
 msgid "Tairach"
 msgstr "Tairach"
@@ -1064,6 +1078,10 @@ msgstr "Tairach"
 #. [side]: type=Longbowman, id=Reeve Hoban
 msgid "Reeve Hoban"
 msgstr "Reeve Hoban"
+
+#. [objective]: condition=win
+msgid "Find out what is happening in the village"
+msgstr "探明村子里发生的事"
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -1085,7 +1103,7 @@ msgstr "战士们！拿起武器！"
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
 msgstr "我们应该去找长官Hoban。也许他知道发生了什么事。"
 
-#. [message]: speaker=unit
+#. [message]: speaker=second_unit
 msgid "We’re almost there!"
 msgstr "我们快到了！"
 
@@ -1167,10 +1185,6 @@ msgstr ""
 "我必须回去寻求我的生计。不过我们有护身符，弟弟。如果你又被包围了，我会回来"
 "的。"
 
-#. [message]: speaker=Baran
-msgid "It is over, I am vanquished."
-msgstr "完了，我被打败了。"
-
 #. [message]: speaker=Arvith
 msgid "I don’t think we can rescue anyone from these villages. It is too late."
 msgstr "我们救不了村里的任何人了。太迟了。"
@@ -1229,3 +1243,18 @@ msgstr ""
 "感觉到。我想我们很快就要回去工作挣钱了。\n"
 "\n"
 "与此同时，虽然，能放松和享受平静真的很美好。"
+
+msgid "Arvith"
+msgstr "Arvith"
+
+#. [message]: speaker=Arvith
+msgid "All is lost now that I am dead..."
+msgstr "我死了，一切都完了……"
+
+#. [message]: speaker=Baran
+msgid "It is over, I am vanquished."
+msgstr "完了，我被打败了。"
+
+#. [unit]: id=Baran, type=Red Mage
+msgid "Baran"
+msgstr "Baran"
