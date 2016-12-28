@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:31+0300\n"
-"PO-Revision-Date: 2016-08-08 20:52+0800\n"
+"PO-Revision-Date: 2016-12-28 23:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -26,11 +26,11 @@ msgstr ""
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 #. [advanced_preference]: type=combo
 msgid "Compress saved games"
-msgstr "压缩游戏存档"
+msgstr "对游戏存档进行压缩"
 
 #. [option]: id=gzip
 msgid "save_compression^Gzip"
@@ -54,7 +54,7 @@ msgstr "无"
 
 #. [option]: id=none
 msgid "save_compression_desc^Large plain text files"
-msgstr "大文本文件"
+msgstr "大号纯文本文件"
 
 #. [advanced_preference]: type=boolean
 msgid "Confirm deleting saves"
@@ -70,7 +70,7 @@ msgstr "鼠标中键滚屏"
 
 #. [advanced_preference]: type=boolean
 msgid "Keep scrolling when mouse leaves window"
-msgstr "鼠标离开窗口后继续滚屏"
+msgstr "鼠标离开游戏窗口后继续滚屏"
 
 #. [advanced_preference]: type=boolean
 msgid "Show combat"
@@ -84,7 +84,7 @@ msgstr "Ping超时"
 msgid ""
 "Number of seconds to wait for a ping reply before timing out. Set to 0 to "
 "disable"
-msgstr "在超时之前等待ping回复的秒数。设置为0表示无限制。"
+msgstr "在ping回复之前，等待的秒数，超过则超时。设置为0则禁用此功能"
 
 #. [advanced_preference]: type=boolean
 msgid "Auto-open whisper windows in lobby"
@@ -92,7 +92,7 @@ msgstr "在游戏大厅中自动打开悄悄话窗口"
 
 #. [advanced_preference]: type=boolean
 msgid "Group players in lobby"
-msgstr "在游戏大厅中对玩家自动分组"
+msgstr "在游戏大厅中对玩家进行分组"
 
 #. [advanced_preference]: type=boolean
 msgid "Follow unit actions"
@@ -102,11 +102,11 @@ msgstr "跟随单位行动"
 msgid ""
 "Choose whether the map view should scroll to a unit when an action or move "
 "is animated"
-msgstr "选择当单位行动时，地图画面是否应该跟随移动"
+msgstr "当播放单位的动作或移动动画时，地图画面是否应该跟随移动"
 
 #. [advanced_preference]: type=int
 msgid "Chat message aging"
-msgstr "聊天信息过期设置"
+msgstr "聊天信息过期"
 
 #. [advanced_preference]: type=int
 msgid ""
@@ -120,30 +120,28 @@ msgstr "使用12小时制时钟格式"
 
 #. [advanced_preference]: type=boolean
 msgid "Confirm loading saves from a different version"
-msgstr "在读取与当前游戏版本不同的存档前进行确认"
+msgstr "在载入与当前游戏版本不同的存档前进行确认"
 
 #. [advanced_preference]: type=boolean
 msgid "Show all unit types in help"
-msgstr "在帮助中显示所有单位类型"
+msgstr "在帮助中显示所有单位种类"
 
 #. [advanced_preference]: type=boolean
 msgid ""
 "Show all unit types in the help (requires restart). This does not alter the "
 "list of encountered units"
 msgstr ""
-"在帮助中显示所有单位类型（需要重新启动）。这并不会改变已遭遇单位的列表。"
+"在帮助中显示所有单位种类（需要重新启动）。这并不会改变已遇到的单位的列表"
 
 #. [advanced_preference]: type=boolean
-#, fuzzy
 msgid "Experimental multiplayer UI"
-msgstr "试验性多人游戏大厅"
+msgstr "试验性多人游戏界面"
 
 #. [advanced_preference]: type=boolean
-#, fuzzy
 msgid ""
 "Replace the classic multiplayer lobby and game setup UI with a newer, "
 "experimental interface"
-msgstr "用一个新的、试验性的界面来替换经典多人游戏大厅"
+msgstr "用一款新的、试验性的界面来替换经典的多人游戏大厅和游戏设置界面"
 
 #. [advanced_preference]: type=int
 msgid "Editor recent files limit"
@@ -159,44 +157,42 @@ msgid "Show color cursors"
 msgstr "显示彩色鼠标箭头"
 
 #. [advanced_preference]: type=boolean
-#, fuzzy
 msgid "Use colored mouse cursors"
-msgstr "显示彩色鼠标箭头"
+msgstr "使用彩色鼠标箭头"
 
 #. [advanced_preference]: type=custom
 msgid "Graphics scaling options"
-msgstr ""
+msgstr "图像缩放选项"
 
 #. [advanced_preference]: type=custom
 msgid "Customize orb colors"
-msgstr ""
+msgstr "自定义指示球颜色"
 
 #. [advanced_preference]: type=custom
 msgid "Logging"
-msgstr ""
+msgstr "日志记录"
 
 #. [advanced_preference]: type=boolean
 msgid "Allow damage calculation with Monte Carlo simulation"
-msgstr ""
+msgstr "允许使用蒙特卡洛模拟法来进行伤害计算"
 
 #. [advanced_preference]: type=boolean
 msgid ""
 "Allow the damage calculation window to simulate fights instead of using "
 "exact probability calculations"
-msgstr ""
+msgstr "允许伤害计算窗口进行战斗模拟，而不使用精确的概率计算法"
 
 #. [advanced_preference]: type=boolean
-#, fuzzy
 msgid "Show haloing effects"
-msgstr "音效"
+msgstr "显示光晕效果"
 
 #. [advanced_preference]: type=boolean
 msgid "Show special unit graphical effects"
-msgstr ""
+msgstr "显示特殊的单位图像效果"
 
 #. [advanced_preference]: type=boolean
 msgid "Joystick support"
-msgstr "游戏杆支持"
+msgstr "手柄支持"
 
 #. [advanced_preference]: type=int
 msgid "Joystick: number of the scroll X-axis joystick"
@@ -270,7 +266,6 @@ msgstr "手柄：用于加速的摇杆编号"
 msgid "Joystick: deadzone of the thruster"
 msgstr "手柄：用于加速的摇杆的死区大小"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
@@ -279,7 +274,7 @@ msgstr "中毒"
 #. [objectives]
 #. [lua]: generate_objectives
 msgid "Gold carryover:"
-msgstr "带出金币："
+msgstr "带走金币："
 
 #. [note]
 #. [lua]: generate_objectives
@@ -347,9 +342,8 @@ msgid "Arabic Translation"
 msgstr "阿拉伯文翻译"
 
 #. [about]
-#, fuzzy
 msgid "Asturian Translation"
-msgstr "爱沙尼亚文翻译"
+msgstr "阿斯图里亚斯文翻译"
 
 #. [about]
 msgid "Basque Translation"
@@ -700,7 +694,7 @@ msgstr "花"
 
 #. [item]: id=gohere
 msgid "Go Here Overlay"
-msgstr "“去这儿”覆盖签"
+msgstr "“来这儿”覆盖签"
 
 #. [item]: id=gold-coins-large
 msgid "Large Pile of Gold Coins"
@@ -799,7 +793,7 @@ msgstr "圣火权杖"
 
 #. [item]: id=spear-fancy
 msgid "Fancy Spear"
-msgstr "华丽的长矛"
+msgstr "华丽长矛"
 
 #. [item]: id=staff-magic
 msgid "Magic Staff"
@@ -837,7 +831,7 @@ msgstr "城堡废墟"
 
 #. [item]: id=circle-magic-glow
 msgid "Glowing Magic Circle"
-msgstr "发光的魔法环"
+msgstr "发光魔法环"
 
 #. [item]: id=circle-magic
 msgid "Magic Circle"
@@ -881,7 +875,7 @@ msgstr "陵墓"
 
 #. [item]: id=mine-abandoned
 msgid "Abandoned Mine"
-msgstr "废弃的矿坑"
+msgstr "废弃矿坑"
 
 #. [item]: id=monolith1
 #. [item]: id=monolith2
@@ -1019,18 +1013,18 @@ msgstr "风车"
 
 #. [set_menu_item]: id=ai_controller_unit_control_{UNIT_ID}
 msgid "Ask $ai_controller_unit.name to move here"
-msgstr "让 $ai_controller_unit.name 移动到此处"
+msgstr "让$ai_controller_unit.name|移动到此处"
 
 #. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
 msgid "Ask $ally_leader.name (leader of side $ally_leader.side) to move here"
-msgstr "让$ally_leader.name（$ally_leader.side阵营的领袖）移动到这里"
+msgstr "让$ally_leader.name|（$ally_leader.side|阵营的领袖）移动到此处"
 
 #. [note]
 msgid ""
 "In this scenario, you may issue instructions to an allied side by right-"
 "clicking on a unit that belongs to it."
 msgstr ""
-"在此场景中，通过鼠标右键点击属于您的同盟阵营的单位，您可以向该阵营发出指令。"
+"在此场景中，通过鼠标右键点击属于您的同盟阵营的单位，您可以向该阵营发出指示。"
 
 #. [overview_message_has_instructions]: speaker=narrator
 #. [overview_message_no_instructions]: speaker=narrator
@@ -1042,13 +1036,14 @@ msgstr "指示盟友"
 msgid ""
 "$ally_leader.name (side $ally_side|) is carrying out the following "
 "instructions:"
-msgstr "$ally_leader.name（阵营 $ally_side|）正在执行以下命令："
+msgstr "$ally_leader.name|（阵营$ally_side|）正在执行以下指示："
 
 #. [overview_message_no_instructions]: speaker=narrator
 msgid ""
 "$ally_leader.name (side $ally_side|) has not been given any instructions and "
 "is acting normally."
-msgstr "$ally_leader.name（阵营$ally_side|）没有被授予命令，目前正常行动。"
+msgstr ""
+"$ally_leader.name|（阵营$ally_side|）没有接收到任何指令，目前正常行动中。"
 
 #. [aggression]
 msgid "Be more aggressive"
@@ -1068,20 +1063,20 @@ msgstr "注重防守。"
 
 #. [focus_on_enemy]
 msgid "Focus on defeating..."
-msgstr "着重于击败..."
+msgstr "注重击败……"
 
 #. [focus_on_enemy]
 msgid ""
 "focusing on defeating $ai_controller.side_$ally_side|_current_settings."
 "focus_on_enemy.side_description|."
 msgstr ""
-"着重于击败$ai_controller.side_$ally_side|_current_settings.focus_on_enemy."
+"注重击败$ai_controller.side_$ally_side|_current_settings.focus_on_enemy."
 "side_description|。"
 
 #. [then]
 #. [else]
 msgid "Side $temp_i"
-msgstr "阵营 $temp_i"
+msgstr "阵营$temp_i"
 
 #. [else]
 msgid "side $temp_i"
@@ -1089,28 +1084,27 @@ msgstr "阵营$temp_i"
 
 #. [command]
 msgid "side $temp_i ($side_i_leader.name|)"
-msgstr "阵营 $temp_i （$side_i_leader.name）"
+msgstr "阵营$temp_i|（$side_i_leader.name|）"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [value]
 msgid "Back"
 msgstr "后退"
 
 #. [protect]
 msgid "Focus on protecting..."
-msgstr "着重于保护..."
+msgstr "注重保护……"
 
 #. [protect]
 msgid ""
 "focusing on protecting $ai_controller.side_$ally_side|_current_settings."
 "protect.side_description|."
 msgstr ""
-"着重于保护$ai_controller.side_$ally_side|_current_settings.protect."
+"注重保护$ai_controller.side_$ally_side|_current_settings.protect."
 "side_description|。"
 
 #. [option]
 msgid "Defend a location..."
-msgstr "把守地点..."
+msgstr "把守地点……"
 
 #. [print]
 msgid "Right-click to select a location to defend"
@@ -1122,11 +1116,11 @@ msgstr "把守此地点"
 
 #. [command]
 msgid "focusing on defending the area around $x1|,$y1|."
-msgstr "重点把守$x1|,$y1|周围的区域。"
+msgstr "注重把守$x1|,$y1|周围的区域。"
 
 #. [print]
 msgid "Location selection canceled"
-msgstr "已取消地点选择"
+msgstr "地点选择已取消"
 
 #. [revoke_objective_orders]
 msgid "Clear objective orders"
@@ -1136,7 +1130,7 @@ msgstr "清除目标命令"
 #. [revoke_behavior_orders]
 #. [then]
 msgid "none set."
-msgstr "未设置。"
+msgstr "命令已清除。"
 
 #. [revoke_behavior_orders]
 msgid "Clear behavior orders"
@@ -1160,27 +1154,27 @@ msgstr ""
 
 #. [literal]
 msgid "Set objective..."
-msgstr "设置目标..."
+msgstr "设置目标……"
 
 #. [literal]
 msgid "Set behavior..."
-msgstr "设置行为..."
+msgstr "设置行为……"
 
 #. [literal]
 msgid "Exit"
 msgstr "退出"
 
 msgid "Set special orders..."
-msgstr "设置特殊命令..."
+msgstr "设置特殊命令……"
 
 msgid "Move leader to..."
-msgstr "把领袖移动到..."
+msgstr "把领袖移动至……"
 
 msgid "Right-click to select a location to move leader to"
 msgstr "右键单击以选择领袖移动的目标地点"
 
 msgid "Move leader here"
-msgstr "把领袖移动到这里"
+msgstr "把领袖移动到此处"
 
 msgid "moving leader to $x1|,$y1|."
 msgstr "把领袖移动到$x1|,$y1|。"
@@ -1200,7 +1194,7 @@ msgstr "<small>（提前过关奖励）</small>"
 
 #. [lua]: generate_objectives
 msgid "Early finish bonus."
-msgstr "提前过关奖励："
+msgstr "提前过关奖励。"
 
 #. [lua]: generate_objectives
 msgid "No early finish bonus."
@@ -1208,7 +1202,7 @@ msgstr "无提前过关奖励。"
 
 #. [lua]: generate_objectives
 msgid "No gold carried over to the next scenario."
-msgstr "不会有任何金币被带到下一场景。"
+msgstr "没有金币会带到下一场景。"
 
 msgid ""
 "\n"
@@ -1233,29 +1227,29 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "You have come across a wishing well. What would you like to wish for?"
-msgstr "您遇到了一个许愿井。您想许个什么样的愿望？"
+msgstr "你遇到了一个许愿井。你想许个什么样的愿望？"
 
 #. [option]
 msgid "A swift victory"
-msgstr "快速胜利。"
+msgstr "迅速胜利"
 
 #. [message]: speaker=unit
 msgid ""
 "With this golden coin, I wish that this battle end in a swift and safe "
 "victory."
-msgstr "凭着这枚金币，我希望在这场战斗里能快速而安全地胜出。"
+msgstr "我以这枚金币许愿，但愿我在这场战斗里取得迅速而安全的胜利。"
 
 #. [option]
 msgid "Lots of gold"
-msgstr "许多金币。"
+msgstr "许多金币"
 
 #. [message]: speaker=unit
 msgid "I wish this single gold coin be returned ten-fold to me."
-msgstr "我希望这一个金币能变成十个。"
+msgstr "我希望投下这枚金币，能给我带回十倍的金币。"
 
 #. [option]
 msgid "Peace throughout Wesnoth."
-msgstr "世界和平。"
+msgstr "韦诺和平。"
 
 #. [message]: speaker=unit
 msgid "The only thing worth wishing for is peace throughout the land."
@@ -1271,7 +1265,7 @@ msgstr "治疗药剂"
 
 #. [object]: id={ID}
 msgid "A feeling of well-being overwhelms the drinker."
-msgstr "饮者心中充满了幸福感。"
+msgstr "饮用者的心中充满了幸福感。"
 
 #. [object]: id={ID}
 msgid "You are not worthy of healing."
@@ -1279,14 +1273,14 @@ msgstr "你不值得治疗。"
 
 #. [object]: id={ID}
 msgid "Poison is seeping through the veins of this unit at this very moment."
-msgstr "毒素此刻正渗透到这个单位的全身。"
+msgstr "毒素此刻正渗透到这个单位的全身经脉之中。"
 
 msgid ""
 "Sprinkling this water on melee weapons grants them the <i>arcane</i> damage "
 "type until the end of the current scenario. Should $unit.name use it?"
 msgstr ""
 "近战武器沾上这种水之后，伤害类型将变为<b>奥术</b>，直到当前场景结束。$unit."
-"name应该使用它吗？"
+"name|应该使用它吗？"
 
 msgid "holy water^Take it"
 msgstr "拿走圣水"
@@ -1294,9 +1288,8 @@ msgstr "拿走圣水"
 msgid "holy water^Leave it"
 msgstr "留下圣水"
 
-#, fuzzy
 msgid "$unit.name has no need for this Holy Water! Let another take it."
-msgstr "我不适合用这个东西！让别人去用吧。"
+msgstr "$unit.name|不需要圣水！让别人拿走吧。"
 
 #. [object]
 msgid ""
@@ -1318,7 +1311,7 @@ msgstr "衰退药剂"
 
 #. [object]: id={ID}
 msgid "This poor unit drank something really bad."
-msgstr "这个可怜的家伙喝了一些相当糟糕的东西。"
+msgstr "这个可怜的单位喝了些相当糟糕的东西。"
 
 #. [object]: id={ID}
 msgid "Ring of Regeneration"
@@ -1326,7 +1319,7 @@ msgstr "再生戒指"
 
 #. [object]: id={ID}
 msgid "This ring will heal the bearer a little each turn."
-msgstr "这只戒指会让持有人每回合都得到一点治疗。"
+msgstr "此戒指会让持有者每回合都得到一点治疗。"
 
 #. [object]: id={ID}
 msgid "Ring of Slowness"
@@ -1334,22 +1327,22 @@ msgstr "迟缓戒指"
 
 #. [object]: id={ID}
 msgid "The bearer of this ring is slowed."
-msgstr "戴着这只戒指的人速度会变慢。"
+msgstr "戴着此戒指的人速度会变慢。"
 
 #. [object]: id={ID}
 msgid "Staff of Swiftness"
-msgstr "迅捷法杖"
+msgstr "迅捷之杖"
 
 #. [object]: id={ID}
 msgid "This staff will grant the bearer swift movement."
-msgstr "这支法杖将赐予持有者加速移动的能力。"
+msgstr "此杖将赐予持有者加速移动的能力。"
 
 #. [object]: id={ID}
 msgid "Only magical beings can wield such an object."
 msgstr "只有魔法生物才可以携带这样的物体。"
 
 msgid "Should $unit.name pick up the trident?"
-msgstr "希望$unit.name拿起三叉戟吗？"
+msgstr "$unit.name|应该拿起三叉戟吗？"
 
 msgid "storm trident^Take it"
 msgstr "拿走风暴三叉戟"
@@ -1360,11 +1353,11 @@ msgstr "留下风暴三叉戟"
 msgid ""
 "$unit.name cannot use this Storm Trident! Let one of the merfolk who can "
 "wield it have it."
-msgstr ""
+msgstr "$unit.name|无法使用风暴三叉戟！让可以使用它的人鱼拥有它吧。"
 
 #. [object]
 msgid "This trident allows a merman to shoot electric bolts at his enemies!"
-msgstr "这柄三叉戟能让人鱼向敌人发射闪电！"
+msgstr "这柄三叉戟能让人鱼向敌人发射闪电球！"
 
 #. [effect]: type=fire
 msgid "storm trident"
@@ -1413,6 +1406,13 @@ msgid ""
 "suffix=ash|kré|lsh|lin|rutin|shinar|rushi|ka|ash|ag|all|ash|slar|li|dian|"
 "ritos|rusté|shitt|nick|rath|ditt|kon|mad|tick|nir\n"
 msgstr ""
+"\n"
+"main={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\n"
+"short_name=欧姆|伊恩|欧恩|卡|玛|可恩|艾奇|柯|格莱特|埃加\n"
+"prefix=加|格|格尔|吉|苟|格拉|格里|卡|柯|科拉|玛|迪|梅|莫|欧玛|雷|维尔|瓦什|"
+"维|维拉\n"
+"suffix=艾什|克雷|什|林|鲁汀|史纳|鲁什|卡|艾什|阿格|阿尔|艾什|斯拉|利|迪安|利"
+"托斯|鲁斯特|希特|尼克|拉斯|迪特|孔|玛德|提克|尼尔\n"
 
 msgid ""
 "\n"
@@ -2611,156 +2611,151 @@ msgstr "这是最后一个场景。"
 
 #. [note]: description=<b>
 msgid "No turn limit"
-msgstr ""
+msgstr "无回合限制"
 
 #. [message]: speaker=narrator
 msgid ""
 "The computer player might not be able to play side $side_number properly in "
 "this scenario. Side $side_number is intended to be played by a human player."
 msgstr ""
-"在本场景中，电脑玩家不能使用阵营$side_number很好发挥。阵营$side_number是为人"
-"类玩家设计的。"
+"在本场景中，电脑玩家有可能无法使用阵营$side_number|很好发挥。阵营$side_number"
+"是为人类玩家设计的。"
 
 #. [music]
 msgid "Battle Epic"
-msgstr ""
+msgstr "史诗之战"
 
 #. [music]
 msgid "Battle Music"
-msgstr ""
+msgstr "战斗音乐"
 
 #. [music]
 msgid "Breaking the Chains"
-msgstr ""
+msgstr "破坏锁链"
 
 #. [music]
 msgid "Casualties of War"
-msgstr ""
+msgstr "战争伤亡"
 
 #. [music]
 msgid "Elf Land"
-msgstr ""
+msgstr "精灵之地"
 
 #. [music]
 msgid "Elvish theme"
-msgstr ""
+msgstr "精灵主题"
 
 #. [music]
 msgid "Frantic"
-msgstr ""
+msgstr "狂躁"
 
 #. [music]
 msgid "Heroes Rite"
-msgstr ""
+msgstr "英雄仪式"
 
 #. [music]
 msgid "Into the Shadows"
-msgstr ""
+msgstr "没入阴影"
 
 #. [music]
 msgid "Journey’s End"
-msgstr ""
+msgstr "旅途终结"
 
 #. [music]
 msgid "Knalgan Theme"
-msgstr ""
+msgstr "纳尔迦主题"
 
 #. [music]
 msgid "The Knolls of Doldesh"
-msgstr ""
+msgstr "多尔德什圆丘"
 
 #. [music]
 msgid "Legends of the North"
-msgstr ""
+msgstr "北方传奇"
 
 #. [music]
 msgid "Love Theme"
-msgstr ""
+msgstr "爱之主题"
 
 #. [music]
 msgid "Loyalists"
-msgstr ""
+msgstr "保皇党人"
 
 #. [music]
 msgid "Over the Northern Mountains"
-msgstr ""
+msgstr "翻越北方山脉"
 
 #. [music]
 msgid "Northerners"
-msgstr ""
+msgstr "北陆之民"
 
 #. [music]
 msgid "Nunc Dimittis"
-msgstr ""
+msgstr "西缅之颂"
 
 #. [music]
-#, fuzzy
 msgid "Revelation"
-msgstr "红色药剂"
+msgstr "天启"
 
 #. [music]
-#, fuzzy
 msgid "Sad"
-msgstr "沙漠"
+msgstr "悲伤"
 
 #. [music]
 msgid "Siege of Laurelmor"
-msgstr ""
+msgstr "劳雷尔莫围城"
 
 #. [music]
 msgid "Silvan Sanctuary"
-msgstr ""
+msgstr "林中庇护所"
 
 #. [music]
 msgid "Suspense"
-msgstr ""
+msgstr "焦虑"
 
 #. [music]
 msgid "The City Falls"
-msgstr ""
+msgstr "城市陷落"
 
 #. [music]
 msgid "The Dangerous Symphony"
-msgstr ""
+msgstr "危险交响曲"
 
 #. [music]
-#, fuzzy
 msgid "The Deep Path"
-msgstr "深水"
+msgstr "深径"
 
 #. [music]
-#, fuzzy
 msgid "The King is Dead"
-msgstr "游戏结束了。"
+msgstr "国王已死"
 
 #. [music]
 msgid "Transience"
-msgstr ""
+msgstr "转瞬即逝"
 
 #. [music]
 msgid "Traveling Minstrels"
-msgstr ""
+msgstr "旅行的吟游诗人"
 
 #. [music]
 msgid "Underground"
-msgstr ""
+msgstr "地下"
 
 #. [music]
 msgid "Vengeful Pursuit"
-msgstr ""
+msgstr "复仇追击"
 
 #. [music]
 msgid "Still Another Wanderer"
-msgstr ""
+msgstr "又一位彷徨者"
 
 #. [music]
-#, fuzzy
 msgid "Weight of Revenge"
-msgstr "亮橙"
+msgstr "复仇之重"
 
 #. [message]: speaker=narrator
 msgid "You retrieve $amount_gold pieces of gold."
-msgstr "您获得了  $amount_gold 块金币。"
+msgstr "你获得了$amount_gold|枚金币。"
 
 #. [color_range]: id=red
 #. [color_range]: id=1
@@ -2827,7 +2822,6 @@ msgstr "白"
 msgid "Teal"
 msgstr "青"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=gold
 msgid "Gold"
 msgstr "金币"
@@ -2880,7 +2874,6 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -2905,20 +2898,17 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
 
 #. [core]: id=default
-#, fuzzy
 msgid "Wesnoth (Default)"
-msgstr "默认"
+msgstr "韦诺（默认）"
 
 #. [core]: id=default
 msgid ""
@@ -2943,6 +2933,10 @@ msgid ""
 "7 Factions battling on 46 Multiplayer Maps/Scenarios,\n"
 "500+ Add-ons.)"
 msgstr ""
+"（17个单人战役，包括211个场景，\n"
+"一个多人战役，包括14个场景，\n"
+"七大派系，在46幅多人地图/场景之上征战，\n"
+"500个以上的附加组件。）"
 
 #. [language]
 msgid "Nightmare"
@@ -3185,52 +3179,44 @@ msgstr "替代用韦诺服务器"
 msgid ""
 "There are no custom options available for the selected era, game, or "
 "modification."
-msgstr ""
+msgstr "没有可用于选定的时代、游戏或模组的自定义选项。"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=reset_option_values
-#, fuzzy
 msgid "Defaults"
 msgstr "默认"
 
 #. [fonts]
-#, fuzzy
 msgid ""
 "Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,"
 "DroidSansFallbackFull.ttf,Junicode-Regular.ttf"
 msgstr ""
-"DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,"
-"Junicode-Regular.ttf"
+"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,"
+"DroidSansJapanese.ttf,Junicode-Regular.ttf"
 
 #. [fonts]
 msgid "Lato"
-msgstr ""
+msgstr "Lato"
 
 #. [fonts]
 msgid "DejaVu Sans Mono"
-msgstr ""
+msgstr "DejaVu Sans Mono"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3243,12 +3229,10 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 msgid "input"
-msgstr ""
+msgstr "输入"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3258,11 +3242,10 @@ msgid "Defeat:"
 msgstr "失败："
 
 #. [lua]: generate_objectives
-#, fuzzy
 msgid "(this turn left)"
 msgid_plural "(%d turns left)"
-msgstr[0] "（剩余本回合）"
-msgstr[1] "（剩余本回合）"
+msgstr[0] "（仅剩本回合）"
+msgstr[1] "（剩余%d回合）"
 
 #. [lua]: generate_objectives
 msgid "%d%% of gold carried over to the next scenario."
@@ -3280,11 +3263,11 @@ msgstr "非常长"
 
 #. [language]
 msgid "electrical"
-msgstr "电能"
+msgstr "电子"
 
 #. [action]: id=button-playreplay, type=image
 msgid "Play"
-msgstr "开始回放"
+msgstr "开始播放"
 
 #. [action]: id=button-playreplay, type=image
 msgid "continuous replay"
@@ -3292,11 +3275,11 @@ msgstr "连续回放"
 
 #. [action]: id=button-stopreplay, type=image
 msgid "Stop"
-msgstr "停止回放"
+msgstr "停止播放"
 
 #. [action]: id=button-stopreplay, type=image
 msgid "pause after current move"
-msgstr ""
+msgstr "播放完当前手后暂停"
 
 #. [action]: id=button-resetreplay, type=image
 msgid "Reset"
@@ -3312,7 +3295,7 @@ msgstr "下一回合"
 
 #. [action]: id=button-nextturn, type=image
 msgid "play turn"
-msgstr "播放该回合"
+msgstr "播放此回合"
 
 #. [action]: id=button-nextside, type=image
 msgid "Next Side"
@@ -3320,7 +3303,7 @@ msgstr "下一阵营"
 
 #. [action]: id=button-nextside, type=image
 msgid "play side turn"
-msgstr "播放本阵营回合"
+msgstr "播放当前阵营回合"
 
 #. [action]: id=button-nextmove, type=image
 msgid "Next Move"
@@ -3335,13 +3318,12 @@ msgid "Point of view"
 msgstr "视角"
 
 #. [action]: id=button-continue
-#, fuzzy
 msgid "Continue Play"
-msgstr "连续回放"
+msgstr "继续播放"
 
 #. [action]: id=button-continue
 msgid "Exit the replay mode and continue playing normally."
-msgstr ""
+msgstr "退出回放模式并继续游戏。"
 
 #. [action]: id=skip-animation, type=checkbox
 msgid "Skip animation"
@@ -3381,16 +3363,15 @@ msgstr "结束回合"
 msgid "End Scenario"
 msgstr "结束场景"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=label-hp
 #. [label]: id=selected-label-hp
 msgid "HP"
-msgstr "生命值"
+msgstr "生命"
 
 #. [label]: id=label-xp
 #. [label]: id=selected-label-xp
 msgid "XP"
-msgstr "经验值"
+msgstr "经验"
 
 #. [label]: id=gold-icon
 msgid "gold"
@@ -3425,7 +3406,7 @@ msgstr "移动"
 #. [unit_defense]: id=unit-defense
 #. [selected_unit_defense]: id=selected-unit-defense
 msgid "statuspanel^terrain def."
-msgstr "地形闪避"
+msgstr "地形防御"
 
 #. [theme]: id=Default
 msgid "theme^Default"
@@ -3445,7 +3426,7 @@ msgstr "移动点数"
 
 #. [label]: id=label-def
 msgid "def"
-msgstr "闪避"
+msgstr "防御"
 
 #. [unit_level]: id=unit-level
 msgid "statuspanel^lvl"
@@ -3468,58 +3449,57 @@ msgstr ""
 "回合"
 
 #. [theme]: id=UnitBox
-#, fuzzy
 msgid "theme^UnitBox"
-msgstr "潘多拉"
+msgstr "单位小盒"
 
 #. [theme]: id=UnitBox
 msgid "An experimental work-in-progress replacement for the default theme"
-msgstr ""
+msgstr "正在制作中的试验性主题，用于替换默认主题"
 
 #. [action]: id=flip_map_button_editor, type=checkbox
 msgid "Not implemented yet."
-msgstr ""
+msgstr "尚未实现。"
 
 #. [theme]: id=Widescreen
 msgid "theme^Widescreen"
-msgstr ""
+msgstr "宽屏主题"
 
 #. [theme]: id=Widescreen
 msgid "An experimental theme optimized for widescreen resolutions"
-msgstr ""
+msgstr "为宽屏分辨率优化的试验性主题"
 
 #. [tip]
 msgid ""
 "Use the map editor's <i>Areas</i> menu to define regions later addressed by "
 "event or ai coding."
 msgstr ""
-"使用地图编辑器的 <i>区域</i> 菜单来定义区域，之后可以在事件或AI代码中指定这些"
-"区域。"
+"使用地图编辑器的<b>区域</b>菜单来定义区域，之后可以在事件或AI代码中指定这些区"
+"域。"
 
 #. [tip]
 msgid "<i>― The Wesnoth Design Guide</i>"
-msgstr "<i>——韦诺设计指南</i>"
+msgstr "<b>——韦诺设计指南</b>"
 
 #. [tip]
 msgid ""
 "Create a <i>New Scenario</i> in the editor's <i>File</i> menu to make use of "
 "advanced features."
-msgstr "使用编辑器的 <i>文件</i> 菜单来创建一个 <i>新场景</i> 以使用高级特性。"
+msgstr "使用编辑器的<b>文件</b>菜单来创建一个<b>新场景</b>以使用高级特性。"
 
 #. [tip]
 msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the mp create screen's <i>User Scenarios</i> section."
 msgstr ""
-"编辑器中保存在默认文件夹下的场景可以在多人游戏创建界面的 <i>用户场景</i> 区域"
-"中选择。"
+"编辑器中保存在默认文件夹下的场景可以在多人游戏创建界面的<b>用户场景</b>区域中"
+"选择。"
 
 #. [tip]
 msgid ""
 "Don’t neglect to earn your leader experience! You need to keep him safe, but "
 "if you coddle him too much he may be too weak to survive future battles."
 msgstr ""
-"不要忘了让您的领袖获得经验！您必须确保他的安全，但是如果您太惯着他，那他将会"
+"不要忘了让你的领袖获得经验！你必须确保他的安全，但是如果你太惯着他，那他就会"
 "变得太弱，而不能在未来的战斗中存活。"
 
 #. [tip]
@@ -3533,9 +3513,9 @@ msgid ""
 "where they are). Use this to make sure the enemy can’t reach your weak or "
 "injured units on his next turn."
 msgstr ""
-"在<b>行动</b>菜单中选择<b>显示敌方移动范围</b>可以高亮显示所有对方可能到达的"
-"位置（假定您的单位都呆在自己位置上）。使用这个功能来确保敌人在下回合无法碰到"
-"您的虚弱或负伤的单位。"
+"在<b>行动</b>菜单中选择<b>显示敌方移动范围</b>可以高亮显示对方可能到达的所有"
+"格子（假定你的单位都呆在自己位置上）。使用这个功能来确保敌人在下回合无法碰到"
+"你的虚弱或负伤的单位。"
 
 #. [tip]
 msgid "<i>― The Wesnoth Tactical Guide</i>"
@@ -3548,7 +3528,7 @@ msgid ""
 "you can get some high-level troops sooner."
 msgstr ""
 "拥有<b>聪慧</b>特质的单位升级需要的经验比一般单位少。在战役早期，试着把最后一"
-"击留给这些单位，那么您就可以更快地拥有一些高等级部队了。"
+"击留给这些单位，那么你就可以更快拥有一些高等级部队了。"
 
 #. [tip]
 msgid "<i>― King Konrad, 536YW</i>"
@@ -3561,13 +3541,13 @@ msgid ""
 "will restrict it to one hex of movement in any direction. Unfortunately, you "
 "must completely surround skirmishers to immobilize them."
 msgstr ""
-"包围战术是非常有效的，特别是对抗速度快的对手之时。只要把两个单位放置在一个敌"
-"方单位相对的两侧，他们的控制区域就能将敌方单位的移动范围在任何方向上都限制在"
-"一格。不幸的是，你必须完全包围住游击士才能让他们无法动弹。"
+"包围战术是非常有效的，特别是在对抗迅捷的对手之时。只要把两个单位放置在一个敌"
+"方单位相对的两侧，他们的控制区域就能将敌方单位的移动在所有方向上都限制在一"
+"格。不幸的是，你必须完全包围住游击士才能让他们无法动弹。"
 
 #. [tip]
 msgid "<i>― Memoirs of Gweddry, 627YW</i>"
-msgstr "<b>——格温德利的回忆录，韦元627年</b>"
+msgstr "<b>——格威德利的回忆录，韦元627年</b>"
 
 #. [tip]
 msgid ""
@@ -3576,9 +3556,8 @@ msgid ""
 "a unit in. Placing units wisely can sometimes let you reach a village a turn "
 "earlier."
 msgstr ""
-"鼠标右键点击城堡地块就可以使用<b>征募</b>和<b>召回</b>命令。这样您就可以选择"
-"将新单位放置在哪个六角格里。明智地摆放单位有时可以让您提前一回合到达某个村"
-"庄。"
+"鼠标右键点击城堡地块就可以使用<b>征募</b>和<b>召回</b>命令。这样你就可以选择"
+"将新单位放置在哪个格子里。明智地摆放单位有时可以让你提前一回合到达村庄。"
 
 #. [tip]
 msgid ""
@@ -3586,8 +3565,8 @@ msgid ""
 "<b>Status Table</b> will let you know how your enemies are doing, and how "
 "you are doing in comparison."
 msgstr ""
-"主菜单里有些很有用的摘要信息屏：例如，<b>状态表</b>可以让您知道您的敌人们表现"
-"如何，而相比较之下，您的表现又是如何。"
+"主菜单里有些很有用的摘要信息屏：例如，<b>状态表</b>可以让你知道你的敌人们表现"
+"如何，而相比之下，你的表现又是如何。"
 
 #. [tip]
 msgid ""
@@ -3595,13 +3574,13 @@ msgid ""
 "can be very important when moving through difficult terrain such as water or "
 "caves. It can make the difference between being able to move one hex or two."
 msgstr ""
-"拥有<b>迅捷</b>特质的单位每回合多一点额外的移动力。这在通过复杂地形，例如水域"
-"或者洞穴时将变得非常重要。可以移动一格还是两格，这一区别足以对战局产生影响"
-"了。"
+"拥有<b>迅捷</b>特质的单位每回合多一点额外的移动点数。这在通过复杂地形，例如水"
+"域或者洞穴时非常重要。是否拥有这一点额外移动点数，有可能便是可以移动一格还是"
+"两格的区别。"
 
 #. [tip]
 msgid "<i>― High Lord Kalenz, 470YW</i>"
-msgstr "<b>——凯雷茨高阶领主，韦元470年</b>"
+msgstr "<b>——卡雷兹高阶领主，韦元470年</b>"
 
 #. [tip]
 msgid ""
@@ -3609,8 +3588,8 @@ msgid ""
 "the <b>Help</b> screen carefully. Details become important as scenarios get "
 "harder!"
 msgstr ""
-"玩过几个场景后，请您认真阅读<b>帮助</b>屏幕中的<b>游戏玩法</b>部分。随着场景"
-"变得越来越难，细节也就变得越来越重要了！"
+"玩过几个场景后，请认真阅读<b>帮助</b>屏幕中的<b>游戏玩法</b>部分。随着场景变"
+"得越来越难，细节也就变得越来越重要了！"
 
 #. [tip]
 msgid ""
@@ -3618,8 +3597,8 @@ msgid ""
 "level units that are about to level up than with those same units at a "
 "higher level."
 msgstr ""
-"在开始战役中的下一个场景时，通常最好能使用即将升级的低等级单位，而不是使用高"
-"等级的相同单位。"
+"通常来说，在开始战役中的下一个场景时，最好能使用即将升级的低等级单位，而不是"
+"使用高等级的相同单位。"
 
 #. [tip]
 msgid ""
@@ -3627,7 +3606,7 @@ msgid ""
 "history of Wesnoth, and much more."
 msgstr ""
 "您可以在www.wesnoth.org找到战略指导，技术支持，韦诺的历史，以及更多其他的信"
-"息。使用中文的玩家也请访问wesnoth.cn。"
+"息。"
 
 #. [tip]
 msgid "<i>― The Wesnoth Community</i>"
@@ -3645,16 +3624,16 @@ msgstr ""
 #. [tip]
 msgid ""
 "<i>― Royal Compendium of Battle Terminology: Volume II (reprinted 221YW)</i>"
-msgstr "<b>——《皇家战斗术语纲要》第二卷（韦元221年重印）</b>"
+msgstr "<b>——《皇家战斗术语纲要：第二卷》（韦元221年重印）</b>"
 
 #. [tip]
 msgid ""
 "An otherwise sound plan can fail if you attack at the wrong time of day."
-msgstr "如果进攻的时段不对头，再好的战术也是白搭。"
+msgstr "如果在错误的时段进攻，那么哪怕是其他方面都可靠的作战计划也可能失败。"
 
 #. [tip]
 msgid "<i>― Haldric II, 42YW, Handbook of Tactical Analysis: Volume I</i>"
-msgstr "<b>——《战术分析手册》第一卷，哈德里克二世，韦元42年</b>"
+msgstr "<b>——《战术分析手册：第一卷》，哈德里克二世，韦元42年</b>"
 
 #. [tip]
 msgid ""
@@ -3663,10 +3642,9 @@ msgid ""
 "their cost. Try to choose scouts that can easily move across the surrounding "
 "terrain, because units can only see as far as they can move in one turn."
 msgstr ""
-"如果游戏时开启了<b>战场黑幕</b>和<b>战争迷雾</b>，您将不知道您面对的是什么。"
-"在这种情况下，远距离侦察单位会体现出他们的价值。尝试去选择一些可以很容易穿越"
-"周围地形的侦察单位，因为单位能看到的范围和他们在一回合内可以移动到的范围是一"
-"样的。"
+"如果游戏时开启了<b>战场黑幕</b>和<b>战争迷雾</b>，你将不知道自己面对的是什"
+"么。在这种情况下，远距离侦察单位就值回票价了。尝试选择可以很容易穿越周围地形"
+"的侦察单位，因为单位只能看到他们在一回合内可以移动到的范围。"
 
 #. [tip]
 msgid ""
@@ -3677,9 +3655,9 @@ msgid ""
 "affect it the most."
 msgstr ""
 "有六种攻击类型：<b>穿刺</b>，<b>剑刃</b>，<b>冲击</b>，<b>火焰</b>，<b>寒冰</"
-"b>和<b>奥术</b>。不同的单位对不同的攻击有不同的弱点。鼠标右击一个单位，再选择"
-"<b>单位描述</b>，就可以查看它对哪些攻击有很高的抗性，又是哪些攻击对它的伤害最"
-"大。"
+"b>和<b>奥术</b>。不同的单位面对不同的攻击时会暴露弱点。鼠标右击一个单位，再选"
+"择<b>单位描述</b>，就可以查看它对哪些攻击有很高的抗性，又是哪些攻击对它的伤害"
+"最大。"
 
 #. [tip]
 msgid ""
@@ -3688,8 +3666,8 @@ msgid ""
 "in the currently selected terrain is displayed in the top right corner of "
 "the screen."
 msgstr ""
-"您的单位所占据的地形是决定他们被命中的几率的重要因素。当前所选定单位所在地形"
-"对其闪避能力的影响会在屏幕的右上角显示。"
+"你的单位所占据的地形是决定他们被命中几率的首要因素。当前选定单位在当前地形上"
+"的防御率会在屏幕的右上角显示。"
 
 #. [tip]
 msgid ""
@@ -3700,9 +3678,9 @@ msgid ""
 "a village or next to a unit with the <i>Cures</i> ability."
 msgstr ""
 "中毒的单位每回合会损失8点生命值，直到他们剩下1点生命值为止。如果毒性不解除，"
-"那他们将一直停留在鬼门关。疗伤者可以避免毒性恶化，但是除非中毒单位有再生能"
-"力，或者在回合开始时处于村庄里，或者在拥有<b>治愈</b>技能的单位旁边，否则毒性"
-"不会解除。"
+"那他们将一直停留在鬼门关。治疗师可以避免中毒单位的状况恶化，但除非中毒单位可"
+"以再生，或者在回合开始时位于村庄里，或者在拥有<b>解毒</b>能力的单位旁边，否则"
+"毒性不会解除。"
 
 #. [tip]
 msgid ""
@@ -3710,8 +3688,8 @@ msgid ""
 "the <b>Actions</b> menu. By recalling the same units over and over, you can "
 "build up a powerful and experienced army."
 msgstr ""
-"您可以通过<b>行动</b>菜单中的<b>召回</b>选项来调回上一个场景中的单位。通过不"
-"断召回同一组单位，您可以建立一支强力而经验丰富的军队。"
+"你可以通过<b>行动</b>菜单中的<b>召回</b>来召回上一个场景中的单位。通过不断召"
+"回相同的单位，你可以建立一支强大而经验丰富的军队。"
 
 #. [tip]
 msgid ""
@@ -3721,8 +3699,8 @@ msgid ""
 "between them and still create a barrier to the enemy. Beware, though: "
 "skirmishers can pass through these gaps."
 msgstr ""
-"一级或级别更高的单位旁边的六个六角格是他们的<b>控制区域</b>。如果单位移动到了"
-"敌人的控制区域，它在本回合将不能再移动。这意味着单位之间即使有两个空格也仍然"
+"一级或级别更高的单位旁边的六个格子是他们的<b>控制区域</b>。如果单位移动进了敌"
+"方控制区域，它在本回合将不能进一步移动。这意味着单位之间即使有两个空格也仍然"
 "能困住敌人。不过请当心：游击士可以通过这些空隙。"
 
 #. [tip]
@@ -3733,20 +3711,21 @@ msgid ""
 "are guaranteed at least a 60% chance of a hit when they attack on their own "
 "turn."
 msgstr ""
-"命中单位的几率通常取决于这个单位在它所处的地形上能够多有效地进行闪避。不过，"
-"魔法攻击总是有70%的命中率，而拥有<b>精准</b>技能的单位在自己的行动回合中发起"
-"进攻时，也能保证至少有60%的命中率。"
+"命中单位的几率通常取决于这个单位在它所处的地形上能多有效地进行防御。不过，魔"
+"法攻击总是有70%的命中率，而拥有<b>精准</b>能力的单位在自己的行动回合中发起进"
+"攻时，也能保证至少有60%的命中率。"
 
 #. [tip]
 msgid "<i>― Haldric II, 43YW, Handbook of Tactical Analysis: Volume II</i>"
-msgstr "<b>——《战术分析手册》第二卷，哈德里克二世，韦元42年</b>"
+msgstr "<b>——《战术分析手册：第二卷》，哈德里克二世，韦元43年</b>"
 
 #. [tip]
 msgid ""
 "Units stationed in villages will either heal eight hitpoints at the "
 "beginning of their turn, or will recover from poisoning."
 msgstr ""
-"驻扎在村庄里的单位在下回合开始时要么恢复8点生命值，要么从中毒状态中恢复过来。"
+"驻扎在村庄里的单位在自己的回合开始时要么恢复8点生命值，要么从中毒状态中恢复过"
+"来。"
 
 #. [tip]
 msgid ""
@@ -3754,8 +3733,8 @@ msgid ""
 "does not move or attack, it will recover two hitpoints at the beginning of "
 "its next turn."
 msgstr ""
-"除非有必要，否则不要移动负伤的单位——让它休息。如果一个单位既不移动也不攻击，"
-"它将在下回合开始时恢复2点生命值。"
+"除非必要，否则不要移动负伤的单位——让它休息。如果一个单位既不移动也不攻击，它"
+"将在下回合开始时恢复2点生命值。"
 
 #. [tip]
 msgid ""
@@ -3765,8 +3744,8 @@ msgid ""
 "are not caught out by a surprise attack."
 msgstr ""
 "在开启了<b>战场黑幕</b>或<b>战争迷雾</b>的地图上，所有单位的视线都被他们的最"
-"大移动步数所限制。如果您有一些很有价值但移动缓慢的单位，那一定要派至少一个快"
-"速单位跟随他们，这样便不会被突然袭击所算计。"
+"大移动步数所限制。如果你有一些有价值但移动缓慢的单位，那一定要派至少一个快速"
+"单位跟随他们，这样便不会被突然袭击所算计。"
 
 #. [tip]
 msgid ""
@@ -3774,8 +3753,8 @@ msgid ""
 "terrain types, while most mounted units do not gain any defensive advantages "
 "from villages or castles."
 msgstr ""
-"大多数步兵单位在村庄和城堡中的闪避率要好于其它地形，而大多数骑兵在城堡和村庄"
-"中则不会有闪避方面的优势。"
+"大多数步兵单位在村庄和城堡中的防御要好于其它地形，而大多数骑兵在城堡和村庄中"
+"则不会有防御方面的优势。"
 
 #. [tip]
 msgid "<i>― Sir Kaylan, 498YW</i>"
@@ -3787,8 +3766,8 @@ msgid ""
 "weapons, but are vulnerable to attacks with piercing weapons, including bows "
 "and spears."
 msgstr ""
-"骑乘单位通常能够抵御剑刃或冲击武器的攻击，但却易受穿刺武器的伤害，比如说弓和"
-"矛。"
+"骑马的单位通常对剑刃或冲击武器的攻击有较强的抗性，但却易受穿刺武器的伤害，包"
+"括弓和矛。"
 
 #. [tip]
 msgid "<i>― Sir Kaylan, 502YW</i>"
@@ -3801,38 +3780,39 @@ msgid ""
 "every level of the unit they kill, or four experience points for a zero-"
 "level opponent."
 msgstr ""
-"对敌人打出致命一击是获取经验值的最好方式。杀死敌人的单位会按照敌人的等级得到"
-"经验值，每一级8点，如果杀死0级的对手则获得4点经验值。"
+"对敌人打出致命一击是获取经验值的最好方式。单位在杀死敌人后会根据所杀敌人的等"
+"级获得经验值，每一级8点，如果杀死0级的对手则获得4点经验值。"
 
 #. [tip]
 msgid ""
 "Elvish units move and fight well in forest. Dwarvish units move and fight "
 "well in hills, mountains and caves."
-msgstr "精灵擅长在森林中移动和战斗。矮人擅长在丘陵、山脉和洞穴中移动和战斗。"
+msgstr ""
+"精灵单位擅长在森林中移动和战斗。矮人单位擅长在丘陵、山脉和洞穴中移动和战斗。"
 
 #. [tip]
 msgid ""
 "Patience is often key. Rather than attacking in bad conditions or with few "
 "troops, wait for better conditions and then attack."
 msgstr ""
-"耐心是制胜的法宝。与其在劣势下进攻，或使用很少的部队去进攻，还不如等待更好的"
-"时机再进攻。"
+"耐心通常是制胜的法宝。与其在劣势下进攻，或用很少的部队去进攻，还不如等待更好"
+"的时机再进攻。"
 
 #. [tip]
 msgid ""
 "If you are attacked from several directions, it may be a good idea to send "
 "expendable units in some directions to delay enemy units."
 msgstr ""
-"如果您多面受敌，向某些方向派出可牺牲的单位以拖延敌人可能是一个不错的主意。"
+"如果你多面受敌，向某些方向派出可牺牲的单位以拖延敌人可能是个不错的主意。"
 
 #. [tip]
 msgid ""
 "Do not be afraid to retreat and regroup; it is often the key to victory."
-msgstr "别害怕撤退和重整队形：这通常是胜利的关键。"
+msgstr "别害怕撤退和重整队形；这通常是胜利的关键。"
 
 #. [tip]
 msgid "<i>― Meneldur, 123YW</i>"
-msgstr "<b>——蒙内杜尔，韦元123年</b>"
+msgstr "<b>——蒙内尔德，韦元123年</b>"
 
 #. [tip]
 msgid ""
@@ -3842,8 +3822,8 @@ msgid ""
 "villages and waiting for the turns to run out."
 msgstr ""
 "在绝大多数战役中，提前完成任务目标会获得金币奖励，其数目取决于地图上村庄的数"
-"量和剩余的回合数。和占领剩下的村庄并等待回合数耗尽相比，提前完成目标常常能让"
-"您获得更多的金币。"
+"量和剩余的回合数。和占领剩下的村庄并等待回合数耗尽相比，提前完成目标通常能让"
+"你获得更多金币。"
 
 #. [tip]
 msgid ""
@@ -3853,16 +3833,16 @@ msgid ""
 "even capture an enemy’s keep and use that."
 msgstr ""
 "<b>领袖</b>们可以在任意城堡的主楼里征募或召回单位，而不仅仅是战斗开始时他们所"
-"在的主楼。有些时候，您的盟友会愿意在他们的主楼里为您腾出空间以招募单位，而且"
-"您甚至可以占领敌人的主楼并利用之。"
+"在的主楼。有些时候，你的盟友会愿意在他们的主楼上为你腾出空间以征募单位，你甚"
+"至可以占领敌人的主楼并利用之。"
 
 #. [tip]
 msgid ""
 "Skeletons are resistant to piercing, bladed and cold-based attacks but are "
 "vulnerable to impact, fire, and arcane attacks."
 msgstr ""
-"骷髅对穿刺、剑刃和寒冰攻击具有较强的抗性，但却容易受到冲击、火焰和奥术攻击的"
-"伤害。"
+"骷髅对穿刺、剑刃和寒冰攻击具有较强的抗性，但却易受冲击、火焰和奥术攻击的伤"
+"害。"
 
 #. [tip]
 msgid ""
@@ -3870,9 +3850,9 @@ msgid ""
 "the same side fight better. You can move these units slowly along your "
 "battle lines and give bonuses to large numbers of lower-level troops."
 msgstr ""
-"有<b>领导</b>技能的单位会使得与其相邻的同一阵营而等级低于它的单位更有效地战"
-"斗。您可以让这些单位沿着战线缓慢移动，这样便可以为大量等级较低的部队提供攻击"
-"加成。"
+"有<b>领导</b>能力的单位可以帮助与自身相邻的同一阵营而等级低于自身的单位更有效"
+"地战斗。你可以让这些单位沿着战线缓慢移动，这样便可以为大量等级较低的部队提供"
+"攻击加成。"
 
 #. [tip]
 msgid ""
@@ -3880,12 +3860,12 @@ msgid ""
 "the village and attack you, while enjoying the defense and healing of the "
 "village."
 msgstr ""
-"尽量避免将单位移动到无人驻守的村庄旁边。敌方单位可能会移动到村庄里，在享受村"
-"庄带给它的闪避和治疗优势的同时攻击您的单位。"
+"尽量避免移动到无人驻守的村庄旁边。敌方单位可能会移动到村庄里，在享受村庄带来"
+"的防御和治疗优势的同时攻击你。"
 
 #. [tip]
 msgid "Use lines of troops to screen your injured units while they recover."
-msgstr "让部队站成一线以掩护受伤的单位，让他们得到恢复。"
+msgstr "在负伤的单位恢复时，让部队站成线形来保护他们。"
 
 #. [tip]
 msgid "<i>― Princess Li’sar, 515YW</i>"
@@ -3900,20 +3880,20 @@ msgid ""
 "If you move a unit, but don’t attack or discover any additional information, "
 "you can undo your move by pressing <b>u</b>."
 msgstr ""
-"如果您移动了某个单位，但没有发动攻击，也没有发现任何额外的信息，那么您就可以"
-"按<b>u</b>键来撤销移动。"
+"如果你移动了某个单位，但没有发动攻击，也没有发现任何额外的信息，那么就可以按"
+"<b>u</b>键来撤销移动。"
 
 #. [tip]
 msgid ""
 "You can see how far enemy units can move by moving the mouse cursor over "
 "them."
-msgstr "通过将鼠标移动到敌方单位之上，您将可以看到他们究竟可以移动多远。"
+msgstr "将鼠标移动到敌方单位之上，你就可以看到他们能够移动多远。"
 
 #. [tip]
 msgid ""
 "Use healers to support your attacks — they will win you battles without "
 "needing to attack anything themselves."
-msgstr "用疗伤者来支援您的进攻——他们不需要亲手攻击任何东西，就可以帮助您获胜。"
+msgstr "用治疗师来支援进攻——他们不需要亲手攻击任何东西，就可以帮助你获胜。"
 
 #. [tip]
 msgid "<i>― The Scroll of Chantal, 516YW</i>"
@@ -3924,12 +3904,12 @@ msgid ""
 "The <i>Slow</i> attack makes enemy units move slower and halves the damage "
 "they do on all attacks until they end a turn."
 msgstr ""
-"<b>减速</b>攻击将使得敌方单位的移动变慢，并让他们所有攻击的伤害输出减半，直到"
-"本回合结束。"
+"<b>减速</b>攻击将使敌方单位的移动变慢，并让他们所有攻击的伤害输出减半，直到他"
+"们的回合结束。"
 
 #. [tip]
 msgid "<i>Arcane</i> attacks are very powerful against undead."
-msgstr "<b>奥术</b>攻击对付亡灵时非常给力。"
+msgstr "<b>奥术</b>攻击对付亡灵时非常强力。"
 
 #. [tip]
 msgid "<i>― Great Sage Dacyn, 626YW</i>"
@@ -3939,7 +3919,7 @@ msgstr "<b>——大贤者达辛，韦元626年</b>"
 msgid ""
 "Units are healed when they advance a level. Used wisely, this can turn a "
 "fight."
-msgstr "单位升级时生命值会恢复全满。明智地利用这一点，就可以在战斗中翻盘。"
+msgstr "单位升级时生命值会恢复全满。明智地利用这一点，就可能在战斗中翻盘。"
 
 #. [tip]
 msgid ""
@@ -3956,8 +3936,8 @@ msgid ""
 "lower-level units instead."
 msgstr ""
 "高等级单位不能再升级，而是获得<b>满级奖励</b>（AMLA）。通常情况下，AMLA会使该"
-"单位增加3点最大生命值，并完全恢复。这比升级通常所能带来的好处要少得多，所以不"
-"获取AMLA，而是让您的低等级单位升级往往更加明智。"
+"单位增加3点最大生命值，并完全治愈。这比升级通常所能带来的好处要少得多，所以让"
+"您的低等级单位升级往往更加明智。"
 
 #. [tip]
 msgid ""
@@ -3965,8 +3945,8 @@ msgid ""
 "mouse pointer over any button or icon to get a description or explanation of "
 "what it does."
 msgstr ""
-"韦诺的游戏屏幕中几乎所有的按钮和图标都有工具提示。把鼠标指针指向任何一个按钮"
-"或者图标，便可以看到对其作用的描述或者解释。"
+"韦诺游戏中几乎所有的按钮和图标都有工具提示。把鼠标指针指向任何一个按钮或者图"
+"标，便可以看到对其作用的描述或解释。"
 
 #. [tip]
 msgid ""
@@ -3974,8 +3954,8 @@ msgid ""
 "veteran to damage a joint target heavily enough for the junior partner to "
 "get in the killing blow."
 msgstr ""
-"为了使低等级单位快速升级，可以将他们与老兵组成一队，并让老兵给予共同的目标足"
-"够的伤害。这样一来同队的后辈就可以打出致命一击了。"
+"为了让低等级单位快速升级，可以将他们与老兵组成一队，并让老兵给予共同的目标足"
+"够的伤害，这样一来同队的后辈就可以打出致命一击了。"
 
 #. [tip]
 msgid "<i>― Queen Li’sar, 528YW</i>"
@@ -3987,16 +3967,16 @@ msgid ""
 "the <b>Delay Shroud Updates</b> option when you need to move units while "
 "retaining the ability to undo, or use the new Whiteboard planning tool."
 msgstr ""
-"如果某次移动揭开了迷雾或者黑幕之下的地图六角格，那么该移动就不能被撤销。如果"
-"您想在移动单位的同时保留撤销的能力，可以开启<b>暂缓更新黑幕</b>选项，或者使用"
-"全新的白板计划工具。"
+"如果某次移动揭开了迷雾或者黑幕之下的格子，那么该移动就不能撤销。如果您想在移"
+"动单位的同时保留撤销的能力，可以开启<b>暂缓更新黑幕</b>选项，或者使用新的白板"
+"计划工具。"
 
 #. [tip]
 msgid ""
 "If an enemy benefits more from a rare terrain type than you do, occupying "
 "that terrain will deprive them of its benefits."
 msgstr ""
-"如果敌人在某种稀有地形上的闪避率比您的更好，那么占领该地形可以避免他们获益。"
+"如果敌人在某种稀有地形上的防御率比你更高，那么占领该地形可以避免他们获益。"
 
 #. [tip]
 msgid ""
@@ -4004,7 +3984,7 @@ msgid ""
 "a river can inflict heavy casualties. Elves can use the edge of a forest in "
 "a similar manner, and dwarves can do the same with mountains."
 msgstr ""
-"几乎没有什么单位在水中具有很好的闪避；沿岸排成一条线的进攻部队可以造成重大的"
+"几乎没有什么单位在水中具有很好的防御；沿岸排成一条线的进攻部队可以造成重大的"
 "伤亡。精灵可以用类似的方法来利用森林的边界，而矮人们则可以照此方法来利用山"
 "脉。"
 
@@ -4013,8 +3993,8 @@ msgid ""
 "In many campaign scenarios, you may issue simple instructions for your "
 "computer-controlled allies using the right-click context menu."
 msgstr ""
-"在许多战役场景中，您都可以通过右键上下文菜单向您由计算机控制的盟友下达简单的"
-"指令。"
+"在许多战役场景中，你都可以通过右键上下文菜单向由计算机控制的盟友下达简单的指"
+"令。"
 
 #. [tip]
 msgid ""
@@ -4025,10 +4005,10 @@ msgid ""
 "to escape; slow enemies are almost immobilized, and your own units suffer "
 "less retaliation damage, so it’s quicker to heal them."
 msgstr ""
-"<b>减速</b>技能非常强力，这是由于其具有多样的效果。敌方亡灵的<b>吸血</b>技能"
-"的效果会减半，<b>冲锋</b>和<b>背刺</b>的伤害加成会无效化，而<b>狂暴</b>技能也"
-"会被削弱。速度快的对手将疲于逃命，而速度慢的敌人则几乎会被钉死在原地。同时，"
-"你自己的单位所受到的反击伤害则会减轻，于是便可以更快地为他们疗伤。"
+"由于具有多样的效果，<b>减速</b>能力非常强力。敌方亡灵的<b>吸血</b>能力的效果"
+"会减半，<b>冲锋</b>和<b>背刺</b>的伤害加成会无效化，而<b>狂暴</b>能力也会被削"
+"弱。速度快的对手将疲于逃命，而速度慢的敌人则几乎会被钉死在原地。同时，你自己"
+"的单位所受到的反击伤害则会减轻，于是便可以更快地为他们疗伤。"
 
 #. [tip]
 msgid ""
@@ -4038,8 +4018,8 @@ msgid ""
 "as inevitably happens from time to time."
 msgstr ""
 "设法让拥有强力攻击但攻击次数较少的单位——例如黑暗狂徒，骑手，兽人步兵或者矮人"
-"雷霆战士之类——三两成群。这样当第一下毁天灭地的攻击失手时，你总会有再来一次的"
-"机会——而不可避免地，失手是时而会发生的情况。"
+"雷霆战士——三两成群。这样当第一下毁天灭地的攻击失手时，你总会有再来一次的机会"
+"——而失手是不可避免且时而会发生的。"
 
 #. [tip]
 msgid ""
@@ -4049,8 +4029,8 @@ msgid ""
 "damage makes a one-hit kill possible."
 msgstr ""
 "拥有三种或更多攻击方式——尤其是魔法攻击——的单位非常适合于解决只剩下很少生命值"
-"的敌人。当额外的一两点伤害使得一击必杀成为可能时，一定要确保使用领导技能——或"
-"使用一个强壮或者灵巧的单位。"
+"的敌人。当额外的一两点伤害使得一击必杀成为可能时，要确保使用领导能力——或使用"
+"一个强壮者灵巧的单位。"
 
 #. [tip]
 msgid ""
@@ -4058,8 +4038,8 @@ msgid ""
 "little experience it has. Sometimes it’s worth paying a premium to know "
 "exactly what traits a new arrival will have."
 msgstr ""
-"不论其经验值多么少，在解散召回列表中的任何单位之前都请三思。有时候，花点额外"
-"的小钱以确知新上场的单位具有何种特质，是值得的。"
+"不论其经验值多么少，在解散召回列表中的任何单位之前都请三思。有时候，为了确知"
+"新上场的单位所具有的特质，多花点钱是值得的。"
 
 #. [tip]
 msgid ""
@@ -4067,9 +4047,8 @@ msgid ""
 "turns’ movement away from the fighting. Then it can recover in peace (at 10 "
 "hitpoints per turn) without tying up front-line villages."
 msgstr ""
-"当一个强壮的单位受重伤时，请把它送到距离战场几个回合的路途之远的村庄里治疗。"
-"这样一来它便可以安宁地恢复状态（每回合10点生命值），而且还不会把前线村庄挤"
-"爆。"
+"当强壮的单位受重伤时，请把它送到距离战场几个回合的路途之远的村庄里治疗。这样"
+"一来它便可以安静地恢复（每回合10点生命值），而且还不会把前线村庄挤爆。"
 
 #. [tip]
 msgid "<i>― Lord Hamel of Knalga</i>"
@@ -4081,8 +4060,9 @@ msgid ""
 "work to combine, for example, <i>Leadership</i>, <i>Illuminates</i> and "
 "<i>Charge</i> against a slowed opponent, the results can be impressive."
 msgstr ""
-"将多种特殊技能组合起来运用将是致命的。例如，尽管要把<b>领导</b>，<b>照明</b>"
-"和<b>冲锋</b>组合起来是得花点工夫，但其效果实在会让人印象深刻。"
+"将多种特殊能力组合起来运用是致命的。例如，尽管要把<b>领导</b>，<b>照明</b>和"
+"<b>冲锋</b>组合起来对付一个被减了速的对手是得花点工夫，但其效果实在是会让人印"
+"象深刻。"
 
 #. [tip]
 msgid ""
@@ -4091,8 +4071,8 @@ msgid ""
 "your units extra experience. When deciding whether or not to finish a "
 "scenario early, weigh these factors against one another."
 msgstr ""
-"虽然提前完成任务目标会有一笔赏金，同时也减少了敌人杀掉您的重要部队的机会，但"
-"这也意味着您失去了让单位获得额外经验值的良机。在定夺是否要尽早结束战斗时，请"
+"虽然提前完成任务目标会有一笔赏金，同时也减少了敌人杀掉你珍贵的部队的机会，但"
+"这也意味着你失去了让单位获得额外经验值的良机。在定夺是否要尽早结束战斗时，请"
 "权衡两方面的因素。"
 
 #. [tip]
@@ -4103,9 +4083,9 @@ msgid ""
 "average. Plan for heavy losses, and take firm control of any hex where the "
 "land does favor you."
 msgstr ""
-"如果您的军队在地图上各处的闪避能力都很弱，那就占据那些让敌人也有同样劣势的区"
-"域。避免占据您的闪避率很糟糕而敌人的闪避率只是一般的地方。做好遭受重大损失的"
-"准备，同时也要牢牢控制住那些会为您提供优势的地形。"
+"如果你的军队在地图上各处的防御能力都很弱，那就占据那些让敌人在进攻时也有同样"
+"劣势的区域。避免占据你的防御很糟糕而敌人的防御只是一般的地方。做好遭受重大损"
+"失的准备，同时要牢牢控制住任何确实可以为你提供地形优势的格子。"
 
 #. [tip]
 msgid ""
@@ -4113,6 +4093,8 @@ msgid ""
 "of 20 gold. In a campaign, always check if recalling a unit of the same type "
 "may be cheaper."
 msgstr ""
+"有些单位的征募费用可能会超过通常的20金币的召回费用。在战役中，要总记得检查召"
+"回同类单位是不是反而便宜一些。"
 
 #. [tip]
 msgid ""
@@ -4120,49 +4102,47 @@ msgid ""
 "if they occupy a village hex, they do not gain any defensive benefits from "
 "the village, although they will still be healed."
 msgstr ""
-"<b>野生</b>单位——例如蝙蝠和野生动物——会避开村庄。就算它们占据了一个村庄六角"
-"格，也不能够得到村庄带来的任何闪避率加成，虽然说它们仍然会得到治疗。"
+"<b>野生</b>单位——例如蝙蝠和野生动物——会避开村庄。就算它们占据了村庄格子，也不"
+"能得到村庄带来的任何防御加成，虽然说它们仍然会得到治疗。"
 
 msgid "An invalid attacker weapon got selected."
 msgstr "选中了无效的攻击武器。"
 
 msgid "An invalid defender weapon got selected."
-msgstr "所选防御武器无效。"
+msgstr "选中了无效的防御武器。"
 
-#, fuzzy
 msgid "You do not have a leader to recall with."
-msgstr "您没有领袖，无法进行召回。"
+msgstr "你没有可以进行召回的领袖。"
 
 msgid "None of your leaders are able to recall that unit."
-msgstr "您的领袖都不能召回该单位。"
+msgstr "你的领袖都不能召回该单位。"
 
 msgid "You must have a leader on a keep who is able to recall that unit."
-msgstr "您必须让一位领袖站在城堡主楼上才能召回该单位。"
+msgstr "你必须让一位可以召回该单位的领袖站在城堡主楼上。"
 
 msgid "There are no vacant castle tiles in which to recall the unit."
-msgstr "城堡内没有空格，无法招募单位。"
+msgstr "城堡内没有空格，无法召回该单位。"
 
 msgid "An unrecognized error has occurred."
 msgstr "发生了无法识别的错误。"
 
-#, fuzzy
 msgid "You do not have a leader to recruit with."
-msgstr "您没有领袖，无法进行征募。"
+msgstr "你没有可以进行征募的领袖。"
 
 msgid "None of your leaders are able to recruit that unit."
-msgstr "您的领袖都不能征募该单位。"
+msgstr "你的领袖都不能征募该单位。"
 
 msgid "You must have a leader on a keep who is able to recruit the unit."
-msgstr "您必须让一位领袖站在城堡主楼上才能征募该单位。"
+msgstr "你必须让一位可以征募该单位的领袖站在城堡主楼上。"
 
 msgid "There are no vacant castle tiles in which to recruit the unit."
-msgstr "城堡内没有空格，无法征募单位。"
+msgstr "城堡内没有空格，无法征募该单位。"
 
 msgid "cured"
-msgstr "治愈"
+msgstr "已解毒"
 
 msgid "female^cured"
-msgstr "治愈"
+msgstr "已解毒"
 
 msgid "Ambushed!"
 msgstr "遭到伏击！"
@@ -4172,13 +4152,13 @@ msgstr "传送失败！出口阻塞"
 
 msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
 msgid_plural "$friends friendly"
-msgstr[0] "1 个友军"
-msgstr[1] "$friends 个友军"
+msgstr[0] "1名友军"
+msgstr[1] "$friends|名友军"
 
 msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
 msgid_plural "$enemies enemy"
-msgstr[0] "1 个敌军"
-msgstr[1] "$enemies 个敌军"
+msgstr[0] "1名敌军"
+msgstr[1] "$enemies|名敌军"
 
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
 msgstr "发现单位！（$friendphrase，$enemyphrase）"
@@ -4186,39 +4166,39 @@ msgstr "发现单位！（$friendphrase，$enemyphrase）"
 msgid "Enemy unit sighted!"
 msgid_plural "$enemies enemy units sighted!"
 msgstr[0] "发现敌军单位！"
-msgstr[1] "发现$enemies个敌军单位！"
+msgstr[1] "发现$enemies|个敌军单位！"
 
 msgid "Friendly unit sighted"
 msgid_plural "$friends friendly units sighted"
-msgstr[0] "发现友军单位"
-msgstr[1] "发现$friends个友军单位"
+msgstr[0] "发现友军单位！"
+msgstr[1] "发现$friends|个友军单位！"
 
 msgid "(press $hotkey to keep moving)"
-msgstr "（按$hotkey键继续移动）"
+msgstr "（按$hotkey|继续移动）"
 
 msgid "Connecting to $server_address|..."
-msgstr "正在连接到 $server_address ……"
+msgstr "正在连接到$server_address|……"
 
 msgid "Downloading list of add-ons..."
 msgstr "正在下载附加组件列表……"
 
 msgid "Requesting distribution terms..."
-msgstr "正在对分发条款进行请求……"
+msgstr "正在请求分发条款……"
 
 msgid "Sending add-on <i>$addon_title</i>..."
-msgstr "正在发送附加组件 <i>$addon_title</i> ……"
+msgstr "正在发送附加组件<b>$addon_title</b>……"
 
 msgid "Removing add-on <i>$addon_title</i> from the server..."
-msgstr "正在从服务器上移除附加组件 <i>$addon_title</i> ……"
+msgstr "正在从服务器上移除附加组件<b>$addon_title</b>……"
 
 msgid "Downloading add-on <i>$addon_title</i>..."
-msgstr "正在下载附加组件 <i>$addon_title</i>……"
+msgstr "正在下载附加组件<b>$addon_title</b>……"
 
 msgid ""
 "The add-on <i>$addon_title</i> has an invalid file or directory name and "
 "cannot be installed."
 msgstr ""
-"附加组件  <i>$addon_title</i> 中的某个文件名或者目录名无效，因此无法安装。"
+"附加组件<b>$addon_title</b>中的某个文件名或者目录名无效，因此无法安装。"
 
 msgid "Add-ons Manager"
 msgstr "附加组件管理器"
@@ -4250,9 +4230,8 @@ msgstr "多人游戏战役"
 msgid "addon_type^MP modification"
 msgstr "多人游戏模组"
 
-#, fuzzy
 msgid "addon_type^Core"
-msgstr "资源"
+msgstr "核心"
 
 msgid "addon_type^Resources"
 msgstr "资源"
@@ -4309,11 +4288,11 @@ msgid_plural ""
 "The selected add-on has the following dependencies, which are not currently "
 "installed or available from the server. Do you wish to continue?"
 msgstr[0] ""
-"这个附加组件有如下依赖项目。这个依赖项目尚未安装，且不存在于服务器上。您希望"
-"继续吗？"
+"这个附加组件有如下依赖项目。这个依赖项目尚未安装，且不存在于服务器上。希望继"
+"续吗？"
 msgstr[1] ""
-"这个附加组件有如下依赖项目。这些依赖项目尚未安装，且不存在于服务器上。您希望"
-"继续吗？"
+"这个附加组件有如下依赖项目。这些依赖项目尚未安装，且不存在于服务器上。希望继"
+"续吗？"
 
 msgid "Broken Dependencies"
 msgstr "损坏的依赖项目"
@@ -4342,8 +4321,12 @@ msgid ""
 msgid_plural ""
 "The selected add-on has the following dependencies, which are not currently "
 "installed. Do you wish to install them before continuing?"
-msgstr[0] "这个附加组件有如下依赖项目。这个依赖项目尚未安装。您希望继续吗？"
-msgstr[1] "这个附加组件有如下依赖项目。这些依赖项目尚未安装。您希望继续吗？"
+msgstr[0] ""
+"这个附加组件有如下依赖项目。这个依赖项目尚未安装。继续之前希望安装依赖项目"
+"吗？"
+msgstr[1] ""
+"这个附加组件有如下依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
+"吗？"
 
 msgid ""
 "The following dependency could not be installed. Do you still wish to "
@@ -4351,8 +4334,8 @@ msgid ""
 msgid_plural ""
 "The following dependencies could not be installed. Do you still wish to "
 "continue?"
-msgstr[0] "下列依赖项目无法安装。您仍然希望继续吗？"
-msgstr[1] "下列依赖项目无法安装。您仍然希望继续吗？"
+msgstr[0] "下列依赖项目无法安装。仍然希望继续吗？"
+msgstr[1] "下列依赖项目无法安装。仍然希望继续吗？"
 
 msgid "Dependencies Installation Failed"
 msgstr "依赖项目安装失败"
@@ -4361,7 +4344,7 @@ msgid ""
 "The add-on '$addon|' is already installed and contains additional "
 "information that will be permanently lost if you continue:"
 msgstr ""
-"附加组件“$addon”已安装并包含有额外的信息，如果您继续，则这些额外信息将永久丢"
+"附加组件“$addon|”已安装并包含有额外的信息，如果继续，则这些额外信息将永久丢"
 "失："
 
 msgid "Publishing information file (.pbl)"
@@ -4371,7 +4354,7 @@ msgid "Version control system (VCS) information"
 msgstr "版本控制系统（VCS）信息"
 
 msgid "Do you really wish to continue?"
-msgstr "您真的希望继续吗？"
+msgstr "真的希望继续吗？"
 
 msgid "Confirm"
 msgstr "确认"
@@ -4380,8 +4363,8 @@ msgid ""
 "Deleting '$addon|' will permanently erase its download and upload counts on "
 "the add-ons server. Do you really wish to continue?"
 msgstr ""
-"删除“$addon|”将永久性地擦除其在附加组件服务器上的下载与上传计数。您真的希望继"
-"续吗？"
+"删除“$addon|”将永久性地擦除其在附加组件服务器上的下载与上传计数。真的希望继续"
+"吗？"
 
 msgid "Response"
 msgstr "回应"
@@ -4392,13 +4375,13 @@ msgstr "警告"
 msgid ""
 "The remote version of this add-on is greater or equal to the version being "
 "uploaded. Do you really wish to continue?"
-msgstr ""
+msgstr "此附加组件的远程版本和正在上传的版本相同或更高。真的希望继续吗？"
 
 msgid "Invalid icon path. Make sure the path points to a valid image."
-msgstr ""
+msgstr "无效图标路径。请确保该路径指向有效的图片。"
 
 msgid "Terms"
-msgstr "条件"
+msgstr "许可条件"
 
 msgid "New Version"
 msgstr "新版本"
@@ -4410,13 +4393,13 @@ msgid "Downloads"
 msgstr "下载数"
 
 msgid "Publish: $addon_title"
-msgstr "发布： $addon_title"
+msgstr "发布：$addon_title"
 
 msgid "Delete: $addon_title"
 msgstr "删除：$addon_title"
 
 msgid "There are no add-ons available for download from this server."
-msgstr "这个服务器上无可供下载的附加组件。"
+msgstr "这个服务器上没有可供下载的附加组件。"
 
 msgid "There are no add-ons matching the specified criteria on this server."
 msgstr "这个服务器上没有符合规定条件的附加组件。"
@@ -4440,10 +4423,10 @@ msgid "Add-on Updated"
 msgstr "附加组件已更新"
 
 msgid "The add-on '$addon_title|' has been successfully installed."
-msgstr "附加组件“$addon_title|”已经成功安装。"
+msgstr "附加组件“$addon_title|”已成功安装。"
 
 msgid "The add-on '$addon_title|' has been successfully updated."
-msgstr "附加组件“$addon_title”已经成功更新。"
+msgstr "附加组件“$addon_title|”已成功更新。"
 
 msgid "Add-ons Installed"
 msgstr "附加组件已安装"
@@ -4455,7 +4438,7 @@ msgid "All add-ons installed successfully."
 msgstr "所有附加组件都已安装成功。"
 
 msgid "All add-ons updated successfully."
-msgstr "所有附加组件都更新成功了。"
+msgstr "所有附加组件都已更新成功。"
 
 msgid "Installation Failed"
 msgstr "安装失败"
@@ -4481,7 +4464,7 @@ msgstr "远程主机断开连接。"
 msgid ""
 "A problem occurred when trying to create the files necessary to install this "
 "add-on."
-msgstr "试图创建安装本附加组件所必需的文件时发生了问题。"
+msgstr "试图创建安装此附加组件所必需的文件时发生问题。"
 
 msgid ""
 "A local file with add-on publishing information could not be read.\n"
@@ -4498,12 +4481,12 @@ msgid "The add-ons server address specified is not valid."
 msgstr "指定的附加组件服务器地址是无效的。"
 
 msgid "You have no add-ons installed."
-msgstr "您没有安装任何附加组件。"
+msgstr "没有安装任何附加组件。"
 
 msgid "Are you sure you want to remove the following installed add-on?"
 msgid_plural "Are you sure you want to remove the following installed add-ons?"
-msgstr[0] "您确定要移除下列已安装的附加组件吗？"
-msgstr[1] "您确定要移除下列已安装的附加组件吗？"
+msgstr[0] "确定要移除下列已安装的附加组件吗？"
+msgstr[1] "确定要移除下列已安装的附加组件吗？"
 
 msgid ""
 "The following add-on appears to have publishing or version control "
@@ -4532,7 +4515,7 @@ msgstr[0] "下列附加组件已成功删除："
 msgstr[1] "下列附加组件已成功删除："
 
 msgid "Could not find an add-on matching id $addon_id on the add-on server."
-msgstr ""
+msgstr "在附加组件服务器上无法找到与ID $addon_id 匹配的附加组件。"
 
 msgid "Attacker"
 msgstr "进攻方"
@@ -4541,19 +4524,19 @@ msgid "Defender"
 msgstr "防御方"
 
 msgid "Expected Battle Result (HP)"
-msgstr "战斗结果期望（生命值）"
+msgstr "战斗结果期望（生命）"
 
 msgid "Time of day"
 msgstr "时段"
 
 msgid "Leadership"
-msgstr "领导技能"
+msgstr "领导"
 
 msgid " resistance vs "
-msgstr "抗性"
+msgstr " 有效防御"
 
 msgid " vulnerability vs "
-msgstr "弱点"
+msgstr " 不擅防御"
 
 msgid "Slowed"
 msgstr "减速"
@@ -4565,7 +4548,7 @@ msgid "No usable weapon"
 msgstr "无可用武器"
 
 msgid "Chance of being unscathed"
-msgstr "不受伤的几率"
+msgstr "不受伤几率"
 
 msgid "Added to ignore list: $nick"
 msgstr "已加入忽略列表：$nick"
@@ -4574,7 +4557,7 @@ msgid "ignores list"
 msgstr "忽略列表"
 
 msgid "Invalid username: $nick"
-msgstr "无效的用户名：$nick"
+msgstr "无效用户名：$nick"
 
 msgid "Added to friends list: $nick"
 msgstr "已加入好友列表：$nick"
@@ -4592,37 +4575,37 @@ msgid "version"
 msgstr "版本"
 
 msgid "registering with password *** and no email address"
-msgstr "以密码 *** 注册，未使用电子邮件地址"
+msgstr "以密码***注册，未使用电子邮件地址"
 
 msgid "registering with password *** and email address $email"
-msgstr "以密码***和电子邮件地址$email注册"
+msgstr "以密码***和电子邮件地址$email|注册"
 
 msgid "nick registration"
 msgstr "昵称注册"
 
 msgid "dropping your username"
-msgstr "正在废弃您的用户名"
+msgstr "正在废弃你的用户名"
 
 msgid "setting $var to $value"
-msgstr "正在设置$var为$value"
+msgstr "正在设置$var|为$value"
 
 msgid "requesting information for user $nick"
-msgstr "正在请求用户$nick的信息"
+msgstr "正在请求用户$nick|的信息"
 
 msgid "Unknown debug level: '$level'."
-msgstr "未知调试级别：“$level”。"
+msgstr "未知调试级别：“$level|”。"
 
 msgid "error"
 msgstr "错误"
 
 msgid "Unknown debug domain: '$domain'."
-msgstr "未知调试域：“$domain”。"
+msgstr "未知调试域：“$domain|”。"
 
 msgid "Switched domain: '$domain' to level: '$level'."
-msgstr "将“$domain”域切换到“$level”级别。"
+msgstr "将“$domain|”域切换到“$level|”级别。"
 
 msgid "whisper to $receiver"
-msgstr "对$receiver说悄悄话"
+msgstr "对$receiver|说悄悄话"
 
 msgid "whisper: $sender"
 msgstr "悄悄话：$sender"
@@ -4649,7 +4632,7 @@ msgid "%A, %I:%M %p"
 msgstr "%A, %H:%M %p"
 
 msgid "%b %d"
-msgstr "%m月%d日"
+msgstr "%b %d"
 
 msgid "%b %d %Y"
 msgstr "%b %d %Y"
@@ -4658,70 +4641,65 @@ msgid "Invalid color range: "
 msgstr "无效颜色范围："
 
 msgid "Error validating data core."
-msgstr ""
+msgstr "验证数据时发生错误"
 
 msgid "Found a core without id attribute."
-msgstr ""
+msgstr "发现了没有ID属性的核心"
 
 msgid "Skipping the core."
-msgstr ""
+msgstr "跳过此核心。"
 
 msgid "Core ID: "
-msgstr ""
+msgstr "核心ID："
 
 msgid "The ID is already in use."
-msgstr ""
+msgstr "此ID已在使用。"
 
 msgid "Core Path: "
-msgstr ""
+msgstr "核心路径："
 
-#, fuzzy
 msgid "File not found."
-msgstr "变量未找到"
+msgstr "文件未找到。"
 
 msgid "Error loading core data."
-msgstr ""
+msgstr "载入核心数据时出错。"
 
 msgid "Error loading the core with named id."
-msgstr ""
+msgstr "载入有命名ID的核心时出错。"
 
 msgid "Falling back to the default core."
-msgstr ""
+msgstr "回退到默认核心。"
 
 msgid "Can't locate the default core."
-msgstr ""
+msgstr "无法定位默认核心。"
 
-#, fuzzy
 msgid "The game will now exit."
-msgstr "游戏结束了。"
+msgstr "游戏将退出。"
 
-#, fuzzy
 msgid ""
 "Error loading custom game configuration files. The game will try without "
 "loading add-ons."
-msgstr "读取游戏配置文件时出错。现在游戏将退出。"
+msgstr "载入自定义游戏配置文件时出错。游戏将尝试继续而不载入附加组件。"
 
-#, fuzzy
 msgid ""
 "Error loading custom game configuration files. The game will fallback to the "
 "default core files."
-msgstr "读取游戏配置文件时出错。现在游戏将退出。"
+msgstr "载入自定义游戏配置文件时出错。游戏将回退到使用默认核心文件。"
 
-#, fuzzy
 msgid ""
 "Error loading default core game configuration files. The game will now exit."
-msgstr "读取游戏配置文件时出错。现在游戏将退出。"
+msgstr "读取默认核心游戏配置文件时出错。现在游戏将退出。"
 
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
-msgstr[0] "以下附加组件有错误，无法读取："
-msgstr[1] "以下附加组件有错误，无法读取："
+msgstr[0] "以下附加组件有错误，无法载入："
+msgstr[1] "以下附加组件有错误，无法载入："
 
 msgid "Please report this to the author or maintainer of this add-on."
 msgid_plural ""
 "Please report this to the respective authors or maintainers of these add-ons."
-msgstr[0] "请将此问题反映给此附加组件的作者或维护者。"
-msgstr[1] "请将此问题反映给这些附加组件的作者或维护者。"
+msgstr[0] "请将此问题报告给此附加组件的作者或维护者。"
+msgstr[1] "请将此问题报告给这些附加组件各自的作者或维护者。"
 
 msgid "Error: "
 msgstr "错误："
@@ -4739,11 +4717,10 @@ msgid "$login|’s game"
 msgstr "$login|的游戏"
 
 msgid "Team"
-msgstr "团队"
+msgstr "队伍"
 
-#, fuzzy
 msgid "Anonymous player"
-msgstr "本地匿名玩家"
+msgstr "匿名玩家"
 
 msgid "Computer Player"
 msgstr "电脑玩家"
@@ -4785,13 +4762,13 @@ msgid "Scenario can't be activated. Some dependencies are missing: "
 msgstr "场景无法激活。部分依赖项目未找到："
 
 msgid "No compatible eras found."
-msgstr "没有找到兼容的时代。"
+msgstr "未找到兼容的时代。"
 
 msgid "Era can't be activated. Some dependencies are missing: "
 msgstr "时代无法激活。部分依赖项目未找到："
 
 msgid "No compatible scenarios found."
-msgstr "没有找到兼容的场景。"
+msgstr "未找到兼容的场景。"
 
 msgid ""
 "Not all of the chosen modifications are compatible. Some of them will be "
@@ -4808,7 +4785,7 @@ msgid "Male ♂"
 msgstr "男性 ♂"
 
 msgid "Only random sides in the current era."
-msgstr "仅允许当前时代中的随机阵营"
+msgstr "仅当前时代中的随机阵营。"
 
 msgid "Unable to find a leader type for faction $faction"
 msgstr "无法找到$faction派系的可用领袖类型"
