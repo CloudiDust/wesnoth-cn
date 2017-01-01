@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Huang Huan(unicon) <unicon221@gmail.com>, 2005.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
@@ -7,10 +7,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:28+0300\n"
-"PO-Revision-Date: 2016-08-08 20:44+0800\n"
+"PO-Revision-Date: 2017-01-01 09:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. [brush]: id=brush-1
 msgid "Single Hex"
@@ -34,7 +34,7 @@ msgstr "半径为2的格子"
 
 #. [brush]: id=brush-nw-se
 msgid "Hex Line NW-SE"
-msgstr "格子沿西北-东南排列"
+msgstr "西北-东南六角格线"
 
 #. [brush]: id=brush-sw-ne
 msgid "Hex Line SW-NE"
@@ -66,7 +66,7 @@ msgstr "森林"
 
 #. [editor_group]: id=fall
 msgid "fall"
-msgstr "崩落"
+msgstr "崩坏"
 
 #. [editor_group]: id=frozen
 msgid "frozen"
@@ -138,7 +138,7 @@ msgstr "24小时日程表"
 
 #. [editor_times]: id=after_the_fall
 msgid "After the Fall"
-msgstr "崩落之后"
+msgstr "崩坏之后"
 
 #. [theme]: id=editor
 msgid "theme^Editor"
@@ -150,7 +150,7 @@ msgstr "文件"
 
 #. [menu]: id=menu-editor-recent
 msgid "Load Recent"
-msgstr "读取最近使用的文件"
+msgstr "载入最近文件"
 
 #. [menu]: id=menu-editor-map
 msgid "Map"
@@ -158,7 +158,7 @@ msgstr "地图"
 
 #. [menu]: id=menu-unit-facing
 msgid "Unit Facing"
-msgstr ""
+msgstr "单位面向"
 
 #. [menu]: id=menu-editor-transitions
 msgid "Transition Update"
@@ -174,11 +174,11 @@ msgstr "区域"
 
 #. [menu]: id=menu-editor-local-time
 msgid "Assign Local Time"
-msgstr "设定本地时间"
+msgstr "指定本地时间"
 
 #. [menu]: id=menu-editor-local-schedule
 msgid "Assign Local Time Schedule"
-msgstr "设定本地日程表"
+msgstr "指定本地日程表"
 
 #. [menu]: id=menu-editor-side
 msgid "Side"
@@ -202,7 +202,7 @@ msgstr "播放列表"
 
 #. [menu]: id=menu-editor-schedule
 msgid "Assign Time Schedule"
-msgstr "设定日程表"
+msgstr "指定日程表"
 
 msgid "Identifier: "
 msgstr "标识符："
@@ -226,22 +226,20 @@ msgid "Fatal error"
 msgstr "严重错误"
 
 msgid "Do you really want to quit?"
-msgstr "您真的想退出吗？"
+msgstr "你真的要退出吗？"
 
-#, fuzzy
 msgid ""
 "Do you really want to quit? Changes to this map since the last save will be "
 "lost."
-msgstr "您真的想退出吗？上次保存之后对地图所作的修改将会全部丢失。"
+msgstr "你真的要退出吗？上次保存之后对此地图所作的修改将会全部丢失。"
 
 msgid ""
 "Do you really want to quit? The following maps were modified and all changes "
 "since the last save will be lost:"
-msgstr ""
-"您真的想退出吗？以下地图已经被修改，上次保存之后所作的修改将会全部丢失："
+msgstr "你真的要退出吗？以下地图已被修改，上次保存之后所作的修改将会全部丢失："
 
 msgid "No editor time-of-day found."
-msgstr "没有找到编辑器的时段设置。"
+msgstr "未找到编辑器的时段设置。"
 
 msgid "Change Unit ID"
 msgstr "变更单位ID"
@@ -259,13 +257,13 @@ msgid "(New Map)"
 msgstr "（新建地图）"
 
 msgid "Load Map"
-msgstr ""
+msgstr "载入地图"
 
 msgid "(New Scenario)"
 msgstr "（新场景）"
 
 msgid "No Recent Files"
-msgstr "没有最近使用的文件"
+msgstr "没有最近文件"
 
 msgid "(Unnamed Area)"
 msgstr "（未命名区域）"
@@ -274,10 +272,10 @@ msgid "(New Side)"
 msgstr "（新阵营）"
 
 msgid "Apply Mask"
-msgstr ""
+msgstr "应用遮罩"
 
 msgid "Error loading mask"
-msgstr "读取遮罩时发生错误"
+msgstr "载入遮罩时发生错误"
 
 msgid "Identifier:"
 msgstr "标识符："
@@ -289,18 +287,16 @@ msgid "Choose Target Map"
 msgstr "选择目标地图"
 
 msgid "Error loading map"
-msgstr "读取地图时发生错误"
+msgstr "载入地图时发生错误"
 
-#, fuzzy
 msgid "Save Map As"
 msgstr "地图另存为"
 
-#, fuzzy
 msgid "Save Scenario As"
 msgstr "场景另存为"
 
 msgid "No random map generators found."
-msgstr "没有找到随机地图生成器。"
+msgstr "未找到随机地图生成器。"
 
 msgid "Map creation failed."
 msgstr "创建地图失败。"
@@ -308,15 +304,14 @@ msgstr "创建地图失败。"
 msgid "Unsaved Changes"
 msgstr "未保存的更改"
 
-#, fuzzy
 msgid "Do you want to discard all changes made to the map since the last save?"
-msgstr "您想要放弃上次保存之后所作的修改吗？"
+msgstr "你要放弃上次保存之后对地图所作的全部修改吗？"
 
 msgid "This scenario is already open."
-msgstr "这一场景已打开。"
+msgstr "此场景已打开。"
 
 msgid "This map is already open."
-msgstr "这张地图已经被打开。"
+msgstr "此地图已打开。"
 
 msgid "Scenario saved."
 msgstr "场景已保存。"
@@ -325,35 +320,32 @@ msgid "Map saved."
 msgstr "地图已保存。"
 
 msgid "Loaded embedded map data"
-msgstr "已读取嵌入的地图数据"
+msgstr "已载入嵌入的地图数据"
 
 msgid "Map loaded from scenario"
-msgstr "已从场景中读取地图"
+msgstr "已从场景中载入地图"
 
 msgid ""
 "Loaded referenced map file:\n"
 "$new"
 msgstr ""
-"已读取被引用的地图文件：\n"
+"已载入被引用的地图文件：\n"
 "$new"
 
-#, fuzzy
 msgid "New Map"
-msgstr "（新建地图）"
+msgstr "新地图"
 
-#, fuzzy
 msgid "New Scenario"
-msgstr "（新场景）"
+msgstr "新场景"
 
-#, fuzzy
 msgid "Player $side_num"
-msgstr "玩家 $player_number"
+msgstr "玩家$side_num"
 
 msgid "The size of the target map is different from the current map"
 msgstr "目标地图的尺寸与当前地图不同"
 
 msgid "File not found"
-msgstr "文件不存在"
+msgstr "文件未找到"
 
 msgid "Empty file"
 msgstr "空文件"
@@ -361,8 +353,7 @@ msgstr "空文件"
 msgid ""
 "The map file looks like a scenario, but the map_data value does not point to "
 "an existing file"
-msgstr ""
-"这个地图文件看起来像是一个场景，但是map_data的值指向了一个不存在的文件。"
+msgstr "此地图文件看起来像是一个场景，但是map_data的值指向了一个不存在的文件。"
 
 msgid "Could not save the scenario: $msg"
 msgstr "无法保存场景：$msg"
@@ -380,34 +371,34 @@ msgid "(non-core)"
 msgstr "（非核心）"
 
 msgid "Will not work in game without extra care."
-msgstr "除非特别注意，否则不会正常工作。"
+msgstr "除非特别注意，否则不会在游戏中正常工作。"
 
 msgid "Go To"
-msgstr ""
+msgstr "前往"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "New Location Identifer"
-msgstr ""
+msgstr "新位置标识符"
 
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 msgid "FG: "
-msgstr "前景地形："
+msgstr "前景："
 
 msgid "BG: "
-msgstr "背景地形："
+msgstr "背景："
 
 msgid "Choose File"
 msgstr "选择文件"
 
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 msgid "player^None"
 msgstr "无"
 
 msgid "Player $player_number"
-msgstr "玩家 $player_number"
+msgstr "玩家$player_number"
