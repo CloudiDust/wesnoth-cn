@@ -1,14 +1,14 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@gmail.com>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2016-11-06 02:28+0300\n"
-"PO-Revision-Date: 2016-12-27 22:48+0800\n"
+"PO-Revision-Date: 2017-01-01 09:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. type: TH
 #, no-wrap
@@ -977,12 +977,11 @@ msgstr "wesnothd"
 #. type: TH
 #, no-wrap
 msgid "Battle for Wesnoth multiplayer network daemon"
-msgstr "Battle for Wesnoth 多人游戏守护进程（网络服务器）"
+msgstr "韦诺之战多人网络守护进程"
 
 #. type: Plain text
 msgid "wesnothd - Battle for B<Wesnoth> multiplayer network daemon"
-msgstr ""
-"wesnothd - 韦诺之战（Battle for B<Wesnoth>） 多人游戏守护进程（网络服务器）"
+msgstr "wesnothd - 韦诺之战（Battle for B<Wesnoth>）多人网络守护进程"
 
 #. type: Plain text
 msgid ""
