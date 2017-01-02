@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:31+0300\n"
-"PO-Revision-Date: 2017-01-01 15:44+0800\n"
+"PO-Revision-Date: 2017-01-02 10:15+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1023,8 +1023,7 @@ msgstr "让$ally_leader.name|（$ally_leader.side|阵营的领袖）移动到此
 msgid ""
 "In this scenario, you may issue instructions to an allied side by right-"
 "clicking on a unit that belongs to it."
-msgstr ""
-"在此场景中，通过鼠标右键点击属于你的同盟阵营的单位，你可以向该阵营发出指示。"
+msgstr "在此场景中，通过右击属于你的同盟阵营的单位，你可以向该阵营发出指令。"
 
 #. [overview_message_has_instructions]: speaker=narrator
 #. [overview_message_no_instructions]: speaker=narrator
@@ -1108,7 +1107,7 @@ msgstr "把守地点……"
 
 #. [print]
 msgid "Right-click to select a location to defend"
-msgstr "右键单击以选择要把守的地点"
+msgstr "右击以选择要把守的地点"
 
 #. [set_menu_item]: id=ai_controller_defend_location_picker
 msgid "Defend this location"
@@ -1171,7 +1170,7 @@ msgid "Move leader to..."
 msgstr "把领袖移动至……"
 
 msgid "Right-click to select a location to move leader to"
-msgstr "右键单击以选择领袖移动的目标地点"
+msgstr "右击以选择领袖移动的目标地点"
 
 msgid "Move leader here"
 msgstr "把领袖移动到此处"
@@ -3757,7 +3756,7 @@ msgstr "回到……"
 
 #. [label]: id=label-mp
 msgid "MP"
-msgstr "移动值"
+msgstr "移动力"
 
 #. [label]: id=label-def
 msgid "def"
@@ -3891,8 +3890,8 @@ msgid ""
 "a unit in. Placing units wisely can sometimes let you reach a village a turn "
 "earlier."
 msgstr ""
-"鼠标右键点击城堡地块就可以使用<b>征募</b>和<b>召回</b>命令。这样你就可以选择"
-"将新单位放置在哪个格子里。明智地摆放单位有时可以让你提前一回合到达村庄。"
+"右击城堡地块就可以使用<b>征募</b>和<b>召回</b>命令。这样你就可以选择将新单位"
+"放置在哪个格子里。明智地摆放单位有时可以让你提前一回合到达村庄。"
 
 #. [tip]
 msgid ""
@@ -3909,8 +3908,8 @@ msgid ""
 "can be very important when moving through difficult terrain such as water or "
 "caves. It can make the difference between being able to move one hex or two."
 msgstr ""
-"拥有<b>迅捷</b>特质的单位每回合多一点额外的移动值。这在通过复杂地形，例如水域"
-"或者洞穴时非常重要。是否拥有这一点额外移动值，有可能便是可以移动一格还是两格"
+"拥有<b>迅捷</b>特质的单位每回合多一点额外的移动力。这在通过复杂地形，例如水域"
+"或者洞穴时非常重要。是否拥有这一点额外移动力，有可能便是可以移动一格还是两格"
 "的区别。"
 
 #. [tip]
@@ -5052,7 +5051,7 @@ msgid "$login|’s game"
 msgstr "$login|的游戏"
 
 msgid "Team"
-msgstr "队伍"
+msgstr "团队"
 
 msgid "Anonymous player"
 msgstr "匿名玩家"
@@ -5373,7 +5372,7 @@ msgid "Leader/Gender"
 msgstr "领袖/性别"
 
 msgid "Team/Color"
-msgstr "队伍/颜色"
+msgstr "团队/颜色"
 
 msgid "Income"
 msgstr "收入"
@@ -5861,7 +5860,7 @@ msgid "Only available during a scenario."
 msgstr "仅在场景中可用。"
 
 msgid "Schedule"
-msgstr "日程"
+msgstr "日程表"
 
 msgid "<header>text='Units with this special attack'</header>"
 msgstr "<header>text=‘拥有此特殊攻击的单位'</header>"
@@ -5921,10 +5920,10 @@ msgid "Defense properties: "
 msgstr "防御特性："
 
 msgid "Advances from: "
-msgstr "升阶自："
+msgstr "升级自："
 
 msgid "Advances to: "
-msgstr "升阶为："
+msgstr "升级为："
 
 msgid "Base unit: "
 msgstr "基础单位："
@@ -5978,7 +5977,7 @@ msgid "Range"
 msgstr "射程"
 
 msgid "Special"
-msgstr "特殊"
+msgstr "攻击特性"
 
 msgid "Resistances"
 msgstr "抗性"
@@ -6537,10 +6536,10 @@ msgid "Level: "
 msgstr "等级："
 
 msgid "No advancement"
-msgstr "不能升阶"
+msgstr "不能升级"
 
 msgid "Advances to:"
-msgstr "升阶为："
+msgstr "升级为："
 
 msgid "Trait: "
 msgstr "特质："
@@ -6624,7 +6623,7 @@ msgid "Base damage: "
 msgstr "基本伤害："
 
 msgid "With specials: "
-msgstr "特殊条件："
+msgstr "攻击特性："
 
 msgid "Time of day: "
 msgstr "时段："
@@ -6648,7 +6647,7 @@ msgid "Base attacks: "
 msgstr "基本攻击："
 
 msgid "Specials: "
-msgstr "特殊条件："
+msgstr "攻击特性："
 
 msgid "Subject to swarm: "
 msgstr "群击有效："
@@ -6863,7 +6862,7 @@ msgid "Recalls"
 msgstr "召回"
 
 msgid "Advancements"
-msgstr "升阶"
+msgstr "升级"
 
 msgid "Losses"
 msgstr "损失"
@@ -7086,8 +7085,8 @@ msgstr "% 格挡"
 
 msgid "movement point"
 msgid_plural "movement points"
-msgstr[0] "移动值"
-msgstr[1] "移动值"
+msgstr[0] "移动力"
+msgstr[1] "移动力"
 
 msgid "female^lawful"
 msgstr "守序"
@@ -7106,8 +7105,8 @@ msgstr "$attack_list|：$effect_description"
 
 msgid "move"
 msgid_plural "moves"
-msgstr[0] "移动"
-msgstr[1] "移动值"
+msgstr[0] "次行动"
+msgstr[1] "次行动"
 
 msgid "vision"
 msgstr "视野"

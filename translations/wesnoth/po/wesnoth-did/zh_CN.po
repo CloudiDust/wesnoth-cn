@@ -1,15 +1,15 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-# 
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:28 UTC\n"
-"PO-Revision-Date: 2015-06-06 15:28+0800\n"
+"PO-Revision-Date: 2016-12-31 21:49+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. [scenario]: id=11_Descent_into_Darkness
 #. [campaign]: id=Descent_into_Darkness
@@ -30,26 +30,23 @@ msgstr "DiD"
 
 #. [campaign]: id=Descent_into_Darkness
 msgid "Neophyte"
-msgstr "信徒"
+msgstr "新信徒"
 
 #. [campaign]: id=Descent_into_Darkness
-#, fuzzy
 msgid "Normal"
-msgstr "（普通）"
+msgstr "普通"
 
 #. [campaign]: id=Descent_into_Darkness
-#, fuzzy
 msgid "Challenging"
-msgstr "（挑战）"
+msgstr "挑战"
 
 #. [campaign]: id=Descent_into_Darkness
 msgid "Evoker"
 msgstr "秘法师"
 
 #. [campaign]: id=Descent_into_Darkness
-#, fuzzy
 msgid "Difficult"
-msgstr "（困难）"
+msgstr "困难"
 
 #. [campaign]: id=Descent_into_Darkness
 msgid "Summoner"
@@ -66,7 +63,7 @@ msgstr ""
 
 #. [campaign]: id=Descent_into_Darkness
 msgid "(Intermediate level, 12 scenarios.)"
-msgstr "（中等级别，12幕场景。）"
+msgstr "（中等难度，12幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -98,7 +95,7 @@ msgstr ""
 "马林·凯沙出生在哈德里克四世逝世后的第十年。他在北部边境的小镇帕辛长大，他是城"
 "里男爵的第二个孩子也是最大的儿子。每到夏天，当山路畅通时，兽人们便会南下炫耀"
 "武力。每年帕辛的守卫们都能成功地击退兽人的劫掠，但每次总有些镇民会牺牲。马林"
-"的父亲率领突击队破坏了兽人的营地，将他们赶回了北方."
+"的父亲率领奇袭队破坏了兽人的营地，将他们赶回了北方."
 
 #. [part]
 msgid ""
@@ -109,10 +106,10 @@ msgid ""
 "back at home the orc raids increased in their frequency and ferocity. Before "
 "Malin could finish his training, however, he was expelled."
 msgstr ""
-"在马林十岁的时候，一位路过的法师感觉到这戈男孩身上蕴藏着巨大的魔法潜力。他的"
-"父母把这看做是让他到远离人类与兽人频繁战斗的地方生活的机会，便安排他前往安度"
-"云岛的法师社团。他在那里学习了八年，而与此同时，在他的家乡，兽人的劫掠变得更"
-"加频繁而凶残。然而，在马林完成他的训练之前，便被开除了。"
+"在马林十岁的时候，一位路过的法师感觉到这个男孩身上蕴藏着巨大的魔法潜力。他的"
+"父母把这看做是让他到远离人类与兽人频繁战斗的地方生活的机会，便安排他前往奥渡"
+"因岛的法师社团。他在那里学习了八年，而与此同时，在他的家乡，兽人的劫掠变得更"
+"加频繁而凶残。然而，马林在完成训练之前，便被开除了。"
 
 #. [part]
 msgid ""
@@ -133,7 +130,7 @@ msgid ""
 msgstr ""
 "指挥官的阵亡让人类守军大为震惊，防线开始松动。正当兽人们咆哮着准备迎接胜利之"
 "时，大群骷髅战士从兽人背后的丛林中涌了出来。人类士兵们惊讶地看着骷髅们把兽人"
-"一个接一个地砍倒，而后消失在森林中."
+"一个接一个地砍倒，而后又消失回森林中。"
 
 #. [part]
 msgid ""
@@ -145,9 +142,9 @@ msgid ""
 "I ask only to rest in your town for a few days.”</i>"
 msgstr ""
 "很快，一个穿着死灵法师长袍的人从树林里走了出来。<b>“请允许我作自我介绍，我是"
-"达肯·佛克。我知道你们的王国并不喜欢我们这类人，但我想重要的是，我们得暂时把分"
-"歧放在一边。在北方，兽人的威胁与日俱增，我怀疑，如果没有协助，任何边境的城镇"
-"都无法独力支撑。现在，我只请求在你们的镇子里休息几天。”</b>"
+"达肯·沃克。我知道你们的王国并不喜欢我们这类人，但我想最重要的是，我们得暂时把"
+"分歧放在一边。在北方，兽人的威胁与日俱增，我怀疑，如果没有协助，任何边境的城"
+"镇都无法独力支撑。现在，我只请求在你们的镇子里休息几天。”</b>"
 
 #. [part]
 msgid ""
@@ -159,7 +156,7 @@ msgid ""
 msgstr ""
 "守卫队长德罗甘回答道，<b>“你当然了解对死灵法师的惩罚是死刑。但因为你的协助，"
 "我们允许你在这里休息并保证你的安全。但是，当你离开时，你将被驱逐出这片土地，"
-"不得返回，否则将被处死。我们感谢你的帮助，但不需要和只懂得黑魔法的家伙结"
+"不得返回，否则将被处死。我们感谢你的帮助，但我们不需要和只懂得黑魔法的家伙结"
 "盟。”</b>"
 
 #. [side]
@@ -208,8 +205,8 @@ msgid ""
 "be allowed to stay to help defend the town. The necromancer leaves Parthyn "
 "without incident."
 msgstr ""
-"马林因父亲的死而久久不能平静，他争论说达肯·佛克应该被允许留下来协防城镇，却无"
-"济于事。死灵法师离开了帕辛，没有挑起任何摩擦。"
+"马林因父亲的死而久久不能平静，他争辩说应该允许达肯·沃克留下来协防城镇，却无济"
+"于事。死灵法师离开了帕辛，没有挑起任何摩擦。"
 
 #. [message]: speaker=narrator
 msgid "Several weeks pass..."
@@ -220,12 +217,12 @@ msgid ""
 "Although I dislike sending a raiding party out so early, they should clear "
 "out the orc encampments and leave us a relatively quiet summer."
 msgstr ""
-"虽然我不喜欢这么早就出动突击队，但他们应该可以把兽人的营地清除掉，让我们过一"
-"个宁静的夏天。"
+"虽然我不喜欢这么早就出动奇袭队，但他们应该可以把兽人的营地清除掉，让我们过一"
+"个相对宁静的夏天。"
 
 #. [message]: speaker=Malin Keshar
 msgid "So much for quiet, Drogan. Orcs mass north of the river!"
-msgstr "宁静到此为止了，德罗甘。兽人大量聚集在河的北面！"
+msgstr "宁静到此为止了，德罗甘。兽人正大量聚集在河的北面！"
 
 #. [message]: speaker=Drogan
 msgid ""
@@ -235,8 +232,8 @@ msgid ""
 "such a force attacking from behind."
 msgstr ""
 "诅咒他们！你必须守住河口要塞，马林，否则他们肯定会淹没这个镇子。我会带所有剩"
-"下的士兵来协助你。我们的突击队两天后就能返回，有这样一支部队从后方进攻，兽人"
-"们肯定没胆子继续战斗。"
+"下的士兵来协助你。奇袭队两天后就能返回，有这样一支部队从后方进攻，兽人们肯定"
+"没胆子继续战斗。"
 
 #. [message]: speaker=Drogan
 msgid "What in blazes is that thing? Has the necromancer returned?"
@@ -249,7 +246,7 @@ msgid ""
 "consign ourselves and our families to orcish stewpots! Surely you can see "
 "that!"
 msgstr ""
-"不，德罗甘。我用达肯·佛克离开前传授给我的法术唤起了这些尸体。虽然我不喜欢这"
+"不，德罗甘。我用达肯·沃克离开前传授给我的法术唤起了这些尸体。虽然我不喜欢这"
 "个，但没有这些亡灵的帮助，我们就要把自己和家人丢进兽人的炖锅了！你一定很明白"
 "这一点！"
 
@@ -259,17 +256,17 @@ msgid ""
 "been very close-mouthed about why the mages sent you home from Alduin; if it "
 "was for dabbling in such arts, it is no wonder they cast you out!"
 msgstr ""
-"亵渎我们同伴的尸体，不管有怎样的好处都担不起这样的代价！关于为什么法师们把你"
-"从安度云送回家，你一直三缄其口，如果说是因为涉及了类似的法术，那他们把你驱逐"
-"出去就一点都不奇怪了！"
+"亵渎我们同伴的尸体，不管有怎样的好处都担不起这样的代价！法师们把你从奥渡因送"
+"回家的缘由，你三缄其口，如果说是因为玩弄了这样的法术，那他们把你驱逐出去就一"
+"点都不奇怪了！"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
 "No! No... it was nothing like that... But I will not stand by and allow the "
 "orcs to destroy my home while I have the skills to prevent it!"
 msgstr ""
-"不！不……完全不是那样的……但既然我拥有阻止兽人的能力，我就不会袖手旁观，任由他"
-"们摧毁我的家园！"
+"不！不……完全不是那样的……但既然我有阻止兽人的能力，我就不会袖手旁观，任由他们"
+"摧毁我的家园！"
 
 #. [message]: speaker=narrator
 msgid "Welcome to Parthyn"
@@ -279,24 +276,24 @@ msgstr "欢迎来到帕辛"
 msgid ""
 "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. "
 "Hate leads to suffering."
-msgstr "恐惧乃暗面之途。恐惧致愤怒。愤怒致憎恨。憎恨致苦痛。"
+msgstr "恐惧乃通往暗面之途。恐惧致愤怒。愤怒致憎恨。憎恨致苦痛。"
 
 #. [message]: speaker=Drogan
 msgid "The orcs have broken through our line. Parthyn is open to attack!"
-msgstr "兽人已经攻破了我们的防线。帕辛暴露在敌人的攻击之下了！"
+msgstr "兽人已经攻破了我们的防线。帕辛暴露在攻击之下了！"
 
 #. [message]: speaker=unit
 msgid "Who will be left to defend Parthyn?"
-msgstr "谁将会留下来保卫帕辛呢？"
+msgstr "谁会留下来保卫帕辛呢？"
 
 #. [message]: speaker=narrator
 msgid ""
 "The raiding party returns, and the orcs flee in the face of a superior force."
-msgstr "突击队回来了，兽人面对着一支比他们更强的部队，于是逃跑了。"
+msgstr "奇袭队回来了，兽人便面对着一支比他们更强的部队，于是他们逃跑了。"
 
 #. [message]: speaker=narrator
 msgid "The orcs are broken, dead or fled."
-msgstr "兽人们被击溃了，不是阵亡，便是逃跑。"
+msgstr "兽人被击溃了，不是阵亡，便是逃跑。"
 
 #. [message]: speaker=Drogan
 msgid ""
@@ -305,14 +302,14 @@ msgid ""
 "showed him mercy, however, I will give the same to you. You are hereby "
 "banished from Parthyn and all the Kingdom of Wesnoth."
 msgstr ""
-"照理说我应该当场处你死刑，马林。当然我本不该给那死灵法师腐蚀你的机会。但既然"
-"我给了他宽恕，我也会给你一样的待遇。在此，你将被驱逐出帕辛，以及韦诺王国的一"
-"切领土。"
+"照理说我应该当场处你死刑，马林。原本我完全不该给那死灵法师腐蚀你的机会。但既"
+"然我给了他宽恕，我也会给你一样的待遇。在此，你将被驱逐出帕辛，以及韦诺王国的"
+"一切领土。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
 "Would you rather have let the orcs overrun the town and seen us both dead?"
-msgstr "难道你宁愿让兽人淹没我们的城镇，眼睁睁地看着我们都死掉？"
+msgstr "难道你宁愿让兽人淹没我们的城镇，眼睁睁地看着我俩都死掉？"
 
 #. [message]: speaker=Drogan
 msgid ""
@@ -320,8 +317,8 @@ msgid ""
 "rebuilt the town, just as they always have in the past. Would that the mages "
 "had taught you more sense."
 msgstr ""
-"对，那也比涉及黑魔法强。人民会重建城镇的，就像他们过去一直做的那样。真希望法"
-"师们能让你更有判断力一些。"
+"对，那也比玩弄黑魔法强。人民会重建城镇的，就像他们过去一直做的那样。真希望法"
+"师们能教给你更多的常识。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -343,22 +340,22 @@ msgid ""
 "hour."
 msgstr ""
 "你独自抵挡住了兽人，这很勇敢，小伙子。法师们教你教得不错。但村里传来了不幸的"
-"消息：你的姐姐黛拉在这场进攻里受伤了。医生们正在替她治疗，但恐怕她活不过一个"
-"小时了。"
+"消息；你的姐姐黛拉在进攻里受伤了。治疗师们正在替她治疗，但恐怕她活不过一个小"
+"时了。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
 "Orcs. Foul, pestilent creatures. The wide green world would be a better "
 "place with them all dead. Dead!"
 msgstr ""
-"兽人。邪恶，瘟疫般的生物。这广阔的绿色世界会变的更加美好的，如果兽人们都死掉"
-"的话。死掉！"
+"兽人。邪恶，瘟疫般的生物。这广阔的绿色世界会变得更加美好的，如果兽人都死掉的"
+"话。死掉！"
 
 #. [message]: speaker=Drogan
 msgid ""
 "Perhaps, but if kings and great mages have not abolished them neither you "
 "nor I are ever likely to."
-msgstr "或许吧，但连国王和大法师们都不能消灭他们，那你和我就更不可能了。"
+msgstr "或许吧，但连国王们和大法师们都不能消灭他们，那你和我就更不可能了。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -366,8 +363,8 @@ msgid ""
 "defeated, and there will be more orcs at the other end of it. I shall pursue "
 "them."
 msgstr ""
-"也许我不能把他们都杀掉……但我看到了我们击败的这群兽人留下的踪迹，在另一个尽头"
-"肯定还有更多的兽人。我要追踪他们。"
+"也许我不能把他们都杀掉……但我看到了我们击败的这群兽人留下的踪迹，在踪迹的另一"
+"边肯定还有更多的兽人。我要追踪他们。"
 
 #. [message]: speaker=Drogan
 msgid "And leave your sister?"
@@ -375,7 +372,7 @@ msgstr "也要扔下你的姐姐？"
 
 #. [message]: speaker=Malin Keshar
 msgid "My hands were never apt for healing. But revenge I can give her."
-msgstr "我的双手从来都不适合用来治疗别人。但我能为她复仇。"
+msgstr "我的双手从来都不适合用来治疗。但我能为她复仇。"
 
 #. [message]: speaker=Drogan
 msgid ""
@@ -383,7 +380,7 @@ msgid ""
 "harry the orcs in their own country!"
 msgstr ""
 "不！我们需要每一个能够战斗的人留在这里，而不是迷失在这种注定会招致毁灭的计划"
-"里，竟然去兽人自己的土地上侵扰他们。"
+"里，竟然去兽人自己的土地上侵扰他们！"
 
 #. [message]: speaker=Malin Keshar
 msgid "I am resolved."
@@ -409,8 +406,8 @@ msgid ""
 "courage to see what must be done. Most fiercely, he curses the orcs for "
 "ravaging his family and home through their ceaseless attacks."
 msgstr ""
-"忍着眼泪与愤怒，马林追赶着这群兽人的踪迹。他诅咒长老法师，半途就把他从安度云"
-"岛赶出来，直接推进了冲突之中。他诅咒德罗甘，因为他缺乏做真正必须做的事情的勇"
+"忍着眼泪与愤怒，马林追赶着这群兽人的踪迹。他诅咒老法师们，他们半途就把他从奥"
+"渡因岛赶出来，直接推进了冲突之中。他诅咒德罗甘，那人缺乏做真正必做之事的勇"
 "气。最强烈的是，他诅咒兽人持续不断的进攻破坏了他的家庭和家园。"
 
 #. [part]
@@ -421,8 +418,8 @@ msgid ""
 "asks Malin to travel with him. As the weeks pass, he teaches Malin more dark "
 "magic."
 msgstr ""
-"离开帕辛三天后，马林遇到了达肯·佛克，也就是那位在不久前拯救了帕辛并教会了马林"
-"如何召回死者的死灵法师。死灵法师很同情马林无依无靠的情形，并要求马林随他一起"
+"离开帕辛三天后，马林遇到了达肯·沃克，也就是那位在不久前拯救了帕辛并教会了马林"
+"如何唤起死者的死灵法师。死灵法师很同情马林无依无靠的情形，并要求马林随他一起"
 "旅行。几周过去了，他传授给了马林更多的黑魔法。"
 
 #. [side]
@@ -432,7 +429,7 @@ msgstr "马林·凯沙"
 
 #. [side]: type=Goblin Knight, id=T'shar Lggi
 msgid "Goblins"
-msgstr ""
+msgstr "地精"
 
 #. [side]: type=Goblin Knight, id=T'shar Lggi
 msgid "T’shar Lggi"
@@ -444,7 +441,7 @@ msgstr "占领所有的地精村庄"
 
 #. [objective]: condition=lose
 msgid "Death of Darken Volk"
-msgstr "达肯·佛克阵亡"
+msgstr "达肯·沃克阵亡"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -455,12 +452,12 @@ msgid ""
 "can... aid me in the fight against them."
 msgstr ""
 "实际上，我和你对兽人的憎恨是一样的。北方大陆许多年来一直都是我的……家，但兽人"
-"越来越在那里横行霸道。无论他们走到哪里，都土地上一切美好的东西夺走。如果你有"
-"兴趣，我很乐意收你为我的学徒，让你可以……协助我与兽人作战。"
+"越来越在那里横行霸道。无论他们走到哪里，都会把土地上一切美好的东西夺走。如果"
+"你有兴趣，我很乐意收你为我的学徒，让你可以……协助我与兽人作战。"
 
 #. [message]: speaker=Malin Keshar
 msgid "Yes! I thirst for revenge on those creatures!"
-msgstr "同意！我渴望对这些生物复仇！"
+msgstr "同意！我渴望对那些生物复仇！"
 
 #. [message]: speaker=Darken Volk
 msgid ""

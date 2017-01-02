@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:28 UTC\n"
-"PO-Revision-Date: 2017-01-01 15:19+0800\n"
+"PO-Revision-Date: 2017-01-02 10:17+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -811,7 +811,7 @@ msgstr "你的领袖阵亡"
 msgid ""
 "Since your team has only one leader, the enemy waves will not be at full "
 "strength."
-msgstr "你的队伍里只有一位领袖，因此敌人不会竭尽全力进攻。"
+msgstr "你的团队里只有一位领袖，因此敌人不会竭尽全力进攻。"
 
 #. [else]
 msgid "Death of both of your team’s leaders"
@@ -820,7 +820,7 @@ msgstr "你队领袖全部阵亡"
 #. [else]
 msgid ""
 "Since your team has two leaders, the enemy waves will be at full strength."
-msgstr "你的队伍里有两位领袖，因而敌人会竭尽全力攻打过来。"
+msgstr "你的团队里有两位领袖，因而敌人会竭尽全力攻打过来。"
 
 #. [objective]: condition=win
 msgid "Survive and defeat all enemy waves"
@@ -1291,11 +1291,11 @@ msgstr ""
 
 #. [side]
 msgid "teamname^Team 1"
-msgstr "队伍1"
+msgstr "团队1"
 
 #. [side]
 msgid "teamname^Team 2"
-msgstr "队伍2"
+msgstr "团队2"
 
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 msgid "4p — Castle Hopping Isle"
@@ -1335,7 +1335,7 @@ msgid ""
 "villages."
 msgstr ""
 "这是一幅非常小的2v2对战地图。在近距离对战中，成功地轮换单位并计划好行动将显得"
-"非常重要。队伍设定为玩家1和4对阵玩家2和3（东北对阵西南）。为75枚金币的起始资"
+"非常重要。团队设定为玩家1和4对阵玩家2和3（东北对阵西南）。为75枚金币的起始资"
 "金而设计，图上有20个村庄。"
 
 #. [side]
@@ -1360,7 +1360,7 @@ msgid ""
 "Controlling the area around the central keep is very lucrative in this 36X36 "
 "4 player FFA map. Works fine 2 vs. 2 as well. There are 36 villages."
 msgstr ""
-"在这幅36x36的4人自由对战地图上，控制中央要塞附近的地域有很大好处。此地图也很"
+"在这幅36x36的4人自由对战地图上，控制中央城堡附近的地域有很大好处。此地图也很"
 "适合2v2对战。图上有36座村庄。"
 
 #. [side]
@@ -1380,7 +1380,7 @@ msgid ""
 "A 25x25 2 vs. 2 map centered around a river with keeps in opposite corners. "
 "Designed for players 1&4 vs. 2&3. There are 28 villages."
 msgstr ""
-"这是一幅25x25的2v2对战地图，以河流为中心，双方的要塞处于相对的角落。为玩家1和"
+"这是一幅25x25的2v2对战地图，以河流为中心，双方的城堡处于相对的角落。为玩家1和"
 "4对阵玩家2和3而设计。图上有28座村庄。"
 
 #. [multiplayer]: id=multiplayer_4p_Morituri
@@ -1449,7 +1449,7 @@ msgid ""
 "A 24X28 2 vs. 2 map with auxiliary keeps, and a large messy battle in the "
 "center common."
 msgstr ""
-"这是一副24X28的2v2地图，地图上有辅助要塞，地图中心将有大型而混乱的战斗。"
+"这是一副24X28的2v2地图，地图上有辅助城堡，地图中心将有大型而混乱的战斗。"
 
 #. [multiplayer]: id=multiplayer_Auction-X
 msgid "5p — Auction-X"
@@ -1462,7 +1462,7 @@ msgid ""
 "and the best way to determine how much is an auction, LOWEST bid wins. It is "
 "a very small map so 75 gold is recommended for the other players."
 msgstr ""
-"这幅地图上，4个玩家包围着一座中心要塞，可以和AI玩生存风格的游戏，也可以自由对"
+"这幅地图上，4个玩家包围着一座中心城堡，可以和AI玩生存风格的游戏，也可以自由对"
 "战或者以4v1模式进行游戏。在自由对战模式或者4v1模式中，中央的玩家需要更多的金"
 "币。决定额外金币枚数的最好方法是竞价，最<b>低</b>出价者获胜。这是一幅非常小的"
 "地图，所以其他4个玩家的推荐初始资金为75枚金币。"
@@ -1611,7 +1611,7 @@ msgid ""
 "starting gold, has 33 villages."
 msgstr ""
 "这是一幅40x20的3v3对战地图。曼西凡陷阱因让人迷惑的困难地形而著称，在这种地形"
-"上很容易因走错位置或过分扩张而失败。队伍设定为玩家1、4、5组队对阵玩家2、3、"
+"上很容易因走错位置或过分扩张而失败。团队设定为玩家1、4、5组队对阵玩家2、3、"
 "6（东部对阵西部）。为100枚金币的起始资金而设计，图上有33座村庄。"
 
 #. [multiplayer]: id=multiplayer_Volcano
@@ -1638,7 +1638,7 @@ msgid ""
 "Designed for 150 starting gold, has 44 villages."
 msgstr ""
 "这是一幅40x30的3v3对战地图。灵活地协调你的联盟是必须的，否则就有被敌方淹没的"
-"危险。队伍设定为玩家1、4、5对阵玩家2、3、6（北部对阵南部），但是由玩家1、4、6"
+"危险。团队设定为玩家1、4、5对阵玩家2、3、6（北部对阵南部），但是由玩家1、4、6"
 "或1、3、6组队也很有意思。为150枚金币的起始资金而设计，图上有44座村庄。"
 
 #. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
@@ -1651,7 +1651,7 @@ msgid ""
 "requires two teams to coordinate on both offense and defense."
 msgstr ""
 "根据从“濒临死亡”中得到的灵感，这幅8人地图为一场史诗般的战斗创造了舞台，这需要"
-"两支队伍在进攻和防守上都进行协调。"
+"两支团队在进攻和防守上都进行协调。"
 
 #. [multiplayer]: id=multiplayer_8p_Morituri
 msgid "8p — Morituri"

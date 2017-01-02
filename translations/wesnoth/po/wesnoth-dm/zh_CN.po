@@ -1,15 +1,16 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Dugucloud <dugucloud@qq.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
-# 
+# CloudiDust <cloudidust@gmail.com>, 2017.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:23 UTC\n"
-"PO-Revision-Date: 2015-06-06 15:28+0800\n"
+"PO-Revision-Date: 2016-12-31 21:57+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,11 +18,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "Delfador’s Memoirs"
-msgstr "德翁往事"
+msgstr "德法多回忆录"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "DM"
@@ -32,23 +33,20 @@ msgid "Apprentice"
 msgstr "学徒"
 
 #. [campaign]: id=Delfadors_Memoirs
-#, fuzzy
 msgid "Normal"
-msgstr "（标准）"
+msgstr "普通"
 
 #. [campaign]: id=Delfadors_Memoirs
-#, fuzzy
 msgid "Challenging"
-msgstr "（挑战）"
+msgstr "挑战"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "Mage"
 msgstr "法师"
 
 #. [campaign]: id=Delfadors_Memoirs
-#, fuzzy
 msgid "Difficult"
-msgstr "（困难）"
+msgstr "困难"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "Great Mage"
@@ -62,17 +60,17 @@ msgid ""
 "all life in Wesnoth?\n"
 "\n"
 msgstr ""
-"韦诺即将不可逆转地陷入混乱，觅食的兽族渡过大河涌向南方，还有致死的神秘生物在"
-"夜晚漫游。那幽灵般的伊利亚-玛拉是谁？你能在他毁灭韦诺众生前阻止他吗？\n"
+"韦诺即将不可逆转地陷入混乱，掠食的兽人渡过大河涌向南方，致死的神秘生物在夜晚"
+"漫游。那幽灵般的伊利亚-玛拉尔是谁？你能在他毁灭韦诺众生前阻止他吗？\n"
 "\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "(Intermediate level, 19 scenarios.)"
-msgstr "（中级水平，19幕场景）"
+msgstr "（中等难度，19幕场景。）"
 
 #. [about]
 msgid "Creator and Original Designer"
-msgstr "创作者和原设计者"
+msgstr "创作者与原设计者"
 
 #. [about]
 msgid "Co-Authors"
@@ -84,7 +82,7 @@ msgstr "WML编程与协助"
 
 #. [about]
 msgid "Graphics"
-msgstr "制图"
+msgstr "图形"
 
 #. [about]
 msgid "Additional thanks to"
@@ -97,7 +95,6 @@ msgstr "序曲"
 #. [side]: type=Journeyman Mage
 #. [side]: type=Mage of Light, id=Marshal
 #. [side]: type=White Mage, id=Arpus
-#, fuzzy
 msgid "Mages"
 msgstr "法师"
 
@@ -127,19 +124,19 @@ msgid ""
 "tale of how he became the most famous and powerful of all the mages of "
 "Wesnoth."
 msgstr ""
-"这是德法多大师卑微出身的真实故事；他成为最著名和最强大的韦诺法师的传说。"
+"这是德法多大师卑微出身的真实故事；是他成为最著名和最强大的韦诺法师的传说。"
 
 #. [part]
 msgid ""
 "It begins on the Isle of Alduin, at the Academy which trains mages from "
 "throughout the Great Continent."
-msgstr "这个故事从安度云岛的学院——为大陆训练法师的学院——开始。"
+msgstr "这个故事从奥渡因岛，从那训练来自大陆四方的法师的魔法学院开始。"
 
 #. [part]
 msgid ""
 "After ten years of training, two tests stand between that apprentice and "
 "attainment of the degree of Mage:"
-msgstr "经过十年的训练，在学徒达到法师学位之间还有两项考验："
+msgstr "经过十年的训练，在学徒和法师学位之间，还阻隔着两项考验："
 
 #. [part]
 msgid "<i>The New Mage Ceremony</i>"
@@ -156,15 +153,15 @@ msgstr "<b>正名之旅</b>"
 
 #. [message]: speaker=narrator
 msgid "Academy of Magic, Isle of Alduin."
-msgstr "安度云岛魔法学院。"
+msgstr "奥渡因岛魔法学院。"
 
 #. [message]: speaker=narrator
 msgid "... thorum restro targa thorum..."
-msgstr "……嗡阿惹巴扎那帝……"
+msgstr "……索拉姆·雷斯特洛·塔加·索拉姆……"
 
 #. [message]: speaker=Marshal
 msgid "Come, O aspirant. The Oracles await you."
-msgstr "志士，来吧。先知们正等待着您。"
+msgstr "来吧，志士。先知们正等待着你。"
 
 #. [message]: speaker=First Oracle
 msgid ""
@@ -173,9 +170,8 @@ msgid ""
 "be among the champions of our brotherhood of mages. I give you the first "
 "syllable of power, the beginning of your name: DEL"
 msgstr ""
-"和平时光缓缓流逝。混乱正在蔓延；邪恶已经植根于大陆的每一颗心。黑暗即临。天道"
-"将变。你是我们法师兄弟中的佼佼者。我赐予你，力量的第一个音，为你名字的开头："
-"<b>德</b>"
+"和平消逝，混乱蔓延；大地机要之处，邪恶已然植根。黑暗将临，世道或变。吾等法师"
+"皆弟兄，而汝将为一员护卫。吾赐予汝，力之首音，为汝名之首字：<b>德</b>"
 
 #. [message]: speaker=Second Oracle
 msgid ""
@@ -183,8 +179,8 @@ msgid ""
 "Great”</i> before your days are through. I give you the second syllable of "
 "power, the second part of your name: FA"
 msgstr ""
-"在这些优胜者中，你并不渺小。不但如此；在你离世之前，或可称你为<b>“大师”</b>。"
-"我赐予你，力量的第二个音，为你名字的第二个字：<b>法</b>"
+"护卫之中，汝实非小。差矣；汝生此世，必称<b>“大师”</b>。吾赐予汝，力之二音，为"
+"汝名之二字：<b>法</b>"
 
 #. [message]: speaker=Third Oracle
 msgid ""
@@ -192,20 +188,20 @@ msgid ""
 "And you will be the father of it. I call the power of the Bright Gods into "
 "the second part of your name. FA"
 msgstr ""
-"是啊。和平虽已打破，但希望永不破灭。希望永远存在。而且你将成为希望之父。我把"
-"光明之神的力量作为你名字的第二个字：<b>法</b>"
+"然。和平已破，而希望不灭。希望永在，而汝必成希望之父。吾呼唤光明神之力，为汝"
+"名之二字：<b>法</b>"
 
 #. [message]: speaker=Fourth Oracle
 msgid ""
 "After the battle, peace. After the darkness, dawn. From death springs new "
 "life. I give you the last part of your name, the final syllable of power. DOR"
 msgstr ""
-"战争过后，就是和平。黑暗过后，就是黎明。死亡之上涌出新生。我赐予你名字的最后"
-"一个字，力量的终音：<b>多</b>"
+"战事若平，和平再临。黑暗消散，当是黎明。死亡之上，新生泉涌。吾赐予汝，名之末"
+"字，力之终音：<b>多</b>"
 
 #. [message]: speaker=Marshal
 msgid "DELFADOR, open your eyes. And open them again!"
-msgstr "<big>德法多</big>，睁开你的眼睛。再睁开！"
+msgstr "<b>德法多</b>，睁开你的眼睛。再睁开！"
 
 # 眯眯眼
 #. [message]: speaker=Delfador
@@ -235,21 +231,21 @@ msgstr "很好。"
 
 #. [message]: speaker=Marshal
 msgid "Now, go forth!"
-msgstr "现在，开始第四项吧！"
+msgstr "现在，出发！"
 
 #. [message]: speaker=Marshal
 msgid "Your name journey begins. Methor will lead you from this place."
-msgstr "你的正名之旅马上开始。梅瑟会带领你出去的。"
+msgstr "你的正名之旅已经开始。梅瑟会引领你走出此地。"
 
 #. [message]: speaker=Methor
 msgid "But I will not see you to its end, for that is yours alone."
-msgstr "我无法陪你到最后，这是你自己的路。"
+msgstr "我无法陪你到最后，那是你自己的路。"
 
 #. [message]: speaker=Methor
 msgid ""
 "Dangers and trials await us. When you have truly claimed the name you have "
 "been given, I will depart."
-msgstr "危险与磨练正在等待我们。当你真正正名后，我会离开。"
+msgstr "危险与磨练等待着我们。当你真正正名后，我便会离开。"
 
 #. [message]: speaker=Delfador
 msgid "I am ready."
@@ -257,7 +253,7 @@ msgstr "我准备好了。"
 
 #. [scenario]: id=02_This_Valley_Belongs_to_Me
 msgid "This Valley Belongs to Me"
-msgstr "此谷是我开"
+msgstr "此谷归我"
 
 #. [side]: type=Goblin Pillager, id=Grogor-Tuk
 msgid "Grogor-Tuk"
@@ -277,7 +273,7 @@ msgstr "格罗格-图克"
 #. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
 #. [side]: type=Orcish Warlord, id=Upgar
 msgid "Pillagers"
-msgstr ""
+msgstr "劫掠者"
 
 #. [part]
 msgid ""
@@ -286,8 +282,9 @@ msgid ""
 "magecraft to aid those they traveled among and to deepen their understanding "
 "of the hidden currents and powers of the world."
 msgstr ""
-"在德法多漫游时期，跟随梅瑟去了很多奇怪的地方，无论有人还是没人的地方。他们研"
-"究、练习，他们沿途使用法术帮助路人，也加深对世界上隐藏的能流的理解。"
+"德法多与梅瑟一道漫游之时，去到了很多奇怪的地方，有人类之地，亦有非人居住的所"
+"在。他们边研究，边操练，使用法术帮助了同路的行者，也加深了对这世间潜藏的暗流"
+"与力量的理解。"
 
 #. [part]
 msgid ""
@@ -298,9 +295,10 @@ msgid ""
 "a handful of youths who might in time be worthy to enter the great Academy "
 "on Alduin."
 msgstr ""
-"但老法师的健康被旅途的艰辛所劳累。两人离开安度云岛后的一年，梅瑟在杜拉图山脉"
-"边上一条宁静的山谷定居，这里在首都韦林东南方不远。他创办了一所小私塾，在德法"
-"多帮助下，他开始训练一些可能会去安度云岛大学院的年轻人。"
+"但老法师的身心被旅途艰辛所累。两人离开奥渡因岛后的一年，梅瑟在杜拉图斯山脉边"
+"上一条宁静的山谷定了居，这里在首都维尔帝东南方不远。他创办了一所小私塾，在德"
+"法多的帮助下，他开始训练一小群年轻人。他们过些时日，便有可能获得前往奥渡因大"
+"学院的资质。"
 
 #. [message]: speaker=Methor
 msgid ""
@@ -338,7 +336,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Defeat Grogor-Tuk"
-msgstr "打败格罗格-图克"
+msgstr "击败格罗格-图克"
 
 # This is only a sounds-like translation. More recommendations welcome.
 #. [objective]: condition=lose
