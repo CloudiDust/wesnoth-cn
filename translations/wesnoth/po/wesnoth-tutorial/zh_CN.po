@@ -1,17 +1,17 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Huang Huan <unicon221@gmail.com>, 2005.
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:29 UTC\n"
-"PO-Revision-Date: 2015-06-06 15:44+0800\n"
+"PO-Revision-Date: 2017-01-02 21:04+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,16 +19,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. [lua]: wml_actions.select_character
 msgid "Select Character"
-msgstr ""
+msgstr "选择角色"
 
 #. [lua]: wml_actions.select_character
-#, fuzzy
 msgid "Who do you want to play?"
-msgstr "你打算扮演谁？"
+msgstr "你要扮演谁？"
 
 #. [side]: type=Fighter, id=student
 #. [lua]: wml_actions.select_character
@@ -40,20 +39,18 @@ msgid "Li’sar"
 msgstr "莉莎"
 
 #. [tutorial]: id=tutorial
-#, fuzzy
 msgid "Wesnoth Tutorial — Part I"
-msgstr "韦诺教程 第一部分"
+msgstr "韦诺教程 — 第一部分"
 
 #. [side]: type=Fighter, id=student
 msgid "team_name^Student"
-msgstr ""
+msgstr "学生"
 
 #. [unit]: id=Delfador, type=Elder Mage
 msgid "Delfador"
 msgstr "德法多"
 
 #. [objectives]
-#, fuzzy
 msgid ""
 "You will learn the basics of:\n"
 "• <small>Movement</small>\n"
@@ -61,34 +58,33 @@ msgid ""
 "• <small>Healing</small>\n"
 "• <small>Recruiting</small>"
 msgstr ""
-"你将学习以下基本内容：\n"
-" 移动\n"
-" 攻击\n"
-" 治疗\n"
-" 征募"
+"你将学习以下操作的基本内容：\n"
+"• <small>移动</small>\n"
+"• <small>进攻</small>\n"
+"• <small>治疗</small>\n"
+"• <small>征募</small>"
 
 #. [objective]: condition=win
 msgid "Destroy a fierce enemy"
-msgstr "击败凶残的敌人"
+msgstr "摧毁凶残的敌军"
 
 #. [objective]: condition=lose
 msgid "Get yourself killed"
-msgstr "把你自己搞死"
+msgstr "把你自己搞挂掉"
 
 #. [message]: speaker=narrator
 msgid "Welcome to Wesnoth!"
 msgstr "欢迎来到韦诺！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "For this tutorial, you are playing Konrad. You are standing on the keep, and "
 "your mentor Delfador is on the east side of the river. You can move the "
 "mouse over a unit to see a summary of its abilities and stats on the right "
 "of the screen."
 msgstr ""
-"在这个教程里，你扮演科纳德。\n"
-"你现在站在城堡主楼里，而你的导师德法多则在河的东岸。"
+"在此教程中，你扮演科纳德。你现在站在城堡主楼上，而你的导师德法多则在河的东"
+"岸。你可以将鼠标移动到单位上，以在屏幕右侧查看其能力和属性统计的概述。"
 
 #. [message]: speaker=narrator
 #, fuzzy
