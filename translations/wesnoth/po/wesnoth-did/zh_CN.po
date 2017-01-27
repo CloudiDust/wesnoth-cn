@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:28 UTC\n"
-"PO-Revision-Date: 2016-12-31 21:49+0800\n"
+"PO-Revision-Date: 2017-01-27 14:54+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -463,13 +463,14 @@ msgstr "同意！我渴望对那些生物复仇！"
 msgid ""
 "Who knows? Perhaps removing the threat of orc raids will persuade the people "
 "of Parthyn to... welcome you home."
-msgstr "谁知道呢？消除了兽人劫掠的威胁，说不定就能说服帕辛的人们……欢迎你回家。"
+msgstr ""
+"谁知道呢？消除了兽人的劫掠这个威胁，说不定就能说服帕辛的人们……欢迎你回家。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
 "Perhaps. Even Drogan would have to be thankful for a summer without orc "
 "raids."
-msgstr "也许吧。甚至德罗甘都会因为一个没有兽人侵袭的夏天而充满感激之情。"
+msgstr "也许吧。甚至德罗甘都得因为不再有兽人侵袭的夏日而充满感激之情。"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -478,17 +479,17 @@ msgid ""
 "These do not know of our coming. Subduing them will give us souls upon which "
 "to call in our fight against the orcs."
 msgstr ""
-"一个地精的村庄位于这个山谷里，就在前面。他们是兽族产下的杂种，协助兽人对人类"
-"和矮人发动战争。他们不知道我们的到来。征服他们，日后与兽人作战时，我们就能拥"
-"有灵魂来召唤了。"
+"有个地精村庄在这个山谷里，就在前面。他们是兽人产下的杂种，协助兽人对人类和矮"
+"人发动战争。他们不知道我们的到来。征服他们，日后与兽人作战时，我们就能拥有可"
+"以召唤的灵魂了。"
 
 #. [message]: speaker=Darken Volk
 msgid "It will be a worthwhile test of your new skills."
-msgstr "这将是对你的新技能的很有价值的检验。"
+msgstr "这将是对你的新技能的一次很有价值的检验。"
 
 #. [message]: speaker=Darken Volk
 msgid "Beware the goblin guards in the villages."
-msgstr "小心防备那些守卫着村庄的地精。"
+msgstr "小心村庄里的地精守卫。"
 
 #. [unit]: id=guard_$x1|_$y1|_$guard_location.n, type=Goblin Spearman
 msgid "Villager"
@@ -512,12 +513,12 @@ msgid ""
 "believe it would be beneficial for your training if you and I were to "
 "investigate the swamp."
 msgstr ""
-"啊……我不知道这村庄附近有个沼泽。马林，我相信，如果你和我去调查一下这个沼泽，"
-"那会对你的训练有益的。"
+"啊……我不知道这村庄附近有个沼泽。马林，我想，如果你和我去调查一下这个沼泽，那"
+"会对你的训练有益的。"
 
 #. [message]: speaker=Darken Volk
 msgid "Rise, rise from the realms of death and decay!"
-msgstr "苏醒吧，从死亡与腐烂的国度里苏醒吧！"
+msgstr "苏醒吧，从死亡与腐烂的国度之中苏醒吧！"
 
 #. [message]: speaker=Malin Keshar
 msgid "What are those things?"
@@ -530,13 +531,13 @@ msgid ""
 "within. Those that outlive their masters gravitate towards the swamps and "
 "bogs, drawn by the natural decay there."
 msgstr ""
-"他们是食尸鬼。曾经，他们是……坏人……杀人犯和逃犯。通过魔法，他们的外形被变换"
-"了，变得和内在的灵魂相符。那些比他们的主人还活得久的食尸鬼被吸引到湿地和沼泽"
-"里，在那里吸食天然的腐物。"
+"他们是食尸鬼。曾经，他们是……坏人……杀人犯和流寇。因为魔法，他们的外形变换了，"
+"变得和内在的灵魂相符。那些比他们的主人还活得久的食尸鬼，会被湿地和沼泽的天然"
+"腐坏所吸引。"
 
 #. [message]: speaker=Malin Keshar
 msgid "It seems cruel to turn men into such a hideous form."
-msgstr "把人们变成这么丑恶的形态，似乎有些太残酷了。"
+msgstr "把人们变成这么丑恶的形态，似乎有些残酷。"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -544,9 +545,9 @@ msgid ""
 "will aid you in defeating this goblin rabble. Besides, as I said, these were "
 "men of great evil. No punishment is too great for their kind."
 msgstr ""
-"他们现在的这种形态最适合为天下至善服务。就算是现在，他们也能帮助你击败这群乌"
-"合之众的地精。另外，正如我所说，他们曾经是罪大恶极之人。对他们而言，无论多重"
-"的惩罚都不为过。"
+"他们现在的这种形态最适合为天下至善服务。就算是现在，他们也能帮助你击败这群地"
+"精杂碎。另外，正如我所说，他们曾是罪大恶极之人。对他们而言，无论多重的惩罚都"
+"不为过。"
 
 #. [message]: speaker=Malin Keshar
 msgid "I suppose so..."
@@ -563,16 +564,16 @@ msgid ""
 "Your training is just beginning, Malin. With the souls from these goblins "
 "now available for our use, you will see your forces grow quickly."
 msgstr ""
-"你的训练才刚刚开始，马林。这些地精的灵魂现在可以为我们所用，你将会发现你的军"
-"队在迅速地扩张。"
+"你的训练才刚刚开始，马林。这些地精的灵魂现在可以为我们所用，你会发现你的军队"
+"将迅速扩张。"
 
 #. [message]: speaker=Malin Keshar
 msgid "Excellent. I’m eager to move on to the real foes."
-msgstr "太好了。我渴望能开始对付真正的敌人。"
+msgstr "太好了。我渴望面对真正的敌人。"
 
 #. [scenario]: id=03_A_Haunting_in_Winter
 msgid "A Haunting in Winter"
-msgstr "冬季闹鬼"
+msgstr "冬日闹鬼"
 
 #. [part]
 msgid ""
@@ -615,17 +616,17 @@ msgid ""
 "looks promising, but from the tracks in and out several bands of outlaws "
 "already inhabit it. You should clear them out so we may use it safely."
 msgstr ""
-"冬天就快来了，我们需要个躲避的地方来度过它。这个洞穴看起来挺有希望，但从进进"
-"出出的足迹看得出一伙罪犯已经占据了这里。你应该把他们清理掉，这样我们就能安全"
-"地使用它了。"
+"冬天就快来了，我们得找个庇护所过冬。这个洞穴看起来挺适合的，但从进进出出的足"
+"迹看来，有几伙流寇已经住在了这里。你得把他们清理掉，这样我们就能安全地使用这"
+"里了。"
 
 #. [message]: speaker=Darken Volk
 msgid ""
 "Be careful when imprisoning a soul and use all your might to retain control "
 "over it or it might attempt to break free and destroy you!"
 msgstr ""
-"小心，当你拘禁一个灵魂之时，要尽可能地保持对它的控制，不然它会尝试挣脱，并把"
-"你摧毁！"
+"小心，当你拘禁一个灵魂之时，要尽全力保持对它的控制，不然它会尝试挣脱，并把你"
+"摧毁！"
 
 #. [message]: speaker=Malin Keshar
 msgid "I... I will try."
@@ -643,8 +644,7 @@ msgid ""
 "Two necromancers are at the cave entrance! Up yer axes, boys, if ye dinna’ "
 "want tae be a walking pile o’ bones."
 msgstr ""
-"两个死灵法师在洞口！拔出你们的斧头，伙计们，如果你们不想变成行走的骷髅架的"
-"话。"
+"有两个死灵法师在洞口！举起斧头，小子们，如果你们不想变成一摊行走的骷髅的话。"
 
 #. [message]: speaker=Malin Keshar
 msgid "Or not. Why do they hate us so much?"
@@ -658,8 +658,8 @@ msgid ""
 "you deal with the orc threat at its source. For now, the cave-dwellers give "
 "us no choice."
 msgstr ""
-"人们害怕他们不了解的东西，还有死亡，毕竟，这是最大的奥秘。谁要是敢于研究那个"
-"奥秘就一定会引起恐惧和怀疑。别担心，一旦你把兽人的威胁连根拔除，你的族人一定"
+"人们害怕他们不了解的东西。而死亡，毕竟，是最大的奥秘。谁要是敢于研究那个奥"
+"秘，就一定会引起恐惧和怀疑。别担心，一旦你把兽人的威胁连根拔除，你的族人一定"
 "会重新热情地对待你的。现在，这些洞中居民并没给我们选择的余地。"
 
 #. [event]: id=Tortured Soul
@@ -671,8 +671,8 @@ msgid ""
 "Free! Your foul spells cannot enslave me any longer, Malin the Damned. You "
 "shall pay for keeping me from my final rest!"
 msgstr ""
-"自由了！你邪恶的符咒再也不能奴役我了，被诅咒的马林。你将为阻止我安息的行为付"
-"出代价！"
+"我自由了！你邪恶的咒语再也不能奴役我了，被诅咒的马林。你将为阻止我安息的行为"
+"付出代价！"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -681,19 +681,19 @@ msgid ""
 "who have died when their servants turned on them. He will attack you "
 "relentlessly."
 msgstr ""
-"傻孩子！你的意志必须要更强，否则你将来就不能很好地控制你的士兵来对付兽人。被"
-"倒戈的奴仆杀死的年轻死灵法师是很多的。他会毫不留情地攻击你。"
+"傻孩子！你的意志必须要更强，否则你永远不可能控制好你的士兵来对付兽人。被倒戈"
+"的奴仆杀死的年轻死灵法师是很多的。他会毫不留情地攻击你。"
 
 #. [message]: speaker=Malin Keshar
 msgid "But why are they attacking me? And what should I do?!"
-msgstr "但他们为什么攻击我？我现在该怎么做？！"
+msgstr "但他们为什么攻击我？我该怎么做？！"
 
 #. [message]: speaker=Darken Volk
 msgid ""
 "Destroy the rebel quickly and all will be well. Wait, and he will begin to "
 "turn the rest of your forces against you."
 msgstr ""
-"迅速消灭这个反叛者就能解决问题。动作一慢，他就会开始让你的其他部队倒戈相向。"
+"迅速消灭这个反叛者就能解决问题。动作一慢，他就会开始让你的其他部队倒戈。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -767,7 +767,7 @@ msgstr "这里的冰面看起来不太厚……"
 
 #. [message]: speaker=Darken Volk
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. [message]: speaker=narrator
 msgid ""
