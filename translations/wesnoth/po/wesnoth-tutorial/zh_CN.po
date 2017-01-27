@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:29 UTC\n"
-"PO-Revision-Date: 2017-01-27 19:28+0800\n"
+"PO-Revision-Date: 2017-01-27 19:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -70,7 +70,7 @@ msgstr "摧毁凶残之敌"
 
 #. [objective]: condition=lose
 msgid "Get yourself killed"
-msgstr "把你自己搞死"
+msgstr "把你自己搞挂掉"
 
 #. [message]: speaker=narrator
 msgid "Welcome to Wesnoth!"
@@ -84,7 +84,7 @@ msgid ""
 "of the screen."
 msgstr ""
 "在这个教程里，你扮演科纳德。你现在站在城堡主楼上，而你的导师德法多则在河的东"
-"岸。你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和状态的概述。"
+"岸。你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和属性统计的概述。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -94,7 +94,7 @@ msgid ""
 "of the screen."
 msgstr ""
 "在这个教程里，你扮演莉莎。你现在站在城堡主楼上，而你的导师德法多则在河的东"
-"岸。你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和状态的概述。"
+"岸。你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和属性统计的概述。"
 
 #. [event]
 msgid "Click on Konrad"
