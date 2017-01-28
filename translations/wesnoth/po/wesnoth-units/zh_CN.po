@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:23 UTC\n"
-"PO-Revision-Date: 2017-01-27 15:16+0800\n"
+"PO-Revision-Date: 2017-01-28 15:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -39,7 +39,7 @@ msgstr ""
 "的。有些人猜测这是因为他们的武器，那些喷射着火焰与死亡的奇怪的杖。另一些人则"
 "猜想，这是由于这种武器甚至对真正的龙都能构成威胁，如果在已知的世界中能再一次"
 "见到这样的东西的话。无论如何，正是这些武器使得矮人族伟大堡垒的守卫者们闻名于"
-"世，并且令人畏惧——这是些能将最强悍的勇士一击必杀的武器。"
+"世，并且令人畏惧；这是些能将最强悍的勇士一击必杀的武器。"
 
 #. [attack]: type=blade
 msgid "dagger"
@@ -3389,7 +3389,7 @@ msgstr "火焰爪"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 msgid "Giant Mudcrawler"
-msgstr "巨型黏土怪"
+msgstr "巨黏土怪"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 msgid ""
@@ -3400,6 +3400,10 @@ msgid ""
 "also be seen roaming the wild from time to time, their earthy composition "
 "making them immune to wildlife that rely on poison to fight."
 msgstr ""
+"这些泥土魔像比小黏土怪更耐打，哪怕只用上粗糙的手臂，它们与正规士兵战斗的能力"
+"还是比小黏土怪要强得多，除此以外它们的移动速度还更快。有些较为强大的召唤士为"
+"了更高效地骚扰平民和军队，而在探寻新手段的过程中召唤出了巨型黏土怪。有时它们"
+"也会在野地里漫游，而泥土成分让它们对使毒的野生生物免疫。"
 
 #. [attack]: type=impact
 msgid "fist"
@@ -3420,6 +3424,9 @@ msgid ""
 "on any footing. While notably aggressive at night, these creatures do not "
 "pose much of a threat to any serious fighter."
 msgstr ""
+"这些害兽比通常居住在大城市里的普通老鼠大得多，它们可以伤害到没带武装的平民，"
+"不论在何处都很难捉住，让人很是沮丧。虽然这些生物在夜间很有攻击性，但对任何训"
+"练有素的战士来说，它们都造不成什么大威胁。"
 
 #. [unit_type]: id=Giant Scorpion, race=monster
 msgid "Giant Scorpion"
@@ -3429,7 +3436,7 @@ msgstr "巨蝎"
 msgid ""
 "A normal scorpion is dangerous enough — the deadliness of one the size of a "
 "man needs little explanation."
-msgstr "一只普通的蝎子就够危险了——而如人一般巨大的蝎子就更不用说了。"
+msgstr "一只普通的蝎子就够危险了——而一只如人一般巨大的蝎子就更不用说了。"
 
 #. [attack]: type=pierce
 msgid "sting"
@@ -3441,7 +3448,7 @@ msgstr "钳"
 
 #. [unit_type]: id=Giant Spider, race=monster
 msgid "Giant Spider"
-msgstr "巨型蜘蛛"
+msgstr "巨蛛"
 
 #. [unit_type]: id=Giant Spider, race=monster
 msgid ""
@@ -3449,8 +3456,8 @@ msgid ""
 "They have a vicious bite, made worse by the fact that it is poisoned, and "
 "can also fling webs through the air to trap their prey."
 msgstr ""
-"据说，巨型蜘蛛在Knalga的深处游荡，吞食了很多可怜的受害者。它们能够凶猛地撕咬"
-"对手，更糟糕的是这有毒。他们也能向空中抛出蛛网，将猎物困在其中。"
+"据说，巨蛛在纳尔迦的深处游荡，吞食了很多可怜的受害者。它们能够凶猛地撕咬对"
+"手，更糟糕的是这有毒。它们也能向空中抛出蛛网，将猎物困在其中。"
 
 #. [attack]: type=impact
 msgid "web"
@@ -3468,10 +3475,13 @@ msgid ""
 "along with their resistance to a common citizen’s improvised blunt weaponry, "
 "makes them the tool of choice for ambitious but inexperienced summoners."
 msgstr ""
+"黏土怪是用灵魂与水召唤而出的简单生物，它们靠着奇大的力量口吐泥团来保护自己。"
+"虽然它们缓慢、脆弱而又怕火，但要创造它们是快速而简便的，而它们又很能承受平民"
+"随手拿来护身的钝器的攻击，因此，它们是野心勃勃但缺乏经验的召唤师最爱的工具。"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 msgid "Sea Serpent"
-msgstr "巨型海蛇"
+msgstr "海巨蛇"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 msgid ""
@@ -3483,10 +3493,15 @@ msgid ""
 "even to the elite merfolk warriors, and are the reason they seldom inhabit "
 "waters far from the shore."
 msgstr ""
+"海巨蛇令渔民和水手心生敬畏，经常在民间传说中以愤怒的海神形象出现。它们可以轻"
+"易地摧毁船只，似乎拥有无穷的力量与活力，这些灵活的海怪对任何试图与它们作战的"
+"人而言，都是十分坚韧而充满毁灭性的。海巨蛇通常生活在深海之中，甚至对精锐的人"
+"鱼战士而言，它们都能带来很大的压力。它们也是人鱼们很少在远离海岸的水中居住的"
+"原因。"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 msgid "Skeletal Dragon"
-msgstr "骸骨巨龙"
+msgstr "骸骨龙"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 msgid ""
@@ -3497,8 +3512,8 @@ msgid ""
 "lived long enough to change their minds."
 msgstr ""
 "很久以前，令人恐惧的巨龙曾是最强大的生物之一，现在却只剩下骨头和暗淡的肌肉。"
-"它们死了很久之后，被死灵术的黑暗力量起死回生，成为了它的仆从。骸骨巨龙也许看"
-"上去不过就是一堆骨头，不过这么想的人几乎都没有活得足够长以改变自己的想法。"
+"它死去很久之后，被死灵术的黑暗力量起死回生，成为了它的仆从。骸骨巨龙也许看上"
+"去不过就是一堆骨头，不过这么想的人几乎都没有活到能改变自己想法的时候。"
 
 #. [attack]: type=blade
 msgid "jaw"
@@ -3517,10 +3532,14 @@ msgid ""
 "being caught and dragged underwater to face whatever beast the tentacles are "
 "attached to."
 msgstr ""
+"这些触须是潜伏在波涛之下的某种巨大怪物的副肢。很明显，它们不能离开水体太远。"
+"而且，虽说它们的疗伤速度很快，但单个触手却并没有多大威胁。不过，很多人在接近"
+"它们时很犹豫，这是可以理解的，因为他们担心会被抓住拖进水底，面对这些触手所附"
+"着的不知什么怪兽。"
 
 #. [unit_type]: id=Water Serpent, race=monster
 msgid "Water Serpent"
-msgstr "巨型水蛇"
+msgstr "水巨蛇"
 
 #. [unit_type]: id=Water Serpent, race=monster
 msgid ""
@@ -3529,9 +3548,9 @@ msgid ""
 "up as a primitive offshoot of the Nagas. What is certain is that it is wise "
 "to avoid waters where they are known to congregate."
 msgstr ""
-"学者们对巨型水蛇的祖先是何物持有不同的意见。有些人认为这些怪物要么是巨型海蛇"
-"未成熟的幼体，要么是它们成熟的表亲。另一些则认为它们是娜迦族的一个原始分支。"
-"可以确定的一点是，躲开这些家伙聚集的水域是明智的选择。"
+"学者们对水巨蛇的祖先是何物持有不同的意见。有些人认为这些怪物要么是海巨蛇未成"
+"熟的幼体，要么是它们成熟的表亲。另一些则认为它们是娜迦族的一个原始分支。可以"
+"确定的一点是，躲开这些家伙聚集的水域是明智的选择。"
 
 #. [unit_type]: id=Wolf, race=wolf
 msgid "Wolf"
@@ -3568,6 +3587,11 @@ msgid ""
 "encounter with their bare fists. This is enough to keep even the doubtful "
 "from venturing too far onto the mountains they are said to inhabit."
 msgstr ""
+"关于雪人，我们知之甚少。它们是居住在远方冰雪覆盖的山脉之中的类猿生物。很少有"
+"人宣称看见过雪人，而很多人则怀疑它们是否存在。但绝大部分目击证言在以下几点上"
+"是相同的——虽然雪人行动缓慢而思维简单，但他们十分耐打，而且可以空手杀死任何与"
+"他们遭遇的人。这足以让怀疑雪人是否存在的人在据说有雪人居住的山脉之中，不敢走"
+"得太远了。"
 
 #. [unit_type]: id=Naga Fighter, race=naga
 msgid "Naga Fighter"
@@ -3767,7 +3791,8 @@ msgid ""
 msgstr ""
 "那些非同一般地狡猾的兽人经常会发现自己成为了武士团的领袖。出于需要，他们会携"
 "带一把十字弩，但他们却更加擅长于剑术。这些兽人是强大的战士，但他们和族人之间"
-"同时也有着某种默契。特别是对地精而言，领袖们能够激励他们去疯狂大胆地战斗。"
+"同时也有着某种默契。特别是对地精而言，领袖们能够激励他们违背本性，去疯狂大胆"
+"地战斗。"
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
 msgid "Orcish Nightblade"
@@ -3782,6 +3807,10 @@ msgid ""
 "long lost count of their victims, though that admittedly isn’t too hard for "
 "an orc with only ten fingers."
 msgstr ""
+"暗影之中滴落着毒液的利刃——对很多兽人军阀而言，这是他们所见到的最后一样东西。"
+"由于高昂的费用，专精于“解决内部冲突”的兽人夜刃很少能在战场上见到。熟能生巧，"
+"而很少有人能在这方面与他们比肩：他们早就已经数不清自己杀掉多少受害者了，虽然"
+"得承认，对只有十个指头的兽人而言，“数不清”并不是很难的。"
 
 #. [attack]: type=blade
 msgid "blade"
