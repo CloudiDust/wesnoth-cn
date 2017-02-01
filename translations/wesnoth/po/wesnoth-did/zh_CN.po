@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:28 UTC\n"
-"PO-Revision-Date: 2017-01-30 10:45+0800\n"
+"PO-Revision-Date: 2017-01-31 13:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -348,7 +348,7 @@ msgid ""
 "Orcs. Foul, pestilent creatures. The wide green world would be a better "
 "place with them all dead. Dead!"
 msgstr ""
-"兽人。邪恶，瘟疫般的生物。这广阔的绿色世界会变得更加美好的，如果兽人都死掉的"
+"兽人。肮脏，瘟疫般的生物。这广阔的绿色世界会变得更加美好的，如果兽人都死掉的"
 "话。死掉！"
 
 #. [message]: speaker=Drogan
@@ -671,7 +671,7 @@ msgid ""
 "Free! Your foul spells cannot enslave me any longer, Malin the Damned. You "
 "shall pay for keeping me from my final rest!"
 msgstr ""
-"我自由了！你邪恶的咒语再也不能奴役我了，被诅咒的马林。你将为阻止我安息的行为"
+"我自由了！你丑恶的咒语再也不能奴役我了，被诅咒的马林。你将为阻止我安息的行为"
 "付出代价！"
 
 #. [message]: speaker=Darken Volk
@@ -741,7 +741,7 @@ msgstr "将马林移动到山道的尽头"
 
 #. [objective]: condition=win
 msgid "Kill the orc leaders"
-msgstr "击杀所有兽人领袖"
+msgstr "击杀所有兽人首领"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -816,8 +816,8 @@ msgid ""
 "thoria, they manage to surround the humans and force a fight."
 msgstr ""
 "马林和达肯·沃克在过去一年里造成的伤害很大，平常总是离心离德的当地酋长们也被迫"
-"联合起来抵抗。最终，在人类称为“朗利尔”而精灵称为“阿坎-索利亚”的河流的某个狭窄"
-"之处，他们成功地包围了人类，并迫使他们开战。"
+"联合起来抵抗。最终，在人类称为“绵河”而精灵称为“阿坎-索利亚”的河流的某个狭窄之"
+"处，他们成功地包围了人类，并迫使他们开战。"
 
 #. [side]: type=Orcish Warlord, id=Borth
 msgid "Borth"
@@ -833,7 +833,7 @@ msgstr "卡乏克"
 
 #. [label]
 msgid "River Longlier"
-msgstr "朗利尔河"
+msgstr "绵河"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -859,7 +859,7 @@ msgid ""
 "Stop your silly talk, foul necromancer. You have caused enough trouble. It "
 "is time for you to die."
 msgstr ""
-"闭上你那愚蠢的嘴巴，邪恶的死灵法师。你已经造成了足够多的麻烦。你的死期到了。"
+"闭上你那愚蠢的嘴巴，丑恶的死灵法师。你已经造成了足够多的麻烦。你的死期到了。"
 
 #. [message]: speaker=P'Gareth
 msgid "Ummm... unless... you are already dead, like the skeletons?"
@@ -927,7 +927,7 @@ msgstr "河口要塞守卫"
 
 #. [objective]: condition=win
 msgid "Kill the orc leader"
-msgstr "击杀兽人领袖"
+msgstr "击杀兽人首领"
 
 #. [objective]: condition=win
 msgid "Remove the traitor Drogan"

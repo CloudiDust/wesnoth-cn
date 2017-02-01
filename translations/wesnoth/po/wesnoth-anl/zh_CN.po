@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:23 UTC\n"
-"PO-Revision-Date: 2017-01-01 09:41+0800\n"
+"PO-Revision-Date: 2017-01-31 10:10+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 #. [objectives]
 msgid "Right-click on your leader during your turn for help"
-msgstr "在你的回合中，右键点击你的领袖以获取帮助"
+msgstr "在你的回合中，右键点击你的首领以获取帮助"
 
 #. [objective]: condition=win
 msgid "You must survive until turn 25."
@@ -252,7 +252,7 @@ msgstr "外交"
 msgid ""
 "Right-clicking on your leader when in a university allows you to select "
 "special diplomatic options."
-msgstr "当你的领袖身处大学时，右键点击他就可以选择特殊的外交选项。"
+msgstr "当你的首领身处大学时，右键点击他就可以选择特殊的外交选项。"
 
 #. [set_menu_item]: id=anl_help
 msgid "Help"

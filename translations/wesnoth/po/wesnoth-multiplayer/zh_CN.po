@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:28 UTC\n"
-"PO-Revision-Date: 2017-01-27 14:35+0800\n"
+"PO-Revision-Date: 2017-01-31 13:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -50,8 +50,8 @@ msgid ""
 "units available for recruit. Consists of six factions. Not considered "
 "balanced."
 msgstr ""
-"包含高阶单位的时代：领袖为三级，而一级和二级单位可供直接征募。包含六大派系。"
-"此时代并不可视为是平衡的。"
+"包含高阶单位的时代：首领为三级，而一级和二级单位可供直接征募。包含六大派系。"
+"此时代并不被认为是平衡的。"
 
 #. [era]: id=era_khalifate
 msgid "Default + Khalifate"
@@ -631,9 +631,9 @@ msgid ""
 "(inscribed by Fynmiir)"
 msgstr ""
 "他是韦诺黄金时代的一位勇敢的英雄，这位伟大的人类骑手与指挥官在奇袭兽人时，来"
-"到了这邪恶的地方。他们被那些邪恶的生物打了一个措手不及，他的许多部下都英勇牺"
+"到了这邪恶的地方。他们被那些丑恶的生物打了一个措手不及，他的许多部下都英勇牺"
 "牲了，但他仍然勇敢地战斗，杀死了无数敌人。可惜！在杀死最后一个兽人的瞬间，他"
-"被邪恶的蛇怪变成了石头。现在，只余下一尊僵硬的石像，让人们忆起他曾经的风度与"
+"被丑恶的蛇怪变成了石头。现在，只余下一尊僵硬的石像，让人们忆起他曾经的风度与"
 "力量。\n"
 "（芬米尔【Fynmiir】刻）"
 
@@ -805,22 +805,22 @@ msgstr "人类"
 
 #. [then]
 msgid "Death of your leader"
-msgstr "你的领袖阵亡"
+msgstr "你的首领阵亡"
 
 #. [then]
 msgid ""
 "Since your team has only one leader, the enemy waves will not be at full "
 "strength."
-msgstr "你的团队里只有一位领袖，因此敌人不会竭尽全力进攻。"
+msgstr "你的团队里只有一位首领，因此敌人不会竭尽全力进攻。"
 
 #. [else]
 msgid "Death of both of your team’s leaders"
-msgstr "你队领袖全部阵亡"
+msgstr "你队首领全部阵亡"
 
 #. [else]
 msgid ""
 "Since your team has two leaders, the enemy waves will be at full strength."
-msgstr "你的团队里有两位领袖，因而敌人会竭尽全力攻打过来。"
+msgstr "你的团队里有两位首领，因而敌人会竭尽全力攻打过来。"
 
 #. [objective]: condition=win
 msgid "Survive and defeat all enemy waves"
@@ -1539,7 +1539,7 @@ msgstr "撑过敌军的所有攻击"
 
 #. [objective]: condition=lose
 msgid "Death of your team leaders"
-msgstr "你队领袖全部阵亡"
+msgstr "你队首领全部阵亡"
 
 #. [note]
 msgid "Hint: Learning the enemy spawn points and types helps a lot."

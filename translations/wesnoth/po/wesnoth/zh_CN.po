@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:31+0300\n"
-"PO-Revision-Date: 2017-01-27 16:44+0800\n"
+"PO-Revision-Date: 2017-01-31 18:20+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -84,7 +84,7 @@ msgstr "Ping超时"
 msgid ""
 "Number of seconds to wait for a ping reply before timing out. Set to 0 to "
 "disable"
-msgstr "在ping回复之前，等待的秒数，超过则超时。设为0则禁用此功能"
+msgstr "在收到ping回复之前，等待的秒数，超过则超时。设为0则禁用此功能"
 
 #. [advanced_preference]: type=boolean
 msgid "Auto-open whisper windows in lobby"
@@ -683,7 +683,7 @@ msgstr "龙之雕像"
 
 #. [item]: id=flame-sword
 msgid "Flaming Sword"
-msgstr "火焰剑"
+msgstr "烈焰神剑"
 
 #. [item]: id=flower1
 #. [item]: id=flower2
@@ -1017,7 +1017,7 @@ msgstr "让$ai_controller_unit.name|移动到此处"
 
 #. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
 msgid "Ask $ally_leader.name (leader of side $ally_leader.side) to move here"
-msgstr "让$ally_leader.name|（$ally_leader.side|阵营的领袖）移动到此处"
+msgstr "让$ally_leader.name|（$ally_leader.side|阵营的首领）移动到此处"
 
 #. [note]
 msgid ""
@@ -1035,7 +1035,7 @@ msgstr "指示盟友"
 msgid ""
 "$ally_leader.name (side $ally_side|) is carrying out the following "
 "instructions:"
-msgstr "$ally_leader.name|（阵营$ally_side|）正在执行以下指示："
+msgstr "$ally_leader.name|（阵营$ally_side|）正在执行下列指示："
 
 #. [overview_message_no_instructions]: speaker=narrator
 msgid ""
@@ -1167,16 +1167,16 @@ msgid "Set special orders..."
 msgstr "设置特殊命令……"
 
 msgid "Move leader to..."
-msgstr "把领袖移动至……"
+msgstr "把首领移动至……"
 
 msgid "Right-click to select a location to move leader to"
-msgstr "右击以选择领袖移动的目标地点"
+msgstr "右击以选择首领移动的目标地点"
 
 msgid "Move leader here"
-msgstr "把领袖移动到此处"
+msgstr "把首领移动到此处"
 
 msgid "moving leader to $x1|,$y1|."
-msgstr "把领袖移动到$x1|,$y1|。"
+msgstr "把首领移动到$x1|,$y1|。"
 
 msgid "Clear special orders"
 msgstr "清除特殊命令"
@@ -1338,7 +1338,7 @@ msgstr "此杖将赐予持有者加速移动的能力。"
 
 #. [object]: id={ID}
 msgid "Only magical beings can wield such an object."
-msgstr "只有魔法生物才可以携带这样的物体。"
+msgstr "只有魔法生物才能够携带这样的物体。"
 
 msgid "Should $unit.name pick up the trident?"
 msgstr "$unit.name|应该拿起三叉戟吗？"
@@ -1352,7 +1352,7 @@ msgstr "留下风暴三叉戟"
 msgid ""
 "$unit.name cannot use this Storm Trident! Let one of the merfolk who can "
 "wield it have it."
-msgstr "$unit.name|无法使用风暴三叉戟！让可以使用它的人鱼拥有它吧。"
+msgstr "$unit.name|无法使用风暴三叉戟！让能够使用它的人鱼拥有它吧。"
 
 #. [object]
 msgid "This trident allows a merman to shoot electric bolts at his enemies!"
@@ -3174,8 +3174,8 @@ msgid ""
 msgstr ""
 "韦诺拥有诸多传奇，等你探索。作为合法的继承人，为了夺回韦诺王座而战……化身年轻"
 "的军官，派守不那么无聊的边疆哨所……领导一场统一兽人部落的野蛮战争……消灭恰巧把"
-"你的兄弟掳为人质的邪恶死灵法师，和他释放出来的亡灵大军……引导一群精灵幸存者，"
-"走上寻找新家园的壮阔旅程……使用邪恶的死灵秘术，向兽人复仇……\n"
+"你的兄弟掳为人质的丑恶死灵法师，和他释放出来的亡灵大军……引导一群精灵幸存者，"
+"走上寻找新家园的壮阔旅程……使用丑恶的死灵秘术，向兽人复仇……\n"
 "\n"
 "游戏中，有至少两百种单位，十六个种族，七大派系，以及数百年的历史。\n"
 "\n"
@@ -3248,7 +3248,7 @@ msgstr "远程"
 
 #. [language]
 msgid "blade"
-msgstr "剑刃"
+msgstr "刃器"
 
 #. [language]
 msgid "pierce"
@@ -3833,7 +3833,7 @@ msgid ""
 "Don’t neglect to earn your leader experience! You need to keep him safe, but "
 "if you coddle him too much he may be too weak to survive future battles."
 msgstr ""
-"不要忘了让你的领袖获得经验！你必须确保他的安全，但是如果你太惯着他，那他就会"
+"不要忘了让你的首领获得经验！你必须确保他的安全，但是如果你太惯着他，那他就会"
 "变得太弱，而不能在未来的战斗中存活。"
 
 #. [tip]
@@ -3988,7 +3988,7 @@ msgid ""
 "Description</b> to see which attacks it is resistant to, and which will "
 "affect it the most."
 msgstr ""
-"有六种攻击类型：<b>穿刺</b>，<b>剑刃</b>，<b>冲击</b>，<b>火焰</b>，<b>寒冰</"
+"有六种攻击类型：<b>穿刺</b>，<b>刃器</b>，<b>冲击</b>，<b>火焰</b>，<b>寒冰</"
 "b>和<b>奥术</b>。不同的单位面对不同的攻击时会暴露弱点。鼠标右击一个单位，再选"
 "择<b>单位描述</b>，就可以查看它对哪些攻击有很高的抗性，又是哪些攻击对它的伤害"
 "最大。"
@@ -4100,7 +4100,7 @@ msgid ""
 "weapons, but are vulnerable to attacks with piercing weapons, including bows "
 "and spears."
 msgstr ""
-"骑马的单位通常对剑刃或冲击武器的攻击有较强的抗性，但却易受穿刺武器的伤害，包"
+"骑马的单位通常对刃器或冲击武器的攻击有较强的抗性，但却易受穿刺武器的伤害，包"
 "括弓和矛。"
 
 #. [tip]
@@ -4114,8 +4114,8 @@ msgid ""
 "every level of the unit they kill, or four experience points for a zero-"
 "level opponent."
 msgstr ""
-"对敌人打出致命一击是获取经验的最好方式。单位在杀死敌人后会根据所杀敌人的等级"
-"获得经验值，每一级8点，如果杀死0级的对手则获得4点经验值。"
+"对敌人打出致命一击是获取经验的最好方式。单位在击杀敌人后会根据所杀敌人的等级"
+"获得经验值，每一级8点，如果击杀0级对手则获得4点经验值。"
 
 #. [tip]
 msgid ""
@@ -4166,7 +4166,7 @@ msgid ""
 "make room for you on their keep so you can recruit from there, and you can "
 "even capture an enemy’s keep and use that."
 msgstr ""
-"<b>领袖</b>们可以在任意城堡的主楼里征募或召回单位，而不仅仅是战斗开始时他们所"
+"<b>首领</b>们可以在任意城堡的主楼里征募或召回单位，而不仅仅是战斗开始时他们所"
 "在的主楼。有些时候，你的盟友会愿意在他们的主楼上为你腾出空间以征募单位，你甚"
 "至可以占领敌人的主楼并利用之。"
 
@@ -4175,7 +4175,7 @@ msgid ""
 "Skeletons are resistant to piercing, bladed and cold-based attacks but are "
 "vulnerable to impact, fire, and arcane attacks."
 msgstr ""
-"骷髅对穿刺、剑刃和寒冰攻击具有较强的抗性，但却易受冲击、火焰和奥术攻击的伤"
+"骷髅对穿刺、刃器和寒冰攻击具有较强的抗性，但却易受冲击、火焰和奥术攻击的伤"
 "害。"
 
 #. [tip]
@@ -4372,7 +4372,7 @@ msgid ""
 "little experience it has. Sometimes it’s worth paying a premium to know "
 "exactly what traits a new arrival will have."
 msgstr ""
-"不论其经验多么少，在解散召回列表中的任何单位之前都请三思。有时候，为了确知新"
+"不论其经验多么少，在开除召回列表中的任何单位之前都请三思。有时候，为了确知新"
 "上场的单位所具有的特质，多花点钱是值得的。"
 
 #. [tip]
@@ -4405,7 +4405,7 @@ msgid ""
 "your units extra experience. When deciding whether or not to finish a "
 "scenario early, weigh these factors against one another."
 msgstr ""
-"虽然提前完成任务目标会有一笔赏金，同时也减少了敌人杀掉你珍贵的部队的机会，但"
+"虽然提前完成任务目标会有一笔赏金，同时也减少了敌人击杀你珍贵的部队的机会，但"
 "这也意味着你失去了让单位获得额外经验的良机。在定夺是否要尽早结束战斗时，请权"
 "衡两方面的因素。"
 
@@ -4440,34 +4440,34 @@ msgstr ""
 "能得到村庄带来的任何防御加成，虽然说它们仍然会得到治疗。"
 
 msgid "An invalid attacker weapon got selected."
-msgstr "选中了无效的攻击武器。"
+msgstr "选中了无效的进攻武器。"
 
 msgid "An invalid defender weapon got selected."
 msgstr "选中了无效的防御武器。"
 
 msgid "You do not have a leader to recall with."
-msgstr "你没有可以进行召回的领袖。"
+msgstr "你没有首领，不能进行召回。"
 
 msgid "None of your leaders are able to recall that unit."
-msgstr "你的领袖都不能召回该单位。"
+msgstr "你的首领都不能召回该单位。"
 
 msgid "You must have a leader on a keep who is able to recall that unit."
-msgstr "你必须让一位可以召回该单位的领袖站在城堡主楼上。"
+msgstr "你必须让一位能够召回该单位的首领站在城堡主楼上。"
 
 msgid "There are no vacant castle tiles in which to recall the unit."
-msgstr "城堡内没有空格，无法召回该单位。"
+msgstr "城堡内没有空格，不能召回该单位。"
 
 msgid "An unrecognized error has occurred."
-msgstr "发生了无法识别的错误。"
+msgstr "发生了未能识别的错误。"
 
 msgid "You do not have a leader to recruit with."
-msgstr "你没有可以进行征募的领袖。"
+msgstr "你没有首领，不能进行征募。"
 
 msgid "None of your leaders are able to recruit that unit."
-msgstr "你的领袖都不能征募该单位。"
+msgstr "你的首领都不能征募该单位。"
 
 msgid "You must have a leader on a keep who is able to recruit the unit."
-msgstr "你必须让一位可以征募该单位的领袖站在城堡主楼上。"
+msgstr "你必须让一位能够征募该单位的首领站在城堡主楼上。"
 
 msgid "There are no vacant castle tiles in which to recruit the unit."
 msgstr "城堡内没有空格，无法征募该单位。"
@@ -4592,10 +4592,10 @@ msgid "addon_state^Published"
 msgstr "已发布"
 
 msgid "addon_state^Installed, upgradable"
-msgstr "已安装，可更新"
+msgstr "已安装，可升级"
 
 msgid "addon_state^Published, upgradable"
-msgstr "已发布，可更新"
+msgstr "已发布，可升级"
 
 msgid "addon_state^Installed, outdated on server"
 msgstr "已安装，服务器上的版本已过时"
@@ -4604,10 +4604,10 @@ msgid "addon_state^Published, outdated on server"
 msgstr "已发布，服务器上的版本已过时"
 
 msgid "addon_state^Installed, broken"
-msgstr "已安装，损坏"
+msgstr "已安装，已损坏"
 
 msgid "addon_state^Published, broken"
-msgstr "已发布，损坏"
+msgstr "已发布，已损坏"
 
 msgid "addon_state^Unknown"
 msgstr "未知"
@@ -4622,10 +4622,10 @@ msgid_plural ""
 "The selected add-on has the following dependencies, which are not currently "
 "installed or available from the server. Do you wish to continue?"
 msgstr[0] ""
-"这个附加组件有如下依赖项目。这个依赖项目尚未安装，且不存在于服务器上。希望继"
+"这个附加组件有下列依赖项目。这个依赖项目尚未安装，且不存在于服务器上。希望继"
 "续吗？"
 msgstr[1] ""
-"这个附加组件有如下依赖项目。这些依赖项目尚未安装，且不存在于服务器上。希望继"
+"这个附加组件有下列依赖项目。这些依赖项目尚未安装，且不存在于服务器上。希望继"
 "续吗？"
 
 msgid "Broken Dependencies"
@@ -4656,10 +4656,10 @@ msgid_plural ""
 "The selected add-on has the following dependencies, which are not currently "
 "installed. Do you wish to install them before continuing?"
 msgstr[0] ""
-"这个附加组件有如下依赖项目。这个依赖项目尚未安装。继续之前希望安装依赖项目"
+"这个附加组件有下列依赖项目。这个依赖项目尚未安装。继续之前希望安装依赖项目"
 "吗？"
 msgstr[1] ""
-"这个附加组件有如下依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
+"这个附加组件有下列依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
 "吗？"
 
 msgid ""
@@ -4783,8 +4783,8 @@ msgstr "更新失败"
 msgid "The following add-on could not be downloaded or installed successfully:"
 msgid_plural ""
 "The following add-ons could not be downloaded or installed successfully:"
-msgstr[0] "以下附加组件无法成功地下载或更新："
-msgstr[1] "以下附加组件无法成功地下载或更新："
+msgstr[0] "下列附加组件无法成功地下载或更新："
+msgstr[1] "下列附加组件无法成功地下载或更新："
 
 msgid "An error occurred while downloading the add-ons list from the server."
 msgstr "从服务器上下载附加组件列表时发生错误。"
@@ -4993,7 +4993,7 @@ msgid "Core Path: "
 msgstr "核心路径："
 
 msgid "File not found."
-msgstr "文件未找到。"
+msgstr "未找到文件。"
 
 msgid "Error loading core data."
 msgstr "载入核心数据时出错。"
@@ -5026,8 +5026,8 @@ msgstr "载入默认核心游戏配置文件时出错。现在游戏将退出。
 
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
-msgstr[0] "以下附加组件有错误，无法载入："
-msgstr[1] "以下附加组件有错误，无法载入："
+msgstr[0] "下列附加组件有错误，无法载入："
+msgstr[1] "下列附加组件有错误，无法载入："
 
 msgid "Please report this to the author or maintainer of this add-on."
 msgid_plural ""
@@ -5122,13 +5122,13 @@ msgid "Only random sides in the current era."
 msgstr "仅当前时代中的随机阵营。"
 
 msgid "Unable to find a leader type for faction $faction"
-msgstr "无法找到$faction|派系的可用领袖类型"
+msgstr "无法找到$faction|派系的首领类型"
 
 msgid "Cannot obtain genders for invalid leader $leader"
-msgstr "无法获取无效的领袖$leader|的性别"
+msgstr "无法获取无效的首领$leader|的性别"
 
 msgid "Defeat enemy leader(s)"
-msgstr "击败敌军领袖"
+msgstr "击败敌军首领"
 
 msgid "Cannot find era $era"
 msgstr "无法找到$era|时代"
@@ -5369,7 +5369,7 @@ msgid "Faction/Name"
 msgstr "派系/名字"
 
 msgid "Leader/Gender"
-msgstr "领袖/性别"
+msgstr "首领/性别"
 
 msgid "Team/Color"
 msgstr "团队/颜色"
@@ -5511,7 +5511,7 @@ msgstr "未知战役：$campaign_id"
 msgid ""
 "Host's version of $addon is too old: host's version $host_ver < your version "
 "$local_ver."
-msgstr "主机的$addon|版本太旧了：主机的版本$host_ver| < 你的版本 $local_ver|。"
+msgstr "主机的$addon|版本太旧了：主机的版本$host_ver| < 你的版本$local_ver|。"
 
 msgid ""
 "Your version of $addon is out of date: host's version $host_ver > your "
@@ -5878,7 +5878,7 @@ msgid "Alignments: "
 msgstr "立场："
 
 msgid "Leaders"
-msgstr "领袖"
+msgstr "首领"
 
 msgid "Recruits"
 msgstr "新兵"
@@ -6135,7 +6135,7 @@ msgid "Some units have not moved. Do you really want to end your turn?"
 msgstr "有些单位还没有移动。你真的要结束自己的回合吗？"
 
 msgid "Rename Unit"
-msgstr "单位重命名"
+msgstr "重命名单位"
 
 msgid "Name:"
 msgstr "名称："
@@ -6144,13 +6144,13 @@ msgid "Search"
 msgstr "搜索"
 
 msgid "(D) — debug only, (N) — network only, (A) — admin only"
-msgstr "(D) — 调试专用，(N) — 网战专用，(A) — 管理员专用"
+msgstr "(D) — 调试专用，(N) — 联机专用，(A) — 管理员专用"
 
 msgid "(debug command)"
 msgstr "（调试命令）"
 
 msgid "(network only)"
-msgstr "（网战专用）"
+msgstr "（联机专用）"
 
 msgid "(admin only)"
 msgstr "（管理员专用）"
@@ -6325,7 +6325,7 @@ msgid "Can't droid invalid side: '$side'."
 msgstr "无法托管无效阵营：“$side|”。"
 
 msgid "Can't droid networked side: '$side'."
-msgstr "无法托管网络阵营：“$side|”。"
+msgstr "无法托管联机阵营：“$side|”。"
 
 msgid "Can't droid a local ai side: '$side'."
 msgstr "无法托管本地AI阵营：“$side|”。"
@@ -6334,7 +6334,7 @@ msgid "Can't idle invalid side: '$side'."
 msgstr "无法将无效阵营设为空闲状态：“$side|”。"
 
 msgid "Can't idle networked side: '$side'."
-msgstr "无法将网络阵营设为空闲状态：“$side|”。"
+msgstr "无法将联机阵营设为空闲状态：“$side|”。"
 
 msgid "Can't idle local ai side: '$side'."
 msgstr "无法将本地AI阵营设为空闲状态：“$side|”。"
@@ -6361,7 +6361,7 @@ msgid "Debug mode activated!"
 msgstr "调试模式激活！"
 
 msgid "Debug mode not available in network games"
-msgstr "调试模式在网络游戏中不可用"
+msgstr "调试模式在联机游戏中不可用"
 
 msgid "Debug mode deactivated!"
 msgstr "调试模式关闭！"
@@ -6381,7 +6381,7 @@ msgid "Unsafe mode enabled!"
 msgstr "不安全模式已启用！"
 
 msgid "Variable not found"
-msgstr "变量未找到"
+msgstr "未找到变量"
 
 msgid ""
 "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
@@ -6409,7 +6409,7 @@ msgstr "命令："
 msgid ""
 "You cannot move your leader away from the keep with some planned recruits or "
 "recalls left."
-msgstr "在有剩余的征募或者召回计划时，你不能将领袖移动到主楼之外。"
+msgstr "在有剩余的征募或者召回计划时，你不能将首领移动到主楼之外。"
 
 msgid "This unit has no usable weapons."
 msgstr "此单位没有可用的武器。"
@@ -6466,7 +6466,7 @@ msgid ""
 "\n"
 "Do you want to save an error log of your game?"
 msgstr ""
-"游戏失去了同步，因此不能继续。出现此情况可能有以下的一些原因：你或另一位玩家"
+"游戏失去了同步，因此不能继续。出现此情况可能有下列的一些原因：你或另一位玩家"
 "改动了自己的游戏设置，这意味着有一位玩家可能试图作弊； 这也可能是游戏bug造成"
 "的，虽然不是太可能。\n"
 "\n"
@@ -6556,7 +6556,7 @@ msgstr "减速： "
 msgid ""
 "This unit has been slowed. It will only deal half its normal damage when "
 "attacking and its movement cost is doubled."
-msgstr "此单位减速了。它只能输出正常情况下一半的伤害，而移动消耗则加倍了。"
+msgstr "此单位减速了。它只能输出正常情况下一半的伤害，而移动消耗则加倍。"
 
 msgid "poisoned: "
 msgstr "中毒： "
@@ -6623,7 +6623,7 @@ msgid "Base damage: "
 msgstr "基本伤害："
 
 msgid "With specials: "
-msgstr "攻击特性："
+msgstr "特攻："
 
 msgid "Time of day: "
 msgstr "时段："
@@ -6668,7 +6668,7 @@ msgid "Parry:"
 msgstr "格挡："
 
 msgid "Weapon special: "
-msgstr "武器特性："
+msgstr "武器特攻："
 
 msgid "None"
 msgstr "无"

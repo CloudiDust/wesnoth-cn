@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:29 UTC\n"
-"PO-Revision-Date: 2017-01-27 19:40+0800\n"
+"PO-Revision-Date: 2017-01-31 10:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -58,7 +58,7 @@ msgid ""
 "• <small>Healing</small>\n"
 "• <small>Recruiting</small>"
 msgstr ""
-"你将学习到以下内容的基本操作方法：\n"
+"你将学习到下列内容的基本操作方法：\n"
 "• <small>移动</small>\n"
 "• <small>攻击</small>\n"
 "• <small>治疗</small>\n"
@@ -142,11 +142,11 @@ msgstr ""
 
 #. [event]
 msgid "Move Konrad next to Delfador."
-msgstr "把科纳德移动到德法多身边。"
+msgstr "将科纳德移动到德法多身边。"
 
 #. [event]
 msgid "Move Li’sar next to Delfador."
-msgstr "把莉莎移动到德法多身边。"
+msgstr "将莉莎移动到德法多身边。"
 
 #. [message]: speaker=student
 msgid "Good morning, Delfador! Is it time to attack things?"
@@ -249,8 +249,8 @@ msgid ""
 "leader. In most scenarios, you will lose if your leader is killed. Be sure "
 "to keep him safe!"
 msgstr ""
-"你的领袖（科纳德）头顶的小王冠表明他是一位阵营领袖。在绝大部分场景中，如果领"
-"袖被杀，你就会失败。一定要确保他的安全！"
+"你的首领（科纳德）头顶的小金冠表明他是一位阵营首领。在绝大部分场景中，如果首"
+"领被杀，你就会失败。一定要确保他的安全！"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -258,8 +258,8 @@ msgid ""
 "leader. In most scenarios, you will lose if your leader is killed. Be sure "
 "to keep her safe!"
 msgstr ""
-"你的领袖（莉莎）头顶的小王冠表明他是一位阵营领袖。在绝大部分场景中，如果领袖"
-"被杀，你就会失败。一定要确保他的安全！"
+"你的首领（莉莎）头顶的小金冠表明她是一位阵营首领。在绝大部分场景中，如果首领"
+"被杀，你就会失败。一定要确保她的安全！"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -378,11 +378,11 @@ msgstr ""
 
 #. [event]
 msgid "Move Konrad to the keep"
-msgstr "把科纳德移动到城堡主楼"
+msgstr "将科纳德移动到城堡主楼"
 
 #. [event]
 msgid "Move Li’sar to the keep"
-msgstr "把莉莎移动到城堡主楼"
+msgstr "将莉莎移动到城堡主楼"
 
 #. [message]: speaker=narrator
 msgid "Recruiting"
@@ -587,7 +587,7 @@ msgid ""
 "Yes, you gain experience through battle, especially by killing an opponent. "
 "Gain enough experience and you’ll become more powerful."
 msgstr ""
-"没错，你通过战斗，尤其是杀死对手来获得经验值。获得足够的经验值之后你就会变得"
+"没错，你通过战斗，尤其是击杀对手来获得经验值。获得足够的经验值之后你就会变得"
 "更加强大。"
 
 #. [message]: speaker=Delfador
@@ -724,7 +724,7 @@ msgstr "生命值这么低，在被盯上之前我最好撤退！"
 
 #. [objective]: condition=win
 msgid "Defeat the Orc Leader"
-msgstr "击败兽人领袖"
+msgstr "击败兽人首领"
 
 #. [objective]: condition=lose
 msgid "Death of Konrad"
@@ -758,8 +758,8 @@ msgid ""
 "will advise you."
 msgstr ""
 "这不是游戏，科纳德！兽人已经在河对岸扎了营。这里是精灵的国度；胆敢入侵这里，"
-"他们真是一群蠢货。我们精灵在森林中行动迅速而且难以击中。你必须击败他们的领"
-"袖，这样他们就再也不会来威胁我们了。我会向你提供建议的。"
+"他们真是一群蠢货。我们精灵在森林中行动迅速而且难以击中。你必须击败他们的首"
+"领，这样他们就再也不会来威胁我们了。我会向你提供建议的。"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -769,7 +769,7 @@ msgid ""
 "will advise you."
 msgstr ""
 "这不是游戏，莉莎！兽人已经在河对岸扎了营。这里是精灵的国度；胆敢入侵这里，他"
-"们真是一群蠢货。我们精灵在森林中行动迅速而且难以击中。你必须击败他们的领袖，"
+"们真是一群蠢货。我们精灵在森林中行动迅速而且难以击中。你必须击败他们的首领，"
 "这样他们就再也不会来威胁我们了。我会向你提供建议的。"
 
 #. [message]: speaker=student
@@ -791,7 +791,7 @@ msgid ""
 "By then, their leader will have recruited more units to send against us and "
 "the real fight will begin."
 msgstr ""
-"那时，他们的领袖肯定已经征募了更多单位来进攻我们，而真正的战斗就会打响。"
+"那时，他们的首领肯定已经征募了更多单位来进攻我们，而真正的战斗就会打响。"
 
 #. [event]
 msgid ""
@@ -873,7 +873,7 @@ msgstr ""
 "除了在每个场景中征募新单位以外，你也可以<b>召回</b>之前场景中的经验丰富的老"
 "兵，每名老兵需花费20枚金币。这样，通过召回最高级的单位，或召回拥有优秀的特质"
 "和技能组合的单位，你就能在攻略多个场景的过程中，建立起一支强大的军队。要召回"
-"单位，则当你的领袖站在城堡主楼上时，右击并选择<b>召回</b>选项。除了召回旧单位"
+"单位，当你的首领站在城堡主楼上时，请右击并选择<b>召回</b>选项。除了召回旧单位"
 "外，也要记得征募新单位。"
 
 #. [message]: speaker=Galdrad
@@ -1003,7 +1003,7 @@ msgid ""
 "Now, young man, it is time to discuss strategy. Your units are ready to "
 "attack, and the orcish leader has begun gathering his own troops."
 msgstr ""
-"现在，年轻人，是时候讨论策略了。你的单位已经做好了进攻准备，而兽人领袖也开始"
+"现在，年轻人，是时候讨论策略了。你的单位已经做好了进攻准备，而兽人首领也开始"
 "组织他自己的部队了。"
 
 #. [message]: speaker=Galdrad
@@ -1011,7 +1011,7 @@ msgid ""
 "Now, young lady, it is time to discuss strategy. Your units are ready to "
 "attack, and the orcish leader has begun gathering his own troops."
 msgstr ""
-"现在，年轻的女士，是时候讨论策略了。你的单位已经做好了进攻准备，而兽人领袖也"
+"现在，年轻的女士，是时候讨论策略了。你的单位已经做好了进攻准备，而兽人首领也"
 "开始组织他自己的部队了。"
 
 #. [message]: speaker=student
@@ -1103,7 +1103,7 @@ msgid ""
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
 msgstr ""
-"你学得很不错，科纳德。在游戏初期，保证你的领袖安全而受到保护，同时处于城堡主"
+"你学得很不错，科纳德。在游戏初期，保证你的首领安全而受到保护，同时处于城堡主"
 "楼的范围内，确实是个好主意。战场态势瞬息万变，你可不会想被阻断前往主楼的去"
 "路，以至于无法征募援军的。"
 
@@ -1114,7 +1114,7 @@ msgid ""
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
 msgstr ""
-"你学得很不错，莉莎。在游戏初期，保证你的领袖安全而受到保护，同时处于城堡主楼"
+"你学得很不错，莉莎。在游戏初期，保证你的首领安全而受到保护，同时处于城堡主楼"
 "的范围内，确实是个好主意。战场态势瞬息万变，你可不会想被阻断前往主楼的去路，"
 "以至于无法征募援军的。"
 
@@ -1246,7 +1246,7 @@ msgid ""
 "You’re venturing away from your keep. You might need recruit more units, and "
 "I doubt the orc leader will let you use his! Careful!"
 msgstr ""
-"你正在远离你的城堡主楼。你可能会需要征募更多的单位，我怀疑兽人领袖是不会让你"
+"你正在远离你的城堡主楼。你可能会需要征募更多的单位，我怀疑兽人首领是不会让你"
 "用他的主楼的！小心！"
 
 #. [event]
@@ -1327,7 +1327,7 @@ msgid ""
 "conditions for a scenario are given under <b>Scenario Objectives</b> in  "
 "<b>Menu</b>)."
 msgstr ""
-"在此场景中，你只需击败兽人领袖就能获胜了。（场景的胜利条件在<b>菜单</b>的<b>"
+"在此场景中，你只需击败兽人首领就能获胜了。（场景的胜利条件在<b>菜单</b>的<b>"
 "场景目标</b>中给出。）"
 
 #. [message]: speaker=narrator
@@ -1339,7 +1339,7 @@ msgid ""
 "Remember to recruit troops useful for the situation. Archers are "
 "particularly effective against Grunts, Wolf Riders and the orcish leader."
 msgstr ""
-"记得要征募在当前战局中有用的部队。弓箭手在对付兽人步兵、狼骑兵和兽人领袖时特"
+"记得要征募在当前战局中有用的部队。弓箭手在对付兽人步兵、狼骑兵和兽人首领时特"
 "别有效。"
 
 #. [message]: speaker=student
@@ -1354,14 +1354,14 @@ msgstr "我有足够的金币来征募更多单位！"
 msgid ""
 "That unit is about one kill (8 experience points) away from gaining a level! "
 "Do not let it die!"
-msgstr "那个单位再杀死一个敌人（8点经验值）就可以升级了！别让它死掉！"
+msgstr "那个单位再击杀一个敌人（8点经验值）就可以升级了！别让它死掉！"
 
 #. [event]
 msgid ""
 "Their leader has moved into that village! He’s not as stupid as I thought. "
 "The village heals him each turn and provides good defense."
 msgstr ""
-"他们的领袖移动到那座村庄里了！他没有我所想的那么愚蠢。村庄每回合都会为他治"
+"他们的首领移动到那座村庄里了！他没有我所想的那么愚蠢。村庄每回合都会为他治"
 "疗，而且会提供很好的防御。"
 
 #. [event]
@@ -1387,7 +1387,7 @@ msgid ""
 "16 experience points because he is second level. Choose your attacking unit "
 "carefully!"
 msgstr ""
-"你马上就要杀死他们的领袖了！击杀他的单位将获得16点经验值，因为他是二级的。谨"
+"你马上就能击杀他们的首领了！击杀他的单位将获得16点经验值，因为他是二级的。谨"
 "慎选择你的进攻单位！"
 
 #. [message]: speaker=Galdrad
@@ -1433,7 +1433,7 @@ msgid ""
 "Beware of the orc leader: he can do 36 hitpoints of damage at night! Attack "
 "with many units at once during the day."
 msgstr ""
-"小心兽人领袖：他在夜间可以造成36点伤害！等到白天，并且同时使用大量单位攻击"
+"小心兽人首领：他在夜间可以造成36点伤害！等到白天，并且同时使用大量单位攻击"
 "他。"
 
 #. [message]: speaker=unit
@@ -1544,7 +1544,7 @@ msgid ""
 "to the in-game help browser if you ever need to refresh your memory on "
 "gameplay mechanics."
 msgstr ""
-"你击败了兽人！接下来你可能会想试试看新手级别的战役，例如：<b>南疆哨所</b>、"
+"你击败了兽人！接下来你可能会想试试看新手级别的战役，例如：<b>南疆卫队</b>、"
 "<b>兽人入侵</b>、<b>兄弟传说</b>或者<b>王座继承人</b>。<b>南疆哨所</b>是为初"
 "心者特别设计的战役。而科纳德、莉莎和德法多则是<b>王座继承人</b>中的人物。如果"
 "你需要刷新有关游戏玩法的记忆，那也可以参见游戏中的帮助浏览器。"

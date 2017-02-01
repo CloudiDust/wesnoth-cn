@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:25+0300\n"
-"PO-Revision-Date: 2017-01-27 23:06+0800\n"
+"PO-Revision-Date: 2017-01-31 10:13+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -974,11 +974,11 @@ msgstr "矮人城堡主楼"
 #. [terrain_type]: id=swamp_keep
 #. [terrain_type]: id=desert_keep_ruined
 msgid "Ruined Keep"
-msgstr "毁坏的主楼"
+msgstr "荒废的主楼"
 
 #. [terrain_type]: id=ruined_keep
 msgid "Ruined Human Castle Keep"
-msgstr "毁坏的人类城堡主楼"
+msgstr "荒废的人类城堡主楼"
 
 #. [terrain_type]: id=sunken_keep
 msgid "Sunken Human Castle Keep"
@@ -994,7 +994,7 @@ msgstr "沙漠主楼"
 
 #. [terrain_type]: id=desert_keep_ruined
 msgid "Ruined Desert Keep"
-msgstr "毁坏的沙漠主楼"
+msgstr "荒废的沙漠主楼"
 
 #. [terrain_type]: id=merman_campkeep
 msgid "Aquatic Encampment Keep"
@@ -2006,7 +2006,7 @@ msgstr "团队名称："
 
 #. [toggle_button]: id=no_leader
 msgid "No leader"
-msgstr "无领袖"
+msgstr "无首领"
 
 #. [toggle_button]: id=fog
 msgid "Fog of war"
@@ -2348,7 +2348,7 @@ msgstr "存档已经存在。你要覆盖吗？"
 
 #. [toggle_button]: id=sort_0
 msgid "Leader"
-msgstr "领袖"
+msgstr "首领"
 
 #. [toggle_button]: id=sort_1
 msgid "Team"
@@ -2831,7 +2831,7 @@ msgstr "已准备好开始："
 
 #. [grid]
 msgid "When the game you are hosting is ready to start"
-msgstr "当你主持的游戏已经做好开始的准备时"
+msgstr "当你主建的游戏已经做好开始的准备时"
 
 #. [grid]
 msgid "Game has begun:"
@@ -2839,7 +2839,7 @@ msgstr "游戏已开始："
 
 #. [grid]
 msgid "When the host (not you) has started the game"
-msgstr "当主持人（不是你）开始游戏时"
+msgstr "当主机（不是你）开始游戏时"
 
 #. [grid]
 msgid "Turn changed:"
@@ -3106,7 +3106,7 @@ msgstr "设置密码"
 
 #. [label]
 msgid "Leader:"
-msgstr "领袖："
+msgstr "首领："
 
 #. [label]
 msgid "Gender:"
@@ -3141,7 +3141,7 @@ msgstr "起始位置："
 #. [label]
 #. [widget]: id=name
 msgid "Host Networked Game"
-msgstr "主持联机游戏"
+msgstr "主建联机游戏"
 
 #. [label]
 msgid ""
@@ -3149,7 +3149,7 @@ msgid ""
 "The server will run as a background process until all users have "
 "disconnected. Do you wish to continue?"
 msgstr ""
-"必须启动一个本地服务器实例之后才能主持联机游戏。服务器将作为后台进程运行，直"
+"必须启动一个本地服务器实例之后才能主建联机游戏。服务器将作为后台进程运行，直"
 "到所有玩家全部断线为止。您希望继续吗？"
 
 #. [label]
@@ -3239,7 +3239,7 @@ msgstr "加入不同的服务器"
 
 #. [column]
 msgid "Host a game using a dedicated server"
-msgstr "使用专用服务器主持游戏"
+msgstr "使用专用服务器主建游戏"
 
 #. [column]
 msgid "Play a multiplayer game with the AI or humans sharing the same machine"
@@ -3658,7 +3658,7 @@ msgstr "服务器可执行文件"
 
 #. [button]: id=mp_wesnothd
 msgid "Find and set path to MP server to host LAN games"
-msgstr "查找并设置多人游戏服务器的路径以主持局域网游戏"
+msgstr "查找并设置多人游戏服务器的路径以主建局域网游戏"
 
 #. [button]: id=add_friend
 msgid ""
@@ -4921,10 +4921,10 @@ msgid "Map Information"
 msgstr "地图信息"
 
 msgid "Clear Selected Item Set"
-msgstr "清除选定的项集合"
+msgstr "清除选定的物品集合"
 
 msgid "Swap Foreground/Background Palette Item"
-msgstr "交换前景/背景调色板项"
+msgstr "交换前景/背景调色板物品"
 
 msgid "Change Palette Group"
 msgstr "改变调色板组"
@@ -4945,7 +4945,7 @@ msgid "Next Tool"
 msgstr "下一工具"
 
 msgid "Paint Tool"
-msgstr "绘图工具"
+msgstr "绘制工具"
 
 msgid ""
 "Use left/right mouse button to draw fore-/background terrain. Hold Shift to "
@@ -4965,7 +4965,7 @@ msgstr ""
 "按住Shift以对具有相同地形的区块进行魔术棒选取。"
 
 msgid "Selection Tool"
-msgstr "选择工具"
+msgstr "选取工具"
 
 msgid ""
 "Left mouse button displays player selection, right clears. Number keys "
@@ -4976,10 +4976,10 @@ msgstr ""
 "+数字键在光标处设定对应的起始位置，Delete删除起始位置。"
 
 msgid "Starting Positions Tool"
-msgstr "起始点工具"
+msgstr "起始位置工具"
 
 msgid "Label Tool"
-msgstr "标注工具"
+msgstr "标签工具"
 
 msgid "Left mouse button sets or drags a label, right clears."
 msgstr "鼠标左键设置或拖动标签，右键清除标签。"
@@ -5291,7 +5291,7 @@ msgid ""
 "functionality and is required for hosting local network games. It will "
 "normally be found in the same folder as the game executable."
 msgstr ""
-"<b>$filename</b>服务器应用提供了多人游戏服务器机能，在主持本地联机游戏时是必"
+"<b>$filename</b>服务器应用提供了多人游戏服务器机能，在主建本地联机游戏时是必"
 "须的。通常可以在游戏可执行文件的同一个目录下找到它。"
 
 msgid "Find Server Application"

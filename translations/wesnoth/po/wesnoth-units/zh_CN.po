@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:23 UTC\n"
-"PO-Revision-Date: 2017-01-28 15:23+0800\n"
+"PO-Revision-Date: 2017-01-31 17:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1632,7 +1632,7 @@ msgid ""
 "value on the battlefield."
 msgstr ""
 "在韦诺的军队中，才华出众的骑兵会接受使用十字弩的训练，并配以更强力的战马。这"
-"些骑兵装甲结实，善于用剑，能迅速突击、占领并守住战略要地。他们机动性高，坚韧"
+"些士兵装甲结实，善于用剑，能迅速突击、占领并守住战略要地。他们机动性高，坚韧"
 "不拔，在战场上具有极大的价值。"
 
 #. [unit_type]: id=Duelist, race=human
@@ -1764,7 +1764,7 @@ msgstr ""
 
 #. [attack]: type=impact
 msgid "mace"
-msgstr "锤"
+msgstr "狼牙棒"
 
 #. [unit_type]: id=Iron Mauler, race=human
 msgid "Iron Mauler"
@@ -4204,10 +4204,10 @@ msgid ""
 "— a process about which almost nothing is known, but which can be nothing "
 "but nightmarish."
 msgstr ""
-"死灵食尸鬼，或者说“死尸吞噬者”，是怪物一样的一团肥胖的东西，和人的形状只有一"
+"死灵食尸鬼，或者说‘死尸吞噬者’，是怪物一样的一团肥胖的东西，和人的形状只有一"
 "点粗糙的相似。他们看上去已经腐烂，尽管还是能够移动；他们血液里充斥着疾病与致"
 "命的毒素，还有相得益彰的恶臭。但是关于这些怪物最让人反胃的事实是——这只有对那"
-"些能够察觉到他们身上邪恶魔法的踪迹的人来说才是清晰可见的——他们是通过某种方式"
+"些能够察觉到他们身上丑恶魔法的踪迹的人来说才是清晰可见的——他们是通过某种方式"
 "用活着的人体组成的。关于这一过程，人们几乎一无所知，但那一定是如同梦魇一般。"
 
 #. [unit_type]: id=Soulless, race=undead

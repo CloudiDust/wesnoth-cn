@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-05 23:31 UTC\n"
-"PO-Revision-Date: 2017-01-29 21:19+0800\n"
+"PO-Revision-Date: 2017-01-31 10:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -192,7 +192,7 @@ msgstr "玛尔-柯沃克"
 
 #. [objective]: condition=win
 msgid "Defeat enemy leader"
-msgstr "击败敌方领袖"
+msgstr "击败敌方首领"
 
 #. [unit]: type=Mermaid Priestess, id=Cylanna
 msgid "Cylanna"
@@ -361,7 +361,7 @@ msgstr "（分别有不同的奖励）"
 
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders"
-msgstr "击败所有敌方领袖"
+msgstr "击败所有敌方首领"
 
 #. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Necromancer, id=Mel Daveth
@@ -675,7 +675,7 @@ msgid ""
 msgstr ""
 "他们刚踏上旅程，便遇到了狼群，这些狼群早就嗅到了战争的气息。很多狼的身上都坐"
 "着哥布林。提里嘎兹的兽人被劳迪斯凯王的胜利打怕了，或许已经决定不再骚扰人鱼"
-"了；但这些地精哪怕对自己的同族而言，都是匪盗和流放者。"
+"了；但这些地精哪怕对自己的同族而言，都是土匪和流放者。"
 
 #. [side]: id=Gashnok, type=Goblin Knight, type=Goblin Knight, type=Direwolf Rider, type=Direwolf Rider
 msgid "Wolf Riders"

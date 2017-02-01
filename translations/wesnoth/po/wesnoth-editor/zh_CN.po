@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:28+0300\n"
-"PO-Revision-Date: 2017-01-01 09:48+0800\n"
+"PO-Revision-Date: 2017-01-29 15:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -236,7 +236,7 @@ msgstr "你真的要退出吗？上次保存之后对此地图所作的修改将
 msgid ""
 "Do you really want to quit? The following maps were modified and all changes "
 "since the last save will be lost:"
-msgstr "你真的要退出吗？以下地图已被修改，上次保存之后所作的修改将会全部丢失："
+msgstr "你真的要退出吗？下列地图已被修改，上次保存之后所作的修改将会全部丢失："
 
 msgid "No editor time-of-day found."
 msgstr "未找到编辑器的时段设置。"
@@ -254,7 +254,7 @@ msgid "Name:"
 msgstr "名字："
 
 msgid "(New Map)"
-msgstr "（新建地图）"
+msgstr "（新地图）"
 
 msgid "Load Map"
 msgstr "载入地图"
@@ -333,10 +333,10 @@ msgstr ""
 "$new"
 
 msgid "New Map"
-msgstr "新地图"
+msgstr "新建地图"
 
 msgid "New Scenario"
-msgstr "新场景"
+msgstr "新建场景"
 
 msgid "Player $side_num"
 msgstr "玩家$side_num"
@@ -345,7 +345,7 @@ msgid "The size of the target map is different from the current map"
 msgstr "目标地图的尺寸与当前地图不同"
 
 msgid "File not found"
-msgstr "文件未找到"
+msgstr "未找到文件"
 
 msgid "Empty file"
 msgstr "空文件"
@@ -380,7 +380,7 @@ msgid "Add"
 msgstr "添加"
 
 msgid "New Location Identifer"
-msgstr "新位置标识符"
+msgstr "新建位置标识符"
 
 msgid "Delete"
 msgstr "删除"

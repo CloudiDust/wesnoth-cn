@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # jan2xue <75jan@163.com>, 2005.
 # Huang Huan <unicon221@gmail.com>, 2005.
@@ -8,13 +8,13 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-11-06 02:27+0300\n"
-"PO-Revision-Date: 2015-06-06 15:29+0800\n"
+"PO-Revision-Date: 2017-01-28 17:24+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. [time]: id=underground
 msgid "Underground"
@@ -37,8 +37,8 @@ msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 30 rounds of attacks have occurred."
 msgstr ""
-"不论是在进攻时还是在防御时，狂暴都将使得作战双方维持战斗状态，直到其中一方被"
-"杀，或者恶斗三十回合为止。"
+"不论是在进攻还是防御时，此攻击都会使作战双方维持战斗状态，直到其中一方被杀，"
+"或者恶斗三十回合为止。"
 
 #. [chance_to_hit]: id=magical
 msgid "magical"
@@ -48,7 +48,7 @@ msgstr "魔法"
 msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
-msgstr "本攻击无视被攻击单位的闪避能力，而总是具有70%的命中率。"
+msgstr "此攻击无视被攻击单位的防御能力，而总是拥有70%的命中率。"
 
 #. [firststrike]: id=firststrike
 msgid "first strike"
@@ -57,7 +57,7 @@ msgstr "先制"
 #. [firststrike]: id=firststrike
 msgid ""
 "This unit always strikes first with this attack, even if they are defending."
-msgstr "本单位每次都能率先攻击，即使是在防御时也不例外。"
+msgstr "此单位使用此攻击时，总是能率先攻击，即使是在防御时也不例外。"
 
 #. [heals]: id=healing
 msgid "heals +4"
@@ -76,10 +76,10 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"允许本单位在每回合开始时治疗相邻区域内受伤的友军单位。\n"
+"允许此单位在我方回合开始时治疗相邻的友方单位。\n"
 "\n"
-"本治疗师所治疗的单位每回合最多能恢复4点生命值，或阻止毒药在该回合发作。\n"
-"中毒的单位不能由治疗师解毒，只有进入村庄或者被拥有治愈技能的单位治愈。"
+"此治疗师所治疗的单位每回合最多能恢复4点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由治疗师解毒，只有进入村庄解毒，或者由拥有解毒能力的单位解毒。"
 
 #. [heals]: id=healing
 msgid "heals +8"
@@ -99,18 +99,18 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"本单位将魔法与草药混合使用以在战场上治疗单位，比通常可能的速度快得多。\n"
+"此单位将魔法与草药混合使用以在战场上治疗单位，比通常可能的速度快得多。\n"
 "\n"
-"本治疗师所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
-"中毒的单位不能由治疗师解毒，只有进入村庄或者被拥有治愈技能的单位治愈。"
+"此治疗师所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由治疗师解毒，只有进入村庄解毒，或者由拥有解毒能力的单位解毒。"
 
 #. [section]: id=editor
 msgid "Map and Scenario Editor"
-msgstr ""
+msgstr "地图与场景编辑器"
 
 #. [topic]: id=editor_brush
 msgid "Editor Brush"
-msgstr ""
+msgstr "编辑笔刷"
 
 #. [topic]: id=editor_brush
 #. [topic]: id=editor_clipboard
@@ -121,15 +121,15 @@ msgstr ""
 #. [topic]: id=editor_time_schedule
 #. [topic]: id=editor_starting_positions_in_general
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #. [topic]: id=editor_clipboard
 msgid "Terrain Clipboard"
-msgstr ""
+msgstr "地形剪贴板"
 
 #. [topic]: id=editor_tool_paint
 msgid "Paint Tool"
-msgstr ""
+msgstr "绘制工具"
 
 #. [topic]: id=editor_tool_paint
 msgid ""
@@ -137,14 +137,17 @@ msgid ""
 "\n"
 "The paint tool utilizes the brushes and the terrain palette."
 msgstr ""
+"在地图上绘制地形块。\n"
+"\n"
+"绘图工具使用笔刷和地形调色板。"
 
 #. [topic]: id=editor_tool_fill
 msgid "Fill Tool"
-msgstr ""
+msgstr "填充工具"
 
 #. [topic]: id=editor_tool_fill
 msgid "Evil Tool for painting."
-msgstr ""
+msgstr "用于绘图的邪恶工具。"
 
 #. [topic]: id=editor_tool_fill
 msgid ""
@@ -152,29 +155,32 @@ msgid ""
 "\n"
 "The fill tool utilizes the terrain palette."
 msgstr ""
+"将连续的地形区域填充为另一种地形！\n"
+"\n"
+"填充工具使用地形调色板。"
 
 #. [topic]: id=editor_tool_select
 msgid "Select Tool"
-msgstr ""
+msgstr "选取工具"
 
 #. [topic]: id=editor_tool_select
 msgid ""
 "Selects a set of hex fields. The best tool ever!\n"
 "\n"
 "This tool utilizes the brushes."
-msgstr ""
+msgstr "选中一组六角格区域。史上最棒的工具！此工具使用笔刷。"
 
 #. [topic]: id=editor_tool_paste
 msgid "Paste Tool"
-msgstr ""
+msgstr "粘贴工具"
 
 #. [topic]: id=editor_tool_paste
 msgid "Paste the terrain in the clipboard"
-msgstr ""
+msgstr "粘贴剪贴板中的地形。"
 
 #. [topic]: id=editor_tool_starting
 msgid "Starting Tool"
-msgstr ""
+msgstr "起始位置工具"
 
 #. [topic]: id=editor_tool_starting
 msgid ""
@@ -182,18 +188,21 @@ msgid ""
 "\n"
 "This tool gives only limited control over the start locations of certain."
 msgstr ""
+"定义阵营领袖的起始位置\n"
+"\n"
+"此工具对于某些领袖的起始位置的控制是受限的。"
 
 #. [topic]: id=editor_tool_label
 msgid "Label Tool"
-msgstr ""
+msgstr "标签工具"
 
 #. [topic]: id=editor_tool_item
 msgid "Item Tool"
-msgstr ""
+msgstr "物品工具"
 
 #. [topic]: id=editor_tool_soundsource
 msgid "Soundsource Tool"
-msgstr ""
+msgstr "声源工具"
 
 #. [topic]: id=editor_tool_soundsource
 msgid ""
@@ -201,18 +210,21 @@ msgid ""
 "\n"
 "This tool has not been implemented yet."
 msgstr ""
+"把声源放置在你的地图上！\n"
+"\n"
+"此工具尚未实现。"
 
 #. [topic]: id=editor_tool_village
 msgid "Village Ownership Tool"
-msgstr ""
+msgstr "村庄所有权工具"
 
 #. [topic]: id=editor_tool_unit
 msgid "Unit Tool"
-msgstr ""
+msgstr "单位工具"
 
 #. [topic]: id=editor_named_area
 msgid "Named Areas"
-msgstr ""
+msgstr "具名区域"
 
 #. [topic]: id=editor_named_area
 msgid ""
@@ -224,10 +236,15 @@ msgid ""
 "This is a very powerful mechanism since it allows generic scenario codings "
 "working with different maps providing the needed named locations."
 msgstr ""
+"具名区域是在场景脚本中，可以用给定的名称来称呼的游戏区域。\n"
+"\n"
+"具名区域可以用于在效果实现和地图特定设置之间进行抽象。\n"
+"这是非常强大的机制，因为它允许通用的场景代码在不同的地图上运作，只需地图提供"
+"了所需的具名区域即可。"
 
 #. [topic]: id=editor_playlist
 msgid "Playlist Manager"
-msgstr ""
+msgstr "播放列表管理器"
 
 #. [topic]: id=editor_playlist
 msgid ""
@@ -235,10 +252,13 @@ msgid ""
 "\n"
 "Have a look at the addon server for easy to use additional music tracks."
 msgstr ""
+"此处保存了一份音轨列表，该列表即为场景所使用的随机播放列表。\n"
+"\n"
+"去附加组件服务器上浏览一番，可以找到易用的附加音轨。"
 
 #. [topic]: id=..editor
 msgid "Map/Scenario Editor"
-msgstr ""
+msgstr "地图/场景编辑器"
 
 #. [topic]: id=..editor
 msgid ""
@@ -248,17 +268,17 @@ msgid ""
 "\n"
 "The editor can be launched from the <italic>text='Map Editor'</italic>"
 msgstr ""
+"韦诺的地图与场景编辑器允许用户创建及编辑地图。韦诺的每个场景都是在这些地图上"
+"发生的。它也提供了能够搭建基本场景的功能有限的特性。\n"
+"\n"
+"编辑器可以通过点击标题画面中的<bold>text='地图编辑器'</bold>来启动。"
 
 #. [topic]: id=..editor
-#, fuzzy
 msgid ""
 " option at the title screen. \n"
 "\n"
 "<header>text='What you get'</header>"
 msgstr ""
-"\n"
-"\n"
-"<header>text='命中率'</header>"
 
 #. [topic]: id=..editor
 msgid ""
@@ -508,24 +528,22 @@ msgstr ""
 
 #. [topic]: id=great_ocean
 msgid "Great Ocean"
-msgstr "大洋"
+msgstr "泰洋"
 
 #. [topic]: id=great_ocean
-#, fuzzy
 msgid ""
 "Lies to the west of the <ref>dst='great_continent' text='continent'</ref> "
 "and all rivers eventually flow to it. Far to the west in the Great Ocean is "
 "a huge archipelago called <ref>dst='morogor' text='Morogor'</ref>."
 msgstr ""
-"位于<ref>dst='great_continent' text='大陆'</ref>之西，一切河流终将汇入的所"
-"在。大洋的极西面有称为<ref>dst='morogor' text='莫罗戈'</ref>的巨大群岛。"
+"位于<ref>dst='great_continent' text='泰陆'</ref>之西，一切河流终将汇入的所"
+"在。泰洋的极西面时称为<ref>dst='morogor' text='莫罗戈'</ref>的巨大群岛。"
 
 #. [topic]: id=morogor
 msgid "Morogor"
 msgstr "莫罗戈"
 
 #. [topic]: id=morogor
-#, fuzzy
 msgid ""
 "Archipelago, located somewhere in the <ref>dst='great_ocean' text='Great "
 "Ocean'</ref> east of the <ref>dst='green_isle' text='Green Isle'</ref> and "
@@ -533,9 +551,9 @@ msgid ""
 "It is mostly inhabited by <ref>dst='..race_drake' text='drakes'</ref>.\n"
 "The central island of the archipelago is also called ‘Morogor’."
 msgstr ""
-"群岛，位于<ref>dst='great_ocean' text='大洋'</ref>中的某处，在"
-"<ref>dst='green_isle' text='绿岛'</ref> 之西，<ref>dst=old_continent text='旧"
-"大陆'</ref>之东。\n"
+"群岛，位于<ref>dst='great_ocean' text='泰洋'</ref>中的某处，在"
+"<ref>dst='green_isle' text='绿岛'</ref> 之东，<ref>dst=great_continent "
+"text='泰陆'</ref>之西。\n"
 "此地居住的主要是<ref>dst='..race_drake' text='龙人'</ref>。\n"
 "群岛的中心岛也被称为“莫罗戈”。"
 
@@ -546,7 +564,7 @@ msgstr "绿岛"
 #. [topic]: id=green_isle
 msgid ""
 "A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
-msgstr "<ref>dst='great_ocean' text='大洋'</ref>中较大的一个岛。"
+msgstr "<ref>dst='great_ocean' text='泰洋'</ref>中较大的一个岛。"
 
 #. [topic]: id=old_continent
 msgid "Old Continent"
@@ -558,11 +576,11 @@ msgid ""
 "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
 "在<ref>dst='morogor' text='莫罗戈'</ref>的西面，与它隔着"
-"<ref>dst='great_ocean' text='大洋'</ref>相望。"
+"<ref>dst='great_ocean' text='泰洋'</ref>相望。"
 
 #. [topic]: id=great_continent
 msgid "Great Continent"
-msgstr "大陆"
+msgstr "泰陆"
 
 #. [topic]: id=great_continent
 msgid ""
@@ -571,11 +589,11 @@ msgid ""
 "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgstr ""
 "<ref>dst='kingdom_wesnoth' text='韦诺王国'</ref>所在的大陆。其西海岸被"
-"<ref>dst='great_ocean' text='大洋'</ref>所包围。"
+"<ref>dst='great_ocean' text='泰洋'</ref>所包围。"
 
 #. [topic]: id=irdya
 msgid "Irdya"
-msgstr "伊利迪亚"
+msgstr "伊迪亚"
 
 #. [topic]: id=irdya
 msgid ""
@@ -584,9 +602,9 @@ msgid ""
 "rarely used in the era depicted by the main map. People normally just say "
 "“the world” or, poetically, “the wide green world”."
 msgstr ""
-"<ref>dst='kingdom_wesnoth' text='韦诺'</ref>王国所在的世界的名字叫做“伊利迪"
-"亚”。然而，在主地图所描述的时代里，这个名字很少会被提起。人们通常只是说“世"
-"界”，或者更诗意一些，“宽广而翠绿的世界”。 "
+"<ref>dst='kingdom_wesnoth' text='韦诺'</ref>王国所在的世界的名字叫做“伊迪"
+"亚”。然而，在主地图所描述的时代里，这个名字很少被提起。人们通常只是说“世界”，"
+"或者更诗意一些，“宽广而翠绿的世界”。 "
 
 #. [topic]: id=kingdom_wesnoth
 msgid "Kingdom of Wesnoth"
@@ -4943,7 +4961,7 @@ msgstr ""
 "不感兴趣，只有到了需要保卫自然和守护森林家园的时候他们才会参和进来。"
 
 msgid "+1 max HP"
-msgstr "+1 最大生命值"
+msgstr "+1最大生命值"
 
 msgid "Close"
 msgstr "关闭"
@@ -4952,4 +4970,4 @@ msgid "The Battle for Wesnoth Help"
 msgstr "韦诺之战帮助"
 
 msgid "Parse error when parsing help text: "
-msgstr "分析帮助文本时出现语法错误："
+msgstr "分析帮助文本时出现分析错误："
