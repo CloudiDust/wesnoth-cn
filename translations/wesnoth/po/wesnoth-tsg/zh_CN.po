@@ -6,12 +6,12 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:29 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2017-01-31 20:07+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -91,10 +91,10 @@ msgid "Deoran"
 msgstr "德欧兰"
 
 #. [side]: type=Horseman Commander, id=Deoran
-#. [side]: id=Deoran
 #. [side]: type=Troll Hero, id=Grek
 #. [side]
 #. [side]: type=Lieutenant, id=Plynry
+#. [side]: id=Deoran
 msgid "South Guard"
 msgstr "南疆卫队"
 
@@ -102,13 +102,13 @@ msgstr "南疆卫队"
 msgid "Urza Mathin"
 msgstr "乌扎·马辛"
 
-#. [side]: type=Bandit, id=Urza Mathin
-#. [side]: type=Outlaw, id=Urza Nalmath
-#. [side]
 #. [side]: type=Rogue, id=Urza Fastik
 #. [side]: type=Outlaw, id=Urza Afalas
 #. [side]: type=Outlaw, id=Tharzo Kalain
 #. [side]: type=Outlaw, id=Jera Ilras
+#. [side]: type=Bandit, id=Urza Mathin
+#. [side]: type=Outlaw, id=Urza Nalmath
+#. [side]
 msgid "Bandits"
 msgstr "强盗"
 
@@ -935,11 +935,11 @@ msgstr "玛尔·阿凯"
 
 #. [side]: type=Soulless, id=Gruth
 #. [side]: type=Lich, id=Mal M'Brin
-#. [side]
 #. [side]: type=Soulless, id=Groth
 #. [side]: type=Ancient Lich, id=Mal M'Brin
 #. [side]: type=Lich, id=Mal Tera
 #. [side]: type=Dark Adept, type=Dark Sorcerer, type=Necromancer, id=Mal A'kai
+#. [side]
 msgid "Undead"
 msgstr "亡灵"
 
@@ -2738,14 +2738,6 @@ msgstr ""
 "边境卫队的领导者，骑兵指挥官们不仅接受了骑马作战的训练，也接受了指挥训练。他"
 "们负责指挥守备部队维护韦诺诸行省的和平。"
 
-#. [attack]: type=pierce
-msgid "lance"
-msgstr "长枪"
-
-#. [attack]: type=impact
-msgid "mace"
-msgstr "狼牙棒"
-
 #. [unit_type]: id=Infantry Commander, race=human
 msgid "Infantry Commander"
 msgstr "步兵指挥官"
@@ -2759,10 +2751,6 @@ msgstr "经验丰富的指挥官们身经百战，在指挥部下时镇定从容
 #. [attack]: type=blade
 msgid "glaive"
 msgstr "阔剑"
-
-#. [attack]: type=impact
-msgid "shield"
-msgstr "盾牌"
 
 #. [unit_type]: id=Infantry Lieutenant, race=human
 msgid "Infantry Lieutenant"
@@ -2790,10 +2778,6 @@ msgid ""
 msgstr ""
 "刚到17或18岁，骑士和领主的子嗣们就被授予坐骑和佩剑，进行领导士兵的试炼。其中"
 "勇猛刚健足以胜任者，就将成为韦诺军队的指挥官。"
-
-#. [attack]: type=pierce
-msgid "spear"
-msgstr "长矛"
 
 #. [unit_type]: id=Mounted General, race=human
 msgid "Mounted General"

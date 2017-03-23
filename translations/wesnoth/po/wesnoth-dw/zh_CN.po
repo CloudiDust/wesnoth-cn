@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # MrKing <yideey@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:31 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:06 UTC\n"
 "PO-Revision-Date: 2017-01-31 10:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -185,8 +185,8 @@ msgstr ""
 msgid "Undead Forces"
 msgstr "亡灵军团"
 
-#. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Dark Sorcerer, id=Mal-Kevek
+#. [side]: type=Lich, id=Mal-Kevek
 msgid "Mal-Kevek"
 msgstr "玛尔-柯沃克"
 
@@ -506,6 +506,28 @@ msgstr "主人一死，亡灵们就消失了！"
 msgid "Fearsome Bat"
 msgstr "恐怖蝙蝠"
 
+#. [message]: speaker=Kai Krellis
+msgid "That is a mighty bat!"
+msgstr "好大的蝙蝠！"
+
+#. [message]: speaker=second_unit
+msgid "It is no matter. I will destroy it immediately."
+msgstr "管它有多大。我马上就打死它。"
+
+#. [message]: speaker=Cylanna
+msgid ""
+"Hold a moment! Do you think, with its master gone, it might desire a new one?"
+msgstr "等一下！你觉得会不会，它的主人一死，它就会渴求新的主人？"
+
+#. [message]: speaker=Kai Krellis
+msgid "If it does not attack, do not kill it. Let us see if it follows us."
+msgstr "如果它不攻击，那就不要杀它。让我们看看它是不是会跟着我们。"
+
+#. [message]: speaker=unit
+#. [message]: speaker=second_unit
+msgid "Neep, neep!"
+msgstr "吱，吱！"
+
 #. [message]: speaker=second_unit
 msgid "Look! There is a massive bat back here."
 msgstr "看！这儿有一只巨大的蝙蝠。"
@@ -526,23 +548,6 @@ msgid ""
 "If it does not attack, we shall not kill it. Let us see if it follows us."
 msgstr "如果它不攻击，那我们就不该杀它。让我们看看它是不是会跟着我们。"
 
-#. [message]: speaker=Kai Krellis
-msgid "That is a mighty bat!"
-msgstr "好大的蝙蝠！"
-
-#. [message]: speaker=second_unit
-msgid "It is no matter. I will destroy it immediately."
-msgstr "管它有多大。我马上就打死它。"
-
-#. [message]: speaker=Cylanna
-msgid ""
-"Hold a moment! Do you think, with its master gone, it might desire a new one?"
-msgstr "等一下！你觉得会不会，它的主人一死，它就会渴求新的主人？"
-
-#. [message]: speaker=Kai Krellis
-msgid "If it does not attack, do not kill it. Let us see if it follows us."
-msgstr "如果它不攻击，那就不要杀它。让我们看看它是不是会跟着我们。"
-
 #. [message]: speaker=Cylanna
 msgid "With their master gone, the undead are fading away!"
 msgstr "主人一死，亡灵们就消散了！"
@@ -550,32 +555,6 @@ msgstr "主人一死，亡灵们就消散了！"
 #. [unit]: type=Vampire Bat, id=Friendly Bat
 msgid "Friendly Bat"
 msgstr "友好的蝙蝠"
-
-#. [message]: speaker=second_unit
-msgid "And look! There is a bat cowering in the corner here."
-msgstr "看！这里有一只蝙蝠躲在角落里瑟瑟发抖。"
-
-#. [message]: speaker=Kai Krellis
-msgid "Well, kill it, and let’s keep moving."
-msgstr "呃，杀掉它，我们继续赶路。"
-
-#. [message]: speaker=second_unit
-msgid "But look, it’s licking my hand."
-msgstr "但是您看，它在舔我的手。"
-
-#. [message]: speaker=Friendly Bat
-#. [message]: speaker=$unit.id
-#. This should just be "translated" to whatever noise a bat makes in your language.
-msgid "Neep?"
-msgstr "吱？"
-
-#. [message]: speaker=second_unit
-msgid "It’s kind of cute."
-msgstr "这有点可爱啊。"
-
-#. [message]: speaker=Kai Krellis
-msgid "Very well then. I suppose we have our own bat."
-msgstr "那好吧。我想我们也有自己的蝙蝠了。"
 
 #. [message]: speaker=second_unit
 msgid "Look! There is a bat cowering in the corner here."
@@ -589,9 +568,41 @@ msgstr "你不杀了它吗？我们还得继续赶路。"
 msgid "I would feel bad about that. It is, uh, licking my hand."
 msgstr "杀了它会让我难受的。它在，呃，舔我的手。"
 
+#. [message]: speaker=unit
+#. [message]: speaker=Friendly Bat
+#. This should just be "translated" to whatever noise a bat makes in your language.
+msgid "Neep?"
+msgstr "吱？"
+
 #. [message]: speaker=Cylanna
 msgid "Apparently you have your own bat."
 msgstr "看起来你拥有了你自己的蝙蝠。"
+
+#. [message]: speaker=Kai Krellis
+#, fuzzy
+msgid "Look! There is a bat."
+msgstr "看！这儿有一只巨大的蝙蝠。"
+
+#. [message]: speaker=Kai Krellis
+#. [message]: speaker=second_unit
+msgid "It’s kind of cute."
+msgstr "这有点可爱啊。"
+
+#. [message]: speaker=second_unit
+msgid "And look! There is a bat cowering in the corner here."
+msgstr "看！这里有一只蝙蝠躲在角落里瑟瑟发抖。"
+
+#. [message]: speaker=Kai Krellis
+msgid "Well, kill it, and let’s keep moving."
+msgstr "呃，杀掉它，我们继续赶路。"
+
+#. [message]: speaker=second_unit
+msgid "But look, it’s licking my hand."
+msgstr "但是您看，它在舔我的手。"
+
+#. [message]: speaker=Kai Krellis
+msgid "Very well then. I suppose we have our own bat."
+msgstr "那好吧。我想我们也有自己的蝙蝠了。"
 
 #. [message]: speaker=Cylanna
 msgid "With their master gone, the skeletons are crumbling!"
@@ -600,6 +611,11 @@ msgstr "主人一死，骷髅们就散架了！"
 #. [unit]: type=Walking Corpse, id=Undead Bat
 msgid "Undead Bat"
 msgstr "亡灵蝙蝠"
+
+#. [message]: speaker=Kai Krellis
+#, fuzzy
+msgid "Look! There is a bat. It is moving, but it looks half dead."
+msgstr "看！角落里有一只蝙蝠。它还在动，但看起来好像快死了。"
 
 #. [message]: speaker=second_unit
 msgid ""
@@ -625,6 +641,7 @@ msgstr "我觉得它只不过是没有自主意识的亡灵，但凯王或许拥
 msgid "Fascinating. I shall certainly try."
 msgstr "有意思。我一定会试一下的。"
 
+#. [message]: speaker=Kai Krellis
 #. [message]: speaker=second_unit
 msgid "He had a chest in his tent, too. It is filled with gold!"
 msgstr "在他的帐篷里有个箱子。里面装满了金币！"
@@ -713,15 +730,11 @@ msgstr "等一下……好像有更美味的冲我们来了！小子们，新鲜
 msgid "Beware, people!"
 msgstr "大家小心！"
 
-#. [message]: speaker=$unit.id
-msgid "Neep, neep!"
-msgstr "吱，吱！"
-
 #. [message]: speaker=Kai Krellis
 msgid "Someone go find out what is exciting the bat."
 msgstr "谁去看看蝙蝠怎么这么激动。"
 
-#. [message]: speaker=$unit.id
+#. [message]: speaker=unit
 msgid "There is something sticking out of the mud here. Ah! I got it."
 msgstr "这边土里好像有什么东西戳出来了。啊！我拿到了。"
 
@@ -937,7 +950,7 @@ msgstr "这儿有个宝箱！"
 msgid "You receive 100 gold."
 msgstr "你获得了100枚金币。"
 
-#. [message]: speaker=$unit.id
+#. [message]: speaker=unit
 msgid "Neep!"
 msgstr "吱！"
 
@@ -1212,6 +1225,7 @@ msgstr ""
 "威胁人鱼可是个坏主意，这个兽人头领居然还没得到教训。那我们就在离开之前击败他"
 "吧。"
 
+#. [message]: speaker=Kai Krellis
 #. [message]: speaker=second_unit
 msgid ""
 "It seems that orc was rich! He has a chest here with over 100 pieces of gold!"
@@ -1723,7 +1737,7 @@ msgstr "谁在那儿！<b>滚开</b>，不然的话！"
 msgid "Do not worry about him. He is friendly."
 msgstr "别害怕他。他是朋友。"
 
-#. [message]: speaker=$unit.id
+#. [message]: speaker=unit
 msgid "Neep, neep, neep!"
 msgstr "吱，吱，吱！"
 
@@ -1992,6 +2006,7 @@ msgid ""
 "the castle walls."
 msgstr "城墙那边回荡起凌厉的哀嚎，人鱼们赶紧用手捂住耳朵。"
 
+#. [message]: speaker=Kai Krellis
 #. [message]: speaker=second_unit
 msgid "Now we have the sword!"
 msgstr "现在我们拿到宝剑了！"
@@ -2055,6 +2070,10 @@ msgstr "现在我们终于可以拿到宝剑了。"
 #. [message]: speaker=unit
 msgid "I am not going with you. One of your people should take the sword."
 msgstr "我不会跟您走的。宝剑应该让你们的人拿走。"
+
+#. [message]: speaker=Kai Krellis
+msgid "This is not food. And it is definitely not a toy. Leave it."
+msgstr ""
 
 #. [message]: speaker=narrator
 msgid "This sword is 8×4, magical, with <i>fire</i> damage."
@@ -2286,7 +2305,15 @@ msgstr "赛兰娜！我会怀念您的！"
 msgid "Tyegëa! No!"
 msgstr "泰歌雅！不！"
 
-#. [message]: speaker=$unit.id
+#. [message]: speaker=Kai Krellis
+msgid "Inky has found something. Someone should check it out."
+msgstr ""
+
+#. [message]: speaker=Kai Krellis
+msgid "Something must be there! Good bat! Someone should find out what it is."
+msgstr ""
+
+#. [message]: speaker=unit
 msgid ""
 "This man was wearing a necklace with a pendant on it. I’m sure the shape "
 "means something."
@@ -2439,14 +2466,6 @@ msgstr ""
 "体型特别庞大，身体特别强壮的人鱼有时用不惯别的武器，他们更习惯用自己的拳头和"
 "尾巴来作战。"
 
-#. [attack]: type=impact
-msgid "fist"
-msgstr "拳头"
-
-#. [attack]: type=impact
-msgid "tail"
-msgstr "尾巴"
-
 #. [unstore_unit]
 #. [set_variable]
 msgid "stunned"
@@ -2500,14 +2519,6 @@ msgstr ""
 "克拉肯是一种巨型海洋生物。它们能用强有力的触手抓住对手，或是从远处喷射有毒的"
 "黑色墨汁。遇到这些怪物时最好的逃生办法，就是呆在岸上。"
 
-#. [attack]: type=impact
-msgid "tentacle"
-msgstr "触手"
-
-#. [attack]: type=pierce
-msgid "ink"
-msgstr "墨汁"
-
 #. [unit_type]: id=Merman Soldier King, race=merman
 msgid "Soldier King"
 msgstr "士兵之王"
@@ -2520,10 +2531,6 @@ msgid ""
 msgstr ""
 "拥有出色战斗技能的国王很受人尊敬——尤其是士兵们更会尊敬他。他的力量很大，可以"
 "轻松挥舞强大的武器，即使身披重甲，也能快速移动。他的领导能力鼓舞着他的部队。"
-
-#. [attack]: type=impact
-msgid "mace"
-msgstr "狼牙棒"
 
 #. [unit_type]: id=Merman Warrior King, race=merman
 msgid "Warrior King"
@@ -2605,6 +2612,10 @@ msgstr "我们会让蝙蝠来用指环。它会让他变得更强的。"
 msgid "Someone take that off him before he hurts himself."
 msgstr "在他伤到自己之前，谁来把指环从他手上拿走。"
 
+#. [message]: speaker=Kai Krellis
+msgid "Leave it."
+msgstr ""
+
 #. [message]: speaker=unit
 msgid "I’ll try on the ring."
 msgstr "我来试试这枚指环。"
@@ -2636,7 +2647,8 @@ msgstr ""
 msgid "I agree. I hate to leave our home, but we will return."
 msgstr "我同意。我讨厌离开我们的家园，但我们还会回来的。"
 
-#. [message]: speaker=$second_unit.id
+#. [message]: speaker=Kai Krellis
+#. [message]: speaker=second_unit
 msgid ""
 "The human wizard was wearing a ring! Maybe it is magic. Someone should try "
 "it on to see what it does."

@@ -4,12 +4,12 @@
 # Automatically generated, 2013.
 # CloudiDust <cloudidust@gmail.com>, 2015.
 # Brian lee <haiyuan.2007@gmail.com>, 2016.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:32 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:06 UTC\n"
 "PO-Revision-Date: 2016-12-12 12:52+0800\n"
 "Last-Translator: Brian lee <haiyuan.2007@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -2282,19 +2282,3 @@ msgstr ""
 #. [unit]: type=Skeletal Dragon, id=Kiressh
 msgid "Kiressh"
 msgstr ""
-
-#~ msgid "Multiplayer_AI^Strong AI (RCA)"
-#~ msgstr "强AI（RCA）"
-
-#~ msgid ""
-#~ "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (C++ Akihara)"
-#~ msgstr "多人游戏_AI^Dev AI:默认 + 实验性招募 (C++ Akihara)"
-
-#~ msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (C++)"
-#~ msgstr "多人游戏_AI^Dev AI: 默认 + 实验性招募(C++)"
-
-#~ msgid "AI under test"
-#~ msgstr "测试中AI"
-
-#~ msgid "Idle AI"
-#~ msgstr "空闲AI"

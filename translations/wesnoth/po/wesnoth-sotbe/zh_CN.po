@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:23 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -3589,14 +3589,6 @@ msgstr ""
 "兽人萨满是兽族魔法的守卫者，受到各部落的尊重。他们建立的长老会仲裁兽人团体间"
 "的纠纷。尽管他们身体脆弱（对于兽人而言），萨满却是魔咒专家──通过诅咒敌人，吸"
 "取他们的生命。这些年轻人精力旺盛，但魔力尚需锻练。"
-
-#. [attack]: type=impact
-msgid "staff"
-msgstr "手杖"
-
-#. [attack]: type=pierce
-msgid "curse"
-msgstr "诅咒"
 
 #. [unit_type]: id=Old Orcish Shaman, race=orc
 msgid "Old Orcish Shaman"

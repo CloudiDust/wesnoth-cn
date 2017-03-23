@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2015-01-02 20:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -116,14 +116,14 @@ msgstr "科纳德"
 
 #. [side]: type=Commander, id=Konrad
 #. [side]: type=Grand Knight, id=Kaylan
-#. [side]: id=Relgorn, type=Dwarvish Lord
-#. [side]: id=Geldar, type=Dwarvish Lord
-#. [side]
 #. [side]: type=Fighter, id=Konrad
 #. [side]: type=Elvish Champion, id=Galdrad
 #. [side]: type=Elvish Shyde, id=Chantal
+#. [side]
 #. [side]: type=Ancient Wose, id=Haralamdum
 #. [side]: type=Elvish Sylph, id=Bona-Melodia
+#. [side]: id=Relgorn, type=Dwarvish Lord
+#. [side]: id=Geldar, type=Dwarvish Lord
 msgid "Rebels"
 msgstr "反抗军"
 
@@ -134,10 +134,7 @@ msgstr "乌鲁戈-特尔法"
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
 #. [side]: type=Orcish Warlord, id=Gaga-Breuk
-#. [side]: type=Orcish Warlord, id=Urag-Tifer
 #. [side]: type=Orcish Warlord, id=Kior-Dal
-#. [side]: type=Orcish Warrior, id=Halgar Du'nar
-#. [side]: type=Orcish Warrior, id=Gorlak
 #. [side]: type=Orcish Slurbow, id=Knafa-Telfar
 #. [side]: type=Orcish Warlord, id=Urug-Tan
 #. [side]: type=Orcish Sovereign, id=Shuuga-Mool
@@ -151,6 +148,9 @@ msgstr "乌鲁戈-特尔法"
 #. [side]: type=Goblin Rouser
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
+#. [side]: type=Orcish Warlord, id=Urag-Tifer
+#. [side]: type=Orcish Warrior, id=Halgar Du'nar
+#. [side]: type=Orcish Warrior, id=Gorlak
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1124,14 +1124,14 @@ msgstr "玛夫·玛拉尔"
 #. [side]: type=Lich, id=Galga
 #. [side]: type=Lich, id=Na-alga
 #. [side]: type=Lich, id=Selda-Mana
+#. [side]: type=Dark Sorcerer, id=Muff Malal
+#. [side]: id=Haf-Mal, type=Lich
+#. [side]: id=Jarmal-Gorg, type=Lich
 #. [side]: type=Death Knight, id=Clarustus
 #. [side]: type=Death Knight, id=Merlunius
 #. [side]: type=Lich, id=Aimucasur
 #. [side]: type=Death Knight, id=Secadius
 #. [side]: type=Death Knight, id=Dafeis
-#. [side]: type=Dark Sorcerer, id=Muff Malal
-#. [side]: id=Haf-Mal, type=Lich
-#. [side]: id=Jarmal-Gorg, type=Lich
 #. [side]: type=Ancient Lich, id=Muff Argulak
 msgid "Undead"
 msgstr "亡灵"
@@ -1398,13 +1398,13 @@ msgstr "埃仁撒伐"
 msgid "Agadla"
 msgstr "阿伽德拉"
 
-#. [side]: id=Brugg, type=Troll Warrior
-#. [side]: id=Lionel, type=Death Knight
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Death Knight, id=Unan-Ka'tall
-#. [side]: type=Troll Warrior, id=Haaf-Garga
 #. [side]: type=Orcish Warlord, id=Agadla
 #. [side]: type=Dark Sorcerer, id=Muff Jaanal
+#. [side]: type=Troll Warrior, id=Haaf-Garga
+#. [side]: id=Brugg, type=Troll Warrior
+#. [side]: id=Lionel, type=Death Knight
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -1860,13 +1860,13 @@ msgstr "莉莎"
 #. [side]: type=Princess, id=Li'sar
 #. [side]: type=General, id=Honber
 #. [side]: type=General, id=Robryn
+#. [side]: type=General, id=Josephus
+#. [side]: type=Orcish Warlord, id=Dwar-Ni
+#. [side]: type=General, id=Malatus
 #. [side]: type=Orcish Warlord, id=Haliel-Maga
 #. [side]: type=General, id=Heford
 #. [side]: type=Cavalier, id=Sir Kalm
 #. [side]: type=Dark Queen, id=Asheviere
-#. [side]: type=General, id=Josephus
-#. [side]: type=Orcish Warlord, id=Dwar-Ni
-#. [side]: type=General, id=Malatus
 msgid "Asheviere"
 msgstr "艾斯威勒"
 
@@ -1896,14 +1896,6 @@ msgstr "这是叛国！让你的谎言跟着你见鬼去吧！"
 msgid ""
 "There is no use in reasoning. She will understand only one thing. To arms!"
 msgstr "现在和她讲理根本没用。她只能明白一件事。全体战备！"
-
-#. [message]: speaker=Li'sar
-msgid "This is taking too much time, I had best call some reinforcements!"
-msgstr "没想到花了这么长时间，我最好还是叫些增援来！"
-
-#. [message]: speaker=Li'sar
-msgid "Maybe I was not using enough forces..."
-msgstr "可能我没有带来足够的人马……"
 
 #. [message]: speaker=unit
 msgid "I surrender! Don’t hurt me, impostor."
@@ -1959,34 +1951,6 @@ msgid ""
 msgstr ""
 "（哈哈，他们不知道最近有多少亡灵在北边的道路上游荡。这下子他们确确实实地完蛋"
 "了！）"
-
-#. [message]: speaker=Li'sar
-msgid ""
-"I see that your forces draw near, impostor! I’ll not be defeated in my own "
-"backyard so easily... Come forth and attack, my loyal duelist!"
-msgstr ""
-"我看到你的军队压过来了，冒名顶替者！我不会就这样在自己的后院里被轻易击败的……"
-"上前！进攻！我忠诚的决斗士！"
-
-#. [then]
-msgid "Ronry"
-msgstr "荣利"
-
-#. [message]: speaker=Ronry
-msgid "I’ll seize their keep, my Lady!"
-msgstr "我去占领他们的要塞，殿下！"
-
-#. [message]: speaker=unit
-msgid "It sounds like there is something in the mine shaft."
-msgstr "听上去似乎在矿口有什么东西。"
-
-#. [message]: speaker=Li'sar
-msgid "You’ve discovered my ploy! It doesn’t matter, I’ll still rout you!"
-msgstr "被你发现了！没关系，我仍然可以击溃你！"
-
-#. [message]: speaker=Ronry
-msgid "The trap is foiled, but I’ll still flush this rabble from their keep!"
-msgstr "陷阱被发现了，但我仍然可以在他们的要塞煽起暴动！"
 
 #. [scenario]: id=09_The_Valley_of_Death
 msgid "The Valley of Death — The Princess’s Revenge"
@@ -3340,10 +3304,21 @@ msgstr ""
 "你到底是什么家伙撒？是什么怪物的附肢？想要把俺骗下去好一口吃掉是不是，嗯？"
 
 #. [message]
+#, fuzzy
 msgid ""
-"I am of the merfolk, dweller of the vast oceans! Do not ask me what I am "
-"doing in a cave. My lord can be somewhat eccentric. We are fighting at the "
-"side of your fellow cave-dwellers to drive back the orcs and trolls."
+"I am a merman, dweller of the vast oceans! Do not ask me what I am doing in "
+"a cave. My lord can be somewhat eccentric. We are fighting at the side of "
+"your fellow cave-dwellers to drive back the orcs and trolls."
+msgstr ""
+"我是人鱼，大洋的住民！别问我在洞穴里做什么。我的主人有时候有些古怪。我们正和"
+"你的同伴，那些洞穴住民并肩作战，击退兽人和巨魔。"
+
+#. [message]
+#, fuzzy
+msgid ""
+"I am a mermaid, dweller of the vast oceans! Do not ask me what I am doing in "
+"a cave. My lord can be somewhat eccentric. We are fighting at the side of "
+"your fellow cave-dwellers to drive back the orcs and trolls."
 msgstr ""
 "我是人鱼，大洋的住民！别问我在洞穴里做什么。我的主人有时候有些古怪。我们正和"
 "你的同伴，那些洞穴住民并肩作战，击退兽人和巨魔。"
@@ -3351,6 +3326,13 @@ msgstr ""
 #. [message]: speaker=Ulfdain
 msgid ""
 "(sniffs) A mer-mahn. Never heard of it. I doubt yer as tasty as my friends "
+"here."
+msgstr "（嗅）人-鱼，从来没听说过啊。俺怀疑你不如我的这些朋友好吃啊。"
+
+#. [message]: speaker=Ulfdain
+#, fuzzy
+msgid ""
+"(sniffs) A mer-mead. Never heard of it. I doubt yer as tasty as my friends "
 "here."
 msgstr "（嗅）人-鱼，从来没听说过啊。俺怀疑你不如我的这些朋友好吃啊。"
 
@@ -3397,6 +3379,14 @@ msgstr "这一回你做好了充足的准备来对付水流，终于，你们设
 #. [message]: speaker=Ulfdain
 msgid ""
 "Well, mer-mahn, we made it. I will fight for yer lord. He sounds like a "
+"brave fellow."
+msgstr ""
+"啊哈，人-鱼，俺们得救了。俺要为你的主人打仗。听上去他是个挺勇敢的家伙。"
+
+#. [message]: speaker=Ulfdain
+#, fuzzy
+msgid ""
+"Well, mer-mead, we made it. I will fight for yer lord. He sounds like a "
 "brave fellow."
 msgstr ""
 "啊哈，人-鱼，俺们得救了。俺要为你的主人打仗。听上去他是个挺勇敢的家伙。"
@@ -4272,11 +4262,12 @@ msgstr ""
 "位女王感到厌倦之时就可以重写的卷轴的时候？"
 
 #. [message]: speaker=Li'sar
+#, fuzzy
 msgid ""
-"I spent my entire childhood listening to my mother give orders and "
-"commanding armies around. I hid in the throne room as a little girl as she "
-"met with her generals. I now know she was having people killed... entire "
-"towns of people killed!"
+"I spent my entire childhood listening to my mother give orders and command "
+"armies around. I hid in the throne room as a little girl as she met with her "
+"generals. I now know she was having people killed... entire towns of people "
+"killed!"
 msgstr ""
 "我的整个童年里，听到的都是母后发布命令的声音，看到的都是她指挥军队的身影。她"
 "和她的将军们开会的时候，还是小女孩的我只能躲在王宫正殿。我现在知道她在屠杀人"
@@ -5325,6 +5316,20 @@ msgstr "波娜-梅洛蒂娅"
 #. [message]: speaker=narrator
 msgid "The party enters the mysterious cave, ready to face the unknown..."
 msgstr "一行人进入了那神秘的洞穴，做好了面对未知敌人的准备……"
+
+#. [message]: speaker=Delfador
+msgid ""
+"It is unfortunate that the drakes distrusted us. Keh Ohn seemed noble and "
+"powerful, and under different circumstances, might have provided us with "
+"some insights about these caves."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#, fuzzy
+msgid ""
+"Move along, elf, unless you enjoy making camp in this dank cave. I, for one, "
+"do not!"
+msgstr "继续前进，精灵，除非你很乐意在这冰雪荒地上扎营。我首先就不乐意！"
 
 #. [message]: speaker=Bona-Melodia
 msgid "Get that vile creature!"
@@ -6688,24 +6693,12 @@ msgstr ""
 "学会了战术。因而，她是一位伟大的战士，同时又是一位伟大的领导者。现在，她历经"
 "无数战斗，磨练出了坚强的意志，可以在作战中协助她身边的战友。"
 
-#. [attack]: type=blade
-msgid "saber"
-msgstr "轻剑"
-
 #. [attack]: type=fire
 msgid "sceptre of fire"
 msgstr "圣火权杖"
 
 msgid "Commander"
 msgstr "指挥官"
-
-#. [attack]: type=blade
-msgid "sword"
-msgstr "剑"
-
-#. [attack]: type=pierce
-msgid "bow"
-msgstr "弓"
 
 #. [variation]
 #. [unit_type]
@@ -6810,10 +6803,6 @@ msgstr "沉睡狮鹫"
 msgid "Shhhh! The Gryphon is sleeping! You’d better not wake it up!"
 msgstr "嘘！这只狮鹫睡着了！您最好还是不要吵醒它！"
 
-#. [attack]: type=blade
-msgid "claws"
-msgstr "爪"
-
 #. [dummy]: id=initiative
 msgid "initiative"
 msgstr "主导"
@@ -6852,7 +6841,7 @@ msgstr ""
 #. [message]: speaker=narrator
 msgid ""
 "A large tree stands alone in a clearing. Driven into the trunk is a huge "
-"sword with flames dancing along its blade. Stangely, while the trunk near "
+"sword with flames dancing along its blade. Strangely, while the trunk near "
 "the sword is blackened and scorched, the tree seems otherwise unaffected by "
 "the flames."
 msgstr ""

@@ -2,12 +2,12 @@
 # Copyright (C) 2005-2015 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2016-08-08 20:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -186,32 +186,24 @@ msgstr ""
 "国王的军队到来之后，一切都很正常。有好几周都没有遇到袭击，格温德利的部队开始"
 "松懈起来。而后，在某一天的黎明，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
 
-#. [side]: type=Lieutenant, id=Gweddry
 #. [side]
+#. [side]: type=Lieutenant, id=Gweddry
 #. [side]: type=General, id=Konrad II
 #. [side]: type=Great Mage, id=Kaldor
-#. [side]: type=General, id=Gweddry
 #. [side]: type=General, id=Halrad
 #. [side]: type=General, id=Halric
 #. [side]: type=General, id=Halrod
 #. [side]: type=Dwarvish Steelclad, id=Knutan
+#. [side]: type=General, id=Gweddry
 msgid "Wesnothians"
 msgstr "韦诺人"
 
-#. [side]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat
 #. [side]: type=Dark Adept, id=Mal-Tar
 #. [side]: type=Dark Sorcerer, id=Mal-Kallat
 #. [side]: type=Necromancer, id=Mal-un-Darak
 #. [side]: type=Necromancer, id=Mal-un-Zanrad
 #. [side]: type=Necromancer, id=Mal-un-Xadrux
-#. [side]: type=Lich, id=Lich2
-#. [side]: type=Lich, id=Lich3
-#. [side]: type=Lich, id=Lich4
-#. [side]: type=Lich, id=Lich5
-#. [side]: type=Lich, id=Lich6
-#. [side]: type=Lich, id=Lich7
-#. [side]: type=Lich, id=Lich8
 #. [side]: type=Revenant, id=Lanar-Skal
 #. [side]: type=Lich, id=Mal-Telnarad
 #. [side]: type=Bone Knight, id=Garnad
@@ -219,13 +211,21 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Mal-Grekulak
 #. [side]: type=Lich, id=Mal-Xakralan
 #. [side]: type=Lich, id=Mal-Uknalu
-#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
-#. [side]: type=Dark Sorcerer, id=Mal-Talar
-#. [side]: type=Lich, id=Mal-Uldhar
 #. [side]
 #. [side]: type=Dark Sorcerer, id=Mal-Marak
 #. [side]: type=Dark Sorcerer, id=Mal-Galkar
 #. [side]: type=Death Knight, id=Ravanal-Guard
+#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
+#. [side]: type=Dark Sorcerer, id=Mal-Talar
+#. [side]: type=Lich, id=Mal-Uldhar
+#. [side]: type=Lich, id=Lich2
+#. [side]: type=Lich, id=Lich3
+#. [side]: type=Lich, id=Lich4
+#. [side]: type=Lich, id=Lich5
+#. [side]: type=Lich, id=Lich6
+#. [side]: type=Lich, id=Lich7
+#. [side]: type=Lich, id=Lich8
+#. [side]: type=Lich Lord, id=Mal-Ravanal
 msgid "Undead"
 msgstr "亡灵"
 
@@ -338,11 +338,11 @@ msgstr "跟我上，士兵们！通过活版门！"
 msgid "The Escape Tunnel"
 msgstr "离脱隧道"
 
-#. [side]: type=Troll Warrior, id=Darg
-#. [side]: type=Gryphon, id=Kraagak
 #. [side]: type=Ogre, id=Grug
 #. [side]
 #. [side]: type=Troll, id=Kabak
+#. [side]: type=Troll Warrior, id=Darg
+#. [side]: type=Gryphon, id=Kraagak
 msgid "Monsters"
 msgstr "怪物"
 
@@ -1123,11 +1123,11 @@ msgstr "分岔口"
 
 #. [side]: type=Orcish Warlord, id=Wak-Rano
 #. [side]: type=Dark Sorcerer, id=Mal-Arnai
-#. [side]
 #. [side]: type=Orcish Ruler, id=Draka-Kura
 #. [side]: type=Orcish Warlord, id=Varrak-Klar
 #. [side]: type=Troll Warrior, id=Unhk
 #. [side]: type=Orcish Warlord, id=Ran-Lar
+#. [side]
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -2523,10 +2523,8 @@ msgstr "我将整备部队。"
 msgid "The Duel"
 msgstr "决斗"
 
-#. [side]: type=Lich Lord, id=Mal-Ravanal
-#. [event]
-#. [variable]
 #. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
+#. [side]: type=Lich Lord, id=Mal-Ravanal
 msgid "Mal-Ravanal"
 msgstr "玛尔-拉法纳尔"
 
@@ -2598,6 +2596,10 @@ msgstr "维尔帝受困"
 msgid "?"
 msgstr "？"
 
+#. [objective]: condition=win
+msgid "Kill $liches_to_kill liches to reveal Mal-Ravanal"
+msgstr ""
+
 #. [objective]: condition=lose
 msgid "Death of Konrad"
 msgstr "科纳德阵亡"
@@ -2615,57 +2617,71 @@ msgstr ""
 "我感觉到玛尔-拉法纳尔就在这里某处……我们攻击他时，我必须在虚无之石旁，这样才能"
 "阻止他的传送魔法。要是他逃跑了，后果我们无法承受。"
 
-#. [event]
+#. [message]: speaker=Gweddry
+msgid "But how? We don't know which one of them he is."
+msgstr ""
+
+#. [message]: speaker=Dacyn
+msgid ""
+"They are channeling some dark magic to hide themselves. We have to kill some "
+"of them to break the spell."
+msgstr ""
+
+#. [value]
 msgid "Mal-Hadanak"
 msgstr "玛尔-哈达纳克"
 
-#. [event]
-msgid "Mal-Katklagad"
-msgstr "玛尔-卡拉戈德"
-
-#. [event]
-msgid "Mal-Xaskanat"
-msgstr "玛尔-夏斯卡纳特"
-
-#. [event]
-msgid "Mal-Akranbral"
-msgstr "玛尔-阿克兰布劳尔"
-
-#. [event]
-msgid "Mal-Larakan"
-msgstr "玛尔-拉莱坎"
-
-#. [event]
-msgid "Mal-Drakanal"
-msgstr "玛尔-德拉卡纳尔"
-
-#. [event]
+#. [value]
 msgid "You dare to attack me? Now you will pay!"
 msgstr "你胆敢攻击我？受死！"
 
-#. [event]
+#. [value]
+msgid "Mal-Katklagad"
+msgstr "玛尔-卡拉戈德"
+
+#. [value]
 msgid "I will enjoy watching you suffer!"
 msgstr "看着你受苦我会很享受的！"
 
-#. [event]
+#. [value]
+msgid "Mal-Xaskanat"
+msgstr "玛尔-夏斯卡纳特"
+
+#. [value]
 msgid "Death will only be the beginning of your torment!"
 msgstr "死亡只是你苦痛的开端而已！"
 
-#. [event]
+#. [value]
+msgid "Mal-Akranbral"
+msgstr "玛尔-阿克兰布劳尔"
+
+#. [value]
 msgid "You will serve me in death!"
 msgstr "死后你将臣服于我！"
 
-#. [event]
+#. [value]
+msgid "Mal-Larakan"
+msgstr "玛尔-拉莱坎"
+
+#. [value]
 msgid "Allow me to free you from your wretched existence!"
 msgstr "让我把你从这悲惨的存在之中解放出来吧！"
 
-#. [event]
+#. [value]
+msgid "Mal-Drakanal"
+msgstr "玛尔-德拉卡纳尔"
+
+#. [value]
 msgid "My master is merely toying with you!"
 msgstr "我的主人只是和你们玩玩而已！"
 
 #. [message]: speaker=Mal-Ravanal
 msgid "I shall destroy you personally!"
 msgstr "我会亲自摧毁你！"
+
+#. [message]: speaker=Owaec
+msgid "Their spell is broken! There he is!"
+msgstr ""
 
 #. [message]: speaker=unit
 msgid "Kill them all!"
@@ -2864,10 +2880,6 @@ msgid ""
 "and destruction."
 msgstr ""
 
-#. [attack]: type=blade
-msgid "axe"
-msgstr ""
-
 #. [attack]: type=impact
 msgid "trample"
 msgstr ""
@@ -2884,14 +2896,6 @@ msgid ""
 msgstr ""
 "平原上的翘楚，马背领主是家族的首脑，无论是敌是友，人们都敬仰他。他们的剑能杀"
 "死大部分敌人，而他们的晨星之锤将把残兵败将一扫而空。"
-
-#. [attack]: type=blade
-msgid "greatsword"
-msgstr "巨剑"
-
-#. [attack]: type=impact
-msgid "morning star"
-msgstr "晨星之锤"
 
 #. [unit_type]: id=Lich Lord
 msgid "Lich Lord"
@@ -2910,10 +2914,6 @@ msgid ""
 msgstr ""
 "这些平原上的贵族与其它骑手一起训练，成为伟大的勇士。然而，他们也要接受成为指"
 "挥官的训练，他们是将要成为氏族军队队长的人。"
-
-#. [attack]: type=blade
-msgid "sword"
-msgstr "剑"
 
 #. [unit_type]: id=Mounted Warrior, race=human
 msgid "Mounted Warrior"

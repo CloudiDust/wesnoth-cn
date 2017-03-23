@@ -8,12 +8,12 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # wind <everywherewind@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-06 02:31+0300\n"
+"POT-Creation-Date: 2017-03-19 00:05+0300\n"
 "PO-Revision-Date: 2017-01-31 18:20+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -132,16 +132,6 @@ msgid ""
 "list of encountered units"
 msgstr ""
 "在帮助中显示所有单位种类（需要重新启动）。这并不会改变已遇到的单位的列表"
-
-#. [advanced_preference]: type=boolean
-msgid "Experimental multiplayer UI"
-msgstr "试验性多人游戏界面"
-
-#. [advanced_preference]: type=boolean
-msgid ""
-"Replace the classic multiplayer lobby and game setup UI with a newer, "
-"experimental interface"
-msgstr "用一款新的、试验性的界面来替换经典的多人游戏大厅和游戏设置界面"
 
 #. [advanced_preference]: type=int
 msgid "Editor recent files limit"
@@ -266,6 +256,7 @@ msgstr "手柄：用于加速的摇杆编号"
 msgid "Joystick: deadzone of the thruster"
 msgstr "手柄：用于加速的摇杆的死区大小"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
@@ -3121,6 +3112,7 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -3145,10 +3137,12 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -3519,6 +3513,19 @@ msgstr "没有可用于选定的时代、游戏或模组的自定义选项。"
 msgid "Defaults"
 msgstr "默认"
 
+#. [label]: id=title
+msgid "Install Dependencies"
+msgstr "安装依赖项目"
+
+#. [button]: id=ok
+msgid "Yes"
+msgstr ""
+
+#. [button]: id=cancel
+#, fuzzy
+msgid "No"
+msgstr "十一月"
+
 #. [fonts]
 msgid ""
 "Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,"
@@ -3535,22 +3542,27 @@ msgstr "Lato"
 msgid "DejaVu Sans Mono"
 msgstr "DejaVu Sans Mono"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3563,10 +3575,12 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 msgid "input"
 msgstr "输入"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3584,6 +3598,11 @@ msgstr[1] "（剩余%d回合）"
 #. [lua]: generate_objectives
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%%的金币将会带到下一场景。"
+
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [objective]: condition=win
+msgid "Defeat enemy leader(s)"
+msgstr "击败敌军首领"
 
 msgid "OK"
 msgstr "确定"
@@ -3668,8 +3687,8 @@ msgid "Replay"
 msgstr "游戏录像"
 
 #. [action]: id=button-stopreplay, type=image
-msgid "pause at end of turn"
-msgstr "回合结束时暂停"
+msgid "pause"
+msgstr ""
 
 #. [theme]: id=Classic
 msgid "theme^Classic"
@@ -3765,22 +3784,6 @@ msgstr "防御"
 #. [unit_level]: id=unit-level
 msgid "statuspanel^lvl"
 msgstr "等级"
-
-#. [theme]: id=Pandora
-msgid "theme^Pandora"
-msgstr "潘多拉"
-
-#. [theme]: id=Pandora
-msgid "An 800×480 theme optimized for Pandora devices"
-msgstr "为潘多拉设备优化的800x480主题"
-
-#. [action]: id=end-turn
-msgid ""
-"End\n"
-"Turn"
-msgstr ""
-"结束\n"
-"回合"
 
 #. [theme]: id=UnitBox
 msgid "theme^UnitBox"
@@ -4534,6 +4537,56 @@ msgid ""
 msgstr ""
 "附加组件<b>$addon_title</b>中的某个文件名或者目录名无效，因此无法安装。"
 
+msgid "The server responded with an error:"
+msgstr "服务器返回一个错误："
+
+msgid ""
+"The selected add-on has the following dependency, which is not currently "
+"installed or available from the server. Do you wish to continue?"
+msgid_plural ""
+"The selected add-on has the following dependencies, which are not currently "
+"installed or available from the server. Do you wish to continue?"
+msgstr[0] ""
+"这个附加组件有下列依赖项目。这个依赖项目尚未安装，且不存在于服务器上。希望继"
+"续吗？"
+msgstr[1] ""
+"这个附加组件有下列依赖项目。这些依赖项目尚未安装，且不存在于服务器上。希望继"
+"续吗？"
+
+msgid "Broken Dependencies"
+msgstr "损坏的依赖项目"
+
+msgid ""
+"The following dependency could not be installed. Do you still wish to "
+"continue?"
+msgid_plural ""
+"The following dependencies could not be installed. Do you still wish to "
+"continue?"
+msgstr[0] "下列依赖项目无法安装。仍然希望继续吗？"
+msgstr[1] "下列依赖项目无法安装。仍然希望继续吗？"
+
+msgid "Dependencies Installation Failed"
+msgstr "依赖项目安装失败"
+
+msgid ""
+"The add-on '$addon|' is already installed and contains additional "
+"information that will be permanently lost if you continue:"
+msgstr ""
+"附加组件“$addon|”已安装并包含有额外的信息，如果继续，则这些额外信息将永久丢"
+"失："
+
+msgid "Publishing information file (.pbl)"
+msgstr "发布信息文件（.pbl）"
+
+msgid "Version control system (VCS) information"
+msgstr "版本控制系统（VCS）信息"
+
+msgid "Do you really wish to continue?"
+msgstr "真的希望继续吗？"
+
+msgid "Confirm"
+msgstr "确认"
+
 msgid "Add-ons Manager"
 msgstr "附加组件管理器"
 
@@ -4578,216 +4631,6 @@ msgstr "（未知）"
 
 msgid "unit_byte^B"
 msgstr "B"
-
-msgid "addon_state^Not installed"
-msgstr "未安装"
-
-msgid "addon_state^Published, not installed"
-msgstr "已发布，未安装"
-
-msgid "addon_state^Installed"
-msgstr "已安装"
-
-msgid "addon_state^Published"
-msgstr "已发布"
-
-msgid "addon_state^Installed, upgradable"
-msgstr "已安装，可升级"
-
-msgid "addon_state^Published, upgradable"
-msgstr "已发布，可升级"
-
-msgid "addon_state^Installed, outdated on server"
-msgstr "已安装，服务器上的版本已过时"
-
-msgid "addon_state^Published, outdated on server"
-msgstr "已发布，服务器上的版本已过时"
-
-msgid "addon_state^Installed, broken"
-msgstr "已安装，已损坏"
-
-msgid "addon_state^Published, broken"
-msgstr "已发布，已损坏"
-
-msgid "addon_state^Unknown"
-msgstr "未知"
-
-msgid "The server responded with an error:"
-msgstr "服务器返回一个错误："
-
-msgid ""
-"The selected add-on has the following dependency, which is not currently "
-"installed or available from the server. Do you wish to continue?"
-msgid_plural ""
-"The selected add-on has the following dependencies, which are not currently "
-"installed or available from the server. Do you wish to continue?"
-msgstr[0] ""
-"这个附加组件有下列依赖项目。这个依赖项目尚未安装，且不存在于服务器上。希望继"
-"续吗？"
-msgstr[1] ""
-"这个附加组件有下列依赖项目。这些依赖项目尚未安装，且不存在于服务器上。希望继"
-"续吗？"
-
-msgid "Broken Dependencies"
-msgstr "损坏的依赖项目"
-
-msgid "Author"
-msgstr "作者"
-
-msgid "Name"
-msgstr "名称"
-
-msgid "Version"
-msgstr "版本"
-
-msgid "Size"
-msgstr "大小"
-
-msgid "Type"
-msgstr "类型"
-
-msgid "Install Dependencies"
-msgstr "安装依赖项目"
-
-msgid ""
-"The selected add-on has the following dependency, which is not currently "
-"installed. Do you wish to install it before continuing?"
-msgid_plural ""
-"The selected add-on has the following dependencies, which are not currently "
-"installed. Do you wish to install them before continuing?"
-msgstr[0] ""
-"这个附加组件有下列依赖项目。这个依赖项目尚未安装。继续之前希望安装依赖项目"
-"吗？"
-msgstr[1] ""
-"这个附加组件有下列依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
-"吗？"
-
-msgid ""
-"The following dependency could not be installed. Do you still wish to "
-"continue?"
-msgid_plural ""
-"The following dependencies could not be installed. Do you still wish to "
-"continue?"
-msgstr[0] "下列依赖项目无法安装。仍然希望继续吗？"
-msgstr[1] "下列依赖项目无法安装。仍然希望继续吗？"
-
-msgid "Dependencies Installation Failed"
-msgstr "依赖项目安装失败"
-
-msgid ""
-"The add-on '$addon|' is already installed and contains additional "
-"information that will be permanently lost if you continue:"
-msgstr ""
-"附加组件“$addon|”已安装并包含有额外的信息，如果继续，则这些额外信息将永久丢"
-"失："
-
-msgid "Publishing information file (.pbl)"
-msgstr "发布信息文件（.pbl）"
-
-msgid "Version control system (VCS) information"
-msgstr "版本控制系统（VCS）信息"
-
-msgid "Do you really wish to continue?"
-msgstr "真的希望继续吗？"
-
-msgid "Confirm"
-msgstr "确认"
-
-msgid ""
-"Deleting '$addon|' will permanently erase its download and upload counts on "
-"the add-ons server. Do you really wish to continue?"
-msgstr ""
-"删除“$addon|”将永久性地擦除其在附加组件服务器上的下载与上传计数。真的希望继续"
-"吗？"
-
-msgid "Response"
-msgstr "回应"
-
-msgid "Warning"
-msgstr "警告"
-
-msgid ""
-"The remote version of this add-on is greater or equal to the version being "
-"uploaded. Do you really wish to continue?"
-msgstr "此附加组件的远程版本和正在上传的版本相同或更高。真的希望继续吗？"
-
-msgid "Invalid icon path. Make sure the path points to a valid image."
-msgstr "无效图标路径。请确保该路径指向有效的图片。"
-
-msgid "Terms"
-msgstr "许可条件"
-
-msgid "New Version"
-msgstr "新版本"
-
-msgid "Old Version"
-msgstr "旧版本"
-
-msgid "Downloads"
-msgstr "下载数"
-
-msgid "Publish: $addon_title"
-msgstr "发布：$addon_title"
-
-msgid "Delete: $addon_title"
-msgstr "删除：$addon_title"
-
-msgid "There are no add-ons available for download from this server."
-msgstr "这个服务器上没有可供下载的附加组件。"
-
-msgid "There are no add-ons matching the specified criteria on this server."
-msgstr "这个服务器上没有符合规定条件的附加组件。"
-
-msgid "Filter: "
-msgstr "过滤条件："
-
-msgid "Description"
-msgstr "描述"
-
-msgid "Update All"
-msgstr "全部更新"
-
-msgid "filter^Options"
-msgstr "选项"
-
-msgid "Add-on Installed"
-msgstr "附加组件已安装"
-
-msgid "Add-on Updated"
-msgstr "附加组件已更新"
-
-msgid "The add-on '$addon_title|' has been successfully installed."
-msgstr "附加组件“$addon_title|”已成功安装。"
-
-msgid "The add-on '$addon_title|' has been successfully updated."
-msgstr "附加组件“$addon_title|”已成功更新。"
-
-msgid "Add-ons Installed"
-msgstr "附加组件已安装"
-
-msgid "Add-ons Updated"
-msgstr "附加组件已更新"
-
-msgid "All add-ons installed successfully."
-msgstr "所有附加组件都已安装成功。"
-
-msgid "All add-ons updated successfully."
-msgstr "所有附加组件都已更新成功。"
-
-msgid "Installation Failed"
-msgstr "安装失败"
-
-msgid "Update Failed"
-msgstr "更新失败"
-
-msgid "The following add-on could not be downloaded or installed successfully:"
-msgid_plural ""
-"The following add-ons could not be downloaded or installed successfully:"
-msgstr[0] "下列附加组件无法成功地下载或更新："
-msgstr[1] "下列附加组件无法成功地下载或更新："
-
-msgid "An error occurred while downloading the add-ons list from the server."
-msgstr "从服务器上下载附加组件列表时发生错误。"
 
 msgid "Network communication error."
 msgstr "网络通讯错误。"
@@ -4847,6 +4690,9 @@ msgid "The following add-on was successfully deleted:"
 msgid_plural "The following add-ons were successfully deleted:"
 msgstr[0] "下列附加组件已成功删除："
 msgstr[1] "下列附加组件已成功删除："
+
+msgid "An error occurred while downloading the add-ons list from the server."
+msgstr "从服务器上下载附加组件列表时发生错误。"
 
 msgid "Could not find an add-on matching id $addon_id on the add-on server."
 msgstr "在附加组件服务器上无法找到与ID：$addon_id|匹配的附加组件。"
@@ -4926,6 +4772,137 @@ msgstr "正在设置$var|为$value"
 msgid "requesting information for user $nick"
 msgstr "正在请求用户$nick|的信息"
 
+msgid "(A) — admin command"
+msgstr ""
+
+msgid "(admin only)"
+msgstr "（管理员专用）"
+
+msgid ""
+"Send a query to the server. Without arguments the server should tell you the "
+"available commands."
+msgstr ""
+
+msgid ""
+"Ban and kick a player or observer. If he is not in the game but on the "
+"server he will only be banned."
+msgstr ""
+
+#, fuzzy
+msgid "<nickname>"
+msgstr "<阵营> <昵称>"
+
+msgid "Unban a user. He does not have to be in the game but on the server."
+msgstr ""
+
+msgid "Kick a player or observer."
+msgstr ""
+
+msgid "Mute an observer. Without an argument displays the mute status."
+msgstr ""
+
+msgid "Unmute an observer. Without an argument unmutes everyone."
+msgstr ""
+
+msgid "Mute/Unmute all observers. (toggles)"
+msgstr ""
+
+msgid ""
+"Report abuse, rule violations, etc. to the server moderators. Make sure to "
+"mention relevant nicknames, etc."
+msgstr ""
+
+#, fuzzy
+msgid "<message>"
+msgstr "信息："
+
+msgid "Send an emotion or personal action in chat."
+msgstr ""
+
+msgid ""
+"Sends a private message. You cannot send private messages to players in a "
+"running game you observe or play in."
+msgstr ""
+
+msgid "<nickname> <message>"
+msgstr ""
+
+msgid "<level> <domain>"
+msgstr ""
+
+msgid "Change the log level of a log domain."
+msgstr ""
+
+#, fuzzy
+msgid "Add a nickname to your ignores list."
+msgstr "已加入忽略列表：$nick"
+
+#, fuzzy
+msgid "Add a nickname to your friends list."
+msgstr "已加入好友列表：$nick"
+
+msgid "Remove a nickname from your ignores or friends list."
+msgstr ""
+
+#, fuzzy
+msgid "Display version information."
+msgstr "未找到时代信息。"
+
+msgid "<password> <email (optional)>"
+msgstr ""
+
+#, fuzzy
+msgid "Register your nickname"
+msgstr "仅注册用户"
+
+#, fuzzy
+msgid "Drop your nickname."
+msgstr "正在废弃你的用户名"
+
+msgid "Update details for your nickname. For possible details see '/details'."
+msgstr ""
+
+#, fuzzy
+msgid "<detail> <value>"
+msgstr "<变量>=<值>"
+
+#, fuzzy
+msgid "Request information about a nickname."
+msgstr "正在请求用户$nick|的信息"
+
+msgid "Request a list of details you can set for your registered nickname."
+msgstr ""
+
+msgid "<room>"
+msgstr ""
+
+#, fuzzy
+msgid "Join a room."
+msgstr "加入游戏"
+
+msgid "Part a room."
+msgstr ""
+
+msgid "List room members."
+msgstr ""
+
+#, fuzzy
+msgid "List available rooms."
+msgstr "不可用。"
+
+msgid "<room> <msg>"
+msgstr ""
+
+#, fuzzy
+msgid "Room message."
+msgstr "聊天信息"
+
+msgid "<room> <type> [value]"
+msgstr ""
+
+msgid "Room query."
+msgstr ""
+
 msgid "Unknown debug level: '$level'."
 msgstr "未知调试级别：“$level|”。"
 
@@ -4971,7 +4948,8 @@ msgstr "%b %d"
 msgid "%b %d %Y"
 msgstr "%b %d %Y"
 
-msgid "Invalid color range: "
+#, fuzzy
+msgid "Invalid color in range: "
 msgstr "无效颜色范围："
 
 msgid "Error validating data core."
@@ -5109,14 +5087,8 @@ msgid ""
 "disabled."
 msgstr "所选定的模组并非全部互相兼容。其中一部分将被禁用。"
 
-msgid "Random"
-msgstr "随机"
-
-msgid "Female ♀"
-msgstr "女性 ♀"
-
-msgid "Male ♂"
-msgstr "男性 ♂"
+msgid "A component"
+msgstr ""
 
 msgid "Only random sides in the current era."
 msgstr "仅当前时代中的随机阵营。"
@@ -5127,8 +5099,63 @@ msgstr "无法找到$faction|派系的首领类型"
 msgid "Cannot obtain genders for invalid leader $leader"
 msgstr "无法获取无效的首领$leader|的性别"
 
-msgid "Defeat enemy leader(s)"
-msgstr "击败敌军首领"
+msgid "Missing addon: $id"
+msgstr "缺少附加组件：$id"
+
+msgid "Unknown era: $era_id"
+msgstr "未知时代：$era_id"
+
+msgid "Unknown era"
+msgstr "未知时代"
+
+msgid "(missing)"
+msgstr "（丢失）"
+
+msgid "(S)"
+msgstr "(S)"
+
+msgid "Remote scenario"
+msgstr "远程场景"
+
+msgid "Unknown scenario: $scenario_id"
+msgstr "未知场景：$scenario_id"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "Unknown campaign: $campaign_id"
+msgstr "未知战役：$campaign_id"
+
+msgid "Unknown scenario"
+msgstr "未知场景"
+
+msgid "Reloaded game"
+msgstr "重新载入了游戏"
+
+msgid "Turn"
+msgstr "回合"
+
+msgid "Vacant Slot:"
+msgid_plural "Vacant Slots:"
+msgstr[0] "空闲槽位："
+msgstr[1] "空闲槽位："
+
+msgid "none"
+msgstr "无"
+
+msgid ""
+"The host's version of <i>$addon</i> is incompatible. They have version <b>"
+"$host_ver</b> while you have version <b>$local_ver</b>."
+msgstr ""
+"主机的<b>$addon|</b>版本不兼容。主机拥有的版本是<b>$host_ver|</b>而你拥有的版"
+"本是<b>$local_ver|</b>。"
+
+msgid ""
+"Your version of <i>$addon</i> is incompatible. You have version <b>"
+"$local_ver</b> while the host has version <b>$host_ver</b>."
+msgstr ""
+"你的<b>$addon|</b>版本不兼容。你拥有的版本是<b>$local_ver|</b>而主机拥有的版"
+"本是<b>$host_ver|</b>。"
 
 msgid "Cannot find era $era"
 msgstr "无法找到$era|时代"
@@ -5154,6 +5181,9 @@ msgstr ""
 
 msgid "Do you want to continue?"
 msgstr "你要继续吗？"
+
+msgid "Warning"
+msgstr "警告"
 
 msgid "Bad data received from server"
 msgstr "从服务器处收到损坏的数据"
@@ -5199,480 +5229,6 @@ msgstr "你提供的密码是不正确的。"
 
 msgid "You have made too many login attempts."
 msgstr "你尝试登录的次数太多了。"
-
-msgid "No sides found. At least one side or starting position must be defined."
-msgstr "未找到阵营。必须至少定义一个阵营或开始位置。"
-
-msgid "Generic"
-msgstr "通用"
-
-msgid "Use map settings"
-msgstr "使用地图设置"
-
-msgid "Random start time"
-msgstr "随机开始时间"
-
-msgid "Fog of war"
-msgstr "战争迷雾"
-
-msgid "Configure Game"
-msgstr "配置游戏"
-
-msgid "Time limit"
-msgstr "时限"
-
-msgid "Name of game:"
-msgstr "游戏名："
-
-msgid "Observers"
-msgstr "观察者"
-
-msgid "Registered users only"
-msgstr "仅注册用户"
-
-msgid "Debug OOS"
-msgstr "失步调试"
-
-msgid "Shuffle sides"
-msgstr "阵营洗牌"
-
-msgid "Random factions:"
-msgstr "随机派系："
-
-msgid "Set Password..."
-msgstr "设定密码……"
-
-msgid "Select an entry point:"
-msgstr "选择进入点："
-
-msgid "Enables user time limit"
-msgstr "启用用户时限"
-
-msgid "Longest time allowed for first turn (seconds)"
-msgstr "第一回合的最长时限（秒）"
-
-msgid "Longest time possible for any turn (seconds)"
-msgstr "任意回合的最长时限（秒）"
-
-msgid "Time for general tasks each turn (seconds)"
-msgstr "每回合普通行动的时限（秒）"
-
-msgid "Time for each attack, recruit, and capture"
-msgstr "每次攻击、征募和占领的时限"
-
-msgid "Allow users who are not playing to watch the game"
-msgstr "允许不在对战的用户观看游戏"
-
-msgid "Allow only registered users to join the game"
-msgstr "只允许注册用户加入游戏"
-
-msgid "More checks for OOS errors but also more network traffic"
-msgstr "进行更多失步检查，但也会带来更大的网络流量"
-
-msgid "Assign sides to players at random"
-msgstr "随机将各个阵营指定给玩家"
-
-msgid "Allow for mirror matchups when random factions are chosen"
-msgstr "当选择随机派系时，允许镜像指定"
-
-msgid ""
-"Independent: Random factions assigned independently\n"
-"No Mirror: No two players will get the same faction\n"
-"No Ally Mirror: No two allied players will get the same faction"
-msgstr ""
-"独立：将随机阵营独立地指定给玩家\n"
-"无镜像：任意两位玩家都不会被指定到同一个派系\n"
-"无友方镜像：任意两位结盟的玩家都不会被指定到同一个派系"
-
-msgid "Use scenario specific settings"
-msgstr "使用特定于本场景的设置"
-
-msgid "The maximum number of turns the game can last"
-msgstr "游戏可持续的最大回合数"
-
-msgid "The amount of income each village yields per turn"
-msgstr "每个村庄每回合产生的收入"
-
-msgid "The number of unit levels each village can support"
-msgstr "每个村庄可供给的单位等级数"
-
-msgid "The amount of experience a unit needs to advance"
-msgstr "单位升级所需的经验"
-
-msgid "Randomize time of day in begin"
-msgstr "随机选择开始时的时段"
-
-msgid "Enemy units cannot be seen unless they are in range of your units"
-msgstr "敌方单位在进入你的单位的移动范围之前不可见"
-
-msgid "The map is unknown until your units explore it"
-msgstr "在你的单位进行探索之前，地图不可见"
-
-msgid "Share View"
-msgstr "视野共享"
-
-msgid "Share Maps"
-msgstr "地图共享"
-
-msgid "Share None"
-msgstr "不共享"
-
-msgid "You must enter a name."
-msgstr "你必须输入名字。"
-
-msgid "Turns: "
-msgstr "回合数："
-
-msgid "Unlimited turns"
-msgstr "回合数不限"
-
-msgid "Village gold: "
-msgstr "村庄金币："
-
-msgid "Village support: "
-msgstr "村庄供给："
-
-msgid "Experience modifier: "
-msgstr "经验修正："
-
-msgid "Init. limit: "
-msgstr "起始限制："
-
-msgid "Turn bonus: "
-msgstr "回合奖励："
-
-msgid "Reservoir: "
-msgstr "储备："
-
-msgid "Action bonus: "
-msgstr "行动奖励："
-
-msgid "("
-msgstr "（"
-
-msgid ")"
-msgstr "）"
-
-msgid "+"
-msgstr "+"
-
-msgid "Normal"
-msgstr "普通"
-
-msgid "Game Lobby: "
-msgstr "游戏大厅："
-
-msgid "Player/Type"
-msgstr "玩家/类型"
-
-msgid "Faction/Name"
-msgstr "派系/名字"
-
-msgid "Leader/Gender"
-msgstr "首领/性别"
-
-msgid "Team/Color"
-msgstr "团队/颜色"
-
-msgid "Income"
-msgstr "收入"
-
-msgid "I’m Ready"
-msgstr "准备就绪"
-
-msgid "Quit"
-msgstr "退出"
-
-msgid "The scenario is invalid because it has no id."
-msgstr "由于没有ID，本场景无效。"
-
-msgid "The scenario is invalid because it has no sides."
-msgstr "由于没有阵营，本场景无效。"
-
-msgid "Waiting for players to join..."
-msgstr "正在等待玩家加入……"
-
-msgid "Waiting for players to choose factions..."
-msgstr "正在等待玩家选择阵营……"
-
-msgid "Create Game"
-msgstr "创建游戏"
-
-msgid "Filter:"
-msgstr "过滤条件："
-
-msgid "Number of players: any"
-msgstr "玩家人数：任意"
-
-msgid "Random map options:"
-msgstr "随机地图选项："
-
-msgid "Era:"
-msgstr "时代："
-
-msgid ""
-"No eras available\n"
-"for this game."
-msgstr ""
-"没有这一游戏\n"
-"可用的时代。"
-
-msgid "Modifications:"
-msgstr "模组："
-
-msgid "Next"
-msgstr "下一步"
-
-msgid "Regenerate"
-msgstr "重新生成"
-
-msgid "Settings..."
-msgstr "设置……"
-
-msgid "Load Game..."
-msgstr "载入游戏……"
-
-msgid "Scenarios"
-msgstr "场景"
-
-msgid "Campaigns"
-msgstr "战役"
-
-msgid "User Maps"
-msgstr "用户地图"
-
-msgid "User Scenarios"
-msgstr "用户场景"
-
-msgid "Random Maps"
-msgstr "随机地图"
-
-msgid "No games found."
-msgstr "未找到游戏。"
-
-msgid "No eras found."
-msgstr "未找到时代。"
-
-msgid "No eras found"
-msgstr "未找到时代"
-
-msgid ""
-"Modifications:\n"
-"None found."
-msgstr ""
-"模组：\n"
-"未找到。"
-
-msgid "The level is invalid."
-msgstr "此关卡无效。"
-
-msgid "Players: "
-msgstr "玩家： "
-
-msgid "Size: "
-msgstr "大小："
-
-msgid "Number of players: "
-msgstr "玩家人数："
-
-msgid "No description available."
-msgstr "没有描述信息。"
-
-msgid "--no games open--"
-msgstr "--没有开放的游戏--"
-
-msgid " (Unknown Era)"
-msgstr "（未知时代）"
-
-msgid " (Need to download addons)"
-msgstr "（需要下载附加组件）"
-
-msgid " (Outdated addons)"
-msgstr "（过时附加组件）"
-
-msgid "Scenario:"
-msgstr "场景："
-
-msgid "Remote scenario"
-msgstr "远程场景"
-
-msgid "Unknown scenario: $scenario_id"
-msgstr "未知场景：$scenario_id"
-
-msgid "Unknown scenario"
-msgstr "未知场景"
-
-msgid "Campaign:"
-msgstr "战役："
-
-msgid "Unknown campaign: $campaign_id"
-msgstr "未知战役：$campaign_id"
-
-msgid ""
-"Host's version of $addon is too old: host's version $host_ver < your version "
-"$local_ver."
-msgstr "主机的$addon|版本太旧了：主机的版本$host_ver| < 你的版本$local_ver|。"
-
-msgid ""
-"Your version of $addon is out of date: host's version $host_ver > your "
-"version $local_ver."
-msgstr "你的$addon|的版本过时了：主机的版本$host_ver| > 你的版本$local_ver|。"
-
-msgid "Unknown era: $era_id"
-msgstr "未知时代：$era_id"
-
-msgid "Unknown era"
-msgstr "未知时代"
-
-msgid " (missing)"
-msgstr "（丢失）"
-
-msgid "Missing addon: $id"
-msgstr "缺少附加组件：$id"
-
-msgid "Reloaded game"
-msgstr "重新载入了游戏"
-
-msgid "Turn "
-msgstr "回合"
-
-msgid "Vacant Slot:"
-msgid_plural "Vacant Slots:"
-msgstr[0] "空闲槽位："
-msgstr[1] "空闲槽位："
-
-msgid "Password Required"
-msgstr "需要密码"
-
-msgid "none"
-msgstr "无"
-
-msgid "Game Lobby"
-msgstr "游戏大厅"
-
-msgid "Observe Game"
-msgstr "旁观游戏"
-
-msgid "Join Game"
-msgstr "加入游戏"
-
-msgid "Preferences"
-msgstr "首选项"
-
-msgid "Apply filter"
-msgstr "应用过滤条件"
-
-msgid "Invert"
-msgstr "反转"
-
-msgid "Vacant slots"
-msgstr "空闲槽位"
-
-msgid "Friends in game"
-msgstr "游戏中的好友"
-
-msgid "Search:"
-msgstr "搜索："
-
-msgid "Normal Replays"
-msgstr "普通游戏录像"
-
-msgid "Quick Replays"
-msgstr "快速游戏录像"
-
-msgid "Enter Blindfolded"
-msgstr "蒙眼进入"
-
-msgid "Skip quickly to the active turn when observing"
-msgstr "旁观时快速跳到活动回合"
-
-msgid "Do not show the map until given control of a side"
-msgstr "直到获得某一阵营的控制权之前，不显示地图"
-
-msgid ""
-"Enable the games filter. If unchecked all games are shown, regardless of any "
-"filter."
-msgstr "启用游戏过滤条件。如果不勾选，那么将显示所有游戏，而无视任何过滤条件。"
-
-msgid ""
-"Show all games that do *not* match your filter. Useful for hiding games you "
-"are not interested in."
-msgstr "显示所有*不*满足过滤条件的游戏。当需要隐藏你不感兴趣的游戏时很有用。"
-
-msgid "Only show games that have at least one vacant slot"
-msgstr "只显示至少有一个空闲槽位的游戏"
-
-msgid ""
-"Only show games that are played or observed by at least one of your friends"
-msgstr "只显示至少有一位好友正在玩或者旁观的游戏"
-
-msgid ""
-"Only show games whose title, description, era or mods contain the entered "
-"text"
-msgstr "只显示标题、描述、时代或模组中包含所输入文字的游戏"
-
-msgid "Incompatible user-made content."
-msgstr "不兼容的用户制作内容。"
-
-msgid ""
-"This game cannot be joined because the host has out-of-date add-ons which "
-"are incompatible with your version. You might suggest to them that they "
-"update their add-ons."
-msgstr ""
-"由于主机上有过时的附加组件，与你的版本不兼容，因此不能加入此游戏。你可以建议"
-"主机更新其附加组件。"
-
-msgid "Details:"
-msgstr "详细信息："
-
-msgid "Missing user-made content."
-msgstr "缺少用户制作的内容。"
-
-msgid ""
-"This game requires one or more user-made addons to be installed or updated "
-"in order to join. Do you want to try to install them?"
-msgstr ""
-"需要安装或升级一个或多个用户制作的附加组件后，才能加入此游戏。你要尝试安装这"
-"些组件吗？"
-
-msgid ""
-"Something is wrong with the addon version check database supporting the "
-"multiplayer lobby, please report this at bugs.wesnoth.org."
-msgstr ""
-"支持多人游戏大厅的附加组件检查数据库出现了问题，请将此问题报告在bugs.wesnoth."
-"org上。"
-
-msgid "Selected user: "
-msgstr "选定的用户："
-
-msgid "$sender is messaging you, and you accept whispers from friends only."
-msgstr "$sender|正向你发送消息，而你只接受好友发来的悄悄话。"
-
-msgid "Waiting for game to start..."
-msgstr "正在等待游戏开始……"
-
-msgid "No era information found."
-msgstr "未找到时代信息。"
-
-msgid "No multiplayer sides found"
-msgstr "未找到多人游戏阵营"
-
-msgid "(Empty slot)"
-msgstr "（空置槽位(Empty)）"
-
-msgid "(Reserved for $playername)"
-msgstr "（预留给$playername|）"
-
-msgid "(Vacant slot)"
-msgstr "（空闲槽位(Vacant)）"
-
-msgid "(empty)"
-msgstr "（空置）"
-
-msgid "multiplayer_starting_gold^Gold"
-msgid_plural "multiplayer_starting_gold^Gold"
-msgstr[0] "金币"
-msgstr[1] "金币"
 
 msgid "Remaining gold: "
 msgstr "所剩金币："
@@ -5787,7 +5343,8 @@ msgstr "读取游戏时发生文件I/O错误：’"
 msgid "Error while starting server: "
 msgstr "启动服务器时发生错误： "
 
-msgid "Random maps with an odd data.width aren't supported."
+#, fuzzy
+msgid "Random maps with an odd width aren't supported."
 msgstr "不支持data.width取值奇怪的随机地图"
 
 msgid ""
@@ -5797,31 +5354,33 @@ msgstr ""
 "未找到有效的城堡位置。是不是因为山岭格子太多或太少了？（请检查“最大丘陵尺"
 "寸”参数）"
 
-msgid "(missing)"
-msgstr "（丢失）"
-
-msgid "(S)"
-msgstr "(S)"
-
-msgid "(C)"
-msgstr "(C)"
-
-msgid "Turn"
-msgstr "回合"
+msgid "Linked '$id' group needs a 'fixed_width' or 'fixed_height' key."
+msgstr ""
 
 msgid ""
-"The host's version of <i>$addon</i> is incompatible. They have version <b>"
-"$host_ver</b> while you have version <b>$local_ver</b>."
-msgstr ""
-"主机的<b>$addon|</b>版本不兼容。主机拥有的版本是<b>$host_ver|</b>而你拥有的版"
-"本是<b>$local_ver|</b>。"
+"The selected add-on has the following dependency, which is not currently "
+"installed. Do you wish to install it before continuing?"
+msgid_plural ""
+"The selected add-on has the following dependencies, which are not currently "
+"installed. Do you wish to install them before continuing?"
+msgstr[0] ""
+"这个附加组件有下列依赖项目。这个依赖项目尚未安装。继续之前希望安装依赖项目"
+"吗？"
+msgstr[1] ""
+"这个附加组件有下列依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
+"吗？"
 
-msgid ""
-"Your version of <i>$addon</i> is incompatible. You have version <b>"
-"$local_ver</b> while the host has version <b>$host_ver</b>."
-msgstr ""
-"你的<b>$addon|</b>版本不兼容。你拥有的版本是<b>$local_ver|</b>而主机拥有的版"
-"本是<b>$host_ver|</b>。"
+#, fuzzy
+msgid "No Saved Games"
+msgstr "保存游戏"
+
+#, fuzzy
+msgid "There are no save files to load"
+msgstr "你试图载入的文件已损坏"
+
+#, fuzzy
+msgid "No visible sides found."
+msgstr "未找到多人游戏阵营"
 
 msgid "In game:"
 msgstr "在游戏中："
@@ -5850,6 +5409,18 @@ msgstr "你"
 msgid "Error"
 msgstr "错误"
 
+#, fuzzy
+msgid "No units found."
+msgstr "未找到时代。"
+
+#, fuzzy
+msgid "no"
+msgstr "无"
+
+#, fuzzy
+msgid "yes"
+msgstr "层 "
+
 msgid "Reference to unknown topic: "
 msgstr "对未知主题的引用："
 
@@ -5867,6 +5438,9 @@ msgstr "<header>text=‘拥有此特攻的单位'</header>"
 
 msgid "<header>text='Units with this ability'</header>"
 msgstr "<header>text='拥有此技能的单位'</header>"
+
+msgid "Era:"
+msgstr "时代："
 
 msgid "Factions"
 msgstr "派系"
@@ -5969,6 +5543,9 @@ msgstr "次攻击"
 
 msgid "unit help^Name"
 msgstr "名称"
+
+msgid "Type"
+msgstr "类型"
 
 msgid "Strikes"
 msgstr "次打击"
@@ -6076,8 +5653,53 @@ msgstr "东南"
 msgid "South West"
 msgstr "西南"
 
-msgid "Statistics"
-msgstr "统计"
+#, fuzzy
+msgid "This command is currently unavailable."
+msgstr "没有可用战役。"
+
+msgid ""
+"Unknown command '$command', try $help_command for a list of available "
+"commands."
+msgstr ""
+
+#, fuzzy
+msgid "Error:"
+msgstr "错误："
+
+msgid ""
+"Available commands list and command-specific help. Use \"help all\" to "
+"include currently unavailable commands."
+msgstr ""
+
+#, fuzzy
+msgid "do not translate the 'all'^[all|<command>]"
+msgstr "[<阵营> [on/off]]"
+
+#, fuzzy
+msgid "Missing argument $arg_id"
+msgstr "缺少附加组件：$id"
+
+msgid ""
+"Available commands $flags_description:\n"
+"$list_of_commands"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "Type $help_command <command> for more info."
+msgstr ""
+
+#, fuzzy
+msgid " No help available."
+msgstr "不可用。"
+
+#, fuzzy
+msgid "Usage:"
+msgstr "信息："
+
+msgid "aliases:"
+msgstr ""
 
 msgid "Save Map As"
 msgstr "地图另存为"
@@ -6152,9 +5774,6 @@ msgstr "（调试命令）"
 msgid "(network only)"
 msgstr "（联机专用）"
 
-msgid "(admin only)"
-msgstr "（管理员专用）"
-
 msgid "(not during other events)"
 msgstr "（在其他事件发生期间不可用）"
 
@@ -6184,9 +5803,6 @@ msgstr "查询某一阵营的控制状态。"
 
 msgid "Clear chat history."
 msgstr "清除聊天历史。"
-
-msgid "Visualize the screen refresh procedure."
-msgstr "让屏幕刷新过程可视。"
 
 msgid "Debug foreground terrain."
 msgstr "调试前景地形。"
@@ -6351,9 +5967,6 @@ msgstr "无法查询无效阵营的控制状态：“$side|”。"
 msgid "Can't query control of out-of-bounds side: '$side'."
 msgstr "无法查询超出范围的阵营的控制状态：“$side|”。"
 
-msgid "Layers"
-msgstr "层 "
-
 msgid "Choose Scenario (Debug!)"
 msgstr "选择场景（调试！）"
 
@@ -6413,6 +6026,15 @@ msgstr "在有剩余的征募或者召回计划时，你不能将首领移动到
 
 msgid "This unit has no usable weapons."
 msgstr "此单位没有可用的武器。"
+
+msgid "Independent"
+msgstr ""
+
+msgid "No Mirror"
+msgstr ""
+
+msgid "No Ally Mirror"
+msgstr ""
 
 msgid "A player has joined"
 msgstr "一位玩家加入了"
@@ -6522,6 +6144,9 @@ msgstr "保存并中止游戏"
 
 msgid "$player has left the game. What do you want to do?"
 msgstr "$player|已经离开游戏。你要如何应对？"
+
+msgid "Quit"
+msgstr "退出"
 
 msgid "Do you really want to quit?"
 msgstr "真的要退出吗？"
@@ -6858,184 +6483,11 @@ msgstr "Y"
 msgid "infix_binary^i"
 msgstr "i"
 
-msgid "Recalls"
-msgstr "召回"
-
-msgid "Advancements"
-msgstr "升级"
-
-msgid "Losses"
-msgstr "损失"
-
-msgid "Kills"
-msgstr "击杀"
-
-msgid "Details"
-msgstr "详细信息"
-
-msgid "Select Scenario"
-msgstr "选择场景"
-
-msgid "Close"
-msgstr "关闭"
-
-msgid "Campaign"
-msgstr "战役"
-
-msgid "Scenario"
-msgstr "场景"
-
-msgid "Damage"
-msgstr "伤害"
-
-msgid "Overall"
-msgstr "总计"
-
-msgid "This Turn"
-msgstr "本回合"
-
-msgid "Inflicted"
-msgstr "输出"
-
-msgid "Taken"
-msgstr "承受"
-
 msgid "Skip"
 msgstr "跳过"
 
-msgid "Mon"
-msgstr "周一"
-
-msgid "Sun"
-msgstr "周日"
-
-msgid "Tue"
-msgstr "周二"
-
-msgid "Wed"
-msgstr "周三"
-
-msgid "Fri"
-msgstr "周五"
-
-msgid "Sat"
-msgstr "周六"
-
-msgid "Thu"
-msgstr "周四"
-
-msgid "Monday"
-msgstr "星期一"
-
-msgid "Sunday"
-msgstr "星期日"
-
-msgid "Tuesday"
-msgstr "星期二"
-
-msgid "Friday"
-msgstr "星期五"
-
-msgid "Saturday"
-msgstr "星期六"
-
-msgid "Thursday"
-msgstr "星期四"
-
-msgid "Wednesday"
-msgstr "星期三"
-
-msgid "Apr"
-msgstr "四月"
-
-msgid "Feb"
-msgstr "二月"
-
-msgid "Jan"
-msgstr "一月"
-
-msgid "Mar"
-msgstr "三月"
-
-msgid "Aug"
-msgstr "八月"
-
-msgid "Jul"
-msgstr "七月"
-
-msgid "Jun"
-msgstr "六月"
-
-msgid "Oct"
-msgstr "十月"
-
-msgid "Sep"
-msgstr "九月"
-
-msgid "abbrev^May"
-msgstr "五月"
-
-msgid "Dec"
-msgstr "十二月"
-
-msgid "Nov"
-msgstr "十一月"
-
-msgid "February"
-msgstr "二月"
-
-msgid "January"
-msgstr "一月"
-
-msgid "March"
-msgstr "三月"
-
-msgid "April"
-msgstr "四月"
-
-msgid "August"
-msgstr "八月"
-
-msgid "July"
-msgstr "七月"
-
-msgid "June"
-msgstr "六月"
-
-msgid "May"
-msgstr "五月"
-
-msgid "December"
-msgstr "十二月"
-
-msgid "November"
-msgstr "十一月"
-
-msgid "October"
-msgstr "十月"
-
-msgid "September"
-msgstr "九月"
-
-msgid "%a %b %e %H:%M:%S %Y"
-msgstr "%a %b %e %H:%M:%S %Y"
-
-msgid "%a %d %b %Y %H:%M:%S %z"
-msgstr "%a %d %b %Y %H:%M:%S %z"
-
-msgid "AM"
-msgstr "AM"
-
-msgid "PM"
-msgstr "PM"
-
-msgid "am"
-msgstr "am"
-
-msgid "pm"
-msgstr "pm"
-
-msgid "waiting for $desc from side(s)$sides"
+#, fuzzy
+msgid "waiting for $desc from side(s) $sides"
 msgstr "等待来自$sides|阵营的$desc"
 
 msgid "Allied village"
@@ -7062,31 +6514,61 @@ msgstr "这个时段只是心血来潮之作！"
 msgid " and "
 msgstr " 以及 "
 
-msgid "damage"
-msgid_plural "damage"
+#. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number_or_percent damage"
+msgid_plural "$number_or_percent damage"
+msgstr[0] ""
+msgstr[1] ""
+
+#, fuzzy
+msgid "$number damage"
+msgid_plural "$number damage"
 msgstr[0] "伤害"
 msgstr[1] "伤害"
 
-msgid "strike"
-msgid_plural "strikes"
+#. TRANSLATORS: Current value for WML code increase_attacks, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number_or_percent strike"
+msgid_plural "$number_or_percent strikes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. TRANSLATORS: Current value for WML code set_attacks, documented in https://wiki.wesnoth.org/EffectWML
+#, fuzzy
+msgid "$number strike"
+msgid_plural "$number strikes"
 msgstr[0] "次打击"
 msgstr[1] "次打击"
 
-#, no-c-format
-msgid "% accuracy"
+#. TRANSLATORS: Current value for WML code set_accuracy, documented in https://wiki.wesnoth.org/EffectWML
+#. TRANSLATORS: Current value for WML code increase_accuracy, documented in https://wiki.wesnoth.org/EffectWML
+#, fuzzy, c-format
+msgid "$percent|% accuracy"
 msgstr "% 命中"
 
-msgid " parry"
+#. TRANSLATORS: Current value for WML code set_parry, documented in https://wiki.wesnoth.org/EffectWML
+#, fuzzy
+msgid "$number parry"
 msgstr " 格挡"
 
-#, no-c-format
-msgid "% parry"
-msgstr "% 格挡"
+#. TRANSLATORS: Current value for WML code increase_parry, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number_or_percent parry"
+msgstr ""
 
-msgid "movement point"
-msgid_plural "movement points"
+#. TRANSLATORS: Current value for WML code set_movement, documented in https://wiki.wesnoth.org/EffectWML
+#, fuzzy
+msgid "$number movement point"
+msgid_plural "$number movement points"
 msgstr[0] "移动力"
 msgstr[1] "移动力"
+
+#. TRANSLATORS: Current value for WML code increase_movement, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number_or_percent movement point"
+msgid_plural "$number_or_percent movement points"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "No description available."
+msgstr "没有描述信息。"
 
 msgid "female^lawful"
 msgstr "守序"
@@ -7100,31 +6582,51 @@ msgstr "混沌"
 msgid "female^liminal"
 msgstr "边缘"
 
+#, fuzzy
+msgid "lawful"
+msgstr "守序"
+
+#, fuzzy
+msgid "neutral"
+msgstr "中立"
+
+#, fuzzy
+msgid "chaotic"
+msgstr "混沌"
+
+#, fuzzy
+msgid "liminal"
+msgstr "边缘"
+
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|：$effect_description"
 
-msgid "move"
-msgid_plural "moves"
-msgstr[0] "次行动"
-msgstr[1] "次行动"
+#, fuzzy
+msgid "wesnoth"
+msgstr "韦诺"
 
-msgid "vision"
-msgstr "视野"
+msgid "$number_or_percent move"
+msgid_plural "$number_or_percent moves"
+msgstr[0] ""
+msgstr[1] ""
 
-msgid "jamming"
-msgstr "干扰"
+msgid "$number_or_percent vision"
+msgstr ""
 
-msgid "XP to advance"
-msgstr "升级所需经验值"
+msgid "$number_or_percent jamming"
+msgstr ""
 
-msgid "attack per turn"
-msgstr "次攻击/回合"
+msgid "$number_or_percent XP to advance"
+msgstr ""
 
-msgid "attacks per turn"
-msgstr "次攻击/回合"
+#, fuzzy
+msgid "$number_or_percent attack per turn"
+msgid_plural "$number_or_percent attacks per turn"
+msgstr[0] "次攻击/回合"
+msgstr[1] "次攻击/回合"
 
-msgid "cost to recall"
-msgstr "召回费用"
+msgid "$number_or_percent cost to recall"
+msgstr ""
 
 msgid "$effect_description per level"
 msgstr "每一等级$effect_description"

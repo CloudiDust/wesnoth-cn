@@ -1,0 +1,3048 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2017 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# CloudiDust <cloudidust@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-1.14\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2017-03-18 16:33 UTC\n"
+"PO-Revision-Date: 2017-03-23 23:33+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. [campaign]: id=Secrets of the Ancients
+#. [editor_group]: id=sota
+msgid "Secrets of the Ancients"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "SotA"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "Unpleasant"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "Challenging"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "Corrupt"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "Diabolic"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid "Difficult"
+msgstr ""
+
+#. [campaign]: id=Secrets of the Ancients
+msgid ""
+"Rediscover the secrets known by the lich lords of the Green Isle. They knew "
+"how to live forever, so why can't you?\n"
+"\t\n"
+"(Intermediate level, 21 scenarios.)\n"
+msgstr ""
+
+#. [about]
+msgid "Campaign Design, Programming, and Artwork"
+msgstr ""
+
+#. [about]
+msgid "Additional Artwork"
+msgstr ""
+
+#. [about]
+msgid "Translations"
+msgstr ""
+
+#. [entry]
+msgid "Hungarian - WhiteWolf"
+msgstr ""
+
+#. [entry]
+msgid "Japanese - RatArmy"
+msgstr ""
+
+#. [entry]
+msgid "Russian - iven, olga_flox, and marat"
+msgstr ""
+
+#. [scenario]: id=01_Slipping_Away
+msgid "Slipping Away"
+msgstr ""
+
+#. [part]
+msgid "<i>Chapter One:</i> Unlawful Research"
+msgstr ""
+
+#. [part]
+msgid ""
+"<i>From the Journal of Ardonna of Tarrynth</i>\n"
+"\n"
+"9 XII, 22 YW:\n"
+"\n"
+"It’s unfair that we humans must die after so few years. Elves and dwarves "
+"live far longer. Though this may be the natural order, we need not embrace "
+"it! The lords on the Green Isle knew how to live forever. Pursuit of that "
+"knowledge was declared illegal by King Haldric I, but I believe it is worth "
+"the risk. As I watched my family waste away of various maladies, I vowed "
+"that I would not share their fate, and if I can rediscover the secrets of "
+"the ancients I will be a hero to the whole continent! I shall begin research "
+"in earnest this winter."
+msgstr ""
+
+#. [part]
+msgid ""
+"26 II, 23 YW:\n"
+"\n"
+"My experiments with bats have proven unfruitful. I have determined that they "
+"do not truly drain the life force of their victims — it is an illusion. The "
+"loss of blood weakens the victim, while the bat gains vitality because it "
+"has fed. There is nothing I can learn from bats about extending life. Now I "
+"have a problem. I am forced to keep the bats and pretend they are my pets "
+"because I cannot admit why I was studying them. In truth, it is not a burden "
+"— I have grown somewhat fond of the creatures, and I don’t mind appearing "
+"eccentric. I am already marked as different because my hair is so light, and "
+"I lack a sense of smell."
+msgstr ""
+
+#. [part]
+msgid ""
+"4 III, 23 YW:\n"
+"\n"
+"Today, headmaster Aimucasur himself taught a class on moving objects with "
+"one’s mind. The technique involves projecting one’s will inside the item, "
+"and then learning to move it as an extension of the body. Incantations focus "
+"the mind to the task. We practiced with inanimate objects, but clearly the "
+"same principle could be applied to unliving flesh. Nobody dared voice the "
+"thought, because showing interest in the necromantic arts results in "
+"expulsion. I was pondering that fact in class when I noticed Aimucasur "
+"glowering at me. I must be more careful in the future about which of my "
+"thoughts appear on my face."
+msgstr ""
+
+#. [part]
+msgid ""
+"15 III, 23 YW:\n"
+"\n"
+"One of my bats must have been old, for it died. Boldly then, I decided to "
+"animate the corpse. I was pleased to see that it worked, but what was "
+"interesting was this: The first time the bat twitched, I felt a last spark "
+"of life energy flash through its body. I noted that it flowed through some "
+"kind of pathway. That gave me an idea. With my mind, I searched out all the "
+"life force pathways in its body using what I could sense in the living bats "
+"as a guide. Then I animated <i>them</i> all at once, and the bat slowly "
+"flapped off the floor on its own! (That is a trick old Aimucasur probably "
+"doesn’t know!) Even better, the energy running through the life force "
+"network seemed to maintain itself, so I didn’t need to continue to "
+"concentrate. Could this be the whole secret? Could all the ancient lords "
+"have had someone bring them back <i>after</i> death? I would need another "
+"mage I trusted completely, but perhaps I can find someone with whom to make "
+"a pact."
+msgstr ""
+
+#. [part]
+msgid ""
+"Later:\n"
+"\n"
+"With further observation, I have determined that this is probably not be the "
+"way death is avoided. The reanimated bat has no will! It does nothing unless "
+"I nudge it with my mind. Perhaps the will of a human is stronger, and "
+"someday soon I will have the opportunity to find out... because I’m quitting "
+"the Academy. I will be in my room when old Morvihn checks for the night, but "
+"not two hours later! I grow weary of this place and its restrictions on "
+"thought. So, no more brown initiate’s robes, no more being ridiculed on "
+"account of my hair, no more pompous instructors. I will teach myself the so-"
+"called “dark” arts and learn how to live forever! The ancients from the "
+"Green Isle found a way, so I can discover it too. When all these oldsters "
+"here find themselves breathing their last, they will have to beg me for the "
+"secret. Perhaps I will be generous. Perhaps not."
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Move Ardonna to the signpost"
+msgstr ""
+
+#. [note]
+msgid "This scenario takes place entirely at night."
+msgstr ""
+
+#. [label]
+msgid "Llorvin"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "I suspected some of the rats would show themselves."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I should get off the island in case the ethics committee is concerned about "
+"a rogue mage. I shall not be dragged back in disgrace! I should be able to "
+"reach the town of Llorvin before morning. I can hide there until I can head "
+"for the dock. I will need some traveling money for that, so go, my bat "
+"friends, and find me some gold!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"It would be good to have even more bats as well. There was a colony in that "
+"ruined castle where we practiced conjuring fire, so I will try to find that. "
+"The castle was also infested with huge rats as I remember, but I can "
+"certainly destroy those. I will have to use ice though, as I never mastered "
+"fire."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Wolves! This journey may be more dangerous than I thought. Well, we can find "
+"safety inside the sturdy fences built by farmers and woodcutters. The wild "
+"animals surely won't be able to enter."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"The morning has come, and I am still in the open. I will be caught for sure!"
+msgstr ""
+
+#. [scenario]: id=02_Dark_Business
+msgid "Dark Business"
+msgstr ""
+
+#. [part]
+msgid ""
+"16 III, 23 YW:\n"
+"\n"
+"I decided to hide in the cemetery. That way I could try my experiment to "
+"animate a human body when night fell. With my dark cloak, I resembled the "
+"mourners, and with my hood up, nobody could see my hair."
+msgstr ""
+
+#. [side]
+msgid "Guards"
+msgstr ""
+
+#. [set_variable]
+msgid "Raise Walking Corpse (8 Gold)"
+msgstr ""
+
+#. [set_variable]
+msgid "Raise Skeleton (15 Gold)"
+msgstr ""
+
+#. [set_variable]
+msgid "Raise Skeleton Archer (14 Gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You don't have enough gold to raise that unit."
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Kill all the guards, and capture the guardhouse"
+msgstr ""
+
+#. [note]
+msgid "Right-click on a grave adjacent to your leader to raise a unit."
+msgstr ""
+
+#. [note]
+msgid "Each grave can be used only once."
+msgstr ""
+
+#. [label]
+msgid "Guardhouse"
+msgstr ""
+
+#. [label]
+msgid ""
+"  Temple\n"
+"of Healing"
+msgstr ""
+
+#. [event]
+msgid "Gwillyn"
+msgstr ""
+
+#. [event]
+msgid "Veomyr"
+msgstr ""
+
+#. [event]
+msgid "Syrillin"
+msgstr ""
+
+#. [event]
+msgid "Glant"
+msgstr ""
+
+#. [event]
+msgid "Renvan"
+msgstr ""
+
+#. [event]
+msgid "Vin"
+msgstr ""
+
+#. [event]
+msgid "Caradoc"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can now recruit skeletons and skeleton archers!"
+msgstr ""
+
+#. [event]
+msgid "Blollyn"
+msgstr ""
+
+#. [event]
+msgid "Ceoran"
+msgstr ""
+
+#. [event]
+msgid "Vindry"
+msgstr ""
+
+#. [event]
+msgid "Aethacyn"
+msgstr ""
+
+#. [event]
+msgid "Elomyr"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can no longer recruit skeletons and skeleton archers."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Wait, that guard said there were twelve of them, so where are the other five?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Wait, that guard said there were seven of them, so where are the other two?"
+msgstr ""
+
+#. [message]: speaker=Syrillin
+msgid "Why are we stuck guarding a cemetery all night?"
+msgstr ""
+
+#. [message]: speaker=Veomyr
+msgid ""
+"And why <i>twelve</i> of us? Who wants to break into a cemetery that badly?"
+msgstr ""
+
+#. [message]: speaker=Veomyr
+msgid ""
+"And why <i>seven</i> of us? Who wants to break into a cemetery that badly?"
+msgstr ""
+
+#. [message]: speaker=Glant
+msgid ""
+"I don’t know, but this evening a mage from the academy was here talking to "
+"the mayor, my brother says."
+msgstr ""
+
+#. [message]: speaker=Caradoc
+msgid "Well <i>I</i> say you shouldn’t question orders, so pipe down."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"They must be guarding the cemetery from <i>me</i>! Maybe Aimucasur really "
+"was suspicious. It’s a good thing I’m here already, but how am I going to "
+"get out?\n"
+"\n"
+"Well, I might as well do my experiment and worry about leaving later."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Hello?"
+msgstr ""
+
+#. [message]: speaker=first_zombie
+msgid "Uhngh."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Do you remember anything?"
+msgstr ""
+
+#. [message]: speaker=first_zombie
+msgid "Uhrrr."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"It seems that my first guess was correct. The poor creature is mindless."
+msgstr ""
+
+#. [message]: speaker=Veomyr
+msgid "I heard something over there!"
+msgstr ""
+
+#. [message]: speaker=Glant
+msgid "Who’s there?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "It’s only me. Is the cemetery closed then? I was about to leave."
+msgstr ""
+
+#. [message]: speaker=Syrillin
+msgid "You and that... other person. Who is that?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Oh, him. See here, I don't want any trouble, but he is a little... ah..."
+msgstr ""
+
+#. [message]: speaker=Caradoc
+msgid ""
+"He's <i>dead</i>! This is dark sorcery like in my granddad’s time in the old "
+"country! The penalty is death. Attack and destroy them both!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Hey! Don't do that, or I will need more of them."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I would do better if I had weapons, and I bet I can find some in the "
+"guardhouse. Go take it, my companions."
+msgstr ""
+
+#. [message]: speaker=Caradoc
+msgid "Gwyllin, don’t move from that guardhouse."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"You can recruit or recall from your starting position on the first turn "
+"only. To get more units, raise them from their graves."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"The morning has come, and we have not escaped the city. We will be caught "
+"for sure!"
+msgstr ""
+
+#. [side]: type=Bandit, id=Garcyn
+#. [scenario]: id=03_Bandits
+msgid "Bandits"
+msgstr ""
+
+#. [part]
+msgid ""
+"17 III, 23 YW:\n"
+"\n"
+"Even with the delay at the graveyard, I reached the outskirts of Llorcyn at "
+"first light, and it was far behind me when the sun rose above the mountain "
+"peaks. I doubt the Academy will be looking for me in the trackless wilds "
+"inhabited only by woodcutters, and with my new companions, I feel safe "
+"enough to travel during the day. I am heading east and then north towards "
+"the docks. A ship should be leaving for Blackwater Port in a few days, and I "
+"mean to be on it."
+msgstr ""
+
+#. [side]: type=Bandit, id=Garcyn
+#. [unit]: type=Ghoul
+msgid "Garcyn"
+msgstr ""
+
+#. [unit]: type=Outlaw, id=Mossa
+msgid "Mossa"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [message]: speaker={ID}
+msgid ""
+"They are not underfed, they’re dead! How can they be dead? They’re horrible!"
+msgstr ""
+
+#. [message]: speaker=Garcyn
+msgid ""
+"Huh. Well, they’re not the first ugly things we’ve seen in the wilds. Your "
+"club crushes bone just fine, so crush them."
+msgstr ""
+
+#. [message]: speaker={ID}
+msgid "And there is a white-haired girl."
+msgstr ""
+
+#. [message]: speaker=Garcyn
+msgid "She must be in league with the dead, so crush her too."
+msgstr ""
+
+#. [message]: speaker=Garcyn
+msgid "No!"
+msgstr ""
+
+#. [message]: speaker=Garcyn
+msgid "You have earned my wrath, wench. Death will be too good for you!"
+msgstr ""
+
+#. [message]: speaker=Mossa
+msgid "What have we here?"
+msgstr ""
+
+#. [message]: speaker=Mossa
+msgid ""
+"Prey approaches, dearest. It’s an unusual band, but the ones with weapons "
+"look underfed."
+msgstr ""
+
+#. [message]: speaker=Garcyn
+msgid "Easy pickings then."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I think we were just spotted from that hill. Weapons up, my friends. We may "
+"be walking into an ambush."
+msgstr ""
+
+#. [message]: speaker=Garcyn
+msgid "Please! Don’t kill me."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "No? Fine then. I have an idea for another experiment."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "The ship will surely leave before we can reach it!"
+msgstr ""
+
+#. [scenario]: id=04_Becalmed
+msgid "Becalmed"
+msgstr ""
+
+#. [part]
+msgid ""
+"22 III, 23 YW\n"
+"\n"
+"Research sometimes requires experiments, so I began. I forced my will into "
+"the life-force pathways of the bandit, thus turning him into my puppet. He "
+"resisted, but on account of my recent practice, my will proved the stronger. "
+"More strangely, the inside of his body also resisted, attacking me, the "
+"invader. However, since I wasn’t physically there, it ended up attacking "
+"itself! Over a period of hours, slabs of flesh became weak and threatened to "
+"fall off his frame. I was obliged to stitch them in place."
+msgstr ""
+
+#. [part]
+msgid ""
+"Some of the bandit’s companions had perished in better condition than the "
+"leader, and I got the idea to add their flesh to my puppet. I stitched on "
+"muscles where they seemed to fit, and used enchantments to improve the "
+"bonding, thus improving the strength of the creature. At first, each new "
+"piece of flesh caused another violent reaction from the body’s defenses. "
+"Eventually, the reactions weakened, and the body stabilized in its new "
+"configuration, though by this time it was suppurating and unrecognizable. "
+"The mind inside gibbered at what it had become, but the bandit had wished "
+"for me a fate worse than death, so it didn’t seem unfair."
+msgstr ""
+
+#. [part]
+msgid ""
+"Working through the next day in the bandit’s own keep, I repeated the "
+"procedure on several of his gravely wounded companions, though none of them "
+"became as strong a specimen as the leader. One of them didn’t survive, but "
+"it was no loss — I conscripted him into my army anyway. Then, I made my way "
+"to the docks, and under the cover of night, loaded my army into the hold of "
+"the waiting ship. The following afternoon, I embarked as a normal passenger."
+msgstr ""
+
+#. [part]
+msgid ""
+"25 III, 23 YW\n"
+"\n"
+"The journey started well enough, but on the dawn following our departure, "
+"the wind died completely, and we were stranded. There was enough food for "
+"the paying passengers for a couple days of this, but none for my companions, "
+"and the living ones soon got hungry. When one of the crew disappeared on the "
+"second evening, I suspected the cause. I was not wrong."
+msgstr ""
+
+#. [time]: id=lower_deck
+msgid "Underground"
+msgstr ""
+
+#. [side]: type=Sea Captain, id=Rudic
+msgid "Ship’s Crew"
+msgstr ""
+
+#. [side]: type=Sea Captain, id=Rudic
+#. [unit]: type=Bone Captain, id=Bone Captain
+msgid "Rudic"
+msgstr ""
+
+#. [note]
+msgid "You can recruit from anywhere on the two highest decks."
+msgstr ""
+
+#. [note]
+msgid "Barrels act as villages."
+msgstr ""
+
+#. [note]
+msgid "Right-click to simplify the ship graphics."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can now recruit ghouls!"
+msgstr ""
+
+#. [unit]: type=Sailor, id=Joc
+msgid "Joc"
+msgstr ""
+
+#. [message]: speaker=Joc
+msgid ""
+"I found Janryn in the hold. Or, ah... some of him. He’s dead. I didn’t stay "
+"to find out what killed him, but there was someone shuffling around in the "
+"shadows, and he smelled foul."
+msgstr ""
+
+#. [message]: speaker=Rudic
+msgid ""
+"Murderous stowaways on my ship? I won’t have it! Go round up the rest of the "
+"crew and get them up here. We’re going hunting. All passengers are confined "
+"to quarters immediately."
+msgstr ""
+
+#. [message]: speaker=Rudic
+msgid "You! Dark girl. Why are you not in your cabin?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "What if I said something in defense of the stowaways?"
+msgstr ""
+
+#. [message]: speaker=Rudic
+msgid "I would pitch you over the side with them. What do you know?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"They are my companions, and the poor things are just terribly hungry. I’m "
+"sorry we didn’t pay the full amount, but maybe we can reach some arrangement."
+msgstr ""
+
+#. [message]: speaker=Rudic
+msgid ""
+"They killed my crew member and played me for a fool! The only arrangement "
+"that suits me is the lot of you off my ship, preferably at the bottom of the "
+"sea."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Oh dear. We must do this again. Come to me my friends! If you are still "
+"hungry, feed on a passenger first."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Good riddance. But, with the captain dead, who will sail the ship and guide "
+"us into port now?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Rise Captain, and please retain your memories."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Can you still sail this ship?"
+msgstr ""
+
+#. [message]: speaker=Bone Captain
+msgid "Sail. Yes. Need wind."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Oh! It worked! Take us to port, Captain, as soon as you do have the wind."
+msgstr ""
+
+#. [scenario]: id=05_Blackwater
+msgid "Blackwater"
+msgstr ""
+
+#. [part]
+msgid ""
+"29 III, 23 YW\n"
+"\t\t\t\n"
+"When the captain retained his memories, I reasoned that it may have been "
+"because he was raised so soon after his death. Further experiments with the "
+"other passengers bore out that conclusion. Just think: They may be the first "
+"people on this continent to live forever!"
+msgstr ""
+
+#. [part]
+msgid ""
+"Happily, the captain was fairly wealthy, so that will solve my income "
+"problems for a time. Now I must go, as the captain prepares to guide the "
+"ship into port."
+msgstr ""
+
+#. [side]: id=Gweddyn, type=Knight
+msgid "Guard"
+msgstr ""
+
+#. [side]: id=Gweddyn, type=Knight
+msgid "Gweddyn"
+msgstr ""
+
+#. [unit]: type=Mage, id=Bremen
+msgid "Bremen"
+msgstr ""
+
+#. [objective]: condition=win
+#. [objectives]
+msgid "Kill every enemy unit"
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+msgid "Ho Rudic! Welcome. You are late, old friend."
+msgstr ""
+
+#. [message]: speaker=Bone Captain
+msgid "Late."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+msgid "Not talking much today? What happened?"
+msgstr ""
+
+#. [message]: speaker=Bone Captain
+msgid "Happened? Dead."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+msgid ""
+"Ha! Well, actually, you do look terrible. Very... gray, and your face is... "
+"But we’re speaking! You can’t actually be dead!"
+msgstr ""
+
+#. [message]: speaker=Bone Captain
+msgid "Yes. Dead."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+msgid "What madness is this?"
+msgstr ""
+
+#. [message]: speaker=Bremen
+msgid "It’s sorcery my lord. Dark sorcery."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+msgid ""
+"Necromancy! The penalty for that is death. Rudic, who is responsible for "
+"this?"
+msgstr ""
+
+#. [message]: speaker=Bone Captain
+msgid "She."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Ah, well. I should have known this wouldn’t be easy."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+msgid "Kill her!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"We must leave no one alive to report us, or the entire country will become "
+"unsafe. We have no choice. We must kill them all."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "We are finished."
+msgstr ""
+
+#. [message]: speaker=Shadow
+msgid "Girl. You will follow."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "What in the world are <i>you</i>?"
+msgstr ""
+
+#. [message]: speaker=Shadow
+msgid "Spirit and shadow. You will follow."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "You’re a ghost... a real ghost! I will indeed follow you. Lead on."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Blackwater Port is defeated, but we must let none escape. Finish them all."
+msgstr ""
+
+#. [scenario]: id=06_Following_the_Shadow
+msgid "Following the Shadow"
+msgstr ""
+
+#. [then]
+msgid ""
+"3 IV, 23 YW\n"
+"\t\t\t\t\n"
+"I was so sure I had the answer! I was wrong. I wanted to believe that I was "
+"imagining it, but it’s now clear that the captain’s memories are fading. He "
+"still retains speech, and the others fight better when he is watching (many "
+"used to be his crew after all — it would be habit for them), but he "
+"remembers precious little else now. The same is true of my other recently-"
+"raised friends. I am disappointed, but the existence of my strange new "
+"companion keeps me from being depressed."
+msgstr ""
+
+#. [else]
+msgid ""
+"3 IV, 23 YW\n"
+"\t\t\t\t\n"
+"I was so sure I had the answer! I was wrong. I wanted to believe that I was "
+"imagining it, but my recently-raised friends are losing their memories. They "
+"retain the power of speech, but precious little else. I am disappointed, but "
+"the existence of my strange new companion keeps me from being depressed."
+msgstr ""
+
+#. [part]
+msgid ""
+"The phantom leads us north. It has identified itself as the ghost of Vash-"
+"Gorn, an orc. So it remembers! It seems that the problem has been solved, "
+"but the ghost ignores all my questions. I am burning with curiosity, so I "
+"hope we reach our destination soon! We travel only by day because at night, "
+"the spirit is practically invisible. We have not had any trouble on the road "
+"yet, but we <i>are</i> a rather large company now, so I have not expected it."
+msgstr ""
+
+#. [side]: type=Direwolf Rider, id=Bogdush
+msgid "Goblin Raiders"
+msgstr ""
+
+#. [side]: type=Direwolf Rider, id=Bogdush
+msgid "Bogdush"
+msgstr ""
+
+#. [unit]: type=Goblin Pillager, id=Blaust
+msgid "Blaust"
+msgstr ""
+
+#. [side]
+msgid "Bats"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Find out where the ghost went and follow it"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Look, there is a cavern below the cave floor. What might we rouse if we go "
+"tromping about in the cave? I hope it is nothing worse than bats."
+msgstr ""
+
+#. [message]: speaker=Bone Captain
+msgid "Ghost?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Surely the ghost would not have gone that way, where I cannot follow."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"There is a tunnel at the back of the cave! The ghost must have gone through "
+"there."
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Move Ardonna to the tunnel"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "So it’s only bats, but rather a lot of them."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Now let’s see where that ghost went."
+msgstr ""
+
+#. [message]: speaker=Shadow
+msgid "Come."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Let’s follow it into the cave."
+msgstr ""
+
+#. [message]: speaker=Blaust
+msgid ""
+"I don’t know, Bogdush. The chief said he wanted stuff that was helpful for "
+"the war."
+msgstr ""
+
+#. [message]: speaker=Bogdush
+msgid ""
+"It’s a <i>mage</i>! That <i>would</i> be helpful for the war, you idiot! "
+"It’s only a pup, and unless I miss my guess, it’s a female too. It will be "
+"easy to capture."
+msgstr ""
+
+#. [message]: speaker=Blaust
+msgid ""
+"What about the others? They look like the dead ones back on the Green Isle."
+msgstr ""
+
+#. [message]: speaker=Bogdush
+msgid "They are. It makes our job of killing them that much easier!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "You must be Goblins. You will stand out of my way if you wish to live."
+msgstr ""
+
+#. [message]: speaker=Bogdush
+msgid "Oh, it’s a mage that makes jokes too! Let’s go."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You have no more time."
+msgstr ""
+
+#. [scenario]: id=07_Meeting_of_the_Minds
+msgid "Meeting of the Minds"
+msgstr ""
+
+#. [part]
+msgid ""
+"9 IV, 23 YW\n"
+"\t\t\t\n"
+"The tunnel at the back of the cave narrowed and ran on for quite some time. "
+"Patches of fungus on the wall gave off a feeble glow that kept me from "
+"stumbling too badly. Finally I saw a brighter light up ahead."
+msgstr ""
+
+#. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
+#. [unit]: type=Sacrifice, id=necromancer_on_altar
+msgid "Ras-Tabahn"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Oh, wow."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarynth!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "How do you know my name?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"I know much about you. My ghosts have been watching you for some time now, "
+"and you and I share the goal of resisting death. I have been hoping several "
+"students would free themselves from that conservative academy, but it seems "
+"that you will be the only one. Fortunately, you are quite innovative, and "
+"have even accomplished something which I have not. You have useful creatures "
+"— I believe you call them ghouls?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Yes, I can show you how to make your own, but have you not solved the "
+"problem already with your ghosts?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Alas, no. Ghosts can retain some memories if they are raised quickly enough, "
+"and they make good scouts and soldiers after they have some experience, but "
+"you wouldn’t want to become one yourself. You see the blades Vash-Gorn "
+"carries? It took a complicated ritual to bind that metal to the spirit, and "
+"one couldn’t perform that ritual oneself without a physical body. Being "
+"unable to interact with the world would be terribly frustrating. No matter; "
+"I have another idea."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"I believe I know how to get the information we seek, but it would have been "
+"too difficult to obtain myself. Therefore, we shall go on a mission, you and "
+"I. First, we will enlarge our armies, and then..."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Wait. I have heard nothing yet that makes me think I should trust you."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Ah... yes, I suppose not. Let me teach you some of what I know today, and "
+"see if that informs your opinion. However, the question of trust is not the "
+"most important. The question is whether or not we can work together. Listen. "
+"The ancient Wesfolk honed their craft over generations. There is more to "
+"know than one individual can learn in a lifetime. If you do your research "
+"alone, you will one day be as old as I, and death will pursue you just as "
+"relentlessly. However, if we combine our research, we have a chance of "
+"finishing before it is too late for us."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"For you, you mean. I am only nineteen. Still, you make a good case. We can "
+"work together for now."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Splendid. Here is what I propose. First, we part ways for a time, and you "
+"raise a force of ghosts following my instructions. Meanwhile, I am going to "
+"try to train some local peasants in the magical arts. I don't expect much "
+"from that uneducated rabble, but hopefully some will be intelligent enough "
+"to add to our firepower. When we reunite, you will show me how to make one "
+"of those shambling ghouls. I am actually in no hurry, as they have a "
+"terrible odor."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Well I can’t smell, so I didn’t know about that."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Curious, but convenient for one such as us."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Why can’t I just raise some of the goblins outside?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Those goblins were too weak, and it would take their spirits a long time to "
+"become strong enough to be useful. You are going to raise Elvish warriors "
+"instead. A few miles into the Grey Woods, there lies an ancient battleground "
+"from a civil war hundreds of years ago. You will follow an old elf road "
+"there and raise an army of ghosts while I visit Carcyn, a nearby town. We "
+"will meet at the end of the elf road by the Great River, and I will explain "
+"where we should go next."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Very well. We will do as you suggest."
+msgstr ""
+
+#. [label]
+#. [unit]: type=Ruffian SotA, id=Carcyn
+#. [scenario]: id=08_Carcyn
+msgid "Carcyn"
+msgstr ""
+
+#. [part]
+msgid "<i>Chapter Two:</i> Two Missions"
+msgstr ""
+
+#. [part]
+msgid ""
+"We will first follow the adventures of Ras-Tabahn.\n"
+"\n"
+"After several days of travel, he approached the frontier town of Carcyn."
+msgstr ""
+
+#. [side]: type=Swordsman, id=Carcyn Fisher
+msgid "Town Defense"
+msgstr ""
+
+#. [side]: type=Swordsman, id=Carcyn Fisher
+msgid "Carcyn Fisher"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Capture every village"
+msgstr ""
+
+#. [unit]: type=Shadow
+msgid "Vash Gorn"
+msgstr ""
+
+#. [unit]: type=Mage, id=Wynran
+msgid "Wynran"
+msgstr ""
+
+#. [unit]: type=Mage, id=Raydah
+msgid "Raydah"
+msgstr ""
+
+#. [label]
+msgid "Inn"
+msgstr ""
+
+#. [label]
+msgid "Tackle Shop"
+msgstr ""
+
+#. [label]
+msgid "Cemetery"
+msgstr ""
+
+#. [label]
+msgid "Mercantile"
+msgstr ""
+
+#. [label]
+msgid "Public House"
+msgstr ""
+
+#. [label]
+msgid "Jailhouse"
+msgstr ""
+
+#. [label]
+msgid "Boatworks"
+msgstr ""
+
+#. [label]
+msgid "Grange Hall"
+msgstr ""
+
+#. [unit]: type=Delinquent, id=Shynal
+msgid "Shynal"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "Carcyn Fisher at your service, and this is my friend Shynal."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "“Friend?” (<i>Giggle</i>) Oh, yes, we’re very good friends."
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid ""
+"Or... you know. Thanks so much for getting us out, sir. We would be glad to "
+"follow you!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "You are Carcyn the Third I presume?"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "Don’t remind me. My father is the one who threw me in this hole."
+msgstr ""
+
+#. [message]: speaker=Carcyn Fisher
+msgid "You stay out of this, son."
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid ""
+"Not a chance! I’ve waited all my life to see someone put you in your place. "
+"Here is someone you can’t push around!"
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "And we’re leaving this stinking town!"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid ""
+"The only Carcyn now. I’ve waited all my life to see someone to put my father "
+"in his place. I guess you did that."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "You’re the only Carcyn for me."
+msgstr ""
+
+#. [message]: speaker=Raydah
+msgid "Look at that! He’s not from the Academy."
+msgstr ""
+
+#. [message]: speaker=Carcyn Fisher
+msgid ""
+"Hold your tongue! I can see that! I tolerate advisors but not when they only "
+"speak the obvious."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I warned you not to defy me."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Greetings! I am Ras-Tabahn the mage."
+msgstr ""
+
+#. [message]: speaker=Carcyn Fisher
+msgid ""
+"Greetings, traveler. I am Carcyn Fisher the Second. How can I be of service?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"I come with an offer. An offer of training in the magical arts. An offer of "
+"learning, adventure, and escape from this town."
+msgstr ""
+
+#. [message]: speaker=Carcyn Fisher
+msgid ""
+"No one in <i>my</i> town wishes to “escape”! We don’t care to hear your "
+"offer. Peddle your corruption elsewhere."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"The offer is not intended for <i>you</i>, it is for your youth. I will send "
+"my agents to every house and public space in this town and repeat my offer. "
+"You will allow this."
+msgstr ""
+
+#. [message]: speaker=Carcyn Fisher
+msgid ""
+"I will do no such thing! I will be dead before I allow you to ensorcell our "
+"children!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "That may well be true."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Hmm. The youngsters most willing to leave may be the ones in the jailhouse. "
+"I should investigate."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can now recruit dark adepts!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"This has taken too long. We will surely miss our meeting with Ardonna now."
+msgstr ""
+
+#. [scenario]: id=09_Training_Session
+msgid "Training Session"
+msgstr ""
+
+#. [part]
+msgid ""
+"Ras-Tabahn’s offer enticed a large group of youngsters all eager to train as "
+"magi. The fact that it was illicit training in the dark arts was "
+"unimportant. More important was the escape from the drudgery of a fixed "
+"future, planned in advance by their parents. Ras-Tabahn spent a number of "
+"days in the forest outside of Carcyn instructing them on how to call on the "
+"spirit world and channel a small amount of its power. Soon after they moved "
+"on, they came across three farmsteads on the riverbank that had clearly been "
+"raided."
+msgstr ""
+
+#. [objective]: condition=win
+msgid "(there will be three waves)"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Destroy all the undead units"
+msgstr ""
+
+#. [objective]: condition=lose
+msgid "Death of all five dark adepts"
+msgstr ""
+
+#. [objective]: condition=lose
+msgid "Death of Ras-Tabahn"
+msgstr ""
+
+#. [note]
+msgid ""
+"You will not earn gold this scenario, but your gold from the previous "
+"scenario will be available in the next."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"What happened here, I wonder. Well, no matter. What was bad for these "
+"families is good for us. I will animate them, and you will attack. Practice "
+"both freezing and life force attacks. You may each choose one soldier from "
+"our army for protection, and I will call it up for you. After that, I will "
+"not help. I intend most of you to survive this battle, so try not to die."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "You kids may watch."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "Can we help?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "As you wish. (<i>Cough, cough</i>)"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "You may watch."
+msgstr ""
+
+#. [message]: speaker=Carcyn
+#. [message]: speaker=Shynal
+msgid "Can I help?"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"You can recruit from in front of each dark adept during the first turn only."
+msgstr ""
+
+#. [scenario]: id=10_Merfolk_Revenge
+msgid "Merfolk Revenge"
+msgstr ""
+
+#. [part]
+msgid ""
+"Ras-Tabahn’s party reached the end of the elf road near the Great River "
+"where they were to wait for Ardonna. As they arrived, another party did as "
+"well."
+msgstr ""
+
+#. [side]: type=Merman Triton, id=Okean
+#. [side]
+msgid "Merfolk"
+msgstr ""
+
+#. [side]: type=Merman Triton, id=Okean
+msgid "Okean"
+msgstr ""
+
+#. [message]: speaker=$unit.id
+msgid "Bones. Claws and wings."
+msgstr ""
+
+#. [message]: speaker=$unit.id
+msgid "There are some large bones here. I can see claws and wings."
+msgstr ""
+
+#. [message]: speaker=$other_human
+msgid "How odd. I wonder what are they from. A gryphon perhaps?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "A large flightless bird would be my guess."
+msgstr ""
+
+#. [message]: speaker=$other_human
+msgid "Well, there is an easy way to find out."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Indeed. Let us see."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"I wonder what are they from. A large flightless bird perhaps? Let us see."
+msgstr ""
+
+#. [message]: speaker=$other_human
+#. [message]: speaker=Ardonna
+msgid "Oh, you were right!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I wonder if it could carry someone light. A skeleton maybe."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Splendid! These birds could be quite useful."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can now recruit chocobones!"
+msgstr ""
+
+#. [set_variable]
+msgid "Hopefully this will be enough gold."
+msgstr ""
+
+#. [set_variable]
+msgid "We have won, but I am afraid this may not be enough gold."
+msgstr ""
+
+#. [set_variable]
+msgid "Good. We ended with a fair amount of gold."
+msgstr ""
+
+#. [message]: speaker=Okean
+msgid "You! You have destroyed the town of Carcyn!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "The town is hardly destroyed. I just encouraged a change of leadership."
+msgstr ""
+
+#. [message]: speaker=Okean
+msgid ""
+"Your words mock us. Those humans were valuable trading partners of ours. We "
+"will have justice!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Actually, I expect you will follow them into the ground if you try to harm "
+"us."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"This is going to cost us, but I want to keep some gold around for "
+"emergencies — I think 50 is about right. You kids help me collect some. "
+"(<i>Cough, cough</i>)"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "Right away sir."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "Are you feeling well?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Yes, yes. I’m quite all right."
+msgstr ""
+
+#. [message]: speaker=Shynal
+#. [message]: speaker=Carcyn
+msgid "I don’t fancy wading in the water to fight these things."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "No problem. We can lure them onto land."
+msgstr ""
+
+#. [message]: speaker=Shynal
+#. [message]: speaker=Carcyn
+msgid "How?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Have you never been fishing before? With bait of course."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"This is going to cost us, but I want to keep some gold around for "
+"emergencies — I think 50 is about right. Help me collect some. (<i>Cough, "
+"cough</i>)"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+#. [message]: speaker=Shynal
+msgid "Right away sir. Are you feeling well?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"This is going to cost me, but I want to keep some gold around for "
+"emergencies — I think 50 is about right. I’d better send someone to collect "
+"some. (<i>Cough, cough</i>) I hope I can lure these fish onto land. Maybe I "
+"should recruit some bait."
+msgstr ""
+
+#. [scenario]: id=11_Battleground
+msgid "Battleground"
+msgstr ""
+
+#. [part]
+msgid ""
+"11 IV, 23 YW\n"
+"\n"
+"Rastaban seems like an acceptable ally. He is quite different from the "
+"stodgy teachers at the academy who were so full of themselves and loved to "
+"hear themselves talk. He also never once disparaged me for being a girl or "
+"even mentioned my hair. As long as he continues to respect me, everything "
+"will go fine. If not, well, I am surrounded by the remnants of those who "
+"assumed I was weak."
+msgstr ""
+
+#. [part]
+msgid ""
+"The question remains whether or not it is wise to trust him. As he said, I "
+"don't need to at this time, but if we are to travel together it will become "
+"necessary. He has shown me something marvelous in the ghosts, so that is a "
+"large mark in his favor. On consideration, I have decided to trust him, but "
+"only provisionally. For now, we are both vulnerable, and he must know that "
+"attacking me would be unwise. However, if he were to become indestructible "
+"first, I would do well to stay alert."
+msgstr ""
+
+#. [part]
+msgid ""
+"The site of the battle was immediately obvious when I came upon it. Multiple "
+"fortresses stared at each other across a basin that was now mostly flooded. "
+"Sluggish water pooled near the road, and the slime of decay was on every "
+"surface. Weapons, armor and less-easily identifiable bits of detritus rose "
+"from the swamp. I could easily imagine great siege engines heaving stones at "
+"walls that were now crumbled ruins, and the clash of combatants who were now "
+"bleached white bones jutting from the wreckage."
+msgstr ""
+
+#. [part]
+msgid ""
+"Well, these combatants were going to get a second chance for glory when they "
+"fought for me. The more strong willed among them may even remember desiring "
+"it."
+msgstr ""
+
+#. [side]: type=Saurian Soothsayer, id=Krissaz
+#. [side]
+msgid "Saurians"
+msgstr ""
+
+#. [side]: type=Saurian Soothsayer, id=Krissaz
+msgid "Krissaz"
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=Blianxkep
+#. [side]
+msgid "Nagas"
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=Blianxkep
+msgid "Blianxkep"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can now recruit ghosts!"
+msgstr ""
+
+#. [message]: speaker=Blianxkep
+msgid ""
+"The fish people gave good value for the last load. More metal of that type "
+"is desired."
+msgstr ""
+
+#. [message]: speaker=Krissaz
+msgid "Firssst, pay us our ssshare."
+msgstr ""
+
+#. [message]: speaker=Blianxkep
+msgid "Wait, who approaches?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I am a mage and not a threat to you gentle... reptiles. I wish only to "
+"animate some spirits, so I won’t disturb your salvage operation."
+msgstr ""
+
+#. [message]: speaker=Krissaz
+msgid ""
+"No! You can’t make thisss place more haunted than it isss! The femalesss "
+"already won’t come here, and we are forced to rely on these ssserpents for "
+"protection."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I was only informing you out of courtesy. In truth, I don’t require your "
+"permission."
+msgstr ""
+
+#. [message]: speaker=Blianxkep
+msgid ""
+"We will help you drive off this foe if you will consider your share paid in "
+"full."
+msgstr ""
+
+#. [message]: speaker=Krissaz
+msgid ""
+"When the mage isss dead and her sssouls put to ressst, we agree. We will "
+"have been compensssated adequately."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Every time..."
+msgstr ""
+
+#. [unit]: id=Vendraxis, type=Saurian Soothsayer
+msgid "Vendraxis"
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid "Human, take me with you!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Why should I allow that? Your people attacked me!"
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid ""
+"I tried to ssstop them! For myself, I wissshed not to attack. I wissshed to "
+"learn. My race livesss but a short time compared to yoursss. I would learn "
+"to exssstend my ssspan, and the planetsss told me you know this sssecret."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Actually, I am searching for that secret now. But could you follow the "
+"orders of a woman?"
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid ""
+"I have ssstared into the darknesss between the starsss and not been "
+"intimidated by the void, but your mind holdsss a darknesss of another kind, "
+"frightening and forbidden by my clan. I sssubmit to your power. Now that I "
+"know you are female, I will find it easier as it is the way of my kind."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Very well, come along. I am Ardonna."
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid ""
+"Yesss, but the planetsss tell me your name isss now untrue. I do not "
+"underssstand thisss."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Nor do I. Your planets are quite cryptic."
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid "They reveal what they will."
+msgstr ""
+
+#. [scenario]: id=12_Walking_Trees
+msgid "Walking Trees"
+msgstr ""
+
+#. [part]
+msgid ""
+"17 IV, 23 YW\n"
+"\n"
+"My primary objective was met, and I had been able to press a number of "
+"ghosts into service. Also, I had a new companion with a talent for healing. "
+"I doubted that Ras-Tabahn was already waiting at the appointed place, but I "
+"still wanted to hurry, so we followed the elf road north as quickly as we "
+"could. Fortunately, it was not in bad repair, though in many places it was "
+"overgrown, leaving only a few smooth cobbles to mark the way. The second "
+"day, we were still deep in the woods when we encountered an elf sorceress."
+msgstr ""
+
+#. [side]
+msgid "Forest"
+msgstr ""
+
+#. [unit]: type=Elvish Enchantress, id=Isthiniel
+msgid "Isthiniel"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Move Ardonna to the northeast corner of the map"
+msgstr ""
+
+#. [message]: speaker=Isthiniel
+msgid ""
+"I felt our dead stirring and corruption descending on the forest. When I "
+"left to investigate, I expected to find grim, veiled forces at work. Instead "
+"I find a human mage boldly marching down our road! I will not allow you to "
+"continue to molest our peace, and you must release the dead you have "
+"enslaved."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Well, that I won’t do. However, if you do not attack, you will be rid of me "
+"soon, as I only wish to leave these woods."
+msgstr ""
+
+#. [message]: speaker=Isthiniel
+msgid ""
+"Attack? No, I cannot. Most of my people won’t come here; it is only duty "
+"that drives me. However, the woods themselves are disturbed, and they will "
+"cast you out on their own. I can feel them awaken."
+msgstr ""
+
+#. [unit]: type=Ancient Wose, id=Dolmathengalin
+msgid "Dolmathengalin"
+msgstr ""
+
+#. [message]: speaker=Dolmathengalin
+msgid "You are greeted daughter of elves. Why does the forest moan in despair?"
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid "That tree can talk!"
+msgstr ""
+
+#. [message]: speaker=Isthiniel
+msgid ""
+"That dark mage has woken our dead and stifles the air with her very "
+"presence. Please wake your people, Elder, and destroy her."
+msgstr ""
+
+#. [message]: speaker=Dolmathengalin
+msgid "This shall be done."
+msgstr ""
+
+#. [message]: speaker=Isthiniel
+msgid "I shall leave you. I have no wish to witness this violence."
+msgstr ""
+
+#. [scenario]: id=13_Together_Again
+msgid "Together Again"
+msgstr ""
+
+#. [part]
+msgid ""
+"21 IV, 23 YW\n"
+"\n"
+"I never would have been able to escape the trees without ghosts. They had "
+"proven their worth and saved my life. Thus Ras-Tabahn had also moved up in "
+"my estimation. After we escaped the trees, we met no more resistance on the "
+"road, and soon arrived at the meeting place where Ras-Tabahn was waiting."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Greetings Ardonna! (<i>Cough</i>) I was successful, and I see that you were "
+"as well."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Well met, Ras-Tabahn. Yes I was. Now, can you explain the mission you spoke "
+"of?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Gladly. I assume you studied the great mage Crelanu in history class. He "
+"fought with King Haldric the First. Since he faced the immortal lords of the "
+"Green Isle directly, he undoubtedly knows more than we about their methods. "
+"Recently, I have learned where to find him."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Of course I know about Crelanu. But can we force him to reveal his knowledge "
+"to us?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"That shouldn’t be necessary. I have also learned that he wrote a book "
+"containing all his secrets, which must include all he knows of immortality. "
+"We need only borrow this book. I knew that getting that book was not "
+"something I could accomplish on my own, but now, with a force such as ours, "
+"it should be easily done."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Yes, that seems like a plan with a good chance of success. I will join you "
+"in your effort."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"I thought as much. We must cross the Great River, and head north into the "
+"Heart Mountains."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Before we leave, I have an unrelated question. Vendraxis here has said that "
+"my name is untrue. Do you have an idea what could that mean?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Before we leave, I have an unrelated question. I met a mystic who said that "
+"my name was untrue. Do you have an idea what could that mean?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Possibly. When an academy mage completes his studies, he is granted "
+"syllables of power, which become his new name. You are well beyond that "
+"point, but you are with the free magi now, so choose your own name. I was "
+"originally Rassin Tabin, but that is fairly ordinary, and at one point, it "
+"no longer suited."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I suppose you are right. I am no longer the ordinary girl Ardonna, and "
+"Vendraxis was correct. From now I shall be... Ardryn-Na."
+msgstr ""
+
+#. [modify_unit]
+msgid "Ardryn-Na"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Well then Ardryn-Na, let us head north."
+msgstr ""
+
+#. [scenario]: id=14_Entering_the_Northlands
+msgid "Entering the Northlands"
+msgstr ""
+
+#. [part]
+msgid "<i>Chapter Three:</i> To Conquer Death"
+msgstr ""
+
+#. [part]
+msgid ""
+"24 IV, 23 YW\n"
+"\n"
+"We reached the Ford of Abez as the dawn light spread behind the mountain "
+"peaks to the north. As we waded across, the dark water reached to our "
+"waists, which made for slow going. I dared not imagine what manner of "
+"tentacled creature lurked below, but we completed the crossing without "
+"incident. The water was chill with snowmelt, so our teeth were chattering "
+"when we reached the far shore. The rising sun was warm though, and had us "
+"dried in short order. Despite this, Ras-Tabahn was not well off. He "
+"collapsed in the sand and went into a paroxysm of coughing the like of which "
+"I had never seen. When he could speak again, he assured me that it was only "
+"on account of the cold, and I should not be unduly troubled. I am uneasy all "
+"the same."
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=Rod-Ishnak
+#. [side]: type=Orcish Warlord, id=Vok-Hroog
+msgid "Orcs"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=Rod-Ishnak
+msgid "Rod-Ishnak"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Vok-Hroog
+msgid "Vok-Hroog"
+msgstr ""
+
+#. [unit]: type=Orcish Shaman, id=Krongk
+msgid "Krongk"
+msgstr ""
+
+#. [message]: speaker=Krongk
+msgid "They’re attacking me!"
+msgstr ""
+
+#. [message]: speaker=Vok-Hroog
+msgid "Yeah, yeah."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"We have crossed into the north. The dwarven kingdom of Knalga lies straight "
+"ahead."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid ""
+"Now I’m really far from home. I’ve never been north of the river before. I "
+"hope I get to see some dwarves!"
+msgstr ""
+
+#. [message]: speaker=Vok-Hroog
+msgid ""
+"I claim this territory in the name of Krag-Ubor, the ruler of all true orcs! "
+"Leave now, Ishnak, or face the combined wrath of the five tribes."
+msgstr ""
+
+#. [message]: speaker=Rod-Ishnak
+msgid "I arrived first, Hroog. It’s mine!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "This could be trouble."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Many orcs are decent sorts (<i>cough, cough</i>). I fought alongside Krag-"
+"Ubor once, who the farther orc just mentioned."
+msgstr ""
+
+#. [message]: speaker=Vok-Hroog
+msgid "Wait who’s that?"
+msgstr ""
+
+#. [message]: speaker=Rod-Ishnak
+msgid ""
+"Wizards and deaders just like from back home! I <i>hate</i> those! I suggest "
+"a contest. Whoever kills the most wizards and skeletons and stuff takes this "
+"territory and all the human slaves."
+msgstr ""
+
+#. [message]: speaker=Vok-Hroog
+msgid "Huh. Fine. That sounds like good sport."
+msgstr ""
+
+#. [message]: speaker=Krongk
+msgid ""
+"I declare this competition official. I will support the claim of the winner."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "I did say this was trouble."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "But we’ll win, won’t we?"
+msgstr ""
+
+#. [scenario]: id=15_Mountain_Pass
+msgid "Mountain Pass"
+msgstr ""
+
+#. [part]
+msgid ""
+"6 V, 23 YW\n"
+"\n"
+"We have reached a pass through the mountains that Ras-Tabahn knew of. The "
+"air is cool in these upper reaches. Mist rises from the snow in the "
+"afternoon, and the icicles drip the purest water from rock overhangs. I find "
+"it all refreshing, but Ras-Tabahn’s coughing fits are frequent. Sometimes he "
+"is reduced to speaking in short phrases due to lack of breath. Of course he "
+"is quite old — 50 at least — but I am also certain that he is ill. His "
+"thinness leads me to believe it is consumption, but he refuses to discuss "
+"it, preferring to deny the severity of his problem."
+msgstr ""
+
+#. [side]: type=Gryphon
+msgid "Gryphons"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Move Ardryn-Na and Ras-Tabahn to level ground in the northeast corner"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "There are some... large bones there. Claws and wings... I think."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "I wonder what are they from. A gryphon perhaps?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "A large (<i>cough, cough</i>) flightless bird... would be my guess."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Well, there is an easy way to discover the truth."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I wonder... if it could carry... someone light. Vendraxis perhaps."
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid "I will not climb on that ridiculous thing!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I wonder... if it could carry... someone light."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "A skeleton could ride it I think."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "That’s fantastic! These birds could be quite useful."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "What dangers may lurk in this fog?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Gryphons... live at this height. We should be cautious."
+msgstr ""
+
+#. [scenario]: id=16_The_Mage
+msgid "The Mage"
+msgstr ""
+
+#. [part]
+msgid ""
+"3 VI, 23 YW\n"
+"\n"
+"We crossed the high plateaus, and forded the Arkan-thoria. Then we headed up "
+"into the mountains again before we found the mage. This was Ras-Tabahn’s "
+"plan, and with the goal in sight, he gained a little strength. However, he "
+"is quite weak and ill now, and breathing raggedly. I don’t know how much "
+"longer he can survive."
+msgstr ""
+
+#. [side]: type=Elder Mage, id=Crelanu
+msgid "Crelanu"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Defeat Crelanu"
+msgstr ""
+
+#. [note]
+msgid ""
+"Ras-Tabahn is slowed. He will also lose four hitpoints every turn unless "
+"this amount is modified by healing."
+msgstr ""
+
+#. [note]
+msgid ""
+"Moving any unit onto a bottle of holy water will remove the bottle. An "
+"undead unit will be destroyed."
+msgstr ""
+
+#. [unit]: type=White Mage, id=Ginmera
+msgid "Ginmera"
+msgstr ""
+
+#. [message]: speaker=Ginmera
+msgid ""
+"It seems that the invaders can raise undead soldiers, so I placed some holy "
+"water around the castle for protection."
+msgstr ""
+
+#. [unit]: type=White Mage, id=Rinconan
+msgid "Rinconan"
+msgstr ""
+
+#. [message]: speaker=Ginmera
+msgid "Rinconan and I will stay here to guard you."
+msgstr ""
+
+#. [message]: speaker=Crelanu
+msgid "Yes. Thank you Ginmera."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"Moving a unit onto a bottle of holy water will remove the bottle. A living "
+"unit can do this safely, but any undead unit will be destroyed."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Crelanu! (<i>Cough, cough</i>) We have come... for your book."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "We need to borrow it."
+msgstr ""
+
+#. [message]: speaker=Crelanu
+msgid ""
+"Yes, I knew people like you would be coming, but the book is out of reach "
+"now — for all of us. I have given it to the elves. Only they know where it "
+"is."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Why would you do such a thing?"
+msgstr ""
+
+#. [message]: speaker=Crelanu
+msgid ""
+"So that one like you would not be tempted to do what you intend. Oh, yes. I "
+"know well what you seek."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Then you can tell us what we want to know."
+msgstr ""
+
+#. [message]: speaker=Crelanu
+msgid "I shall not."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "We shall see."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"Ras-Tabahn is sick. He is slowed, and will lose four hitpoints every turn. "
+"He will die if he reaches zero. Villages will heal him four points, and he "
+"will lose only two if he is resting."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Now, you will tell us the secret of immortality or die!"
+msgstr ""
+
+#. [message]: speaker=Crelanu
+msgid ""
+"There <i>is no secret</i>, you fools! Magic cannot stop aging. You cannot "
+"live forever. It is the way of nature, and the greatest thing we have in "
+"common with all of creation. You <i>must</i> die, and your soul depart. I "
+"would not try this thing for any reason."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"You are the fool, for you have, indeed, told us all we required. For that, I "
+"will spare you to live a few more lonely years with your cowardice."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I don’t understand. What did Crelanu tell us?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I will explain. Let us get you somewhere safe first. We’ll go into the cave. "
+"Come with me."
+msgstr ""
+
+#. [scenario]: id=17_Mortality
+msgid "Mortality"
+msgstr ""
+
+#. [part]
+msgid ""
+"6 VI, 23 YW\n"
+"\n"
+"Not far inside the cave was a ruined castle built in a style I did not "
+"recognize. Ras-Tabahn said, “Dwarves.” It is infested with rats, and "
+"clearly, no dwarves have lived here for a long time."
+msgstr ""
+
+#. [side]
+msgid "Rats"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Just a little farther."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Ardryn-Na, I’m dying. (<i>Cough, cough</i>) I don’t think... I can stop it."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Nor should you! You must embrace it. Crelanu said as much. He also said your "
+"life force must depart, but he didn’t say it could not come back to you!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "What are you... proposing?"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"That you project your will into another object so that it is part of you — "
+"your staff for example. If you do this just as your body dies, your whole "
+"consciousness should follow the flow of your will, as it will have no other "
+"place to go."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Well, it could go to the... lands of the dead. But... if I had an altar... "
+"the stone would serve to anchor me (<i>cough, cough, cough</i>) to this "
+"plane... and stop the downward flow of my soul... for just a moment."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"And a moment is all you need! You only need project your will <i>back</i> "
+"into your body, animating it as you would anything else!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"You seem... more sure than I, but  (<i>cough, cough</i>) I have no choice."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Crelanu said he wouldn’t do it. That implies that he <i>could</i>, so he "
+"also believed that it would work. And like you said, he should know. For "
+"now, you can rest. We’ll have an altar built soon."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"No need for you to wait to die. We can have done with it immediately. And "
+"although neither of us needs speak the incantations aloud anymore, you "
+"should this time, as any mistake would be disastrous."
+msgstr ""
+
+#. [message]: speaker=necromancer_on_altar
+msgid "Yes. I’m ready. Do it."
+msgstr ""
+
+#. [scenario]: id=18_Abandoned_Outpost
+msgid "Abandoned Outpost"
+msgstr ""
+
+#. [part]
+msgid ""
+"9 VI, 23 YW\n"
+"\n"
+"To become a lich, one must first die. The spells of necromancy bind the "
+"spirit, but only once it has been unbound from the body. To become a lich, "
+"the mage must make the necessary incantations with his dying breaths. He "
+"thus binds his own spirit in much the same way he binds the spirits of "
+"others.... An altar serves to hold his soul in the physical plane long "
+"enough to make the transition, and a suitable object must be found to hold "
+"the consciousness for one crucial moment when the body expires."
+msgstr ""
+
+#. [part]
+msgid ""
+"13 VI, 23 YW\n"
+"\n"
+"So, Ras-Tabahn is now undead. In the beginning, his health was not much "
+"improved, and he complained of being cold. His life force was weak, but he "
+"was able to absorb life from the rats infesting the ancient castle. Now he "
+"is more strong and vigorous than I have ever seen him. This is despite the "
+"fact that his flesh is starting to rot away, a process that causes him no "
+"discomfort. Nor can he smell it any more than I can. If all continues to go "
+"well, I will make the transition soon myself."
+msgstr ""
+
+#. [part]
+msgid ""
+"17 VI, 23 YW\n"
+"\n"
+"Now the process is complete for both of us. I posted a guard so nothing "
+"could happen to me in my weakened state, and nothing did. I am restored. I "
+"don’t feel much different, but I suppose I look a fright. Ah well, it can’t "
+"be helped. But my primary goal is achieved! I cannot die! I suppose I could "
+"be broken apart like a skeleton or maybe burned, but I do not have to fear "
+"these unlikely events: I have the awesome powers of the spirit realm flowing "
+"through me, and can protect myself quite adequately! My next goal is to "
+"share my knowledge with the world so that <i>no one</i> need die."
+msgstr ""
+
+#. [side]
+msgid "Spiders"
+msgstr ""
+
+#. [objective]: condition=win
+msgid "Move Ardryn-Na and Ras-Tabahn to the west end of the cave"
+msgstr ""
+
+#. [note]
+msgid ""
+"To turn a necromancer into a lich, right-click on it while it is in a castle."
+msgstr ""
+
+#. [set_menu_item]: id=lichify
+msgid "Make Into a Lich"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can only do this in a castle."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"You can now advance dark sorcerers to liches! For the rest of the campaign, "
+"you can also right-click on an existing necromancer to turn it into a lich "
+"as long as it is in a castle. If the necromancer has gained enough "
+"experience, it will immediately level into an ancient lich!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"We have conquered death! Let us bring the news back to Wesnoth. We should to "
+"let them know that nobody ever need die again."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"I was planning to go that direction myself, so I have no objection. But, let "
+"us not go over those wretched mountain passes again. These tunnels should "
+"connect to the realm of Knalga and take us there directly."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Why would the Dwarvish empire abandon an outpost like this?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "We may find out. We should proceed cautiously."
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid "Giant spidersss! That explainsss the cobwebsss everywhere."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Giant spiders! That explains the cobwebs everywhere."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "They are not moving much. Hopefully they continue to stay sleepy."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "They’re waking up now. Watch out."
+msgstr ""
+
+#. [scenario]: id=19_Lava_and_Stone
+msgid "Lava and Stone"
+msgstr ""
+
+#. [part]
+msgid ""
+"21 VI, 23 YW\n"
+"\n"
+"We continued down the tunnel in utter darkness for a time. The darkness "
+"presented no great difficulty: The bats could navigate perfectly well, and "
+"all the magi could sense exactly where they were. Ras-Tabahn and I talked. "
+"His plan is to go to Elensefar. He believes he can overthrow the city and "
+"install himself as the ruler of an undead empire. Citizens will join him in "
+"undeath willingly or not, but join they will. If they do not join willingly, "
+"or lack the mental fortitude to transition to lich form, they will of course "
+"be mindless slaves."
+msgstr ""
+
+#. [part]
+msgid ""
+"Ras-Tabahn has tried to persuade me to join him in his endeavor, but I have "
+"serious misgivings about his plan. I am not positive he can defeat the city "
+"guard, and enslaving the population is the one of the ways the old Wesfolk "
+"leaders earned their poor reputations. I think a more benevolent approach "
+"has a better chance of ensuring our legacy. We should spread the news of our "
+"success and invite the citizenry to join us voluntarily. I will journey "
+"south into Wesnoth proper, and visit Dan’Tonk and Weldyn. At some point in "
+"the distant future, my new friends and Ras-Tabahn’s population will probably "
+"clash, but that will be a worry for another time, and for now, we each "
+"continue to regard the other as an ally."
+msgstr ""
+
+#. [part]
+msgid ""
+"Our journey continued, and eventually, an orange glow appeared before us."
+msgstr ""
+
+#. [side]: type=Troll Shaman, id=Shurd
+#. [side]: type=Great Troll, id=Brek
+#. [side]: type=Troll Shaman, id=Uurgh
+msgid "Trolls"
+msgstr ""
+
+#. [side]: type=Troll Shaman, id=Shurd
+msgid "Shurd"
+msgstr ""
+
+#. [side]: type=Great Troll, id=Brek
+msgid "Brek"
+msgstr ""
+
+#. [side]: type=Troll Shaman, id=Uurgh
+msgid "Üurgh"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"I had heard that mountains sometimes breathed fire like dragons, but that "
+"seemed a fanciful tale. From the look of this, that may actually be true."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Yes, it’s quite true. This mountain fire has some uses too. For example, "
+"trolls use it for welding together crude armor."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Trolls! Do you think we shall encounter any?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "I see no reason to expect..."
+msgstr ""
+
+#. [message]: speaker=Shurd
+msgid "Invaders!"
+msgstr ""
+
+#. [message]: speaker=Brek
+msgid "Crush them!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "... Yes. Yes, I do."
+msgstr ""
+
+#. [scenario]: id=20_North_Knalga
+msgid "North Knalga"
+msgstr ""
+
+#. [part]
+msgid ""
+"27 VI, 23 YW\n"
+"\n"
+"We left the fires of the mountain behind and plunged once more into "
+"darkness. After a long trek, we were brought up short by a dead end in the "
+"tunnel... but the wall was not solid."
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=Golbanduth
+#. [side]
+msgid "Dwarves"
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=Golbanduth
+msgid "Golbanduth"
+msgstr ""
+
+#. [note]
+msgid "You can recruit from anywhere in the Hall of Heroes."
+msgstr ""
+
+#. [message]: speaker=Golbanduth
+msgid ""
+"The invaders approach! Fetch the last chest o’ gold. We’re equippin’ more "
+"soldiers."
+msgstr ""
+
+#. [message]: speaker=porter
+msgid "Yes, sire."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid ""
+"Actually, I don’t think this is the end. There is air coming through here. "
+"Help me shift these stones."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Now, where are we?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"We are in a Dwarvish burial chamber it seems. That is good. We could always "
+"use some more soldiers."
+msgstr ""
+
+#. [unit]: type=Dwarvish Sentinel, id=Aigondur
+msgid "Aigondur"
+msgstr ""
+
+#. [message]: speaker=Aigondur
+msgid ""
+"Human invaders be comin’ through the Hall o’ Heroes! I’m closin’ th’ Troll "
+"Gate!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Well, we are not going that way."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"But look. There is a large crack in the wall to our left! I’m certain we "
+"could squeeze through."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "We’ll just remove the statue..."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "... and push the coffin out of the way."
+msgstr ""
+
+#. [message]: speaker=spotter
+msgid "Ach! Th’ invaders have made it inna the Crystal Caves!"
+msgstr ""
+
+#. [scenario]: id=21_Against_the_World
+msgid "Against the World"
+msgstr ""
+
+#. [part]
+msgid ""
+"30 VI, 23 YW\n"
+"\n"
+"From the northern part of the kingdom of Knalga, the tunnel split into many "
+"passageways. Being able to feel the life force of the dwarves allowed us to "
+"take mostly unoccupied tunnels, which we did."
+msgstr ""
+
+#. [part]
+msgid ""
+"3 VII, 23 YW\n"
+"\n"
+"We finally made it out of the mountains. We crossed the Ford of Abez late "
+"this morning, and hiked the rest of the day south-east, making for the town "
+"of Tath. We planned to split up there. I was going to go south to Dan’Tonk "
+"and Weldyn to spread our news, and Ras-Tabahn was to head toward Elensefar "
+"to carry out his plan of carving out a special place for us in the world. "
+"(And becoming some sort of king as well I suppose.)"
+msgstr ""
+
+#. [part]
+msgid ""
+"It was not to be. We were about to start on our separate journeys when the "
+"plains suddenly became more crowded."
+msgstr ""
+
+#. [side]
+msgid "Cavalry"
+msgstr ""
+
+#. [side]
+msgid "Magi"
+msgstr ""
+
+#. [side]
+msgid "Elves"
+msgstr ""
+
+#. [message]: speaker=Thrigalurd
+msgid ""
+"The enemy already attempts to breach our castle walls! Up arms lads, look "
+"lively!"
+msgstr ""
+
+#. [message]: speaker=Thrigalurd
+msgid "Now we avenge the fallen of Knalga!"
+msgstr ""
+
+#. [message]: speaker=Carmyna
+msgid ""
+"The enemy is already poised to attack! They must have anticipated our "
+"arrival. No rest my friends; we go to work immediately."
+msgstr ""
+
+#. [message]: speaker=Carmyna
+msgid ""
+"The battle is already underway. So many of our comrades have fallen! We must "
+"incinerate these undead and rid the world of this evil."
+msgstr ""
+
+#. [message]: speaker=Galoïndrath
+msgid ""
+"What is this? The enemy lurking in wait in our forests? To arms! Let us "
+"immediately rid our land of this foulness!"
+msgstr ""
+
+#. [message]: speaker=Galoïndrath
+msgid ""
+"Never again will these monsters use the spirits of our ancestors against us. "
+"We will burn them down!"
+msgstr ""
+
+#. [objective]: condition=lose
+msgid "Death of Ardryn-Na"
+msgstr ""
+
+#. [unit]: type=Saurian Flanker, id=Fizztsars
+msgid "Fizztsars"
+msgstr ""
+
+#. [message]: speaker=Fizztsars
+msgid "We have arrived, Taxsstrimon. We will fight bessside you."
+msgstr ""
+
+#. [message]: speaker=Taxtrimon
+msgid "Well met Fizztsars. Now these creatures will certainly fall."
+msgstr ""
+
+#. [unit]: type=Dwarvish Dragonguard, id=Thrigalurd
+msgid "Thrigalurd"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Look! The dwarves circled around in front of us."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "That’s why getting through Knalga was so easy."
+msgstr ""
+
+#. [unit]: type=Great Mage, id=Carmyna
+msgid "Carmyna"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "They just keep coming! Has nobody even considered what we offer?"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Well. That was intense."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "At last we are victorious!"
+msgstr ""
+
+#. [unit]: type=Elvish High Lord, id=Galoïndrath
+msgid "Galoïndrath"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "The whole world is against us."
+msgstr ""
+
+#. [unit]: type=Paladin, id=Gwendir
+msgid "Gwendir"
+msgstr ""
+
+#. [message]: speaker=adviser
+msgid ""
+"This is the place Crelanu’s gryphon told us to come, and yon party has an "
+"ill-favored look."
+msgstr ""
+
+#. [message]: speaker=Gwendir
+msgid "Yes, I believe that is our quarry."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Crelanu! Still he haunts us. Remind me again why we didn’t kill him."
+msgstr ""
+
+#. [message]: speaker=Gwendir
+msgid ""
+"Ardonna of Tarrynth and Rassin Tabin, you stand convicted of necromancy, and "
+"sentenced to death!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"Is that all? Death holds no terror for us as we have died already. You will "
+"follow shortly."
+msgstr ""
+
+#. [message]: speaker=Gwendir
+msgid "The blessed swords of our order will soon give you cause to fear again."
+msgstr ""
+
+#. [message]: speaker=adviser
+msgid "Sir, the magi have not yet arrived."
+msgstr ""
+
+#. [message]: speaker=Gwendir
+msgid ""
+"No matter. We need not fear this darkness, and we need not wait on the "
+"schoolteachers."
+msgstr ""
+
+#. [unit]: type=Naga Myrmidon, id=Taxtrimon
+msgid "Taxtrimon"
+msgstr ""
+
+#. [message]: speaker=Taxtrimon
+msgid ""
+"We have found them! These magi destroyed a profitable business venture, and "
+"killed our males. We will take vengeance. You horse humans can assist us."
+msgstr ""
+
+#. [unit]: type=Merman Hoplite, id=Mauapan
+msgid "Mauapan"
+msgstr ""
+
+#. [message]: speaker=Mauapan
+msgid "I will also assist. Too many innocents have died. This ends today."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "We are surrounded. We must defeat this horde."
+msgstr ""
+
+#. [scenario]: id=22_Epilogue
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+msgid ""
+"10 VII, 23 YW — Final Entry\n"
+"\n"
+"We prevailed today on the field, but our victory was somewhat bitter. "
+"<i>Everyone</i> was afraid or angry and immediately attacked us instead of "
+"listening to our news. I realize now... the world is not ready for our "
+"knowledge. I give up on all of them. I am going to live in the old troll "
+"city and learn the applications of mountain fire. In some future time, less "
+"conservative attitudes will dominate, and I can certainly afford to wait. In "
+"the meantime, we are doing what we can to hasten that day."
+msgstr ""
+
+#. [then]
+msgid ""
+"Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
+"of the others are going with him. I wish them success. Vendraxis now knows "
+"what he must learn to replicate our metamorphosis. He will use the years "
+"left to him in study and practice while he attempts to change the attitudes "
+"of his people. As for me, I have placed some spells on my journal to help "
+"keep it from harm, and I will make it conspicuous on this battlefield. I "
+"hope that it will eventually make its way into the hands of someone in Tath "
+"who is willing to learn the secrets of the ancients."
+msgstr ""
+
+#. [else]
+msgid ""
+"Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
+"of the others are going with him. I wish them success. As for me, I have "
+"placed some spells on my journal to help keep it from harm, and I will make "
+"it conspicuous on this battlefield. I hope that it will eventually make its "
+"way into the hands of someone in Tath who is willing to learn the secrets of "
+"the ancients."
+msgstr ""
+
+#. [unit_type]: id=Bone Bird, race=undead, description=
+msgid "Bone Bird"
+msgstr ""
+
+#. [unit_type]: id=Bone Captain, race=undead
+msgid "Bone Captain"
+msgstr ""
+
+#. [unit_type]: id=Bone Captain, race=undead
+msgid ""
+"Captains are masters in life, but in death they may be slaves to a "
+"necromancer. Through sheer force of habit, an undead captain continues to "
+"exude authority even if all his other memories have been lost."
+msgstr ""
+
+#. [unit_type]: id=Delinquent, race=human
+msgid "Delinquent"
+msgstr ""
+
+#. [unit_type]: id=Delinquent, race=human
+msgid ""
+"Some girls shun the typical life planned for them by society, and fall in "
+"with the criminal element. Though they may end up in jail, that seems "
+"preferable to them than tying themselves to a husband."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Miner, race=dwarf
+msgid "Dwarvish Miner"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Miner, race=dwarf
+msgid ""
+"Dwarvish miners are the grunt workers of Dwarvish society. They take the "
+"precious ores out of the ground, but do not ever take part in the crafting "
+"of weapons or artifacts. They have no military training, but they can still "
+"do some damage with their picks."
+msgstr ""
+
+#. [attack]: type=pierce
+msgid "pick"
+msgstr ""
+
+#. [unit_type]: id=Khalif, race=khalifate
+msgid "Khalif"
+msgstr ""
+
+#. [unit_type]: id=Ancient Lich SotA, race=undead
+msgid "Ancient Lich"
+msgstr ""
+
+#. [unit_type]: id=Ancient Lich SotA, race=undead
+msgid ""
+"An experienced lich can easily tap into the power of the spirit world and "
+"throw freezing lightning to devastating effect, or drain the very life force "
+"from a body. The power available to a lich like this is awesome to behold. "
+"Anyone who encounters an Ancient Lich likely has far worse things to worry "
+"about than death!"
+msgstr ""
+
+#. [unit_type]: id=Noble, race=human
+msgid "Noble"
+msgstr ""
+
+#. [unit_type]: id=Orcish Shaman, race=orc
+msgid "Orcish Shaman"
+msgstr ""
+
+#. [unit_type]: id=Orcish Shaman, race=orc
+msgid ""
+"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+"tribes, they form the Orcish Council, which makes important decisions for "
+"the whole Orcish community and arbitrates the many conflicts that arise "
+"between tribes of this argumentative race. Although physically weak (for "
+"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+"draining their life."
+msgstr ""
+
+#. [unit_type]: id=Sailor, race=human
+msgid "Sailor"
+msgstr ""
+
+#. [unit_type]: id=Sailor, race=human
+msgid ""
+"Sailors are hired for their strength, and their work builds up even more "
+"muscle. Consequently, the cheap blades they are provided with still do "
+"considerable damage."
+msgstr ""
+
+#. [unit_type]: id=Sea Captain, race=human
+msgid "Sea Captain"
+msgstr ""
+
+#. [unit_type]: id=Sea Captain, race=human
+msgid ""
+"Aboard his vessel, the captain is the ultimate authority, and all his orders "
+"must be instantly obeyed. A passenger or crew member crosses the captain at "
+"their peril, for he is within his rights to summarily execute criminals or "
+"mutineers."
+msgstr ""
+
+msgid "Ardonna"
+msgstr ""
+
+#. [objective]: condition=lose
+msgid "Death of Ardonna"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "No, no, NO, <i><b>NO</b></i>!"
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Urgh."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "But I don't know how to bring you back yet!"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "Shynal!"
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "Bring her back. Please!"
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "I'm not sure that's such a good..."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "If you insist."
+msgstr ""
+
+#. [message]: speaker=Corpse Shynal
+msgid "Car. Cyn."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "She will not know you for long, so make the most of it."
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "Perhaps that was for the best."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"It's not possible. She was already back from the dead. She has been utterly "
+"destroyed this time."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "Oh, my sweet Carcyn!"
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "You were always so reckless."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "I will miss you."
+msgstr ""
+
+#. [message]: speaker=$unit.id
+msgid "Aww. I wanted to be a mage like Shynal."
+msgstr ""
+
+#. [message]: speaker=$unit.id
+msgid "Aww. I wanted to be a mage like Carcyn."
+msgstr ""
+
+#. [option]
+msgid "Do not make me regret liberating you from jail. My decision is final."
+msgstr ""
+
+#. [option]
+msgid "I have reconsidered. Perhaps you will be very powerful one day."
+msgstr ""
+
+#. [message]: speaker=$unit.id
+msgid "Thanks!"
+msgstr ""
+
+#. [message]: speaker=$unit.id
+msgid ""
+"Hey, I wanted to be a wizard like you and live forever when you figure it "
+"out! I know I could be super-powerful in the end."
+msgstr ""
+
+#. [option]
+msgid "Hold your tongue. You will do as I command."
+msgstr ""
+
+#. [option]
+msgid "Very well. Having more adepts might be a good idea after all."
+msgstr ""
+
+#. [unstore_unit]
+msgid "Lich"
+msgstr ""
+
+#. [set_menu_item]: id=hide-sails
+msgid "Hide Sails and Rigging"
+msgstr ""
+
+#. [set_menu_item]: id=show-sails
+msgid "Show Sails and Rigging"
+msgstr ""
+
+#. [terrain_type]: id=grave
+msgid "Grave"
+msgstr ""
+
+#. [terrain_type]: id=grave
+msgid "Grave Overlay"
+msgstr ""
+
+#. [terrain_type]: id=not_here
+msgid "Not Here Overlay"
+msgstr ""
+
+#. [terrain_type]: id=crystal
+msgid "Crystal Caves"
+msgstr ""
+
+#. [terrain_type]: id=passageway
+msgid "Passageway"
+msgstr ""
+
+#. [terrain_type]: id=gate_open
+#. [terrain_type]: id=gate_closed
+msgid "Gate"
+msgstr ""
+
+#. [terrain_type]: id=web
+msgid "Spiderweb"
+msgstr ""
+
+#. [terrain_type]: id=graveyard-fence-top
+msgid "Fence-Top"
+msgstr ""
+
+#. [terrain_type]: id=graveyard-fence-bottom
+msgid "Fence"
+msgstr ""
+
+#. [terrain_type]: id=graveyard-fence-bottom
+msgid "Fence-Bottom"
+msgstr ""
+
+#. [terrain_type]: id=ship--forecastle
+msgid "Ship Forecastle"
+msgstr ""
+
+#. [terrain_type]: id=ship--main-deck
+msgid "Ship Main Deck"
+msgstr ""
+
+#. [terrain_type]: id=ship--poop-deck
+msgid "Ship Poop Deck"
+msgstr ""
+
+#. [terrain_type]: id=ship--hull
+#. [terrain_type]: id=ship--railing
+msgid "Ship Hull"
+msgstr ""
+
+#. [terrain_type]: id=ship--rigging-and-sails
+msgid "Ship Rigging and Sails"
+msgstr ""
+
+#. [terrain_type]: id=ship--railing
+msgid "Ship Railing"
+msgstr ""
+
+#. [terrain_type]: id=ship--bits-and-pieces
+msgid "Ship Pieces"
+msgstr ""
+
+#. [terrain_type]: id=ship--lower-deck
+msgid "Ship Lower Deck"
+msgstr ""
+
+#. [terrain_type]: id=ship--lower-deck-edge
+msgid "Ship Lower Deck Edge"
+msgstr ""
+
+#. [terrain_type]: id=ship--forecastle
+#. [terrain_type]: id=ship--main-deck
+#. [terrain_type]: id=ship--poop-deck
+#. [terrain_type]: id=ship--lower-deck
+msgid "Ship"
+msgstr ""
+
+#. [terrain_type]: id=full-void
+msgid "Full Void"
+msgstr ""
+
+#. [terrain_type]: id=full-void-overlay
+msgid "Void Overlay"
+msgstr ""
+
+#. [terrain_type]: id=half-void-overlay
+msgid "Half Void"
+msgstr ""

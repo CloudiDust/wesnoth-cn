@@ -8,12 +8,12 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-06 02:27+0300\n"
+"POT-Creation-Date: 2017-03-19 00:05+0300\n"
 "PO-Revision-Date: 2017-01-28 17:24+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -144,10 +144,6 @@ msgstr ""
 #. [topic]: id=editor_tool_fill
 msgid "Fill Tool"
 msgstr "填充工具"
-
-#. [topic]: id=editor_tool_fill
-msgid "Evil Tool for painting."
-msgstr "用于绘图的邪恶工具。"
 
 #. [topic]: id=editor_tool_fill
 msgid ""
@@ -2865,6 +2861,37 @@ msgstr ""
 "\n"
 "使被选定单位连升N级。例如：:unit advances=2"
 
+#. [heals]: id=healing
+#, fuzzy
+msgid ""
+"Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 4 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"This ability will not cure an affected unit of poison, however, only delay "
+"its effect."
+msgstr ""
+"允许此单位在我方回合开始时治疗相邻的友方单位。\n"
+"\n"
+"此治疗师所治疗的单位每回合最多能恢复4点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由治疗师解毒，只有进入村庄解毒，或者由拥有解毒能力的单位解毒。"
+
+#. [heals]: id=healing
+#, fuzzy
+msgid ""
+"This unit combines herbal remedies with magic to heal units more quickly "
+"than is normally possible on the battlefield.\n"
+"\n"
+"A unit cared for by this healer may heal up to 8 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"This ability will not cure an affected unit of poison, however, only delay "
+"its effect."
+msgstr ""
+"此单位将魔法与草药混合使用以在战场上治疗单位，比通常可能的速度快得多。\n"
+"\n"
+"此治疗师所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由治疗师解毒，只有进入村庄解毒，或者由拥有解毒能力的单位解毒。"
+
 #. [heals]: id=curing
 msgid "cures"
 msgstr "治愈"
@@ -3107,13 +3134,14 @@ msgid "plague"
 msgstr "瘟疫"
 
 #. [plague]: id=plague({TYPE}), type={TYPE}
+#, fuzzy
 msgid ""
 "When a unit is killed by a Plague attack, that unit is replaced with a unit "
-"identical to and on the same side as the unit with the Plague attack. This "
-"doesn’t work on Undead or units in villages."
+"on the same side as the unit with the Plague attack. This doesn’t work on "
+"Undead or units in villages."
 msgstr ""
-"当一个单位被瘟疫攻击杀死时，这个单位将变成与进行瘟疫攻击的单位完全一样的单"
-"位，并与其属于同一阵营。这对亡灵或在村庄里的单位不起作用。 "
+"当一个单位被瘟疫攻击杀死时，这个单位将变成行尸，并与进行瘟疫攻击的单位属于同"
+"一阵营。这对亡灵或在村庄中的单位不起作用。"
 
 #. [plague]: id=plague, type=Walking Corpse
 msgid ""

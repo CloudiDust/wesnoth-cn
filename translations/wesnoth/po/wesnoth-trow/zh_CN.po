@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:23 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1435,10 +1435,10 @@ msgstr "地底神庙"
 msgid "Lich-Lord Lenvan"
 msgstr "巫妖王蓝温"
 
-#. [side]: type=Lich, id=Lich-Lord Lenvan
 #. [side]: type=Spectre, id=Isorfilad
 #. [side]: type=Spectre, id=Tinoldor
 #. [side]: type=Lich, id=Lich-Lord Caror
+#. [side]: type=Lich, id=Lich-Lord Lenvan
 msgid "Undead"
 msgstr "不死族"
 
@@ -5402,10 +5402,6 @@ msgstr ""
 "强大的魔法使用者有时会使用仆从，它们被灌输入精神力或少量妖力。仆从通常作为信"
 "使或者用于侦查。"
 
-#. [attack]: type=blade
-msgid "bite"
-msgstr "咬"
-
 #. [unit_type]: id=Noble Commander, race=human
 msgid "Noble Commander"
 msgstr "贵族指挥官"
@@ -5421,14 +5417,6 @@ msgstr ""
 "贵族指挥官的军衔使得他们在战斗中能组织有效的攻击。拥有领导技能，他们能让相邻"
 "的低级单位提升攻击力。指挥官善于使用剑，必要时他们会用弓，如果失去指挥官，战"
 "斗也将失败。"
-
-#. [attack]: type=blade
-msgid "sword"
-msgstr "剑"
-
-#. [attack]: type=pierce
-msgid "bow"
-msgstr "弓"
 
 #. [unit_type]: id=Noble Fighter, race=human
 msgid "Noble Fighter"
@@ -5485,10 +5473,6 @@ msgstr "冷艳，他们通过吸血来维持那永远年轻的面容。"
 msgid "blood kiss"
 msgstr "血之吻"
 
-#. [attack]: type=pierce
-msgid "curse"
-msgstr "诅咒"
-
 #. [unit_type]: id=Warrior King
 msgid "Warrior King"
 msgstr "勇士王"
@@ -5519,14 +5503,6 @@ msgstr ""
 "德里克人民的战争中，Wesfolk行将失败之时她们出卖了自己的忠诚。被流放但仍然保留"
 "着她的贵族血统，还有她在战场上获得的宝贵的经验，随着时间不断增长，如同她的天"
 "然领导能力一样。"
-
-#. [attack]: type=impact
-msgid "staff"
-msgstr "棍"
-
-#. [attack]: type=impact
-msgid "sling"
-msgstr "投石器"
 
 #. [unit_type]: id=Wesfolk Leader, race=human
 msgid "female^Wesfolk Leader"

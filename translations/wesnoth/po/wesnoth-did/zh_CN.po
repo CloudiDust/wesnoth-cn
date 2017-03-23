@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2017-01-31 13:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1268,9 +1268,9 @@ msgstr "这里是入口！快！"
 msgid "A Small Favor — Part 2"
 msgstr "小小请求 — 第二部分"
 
-#. [side]
-#. [do]
 #. [event]
+#. [side]
+#. [command]
 msgid "Guard"
 msgstr "守卫"
 
@@ -1925,10 +1925,6 @@ msgstr ""
 "少年时接受剑术训练，青年时接受魔法训练，马林·凯沙在这两方面都有才能但都不是专"
 "家。"
 
-#. [attack]: type=blade
-msgid "short sword"
-msgstr "短剑"
-
 #. [attack]: type=impact
 msgid "magic blast"
 msgstr "魔法冲击波"
@@ -1942,14 +1938,6 @@ msgid ""
 "Despite his increased magical powers, Malin holds on to his short sword as "
 "his melee weapon of choice."
 msgstr "尽管魔法力量增强了，但马林还是继续使用短剑作为他爱用的近战武器。"
-
-#. [attack]: type=cold
-msgid "chill wave"
-msgstr "冷冻波"
-
-#. [attack]: type=arcane
-msgid "shadow wave"
-msgstr "暗影波"
 
 #. [unit_type]: id=Dark Mage, race=human
 msgid "Dark Mage"
@@ -1978,14 +1966,6 @@ msgstr ""
 "在韦诺的边疆，所有体格健壮的男人和女人们都必须能够在有必要时守卫城镇。男人们"
 "通常接受使剑和用弓的训练，而妇女们则学习使杖和射弹弓。对此最精通的高手，在对"
 "付任何愚蠢到会和她们战斗的兽人时，都游刃有余。"
-
-#. [attack]: type=impact
-msgid "staff"
-msgstr "杖"
-
-#. [attack]: type=impact
-msgid "sling"
-msgstr "弹弓"
 
 msgid "Dela Keshar"
 msgstr "黛拉·凯沙"

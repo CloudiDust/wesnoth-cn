@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:29 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2015-06-06 15:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -149,8 +149,8 @@ msgstr ""
 msgid "The Morning After"
 msgstr "天亮以后"
 
-#. [side]
 #. [side]: id=Kaleh, type=Quenoth Youth
+#. [side]
 #. [side]: id=Kaleh, type=Desert Fighter
 msgid "team_name^Quenoth Elves"
 msgstr "奎诺精灵卡勒"
@@ -171,7 +171,8 @@ msgid "Starting Objectives:"
 msgstr "任务目标:"
 
 #. [objective]: condition=win
-msgid "Rescue Surviving Elves"
+#, fuzzy
+msgid "Rescue surviving elves"
 msgstr "解救幸存者"
 
 #. [objective]: condition=lose
@@ -326,8 +327,8 @@ msgstr "希拉"
 msgid "Kaleh, Nym, help us!"
 msgstr "卡勒, 妮慕, 来帮我们!"
 
-#. [message]: speaker=Nym
 #. [message]: speaker=Kaleh
+#. [message]: speaker=Nym
 msgid "What in Uria’s name is that?"
 msgstr "那尤里安的是什么？"
 
@@ -868,7 +869,8 @@ msgid "Undead"
 msgstr "不死"
 
 #. [objective]: condition=win
-msgid "Kaleh Must Reach the Northern Edge of the Desert"
+#, fuzzy
+msgid "Kaleh must reach the northern edge of the desert"
 msgstr "卡勒必须到达沙漠的北部边缘"
 
 #. [label]
@@ -1338,7 +1340,8 @@ msgstr ""
 "盗数量比我们预计的要多。"
 
 #. [objective]: condition=win
-msgid "Defeat Outlaw Leader"
+#, fuzzy
+msgid "Defeat outlaw leader"
 msgstr "打败流寇首领"
 
 #. [unit]: id=Thorn, type=Outlaw
@@ -1583,11 +1586,13 @@ msgid "Defeat Ystara"
 msgstr "打败伊斯图拉"
 
 #. [objective]: condition=win
-msgid "Survive Until Dawn (or)"
+#, fuzzy
+msgid "Survive until dawn"
 msgstr "黎明时仍活着（或）"
 
 #. [objective]: condition=win
-msgid "Defeat all Undead Leaders"
+#, fuzzy
+msgid "Defeat all undead leaders"
 msgstr "打败所有不死首领"
 
 #. [event]
@@ -1880,7 +1885,8 @@ msgid "Yes, let us end this once and for all."
 msgstr "是的。让我们一次了断吧。"
 
 #. [objective]: condition=win
-msgid "Defeat Possessed Garak (or)"
+#, fuzzy
+msgid "Defeat Possessed Garak"
 msgstr "打败 歌莱克 （或）"
 
 #. [message]: speaker=Azkotep
@@ -2512,12 +2518,9 @@ msgstr ""
 
 #. [message]: speaker=Zhul
 msgid ""
-"Remember, Kaleh, it’s nasty fighting underground. Marksmen and Sharpshooters "
-"who can shoot well anywhere will be invaluable, as will Captains and "
-"Marshals who can inspire our people."
+"Remember, Kaleh, it’s nasty fighting underground. We will be at a "
+"disadvantage against orcs and other things that prefer the darkness."
 msgstr ""
-"地下的战斗是险恶的，记住，卡勒，能在任意地形精确射击的神射手们会成为无价之"
-"宝，能够鼓舞士气的队长和元帅们也是。"
 
 #. [message]: speaker=Elyssa
 msgid ""
@@ -2607,9 +2610,9 @@ msgstr ""
 "见。我不知道我在这里干什么。某种神秘的东西让我不自觉地来到这里，我有种不祥的"
 "预感。"
 
+#. [unit]: type=Dark Assassin3, id=Cloaked Figure
 #. [unit]: type=Dark Assassin1, id=Cloaked Figure
 #. [unit]: type=Dark Assassin2, id=Cloaked Figure
-#. [unit]: type=Dark Assassin3, id=Cloaked Figure
 msgid "Cloaked Figure"
 msgstr "戴斗篷者"
 
@@ -2706,12 +2709,14 @@ msgid "team_name^Dwarves"
 msgstr "矮人"
 
 #. [objective]: condition=win
-msgid "Explore Underground"
+#, fuzzy
+msgid "Explore underground"
 msgstr "地下探险"
 
 #. [objective]: condition=win
-msgid "Defeat all Enemies"
-msgstr "打倒所有敌人"
+#, fuzzy
+msgid "Defeat enemy leaders"
+msgstr "打败巨魔首领"
 
 #. [unit]: type=Quenoth Fighter
 #. [unit]: type=Desert Fighter
@@ -2911,8 +2916,8 @@ msgstr "蜘蛛不是昆虫。"
 msgid "Thanks for the clarification."
 msgstr "谢谢提醒。"
 
-#. [event]
 #. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
+#. [event]
 msgid "Wounded Dwarf"
 msgstr "受伤的矮人"
 
@@ -2980,8 +2985,8 @@ msgstr "你回来这里干什么？肮脏的矮人在北边，这里没有矮人
 msgid "Defeat the Cloaked Figure"
 msgstr "打败戴斗篷者"
 
-#. [event]
 #. [unit]: type=Troll Shaman, id=Zurg
+#. [event]
 msgid "Zurg"
 msgstr "泽格"
 
@@ -3062,8 +3067,8 @@ msgid ""
 "together, we must follow Zurg."
 msgstr "看来我们的工作还没有结束。好吧，集合队伍，我们得跟着泽格走。"
 
-#. [event]
 #. [unit]: type=Dwarvish Pathfinder, id=Grimnir
+#. [event]
 msgid "Grimnir"
 msgstr "格雷纳"
 
@@ -3566,7 +3571,8 @@ msgid "Dwarf Ally"
 msgstr "矮人同盟"
 
 #. [objective]: condition=win
-msgid "Kill Troll Leader"
+#, fuzzy
+msgid "Kill troll leader"
 msgstr "杀死巨魔首领"
 
 #. [unit]: type=Troll, id=Troll Interrogator
@@ -3672,8 +3678,8 @@ msgstr "有入侵者！杀啊！"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Wounded Dwarf
 #. [message]: speaker=Kaleh
+#. [message]: speaker=Wounded Dwarf
 msgid "Never!"
 msgstr "绝不!"
 
@@ -3757,13 +3763,13 @@ msgstr ""
 #. [message]: speaker=narrator
 #, fuzzy
 msgid ""
-"Any unit that ends its turn on a lava hex, except Shydes who can fly over "
-"the lava, will take 25 damage at the beginning of the next turn. This lava "
-"damage can kill units. Shydes will just take $heat_damage damage per turn "
-"when flying over lava, though they too can die if they spend too much time "
-"over it. Also because of the heat in the cavern, all units on cave floor "
-"hexes will take $heat_damage damage at the start of each turn. This heat "
-"damage can reduce a unit to 1 hit point, but it can’t kill it."
+"Any unit that ends its turn on a lava hex, except those who can fly over the "
+"lava, will take 25 damage at the beginning of the next turn. This lava "
+"damage can kill units. Flying units will just take $heat_damage damage per "
+"turn when flying over lava, though they too can die if they spend too much "
+"time over it. Also because of the heat in the cavern, all units on cave "
+"floor hexes will take $heat_damage damage at the start of each turn. This "
+"heat damage can reduce a unit to 1 hit point, but it can’t kill it."
 msgstr ""
 "除了可以飞跃岩浆的沙漠仙子和沙漠之星以外，任何停留在岩浆上的单位都会在下一回"
 "合开始的时候受到25点伤害。当然如果沙漠仙子和沙漠之星在岩浆上停留太久，他们也"
@@ -4078,10 +4084,10 @@ msgstr "矮人地界"
 msgid "Enemies"
 msgstr "敌人"
 
+#. [side]: id=Melusand, type=Mermaid Diviner
 #. [side]
 #. [side]: id=King Thurongar, type=Dwarvish Lord
 #. [side]: id=Great Leader Darmog, type=Great Troll
-#. [side]: id=Melusand, type=Mermaid Diviner
 msgid "Allies"
 msgstr "同盟"
 
@@ -4090,7 +4096,8 @@ msgid "Dwarf Chieftain"
 msgstr "矮人领主"
 
 #. [objective]: condition=win
-msgid "Kill Dwarf Chieftain"
+#, fuzzy
+msgid "Kill dwarf chieftain"
 msgstr "杀死矮人首领"
 
 #. [unit]: type=Dwarvish Steelclad, id=Dwarf Sergeant
@@ -4580,7 +4587,8 @@ msgid "King Thurongar"
 msgstr "瑟荣阁国王"
 
 #. [objective]: condition=win
-msgid "Choose a Unit to Take the Fire Blade"
+#, fuzzy
+msgid "Choose a unit to take the Fire Blade"
 msgstr "让一个单位取得烈火剑"
 
 #. [unit]: type=Dwarvish Stalwart, id=Jarl
@@ -4765,8 +4773,8 @@ msgstr ""
 msgid "I’m afraid, Kaleh, that the time has come for our paths to separate."
 msgstr "卡勒，很抱歉，恐怕到了我们分道扬镳的时候了。"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=unit
+#. [message]: speaker=Kaleh
 msgid "What?!"
 msgstr "什么？！"
 
@@ -5145,7 +5153,8 @@ msgid "Human Ally"
 msgstr "人类同盟"
 
 #. [objective]: condition=win
-msgid "Escape the Caves"
+#, fuzzy
+msgid "Escape the caves"
 msgstr "逃离洞窟"
 
 #. [objective]: condition=lose
@@ -6285,7 +6294,8 @@ msgstr ""
 "御阵型，然后探查山的这一边是什么情况。"
 
 #. [objective]: condition=win
-msgid "Explore Outside"
+#, fuzzy
+msgid "Explore outside"
 msgstr "探索外面"
 
 #. [message]: speaker=unit
@@ -6493,10 +6503,10 @@ msgstr ""
 "陵。山谷的中央是平的，四周是沙丘。山谷中央似乎有定居点。在更远的北边，我看见"
 "天际似乎有闪光，但我不知道那是什么。"
 
-#. [event]
-#. [unit]: type=Divine Avatar, id=Eloh
 #. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
+#. [unit]: type=Divine Avatar, id=Eloh
+#. [event]
 msgid "Eloh"
 msgstr "伊洛"
 
@@ -6893,7 +6903,8 @@ msgid ""
 msgstr "那我们要确保没有任何一个信使能逃出这个山谷去请求援军。"
 
 #. [objective]: condition=lose
-msgid "If a human messenger escapes the valley"
+#, fuzzy
+msgid "A human messenger escapes the valley"
 msgstr "人类信使逃脱山谷"
 
 #. [note]
@@ -8070,8 +8081,8 @@ msgid ""
 msgstr ""
 "我来告诉你们一个坏消息：你们中有一个人背叛了我，他是你们遭受磨难的原因。"
 
-#. [message]
 #. [message]: speaker=Zhul
+#. [message]
 #. [message]: type=Desert Hunter3, Desert Hunter4, Desert Hunter5, Desert Hunter6, Desert Hunter7, Desert Hunter8
 msgid "No!"
 msgstr "不！"
@@ -11380,6 +11391,51 @@ msgstr "那我们可不能错过啊。去年还有酒留下吗？"
 msgid "We’ll just have to find out. Come on!"
 msgstr "我们去找找看，来啊！"
 
+#. [objective]: condition=win
+msgid "Rescue Surviving Elves"
+msgstr "解救幸存者"
+
+#. [objective]: condition=win
+msgid "Kaleh Must Reach the Northern Edge of the Desert"
+msgstr "卡勒必须到达沙漠的北部边缘"
+
+#. [objective]: condition=win
+msgid "Defeat Outlaw Leader"
+msgstr "打败流寇首领"
+
+#. [objective]: condition=win
+msgid "Survive Until Dawn (or)"
+msgstr "黎明时仍活着（或）"
+
+#. [objective]: condition=win
+msgid "Defeat all Undead Leaders"
+msgstr "打败所有不死首领"
+
+#. [objective]: condition=win
+msgid "Defeat Possessed Garak (or)"
+msgstr "打败 歌莱克 （或）"
+
+#. [message]: speaker=Zhul
+msgid ""
+"Remember, Kaleh, it’s nasty fighting underground. Marksmen and Sharpshooters "
+"who can shoot well anywhere will be invaluable, as will Captains and "
+"Marshals who can inspire our people."
+msgstr ""
+"地下的战斗是险恶的，记住，卡勒，能在任意地形精确射击的神射手们会成为无价之"
+"宝，能够鼓舞士气的队长和元帅们也是。"
+
+#. [objective]: condition=win
+msgid "Explore Underground"
+msgstr "地下探险"
+
+#. [objective]: condition=win
+msgid "Defeat all Enemies"
+msgstr "打倒所有敌人"
+
+#. [objective]: condition=win
+msgid "Kill Troll Leader"
+msgstr "杀死巨魔首领"
+
 # 游戏中双日之下没有出现中文
 #. [message]: speaker=narrator
 msgid ""
@@ -11398,6 +11454,26 @@ msgstr ""
 "温，所有在洞穴中的单位每回合开始的时候会受到 $temp_damage 点伤害，这种热量的"
 "伤害最多会让单位的血量减到1点，但不会致死。"
 
+#. [objective]: condition=win
+msgid "Kill Dwarf Chieftain"
+msgstr "杀死矮人首领"
+
+#. [objective]: condition=win
+msgid "Choose a Unit to Take the Fire Blade"
+msgstr "让一个单位取得烈火剑"
+
+#. [objective]: condition=win
+msgid "Escape the Caves"
+msgstr "逃离洞窟"
+
+#. [objective]: condition=win
+msgid "Explore Outside"
+msgstr "探索外面"
+
+#. [objective]: condition=lose
+msgid "If a human messenger escapes the valley"
+msgstr "人类信使逃脱山谷"
+
 #. [unit_type]: id=Corrupted Elf, race=elf
 #. [unit_type]: id=Corrupted Quenoth Elf, race=elf
 msgid "Corrupted Elf"
@@ -11413,10 +11489,6 @@ msgid ""
 msgstr ""
 "黑暗灵魂感染了这些精灵，使其拥有了非人的强大力量和魔法，它们是可怕的敌人。虽"
 "然精灵的身体让它们衰弱得很快，但这些怪物仍然是不死领主的有力武器。"
-
-#. [attack]: type=blade
-msgid "sword"
-msgstr "剑"
 
 #. [attack]: type=cold
 msgid "magic"
@@ -11435,10 +11507,6 @@ msgid ""
 msgstr ""
 "沙漠弓手从年轻时开始接受弓箭训练，擅长远程攻击。尽管他们的弓箭粗糙，不及祖"
 "先，但继承了勇猛的精神。"
-
-#. [attack]: type=pierce
-msgid "bow"
-msgstr "弓"
 
 #. [female]
 msgid "female^Desert Archer"
@@ -11461,8 +11529,8 @@ msgstr ""
 msgid "female^Desert Avenger"
 msgstr "沙漠复仇者"
 
-#. [variation]
 #. [unit_type]: id=Desert Captain, race=elf
+#. [variation]
 msgid "Desert Captain"
 msgstr "沙漠队长"
 
@@ -11475,8 +11543,8 @@ msgstr ""
 "沙漠队长掌握指挥的艺术，他们能提升相邻的级别为1的己方单位的能力。沙漠队长更喜"
 "欢和敌人近战，但他们也接受过弓箭训练。"
 
-#. [variation]
 #. [unit_type]: id=Desert Champion, race=elf
+#. [variation]
 msgid "Desert Champion"
 msgstr "沙漠斗士"
 
@@ -11502,20 +11570,8 @@ msgstr ""
 "沙漠德鲁伊是沙漠上强力的大师。她们精于诱捕大意的敌人，她们还能凭借自己对沙漠"
 "植物的渊博知识来治疗同盟。德鲁伊是精灵族群里重要的支援单位。"
 
-#. [attack]: type=impact
-msgid "staff"
-msgstr "杖"
-
-#. [attack]: type=impact
-msgid "ensnare"
-msgstr "诱捕"
-
-#. [attack]: type=pierce
-msgid "thorns"
-msgstr "荆棘"
-
-#. [variation]
 #. [unit_type]: id=Desert Fighter, race=elf
+#. [variation]
 msgid "Desert Fighter"
 msgstr "沙漠战士"
 
@@ -11528,8 +11584,8 @@ msgstr ""
 "沙漠战士是奎诺军中的主力。他们同时接受剑术和弓道的训练，就像其他大部分同胞一"
 "样，他们更喜欢用剑而不是弓。这些精灵脚力不错，在开阔的沙地里他们效率最高。"
 
-#. [variation]
 #. [unit_type]: id=Desert Hero, race=elf
+#. [variation]
 msgid "Desert Hero"
 msgstr "沙漠英雄"
 
@@ -11567,13 +11623,13 @@ msgstr ""
 "沙漠猎人被训练来搜索沙漠中的猎物和敌人。沙漠猎人能快速用链球缠住敌人，然后用"
 "剑结果他们。"
 
-#. [effect]: type=impact
 #. [attack]: type=impact
+#. [effect]: type=impact
 msgid "bolas"
 msgstr "链球"
 
-#. [unit_type]: id=Nym Hunter
 #. [female]
+#. [unit_type]: id=Nym Hunter
 msgid "female^Desert Hunter"
 msgstr "沙漠猎人"
 
@@ -11591,16 +11647,12 @@ msgstr ""
 "沙漠狙击手是用弓的专家。虽然他们的弓箭装备不如他们的祖先的那样精良，但是他们"
 "努力地磨练自己的技艺。他们出色的用弓技巧弥补了他们近战能力的不足。"
 
-#. [attack]: type=pierce
-msgid "longbow"
-msgstr "长弓"
-
 #. [female]
 msgid "female^Desert Marksman"
 msgstr "沙漠狙击手"
 
-#. [variation]
 #. [unit_type]: id=Desert Marshal, race=elf
+#. [variation]
 msgid "Desert Marshal"
 msgstr "沙漠元帅"
 
@@ -11639,8 +11691,8 @@ msgstr ""
 "靠近敌人，偷袭他们。他们的武器结合了链球和剑，可以轻易地杀死敌人或者使他们残"
 "废。"
 
-#. [unit_type]: id=Nym Prowler
 #. [female]
+#. [unit_type]: id=Nym Prowler
 msgid "female^Desert Prowler"
 msgstr "沙漠巡游者"
 
@@ -11694,8 +11746,8 @@ msgstr ""
 "沙漠护卫巡视沙漠，他们会在时机有利时驱逐敌人。沙漠护卫能用链球削弱敌人，然后"
 "用剑取其性命。"
 
-#. [unit_type]: id=Nym Sentinel
 #. [female]
+#. [unit_type]: id=Nym Sentinel
 msgid "female^Desert Sentinel"
 msgstr "沙漠护卫"
 
@@ -11706,10 +11758,6 @@ msgstr "沙漠萨满"
 #. [unit_type]: id=Desert Shaman, race=elf
 msgid "Desert Shamans focus on less violent ways to hinder the enemy."
 msgstr "沙漠萨满专精于使用不那么暴力的方法来阻碍敌人。"
-
-#. [attack]: type=impact
-msgid "entangle"
-msgstr "缠绕"
 
 #. [unit_type]: id=Desert Sharpshooter, race=elf
 msgid "Desert Sharpshooter"
@@ -11748,10 +11796,6 @@ msgstr ""
 msgid "SPECIAL_NOTE^ This unit can fly across any terrain except deep water."
 msgstr "本单位可以飞越除深水外的一切地形。"
 
-#. [attack]: type=impact
-msgid "faerie touch"
-msgstr "仙境之触"
-
 #. [unit_type]: id=Desert Star
 msgid "female^Desert Star"
 msgstr "沙漠之星"
@@ -11784,15 +11828,6 @@ msgid ""
 msgstr ""
 "只有在非常需要的时候，神才会显灵。神使用自己的力量在世间造出来一个暂时的形"
 "体，那些有幸见得如此具有力量而且完美的景象的人将得到祝福。"
-
-#. [attack]: type=arcane
-#. [attack]: type=impact
-msgid "fist"
-msgstr "拳头"
-
-#. [attack]: type=arcane
-msgid "lightbeam"
-msgstr "光柱"
 
 #. [unit_type]: id=Divine Incarnation
 msgid "female^Divine Incarnation"
@@ -11933,8 +11968,8 @@ msgid "Central Body"
 msgstr "中枢躯体"
 
 #. [unit_type]: id=Central Body, race=monster
-#. [unit_type]: id=Crawling Horror, race=monster
 #. [unit_type]: id=Pulsing Spire, race=monster
+#. [unit_type]: id=Crawling Horror, race=monster
 msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
 "before."
@@ -11951,10 +11986,6 @@ msgstr "虚弱的中枢躯体"
 #. [unit_type]: id=Crawling Horror, race=monster
 msgid "Crawling Horror"
 msgstr "游荡恐怖怪"
-
-#. [attack]: type=blade
-msgid "fangs"
-msgstr "尖牙"
 
 #. [unit_type]: id=Pulsing Spire, race=monster
 msgid "Pulsing Spire"
@@ -12002,10 +12033,6 @@ msgstr ""
 "螃蟹人是半螃蟹半人的生物，它是被韦诺学者们记录下的怪物中最为扭曲的一种了，可"
 "能是某种扭曲魔法的产物。这种怪胎如今已经散布到野外去了，它们喜欢在岸边水里栖"
 "息，捕食人类和动物。"
-
-#. [attack]: type=blade
-msgid "claws"
-msgstr "爪"
 
 #. [unit_type]: id=Dawarf, race=monster
 msgid "Dawarf"
@@ -12116,10 +12143,6 @@ msgstr ""
 "慢，他们会挥舞巨大的锤子来击碎敌人。他们通常守卫着娜迦的哨卡，但有时也参与进"
 "攻行动。"
 
-#. [attack]: type=impact
-msgid "mace"
-msgstr "锤"
-
 #. [unit_type]: id=Naga Hunter, race=naga
 msgid "Naga Hunter"
 msgstr "纳迦猎手"
@@ -12178,16 +12201,17 @@ msgid ""
 "of melee combat."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Champion, race=elf
+#. [unit_type]: id=Quenoth Champion, race=elf, description=
 #, fuzzy
 msgid "Quenoth Champion"
 msgstr "沙漠斗士"
 
 #. [attack]: type=pierce
-msgid "spear"
+#. [attack]: type=blade
+msgid "glaive"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Druid, race=elf
+#. [unit_type]: id=Quenoth Druid, race=elf, description=
 #, fuzzy
 msgid "female^Quenoth Druid"
 msgstr "沙漠德鲁伊"
@@ -12220,14 +12244,6 @@ msgid ""
 "Flagbearers are also masters of tactics. Any enemy commander intending on "
 "besting them on the battlefield must invariably possess vastly superior "
 "numbers."
-msgstr ""
-
-#. [attack]: type=impact
-msgid "ram"
-msgstr ""
-
-#. [attack]: type=pierce
-msgid "javelin"
 msgstr ""
 
 #. [unit_type]: id=Quenoth Flanker, race=elf
@@ -12269,23 +12285,17 @@ msgid ""
 "accuracy, even at full gallop."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Moon Shyde, race=elf
+#. [unit_type]: id=Quenoth Moon Shyde, race=elf, description=
 #, fuzzy
 msgid "female^Quenoth Moon Shyde"
 msgstr "沙漠仙子"
-
-#. [attack]: type=cold
-#. [attack]: type=arcane
-#. [attack]: type=fire
-msgid "touch"
-msgstr "触碰"
 
 #. [attack]: type=cold
 #, fuzzy
 msgid "chill gale"
 msgstr "冷冻波"
 
-#. [unit_type]: id=Quenoth Moon Singer, race=elf
+#. [unit_type]: id=Quenoth Moon Singer, race=elf, description=
 #, fuzzy
 msgid "female^Quenoth Moon Singer"
 msgstr "沙漠游侠"
@@ -12340,7 +12350,7 @@ msgstr ""
 msgid "trample"
 msgstr ""
 
-#. [unit_type]: id=Quenoth Ranger, race=elf
+#. [unit_type]: id=Quenoth Ranger, race=elf, description=
 #, fuzzy
 msgid "Quenoth Ranger"
 msgstr "沙漠游侠"
@@ -12384,6 +12394,11 @@ msgid ""
 "among the Quenoth elves."
 msgstr ""
 
+#. [unit_type]: id=Quenoth Shyde, race=elf, description=
+#, fuzzy
+msgid "female^Quenoth Shyde"
+msgstr "沙漠仙子"
+
 #. [unit_type]: id=Tauroch Stalwart, race=elf
 msgid "Tauroch Stalwart"
 msgstr ""
@@ -12395,24 +12410,19 @@ msgid ""
 "wiser to seek another path."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Sun Shyde, race=elf
+#. [unit_type]: id=Quenoth Sun Sylph, race=elf
 #, fuzzy
-msgid "female^Quenoth Sun Shyde"
+msgid "female^Quenoth Sun Sylph"
 msgstr "沙漠仙子"
 
-#. [unit_type]: id=Quenoth Sun Shyde, race=elf
+#. [unit_type]: id=Quenoth Sun Sylph, race=elf
 msgid ""
 "Stepping beyond what may have once been thought of as the boundaries of the "
-"faerie world, these shydes have transformed into beings of light and fire. "
+"faerie world, these elves have transformed into beings of light and fire. "
 "Not having spent centuries exploring and perfecting their abilities as their "
 "ancestors did, it is unknown what may yet be achieved by elvenkind in the "
 "new world."
 msgstr ""
-
-#. [attack]: type=arcane
-#, fuzzy
-msgid "faerie fire"
-msgstr "仙境之触"
 
 #. [unit_type]: id=Quenoth Sun Singer, race=elf
 #, fuzzy
@@ -12439,7 +12449,7 @@ msgid ""
 "battle better than those on foot or on more slender mounts."
 msgstr ""
 
-#. [unit_type]: id=Quenoth Warrior, race=elf
+#. [unit_type]: id=Quenoth Warrior, race=elf, description=
 #, fuzzy
 msgid "Quenoth Warrior"
 msgstr "被召唤的战士"
@@ -12639,14 +12649,6 @@ msgstr ""
 "没有谁知道蜘蛛巫妖如何诞生的，它们的样子望之生畏。用粗大的骨腿爬行，挥舞巨大"
 "的魔杖，这些怪物是不死族的爪牙。"
 
-#. [attack]: type=cold
-msgid "chill wave"
-msgstr "冷冻波"
-
-#. [attack]: type=arcane
-msgid "shadow wave"
-msgstr "暗影波"
-
 #. [unit_type]: id=Skeleton Rider, race=undead
 msgid "Skeleton Rider"
 msgstr "骷髅骑士"
@@ -12659,10 +12661,6 @@ msgid ""
 msgstr ""
 "他们是曾经驰骋平原的勇士，现在被邪恶的魔法唤醒，和他们的骷髅战马一起，去散播"
 "恐惧与破坏。"
-
-#. [attack]: type=blade
-msgid "axe"
-msgstr "斧"
 
 msgid " This unit is capable of basic healing and slowing dehydration."
 msgstr "这个单位有基本的治疗技能，并能缓解脱水。"
@@ -12739,9 +12737,7 @@ msgid "support"
 msgstr ""
 
 #. [dummy]: id=support
-msgid ""
-"At the start of each turn, no upkeep costs are incurred by adjacent friendly "
-"units."
+msgid "The upkeep costs of adjacent friendly units are lowered by 1."
 msgstr ""
 
 msgid ""

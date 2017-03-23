@@ -13,7 +13,7 @@ import subprocess
 
 TEXTDOMAINS = [
     'wesnoth', 'ai', 'anl', 'aoi', 'did', 'dm', 'dw', 'editor', 'ei', 'help', 'httt',
-    'l', 'lib', 'low', 'manpages', 'manual', 'multiplayer', 'nr', 'sof',
+    'l', 'lib', 'low', 'manpages', 'manual', 'multiplayer', 'nr', 'sof', 'sota',
     'sotbe', 'tb', 'test', 'thot', 'trow', 'tsg', 'tutorial', 'units', 'utbs'
 ]
 

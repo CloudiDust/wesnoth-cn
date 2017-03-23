@@ -7,12 +7,12 @@
 # sylecn <sylecn AT yahoo DOT com DOT cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:23 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2017-01-31 17:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -22,6 +22,130 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 1.8.11\n"
+
+#. [attack]: type=impact
+#. [attack]: type=arcane
+msgid "fist"
+msgstr "拳头"
+
+#. [attack]: type=impact
+msgid "tail"
+msgstr "尾击"
+
+#. [attack]: type=impact
+msgid "tentacle"
+msgstr "触须"
+
+#. [attack]: type=pierce
+msgid "ink"
+msgstr "墨汁"
+
+#. [attack]: type=impact
+msgid "mace"
+msgstr "狼牙棒"
+
+#. [attack]: type=impact
+msgid "staff"
+msgstr "法杖"
+
+#. [attack]: type=impact
+msgid "crush"
+msgstr "压碎"
+
+#. [attack]: type=impact
+msgid "entangle"
+msgstr "缠绕"
+
+#. [attack]: type=blade
+msgid "short sword"
+msgstr "短剑"
+
+#. [attack]: type=cold
+msgid "chill wave"
+msgstr "冷冻波"
+
+#. [attack]: type=arcane
+msgid "shadow wave"
+msgstr "暗影波"
+
+#. [attack]: type=impact
+msgid "sling"
+msgstr "投石器"
+
+#. [attack]: type=blade
+msgid "axe"
+msgstr "斧"
+
+#. [attack]: type=blade
+msgid "greatsword"
+msgstr "巨剑"
+
+#. [attack]: type=impact
+msgid "flail"
+msgstr "连枷"
+
+#. [attack]: type=blade
+#. [attack]: type=arcane
+msgid "sword"
+msgstr "剑"
+
+#. [attack]: type=pierce
+#. [attack]: type=fire
+msgid "bow"
+msgstr "弓"
+
+#. [attack]: type=blade
+msgid "claws"
+msgstr "爪"
+
+#. [attack]: type=blade
+msgid "cleaver"
+msgstr "剁肉刀"
+
+#. [attack]: type=blade
+msgid "saber"
+msgstr "轻剑"
+
+#. [unit_type]: id=Walking Corpse, race=undead
+#. [unit_type]: id=Walking Corpse Shynal, race=undead
+msgid "Walking Corpse"
+msgstr "行尸"
+
+#. [variation]
+#. [unit_type]: id=Walking Corpse, race=undead
+#. [unit_type]: id=Walking Corpse Shynal, race=undead
+msgid ""
+"Walking Corpses are the bodies of the dead, re-animated by dark magic. "
+"Though not especially dangerous to a trained soldier, the sight of one’s "
+"former comrades amongst their number is frightening to say the least."
+msgstr ""
+"行尸是在黑魔法下重新活动起来的死者的躯壳。虽然它们对受过训练的士兵而言不算是"
+"很大的威胁，但若看到原来的同志变成行尸的一员，至少说也是非常恐怖的事情。"
+
+#. [attack]: type=arcane
+#. [attack]: type=impact
+#. [attack]: type=cold
+#. [attack]: type=fire
+msgid "touch"
+msgstr "触碰"
+
+#. [attack]: type=impact
+msgid "club"
+msgstr "木棒"
+
+#. [attack]: type=cold
+msgid "chill tempest"
+msgstr "冷冻风暴"
+
+#. [unit_type]: id=Necromancer, race=human
+#. [unit_type]: id=Sacrifice, race=human
+msgid "Necromancer"
+msgstr "死灵法师"
+
+#. [attack]: type=cold
+#. [attack]: type=pierce
+msgid "curse"
+msgstr "诅咒"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
@@ -60,10 +184,6 @@ msgstr ""
 "矮人战士使用强有力的战斧和大锤，使得他们在近战中成为令人恐惧的对手。他们非常"
 "擅长在山岭和地下世界作战。他们的力量和耐力要弥补速度上的相对缓慢是绰绰有余"
 "的。"
-
-#. [attack]: type=blade
-msgid "axe"
-msgstr "斧"
 
 #. [attack]: type=impact
 msgid "hammer"
@@ -182,19 +302,56 @@ msgstr ""
 "但拥有符文术的他们几乎是无敌的，因为符文会让敌人的物理攻击造成的伤害比预计的"
 "少。"
 
-#. [attack]: type=cold
-msgid "chill tempest"
-msgstr "冷冻风暴"
-
-#. [attack]: type=arcane
-msgid "shadow wave"
-msgstr "暗影波"
-
 # what is a shyde?
 #. [unit_type]: id=Elvish Shyde, race=elf
 #. [unit_type]: id=Autumn Shyde, race=elf
 msgid "female^Elvish Shyde"
 msgstr "精灵仙子"
+
+#. [attack]: type=blade
+msgid "bite"
+msgstr "咬"
+
+#. [attack]: type=pierce
+msgid "lance"
+msgstr "长枪"
+
+#. [attack]: type=impact
+msgid "shield bash"
+msgstr "盾击"
+
+#. [attack]: type=impact
+msgid "ensnare"
+msgstr "诱捕"
+
+#. [attack]: type=pierce
+msgid "thorns"
+msgstr "荆棘"
+
+#. [attack]: type=pierce
+msgid "longbow"
+msgstr "长弓"
+
+#. [attack]: type=impact
+msgid "faerie touch"
+msgstr "仙境之触"
+
+#. [attack]: type=arcane
+msgid "lightbeam"
+msgstr "光束"
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+msgid "fangs"
+msgstr "尖牙"
+
+#. [attack]: type=impact
+msgid "ram"
+msgstr "巨槌"
+
+#. [attack]: type=arcane
+msgid "faerie fire"
+msgstr "仙境之火"
 
 #. [unit_type]: id=Blood Bat, race=bats
 msgid "Blood Bat"
@@ -209,11 +366,6 @@ msgid ""
 msgstr ""
 "血色蝙蝠由它们深红的色泽得名，有些人把这当做它们的进食偏好的一种标志。这些生"
 "物行动迅速并且会吸取攻击目标的血液，因此会获得受害者所损失的体力中的一部分。"
-
-#. [attack]: type=blade
-#. [attack]: type=pierce
-msgid "fangs"
-msgstr "尖牙"
 
 #. [unit_type]: id=Dread Bat, race=bats
 msgid "Dread Bat"
@@ -374,10 +526,6 @@ msgstr ""
 "喷吐火焰的能力。这一能力再加上他们高大的身材和可怕的爪子，使得灼烧者成为战斗"
 "中致命的对手。"
 
-#. [attack]: type=blade
-msgid "claws"
-msgstr "爪"
-
 #. [unit_type]: id=Drake Clasher, race=drake
 msgid "Drake Clasher"
 msgstr "龙人冲击者"
@@ -422,10 +570,6 @@ msgstr ""
 "使得他们不能喷吐火焰，但在近距离上这无关紧要；唯一重要的是他们学会了在每一次"
 "攻击中都集中巨大的力量。龙人领袖们都很小心，免得玷污了执行者的名誉，为此往往"
 "只指派他们与威胁最大的敌人战斗。"
-
-#. [attack]: type=impact
-msgid "ram"
-msgstr "巨槌"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -491,9 +635,10 @@ msgid "Drake Flare"
 msgstr "龙人闪耀者"
 
 #. [unit_type]: id=Drake Flare, race=drake
+#, fuzzy
 msgid ""
 "Respected for the heat of their flame and revered for their charisma, Flares "
-"aspire to become great leaders of their people, both in war and peace. "
+"aspire to become great leaders of their people, both in war and in peace. "
 "Though a small isolated tribe will sometimes accept a Flare as a leader, "
 "they are more often seen leading small war parties or mediating disputes "
 "with a subtle hand."
@@ -789,9 +934,11 @@ msgstr "矮人铁甲兵"
 
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
 msgid ""
-"The more experienced Dwarvish Steelclad fighters wear heavy chain mail and "
-"plate armor, for which they are rightly famous."
-msgstr "经验更加丰富的矮人铁甲战士穿着厚重的链甲和板甲，他们以此而著称。"
+"Outfitted in the strongest plate and mail of Knalgan forges, the Steelclads "
+"are the vanguard of dwarvish armies. They are renowned for their resilience "
+"in the heat of battle, and their mastery of both battleaxe and warhammer "
+"make them imposing foes indeed."
+msgstr ""
 
 #. [unit_type]: id=Dwarvish Thunderer, race=dwarf
 msgid "Dwarvish Thunderer"
@@ -833,16 +980,6 @@ msgstr ""
 "手握弓箭也能变得非常致命。在战争中，许多精灵都会拿起弓箭。虽然他们相对而言没"
 "什么经验，因而在战斗中有些脆弱，但靠着自己的天赋，他们绝对能够击败人类的任何"
 "新兵。"
-
-#. [attack]: type=blade
-#. [attack]: type=arcane
-msgid "sword"
-msgstr "剑"
-
-#. [attack]: type=pierce
-#. [attack]: type=fire
-msgid "bow"
-msgstr "弓"
 
 #. [female]
 msgid "female^Elvish Archer"
@@ -926,18 +1063,6 @@ msgstr ""
 "\n"
 "她们的主要能力是治疗，德鲁伊们正是由于这种能力而被族人们敬重。"
 
-#. [attack]: type=impact
-msgid "staff"
-msgstr "法杖"
-
-#. [attack]: type=impact
-msgid "ensnare"
-msgstr "诱捕"
-
-#. [attack]: type=pierce
-msgid "thorns"
-msgstr "荆棘"
-
 #. [unit_type]: id=Elvish Enchantress, race=elf
 msgid "female^Elvish Enchantress"
 msgstr "精灵魔女"
@@ -953,14 +1078,6 @@ msgstr ""
 "精灵的魔法与人类的完全不同，以至于人类几乎完全无法理解，更别提使用了。同样"
 "地，擅长于精灵魔法的大师与她们使用的魔法一样神秘：虽然可以肯定她们的族人很敬"
 "重她们，但她们在自己的社会里扮演什么样的角色却鲜为人知。"
-
-#. [attack]: type=impact
-msgid "entangle"
-msgstr "缠绕"
-
-#. [attack]: type=arcane
-msgid "faerie fire"
-msgstr "仙境之火"
 
 #. [unit_type]: id=Elvish Fighter, race=elf
 msgid "Elvish Fighter"
@@ -1051,10 +1168,6 @@ msgstr ""
 "精灵们的目光奇迹一般地敏锐，这是他们善于使弓的原因之一。经过射术练习的精灵能"
 "射中人类甚至连看都看不到的目标，而且几乎在第一支箭离弦的同时就能射出第二箭。"
 "要使这惊人的技能成为现实是有代价的，那就是会在剑术方面缺少练习。"
-
-#. [attack]: type=pierce
-msgid "longbow"
-msgstr "长弓"
 
 #. [female]
 msgid "female^Elvish Marksman"
@@ -1207,10 +1320,6 @@ msgstr ""
 "如若献身于仙子之路，一位精灵少女最终会成为穿梭于仙境与凡间的生灵。她们受到一"
 "种几乎无法解释的自然力量的指引，这些精灵森林的美丽守护者，是她的族人们的优雅"
 "与神秘的化身。"
-
-#. [attack]: type=impact
-msgid "faerie touch"
-msgstr "仙境之触"
 
 #. [unit_type]: id=Elvish Sorceress, race=elf
 msgid "female^Elvish Sorceress"
@@ -1463,10 +1572,6 @@ msgstr ""
 msgid "longsword"
 msgstr "长剑"
 
-#. [attack]: type=pierce
-msgid "lance"
-msgstr "长枪"
-
 #. [unit_type]: id=Knight, race=human
 msgid "Knight"
 msgstr "骑士"
@@ -1574,10 +1679,6 @@ msgstr ""
 "在战争中一直是不可或缺的。军队中的弓手们往往出身低下，多数是农民和山野村夫。"
 "他们经过训练，能够使用弓箭和短剑。战场上随处可见他们的身影。"
 
-#. [attack]: type=blade
-msgid "short sword"
-msgstr "短剑"
-
 #. [unit_type]: id=Cavalier, race=human
 msgid "Cavalier"
 msgstr "近卫骑兵"
@@ -1662,10 +1763,6 @@ msgstr ""
 "缓慢，用于战斗时又让人觉得胜之不武，十字弩实际上还是很有用的。凡是活得足够长"
 "以至于可以称为老手的剑客们，常常向作战效果或者生存让步而使用它们。"
 
-#. [attack]: type=blade
-msgid "saber"
-msgstr "轻剑"
-
 #. [unit_type]: id=Fencer, race=human
 msgid "Fencer"
 msgstr "剑客"
@@ -1698,9 +1795,13 @@ msgstr "将军"
 #. [unit_type]: id=General, race=human
 msgid ""
 "As the leaders of their armies, Generals are responsible for the protection "
-"of large or important areas in the kingdoms to which they have sworn fealty."
+"of large or important areas in the kingdoms to which they have sworn fealty. "
+"Well seasoned in the art of war, Generals can direct even the freshest "
+"recruits to strike strategically against imposing odds and emerge "
+"victorious. Recognized by nobility and citizenry alike, they are outfitted "
+"in ornate plate armor and granted some of the finest weaponry that human "
+"craftsmen can offer."
 msgstr ""
-"作为军队的领袖，将军们负责保护他所宣誓效忠的的王国内广大或者重要的区域。"
 
 #. [unit_type]: id=Grand Marshal, race=human
 msgid "Grand Marshal"
@@ -1762,10 +1863,6 @@ msgstr ""
 "任务。只要有几位重甲步兵在战线上，就能很明显地使之加强，尽管在战术灵活性方面"
 "的代价是很明显的。"
 
-#. [attack]: type=impact
-msgid "mace"
-msgstr "狼牙棒"
-
 #. [unit_type]: id=Iron Mauler, race=human
 msgid "Iron Mauler"
 msgstr "铁槌人"
@@ -1815,9 +1912,13 @@ msgstr "中尉"
 
 #. [unit_type]: id=Lieutenant, race=human
 msgid ""
-"Trained at swords and crossbows, Lieutenants lead small groups of human "
-"soldiers, coordinating their attacks."
-msgstr "中尉接受过剑术和十字弩的训练，能领导一小群人类士兵，并协调他们的进攻。"
+"Lieutenants are some of the more respected commanding officers among humans "
+"and are often seen leading smaller-scale incursions and managing the "
+"battlefield. Trained both with sword and crossbow, they excel at neither, "
+"and are somewhat less resilient than the warlords of other races — this is "
+"more than made up for by their superior knowledge and training in military "
+"strategy."
+msgstr ""
 
 #. [unit_type]: id=Longbowman, race=human
 msgid "Longbowman"
@@ -1929,10 +2030,13 @@ msgid "Sergeant"
 msgstr "军士"
 
 #. [unit_type]: id=Sergeant, race=human
+#, fuzzy
 msgid ""
-"The Sergeant is a low-ranking officer in the ranks of an army. Though "
-"academically trained, he will need some experience in the field before his "
-"leadership is sound and acknowledged."
+"Sergeants are low-ranking officers of human armies. Though academically "
+"trained, they need some experience in the field before their leadership is "
+"sound and acknowledged. Still, their diligent bearing and basic insight of "
+"combat means they can more effectively rouse civilians and peasants in "
+"trying situations."
 msgstr ""
 "军士是军队中的低阶军官。虽然受过军事院校的教育，但在他们的领导能力变得可靠并"
 "被承认之前，军士们还需要一些实战经验。"
@@ -1957,10 +2061,6 @@ msgstr ""
 "兵摧毁敌人的情景，经常会同样地摧毁任何对手的士气。敌人有时甚至会怀疑这铠甲之"
 "下裹着的是怪物而不是人。自然，穿着如此厚重的战甲的缺点是，他们需要较长的时间"
 "才能加入或退出战斗。"
-
-#. [attack]: type=impact
-msgid "flail"
-msgstr "连枷"
 
 #. [unit_type]: id=Spearman, race=human
 msgid "Spearman"
@@ -2228,10 +2328,6 @@ msgstr ""
 "\n"
 "虽然没有受过作战训练，但他们在对付魔法的或者非自然的事物时仍然是强大的盟友。"
 
-#. [attack]: type=arcane
-msgid "lightbeam"
-msgstr "光束"
-
 #. [female]
 msgid "female^White Mage"
 msgstr "白袍法师"
@@ -2253,10 +2349,6 @@ msgstr ""
 "明的力量驱散夜之阴影。\n"
 "\n"
 "这些男女恪守虔诚与荣誉之信条，不知疲倦地为乱世带来活力与秩序。"
-
-#. [attack]: type=impact
-msgid "morning star"
-msgstr "晨星之锤"
 
 #. [female]
 msgid "female^Mage of Light"
@@ -2282,8 +2374,8 @@ msgstr ""
 "大白天作战让游寇有点儿不适应，他们还是喜欢在夜幕掩护之下行动。"
 
 #. [attack]: type=impact
-msgid "sling"
-msgstr "投石器"
+msgid "morning star"
+msgstr "晨星之锤"
 
 #. [female]
 msgid "female^Outlaw"
@@ -2347,10 +2439,6 @@ msgstr ""
 "会被委派给他们，于是他们常常当送信的或者侦察的。由此而来的脚力和敏捷的身手在"
 "战斗中对他们的帮助很大。他们尽管武器很烂，却擅长骚扰敌人，特别是在夜幕的掩护"
 "之下。"
-
-#. [attack]: type=impact
-msgid "club"
-msgstr "木棒"
 
 #. [female]
 msgid "female^Footpad"
@@ -2471,11 +2559,13 @@ msgid "Peasant"
 msgstr "农民"
 
 #. [unit_type]: id=Peasant, race=human
+#, fuzzy
 msgid ""
 "Peasants are the backbone of the rural economy, and the soldiers of last "
 "resort. While not warlike by nature, they will stubbornly defend their "
-"homes. However, if you’re hurling peasants at your foes, you’re clearly out "
-"of superior forces."
+"homes. Their lack of training and discipline makes them unfit to hold a "
+"line, though; their reliance on farming tools as weaponry means they are "
+"only on the field of battle under the most desperate situations."
 msgstr ""
 "农民是农村经济的命脉，也是无路可退时的士兵。虽然并非天生好战，他们仍然能坚定"
 "地保卫自己的家园。然而，如果您不得不用农民海战术来对付敌人，那说明您肯定是没"
@@ -2491,11 +2581,13 @@ msgstr "皇家勇士"
 
 #. [unit_type]: id=Royal Warrior, race=human
 msgid ""
-"Royal warriors are the kings and princes of human noble houses, armed and "
-"armored to a degree heavier than that of their knights."
+"The kings and princes of human nobility are still often trained rigorously "
+"in the combat arts, partly out of tradition from when their ancestors made "
+"their wealth in war. Fitted in armor so skillfully made as to incite envy "
+"even from some dwarvish smiths, these nobles are well conditioned to the art "
+"of moving in heavy armor, and can maneuver across the battlefield much "
+"faster than their gilded plate would suggest."
 msgstr ""
-"皇家勇士是人类贵族中的国王与王子，他们的武装与铠甲比他们的骑士所用的要更重"
-"些。"
 
 #. [unit_type]: id=Woodsman, race=human
 msgid "Woodsman"
@@ -2629,10 +2721,6 @@ msgstr ""
 "口。当看到哈里发步兵高举着盾牌进军时，守军们常常不禁担忧起他们的城墙是否足够"
 "坚固。"
 
-#. [attack]: type=blade
-msgid "long sword"
-msgstr "长剑"
-
 #. [unit_type]: id=Batal, race=khalifate
 msgid "Batal"
 msgstr "哈里发游侠"
@@ -2719,10 +2807,6 @@ msgstr ""
 "哈里发武者们在哈里发军中小有名望，他们是以剑盾和信仰作为武装的战士。他们精进"
 "了自己的战斗技巧，在格斗中加入了强力的盾击以击倒无备之敌。尽管武者人数稀少，"
 "但只要他们出手，再难攻的碉堡也不再话下。"
-
-#. [attack]: type=impact
-msgid "shield bash"
-msgstr "盾击"
 
 #. [unit_type]: id=Hadaf, race=khalifate
 msgid "Hadaf"
@@ -3131,11 +3215,12 @@ msgstr "人鱼战士"
 
 #. [unit_type]: id=Merman Fighter, race=merman
 msgid ""
-"Skilled denizens of the sea, Mermen are powerful and quick in any watery "
-"environment, but lose most of their mobility on land."
+"Merfolk societies train their forces rigorously and carefully, and as a "
+"result the peace of their realm is kept by soldiers who are the undisputed "
+"champions of their aquatic homeland. Their resilience and skill with their "
+"iconic tridents make them mighty foes to try to combat in the seas, but they "
+"lose almost all their mobility if forced to fight on land."
 msgstr ""
-"人鱼是大海的住民，在任何水域中都是强大而迅捷的，但登陆之后却会丧失几乎全部的"
-"机动性。"
 
 #. [unit_type]: id=Merman Hoplite, race=merman
 msgid "Merman Hoplite"
@@ -3293,10 +3378,13 @@ msgid "Merman Triton"
 msgstr "人鱼三叉戟战士"
 
 #. [unit_type]: id=Merman Triton, race=merman
+#, fuzzy
 msgid ""
 "Tritons are combat masters of the sea. Skilled in use of the trident, "
 "Tritons easily defeat any enemy foolish enough to wander into their "
-"preferred environment."
+"preferred environment. Their mastery of their weapon affords them "
+"flexibility in its use, and the highest-ranking among them use weaponry more "
+"comparable to halberds than simple spears."
 msgstr ""
 "这些战士是海洋中的战斗大师。他们擅长使用三叉戟，可以轻易击溃任何愚蠢到胆敢侵"
 "入自己主场的敌人。"
@@ -3307,11 +3395,11 @@ msgstr "人鱼勇士"
 
 #. [unit_type]: id=Merman Warrior, race=merman
 msgid ""
-"The Mermen Warriors form the core of the mermen armies. Wielding powerful "
-"tridents, they are a bane to any who dare enter their waters."
+"The Mermen Warriors form the core of the mermen armies. They wield their "
+"tridents with a skill and diligence impressive even compared to the soldiers "
+"of other races, but doubly so considering the difficulties of fighting "
+"underwater, as any who try to match them in their homes can attest."
 msgstr ""
-"人鱼勇士是人鱼军队的中坚力量，持强力的三叉戟。对胆敢侵入人鱼领海的人而言，这"
-"些勇士就是他们的克星。"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 msgid "Cuttle Fish"
@@ -3326,14 +3414,6 @@ msgid ""
 msgstr ""
 "乌贼是海洋中的巨型生物。它们能用巨大的触须抓住对手，或从远处射出有毒的墨汁。"
 "要想从这些生物手里逃生，最好的办法就是呆在岸上。"
-
-#. [attack]: type=impact
-msgid "tentacle"
-msgstr "触须"
-
-#. [attack]: type=pierce
-msgid "ink"
-msgstr "墨汁"
 
 #. [unit_type]: id=Fire Dragon, race=monster
 msgid "Fire Dragon"
@@ -3359,14 +3439,6 @@ msgstr ""
 "\n"
 "与巨龙作战被认为是世界上最危险的事情，只有那些蠢货，或者最勇敢的骑士们才会挑"
 "战巨龙的威严。"
-
-#. [attack]: type=blade
-msgid "bite"
-msgstr "咬"
-
-#. [attack]: type=impact
-msgid "tail"
-msgstr "尾击"
 
 #. [unit_type]: id=Fire Guardian, race=monster
 msgid "Fire Guardian"
@@ -3404,10 +3476,6 @@ msgstr ""
 "还是比小黏土怪要强得多，除此以外它们的移动速度还更快。有些较为强大的召唤士为"
 "了更高效地骚扰平民和军队，而在探寻新手段的过程中召唤出了巨型黏土怪。有时它们"
 "也会在野地里漫游，而泥土成分让它们对使毒的野生生物免疫。"
-
-#. [attack]: type=impact
-msgid "fist"
-msgstr "拳头"
 
 #. [attack]: type=impact
 msgid "mud glob"
@@ -3556,9 +3624,9 @@ msgstr ""
 msgid "Wolf"
 msgstr "狼"
 
-#. [unit_type]: id=Direwolf, race=wolf
 #. [unit_type]: id=Great Wolf, race=wolf
 #. [unit_type]: id=Wolf, race=wolf
+#. [unit_type]: id=Direwolf, race=wolf
 msgid ""
 "Wolves are aggressive animals that hunt in packs. Although weak "
 "individually, a wolf pack can kill even the strongest man in minutes."
@@ -3694,10 +3762,6 @@ msgstr ""
 "食人魔是单独生活在野外的巨型生物，虽然巨大而丑陋，但外形还是非常像人类。虽然"
 "可以轻易地在速度或智慧上超过他们，他们的力量还是不容小视。"
 
-#. [attack]: type=blade
-msgid "cleaver"
-msgstr "剁肉刀"
-
 #. [unit_type]: id=Young Ogre, race=ogre
 msgid "Young Ogre"
 msgstr "食人魔幼兽"
@@ -3770,12 +3834,13 @@ msgstr "兽人步兵"
 
 #. [unit_type]: id=Orcish Grunt, race=orc
 msgid ""
-"Orcish Grunts form the core of the orcish forces. Although slower than human "
-"or elven fighters, Grunts can deliver much more powerful blows, and take "
-"more hits before falling."
+"Orcish Grunts are the mainstay of the orcish forces, made up of the biggest "
+"and strongest orcs the clan can muster, given the most basic of equipment "
+"and thrown into the field. Even these basic recruits can be dangerous, as "
+"the larger orcs are naturally strong and can survive many injuries before "
+"falling. What makes an orcish horde most threatening, however, is the sheer "
+"numbers in which these fighters can be fielded."
 msgstr ""
-"兽人步兵是兽人军队的中坚力量。虽然速度比人类或精灵战士慢，却能进行威力大得多"
-"的攻击，在被击倒之前也能承受更多的伤害。"
 
 #. [unit_type]: id=Orcish Leader, race=orc
 msgid "Orcish Leader"
@@ -3836,10 +3901,6 @@ msgstr ""
 "然他们也必然非常强壮。他们对剑和十字弩都很擅长，不过其真正的才干却是少见的领"
 "导能力，能够将兽人们集合起来战斗。他们发出的命令被遵从并不是因为恐惧，而是因"
 "为忠诚。"
-
-#. [attack]: type=blade
-msgid "greatsword"
-msgstr "巨剑"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 msgid "Orcish Slayer"
@@ -3905,12 +3966,17 @@ msgstr "兽人军阀"
 
 #. [unit_type]: id=Orcish Warlord, race=orc
 msgid ""
-"Only orcs with both great cunning and unsurpassed strength can become "
-"Warlords. Masters of the sword, and even possessing some skill with the bow, "
-"these beast-warriors lead their brethren with iron will and iron hand."
+"In a race where might is the be-all end-all of supremacy and respect, the "
+"orcs who achieve victory time and time again become the rulers of much "
+"greater orcish tribes. Wearing the most ornate armor they plunder from their "
+"enemies, the Orcish Warlords are true champions of battle, their mastery of "
+"the blade able to match even the finest from vaunted elvish and human "
+"schools of swordsmen. They even have practice with the bow, their usage of "
+"this ordinarily cowardly weapon offset by the sheer admiration their "
+"warriors have for them. However, the Warlords lack the insight for strategy "
+"and leading charisma of some of the more cunning orcs, and so the hordes "
+"they lead often fall simply due to their inability to truly lead."
 msgstr ""
-"只有足够狡诈并且力量非凡的兽人才能成为军阀。他们剑术高超，甚至还稍微会用点儿"
-"弓。这些野兽一般的勇士以钢铁的意志与钢铁的手腕领导着他们的弟兄。"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
 msgid "Orcish Warrior"
@@ -3918,12 +3984,13 @@ msgstr "兽人勇士"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
 msgid ""
-"Having mastered the art of dual-sword fighting, Orcish Warriors are highly "
-"respected among the Orcs, and highly feared by their foes. Their only "
-"weakness is their inability to wield the bow."
+"Orcish Warriors are those orcs who have proved their strength on the "
+"battlefield, choosing to display their skill by fighting with a sword in "
+"each hand. Their prowess in battle has gained them the respect of other "
+"orcs, and they will typically be seen ordering lesser bands of raiders. "
+"Despite their position, they rarely possess the commanding skills held by "
+"the leaders of other armies."
 msgstr ""
-"兽人勇士们精通用双手剑作战的艺术，族人们对他们尊敬有加，敌人对他们则惧怕不"
-"已。他们唯一的弱点在于不会使用弓箭。"
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 msgid "Saurian Ambusher"
@@ -3957,10 +4024,6 @@ msgstr ""
 "蜥蜴人拥有某种被人类称为巫术的能力，但他们实践的却是令人作呕的占卜术与黑魔"
 "法。虽然这些能力并不被人们所了解，但却——确定无疑地——被那些遭到这种能力攻击的"
 "人们所畏惧。"
-
-#. [attack]: type=cold
-msgid "curse"
-msgstr "诅咒"
 
 #. [unit_type]: id=Saurian Flanker, race=lizard
 msgid "Saurian Flanker"
@@ -4214,6 +4277,7 @@ msgstr ""
 msgid "Soulless"
 msgstr "无魂怪"
 
+#. [variation]
 #. [unit_type]: id=Soulless, race=undead
 msgid ""
 "The technique of animating a dead body is unfortunately well-known in the "
@@ -4224,11 +4288,6 @@ msgstr ""
 "不幸的是操控尸体的方法在黑魔法领域中广为流传，实践者们经常使用这种方法从毫无"
 "意志的尸体中获得仆人和士兵。这些蹒跚而行的家伙们经常数量庞大，但是脆弱易碎。"
 "战斗的到来会唤醒他们，使得他们变得可怕得多。"
-
-#. [attack]: type=impact
-#. [attack]: type=arcane
-msgid "touch"
-msgstr "触碰"
 
 #. [variation]
 msgid "wc_variation^Drake"
@@ -4267,21 +4326,13 @@ msgid "wc_variation^Wose"
 msgstr "树人"
 
 #. [variation]
+#, fuzzy
+msgid "wc_variation^Wolf"
+msgstr "树人"
+
+#. [variation]
 msgid "wc_variation^Bat"
 msgstr "蝙蝠"
-
-#. [unit_type]: id=Walking Corpse, race=undead
-msgid "Walking Corpse"
-msgstr "行尸"
-
-#. [unit_type]: id=Walking Corpse, race=undead
-msgid ""
-"Walking Corpses are the bodies of the dead, re-animated by dark magic. "
-"Though not especially dangerous to a trained soldier, the sight of one’s "
-"former comrades amongst their number is frightening to say the least."
-msgstr ""
-"行尸是在黑魔法下重新活动起来的死者的躯壳。虽然它们对受过训练的士兵而言不算是"
-"很大的威胁，但若看到原来的同志变成行尸的一员，至少说也是非常恐怖的事情。"
 
 #. [unit_type]: id=Ancient Lich, race=undead
 msgid "Ancient Lich"
@@ -4289,11 +4340,16 @@ msgstr "远古巫妖"
 
 #. [unit_type]: id=Ancient Lich, race=undead
 msgid ""
-"A being of this order is a revenant of ages long past. Anyone who encounters "
-"an Ancient Lich likely has far worse things to worry about than death."
+"A lich that accrues enough power over its newfound immortal lifespan becomes "
+"one who can stain souls with despair and sow ruin across the world. "
+"Invariably in command of a nigh-limitless horde of risen warriors and undead "
+"monsters, a lich of this order has a mastery of dark sorcery that can bring "
+"dread to the most storied magi of human and elven kind. Such a figure "
+"usually marks a dark and bloody chapter in history, and in those times of "
+"need, it is only through the tireless efforts of the most valiant heroes "
+"that the rise of an Ancient Lich has not led to the shadows ruling the world "
+"for the rest of time."
 msgstr ""
-"这一团体中的存在物，都是来自远古的亡魂。碰到远古巫妖的人所要担心的事情，似乎"
-"比死亡要糟糕得多。"
 
 #. [unit_type]: id=Dark Adept, race=human
 msgid "Dark Adept"
@@ -4318,10 +4374,6 @@ msgstr ""
 "所必须忍受的训练常常让他们精疲力竭，脆弱不堪。\n"
 "\n"
 "在这种身体条件下，他们唯一的武器，便是自己如此专注地学习的技艺。"
-
-#. [attack]: type=cold
-msgid "chill wave"
-msgstr "冷冻波"
 
 #. [female]
 msgid "female^Dark Adept"
@@ -4417,10 +4469,6 @@ msgstr ""
 "也许除了死灵法师的核心集团之外，别人都不知道巫妖的生命究竟是无限地延长了，还"
 "是仅仅有所增加而已。但既然这种问题有提出来的价值，那么这个事实本身就足以证明"
 "死灵教团所取得的成果有多么大了。"
-
-#. [unit_type]: id=Necromancer, race=human
-msgid "Necromancer"
-msgstr "死灵法师"
 
 #. [unit_type]: id=Necromancer, race=human
 msgid ""
@@ -4700,10 +4748,6 @@ msgstr ""
 "泥土而已。\n"
 "\n"
 "这样的一些遭遇，便是人们对据推测最古老的树人所知的一切。"
-
-#. [attack]: type=impact
-msgid "crush"
-msgstr "压碎"
 
 #. [unit_type]: id=Elder Wose, race=wose
 msgid "Elder Wose"

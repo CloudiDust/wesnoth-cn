@@ -5,12 +5,12 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:29 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2017-01-31 10:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -234,8 +234,8 @@ msgstr "我应该撤退吗？"
 msgid "female^Should I retreat?"
 msgstr "我应该撤退吗？"
 
-#. [message]: speaker=Galdrad
 #. [message]: speaker=Delfador
+#. [message]: speaker=Galdrad
 msgid "Good idea!"
 msgstr "好主意！"
 
@@ -614,35 +614,6 @@ msgid ""
 msgstr ""
 "这些假人只会在你和它们之间只有一格距离时才会进攻。如果足够谨慎，你应该能把它"
 "们逐个击破。"
-
-#. [set_menu_item]: id=skip_item
-msgid "End Scenario"
-msgstr "结束场景"
-
-#. [message]: speaker=narrator
-msgid ""
-"Do you want to keep practicing? You can end this scenario at any time by "
-"using the <b>End Scenario</b> item in the context menu to move on to the "
-"next phase of your training."
-msgstr ""
-"你要继续练习吗？你随时都可以通过点击上下文菜单中的<b>结束场景</b>来进入下一个"
-"阶段的训练。"
-
-#. [option]
-msgid "Yes, I’m still figuring it out."
-msgstr "是，我还在摸索呢。"
-
-#. [option]
-msgid "female^Yes, I’m still figuring it out."
-msgstr "是，我还在摸索呢。"
-
-#. [option]
-msgid "No, I think I’ve got it."
-msgstr "不，我想我已经弄明白了。"
-
-#. [option]
-msgid "female^No, I think I’ve got it."
-msgstr "不，我想我已经弄明白了。"
 
 #. [message]: speaker=student
 msgid ""
@@ -1342,6 +1313,10 @@ msgstr ""
 "记得要征募在当前战局中有用的部队。弓箭手在对付兽人步兵、狼骑兵和兽人首领时特"
 "别有效。"
 
+#. [message]: speaker=Galdrad
+msgid "Hurry up and defeat the orcs before they become entrenched!"
+msgstr ""
+
 #. [message]: speaker=student
 msgid "I have enough gold to recruit more units!"
 msgstr "我有足够的金币来征募更多单位！"
@@ -1563,17 +1538,9 @@ msgstr ""
 "战士年轻而又性急，他们懂得一些剑术却很容易受到敌人的伤害。尽管如此，他们仍然"
 "有在未来某天成为伟大武士的潜力。"
 
-#. [attack]: type=blade
-msgid "sword"
-msgstr "剑"
-
 #. [unit_type]: id=Fighteress, race=human
 msgid "female^Fighter"
 msgstr "战士"
-
-#. [attack]: type=blade
-msgid "saber"
-msgstr "轻剑"
 
 #. [unit_type]: id=Quintain, race=mechanical
 msgid "Quintain"
@@ -1584,10 +1551,6 @@ msgid ""
 "Quintains are used to practice swordplay and jousting on. It would be "
 "extremely unusual to be attacked by one."
 msgstr "刺靶是用来进行剑术和枪术练习的。被一个刺靶攻击是非常不可思议的事情。"
-
-#. [attack]: type=impact
-msgid "flail"
-msgstr "连枷"
 
 #. [message]: speaker=narrator
 msgid "Undo"

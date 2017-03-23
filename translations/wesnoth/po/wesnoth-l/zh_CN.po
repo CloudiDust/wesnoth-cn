@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:28 UTC\n"
+"POT-Creation-Date: 2017-03-17 03:58 UTC\n"
 "PO-Revision-Date: 2015-01-02 20:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1927,10 +1927,6 @@ msgstr ""
 "曾经伟大的勇士越过草原，这些骷髅马背上的骑手被邪恶魔法从地下召唤出来传播恐惧"
 "和破坏。"
 
-#. [attack]: type=blade
-msgid "axe"
-msgstr "斧"
-
 #. [attack]: type=impact
 msgid "trample"
 msgstr "践踏"
@@ -1951,10 +1947,6 @@ msgstr ""
 "界。死亡扈从服务他们以获得足够的邪恶力量从而变成死亡骑士。在此过程他们很好的"
 "学会运用骑士的力量，包括指挥属下的能力。"
 
-#. [attack]: type=blade
-msgid "sword"
-msgstr "剑"
-
 #. [unit_type]: id=Rogue Mage, race=human
 msgid "Rogue Mage"
 msgstr "流浪法师"
@@ -1971,10 +1963,6 @@ msgstr ""
 "法师做些必要的事以支持他们的黑暗魔法的研究。虽然不如那些有更多正式训练的法师"
 "那么熟练，但他们的魔法也相当致命，而且他们的盗匪行径的结果是拥有适当的短剑技"
 "能。"
-
-#. [attack]: type=blade
-msgid "short sword"
-msgstr "短剑"
 
 #. [attack]: type=cold
 msgid "ice blast"

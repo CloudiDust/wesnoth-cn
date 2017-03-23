@@ -4,11 +4,11 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"POT-Creation-Date: 2016-11-06 02:31+0300\n"
+"POT-Creation-Date: 2017-03-19 00:43+0300\n"
 "PO-Revision-Date: 2017-01-31 18:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1388,8 +1388,8 @@ msgid "Set team label"
 msgstr "设定团队标签"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
-msgid ":"
-msgstr "："
+msgid ";"
+msgstr ""
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid ""
@@ -2476,17 +2476,6 @@ msgid ""
 "moves."
 msgstr "此单位可以花费一次移动机会，在任意两座属于本阵营的村庄之间移动。"
 
-#. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
-msgid "Unpoison"
-msgstr "解毒"
-
-#. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
-msgid ""
-"A curer can cure a unit of poison, although that unit will receive no "
-"additional healing on the turn it is cured of the poison."
-msgstr ""
-"解毒师可以解除单位的中毒状态，但是该单位在被解毒的回合将不会获得额外的治疗。"
-
 #. type: Content of: <book><chapter><section><section><title>
 msgid "Experience"
 msgstr "经验值"
@@ -3335,11 +3324,11 @@ msgstr ""
 "少伤害的射程上进行攻击通常是明智的，而不是选择对敌人输出最大期望伤害。"
 
 #. type: Content of: <book><chapter><section><section><simpara>
+#, fuzzy
 msgid ""
 "In particular, use your ranged weapons if the enemy has no ranged attack. "
-"The computer&#8217;s default choice only looks for the most damage you can "
-"deal, so using it will often result in your units taking more damage than "
-"necessary."
+"Using it will often reduce the damage which your units take until the enemy "
+"dies."
 msgstr ""
 "特别地，如果对方没有远程攻击，那就使用您的远程武器。电脑的默认选择仅仅考虑了"
 "您所能输出的最大伤害，所以使用默认武器经常会使您的单位受到不必要的伤害。"

@@ -4,12 +4,12 @@
 # Dugucloud <dugucloud@qq.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:23 UTC\n"
+"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
 "PO-Revision-Date: 2017-02-01 14:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -260,8 +260,6 @@ msgid "Grogor-Tuk"
 msgstr "格罗高-图克"
 
 #. [side]: type=Goblin Pillager, id=Grogor-Tuk
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Orcish Slayer, id=Hagha-Tan
 #. [side]: type=Orcish Warrior, id=Tan-Garthak
 #. [side]: type=Orcish Warlord, id=Tish Golub
 #. [side]: type=Orcish Warlord, id=Knafa-ord
@@ -272,6 +270,8 @@ msgstr "格罗高-图克"
 #. [side]: type=Orcish Warrior, id=Qgthun
 #. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
 #. [side]: type=Orcish Warlord, id=Upgar
+#. [side]: type=Orcish Warrior, id=Urthaka-Tan
+#. [side]: type=Orcish Slayer, id=Hagha-Tan
 msgid "Pillagers"
 msgstr "劫掠者"
 
@@ -481,9 +481,9 @@ msgstr ""
 "也许让我们的一些同伴跟你一起去维尔帝比较好。这些地方对孤独的旅行者来说不安"
 "全，而且我们也许能发现是什么把兽人招来这么南的地方的。"
 
+#. [unit]: type=Arch Mage, id=Leollyn
 #. [side]: type=Arch Mage, id=Leollyn
 #. [scenario]: id=04_Leollyn
-#. [unit]: type=Arch Mage, id=Leollyn
 msgid "Leollyn"
 msgstr "利欧林"
 
@@ -491,17 +491,17 @@ msgstr "利欧林"
 msgid "Hagha-Tan"
 msgstr "哈格哈-坦"
 
-#. [side]: type=Arch Mage, id=Leollyn
 #. [side]: type=Journeyman Mage
 #. [side]: type=King of Wesnoth, id=Garard
 #. [modify_side]
 #. [side]: type=King of Wesnoth, id=Garard II
 #. [side]: type=Mage Commander
-#. [side]
 #. [side]: type=General, id=Eldred
 #. [side]: type=General, id=Lowel
-#. [side]: type=General, id=Pilafman
 #. [side]: type=Lieutenant, id=Niktor
+#. [side]
+#. [side]: type=General, id=Pilafman
+#. [side]: type=Arch Mage, id=Leollyn
 msgid "Loyalists"
 msgstr "保王党人"
 
@@ -878,20 +878,20 @@ msgstr "这箱子里装着那恶棍所有从上当的路人手上抢来的钱！
 msgid "Night in the Swamp"
 msgstr "沼泽之夜"
 
-#. [side]
-#. [side]: type=Death Knight, id=Arakar
 #. [side]: type=Death Knight, id=Rudimil
 #. [side]: type=Necromancer, id=Roth-Malal
 #. [side]: type=Necromancer, id=Barth-Malal
 #. [side]: type=Necromancer, id=Gruv-Malal
+#. [side]: type=Lich, id=Sagus
+#. [side]: type=Necromancer, id=Iliah-Malal
+#. [side]: type=Death Knight, id=Dirator
+#. [side]: type=Death Knight, id=Arakar
 #. [side]: type=Death Knight, id=Prepolur
 #. [side]: type=Dark Adept, id=Unuvim
 #. [side]: type=Lich, id=Iliah-Malal
 #. [side]: type=Necromancer, id=Maldun
 #. [side]: type=Death Knight, id=Alderoth
-#. [side]: type=Lich, id=Sagus
-#. [side]: type=Necromancer, id=Iliah-Malal
-#. [side]: type=Death Knight, id=Dirator
+#. [side]
 msgid "Undead"
 msgstr ""
 
@@ -1122,44 +1122,6 @@ msgstr "很容易知道啊……打他一拳，看他是不是醒的！"
 msgid "<i>Thump</i>!"
 msgstr "<b>砰</b>！"
 
-#. [message]: speaker={STRING}
-msgid "Do you serve Iliah-Malal, living man?"
-msgstr "大活人，你为伊利亚-玛拉做事吗？"
-
-#. [option]
-msgid "Yes, I serve him."
-msgstr "是啊。"
-
-#. [message]: speaker={STRING}
-msgid "Then you will not mind if we kill you! Hahahahah!"
-msgstr "那么你不会介意我们杀掉你吧！哈哈哈哈！"
-
-#. [option]
-msgid "No, I do not."
-msgstr "不是。"
-
-#. [message]: speaker={STRING}
-msgid "Then you will die forever!"
-msgstr "那么你就永远去死吧！"
-
-#. [message]: speaker={STRING}
-msgid "Iliah-Malal commands your death!"
-msgstr "伊利亚-玛拉叫你死！"
-
-#. [message]: speaker=Arakar
-msgid "Destroy the intruder, my minions!"
-msgstr "我的奴仆，干掉搅局者！"
-
-#. [message]: speaker=Delfador
-msgid "Something does not feel right about those villages..."
-msgstr "那村里情况不妙……"
-
-#. [message]: id=Delfador
-msgid ""
-"I must find that artifact of which the ghost spoke; it sounds too powerful a "
-"thing to be left in Iliah-Malal’s hands."
-msgstr "我必须找到鬼说的东西；这似乎是伊利亚-玛拉手里很强的东西。"
-
 #. [scenario]: id=09_Houses_of_the_Dead
 msgid "Houses of the Dead"
 msgstr "鬼灵室"
@@ -1167,10 +1129,6 @@ msgstr "鬼灵室"
 #. [side]
 msgid "Undead Followers"
 msgstr ""
-
-#. [unit]: id=Rorthin, type=Ghost
-msgid "Rorthin"
-msgstr "罗尔森"
 
 #. [part]
 msgid ""
@@ -1205,13 +1163,47 @@ msgid ""
 "Delfador opens his eyes and realizes he is <i>alone</i> in the <i>dark</i>."
 msgstr "德法多张开了他的眼睛，明白自己已经<b>独自在黑暗里</b>了。"
 
-#. [scenario]: id=09_Houses_of_the_Dead
-msgid "Rattles"
-msgstr "骷髅"
+#. [message]: speaker=Delfador
+msgid ""
+"This is surely the land of the dead... and it seems I am still alive. But "
+"then, as Leollyn warned, I can never return! I suppose I may as well explore."
+msgstr ""
+"这里确实是冥界……好像我还活着。但这样，就像利奥林警告的，我回不去了！我想我也"
+"该查探一下。"
 
-#. [scenario]: id=09_Houses_of_the_Dead
-msgid "Bones"
-msgstr "白骨"
+#. [unit]: id=Rorthin, type=Ghost
+msgid "Rorthin"
+msgstr "罗尔森"
+
+#. [message]: speaker=Rorthin
+msgid "A living man... so it is as Iliah-Malal says..."
+msgstr "活人……就像伊利亚-玛拉说的那样……"
+
+#. [message]: speaker=Delfador
+msgid "Speak again, spirit! Tell me of yourself. Who is this Iliah-Malal?"
+msgstr "那个灵魂，再说一遍！告诉我关于你自己的事。那伊利亚-玛拉是谁啊？"
+
+#. [message]: speaker=Rorthin
+msgid ""
+"My name is Rorthin. I died long ago, in a great battle... I have almost "
+"forgotten... Iliah-Malal is a living man, like you, who walks among the "
+"dead. He promises life to all those who follow him."
+msgstr ""
+"我是罗尔森。很久以前，我在一场浩大的战争中死去……我几乎忘记了……伊利亚-玛拉像你"
+"一样，是个活人，生活在冥界。他保证，所有跟随他的人都会复活。"
+
+#. [message]: speaker=Delfador
+msgid "I would very much like to meet Iliah-Malal. Where can I find him?"
+msgstr "我很想见一见伊利亚-玛拉。去哪里找他呢？"
+
+#. [message]: speaker=Rorthin
+msgid ""
+"Follow the dry river, then the road to the signpost in the north. I will "
+"guide you. Enter the houses of the dead as you pass, for others here may "
+"help you."
+msgstr ""
+"沿着旱河，再沿着路走到北方的路标。我指给你看。进入那些你路过的房子里，别人也"
+"会帮你的。"
 
 #. [scenario]: id=09_Houses_of_the_Dead
 msgid "Penella"
@@ -1240,8 +1232,8 @@ msgstr ""
 "你遇见了那些骷髅战士吗？他们的城堡在北边。虽然很难打过去，但是可以从西丹的村"
 "庄旁山谷里的密道过去。"
 
-#. [scenario]: id=09_Houses_of_the_Dead
 #. [unit]: id=Nameless, type=Spectre
+#. [scenario]: id=09_Houses_of_the_Dead
 msgid "Nameless"
 msgstr "无名"
 
@@ -1306,43 +1298,47 @@ msgid ""
 "than I do; he lives to the west."
 msgstr "据说他们在保护一个强大的法宝。罗德里知道的比我多；他住在西边。"
 
-#. [message]: speaker=Delfador
+#. [message]: id=Delfador
 msgid ""
-"This is surely the land of the dead... and it seems I am still alive. But "
-"then, as Leollyn warned, I can never return! I suppose I may as well explore."
-msgstr ""
-"这里确实是冥界……好像我还活着。但这样，就像利奥林警告的，我回不去了！我想我也"
-"该查探一下。"
-
-#. [message]: speaker=Rorthin
-msgid "A living man... so it is as Iliah-Malal says..."
-msgstr "活人……就像伊利亚-玛拉说的那样……"
+"I must find that artifact of which the ghost spoke; it sounds too powerful a "
+"thing to be left in Iliah-Malal’s hands."
+msgstr "我必须找到鬼说的东西；这似乎是伊利亚-玛拉手里很强的东西。"
 
 #. [message]: speaker=Delfador
-msgid "Speak again, spirit! Tell me of yourself. Who is this Iliah-Malal?"
-msgstr "那个灵魂，再说一遍！告诉我关于你自己的事。那伊利亚-玛拉是谁啊？"
+msgid "Something does not feel right about those villages..."
+msgstr "那村里情况不妙……"
 
-#. [message]: speaker=Rorthin
-msgid ""
-"My name is Rorthin. I died long ago, in a great battle... I have almost "
-"forgotten... Iliah-Malal is a living man, like you, who walks among the "
-"dead. He promises life to all those who follow him."
-msgstr ""
-"我是罗尔森。很久以前，我在一场浩大的战争中死去……我几乎忘记了……伊利亚-玛拉像你"
-"一样，是个活人，生活在冥界。他保证，所有跟随他的人都会复活。"
+#. [unit]: type=Skeleton, id=Rattles
+msgid "Rattles"
+msgstr "骷髅"
 
-#. [message]: speaker=Delfador
-msgid "I would very much like to meet Iliah-Malal. Where can I find him?"
-msgstr "我很想见一见伊利亚-玛拉。去哪里找他呢？"
+#. [message]: speaker=Rattles
+msgid "Do you serve Iliah-Malal, living man?"
+msgstr "大活人，你为伊利亚-玛拉做事吗？"
 
-#. [message]: speaker=Rorthin
-msgid ""
-"Follow the dry river, then the road to the signpost in the north. I will "
-"guide you. Enter the houses of the dead as you pass, for others here may "
-"help you."
-msgstr ""
-"沿着旱河，再沿着路走到北方的路标。我指给你看。进入那些你路过的房子里，别人也"
-"会帮你的。"
+#. [option]
+msgid "Yes, I serve him."
+msgstr "是啊。"
+
+#. [message]: speaker=Rattles
+msgid "Then you will not mind if we kill you! Hahahahah!"
+msgstr "那么你不会介意我们杀掉你吧！哈哈哈哈！"
+
+#. [option]
+msgid "No, I do not."
+msgstr "不是。"
+
+#. [message]: speaker=Rattles
+msgid "Then you will die forever!"
+msgstr "那么你就永远去死吧！"
+
+#. [unit]: type=Skeleton, id=Bones
+msgid "Bones"
+msgstr "白骨"
+
+#. [message]: speaker=Bones
+msgid "Iliah-Malal commands your death!"
+msgstr "伊利亚-玛拉叫你死！"
 
 #. [message]: speaker=narrator
 #. The Tomb Guardian's dialogue should sound especially archaic
@@ -1465,9 +1461,9 @@ msgstr ""
 msgid "The Gate Between Worlds"
 msgstr "两界之门"
 
+#. [side]: type=Necromancer, id=Iliah-Malal
 #. [unit]: id=Iliah-Malal, type=Lich
 #. [side]: type=Lich, id=Iliah-Malal
-#. [side]: type=Necromancer, id=Iliah-Malal
 msgid "Iliah-Malal"
 msgstr "伊利亚-玛拉"
 
@@ -3910,10 +3906,6 @@ msgstr ""
 "这种法师具有很多带人作战的经验。于是，1级和2级单位靠近他时会更有战斗力。他在"
 "战斗时也有治疗别人的能力。"
 
-#. [attack]: type=impact
-msgid "staff"
-msgstr "杖"
-
 #. [unit_type]: id=Mage Leader
 msgid "Mage Leader"
 msgstr "法师领队"
@@ -3943,14 +3935,6 @@ msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
 msgstr "这种树人会指挥藤蔓类的植物以阻碍敌人。"
-
-#. [attack]: type=impact
-msgid "crush"
-msgstr "压碎"
-
-#. [attack]: type=impact
-msgid "entangle"
-msgstr "缠绕"
 
 msgid "Kalenz"
 msgstr "卡伦茨"
@@ -4014,10 +3998,6 @@ msgstr "只有强大的法师才能使用。"
 #. [effect]
 msgid "staff of power"
 msgstr "强力法杖"
-
-#. [effect]: type=fire
-msgid "lightning"
-msgstr "闪电"
 
 #. [message]: speaker=unit
 msgid "A secret passage... I wonder where it leads..."
