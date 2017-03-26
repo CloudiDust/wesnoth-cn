@@ -6,13 +6,13 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2017-01-31 13:33+0800\n"
+"PO-Revision-Date: 2017-03-26 12:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. [generic_multiplayer]: id=user_map
 msgid "User Map"
@@ -295,27 +295,29 @@ msgid "teamname^South"
 msgstr "南军"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Defeat enemy leader(s)"
-msgstr "你队首领全部阵亡"
+msgstr "击败敌军首领"
 
 #. [note]
 msgid ""
 "The Great Mage Sulla has transported your armies to this bizarre nexus, and "
 "demands that you amuse her by doing battle."
-msgstr ""
+msgstr "大法师苏拉把你的军队传送到了这诡异的能量结点，并要求你作战以取悦她。"
 
 #. [note]
 msgid ""
 "Units may not move into a hex with a rock cairn. They may, however, be "
 "recruited to, and move from, such hexes."
 msgstr ""
+"单位不能移动到有岩石界碑的格子中，但可以被征募到这种格子里，并移动出去。"
 
 #. [note]
 msgid ""
 "Beginning on turn 4, the Great Mage Sulla will begin to unite the two halves "
 "of the battlefield. The process will be complete by the end of turn 6."
 msgstr ""
+"从第四回合开始，大法师苏拉会将战场的两部分合为一体。这个过程将在第六回合结束"
+"时完成。"
 
 #. [message]: speaker=narrator
 msgid "The Aethermaw growls."
@@ -453,11 +455,11 @@ msgid ""
 "cave, and lay down to rest. He was awoken by a bone-chilling roar."
 msgstr ""
 "希雷兹克的西克雷斯克斯是一位强大的蜥蜴人战士，被里斯里尔雷罗兹克氏族（翻"
-"译：“在沸腾的大河中猎杀敌人的氏族”）的长老们送到了这个区域。长老们正在准备对"
-"一个人类前哨站发动战争，因而需要欧克斯雷斯克的强大魔力。欧克斯雷斯克是一位蜥"
-"蜴人秘术师，人们最后一次见到他时他正在前往拉斯科库林湖。西克雷斯克斯发现了欧"
-"克斯雷斯克被石化的躯体以及一个被仔细包好的卷轴，那卷轴显然是被丢进了洞穴地面"
-"上的小缝隙里。他打开卷轴，粗略地读到了中间的一段文字：“当查克索被束缚起来，并"
+"译：“在沸腾之河中猎杀敌人的氏族”）的长老们送到了这个区域。长老们正在准备对一"
+"个人类前哨站发动战争，因而需要欧克斯雷斯克的强大魔力。欧克斯雷斯克是一位蜥蜴"
+"人秘术师，人们最后一次见到他时他正在前往拉斯科库林湖。西克雷斯克斯发现了欧克"
+"斯雷斯克被石化的躯体以及一个被仔细包好的卷轴，那卷轴显然是被丢进了洞穴地面上"
+"的小缝隙里。他打开卷轴，粗略地读到了中间的一段文字：“当查克索被束缚起来，并"
 "被‘上层世界’放逐之后，他暴怒的灵魂渴求着解放，而且他还是能在上层世界的某些区"
 "域里造成破坏性的影响。通过‘石之小径’的联结，这种影响从地表一直深入到‘地底之"
 "河’。这无比的怒火使得大蜥蜴们的蛋变异了，将他们的身躯和灵魂塑造成了查克索的仇"
@@ -760,9 +762,8 @@ msgstr ""
 "（三字师【MJQ】刻）"
 
 #. [multiplayer]: id=multiplayer_Clearing_Gushes
-#, fuzzy
 msgid "2p — Clearing Gushes"
-msgstr "4p — 冲突"
+msgstr "2p — 清理涌流"
 
 #. [multiplayer]: id=multiplayer_Clearing_Gushes
 msgid ""
@@ -774,6 +775,10 @@ msgid ""
 "rigorous discipline and organization of Wesnoth's armies are in no small "
 "part driven by a constant need to patrol and defend these prosperous lands."
 msgstr ""
+"泰河两岸是已知的世界上最肥沃的土地之一。春季和夏季，泰河沿线多发大水，于是土"
+"壤肥沃，秋季丰收。韦诺王国已将此地变为了财富与繁荣的发动机——也变为了无数次掠"
+"袭与侵攻的目标。韦诺军队严格的纪律和组织，在很大的程度上正是因巡逻及保卫这些"
+"沃土的持续性需要而形成的。"
 
 #. [multiplayer]: id=multiplayer_Cynsaun_Battlefield
 msgid "2p — Cynsaun Battlefield"
@@ -1022,9 +1027,8 @@ msgid ""
 msgstr "战争把和平的农场与村庄化为细密分割的战场。此地图由多克·帕特森设计。"
 
 #. [multiplayer]: id=multiplayer_Hellhole
-#, fuzzy
 msgid "2p — Hellhole"
-msgstr "2p — 小村"
+msgstr "2p — 地狱之门"
 
 #. [multiplayer]: id=multiplayer_Hellhole
 msgid ""
@@ -1036,6 +1040,11 @@ msgid ""
 "eternal scar on the land that to this day summons forth legions of wandering "
 "undead."
 msgstr ""
+"曾经，米利雷尔镇是人类东方边境上的一座宁静村镇。但当巫妖军阀玛尔-拉瓦纳尔崛起"
+"之时，一切都永远改变了。他在小镇中心撕裂出了一道无法言说的黑暗巫术之门，作为"
+"他的死亡军团的第一个集结点。虽然玛尔-拉瓦纳尔已经被击败了，但米利雷尔仍然是一"
+"处荒芜残败的所在，那门乃是大地上永恒的伤疤，仍然召唤着四处徘徊的亡灵军团，直"
+"至今日。"
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 msgid "2p — Hornshark Island"
@@ -1129,7 +1138,7 @@ msgstr "曾经繁华的采矿殖民地的些许残余，现在是劫掠者和盗
 
 #. [multiplayer]: id=multiplayer_Ruined_Passage
 msgid "2p — Ruined Passage"
-msgstr ""
+msgstr "2p — 破败通路"
 
 #. [multiplayer]: id=multiplayer_Ruined_Passage
 msgid ""
@@ -1142,16 +1151,21 @@ msgid ""
 "molten brimstone lies land kept pristine and untouched — yet mysteriously "
 "abandoned nonetheless."
 msgstr ""
+"长年以来的传说之中，在被泛滥的灾祸毁灭之前，遥远的西方被说成是万千生物的家"
+"园。传说记载了古人们在最后时刻的足智多谋，那时他们正努力击退狂暴的火焰与烟"
+"尘。直到最近，前往此地的秘密探险队才揭开了故事背后的真相——尤为惊人的是，他们"
+"发现了一排巨大的附魔城墙。在暴烈的火山岛和广阔的硫磺海之间，是一片保持原真、"
+"未受侵扰的土地——但还是被神秘地废弃了。"
 
 #. [multiplayer]: id=multiplayer_Ruphus_Isle
 msgid "2p — Ruphus Isle"
-msgstr ""
+msgstr "2p — 鲁弗斯岛"
 
 #. [multiplayer]: id=multiplayer_Ruphus_Isle
 msgid ""
 "Players must navigate the dispersive terrain of this small but "
 "topographically dense island."
-msgstr ""
+msgstr "玩家们必须在这麻雀虽小五脏俱全的岛上那多样的地形之中游走。"
 
 #. [multiplayer]: id=multiplayer_Sablestone_Delta
 msgid "2p — Sablestone Delta"
@@ -1243,9 +1257,8 @@ msgid "A stone-carved likeness of Lo-bsang, Servant of Sulla."
 msgstr "苏拉的侍从罗-桑的石像。"
 
 #. [multiplayer]: id=multiplayer_Swamp_of_Dread
-#, fuzzy
 msgid "2p — Swamp of Dread"
-msgstr "2p — 黑石三角洲"
+msgstr "2p — 恐惧沼泽"
 
 #. [multiplayer]: id=multiplayer_Swamp_of_Dread
 msgid ""
@@ -1260,6 +1273,13 @@ msgid ""
 "great strategic value means it is fiercely contested by all with military "
 "aims in the Great Continent's heart."
 msgstr ""
+"恐惧沼泽位于泰河之北，是被邪恶魔法所诅咒的宽广而无法居住的泥沼。只有少数几条"
+"路径才不会通往几乎注定的陷阱或是死亡。即便如此，作为平坦的南方与崎岖的北方之"
+"间可以带来丰厚利益的通路，这些路径仍然广受欢迎。勇敢的探险家们穿越危险呃沼"
+"泽，寻找可以赚取利润的敌方建起贸易站。这些路径中最大的一条，艾雷斯之道，自上"
+"古时精灵与矮人的最初战争以来，一直是闻名遐迩的交叉口，亦是争议地区。尽管土地"
+"贫瘠，资源缺乏，但巨大的战略价值让艾雷斯之道成为了泰陆核心地区一切拥有武装力"
+"量的团体激烈争夺的所在。"
 
 #. [multiplayer]: id=multiplayer_The_Freelands
 msgid "2p — The Freelands"
@@ -1280,9 +1300,8 @@ msgstr ""
 "的卡罗拉斯帝国主义者。"
 
 #. [multiplayer]: id=multiplayer_The_Walls_of_Pyrennis
-#, fuzzy
 msgid "2p — The Walls of Pyrennis"
-msgstr "2p — 鬼之巢穴"
+msgstr "2p — 菲伦尼斯之墙"
 
 #. [multiplayer]: id=multiplayer_The_Walls_of_Pyrennis
 msgid ""
@@ -1297,6 +1316,12 @@ msgid ""
 "Pyrennis have proved astoundingly indestructible both to time and war — that "
 "is, what scattered segments of it were actually completed."
 msgstr ""
+"当兽人部落刚开始大举进入泰陆时，一位名为铁王欧尔高的勇猛统治者着手第一次将忙"
+"于内讧的兽人部落统一起来。他试图征服整片泰陆，将其置于兽人的统治之下，并下令"
+"建造了巨大的菲伦尼斯要塞，作为他的力量的纪念碑。然而，正是这座城堡成了他的败"
+"因——他的属下们不愿意在命定的征服完成之前建好要塞，于是反叛了欧尔高并杀了他，"
+"因而之后数世纪，兽人群落都四分五裂。菲伦尼斯的城墙历经时间与战争的洗礼，坚不"
+"可摧，令人震惊——那是说，它那实际完工的零星部分。"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 msgid "2p — Thousand Stings Garrison"
@@ -1311,9 +1336,8 @@ msgid "Statue"
 msgstr "雕像"
 
 #. [multiplayer]: id=multiplayer_Tombs_of_Kesorak
-#, fuzzy
 msgid "2p — Tombs of Kesorak"
-msgstr "5p — 恐惧森林"
+msgstr "2p — 科索拉克之墓"
 
 #. [multiplayer]: id=multiplayer_Tombs_of_Kesorak
 msgid ""
@@ -1323,18 +1347,21 @@ msgid ""
 "whispering amongst the withered trees of this barren landscape. Unconcerned "
 "by their gloomy surroundings, your leaders have chosen this place to clash."
 msgstr ""
+"数百年前，战败的巫师科索拉克与他的追随者一起埋葬于此。如今，不洁的寒冷环绕着"
+"坟墓，许多人相信还是可以听到科索拉克的说话声，他在这贫瘠的土地之上枯萎的树丛"
+"之间低语。你们的首领们对身周的黑暗不以为意，还是选定这地方作为冲突的场所。"
 
 #. [note]
 msgid ""
 "The map contains mausoleums and campfires that shift the time of the day by "
 "one step toward night and day, respectively."
-msgstr ""
+msgstr "此地图包含陵墓和篝火，会分别将时段往夜间和昼间移动一步。"
 
 #. [note]
 msgid ""
 "The tile in the centre, which contains the casket of the titular "
 "necromancer, is always covered in pitch black fog."
-msgstr ""
+msgstr "中央的地块上有标题所述的死灵法师的灵柩，此处将一直被笼罩在漆黑的雾中。"
 
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 msgid "2p — Weldyn Channel"
@@ -1391,9 +1418,8 @@ msgid ""
 msgstr "只有一个派系能够在这幅紧凑的三人对战地图上获胜。"
 
 #. [multiplayer]: id=multiplayer_Bath_of_Glory
-#, fuzzy
 msgid "4p — Bath of Glory"
-msgstr "4p — 匕首小道"
+msgstr "4p — 荣耀洗礼地"
 
 #. [multiplayer]: id=multiplayer_Bath_of_Glory
 msgid ""
@@ -1406,6 +1432,12 @@ msgid ""
 "wealthy nobles can turn into veritable battlegrounds — but even this has "
 "become a form of entertainment woven into the allure of the Bath."
 msgstr ""
+"遥远的传奇都市玛利萨特因诸多伟大的工程而闻名——其中最受重视的工程之一，是名"
+"为“荣耀洗礼地”的巨大建物群。浴场是为返家的疲惫将士们建设的休憩的天堂，是只用"
+"砂砾建立起来的惊人的绿洲。一段时间之后，它自身成为了一座城市，围绕着洗礼地那"
+"狂野的文化，美术与音乐兴盛起来。这建筑群十分广阔，也就意味着富有的贵族们之间"
+"的怒火，会让此地成为真正的战场——但就算是战斗，也成为了一种娱乐形式，成为了洗"
+"礼地的诱人之处之一。"
 
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 msgid "4p — Blue Water Province"
@@ -1447,9 +1479,8 @@ msgid "Small map for 2 vs. 2."
 msgstr "适合于2v2对战的小型地图。"
 
 #. [multiplayer]: id=multiplayer_Geothermal
-#, fuzzy
 msgid "4p — Geothermal"
-msgstr "2p — 安瑟茂"
+msgstr "4p — 地热"
 
 #. [multiplayer]: id=multiplayer_Geothermal
 msgid ""
@@ -1459,6 +1490,9 @@ msgid ""
 "perilous and unstable, is nonetheless rich thanks to numerous foundries "
 "using the heat of volcanoes and hot springs to fuel their forges."
 msgstr ""
+"心之山脉的西沿是一片反差强烈的土地——沸腾的火山口让深蓝色的河水蜿蜒曲绕，穿行"
+"在尖耸的覆雪山脉之中，被翠绿的平原所点缀。这片土地虽然有时危险而不稳定，但仍"
+"然富庶，这都多亏了那许许多多依靠火山和温泉来为锻炉提供热能的铸造厂。"
 
 #. [multiplayer]: id=multiplayer_4p_Hamlets
 msgid "4p — Hamlets"
@@ -1728,7 +1762,7 @@ msgstr "仙境"
 msgid ""
 "Congratulations for surviving the map that so many people claim is "
 "impossible!"
-msgstr ""
+msgstr "祝贺你！你成功地在这地图上存活下来了，而很多人声称这是不可能的！"
 
 #. [message]: speaker=narrator
 msgid "Death"

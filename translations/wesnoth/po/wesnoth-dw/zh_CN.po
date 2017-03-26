@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # MrKing <yideey@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-18 21:06 UTC\n"
-"PO-Revision-Date: 2017-01-31 10:12+0800\n"
+"PO-Revision-Date: 2017-03-25 13:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. [campaign]: id=Dead_Water
 msgid "Dead Water"
@@ -579,9 +579,8 @@ msgid "Apparently you have your own bat."
 msgstr "看起来你拥有了你自己的蝙蝠。"
 
 #. [message]: speaker=Kai Krellis
-#, fuzzy
 msgid "Look! There is a bat."
-msgstr "看！这儿有一只巨大的蝙蝠。"
+msgstr "看！这儿有一只蝙蝠。"
 
 #. [message]: speaker=Kai Krellis
 #. [message]: speaker=second_unit
@@ -613,9 +612,8 @@ msgid "Undead Bat"
 msgstr "亡灵蝙蝠"
 
 #. [message]: speaker=Kai Krellis
-#, fuzzy
 msgid "Look! There is a bat. It is moving, but it looks half dead."
-msgstr "看！角落里有一只蝙蝠。它还在动，但看起来好像快死了。"
+msgstr "看！有一只蝙蝠。它还在动，但看起来好像快死了。"
 
 #. [message]: speaker=second_unit
 msgid ""
@@ -2073,7 +2071,7 @@ msgstr "我不会跟您走的。宝剑应该让你们的人拿走。"
 
 #. [message]: speaker=Kai Krellis
 msgid "This is not food. And it is definitely not a toy. Leave it."
-msgstr ""
+msgstr "这不是食物，更不是玩具。放下它。"
 
 #. [message]: speaker=narrator
 msgid "This sword is 8×4, magical, with <i>fire</i> damage."
@@ -2307,11 +2305,11 @@ msgstr "泰歌雅！不！"
 
 #. [message]: speaker=Kai Krellis
 msgid "Inky has found something. Someone should check it out."
-msgstr ""
+msgstr "墨墨发现了些什么。得有人去看看。"
 
 #. [message]: speaker=Kai Krellis
 msgid "Something must be there! Good bat! Someone should find out what it is."
-msgstr ""
+msgstr "那儿肯定有些什么！好蝙蝠！得有人去看看那到底是什么。"
 
 #. [message]: speaker=unit
 msgid ""
@@ -2614,7 +2612,7 @@ msgstr "在他伤到自己之前，谁来把指环从他手上拿走。"
 
 #. [message]: speaker=Kai Krellis
 msgid "Leave it."
-msgstr ""
+msgstr "放下它。"
 
 #. [message]: speaker=unit
 msgid "I’ll try on the ring."

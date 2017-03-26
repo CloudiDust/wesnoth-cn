@@ -8,13 +8,13 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # wind <everywherewind@gmail.com>, 2011.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-19 00:05+0300\n"
-"PO-Revision-Date: 2017-01-31 18:20+0800\n"
+"PO-Revision-Date: 2017-03-25 13:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -256,7 +256,6 @@ msgstr "手柄：用于加速的摇杆编号"
 msgid "Joystick: deadzone of the thruster"
 msgstr "手柄：用于加速的摇杆的死区大小"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
@@ -3112,7 +3111,6 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -3137,12 +3135,10 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -3519,12 +3515,11 @@ msgstr "安装依赖项目"
 
 #. [button]: id=ok
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #. [button]: id=cancel
-#, fuzzy
 msgid "No"
-msgstr "十一月"
+msgstr "否"
 
 #. [fonts]
 msgid ""
@@ -3542,27 +3537,22 @@ msgstr "Lato"
 msgid "DejaVu Sans Mono"
 msgstr "DejaVu Sans Mono"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3575,12 +3565,10 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 msgid "input"
 msgstr "输入"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3599,7 +3587,6 @@ msgstr[1] "（剩余%d回合）"
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%%的金币将会带到下一场景。"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [objective]: condition=win
 msgid "Defeat enemy leader(s)"
 msgstr "击败敌军首领"
@@ -3688,7 +3675,7 @@ msgstr "游戏录像"
 
 #. [action]: id=button-stopreplay, type=image
 msgid "pause"
-msgstr ""
+msgstr "暂停"
 
 #. [theme]: id=Classic
 msgid "theme^Classic"
@@ -4234,7 +4221,7 @@ msgstr "用治疗师来支援进攻——他们不需要亲手攻击任何东西
 
 #. [tip]
 msgid "<i>― The Scroll of Chantal, 516YW</i>"
-msgstr "<b>——香黛儿之卷轴，韦元516年</b>"
+msgstr "<b>——香黛尔之卷轴，韦元516年</b>"
 
 #. [tip]
 msgid ""
@@ -4773,7 +4760,7 @@ msgid "requesting information for user $nick"
 msgstr "正在请求用户$nick|的信息"
 
 msgid "(A) — admin command"
-msgstr ""
+msgstr "(A) — 管理员命令"
 
 msgid "(admin only)"
 msgstr "（管理员专用）"
@@ -4781,127 +4768,121 @@ msgstr "（管理员专用）"
 msgid ""
 "Send a query to the server. Without arguments the server should tell you the "
 "available commands."
-msgstr ""
+msgstr "向服务器发起一次查询。无参数时，服务器将把可用的命令告知你。"
 
 msgid ""
 "Ban and kick a player or observer. If he is not in the game but on the "
 "server he will only be banned."
 msgstr ""
+"将一位玩家或观察者封禁并踢出。如果他在服务器上而并不在当前游戏中，那么他只会"
+"被封禁。"
 
-#, fuzzy
 msgid "<nickname>"
-msgstr "<阵营> <昵称>"
+msgstr "<昵称>"
 
 msgid "Unban a user. He does not have to be in the game but on the server."
-msgstr ""
+msgstr "将一位用户解封。他并不一定要在当前游戏中，但一定要在服务器上。"
 
 msgid "Kick a player or observer."
-msgstr ""
+msgstr "将一位玩家或观察者踢出。"
 
 msgid "Mute an observer. Without an argument displays the mute status."
-msgstr ""
+msgstr "将一位观察者禁言。无参数时，显示当前禁言状态。"
 
 msgid "Unmute an observer. Without an argument unmutes everyone."
-msgstr ""
+msgstr "将一位观察者解除禁言。无参数时，解除所有人的禁言。"
 
 msgid "Mute/Unmute all observers. (toggles)"
-msgstr ""
+msgstr "将所有观察者禁言/解除禁言。（禁言状态开关）"
 
 msgid ""
 "Report abuse, rule violations, etc. to the server moderators. Make sure to "
 "mention relevant nicknames, etc."
 msgstr ""
+"将滥用情形及违反规则的情况等报告给服务器管理员。请确保提及相关的昵称等。"
 
-#, fuzzy
 msgid "<message>"
-msgstr "信息："
+msgstr "<信息>"
 
 msgid "Send an emotion or personal action in chat."
-msgstr ""
+msgstr "在交谈中发送感情表达或个人动作信息。"
 
 msgid ""
 "Sends a private message. You cannot send private messages to players in a "
 "running game you observe or play in."
 msgstr ""
+"发送私密信息。如果你正在观察或参与一场进行中的游戏，那么你不能向该游戏中的玩"
+"家发送私密信息。"
 
 msgid "<nickname> <message>"
-msgstr ""
+msgstr "<昵称> <信息>"
 
 msgid "<level> <domain>"
-msgstr ""
+msgstr "<等级> <域>"
 
 msgid "Change the log level of a log domain."
-msgstr ""
+msgstr "更改日志域的日志等级。"
 
-#, fuzzy
 msgid "Add a nickname to your ignores list."
-msgstr "已加入忽略列表：$nick"
+msgstr "将一个昵称加入你的忽略列表。"
 
-#, fuzzy
 msgid "Add a nickname to your friends list."
-msgstr "已加入好友列表：$nick"
+msgstr "将一个昵称加入你的好友列表。"
 
 msgid "Remove a nickname from your ignores or friends list."
-msgstr ""
+msgstr "将一个昵称从你的忽略或好友列表中移除。"
 
-#, fuzzy
 msgid "Display version information."
-msgstr "未找到时代信息。"
+msgstr "显示版本信息。"
 
 msgid "<password> <email (optional)>"
-msgstr ""
+msgstr "<密码> <电子邮件（可选）>"
 
-#, fuzzy
 msgid "Register your nickname"
-msgstr "仅注册用户"
+msgstr "注册你的昵称。"
 
-#, fuzzy
 msgid "Drop your nickname."
-msgstr "正在废弃你的用户名"
+msgstr "废弃你的昵称。"
 
 msgid "Update details for your nickname. For possible details see '/details'."
-msgstr ""
+msgstr "更新你的昵称的详细信息。可以录入的详细信息种类请参见‘/details’。"
 
-#, fuzzy
 msgid "<detail> <value>"
-msgstr "<变量>=<值>"
+msgstr "<详细信息类型> <值>"
 
-#, fuzzy
 msgid "Request information about a nickname."
-msgstr "正在请求用户$nick|的信息"
+msgstr "请求一个昵称的有关信息。"
 
 msgid "Request a list of details you can set for your registered nickname."
 msgstr ""
+"你可以为你注册好的昵称录入详细信息，此命令请求这些可用的详细信息类型列表。"
 
 msgid "<room>"
-msgstr ""
+msgstr "<房间>"
 
-#, fuzzy
 msgid "Join a room."
-msgstr "加入游戏"
+msgstr "加入房间。"
 
 msgid "Part a room."
-msgstr ""
+msgstr "离开房间。"
 
 msgid "List room members."
-msgstr ""
+msgstr "列出房间成员。"
 
-#, fuzzy
 msgid "List available rooms."
-msgstr "不可用。"
+msgstr "列出可用的房间。"
 
 msgid "<room> <msg>"
-msgstr ""
+msgstr "<房间> <信息>"
 
-#, fuzzy
 msgid "Room message."
-msgstr "聊天信息"
+msgstr "房间内信息。"
 
 msgid "<room> <type> [value]"
-msgstr ""
+msgstr "<房间> <类型> [值]"
 
 msgid "Room query."
-msgstr ""
+msgstr "房间查询。"
 
 msgid "Unknown debug level: '$level'."
 msgstr "未知调试级别：“$level|”。"
@@ -4948,18 +4929,17 @@ msgstr "%b %d"
 msgid "%b %d %Y"
 msgstr "%b %d %Y"
 
-#, fuzzy
 msgid "Invalid color in range: "
-msgstr "无效颜色范围："
+msgstr "范围内颜色无效："
 
 msgid "Error validating data core."
-msgstr "验证数据时发生错误"
+msgstr "验证数据核心时发生错误。"
 
 msgid "Found a core without id attribute."
-msgstr "发现了没有ID属性的核心"
+msgstr "发现了没有ID属性的核心。"
 
 msgid "Skipping the core."
-msgstr "跳过此核心。"
+msgstr "正跳过此核心。"
 
 msgid "Core ID: "
 msgstr "核心ID："
@@ -5088,7 +5068,7 @@ msgid ""
 msgstr "所选定的模组并非全部互相兼容。其中一部分将被禁用。"
 
 msgid "A component"
-msgstr ""
+msgstr "一个组件"
 
 msgid "Only random sides in the current era."
 msgstr "仅当前时代中的随机阵营。"
@@ -5343,9 +5323,8 @@ msgstr "读取游戏时发生文件I/O错误：’"
 msgid "Error while starting server: "
 msgstr "启动服务器时发生错误： "
 
-#, fuzzy
 msgid "Random maps with an odd width aren't supported."
-msgstr "不支持data.width取值奇怪的随机地图"
+msgstr "不支持有奇怪的宽度的随机地图"
 
 msgid ""
 "No valid castle location found. Too many or too few mountain hexes? (please "
@@ -5355,7 +5334,7 @@ msgstr ""
 "寸”参数）"
 
 msgid "Linked '$id' group needs a 'fixed_width' or 'fixed_height' key."
-msgstr ""
+msgstr "链接到的‘$id’组需要‘fixed_width’或‘fixed_height’主键。"
 
 msgid ""
 "The selected add-on has the following dependency, which is not currently "
@@ -5370,17 +5349,14 @@ msgstr[1] ""
 "这个附加组件有下列依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
 "吗？"
 
-#, fuzzy
 msgid "No Saved Games"
-msgstr "保存游戏"
+msgstr "没有保存的游戏。"
 
-#, fuzzy
 msgid "There are no save files to load"
-msgstr "你试图载入的文件已损坏"
+msgstr "没有存档文件供载入"
 
-#, fuzzy
 msgid "No visible sides found."
-msgstr "未找到多人游戏阵营"
+msgstr "未找到可见的阵营。"
 
 msgid "In game:"
 msgstr "在游戏中："
@@ -5409,17 +5385,14 @@ msgstr "你"
 msgid "Error"
 msgstr "错误"
 
-#, fuzzy
 msgid "No units found."
-msgstr "未找到时代。"
+msgstr "未找到单位。"
 
-#, fuzzy
 msgid "no"
-msgstr "无"
+msgstr "否"
 
-#, fuzzy
 msgid "yes"
-msgstr "层 "
+msgstr "是"
 
 msgid "Reference to unknown topic: "
 msgstr "对未知主题的引用："
@@ -5653,16 +5626,14 @@ msgstr "东南"
 msgid "South West"
 msgstr "西南"
 
-#, fuzzy
 msgid "This command is currently unavailable."
-msgstr "没有可用战役。"
+msgstr "此命令当前不可用。"
 
 msgid ""
 "Unknown command '$command', try $help_command for a list of available "
 "commands."
-msgstr ""
+msgstr "未知命令‘$command’，请尝试用‘$help_commmand’命令获取可用命令的列表。"
 
-#, fuzzy
 msgid "Error:"
 msgstr "错误："
 
@@ -5670,36 +5641,36 @@ msgid ""
 "Available commands list and command-specific help. Use \"help all\" to "
 "include currently unavailable commands."
 msgstr ""
+"显示可用命令列表或提供特定于命令的帮助。使用“help all”以包含当前不可用的命"
+"令。"
 
-#, fuzzy
 msgid "do not translate the 'all'^[all|<command>]"
-msgstr "[<阵营> [on/off]]"
+msgstr "[all|<命令>]"
 
-#, fuzzy
 msgid "Missing argument $arg_id"
-msgstr "缺少附加组件：$id"
+msgstr "缺少参数$arg_id"
 
 msgid ""
 "Available commands $flags_description:\n"
 "$list_of_commands"
 msgstr ""
+"可用命令$flags_description：\n"
+"$list_of_commands"
 
 msgid "help"
-msgstr ""
+msgstr "帮助"
 
 msgid "Type $help_command <command> for more info."
-msgstr ""
+msgstr "键入$help_command <命令>以获取更多信息。"
 
-#, fuzzy
 msgid " No help available."
-msgstr "不可用。"
+msgstr " 无可用帮助信息。"
 
-#, fuzzy
 msgid "Usage:"
-msgstr "信息："
+msgstr "用法："
 
 msgid "aliases:"
-msgstr ""
+msgstr "别名："
 
 msgid "Save Map As"
 msgstr "地图另存为"
@@ -6012,7 +5983,6 @@ msgstr "无效单位类型"
 msgid "Invalid location"
 msgstr "无效位置"
 
-#, fuzzy
 msgid "wfl"
 msgstr "wfl"
 
@@ -6028,13 +5998,13 @@ msgid "This unit has no usable weapons."
 msgstr "此单位没有可用的武器。"
 
 msgid "Independent"
-msgstr ""
+msgstr "独立"
 
 msgid "No Mirror"
-msgstr ""
+msgstr "无镜像"
 
 msgid "No Ally Mirror"
-msgstr ""
+msgstr "无友方镜像"
 
 msgid "A player has joined"
 msgstr "一位玩家加入了"
@@ -6486,7 +6456,6 @@ msgstr "i"
 msgid "Skip"
 msgstr "跳过"
 
-#, fuzzy
 msgid "waiting for $desc from side(s) $sides"
 msgstr "等待来自$sides|阵营的$desc"
 
@@ -6517,55 +6486,50 @@ msgstr " 以及 "
 #. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
 msgid "$number_or_percent damage"
 msgid_plural "$number_or_percent damage"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$number_or_percent|伤害"
+msgstr[1] "$number_or_percent|伤害"
 
-#, fuzzy
 msgid "$number damage"
 msgid_plural "$number damage"
-msgstr[0] "伤害"
-msgstr[1] "伤害"
+msgstr[0] "$number|伤害"
+msgstr[1] "$number|伤害"
 
 #. TRANSLATORS: Current value for WML code increase_attacks, documented in https://wiki.wesnoth.org/EffectWML
 msgid "$number_or_percent strike"
 msgid_plural "$number_or_percent strikes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$number_or_percent|次打击"
+msgstr[1] "$number_or_percent|次打击"
 
 #. TRANSLATORS: Current value for WML code set_attacks, documented in https://wiki.wesnoth.org/EffectWML
-#, fuzzy
 msgid "$number strike"
 msgid_plural "$number strikes"
-msgstr[0] "次打击"
-msgstr[1] "次打击"
+msgstr[0] "$number|次打击"
+msgstr[1] "$number|打击数"
 
 #. TRANSLATORS: Current value for WML code set_accuracy, documented in https://wiki.wesnoth.org/EffectWML
 #. TRANSLATORS: Current value for WML code increase_accuracy, documented in https://wiki.wesnoth.org/EffectWML
-#, fuzzy, c-format
 msgid "$percent|% accuracy"
-msgstr "% 命中"
+msgstr "$percent|%命中"
 
 #. TRANSLATORS: Current value for WML code set_parry, documented in https://wiki.wesnoth.org/EffectWML
-#, fuzzy
 msgid "$number parry"
-msgstr " 格挡"
+msgstr "$number|次格挡"
 
 #. TRANSLATORS: Current value for WML code increase_parry, documented in https://wiki.wesnoth.org/EffectWML
 msgid "$number_or_percent parry"
-msgstr ""
+msgstr "$number_or_percent次格挡"
 
 #. TRANSLATORS: Current value for WML code set_movement, documented in https://wiki.wesnoth.org/EffectWML
-#, fuzzy
 msgid "$number movement point"
 msgid_plural "$number movement points"
-msgstr[0] "移动力"
-msgstr[1] "移动力"
+msgstr[0] "$number|移动力"
+msgstr[1] "$number|移动力"
 
 #. TRANSLATORS: Current value for WML code increase_movement, documented in https://wiki.wesnoth.org/EffectWML
 msgid "$number_or_percent movement point"
 msgid_plural "$number_or_percent movement points"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$number_or_percent|移动力"
+msgstr[1] "$number_or_percent|移动力"
 
 msgid "No description available."
 msgstr "没有描述信息。"
@@ -6582,51 +6546,45 @@ msgstr "混沌"
 msgid "female^liminal"
 msgstr "边缘"
 
-#, fuzzy
 msgid "lawful"
 msgstr "守序"
 
-#, fuzzy
 msgid "neutral"
 msgstr "中立"
 
-#, fuzzy
 msgid "chaotic"
 msgstr "混沌"
 
-#, fuzzy
 msgid "liminal"
 msgstr "边缘"
 
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|：$effect_description"
 
-#, fuzzy
 msgid "wesnoth"
 msgstr "韦诺"
 
 msgid "$number_or_percent move"
 msgid_plural "$number_or_percent moves"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$number_or_percent|次移动"
+msgstr[1] "$number_or_percent|次移动"
 
 msgid "$number_or_percent vision"
-msgstr ""
+msgstr "$number_or_percent|视野"
 
 msgid "$number_or_percent jamming"
-msgstr ""
+msgstr "$number_or_percent|干扰"
 
 msgid "$number_or_percent XP to advance"
-msgstr ""
+msgstr "$number_or_percent|经验值以升级"
 
-#, fuzzy
 msgid "$number_or_percent attack per turn"
 msgid_plural "$number_or_percent attacks per turn"
-msgstr[0] "次攻击/回合"
-msgstr[1] "次攻击/回合"
+msgstr[0] "$number_or_percent|次攻击/回合"
+msgstr[1] "$number_or_percent|次攻击/回合"
 
 msgid "$number_or_percent cost to recall"
-msgstr ""
+msgstr "$number_or_percent|召回费用"
 
 msgid "$effect_description per level"
 msgstr "每一等级$effect_description"

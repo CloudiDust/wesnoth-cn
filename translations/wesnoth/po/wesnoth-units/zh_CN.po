@@ -7,13 +7,13 @@
 # sylecn <sylecn AT yahoo DOT com DOT cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2017-01-31 17:41+0800\n"
+"PO-Revision-Date: 2017-03-26 09:10+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -30,7 +30,7 @@ msgstr "拳头"
 
 #. [attack]: type=impact
 msgid "tail"
-msgstr "尾击"
+msgstr "尾巴"
 
 #. [attack]: type=impact
 msgid "tentacle"
@@ -522,9 +522,9 @@ msgid ""
 "coupled with their sheer size and fearsome claws, makes them deadly foes in "
 "combat."
 msgstr ""
-"龙人灼烧者是骄傲的一群——他们继承了远古祖先最纯正的血统和力量，使得他们拥有了"
-"喷吐火焰的能力。这一能力再加上他们高大的身材和可怕的爪子，使得灼烧者成为战斗"
-"中致命的对手。"
+"龙人灼烧者是一个骄傲的小群体，他们继承了远古祖先最纯正的血统和力量，使他们拥"
+"有了喷吐火焰的能力。这一能力再加上他们高大的身材和可怕的爪子，使得灼烧者成为"
+"战斗中致命的对手。"
 
 #. [unit_type]: id=Drake Clasher, race=drake
 msgid "Drake Clasher"
@@ -635,7 +635,6 @@ msgid "Drake Flare"
 msgstr "龙人闪耀者"
 
 #. [unit_type]: id=Drake Flare, race=drake
-#, fuzzy
 msgid ""
 "Respected for the heat of their flame and revered for their charisma, Flares "
 "aspire to become great leaders of their people, both in war and in peace. "
@@ -768,7 +767,7 @@ msgid ""
 msgstr ""
 "守望者与其他冲击者阶层成员的区别有两点：首先是他们那按照巨龙祖先的样式制作"
 "的，装饰华丽的头盔，其次是在报到之前，他们总是很细心地用颜色鲜亮的布料将自己"
-"穿戴着盔甲的双翼装饰起来。尽管这种穿戴的方式来源于他们对自己在龙人社会中所担"
+"穿戴着铠甲的双翼装饰起来。尽管这种穿戴的方式来源于他们对自己在龙人社会中所担"
 "任的角色的自豪感，但这些穿戴可远远不是礼仪性质的。他们那笨重的青铜板甲是龙人"
 "熔炉中最强的杰作，而他们的战戟能够将人类一劈两半。"
 
@@ -802,7 +801,7 @@ msgid ""
 "he carves into his weapons and armor deflect the blows of his enemies."
 msgstr ""
 "矮人奥术师是所有符文师中最强大的，他几乎能够秒杀受伤的敌人，如果想要击伤对手"
-"时，也几乎不会失手。他的符文术技能无可匹敌，而他刻在武器和盔甲上的图案可以使"
+"时，也几乎不会失手。他的符文术技能无可匹敌，而他刻在武器和铠甲上的图案可以使"
 "得敌人的攻击打偏。"
 
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
@@ -895,9 +894,9 @@ msgid ""
 "and accuracy, and disrupt the blows of their enemies, causing them to strike "
 "softly, weakly and on the armor of the defender."
 msgstr ""
-"矮人符文工匠熟悉自己的手艺——在武器和盔甲上雕刻奥术符文。这些符文使得符文工匠"
+"矮人符文工匠熟悉自己的手艺——在武器和铠甲上雕刻奥术符文。这些符文使得符文工匠"
 "的攻击更强更准，同时也会干扰敌方的攻击，使得这些攻击变得软弱或是仅仅打在防守"
-"方的盔甲上。"
+"方的铠甲上。"
 
 #. [unit_type]: id=Dwarvish Scout, race=dwarf
 msgid "Dwarvish Scout"
@@ -918,7 +917,7 @@ msgstr ""
 "和耐力使得他们能够与任何人匹敌——除了速度最快的那些以外。矮人侦察兵利用了这一"
 "优势，先行于主力部队之前，并汇报敌军的动向与排兵布阵，或者确保达成重要的目"
 "标。在战斗之外，他们经常被指派去在矮人社区之间传达信息。不过，侦察兵们也为自"
-"己的速度付出了代价，他们的盔甲较薄，所能提供的保护也较差。"
+"己的速度付出了代价，他们的铠甲较薄，所能提供的保护也较差。"
 
 #. [unit_type]: id=Dwarvish Sentinel, race=dwarf
 msgid "Dwarvish Sentinel"
@@ -939,6 +938,9 @@ msgid ""
 "in the heat of battle, and their mastery of both battleaxe and warhammer "
 "make them imposing foes indeed."
 msgstr ""
+"铁甲兵们穿着来自纳尔迦锻炉中最坚固的铠甲，他们是矮人军队的先锋。他们因激烈的"
+"战斗中强韧的耐性而闻名，而挥舞战斧与战锤的精湛技艺也确实让他们成为了十分有威"
+"慑力的对手。"
 
 #. [unit_type]: id=Dwarvish Thunderer, race=dwarf
 msgid "Dwarvish Thunderer"
@@ -1402,7 +1404,7 @@ msgid ""
 "guard their diminutive frames."
 msgstr ""
 "地精常常被兽人作为扰乱敌方战线的游击队来使用。那些在最初的几场战斗后存活下来"
-"的地精装备了一根长矛以弥补自己打不到远处的缺点，还弄了一副好一点的盔甲来保护"
+"的地精装备了一根长矛以弥补自己打不到远处的缺点，还弄了一副好一点的铠甲来保护"
 "自己瘦小的身躯。"
 
 #. [unit_type]: id=Goblin Knight, race=wolf
@@ -1604,7 +1606,7 @@ msgid ""
 "down infantrymen who have made the mistake of breaking formation, and in "
 "piercing defensive lines. However, they have limited use in defense."
 msgstr ""
-"长枪轻骑兵是韦诺世界里最勇敢和最令人畏惧的骑兵。他们几乎不穿盔甲，因而移动迅"
+"长枪轻骑兵是韦诺世界里最勇敢和最令人畏惧的骑兵。他们几乎不穿铠甲，因而移动迅"
 "速，比其他骑兵都快。他们大胆的战术是一把双刃剑，要么为他们带来荣誉，要么则带"
 "来迅速的灭亡。长枪轻骑兵擅长追击那些犯下错误散开阵型的步兵，以及撕裂防御阵"
 "线。然而，他们在防御战中的作用有限。"
@@ -1802,6 +1804,10 @@ msgid ""
 "in ornate plate armor and granted some of the finest weaponry that human "
 "craftsmen can offer."
 msgstr ""
+"作为军队的领袖，将军们负责保护他所宣誓效忠的王国内广大亦或重要的区域。他们有"
+"长年的作战经验，可以指挥着哪怕新得不能再新的新兵策略性地进攻强大的敌手，并获"
+"得胜利。他们身着华丽的板甲，被授予了人类工匠所能制造的最好的武器，不论是贵族"
+"还是平民都能认出他们。"
 
 #. [unit_type]: id=Grand Marshal, race=human
 msgid "Grand Marshal"
@@ -1865,7 +1871,7 @@ msgstr ""
 
 #. [unit_type]: id=Iron Mauler, race=human
 msgid "Iron Mauler"
-msgstr "铁槌人"
+msgstr "铁槌兵"
 
 #. [unit_type]: id=Iron Mauler, race=human
 msgid ""
@@ -1880,7 +1886,7 @@ msgid ""
 "they cannot run on the battlefield. Too often have they seen a distant "
 "comrade fall, yet were powerless to reach the scene in time to help."
 msgstr ""
-"对他们的敌人而言，铁槌人名字的由来非常明显。穿着这些战甲的人有着与食人魔匹敌"
+"对他们的敌人而言，铁槌兵名字的由来非常明显。穿着这些战甲的人有着与食人魔匹敌"
 "的力量，是他们所服务的城堡卫队里的佼佼者。然而，他们需要昂贵的维护费用，而且"
 "需要一整队仆人的支持才能把他们送上远方前线。\n"
 "\n"
@@ -1908,7 +1914,7 @@ msgstr ""
 
 #. [unit_type]: id=Lieutenant, race=human
 msgid "Lieutenant"
-msgstr "中尉"
+msgstr "尉官"
 
 #. [unit_type]: id=Lieutenant, race=human
 msgid ""
@@ -1919,6 +1925,10 @@ msgid ""
 "more than made up for by their superior knowledge and training in military "
 "strategy."
 msgstr ""
+"尉官是人类之中受到较多尊重的指挥官。经常能够看到他们指挥小规模的入侵行动并纵"
+"观战场。他们接受过剑术和十字弩的训练，但两方面都不杰出，同时他们相比其他种族"
+"的军阀而言，也多多少少缺失一点耐伤能力——但他们的学识更加丰富，军事战略的训练"
+"更加深入，要弥补这一缺陷是远远足够了。"
 
 #. [unit_type]: id=Longbowman, race=human
 msgid "Longbowman"
@@ -2030,7 +2040,6 @@ msgid "Sergeant"
 msgstr "军士"
 
 #. [unit_type]: id=Sergeant, race=human
-#, fuzzy
 msgid ""
 "Sergeants are low-ranking officers of human armies. Though academically "
 "trained, they need some experience in the field before their leadership is "
@@ -2038,8 +2047,10 @@ msgid ""
 "combat means they can more effectively rouse civilians and peasants in "
 "trying situations."
 msgstr ""
-"军士是军队中的低阶军官。虽然受过军事院校的教育，但在他们的领导能力变得可靠并"
-"被承认之前，军士们还需要一些实战经验。"
+"军士是人类军队中的低阶军官。虽然受过军事院校的教育，但在他们的领导能力变得可"
+"靠并被承认之前，军士们还需要一些实战经验。虽然如此，他们尽心的态度和对于战斗"
+"的基本直觉还是意味着，在糟糕的状况下他们可以很有效地鼓舞城市平民和农民起来战"
+"斗。"
 
 #. [unit_type]: id=Shock Trooper, race=human
 msgid "Shock Trooper"
@@ -2559,7 +2570,6 @@ msgid "Peasant"
 msgstr "农民"
 
 #. [unit_type]: id=Peasant, race=human
-#, fuzzy
 msgid ""
 "Peasants are the backbone of the rural economy, and the soldiers of last "
 "resort. While not warlike by nature, they will stubbornly defend their "
@@ -2568,8 +2578,8 @@ msgid ""
 "only on the field of battle under the most desperate situations."
 msgstr ""
 "农民是农村经济的命脉，也是无路可退时的士兵。虽然并非天生好战，他们仍然能坚定"
-"地保卫自己的家园。然而，如果您不得不用农民海战术来对付敌人，那说明您肯定是没"
-"有更强力的部队可用。"
+"地保卫自己的家园。然而，他们缺乏训练和纪律，因此并不适于坚守防线；他们只能把"
+"农具当成武器来用，这意味着只有在最绝望的状况下，他们才不得不出现在战场上。"
 
 #. [attack]: type=pierce
 msgid "pitchfork"
@@ -2588,6 +2598,10 @@ msgid ""
 "of moving in heavy armor, and can maneuver across the battlefield much "
 "faster than their gilded plate would suggest."
 msgstr ""
+"通常来说，人类贵族中的国王与王子仍然要接受严格的战斗技艺训练，原因之一，是从"
+"他们那些通过战争获得财富的祖先那儿传下来的传统。他们穿着的铠甲的锻造技艺十分"
+"精湛，以至于会引起一些矮人工匠的嫉妒。这些贵族很擅长在身着重甲时行动，他们可"
+"以快速穿过战场，比他们镀金的板甲所暗示的要快得多。"
 
 #. [unit_type]: id=Woodsman, race=human
 msgid "Woodsman"
@@ -3221,6 +3235,10 @@ msgid ""
 "iconic tridents make them mighty foes to try to combat in the seas, but they "
 "lose almost all their mobility if forced to fight on land."
 msgstr ""
+"人鱼社会训练他们的军队时严格而细致，因此，他们的士兵们是水下家园无可争辩的守"
+"护者，保卫着领地的和平。由于他们的应变能力以及挥舞标志性的三叉戟的技艺，在海"
+"中试图与他们战斗时，他们会成为强大的敌手。但若是不得不在陆地上战斗，那他们几"
+"乎会完全失去机动能力。"
 
 #. [unit_type]: id=Merman Hoplite, race=merman
 msgid "Merman Hoplite"
@@ -3378,7 +3396,6 @@ msgid "Merman Triton"
 msgstr "人鱼三叉戟战士"
 
 #. [unit_type]: id=Merman Triton, race=merman
-#, fuzzy
 msgid ""
 "Tritons are combat masters of the sea. Skilled in use of the trident, "
 "Tritons easily defeat any enemy foolish enough to wander into their "
@@ -3386,8 +3403,9 @@ msgid ""
 "flexibility in its use, and the highest-ranking among them use weaponry more "
 "comparable to halberds than simple spears."
 msgstr ""
-"这些战士是海洋中的战斗大师。他们擅长使用三叉戟，可以轻易击溃任何愚蠢到胆敢侵"
-"入自己主场的敌人。"
+"人鱼三叉戟战士是海洋中的战斗大师。他们擅长使用三叉戟，可以轻易击溃任何愚蠢到"
+"胆敢侵入自己主场的敌人。他们擅用自己的武器，这让他们在使用三叉戟时十分灵活，"
+"而他们之中等级最高者所使用的武器更像是戟而不是简单的矛。"
 
 #. [unit_type]: id=Merman Warrior, race=merman
 msgid "Merman Warrior"
@@ -3400,6 +3418,9 @@ msgid ""
 "of other races, but doubly so considering the difficulties of fighting "
 "underwater, as any who try to match them in their homes can attest."
 msgstr ""
+"人鱼勇士组成了人鱼军队的核心。他们挥舞三叉戟时展现出的技艺与投入，哪怕是与其"
+"他种族的士兵们相比，也是十分惊人的。但考虑到在水下战斗时有多困难，这就加倍惊"
+"人了。任何试图在他们的家园和他们势均力敌对抗的人都能为这一点作证。"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 msgid "Cuttle Fish"
@@ -3841,6 +3862,10 @@ msgid ""
 "falling. What makes an orcish horde most threatening, however, is the sheer "
 "numbers in which these fighters can be fielded."
 msgstr ""
+"兽人步兵是兽人军队的主力，由部落所能集结的最大最强壮的兽人组成。他们会拿到最"
+"基本的装备，而后就被扔到战场上。就算是这些装备简陋的新兵也很危险，因为大兽人"
+"天生强壮，在倒下之前可以承受很多伤。然而，兽人部落之所以最有威胁，是因为可以"
+"上战场的兽人步兵的数量十分庞大。"
 
 #. [unit_type]: id=Orcish Leader, race=orc
 msgid "Orcish Leader"
@@ -3915,7 +3940,7 @@ msgid ""
 "the real cause of orcish supremacy."
 msgstr ""
 "体格更强、技艺更高的兽人刺客被敌人称作“杀手”。杀手能快速移动，在战斗中很灵"
-"活，不过这是以舍弃盔甲作为代价的。他们选择的武器是剧烈的毒药，而往往正是毒药"
+"活，不过这是以舍弃铠甲作为代价的。他们选择的武器是剧烈的毒药，而往往正是毒药"
 "的频繁使用才铸就了兽人在战场上的至高优势。"
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
@@ -3977,10 +4002,17 @@ msgid ""
 "and leading charisma of some of the more cunning orcs, and so the hordes "
 "they lead often fall simply due to their inability to truly lead."
 msgstr ""
+"在一个只有力量才意味着霸权，只有力量才意味着尊敬的种族里，一次又一次获胜的兽"
+"人会成为大得多的兽人部落的统治者。兽人军阀身着他们从敌人那里掠夺来的最华丽的"
+"铠甲，他们是战斗中真正的一流武士，他们对剑术的掌握，甚至可以匹敌最负盛名的精"
+"灵与人类剑术流派的剑士们。他们甚至还练习用弓，这通常来说是懦夫使用的武器，但"
+"他们属下的武士们对他们十分仰慕，以至于会对这武器不以为意。然而，军阀们缺乏那"
+"些更加狡猾的兽人的战略直觉和领袖魅力，所以他们领导的部落经常仅仅因为他们无法"
+"真正地进行领导而失败。"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
 msgid "Orcish Warrior"
-msgstr "兽人勇士"
+msgstr "兽人武士"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
 msgid ""
@@ -3990,7 +4022,7 @@ msgid ""
 "orcs, and they will typically be seen ordering lesser bands of raiders. "
 "Despite their position, they rarely possess the commanding skills held by "
 "the leaders of other armies."
-msgstr ""
+msgstr "兽人武士"
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 msgid "Saurian Ambusher"
@@ -4008,7 +4040,7 @@ msgid ""
 msgstr ""
 "蜥蜴人腿脚轻便，跨越那些叫敌人为难的地形易如反掌。当这种天生的机动性与经验、"
 "力量、以及恰当的装备结合起来时，蜥蜴人勇士在战斗中会变得特别有威胁——真希望这"
-"只是因为他们比其他对手更难限制住。即使身穿盔甲，蜥蜴人勇士也能穿过敌人防线的"
+"只是因为他们比其他对手更难限制住。即使身穿铠甲，蜥蜴人勇士也能穿过敌人防线的"
 "小小漏洞，并以非凡的勇气攻击他们，让他们后悔自己的战术错误。"
 
 #. [unit_type]: id=Saurian Augur, race=lizard
@@ -4190,7 +4222,7 @@ msgid ""
 "troll with proper armament is entirely unsettling."
 msgstr ""
 "巨魔在战斗中根本不需要也不喜欢使用任何正规的武器，巨大的“木棒和石头”已经完全"
-"够用了。不过，在很多场合下，人们也见到过身着粗糙盔甲、携带金属大锤的巨魔。有"
+"够用了。不过，在很多场合下，人们也见到过身着粗糙铠甲、携带金属大锤的巨魔。有"
 "人推测说，制造并提供这些装备的可能是他们的兽人盟友，因为人们曾数次深入被强制"
 "清空的巨魔洞穴进行探险，都几乎没有发现使用工具的痕迹，更是完全没有金属加工的"
 "影子。既然赤手空拳的巨魔都已经如此可怕，那关于一只全副武装的巨魔的想法真是太"
@@ -4326,9 +4358,8 @@ msgid "wc_variation^Wose"
 msgstr "树人"
 
 #. [variation]
-#, fuzzy
 msgid "wc_variation^Wolf"
-msgstr "树人"
+msgstr "狼"
 
 #. [variation]
 msgid "wc_variation^Bat"
@@ -4350,6 +4381,11 @@ msgid ""
 "that the rise of an Ancient Lich has not led to the shadows ruling the world "
 "for the rest of time."
 msgstr ""
+"在它新获得的无尽生命之中积攒了足够力量的巫妖会成为以绝望玷污灵魂，在世间种下"
+"毁灭的存在。一名这样等级的巫妖一定会指挥着由几乎无穷无尽的复苏武士与亡灵怪物"
+"组成的军团，它对黑暗巫术的掌握，会让最传奇的人类和精灵法师都心生畏惧。如此人"
+"物常常会在历史上留下黑暗而血腥的一章，而在那样的危急时刻，唯有最神勇的英雄们"
+"那不懈的努力，才没让远古巫妖的崛起成为笼罩万世的阴影的先声。"
 
 #. [unit_type]: id=Dark Adept, race=human
 msgid "Dark Adept"
