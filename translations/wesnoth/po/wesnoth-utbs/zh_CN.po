@@ -4,13 +4,13 @@
 # luojie <lililjlj@gmail.com>, 2009.
 # MrKing <yideey@gmail.com>, 2012.
 # Brian Lee <haiyuan.2007@gmail.com>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2015-06-06 15:44+0800\n"
+"PO-Revision-Date: 2017-03-26 22:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -36,8 +36,8 @@ msgid ""
 "journey to find a new home.\n"
 "\n"
 msgstr ""
-"遥远的将来，一群精灵在已经殒落的帝国废墟中挣扎求生。领导你的同胞走出沙漠，踏"
-"上寻找新家园的史诗般旅程吧。\n"
+"在遥远的未来，一群精灵在已经殒落的帝国废墟中挣扎求生。领导你的同胞走出沙漠，"
+"踏上寻找新家园的史诗般旅程吧。\n"
 "\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
@@ -50,57 +50,51 @@ msgid "Desert Hunter"
 msgstr "沙漠猎人"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Normal"
-msgstr "(普通)"
+msgstr "普通"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Challenging"
-msgstr "(挑战)"
+msgstr "挑战"
 
 #. [unit_type]: id=Desert Sentinel, race=elf
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Desert Sentinel"
-msgstr "沙漠护卫"
+msgstr "沙漠哨兵"
 
 #. [unit_type]: id=Desert Prowler, race=elf
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Desert Prowler"
-msgstr "沙漠巡游者"
+msgstr "沙漠徘徊者"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Nightmare"
-msgstr "(噩梦)"
+msgstr "噩梦"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Fighter"
-msgstr "沙漠战士"
+msgstr "战士"
 
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Normal, redesigned elf units"
-msgstr ""
+msgstr "普通，使用重新设计过的精灵单位"
 
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Challenging, redesigned elf units"
-msgstr ""
+msgstr "挑战，使用重新设计过的精灵单位"
 
 #. [advancement]: id=warrior_1
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Warrior"
-msgstr "被召唤的战士"
+msgstr "武士"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Champion"
-msgstr "沙漠斗士"
+msgstr "斗士"
 
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Nightmare, redesigned elf units"
-msgstr ""
+msgstr "噩梦，使用重新设计过的精灵单位"
 
 #. [about]
 msgid "Campaign Design"
@@ -153,7 +147,7 @@ msgstr "天亮以后"
 #. [side]
 #. [side]: id=Kaleh, type=Desert Fighter
 msgid "team_name^Quenoth Elves"
-msgstr "奎诺精灵卡勒"
+msgstr "奎诺精灵"
 
 #. [side]
 msgid "Monsters"

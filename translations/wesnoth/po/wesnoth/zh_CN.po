@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-19 00:05+0300\n"
-"PO-Revision-Date: 2017-03-25 13:27+0800\n"
+"PO-Revision-Date: 2017-04-05 20:49+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3531,11 +3531,11 @@ msgstr ""
 
 #. [fonts]
 msgid "Lato"
-msgstr "Lato"
+msgstr "Lato,DejaVu Sans,Andagii,Droid Sans Fallback"
 
 #. [fonts]
 msgid "DejaVu Sans Mono"
-msgstr "DejaVu Sans Mono"
+msgstr "DejaVu Sans Mono,Droid Sans Fallback"
 
 #. [lua]: set_status
 msgid "female^poisoned"
@@ -5506,13 +5506,13 @@ msgid "Jamming: "
 msgstr "干扰："
 
 msgid "Cost: "
-msgstr "花费："
+msgstr "征募花费："
 
 msgid "Required XP: "
 msgstr "所需经验值："
 
 msgid "unit help^Attacks"
-msgstr "次攻击"
+msgstr "攻击手段"
 
 msgid "unit help^Name"
 msgstr "名称"

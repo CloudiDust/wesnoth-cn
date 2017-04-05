@@ -2,13 +2,13 @@
 # Copyright (C) 2005-2015 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2016-08-08 20:45+0800\n"
+"PO-Revision-Date: 2017-03-26 22:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,10 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. [campaign]: id=Eastern_Invasion
-#, fuzzy
 msgid "Eastern Invasion"
 msgstr "东部入侵"
 
@@ -28,27 +27,24 @@ msgid "EI"
 msgstr "EI"
 
 #. [campaign]: id=Eastern_Invasion
-#, fuzzy
 msgid "Easy"
-msgstr "（容易）"
+msgstr "容易"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Spearman"
 msgstr "矛兵"
 
 #. [campaign]: id=Eastern_Invasion
-#, fuzzy
 msgid "Normal"
-msgstr "（普通）"
+msgstr "普通"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Swordsman"
 msgstr "剑士"
 
 #. [campaign]: id=Eastern_Invasion
-#, fuzzy
 msgid "Challenging"
-msgstr "（挑战）"
+msgstr "挑战"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Royal Guard"
@@ -90,13 +86,12 @@ msgid "Artwork and Graphics Design"
 msgstr "插图和图形设计"
 
 #. [lua]: wml_actions.bandit_village_capture
-#, fuzzy
 msgid "They're here!"
 msgstr "它们来了！"
 
 #. [lua]: wml_actions.bandit_village_capture
 msgid "No outlaws in this village."
-msgstr "这个村庄里没有强盗。"
+msgstr "此村庄里没有流寇。"
 
 #. [scenario]: id=01_The_Outpost
 msgid "The Outpost"
@@ -319,12 +314,12 @@ msgid ""
 "This outpost is already lost. We must defeat this evil if Wesnoth is to "
 "survive. Now, come on, we do not have much time to spare!"
 msgstr ""
-"这哨所已经丢了。若要让韦诺存在于世，我们必须击败这邪恶力量。现在赶快，我们没"
-"有多余的时间了！"
+"这哨所已经守不住了。若要让韦诺存在于世，我们必须击败这邪恶力量。现在赶快，我"
+"们没有多余的时间了！"
 
 #. [objective]: condition=win
 msgid "Move Gweddry to the trapdoor"
-msgstr "把格温德利移动到活板门处"
+msgstr "将格温德利移动到活板门处"
 
 #. [message]: speaker=Dacyn
 msgid "Hurry! We cannot defeat this evil today! We must escape!"
@@ -356,7 +351,7 @@ msgstr "努坦"
 
 #. [objective]: condition=win
 msgid "Move Gweddry to the tunnel exit"
-msgstr "把格温德利移动到隧道出口处"
+msgstr "将格温德利移动到隧道出口处"
 
 #. [note]
 msgid "Get moving quickly."
@@ -567,7 +562,7 @@ msgstr "戈鲁嘎-哈"
 
 #. [objective]: condition=win
 msgid "Defeat enemy leader"
-msgstr "击败敌军领袖"
+msgstr "击败敌军首领"
 
 #. [objective]: condition=lose
 msgid "Death of Volas"
@@ -653,7 +648,7 @@ msgstr "纳法加"
 msgid ""
 "Your Warlordship, I am the only assassin left! Do you want me to go poison "
 "their leader?"
-msgstr "阁下，我是唯一剩下的刺客！您希望我去让他们的领袖中毒吗？"
+msgstr "阁下，我是唯一剩下的刺客！您希望我去让他们的首领中毒吗？"
 
 #. [message]: speaker=Gruga-Har
 msgid "Perfect! Go, into the forest!"
@@ -712,7 +707,7 @@ msgstr "玛尔-特纳拉德"
 
 #. [objective]: condition=win
 msgid "Defeat either enemy leader"
-msgstr "击败任一敌军领袖"
+msgstr "击败任一敌军首领"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -980,7 +975,7 @@ msgstr "朔德拉诺"
 
 #. [objective]: condition=win
 msgid "Defeat the undead leader"
-msgstr "击败亡灵领袖"
+msgstr "击败亡灵首领"
 
 #. [objective]: condition=lose
 msgid "Death of Owaec"
@@ -1331,7 +1326,7 @@ msgstr "玛尔-昂-卡拉德"
 
 #. [objective]: condition=win
 msgid "Defeat the enemy leader"
-msgstr "击败敌军领袖"
+msgstr "击败敌军首领"
 
 #. [message]: speaker=Gweddry
 msgid ""
@@ -1518,7 +1513,7 @@ msgstr "普罗克-巴克"
 
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders"
-msgstr "击败所有敌军领袖"
+msgstr "击败所有敌军首领"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1644,11 +1639,11 @@ msgstr "克拉伽克"
 
 #. [objective]: condition=win
 msgid "Defeat the enemy leaders"
-msgstr "击败敌军领袖"
+msgstr "击败敌军首领"
 
 #. [objective]: condition=win
 msgid "Move Dacyn to the stronghold"
-msgstr "把格温德利移动到要塞"
+msgstr "将格温德利移动到要塞里"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -2205,7 +2200,7 @@ msgstr "科纳德二世"
 
 #. [objective]: condition=win
 msgid "Move Gweddry to Weldyn castle"
-msgstr "把格温德利移动到维尔帝城堡"
+msgstr "将格温德利移动到维尔帝城堡里"
 
 #. [objective]: condition=lose
 msgid "Death of Konrad II"
