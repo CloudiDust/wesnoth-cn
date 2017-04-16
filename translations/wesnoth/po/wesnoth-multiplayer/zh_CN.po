@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2017-03-26 12:09+0800\n"
+"PO-Revision-Date: 2017-04-15 18:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 #. [era]: id=era_khalifate
 msgid "Default + Khalifate"
-msgstr "默认 + 哈里发国"
+msgstr "默认 + 哈里发人"
 
 #. [era]: id=era_khalifate
 msgid ""
@@ -73,7 +73,7 @@ msgstr ""
 
 #. [era]: id=era_khalifate_heroes
 msgid "Age of Heroes + Khalifate"
-msgstr "英雄时代 + 哈里发国"
+msgstr "英雄时代 + 哈里发人"
 
 #. [era]: id=era_khalifate_heroes
 msgid ""
