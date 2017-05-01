@@ -562,7 +562,7 @@ msgstr "戈鲁嘎-哈"
 
 #. [objective]: condition=win
 msgid "Defeat enemy leader"
-msgstr "击败敌军首领"
+msgstr "击败敌方首领"
 
 #. [objective]: condition=lose
 msgid "Death of Volas"
@@ -707,7 +707,7 @@ msgstr "玛尔-特纳拉德"
 
 #. [objective]: condition=win
 msgid "Defeat either enemy leader"
-msgstr "击败任一敌军首领"
+msgstr "击败任一敌方首领"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1326,7 +1326,7 @@ msgstr "玛尔-昂-卡拉德"
 
 #. [objective]: condition=win
 msgid "Defeat the enemy leader"
-msgstr "击败敌军首领"
+msgstr "击败敌方首领"
 
 #. [message]: speaker=Gweddry
 msgid ""
@@ -1513,7 +1513,7 @@ msgstr "普罗克-巴克"
 
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders"
-msgstr "击败所有敌军首领"
+msgstr "击败所有敌方首领"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1639,7 +1639,7 @@ msgstr "克拉伽克"
 
 #. [objective]: condition=win
 msgid "Defeat the enemy leaders"
-msgstr "击败敌军首领"
+msgstr "击败敌方首领"
 
 #. [objective]: condition=win
 msgid "Move Dacyn to the stronghold"

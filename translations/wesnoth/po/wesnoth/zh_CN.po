@@ -3856,7 +3856,7 @@ msgstr "%d%%的金币将会带到下一场景。"
 
 #. [objective]: condition=win
 msgid "Defeat enemy leader(s)"
-msgstr "击败敌军首领"
+msgstr "击败敌方首领"
 
 msgid "OK"
 msgstr "确定"

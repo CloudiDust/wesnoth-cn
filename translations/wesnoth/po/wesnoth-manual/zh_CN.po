@@ -3619,7 +3619,7 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 msgid "Killing all enemy leaders usually gives instant victory."
-msgstr "通常击杀所有敌军首领就能立即获胜。"
+msgstr "通常击杀所有敌方首领就能立即获胜。"
 
 #. type: Content of: <book><chapter><section><section><title>
 msgid "More general tips"

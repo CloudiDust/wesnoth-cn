@@ -6236,7 +6236,7 @@ msgstr "闭嘴，你这个胆小鬼！"
 
 #. [objective]: condition=win
 msgid "Help Tallin defeat the enemy leaders or"
-msgstr "帮助泰林打败敌军首领或"
+msgstr "帮助泰林打败敌方首领或"
 
 #. [unit]: type=Elvish Marshal, id=Hidel
 #. [unit]: id=Hidel, type=Elvish Marshal
@@ -6290,7 +6290,7 @@ msgstr "你太傻了，人类！我们完全能够摧毁你们！"
 
 #. [objective]: condition=win
 msgid "Help Tallin defeat the enemy leaders"
-msgstr "帮助泰林打败敌军首领"
+msgstr "帮助泰林打败敌方首领"
 
 #. [option]
 msgid "Haha! Look at them run!"
