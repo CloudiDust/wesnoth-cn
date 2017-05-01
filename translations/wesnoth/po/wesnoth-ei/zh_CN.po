@@ -2601,7 +2601,7 @@ msgstr "科纳德阵亡"
 
 #. [objective]: condition=lose
 msgid "Letting any enemy unit onto your keep"
-msgstr "让任何敌军单位占领你的主楼"
+msgstr "让任何敌方单位占领你的主楼"
 
 #. [message]: speaker=Dacyn
 msgid ""

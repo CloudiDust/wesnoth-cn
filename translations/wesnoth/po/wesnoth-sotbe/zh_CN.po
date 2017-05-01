@@ -85,7 +85,7 @@ msgstr "文法、语法和WML辅助"
 
 #. [about]
 msgid "Artwork and Graphics"
-msgstr "美术与图像"
+msgstr "美工与图像"
 
 #. [scenario]: id=01_End_of_Peace
 msgid "End of Peace"

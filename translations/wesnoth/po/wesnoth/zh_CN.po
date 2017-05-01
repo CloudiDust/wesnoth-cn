@@ -293,7 +293,7 @@ msgstr "总体管理与协调"
 
 #. [about]
 msgid "Artwork and Graphics"
-msgstr "美术与图像"
+msgstr "美工与图像"
 
 #. [about]
 msgid "Music"
@@ -4756,13 +4756,13 @@ msgstr "发现单位！（$friendphrase，$enemyphrase）"
 
 msgid "Enemy unit sighted!"
 msgid_plural "$enemies enemy units sighted!"
-msgstr[0] "发现敌军单位！"
-msgstr[1] "发现$enemies|个敌军单位！"
+msgstr[0] "发现敌方单位！"
+msgstr[1] "发现$enemies|个敌方单位！"
 
 msgid "Friendly unit sighted"
 msgid_plural "$friends friendly units sighted"
-msgstr[0] "发现友军单位！"
-msgstr[1] "发现$friends|个友军单位！"
+msgstr[0] "发现友方单位！"
+msgstr[1] "发现$friends|个友方单位！"
 
 msgid "(press $hotkey to keep moving)"
 msgstr "（按$hotkey|继续移动）"

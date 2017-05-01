@@ -3684,7 +3684,7 @@ msgstr "显示已移动状态球"
 
 #. [grid]
 msgid "Show ally orb"
-msgstr "显示盟军状态球"
+msgstr "显示友军状态球"
 
 #. [grid]
 msgid "Show enemy orb"

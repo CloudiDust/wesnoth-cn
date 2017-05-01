@@ -75,7 +75,7 @@ msgstr "战役维护"
 
 #. [about]
 msgid "Artwork and Graphics Design"
-msgstr "美术和图像设计"
+msgstr "美工和图像设计"
 
 #. [scenario]: id=01_Saving_Parthyn
 msgid "Saving Parthyn"

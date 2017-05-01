@@ -3684,7 +3684,7 @@ msgstr "击败肉饭男"
 
 #. [objective]: condition=lose
 msgid "Enemy unit reaches the signpost"
-msgstr "敌军单位到达路标"
+msgstr "敌方单位到达路标"
 
 #. [message]: id=Delfador
 msgid ""
