@@ -14,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2017-04-30 16:15+0800\n"
+"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
+"PO-Revision-Date: 2017-05-23 22:52+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. [scenario]: id=22_The_Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -65,8 +65,8 @@ msgid ""
 "with Lich-Lord Jevyan awaits...\n"
 "\n"
 msgstr ""
-"和哈德里克王子一起逃离绿岛的毁灭，穿越大海去建立真正的韦诺王国。然而，巫妖王"
-"劫复魇正在前面不远处虎视眈眈地等着你们...\n"
+"和哈德里克王子一起逃离绿岛的毁灭，穿越泰洋，去建立韦诺王国本身。巫妖领主劫复"
+"魇正虎视眈眈……\n"
 "\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -99,7 +99,7 @@ msgid ""
 "country of Wesnoth, we came from an island kingdom far to the west..."
 msgstr ""
 "在哈德里克一世拯救了我们的人民并建立韦诺王国之前，我们来自遥远西方的一个岛"
-"国..."
+"国……"
 
 #. [part]
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "used dark magic, commanding vengeful spirits and legions of walking dead..."
 msgstr ""
 "他们是某场失败战争的幸存者，从他们在更西方的家园里逃亡而来。那些韦福克人数量"
-"并不多，但是他们使用暗黑魔法，指挥着凶灵和大批的行尸..."
+"并不多，但是他们使用暗黑魔法，指挥着凶灵和大批的行尸……"
 
 #. [part]
 msgid ""
@@ -147,7 +147,7 @@ msgid ""
 "but open ocean and vile sea monsters..."
 msgstr ""
 "东面的海况更糟。一股强劲冰冷的洋流从东海横扫而来，把所有的船只都严重推离了航"
-"线。往东方航行的船只报告说那边除了一望无际的海水就是邪恶的海怪..."
+"线。往东方航行的船只报告说那边除了一望无际的海水就是邪恶的海怪……"
 
 #. [part]
 msgid ""
@@ -179,15 +179,15 @@ msgid ""
 "Isle to make war with the Wesfolk. This is where our story begins..."
 msgstr ""
 "新的王储在岛上召集了一支前所未有的强大军队，向韦福克人发动了进攻。于是我们的"
-"故事开始了..."
+"故事开始了……"
 
 #. [part]
 msgid "... with the plight of a different prince on the same Isle..."
-msgstr "...与此时同，在岛的另一边，另一位王子正遭遇危机..."
+msgstr "……与此同时，在岛的另一边，另一位王子正遭遇危机……"
 
 #. [part]
 msgid "For this is the story of Haldric the First and the Rise of Wesnoth..."
-msgstr "这就是哈德里克一世和韦诺崛起的故事..."
+msgstr "这就是哈德里克一世和韦诺崛起的故事……"
 
 #. [side]: type=Noble Youth, type=Noble Fighter, id=Prince Haldric
 #. [side]: type=Noble Commander, id=Prince Haldric
@@ -304,7 +304,7 @@ msgstr "快些，儿子！我们必须赶在夏天的农作物被破坏之前取
 
 #. [message]: speaker=unit
 msgid "I invoke the right of surrender! Don’t kill me..."
-msgstr "不要杀我，我投降，你们不能杀俘虏..."
+msgstr "我行使投降权！别杀我……"
 
 #. [message]: speaker=Prince Haldric
 msgid "Why have you come to trouble our lands?"
@@ -315,8 +315,8 @@ msgid ""
 "Trouble your lands! Bah! Your fool Prince of Southbay has attacked our "
 "lands. The Lich-Lords had no choice... They opened a gate... and..."
 msgstr ""
-"祸害你们的家园？呸！你们愚蠢的南湾王子攻打了我们的领土。巫妖王们别无选择...他"
-"们打开了一扇传送门...然后..."
+"祸害你们的家园？呸！你们愚蠢的南湾王子攻打了我们的领土。巫妖王们别无选择……他"
+"们打开了一扇传送门……然后……"
 
 #. [message]: speaker=King Eldaric IV
 msgid "And what?"
@@ -365,7 +365,7 @@ msgstr ""
 
 #. [message]: speaker=King Eldaric IV
 msgid "We have run out of time... The crops shall spoil, we’ll starve!"
-msgstr "我们没时间了...庄稼被糟蹋了，我们要缺粮了！"
+msgstr "我们没时间了……庄稼被糟蹋了，我们要缺粮了！"
 
 #. [message]: speaker=second_unit
 msgid "Die, Wesfolk scum!"
@@ -454,13 +454,13 @@ msgid ""
 msgstr ""
 "哈德里克，大事不妙！那些兽人已经到了。我们和他们在北部要塞交上了手，他们人数"
 "太多了。他们从山上对我们的东侧发动攻击。我让我的私人卫队把守北部的关口，但他"
-"们坚持不了多久...我们必须立即撤离。"
+"们坚持不了多久……我们必须立即撤离。"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
 "That’s awful! And it only gets worse. That Wesfolk rabble has set up shop "
 "again in the south pass..."
-msgstr "真见鬼！更糟的是那伙韦福克暴民在南边的关口卷土重来了..."
+msgstr "真见鬼！更糟的是那伙韦福克暴民在南边的关口卷土重来了……"
 
 #. [message]: speaker=King Eldaric IV
 msgid ""
@@ -469,7 +469,7 @@ msgid ""
 "haste."
 msgstr ""
 "那是山谷的唯一出口！真是麻烦！我们必须打败那伙韦福克人渣并撤往南方。我们的家"
-"园要丢了...我们动作要快。"
+"园要丢了……我们动作要快。"
 
 #. [message]: speaker=Tan-Rarbag
 msgid "So, <i>human</i>, care to make your final stand?"
@@ -481,7 +481,7 @@ msgstr "去死！去死！去死！"
 
 #. [message]: speaker=Wesfolk Leader
 msgid "This is going to get ugly..."
-msgstr "情况变复杂了..."
+msgstr "情况变复杂了……"
 
 #. [message]: speaker=King Eldaric IV
 msgid "Hurry! Only death awaits in this valley!"
@@ -507,7 +507,7 @@ msgstr "哈德里克，你觉得怎样？"
 
 #. [message]: speaker=Prince Haldric
 msgid "Hmm... after some thought..."
-msgstr "嗯...让我想一下..."
+msgstr "嗯……让我想一下……"
 
 #. [option]
 msgid "I think that your skills may be useful. You may join us."
@@ -546,7 +546,7 @@ msgstr "啊，她完了。下一次，多用剑，少废话。"
 msgid ""
 "She’s clever! Maybe I made the wrong choice. Well, at least she left some of "
 "her gold behind..."
-msgstr "她很聪明！也许我做了错误的决定。好吧，至少她还留下了一些金币..."
+msgstr "她很聪明！也许我做了错误的决定。好吧，至少她还留下了一些金币……"
 
 #. [message]: speaker=King Eldaric IV
 msgid ""
@@ -630,7 +630,7 @@ msgstr ""
 
 #. [message]: speaker=Prince Haldric
 msgid "Father, I wish you were here..."
-msgstr "父亲，我多希望你能在这..."
+msgstr "父亲，我多希望你能在这……"
 
 #. [message]: speaker=Lady Outlaw
 msgid ""
@@ -658,7 +658,7 @@ msgstr "布林，迷路者布林。你是谁？"
 msgid ""
 "I’m Prince Haldric, we have little time to talk. We must make haste through "
 "the pass... What are you?"
-msgstr "我是哈德里克王子，我们没时间细谈了。我们必须快速通过关口...你是？"
+msgstr "我是哈德里克王子，我们没时间细谈了。我们必须快速通过关口……你是？"
 
 #. [message]: speaker=Burin the Lost
 msgid ""
@@ -693,7 +693,7 @@ msgid ""
 "We’re trapped in the pass! I can see their reinforcements! All is lost! Is "
 "that... Is that snow...? We’re doomed!"
 msgstr ""
-"我们被困在山峡里了！我看到他们的援军了！全完了！这是...这是雪吗？...我们完蛋"
+"我们被困在山峡里了！我看到他们的援军了！全完了！这是……这是雪吗？……我们完蛋"
 "了！"
 
 #. [message]: speaker=narrator
@@ -720,7 +720,7 @@ msgstr ""
 
 #. [option]
 msgid "I think I’ll take the river road..."
-msgstr "我想我会走河路..."
+msgstr "我想我会走河路……"
 
 #. [message]: speaker=Lady Outlaw
 msgid "Good. The Midlands are probably an orc-infested ruin by now."
@@ -734,7 +734,7 @@ msgstr "沼泽？！我还不到五英尺高，并且我还不会游泳！啊，
 
 #. [option]
 msgid "We’ll go through the Midlands..."
-msgstr "我们将穿过中原..."
+msgstr "我们将穿过中原……"
 
 #. [message]: speaker=Lady Outlaw
 msgid "I suspect that the Midlands might be in ruins by now."
@@ -771,7 +771,7 @@ msgid ""
 "(<i>Sigh</i>)"
 msgstr ""
 "我们已经通过了山峡。好吧，至少我知道兽人是可以被打败的。嗯，我想这大概是我最"
-"后一次见到我的家乡...和我的父亲了。(叹气)"
+"后一次见到我的家乡……和我的父亲了。(叹气)"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -847,7 +847,7 @@ msgid ""
 "Before these troubles started we used to have to clear the swamp every "
 "spring and fall."
 msgstr ""
-"我有一种不祥的预感。这该死的沼泽和它疯狂的邪教...以前为了排除这些麻烦，我们在"
+"我有一种不祥的预感。这该死的沼泽和它疯狂的邪教……以前为了排除这些麻烦，我们在"
 "每年的春秋两季都会去清干沼泽。"
 
 #. [message]: speaker=Prince Haldric
@@ -861,7 +861,7 @@ msgid ""
 "I miss the orcs... We go all this way, and (<i>sniff</i>) what a lovely "
 "smell we have discovered."
 msgstr ""
-"我开始怀念兽人了...我们却一直往这个方向走，(吸气)我闻到了多'好'的气味啊。"
+"我开始怀念兽人了……我们却一直往这个方向走，(吸气)我闻到了多'好'的气味啊。"
 
 #. [message]: speaker=Lady Outlaw
 msgid "This is too quiet. I don’t like this one bit, not one bit at all."
@@ -869,7 +869,7 @@ msgstr "这儿太安静了。我一点也不喜欢这样，真的一点也不。
 
 #. [message]: speaker=Prince Haldric
 msgid "Wait, I think I hear something... To arms!"
-msgstr "等一下，我想我听到了什么...准备战斗！"
+msgstr "等一下，我想我听到了什么……准备战斗！"
 
 #. [message]: speaker=Prince Haldric
 msgid "Careful, you don’t know what’s lurking in there!"
@@ -966,7 +966,7 @@ msgid ""
 "risk it and go through the Oldwood forest, then make a break for Clearwater "
 "Port or Southbay."
 msgstr ""
-"这下好了，后无退路，前有强敌...我想我们只能冒险穿过古老森林，然后突重去清水港"
+"这下好了，后无退路，前有强敌……我想我们只能冒险穿过古老森林，然后突重去清水港"
 "或南湾。"
 
 #. [message]: speaker=Burin the Lost
@@ -982,13 +982,13 @@ msgstr "阁下，如果您允许的话，我想和你们一起行动。"
 
 #. [message]: speaker=Lady Outlaw
 msgid "On we go..."
-msgstr "我们走..."
+msgstr "我们走……"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
 "We have run out of time... We’ll be trapped in this swamp when winter "
 "arrives!"
-msgstr "我们没时间了...冬天一来我们就会被困在这块沼泽里！"
+msgstr "我们没时间了……冬天一来我们就会被困在这块沼泽里！"
 
 #. [scenario]: id=04b_The_Midlands
 msgid "The Midlands"
@@ -1031,7 +1031,7 @@ msgid ""
 "arms!"
 msgstr ""
 "就象我们猜想的一样，兽人已经洗劫了中原。这不是一种文明的战斗方式！看那，那儿"
-"还有兽人...准备战斗！"
+"还有兽人……准备战斗！"
 
 #. [message]: speaker=Burin the Lost
 msgid "All right! Charge!"
@@ -1043,7 +1043,7 @@ msgstr "承受我的愤怒吧，你们这些兽人垃圾！"
 
 #. [message]: speaker=Tan-Vrodis
 msgid "HUMANS... I see humans!"
-msgstr "人类...我看到人类了！"
+msgstr "人类……我看到人类了！"
 
 #. [message]: speaker=Tan-Bok
 msgid ""
@@ -1131,7 +1131,7 @@ msgid ""
 "to risk it and go through the Oldwood forest, then make a break for "
 "Clearwater Port."
 msgstr ""
-"既然我们后无退路，前有强敌...我想我们只能冒险穿过古老森林，然后突破重围去清水"
+"既然我们后无退路，前有强敌……我想我们只能冒险穿过古老森林，然后突破重围去清水"
 "港。"
 
 #. [message]: speaker=Burin the Lost
@@ -1144,7 +1144,7 @@ msgstr "啊棒极了，现在要去森林。我真应该留在家里，和兽人
 msgid ""
 "We have run out of time... We’ll be trapped in the midlands when winter "
 "comes!"
-msgstr "我们没时间了...冬天一来我们就会被困在中原！"
+msgstr "我们没时间了……冬天一来我们就会被困在中原！"
 
 #. [scenario]: id=05_The_Oldwood
 msgid "The Oldwood"
@@ -1198,7 +1198,7 @@ msgid ""
 "woods echo all around."
 msgstr ""
 "哈德里克的队伍来到了古老森林的深处。道路迅速变窄，几乎变成了一条小径。头顶上"
-"密布的树枝几乎挡住了所有的光线...树林深处传来的不祥的声音在四处回荡。"
+"密布的树枝几乎挡住了所有的光线……树林深处传来的不祥的声音在四处回荡。"
 
 #. [message]: speaker=Burin the Lost
 msgid ""
@@ -1362,7 +1362,7 @@ msgstr "这个时候我们需要所能得到的任何帮助！"
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 msgid "Then I will open the catacombs for you..."
-msgstr "那么我将为你们打开地下墓穴..."
+msgstr "那么我将为你们打开地下墓穴……"
 
 #. [message]: speaker=Lady Outlaw
 msgid ""
@@ -1420,7 +1420,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 msgid ""
 "We have run out of time... We’ll be trapped in these woods until we die!"
-msgstr "我们没时间了...我们会困死在这片森林中！"
+msgstr "我们没时间了……我们会困死在这片森林中！"
 
 #. [scenario]: id=06_Temple_in_the_Deep
 msgid "Temple in the Deep"
@@ -1466,7 +1466,7 @@ msgstr ""
 msgid ""
 "Back underground... Och. this feels much better! As for the current "
 "residents, ugh!"
-msgstr "回到地下...啊。感觉好多了！至于那些现在的住客，啊！"
+msgstr "回到地下……啊。感觉好多了！至于那些现在的住客，啊！"
 
 #. [message]: speaker=Prince Haldric
 msgid "Let’s send these monsters to their final rest."
@@ -1503,7 +1503,7 @@ msgid ""
 "faces. You can feel the power flowing from it..."
 msgstr ""
 "当你打开宝箱的时候你看到了它，火焰宝石。它有一个苹果那么大，里面包着一团常燃"
-"不灭之火，不断透过表面发散折射着光芒。你能感到它所充溢的能量..."
+"不灭之火，不断透过表面发散折射着光芒。你能感到它所充溢的能量……"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -1569,7 +1569,7 @@ msgid ""
 msgstr ""
 "哈德里克王子带着火焰宝石离开了巫妖王的墓穴。这一天森林看上去分外明亮，但是有"
 "寒风吹过。现在已是深秋，第一场雪随时来到。哈德里克王子回到了他在森林中的营"
-"地，正在思考下一步的行动..."
+"地，正在思考下一步的行动……"
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 msgid ""
@@ -1922,7 +1922,7 @@ msgid ""
 "I thank you, my lord. But we are to bring these Wesfolk too? It would be... "
 "highly irregular. Are you sure, my lord?"
 msgstr ""
-"谢谢您，殿下。但我们要把这些韦福克人也带上吗？这也太...不合规矩了。您确定吗，"
+"谢谢您，殿下。但我们要把这些韦福克人也带上吗？这也太……不合规矩了。您确定吗，"
 "殿下？"
 
 #. [message]: speaker=Prince Haldric
@@ -1965,16 +1965,16 @@ msgid ""
 "<i>“Bring these Wesfolk too? It would be... highly irregular.”</i> Bah! I’ll "
 "show you irregular..."
 msgstr ""
-"“要把这些韦福克人也带上吗？这也太...不合规矩了。”呸！我让你看看什么叫不合规"
-"矩..."
+"“要把这些韦福克人也带上吗？这也太……不合规矩了。”呸！我让你看看什么叫不合规"
+"矩……"
 
 #. [message]: speaker=Ut'Tan-Vrork
 msgid ""
 "Push ’em into the sea! They’re in our winter homes! Heh... Tan-Vragar, I’m "
 "sure they will enjoy your little surprise!"
 msgstr ""
-"把他们都赶下海！他们是在我们的冬季宿营地里！嗨...坦-弗拉格，我敢肯定他们会受"
-"用你给他们的小惊喜的！"
+"把他们都赶下海！他们是在我们的冬季宿营地里！嗨……坦-弗拉格，我敢肯定他们会受用"
+"你给他们的小惊喜的！"
 
 #. [message]: speaker=narrator
 msgid "An ode to ye, on yer way, I hope you have a brighter day!"
@@ -2091,7 +2091,7 @@ msgid ""
 "Lenvan. He coveted the ruby, and was studying it. The only copy of his "
 "study, the Book of Fire and Darkness, was petrified along with him."
 msgstr ""
-"呃，是的...那个巫妖叫卡尔，他是死去的巫妖王蓝温的主要竞争者。他垂涎那块宝石，"
+"呃，是的……那个巫妖叫卡尔，他是死去的巫妖王蓝温的主要竞争者。他垂涎那块宝石，"
 "并花时间研究过。他的研究成果的唯一抄本，火与暗之书，和他一起被石化了。"
 
 #. [message]: speaker=Prince Haldric
@@ -2210,7 +2210,7 @@ msgid ""
 "There’s an odd monolith standing near here. Maybe it has something to do "
 "with the Lich-Lord... I should investigate more closely."
 msgstr ""
-"这儿附近立着一块古怪的石碑。也许它和那个巫妖王有点关系...我要靠近调查一下。"
+"这儿附近立着一块古怪的石碑。也许它和那个巫妖王有点关系……我要靠近调查一下。"
 
 #. [message]: speaker=unit
 msgid "There’s an odd monolith standing near here."
@@ -2231,7 +2231,7 @@ msgid ""
 msgstr ""
 "铭文:这块石碑由我，——（<I>名字被削去</i>），绿岛虔诚之民的第一个魔法师所竖"
 "立。借助它的力量巫妖将被困在石中。如果要解除这个咒语，必须由具有王室血统者念"
-"诵如下..."
+"诵如下……"
 
 #. [option]
 msgid "I think I’ll say that magic phrase."
@@ -2574,7 +2574,7 @@ msgstr ""
 
 #. [message]: speaker=King Addroran IX
 msgid "Hmm... Very well. I so swear. Speak."
-msgstr "嗯...好吧。我发誓。你说吧。"
+msgstr "嗯……好吧。我发誓。你说吧。"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -2594,7 +2594,7 @@ msgstr ""
 
 #. [message]: speaker=Prince Haldric
 msgid "Compan— What?"
-msgstr "同伴...什么？"
+msgstr "同伴……什么？"
 
 #. [message]: speaker=Burin the Lost
 msgid "She’s just full of surprises."
@@ -2690,7 +2690,7 @@ msgid ""
 "If there is no other way. May the bards forever sing of the valor of the "
 "Kings of Southbay! Jessene, about that book?"
 msgstr ""
-"如果别无选择的话...愿吟游诗人永远歌唱南湾国王们的英勇传说！洁欣，那本笔记怎么"
+"如果别无选择的话……愿吟游诗人永远歌唱南湾国王们的英勇传说！洁欣，那本笔记怎么"
 "样了？"
 
 #. [message]: speaker=Lady Jessene
@@ -2889,11 +2889,11 @@ msgstr "不！"
 
 #. [message]: speaker=Fool Prince
 msgid "Fath-er! Join... us..."
-msgstr "父——亲！加入...我们..."
+msgstr "父——亲！加入……我们……"
 
 #. [message]: speaker=Lady Jessene
 msgid "His older brother was more attractive..."
-msgstr "他的哥哥要更顺眼一些..."
+msgstr "他的哥哥要更顺眼一些……"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -2943,7 +2943,7 @@ msgstr "我们打败兽人了。让我们启航离开这里。"
 #. [message]: speaker=King Addroran IX
 msgid ""
 "Oh, for my sons... — As we agreed. I will hold Southbay until my last breath."
-msgstr "噢，为了我的儿子们...——按我们说定的。我会坚守南湾直到生命最后一刻。"
+msgstr "噢，为了我的儿子们……——按我们说定的。我会坚守南湾直到生命最后一刻。"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -2969,7 +2969,7 @@ msgid ""
 "in honor of my father. About that island..."
 msgstr ""
 "目前对此我们还没有什么好的对策。为了纪念我的父亲，我将这艘船命名为艾德睿克。"
-"至于那座岛..."
+"至于那座岛……"
 
 #. [message]: speaker=Burin the Lost
 msgid "Great, more boats, and now an ocean!"
@@ -3158,7 +3158,7 @@ msgid ""
 "the only place to stop with soft sand beaches to make landfall... The Nagas "
 "like to scavenge metal from ships that they capture here."
 msgstr ""
-"只能来这儿了，只有这里有柔软的沙滩可供停靠和登陆...但要小心，这里并不安全，这"
+"只能来这儿了，只有这里有柔软的沙滩可供停靠和登陆……但要小心，这里并不安全，这"
 "是娜迦的地盘，他们喜欢在这附近袭击船只，然后搜刮可用的金属。"
 
 #. [message]: speaker=Xamalia
@@ -3209,7 +3209,7 @@ msgstr "旅途结束时我会很高兴。我们就快到了。快到了。"
 
 #. [message]: speaker=Lady Jessene
 msgid "I think we’re being followed..."
-msgstr "我想我们被跟踪了..."
+msgstr "我想我们被跟踪了……"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -3323,7 +3323,7 @@ msgstr ""
 
 #. [message]: speaker=Glimir
 msgid "Wait, I see a ship. Many ships. We’re being invaded!"
-msgstr "等一下，我看到了一艘船...很多船。我们遭到了入侵！"
+msgstr "等一下，我看到了一艘船……很多船。我们遭到了入侵！"
 
 #. [message]: speaker=Dursil
 msgid ""
@@ -3436,7 +3436,7 @@ msgstr ""
 #. [message]: speaker=Lady Jessene
 msgid ""
 "Maybe it’d be best if you didn’t mention our little friend following us..."
-msgstr "(耳语)也许我们最好不要提起那个一直跟着我们的'小朋友'..."
+msgstr "(耳语)也许我们最好不要提起那个一直跟着我们的'小朋友'……"
 
 #. [message]: speaker=Lord Typhon
 msgid ""
@@ -3840,7 +3840,7 @@ msgstr "“屠龙者哈德里克王子”听起来相当不错。"
 
 #. [message]: speaker=Lady Jessene
 msgid "We’ll see..."
-msgstr "我们来看看..."
+msgstr "我们来看看……"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -3941,7 +3941,7 @@ msgstr "我们必须守住海滩直到可以召唤我们的娜迦盟友。"
 
 #. [message]: speaker=Prince Haldric
 msgid "Us, monsters? Hmph... prepare to meet our blades."
-msgstr "我们，怪物？哼哼...准备见识见识我们的利剑。"
+msgstr "我们，怪物？哼哼……准备见识见识我们的利剑。"
 
 #. [message]: speaker=Lady Jessene
 msgid "(<i>Sigh</i>) I bet he sees none of the irony in that."
@@ -3949,7 +3949,7 @@ msgstr "(叹息)我敢打赌他觉得这一点也不讽刺。"
 
 #. [message]: speaker=Lady Jessene
 msgid "We were too slow... Every naga in the sea will be upon us!"
-msgstr "我们太慢了...海里所有的娜迦都涌向了我们！"
+msgstr "我们太慢了……海里所有的娜迦都涌向了我们！"
 
 #. [message]: speaker=Prince Haldric
 msgid "Ick! When you kill them they divide."
@@ -4025,7 +4025,7 @@ msgid ""
 "safe to say that the elves wouldn’t have sent us down here if they were at "
 "all friendly."
 msgstr ""
-"嗯...我们真的需要对巨魔了解那么多吗？我可以很有把握地说，要是精灵真的友好的话"
+"嗯……我们真的需要对巨魔了解那么多吗？我可以很有把握地说，要是精灵真的友好的话"
 "他们就不会把我们派到这里来了。"
 
 #. [message]: speaker=Prince Haldric
@@ -4035,7 +4035,7 @@ msgstr "很公平。好了，让我们解决他们！"
 #. [message]: speaker=Prince Haldric
 msgid ""
 "We have failed... More of the trolls’ kin are arriving through the entrance."
-msgstr "我们失败了...更多巨魔的同族正通过入口涌进来。"
+msgstr "我们失败了……更多巨魔的同族正通过入口涌进来。"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -4059,7 +4059,7 @@ msgstr "提诺尔多"
 
 #. [message]: speaker=unit
 msgid "She’s... She’s beautiful."
-msgstr "她...她真漂亮。"
+msgstr "她……她真漂亮。"
 
 #. [event]
 msgid "Midnight Queen"
@@ -4067,11 +4067,11 @@ msgstr "午夜女王"
 
 #. [message]: speaker=Midnight Queen
 msgid "You will be made to serve... Come admire me. Feel my love."
-msgstr "你会来为我服务...来爱慕我。感受我的爱。"
+msgstr "你会来为我服务……来爱慕我。感受我的爱。"
 
 #. [message]: speaker=Prince Haldric
 msgid "She is so..."
-msgstr "她是如此的..."
+msgstr "她是如此的……"
 
 #. [message]: speaker=Lady Jessene
 msgid "Haldric, think with your brain!"
@@ -4201,7 +4201,7 @@ msgstr ""
 #. [message]: speaker=Lady Dionli
 msgid ""
 "But we spoke a Pact with this Haldric and these men of the west-north..."
-msgstr "但我们和这个哈德里克以及那些西北来的人类达成了协议..."
+msgstr "但我们和这个哈德里克以及那些西北来的人类达成了协议……"
 
 #. [message]: speaker=Lord Logalmier
 msgid ""
@@ -4283,7 +4283,7 @@ msgid ""
 "prize as the Ruby of Fire just slip away. Especially when he sees that he "
 "has the advantage."
 msgstr ""
-"劫复魇已经到了...他的仆从，那只蝙蝠。他不会让火焰宝石这样强大的宝物从他手中滑"
+"劫复魇已经到了……他的仆从，那只蝙蝠。他不会让火焰宝石这样强大的宝物从他手中滑"
 "走。特别是当他有可乘之机时。"
 
 #. [message]: speaker=Prince Haldric
@@ -4335,7 +4335,7 @@ msgstr "原地把金币放下！我们已经给了盟友足够的酬劳。附近
 
 #. [message]: speaker=Prince Haldric
 msgid "We have run out of time... We’ll never beat the orcs to the beach."
-msgstr "我们耗尽了时间...已经不能把兽人赶回海滩了..."
+msgstr "我们耗尽了时间……已经不能把兽人赶回海滩了……"
 
 #. [message]: speaker=unit
 msgid "I’ve found the orcs’ chest! It’s filled with gold."
@@ -4434,7 +4434,7 @@ msgid ""
 "Sir, some ships have landed... They look like they’ve been damaged by the "
 "voyage. Hmm, it seems that most of the ships are staying at sea."
 msgstr ""
-"殿下，一部分船只已经靠岸...它们似乎在航程中遭到了损伤。唔，看上去大部分船只还"
+"殿下，一部分船只已经靠岸……它们似乎在航程中遭到了损伤。唔，看上去大部分船只还"
 "停留在海上。"
 
 #. [message]: speaker=Prince Haldric
@@ -4472,7 +4472,7 @@ msgstr "呸！弱小的人类臭虫，我们会把你们踩在脚下！"
 
 #. [message]: speaker=General Heravan
 msgid "—And raise your dead to serve us forever!"
-msgstr "...并且唤起你们的亡者永远为我们服务！"
+msgstr "……并且唤起你们的亡者永远为我们服务！"
 
 #. [message]: speaker=Lich-Lord Jevyan
 msgid ""
@@ -4573,11 +4573,11 @@ msgstr ""
 #. [message]: speaker=Tan-Halg
 msgid ""
 "My people are like a rock slide, you can run, but we will crush you... Ahhck!"
-msgstr "我们就象山崩一样，你可以逃，但是我们终将碾碎你...啊哈！"
+msgstr "我们就象山崩一样，你可以逃，但是我们终将碾碎你……啊哈！"
 
 #. [message]: speaker=Tan-Rinak
 msgid "I— I die?"
-msgstr "我...我死了？"
+msgstr "我……我死了？"
 
 #. [scenario]: id=21_The_Plan
 msgid "The Plan"
@@ -4656,7 +4656,7 @@ msgid ""
 msgstr ""
 "然后我去见劫复魇，如果他的力量真的像传说中那么强大，他就会在我残破的尸体上找"
 "到那份协议。然后，在条约的内容在兽人中间传播开后你就去消灭劫复魇，但要赶在他"
-"有机会读到我所变成的亡灵的记忆之前..."
+"有机会读到我所变成的亡灵的记忆之前……"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -4665,7 +4665,7 @@ msgid ""
 "alive."
 msgstr ""
 "哈德里克！我不会这么干的……我不会帮这个忙的。你们到底怎么了，总是迫不及待地要"
-"象个傻瓜一样死掉？谁来领导这些人民？我...<b>我们</b>想要你活着。"
+"象个傻瓜一样死掉？谁来领导这些人民？我……<b>我们</b>想要你活着。"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -4717,7 +4717,7 @@ msgid ""
 "join them. Give me this honorable death... Please, Sir! I beg you!"
 msgstr ""
 "殿下，我的家人都被杀害了，我的家园也没了。我所渴望的就是能和她们在一起。请给"
-"予我这光荣的死亡...求你了，殿下！我求你了！"
+"予我这光荣的死亡……求你了，殿下！我求你了！"
 
 #. [message]: speaker=Commander Aethyr
 msgid ""
@@ -4757,7 +4757,7 @@ msgid ""
 "Sheesh... What is your kind’s infatuation with rushing to an ‘honorable "
 "death’?"
 msgstr ""
-"我们要保证让一个兽人头领能够带着精灵已经“拥有”了火焰宝石的情报逃回绿岛。唉..."
+"我们要保证让一个兽人头领能够带着精灵已经“拥有”了火焰宝石的情报逃回绿岛。唉……"
 "为什么你们这么醉心于追求“光荣的死亡”呢？"
 
 #. [side]: type=Ancient Lich, id=Lich-Lord Jevyan
@@ -4929,7 +4929,7 @@ msgstr "所有的生命都是短暂的;剩下的岁月里你会转为为我服�
 
 #. [message]: speaker=Burin the Lost
 msgid "Come on, stay still, just for a second..."
-msgstr "来吧，站好了，只需要一秒钟..."
+msgstr "来吧，站好了，只需要一秒钟……"
 
 #. [message]: speaker=Lady Jessene
 msgid "For the Wesfolk!"
@@ -5095,7 +5095,7 @@ msgstr "噼啪！啪哒！"
 
 #. [message]: speaker=second_unit
 msgid "Ahh... That almost makes it all worth while!"
-msgstr "啊...这样就赚到了！"
+msgstr "啊……这样就赚到了！"
 
 #. [message]: speaker=Lich-Lord Jevyan
 msgid "You’ll pay for that!"
@@ -5145,7 +5145,7 @@ msgid ""
 "face of adversity a place of glory is assured to him in the Halls of Light..."
 msgstr ""
 "愿艾瑟指挥官在去另一个世界的旅途上一路顺风，他的妻子和那些可爱的女儿们已经先"
-"行了一步。由于他在面对逆境时所做出的英勇业绩，光明殿堂中必定有他的一席之地..."
+"行了一步。由于他在面对逆境时所做出的英勇业绩，光明殿堂中必定有他的一席之地……"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -5292,7 +5292,7 @@ msgstr "很好。"
 #. [message]: speaker=Prince Haldric
 msgid ""
 "I suppose I am King Haldric now. Hmm... but what to call this new kingdom?"
-msgstr "我假设我现在是哈德里克国王了。唔...但新的王国叫什么好呢？"
+msgstr "我假设我现在是哈德里克国王了。唔……但新的王国叫什么好呢？"
 
 #. [message]: speaker=Lady Jessene
 msgid "May I make a suggestion?"
@@ -5322,7 +5322,7 @@ msgstr ""
 
 #. [message]: speaker=Lady Jessene
 msgid "So, what is to become of me?"
-msgstr "那...你要怎么处置我呢？"
+msgstr "那……你要怎么处置我呢？"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -5332,7 +5332,7 @@ msgid ""
 "well upon that flame-colored hair of yours, Jessene."
 msgstr ""
 "在我幸存的族人间夹杂着大量的韦福克人。我们必须联合在同一面旗帜之下。只要有一"
-"线希望可以建立真正的“韦诺王国”，我就需要你陪在我身边。我...我想一个皇后的王冠"
+"线希望可以建立真正的“韦诺王国”，我就需要你陪在我身边。我……我想一个皇后的王冠"
 "挺配你那火焰颜色的秀发的，洁欣。"
 
 #. [message]: speaker=Lady Jessene
@@ -5346,7 +5346,7 @@ msgid ""
 "think I can make it work without <i>you</i>."
 msgstr ""
 "那就把我的位子让给你，洁欣，如果皇后之位或者与我共治王国都不能满足你的话，你"
-"是有资格拥有这些的。没有你的人民我们不可能成功...而且如果没有你就没有今天的"
+"是有资格拥有这些的。没有你的人民我们不可能成功……而且如果没有你就没有今天的"
 "我。"
 
 #. [message]: speaker=Lady Jessene
@@ -5356,7 +5356,7 @@ msgid ""
 "and belch thunder. I... accept."
 msgstr ""
 "也许的确不会有吧。那个，即使不为别的，那么韦诺的英雄王，屠龙者哈德里克，也确"
-"实需要一个人来提醒他，他并不是无所不能的。我...愿意。"
+"实需要一个人来提醒他，他并不是无所不能的。我……愿意。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -5546,7 +5546,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "I can’t be finished yet... I still have so much more to do."
-msgstr "我还不能倒下...我还有那么多事要去做。"
+msgstr "我还不能倒下……我还有那么多事要去做。"
 
 #. [message]: speaker=unit
 msgid "It is not yet my time! No!"
@@ -5554,7 +5554,7 @@ msgstr "我的日子还没有到头！不！"
 
 #. [message]: speaker=unit
 msgid "No! I’ll not go so easil—"
-msgstr "不！我不能这么轻易地倒..."
+msgstr "不！我不能这么轻易地倒……"
 
 #. [message]: speaker=unit
 msgid ""
@@ -5580,7 +5580,7 @@ msgstr "原光明之神保佑我们。"
 
 #. [message]: speaker=Prince Haldric
 msgid "Without him the bottoms of our ships will be completely vulnerable..."
-msgstr "失去了他，我们的船底会轻易遭到敌人的攻击..."
+msgstr "失去了他，我们的船底会轻易遭到敌人的攻击……"
 
 #. [unit]: type=Walking Corpse
 msgid "A Former Friend"
@@ -5613,7 +5613,7 @@ msgstr "不用担心。"
 
 #. [message]: speaker=Prince Haldric
 msgid "Too bad that this isn’t going as well as the beach... I miss the beach."
-msgstr "简直太糟了，不像海滩那样顺利...我有点想念海滩了。"
+msgstr "简直太糟了，不像海滩那样顺利……我有点想念海滩了。"
 
 #. [message]: speaker=Lady Jessene
 msgid ""

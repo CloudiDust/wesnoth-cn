@@ -7,12 +7,12 @@
 # sylecn <sylecn AT yahoo DOT com DOT cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
+"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
 "PO-Revision-Date: 2017-04-15 16:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -146,6 +146,10 @@ msgstr "死灵法师"
 #. [attack]: type=pierce
 msgid "curse"
 msgstr "诅咒"
+
+#. [attack]: type=impact
+msgid "morning star"
+msgstr "晨星之锤"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
@@ -2383,10 +2387,6 @@ msgstr ""
 "斗中的价值，所以被委以更加危险的任务，并能分到更大比例的赃物。虽然许多对手嘲"
 "笑他们的武器，他们自己却很清楚它们的致命威力，同时也深知其弹药来源相当广泛。"
 "大白天作战让游寇有点儿不适应，他们还是喜欢在夜幕掩护之下行动。"
-
-#. [attack]: type=impact
-msgid "morning star"
-msgstr "晨星之锤"
 
 #. [female]
 msgid "female^Outlaw"

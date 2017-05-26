@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-03-19 00:05+0300\n"
-"PO-Revision-Date: 2017-04-15 18:11+0800\n"
+"POT-Creation-Date: 2017-05-14 01:47+0300\n"
+"PO-Revision-Date: 2017-05-23 22:13+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -1386,6 +1386,7 @@ msgstr ""
 "尔,艾希,欧拉丝,欧玛格,欧玛格拉,欧拉·卡,欧丽丹,欧丽达,欧什比,瓦琳,瓦尔尼拉,瓦"
 "尔尼特,瓦丽思科,瓦拉,瓦琳·卡,瓦什塔,瓦什丁"
 
+#. Generator for male drake names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\n"
@@ -1403,6 +1404,7 @@ msgstr ""
 "suffix=艾什|克雷|什|林|鲁汀|史纳|鲁什|卡|艾什|阿格|阿尔|艾什|斯拉|利|迪安|利"
 "托斯|鲁斯特|希特|尼克|拉斯|迪特|孔|玛德|提克|尼尔\n"
 
+#. Generator for female drake names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{suffix} {short_name}\n"
@@ -1508,6 +1510,7 @@ msgstr ""
 "德洛尔,崔斯德索尔,崔斯杜鲁斯,崔斯杜利尔,崔斯杜林,崔斯杜洛斯,崔斯杜洛尔,崔斯杜"
 "希尔,崔斯杜拉鲁斯,崔斯萨阿斯,崔斯赛尔,崔斯赛因,崔斯萨索尔,崔斯骚斯"
 
+#. Generator for male dwarf names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={long_name}\n"
@@ -1780,6 +1783,7 @@ msgstr ""
 "吉娅,薇欧莱朵,薇欧玟儿,薇瑟兰,薇瑟兰妮儿,薇薇儿,沃蒂娅,玟玟,沃尔斐克蕾雅,沃尔"
 "斐妮,沃尔菲芮丝,沃尔斐薇儿,沃薇妮"
 
+#. Generator for male elf names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix}{consonnant}{suffix}|{prefix}{centre}{suffix}\n"
@@ -1859,6 +1863,7 @@ msgstr ""
 "尔|菲尔|菲利斯|佛尔|佛拉斯|佛尔达|冯迪尔|佛芬|佛芬迪尔|瓦拉斯|瓦尔多|瓦杜伊"
 "尔|维拉斯|维尔多\n"
 
+#. Generator for female elf names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix_v}{centre_v}{suffix_v}|{generated_prefix_c}{centre_c}"
@@ -1952,6 +1957,7 @@ msgstr "葛拉,葛利拉,葛利,卡,卡什,柯什,柯罗,克拉,库,克匝,克�
 msgid "Kaasa,Kayya,Keyya,Kiira,Korra"
 msgstr "卡萨,卡娅,可娅,奇拉,可拉"
 
+#. Generator for male gryphon names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -1965,6 +1971,7 @@ msgstr ""
 "suffix=阿|依阿|伊|希|罗|乌\n"
 "centre=阿|阿什|伊兹|欧兹\n"
 
+#. Generator for female gryphon names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2167,6 +2174,7 @@ msgstr ""
 "依瑟儿,依瑟洛娜,依希莉安,依希诺伊可,伊依索妲,依索温妮,依索诺依可,依苏娜,依苏"
 "薇妮法,依希珂拉,依希拉,依希莉安,依希莉卡,伊希莎"
 
+#. Generator for male Wesnothian human names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}"
@@ -2233,6 +2241,7 @@ msgstr ""
 "温|伊雷林|伊林凡|伊里拉恩特|伊洛德利|伊鲁林|伊鲁米尔|伊朗宁|伊朗凡|伊里尔林|"
 "伊里米尔|伊里尼克|伊里尔辛\n"
 
+#. Generator for female Wesnothian human names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}"
@@ -2456,6 +2465,7 @@ msgstr ""
 "亚西尔,亚赞,耶齐德,尤努斯,尤沙,尤斯里,优素福,扎法尔,扎菲尔,扎希德,查希尔,扎伊"
 "德,扎伊姆,扎伊纳,扎里夫,扎卡里亚,扎基,扎卡万,齐亚德,祖巴伊尔,祖海尔"
 
+#. Generator for male khalifate human names
 msgid ""
 "\n"
 "main={name_long}|{prefix}{suffix}|{name_mid}{connector}{name_mid}\n"
@@ -2552,6 +2562,7 @@ msgstr ""
 "亚西尔|亚赞|耶齐德|尤努斯|尤沙|尤斯里|优素福|扎法尔|扎菲尔|扎希德|查希尔|扎伊"
 "德|扎伊姆|扎伊纳|扎里夫|扎卡里亚|扎基|扎卡万|齐亚德|祖巴伊尔|祖海尔\n"
 
+#. Generator for female khalifate human names
 msgid ""
 "\n"
 "main={name_long}|{prefix}{suffix}|{name_mid}{connector}{surname}\n"
@@ -2686,6 +2697,7 @@ msgstr ""
 "斯,希拉兹,希,希拉特拉斯,希拉特雷兹,希兹,赞多尔,泽德里克斯,希尔雷克斯,希兹阿"
 "兹,希斯拉普,匝尔克兹,匝普德"
 
+#. Generator for saurian names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2737,6 +2749,7 @@ msgstr ""
 "玛玛·瓦塔,玛丽娜,米兰达,米丽娅,莫尔菲,帕丝诺帕,佩娜吉拉,佩希诺伊,兰,希德娜,斯"
 "蒂拉·玛丽丝,希莉珂丝皮娅,提佳塔,瓦提,薇-艾娃,薇恩·艾墨儿,薇特-艾玛"
 
+#. Generator for merman names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2755,6 +2768,7 @@ msgstr ""
 "辛尼劳|希修提尔|塔伽洛阿|塔纳阿|坦甲洛阿|坦加|陶玛斯|提奇提奇|提尼|提尼劳|提"
 "尼洛|托尼瓦|托尼温|维兹|伏德尼克|伏鲁卡萨\n"
 
+#. Generator for mermaid names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2802,6 +2816,7 @@ msgstr ""
 "拉,斯内莉娅,斯拉可,斯拉尔,斯扎可,崔克丝哲德,薇莱拉,薇萨莱,薇拉妮莎,夏布拉可,"
 "夏玛莉娅,希娜,希娜希娅,希纳玛丝,希欧普科内,扎尔丝帕,扎尔可,兹普丝可,兹丝可"
 
+#. Generator for male naga names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}\n"
@@ -2821,6 +2836,7 @@ msgstr ""
 "斯|希布拉克|希玛雷尔|希纳斯|希纳莫斯|希欧普空|扎尔斯普|兹雷克|兹普斯克|兹斯"
 "克\n"
 
+#. Generator for female naga names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}\n"
@@ -2855,6 +2871,7 @@ msgstr ""
 "卡马克,马克隆,马卡克,马库克,莫克内克,纳伽克,欧尔克,欧尔克特,雷克纳克,塔寇拉"
 "克,特拉布克,特拉空,乌卡,乌克阿克"
 
+#. Generator for ogre names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}\n"
@@ -2941,6 +2958,7 @@ msgstr ""
 "鲁特,孚鲁卡姆,乏迪什,乏姆克,孚尔戈,孚罗姆,乏纳克姆,乏纳戈姆,乏巴戈姆,乏格姆,"
 "孚什纳克"
 
+#. Generator for orc names
 msgid ""
 "\n"
 "main={starting_consonnant}{vowel}{consonnant}{vowel}{ending_consonnant}|"
@@ -3005,6 +3023,7 @@ msgstr ""
 "图,塔格,图鲁格,图鲁夫,苏尔,托格,托尔格,托克,苏克,塔,塔克·拉,尤格,阿,乌格,乌"
 "拉,乌克,乏克,佐格,组格"
 
+#. Generator for troll names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={short_name}|{short_name}|{short_name}|{short_name} {short_name}\n"
@@ -3049,6 +3068,7 @@ msgstr ""
 "恩德姆本,特姆坦农格特姆,通德恩孔腾孔,特鲁姆巴杜姆,塔姆腾塔塔格朗姆,塔姆腾朗格"
 "塔姆,塔姆塔姆格姆托姆托姆,沃壤玛尔丁,沃达多尔普"
 
+#. Generator for wose names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{centre}{centre}{suffix}|{prefix}{centre}{centre}{centre}"
@@ -3084,6 +3104,7 @@ msgstr ""
 "尔,金,纳姆,尼斯,纽,欧尔,欧德,欧夫,欧乌尔,欧克斯,洛克,卢克,萨尔,萨姆,希德,赛"
 "尔,森,西尔,塔尔,沃特,维特,约克"
 
+#. Generator for the base names of features assigned by the random map generator; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{middle}{suffix}\n"
@@ -3960,23 +3981,23 @@ msgstr "菜单"
 msgid "Actions"
 msgstr "行动"
 
-#. [action]: id=button-endturn
 #. [menu]: id=button-endturn
+#. [action]: id=button-endturn
 msgid "End Turn"
 msgstr "结束回合"
 
-#. [action]: id=button-endturn
 #. [menu]: id=button-endturn
+#. [action]: id=button-endturn
 msgid "End Scenario"
 msgstr "结束场景"
 
-#. [label]: id=label-hp
 #. [label]: id=selected-label-hp
+#. [label]: id=label-hp
 msgid "HP"
 msgstr "生命值"
 
-#. [label]: id=label-xp
 #. [label]: id=selected-label-xp
+#. [label]: id=label-xp
 msgid "XP"
 msgstr "经验值"
 
@@ -4000,18 +4021,18 @@ msgstr "维护费用"
 msgid "income"
 msgstr "收入"
 
-#. [unit_level]: id=unit-level
 #. [selected_unit_level]: id=selected-unit-level
+#. [unit_level]: id=unit-level
 msgid "statuspanel^level"
 msgstr "等级"
 
-#. [unit_moves]: id=unit-moves
 #. [selected_unit_moves]: id=selected-unit-moves
+#. [unit_moves]: id=unit-moves
 msgid "statuspanel^moves"
 msgstr "移动"
 
-#. [unit_defense]: id=unit-defense
 #. [selected_unit_defense]: id=selected-unit-defense
+#. [unit_defense]: id=unit-defense
 msgid "statuspanel^terrain def."
 msgstr "地形防御"
 
@@ -4046,10 +4067,6 @@ msgstr "单位小盒"
 #. [theme]: id=UnitBox
 msgid "An experimental work-in-progress replacement for the default theme"
 msgstr "正在制作中的试验性主题，用于替换默认主题"
-
-#. [action]: id=flip_map_button_editor, type=checkbox
-msgid "Not implemented yet."
-msgstr "尚未实现。"
 
 #. [theme]: id=Widescreen
 msgid "theme^Widescreen"
@@ -4951,39 +4968,6 @@ msgstr "从服务器上下载附加组件列表时发生错误。"
 msgid "Could not find an add-on matching id $addon_id on the add-on server."
 msgstr "在附加组件服务器上无法找到与ID：$addon_id|匹配的附加组件。"
 
-msgid "Attacker"
-msgstr "进攻方"
-
-msgid "Defender"
-msgstr "防御方"
-
-msgid "Expected Battle Result (HP)"
-msgstr "战斗结果期望（生命值）"
-
-msgid "Time of day"
-msgstr "时段"
-
-msgid "Leadership"
-msgstr "领导"
-
-msgid " resistance vs "
-msgstr " 有效防御"
-
-msgid " vulnerability vs "
-msgstr " 不擅防御"
-
-msgid "Slowed"
-msgstr "减速"
-
-msgid "Total damage"
-msgstr "总伤害输出"
-
-msgid "No usable weapon"
-msgstr "没有可用武器"
-
-msgid "Chance of being unscathed"
-msgstr "不受伤几率"
-
 msgid "Added to ignore list: $nick"
 msgstr "已加入忽略列表：$nick"
 
@@ -5664,9 +5648,6 @@ msgstr "是"
 msgid "Reference to unknown topic: "
 msgstr "对未知主题的引用："
 
-msgid "Help"
-msgstr "帮助"
-
 msgid "Only available during a scenario."
 msgstr "仅在场景中可用。"
 
@@ -5869,9 +5850,6 @@ msgstr "计划模式激活！"
 msgid "Planning mode deactivated!"
 msgstr "计划模式关闭！"
 
-msgid "The End"
-msgstr "结束"
-
 msgid "System default language"
 msgstr "系统默认语言"
 
@@ -5951,11 +5929,11 @@ msgstr "无法保存地图：$msg"
 msgid "Message:"
 msgstr "信息："
 
-msgid "Send to allies only"
-msgstr "仅发送给盟友"
-
 msgid "Send to observers only"
 msgstr "仅发送给观察者"
+
+msgid "Send to allies only"
+msgstr "仅发送给盟友"
 
 msgid "You have no units available to recruit."
 msgstr "你没有可供征募的单位。"
@@ -6033,11 +6011,11 @@ msgstr "<阵营> <昵称>"
 msgid "Assign control of a side to a different player or observer."
 msgstr "将某一阵营的控制权指定给另一玩家或观察者。"
 
-msgid "<side>"
-msgstr "<阵营>"
-
 msgid "Query the controller status of a side."
 msgstr "查询某一阵营的控制状态。"
+
+msgid "<side>"
+msgstr "<阵营>"
 
 msgid "Clear chat history."
 msgstr "清除聊天历史。"
@@ -6217,16 +6195,20 @@ msgstr "调试模式在联机游戏中不可用"
 msgid "Debug mode deactivated!"
 msgstr "调试模式关闭！"
 
-msgid "Unsafe Lua scripts."
-msgstr "不安全的Lua脚本。"
+msgid "WARNING! Unsafe Lua Mode"
+msgstr "警告！不安全Lua模式"
 
 msgid ""
-"You are about to open a security breach in Wesnoth. Are you sure you want to "
-"continue? If you have downloaded add-ons, do not click 'ok'! They would "
-"instantly take over your computer. You have been warned."
+"Executing Lua code in in this manner opens your computer to potential "
+"security breaches from any malicious add-ons or other programs you may have "
+"installed.\n"
+"\n"
+"Do not continue unless you really know what you are doing."
 msgstr ""
-"你的操作即将破坏韦诺的安全性。你真的确定要继续吗？如果你下载过附加组件，请不"
-"要点击“确定”！它们将完全控制你的计算机！我们已经警告过你了。"
+"以此方式执行Lua代码将可能使得你的计算机遇到来自任意的恶意附加组件或你所安装的"
+"其他程序的潜在安全威胁。\n"
+"\n"
+"除非你确实知道自己在做什么，请不要继续。"
 
 msgid "Unsafe mode enabled!"
 msgstr "不安全模式已启用！"
@@ -6535,6 +6517,9 @@ msgstr "武器特攻："
 msgid "None"
 msgstr "无"
 
+msgid "Total damage"
+msgstr "总伤害输出"
+
 msgid "Lawful units: "
 msgstr "守序单位："
 
@@ -6719,9 +6704,6 @@ msgstr "Y"
 
 msgid "infix_binary^i"
 msgstr "i"
-
-msgid "Skip"
-msgstr "跳过"
 
 msgid "waiting for $desc from side(s) $sides"
 msgstr "等待来自$sides|阵营的$desc"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
+"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
 "PO-Revision-Date: 2017-03-26 22:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -321,8 +321,8 @@ msgstr "希拉"
 msgid "Kaleh, Nym, help us!"
 msgstr "卡勒, 妮慕, 来帮我们!"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Nym
+#. [message]: speaker=Kaleh
 msgid "What in Uria’s name is that?"
 msgstr "那尤里安的是什么？"
 
@@ -2155,6 +2155,7 @@ msgid ""
 "should go unpunished."
 msgstr "为了你的重要同胞，你很拼命，年轻的精灵。不过，逞英雄是要付出代价的。"
 
+#. [message]: id=Ystara,Azkotep
 #. [message]: speaker=Ystara
 msgid "A token to remember us by..."
 msgstr "一个礼物，让你们记得我们......"
@@ -2167,6 +2168,7 @@ msgstr "啊啊啊！"
 msgid "He just collapsed!"
 msgstr "他瓦解了!"
 
+#. [message]: id=Ystara,Azkotep
 #. [message]: speaker=Ystara
 msgid ""
 "You will never see your champion again. And we will torment his soul for the "
@@ -2604,9 +2606,9 @@ msgstr ""
 "见。我不知道我在这里干什么。某种神秘的东西让我不自觉地来到这里，我有种不祥的"
 "预感。"
 
-#. [unit]: type=Dark Assassin3, id=Cloaked Figure
 #. [unit]: type=Dark Assassin1, id=Cloaked Figure
 #. [unit]: type=Dark Assassin2, id=Cloaked Figure
+#. [unit]: type=Dark Assassin3, id=Cloaked Figure
 msgid "Cloaked Figure"
 msgstr "戴斗篷者"
 
@@ -4767,8 +4769,8 @@ msgstr ""
 msgid "I’m afraid, Kaleh, that the time has come for our paths to separate."
 msgstr "卡勒，很抱歉，恐怕到了我们分道扬镳的时候了。"
 
-#. [message]: speaker=unit
 #. [message]: speaker=Kaleh
+#. [message]: speaker=unit
 msgid "What?!"
 msgstr "什么？！"
 
@@ -5203,8 +5205,8 @@ msgstr "好吧，越快离开这里我越高兴。"
 msgid "Wait, did you feel that?"
 msgstr "等下，你们感觉到什么了吗？"
 
-#. [message]: speaker=Nym
 #. [message]
+#. [message]: speaker=Nym
 #. [message]: type=Desert Fighter3, Desert Fighter4, Desert Fighter5, Desert Fighter6, Desert Fighter7, Desert Fighter8
 msgid "What?"
 msgstr "什么？"

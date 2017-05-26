@@ -1,14 +1,14 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-03-18 21:05 UTC\n"
-"PO-Revision-Date: 2017-03-26 22:51+0800\n"
+"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
+"PO-Revision-Date: 2017-05-23 22:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Eastern Invasion"
@@ -355,7 +355,7 @@ msgstr "将格温德利移动到隧道出口处"
 
 #. [note]
 msgid "Get moving quickly."
-msgstr ""
+msgstr "赶快启程。"
 
 #. [message]: speaker=Gweddry
 msgid "Where are we? I can’t see where we are going."
@@ -432,7 +432,7 @@ msgstr "那也好，祝你们在战斗中好运。"
 msgid ""
 "It seems these trolls were hiding some gold. I think I can count fifty gold "
 "pieces!"
-msgstr ""
+msgstr "看起来这些巨魔藏了些金子。我想我点到了五十枚金币！"
 
 #. [unit]: type=Necromancer, id=Mal-Bakral
 msgid "Mal-Bakral"
@@ -964,14 +964,12 @@ msgid "Lanar-Skal"
 msgstr "拉那-斯卡尔"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Find the outlaw leader"
-msgstr "找到强盗首领并击败他"
+msgstr "找到游寇首领"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Kill Shodrano"
-msgstr "朔德拉诺"
+msgstr "击杀朔德拉诺"
 
 #. [objective]: condition=win
 msgid "Defeat the undead leader"
@@ -1230,14 +1228,13 @@ msgid ""
 msgstr "我们来到大河边了。是就地渡河，还是去找个浅滩？"
 
 #. [message]: speaker=Dacyn
-#, fuzzy
 msgid ""
 "We must cross here. The undead are chasing us, and their hordes are much too "
 "great for us to defeat. We've haven't faced even a small part of their force "
 "yet. We need to cross the river before the bulk of their army arrives!"
 msgstr ""
-"我们必须在此渡河。亡灵紧追着我们，他们数量太多，我们不可能击败他们。亡灵的增"
-"援部队也快到了。我们必须在那之前过河。"
+"我们必须在此渡河。亡灵紧追着我们，他们数量太多，我们不可能击败他们。我们所见"
+"的敌人连它们的一小部分都算不上。我们必须在亡灵大部队到达之前过河！"
 
 #. [message]: speaker=Owaec
 msgid ""
@@ -1270,11 +1267,11 @@ msgstr "如果我们以兽人的敌人的身份出现，他们可能会协助我
 
 #. [message]: speaker=Garnad
 msgid "We have you now, mortals!"
-msgstr ""
+msgstr "我逮住你们了，凡人！"
 
 #. [message]: speaker=Dacyn
 msgid "They're closing in on us! We must get moving quickly."
-msgstr ""
+msgstr "他们逼近了！我们必须马上走。"
 
 #. [unit]: type=Lich, id=Mal-Hakralan
 msgid "Mal-Hakralan"
@@ -1285,6 +1282,7 @@ msgid ""
 "I see, this is where the scared dogs ran to. Don't think you can get away "
 "<b>this</b> easily."
 msgstr ""
+"我明白了，这里便是丧家之犬逃到的地方。可别以为你们可以<b>如此</b>轻易地逃脱。"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1306,7 +1304,7 @@ msgstr ""
 
 #. [message]: speaker=Grug
 msgid "Grug say join you will he."
-msgstr "格拉格说加入你们他会"
+msgstr "格拉格说加入你们他会。"
 
 #. [unit]: type=Ogre
 msgid "Gork"

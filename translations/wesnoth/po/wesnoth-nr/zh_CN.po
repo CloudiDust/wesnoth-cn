@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2015 Wesnoth development team
+# Copyright (C) 2005-2017 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # jan2xue <75jan@163.com>, 2005.
 # Huang Huan <unicon221@gmail.com>, 2005.
@@ -7,13 +7,14 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # MrKing <yideey@gmail.com>, 2012.
 # wind <everywherewind@gmail.com>, 2011.
-# 
+# CloudiDust <cloudidust@gmail.com>, 2017.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.12\n"
+"Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2016-11-05 23:31 UTC\n"
-"PO-Revision-Date: 2015-06-06 15:32+0800\n"
+"POT-Creation-Date: 2017-05-13 22:47 UTC\n"
+"PO-Revision-Date: 2017-05-23 22:57+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,38 +22,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Northern Rebirth"
-msgstr "北国复兴"
+msgstr "北国重生"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "NR"
 msgstr "NR"
 
 #. [campaign]: id=Northern_Rebirth
-#, fuzzy
 msgid "Challenging"
-msgstr "（挑战）"
+msgstr "挑战"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Spearman"
 msgstr "矛兵"
 
 #. [campaign]: id=Northern_Rebirth
-#, fuzzy
 msgid "Difficult"
-msgstr "（困难）"
+msgstr "困难"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Swordsman"
 msgstr "剑士"
 
 #. [campaign]: id=Northern_Rebirth
-#, fuzzy
 msgid "Nightmare"
-msgstr "（噩梦）"
+msgstr "噩梦"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Royal Guard"
@@ -93,9 +91,8 @@ msgid "Code and Translation Assistance"
 msgstr "编程和翻译辅助"
 
 #. [about]
-#, fuzzy
 msgid "Campaign Maintenance"
-msgstr "战役设计"
+msgstr "战役维护"
 
 #. [scenario]: id=01_Breaking_the_Chains
 msgid "Breaking the Chains"
@@ -297,7 +294,7 @@ msgstr "格鲁奇"
 
 #. [objective]: condition=win
 msgid "Defeat enemy leaders"
-msgstr "打败众敌将"
+msgstr "击败敌方首领"
 
 #. [objective]: condition=lose
 msgid "Death of Tallin"
@@ -2107,7 +2104,7 @@ msgid ""
 msgstr ""
 "那么，如果你不介意，我想插一句话：现在它肯定没有发挥作用。纳尔迦处在毁灭的边"
 "缘，兽人在大地上肆虐，而那些黑暗和邪恶的生物则在地下的隧道中游荡着。另一方"
-"面，据说韦诺王国正被邪恶残忍的艾斯威勒王后把持着，正统的继承人在其徒劳的要求"
+"面，据说韦诺王国正被邪恶残忍的艾什薇尔王后把持着，正统的继承人在其徒劳的要求"
 "破灭之后，也只能去寻求圣火权杖的帮助。"
 
 #. [message]: speaker=Abhai
@@ -3578,7 +3575,7 @@ msgid ""
 "said that she was in alliance with the orcs."
 msgstr ""
 "我们所知道的关于他们的最近的消息还是多年前科纳德王子通过这里的时候。那时候正"
-"是邪恶的艾斯威勒王后的统治时期，有消息说她和兽人结盟了。"
+"是邪恶的艾什薇尔王后的统治时期，有消息说她和兽人结盟了。"
 
 #. [story]
 msgid ""
