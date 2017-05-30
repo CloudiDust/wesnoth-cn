@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-23 22:52+0800\n"
+"PO-Revision-Date: 2017-05-28 12:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -65,8 +65,8 @@ msgid ""
 "with Lich-Lord Jevyan awaits...\n"
 "\n"
 msgstr ""
-"和哈德里克王子一起逃离绿岛的毁灭，穿越泰洋，去建立韦诺王国本身。巫妖领主劫复"
-"魇正虎视眈眈……\n"
+"引导哈德里克王子逃离绿岛的毁灭，穿越泰洋，去建立韦诺王国本身。与巫妖领主劫复"
+"魇的对峙正等待着你……\n"
 "\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -944,8 +944,8 @@ msgid ""
 "Trust me, you can’t continue down this road, Sir. Especially with the "
 "refugees, you’ll be slaughtered."
 msgstr ""
-"不，阁下！我是清水港派出的远征军的唯一幸存者。相信我，你们不能再走这条路了，"
-"阁下。特别是你们还带着老幼，你们会遭到屠杀的。"
+"不，领主！我是清水港派出的远征军的唯一幸存者。相信我，你们不能再走这条路了，"
+"领主。特别是你们还带着老幼，你们会遭到屠杀的。"
 
 #. [message]: speaker=Prince Haldric
 msgid "Tell me, does Clearwater Port still stand? Is the port free?"
@@ -957,7 +957,7 @@ msgid ""
 "bodied men and boys into service when I left. That orcish army is huge, but "
 "they haven’t met the main body of our forces yet."
 msgstr ""
-"就我所知，阁下。我们有一支大军，远征军离开时他们还强制要求所有青壮年男子服"
+"就我所知，领主。我们有一支大军，远征军离开时他们还强制要求所有青壮年男子服"
 "役。虽然兽人军队数量惊人，但他们还没有碰上我们的主力部队。"
 
 #. [message]: speaker=Prince Haldric
@@ -978,7 +978,7 @@ msgstr "啊棒极了，现在要去森林……我真应该留在家里，和兽
 #. [message]: speaker=Sir Ruddry
 #. [message]: speaker=Sir Ladoc
 msgid "Sir, if you don’t mind, I’ll go with you."
-msgstr "阁下，如果您允许的话，我想和你们一起行动。"
+msgstr "领主，如果您允许的话，我想和你们一起行动。"
 
 #. [message]: speaker=Lady Outlaw
 msgid "On we go..."
@@ -1123,7 +1123,7 @@ msgstr "告诉我南湾现在的情况？"
 msgid ""
 "Southbay won’t fall without one hell of a fight, sir. They’ll stand to the "
 "last! I only wish I was there!"
-msgstr "南湾不会一战就屈服，阁下。他们会血战到底！我真希望我也在那！"
+msgstr "南湾不会一战就屈服，领主。他们会血战到底！我真希望我也在那！"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -3372,7 +3372,7 @@ msgstr "我打赌这不是你所希望的欢迎。"
 #. [side]: type=Autumn Shyde, id=Lady Dionli
 #. [event]
 msgid "Lady Dionli"
-msgstr "戴安莉女士"
+msgstr "迪翁莉女领主"
 
 #. [message]: speaker=Lady Dionli
 msgid "What? What’s going on here? Dwarves? Humans? Ships? Glimir, tell me."
@@ -3499,15 +3499,15 @@ msgstr "精灵"
 
 #. [side]: type=Elvish Champion, id=Lord Logalmier
 msgid "Lord Logalmier"
-msgstr "罗格米亚阁下"
+msgstr "罗格米亚领主"
 
 #. [side]: type=Elvish Sharpshooter, id=Lord Aryad
 msgid "Lord Aryad"
-msgstr "阿雅德阁下"
+msgstr "阿雅德领主"
 
 #. [event]
 msgid "Lord El’Isomithir"
-msgstr "艾尔•伊莎米亚阁下"
+msgstr "艾尔•伊莎米亚领主"
 
 #. [option]
 msgid "I think I’ll fight the dragon!"
@@ -3515,7 +3515,7 @@ msgstr "我想与那头龙战斗！"
 
 #. [message]: speaker=Prince Haldric
 msgid "Lord Logalmier, I shall defeat your dragon."
-msgstr "罗格米亚阁下，我将打败你说的那头龙。"
+msgstr "罗格米亚领主，我将打败你说的那头龙。"
 
 #. [option]
 msgid "Let’s get those saurians and nagas on that beach!"
@@ -3607,7 +3607,7 @@ msgstr "哈德里克和他的伙伴们来到了卡利安，也就是精灵贵族
 
 #. [message]: speaker=Lord Logalmier
 msgid "Dionli, why have you brought these humans before us?"
-msgstr "戴安莉，你为什么把这些人类带来？"
+msgstr "迪翁莉，你为什么把这些人类带来？"
 
 #. [message]: speaker=Lady Dionli
 msgid ""
@@ -3784,7 +3784,7 @@ msgstr "我带来了一些消息。有些“老朋友”决定来一次拜访。
 #. [message]: speaker=Lady Jessene
 msgid ""
 "I fear our friend has said too much. You go on ahead, I’ll catch up with you."
-msgstr "(耳语)恐怕我们的朋友说得太多了。你先去吧，我会赶上你的。"
+msgstr "恐怕我们的朋友说得太多了。你先去吧，我会赶上你的。"
 
 #. [scenario]: id=17a_The_Dragon
 msgid "The Dragon"
@@ -4212,7 +4212,7 @@ msgid ""
 "Dwarves.”</i>"
 msgstr ""
 "我们是森林居民，你应该知道就我们的自身利益而言，所有对非森林居民所做的承诺都"
-"要摆在第二位。正如阿雅德阁下所说，<b>“假如他们还给这里招来了更多的麻烦——我们"
+"要摆在第二位。正如阿雅德领主所说，<b>“假如他们还给这里招来了更多的麻烦——我们"
 "必须让他们自行解决，然后我们来‘处理’生还者，并与矮人做个妥协。”</b>"
 
 #. [message]: speaker=Lady Dionli
@@ -5309,16 +5309,15 @@ msgid ""
 "that would be ‘Wes Noth’. So I suggest that the new kingdom be called "
 "‘Wesnoth’, in honor of our old home."
 msgstr ""
-"“韦福克”这个单词来自你们的古语。它的意思是“西方人”(westfolk)。精灵们叫我们“西"
-"北人”(people of the west-north)。古语的读法是“WesNoth”。所以我建议新王国叫“韦"
-"诺”(wesnoth)，以彰显我们故乡的荣誉。"
+"“韦福克”（Wesfork）这个单词来自你们的古语。它的意思是“西方人”。精灵们叫我"
+"们“西北人”。在你们的古语中，其读法是“WesNoth”。所以我建议新王国起名叫做“韦"
+"诺”（Wesnoth），以向我们的故乡表示敬意。"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
 "Hmm. ‘Wesnoth’. I like it. Yes, ‘Wesnoth’ would be fine. So I am the first "
 "King of Wesnoth!"
-msgstr ""
-"恩。“韦诺”（wesnoth）。我喜欢。好，“韦诺”这名字不错。我就是首位韦诺国王！"
+msgstr "恩。”韦诺“。我喜欢。好，“韦诺”这名字不错。那么我就是韦诺的首任国王！"
 
 #. [message]: speaker=Lady Jessene
 msgid "So, what is to become of me?"
@@ -5337,7 +5336,7 @@ msgstr ""
 
 #. [message]: speaker=Lady Jessene
 msgid "I am not to be bought with trinkets, Haldric."
-msgstr "人家才不会为了一个头饰被收买了呢，哈德里克。"
+msgstr "我才不会被头饰收买的，哈德里克。"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -5345,9 +5344,9 @@ msgid ""
 "earned both. We can’t make this work without your people... and I don’t "
 "think I can make it work without <i>you</i>."
 msgstr ""
-"那就把我的位子让给你，洁欣，如果皇后之位或者与我共治王国都不能满足你的话，你"
-"是有资格拥有这些的。没有你的人民我们不可能成功……而且如果没有你就没有今天的"
-"我。"
+"那就请牵起我的手，洁欣，如果你不愿意接受王位或是王国的话。你已经争得了拥有它"
+"们的资格。没有你的人民我们不可能成功……而且如果没有<b>你</b>，我不觉得我能成"
+"功。"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -5355,8 +5354,8 @@ msgid ""
 "Dragonbane, will need someone to remind him that he does not eat lightning "
 "and belch thunder. I... accept."
 msgstr ""
-"也许的确不会有吧。那个，即使不为别的，那么韦诺的英雄王，屠龙者哈德里克，也确"
-"实需要一个人来提醒他，他并不是无所不能的。我……愿意。"
+"没有我你大概是做不到吧。而且，即使不为别的，韦诺的英雄王，屠龙者哈德里克，也"
+"确实需要有个人来提醒他，他不会吞食闪电，也不会喷吐雷霆。我……愿意。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -5428,7 +5427,7 @@ msgstr ""
 
 #. [unit_type]: id=Noble Lord, race=human
 msgid "Noble Lord"
-msgstr "贵族君主"
+msgstr "贵族领主"
 
 #. [unit_type]: id=Noble Lord, race=human
 msgid ""
@@ -5437,8 +5436,8 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
-"作为大量军队的贵族领袖，君主在近战中特别强大，并且弓箭技能同样出色。像指挥官"
-"一样，君主拥有领导技能，能提高相邻的低级单位的战斗能力。"
+"作为大量军队的高贵领袖，领主在近战中特别强大，并且弓箭技能同样出色。像指挥官"
+"一样，领主拥有领导技能，能提高相邻的低级单位的战斗能力。"
 
 #. [unit_type]: id=Noble Youth, race=human
 msgid "Noble Youth"
@@ -5470,7 +5469,7 @@ msgstr "血之吻"
 
 #. [unit_type]: id=Warrior King
 msgid "Warrior King"
-msgstr "勇士王"
+msgstr "武士王"
 
 #. [unit_type]: id=Warrior King
 msgid ""
@@ -5494,7 +5493,7 @@ msgid ""
 "in her veins and on the battlefield she has earned valuable experience, "
 "which continues increasing with time, as does her natural leadership."
 msgstr ""
-"她拥有韦福克贵族的血统，在社会上她和她的人民为她们的领主所排斥，因为在一次对"
+"她拥有韦福克贵族的血统，在社会上她和她的人民被她们的领主所排斥，因为在一次对"
 "付哈德里克人民的战争中，韦福克行将失败之时她们出卖了自己的忠诚。被流放但仍然"
 "保留着她的贵族血统，还有她在战场上获得的宝贵的经验，随着时间不断增长，如同她"
 "的天然领导能力一样。"

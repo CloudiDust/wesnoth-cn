@@ -7,13 +7,13 @@
 # sylecn <sylecn AT yahoo DOT com DOT cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-04-15 16:11+0800\n"
+"PO-Revision-Date: 2017-05-28 11:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -4568,7 +4568,7 @@ msgstr ""
 
 #. [unit_type]: id=Chocobone, race=undead
 msgid "Chocobone"
-msgstr "骷髅骑士"
+msgstr "骷髅鸟骑士"
 
 #. [unit_type]: id=Chocobone, race=undead
 msgid ""
@@ -4576,8 +4576,8 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
-"骷髅骑士骑着某种像是驼鸟一般的大鸟的骨架，那曾经是某个失落的文明所用的坐骑。"
-"骷髅骑士比绝大多数骑兵的移动速度都要快。"
+"骷髅鸟骑士骑着某种像是驼鸟一般的大鸟的骨架，那曾经是某个失落的文明所用的坐"
+"骑。骷髅鸟骑士比绝大多数骑兵的移动速度都要快。"
 
 #. [unit_type]: id=Death Knight, race=undead
 msgid "Death Knight"

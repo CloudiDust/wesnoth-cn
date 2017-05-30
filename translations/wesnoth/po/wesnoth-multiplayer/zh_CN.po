@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-23 23:06+0800\n"
+"PO-Revision-Date: 2017-05-28 12:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -131,7 +131,7 @@ msgstr ""
 
 #. [multiplayer_side]: id=Khalifate, type=random
 msgid "Khalifate"
-msgstr "哈里发国"
+msgstr "哈里发人"
 
 #. [multiplayer_side]: id=Khalifate, type=random
 msgid ""
@@ -143,7 +143,7 @@ msgid ""
 "be more expensive than those of the Loyalist faction, they make up for this "
 "with high mobility — especially on hilly terrains."
 msgstr ""
-"<bold>text='哈里发国'</bold>是由来自南方沙漠和丘陵的人类所组成的派系。他们缺"
+"<bold>text='哈里发人'</bold>是由来自南方沙漠和丘陵的人类所组成的派系。他们缺"
 "少魔法使用者，而是专精于利用地形特征来进行晨昏时段的协同攻击。他们的队伍中有"
 "很多守序和边缘单位、治疗师、出手精准的近战武士以及令人恐惧的骑射弓手。哈里发"
 "单位常常比保王党单位金贵，但他们以高机动性来弥补——尤其是在山丘地形之上。"
@@ -211,7 +211,7 @@ msgstr ""
 
 #. [multiplayer_side]: id=Rebels, type=random
 msgid "Rebels"
-msgstr "反抗势力"
+msgstr "忠勇义军"
 
 #. [multiplayer_side]: id=Rebels, type=random
 msgid ""
@@ -227,13 +227,13 @@ msgid ""
 "advantage of their high forest defense, mastery of ranged attacks, and the "
 "elves’ neutral alignment."
 msgstr ""
-"<bold>text='反抗势力'</bold>是由<ref>text='精灵' dst='..race_elf'</ref>以及他"
-"们居住在森林里的各种盟友所组成的派系。他们的人类称谓，反抗势力，来自于王座继"
+"<bold>text='忠勇义军'</bold>是由<ref>text='精灵' dst='..race_elf'</ref>以及他"
+"们居住在森林里的各种盟友所组成的派系。他们的人类称谓，忠勇义军，来自于王座继"
 "承战争时期，那时，他们揭竿而起，反抗邪恶女王艾什薇尔。精灵是魔法种族，使弓的"
 "好手，又能比人类多活很多年。精灵与自然和谐共处，与<ref>text='人类' dst='.."
 "race_human'</ref>法师，某些<ref>text='人鱼' dst='..race_merman'</ref>，以及称"
-"为<ref>text='树人' dst='..race_wose'</ref>的树形生物结盟。反抗势力在森林中防"
-"御上佳，擅长远程攻击，而精灵则拥有中立立场。要用好反抗势力，就得利用好这些优"
+"为<ref>text='树人' dst='..race_wose'</ref>的树形生物结盟。忠勇义军在森林中防"
+"御上佳，擅长远程攻击，而精灵则拥有中立立场。要用好忠勇义军，就得利用好这些优"
 "势。"
 
 #. [multiplayer_side]: id=Undead, type=random
