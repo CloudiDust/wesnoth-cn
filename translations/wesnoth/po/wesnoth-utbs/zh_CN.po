@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-30 12:52+0800\n"
+"PO-Revision-Date: 2017-06-10 17:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6195,9 +6195,9 @@ msgid ""
 "pain stop."
 msgstr ""
 "因为你抛弃了他们。我知道他们的痛苦与哀伤，我忘不了他们扭曲的脸庞和悲惨的嚎"
-"叫。巫师们总是不停地赞美一个名字：耶柯内斯，耶柯内斯，这名字不停地在我耳边回"
-"响。每当我睡着的时候，我总在梦里听到这个名字，还有嘲笑，狰狞的嘲笑。她说这一"
-"切都是你的错，我相信了她。卡勒，原谅我吧，我只是想结束这痛苦。"
+"叫。巫师们总是不停地赞美一个名字：耶柯纳戈斯，耶柯纳戈斯，这名字不停地在我耳"
+"边回响。每当我睡着的时候，我总在梦里听到这个名字，还有嘲笑，狰狞的嘲笑。她说"
+"这一切都是你的错，我相信了她。卡勒，原谅我吧，我只是想结束这痛苦。"
 
 #. [message]: speaker=Kaleh
 msgid "I... I forgive you."
@@ -6655,7 +6655,7 @@ msgid ""
 "My name is Kaleh, and these are my people. We come from the south and "
 "unfortunately we found your men dead—"
 msgstr ""
-"我的名字是卡勒，这些是我们的人民。我们来自南方，不幸的是发现你的人死了……"
+"我的名字是卡勒，这些是我们的人民。我们来自南方，不幸的是我们发现你的人死了——"
 
 #. [message]: speaker=Sergeant Durstrag
 msgid ""
@@ -6665,8 +6665,8 @@ msgid ""
 "onto our back doorstep?"
 msgstr ""
 "死了？！你说你“发现”了他们？请原谅我并不相信你的话。我们世世代代都没有见过精"
-"灵了，但我们还记得你们在古代的背叛行为。精灵偷偷从洞穴里潜入我们的后门是想干"
-"什么？"
+"灵了，但我们还记得你们在上古的背叛。精灵偷偷从洞穴里潜入我们的后门是想干什"
+"么？"
 
 #. [message]: speaker=$ally_name
 msgid "Well, actually they were fleeing from—"
@@ -6703,7 +6703,7 @@ msgid ""
 "our defenses. This looks an awful lot like an invasion to me."
 msgstr ""
 "不用解释，你们要干什么很明显。现在这里有一大群精灵，他们联合巨魔，潜入我们防"
-"线背后。在我看来这是标准的入侵行为！"
+"线背后。在我看来这实在太像是入侵行为了。"
 
 #. [message]: speaker=Sergeant Durstrag
 msgid ""
@@ -6712,7 +6712,7 @@ msgid ""
 "our defenses. This looks an awful lot like an invasion to me."
 msgstr ""
 "不用解释，你们要干什么很明显。现在这里有一大群精灵，他们联合矮人，潜入我们防"
-"线背后。在我看来这是标准的入侵行为！"
+"线背后。在我看来这实在太像是入侵行为了。"
 
 #. [message]: speaker=Kaleh
 msgid "No, no. You don’t understand! We were told you could help us."
@@ -6804,7 +6804,7 @@ msgstr ""
 
 #. [message]: speaker=Zhul
 msgid "Kaleh, would you mind telling me what in Uria’s name is going on."
-msgstr "卡勒，你介意告诉我这尤里安的到底是怎么回事？"
+msgstr "卡勒，你介意告诉我这尤里安的到底是怎么回事么。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -6849,11 +6849,11 @@ msgstr "卡勒，我回来了。"
 
 #. [message]: speaker=Kaleh
 msgid "Ah! You scared me, Nym. I didn’t hear you coming."
-msgstr "啊！你吓死我了，妮慕。我没听到你。"
+msgstr "啊！你吓死我了，妮慕。我没听到你回来的声音。"
 
 #. [message]: speaker=Nym
 msgid "Of course you didn’t. That’s why it’s called sneaking."
-msgstr "当然。否则还算潜行？"
+msgstr "你当然没听到。否则还能叫潜行吗。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -6889,13 +6889,12 @@ msgid ""
 msgstr "那我们要确保没有任何一个信使能逃出这个山谷去请求援军。"
 
 #. [objective]: condition=lose
-#, fuzzy
 msgid "A human messenger escapes the valley"
-msgstr "人类信使逃脱山谷"
+msgstr "人类信使逃离山谷"
 
 #. [note]
 msgid "The messenger is the leader of the special white colored units"
-msgstr "信使是白色装束的特别单位的首领。"
+msgstr "信使是白色特殊单位的首领"
 
 #. [event]
 msgid "Undead Emissary"
@@ -7155,8 +7154,8 @@ msgid ""
 "Don’t you worry about us, Kaleh. We’ll be careful. I’ll organize five bands "
 "to scout out the nearby lands. We should be back in about half a day."
 msgstr ""
-"卡勒，在担心我们吗。我们会小心的。我会组织五组去侦察这附近，大约半天左右我们"
-"就能回来了。 "
+"卡勒，别担心我们。我们会小心的。我会组织五组去侦察这附近，大约半天左右我们就"
+"能回来了。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -7204,7 +7203,7 @@ msgstr "伊洛保佑，妮慕，你气色好差。还好吧？"
 
 #. [message]: speaker=Nym
 msgid "Yes. Just... let me... catch... my breath."
-msgstr "还好。只是……有些……让我……喘……口气"
+msgstr "还好。只是……有些……让我……喘口气。"
 
 #. [unit]: type=Merman Netcaster, id=Esanoo
 msgid "Esanoo"
@@ -7272,7 +7271,7 @@ msgid ""
 "‘Yechnagoth’ and ‘Zhangor’. She said that you would understand, Kaleh."
 msgstr ""
 "我的主人料到你们会怀疑，所以她告诉我们必须和你们说有关你们命运的事情，有关"
-"于“耶柯内斯”和“战戈”的事情，卡勒，她说你会明白的。"
+"于“耶柯纳戈斯”和“战戈”的事情，卡勒，她说你会明白的。"
 
 #. [message]: speaker=Kaleh
 msgid "Hmmmm... Yes, yes I think I do. I don’t know why, but I trust you."
@@ -7592,7 +7591,7 @@ msgstr "确实，我们欠你一个很大的人情。伊瑟努，干得好，出
 msgid ""
 "Esanoo said there were five merfolk left in his band. I think we have "
 "rescued them all!"
-msgstr "伊瑟努说他的小队里还有五个人。我想我们已经把他们全都救出来了。"
+msgstr "伊瑟努说他的小队里还有五个人鱼。我想我们已经把他们全都救出来了！"
 
 #. [message]: race=merman
 msgid ""
@@ -8539,12 +8538,11 @@ msgid "Gosh, just when things were starting to calm down."
 msgstr "天啊，一瞬间安静下来了。"
 
 #. [message]: speaker=Zhul
-#, fuzzy
 msgid ""
 "Our people are scattered and exhausted, where will we go now Kaleh? Shall we "
 "retreat into the dunes?"
 msgstr ""
-"我们的人分散开了而且精疲力尽，卡勒我们现在该往哪里去？我们要退回沙丘上么？"
+"我们的人分散开了而且精疲力尽，卡勒我们现在该往哪里去？我们要退回沙丘去么？"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -8676,7 +8674,7 @@ msgstr "虽然耗损很大，我们要做我们必须做的。来，一起去夺
 
 #. [objective]: condition=win
 msgid "Capture all 4 human ships"
-msgstr "抢到四艘人类船只。"
+msgstr "抢占全部4艘人类船只"
 
 #. [message]: speaker=Eloh
 msgid ""
@@ -8863,7 +8861,7 @@ msgstr "我的名字是美露莎。你可以把我理解为我们族人中的高
 
 #. [message]: speaker=Kaleh
 msgid "This is—"
-msgstr "这位是--"
+msgstr "这位是——"
 
 #. [message]: speaker=Melusand
 msgid ""
@@ -9169,7 +9167,7 @@ msgstr "她有名字吗？"
 msgid ""
 "She has many names. We call her the Eater of Souls. But in the old tongue "
 "her name is Yechnagoth."
-msgstr "她有很多名字。我们称她为灵魂噬者。但古语中， 她的名字是耶柯内斯。"
+msgstr "她有很多名字。我们称她为灵魂噬者。但古语中， 她的名字是耶柯纳戈斯。"
 
 #. [message]: speaker=Melusand
 msgid ""
@@ -9212,7 +9210,8 @@ msgstr ""
 msgid ""
 "How can we trust you? How do we know you aren’t servants of Yechnagoth, sent "
 "to trick us?"
-msgstr "我们为什么要相信你？我们怎么知道你是不是耶柯内斯的爪牙，是来骗我们的？"
+msgstr ""
+"我们为什么要相信你？我们怎么知道你是不是耶柯纳戈斯的爪牙，是来骗我们的？"
 
 #. [message]: speaker=Melusand
 msgid ""
@@ -9310,9 +9309,9 @@ msgid ""
 "all those weeks ago? What if this is all just part of a plot to turn our "
 "people into a group of mindless followers?"
 msgstr ""
-"关键是，这不是她的战争，这也是我们的战争。我个人相信她的故事。按美露莎的说"
-"法，既然耶柯内斯如此神通广大，数周以前降下陨石雨毁灭我们村庄的人就是她也说不"
-"定，也许那是把我们的同胞转化成她的傀儡追随者的阴谋的一部分。"
+"关键是，这不只是她的战争，这也是我们的战争。我个人相信她的故事。按美露莎的说"
+"法，既然耶柯纳戈斯如此神通广大，那么我们怎么知道数周以前降下陨石雨毁灭我们村"
+"庄的人不是她呢？如果那都只是把我们的人民变成一群无脑追随者的阴谋的一部分呢？"
 
 #. [message]: speaker=Zhul
 msgid ""
@@ -9381,8 +9380,8 @@ msgid ""
 "Yechnagoth has already won."
 msgstr ""
 "任何经历过黑暗的人都希望自己能回到过去的生活中，但是我们不可能回到过去，我们"
-"唯一能做的就是在我们能掌控的时间里做好正确的事。别在绝望中沉沦，卡勒，耶柯内"
-"斯正希望你那样。"
+"唯一能做的就是在我们能掌控的时间里做好正确的事。别在绝望中沉沦，卡勒，耶柯纳"
+"戈斯正希望你那样。"
 
 #. [message]: speaker=$ally_name
 msgid ""
@@ -9403,8 +9402,8 @@ msgid ""
 "not a choice that I can make for all of our people."
 msgstr ""
 "你们说得对。虽然美露莎的故事听起来很奇怪，但我相信她。从我的所见所闻来看，耶"
-"柯内斯确实是这个星球上的一大祸害，我愿意拿我的生命作赌注，去博一次打败她的机"
-"会。但是我不会强迫大家和我作出同样的选择。"
+"柯纳戈斯确实是这个星球上的一大祸害，我愿意拿我的生命作赌注，去博一次打败她的"
+"机会。但是我不会强迫大家和我作出同样的选择。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -9427,10 +9426,10 @@ msgid ""
 "survive."
 msgstr ""
 "尽管听起来很奇怪，但在这世界上有些东西比我们的同胞的命运还要重要。今后的日子"
-"里，太阳依然会升起，花朵依然会结出种子，依然会有小宝宝出生。但如果耶柯内斯赢"
-"了，那么所有好的美丽的事物都会被打断、扭曲、摧毁。我们生活的世界是贫瘠的，但"
-"是其中依然孕育着美和善，不论我们的命运如何。我愿意献出我的生命，为了那些美和"
-"善的传承。"
+"里，太阳依然会升起，花朵依然会结出种子，依然会有小宝宝出生。但如果耶柯纳戈斯"
+"赢了，那么所有好的美丽的事物都会被打断、扭曲、摧毁。我们生活的世界是贫瘠的，"
+"但是其中依然孕育着美和善，不论我们的命运如何。我愿意献出我的生命，为了那些美"
+"和善的传承。"
 
 #. [message]: speaker=Grog
 msgid ""
@@ -9439,9 +9438,9 @@ msgid ""
 "would give you whole army of trolls, but I am afraid you only have Grog. "
 "Still, Grog will do what he can to see her destroyed."
 msgstr ""
-"如果不阻止耶柯内斯，恐怕即使是最深的坑道也不能保证我的同胞们能永远躲过她的魔"
-"爪。如果大首领知道要对抗这样一个恶魔，他一定会交给你一整支巨魔军队的，但是恐"
-"怕现在你只有果洛格一个。不过果洛格依然会全力以赴来打败她的。"
+"如果不阻止耶柯纳戈斯，恐怕即使是最深的坑道也不能保证我的同胞们能永远躲过她的"
+"魔爪。如果大首领知道要对抗这样一个恶魔，他一定会交给你一整支巨魔军队的，但是"
+"恐怕现在你只有果洛格一个。不过果洛格依然会全力以赴来打败她的。"
 
 #. [message]: speaker=Nog
 msgid ""
@@ -9450,9 +9449,9 @@ msgid ""
 "would give you whole army of trolls, but I am afraid you only have Nog. "
 "Still, Nog will do what he can to see her destroyed."
 msgstr ""
-"如果不阻止耶柯内斯，恐怕即使是最深的坑道也不能保证我的同胞们能永远躲过她的魔"
-"爪。如果大首领知道要对抗这样一个恶魔，他一定会交给你一整支巨魔军队的，但是恐"
-"怕现在你只有诺格一个。不过诺格依然会全力以赴来打败她的。"
+"如果不阻止耶柯纳戈斯，恐怕即使是最深的坑道也不能保证我的同胞们能永远躲过她的"
+"魔爪。如果大首领知道要对抗这样一个恶魔，他一定会交给你一整支巨魔军队的，但是"
+"恐怕现在你只有诺格一个。不过诺格依然会全力以赴来打败她的。"
 
 #. [message]: speaker=Rogrimir
 #. [message]: speaker=Jarl
@@ -9462,9 +9461,9 @@ msgid ""
 "king would give you a whole army of dwarves, but I am afraid you only have "
 "me. Still, I will do what I can to see her destroyed."
 msgstr ""
-"如果没有人来阻止耶柯内斯，恐怕即使是在地底最深的坑道里，我们也不能永远逃离她"
-"的魔爪。如果我的王知道要对抗这样一个恶魔，他一定会交给你一整支矮人军队的，但"
-"是恐怕现在你只有我一个。不过我依然会全力以赴来打败她的。"
+"如果没有人来阻止耶柯纳戈斯，恐怕即使是在地底最深的坑道里，我们也不能永远逃离"
+"她的魔爪。如果我的王知道要对抗这样一个恶魔，他一定会交给你一整支矮人军队的，"
+"但是恐怕现在你只有我一个。不过我依然会全力以赴来打败她的。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -9503,8 +9502,8 @@ msgid ""
 "ones because of her machinations. Her arrogance will not go unchallenged; we "
 "will aid you in your cause."
 msgstr ""
-"是的。耶柯内斯把我们像傻子一样玩弄。因为她的阴谋，我们都失去了所爱的人。她的"
-"狂妄必须得到教训，我们会协助你们。"
+"是的。耶柯纳戈斯把我们像傻子一样玩弄。因为她的阴谋，我们都失去了所爱的人。她"
+"的狂妄必须得到教训，我们会协助你们。"
 
 #. [message]: speaker=Melusand
 msgid ""
@@ -9546,8 +9545,8 @@ msgid ""
 msgstr ""
 "因为在我们的语言里，左克拉诺是被诅咒的意思。我觉得，那里就是罪恶的源头。我们"
 "没能力发起持久的攻击，但是应该能为你们争取足够的时间来偷偷穿过外围防线到达左"
-"克拉诺岛。你们必须搜索那座岛，找到玷污那岛的黑暗源头，然后在耶柯内斯的爪牙们"
-"回来之前摧毁它。"
+"克拉诺岛。你们必须搜索那座岛，找到玷污那岛的黑暗源头，然后在耶柯纳戈斯的爪牙"
+"们回来之前摧毁它。"
 
 #. [message]: speaker=Melusand
 msgid ""
@@ -9617,14 +9616,14 @@ msgid ""
 "Kaleh, Esanoo said this all concerned Yechnagoth and Zhangor. We know about "
 "Yechnagoth, but who is Zhangor?"
 msgstr ""
-"在我们出发之前，我还有一件事情不明白。伊瑟努第一次见到卡勒时，他说事关耶柯内"
-"斯和战戈。现在我们对耶柯内斯已经有所了解，但是战戈呢？"
+"在我们出发之前，我还有一件事情不明白。伊瑟努第一次见到卡勒时，他说事关耶柯纳"
+"戈斯和战戈。现在我们对耶柯纳戈斯已经有所了解，但是战戈呢？"
 
 #. [message]: speaker=Kaleh
 msgid ""
 "I remember when Yechnagoth was posing as Eloh, she said she was the slayer "
 "of the demon lord Zhangor."
-msgstr "我记得耶柯内斯冒充伊洛时，她说她消灭了魔神战戈。"
+msgstr "我记得耶柯纳戈斯冒充伊洛时，她说她消灭了魔神战戈。"
 
 #. [message]: speaker=Zhul
 msgid ""
@@ -9632,8 +9631,8 @@ msgid ""
 "is a sad tale and has not been told for ages, but perhaps now is the right "
 "time."
 msgstr ""
-"我不知道耶柯内斯从那里听来了这个魔神战戈的故事。那是一个悲伤的故事，我们已经"
-"好几代不再传述这件事了，不过也许现在是时候告诉你们。"
+"我不知道耶柯纳戈斯从那里听来了这个魔神战戈的故事。那是一个悲伤的故事，我们已"
+"经好几代不再传述这件事了，不过也许现在是时候告诉你们。"
 
 #. [message]: speaker=Zhul
 msgid ""
@@ -9800,10 +9799,10 @@ msgstr ""
 "这真有意思。其实，卡勒，在我让伊瑟努向你提战戈之前，我还不知道战戈的这些事"
 "呢。事情是这样的，在伊洛向你现形的时候，我通过我的能力偷听了你们的谈话。我不"
 "知道你对她的怀疑程度，所以我不敢直接揭穿她，我怕引起你的恐慌。但我又想让你来"
-"这里，好让我亲自向你说明真相。于是我就试图通过提示耶柯内斯和战戈，来启发卡勒"
-"联想到伊洛和耶柯内斯，这样你也许就会想找到我来弄清事实。可我没有料到耶柯内斯"
-"的行动会这么快，这是我的错。我很抱歉让你们付出了这么大的代价才揭露了她的真实"
-"身份。"
+"这里，好让我亲自向你说明真相。于是我就试图通过提示耶柯纳戈斯和战戈，来启发卡"
+"勒联想到伊洛和耶柯纳戈斯，这样你也许就会想找到我来弄清事实。可我没有料到耶柯"
+"纳戈斯的行动会这么快，这是我的错。我很抱歉让你们付出了这么大的代价才揭露了她"
+"的真实身份。"
 
 #. [message]: speaker=Melusand
 msgid ""
@@ -9996,8 +9995,8 @@ msgid ""
 "so few people left, training new warriors will be very difficult and "
 "expensive. But if we lose this battle, then what use will gold be to us?"
 msgstr ""
-"好，开始征召我们的勇士。即使人数短缺会让我们征召新兵费用昂贵，但是如果这一战"
-"我们败了，一切全完了！"
+"好，我们现在可以开始征召武士们了。当然，现在我们不剩多少人了，训练新的战士将"
+"会困难而昂贵。但如果我们输掉这场战斗，那么金币对我们而言还有什么用呢？"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10067,7 +10066,7 @@ msgstr ""
 msgid ""
 "Hey, what about the two keys that we found on the bodies of the undead and "
 "orc leaders?"
-msgstr "嘿，试试我们在亡灵和兽人头领身上找到的那两把钥匙。"
+msgstr "嘿，要不试试我们在亡灵和兽人头领身上找到的那两把钥匙？"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10090,7 +10089,7 @@ msgid ""
 "we will find her and make her pay for all she has done."
 msgstr ""
 "我们已经找到了两把钥匙。现在我们可以去打开黑暗要塞的门了。我看了太多的流血牺"
-"牲，不管耶柯内斯躲在哪里，我们都要找到她，让她为这一切付出代价。"
+"牲，不管耶柯纳戈斯躲在哪里，我们都要找到她，让她为这一切付出代价。"
 
 #. [objective]: condition=win
 msgid "Any unit must reach the black citadel"
@@ -10172,7 +10171,7 @@ msgstr ""
 #. [message]: speaker=unit
 msgid ""
 "Well, help us get revenge on the naga. We are here to destroy Yechnagoth."
-msgstr "帮我们向娜迦复仇。我们为毁灭耶柯内斯而来。"
+msgstr "帮我们向娜迦复仇。我们为毁灭耶柯纳戈斯而来。"
 
 #. [message]: speaker=Grateful Merman
 msgid "Gladly. Just let me recover my strength first."
@@ -10251,7 +10250,7 @@ msgid ""
 "losing you, Nym. Now it is time for me to finish it, alone."
 msgstr ""
 "我必须去。太多人已经因为我的行为死去了，妮慕，我不想再失去你。现在让我去结束"
-"这一切吧，独自一人去……"
+"这一切吧，独自一人。"
 
 #. [message]: speaker=Zhul
 msgid "May Eloh protect you."
@@ -10277,8 +10276,7 @@ msgstr "让他去吧。既然他心意已决。"
 msgid ""
 "I’ve saved his sorry ass all this way, I’m not going to let him go and let "
 "himself get killed now!"
-msgstr ""
-"这一路上我一直容忍他的任性，但这次我不会再放任他了，我不会看着他被杀死。"
+msgstr "这一路上我一直在救这傻小子的命，现在我可不会让他走，然后被杀掉的！"
 
 #. [message]: speaker=Zhul
 msgid ""
@@ -10287,9 +10285,9 @@ msgid ""
 "and if Eloh wills it he will prevail. You see how all our losses weigh upon "
 "him. He would not want us to disobey him and sacrifice our lives too."
 msgstr ""
-"乖妮慕，我亲爱的，你总是这么叛逆，但你必须学会尊重你的领袖的决定。卡勒心意已"
-"决，如果伊洛让他赢，那他就会赢。你知道如果我们都死了对他的打击会有多大吗，他"
-"不希望我们违背他，他不希望我们也去送死。"
+"妮芙特莎，我亲爱的，你总是这么叛逆，但最终你必须学会尊重你的领袖的决定。卡勒"
+"心意已决，如果伊洛让他赢，那他就会赢。你知道如果我们都死了对他的打击会有多大"
+"吗，他不希望我们违背他，他不希望我们也去送死。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -10539,7 +10537,7 @@ msgstr "遵命，祭祀。"
 #. [unit]: type=Central Body, id=Yechnagoth
 #. [unit]: type=Central Body2, id=Yechnagoth
 msgid "Yechnagoth"
-msgstr "耶柯内斯"
+msgstr "耶柯纳戈斯"
 
 #. [message]: speaker=Nym
 msgid "What is that thing?!"
@@ -10565,12 +10563,12 @@ msgid ""
 "attacking it. We can’t stop now!"
 msgstr ""
 "它肯定有什么弱点。看看这些突起，我还以为是石头，但是似乎也有生命。如果我们破"
-"坏它们，或许就能削弱那大家伙的力量。不管发生什么可怕的事，我们都必须坚持攻击"
-"它，我们不能停下。"
+"坏它们，或许就能削弱那大家伙的力量。不管发生什么可怕的事，我们都必须继续攻击"
+"它。我们现在不能停下！"
 
 #. [objective]: condition=win
 msgid "Defeat Yechnagoth"
-msgstr "打败耶柯内斯"
+msgstr "打败耶柯纳戈斯"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10611,7 +10609,7 @@ msgstr "终于……结束了。"
 
 #. [message]: speaker=Nym
 msgid "Is Yechnagoth really dead?"
-msgstr "耶柯内斯真死了？"
+msgstr "耶柯纳戈斯真死了？"
 
 #. [message]: speaker=Kaleh
 msgid "Yes, she’s dead Nym."
@@ -10685,9 +10683,9 @@ msgid ""
 "before us, and they have not bothered us since. For once we seemed to be "
 "safe from imminent danger."
 msgstr ""
-"实际上，随着耶柯内斯的死去，她的所有奴仆都恢复了他们原来的本性。幸运的是，我"
-"们已经清除了岛上大部分的邪恶原住民，而且没有了他们之前的操纵者，我们很容易就"
-"消灭了岛上剩下的兽人和亡灵，娜迦也在我们面前溃逃了，他们再也没有来骚扰过我"
+"实际上，随着耶柯纳戈斯的死去，她的所有奴仆都恢复了他们原来的本性。幸运的是，"
+"我们已经清除了岛上大部分的邪恶原住民，而且没有了他们之前的操纵者，我们很容易"
+"就消灭了岛上剩下的兽人和亡灵，娜迦也在我们面前溃逃了，他们再也没有来骚扰过我"
 "们。长久以来，这似乎是我们第一次获得了没有威胁的安全。"
 
 #. [message]: speaker=Kaleh
@@ -10727,9 +10725,9 @@ msgid ""
 "wish I could go back and do it all over again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。多亏了伊洛"
-"的慈悲和好运气，他们才没有在那血腥的战斗中牺牲。但是其他和我一起长大的人们就"
-"没有这么幸运了。为什么要有这么多人死去呢？我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。多亏了伊"
+"洛的慈悲和好运气，他们才没有在那血腥的战斗中牺牲。但是其他和我一起长大的人们"
+"就没有这么幸运了。为什么要有这么多人死去呢？我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10742,9 +10740,9 @@ msgid ""
 "again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"妮慕回来，我愿意牺牲我自己。她一直忠诚地跟随着我，一直和我并肩作战，但到了最"
-"后我却失去了她……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让妮慕回来，我愿意牺牲我自己。她一直忠诚地跟随着我，一直和我并肩作战，但到了"
+"最后我却失去了她……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10758,8 +10756,8 @@ msgid ""
 "Looking out over the waters, and back upon the prosperity of my people, I "
 "tell myself it was worth it. But sometimes that seems a small consolation."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的妮慕。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的妮慕。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
 "水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
 "信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，妮慕一"
 "定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我告诉"
@@ -10776,9 +10774,9 @@ msgid ""
 "again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"朱尔回来，我愿意牺牲我自己。她一直忠诚地跟随着我，一直和我并肩作战，但到了最"
-"后我却失去了她……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让朱尔回来，我愿意牺牲我自己。她一直忠诚地跟随着我，一直和我并肩作战，但到了"
+"最后我却失去了她……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10792,8 +10790,8 @@ msgid ""
 "Looking out over the waters, and back upon the prosperity of my people, I "
 "tell myself it was worth it. But sometimes that seems a small consolation."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的朱尔。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的朱尔。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
 "水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
 "信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，朱尔一"
 "定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我告诉"
@@ -10810,9 +10808,9 @@ msgid ""
 "again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"果洛格回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到了"
-"最后我却失去了他……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让果洛格回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到"
+"了最后我却失去了他……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10827,9 +10825,9 @@ msgid ""
 "tell myself it was worth it. But when I think of the desperate war that his "
 "people are probably still fighting underground, it seems a small consolation."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的果洛格。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
-"水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的果洛格。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些"
+"海水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
 "信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，果洛格"
 "一定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我告"
 "诉自己这一切都是值得的。但有时候，想到他的同胞们可能还在地底绝望地战斗着，我"
@@ -10846,9 +10844,9 @@ msgid ""
 "again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"诺格回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到了最"
-"后我却失去了他……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让诺格回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到了"
+"最后我却失去了他……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10863,8 +10861,8 @@ msgid ""
 "tell myself it was worth it. But when I think of the desperate war that his "
 "people are probably still fighting underground, it seems a small consolation."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的诺格。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的诺格。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
 "水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
 "信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，诺格一"
 "定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我告诉"
@@ -10882,9 +10880,9 @@ msgid ""
 "all over again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"若格瑞莫回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到"
-"了最后我却失去了他……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让若格瑞莫回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但"
+"到了最后我却失去了他……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10900,13 +10898,13 @@ msgid ""
 "his people are probably still fighting underground, it seems a small "
 "consolation."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的若格瑞莫。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些"
-"海水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
-"信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，若格瑞"
-"莫一定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我"
-"告诉自己这一切都是值得的。但有时候，想到他的同胞们可能还在地底绝望地战斗着，"
-"我觉得，这只不过是个安慰自己的借口罢了。"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的若格瑞莫。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那"
+"些海水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都"
+"相信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，若格"
+"瑞莫一定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，"
+"我告诉自己这一切都是值得的。但有时候，想到他的同胞们可能还在地底绝望地战斗"
+"着，我觉得，这只不过是个安慰自己的借口罢了。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10919,9 +10917,9 @@ msgid ""
 "again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"查尔回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到了最"
-"后我却失去了他……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让查尔回来，我愿意牺牲我自己。他远离他的家乡，一直忠诚地和我并肩作战，但到了"
+"最后我却失去了他……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10936,8 +10934,8 @@ msgid ""
 "tell myself it was worth it. But when I think of the desperate war that his "
 "people are probably still fighting underground, it seems a small consolation."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的查尔。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的查尔。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
 "水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
 "信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，查尔一"
 "定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我告诉"
@@ -10955,9 +10953,9 @@ msgid ""
 "do it all over again."
 msgstr ""
 "如果有人在一开始就告诉我，我们将要付出的血的代价，我不知道我是不是还有勇气踏"
-"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯内斯的。如果可以让"
-"他们中的任何一个回来，我愿意牺牲我自己。他们一直忠诚地跟随着我，一直和我并肩"
-"作战，但到了最后我却失去了他们……我真希望能回到过去从新开始。"
+"出第一步。我早就应该想到我的朋友们不会让我一个人去面对耶柯纳戈斯的。如果可以"
+"让他们中的任何一个回来，我愿意牺牲我自己。他们一直忠诚地跟随着我，一直和我并"
+"肩作战，但到了最后我却失去了他们……我真希望能回到过去从新开始。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -10971,9 +10969,9 @@ msgid ""
 "it. Looking out over the waters, and back upon the prosperity of my people, "
 "I tell myself it was worth it. But I still miss each one of them horribly."
 msgstr ""
-"虽然在黑暗要塞里击败耶柯内斯是我们做的最有意义的事，但是我却常常回想起在那黑"
-"暗之地死去的朋友们。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些海"
-"水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
+"虽然在黑暗要塞里击败耶柯纳戈斯是我们做的最有意义的事，但是我却常常回想起在那"
+"黑暗之地死去的朋友们。每当黎明太阳升起的时候，我站在岛东南面的高地，看着那些"
+"海水，看着我们曾经为之流血牺牲的世界，我总是回想起朱尔说过的话，我们大家都相"
 "信，尽管在征途中有那么多的战斗和牺牲，但这世界依然是个美丽善良的地方，他们一"
 "定是愿意牺牲自己来保护这样的世界的。收回视线，看着族人如今的繁荣生活，我告诉"
 "自己这一切都是值得的。但我还是非常想念他们每一个人。"
@@ -11134,13 +11132,13 @@ msgid ""
 "say, it is a sign that the peace and prosperity of old has come again."
 msgstr ""
 "还活着的最老的精灵，朱尔，现在移动得更慢了，但她的眼中依然熠熠有神。尽管在旅"
-"途中历经磨难，也受到了耶柯内斯的欺骗，我们的胜利还是坚定了她的信仰。如果你表"
-"达了一丝对伊洛力量的怀疑，她会一如既往地迅速纠正你的错误。她最近告诉我说，我"
-"们征途中的所有艰难和胜利都是伊洛为我们计划好的，现在这个新家园就是她对我们的"
-"奖赏。她现在忙于教授新一代的祭祀，告诉孩子们那些老故事，这样过去的事就能得到"
-"传承。她还在筹划在丛林里为伊洛种植一片圣树，就像我们在过去做的那样。我还是不"
-"习惯看到这么多的树，但是也许正如有些人说的那样，这就是我们过去的安宁和繁荣又"
-"重新回来了的象征。"
+"途中历经磨难，也受到了耶柯纳戈斯的欺骗，我们的胜利还是坚定了她的信仰。如果你"
+"表达了一丝对伊洛力量的怀疑，她会一如既往地迅速纠正你的错误。她最近告诉我说，"
+"我们征途中的所有艰难和胜利都是伊洛为我们计划好的，现在这个新家园就是她对我们"
+"的奖赏。她现在忙于教授新一代的祭祀，告诉孩子们那些老故事，这样过去的事就能得"
+"到传承。她还在筹划在丛林里为伊洛种植一片圣树，就像我们在过去做的那样。我还是"
+"不习惯看到这么多的树，但是也许正如有些人说的那样，这就是我们过去的安宁和繁荣"
+"又重新回来了的象征。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -11312,12 +11310,12 @@ msgid ""
 msgstr ""
 "至于那座黑暗要塞，经过反复的讨论，我们决定回到那里，使用古老的祭典，通过火，"
 "来净化那不洁的地方。我们往整座建筑里放满了木材和油，然后点燃了它们，我们希望"
-"耶柯内斯残留的痕迹能被这神圣的火焰所净化。我们拆除了那座要塞，我本来想留着拆"
-"下来的石头，以后还可以用来盖房子，但是谁知道这些石头里有没有隐藏着什么邪恶的"
-"魔法呢，我可不想冒险。所以在人鱼的帮助下，我们把这些石头搬到水边，全部沉入了"
-"海底。搬完最后一块石头以后，我们决定不管将来我们会在这黑暗要塞遗址附近建什么"
-"或是种些什么，这块空地一定要留着，这是对曾经占据这里的魔鬼和所有为了摧毁她而"
-"牺牲的人们的纪念。"
+"耶柯纳戈斯残留的痕迹能被这神圣的火焰所净化。我们拆除了那座要塞，我本来想留着"
+"拆下来的石头，以后还可以用来盖房子，但是谁知道这些石头里有没有隐藏着什么邪恶"
+"的魔法呢，我可不想冒险。所以在人鱼的帮助下，我们把这些石头搬到水边，全部沉入"
+"了海底。搬完最后一块石头以后，我们决定不管将来我们会在这黑暗要塞遗址附近建什"
+"么或是种些什么，这块空地一定要留着，这是对曾经占据这里的魔鬼和所有为了摧毁她"
+"而牺牲的人们的纪念。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -11389,15 +11387,15 @@ msgstr "打败流寇首领"
 
 #. [objective]: condition=win
 msgid "Survive Until Dawn (or)"
-msgstr "黎明时仍活着（或）"
+msgstr "存活至黎明（或）"
 
 #. [objective]: condition=win
 msgid "Defeat all Undead Leaders"
-msgstr "打败所有亡灵首领"
+msgstr "击败所有亡灵首领"
 
 #. [objective]: condition=win
 msgid "Defeat Possessed Garak (or)"
-msgstr "打败 伽拉克 （或）"
+msgstr "击败被附身的伽拉克（或）"
 
 #. [message]: speaker=Zhul
 msgid ""
@@ -11824,22 +11822,22 @@ msgid ""
 msgstr "据说神的化身是世间最接近神的实际存在的存在，她令人敬畏且令人觉得恐怖。"
 
 msgid "a leader in battle"
-msgstr "战斗中的领导者"
+msgstr "战斗中的领袖"
 
 msgid "trained by Nym in using the bolas"
-msgstr "从妮慕那里学链球"
+msgstr "从妮慕那里学会了链球"
 
 msgid "a better swordsman"
-msgstr " 一个更好的剑士"
+msgstr "更优秀的剑士"
 
 msgid "a better archer"
-msgstr "一个更好的弓箭手"
+msgstr "更优秀的弓箭手"
 
 msgid "a marksman with the bow"
-msgstr "带弓箭的神射手"
+msgstr "使弓的神射手"
 
 msgid "gain +20% resistance under the sun"
-msgstr "阳光之下抗性 +20%"
+msgstr "在阳光之下时获得+20%抗性"
 
 #. [resistance]: id=sustenance
 msgid "sustenance"
@@ -11850,12 +11848,11 @@ msgid ""
 "This unit’s resistances are increased by 20% in daylight, on defense and "
 "attack. Vulnerabilities are not affected."
 msgstr ""
-"坚忍：\n"
-"本单位在白天时，不管是在防御还是在进攻，抗性都增加 20%。本单位的弱点不受此能"
-"力影响。"
+"此单位在白天时，不管是在防御还是在进攻，抗性都增加20%。本单位的弱点不受此能力"
+"影响。"
 
 msgid "gain +10% resistance to blade, pierce and impact"
-msgstr "对剑刃、穿刺和冲击的抗性 +10%"
+msgstr "对刃器、穿刺和冲击的抗性+10%"
 
 msgid "gain a stunning attack that disrupts enemy ZOC"
 msgstr "获得能扰乱敌人的控制区域的击晕技能"
@@ -12002,21 +11999,19 @@ msgstr ""
 "对方；它们也能从远处喷出一张网，使敌人的速度减慢。"
 
 #. [unit_type]: id=Crab Man, race=monster
-#, fuzzy
 msgid "Monster Crab"
-msgstr "怪物"
+msgstr "巨蟹怪"
 
 #. [unit_type]: id=Crab Man, race=monster
-#, fuzzy
 msgid ""
 "The Monster Crab is a semi-sentient crab the size of a horse. It is one of "
 "many twisted monsters recorded by the sages of Wesnoth and probably the "
 "creation of some twisted mage. These monstrosities have spread into the wild "
 "and prefer to live around coastal waters, preying on both humans and animals."
 msgstr ""
-"螃蟹人是半螃蟹半人的生物，它是被韦诺学者们记录下的怪物中最为扭曲的一种了，可"
-"能是某种扭曲魔法的产物。这种怪胎如今已经散布到野外去了，它们喜欢在岸边水里栖"
-"息，捕食人类和动物。"
+"巨蟹怪是有点儿自我意识的螃蟹，它和马匹一样大。它是被韦诺先贤们记录下来的各种"
+"扭曲的怪物之一，可能是某个扭曲的法师的造物。这些怪胎已经散布到野外去了，它们"
+"喜欢在岸边水里栖息，捕食人类和动物。"
 
 #. [unit_type]: id=Dawarf, race=monster
 msgid "Dawarf"
@@ -12104,7 +12099,7 @@ msgstr ""
 
 #. [attack]: type=fire
 msgid "flaming sword"
-msgstr "烈火剑"
+msgstr "烈焰神剑"
 
 #. [unit_type]: id=Small Mudcrawler
 msgid "Small Mudcrawler"
@@ -12143,11 +12138,11 @@ msgstr ""
 
 #. [unit_type]: id=Naga Sentinel, race=naga
 msgid "Naga Sentinel"
-msgstr "娜迦护卫"
+msgstr "娜迦哨卫"
 
 #. [unit_type]: id=Naga Warden, race=naga
 msgid "Naga Warden"
-msgstr "娜迦典狱官"
+msgstr "娜迦守望者"
 
 #. [unit_type]: id=Dark Assassin1, race=orc
 msgid "Dark Assassin"
@@ -12171,9 +12166,8 @@ msgid "darts"
 msgstr "螯刺"
 
 #. [unit_type]: id=Quenoth Archer, race=elf
-#, fuzzy
 msgid "Quenoth Archer"
-msgstr "沙漠弓手"
+msgstr "奎诺弓手"
 
 #. [unit_type]: id=Quenoth Archer, race=elf
 msgid ""
@@ -12184,31 +12178,30 @@ msgid ""
 "their ancestors practise the art from the saddle, easily avoiding the perils "
 "of melee combat."
 msgstr ""
+"开放的沙漠地带和森林相比，能提供的保护要弱得多。因此，能够阻挡进击的兽人部落"
+"的大量精灵弓箭手队伍也彻底消失了。仍然选择钻研祖先们的这一传统武器的少数精"
+"灵，转而选择在马鞍上练习射术，于是便轻易地躲过了近战的危险。"
 
 #. [unit_type]: id=Quenoth Champion, race=elf, description=
-#, fuzzy
 msgid "Quenoth Champion"
-msgstr "沙漠斗士"
+msgstr "奎诺斗士"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
 msgid "glaive"
-msgstr ""
+msgstr "利剑"
 
 #. [unit_type]: id=Quenoth Druid, race=elf, description=
-#, fuzzy
 msgid "female^Quenoth Druid"
-msgstr "沙漠德鲁伊"
+msgstr "奎诺德鲁伊"
 
 #. [attack]: type=impact
-#, fuzzy
 msgid "sand"
-msgstr "美露莎"
+msgstr "沙"
 
 #. [unit_type]: id=Quenoth Fighter, race=elf
-#, fuzzy
 msgid "Quenoth Fighter"
-msgstr "沙漠战士"
+msgstr "奎诺战士"
 
 #. [unit_type]: id=Quenoth Fighter, race=elf
 msgid ""
@@ -12216,11 +12209,12 @@ msgid ""
 "proficient in the use of the spear, they are remarkably skilled in working "
 "together and coordinating defense."
 msgstr ""
+"奎诺武士中的大部分是战士。除了熟练使用长矛之外，他们特别擅长协同作战和组织防"
+"御。"
 
 #. [unit_type]: id=Tauroch Flagbearer, race=elf
-#, fuzzy
 msgid "Tauroch Flagbearer"
-msgstr "火焰巨魔"
+msgstr "陶洛旗手"
 
 #. [unit_type]: id=Tauroch Flagbearer, race=elf
 msgid ""
@@ -12229,10 +12223,12 @@ msgid ""
 "besting them on the battlefield must invariably possess vastly superior "
 "numbers."
 msgstr ""
+"受人尊敬的旗手背负着奎诺精灵的战旗上场作战，他们也是战术大师。任何希望击败他"
+"们的敌方指挥官，在兵力上必须有极大优势才行。"
 
 #. [unit_type]: id=Quenoth Flanker, race=elf
 msgid "Quenoth Flanker"
-msgstr ""
+msgstr "奎诺侧击士"
 
 #. [unit_type]: id=Quenoth Flanker, race=elf
 msgid ""
@@ -12241,15 +12237,16 @@ msgid ""
 "and nimble, these elves can take advantage of the smallest weaknesses in "
 "enemy formations."
 msgstr ""
+"有些战士发现他们真正的才能并不在固定的长矛方阵之中，而是在沙漠之上，突袭敌军"
+"的侧翼和后部。这些精灵行动迅速，身手矫捷，可以利用敌军阵型中哪怕最小的弱点。"
 
 #. [attack]: type=pierce
 msgid "blowgun"
-msgstr ""
+msgstr "吹箭"
 
 #. [unit_type]: id=Quenoth Horseman, race=elf
-#, fuzzy
 msgid "Quenoth Horseman"
-msgstr "沙漠骑兵"
+msgstr "奎诺骑手"
 
 #. [unit_type]: id=Quenoth Horseman, race=elf
 msgid ""
@@ -12257,37 +12254,34 @@ msgid ""
 "These elusive Horsemen, however, are masters of weakening an enemy while at "
 "the same time provoking them to give chase — often into a trap."
 msgstr ""
+"在绝大多数情况下，后背向敌，迅速撤退是很危险的战术。然而，这些神出鬼没的骑手"
+"却是削弱敌军并引诱他们追击的大师——经常是将他们引入陷阱之中。"
 
 #. [unit_type]: id=Quenoth Marksman, race=elf
-#, fuzzy
 msgid "Quenoth Marksman"
-msgstr "沙漠狙击手"
+msgstr "奎诺神射手"
 
 #. [unit_type]: id=Quenoth Marksman, race=elf
 msgid ""
 "A marksman can loose volleys of arrows at their enemies with deadly "
 "accuracy, even at full gallop."
-msgstr ""
+msgstr "神射手可以用致命的精准度向敌人射出箭雨，甚至其射速也是飞快。"
 
 #. [unit_type]: id=Quenoth Moon Shyde, race=elf, description=
-#, fuzzy
 msgid "female^Quenoth Moon Shyde"
-msgstr "沙漠仙子"
+msgstr "奎诺皓月仙子"
 
 #. [attack]: type=cold
-#, fuzzy
 msgid "chill gale"
-msgstr "冷冻波"
+msgstr "刺骨寒风"
 
 #. [unit_type]: id=Quenoth Moon Singer, race=elf, description=
-#, fuzzy
 msgid "female^Quenoth Moon Singer"
-msgstr "沙漠游侠"
+msgstr "奎诺皓月歌者"
 
 #. [unit_type]: id=Quenoth Mystic, race=elf
-#, fuzzy
 msgid "female^Quenoth Mystic"
-msgstr "奎诺精灵卡勒"
+msgstr "奎诺秘术师"
 
 #. [unit_type]: id=Quenoth Mystic, race=elf
 msgid ""
@@ -12296,25 +12290,25 @@ msgid ""
 "are able to accomplish this in a world devoid of the vast forests from which "
 "their forebears drew much of their strength from."
 msgstr ""
+"就像她们的祖先一样，奎诺秘术师拥有成为伟大魔法使用者的潜能。她们的祖先们需要"
+"从广袤的森林之中汲取大部分的力量，而她们却可以在没有广袤森林的世界之中做到这"
+"一点，这正是精灵的适应能力的证明。"
 
 #. [unit_type]: id=Quenoth Outrider, race=elf
-#, fuzzy
 msgid "Quenoth Outrider"
-msgstr "沙漠游骑兵"
+msgstr "奎诺骑卫兵"
 
 #. [unit_type]: id=Quenoth Outrider, race=elf
-#, fuzzy
 msgid ""
 "Riding like the wind, Outriders breeze across the sands to strike at weaker "
 "units and exposed flanks, before flying off into the sands to evade response."
 msgstr ""
-"沙漠游骑兵像风一样飞驰，他们掠过沙地去攻击较弱的敌人和敌阵的侧翼。沙漠游骑兵"
-"擅长用剑，也接受过弓箭训练，他们会给予敌人一记重击，随后撤回沙漠以回避敌人的"
-"反击。"
+"奎诺骑卫兵像风一般飞驰，他们掠过沙漠去攻击较弱的单位和暴露的侧翼，之后便迅速"
+"随后撤回沙漠以躲开反击。"
 
 #. [unit_type]: id=Tauroch Protector, race=elf
 msgid "Tauroch Protector"
-msgstr ""
+msgstr "陶洛守护者"
 
 #. [unit_type]: id=Tauroch Protector, race=elf
 msgid ""
@@ -12329,19 +12323,25 @@ msgid ""
 "Whether the story is true is unknown, but the loyalty and resolve of these "
 "mounts and riders both is undeniable."
 msgstr ""
+"传说有一次，一位正逃避兽人狩猎队的精灵在一片小小的绿洲之上，遇到了一头迷路的"
+"年轻陶洛兽。据说，当他们意识到彼此之间并无敌意时，他们并肩作战，坚持了一个长"
+"夜，终于在日出之时击退了兽人。之后，当精灵终于治好了陶洛兽的伤口并累倒在地"
+"时，陶洛兽用它的角轻柔地举起了她，并把她背回了她的村里。\n"
+"\n"
+"人们并不知道这个故事是不是真的，但这些坐骑和骑手的忠诚与决心，却是不容否认"
+"的。"
 
 #. [attack]: type=impact
 msgid "trample"
-msgstr ""
+msgstr "践踏"
 
 #. [unit_type]: id=Quenoth Ranger, race=elf, description=
-#, fuzzy
 msgid "Quenoth Ranger"
-msgstr "沙漠游侠"
+msgstr "奎诺游侠"
 
 #. [unit_type]: id=Tauroch Rider, race=elf
 msgid "Tauroch Rider"
-msgstr ""
+msgstr "陶洛骑兵"
 
 #. [unit_type]: id=Tauroch Rider, race=elf
 msgid ""
@@ -12352,23 +12352,27 @@ msgid ""
 "formidable mounts in battle. A tauroch guided by a skilled rider can hold "
 "off multiple enemies long enough for assistance to arrive."
 msgstr ""
+"陶洛兽是沙漠之中的一种巨大而坚韧的野兽。绝大部分幸存的种族，都认为它们是无法"
+"驯服的。然而，精灵们与自然的密切关系，使得他们与陶洛兽之间，形成了并不容易成"
+"真的紧密关系。陶洛兽可以轻易背负或者拖拽沉重的负载，而他们厚实的皮与不屈的意"
+"志也让他们成为了战斗中强大的坐骑。由一位熟练的骑兵引导的陶洛兽可以挡住很多敌"
+"人，直到援军到来为止。"
 
 #. [unit_type]: id=Quenoth Scout, race=elf
-#, fuzzy
 msgid "Quenoth Scout"
-msgstr "人类哨兵"
+msgstr "奎诺侦察兵"
 
 #. [unit_type]: id=Quenoth Scout, race=elf
-#, fuzzy
 msgid ""
 "The Quenoth Scouts move swiftly across the sands. Their skill on horseback "
 "is virtually unmatched, which they use to harry and incapacitate enemies."
-msgstr "沙漠哨兵在沙漠中移动迅速，虽然他们骑术出众，但是缺乏战斗能力。"
+msgstr ""
+"奎诺侦察兵在沙漠之上迅速穿行，他们的骑术几乎无人可敌，而他们也活用这优势来骚"
+"扰敌军，并摧毁敌方的战斗能力。"
 
 #. [unit_type]: id=Quenoth Shaman, race=elf
-#, fuzzy
 msgid "female^Quenoth Shaman"
-msgstr "沙漠萨满"
+msgstr "奎诺萨满"
 
 #. [unit_type]: id=Quenoth Shaman, race=elf
 msgid ""
@@ -12377,15 +12381,17 @@ msgid ""
 "their magical abilities to bolster crops, they serve an invaluable role "
 "among the Quenoth elves."
 msgstr ""
+"萨满力图维持精灵们和自然界那传统的联结。她们利用自身有关沙漠植物的大量知识来"
+"为盟友疗伤，并利用自身强大的魔法能力来促进庄稼生长。在奎诺精灵之中，她们担当"
+"着十分重要的角色。"
 
 #. [unit_type]: id=Quenoth Shyde, race=elf, description=
-#, fuzzy
 msgid "female^Quenoth Shyde"
-msgstr "沙漠仙子"
+msgstr "奎诺仙子"
 
 #. [unit_type]: id=Tauroch Stalwart, race=elf
 msgid "Tauroch Stalwart"
-msgstr ""
+msgstr "陶洛坚守者"
 
 #. [unit_type]: id=Tauroch Stalwart, race=elf
 msgid ""
@@ -12393,11 +12399,12 @@ msgid ""
 "made common cause with a skilled javelineer on its back, however, it is "
 "wiser to seek another path."
 msgstr ""
+"要驱逐一头顽固的野生陶洛兽就已经很困难了。而当和一头由背上那技艺熟练的标枪手"
+"驱使的陶洛兽狭路相逢时，聪明的做法就是换一条路去走。"
 
 #. [unit_type]: id=Quenoth Sun Sylph, race=elf
-#, fuzzy
 msgid "female^Quenoth Sun Sylph"
-msgstr "沙漠仙子"
+msgstr "奎诺旭日仙灵"
 
 #. [unit_type]: id=Quenoth Sun Sylph, race=elf
 msgid ""
@@ -12407,11 +12414,13 @@ msgid ""
 "ancestors did, it is unknown what may yet be achieved by elvenkind in the "
 "new world."
 msgstr ""
+"这些精灵越过了曾被以为是仙境边界的所在，成为了光与火的生灵。她们没有像祖先们"
+"一样花费好几个世纪来探索，来让自己的能力变得完美无缺。在这新世界里，精灵们究"
+"竟还能做到些什么，也是未知的。"
 
 #. [unit_type]: id=Quenoth Sun Singer, race=elf
-#, fuzzy
 msgid "female^Quenoth Sun Singer"
-msgstr "沙漠护卫"
+msgstr "奎诺旭日歌者"
 
 #. [unit_type]: id=Quenoth Sun Singer, race=elf
 msgid ""
@@ -12420,10 +12429,13 @@ msgid ""
 "the woodlands, these elves have found their spiritual home in the light of "
 "the twin suns."
 msgstr ""
+"和许多其他种族相比，精灵们适应起变化来或许比较慢。但当他们适应时，其结果却可"
+"能是令人惊奇的。古时的精灵或许会咏唱林地的赞歌，而这些精灵却在双日的光芒之中"
+"找到了精神的居所。"
 
 #. [unit_type]: id=Tauroch Vanguard, race=elf
 msgid "Tauroch Vanguard"
-msgstr ""
+msgstr "陶洛先锋"
 
 #. [unit_type]: id=Tauroch Vanguard, race=elf
 msgid ""
@@ -12432,70 +12444,67 @@ msgid ""
 "inspiring infantry behind them, these commanders can survive the thick of "
 "battle better than those on foot or on more slender mounts."
 msgstr ""
+"巨大而无畏的陶洛兽不但常常被用来坚守阵地，也被用来先头冲锋，摧垮敌方的阵型。"
+"这些指挥官保护并鼓舞着身后的步兵。和步兵以及使用脆弱坐骑的骑兵相比，他们在白"
+"热化的战斗之中更有可能活下来。"
 
 #. [unit_type]: id=Quenoth Warrior, race=elf, description=
-#, fuzzy
 msgid "Quenoth Warrior"
-msgstr "被召唤的战士"
+msgstr "奎诺武士"
 
 #. [advancement]: id=hunter_1
-#, fuzzy
 msgid "Hunter"
-msgstr "娜迦猎手"
+msgstr "猎手"
 
 #. [advancement]: id=leader_1
-#, fuzzy
 msgid "Leader"
-msgstr "那珈首领"
+msgstr "领袖"
 
 #. [advancement]: id=warrior_2_1
 msgid "Warrior (choose only one): specialize in melee combat"
-msgstr ""
+msgstr "武士（只能选一项）：擅长近战"
 
 #. [advancement]: id=warrior_2_2
 msgid "Warrior (choose only one): specialize in archery"
-msgstr ""
+msgstr "武士（只能选一项）：擅长射术"
 
 #. [advancement]: id=hunter_2_1
 msgid "Hunter (choose only one): specialize in surprise attacks"
-msgstr ""
+msgstr "猎手（只能选一项）：擅长偷袭"
 
 #. [advancement]: id=hunter_2_2
 msgid "Hunter (choose only one): specialize in skirmishing"
-msgstr ""
+msgstr "猎手（只能选一项）：擅长游击"
 
 #. [advancement]: id=leader_2_1
 msgid "Leader (choose only one): specialize in supporting allies"
-msgstr ""
+msgstr "领袖（只能选一项）：擅长支援友军"
 
 #. [advancement]: id=leader_2_2
 msgid "Leader (choose only one): specialize in distracting enemies"
-msgstr ""
+msgstr "领袖（只能选一项）：擅长扰乱敌军"
 
 #. [unit_type]: id=Quenoth Youth, race=elf
 #. [unit_type]: id=Quenoth Youth 2, race=elf
 #. [unit_type]: id=Quenoth Youth 3, race=elf
-#, fuzzy
 msgid "Quenoth Youth"
-msgstr "沙漠青年"
+msgstr "奎诺青年"
 
 #. [female]
-#, fuzzy
 msgid "female^Quenoth Youth"
-msgstr "奎诺精灵卡勒"
+msgstr "奎诺青年"
 
 #. [female]
-#, fuzzy
 msgid ""
 "Nym is Kaleh’s childhood friend, a young, rebellious lady with quick wits "
 "and strong will. Her high spirits are a great boon in dark times."
 msgstr ""
-"妮慕是卡勒幼时的伙伴，她出身沙漠猎人世家，别看有些年轻，却是个志向远大，桀骜"
-"不羁的机智姑娘。她的那份机警是危难时刻的宝贵财富。"
+"妮慕是卡勒的幼时玩伴。她是个年轻而桀骜不羁的姑娘，意志坚定，机智过人。她的活"
+"力是黑暗时代的宝贵财富。"
 
 #. [unit_type]: id=EGhost
 msgid "Ethereal Ghost"
-msgstr "虚空之魂"
+msgstr "虚空幽灵"
 
 #. [unit_type]: id=EGhost
 msgid ""
@@ -12543,7 +12552,7 @@ msgstr ""
 
 #. [unit_type]: id=EShadow
 msgid "Ethereal Shadow"
-msgstr "虚空阴影"
+msgstr "虚空暗影"
 
 #. [unit_type]: id=EShadow
 msgid ""
@@ -12565,7 +12574,7 @@ msgstr "不像普通阴影，恒久阴影不会在夜里隐匿。"
 
 #. [unit_type]: id=ESpectre
 msgid "Ethereal Spectre"
-msgstr "虚空幽灵"
+msgstr "虚空幽鬼"
 
 #. [unit_type]: id=ESpectre
 msgid ""
@@ -12630,8 +12639,8 @@ msgid ""
 "sight to behold. Crawling around on huge skeletal legs, and wielding huge "
 "magical staves, these abominations are fearsome undead foes. "
 msgstr ""
-"没有谁知道蜘蛛巫妖如何诞生的，它们的样子望之生畏。用粗大的骨腿爬行，挥舞巨大"
-"的魔杖，这些怪物是亡灵的爪牙。"
+"没有谁能确定蜘蛛巫妖是如何诞生的，它们的模样甚为可怖。它们用粗大的骨腿爬行，"
+"并挥舞巨大的魔杖，这些可憎的怪物是可怕的亡灵敌手。"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 msgid "Skeleton Rider"
@@ -12647,16 +12656,16 @@ msgstr ""
 "恐惧与破坏。"
 
 msgid " This unit is capable of basic healing and slowing dehydration."
-msgstr "这个单位有基本的治疗技能，并能缓解脱水。"
+msgstr " 此单位有基本的疗伤能力，并能减缓脱水。"
 
 msgid ""
 " This unit is capable of healing those around it, slowing dehydration, and "
 "curing them of poison."
-msgstr "这个单位可以治疗周围的同志，缓解脱水，并治疗中毒。"
+msgstr " 此单位可以对周围的单位疗伤，减缓脱水，并疗毒。"
 
 #. [dummy]: id=teaching
 msgid "teaching"
-msgstr ""
+msgstr "传授"
 
 #. [dummy]: id=teaching
 msgid ""
@@ -12664,20 +12673,24 @@ msgid ""
 "all the units of the same side adjacent to it. If no suitable unit is "
 "adjacent, its experience just goes back to zero."
 msgstr ""
+"在每回合开始时，此单位会将它的经验值分给所有紧邻自己的同阵营的单位。如果它的"
+"身边没有符合条件的单位，那么就只是它的经验值会降为零而已。"
 
 #. [attacks]: id=shock
 msgid "shock"
-msgstr ""
+msgstr "震慑"
 
 #. [attacks]: id=shock
 msgid ""
 "When this attack is used on offense, the opponent will retaliate with one "
 "less strike than normally, to a minimum of one strike."
 msgstr ""
+"当此攻击用于进攻时，对手的反击次数会比通常情况下少一次，但对手最少还是能反击"
+"一次。"
 
 #. [dummy]: id=formation
 msgid "formation"
-msgstr ""
+msgstr "布阵"
 
 #. [dummy]: id=formation
 msgid ""
@@ -12685,69 +12698,76 @@ msgid ""
 "ability is adjacent to it and the enemy. However, this cannot raise the "
 "unit's defense above 70%."
 msgstr ""
+"当另一个有相同能力的单位与此单位及敌人相邻时，此单位获得+10%防御加成。但是，"
+"此能力无法让单位的防御升到70%以上。"
 
 #. [dummy]: id=disengage
 msgid "disengage"
-msgstr ""
+msgstr "脱离"
 
 #. [dummy]: id=disengage
 msgid ""
 "If this unit doesn't move before attacking, it will retain its movement "
 "points after the attack."
 msgstr ""
+"如果此单位在进攻之前没有移动，那么在进攻之后它仍然会保有自己的移动点数。"
 
 #. [dummy]: id=daze
 msgid "daze"
-msgstr ""
+msgstr "眩击"
 
 #. [dummy]: id=daze
 msgid ""
 "When hit with this attack, an enemy suffers a 10% penalty both to their "
 "defense and chance to hit for one turn, except for magical attacks."
 msgstr ""
+"当被此攻击命中时，敌方的防御和命中都将遭到10%惩罚，持续一回合，但魔法攻击不受"
+"影响。"
 
 #. [skirmisher]: id=distract
 msgid "distract"
-msgstr ""
+msgstr "分神"
 
 #. [skirmisher]: id=distract
 msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
-msgstr ""
+msgstr "此单位将使得其身周的敌方控制区域对友好单位失效（但对其自身仍然有效）。"
 
 #. [dummy]: id=support
 msgid "support"
-msgstr ""
+msgstr "支援"
 
 #. [dummy]: id=support
 msgid "The upkeep costs of adjacent friendly units are lowered by 1."
-msgstr ""
+msgstr "身周的友好单位的维护费用降低1。"
 
 msgid ""
 " This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
-msgstr ""
+msgstr " 此单位的近战攻击可以摧垮敌方的防御，使得他们无法以最佳状态反击。"
 
 msgid " Groups of units of this type are able to shield each other in combat."
-msgstr ""
+msgstr " 此种类型的单位成群时，可以在战斗中互相保护。"
 
 msgid " This unit can move either before or after attacking."
-msgstr ""
+msgstr " 此单位可以在进攻前移动，也可以在进攻后移动（但只能选其一）。"
 
 msgid ""
 " This unit can daze its enemies, reducing their accuracy and defense until "
 "they end a turn."
-msgstr ""
+msgstr " 此单位可以让敌人眩目，降低他们的命中和防御，直到他们的回合结束。"
 
 msgid ""
 "This unit is capable of distracting opponents, allowing allied units to "
 "trespass their Zones of Control and move unhindered around them."
 msgstr ""
+"此单位可以使对手分神，让友方单位可以随意穿过对手的控制区域，在他们身边毫无障"
+"碍地穿行。"
 
 #. [unstore_unit]
 msgid "dazed"
-msgstr ""
+msgstr "眩目"
 
 msgid "Kaleh"
 msgstr "卡勒"
@@ -12784,7 +12804,7 @@ msgstr "我去见先祖了……"
 
 #. [message]: speaker=unit
 msgid "No, $unit.name can’t die now!"
-msgstr "不， $unit。name 现在还不能死！"
+msgstr "不，$unit.name|现在还不能死！"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -12827,7 +12847,7 @@ msgid "refreshed"
 msgstr "恢复"
 
 msgid "+%d XP"
-msgstr ""
+msgstr "+%d经验值"
 
 #. [unstore_unit]
 msgid "stunned"
@@ -13415,8 +13435,8 @@ msgstr ""
 "么？她为什么要我向人类投降？人类也信奉她么？人类看起来如此残暴邪恶，我很难想"
 "象他们和我们信奉着同一个神。我以为伊洛只是我们的神，朱尔没有提过大陨落以后有"
 "其他种族也信奉她，当然也许这些年来事情已经发生了变化。她的命令毫无道理，她一"
-"点也不像朱尔和我讲过的那个神。还有伊瑟努说的是什么？他的主人怎么会知道“耶柯内"
-"斯”和“战戈”？如果伊洛不帮助我，那我急切地需要一些解答。我祈祷神能留下任何启"
+"点也不像朱尔和我讲过的那个神。还有伊瑟努说的是什么？他的主人怎么会知道“耶柯纳"
+"戈斯”和“战戈”？如果伊洛不帮助我，那我急切地需要一些解答。我祈祷神能留下任何启"
 "示，来告诉我，我不是在把我的同胞带向一个陷阱……"
 
 #. [part]
@@ -13570,12 +13590,12 @@ msgid ""
 "those poor souls we left behind in our village and the many who have marked "
 "our path with their blood, they all shall be avenged."
 msgstr ""
-"但是朱尔是对的，就算我们走了这么远的路，仅仅只是为了一个帮助人鱼打败耶柯内斯"
-"的机会，我们的征途也不会是无意义的。我们本是为了寻找一个新家园，远离沙漠中的"
-"所有恐惧和死亡，但现在这场争斗似乎更为重要。这些岛屿真能变成我们的家吗？这真"
-"是一个不敢祈求的美好愿望啊。但其实这不是我的最终目标，我在乎的只是向对我们犯"
-"下罪行的她复仇。伽拉克、凯若特、坦斯特福、所有那些我们留在村子里的可怜灵魂，"
-"还有在我们的征途中因帮助我们而献出生命的朋友们，他们的仇都必须报。"
+"但是朱尔是对的，就算我们走了这么远的路，仅仅只是为了一个帮助人鱼打败耶柯纳戈"
+"斯的机会，我们的征途也不会是无意义的。我们本是为了寻找一个新家园，远离沙漠中"
+"的所有恐惧和死亡，但现在这场争斗似乎更为重要。这些岛屿真能变成我们的家吗？这"
+"真是一个不敢祈求的美好愿望啊。但其实这不是我的最终目标，我在乎的只是向对我们"
+"犯下罪行的她复仇。伽拉克、凯若特、坦斯特福、所有那些我们留在村子里的可怜灵"
+"魂，还有在我们的征途中因帮助我们而献出生命的朋友们，他们的仇都必须报。"
 
 #. [part]
 msgid ""
@@ -13610,8 +13630,8 @@ msgstr "人类船只"
 
 #. [terrain_type]: id=phantom_castle
 msgid "Phantom Castle"
-msgstr "鬼城"
+msgstr "幻影城堡"
 
 #. [terrain_type]: id=phantom_keep
 msgid "Phantom Keep"
-msgstr "鬼堡"
+msgstr "幻影要塞"
