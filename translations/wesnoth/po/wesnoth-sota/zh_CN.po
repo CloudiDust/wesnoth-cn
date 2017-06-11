@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:47 UTC\n"
-"PO-Revision-Date: 2017-05-23 22:54+0800\n"
+"PO-Revision-Date: 2017-06-10 19:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,35 +21,35 @@ msgstr ""
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
 msgid "Secrets of the Ancients"
-msgstr ""
+msgstr "上古之密"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "SotA"
-msgstr ""
+msgstr "SotA"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "Normal"
-msgstr ""
+msgstr "普通"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "Unpleasant"
-msgstr ""
+msgstr "令人不适"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "Challenging"
-msgstr ""
+msgstr "挑战"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "Corrupt"
-msgstr ""
+msgstr "腐败不堪"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "Diabolic"
-msgstr ""
+msgstr "群魔乱舞"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "Difficult"
-msgstr ""
+msgstr "困难"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid ""
@@ -58,38 +58,42 @@ msgid ""
 "\t\n"
 "(Intermediate level, 21 scenarios.)\n"
 msgstr ""
+"重新发现绿岛的巫妖领主们所知道的秘密。他们能知道如何永生，那么你为什么不能"
+"呢？\n"
+"\t\n"
+"（中等级别，21幕场景。）\n"
 
 #. [about]
 msgid "Campaign Design, Programming, and Artwork"
-msgstr ""
+msgstr "战役设计，编程及美工"
 
 #. [about]
 msgid "Additional Artwork"
-msgstr ""
+msgstr "额外美工"
 
 #. [about]
 msgid "Translations"
-msgstr ""
+msgstr "翻译"
 
 #. [entry]
 msgid "Hungarian - WhiteWolf"
-msgstr ""
+msgstr "匈牙利文 - WhiteWolf"
 
 #. [entry]
 msgid "Japanese - RatArmy"
-msgstr ""
+msgstr "日文 - RatArmy"
 
 #. [entry]
 msgid "Russian - iven, olga_flox, and marat"
-msgstr ""
+msgstr "俄文 - iven、olga_flox和marat"
 
 #. [scenario]: id=01_Slipping_Away
 msgid "Slipping Away"
-msgstr ""
+msgstr "溜之大吉"
 
 #. [part]
 msgid "<i>Chapter One:</i> Unlawful Research"
-msgstr ""
+msgstr "<b>第一章：</b>不法研究"
 
 #. [part]
 msgid ""
