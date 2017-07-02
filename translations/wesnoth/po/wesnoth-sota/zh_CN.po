@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:47 UTC\n"
-"PO-Revision-Date: 2017-06-24 20:57+0800\n"
+"PO-Revision-Date: 2017-07-01 15:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1334,84 +1334,92 @@ msgstr "赛纳尔"
 
 #. [message]: speaker=Carcyn
 msgid "Carcyn Fisher at your service, and this is my friend Shynal."
-msgstr ""
+msgstr "卡辛·费希尔乐意为您效劳，这位是我的朋友赛纳尔。"
 
 #. [message]: speaker=Shynal
 msgid "“Friend?” (<i>Giggle</i>) Oh, yes, we’re very good friends."
-msgstr ""
+msgstr "“朋友？”（<b>咯咯笑</b>）哦，是的，我们是好朋友。"
 
 #. [message]: speaker=Carcyn
 msgid ""
 "Or... you know. Thanks so much for getting us out, sir. We would be glad to "
 "follow you!"
-msgstr ""
+msgstr "或者说……您懂的。十分感谢您把我们弄出来，先生。我们很乐意追随您。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You are Carcyn the Third I presume?"
-msgstr ""
+msgstr "我猜你是卡辛三世？"
 
 #. [message]: speaker=Carcyn
 msgid "Don’t remind me. My father is the one who threw me in this hole."
-msgstr ""
+msgstr "不用管我。是我爸让我当上这角色的。"
 
 #. [message]: speaker=Carcyn Fisher
 msgid "You stay out of this, son."
-msgstr ""
+msgstr "呆着别说话，儿子。"
 
 #. [message]: speaker=Carcyn
 msgid ""
 "Not a chance! I’ve waited all my life to see someone put you in your place. "
 "Here is someone you can’t push around!"
 msgstr ""
+"不说个鬼！我等了一辈子，等着看某人把你治得服服帖帖的。这儿就有个你不能随意推"
+"搡的人！"
 
 #. [message]: speaker=Shynal
 msgid "And we’re leaving this stinking town!"
-msgstr ""
+msgstr "而且我们就要离开这个臭气熏天的小镇了！"
 
 #. [message]: speaker=Carcyn
 msgid ""
 "The only Carcyn now. I’ve waited all my life to see someone to put my father "
 "in his place. I guess you did that."
 msgstr ""
+"现在是唯一的卡辛了。我等了一辈子，等着看有人把我爸治得服服帖帖的。我猜你做到"
+"了。"
 
 #. [message]: speaker=Shynal
 msgid "You’re the only Carcyn for me."
-msgstr ""
+msgstr "对我来说你就是唯一的卡辛。"
 
 #. [message]: speaker=Raydah
 msgid "Look at that! He’s not from the Academy."
-msgstr ""
+msgstr "看那个！他不是从学院来的。"
 
 #. [message]: speaker=Carcyn Fisher
 msgid ""
 "Hold your tongue! I can see that! I tolerate advisors but not when they only "
 "speak the obvious."
-msgstr ""
+msgstr "你给我住口！我能看得到！我能容忍顾问，但不能容忍只会说废话的。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I warned you not to defy me."
-msgstr ""
+msgstr "我警告过你，不要反抗我了。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Greetings! I am Ras-Tabahn the mage."
-msgstr ""
+msgstr "幸会！我是法师拉斯-塔巴恩。"
 
 #. [message]: speaker=Carcyn Fisher
 msgid ""
 "Greetings, traveler. I am Carcyn Fisher the Second. How can I be of service?"
-msgstr ""
+msgstr "幸会，旅行者。我是卡辛·费希尔二世。我能为您做什么呢？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "I come with an offer. An offer of training in the magical arts. An offer of "
 "learning, adventure, and escape from this town."
 msgstr ""
+"我来此是为了提供一些东西。我可以提供魔法技艺的训练，可以提供学习、冒险以及逃"
+"离这座镇子的机会。"
 
 #. [message]: speaker=Carcyn Fisher
 msgid ""
 "No one in <i>my</i> town wishes to “escape”! We don’t care to hear your "
 "offer. Peddle your corruption elsewhere."
 msgstr ""
+"<b>我</b>的镇子上没人想要“逃离”！我们可不想听你能提供什么。去其他地方兜售你那"
+"些腐坏的东西吧。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1419,35 +1427,37 @@ msgid ""
 "my agents to every house and public space in this town and repeat my offer. "
 "You will allow this."
 msgstr ""
+"我可不是向了<b>你</b>提供这些，而是向你们的年轻人提供这些。我会派我的手下前往"
+"这镇上所有的住家和公共场所，并复述我的提议。而你将会允许我这么做。"
 
 #. [message]: speaker=Carcyn Fisher
 msgid ""
 "I will do no such thing! I will be dead before I allow you to ensorcell our "
 "children!"
-msgstr ""
+msgstr "我不会这么做的！我死也不会让你蛊惑我们的孩子！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "That may well be true."
-msgstr ""
+msgstr "这倒很可能是真的。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Hmm. The youngsters most willing to leave may be the ones in the jailhouse. "
 "I should investigate."
-msgstr ""
+msgstr "呣。最希望离开的年轻人可能是监狱里的那些。我得调查一下。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit dark adepts!"
-msgstr ""
+msgstr "你现在可以征募黑暗狂徒了！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "This has taken too long. We will surely miss our meeting with Ardonna now."
-msgstr ""
+msgstr "这花掉了太多时间。现在我们肯定会错过和阿多娜的会面了。"
 
 #. [scenario]: id=09_Training_Session
 msgid "Training Session"
-msgstr ""
+msgstr "训练时间"
 
 #. [part]
 msgid ""
@@ -1460,28 +1470,34 @@ msgid ""
 "on, they came across three farmsteads on the riverbank that had clearly been "
 "raided."
 msgstr ""
+"拉斯-塔巴恩的提议引诱了一大群渴望成为法师的年轻人。这种训练是学习黑魔法的非法"
+"训练的事实，并不重要。更重要的是这样便可以逃离早已由父母确定的艰苦的未来。拉"
+"斯-塔巴恩在卡辛城外的森林里花了几天时间教他们如何拜访灵魂世界并引出其一小部分"
+"力量。他们继续前进之后不久，便在河岸上碰见了三块明显被劫掠过的农场。"
 
 #. [objective]: condition=win
 msgid "(there will be three waves)"
-msgstr ""
+msgstr "（将有三波敌军）"
 
 #. [objective]: condition=win
 msgid "Destroy all the undead units"
-msgstr ""
+msgstr "摧毁所有的亡灵单位"
 
 #. [objective]: condition=lose
 msgid "Death of all five dark adepts"
-msgstr ""
+msgstr "所有五名黑暗狂徒阵亡"
 
 #. [objective]: condition=lose
 msgid "Death of Ras-Tabahn"
-msgstr ""
+msgstr "拉斯-塔巴恩阵亡"
 
 #. [note]
 msgid ""
 "You will not earn gold this scenario, but your gold from the previous "
 "scenario will be available in the next."
 msgstr ""
+"你在此场景中将无法挣取金币，但在前一场景中遗留下来的金币将可以在下一场景中使"
+"用。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1491,36 +1507,40 @@ msgid ""
 "our army for protection, and I will call it up for you. After that, I will "
 "not help. I intend most of you to survive this battle, so try not to die."
 msgstr ""
+"我很好奇这里发生了什么。好吧，无所谓。对这些家庭来说是坏事，对我们来说就是好"
+"事。我会让他们苏生，而你们要发起进攻。练习使用冰冻术和生命能量攻击。你们每个"
+"人都可以选择我们军队中的一名士兵来保护自己，而我会为你叫醒它。之后，我就不会"
+"帮忙了。我希望你们中的绝大部分人在这场战斗中活下来，所以试着别死掉。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You kids may watch."
-msgstr ""
+msgstr "孩子们你们就看着吧。"
 
 #. [message]: speaker=Shynal
 msgid "Can we help?"
-msgstr ""
+msgstr "我们能帮什么忙吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "As you wish. (<i>Cough, cough</i>)"
-msgstr ""
+msgstr "如你所愿。（<b>咳嗽</b>）"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You may watch."
-msgstr ""
+msgstr "你就看着吧。"
 
 #. [message]: speaker=Carcyn
 #. [message]: speaker=Shynal
 msgid "Can I help?"
-msgstr ""
+msgstr "我能帮什么忙吗？"
 
 #. [message]: speaker=narrator
 msgid ""
 "You can recruit from in front of each dark adept during the first turn only."
-msgstr ""
+msgstr "只有在第一回合，你才可以在每一名黑暗狂徒前方进行征募。"
 
 #. [scenario]: id=10_Merfolk_Revenge
 msgid "Merfolk Revenge"
-msgstr ""
+msgstr "人鱼复仇"
 
 #. [part]
 msgid ""
@@ -1528,93 +1548,95 @@ msgid ""
 "where they were to wait for Ardonna. As they arrived, another party did as "
 "well."
 msgstr ""
+"拉斯-塔巴恩的队伍来到了泰河附近精灵之路的尽头，他们将在此等待阿多娜。而当他们"
+"到达时，另一支队伍也到达了。"
 
 #. [side]: type=Merman Triton, id=Okean
 #. [side]
 msgid "Merfolk"
-msgstr ""
+msgstr "人鱼"
 
 #. [side]: type=Merman Triton, id=Okean
 msgid "Okean"
-msgstr ""
+msgstr "欧基恩"
 
 #. [message]: speaker=$unit.id
 msgid "Bones. Claws and wings."
-msgstr ""
+msgstr "骨头、爪子和翅膀。"
 
 #. [message]: speaker=$unit.id
 msgid "There are some large bones here. I can see claws and wings."
-msgstr ""
+msgstr "这儿有很多大骨架。我能看到爪子和翅膀。"
 
 #. [message]: speaker=$other_human
 msgid "How odd. I wonder what are they from. A gryphon perhaps?"
-msgstr ""
+msgstr "奇怪。我想知道这些骨架是谁的。也许是一只狮鹫？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "A large flightless bird would be my guess."
-msgstr ""
+msgstr "我猜是一只大型的不能飞的鸟。"
 
 #. [message]: speaker=$other_human
 msgid "Well, there is an easy way to find out."
-msgstr ""
+msgstr "好吧，有个简单的方法可以知道答案。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Indeed. Let us see."
-msgstr ""
+msgstr "确实如此。我们来看看。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "I wonder what are they from. A large flightless bird perhaps? Let us see."
-msgstr ""
+msgstr "我想知道这些骨架是谁的。也许是一只大型的不能飞的鸟？我们来看看。"
 
 #. [message]: speaker=$other_human
 #. [message]: speaker=Ardonna
 msgid "Oh, you were right!"
-msgstr ""
+msgstr "哦，你说对了！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I wonder if it could carry someone light. A skeleton maybe."
-msgstr ""
+msgstr "我想知道它能不能载上一个很轻的人。或许一个骷髅可以。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Splendid! These birds could be quite useful."
-msgstr ""
+msgstr "太棒了！这些鸟会很有用的。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit chocobones!"
-msgstr ""
+msgstr "你现在可以征募骷髅鸟骑手了！"
 
 #. [set_variable]
 msgid "Hopefully this will be enough gold."
-msgstr ""
+msgstr "但愿这些金币足够了。"
 
 #. [set_variable]
 msgid "We have won, but I am afraid this may not be enough gold."
-msgstr ""
+msgstr "我们赢了，但我担心这些金币并不够。"
 
 #. [set_variable]
 msgid "Good. We ended with a fair amount of gold."
-msgstr ""
+msgstr "很好。结果我们有了不少金币。"
 
 #. [message]: speaker=Okean
 msgid "You! You have destroyed the town of Carcyn!"
-msgstr ""
+msgstr "你！你摧毁了卡辛镇！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "The town is hardly destroyed. I just encouraged a change of leadership."
-msgstr ""
+msgstr "那镇子可不能说是被摧毁了。我不过是鼓励他们更换了领导层罢了。"
 
 #. [message]: speaker=Okean
 msgid ""
 "Your words mock us. Those humans were valuable trading partners of ours. We "
 "will have justice!"
-msgstr ""
+msgstr "你嘲弄我们。那些人类是我们宝贵的贸易伙伴。我们将制裁你们！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Actually, I expect you will follow them into the ground if you try to harm "
 "us."
-msgstr ""
+msgstr "实际上，如果你们要伤害我们，那我只能期望你们和他们一样下地狱去了。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1622,36 +1644,38 @@ msgid ""
 "emergencies — I think 50 is about right. You kids help me collect some. "
 "(<i>Cough, cough</i>)"
 msgstr ""
+"这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。孩子"
+"们帮我收集些金币吧。（<b>咳嗽</b>）"
 
 #. [message]: speaker=Carcyn
 msgid "Right away sir."
-msgstr ""
+msgstr "马上就干，老师。"
 
 #. [message]: speaker=Shynal
 msgid "Are you feeling well?"
-msgstr ""
+msgstr "您觉得还好吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Yes, yes. I’m quite all right."
-msgstr ""
+msgstr "是，是。我觉得很不错。"
 
 #. [message]: speaker=Shynal
 #. [message]: speaker=Carcyn
 msgid "I don’t fancy wading in the water to fight these things."
-msgstr ""
+msgstr "我可不喜欢在水里和这些东西作战。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "No problem. We can lure them onto land."
-msgstr ""
+msgstr "没问题。我们可以把他们引诱到陆地上来。"
 
 #. [message]: speaker=Shynal
 #. [message]: speaker=Carcyn
 msgid "How?"
-msgstr ""
+msgstr "怎么做？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Have you never been fishing before? With bait of course."
-msgstr ""
+msgstr "你从来没有钓过鱼吗？当然是用鱼饵了。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1659,11 +1683,13 @@ msgid ""
 "emergencies — I think 50 is about right. Help me collect some. (<i>Cough, "
 "cough</i>)"
 msgstr ""
+"这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。帮我"
+"收集些金币吧。（<b>咳嗽</b>）"
 
 #. [message]: speaker=Carcyn
 #. [message]: speaker=Shynal
 msgid "Right away sir. Are you feeling well?"
-msgstr ""
+msgstr "马上就干，老师。您觉得还好吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1672,10 +1698,13 @@ msgid ""
 "some. (<i>Cough, cough</i>) I hope I can lure these fish onto land. Maybe I "
 "should recruit some bait."
 msgstr ""
+"这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。我最"
+"好派人帮我收集些金币。（<b>咳嗽</b>）我希望我能把这些小鱼引诱到陆地上来。也许"
+"我该征募一些鱼饵。"
 
 #. [scenario]: id=11_Battleground
 msgid "Battleground"
-msgstr ""
+msgstr "战场"
 
 #. [part]
 msgid ""
@@ -1721,42 +1750,42 @@ msgstr ""
 #. [side]: type=Saurian Soothsayer, id=Krissaz
 #. [side]
 msgid "Saurians"
-msgstr ""
+msgstr "蜥蜴人"
 
 #. [side]: type=Saurian Soothsayer, id=Krissaz
 msgid "Krissaz"
-msgstr ""
+msgstr "克里萨兹"
 
 #. [side]: type=Naga Myrmidon, id=Blianxkep
 #. [side]
 msgid "Nagas"
-msgstr ""
+msgstr "娜迦"
 
 #. [side]: type=Naga Myrmidon, id=Blianxkep
 msgid "Blianxkep"
-msgstr ""
+msgstr "连克斯克普"
 
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "击败所有敌方首领"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit ghosts!"
-msgstr ""
+msgstr "你现在可以征募鬼魂了！"
 
 #. [message]: speaker=Blianxkep
 msgid ""
 "The fish people gave good value for the last load. More metal of that type "
 "is desired."
-msgstr ""
+msgstr "最后那一票我们从鱼人身上赚了不少。我还想要那种金属，更多。"
 
 #. [message]: speaker=Krissaz
 msgid "Firssst, pay us our ssshare."
-msgstr ""
+msgstr "嘶嘶，首先，把分成付给我们。"
 
 #. [message]: speaker=Blianxkep
 msgid "Wait, who approaches?"
-msgstr ""
+msgstr "等等，是谁来了？"
 
 #. [message]: speaker=Ardonna
 msgid ""
