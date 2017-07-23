@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:47 UTC\n"
-"PO-Revision-Date: 2017-07-16 14:55+0800\n"
+"PO-Revision-Date: 2017-07-23 14:17+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1088,7 +1088,7 @@ msgstr "你们肯定是地精。如果你们想活命，就不要挡我的道。
 
 #. [message]: speaker=Bogdush
 msgid "Oh, it’s a mage that makes jokes too! Let’s go."
-msgstr "哦，还是个会开玩笑的法师啊！上吧！"
+msgstr "哦，还是个会开玩笑的法师啊！上吧。"
 
 #. [message]: speaker=narrator
 msgid "You have no more time."
@@ -1344,7 +1344,7 @@ msgstr "“朋友？”（<b>咯咯笑</b>）哦，是的，我们是好朋友�
 msgid ""
 "Or... you know. Thanks so much for getting us out, sir. We would be glad to "
 "follow you!"
-msgstr "或者说……您懂的。十分感谢您把我们弄出来，先生。我们很乐意追随您。"
+msgstr "或者说……您懂的。十分感谢您把我们弄出来，先生。我们很乐意追随您！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You are Carcyn the Third I presume?"
@@ -1522,7 +1522,7 @@ msgstr "我们能帮什么忙吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "As you wish. (<i>Cough, cough</i>)"
-msgstr "如你所愿。（<b>咳嗽</b>）"
+msgstr "如你所愿。（<b>咳，咳</b>）"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You may watch."
@@ -1596,7 +1596,7 @@ msgstr "哦，你说对了！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I wonder if it could carry someone light. A skeleton maybe."
-msgstr "我想知道它能不能载上一个很轻的人。或许一个骷髅可以。"
+msgstr "我想知道它能不能载上一个体重轻的人。或许一个骷髅可以。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Splendid! These birds could be quite useful."
@@ -1645,7 +1645,7 @@ msgid ""
 "(<i>Cough, cough</i>)"
 msgstr ""
 "这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。孩子"
-"们帮我收集些金币吧。（<b>咳嗽</b>）"
+"们帮我收集些金币吧。（<b>咳</b>）"
 
 #. [message]: speaker=Carcyn
 msgid "Right away sir."
@@ -1684,7 +1684,7 @@ msgid ""
 "cough</i>)"
 msgstr ""
 "这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。帮我"
-"收集些金币吧。（<b>咳嗽</b>）"
+"收集些金币吧。（<b>咳</b>）"
 
 #. [message]: speaker=Carcyn
 #. [message]: speaker=Shynal
@@ -1699,8 +1699,8 @@ msgid ""
 "should recruit some bait."
 msgstr ""
 "这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。我最"
-"好派人帮我收集些金币。（<b>咳嗽</b>）我希望我能把这些小鱼引诱到陆地上来。也许"
-"我该征募一些鱼饵。"
+"好派人帮我收集些金币。（<b>咳</b>）我希望我能把这些小鱼引诱到陆地上来。也许我"
+"该征募一些鱼饵。"
 
 #. [scenario]: id=11_Battleground
 msgid "Battleground"
@@ -2022,7 +2022,7 @@ msgstr ""
 msgid ""
 "Greetings Ardonna! (<i>Cough</i>) I was successful, and I see that you were "
 "as well."
-msgstr "你好啊阿冬娜！（<b>咳嗽</b>）我成功了，我看到你也成功了。"
+msgstr "你好啊阿冬娜！（<b>咳</b>）我成功了，我看到你也成功了。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -2096,10 +2096,10 @@ msgid ""
 "originally Rassin Tabin, but that is fairly ordinary, and at one point, it "
 "no longer suited."
 msgstr ""
-"我可能知道吧。当一名学院里的法师完成学业之时，会被授予力之音节，而这些音节便"
-"会成为他的新名字。你已经远远超出了那个阶段，但你如今是自由法师的一员，所以选"
-"择自己的名字吧。我原先叫做拉辛·塔宾，但那个名字太普通了，而到了某个时刻，它就"
-"不再合适了。"
+"我或许知道。当一名学院里的法师完成学业之时，会被授予力之音节，而这些音节便会"
+"成为他的新名字。你已经远远超出了那个阶段，但你如今是自由法师的一员，所以选择"
+"自己的名字吧。我原先叫做拉辛·塔宾，但那个名字太普通了，而到了某个时刻，它就不"
+"再合适了。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -2141,67 +2141,80 @@ msgid ""
 "on account of the cold, and I should not be unduly troubled. I am uneasy all "
 "the same."
 msgstr ""
+"韦元23年4月24日\n"
+"\n"
+"当晨光自北方山峰的背面射来，铺满大地之时，我们到达了雅碧滩。我们涉水而过，暗"
+"色的水淹到了腰部，我们只能缓慢前行。我不敢想象有什么触手怪物潜伏在河底下，但"
+"我们平安无事地过了河。雪融化入水，河水彻骨地冷，因而到达对岸时，我们冷得牙齿"
+"直颤。还好旭日很温暖，很快便把我们晒干了。尽管如此，拉斯-塔班的情况却不好。他"
+"瘫倒在沙地里，猛烈咳嗽起来，我可从没见过这么严重的症状。等他终于可以说话的时"
+"候，他向我保证说这只是因为寒冷而已，我不必担心，但我还是很不放心。"
 
 #. [side]: type=Orcish Sovereign, id=Rod-Ishnak
 #. [side]: type=Orcish Warlord, id=Vok-Hroog
 msgid "Orcs"
-msgstr ""
+msgstr "兽人"
 
 #. [side]: type=Orcish Sovereign, id=Rod-Ishnak
 msgid "Rod-Ishnak"
-msgstr ""
+msgstr "罗德-伊什纳克"
 
 #. [side]: type=Orcish Warlord, id=Vok-Hroog
 msgid "Vok-Hroog"
-msgstr ""
+msgstr "沃克-鲁格"
 
 #. [unit]: type=Orcish Shaman, id=Krongk
 msgid "Krongk"
-msgstr ""
+msgstr "隆克"
 
 #. [message]: speaker=Krongk
 msgid "They’re attacking me!"
-msgstr ""
+msgstr "他们在攻击我！"
 
 #. [message]: speaker=Vok-Hroog
 msgid "Yeah, yeah."
-msgstr ""
+msgstr "是啊，是啊。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "We have crossed into the north. The dwarven kingdom of Knalga lies straight "
 "ahead."
-msgstr ""
+msgstr "我们已经过河到了北方。矮人王国纳尔迦就在正前方。"
 
 #. [message]: speaker=Shynal
 msgid ""
 "Now I’m really far from home. I’ve never been north of the river before. I "
 "hope I get to see some dwarves!"
 msgstr ""
+"现在我真是离家乡很远了。我可从来没有来过泰河的北面。我希望能见到些矮人！"
 
 #. [message]: speaker=Vok-Hroog
 msgid ""
 "I claim this territory in the name of Krag-Ubor, the ruler of all true orcs! "
 "Leave now, Ishnak, or face the combined wrath of the five tribes."
 msgstr ""
+"我以拉格-阿博，所有真正兽人的领袖的名义占据此地！现在离开，伊什纳克，不然就准"
+"备好面对五个部落聚起的愤怒吧。"
 
 #. [message]: speaker=Rod-Ishnak
 msgid "I arrived first, Hroog. It’s mine!"
-msgstr ""
+msgstr "我先来的，鲁格。这地方是我的！"
 
 #. [message]: speaker=Ardonna
 msgid "This could be trouble."
-msgstr ""
+msgstr "看来会有麻烦的。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Many orcs are decent sorts (<i>cough, cough</i>). I fought alongside Krag-"
 "Ubor once, who the farther orc just mentioned."
 msgstr ""
+"很多兽人还是挺不错的（<b>咳，咳</b>）。我曾有一次和拉格-阿博并肩作战，就是那"
+"远处的兽人刚提到的那位。"
 
 #. [message]: speaker=Vok-Hroog
 msgid "Wait who’s that?"
-msgstr ""
+msgstr "等等，那边是谁？"
 
 #. [message]: speaker=Rod-Ishnak
 msgid ""
@@ -2209,27 +2222,29 @@ msgid ""
 "a contest. Whoever kills the most wizards and skeletons and stuff takes this "
 "territory and all the human slaves."
 msgstr ""
+"巫师还有死鬼，就像老家一样！我<b>厌恶</b>他们！我提议我们来比一场吧。谁杀的巫"
+"师和骷髅还有别的玩意儿最多，谁就能占有这块领地还有全部的人类奴隶。"
 
 #. [message]: speaker=Vok-Hroog
 msgid "Huh. Fine. That sounds like good sport."
-msgstr ""
+msgstr "哈。好啊。这听起来是个不错的运动项目。"
 
 #. [message]: speaker=Krongk
 msgid ""
 "I declare this competition official. I will support the claim of the winner."
-msgstr ""
+msgstr "我宣布这场竞赛有效。我将会支持胜利者的要求。"
 
 #. [message]: speaker=Ardonna
 msgid "I did say this was trouble."
-msgstr ""
+msgstr "我说过会有麻烦的。"
 
 #. [message]: speaker=Shynal
 msgid "But we’ll win, won’t we?"
-msgstr ""
+msgstr "但我们会赢的，不是吗？"
 
 #. [scenario]: id=15_Mountain_Pass
 msgid "Mountain Pass"
-msgstr ""
+msgstr "山间通路"
 
 #. [part]
 msgid ""
@@ -2244,62 +2259,69 @@ msgid ""
 "thinness leads me to believe it is consumption, but he refuses to discuss "
 "it, preferring to deny the severity of his problem."
 msgstr ""
+"韦元23年5月6日\n"
+"\n"
+"我们到达了拉斯-塔班所知的一条穿过山脉的通路。在河上游，空气很清冷。到了下午，"
+"雪中升起薄雾，悬岩之上的冰锥融化，滴下最纯净的水。我觉得一切都很新奇，但拉斯-"
+"塔班的咳嗽很频繁。由于呼吸不畅，有时他只能说短语了。当然他已经很老了——至少有"
+"50岁了——但我也很确定他病了。他骨瘦如柴，让我相信他是得了肺痨，但他不想谈论这"
+"事，而宁愿拒绝承认自己的问题很严重。"
 
 #. [side]: type=Gryphon
 msgid "Gryphons"
-msgstr ""
+msgstr "狮鹫"
 
 #. [objective]: condition=win
 msgid "Move Ardryn-Na and Ras-Tabahn to level ground in the northeast corner"
-msgstr ""
+msgstr "将阿德琳-娜和拉斯-塔班移动到东北角的平地处"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "There are some... large bones there. Claws and wings... I think."
-msgstr ""
+msgstr "那儿有些……很大的骨头。爪子和翅膀……我觉得。"
 
 #. [message]: speaker=Ardonna
 msgid "I wonder what are they from. A gryphon perhaps?"
-msgstr ""
+msgstr "我想知道它们是哪儿来的。也许是一只狮鹫？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "A large (<i>cough, cough</i>) flightless bird... would be my guess."
-msgstr ""
+msgstr "一只大型的（<b>咳，咳</b>）不能飞的鸟……我猜是这样。"
 
 #. [message]: speaker=Ardonna
 msgid "Well, there is an easy way to discover the truth."
-msgstr ""
+msgstr "好吧，有个简单的方法可以发现真相。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I wonder... if it could carry... someone light. Vendraxis perhaps."
-msgstr ""
+msgstr "我想知道……它是不是能载上……体重轻的人。或许文德拉克西斯可以。"
 
 #. [message]: speaker=Vendraxis
 msgid "I will not climb on that ridiculous thing!"
-msgstr ""
+msgstr "我不会坐上那种可笑的东西的！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I wonder... if it could carry... someone light."
-msgstr ""
+msgstr "我想知道……它是不是能载上……体重轻的人。"
 
 #. [message]: speaker=Ardonna
 msgid "A skeleton could ride it I think."
-msgstr ""
+msgstr "一个骷髅应该可以骑它，我觉得。"
 
 #. [message]: speaker=Ardonna
 msgid "That’s fantastic! These birds could be quite useful."
-msgstr ""
+msgstr "太棒了！这些鸟会很有用的。"
 
 #. [message]: speaker=Ardonna
 msgid "What dangers may lurk in this fog?"
-msgstr ""
+msgstr "这迷雾之中会有什么危险潜伏着？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Gryphons... live at this height. We should be cautious."
-msgstr ""
+msgstr "狮鹫……在这高处生活。我们应当小心。"
 
 #. [scenario]: id=16_The_Mage
 msgid "The Mage"
-msgstr ""
+msgstr "法师"
 
 #. [part]
 msgid ""
@@ -2311,62 +2333,70 @@ msgid ""
 "is quite weak and ill now, and breathing raggedly. I don’t know how much "
 "longer he can survive."
 msgstr ""
+"韦元23年6月3日\n"
+"\n"
+"我们穿过了高原，渡过了阿坎-索利亚。之后我们再次进入了山脉，而后找到了那位法"
+"师。这是拉斯-塔班的计划，当目标在望时，他获得了些许力量。然而，现在他很弱，病"
+"很重，呼吸也很混乱。我不知道他还能活多久。"
 
 #. [side]: type=Elder Mage, id=Crelanu
 msgid "Crelanu"
-msgstr ""
+msgstr "克雷拉努"
 
 #. [objective]: condition=win
 msgid "Defeat Crelanu"
-msgstr ""
+msgstr "击败克雷拉努"
 
 #. [note]
 msgid ""
 "Ras-Tabahn is slowed. He will also lose four hitpoints every turn unless "
 "this amount is modified by healing."
 msgstr ""
+"拉斯-塔班行动缓慢。他每回合还会失去四点生命值，除非这一数值被治疗能力修正。"
 
 #. [note]
 msgid ""
 "Moving any unit onto a bottle of holy water will remove the bottle. An "
 "undead unit will be destroyed."
-msgstr ""
+msgstr "将任何单位移动到圣水瓶处，将会移除此瓶。但亡灵单位将被摧毁。"
 
 #. [unit]: type=White Mage, id=Ginmera
 msgid "Ginmera"
-msgstr ""
+msgstr "金梅拉"
 
 #. [message]: speaker=Ginmera
 msgid ""
 "It seems that the invaders can raise undead soldiers, so I placed some holy "
 "water around the castle for protection."
-msgstr ""
+msgstr "看起来入侵者可以苏生亡灵士兵，所以我在城堡周围布置了一些圣水来防护。"
 
 #. [unit]: type=White Mage, id=Rinconan
 msgid "Rinconan"
-msgstr ""
+msgstr "林柯南"
 
 #. [message]: speaker=Ginmera
 msgid "Rinconan and I will stay here to guard you."
-msgstr ""
+msgstr "林柯南和我会待在这儿保护您。"
 
 #. [message]: speaker=Crelanu
 msgid "Yes. Thank you Ginmera."
-msgstr ""
+msgstr "好的。谢谢你金梅拉。"
 
 #. [message]: speaker=narrator
 msgid ""
 "Moving a unit onto a bottle of holy water will remove the bottle. A living "
 "unit can do this safely, but any undead unit will be destroyed."
 msgstr ""
+"将一个单位移动到圣水瓶处，将会移除此瓶。活体单位可以安全地进行这一操作，但任"
+"何亡灵单位都将被摧毁。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Crelanu! (<i>Cough, cough</i>) We have come... for your book."
-msgstr ""
+msgstr "克雷拉努！（<b>咳，咳</b>）我们来此……要你的书。"
 
 #. [message]: speaker=Ardonna
 msgid "We need to borrow it."
-msgstr ""
+msgstr "我们得借到你的书。"
 
 #. [message]: speaker=Crelanu
 msgid ""
@@ -2374,28 +2404,32 @@ msgid ""
 "now — for all of us. I have given it to the elves. Only they know where it "
 "is."
 msgstr ""
+"是了。我知道像你们这样的人会来的，但那本书已经拿不到了——对我们所有人来说都是"
+"如此。我已经把它给了精灵。只有他们才知道它在哪儿。"
 
 #. [message]: speaker=Ardonna
 msgid "Why would you do such a thing?"
-msgstr ""
+msgstr "你为什么要做这种事？"
 
 #. [message]: speaker=Crelanu
 msgid ""
 "So that one like you would not be tempted to do what you intend. Oh, yes. I "
 "know well what you seek."
 msgstr ""
+"这样一来，你们这种人就不会受到诱惑，来做你们想做的事了。哦，是的，我很清楚你"
+"们想找什么。"
 
 #. [message]: speaker=Ardonna
 msgid "Then you can tell us what we want to know."
-msgstr ""
+msgstr "那么你可以把我们想知道的东西告诉我们。"
 
 #. [message]: speaker=Crelanu
 msgid "I shall not."
-msgstr ""
+msgstr "我不会的。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "We shall see."
-msgstr ""
+msgstr "走着瞧。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -2403,10 +2437,13 @@ msgid ""
 "He will die if he reaches zero. Villages will heal him four points, and he "
 "will lose only two if he is resting."
 msgstr ""
+"拉斯-塔班病了。他行动缓慢，而且每回合还会失去四点生命值。如果生命值降到零，那"
+"么他就会死亡。村庄可以为他回复四点生命值，而如果他休息不动，就只会损失两点生"
+"命值。"
 
 #. [message]: speaker=Ardonna
 msgid "Now, you will tell us the secret of immortality or die!"
-msgstr ""
+msgstr "现在，你得告诉我们长生不老的秘密，不然就去死！"
 
 #. [message]: speaker=Crelanu
 msgid ""
@@ -2415,26 +2452,31 @@ msgid ""
 "common with all of creation. You <i>must</i> die, and your soul depart. I "
 "would not try this thing for any reason."
 msgstr ""
+"<b>没有</b>什么秘密，你们这些蠢货！魔法不能阻止衰老。你们不可能永生。这是自然"
+"之道，也是我们与一切造物共有的最伟大之物。你<b>必将</b>死去，而你的灵魂必将离"
+"开你的身体。我不会因为任何理由尝试这些的。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "You are the fool, for you have, indeed, told us all we required. For that, I "
 "will spare you to live a few more lonely years with your cowardice."
 msgstr ""
+"你才是蠢货，因为实际上，你已经把我们需要知道的一切告诉了我们。为此，我会放过"
+"你，让你继续怯懦孤独地苟活几年。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I don’t understand. What did Crelanu tell us?"
-msgstr ""
+msgstr "我不明白。克雷拉努告诉了我们什么？"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "I will explain. Let us get you somewhere safe first. We’ll go into the cave. "
 "Come with me."
-msgstr ""
+msgstr "我会解释的。我们得先带你去个安全的敌方。我们要进洞里去。跟我来。"
 
 #. [scenario]: id=17_Mortality
 msgid "Mortality"
-msgstr ""
+msgstr "必死之命"
 
 #. [part]
 msgid ""
@@ -2444,29 +2486,35 @@ msgid ""
 "recognize. Ras-Tabahn said, “Dwarves.” It is infested with rats, and "
 "clearly, no dwarves have lived here for a long time."
 msgstr ""
+"韦元23年6月6日\n"
+"\n"
+"进洞不深的地方有一座已成废墟的城堡，用的是我认不出来的建筑风格。拉斯-塔班"
+"说，“矮人。”城堡里到处都是老鼠，很明显，很长时间以来，都没有矮人住在此处了。"
 
 #. [side]
 msgid "Rats"
-msgstr ""
+msgstr "老鼠"
 
 #. [message]: speaker=Ardonna
 msgid "Just a little farther."
-msgstr ""
+msgstr "再往里走一点就好。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Ardryn-Na, I’m dying. (<i>Cough, cough</i>) I don’t think... I can stop it."
-msgstr ""
+msgstr "阿德琳-娜，我要死了。（<b>咳，咳</b>）我不认为……我能阻止死亡的来临。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "Nor should you! You must embrace it. Crelanu said as much. He also said your "
 "life force must depart, but he didn’t say it could not come back to you!"
 msgstr ""
+"你也不该试图阻止死亡！你必须拥抱它。克雷拉努正是这样说的。他也说过你的生命力"
+"量必须离开你的身体，但他并没有说这力量不能回到你的身上！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "What are you... proposing?"
-msgstr ""
+msgstr "你的……提议是什么？"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -2475,6 +2523,9 @@ msgid ""
 "consciousness should follow the flow of your will, as it will have no other "
 "place to go."
 msgstr ""
+"我的提议是你将自己的意志投射到另一个物体里——例如你的手杖，这样它就成为你的一"
+"部分了。如果你在你的身体死亡的瞬间投射，那么你的完整意识都会追随你的意识而流"
+"去，因为它并不会有别的敌方可去。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -2482,17 +2533,22 @@ msgid ""
 "the stone would serve to anchor me (<i>cough, cough, cough</i>) to this "
 "plane... and stop the downward flow of my soul... for just a moment."
 msgstr ""
+"呵，它还可以去……死者的世界。但是……如果我有个祭坛……那里的石头可以把我（<b>咳，"
+"咳，咳</b>）锚定在这个位面上……这样就可以阻止我的灵魂继续下流……但只是一小会"
+"儿。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "And a moment is all you need! You only need project your will <i>back</i> "
 "into your body, animating it as you would anything else!"
 msgstr ""
+"你只需要那一小会儿就好！你只需要把自己的意志投射<b>回</b>你的身体里，把它苏"
+"生，就像你苏生其他东西一样！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "You seem... more sure than I, but  (<i>cough, cough</i>) I have no choice."
-msgstr ""
+msgstr "你看起来……比我确信多了，但是（咳，咳）我没有选择了。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -2500,6 +2556,9 @@ msgid ""
 "also believed that it would work. And like you said, he should know. For "
 "now, you can rest. We’ll have an altar built soon."
 msgstr ""
+"克雷拉努说他不会这样做。这意味着他<b>可以</b>做到，所以他也相信这是可以做到"
+"的。而且正如你所说，他应该知道。现在你暂时可以休息了。我们很快就会造好一个祭"
+"坛。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -2507,14 +2566,16 @@ msgid ""
 "although neither of us needs speak the incantations aloud anymore, you "
 "should this time, as any mistake would be disastrous."
 msgstr ""
+"我们不需要等到你死去。我们可以马上就做完这事。虽然我俩都不再需要高声念出咒语"
+"了，这次你得念，因为任何失误都会是灾难性的。"
 
 #. [message]: speaker=necromancer_on_altar
 msgid "Yes. I’m ready. Do it."
-msgstr ""
+msgstr "是的。我准备好了。做吧。"
 
 #. [scenario]: id=18_Abandoned_Outpost
 msgid "Abandoned Outpost"
-msgstr ""
+msgstr "废弃哨所"
 
 #. [part]
 msgid ""
