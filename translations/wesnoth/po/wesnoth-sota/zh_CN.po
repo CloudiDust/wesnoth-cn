@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2017-05-13 22:47 UTC\n"
-"PO-Revision-Date: 2017-09-02 19:35+0800\n"
+"PO-Revision-Date: 2017-09-03 10:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
 msgid "Secrets of the Ancients"
-msgstr "上古之密"
+msgstr "古人之密"
 
 #. [campaign]: id=Secrets of the Ancients
 msgid "SotA"
@@ -3156,7 +3156,7 @@ msgstr ""
 "我祝愿他们成功。文德拉克西斯现在已经知晓，要重现我们的变换过程，他需要学习什"
 "么了。他将会用自己的余生去学习，去练习，并尝试去改变他的族人的态度。至于我，"
 "我在我的日志之上施加了一些咒语，让它免遭损毁，并且我将会把它放在这战场上的醒"
-"目之处。我希望它最终落入愿意学习上古之密的某个塔斯人手中。"
+"目之处。我希望它最终落入愿意学习古人之密的某个塔斯人手中。"
 
 #. [else]
 msgid ""
@@ -3169,7 +3169,7 @@ msgid ""
 msgstr ""
 "拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。其他人之中的大部分也会跟他走。"
 "我祝愿他们成功。至于我，我在我的日志之上施加了一些咒语，让它免遭损毁，并且我"
-"将会把它放在这战场上的醒目之处。我希望它最终落入愿意学习上古之密的某个塔斯人"
+"将会把它放在这战场上的醒目之处。我希望它最终落入愿意学习古人之密的某个塔斯人"
 "手中。"
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
