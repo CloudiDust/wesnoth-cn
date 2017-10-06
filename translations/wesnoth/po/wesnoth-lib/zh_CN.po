@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-14 01:46+0300\n"
-"PO-Revision-Date: 2017-05-28 11:49+0800\n"
+"POT-Creation-Date: 2017-09-21 23:28+0300\n"
+"PO-Revision-Date: 2017-10-06 11:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -238,6 +238,14 @@ msgstr ""
 msgid "Oasis"
 msgstr "绿洲"
 
+#. [terrain_type]: id=oasis
+msgid ""
+"A welcome sight to any traveler, an oasis allows units to heal as if "
+"stationed in a village, but provides no income or defensive advantage."
+msgstr ""
+"对任何旅行者来说，见到绿洲都是让人高兴的事。绿洲可以治疗单位，就像村庄一样，"
+"但不提供任何收入和防御优势。"
+
 #. [terrain_type]: id=sand_rubble
 msgid "Rubble"
 msgstr "碎石"
@@ -449,6 +457,14 @@ msgstr "雪中山岭"
 msgid "Desert Mountains"
 msgstr "沙漠山岭"
 
+#. [terrain_type]: id=regular_stone_floor
+msgid "Stone Floor"
+msgstr "石地板"
+
+#. [terrain_type]: id=regular_stone_floor
+msgid "Basic Stone Floor"
+msgstr "基本石地板"
+
 #. [terrain_type]: id=wood_floor
 msgid "Wooden Floor"
 msgstr "木地板"
@@ -599,23 +615,24 @@ msgstr "沙漠中的高不可攀的山岭"
 #. [terrain_type]: id=cavewall_earthy
 #. [terrain_type]: id=cavewall_earthy_hewn
 msgid "Cave Wall"
-msgstr "洞穴墙壁"
+msgstr "洞穴墙"
 
 #. [terrain_type]: id=cavewall
 msgid "Natural Cave Wall"
-msgstr "天然的洞穴墙壁"
+msgstr "天然洞穴墙"
 
 #. [terrain_type]: id=minewall
 #. [terrain_type]: id=wall_stone_mine
 msgid "Mine Wall"
-msgstr "矿中墙壁"
+msgstr "矿中墙"
 
 #. [terrain_type]: id=cavewall_earthy
 msgid "Natural Earthy Cave Wall"
-msgstr "天然的泥土洞穴墙壁"
+msgstr "天然泥土洞穴墙"
 
 #. [terrain_type]: id=wall_stone
 #. [terrain_type]: id=wall_stone_lit
+#. [terrain_type]: id=wall_stone_clean
 msgid "Stone Wall"
 msgstr "石墙"
 
@@ -625,7 +642,7 @@ msgstr "被照亮的石墙"
 
 #. [terrain_type]: id=wall_stone_mine
 msgid "Straight Mine Wall"
-msgstr "矿中直壁"
+msgstr "矿中直墙"
 
 #. [terrain_type]: id=wall_stone_white
 msgid "Interior Wall"
@@ -633,33 +650,67 @@ msgstr "内壁"
 
 #. [terrain_type]: id=wall_stone_white
 msgid "Straight White Wall"
-msgstr "白色直壁"
+msgstr "白色直墙"
 
+#. [terrain_type]: id=wall_stone_clean
+msgid "Clean Stone Wall"
+msgstr "干净的石墙"
+
+#. [terrain_type]: id=portal_gate_rusty_sw
+#. [terrain_type]: id=portal_gate_rusty_se
+#. [terrain_type]: id=portal_gate_rusty_n
+#. [terrain_type]: id=portal_gate_rusty_open_sw
+#. [terrain_type]: id=portal_gate_rusty_open_se
+#. [terrain_type]: id=portal_gate_rusty_open_n
 #. [terrain_type]: id=portal_gate_rusty
 #. [terrain_type]: id=p_open_rusty
 msgid "Gate"
 msgstr "大门"
 
+#. [terrain_type]: id=portal_gate_rusty_sw
+#. [terrain_type]: id=portal_gate_rusty_se
+#. [terrain_type]: id=portal_gate_rusty_n
 #. [terrain_type]: id=portal_gate_rusty
 msgid "Rusty Gate"
-msgstr "生锈的大门"
+msgstr "锈门"
 
+#. [terrain_type]: id=portal_door_wooden_sw
+#. [terrain_type]: id=portal_door_wooden_se
+#. [terrain_type]: id=portal_door_wooden_n
+#. [terrain_type]: id=portal_door_wooden_open_sw
+#. [terrain_type]: id=portal_door_wooden_open_se
+#. [terrain_type]: id=portal_door_wooden_open_n
 #. [terrain_type]: id=portal_door_wooden
 #. [terrain_type]: id=p_open_wooden
 msgid "Door"
 msgstr "门"
 
+#. [terrain_type]: id=portal_door_wooden_sw
+#. [terrain_type]: id=portal_door_wooden_se
+#. [terrain_type]: id=portal_door_wooden_n
 #. [terrain_type]: id=portal_door_wooden
 msgid "Wooden Door"
 msgstr "木门"
 
+#. [terrain_type]: id=portal_gate_rusty_open_sw
+#. [terrain_type]: id=portal_gate_rusty_open_se
+#. [terrain_type]: id=portal_gate_rusty_open_n
+msgid "Open Rusty Gate"
+msgstr "开启的锈门"
+
+#. [terrain_type]: id=portal_door_wooden_open_sw
+#. [terrain_type]: id=portal_door_wooden_open_se
+#. [terrain_type]: id=portal_door_wooden_open_n
+msgid "Open Wooden Door"
+msgstr "开启的木门"
+
 #. [terrain_type]: id=p_open_rusty
 msgid "Rusty Open Gate"
-msgstr "生锈的打开的门"
+msgstr "开启的锈门"
 
 #. [terrain_type]: id=p_open_wooden
 msgid "Wooden Open Door"
-msgstr "木质的打开的门"
+msgstr "开启的木门"
 
 #. [terrain_type]: id=impassable_overlay
 msgid "Impassable Overlay"
@@ -848,10 +899,15 @@ msgid "Village Overlay"
 msgstr "村庄覆盖层"
 
 #. [terrain_type]: id=encampment
+#. [terrain_type]: id=encampment_ruin
 #. [terrain_type]: id=encampment_snow
 #. [terrain_type]: id=aquatic_camp
 msgid "Encampment"
 msgstr "营地"
+
+#. [terrain_type]: id=encampment_ruin
+msgid "Ruined Encampment"
+msgstr "毁坏的营地"
 
 #. [terrain_type]: id=encampment_snow
 msgid "Snowy Encampment"
@@ -935,6 +991,10 @@ msgstr "水中城堡"
 #. [terrain_type]: id=merman_campkeep
 msgid "Encampment Keep"
 msgstr "营地主楼"
+
+#. [terrain_type]: id=encampment_ruin_keep
+msgid "Ruined Encampment Keep"
+msgstr "毁坏的营地主楼"
 
 #. [terrain_type]: id=encampment_keep_tall
 msgid "Tall Encampment Keep"
@@ -1459,6 +1519,7 @@ msgstr "（按‘$hotkey|’以查看更多信息）"
 #. [label]: id=name
 #. [label]
 #. [toggle_button]: id=sort_1
+#. [toggle_button]: id=sort_name
 msgid "Name"
 msgstr "名字"
 
@@ -1661,8 +1722,8 @@ msgstr "退出"
 msgid "Choose the add-ons you want to remove."
 msgstr "选择你希望移除的附加组件。"
 
-#. [button]: id=remove
 #. [button]: id=ok
+#. [button]: id=remove
 msgid "Remove"
 msgstr "移除"
 
@@ -1765,6 +1826,22 @@ msgstr "防守方"
 #. [label]
 msgid "Play a Campaign"
 msgstr "玩一场战役"
+
+#. [label]
+msgid "Sort by:"
+msgstr "排序："
+
+#. [toggle_button]: id=sort_name
+msgid "Sort by full campaign name in alphabetical order"
+msgstr "按照战役全名的字母顺序排序"
+
+#. [toggle_button]: id=sort_time
+msgid "Dates"
+msgstr "日期"
+
+#. [toggle_button]: id=sort_time
+msgid "Sort in approximate chronological order of story events"
+msgstr "按照故事事件的大略时间顺序排序"
 
 #. [label]
 msgid "Modifications"
@@ -2282,8 +2359,8 @@ msgstr "后备部队数："
 msgid "Date"
 msgstr "日期"
 
-#. [button]: id=load_game
 #. [label]: id=lblTitle
+#. [button]: id=load_game
 msgid "Load Game"
 msgstr "载入游戏"
 
@@ -2506,8 +2583,8 @@ msgstr "Lua控制台"
 msgid "Map Generator Settings"
 msgstr "地图生成器设置"
 
-#. [label]
 #. [grid]
+#. [label]
 msgid "Players:"
 msgstr "玩家："
 
@@ -2666,9 +2743,9 @@ msgstr "刷新"
 msgid "Create Game"
 msgstr "创建游戏"
 
-#. [button]: id=show_preferences
 #. [label]: id=title
 #. [grid]
+#. [button]: id=show_preferences
 msgid "Preferences"
 msgstr "首选项"
 
@@ -2700,13 +2777,13 @@ msgstr "多人游戏大厅"
 msgid "Player Info — "
 msgstr "玩家信息 — "
 
-#. [button]: id=add_friend
 #. [button]: id=add_to_friends
+#. [button]: id=add_friend
 msgid "Add Friend"
 msgstr "添加好友"
 
-#. [button]: id=add_ignored
 #. [button]: id=add_to_ignores
+#. [button]: id=add_ignored
 msgid "Block"
 msgstr "阻止"
 
@@ -2856,8 +2933,8 @@ msgstr "回合变化："
 msgid "When a new turn has begun"
 msgstr "当新的回合开始时"
 
-#. [button]: id=btn_reset_hotkeys
 #. [button]: id=revert_to_defaults
+#. [button]: id=btn_reset_hotkeys
 #. [button]: id=orb_defaults
 msgid "Defaults"
 msgstr "默认"
@@ -3047,8 +3124,8 @@ msgstr "行动奖励"
 msgid "Time for each attack, recruit, and capture"
 msgstr "每次攻击、征募和占领的时间"
 
-#. [widget]: id=tab_label
 #. [widget]: id=label
+#. [widget]: id=tab_label
 msgid "General"
 msgstr "通用"
 
@@ -3203,16 +3280,16 @@ msgid "Login:"
 msgstr "账号："
 
 #. [toggle_button]: id=remember_password
-msgid "Save password to preferences (clear text)"
-msgstr "将密码保存至首选项（明文）"
+msgid "Save password locally (encrypted)"
+msgstr "在本地保存密码（明文）"
 
 #. [button]: id=password_reminder
 msgid "Password Reminder"
 msgstr "密码提示"
 
-#. [label]
 #. [widget]: id=label
 #. [grid]
+#. [label]
 msgid "Multiplayer"
 msgstr "多人游戏"
 
@@ -3223,13 +3300,13 @@ msgid ""
 "Note that registration is not required to join the server: you need to "
 "supply a password only if you wish to use a registered username.\n"
 "\n"
-"The Battle for Wesnoth forum can be found at http://forums.wesnoth.org/"
+"The Battle for Wesnoth forum can be found at https://forums.wesnoth.org/"
 msgstr ""
 "你可以使用官方论坛的用户名和密码登录官方多人游戏服务器。\n"
 "请注意，要加入服务器并不需要注册，只有在你想使用一个已经注册的用户名时才需要"
 "提供密码。\n"
 "\n"
-"韦诺之战论坛可在此处找到：http://www.wesnoth.org/forum/"
+"韦诺之战论坛可在此处找到：https://forums.wesnoth.org/"
 
 #. [column]
 msgid "Log on to the official Wesnoth multiplayer server"
@@ -3621,10 +3698,6 @@ msgstr "开启聊天时间戳"
 #. [toggle_button]: id=chat_timestamps
 msgid "Add a timestamp to chat messages"
 msgstr "在聊天消息上加上时间戳"
-
-#. [toggle_button]: id=remember_password
-msgid "Save password to preferences (plain text)"
-msgstr "将密码保存至首选项（明文）"
 
 #. [toggle_button]: id=remember_password
 msgid "Uncheck to delete the saved password (on exit)"
@@ -4079,6 +4152,38 @@ msgstr "最大文字宽度小于1。"
 msgid "The text contains invalid markup: "
 msgstr "此文本中有非法的标记："
 
+#. TRANSLATORS: Formats a two-element conjunctive list.
+msgid "conjunct pair^$first and $second"
+msgstr "$first|及$second"
+
+#. TRANSLATORS: Formats the first two elements of a conjunctive list.
+msgid "conjunct start^$first, $second"
+msgstr "$first，$second"
+
+#. TRANSLATORS: Formats successive elements of a conjunctive list.
+msgid "conjunct mid^$prefix, $next"
+msgstr "$prefix|，$next"
+
+#. TRANSLATORS: Formats the final element of a conjunctive list.
+msgid "conjunct end^$prefix, and $last"
+msgstr "$prefix|，及$last"
+
+#. TRANSLATORS: Formats a two-element disjunctive list.
+msgid "disjunct pair^$first or $second"
+msgstr "$first|或$second"
+
+#. TRANSLATORS: Formats the first two elements of a disjunctive list.
+msgid "disjunct start^$first, $second"
+msgstr "$first，$second"
+
+#. TRANSLATORS: Formats successive elements of a disjunctive list.
+msgid "disjunct mid^$prefix, $next"
+msgstr "$prefix|，$next"
+
+#. TRANSLATORS: Formats the final element of a disjunctive list.
+msgid "disjunct end^$prefix, or $last"
+msgstr "$prefix|，或$next"
+
 msgid "Line doesn't fit on canvas."
 msgstr "线条不适应画布大小。"
 
@@ -4099,6 +4204,9 @@ msgstr "字体大小是0。"
 
 msgid "Text doesn't start on canvas."
 msgstr "文字没有从画布上开始。"
+
+msgid "No state or draw section defined."
+msgstr "没有已定义的状态或绘图区域。"
 
 msgid "No resolution defined."
 msgstr "没有已定义的分辨率。"
@@ -4123,6 +4231,9 @@ msgstr "已安装"
 
 msgid "addons_view^Upgradable"
 msgstr "可升级"
+
+msgid "addons_view^Publishable"
+msgstr "可发布"
 
 msgid "addons_view^Not Installed"
 msgstr "未安装"
@@ -4812,22 +4923,16 @@ msgstr "每个“list_definition”（列表定义）应该至少有一行。"
 msgid "No page defined."
 msgstr "没有已定义的页面。"
 
-msgid "multimenu^None Selected"
-msgstr "未选中"
-
-msgid "multimenu^$first and 1 other"
-msgid_plural "multimenu^$first and $excess others"
-msgstr[0] "$first|及另1个"
-msgstr[1] "$first|及另$excess|个"
-
-msgid "multimenu^$first and $second"
-msgstr "$first|及$second"
-
 msgid "multimenu^All Selected"
 msgstr "全部选中"
 
-msgid "multimenu^$first, $second"
-msgstr "$first，$second"
+msgid "multimenu^$excess other"
+msgid_plural "$excess others"
+msgstr[0] "及另1个"
+msgstr[1] "及另$excess|个"
+
+msgid "multimenu^None Selected"
+msgstr "未选中"
 
 msgid "Need at least 1 parallel item."
 msgstr "还需要至少一件并行的物品。"
@@ -4838,9 +4943,6 @@ msgstr "界面构件定义“$definition”不包含“$id”的定义。"
 
 msgid "No default gui defined."
 msgstr "没有已定义的默认图形界面。"
-
-msgid "No state or draw section defined."
-msgstr "没有已定义的状态或绘图区域。"
 
 msgid "No widget defined."
 msgstr "没有已定义的界面构件"
@@ -5536,9 +5638,6 @@ msgstr "查找服务器应用"
 msgid "No server has been defined."
 msgstr "没有已定义的服务器。"
 
-msgid "player"
-msgstr "玩家"
-
 msgid "[%H:%M]"
 msgstr "[%H:%M]"
 
@@ -5573,7 +5672,7 @@ msgstr "在小节‘[$section|]’中，必须设定的主键‘$key|’没有�
 msgid ""
 "The key '$key' is deprecated and support will be removed in version "
 "$removal_version."
-msgstr "主键‘$key|’已废弃，对此主键的支持将在版本$removal_version|中移除。"
+msgstr "主键‘$key|’已废弃，且对此主键的支持将在版本$removal_version|中移除。"
 
 msgid ""
 "The key '$deprecated_key' has been renamed to '$key'. Support for "

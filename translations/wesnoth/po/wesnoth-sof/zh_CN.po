@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:47 UTC\n"
-"PO-Revision-Date: 2017-05-23 22:54+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 11:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 msgid "The Sceptre of Fire"
@@ -111,13 +111,13 @@ msgstr "哈德里克二世"
 msgid "Glildur"
 msgstr "基利达"
 
+#. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]: type=Elvish Captain, id=Glildur
-#. [side]: type=Elvish Captain, id=Glindur
 #. [side]
 #. [side]: type=Elvish Marshal, id=Crintil
+#. [side]: type=Elvish Captain, id=Glildur
 msgid "Elves"
 msgstr "精灵"
 
@@ -481,6 +481,10 @@ msgstr "以兰达尔的名义，死吧，矮人渣滓！"
 #. [message]: speaker=second_unit
 msgid "Yer precious Landar can kiss my axe."
 msgstr "你丫高贵的兰达尔来亲亲俺的斧头吧！"
+
+#. [message]: speaker=Rugnur
+msgid "Good, the road is secured. Let’s move those caravans!"
+msgstr "很好，已经确保路途安全了。让大篷车动起来吧！"
 
 #. [message]: speaker=Haldric II
 msgid ""
@@ -1905,8 +1909,8 @@ msgid ""
 "the gates!"
 msgstr "我们已经把矮人和精灵都逐出洞了！现在，封上大门！"
 
-#. [message]: speaker=Baglur
 #. [message]: speaker=Durstorn
+#. [message]: speaker=Baglur
 msgid "Gaanngh..."
 msgstr "呃啊啊……"
 
@@ -2478,8 +2482,8 @@ msgstr "敌人移动到熔炉处"
 msgid "You fool, you let the enemy get at me when I was unarmed!"
 msgstr "你这傻瓜，你竟让敌人打到了赤手空拳的我！"
 
-#. [message]: speaker=Thursagan
 #. [message]: speaker=narrator
+#. [message]: speaker=Thursagan
 msgid "Ayahahh..."
 msgstr "啊啊……"
 

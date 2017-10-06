@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-23 22:24+0800\n"
+"POT-Creation-Date: 2017-09-21 20:27 UTC\n"
+"PO-Revision-Date: 2017-10-06 10:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=An_Orcish_Incursion
 msgid "An Orcish Incursion"
@@ -145,8 +145,8 @@ msgstr "洛玛菲尔"
 #. [side]: type=Orcish Warrior, id=Urugha
 #. [side]: type=Orcish Slayer, id=Gharlsa
 #. [side]: type=Orcish Warlord, id=Gnargha
-#. [side]: type=Orcish Sovereign, id=Rualsha
 #. [side]: type=Orcish Warlord, id=Krughnar
+#. [side]: type=Orcish Sovereign, id=Rualsha
 msgid "Orcs"
 msgstr "兽人"
 

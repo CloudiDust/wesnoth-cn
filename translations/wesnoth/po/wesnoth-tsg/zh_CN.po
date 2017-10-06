@@ -6,13 +6,13 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-01-31 20:07+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 11:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=The_South_Guard
 msgid "The South Guard"
@@ -85,16 +85,16 @@ msgstr "美工和图形设计"
 msgid "Born to the Banner"
 msgstr "为旗而生"
 
-#. [side]: type=Horseman Commander, id=Deoran
 #. [side]: id=Deoran
+#. [side]: type=Horseman Commander, id=Deoran
 msgid "Deoran"
 msgstr "德欧兰"
 
+#. [side]: id=Deoran
 #. [side]: type=Horseman Commander, id=Deoran
 #. [side]: type=Troll Hero, id=Grek
 #. [side]
 #. [side]: type=Lieutenant, id=Plynry
-#. [side]: id=Deoran
 msgid "South Guard"
 msgstr "南疆卫队"
 
@@ -102,13 +102,13 @@ msgstr "南疆卫队"
 msgid "Urza Mathin"
 msgstr "乌扎·马辛"
 
-#. [side]: type=Rogue, id=Urza Fastik
-#. [side]: type=Outlaw, id=Urza Afalas
-#. [side]: type=Outlaw, id=Tharzo Kalain
-#. [side]: type=Outlaw, id=Jera Ilras
 #. [side]: type=Bandit, id=Urza Mathin
 #. [side]: type=Outlaw, id=Urza Nalmath
 #. [side]
+#. [side]: type=Outlaw, id=Jera Ilras
+#. [side]: type=Outlaw, id=Urza Afalas
+#. [side]: type=Outlaw, id=Tharzo Kalain
+#. [side]: type=Rogue, id=Urza Fastik
 msgid "Bandits"
 msgstr "强盗"
 
@@ -801,8 +801,8 @@ msgstr "指挥官，我收到了您的增援请求，带来了我的骑手们！
 #. [message]: speaker=narrator
 msgid ""
 "You may now recruit Cavalrymen. They are fast and deadly on grassland, but "
-"weak in forests and hills. They can keep up with Deoran, so use them to "
-"guard him!"
+"weak in forests and unable to traverse mountains. They can keep up with "
+"Deoran, so use them to guard him!"
 msgstr ""
 "你现在可以征募骑兵了。他们在草原上快速而致命，但在森林和丘陵中则很弱。他们能"
 "够跟得上德欧兰，所以用他们来保护他吧！"
@@ -853,7 +853,7 @@ msgstr "瓦达诺斯"
 msgid "Talchar"
 msgstr "塔尔查"
 
-#. [unit]: type=Elvish Shyde, type=Elvish Druid, id=Ethiliel
+#. [unit]: type=Elvish Shyde, id=Ethiliel
 msgid "Ethiliel"
 msgstr "艾茜丽尔"
 
@@ -933,13 +933,13 @@ msgstr "泪滴山谷"
 msgid "Mal A’kai"
 msgstr "玛尔·阿凯"
 
+#. [side]: type=Dark Adept, type=Dark Sorcerer, type=Necromancer, id=Mal A'kai
 #. [side]: type=Soulless, id=Gruth
 #. [side]: type=Lich, id=Mal M'Brin
+#. [side]
 #. [side]: type=Soulless, id=Groth
 #. [side]: type=Ancient Lich, id=Mal M'Brin
 #. [side]: type=Lich, id=Mal Tera
-#. [side]: type=Dark Adept, type=Dark Sorcerer, type=Necromancer, id=Mal A'kai
-#. [side]
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1101,8 +1101,8 @@ msgstr "至少你，不会再给我们制造麻烦了！"
 msgid "Mebrin! Are you there? We have come to seek your aid!"
 msgstr "梅布林！您在吗？我们来求助于您！"
 
-#. [message]: speaker=Kramak
 #. [message]: speaker=narrator
+#. [message]: speaker=Kramak
 msgid "..."
 msgstr "……"
 
@@ -1195,9 +1195,9 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid ""
-"Elvish Fighters are at home in the thick forests. They have both a sword and "
-"a bow and are deadly with both. They are quick and can hold their own "
-"against just about anything."
+"Elvish Fighters are at home in thick forests. They have both a sword and a "
+"bow and are deadly with both. They are quick and can hold their own against "
+"just about anything."
 msgstr ""
 "精灵战士在密林之中如鱼得水。他们有一把剑，还有一张弓，而且用两者都能轻易取人"
 "性命。他们十分迅捷，几乎可以很好地对抗任何东西。"
@@ -1519,14 +1519,14 @@ msgstr "我们得在收庄稼之前快点回到韦斯廷。秋天在几天前已
 #. [message]: speaker=Ethiliel
 msgid ""
 "Do not be so hasty; great mages are no mere tricksters to be easily "
-"defeated. I fear that there are tunnels and catacombs buried beneath his "
+"defeated. I fear that there are tunnels and catacombs buried beneath the "
 "fortress and that we have merely defeated a specter. If we wish to cleanse "
-"the land of his evil, we must enter the darkness and root him out from "
+"the land of this evil, we must enter the darkness and root it out from "
 "within."
 msgstr ""
 "别草率；大法师们可不是只会耍把戏的，没那么容易被击败。恐怕在他的要塞之下还有"
 "地道和墓穴，我们只是打败了一个幽影而已。如果我们想要从这片土地上清除他的邪恶"
-"影响，那我们必须进入黑暗中，从内部瓦解他。"
+"影响，那我们必须进入黑暗中，从内部瓦解它。"
 
 #. [message]: speaker=Ethiliel
 msgid ""
@@ -1961,9 +1961,9 @@ msgstr "灵眼守卫"
 
 #. [message]: speaker=Ethiliel
 msgid ""
-"Proceed slowly, who knows what evils inhabited these parts before Mebrin was "
-"turned! We cannot be too careful."
-msgstr "慢慢前进，谁知道梅布林变身之前有什么妖孽住在这里！我们多小心都不为过。"
+"Proceed slowly, who knows what evils the bandits have awoken here! We cannot "
+"be too careful."
+msgstr "慢慢前进，谁知道那帮强盗在这里唤醒了什么邪恶之物！我们多小心都不为过。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1979,6 +1979,12 @@ msgstr "另外，有<b>迅捷</b>特质的士兵在黑暗中很好用。"
 msgid "Find the source of the undead under the citadel"
 msgstr "找到城堡之下的亡灵之源"
 
+#. [objective]: condition=win
+msgid ""
+"Meet with and pay the troll leader $troll_help_cost gold to receive their "
+"help"
+msgstr "与巨魔首领会晤并支付$troll_help_cost|枚金币以获得他们的帮助"
+
 #. [message]: speaker=Minister Hylas
 msgid ""
 "What horrid creature may that be? I’ve seen many wicked things in my life, "
@@ -1987,12 +1993,12 @@ msgstr "那是什么恐怖的生物？我平生见过许多邪恶之物，但却
 
 #. [message]: speaker=Ethiliel
 msgid ""
-"It must be a guardian of some kind set here by Mebrin. We elves have heard "
-"stories of these creatures but I wouldn’t have expected to come across "
-"one... the least of all here. Let us proceed with caution."
+"Whatever evil lurks below must have set it here as a guardian. We elves have "
+"heard stories of these creatures but I wouldn’t have expected to come across "
+"one here. Let us proceed with caution."
 msgstr ""
-"那肯定是梅布林设置的某种守卫。我们精灵听说过这些生物的传说，但是我并没想到会"
-"遇到它们……尤其是在这种地方。我们要小心前进。"
+"它肯定是潜伏的邪恶所设置的守卫。我们精灵听说过这些生物的传说，但我并没想到会"
+"在这里遇到它们。我们得小心前进。"
 
 #. [message]: speaker=Grek
 msgid ""
@@ -2057,12 +2063,6 @@ msgstr ""
 "哈哈，你们人类和精灵真穷，你们的金币不够！如果你们想要巨魔帮忙，凑够了金币再"
 "来找我。"
 
-#. [objective]: condition=win
-msgid ""
-"Meet with and pay the troll leader $troll_help_cost gold to receive their "
-"help"
-msgstr "与巨魔首领会晤并支付$troll_help_cost|枚金币以获得他们的帮助"
-
 #. [option]
 msgid "We will offer you freedom and a place in our lands."
 msgstr "我们给你们自由，并在我们的领土之上为你们留一块地。"
@@ -2086,10 +2086,11 @@ msgstr ""
 #. [message]: speaker=Ethiliel
 msgid ""
 "These creatures are much too simpleminded to be of any help to us but at "
-"least they will not attack us outright. We will have to face Mebrin alone."
+"least they will not attack us outright. We will have to face this enemy "
+"alone."
 msgstr ""
 "这些生物思维太简单，对我们毫无助力，但至少他们不会直接攻击我们。我们只能靠自"
-"己去对付梅布林了。"
+"己去对付这个敌人了。"
 
 #. [message]: speaker=Grek
 msgid "Ha, you can afford troll help this time?"

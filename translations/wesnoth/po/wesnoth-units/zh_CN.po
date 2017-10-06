@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-09-02 16:08+0800\n"
+"POT-Creation-Date: 2017-09-21 20:29 UTC\n"
+"PO-Revision-Date: 2017-10-06 12:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -124,8 +124,8 @@ msgstr ""
 
 #. [attack]: type=arcane
 #. [attack]: type=impact
-#. [attack]: type=cold
 #. [attack]: type=fire
+#. [attack]: type=cold
 msgid "touch"
 msgstr "触碰"
 
@@ -352,6 +352,10 @@ msgstr "尖牙"
 #. [attack]: type=impact
 msgid "ram"
 msgstr "巨槌"
+
+#. [attack]: type=impact
+msgid "bolas"
+msgstr "流星锤"
 
 #. [attack]: type=arcane
 msgid "faerie fire"
@@ -2410,8 +2414,8 @@ msgstr ""
 "化日之下则有点力不从心。"
 
 #. [attack]: type=blade
-msgid "knife"
-msgstr "匕首"
+msgid "throwing knives"
+msgstr "飞刀"
 
 #. [female]
 msgid "female^Assassin"
@@ -3316,14 +3320,14 @@ msgid ""
 "\n"
 "The effectiveness of this method led to the development of smaller, weighted "
 "nets, which could be cast through the air; these were useless for fishing, "
-"but were useful in both combat, and in hunting game that came too close to "
+"but were useful both in combat and in hunting game that came too close to "
 "shore. Clubs were used in combat with little or no adaptation from fishing, "
 "since they were already quite deadly."
 msgstr ""
 "对人鱼们来说，捕鱼在很大程度上就是把大群的鱼驱赶到早已布好的网中，而后用形似"
-"船桨的大棒将猎物打死。有些人鱼即兴发挥，把这东西用在士兵们身上，这被证明是很"
-"有效的。绝大部分陆栖生物哪怕只是站在齐腰深的水中，就已经觉得很不适应了，要是"
-"被捕到网中的话，那更是叫天不应叫地不灵。\n"
+"船桨的大棒将猎物打死。有些人鱼即兴发挥，把这东西用在士兵们身上，实践证明这是"
+"很有效的。绝大部分陆栖生物哪怕只是站在齐腰深的水中，就已经觉得很不适应了，要"
+"是被捕到网中的话，那更是叫天不应叫地不灵。\n"
 "\n"
 "这种战法的高效性使得人鱼们开发出了更小更轻的网，可以向空中抛掷。这些网在捕鱼"
 "时很无用，但在作战或者捕捉过于接近岸边的猎物时则很有效。大棒也用于战斗，却几"
@@ -3535,6 +3539,27 @@ msgstr "叮"
 msgid "pincers"
 msgstr "钳"
 
+#. [unit_type]: id=Giant Scorpling, race=monster
+msgid "Giant Scorpling"
+msgstr "巨蝎幼体"
+
+#. [unit_type]: id=Giant Scorpling, race=monster
+msgid ""
+"One of the most potent known venoms is that of the monstrous scorpions of "
+"the frontier. Fetching a high price by assassins and apothecaries alike, "
+"this venom is often seen as a quick way to make coin, alluring bold hunters "
+"to venture into the wilderness to harvest it. However, even in a juvenile "
+"state, these scorpions can deliver deadly stings and are faster than most "
+"men. What's worse is that they can live in rather large nests, and angering "
+"a seemingly lone scorpion can lead to swarms of them crawling up from the "
+"ground — quickly turning the hunter into the hunted."
+msgstr ""
+"已知毒性最强的毒物之一，便是边疆怪物巨蝎的毒素。不论是刺客还是药剂师都高价购"
+"买此种毒素。因此，其贩卖也被视作赚快钱的方式，引来勇敢的猎人冒险前往野地进行"
+"收集。然而，即使是幼年状态的巨蝎也可以使用剧毒的蛰刺，而且比绝大多数人行动更"
+"迅速。更糟糕的是，它们会生活在相当大的巢穴中，激怒一只看起来落单的巨蝎会把一"
+"群巨蝎从地底下引出来——很快便会把猎人变成猎物。"
+
 #. [unit_type]: id=Giant Spider, race=monster
 msgid "Giant Spider"
 msgstr "巨蛛"
@@ -3645,9 +3670,9 @@ msgstr ""
 msgid "Wolf"
 msgstr "狼"
 
-#. [unit_type]: id=Great Wolf, race=wolf
 #. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Direwolf, race=wolf
+#. [unit_type]: id=Great Wolf, race=wolf
 msgid ""
 "Wolves are aggressive animals that hunt in packs. Although weak "
 "individually, a wolf pack can kill even the strongest man in minutes."
@@ -3829,10 +3854,6 @@ msgstr ""
 "人刺客就喜欢在飞刀上涂上毒药。以兽人的标准来说，他们通常很脆弱，虽然令人惊讶"
 "地敏捷。尽管很少能给予敌人致命一击，但他们的战术对体格更健壮、性格更残暴的同"
 "族却是很有用的支援。"
-
-#. [attack]: type=blade
-msgid "throwing knives"
-msgstr "飞刀"
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
 msgid "Orcish Crossbowman"

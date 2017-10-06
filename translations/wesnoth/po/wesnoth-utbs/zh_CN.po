@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-06-10 17:02+0800\n"
+"POT-Creation-Date: 2017-09-21 20:29 UTC\n"
+"PO-Revision-Date: 2017-10-06 12:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -146,8 +146,8 @@ msgstr ""
 msgid "The Morning After"
 msgstr "天亮以后"
 
-#. [side]: id=Kaleh, type=Quenoth Youth
 #. [side]
+#. [side]: id=Kaleh, type=Quenoth Youth
 #. [side]: id=Kaleh, type=Desert Fighter
 msgid "team_name^Quenoth Elves"
 msgstr "奎诺精灵"
@@ -2908,8 +2908,8 @@ msgstr "蜘蛛不是昆虫。"
 msgid "Thanks for the clarification."
 msgstr "谢谢提醒。"
 
-#. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
 #. [event]
+#. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
 msgid "Wounded Dwarf"
 msgstr "受伤的矮人"
 
@@ -2977,8 +2977,8 @@ msgstr "你回来这里干什么？肮脏的矮人在北边，这里没有矮人
 msgid "Defeat the Cloaked Figure"
 msgstr "打败戴斗篷者"
 
-#. [unit]: type=Troll Shaman, id=Zurg
 #. [event]
+#. [unit]: type=Troll Shaman, id=Zurg
 msgid "Zurg"
 msgstr "泽格"
 
@@ -3059,8 +3059,8 @@ msgid ""
 "together, we must follow Zurg."
 msgstr "看来我们的工作还没有结束。好吧，集合队伍，我们得跟着泽格走。"
 
-#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
 #. [event]
+#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
 msgid "Grimnir"
 msgstr "格雷纳"
 
@@ -3669,8 +3669,8 @@ msgstr "有入侵者！杀啊！"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Wounded Dwarf
+#. [message]: speaker=Kaleh
 msgid "Never!"
 msgstr "绝不！"
 
@@ -4075,10 +4075,10 @@ msgstr "矮人地界"
 msgid "Enemies"
 msgstr "敌人"
 
-#. [side]: id=Melusand, type=Mermaid Diviner
 #. [side]
 #. [side]: id=King Thurongar, type=Dwarvish Lord
 #. [side]: id=Great Leader Darmog, type=Great Troll
+#. [side]: id=Melusand, type=Mermaid Diviner
 msgid "Allies"
 msgstr "同盟"
 
@@ -5196,8 +5196,8 @@ msgstr "好吧，越快离开这里我越高兴。"
 msgid "Wait, did you feel that?"
 msgstr "等下，你们感觉到什么了吗？"
 
-#. [message]
 #. [message]: speaker=Nym
+#. [message]
 #. [message]: type=Desert Fighter3, Desert Fighter4, Desert Fighter5, Desert Fighter6, Desert Fighter7, Desert Fighter8
 msgid "What?"
 msgstr "什么？"
@@ -5292,14 +5292,17 @@ msgid ""
 "but to fight our way through the chaos."
 msgstr "好，我们也想离开这里。看样子除了在这混乱中杀出一条路来，我们别无选择。"
 
+#. [event]
 #. [event]: role=human_scout)}, role=human_scout)}, role=human_scout)}
 msgid "Bellerin"
 msgstr "贝勒宁"
 
+#. [event]
 #. [event]: role=human_scout)}, role=human_scout)}, role=human_scout)}
 msgid "Durth"
 msgstr "德斯"
 
+#. [event]
 #. [event]: role=human_scout)}, role=human_scout)}, role=human_scout)}
 msgid "Othgar"
 msgstr "欧斯格"
@@ -6489,9 +6492,9 @@ msgstr ""
 "陵。山谷的中央是平的，四周是沙丘。山谷中央似乎有定居点。在更远的北边，我看见"
 "天际似乎有闪光，但我不知道那是什么。"
 
+#. [unit]: type=Divine Avatar, id=Eloh
 #. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
-#. [unit]: type=Divine Avatar, id=Eloh
 #. [event]
 msgid "Eloh"
 msgstr "伊洛"
@@ -11773,8 +11776,8 @@ msgstr ""
 "沙漠仙子是精灵中献身自然和仙境的存在。背后伸出的蜻蜓般的翅膀让她们光彩夺目。"
 "她们可以轻松地从空中掠过几乎所有的地形。"
 
-#. [unit_type]: id=Desert Star
 #. [unit_type]: id=Desert Shyde, race=elf
+#. [unit_type]: id=Desert Star
 msgid "SPECIAL_NOTE^ This unit can fly across any terrain except deep water."
 msgstr "本单位可以飞越除深水外的一切地形。"
 
@@ -11949,8 +11952,8 @@ msgid "Central Body"
 msgstr "中枢躯体"
 
 #. [unit_type]: id=Central Body, race=monster
-#. [unit_type]: id=Pulsing Spire, race=monster
 #. [unit_type]: id=Crawling Horror, race=monster
+#. [unit_type]: id=Pulsing Spire, race=monster
 msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
 "before."
@@ -12523,10 +12526,10 @@ msgstr ""
 "逝的仆从，主人可以把他部署在任意地方。"
 
 #. [unit_type]: id=EGhost
-#. [unit_type]: id=ENightgaunt
-#. [unit_type]: id=EShadow
 #. [unit_type]: id=ESpectre
 #. [unit_type]: id=EWraith
+#. [unit_type]: id=ENightgaunt
+#. [unit_type]: id=EShadow
 msgid "SPECIAL_NOTE^ This unit is able to move through solid stone walls."
 msgstr "此单位可以穿越坚硬的石墙。"
 
@@ -12635,7 +12638,7 @@ msgstr "蜘蛛巫妖"
 
 #. [unit_type]: id=Spider Lich, race=undead
 msgid ""
-"No one is quite sure how spider liches are created, but they are horrific "
+"No one is quite sure how spider liches are created, but they are a horrific "
 "sight to behold. Crawling around on huge skeletal legs, and wielding huge "
 "magical staves, these abominations are fearsome undead foes. "
 msgstr ""
@@ -12695,11 +12698,11 @@ msgstr "布阵"
 #. [dummy]: id=formation
 msgid ""
 "This unit gains a +10% bonus to defense when another unit with the same "
-"ability is adjacent to it and the enemy. However, this cannot raise the "
-"unit's defense above 70%."
+"ability is adjacent to it. However, this cannot raise the unit’s defense "
+"above 70%."
 msgstr ""
-"当另一个有相同能力的单位与此单位及敌人相邻时，此单位获得+10%防御加成。但是，"
-"此能力无法让单位的防御升到70%以上。"
+"当另一个有相同能力的单位与此单位相邻时，此单位获得+10%防御加成。但是，此能力"
+"无法让单位的防御升到70%以上。"
 
 #. [dummy]: id=disengage
 msgid "disengage"
@@ -12707,7 +12710,7 @@ msgstr "脱离"
 
 #. [dummy]: id=disengage
 msgid ""
-"If this unit doesn't move before attacking, it will retain its movement "
+"If this unit doesn’t move before attacking, it will retain its movement "
 "points after the attack."
 msgstr ""
 "如果此单位在进攻之前没有移动，那么在进攻之后它仍然会保有自己的移动点数。"

@@ -5,13 +5,13 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-04-15 18:12+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 11:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [lua]: wml_actions.select_character
 msgid "Select Character"
@@ -43,6 +43,7 @@ msgid "Wesnoth Tutorial — Part I"
 msgstr "韦诺教程 — 第一部分"
 
 #. [side]: type=Fighter, id=student
+#. [side]
 msgid "team_name^Student"
 msgstr "学生"
 
@@ -234,8 +235,8 @@ msgstr "我应该撤退吗？"
 msgid "female^Should I retreat?"
 msgstr "我应该撤退吗？"
 
-#. [message]: speaker=Galdrad
 #. [message]: speaker=Delfador
+#. [message]: speaker=Galdrad
 msgid "Good idea!"
 msgstr "好主意！"
 
@@ -669,8 +670,8 @@ msgid "One lucky attack by an Orcish Grunt, and I’m done for!"
 msgstr "只要一个走运的兽人步兵再打到我一下，我就完了！"
 
 #. [event]
-msgid "Ouch! I could make use of some healing in a village."
-msgstr "啊！我得去村庄治疗。"
+msgid "I could make use of some healing in a village."
+msgstr "我现在需要在村庄里接受一些治疗。"
 
 #. [event]
 msgid "I had better retreat, before I get caught out with such low health!"
@@ -685,8 +686,8 @@ msgid "female^One lucky attack by an Orcish Grunt, and I’m done for!"
 msgstr "只要一个走运的兽人步兵再打到我一下，我就完了！"
 
 #. [event]
-msgid "female^Ouch! I could make use of some healing in a village."
-msgstr "啊！我得去村庄治疗。"
+msgid "female^I could make use of some healing in a village."
+msgstr "我现在需要在村庄里接受一些治疗。"
 
 #. [event]
 msgid ""
@@ -1194,7 +1195,7 @@ msgstr ""
 "干得好！岛上的村庄是我们的了。你可以靠树林组成针对兽人的封锁；他们若不淌水，"
 "那只能挨个过桥，而你则会处于能够良好防御的地形之上，十分安全。"
 
-#. [event]
+#. [then]
 msgid ""
 "Don’t forget about that last village near the channel. The orcs will capture "
 "it if they try to sneak around via the ford! It will be hard to dislodge "
@@ -1511,18 +1512,15 @@ msgstr "啊！现在谁来教你击败这些兽人啊！"
 
 #. [message]: speaker=Galdrad
 msgid ""
-"You have beaten the orcs! You may want to try some novice-level campaigns "
-"next, such as: <i>The South Guard</i>, <i>An Orcish Incursion</i>, <i>A Tale "
-"of Two Brothers</i>, or <i>Heir to the Throne</i>. <i>The South Guard</i> "
-"was specifically designed as a beginner’s campaign. Konrad, Li’sar and "
-"Delfador are characters from <i>Heir to the Throne</i>. You can also refer "
-"to the in-game help browser if you ever need to refresh your memory on "
-"gameplay mechanics."
+"You have beaten the orcs! You may want to try one of the novice-level "
+"campaigns next, such as <i>A Tale of Two Brothers</i>, <i>An Orcish "
+"Incursion</i>, or <i>The South Guard</i>. Konrad, Li’sar and Delfador are "
+"characters from <i>Heir to the Throne</i>. You can also refer to the in-game "
+"help browser if you ever need to refresh your memory on gameplay mechanics."
 msgstr ""
-"你击败了兽人！接下来你可能会想试试看新手级别的战役，例如：<b>南疆卫队</b>、"
-"<b>兽人入侵</b>、<b>兄弟传说</b>或者<b>王座继承人</b>。<b>南疆哨所</b>是为初"
-"心者特别设计的战役。而科纳德、莉莎和德法多则是<b>王座继承人</b>中的人物。如果"
-"你需要刷新有关游戏玩法的记忆，那也可以参见游戏中的帮助浏览器。"
+"你击败了兽人！接下来你可能会想试试看新手级别的战役，例如：<b>兄弟传说</b>、"
+"<b>兽人入侵</b>或者<b>南疆卫队</b>。科纳德、莉莎和德法多是<b>王座继承人</b>中"
+"的角色。如果你需要回忆游戏玩法，那也可以参见游戏中的帮助浏览器。"
 
 #. [unit_type]: id=Fighter, race=human
 msgid "Fighter"

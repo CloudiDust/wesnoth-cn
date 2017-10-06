@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-06-24 19:03+0800\n"
+"POT-Creation-Date: 2017-09-21 20:27 UTC\n"
+"PO-Revision-Date: 2017-10-06 10:53+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "Delfador’s Memoirs"
@@ -259,19 +259,19 @@ msgstr "此谷归我"
 msgid "Grogor-Tuk"
 msgstr "格罗高-图克"
 
-#. [side]: type=Goblin Pillager, id=Grogor-Tuk
+#. [side]: type=Orcish Warrior, id=Urthaka-Tan
+#. [side]: type=Orcish Slayer, id=Hagha-Tan
 #. [side]: type=Orcish Warrior, id=Tan-Garthak
 #. [side]: type=Orcish Warlord, id=Tish Golub
-#. [side]: type=Orcish Warlord, id=Knafa-ord
-#. [side]: type=Orcish Warlord, id=Tan-drul
-#. [side]: type=Orcish Warlord, id=Krardul
 #. [side]: type=Orcish Sovereign, id=Zorlan
 #. [side]: type=Orcish Warrior, id=T'bhan
 #. [side]: type=Orcish Warrior, id=Qgthun
 #. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
+#. [side]: type=Goblin Pillager, id=Grogor-Tuk
 #. [side]: type=Orcish Warlord, id=Upgar
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Orcish Slayer, id=Hagha-Tan
+#. [side]: type=Orcish Warlord, id=Knafa-ord
+#. [side]: type=Orcish Warlord, id=Tan-drul
+#. [side]: type=Orcish Warlord, id=Krardul
 msgid "Pillagers"
 msgstr "劫掠者"
 
@@ -344,7 +344,7 @@ msgid "Death of Delfador"
 msgstr "德法多阵亡"
 
 #. [message]: speaker=unit
-msgid "Grooar! Burn! Burn! Ahahaha..."
+msgid "Grooar! Pillage! Pillage! Ahahaha..."
 msgstr "嘎啊啊！烧啊！烧啊！啊哈哈哈……"
 
 #. [message]: id=Delfador
@@ -481,9 +481,9 @@ msgstr ""
 "也许让我们的一些同伴跟你一起去维尔帝比较好。这些地方对孤独的旅行者来说不安"
 "全，而且我们也许能发现是什么把兽人招来这么南的地方的。"
 
-#. [unit]: type=Arch Mage, id=Leollyn
 #. [side]: type=Arch Mage, id=Leollyn
 #. [scenario]: id=04_Leollyn
+#. [unit]: type=Arch Mage, id=Leollyn
 msgid "Leollyn"
 msgstr "利欧林"
 
@@ -491,17 +491,17 @@ msgstr "利欧林"
 msgid "Hagha-Tan"
 msgstr "哈格哈-坦"
 
+#. [side]: type=Arch Mage, id=Leollyn
 #. [side]: type=Journeyman Mage
 #. [side]: type=King of Wesnoth, id=Garard
-#. [modify_side]
 #. [side]: type=King of Wesnoth, id=Garard II
 #. [side]: type=Mage Commander
+#. [side]: type=Lieutenant, id=Niktor
+#. [modify_side]
+#. [side]
 #. [side]: type=General, id=Eldred
 #. [side]: type=General, id=Lowel
-#. [side]: type=Lieutenant, id=Niktor
-#. [side]
-#. [side]: type=General, id=Pilafman
-#. [side]: type=Arch Mage, id=Leollyn
+#. [side]: type=General, id=Rhuwin
 msgid "Loyalists"
 msgstr "保王党人"
 
@@ -659,7 +659,7 @@ msgstr ""
 #. [message]: speaker=Garard
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
-msgstr "好，会议所有人都到齐了。莱昂内尔，汇报一下北方边境的情报。"
+msgstr "好，会议所有人都到齐了。莱昂内尔，北方的情况如何？"
 
 # 参考 http://forums.wesnoth.org/viewtopic.php?f=7&t=30298&p=441243#p441243
 #. [message]: speaker=Lionel
@@ -876,20 +876,20 @@ msgstr "这箱子里装着那恶棍所有从上当的路人手上抢来的钱！
 msgid "Night in the Swamp"
 msgstr "沼泽之夜"
 
+#. [side]: type=Death Knight, id=Arakar
+#. [side]: type=Necromancer, id=Iliah-Malal
+#. [side]: type=Necromancer, id=Gruv-Malal
+#. [side]: type=Death Knight, id=Prepolur
+#. [side]: type=Dark Adept, id=Unuvim
+#. [side]
+#. [side]: type=Death Knight, id=Dirator
 #. [side]: type=Death Knight, id=Rudimil
 #. [side]: type=Necromancer, id=Roth-Malal
 #. [side]: type=Necromancer, id=Barth-Malal
-#. [side]: type=Necromancer, id=Gruv-Malal
-#. [side]: type=Lich, id=Sagus
-#. [side]: type=Necromancer, id=Iliah-Malal
-#. [side]: type=Death Knight, id=Dirator
-#. [side]: type=Death Knight, id=Arakar
-#. [side]: type=Death Knight, id=Prepolur
-#. [side]: type=Dark Adept, id=Unuvim
 #. [side]: type=Lich, id=Iliah-Malal
 #. [side]: type=Necromancer, id=Maldun
 #. [side]: type=Death Knight, id=Alderoth
-#. [side]
+#. [side]: type=Lich, id=Sagus
 msgid "Undead"
 msgstr "亡灵"
 
@@ -937,12 +937,12 @@ msgid "This’ll splinter your bones, you vile monstrosity!"
 msgstr "肮脏的怪物，粉身碎骨吧！"
 
 #. [message]: speaker=Delfador
-msgid "At least, morning is here... And the skeletons are disappearing!"
-msgstr "终于，天亮了……骷髅都消失了！"
+msgid "At last, morning is here... And the skeletons are disappearing!"
+msgstr "终于天亮了……骷髅开始消失了！"
 
 #. [message]: speaker=Delfador
 msgid "At last, morning is here!"
-msgstr "终于，天亮了！"
+msgstr "终于天亮了！"
 
 #. [message]: speaker=Lionel
 msgid ""
@@ -1229,8 +1229,8 @@ msgstr ""
 "你遇见了那些骷髅战士吗？他们的城堡在北边。虽然很难打过去，但是可以从西丹的村"
 "庄旁山谷里的密道过去。"
 
-#. [unit]: id=Nameless, type=Spectre
 #. [scenario]: id=09_Houses_of_the_Dead
+#. [unit]: id=Nameless, type=Spectre
 msgid "Nameless"
 msgstr "无名"
 
@@ -1389,7 +1389,7 @@ msgid ""
 "tested. AND I AM THE TEST!"
 msgstr ""
 "数不清多少年前，元古的预言。安-乌斯鲁哈尔大师——我只是他最微小的影子和碎片——在"
-"消逝时间之镜中预见到，有个活人会来这里接受考验。<b>然后我就是考验！</b>"
+"消逝时间之镜中预见到，有个活人会来这里接受考验。<b>而我就是考验！</b>"
 
 #. [message]: speaker=Delfador
 #. "coil" is an archaism. In the English of around 1600, it was
@@ -2192,8 +2192,8 @@ msgstr ""
 "大批兽人军队开始进攻精灵森林的边界，甚至林塔尼尔。卡雷兹很快召集了一队卫兵。"
 "精灵领地上的战争又回来了。"
 
-#. [side]: id=Delfador
 #. [part]
+#. [side]: id=Delfador
 msgid "Delfador"
 msgstr "德法多"
 
@@ -2212,10 +2212,6 @@ msgstr "克拉尔杜"
 #. [side]: type=Elvish Captain, id=Clartakis
 msgid "Clartakis"
 msgstr "克拉塔基斯"
-
-#. [objective]: condition=win
-msgid "Defeat all enemies"
-msgstr "打败所有敌人"
 
 #. [objective]: condition=lose
 msgid "Death of Kalenz"
@@ -2472,10 +2468,6 @@ msgstr "我希望这书不会毁了他。"
 #. [message]: id=Kalenz
 msgid "You speak my thought, granddaughter. May it be so."
 msgstr "你把我想说的说出来了，孙女。但愿如此吧。"
-
-#. [objective]: condition=win
-msgid "New Objective: Defeat all enemies"
-msgstr "新任务：打败所有敌人"
 
 #. [unit]: id=Krumful, type=Draug
 msgid "Krumful"
@@ -3435,15 +3427,16 @@ msgid ""
 "Remember one of our undead must strike the final blow, for Iliah-Malal’s un-"
 "life can only be ended by the touch of un-life."
 msgstr ""
-"记得我们的一个亡灵必须进行最后一击，伊利阿-玛拉尔的不死生命只能由不死族来完结"
+"记住，必须由我方的一名亡灵打出最后一击，伊利阿-玛拉尔的不死生命只能由不死生命"
+"来完结。"
 
 #. [message]: speaker=Delfador
 msgid ""
 "Remember that I must strike the final blow, for Iliah-Malal’s un-life must "
 "be ended by a spell I have specially crafted to the task."
 msgstr ""
-"记住我必须进行最后一击，伊利阿-玛拉尔的不死生命必须被符咒终结，我有这样的魔"
-"法。"
+"记住我必须进行最后一击，伊利阿-玛拉尔的不死生命必须被我专门为此创造的符咒终"
+"结。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -3542,8 +3535,8 @@ msgid ""
 "throne, claim it for Wesnoth and Queen Asheviere. Delfador does not rule in "
 "Wesnoth!"
 msgstr ""
-"这里不再是精灵的领地了。我，埃雷德，韦诺王子，王位继承人，以韦诺王国和艾什薇"
-"尔母后的名义宣布。德法多不在韦诺一手遮天了。"
+"这里不再是精灵的领地了。我，埃雷德，韦诺王子，王座继承人，以韦诺王国和艾什薇"
+"尔母后的名义占领此地。德法多并不是韦诺的统治者！"
 
 #. [message]: id=Kalenz
 msgid ""
@@ -3652,18 +3645,20 @@ msgid ""
 "Asheviere had flattered them and beguiled them with promises of glory and "
 "plunder in a coming war."
 msgstr ""
-"尽管国王没有为埃雷德的行为惩罚他，德法多还是能感到军队的指挥官坚定的支持埃雷"
-"德和他的母亲。艾什薇尔讨好他们，并允诺在将来战争中的荣耀和战利品来诱骗他们"
+"尽管国王确实因为埃雷德的行为而惩罚了他，德法多还是能感到军队的指挥们官坚定地"
+"支持着埃雷德和他的母亲。艾什薇尔讨好他们，并以将来战争中的荣耀和战利品来诱骗"
+"他们。"
 
 #. [part]
 msgid ""
 "Delfador was granted an audience with the King and expressed his concerns "
-"about the Book, but the King put off a decision until Asheviere returned to "
-"Weldyn, and ordered Delfador to take no further action. And for once, "
-"Delfador knew he could not obey the King’s order."
+"about the missing Book, but the King put off a decision until Asheviere "
+"returned to Weldyn, and ordered Delfador to take no further action. And for "
+"once, Delfador knew he could not obey the King’s order."
 msgstr ""
-"德法多被国王接见，表达了他对法书的担忧，但国王在艾什薇尔回到维尔帝前都没有做"
-"出决定，最后命令德法多不要再深究了。立刻，德法多知道他不能遵守国王的命令了。"
+"德法多被国王接见，他表达了自己对丢失的法书的担忧，但国王在艾什薇尔回到维尔帝"
+"后才会做出决定，并命令德法多不得继续行动。这一次，德法多知道他不能遵守国王的"
+"命令了。"
 
 #. [part]
 msgid ""
@@ -3674,17 +3669,25 @@ msgstr ""
 "因为他不能叫他的个人卫队去违背国王的意愿，他向卡雷兹和精灵求助。他们在夜晚行"
 "军掩人耳目，最后到达了艾什薇尔的家族领地。"
 
-#. [side]: type=General, id=Pilafman
-msgid "Pilafman"
-msgstr "肉饭男"
+#. [side]: type=General, id=Rhuwin
+msgid "Rhuwin"
+msgstr "鲁温"
 
 #. [objective]: condition=win
-msgid "Defeat Pilafman"
-msgstr "击败肉饭男"
+msgid "Kill all enemy units"
+msgstr "击杀所有地方单位"
 
 #. [objective]: condition=lose
-msgid "Enemy unit reaches the signpost"
+msgid "Enemy unit reaches a signpost"
 msgstr "敌方单位到达路标"
+
+#. [note]
+msgid "Enemy rider units will go for a signpost"
+msgstr "敌方骑乘单位会前往路标"
+
+#. [note]
+msgid "All enemy units will go for a signpost"
+msgstr "敌方所有单位都会前往路标"
 
 #. [message]: id=Delfador
 msgid ""
@@ -3706,7 +3709,7 @@ msgstr ""
 msgid "Make sure everybody hears the orders. Nobody must escape."
 msgstr "确保每个人都听到了命令。没有人能离开。"
 
-#. [message]: id=Pilafman
+#. [message]: id=Rhuwin
 msgid ""
 "Elves! And that traitor, Delfador is with them! Riders, quickly, go alert "
 "the queen. And guards, prepare to strike them down!"
@@ -3719,12 +3722,16 @@ msgid "The guards are slain. Now we must look for the book."
 msgstr "守卫被杀死了。现在我们要马上找到法书。"
 
 #. [objective]: condition=win
-msgid "New Objective: Find the secret door. Explore the manor."
-msgstr "新目标：找到密门。探索采邑。"
+msgid "Find the secret door to enter the manor"
+msgstr "找到密门，进入庄园。"
 
 #. [message]: id=$unit.id
 msgid "This looks like a secret door. Let’s see where it leads..."
 msgstr "这里好像有扇密门。让我看看它通向哪里……"
+
+#. [message]: speaker=Rhuwin
+msgid "Everyone, quickly, go alert the queen!"
+msgstr "所有人，快点儿，去警告王后！"
 
 #. [message]: id=Delfador
 msgid "Reinforcements on the horizon. We are too late!"
@@ -3741,8 +3748,8 @@ msgid ""
 msgstr "德法多和精灵进入了密门，尽头是地牢，一个名副其实的回廊迷宫。"
 
 #. [objective]: condition=win
-msgid "Defeat Sagus"
-msgstr "击败萨乌斯"
+msgid "Find the Book"
+msgstr "找到法书"
 
 #. [message]: speaker=Chantal
 msgid "There is no doubt the book is here; I can feel its presence."
@@ -3813,6 +3820,10 @@ msgstr ""
 #. [message]: speaker=Kalenz
 msgid "Prepare to fight! Block the chokepoints and hold them there!"
 msgstr "准备战斗！"
+
+#. [objective]: condition=win
+msgid "Defeat Sagus"
+msgstr "击败萨乌斯"
 
 #. [message]: speaker=Delfador
 msgid ""

@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
+"POT-Creation-Date: 2017-09-21 20:27 UTC\n"
 "PO-Revision-Date: 2017-06-24 19:03+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -166,11 +166,11 @@ msgid "Defenders"
 msgstr "守卫者"
 
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
+#. [side]: type=Orcish Warlord, id=Gron'r Hronk
+#. [side]: type=Orcish Warlord, id=K'rrlar Oban
 #. [side]: type=Orcish Warlord, id=Borth
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warlord, id=K'Vark
-#. [side]: type=Orcish Warlord, id=Gron'r Hronk
-#. [side]: type=Orcish Warlord, id=K'rrlar Oban
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1268,9 +1268,9 @@ msgstr "这里是入口！快！"
 msgid "A Small Favor — Part 2"
 msgstr "小小请求 — 第二部分"
 
-#. [event]
 #. [side]
 #. [command]
+#. [event]
 msgid "Guard"
 msgstr "守卫"
 

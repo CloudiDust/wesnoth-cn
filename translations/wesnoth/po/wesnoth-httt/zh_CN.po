@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-23 23:08+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 10:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Heir to the Throne"
@@ -106,19 +106,19 @@ msgstr "科纳德阵亡"
 msgid "Death of Delfador"
 msgstr "德法多阵亡"
 
-#. [side]: type=Commander, id=Konrad
 #. [side]: type=Fighter, id=Konrad
+#. [side]: type=Commander, id=Konrad
 msgid "Konrad"
 msgstr "科纳德"
 
-#. [side]: type=Commander, id=Konrad
-#. [side]: type=Grand Knight, id=Kaylan
 #. [side]: type=Fighter, id=Konrad
 #. [side]: type=Elvish Champion, id=Galdrad
 #. [side]: type=Elvish Shyde, id=Chantal
+#. [side]: type=Commander, id=Konrad
+#. [side]: type=Grand Knight, id=Kaylan
+#. [side]: id=Relgorn, type=Dwarvish Lord
 #. [side]: type=Ancient Wose, id=Haralamdum
 #. [side]: type=Elvish Sylph, id=Bona-Melodia
-#. [side]: id=Relgorn, type=Dwarvish Lord
 #. [side]: id=Geldar, type=Dwarvish Lord
 #. [side]
 msgid "Rebels"
@@ -128,26 +128,26 @@ msgstr "反抗军"
 msgid "Urug-Telfar"
 msgstr "乌鲁戈-特尔法"
 
-#. [side]: type=Orcish Warrior, id=Mokolo Qimur
-#. [side]: type=Orcish Warrior, id=Usadar Q'kai
-#. [side]: type=Orcish Warlord, id=Gaga-Breuk
-#. [side]: type=Orcish Warlord, id=Kior-Dal
-#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
-#. [side]: type=Orcish Warlord, id=Urug-Tan
-#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
+#. [side]: type=Orcish Warrior, id=Mokolo Qimur
+#. [side]: type=Orcish Warrior, id=Usadar Q'kai
 #. [side]: type=Orcish Warlord, id=Kojun Herolm
 #. [side]: type=Orcish Warrior, id=Mokho Kimer
-#. [side]: type=Orcish Warrior, id=Dwaba-Kukai
-#. [side]: type=Orcish Warrior, id=Managa'Gwin
-#. [side]: type=Orcish Warlord, id=Urag-Tifer
+#. [side]: type=Orcish Warlord, id=Gaga-Breuk
 #. [side]: type=Orcish Warrior, id=Halgar Du'nar
 #. [side]: type=Orcish Warrior, id=Gorlak
+#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
+#. [side]: type=Orcish Warlord, id=Urug-Tan
+#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
 #. [side]: type=Goblin Rouser
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
+#. [side]: type=Orcish Warlord, id=Urag-Tifer
+#. [side]: type=Orcish Warlord, id=Kior-Dal
+#. [side]: type=Orcish Warrior, id=Dwaba-Kukai
+#. [side]: type=Orcish Warrior, id=Managa'Gwin
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1006,11 +1006,9 @@ msgstr "好吧。但我该怎么去？"
 
 #. [message]: speaker=Delfador
 msgid ""
-"It is north-west of here, a few leagues inland. There are two ways to go, by "
-"ship or on foot. Each has its own dangers. You must choose between them."
-msgstr ""
-"它在西北方向，内陆地区，离海边大概有几里格那么远。有两条路可以选，坐船或者步"
-"行，各有各的危险。你必须选择一条才行。"
+"There are two ways to go, by ship or on foot. Each has its own dangers. You "
+"must choose between them."
+msgstr "有两条路可以选，坐船或者步行，各有各的危险。你必须选择一条才行。"
 
 #. [option]
 msgid "Ships? Ugh! I have been seasick for the last time. We shall walk!"
@@ -1117,18 +1115,18 @@ msgstr "击败玛夫·玛拉尔"
 msgid "Muff Malal"
 msgstr "玛夫·玛拉尔"
 
+#. [side]: type=Dark Sorcerer, id=Muff Malal
 #. [side]: type=Lich, id=Galga
 #. [side]: type=Lich, id=Na-alga
 #. [side]: type=Lich, id=Selda-Mana
-#. [side]: type=Dark Sorcerer, id=Muff Malal
-#. [side]: id=Haf-Mal, type=Lich
-#. [side]: id=Jarmal-Gorg, type=Lich
 #. [side]: type=Death Knight, id=Clarustus
 #. [side]: type=Death Knight, id=Merlunius
 #. [side]: type=Lich, id=Aimucasur
 #. [side]: type=Death Knight, id=Secadius
 #. [side]: type=Death Knight, id=Dafeis
 #. [side]: type=Ancient Lich, id=Muff Argulak
+#. [side]: id=Haf-Mal, type=Lich
+#. [side]: id=Jarmal-Gorg, type=Lich
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1394,11 +1392,11 @@ msgstr "埃仁撒伐"
 msgid "Agadla"
 msgstr "阿伽德拉"
 
+#. [side]: type=Troll Warrior, id=Haaf-Garga
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Death Knight, id=Unan-Ka'tall
 #. [side]: type=Orcish Warlord, id=Agadla
 #. [side]: type=Dark Sorcerer, id=Muff Jaanal
-#. [side]: type=Troll Warrior, id=Haaf-Garga
 #. [side]: id=Brugg, type=Troll Warrior
 #. [side]: id=Lionel, type=Death Knight
 msgid "Evil"
@@ -1849,8 +1847,8 @@ msgid "Li’sar"
 msgstr "莉莎"
 
 #. [side]: type=Princess, id=Li'sar
-#. [side]: type=General, id=Honber
 #. [side]: type=General, id=Robryn
+#. [side]: type=General, id=Honber
 #. [side]: type=General, id=Josephus
 #. [side]: type=Orcish Warlord, id=Dwar-Ni
 #. [side]: type=General, id=Malatus
@@ -6095,9 +6093,17 @@ msgstr "急行军！更大的挑战挡在我们面前！在此耽搁，只会无
 msgid "Test of the Clan"
 msgstr "氏族的考验"
 
-#. [objective]: condition=win
-msgid "Defeat $units_to_slay enemy units"
-msgstr "击败$units_to_slay|个敌方单位"
+#. [lua]: wesnoth.wml_actions.show_countdown
+msgid "Defeat one more enemy unit"
+msgid_plural "Defeat $units_to_slay enemy units"
+msgstr[0] "再击败一个敌方单位"
+msgstr[1] "再击败$units_to_slay|个敌方单位"
+
+#. [lua]: wesnoth.wml_actions.show_countdown
+msgid "Still $units_to_slay clan member to defeat!"
+msgid_plural "Still $units_to_slay clan members to defeat!"
+msgstr[0] "还需要打败$units_to_slay|个氏族成员！"
+msgstr[1] "还需要打败$units_to_slay|个氏族成员！"
 
 #. [objective]: condition=win
 msgid "Defeat enemy leaders"
@@ -6110,23 +6116,23 @@ msgstr "击败所有敌方首领"
 msgid "Plainsmen"
 msgstr "平原居民"
 
-#. [side]: type=Grand Knight, id=Sir Alric
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Alric
 msgid "Sir Alric"
 msgstr "埃里克爵士"
 
-#. [side]: type=Grand Knight, id=Sir Ruga
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Ruga
 msgid "Sir Ruga"
 msgstr "鲁加爵士"
 
-#. [side]: type=Grand Knight, id=Sir Daryn
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Daryn
 msgid "Sir Daryn"
 msgstr "达林爵士"
 
-#. [side]: type=Grand Knight, id=Bayar
 #. [then]
+#. [side]: type=Grand Knight, id=Bayar
 msgid "Lord Bayar"
 msgstr "巴亚尔领主"
 
@@ -6322,10 +6328,6 @@ msgid ""
 msgstr ""
 "我们击溃了他们的部队！让我们看看氏族是不是已经受够了。他们若能守卫我们的侧"
 "翼，那将是无价的协助。"
-
-#. [print]
-msgid "Still $units_to_slay clan members to defeat!"
-msgstr "还需要打败$units_to_slay|个氏族成员！"
 
 #. [scenario]: id=24_Battle_for_Wesnoth
 msgid "The Battle for Wesnoth"
@@ -6931,11 +6933,11 @@ msgstr ""
 "$unit.name|花了好大的力气才举起了沉重的战甲，并穿在了身上。可一旦穿上之后，它"
 "却变得惊人地舒适。她感到自己对所有物理伤害的抗性都提高了！"
 
-#. [value]: id=void_armor
+#. [trait]: id=void_armor
 msgid "void armor"
 msgstr "虚空战甲"
 
-#. [value]: id=void_armor
+#. [trait]: id=void_armor
 msgid ""
 "The Void Armor grants the following resistances:\n"
 "blade:  50%\n"

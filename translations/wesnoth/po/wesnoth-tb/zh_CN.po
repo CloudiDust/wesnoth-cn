@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-23 22:53+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 11:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=Two_Brothers
 msgid "A Tale of Two Brothers"
@@ -80,7 +80,7 @@ msgstr "其他"
 
 #. [entry]
 msgid "And special thanks to everyone else who I forgot to mention."
-msgstr "也特别感谢我没有提到的其他人"
+msgstr "也特别感谢我没有提到的其他人。"
 
 #. [scenario]: id=01_Rooting_Out_a_Mage
 msgid "Rooting Out a Mage"
@@ -178,10 +178,10 @@ msgstr ""
 msgid "Humans"
 msgstr "人类"
 
-#. [side]: type=Orcish Warlord, id=Tairach
-#. [side]: type=Dark Sorcerer, id=Mordak
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #. [side]
+#. [side]: type=Orcish Warlord, id=Tairach
+#. [side]: type=Dark Sorcerer, id=Mordak
 msgid "Enemies"
 msgstr "敌人"
 
@@ -233,6 +233,12 @@ msgstr "杀死邪恶法师魔达克"
 msgid "Death of Arvith"
 msgstr "阿维斯阵亡"
 
+#. [note]
+msgid ""
+"Undead units have a variety of resistances. Keep this in mind when forming "
+"your strategy and choosing recruits."
+msgstr "亡灵单位拥有各种抗性。制定策略及选择要征募的单位时，请将此铭记于心。"
+
 #. [message]: speaker=Baran
 msgid "Greetings, brother, and welcome home."
 msgstr "你好，哥哥，欢迎回家。"
@@ -254,11 +260,11 @@ msgid ""
 "A dark mage has come upon us; his creatures call him Mordak. They have been "
 "terrorizing outlying farms, and we fear they may soon attack the village "
 "itself! The villagers of Maghre have taken up weapons but they are not "
-"trained fighters; but we need your men, and you to lead them."
+"trained fighters; we need your men, and you to lead them."
 msgstr ""
 "一名黑暗法师来到我们这里；他的召唤生物称他为魔达克。他们在外围农场散布恐慌，"
 "我们担心他们很快就会进攻村庄！玛格雷的村民们已经拿起了武器，但他们不是训练有"
-"素的战士；但我们需要你的手下，还有你来领导他们。"
+"素的战士；但我们需要你的手下帮助，还需要你来领导他们。"
 
 #. [message]: speaker=Baran
 msgid ""
@@ -286,7 +292,7 @@ msgstr ""
 
 #. [message]: speaker=Arvith
 msgid "... Aye. Just make sure you’re there when we need you."
-msgstr "……同意。只要保证我们需要你的时候你会出现就行。"
+msgstr "……好的。只要保证我们需要你的时候你会出现就行。"
 
 #. [message]: speaker=Arvith
 msgid ""

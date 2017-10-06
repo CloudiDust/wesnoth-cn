@@ -14,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-28 12:51+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 11:46+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [scenario]: id=22_The_Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -190,9 +190,9 @@ msgid "For this is the story of Haldric the First and the Rise of Wesnoth..."
 msgstr "这就是哈德里克一世和韦诺崛起的故事……"
 
 #. [side]: type=Noble Youth, type=Noble Fighter, id=Prince Haldric
+#. [side]: type=Noble Fighter, id=Prince Haldric
 #. [side]: type=Noble Commander, id=Prince Haldric
 #. [side]: id=Prince Haldric, type=Noble Commander
-#. [side]: type=Noble Fighter, id=Prince Haldric
 msgid "Prince Haldric"
 msgstr "哈德里克王子"
 
@@ -395,29 +395,29 @@ msgstr "风暴谷"
 msgid "Tan-Rarbag"
 msgstr "坦-拉贝格"
 
-#. [side]: type=Orcish Warlord, id=Tan-Vrodis
-#. [side]: type=Orcish Warlord, id=Tan-Bok
-#. [side]: type=Orcish Warlord, id=Tan-Hogar
-#. [side]: type=Orcish Warlord, id=Tan-Gralg
-#. [side]: type=Orcish Warlord, id=Tan-Rugar
-#. [side]: type=Orcish Warlord, id=Tan-Vragar
-#. [side]: type=Orcish Warlord, id=Tan-Burg
-#. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
-#. [side]: type=Orcish Warlord, id=Tan-Harak
-#. [side]: type=Orcish Warlord, id=Tan-Hork
-#. [side]: type=Orcish Warlord, id=Tan-Gulo
-#. [side]: type=Draug, id=General Heravan
-#. [side]: type=Orcish Warlord, id=Tan-Halg
-#. [side]: type=Orcish Warlord, id=Tan-Rinak
 #. [side]: type=Orcish Warlord, id=Tan-Rarbag
 #. [side]: type=Orcish Warrior, id=Tan-Erang
 #. [side]: type=Orcish Warlord, id=Tan-Schmog
 #. [side]: type=Orcish Warlord, id=Tan-NauVong
+#. [side]: type=Orcish Warlord, id=Tan-Vrodis
+#. [side]: type=Orcish Warlord, id=Tan-Bok
+#. [side]: type=Orcish Warlord, id=Tan-Hogar
+#. [side]: type=Orcish Warlord, id=Tan-Vragar
+#. [side]: type=Orcish Warlord, id=Tan-Burg
+#. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
 #. [side]: type=Orcish Warlord, id=Tan-Pulk
+#. [side]: type=Orcish Warlord, id=Tan-Harak
+#. [side]: type=Orcish Warlord, id=Tan-Hork
+#. [side]: type=Orcish Warlord, id=Tan-Gulo
 #. [side]: type=Orcish Warlord, id=Tan-Erirt
 #. [side]: type=Orcish Warlord, id=Tan-Gagar
 #. [side]: type=Troll Warrior, id=Thruf
+#. [side]: type=Orcish Warlord, id=Tan-Gralg
+#. [side]: type=Orcish Warlord, id=Tan-Rugar
+#. [side]: type=Draug, id=General Heravan
+#. [side]: type=Orcish Warlord, id=Tan-Halg
+#. [side]: type=Orcish Warlord, id=Tan-Rinak
 msgid "Orcs"
 msgstr "兽人"
 
@@ -585,8 +585,8 @@ msgid "A Harrowing Escape"
 msgstr "悲伤撤离"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
 #. [side]: id=Prince Haldric, type=Noble Commander
+#. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
 msgid "Refugees"
 msgstr "难民"
 
@@ -1430,10 +1430,10 @@ msgstr "地底神庙"
 msgid "Lich-Lord Lenvan"
 msgstr "巫妖王蓝温"
 
+#. [side]: type=Lich, id=Lich-Lord Lenvan
+#. [side]: type=Lich, id=Lich-Lord Caror
 #. [side]: type=Spectre, id=Isorfilad
 #. [side]: type=Spectre, id=Tinoldor
-#. [side]: type=Lich, id=Lich-Lord Caror
-#. [side]: type=Lich, id=Lich-Lord Lenvan
 msgid "Undead"
 msgstr "不死族"
 
@@ -1772,8 +1772,8 @@ msgid "Clearwater Port"
 msgstr "清水港"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: type=Grand Knight, id=King Addroran IX
 #. [side]: type=Lieutenant, id=Commander Aethyr
+#. [side]: type=Grand Knight, id=King Addroran IX
 #. [side]: id=Prince Haldric, type=Noble Commander
 msgid "Humans"
 msgstr "人类"
@@ -2818,11 +2818,11 @@ msgstr "王储已经死了。不过我们再次需要你们的帮助——"
 msgid "Under the same terms?"
 msgstr "条件不变？"
 
-#. [message]: speaker=Lord El’Isomithir
-#. [message]: speaker=Lord Logalmier
 #. [message]: speaker=Lady Jessene
 #. [message]: speaker=Lady Dionli
 #. [message]: speaker=Lord Aryad
+#. [message]: speaker=Lord El’Isomithir
+#. [message]: speaker=Lord Logalmier
 msgid "Agreed."
 msgstr "同意。"
 
@@ -3369,8 +3369,8 @@ msgstr ""
 msgid "I bet this wasn’t the welcome you were expecting."
 msgstr "我打赌这不是你所希望的欢迎。"
 
-#. [side]: type=Autumn Shyde, id=Lady Dionli
 #. [event]
+#. [side]: type=Autumn Shyde, id=Lady Dionli
 msgid "Lady Dionli"
 msgstr "迪翁莉女领主"
 

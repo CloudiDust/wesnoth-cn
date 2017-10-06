@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:46 UTC\n"
-"PO-Revision-Date: 2017-05-23 23:07+0800\n"
+"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"PO-Revision-Date: 2017-10-06 11:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "LoW"
@@ -330,18 +330,18 @@ msgstr "特巴兰"
 #. [side]: type=Orcish Warlord, id=Urug-Tar
 #. [side]: type=Orcish Warlord, id=Graur-Tan
 #. [side]: type=Troll Warrior, id=Traur
+#. [side]: type=Saurian Flanker, id=Huurgh
+#. [side]: type=Saurian Oracle, id=Shhar
 #. [side]: type=Troll Warrior, id=Tafrul
 #. [side]: type=Arch Mage, id=Aquagar
 #. [side]: type=Troll Warrior, id=Trigrul
-#. [side]: type=Saurian Flanker, id=Huurgh
-#. [side]: type=Saurian Oracle, id=Shhar
 #. [side]: type=Orcish Warlord, id=Kior-Pur
 #. [side]: type=Orcish Warlord, id=Mbiran
 #. [side]: type=Orcish Warlord, id=Tan-Durr
-#. [side]: type=Saurian Flanker, id=Spahr
-#. [side]: type=Saurian Flanker, id=Hgyr
 #. [side]: type=Elvish Marshal, id=Crintil
 #. [side]: type=Elvish Captain, id=Oblil
+#. [side]: type=Saurian Flanker, id=Spahr
+#. [side]: type=Saurian Flanker, id=Hgyr
 msgid "Enemies"
 msgstr "敌人"
 
@@ -1697,8 +1697,8 @@ msgstr "胡尔哥"
 msgid "Shhar"
 msgstr "沙哈"
 
-#. [side]: type=Gryphon, id=Gryphon Leader
 #. [side]
+#. [side]: type=Gryphon, id=Gryphon Leader
 msgid "Creatures"
 msgstr "怪物"
 
@@ -1957,8 +1957,8 @@ msgstr "精灵和矮人加快脚步，奔向那股浓烟……"
 msgid "Aquagar"
 msgstr "阿库阿伽"
 
-#. [side]: type=Elder Mage, id=Crelanu
 #. [part]
+#. [side]: type=Elder Mage, id=Crelanu
 msgid "Crelanu"
 msgstr "克雷拉努"
 

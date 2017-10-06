@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-05-13 22:47 UTC\n"
-"PO-Revision-Date: 2017-05-28 11:03+0800\n"
+"POT-Creation-Date: 2017-09-21 20:27 UTC\n"
+"PO-Revision-Date: 2017-10-06 14:02+0800\n"
 "Last-Translator: Brian lee <haiyuan.2007@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -43,6 +43,9 @@ msgstr "开发用AI：默认 + 使毒（公式AI）"
 #. [ai]: id=idle_ai
 msgid "Multiplayer_AI^Dev AI: Idle AI"
 msgstr "开发用AI：空闲AI"
+
+msgid "Use the Patrols Micro AI instead of patrol.lua."
+msgstr ""
 
 #. [test]: id=The_Elves_Besieged
 msgid "The Elves Besieged"
@@ -300,9 +303,9 @@ msgstr "幼兽"
 
 #. [set_menu_item]: id=m01_end_animals
 #. [event]
+#. [set_menu_item]: id=m04_end_animals
 #. [set_menu_item]: id=m01_end_swarm
 #. [set_menu_item]: id=m01_end_wolves
-#. [set_menu_item]: id=m04_end_animals
 msgid "End Scenario"
 msgstr "结束场景"
 
@@ -568,8 +571,8 @@ msgid ""
 "or for your own tests."
 msgstr ""
 
-#. [event]
 #. [test]: id=goto
+#. [event]
 msgid "Goto"
 msgstr "Goto"
 
@@ -613,8 +616,8 @@ msgstr "Aethubry中士"
 msgid "Place Side 1 Footpad"
 msgstr "放置阵营1走卒"
 
-#. [set_menu_item]: id=m05_kill_unit
 #. [set_menu_item]: id=m02_kill_unit
+#. [set_menu_item]: id=m05_kill_unit
 msgid "Kill Unit under Cursor"
 msgstr "在光标下杀死单位"
 
@@ -817,8 +820,8 @@ msgstr "我们一起把它逼到角落，让我们一起再次回来。"
 msgid "We're back together, let's head out to the corners again."
 msgstr "我们一起回来，让我们再次驶向角落。"
 
-#. [event]
 #. [test]: id=guardians
+#. [event]
 msgid "Guardians"
 msgstr "卫兵们"
 
