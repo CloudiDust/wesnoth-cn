@@ -363,8 +363,8 @@ msgstr ""
 "它单位替代。为了结束这个场景，有个右击选项-但仅仅在人类控制的模式下生效。在AI"
 "控制模式，你必须按下‘esc’键或重新载入上一个存档。\n"
 "\n"
-"注意：动物AIs 被编辑为 微观 AIs。 一个微观 AI 可以被增加和修改来适应场景的需"
-"求。很容易的使用WML和 [micro_ai]标签。查看 <span color='#00A000'>微观 AI "
+"注意：动物AI被编辑为微AI。 微AI可以被增加和修改来适应场景的需"
+"求。很容易的使用WML和 [micro_ai]标签。查看 <span color='#00A000'>微AI "
 "wiki 页面</span>http://wiki.wesnoth.org/Micro_AIs 获取更多信息。"
 
 #. [option]
@@ -397,8 +397,8 @@ msgid ""
 "Translation: Those Ogres are mean!  We better stay away from them and their "
 "young."
 msgstr ""
-"Yowl!\n"
-"Translation:这些食人魔是小气鬼！我们最好离他们和他们的幼崽远些。"
+"吆嗷！\n"
+"翻譯：这些食人魔是小气鬼！我们最好离他们和他们的幼崽远些。"
 
 #. [test]: id=bottleneck_defense
 msgid "Bottleneck Defense"
@@ -414,7 +414,7 @@ msgstr "好了，家伙们。这些兽人需要停下来。"
 
 #. [event]
 msgid "They there!  We them get!"
-msgstr "它们在那儿，捉住它们！"
+msgstr "它们那儿，我们它们捉！"
 
 #. [event]
 msgid ""
@@ -432,7 +432,7 @@ msgstr ""
 "疗伤。如果我们足够小心，我们可能甚至赢得这场战役。当我招募完毕后，我会尽快加"
 "入你来参与战斗。\n"
 "\n"
-"注意：瓶颈防御 AI 以微观AI来编译。微观AI可以添加和修改来适应场景的需要，很容"
+"注意：瓶颈防御 AI 以微AI来编译。微AI可以添加和修改来适应场景的需要，很容"
 "易使用WML和 [micro_ai] 标签。查看<span color='#00A000'>Micro AI wiki 页面</"
 "span> http://wiki.wesnoth.org/Micro_AIs获取更多信息"
 
@@ -444,11 +444,11 @@ msgid ""
 "that?"
 msgstr ""
 "这个场景中，AI 扮演在东方的人类，他们将组成一道防线尽可能长的拖住兽人。你想扮"
-"演兽人一边或让默认的（RCA)AI来扮演？"
+"演兽人一边或让默认的（RCA）AI来扮演？"
 
 #. [option]
 msgid "<span font='16'>I'll watch the two AIs fight it out.</span>"
-msgstr "<span font='16'>我将来观看两边AIs谁将胜出。</span>"
+msgstr "<span font='16'>我将来观看两边AI谁将胜出。</span>"
 
 #. [option]
 msgid "<span font='16'>I'll play the orcs.</span>"
