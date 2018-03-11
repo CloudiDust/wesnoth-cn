@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 23:27+0300\n"
+"POT-Creation-Date: 2018-02-12 20:01+0300\n"
 "PO-Revision-Date: 2017-10-06 10:56+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -180,10 +180,12 @@ msgid "Starting Tool"
 msgstr "起始工具"
 
 #. [topic]: id=editor_tool_starting
+#, fuzzy
 msgid ""
 "Defines the side leader starting position\n"
 "\n"
-"This tool gives only limited control over the start locations of certain."
+"This tool sets the side leaders' default starting locations, and named "
+"special locations."
 msgstr ""
 "定义阵营首领的起始位置\n"
 "\n"
@@ -1957,35 +1959,35 @@ msgstr ""
 "间，而前半夜和后半夜则算作夜间：\n"
 "\n"
 
-#. [topic]: id=time_of_day
 #. [time]: id=dawn
 #. [time]: id=dawn_hour
+#. [topic]: id=time_of_day
 msgid "Dawn"
 msgstr "黎明"
 
-#. [topic]: id=time_of_day
 #. [time]: id=morning
+#. [topic]: id=time_of_day
 msgid "Morning"
 msgstr "上午"
 
-#. [topic]: id=time_of_day
 #. [time]: id=afternoon
+#. [topic]: id=time_of_day
 msgid "Afternoon"
 msgstr "下午"
 
-#. [topic]: id=time_of_day
 #. [time]: id=dusk
 #. [time]: id=dusk_hour
+#. [topic]: id=time_of_day
 msgid "Dusk"
 msgstr "黄昏"
 
-#. [topic]: id=time_of_day
 #. [time]: id=first_watch
+#. [topic]: id=time_of_day
 msgid "First Watch"
 msgstr "前半夜"
 
-#. [topic]: id=time_of_day
 #. [time]: id=second_watch
+#. [topic]: id=time_of_day
 msgid "Second Watch"
 msgstr "后半夜"
 
@@ -2358,11 +2360,12 @@ msgstr ""
 "\n"
 
 #. [topic]: id=..terrains_section
+#, fuzzy
 msgid ""
 "\n"
 "\n"
 "You can see what basic types a mixed terrain is comprised of by mousing over "
-"its hex and checking the terrain type icons displayed in the upper right, "
+"its hex and checking the terrain type icons displayed in the upper right "
 "(under the default theme)."
 msgstr ""
 "\n"
@@ -2718,11 +2721,12 @@ msgstr ""
 
 # can someone explain this to me in other words? i have not seen this in real multiplayer yet
 #. [topic]: id=general_commands
+#, fuzzy
 msgid ""
 "\n"
 "Set or toggle player on side between human and AI player. The player/client "
 "who controls that side needs to issue this command. If no second parameter "
-"is supplied, toggle bewteen human and AI. If it is ‘on’, set an AI "
+"is supplied, toggle between human and AI. If it is ‘on’, set an AI "
 "controller. If it is ‘off’ set a human controller. Defaults to the currently "
 "active side if no parameter is supplied.\n"
 "\n"
@@ -4176,6 +4180,20 @@ msgstr ""
 "拥有<bold>text='年迈'</bold>特质的单位，其生命值减少8点，移动点数和近战伤害均"
 "减少1点。"
 
+msgid ""
+"Despite orcs' reliance on raw strength, few of their children are destined "
+"to grow to possess any. Goblins are, despite their appearance, born as "
+"siblings to the orcs and members of the same race. While other races usually "
+"bear children singly or in pairs, orcs will have large litters of children "
+"all at once, causing their populations to explode. Within any litter, there "
+"will be only one or two who grow to the strength of a \"true orc\", a few "
+"who are born slightly smaller and weaker, and the rest, often a full half of "
+"any litter, are much weaker and destined to be goblins. Almost as newborns "
+"the class system of orcish society is visible, with the weak put in their "
+"place by their stronger siblings. The stronger ones will routinely grab most "
+"of the food and thus grow stronger still, while their weaker siblings do not."
+msgstr ""
+
 #. [race]: id=bats
 msgid "race^Bat"
 msgstr "蝙蝠"
@@ -4214,6 +4232,7 @@ msgid "race^Drakes"
 msgstr "龙人"
 
 #. [race]: id=drake
+#, fuzzy
 msgid ""
 "Drakes are large, winged and fire-breathing creatures, reminiscent of true "
 "dragons. On average, an adult drake stands around three meters tall and "
@@ -4258,13 +4277,13 @@ msgid ""
 "hatchlings and lower caste drakes are known to feed also on certain kinds of "
 "moss and fungi they cultivate deep in their caverns. The only technology "
 "drakes value is armor- and weapon-smithing, and neither know or need other "
-"science and culture besides this. However the few implements they do fashion "
-"are almost unrivaled in quality, only matched by those produced in the "
-"finest Dwarvish foundries.\n"
+"science and culture besides this. However, the few implements they do "
+"fashion are almost unrivaled in quality, only matched by those produced in "
+"the finest Dwarvish foundries.\n"
 "\n"
-"Drakes are hatched from eggs and usually live naturally between 20 to 30 "
-"years. Death in battle is the most preferred way for a drake to leave this "
-"world. Unlike the elder members of other races, drakes naturally grow more "
+"Drakes hatch from eggs and usually live naturally between 20 to 30 years. "
+"Death in battle is the most preferred way for a drake to leave this world. "
+"Unlike the elder members of other races, drakes naturally grow more "
 "aggressive and reckless towards the ends of their natural lives, perhaps to "
 "help ensure their place in the heroic legends of their kind.\n"
 "\n"
@@ -4514,24 +4533,20 @@ msgid "race^Goblins"
 msgstr "地精"
 
 #. [race]: id=goblin
+#, fuzzy
 msgid ""
-"Goblins are, despite their appearance, born as siblings to the orcs and "
-"members of the same race. While other races usually bear children singly or "
-"in pairs, orcs will have large litters of children all at once, causing "
-"their populations to explode rather quickly. Within any litter, there will "
-"only be one or two true orcs, who will grow to the full size and strength of "
-"their race. A few more will be half-orcs, notably weaker than their big "
-"brothers, and relegated to supporting roles in combat, such as archery. The "
-"rest, often a full half of more of any litter, will be goblins. Goblins are "
-"puny and quite frail, rarely growing past the size and stature of a human "
-"child. Goblins are born into a lifetime of near-slavery to their larger kin, "
-"and used as sword-fodder in battle. They thrive in spite of their tragic "
-"fate; in part because they are so very numerous, and also because their "
-"brother orcs are well aware how dependent they are on the goblins.\n"
 "\n"
-"Goblins perform the bulk of manual labor needed by the orcs, with the sole "
-"exception of jobs that require the brute strength of true orcs. Those the "
-"orcs revel in as proof of their prowess."
+"\n"
+"Goblins are puny and quite frail, rarely growing past the size and stature "
+"of a human child.\n"
+"\n"
+"Goblins are born into a lifetime of near-slavery to their larger kin, and "
+"used as sword-fodder in battle. They thrive in spite of their tragic fate; "
+"in part because they are so very numerous, and also because their brother "
+"orcs are well aware how dependent they are on the goblins. They perform the "
+"bulk of manual labor needed by the orcs, with the sole exception of jobs "
+"that require the brute strength of true orcs. Those the orcs revel in as "
+"proof of their prowess."
 msgstr ""
 "虽然外表上有区别，但地精天生就是兽人的兄弟，是同一种族的成员。其他种族通常只"
 "会抚养一个或一对孩子，但兽人却会一下子抚养一大窝后代，以至于他们的人口很快便"
@@ -4589,19 +4604,21 @@ msgstr "人类"
 
 # TODO this is not checked by sylecn.
 #. [race]: id=human
+#, fuzzy
 msgid ""
 "The race of men is an extremely diverse one. Although they originally came "
 "from the Old Continent, men have spread all over the world and split into "
 "many different cultures and races. Although they are not imbued with magic "
-"like other creatures, humans can learn to wield it and able to learn more "
-"types than most others. They have no extra special abilities or aptitudes "
-"except their versatility and drive. While often at odds with other races, "
-"they can occasionally form alliances with the less aggressive races such as "
-"elves and dwarves. The less scrupulous among them do not shrink back from "
-"hiring orcish mercenaries, either. They have no natural enemies, although "
-"the majority of men, like most people of all races, have an instinctive "
-"dislike of the undead. Men are shorter than the elves, but taller still than "
-"dwarves. Their skin color can vary, from almost white to dark brown.\n"
+"like other creatures, humans can learn to wield it and are able to learn "
+"more types than most others. They have no extra special abilities or "
+"aptitudes except their versatility and drive. While often at odds with other "
+"races, they can occasionally form alliances with the less aggressive races "
+"such as elves and dwarves. The less scrupulous among them do not shrink back "
+"from hiring orcish mercenaries, either. They have no natural enemies, "
+"although the majority of men, like most people of all races, have an "
+"instinctive dislike of the undead. Men are shorter than the elves, but "
+"taller still than dwarves. Their skin color can vary, from almost white to "
+"dark brown.\n"
 "\n"
 "<header>text='Subjects of the Crown'</header>\n"
 "Many different groups of men exist, but the majority of them on the Great "
@@ -4653,17 +4670,29 @@ msgstr ""
 "教导他们骑马、格斗和射箭。一般来说，氏族武士们的组织性要比文明社会的战士们差"
 "一些，而他们可以互相取长补短。"
 
+#. [race]: id=dunefolk
 #. [race]: id=khalifate
-msgid "race^Khalifate Human"
-msgstr "哈里发人"
+#, fuzzy
+msgid "race^Dunefolk Human"
+msgstr "人类"
 
+#. [race]: id=dunefolk
 #. [race]: id=khalifate
-msgid "race+female^Khalifate Human"
-msgstr "哈里发人"
+#, fuzzy
+msgid "race+female^Dunefolk Human"
+msgstr "人类"
 
+#. [race]: id=dunefolk
 #. [race]: id=khalifate
-msgid "race+plural^Khalifate"
-msgstr "哈里发人"
+#, fuzzy
+msgid "race+plural^Dunefolk"
+msgstr "亡灵"
+
+#. [race]: id=dunefolk
+msgid ""
+"The Dunefolk are a human culture inhabiting the dry deserts in the southern "
+"region of the Great Continent."
+msgstr ""
 
 #. [race]: id=khalifate
 msgid "This race does not have a description yet."
@@ -4842,13 +4871,14 @@ msgid "race^Orcs"
 msgstr "兽人"
 
 #. [race]: id=orc
+#, fuzzy
 msgid ""
-"In appearance, orcs are half men and half beasts. They are taller, sturdier "
-"and stronger than humans. They are warlike, savage, and cruel by nature. "
-"Their blood is darker and thicker than that of normal humans and they have "
-"little care for personal hygiene or their personal appearance. Although Orcs "
-"are violent even among themselves, they are pack-oriented; an orc never "
-"travels long or lives in groups smaller than half a dozen.\n"
+"In appearance, orcs resemble humans but with some bestial features. They are "
+"taller, sturdier and stronger than humans. They are warlike, savage, and "
+"cruel by nature. Their blood is darker and thicker than that of humans, and "
+"they have little care for personal hygiene or their personal appearance. "
+"Although Orcs are violent even among themselves, they are pack-oriented; an "
+"orc never travels alone or lives in groups smaller than half a dozen.\n"
 "\n"
 "<header>text='Society'</header>\n"
 "Almost every orc is a member of a tribe or a clan. Relations between "
@@ -4890,14 +4920,8 @@ msgid ""
 "the shamans do not directly contribute much to orcish societies but only act "
 "as advisors — not something orcs tend to otherwise tolerate. Shamans are in "
 "many ways the opposite of most other orcs: they are often physically "
-"withered and frail in comparison and lack skill in battle. Despite their "
-"reliance on raw strength, not nearly all orcs are destined to grow to "
-"possess any. Many orcs are born smaller and weaker than the rest, and "
-"already almost as newborns are put in their place by their stronger "
-"siblings. The stronger ones will routinely grab most of the food and thus "
-"grow stronger still, while their weaker siblings do not. Many of these "
-"individuals tend to specialize in other skills, like archery or "
-"assassination."
+"withered and frail in comparison and lack skill in battle.\n"
+"\n"
 msgstr ""
 "从外表上看，兽人们是半人半兽。他们比人类更高更壮，而且天性好战，野蛮而残酷。"
 "他们的血液比普通的人类更黑更浓，而且很不在意个人卫生以及形象。尽管兽人是一种"
@@ -4937,6 +4961,14 @@ msgstr ""
 "就已经被他们那些强壮的兄弟们决定了。强壮的兽人将总是能抢占到绝大部分食物，因"
 "此将越长越强壮，而他们虚弱的兄弟就不是这样了。这些虚弱的个体倾向于专精其他的"
 "技能，例如射术或者暗杀。"
+
+#. [race]: id=orc
+msgid ""
+"\n"
+"\n"
+"Orcs who were not the strongest of their litter tend to specialize in other "
+"skills, like archery or assassination."
+msgstr ""
 
 #. [race]: id=troll
 msgid "race^Troll"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:29 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 12:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -45,10 +45,9 @@ msgstr ""
 msgid "(Expert level, 10 scenarios.)"
 msgstr "（专家级别，10幕场景。）"
 
-#. [unit_type]: id=Desert Hunter, race=elf
 #. [campaign]: id=Under_the_Burning_Suns
-msgid "Desert Hunter"
-msgstr "沙漠猎人"
+msgid "Fighter"
+msgstr "战士"
 
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Normal"
@@ -57,32 +56,6 @@ msgstr "普通"
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "Challenging"
 msgstr "挑战"
-
-#. [unit_type]: id=Desert Sentinel, race=elf
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Desert Sentinel"
-msgstr "沙漠哨兵"
-
-#. [unit_type]: id=Desert Prowler, race=elf
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Desert Prowler"
-msgstr "沙漠徘徊者"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Nightmare"
-msgstr "噩梦"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Fighter"
-msgstr "战士"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Normal, redesigned elf units"
-msgstr "普通，使用重新设计过的精灵单位"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Challenging, redesigned elf units"
-msgstr "挑战，使用重新设计过的精灵单位"
 
 #. [advancement]: id=warrior_1
 #. [campaign]: id=Under_the_Burning_Suns
@@ -94,8 +67,8 @@ msgid "Champion"
 msgstr "斗士"
 
 #. [campaign]: id=Under_the_Burning_Suns
-msgid "Nightmare, redesigned elf units"
-msgstr "噩梦，使用重新设计过的精灵单位"
+msgid "Nightmare"
+msgstr "噩梦"
 
 #. [about]
 msgid "Campaign Design"
@@ -3641,10 +3614,10 @@ msgstr "你的人一到达指定位置，我就会启动机关。"
 msgid "Troll Brute"
 msgstr "狂暴巨魔"
 
-#. [event]
 #. [unit]: type=Troll
 #. [unit]: type=Troll Rocklobber
 #. [unit]: type=Troll Whelp
+#. [event]
 msgid "Troll Guard"
 msgstr "巨魔守卫"
 
@@ -3669,8 +3642,8 @@ msgstr "有入侵者！杀啊！"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Wounded Dwarf
 #. [message]: speaker=Kaleh
+#. [message]: speaker=Wounded Dwarf
 msgid "Never!"
 msgstr "绝不！"
 
@@ -4029,15 +4002,14 @@ msgstr ""
 "隔了去对面那个华丽的石棺的路。"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
 "For a troll this is quite an ornate tomb. The coffin itself is quite "
 "impressive. Inside, the skeleton has crumbled to dust and there are a few "
 "colored stones and trinkets, but what really sticks out is this emerald "
 "wand. I don’t have much experience with magical items, but the asp with "
 "emerald eyes and large fangs carved around its shaft leave little doubt as "
-"to its power. We don’t normally tolerate using poison, but extreme "
-"circumstances call for extreme measures and I have a feeling we may find "
-"this useful before our journey is over."
+"to its power. We may find this useful before our journey is over."
 msgstr ""
 "对于巨魔来说，这是个很华丽的墓了，棺材本身就很特别。里面的骸骨已经化成灰了，"
 "里面还有一些彩色石头之类的玩意，而且居然还有一个翡翠魔杖。我对魔法什么的不太"
@@ -4075,9 +4047,9 @@ msgstr "矮人地界"
 msgid "Enemies"
 msgstr "敌人"
 
-#. [side]
 #. [side]: id=King Thurongar, type=Dwarvish Lord
 #. [side]: id=Great Leader Darmog, type=Great Troll
+#. [side]
 #. [side]: id=Melusand, type=Mermaid Diviner
 msgid "Allies"
 msgstr "同盟"
@@ -4149,11 +4121,11 @@ msgstr ""
 msgid "Once you done moving into position, Zurg will destroy wall."
 msgstr "一旦你靠近了那个位置，泽格就会打通那面墙。"
 
-#. [event]
 #. [unit]: type=Dwarvish Sentinel
 #. [unit]: type=Dwarvish Steelclad
 #. [unit]: type=Dwarvish Berserker
 #. [unit]: type=Dwarvish Dragonguard
+#. [event]
 msgid "Dwarf Guard"
 msgstr "矮人守卫"
 
@@ -6492,10 +6464,10 @@ msgstr ""
 "陵。山谷的中央是平的，四周是沙丘。山谷中央似乎有定居点。在更远的北边，我看见"
 "天际似乎有闪光，但我不知道那是什么。"
 
+#. [event]
 #. [unit]: type=Divine Avatar, id=Eloh
 #. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
-#. [event]
 msgid "Eloh"
 msgstr "伊洛"
 
@@ -8066,8 +8038,8 @@ msgid ""
 msgstr ""
 "我来告诉你们一个坏消息：你们中有一个人背叛了我，他是你们遭受磨难的原因。"
 
-#. [message]: speaker=Zhul
 #. [message]
+#. [message]: speaker=Zhul
 #. [message]: type=Desert Hunter3, Desert Hunter4, Desert Hunter5, Desert Hunter6, Desert Hunter7, Desert Hunter8
 msgid "No!"
 msgstr "不！"
@@ -11439,6 +11411,22 @@ msgstr ""
 "温，所有在洞穴中的单位每回合开始的时候会受到 $temp_damage 点伤害，这种热量的"
 "伤害最多会让单位的血量减到1点，但不会致死。"
 
+#. [message]: speaker=unit
+msgid ""
+"For a troll this is quite an ornate tomb. The coffin itself is quite "
+"impressive. Inside, the skeleton has crumbled to dust and there are a few "
+"colored stones and trinkets, but what really sticks out is this emerald "
+"wand. I don’t have much experience with magical items, but the asp with "
+"emerald eyes and large fangs carved around its shaft leave little doubt as "
+"to its power. We don’t normally tolerate using poison, but extreme "
+"circumstances call for extreme measures and I have a feeling we may find "
+"this useful before our journey is over."
+msgstr ""
+"对于巨魔来说，这是个很华丽的墓了，棺材本身就很特别。里面的骸骨已经化成灰了，"
+"里面还有一些彩色石头之类的玩意，而且居然还有一个翡翠魔杖。我对魔法什么的不太"
+"懂，不过上面刻的这只有着翡翠眼睛和巨大毒牙的毒蛇的威力我还是能看出来的。我们"
+"一般不容许下毒的行为，但是具体情况具体分析，我觉得我们以后能用得到这个。"
+
 #. [objective]: condition=win
 msgid "Kill Dwarf Chieftain"
 msgstr "杀死矮人首领"
@@ -11600,6 +11588,10 @@ msgstr ""
 "代的发展，精灵们的骑术已经有了很大的提高。"
 
 #. [unit_type]: id=Desert Hunter, race=elf
+msgid "Desert Hunter"
+msgstr "沙漠猎人"
+
+#. [unit_type]: id=Desert Hunter, race=elf
 msgid ""
 "Desert Hunters are trained to scour the sands for prey and enemies. They can "
 "quickly entangle others with their bolas and then finish them off with their "
@@ -11666,6 +11658,10 @@ msgstr ""
 "反击。"
 
 #. [unit_type]: id=Desert Prowler, race=elf
+msgid "Desert Prowler"
+msgstr "沙漠徘徊者"
+
+#. [unit_type]: id=Desert Prowler, race=elf
 msgid ""
 "Desert Prowlers sneak across the sands, searching out enemies and protecting "
 "their people. They are trained to slip past enemies unnoticed and flank "
@@ -11721,6 +11717,10 @@ msgid ""
 "Desert Scouts move swiftly across the sands. Their skill on horseback is "
 "virtually unmatched, although they do lack power in combat."
 msgstr "沙漠哨兵在沙漠中移动迅速，虽然他们骑术出众，但是缺乏战斗能力。"
+
+#. [unit_type]: id=Desert Sentinel, race=elf
+msgid "Desert Sentinel"
+msgstr "沙漠哨兵"
 
 #. [unit_type]: id=Desert Sentinel, race=elf
 msgid ""
@@ -12091,14 +12091,11 @@ msgstr "浴火恶魔"
 
 #. [unit_type]: id=Ixthala Demon, race=monster
 msgid ""
-"Very few people who have ever faced an Ixthala Demon have survived to tell "
-"the tale. Some believe that they come from some other plane of existence, "
-"others believe that they were some demented creation of a fire mage. But "
-"whatever they are, all agree that they are extremely dangerous."
+"Are these monsters some beast-soldiers of a bygone era? Or are they spirits "
+"from another plane of existence? Knowledge of their origins is lost, all "
+"that is known is that they can spell trouble for those who go poking around "
+"in caverns and ruins."
 msgstr ""
-"很少有人能在面对浴火恶魔的时候生存下来，并对人述说他们的经历。有人认为它们来"
-"自另外一个位面，也有人认为它们是疯狂的火魔法的产物，但不管怎么说，人们一致认"
-"为它们是极度危险的。"
 
 #. [attack]: type=fire
 msgid "flaming sword"
@@ -12247,15 +12244,17 @@ msgstr ""
 msgid "blowgun"
 msgstr "吹箭"
 
-#. [unit_type]: id=Quenoth Horseman, race=elf
-msgid "Quenoth Horseman"
-msgstr "奎诺骑手"
+#. [unit_type]: id=Quenoth Pathfinder, race=elf
+#, fuzzy
+msgid "Quenoth Pathfinder"
+msgstr "奎诺骑卫兵"
 
-#. [unit_type]: id=Quenoth Horseman, race=elf
+#. [unit_type]: id=Quenoth Pathfinder, race=elf
+#, fuzzy
 msgid ""
 "In most cases, turning and fleeing from an engagement is a risky tactic. "
-"These elusive Horsemen, however, are masters of weakening an enemy while at "
-"the same time provoking them to give chase — often into a trap."
+"These elusive Pathfinders, however, are masters of weakening an enemy while "
+"at the same time provoking them to give chase — often into a trap."
 msgstr ""
 "在绝大多数情况下，后背向敌，迅速撤退是很危险的战术。然而，这些神出鬼没的骑手"
 "却是削弱敌军并引诱他们追击的大师——经常是将他们引入陷阱之中。"
@@ -12366,9 +12365,10 @@ msgid "Quenoth Scout"
 msgstr "奎诺侦察兵"
 
 #. [unit_type]: id=Quenoth Scout, race=elf
+#, fuzzy
 msgid ""
-"The Quenoth Scouts move swiftly across the sands. Their skill on horseback "
-"is virtually unmatched, which they use to harry and incapacitate enemies."
+"The Quenoth Scouts move swiftly across the sands. Their riding skill are "
+"unmatched, and these they use to harry and incapacitate enemies."
 msgstr ""
 "奎诺侦察兵在沙漠之上迅速穿行，他们的骑术几乎无人可敌，而他们也活用这优势来骚"
 "扰敌军，并摧毁敌方的战斗能力。"

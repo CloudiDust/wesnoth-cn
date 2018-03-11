@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -31,8 +31,10 @@ msgid "TSG"
 msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
+#, fuzzy
 msgid ""
-"A young Knight, Deoran, is dispatched to take command of the South Guard... "
+"A young Knight, Deoran, is dispatched to take command of the South Guard.\n"
+"\n"
 "Note: This campaign is designed as an introduction to Wesnoth. The "
 "‘Civilian’ difficulty level is aimed at first-time players.\n"
 "\n"
@@ -105,10 +107,10 @@ msgstr "乌扎·马辛"
 #. [side]: type=Bandit, id=Urza Mathin
 #. [side]: type=Outlaw, id=Urza Nalmath
 #. [side]
+#. [side]: type=Rogue, id=Urza Fastik
 #. [side]: type=Outlaw, id=Jera Ilras
 #. [side]: type=Outlaw, id=Urza Afalas
 #. [side]: type=Outlaw, id=Tharzo Kalain
-#. [side]: type=Rogue, id=Urza Fastik
 msgid "Bandits"
 msgstr "强盗"
 
@@ -734,6 +736,10 @@ msgstr "急切使命"
 #. [side]: type=Rogue, id=Urza Fastik
 msgid "Urza Fastik"
 msgstr "乌扎·法斯提克"
+
+#. [side]
+msgid "Elves"
+msgstr "精灵"
 
 #. [message]: speaker=narrator
 msgid "Deoran and his men came to the eastern border of the Aethenwood..."
@@ -1798,10 +1804,6 @@ msgstr ""
 msgid "The Long March"
 msgstr "长途行军"
 
-#. [side]
-msgid "Elves"
-msgstr "精灵"
-
 #. [event]
 msgid "Fssth"
 msgstr "费瑟斯"
@@ -2234,7 +2236,8 @@ msgid "Mal Tera"
 msgstr "玛尔·特拉"
 
 #. [event]
-msgid "Sgt. Finde"
+#, fuzzy
+msgid "Finde"
 msgstr "芬德军士"
 
 #. [event]
@@ -2250,7 +2253,8 @@ msgid "Mitche"
 msgstr "米切"
 
 #. [event]
-msgid "Lt. Illan"
+#, fuzzy
+msgid "Illan"
 msgstr "伊兰中尉"
 
 #. [event]
@@ -2262,7 +2266,8 @@ msgid "Jul"
 msgstr "朱尔"
 
 #. [event]
-msgid "Lt. Meris"
+#, fuzzy
+msgid "Meris"
 msgstr "梅里斯中尉"
 
 #. [event]
@@ -2286,9 +2291,9 @@ msgid "Death Guard"
 msgstr "死亡卫队"
 
 #. [message]: speaker=Deoran
+#, fuzzy
 msgid ""
-"We have escaped the great forest, but look! The undead are chasing us — we "
-"must not have rooted them all out of the wood."
+"We have escaped the great forest, but look! The undead are still chasing us."
 msgstr ""
 "我们已经逃离了大森林，但是看哪！亡灵在追赶我们——我们肯定没有在丛林里根除他"
 "们。"
@@ -2330,7 +2335,7 @@ msgid ""
 "Thank you, my friend."
 msgstr "你的名字将加入英雄的名录，我们会为你报仇。谢谢，我的朋友。"
 
-#. [message]: speaker=Lt. Illan
+#. [message]: speaker=Illan
 msgid ""
 "We are yours to command, Sir Gerrick. Our men are not the great warriors "
 "that you and Deoran are, but we will hold our lines staunchly, until the "
@@ -2343,11 +2348,19 @@ msgstr ""
 msgid "Hold the line: Keep Sir Gerrick alive as long as possible"
 msgstr "坚守防线：尽可能让格里克爵士活下去。"
 
+#. [note]
+msgid ""
+"Starting with turn 6, each additional turn you survive strengthens the "
+"defenses of Westin."
+msgstr ""
+
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "There is no way to win this scenario, and no way to lose. Hold off the "
 "undead hordes as long as you can. Keep Sir Gerrick alive as long as you can. "
-"Every turn that passes strengthens the defenses of Westin."
+"Starting with turn 6, every turn that passes strengthens the defenses of "
+"Westin."
 msgstr ""
 "此场景没有输赢可言。尽可能长时间地拖延亡灵军团。尽可能让格里克爵士活下去。每"
 "坚持一回合，韦斯廷的防御就增强一分。"
@@ -2436,7 +2449,8 @@ msgid "Provincial Guard"
 msgstr "行省卫队"
 
 #. [value]
-msgid "Lt. Nilaf"
+#, fuzzy
+msgid "Nilaf"
 msgstr "尼拉夫中尉"
 
 #. [message]: speaker=Deoran
@@ -2477,7 +2491,7 @@ msgstr ""
 "不过在他的英勇抵抗为我们赢得的短暂时机里，我们已经让整支行省卫队进入了战前状"
 "态，整座城市都已严阵以待！"
 
-#. [message]: speaker=Lt. Nilaf
+#. [message]: speaker=Nilaf
 msgid "Indeed, Lord, we are ready to defend our homes!"
 msgstr "确实如此，阁下，我们已经做好了保卫家园的准备！"
 
@@ -2800,6 +2814,11 @@ msgstr "吃我一剑！"
 #. [message]: speaker=unit
 msgid "I have lost all helping the humans... Now they will surely perish!"
 msgstr "帮助人类令我失去一切……现在他们难逃毁灭了！"
+
+#. [message]: speaker=unit
+#, fuzzy
+msgid "Far from home I fall — but not in vain!"
+msgstr "我客死他乡——但并非白费！保卫我们的人民，德欧兰！"
 
 #. [message]: speaker=narrator
 msgid ""

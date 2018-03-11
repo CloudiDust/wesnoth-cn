@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:27 UTC\n"
+"POT-Creation-Date: 2018-02-04 16:39 UTC\n"
 "PO-Revision-Date: 2017-06-24 19:03+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -165,12 +165,13 @@ msgstr ""
 msgid "Defenders"
 msgstr "守卫者"
 
+#. [side]: type=Orcish Warlord, id=Borth
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
 #. [side]: type=Orcish Warlord, id=Gron'r Hronk
 #. [side]: type=Orcish Warlord, id=K'rrlar Oban
-#. [side]: type=Orcish Warlord, id=Borth
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warlord, id=K'Vark
+#. [modify_side]
 msgid "Orcs"
 msgstr "兽人"
 
@@ -178,14 +179,18 @@ msgstr "兽人"
 msgid "Kreg’a’shar Trr"
 msgstr "克里嘎沙·塔"
 
-#. [side]: type=Sergeant, id=Drogan
 #. [side]: type=Lieutenant, id=Drogan
+#. [side]: type=Sergeant, id=Drogan
 msgid "Drogan"
 msgstr "德罗甘"
 
 #. [objective]: condition=win
 msgid "Defend the river fort for two nights"
 msgstr "坚守河口要塞两晚"
+
+#. [objective]: condition=win
+msgid "Kill the orc leader"
+msgstr "击杀兽人首领"
 
 #. [objective]: condition=lose
 msgid "Orcs break through the river fort defenses"
@@ -750,9 +755,10 @@ msgid ""
 msgstr "兽人封锁了山路的出口。歼灭他们，之后我们将前去对付更大的目标。"
 
 #. [message]: speaker=Malin Keshar
+#, fuzzy
 msgid ""
 "With the might of the undead at my command, many orcs will die this day. "
-"They shall pay for getting me banished from Parthyn."
+"They shall pay for attacking Parthyn."
 msgstr ""
 "凭我麾下亡灵之力，大量兽人将命丧今日。他们害我被逐出帕辛，必须为此付出代价。"
 
@@ -765,6 +771,7 @@ msgid "The ice doesn’t look very thick..."
 msgstr "这里的冰面看起来不太厚……"
 
 #. [message]: speaker=Darken Volk
+#. [message]: speaker=Mal Keshar
 msgid "..."
 msgstr "……"
 
@@ -924,10 +931,6 @@ msgstr "守卫"
 #. [side]: type=Lieutenant, id=Drogan
 msgid "River fort guard"
 msgstr "河口要塞守卫"
-
-#. [objective]: condition=win
-msgid "Kill the orc leader"
-msgstr "击杀兽人首领"
 
 #. [objective]: condition=win
 msgid "Remove the traitor Drogan"
@@ -1216,6 +1219,10 @@ msgstr "镇民"
 msgid "Move Malin and Darken Volk into the Mage Lord’s manor"
 msgstr "将马林和达肯·沃克移进法师领主的庄园"
 
+#. [note]
+msgid "This scenario takes place entirely at night."
+msgstr ""
+
 #. [message]: speaker=Darken Volk
 msgid ""
 "The stolen book lies within Lord Karres’s manor on the north end of the "
@@ -1243,6 +1250,11 @@ msgstr "长官！亡灵生物从森林里出来了！立刻叫醒守卫！"
 msgid "To arms, men!"
 msgstr "拿起武器，弟兄们！"
 
+#. [message]: speaker=Taylor
+#, fuzzy
+msgid "Undead creatures are coming out of the forest! To arms, men!"
+msgstr "长官！亡灵生物从森林里出来了！立刻叫醒守卫！"
+
 #. [message]: speaker=unit
 msgid "Ooouuuh! It burns... burrrrnnns..."
 msgstr "哦啊啊啊啊啊！烧起来了……烧嗷嗷嗷起来了……"
@@ -1268,9 +1280,9 @@ msgstr "这里是入口！快！"
 msgid "A Small Favor — Part 2"
 msgstr "小小请求 — 第二部分"
 
+#. [event]
 #. [side]
 #. [command]
-#. [event]
 msgid "Guard"
 msgstr "守卫"
 
@@ -1725,6 +1737,7 @@ msgid "Regain your strength"
 msgstr "恢复你的力量"
 
 #. [objective]: condition=lose
+#. [objective]: condition=win
 msgid "Destruction of Mal Keshar"
 msgstr "玛尔·凯沙毁灭"
 
@@ -1791,6 +1804,21 @@ msgstr ""
 msgid "Defeat the foolish hero"
 msgstr "击败愚蠢的英雄"
 
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defeat another foolish hero"
+msgstr "击败愚蠢的英雄"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Defeat yet another foolish hero"
+msgstr "击败愚蠢的英雄"
+
+#. [note]: description=<b>
+#, fuzzy
+msgid "Endless Night $timesForever"
+msgstr "无尽长夜"
+
 #. [unit]: type=Royal Guard, id=Foolish Hero
 #. [unit]: type=Assassin, id=Foolish Hero
 #. [unit]: type=Elvish Marshal, id=Foolish Hero
@@ -1798,6 +1826,22 @@ msgstr "击败愚蠢的英雄"
 #. [unit]: type=Orcish Warlord, id=Foolish Hero
 msgid "Foolish Hero"
 msgstr "愚蠢的英雄"
+
+#. [modify_side]
+msgid "Humans"
+msgstr ""
+
+#. [modify_side]
+msgid "Bandits"
+msgstr ""
+
+#. [modify_side]
+msgid "Elves"
+msgstr ""
+
+#. [modify_side]
+msgid "Dwarves"
+msgstr ""
 
 #. [message]: speaker=Foolish Hero
 msgid "Your doom is at hand, foul lich! I shall bring you down by my own hand."
@@ -1884,12 +1928,64 @@ msgstr ""
 "仆们杀害的我的同胞。兽人们，进攻！谁把他的骷髅脑袋带给我，就能得到一袋金币。"
 
 #. [message]: speaker=Mal Keshar
+msgid "I will destroy you like the last foolish hero."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+msgid "Another foolish hero? Seriously?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
 msgid ""
 "Is there an endless supply of foolish heroes with death wishes? Honestly, "
 "where do you all come from?"
 msgstr ""
 "那些想找死的愚蠢英雄是不是要无穷无尽地前来？坦白说，你们究竟都是从哪里冒出来"
 "的？"
+
+#. [message]: speaker=Mal Keshar
+msgid "Am I doomed to fight foolish heroes forever?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+msgid "Is this going to keep happening?"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "His evil deeds have come to an end, and he has meet his doom."
+msgstr ""
+
+#. [message]: role=second
+msgid "Who do you think he was before starting down the path of darkness?"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid ""
+"It matters not who the lich was. He embraced death over life, and we have "
+"done our duty to defend life."
+msgstr ""
+
+#. [message]: role=second
+#, fuzzy
+msgid "Yes, sir."
+msgstr "遵命，主人。"
+
+#. [message]: speaker=Foolish Hero
+msgid "It is done. He will trouble us no more."
+msgstr ""
+
+#. [message]: role=second
+msgid "Who do you think he was before becoming a lich?"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Probably an outlaw like us. Does it matter?"
+msgstr ""
+
+#. [message]: role=second
+#, fuzzy
+msgid "No, I guess not."
+msgstr "不，我想这不重要。"
 
 #. [message]: speaker=Foolish Hero
 msgid "Well, that is the end of his evil ways."
@@ -1912,6 +2008,38 @@ msgstr ""
 #. [message]: role=second
 msgid "No, I suppose it does not."
 msgstr "不，我想这不重要。"
+
+#. [message]: speaker=Foolish Hero
+msgid "Hearing the crack of his bones was satisfying."
+msgstr ""
+
+#. [message]: role=second
+msgid ""
+"Who do you think he was before becoming the bones crushed by our hammers?"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid ""
+"Probably some angst-ridden mage that could not make it at that magic academy "
+"those humans have. And when he did dark magic and got outlawed from Wesnoth, "
+"he came to hide in these caves."
+msgstr ""
+
+#. [message]: role=second
+msgid "I guess we'll never know for sure."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Finally, my father and my people are avenged!"
+msgstr ""
+
+#. [message]: role=second
+msgid "Who you think he was, boss?"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Who cares!"
+msgstr ""
 
 #. [unit_type]: id=Apprentice Mage, race=human
 msgid "Apprentice Mage"

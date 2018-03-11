@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -554,8 +554,8 @@ msgstr ""
 "方，而后将折向北方，到码头去。这几天里应该会有一艘去黑水港的船，而我得登上"
 "它。"
 
-#. [unit]: type=Ghoul
 #. [side]: type=Bandit, id=Garcyn
+#. [unit]: type=Ghoul
 msgid "Garcyn"
 msgstr "伽辛"
 
@@ -1559,8 +1559,8 @@ msgstr ""
 "拉斯-塔班的队伍来到了泰河附近精灵之路的尽头，他们将在此等待阿冬娜。而当他们到"
 "达时，另一支队伍也到达了。"
 
-#. [side]: type=Merman Triton, id=Okean
 #. [side]
+#. [side]: type=Merman Triton, id=Okean
 msgid "Merfolk"
 msgstr "人鱼"
 
@@ -3210,6 +3210,12 @@ msgstr ""
 "有些女孩回避社会为她们准备好的典型生活轨迹，而与犯罪分子为伍。虽然她们或许最"
 "终会进监狱，但对她们而言，这似乎比把自己和丈夫拴在一起要好。"
 
+#. [unit_type]: id=Dunefolk, race=dunefolk
+#. [unit_type]: id=Noble, race=human
+#, fuzzy
+msgid "Passenger"
+msgstr "通道"
+
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 msgid "Dwarvish Miner"
 msgstr "矮人旷工"
@@ -3228,10 +3234,6 @@ msgstr ""
 msgid "pick"
 msgstr "镐"
 
-#. [unit_type]: id=Khalif, race=khalifate
-msgid "Khalif"
-msgstr "哈里夫"
-
 #. [unit_type]: id=Ancient Lich SotA, race=undead
 msgid "Ancient Lich"
 msgstr "上古巫妖"
@@ -3247,10 +3249,6 @@ msgstr ""
 "经验丰富的巫妖可以轻易地利用灵界的力量，射出毁灭性的冰冻闪电，或从躯体之中吸"
 "取生命力。像这样的巫妖所能使用的力量，看起来是惊人的。遇到上古巫妖的任何人，"
 "很可能都得担心比死亡更糟糕的东西！"
-
-#. [unit_type]: id=Noble, race=human
-msgid "Noble"
-msgstr "贵族"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
 msgid "Orcish Shaman"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -53,15 +53,16 @@ msgstr ""
 "包含高阶单位的时代：首领为三级，而一级和二级单位可供直接征募。包含六大派系。"
 "此时代并不被认为是平衡的。"
 
-#. [era]: id=era_khalifate
-msgid "Default + Khalifate"
-msgstr "默认 + 哈里发人"
+#. [era]: id=era_dunefolk
+msgid "Default + Dunefolk"
+msgstr ""
 
-#. [era]: id=era_khalifate
+#. [era]: id=era_dunefolk
+#, fuzzy
 msgid ""
 "An era featuring an additional faction besides the six factions from Default "
-"Era. Khalifate units use no magic, but instead rely on careful use of "
-"terrain and coordinated strikes around dusk or dawn.\n"
+"Era. Dunefolk units rely on careful use of terrain and coordinated strikes "
+"around dusk or dawn.\n"
 "\n"
 "This era is still under development, so please be sure to report any "
 "problems that arise."
@@ -71,15 +72,17 @@ msgstr ""
 "\n"
 "此时代仍在开发中，因此请务必报告出现的一切问题。"
 
-#. [era]: id=era_khalifate_heroes
-msgid "Age of Heroes + Khalifate"
-msgstr "英雄时代 + 哈里发人"
+#. [era]: id=era_dunefolk_heroes
+#, fuzzy
+msgid "Age of Heroes + Dunefolk"
+msgstr "英雄时代"
 
-#. [era]: id=era_khalifate_heroes
+#. [era]: id=era_dunefolk_heroes
+#, fuzzy
 msgid ""
 "An era featuring an additional faction besides the six factions from Age of "
-"Heroes Era. Khalifate units use no magic, but instead rely on careful use of "
-"terrain and coordinated strikes around dusk or dawn.\n"
+"Heroes Era. Dunefolk units rely on careful use of terrain and coordinated "
+"strikes around dusk or dawn.\n"
 "\n"
 "This era is still under development, so please be sure to report any "
 "problems that arise."
@@ -129,19 +132,20 @@ msgstr ""
 "同。结合起来说，龙人部落的机动性强但防御能力弱，因此，他们的战术在"
 "<ref>text='默认时代' dst='..era_era_default'</ref>的诸派系中，是不同寻常的。"
 
-#. [multiplayer_side]: id=Khalifate, type=random
-msgid "Khalifate"
-msgstr "哈里发人"
+#. [multiplayer_side]: id=Dunefolk, type=random
+msgid "Dunefolk"
+msgstr ""
 
-#. [multiplayer_side]: id=Khalifate, type=random
+#. [multiplayer_side]: id=Dunefolk, type=random
+#, fuzzy
 msgid ""
-"The <bold>text='Khalifate'</bold> are a faction of humans from the deserts "
-"and hills of the southern lands. Lacking magic users, the Khalifate instead "
-"specialize in using terrain features to coordinate attacks at dawn or dusk. "
-"Their ranks boast lawful and liminal units, healers, high-accuracy melee "
-"fighters, and fearsome horse-mounted archers. While Khalifate units tend to "
-"be more expensive than those of the Loyalist faction, they make up for this "
-"with high mobility — especially on hilly terrains."
+"The <bold>text='Dunefolk'</bold> are a faction of humans from the deserts "
+"and hills of the southern lands. The Dunefolk specialize in using terrain "
+"features to coordinate attacks at dawn or dusk. Their ranks boast lawful and "
+"liminal units, healers, high-accuracy melee fighters, and fearsome horse-"
+"mounted archers. While Dunefolk units tend to be more expensive than those "
+"of the Loyalist faction, they make up for this with high mobility — "
+"especially on hilly terrains."
 msgstr ""
 "<bold>text='哈里发人'</bold>是由来自南方沙漠和丘陵的人类所组成的派系。他们缺"
 "少魔法使用者，而是专精于利用地形特征来进行晨昏时段的协同攻击。他们的队伍中有"
@@ -380,6 +384,11 @@ msgid ""
 msgstr ""
 "这些洞穴曾经是具有传奇色彩的古老蛇怪“查克索·内伊克斯”的藏身之处。那些被他石化"
 "的受害者们，至今仍是他那狂暴力量的纪念碑。"
+
+#. [side]
+#, fuzzy
+msgid "teamname^Statues"
+msgstr "西南"
 
 # verses are, in my opinion, untranslatable. anyone interested may want to give a try...
 # 自便
@@ -1186,6 +1195,15 @@ msgid ""
 "Players must traverse all manner of terrain in pursuit of victory on this "
 "multi-fronted duel map."
 msgstr "在这幅战线众多的决斗地图上，玩家必须穿越各种地形来追寻胜利。"
+
+#. [side]
+#, fuzzy
+msgid "teamname^Shapeshifter"
+msgstr "中军"
+
+#. [unit]: type=Tentacle of the Deep
+msgid "Nani the Shapeshifter"
+msgstr ""
 
 #. [effect]: type=arcane
 msgid "evil eye"

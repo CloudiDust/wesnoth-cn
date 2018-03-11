@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-04 16:40 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -98,8 +98,8 @@ msgid "Rugnur"
 msgstr "拉格纳"
 
 #. [side]: type=Dwarvish Fighter, id=Rugnur
-#. [side]: type=Dwarvish Lord, id=Durstorn
 #. [side]: type=Haldric II, id=Haldric II
+#. [side]: type=Dwarvish Lord, id=Durstorn
 msgid "Dwarves"
 msgstr "矮人"
 
@@ -341,8 +341,8 @@ msgstr ""
 "在旁监督，以保证你们能按时完成工作。我希望权杖能在我的统治结束前完成。"
 
 #. [side]: id=Alanin, type=Dragoon
-#. [side]: type=Haldric II, id=Haldric II
 #. [unit]: type=Dragoon, id=Alanin
+#. [side]: type=Haldric II, id=Haldric II
 msgid "Alanin"
 msgstr "阿拉宁"
 
@@ -722,8 +722,8 @@ msgstr "所有精灵都已经解决了。现在我该继续赶往城里去报告
 msgid "In the Dwarven City"
 msgstr "矮人城中"
 
-#. [side]: type=Dwarvish Lord, id=Durstorn
 #. [unit]: type=Dwarvish Lord, id=Durstorn
+#. [side]: type=Dwarvish Lord, id=Durstorn
 msgid "Durstorn"
 msgstr "达司拓恩"
 

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:27 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:01 UTC\n"
 "PO-Revision-Date: 2017-10-06 10:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -54,13 +54,36 @@ msgid "You must survive until turn 25."
 msgstr "你必须坚持到第25回合。"
 
 #. [side]
-msgid "teamname^Team 1"
+#, fuzzy
+msgid "teamname^Settlers"
 msgstr "队伍1"
 
 #. [side]: type=Death Knight
 #. [side]: type=Orcish Sovereign
-msgid "teamname^Team 2"
-msgstr "队伍2"
+#, fuzzy
+msgid "teamname^Enemies"
+msgstr "队伍1"
+
+#. [side]: type=Death Knight
+msgid "Mal Sevu"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign
+msgid "Gol Goroth"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign
+msgid "Greg"
+msgstr ""
+
+#. [side]: type=Death Knight
+msgid "Mal Shiki"
+msgstr ""
+
+#. [side]
+#, fuzzy
+msgid "teamname^Prisoners"
+msgstr "队伍1"
 
 #. [message]: speaker=narrator
 msgid ""

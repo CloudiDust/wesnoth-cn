@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -178,10 +178,10 @@ msgstr ""
 msgid "Humans"
 msgstr "人类"
 
+#. [side]: type=Dark Sorcerer, id=Mordak
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #. [side]
 #. [side]: type=Orcish Warlord, id=Tairach
-#. [side]: type=Dark Sorcerer, id=Mordak
 msgid "Enemies"
 msgstr "敌人"
 
@@ -233,11 +233,11 @@ msgstr "杀死邪恶法师魔达克"
 msgid "Death of Arvith"
 msgstr "阿维斯阵亡"
 
-#. [note]
+#. [objectives]
 msgid ""
-"Undead units have a variety of resistances. Keep this in mind when forming "
-"your strategy and choosing recruits."
-msgstr "亡灵单位拥有各种抗性。制定策略及选择要征募的单位时，请将此铭记于心。"
+"Use footpads as fodder to protect your loyal units and attack during the day "
+"to minimize the damage your forces take."
+msgstr ""
 
 #. [message]: speaker=Baran
 msgid "Greetings, brother, and welcome home."
@@ -457,6 +457,23 @@ msgstr "逮住绑架者"
 #. [objective]: condition=win
 msgid "Kill the Dark Adept before his reinforcements arrive"
 msgstr "在黑暗狂徒的援军到达之前击杀他"
+
+#. [objectives]
+msgid ""
+"The Elvish forces are spread out. Seek to fight them one at a time with "
+"several of your units."
+msgstr ""
+
+#. [objectives]
+msgid ""
+"Use horsemen or footpads to quickly explore the shrouded woods to locate the "
+"kidnappers."
+msgstr ""
+
+#. [objectives]
+msgid ""
+"Separate the Dark Adept from his guards and attack in force for an easy kill."
+msgstr ""
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -771,6 +788,24 @@ msgstr "将阿维斯移动到关押他弟弟的牢房以解救他"
 msgid "Death of Baran"
 msgstr "巴兰阵亡"
 
+#. [objectives]
+msgid ""
+"When facing an unknown situation, take into account details from story and "
+"dialog to inform your strategy."
+msgstr ""
+
+#. [objectives]
+msgid ""
+"The dark sorcerer is a strong unit; attack him with multiple units at once "
+"and try to force him off of his keep."
+msgstr ""
+
+#. [objectives]
+msgid ""
+"Markings or decorations on hexes may indicate something to be found. If you "
+"can, it is usually a good idea to investigate."
+msgstr ""
+
 #. [message]: speaker=narrator
 msgid ""
 "Arvith and his men halt outside of the castle, gazing for a moment at the "
@@ -1078,6 +1113,12 @@ msgstr "荷班地方官"
 msgid "Find out what is happening in the village"
 msgstr "探明村子里发生了什么"
 
+#. [objectives]
+msgid ""
+"Recruit or Recall some high-move units to be able to see as far as possible "
+"through the fog for approaching units."
+msgstr ""
+
 #. [message]: speaker=Arvith
 msgid ""
 "There. The village is just across those hills, and already I see men coming "
@@ -1158,6 +1199,10 @@ msgstr ""
 #. [objective]: condition=win
 msgid "Slay the Orcish Warlord to free the village"
 msgstr "杀掉兽人军阀以解救村庄"
+
+#. [objectives]
+msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
+msgstr ""
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -1252,3 +1297,6 @@ msgstr "完了，我被打败了。"
 #. [unit]: id=Baran, type=Red Mage
 msgid "Baran"
 msgstr "巴兰"
+
+msgid "Hint:"
+msgstr ""

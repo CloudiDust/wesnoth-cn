@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -554,11 +554,11 @@ msgstr ""
 "在兽人的手下毁灭，或者在纳尔迦隧道中遭遇未知的命运，塔林选择了后者。人们快速"
 "集合起来，收集了尽可能多的食品和武器，进入了黑暗的洞穴。"
 
+#. [side]: type=Troll, id=Franik
+#. [side]: type=Troll, id=Henie
 #. [side]: type=Troll, id=Knash
 #. [side]: type=Troll, id=Krog
 #. [side]: type=Troll Warrior, id=Thung
-#. [side]: type=Troll, id=Franik
-#. [side]: type=Troll, id=Henie
 #. [side]: type=Troll Warrior, id=Tor
 #. [side]: type=Troll Warrior, id=Bor
 #. [side]: type=Troll Warrior, id=Oof
@@ -574,19 +574,19 @@ msgstr "克纳什"
 msgid "Krog"
 msgstr "克洛格"
 
-#. [side]: type=Dwarvish Lord, id=Hamel
 #. [unit]: type=Dwarvish Lord, id=Hamel
+#. [side]: type=Dwarvish Lord, id=Hamel
 msgid "Hamel"
 msgstr "哈梅尔"
 
-#. [side]: type=Death Knight, id=Mal Barath
-#. [side]: type=Death Knight, id=Delzath
-#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Ancient Lich, id=Malifor
 #. [side]: type=Draug, id=Thorin
 #. [side]: type=Draug, id=Herlin
 #. [side]: type=Draug, id=Fervin
 #. [side]: type=Draug, id=Hellian
+#. [side]: type=Death Knight, id=Mal Barath
+#. [side]: type=Death Knight, id=Delzath
+#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Death Knight, id=Hettel
 #. [side]: type=Death Knight, id=Tervor
 #. [side]: type=Death Knight, id=Author
@@ -867,15 +867,15 @@ msgstr ""
 "矮人的营地。来吧，和我们的首领哈梅尔领主谈谈吧。"
 
 #. [message]: speaker=Tallin
+#. [message]: speaker=unit
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Ro'Arthian
-#. [message]: speaker=unit
 msgid "Very well."
 msgstr "好的。"
 
 #. [objective]: condition=win
-msgid "Speak with Hamel"
-msgstr "与哈梅尔交谈"
+msgid "Move Tallin within five hexes of Hamel to speak with him"
+msgstr ""
 
 #. [message]: speaker=Hamel
 msgid "Well met, Tallin. My men have told me of your victory against Al’Tar."
@@ -1183,8 +1183,8 @@ msgstr ""
 msgid "Ahahahaha! Yes, smash the skeletons! Smash them!"
 msgstr "啊哈哈哈哈！是的，砸碎那些骷髅！砸碎它们！"
 
-#. [message]: role=Supporter
 #. [message]: speaker=Tallin
+#. [message]: role=Supporter
 msgid "..."
 msgstr "……"
 
@@ -1258,10 +1258,10 @@ msgid "When the party finally reached the mines, they were not disappointed."
 msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 
 #. [side]
-#. [side]: type=Drake Burner, id=Krash
-#. [side]: type=Elvish Avenger, id=Sisal
 #. [side]: type=Lieutenant, id=Tallin
+#. [side]: type=Drake Burner, id=Krash
 #. [side]: type=Dwarvish Lord, id=Hamel
+#. [side]: type=Elvish Avenger, id=Sisal
 msgid "Alliance"
 msgstr "联盟"
 
@@ -1750,9 +1750,9 @@ msgid ""
 msgstr ""
 "噢，不必客气。我们之间何言恩惠。让我们像盟友一样携手并进恢复北方大地的安宁。"
 
-#. [message]: id=Elenia
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Sister Thera
+#. [message]: id=Elenia
 msgid "Thank you, Tallin."
 msgstr "谢谢你，塔林。"
 
@@ -3030,8 +3030,8 @@ msgstr ""
 "穴。"
 
 #. [side]
-#. [side]: type=Dwarvish Lord, id=Stalrag
 #. [side]: type=Great Mage, id=Camerin
+#. [side]: type=Dwarvish Lord, id=Stalrag
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
@@ -3039,16 +3039,16 @@ msgstr "纳尔迦人"
 #. [side]: type=Orcish Warlord, id=Drung
 #. [side]: type=Orcish Warlord, id=Poul
 #. [side]: type=Orcish Warlord, id=Atul
+#. [side]: type=Orcish Sovereign, id=Rakshas
+#. [side]: type=Orcish Warlord, id=Ha'Tuil
+#. [side]: type=Orcish Warlord, id=Ar'Muff
+#. [side]: type=Orcish Warlord, id=Calter
+#. [side]: type=Orcish Warlord, id=Halter
 #. [side]: type=Troll Warrior, id=Gore
 #. [side]: type=Orcish Warlord, id=Carron
 #. [side]: type=Orcish Warlord, id=Rash
 #. [side]: type=Orcish Warlord, id=Al'Mar
 #. [side]: type=Orcish Warlord, id=Ha'Tang
-#. [side]: type=Orcish Warlord, id=Ha'Tuil
-#. [side]: type=Orcish Sovereign, id=Rakshas
-#. [side]: type=Orcish Warlord, id=Ar'Muff
-#. [side]: type=Orcish Warlord, id=Calter
-#. [side]: type=Orcish Warlord, id=Halter
 msgid "Orcs"
 msgstr "兽人"
 
@@ -3623,8 +3623,8 @@ msgstr "你们为什么要和那些法师来往？拯救他们的灵魂？"
 msgid "(<i>Giggle</i>) Something like that."
 msgstr "（<b>咯咯笑</b>）差不多吧。"
 
-#. [story]
 #. [message]: speaker=Tallin
+#. [story]
 msgid "(<i>Rolls eyes</i>)"
 msgstr "（<b>转眼珠</b>）"
 
@@ -3694,8 +3694,8 @@ msgstr "就这样吧。我们具体该怎样到达那个山口？"
 msgid "And so Tallin and his party set out to secure the help of the mages."
 msgstr "随后塔林和他的部队出发去寻求法师的帮助。"
 
-#. [side]: type=Dwarvish Lord, id=Stalrag
 #. [unit]: type=Dwarvish Lord, id=Stalrag
+#. [side]: type=Dwarvish Lord, id=Stalrag
 msgid "Stalrag"
 msgstr "斯托莱格"
 
@@ -3703,8 +3703,8 @@ msgstr "斯托莱格"
 msgid "Liches"
 msgstr "巫妖"
 
-#. [side]: type=Ancient Lich, id=Ro'Arthian
 #. [unit]: type=Ancient Lich, id=Ro'Arthian
+#. [side]: type=Ancient Lich, id=Ro'Arthian
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
 
@@ -4090,10 +4090,10 @@ msgid ""
 "these wretched mages?!"
 msgstr "等一等，塔林。你是说要把我们的家园送给这些可恶的法师？！"
 
+#. [message]: id=Ro'Sothian
 #. [message]: speaker=Ro'Arthian
 #. [message]: speaker=Ro'Sothian
 #. [message]: speaker=Eryssa
-#. [message]: id=Ro'Sothian
 msgid "(<i>Snicker</i>)"
 msgstr "（<b>窃笑</b>）"
 
@@ -6075,7 +6075,7 @@ msgstr "噢，不，我们被包围了！"
 
 #. [message]: speaker=Tallin
 #. This is an approximate quote from an Anglo-Saxon heroic poem
-#. the Lay of Beorthnoth. Tranlate appropriately.
+#. the Lay of Beorthnoth. Translate appropriately.
 msgid ""
 "Courage shall be the harder, heart the keener, and our spirit greater as our "
 "strength lessens. Kill them all!"
@@ -6090,8 +6090,8 @@ msgstr "耶耶耶！我喜欢！"
 msgid "Resist for as long as you can"
 msgstr "坚持尽可能久的时间"
 
-#. [objectives]
 #. [objective]: condition=win
+#. [objectives]
 msgid "Defeat the enemy leaders"
 msgstr "打败众敌将"
 

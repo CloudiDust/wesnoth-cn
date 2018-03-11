@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 23:32+0300\n"
-"PO-Revision-Date: 2017-10-06 12:33+0800\n"
+"POT-Creation-Date: 2018-02-12 20:02+0300\n"
+"PO-Revision-Date: 2018-03-10 23:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -292,6 +292,10 @@ msgid "General Purpose Administration and Coordination"
 msgstr "总体管理与协调"
 
 #. [about]
+msgid "Internationalization Managers"
+msgstr "国际化经理"
+
+#. [about]
 msgid "Artwork and Graphics"
 msgstr "美工与图像"
 
@@ -322,10 +326,6 @@ msgstr "其他贡献者"
 #. [about]
 msgid "Bots"
 msgstr "机器人"
-
-#. [about]
-msgid "Internationalization Managers"
-msgstr "国际化经理"
 
 #. [about]
 msgid "Afrikaans Translation"
@@ -2465,7 +2465,7 @@ msgstr ""
 "亚西尔,亚赞,耶齐德,尤努斯,尤沙,尤斯里,优素福,扎法尔,扎菲尔,扎希德,查希尔,扎伊"
 "德,扎伊姆,扎伊纳,扎里夫,扎卡里亚,扎基,扎卡万,齐亚德,祖巴伊尔,祖海尔"
 
-#. Generator for male khalifate human names
+#. Generator for male dunefolk human names
 msgid ""
 "\n"
 "main={name_long}|{prefix}{suffix}|{name_mid}{connector}{name_mid}\n"
@@ -2562,7 +2562,7 @@ msgstr ""
 "亚西尔|亚赞|耶齐德|尤努斯|尤沙|尤斯里|优素福|扎法尔|扎菲尔|扎希德|查希尔|扎伊"
 "德|扎伊姆|扎伊纳|扎里夫|扎卡里亚|扎基|扎卡万|齐亚德|祖巴伊尔|祖海尔\n"
 
-#. Generator for female khalifate human names
+#. Generator for female dunefolk human names
 msgid ""
 "\n"
 "main={name_long}|{prefix}{suffix}|{name_mid}{connector}{surname}\n"
@@ -3130,6 +3130,9 @@ msgstr "替代目标："
 msgid "Bonus objective:"
 msgstr "奖励目标："
 
+msgid "Optional objective:"
+msgstr "可选目标："
+
 #. [note]: description=<b>
 msgid "This is the last scenario."
 msgstr "这是最后一个场景。"
@@ -3430,6 +3433,10 @@ msgstr "迷雾"
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
+
+#. [deprecated_message]
+msgid "This unit has been renamed to: {NEW_NAME}"
+msgstr "此单位已重命名为：{NEW_NAME}"
 
 #. [core]: id=default
 msgid "Wesnoth (Default)"
@@ -3797,6 +3804,10 @@ msgstr "没有可用于选定的时代、游戏或模组的自定义选项。"
 msgid "Defaults"
 msgstr "默认"
 
+#. [label]
+msgid "Connected Players"
+msgstr "已连线玩家"
+
 #. [label]: id=title
 msgid "Install Dependencies"
 msgstr "安装依赖项目"
@@ -3838,21 +3849,26 @@ msgid "$elem has been deprecated and may be removed at any time."
 msgstr "$elem|已废弃并将可能在任何时刻移除。"
 
 #. [lua]: wesnoth.deprecation_message
-msgid "$elem has been deprecated and will be removed in the next version."
-msgstr "$elem|已废弃并将在下一个版本中移除。"
+msgid ""
+"$elem has been deprecated and will be removed in the next version ($version)."
+msgstr "$elem|已废弃并将在下一版本（$version|）中移除。"
 
 #. [lua]: wesnoth.deprecation_message
 msgid "$elem has been deprecated and removed."
 msgstr "$elem|已废弃并已移除。"
 
 #. [lua]: wesnoth.deprecation_message
-#. [lua]: wml_actions.deprecated_message
-msgid "Invalid deprecation level (should be 1-4)"
-msgstr "无效废弃级别（应为1-4）"
+#. [lua]: wesnoth.deprecate_api
+msgid "Invalid deprecation level $level (should be 1-4)"
+msgstr "无效废弃级别$level|（应为1-4）"
 
 #. [lua]: wesnoth.deprecate_api
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "（注：在新代码中，你应当使用$replacement|作为替代）"
+
+#. [lua]: wml_actions.deprecated_message
+msgid "Invalid deprecation level (should be 1-4)"
+msgstr "无效废弃级别（应为1-4）"
 
 #. [lua]: set_status
 msgid "female^poisoned"
@@ -4011,22 +4027,18 @@ msgid "Actions"
 msgstr "行动"
 
 #. [action]: id=button-endturn
-#. [menu]: id=button-endturn
 msgid "End Turn"
 msgstr "结束回合"
 
 #. [action]: id=button-endturn
-#. [menu]: id=button-endturn
 msgid "End Scenario"
 msgstr "结束场景"
 
 #. [label]: id=label-hp
-#. [label]: id=selected-label-hp
 msgid "HP"
 msgstr "生命值"
 
 #. [label]: id=label-xp
-#. [label]: id=selected-label-xp
 msgid "XP"
 msgstr "经验值"
 
@@ -4051,17 +4063,14 @@ msgid "income"
 msgstr "收入"
 
 #. [unit_level]: id=unit-level
-#. [selected_unit_level]: id=selected-unit-level
 msgid "statuspanel^level"
 msgstr "等级"
 
 #. [unit_moves]: id=unit-moves
-#. [selected_unit_moves]: id=selected-unit-moves
 msgid "statuspanel^moves"
 msgstr "移动"
 
 #. [unit_defense]: id=unit-defense
-#. [selected_unit_defense]: id=selected-unit-defense
 msgid "statuspanel^terrain def."
 msgstr "地形防御"
 
@@ -4088,22 +4097,6 @@ msgstr "防御"
 #. [unit_level]: id=unit-level
 msgid "statuspanel^lvl"
 msgstr "等级"
-
-#. [theme]: id=UnitBox
-msgid "theme^UnitBox"
-msgstr "单位小盒"
-
-#. [theme]: id=UnitBox
-msgid "An experimental work-in-progress replacement for the default theme"
-msgstr "正在制作中的试验性主题，用于替换默认主题"
-
-#. [theme]: id=Widescreen
-msgid "theme^Widescreen"
-msgstr "宽屏主题"
-
-#. [theme]: id=Widescreen
-msgid "An experimental theme optimized for widescreen resolutions"
-msgstr "为宽屏分辨率优化的试验性主题"
 
 #. [tip]
 msgid ""
@@ -4501,6 +4494,21 @@ msgstr ""
 "的防御和治疗优势的同时攻击你。"
 
 #. [tip]
+msgid ""
+"For any player, controlling villages is often key to winning a scenario. You "
+"may use this knowledge to lure your opponents into a trap by leaving some "
+"villages unoccupied, but keep in mind that an enemy unit becomes much harder "
+"to dislodge from a village! Plan your movements accordingly."
+msgstr ""
+"对任何玩家来说，控制村庄都是赢得场景的关键。你可以运用这一知识，放弃对一些村"
+"庄的控制，以将对手引入陷阱。但请牢记于心，驻扎在村庄中的敌人将变得难以驱离！"
+"请根据这一点计划好你的行动。"
+
+#. [tip]
+msgid "<i>― Kai Laudiss, 623YW</i>"
+msgstr "<b>——劳迪斯凯王，韦元623年</b>"
+
+#. [tip]
 msgid "Use lines of troops to screen your injured units while they recover."
 msgstr "在负伤的单位恢复时，让部队站成线形来保护他们。"
 
@@ -4735,6 +4743,18 @@ msgstr ""
 
 #. [tip]
 msgid ""
+"You must accept some losses in battle. It is not uncommon for beginners to "
+"lose sight of victory as they attempt to keep every unit alive."
+msgstr ""
+"你必须接受战斗损失。当初学者试图让所有人都存活时，他们会无法看到胜利，这可不"
+"是罕见的情形。"
+
+#. [tip]
+msgid "<i>― Queen Asheviere, 503YW</i>"
+msgstr "<b>——艾什薇尔女王，韦元503年</b>"
+
+#. [tip]
+msgid ""
 "<i>Feral</i> units, such as Bats and wild animals, will avoid villages. Even "
 "if they occupy a village hex, they do not gain any defensive benefits from "
 "the village, although they will still be healed."
@@ -4822,6 +4842,39 @@ msgstr "正在下载附加组件列表……"
 msgid "Requesting distribution terms..."
 msgstr "正在请求分发条款……"
 
+msgid ""
+"The add-on <i>$addon_title</i> has an invalid id '$addon_id' and cannot be "
+"published."
+msgstr "附加组件<b>$addon_title</b>的ID（“$addon_id|”）无效，因此无法发布。"
+
+msgid ""
+"The add-on <i>$addon_title</i> has a file or directory containing invalid "
+"characters and cannot be published."
+msgstr ""
+"附加组件<b>$addon_title</b>中的某个文件名或者目录名无效，因此无法发布。"
+
+msgid ""
+"The add-on <i>$addon_title</i> has an invalid file or directory name and "
+"cannot be published. File or directory names may not contain '..' or end "
+"with '.' or be longer than 255 characters. It also may not contain "
+"whitespace, control characters, or any of the following characters:\n"
+"\n"
+"&quot; * / : &lt; &gt; ? \\ | ~"
+msgstr ""
+"附加组件<b>$addon_title</b>含有无效的文件或目录名，因此无法发布。文件或目录名"
+"不能包含“..”或以“.”结尾，或长于255个字符。其中也不能包含空格、控制字符或下列"
+"任意字符：\n"
+"\n"
+"&quot; * / : &lt; &gt; ? \\ | ~"
+
+msgid ""
+"The add-on <i>$addon_title</i> contains files or directories with case "
+"conflicts. File or directory names may not be differently-cased versions of "
+"the same string."
+msgstr ""
+"附加组件<b>$addon_title</b>包含有大小写冲突的文件或目录名。文件或目录名不可以"
+"是仅有大小写不同的同一个字符串。"
+
 msgid "Sending add-on <i>$addon_title</i>..."
 msgstr "正在发送附加组件<b>$addon_title</b>……"
 
@@ -4836,6 +4889,13 @@ msgid ""
 "cannot be installed."
 msgstr ""
 "附加组件<b>$addon_title</b>中的某个文件名或者目录名无效，因此无法安装。"
+
+msgid ""
+"The add-on <i>$addon_title</i> has file or directory names with case "
+"conflicts. This may cause problems."
+msgstr ""
+"附加组件<b>$addon_title</b>中的某些文件名或者目录名的大小写冲突。这可能会造成"
+"问题。"
 
 msgid "The server responded with an error:"
 msgstr "服务器返回一个错误："
@@ -4914,8 +4974,8 @@ msgstr "多人游戏场景"
 msgid "addon_type^MP campaign"
 msgstr "多人游戏战役"
 
-msgid "addon_type^MP modification"
-msgstr "多人游戏模组"
+msgid "addon_type^Modification"
+msgstr "模组"
 
 msgid "addon_type^Core"
 msgstr "核心"
@@ -5312,9 +5372,6 @@ msgstr "空置"
 msgid "Reserved"
 msgstr "保留"
 
-msgid "--give--"
-msgstr "--给予--"
-
 msgid "Map could not be loaded: "
 msgstr "无法载入地图："
 
@@ -5324,8 +5381,8 @@ msgstr "无法载入地图。"
 msgid "not available."
 msgstr "不可用。"
 
-msgid "User made map"
-msgstr "用户模式地图"
+msgid "Custom map."
+msgstr "自定义地图。"
 
 msgid "Failed to resolve dependencies"
 msgstr "依赖项目解析失败"
@@ -5359,11 +5416,14 @@ msgstr "无法找到$faction|派系的首领类型"
 msgid "Cannot obtain genders for invalid leader $leader"
 msgstr "无法获取无效的首领$leader|的性别"
 
+msgid "Missing addon: $name"
+msgstr "缺少附加组件：$name"
+
 msgid "Missing addon: $id"
 msgstr "缺少附加组件：$id"
 
-msgid "Unknown era: $era_id"
-msgstr "未知时代：$era_id"
+msgid "$era_name (missing)"
+msgstr "$era_name（丢失）"
 
 msgid "Unknown era"
 msgstr "未知时代"
@@ -5371,20 +5431,14 @@ msgstr "未知时代"
 msgid "(missing)"
 msgstr "（丢失）"
 
-msgid "(S)"
-msgstr "(S)"
+msgid "S"
+msgstr "S"
 
 msgid "Remote scenario"
 msgstr "远程场景"
 
-msgid "Unknown scenario: $scenario_id"
-msgstr "未知场景：$scenario_id"
-
-msgid "(C)"
-msgstr "(C)"
-
-msgid "Unknown campaign: $campaign_id"
-msgstr "未知战役：$campaign_id"
+msgid "C"
+msgstr "C"
 
 msgid "Unknown scenario"
 msgstr "未知场景"
@@ -5456,8 +5510,10 @@ msgstr "昵称‘$nick|’已被使用了。"
 
 msgid ""
 "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric "
-"characters, underscores and hyphens are allowed."
-msgstr "昵称‘$nick|’包含无效字符。只能使用字母，下划线和连字符。"
+"characters (one at minimum), underscores and hyphens are allowed."
+msgstr ""
+"昵称‘$nick|’包含无效字符。只允许使用字母或数字（至少要有一个字母或数字），下"
+"划线和连字符。"
 
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
 msgstr "昵称‘$nick|’太长了。昵称长度不得超过20个字符。"
@@ -5604,7 +5660,7 @@ msgid "Error while starting server: "
 msgstr "启动服务器时发生错误： "
 
 msgid "Random maps with an odd width aren't supported."
-msgstr "不支持有奇怪的宽度的随机地图"
+msgstr "不支持有奇怪宽度的随机地图。"
 
 msgid ""
 "No valid castle location found. Too many or too few mountain hexes? (please "
@@ -5617,17 +5673,17 @@ msgid "Linked group '$id' needs a 'fixed_width' or 'fixed_height' key."
 msgstr "链接到的‘$id|’组需要‘fixed_width’或‘fixed_height’主键。"
 
 msgid ""
-"The selected add-on has the following dependency, which is not currently "
-"installed. Do you wish to install it before continuing?"
+"The selected add-on has the following dependency, which is outdated or not "
+"currently installed. Do you wish to install it before continuing?"
 msgid_plural ""
-"The selected add-on has the following dependencies, which are not currently "
-"installed. Do you wish to install them before continuing?"
+"The selected add-on has the following dependencies, which are outdated or "
+"not currently installed. Do you wish to install them before continuing?"
 msgstr[0] ""
-"这个附加组件有下列依赖项目。这个依赖项目尚未安装。继续之前希望安装依赖项目"
+"这个附加组件有下列依赖项目。这个依赖项目已过时或尚未安装。继续之前希望安装它"
 "吗？"
 msgstr[1] ""
-"这个附加组件有下列依赖项目。这些依赖项目尚未安装。继续之前希望安装依赖项目"
-"吗？"
+"这个附加组件有下列依赖项目。这些依赖项目已过时或尚未安装。继续之前希望安装它"
+"们吗？"
 
 msgid "No Saved Games"
 msgstr "没有游戏存档"
@@ -5706,6 +5762,9 @@ msgstr "首领"
 
 msgid "Recruits"
 msgstr "新兵"
+
+msgid "No description available."
+msgstr "无可用描述。"
 
 msgid "Availability: "
 msgstr "可用性："
@@ -5846,6 +5905,12 @@ msgstr ""
 "\n"
 "请确保在存有韦诺玩家资源文件的驱动器上有足够多的空间，且文件权限设置正确。"
 
+msgid "Do you really want to surrender the game?"
+msgstr "你真的想要投降吗？"
+
+msgid "Surrender"
+msgstr "投降"
+
 msgid "Screenshot"
 msgstr "屏幕截图"
 
@@ -5860,9 +5925,6 @@ msgstr "已启用加速！"
 
 msgid "Accelerated speed disabled!"
 msgstr "已禁用加速！"
-
-msgid "Auto-Save"
-msgstr "自动存档"
 
 msgid "Back to Turn "
 msgstr "回到回合"
@@ -6006,6 +6068,12 @@ msgstr "重命名单位"
 
 msgid "Name:"
 msgstr "名称："
+
+msgid "Clear Labels"
+msgstr "清除标签"
+
+msgid "Are you sure you want to clear map labels?"
+msgstr "你确定要清除地图标签吗？"
 
 msgid "Search"
 msgstr "搜索"
@@ -6622,14 +6690,17 @@ msgstr "直到你的回合自动结束的倒计时"
 msgid "Turn Countdown"
 msgstr "回合倒计时"
 
-msgid "%a %b %d %H:%M %Y"
-msgstr "%a %b %d %H:%M %Y"
-
 msgid "%a %b %d %I:%M %p %Y"
 msgstr "%a %b %d %I:%M %p %Y"
 
+msgid "%a %b %d %H:%M %Y"
+msgstr "%a %b %d %H:%M %Y"
+
 msgid " replay"
 msgstr " 游戏录像"
+
+msgid "Auto-Save"
+msgstr "自动存档"
 
 msgid "Warning: The file you have tried to load is corrupt. Loading anyway.\n"
 msgstr "警告：试图载入的文件已损坏。仍然尝试载入。\n"
@@ -6686,6 +6757,9 @@ msgstr "不能自动保存当前游戏。请手动存档。"
 
 msgid "Save Game"
 msgstr "保存游戏"
+
+msgid "Game state is corrupted"
+msgstr "游戏状态已损毁"
 
 msgid "Unexpected characters at line start"
 msgstr "行首部出现非预期的字符"
@@ -6791,3 +6865,165 @@ msgstr "Y"
 
 msgid "infix_binary^i"
 msgstr "i"
+
+msgid "waiting for $desc from side(s) $sides"
+msgstr "等待$sides|阵营的$desc"
+
+msgid "Allied village"
+msgstr "友方村庄"
+
+msgid "Enemy village"
+msgstr "敌方村庄"
+
+msgid "Owned village"
+msgstr "自有村庄"
+
+msgid "border_size should be between 0.0 and 0.5."
+msgstr "border_size应在0.0和0.5之间。"
+
+msgid "Hotkey(s): "
+msgstr "热键："
+
+msgid "Stub Time of Day"
+msgstr "时段占位符"
+
+msgid "This Time of Day is only a Stub!"
+msgstr "这一时段只是一个占位时段！"
+
+#. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
+msgid "<span color=\"$color\">$number_or_percent</span> damage"
+msgid_plural "<span color=\"$color\">$number_or_percent</span> damage"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span>伤害"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span>伤害"
+
+msgid "$number damage"
+msgid_plural "$number damage"
+msgstr[0] "$number|伤害"
+msgstr[1] "$number|伤害"
+
+#. TRANSLATORS: Current value for WML code increase_attacks, documented in https://wiki.wesnoth.org/EffectWML
+msgid "<span color=\"$color\">$number_or_percent</span> strike"
+msgid_plural "<span color=\"$color\">$number_or_percent</span> strikes"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> 次打击"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> 次打击"
+
+#. TRANSLATORS: Current value for WML code set_attacks, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number strike"
+msgid_plural "$number strikes"
+msgstr[0] "$number|次打击"
+msgstr[1] "$number|次打击"
+
+#. TRANSLATORS: Current value for WML code set_accuracy, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number| accuracy"
+msgstr "$number|命中"
+
+#. TRANSLATORS: Current value for WML code increase_accuracy, documented in https://wiki.wesnoth.org/EffectWML
+msgid "<span color=\"$color\">$number_or_percent|%</span> accuracy"
+msgstr "<span color=\"$color\">$number_or_percent|%</span>命中"
+
+#. TRANSLATORS: Current value for WML code set_parry, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number parry"
+msgstr "$number|格挡"
+
+#. TRANSLATORS: Current value for WML code increase_parry, documented in https://wiki.wesnoth.org/EffectWML
+msgid "<span color=\"$color\">$number_or_percent</span> parry"
+msgstr "<span color=\"$color\">$number_or_percent</span>格挡"
+
+#. TRANSLATORS: Current value for WML code set_movement, documented in https://wiki.wesnoth.org/EffectWML
+msgid "$number movement point"
+msgid_plural "$number movement points"
+msgstr[0] "$number|点移动力"
+msgstr[1] "$number|点移动力"
+
+#. TRANSLATORS: Current value for WML code increase_movement, documented in https://wiki.wesnoth.org/EffectWML
+msgid "<span color=\"$color\">$number_or_percent movement</span> point"
+msgid_plural "<span color=\"$color\">$number_or_percent movement</span> points"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span>点移动力"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span>点移动力"
+
+msgid "chaotic"
+msgstr "混沌"
+
+msgid "lawful"
+msgstr "守序"
+
+msgid "liminal"
+msgstr "边缘"
+
+msgid "neutral"
+msgstr "中立"
+
+msgid "female^chaotic"
+msgstr "混沌"
+
+msgid "female^lawful"
+msgstr "守序"
+
+msgid "female^neutral"
+msgstr "中立"
+
+msgid "female^liminal"
+msgstr "边缘"
+
+msgid "$attack_list|: $effect_description"
+msgstr "$attack_list|：$effect_description"
+
+msgid "wesnoth"
+msgstr "韦诺"
+
+msgid "<span color=\"$color\">$number_or_percent</span> move"
+msgid_plural "<span color=\"$color\">$number_or_percent</span> moves"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span>次行动"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span>次行动"
+
+msgid "<span color=\"$color\">$number_or_percent</span> vision"
+msgstr "<span color=\"$color\">$number_or_percent</span>视野"
+
+msgid "<span color=\"$color\">$number_or_percent</span> jamming"
+msgstr "<span color=\"$color\">$number_or_percent</span>干扰"
+
+msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
+msgstr "<span color=\"$color\">$number_or_percent</span>点经验值以升级"
+
+msgid "<span color=\"$color\">$number_or_percent</span> attack per turn"
+msgid_plural ""
+"<span color=\"$color\">$number_or_percent</span> attacks per turn"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span>次攻击/回合"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span>次攻击/回合"
+
+msgid "<span color=\"$color\">$number_or_percent</span> cost to recall"
+msgstr "<span color=\"$color\">$number_or_percent</span>召回费用"
+
+msgid "$effect_description per level"
+msgstr "每一等级$effect_description"
+
+#. TRANSLATORS: "Before Wesnoth"   - format for years prior to the founding of Wesnoth
+msgid "$year BW"
+msgstr "韦元前$year|年"
+
+#. TRANSLATORS: "Year of Wesnoth"  - format for years after the founding of Wesnoth
+msgid "$year YW"
+msgstr "韦元$year|年"
+
+#. TRANSLATORS: "Before the Fall" -  format for years prior to the fall of Wesnoth
+msgid "$year BF"
+msgstr "崩前$year|年"
+
+#. TRANSLATORS: "After the Fall"   - format for years after the fall of Wesonth
+msgid "$year AF"
+msgstr "崩后$year|年"
+
+msgid "SHOW ALL allies’ plans"
+msgstr "显示全部友方计划"
+
+msgid "HIDE ALL allies’ plans"
+msgstr "隐藏全部友方计划"
+
+msgid "Show plans for $player"
+msgstr "显示$player的计划"
+
+msgid "Hide plans for $player"
+msgstr "隐藏$player的计划"
+
+msgid "Whiteboard Options"
+msgstr "白板选项"

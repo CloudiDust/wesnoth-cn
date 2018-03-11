@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:29 UTC\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
 "PO-Revision-Date: 2017-10-06 12:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -146,10 +146,6 @@ msgstr "死灵法师"
 #. [attack]: type=pierce
 msgid "curse"
 msgstr "诅咒"
-
-#. [attack]: type=impact
-msgid "morning star"
-msgstr "晨星之锤"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
@@ -468,8 +464,8 @@ msgstr ""
 "价。这些龙人所穿戴的厚重板甲能够很好地防止他们受到那些足以穿透龙鳞的武器的伤"
 "害。"
 
-#. [attack]: type=blade
 #. [attack]: type=pierce
+#. [attack]: type=blade
 msgid "halberd"
 msgstr "戟"
 
@@ -796,6 +792,491 @@ msgstr ""
 "让他们与众不同，能够帮助他们在敌群中杀出一条血路的只有天生的蛮力和军事训练。"
 "他们穿着被陶瓷片覆盖的皮甲，在手背上绑着传统的战刃参加战斗，这就是他们延续了"
 "几百年的战斗方式。"
+
+#. [unit_type]: id=Dune Apothecary, race=dunefolk
+msgid "Dune Apothecary"
+msgstr ""
+
+#. [unit_type]: id=Dune Apothecary, race=dunefolk
+#, fuzzy
+msgid ""
+"Some men excel at medicine the way others do at strength of arms, and the "
+"Apothecaries are those whose knowledge is without peer outside of the "
+"Dunefolk. Their remedies cannot only heal wounds but remove infection and "
+"poison as well, often to the disbelief of the injured. Hardened by years of "
+"travels, many are able to treat themselves."
+msgstr ""
+"有的人像别人专长于力量那样精于医术，而哈里发医者对于医药的知识在哈里发之外无"
+"人能及。他们的药物不仅能够治愈伤口，还能消除感染和解毒。其药效之神奇往往让伤"
+"者感到难以置信。他们中的许多人因长年的旅行而变得坚韧，能够处理好自身的伤病。"
+
+#. [unit_type]: id=Dune Blademaster, race=dunefolk
+#, fuzzy
+msgid "Dune Blademaster"
+msgstr "龙人剑圣"
+
+#. [unit_type]: id=Dune Blademaster, race=dunefolk
+#, fuzzy
+msgid ""
+"Distinguished for their bravery and skill, Blademasters are the leaders "
+"among the Dunefolk's ranks. Their exploits are well known among their "
+"cohorts, inspiring soldiers to fight for their cause. Despite this, they are "
+"often found leading from the front, taking down their foes with sword and "
+"shield."
+msgstr ""
+"哈里发勇毅者们因为勇气和技巧而受众人仰慕，他们是哈里发军阶体系中的领导者。他"
+"们的光辉事迹广为同袍们所熟知，激励着士兵们为他们卖命。尽管如此，他们仍然常常"
+"在作战时身先士卒，以剑盾击倒他们的敌人。"
+
+#. [unit_type]: id=Dune Burner, race=dunefolk
+#, fuzzy
+msgid "Dune Burner"
+msgstr "龙人灼烧者"
+
+#. [unit_type]: id=Dune Burner, race=dunefolk
+msgid ""
+"Utilizing various resources found in the Dunefolk domain, a highly flammable "
+"substance can be made. The Burners are those charged with making and "
+"carrying this dangerous mixture into battle. While the use of fire in "
+"warfare is not a novel concept, the effectiveness of their work is."
+msgstr ""
+
+#. [attack]: type=fire
+msgid "naphtha attack"
+msgstr "油火攻击"
+
+#. [attack]: type=fire
+msgid "fire arrow"
+msgstr "火焰箭"
+
+#. [unit_type]: id=Dune Cataphract, race=dunefolk
+msgid "Dune Cataphract"
+msgstr ""
+
+#. [unit_type]: id=Dune Cataphract, race=dunefolk
+#, fuzzy
+msgid ""
+"The Cataphract are eminent horsemen, amassing titles and accolades that are "
+"as distinguishing for them as the scrollwork on their armor. Having honed "
+"their skill with a lance in years of battle, the Cataphract are an "
+"unstoppable force of nature. Fleeing enemies swiftly discover that hills do "
+"not deter these riders in the slightest, and the displaced air of a "
+"descending mace is the last sound they hear."
+msgstr ""
+"哈里发重骑兵是杰出的马师，积攒着如同他们铠甲上的漩涡纹饰那般别致耀眼的头衔和"
+"赞誉。长年的战斗让哈里发重骑兵磨练出了一手使枪的绝技，这让他们成为了一只不可"
+"阻挡的力量。逃窜的敌人们很快就发现山丘丝毫不能对这些骑手构成障碍，然后便在铁"
+"锤的破风声中被结果了性命。"
+
+#. [unit_type]: id=Elder Falcon, race=falcon
+msgid "Elder Falcon"
+msgstr "年长猎鹰"
+
+#. [unit_type]: id=Elder Falcon, race=falcon
+msgid ""
+"Elder Falcons bear the telltale scars of veteran warriors from protecting "
+"their masters, their bodies proof of repeated dives into a swirling melee. "
+"Stronger and faster than their younger kin, they are rumored to hit with "
+"enough force to remove an enemy's head. "
+msgstr ""
+"年长猎鹰身上密布的伤疤述说着这些沙场老兵忠心护主的故事，它们身上尽是反复的俯"
+"冲战斗留下的痕迹。这些年长猎鹰比他们年幼的同族更为迅捷与强壮，有传言说他们的"
+"冲击甚至足以令敌人身首分离。"
+
+#. [attack]: type=pierce
+msgid "beak"
+msgstr "喙"
+
+#. [unit_type]: id=Dune Explorer, race=dunefolk
+#, fuzzy
+msgid "Dune Explorer"
+msgstr "矮人探险者"
+
+#. [unit_type]: id=Dune Explorer, race=dunefolk
+#, fuzzy
+msgid ""
+"Explorers are often utilized as heavy scouts, no longer just probing the "
+"enemy but conducting raids on the supply lines or eliminating patrols. Often "
+"away from the main body of the army for long periods of time, Explorers have "
+"no issue pilfering these supplies, and so they tend to be more well-equipped "
+"than most."
+msgstr ""
+"哈里发游侠常被用作重型的侦察兵。他们不再仅仅侦查敌人，还会洗劫敌人的补给线或"
+"者歼灭敌人的巡逻队。因为常常长时间待在敌后，哈里发游侠毫不介意窃取敌人的物"
+"资，因此他们常常拥有比大多数人更好的装备。"
+
+#. [attack]: type=pierce
+msgid "composite bow"
+msgstr "复合弓"
+
+#. [unit_type]: id=Falcon, race=falcon
+msgid "Falcon"
+msgstr "猎鹰"
+
+#. [unit_type]: id=Falcon, race=falcon
+#, fuzzy
+msgid ""
+"Seen as status symbols of the nobles, falcons are precious possessions "
+"normally used for sport. The same techniques are employed to rend and tear "
+"foes on the battlefield, and their great speed is a boon to scouting out the "
+"land."
+msgstr ""
+"猎鹰被看作贵族社会地位的象征，它们主要被驯养来作为狩猎消遣的助手。同样的狩猎"
+"技巧也被用来撕裂Khalifate的敌人，并且它们的高速移动能力在战地侦查中极为有用。"
+
+#. [unit_type]: id=Dune Firetrooper, race=dunefolk
+msgid "Dune Firetrooper"
+msgstr ""
+
+#. [unit_type]: id=Dune Firetrooper, race=dunefolk
+#, fuzzy
+msgid ""
+"Scorchers who have shut out the world for their experiments are given the "
+"title of Firetrooper, as both a sign of respect and of fear. No longer "
+"cognizant of the value of life, Firetroopers are caught up in the power of "
+"their caged fire and likely to test their latest naphtha jar at the first "
+"opportunity."
+msgstr ""
+"那些排除了世俗之扰，完全投身进自己的实验的哈里发举火者被人用敬语称作“焚天"
+"士”，这个名字同时带有尊敬与恐惧之意。哈里发焚天士们已不再意识到生命的价值，他"
+"们被笼中火焰的力量所迷摄，不愿放过任何一个测试他们最新式燃烧罐的机会。"
+
+#. [unit_type]: id=Dune Harrier, race=dunefolk
+#, fuzzy
+msgid "Dune Harrier"
+msgstr "龙人武士"
+
+#. [unit_type]: id=Dune Harrier, race=dunefolk
+#, fuzzy
+msgid ""
+"Harriers hold themselves to a higher standard than the ranks of the "
+"Skirmishers from which they ascended. Not content to merely draw the enemy "
+"out, they combine their speed with an aggression that sends the Harriers "
+"dancing through the ranks of the enemy, swords ripping and tearing at those "
+"around them. "
+msgstr ""
+"哈里发剑豪进阶自剑客，他们始终以更高的标准要求自己。哈里发剑豪不满足于仅仅牵"
+"制住敌人，他们将速度与倾略性相结合，在敌阵中跳起令人血肉横飞的剑舞。"
+
+#. [attack]: type=blade
+msgid "longsword"
+msgstr "长剑"
+
+#. [unit_type]: id=Dune Herbalist, race=dunefolk
+#, fuzzy
+msgid "Dune Herbalist"
+msgstr "决斗士"
+
+#. [unit_type]: id=Dune Herbalist, race=dunefolk
+#, fuzzy
+msgid ""
+"Herbalists are learned individuals who have given up their urban life in "
+"order to assist the Dunefolk armies in their travels. Their motivations are "
+"many; some look to it as an adventure or as a steady source of pay, while "
+"others feel it to be a duty to their society. Regardless, Herbalists are "
+"highly respected by all. They are trained with the advanced medical "
+"techniques and possess a potent clutch of medicines and herbs, which allows "
+"them to quickly heal even the most gravely wounded allies."
+msgstr ""
+"哈里发智者是博学者，他们为了协助出征的军队放弃了自己的市民生活。个中的动机有"
+"许多，有的人追求冒险或一份稳定的收入，而另一些人则受到了信仰的感召。无论如"
+"何，哈里发智者们受到所有人的高度敬仰。他们受过深入的医术训练，并且手握丰富的"
+"药材资源，因此即使是受伤最严重的士兵也能被他们快速治愈。"
+
+#. [unit_type]: id=Dune Marauder, race=dunefolk
+msgid "Dune Marauder"
+msgstr ""
+
+#. [unit_type]: id=Dune Marauder, race=dunefolk
+#, fuzzy
+msgid ""
+"Those Raiders who prove to be particularly skilled are formed into units of "
+"Marauders, which are often used to raid enemy depots and towns for supplies. "
+"This greater autonomy often means that these horsemen are gone for weeks at "
+"a time, returning to camp only for supplies and to pass on news of their "
+"exploits."
+msgstr ""
+"那些在战斗中表现出高超技巧的哈里发游骑兵们被编入了标骑兵的行列，他们被用来洗"
+"劫敌人的仓库与城镇以谋取给养。更大的自主权常常意味着这些骑兵们常常一出征就是"
+"数周，仅仅为了补给物资和报告功绩才返回营地。"
+
+#. [unit_type]: id=Dune Piercer, race=dunefolk
+msgid "Dune Piercer"
+msgstr ""
+
+#. [unit_type]: id=Dune Piercer, race=dunefolk
+#, fuzzy
+msgid ""
+"The Piercer understand the psychological impact of a charging horse, and "
+"reinforce this by cladding themselves in heavy armor. Majestic at rest, a "
+"Piercer at the charge with lance in hand is often impetus enough to break "
+"men. On the rare occurrences that their charge fails to rout their foe, the "
+"Piercer ride into the resulting melee with their maces in hand, trusting "
+"their armor to keep them safe."
+msgstr ""
+"哈里发枪骑兵明白冲锋的马匹对敌军心理上的冲击，并通过身着重甲来增强这种震撼"
+"感。傲立时魁梧威严，持矛冲锋的骑手所携的冲击则常常足以令敌人散架。在极少数枪"
+"骑兵的冲锋没能击溃敌人的情境中，他们会纵马迎敌持锤而战，信赖身上的铁铠能保障"
+"自己的安全。"
+
+#. [unit_type]: id=Dune Raider, race=dunefolk
+#, fuzzy
+msgid "Dune Raider"
+msgstr "恐狼骑手"
+
+#. [unit_type]: id=Dune Raider, race=dunefolk
+#, fuzzy
+msgid ""
+"Those horsemen who are not skilled enough to join the ranks of the Sunderers "
+"or quick enough with a bow for the Swiftriders are instead placed with the "
+"Raiders. Far from being a sign of failure, the Raiders were created as a "
+"mounted counterpart to the Explorers, supporting the foot troops with mace "
+"or bow as needed. Raiders are often used to draw enemies into a position "
+"where they will be surrounded and crushed by Sunderers."
+msgstr ""
+"那些既不足以凭借技巧加入骑士的集团又不具备迅骑兵集团所必须的迅捷与弓术的骑兵"
+"就会被编入游骑兵的行列。这并不意味着他们就是失败者，恰恰相反，哈里发游骑兵被"
+"是作为马背上的游侠而组建的，能够视需要以铁锤或弓箭为步兵提供辅助。哈里发游骑"
+"兵常被用来将敌人诱入骑士的包围网，然后让骑士们来将敌人碾碎。"
+
+#. [unit_type]: id=Dune Ranger, race=dunefolk
+#, fuzzy
+msgid "Dune Ranger"
+msgstr "游侠"
+
+#. [unit_type]: id=Dune Ranger, race=dunefolk
+#, fuzzy
+msgid ""
+"Rangers are the elite of the Explorers, engaging in constant hit and run "
+"attacks against an enemy army. Nimble as a goat and strong as a ram, they "
+"prefer to coordinate multiple attacks at the same time, sending foes running "
+"from their arrows only to be cut down by their axes. Given their penchant "
+"for taking on only the most daring missions, Rangers are often heroes to the "
+"common troopers, an image they do not try to dissuade."
+msgstr ""
+"哈里发英豪是游侠中的精英，善于采用不间断的游击战术侵扰敌军。他们迅捷如风，勇"
+"猛如虎，能够协调一致地同时发动多重打击。以弓箭驱赶敌人，再以战斧将他们砍倒。"
+"哈里发英豪热衷于接受最勇敢的任务，因此总被军人们视为英雄，他们也有意识地维护"
+"着这样的形象。"
+
+#. [unit_type]: id=Dune Rider, race=dunefolk
+#, fuzzy
+msgid "Dune Rider"
+msgstr "恐狼骑手"
+
+#. [unit_type]: id=Dune Rider, race=dunefolk
+#, fuzzy
+msgid ""
+"Riders are excellent horsemen, able to shoot from horseback better than most "
+"men can manage from foot. Disdaining the use of heavy armor, Riders use "
+"their superior speed and agility to circle and harass their foes, whittling "
+"down their numbers with relentless arrows."
+msgstr ""
+"哈里发轻骑兵是优秀的骑兵，他们在马背上射箭能够比许多人站在地上射得还准。哈里"
+"发轻骑兵不愿使用重甲，他们利用自己的高速和灵活去包围和不断骚扰敌人，用无情的"
+"箭雨削减敌人的数量。"
+
+#. [unit_type]: id=Dune Rover, race=dunefolk
+msgid "Dune Rover"
+msgstr ""
+
+#. [unit_type]: id=Dune Rover, race=dunefolk
+#, fuzzy
+msgid ""
+"Rovers in many ways represent the ideal Dunefolk unit; flexible, mobile, "
+"equally effective in defense and offense as well as in ranged or close "
+"combat. They are most comfortable operating in terrain and environments "
+"common to them; the deserts and hills of their southern lands. Moreover they "
+"fight best at dawn or dusk, corresponding to the time when desert "
+"temperatures are the most reasonable."
+msgstr ""
+"在许多方面，迅兵都是哈里发单位的理想代表：灵活，机动，攻守兼备，远近全能。他"
+"们习于在南方的沙漠和山丘中进行作战，那正是他们最熟悉的地形与环境。此外，他们"
+"最擅长在清晨或者傍晚战斗，因为在沙漠中那是温度最合适的时间。"
+
+#. [unit_type]: id=Dune Scorcher, race=dunefolk
+msgid "Dune Scorcher"
+msgstr ""
+
+#. [unit_type]: id=Dune Scorcher, race=dunefolk
+#, fuzzy
+msgid ""
+"Scorchers spend so much time experimenting with their weapons that they "
+"smell constantly of ash and flame. Regarded with wariness by their fellow "
+"troops, Scorchers can be easily located in battle by the cleared charred "
+"area around them, a testament to the success of their experiments."
+msgstr ""
+"哈里发举火者花费了太多时间试验他们的武器，以致于他们身上一直散发着一股灰烬和"
+"火焰的味道。他们总被同袍们以谨慎的眼光看待。根据战场上的焦土痕迹，人们很容易"
+"就能在战场上确定他们的位置。那是对他们成功实验的有力宣言。"
+
+#. [unit_type]: id=Dune Skirmisher, race=dunefolk
+#, fuzzy
+msgid "Dune Skirmisher"
+msgstr "蜥蜴人游击士"
+
+#. [unit_type]: id=Dune Skirmisher, race=dunefolk
+#, fuzzy
+msgid ""
+"Those Rovers who are proficient at scouting are elevated into the ranks of "
+"the Skirmishers. Discarding their bow, Skirmishers focus on developing their "
+"swiftness of foot to allow them to flow in and out of combat. They are often "
+"used to harry the flanks of opposing forces, and it is said to be easier to "
+"catch the wind in your hand than to catch a Skirmisher."
+msgstr ""
+"那些拥有熟练侦查技巧的哈里发迅兵被提拔进了剑客的行列。哈里发剑客放弃了弓术，"
+"专心训练出迅捷的脚力，借此灵活的在战斗中迎敌和脱出。他们主要被派来包抄敌军的"
+"侧翼，而且人们常说捉捕哈里发剑客的难度甚于捉风。"
+
+#. [unit_type]: id=Dune Soldier, race=dunefolk
+msgid "Dune Soldier"
+msgstr ""
+
+#. [unit_type]: id=Dune Soldier, race=dunefolk
+#, fuzzy
+msgid ""
+"The Soldier forms the backbone of any Dunefolk foot advance. Many come from "
+"noble or military families, and have spent most of their lives training "
+"their craft. Given their intense focus on swordplay, they are often sent "
+"against fortified enemy positions to create a breach for the remaining "
+"troops to exploit. The sight of Soldiers on the march, shields high, has "
+"caused many a defender to worry about the strength of their walls."
+msgstr ""
+"哈里发步兵是哈里发士兵中的骨干。他们大多来自贵族或者军事家庭，并且花费了大半"
+"辈子修习武艺。因为他们高超的剑技，他们常被派去负责攻坚战，为其余部队打开突破"
+"口。当看到哈里发步兵高举着盾牌进军时，守军们常常不禁担忧起他们的城墙是否足够"
+"坚固。"
+
+#. [unit_type]: id=Dune Spearguard, race=dunefolk
+msgid "Dune Spearguard"
+msgstr ""
+
+#. [unit_type]: id=Dune Spearguard, race=dunefolk
+#, fuzzy
+msgid ""
+"Although the Dunefolk armies are known for their astonishing mobility and "
+"fierce attack, they can be able defenders. Spearguard excel at holding their "
+"ground, keeping opponents at bay with long, razor sharp spears. Their "
+"preferred strategy is to gradually wear down enemies, until they can be "
+"defeated in a vicious counter stroke."
+msgstr ""
+"尽管哈里发军队以他们惊人的移动力和猛烈的攻击力而著称，他们也能成为干练的防守"
+"方。哈里发防卫者们擅于固守阵线，用尖利的长矛让敌人无法近身。他们喜好的策略是"
+"把敌人耗到筋疲力竭，再以犀利的反击解决战斗。"
+
+#. [unit_type]: id=Dune Spearmaster, race=dunefolk
+#, fuzzy
+msgid "Dune Spearmaster"
+msgstr "龙人剑圣"
+
+#. [unit_type]: id=Dune Spearmaster, race=dunefolk
+#, fuzzy
+msgid ""
+"Spread across the Dunefolk's lands are lonely towers and garrisons that "
+"provide shelter to caravans and locals from bandits and monsters. These "
+"bastions are defended by the most determined of soldiers, who have often "
+"faced off against overwhelming odds only to repel the invaders. In an army "
+"they can be trusted to hold any position or line, long after lesser soldiers "
+"and men have fled in terror."
+msgstr ""
+"哈里发的土地上分布着孤立的高塔与要塞，它们负责为商队和当地居民提供防护，以抵"
+"御盗贼和怪物的袭扰。这些堡垒由意志最坚定的士兵们保卫着，他们为了抵御入侵者常"
+"常不得不在压倒性的逆境中作战。在军队中，可以放心地将守卫任何地点或战线的任务"
+"交给他们。即使友军们早已在恐惧中溃逃，他们仍然能够坚守住自己的位置。"
+
+#. [unit_type]: id=Dune Sunderer, race=dunefolk
+msgid "Dune Sunderer"
+msgstr ""
+
+#. [unit_type]: id=Dune Sunderer, race=dunefolk
+#, fuzzy
+msgid ""
+"Those Piercers who distinguish themselves in battle are given the "
+"opportunity to prove themselves worthy of becoming a Sunderer. Those who "
+"pass the trial are given the traditional barding for their horse, "
+"distinguishing them from the rest of the Dunefolk cavalry. Consummate "
+"horsemen, the Sunderers have long claimed they need only a single lance "
+"strike to kill a man."
+msgstr ""
+"那些在战斗中脱颖而出的哈里发枪骑兵被给予机会在试炼中证明自己，通过试炼者就成"
+"了骑士。他们被授予传统的马铠，这使他们在哈里发骑兵之中与众不同。哈里发骑士堪"
+"称完美的骑兵，他们一直宣称毙敌只需要一击长枪就够了。"
+
+#. [unit_type]: id=Dune Swiftrider, race=dunefolk
+msgid "Dune Swiftrider"
+msgstr ""
+
+#. [unit_type]: id=Dune Swiftrider, race=dunefolk
+#, fuzzy
+msgid ""
+"Riders who demonstrate exceptional skill with the bow are made into "
+"Swiftriders, spending hours every day practicing and building a rapport with "
+"their steed. This has made them the fastest riders in the Dunefolk armies, "
+"and a wise Warmaster uses this to their advantage."
+msgstr ""
+"那些展现出了高人一等的弓术的哈里发轻骑兵会被编入迅骑兵。他们每天会花费许多个"
+"小时用来练习，以和胯下的坐骑建立默契。这让哈里发迅骑兵成为了哈里发军队中最迅"
+"捷的骑手。在一位睿智的哈里发永武者帐下受驱使时，他们能够尽情地发挥这方面的长"
+"处。"
+
+#. [unit_type]: id=Dune Swordsman, race=dunefolk
+#, fuzzy
+msgid "Dune Swordsman"
+msgstr "剑士"
+
+#. [unit_type]: id=Dune Swordsman, race=dunefolk
+#, fuzzy
+msgid ""
+"Armed with their sword and shield, Swordsman are warriors of some renown "
+"among the Dunefolk armies. They have further refined their combat arts, "
+"adding a powerful shield bash to knock back unsuspecting enemies. Though few "
+"in number, their presence can be decisive in dislodging even the most "
+"hardened redoubt."
+msgstr ""
+"哈里发武者们在哈里发军中小有名望，他们是以剑盾和信仰作为武装的战士。他们精进"
+"了自己的战斗技巧，在格斗中加入了强力的盾击以击倒无备之敌。尽管武者人数稀少，"
+"但只要他们出手，再难攻的碉堡也不再话下。"
+
+#. [unit_type]: id=Dune Warmaster, race=dunefolk
+#, fuzzy
+msgid "Dune Warmaster"
+msgstr "龙人剑圣"
+
+#. [unit_type]: id=Dune Warmaster, race=dunefolk
+#, fuzzy
+msgid ""
+"Among every generation, a warrior elevates himself above his peers and foes; "
+"They seem to be able to alter the destiny of the world themselves. Often "
+"given the name Warmaster, these individuals are celebrated for their "
+"strength and skill. Their travels and travails are told endlessly around the "
+"campfire with the reverent tones of those that speak of living legends."
+msgstr ""
+"在每代人里总会涌现出一位超越所有同辈与敌人的卓越武士，他们看上去能够仅凭一己"
+"之力改变世界的命运。这些武士以虔诚和武技著称，常常被冠上古老的传奇领袖“永武"
+"者”的尊名。他们的游历与磨难被人以崇拜的口吻在篝火旁不绝传颂。"
+
+#. [attack]: type=impact
+msgid "pommel strike"
+msgstr ""
+
+#. [unit_type]: id=Dune Windrider, race=dunefolk
+msgid "Dune Windrider"
+msgstr ""
+
+#. [unit_type]: id=Dune Windrider, race=dunefolk
+#, fuzzy
+msgid ""
+"The elite of the Swiftriders are the Windriders, horse archers of such speed "
+"and dexterity that rumors are always spread that they have elven blood. "
+"Irritated at such mystical nonsense, the Windriders can frequently be found "
+"demonstrating their exceptional skill at the forefront of battle, riding "
+"with great speed through the lines of battle to rain arrows down upon the "
+"enemy."
+msgstr ""
+"哈里发迅骑兵中的精锐便是精骑兵，他们是兼具那样高超的速度与灵活性的骑射手，以"
+"致于流言总说他们身上流淌着精灵之血。也许是被这种带有神秘感的无稽之谈激怒了"
+"吧，精骑兵在战斗中总是跻身前线，展示高超的战斗技巧。如疾风般穿行在战线间，将"
+"矢雨浇在敌人的身上。"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 msgid "Dwarvish Arcanister"
@@ -1206,12 +1687,13 @@ msgid "Elvish Outrider"
 msgstr "精灵骑卫兵"
 
 #. [unit_type]: id=Elvish Outrider, race=elf
+#, fuzzy
 msgid ""
 "Elvish Outriders are trained as the royal couriers of the elven kingdoms. "
 "Despite the peaceful nature of their people, their experience makes them "
-"quite deadly in combat. No human has ever come close to their skill in using "
-"a bow on horseback — in fact, most would be hard pressed to equal it "
-"standing on solid ground.\n"
+"quite deadly in combat. Only the most dedicated exceed these elves’ skill as "
+"mounted archers — in fact, most would be hard pressed to equal it standing "
+"on solid ground.\n"
 "\n"
 "The speed of these soldiers allows the elves to strike when and where they "
 "choose when fighting on their home ground, a fact that has saved many of "
@@ -1577,10 +2059,6 @@ msgstr ""
 "高阶骑士达到了剑术和长矛技能的顶峰。他们全身披着板甲，身下的坐骑是为了力量而"
 "不是速度而培育的。这些武士是任何不可小视的骑兵部队的核心力量。高阶骑士带头冲"
 "锋是让所有步兵畏惧万分的景象，而且往往能一次就冲破防线。"
-
-#. [attack]: type=blade
-msgid "longsword"
-msgstr "长剑"
 
 #. [unit_type]: id=Knight, race=human
 msgid "Knight"
@@ -2392,6 +2870,10 @@ msgstr ""
 "笑他们的武器，他们自己却很清楚它们的致命威力，同时也深知其弹药来源相当广泛。"
 "大白天作战让游寇有点儿不适应，他们还是喜欢在夜幕掩护之下行动。"
 
+#. [attack]: type=impact
+msgid "morning star"
+msgstr "晨星之锤"
+
 #. [female]
 msgid "female^Outlaw"
 msgstr "游寇"
@@ -2720,448 +3202,6 @@ msgstr ""
 "他们狩猎的技巧在作战时非常有用，也让他们在夜间，尤其是在森林和沼泽中能力异乎"
 "寻常的强大。"
 
-#. [unit_type]: id=Arif, race=khalifate
-msgid "Arif"
-msgstr "哈里发步兵"
-
-#. [unit_type]: id=Arif, race=khalifate
-msgid ""
-"The Arif form the backbone of any Khalifate foot advance. Many come from "
-"noble or military families, and have spent most of their lives training "
-"their craft. Given their intense focus on swordplay, they are often sent "
-"against fortified enemy positions to create a breach for the remaining "
-"troops to exploit. The sight of Arif on the march, shields high, has caused "
-"many a defender to worry about the strength of their walls."
-msgstr ""
-"哈里发步兵是哈里发士兵中的骨干。他们大多来自贵族或者军事家庭，并且花费了大半"
-"辈子修习武艺。因为他们高超的剑技，他们常被派去负责攻坚战，为其余部队打开突破"
-"口。当看到哈里发步兵高举着盾牌进军时，守军们常常不禁担忧起他们的城墙是否足够"
-"坚固。"
-
-#. [unit_type]: id=Batal, race=khalifate
-msgid "Batal"
-msgstr "哈里发英豪"
-
-#. [unit_type]: id=Batal, race=khalifate
-msgid ""
-"Batal are the elite of the Muharib, engaging in constant hit and run attacks "
-"against an enemy army. Nimble as a goat and strong as a ram, they prefer to "
-"coordinate multiple attacks at the same time, sending foes running from "
-"their arrows only to be cut down by their axes. Given their penchant for "
-"taking on only the most daring missions, Batal are often heroes to the "
-"common troopers, an image they do not try to dissuade."
-msgstr ""
-"哈里发英豪是游侠中的精英，善于采用不间断的游击战术侵扰敌军。他们迅捷如风，勇"
-"猛如虎，能够协调一致地同时发动多重打击。以弓箭驱赶敌人，再以战斧将他们砍倒。"
-"哈里发英豪热衷于接受最勇敢的任务，因此总被军人们视为英雄，他们也有意识地维护"
-"着这样的形象。"
-
-#. [attack]: type=pierce
-msgid "composite bow"
-msgstr "复合弓"
-
-#. [unit_type]: id=Elder Falcon, race=falcon
-msgid "Elder Falcon"
-msgstr "年长猎鹰"
-
-#. [unit_type]: id=Elder Falcon, race=falcon
-msgid ""
-"Elder Falcons bear the telltale scars of veteran warriors from protecting "
-"their masters, their bodies proof of repeated dives into a swirling melee. "
-"Stronger and faster than their younger kin, they are rumored to hit with "
-"enough force to remove an enemy's head. "
-msgstr ""
-"年长猎鹰身上密布的伤疤述说着这些沙场老兵忠心护主的故事，它们身上尽是反复的俯"
-"冲战斗留下的痕迹。这些年长猎鹰比他们年幼的同族更为迅捷与强壮，有传言说他们的"
-"冲击甚至足以令敌人身首分离。"
-
-#. [attack]: type=pierce
-msgid "beak"
-msgstr "喙"
-
-#. [unit_type]: id=Falcon, race=falcon
-msgid "Falcon"
-msgstr "猎鹰"
-
-#. [unit_type]: id=Falcon, race=falcon
-msgid ""
-"Seen as status symbols of the nobles, falcons are precious possessions "
-"normally used for sport. The same techniques are employed to rend and tear "
-"the enemies of the Khalifate, and their great speed is a boon to scouting "
-"out the land."
-msgstr ""
-"猎鹰被看作贵族社会地位的象征，它们主要被驯养来作为狩猎消遣的助手。同样的狩猎"
-"技巧也被用来撕裂Khalifate的敌人，并且它们的高速移动能力在战地侦查中极为有用。"
-
-#. [unit_type]: id=Faris, race=khalifate
-msgid "Faris"
-msgstr "哈里发骑士"
-
-#. [unit_type]: id=Faris, race=khalifate
-msgid ""
-"Those Khaiyal who distinguish themselves in battle are given the opportunity "
-"to prove themselves worthy of becoming a Faris. Those who pass the trial are "
-"given the traditional barding for their horse, distinguishing them from the "
-"rest of the Khalifate cavalry. Consummate horsemen, the Faris have long "
-"claimed they need only a single lance strike to kill a man."
-msgstr ""
-"那些在战斗中脱颖而出的哈里发枪骑兵被给予机会在试炼中证明自己，通过试炼者就成"
-"了骑士。他们被授予传统的马铠，这使他们在哈里发骑兵之中与众不同。哈里发骑士堪"
-"称完美的骑兵，他们一直宣称毙敌只需要一击长枪就够了。"
-
-#. [unit_type]: id=Ghazi, race=khalifate
-msgid "Ghazi"
-msgstr "哈里发武者"
-
-#. [unit_type]: id=Ghazi, race=khalifate
-msgid ""
-"Armed with their sword, shield and faith, Ghazi are warriors of some renown "
-"among the Khalifate armies. They have further refined their combat arts, "
-"adding a powerful shield bash to knock back unsuspecting enemies. Though few "
-"in number, their presence can be decisive in dislodging even the most "
-"hardened redoubt."
-msgstr ""
-"哈里发武者们在哈里发军中小有名望，他们是以剑盾和信仰作为武装的战士。他们精进"
-"了自己的战斗技巧，在格斗中加入了强力的盾击以击倒无备之敌。尽管武者人数稀少，"
-"但只要他们出手，再难攻的碉堡也不再话下。"
-
-#. [unit_type]: id=Hadaf, race=khalifate
-msgid "Hadaf"
-msgstr "哈里发标骑兵"
-
-#. [unit_type]: id=Hadaf, race=khalifate
-msgid ""
-"Those Qanas who prove to be particularly skilled are formed into units of "
-"Hadaf, which are often used to raid enemy depots and towns for supplies. "
-"This greater autonomy often means that these horsemen are gone for weeks at "
-"a time, returning to camp only for supplies and to pass on news of their "
-"exploits."
-msgstr ""
-"那些在战斗中表现出高超技巧的哈里发游骑兵们被编入了标骑兵的行列，他们被用来洗"
-"劫敌人的仓库与城镇以谋取给养。更大的自主权常常意味着这些骑兵们常常一出征就是"
-"数周，仅仅为了补给物资和报告功绩才返回营地。"
-
-#. [unit_type]: id=Hakim, race=khalifate
-msgid "Hakim"
-msgstr "哈里发智者"
-
-#. [unit_type]: id=Hakim, race=khalifate
-msgid ""
-"Hakim are learned individuals who have given up their urban life in order to "
-"assist the Khalifate armies in their travels. Their motivations are many; "
-"some look to it as an adventure or as a steady source of pay, while others "
-"feel it to be a requirement of their faith. Regardless, Hakim are highly "
-"respected by all. They are trained with the advanced medical techniques and "
-"possess a potent clutch of medicines and herbs, which allows them to quickly "
-"heal even the most gravely wounded allies."
-msgstr ""
-"哈里发智者是博学者，他们为了协助出征的军队放弃了自己的市民生活。个中的动机有"
-"许多，有的人追求冒险或一份稳定的收入，而另一些人则受到了信仰的感召。无论如"
-"何，哈里发智者们受到所有人的高度敬仰。他们受过深入的医术训练，并且手握丰富的"
-"药材资源，因此即使是受伤最严重的士兵也能被他们快速治愈。"
-
-#. [unit_type]: id=Jawal, race=khalifate
-msgid "Jawal"
-msgstr "哈里发精骑兵"
-
-#. [unit_type]: id=Jawal, race=khalifate
-msgid ""
-"The elite of the Saree are the Jawal, horse archers of such speed and "
-"dexterity that rumors are always spread that they have elven blood. "
-"Irritated at such mystical nonsense, the Jawal can frequently be found "
-"demonstrating their exceptional skill at the forefront of battle, riding "
-"with great speed through the lines of battle to rain arrows down upon the "
-"enemy."
-msgstr ""
-"哈里发迅骑兵中的精锐便是精骑兵，他们是兼具那样高超的速度与灵活性的骑射手，以"
-"致于流言总说他们身上流淌着精灵之血。也许是被这种带有神秘感的无稽之谈激怒了"
-"吧，精骑兵在战斗中总是跻身前线，展示高超的战斗技巧。如疾风般穿行在战线间，将"
-"矢雨浇在敌人的身上。"
-
-#. [unit_type]: id=Jundi, race=khalifate
-msgid "Jundi"
-msgstr "哈里发迅兵"
-
-#. [unit_type]: id=Jundi, race=khalifate
-msgid ""
-"Jundi in many ways represent the ideal Khalifate unit; flexible, mobile, "
-"equally effective in defense and offense as well as in ranged or close "
-"combat. They are most comfortable operating in terrain and environments "
-"common to them; the deserts and hills of their southern lands. Moreover they "
-"fight best at dawn or dusk, corresponding to the time when desert "
-"temperatures are the most reasonable."
-msgstr ""
-"在许多方面，迅兵都是哈里发单位的理想代表：灵活，机动，攻守兼备，远近全能。他"
-"们习于在南方的沙漠和山丘中进行作战，那正是他们最熟悉的地形与环境。此外，他们"
-"最擅长在清晨或者傍晚战斗，因为在沙漠中那是温度最合适的时间。"
-
-#. [unit_type]: id=Khaiyal, race=khalifate
-msgid "Khaiyal"
-msgstr "哈里发枪骑兵"
-
-#. [unit_type]: id=Khaiyal, race=khalifate
-msgid ""
-"The Khaiyal understand the psychological impact of a charging horse, and "
-"reinforce this by cladding themselves in heavy armor. Majestic at rest, a "
-"Khaiyal at the charge with lance in hand is often impetus enough to break "
-"men. On the rare occurrences that their charge fails to rout their foe, the "
-"Khaiyal ride into the resulting melee with their maces in hand, trusting "
-"their armor to keep them safe."
-msgstr ""
-"哈里发枪骑兵明白冲锋的马匹对敌军心理上的冲击，并通过身着重甲来增强这种震撼"
-"感。傲立时魁梧威严，持矛冲锋的骑手所携的冲击则常常足以令敌人散架。在极少数枪"
-"骑兵的冲锋没能击溃敌人的情境中，他们会纵马迎敌持锤而战，信赖身上的铁铠能保障"
-"自己的安全。"
-
-#. [unit_type]: id=Khalid, race=khalifate
-msgid "Khalid"
-msgstr "哈里发永武者"
-
-#. [unit_type]: id=Khalid, race=khalifate
-msgid ""
-"Among every generation, a warrior elevates himself above his peers and foes; "
-"They seem to be able to alter the destiny of the world themselves. Often "
-"given the name Khalid, after a legendary leader of old, these individuals "
-"are celebrated for the piety and skill. Their travels and travails are told "
-"endlessly around the campfire with the reverent tones of those that speak of "
-"living legends."
-msgstr ""
-"在每代人里总会涌现出一位超越所有同辈与敌人的卓越武士，他们看上去能够仅凭一己"
-"之力改变世界的命运。这些武士以虔诚和武技著称，常常被冠上古老的传奇领袖“永武"
-"者”的尊名。他们的游历与磨难被人以崇拜的口吻在篝火旁不绝传颂。"
-
-#. [unit_type]: id=Mighwar, race=khalifate
-msgid "Mighwar"
-msgstr "哈里发剑豪"
-
-#. [unit_type]: id=Mighwar, race=khalifate
-msgid ""
-"Mighwar hold themselves to a higher standard than the ranks of the Monawish "
-"from which they ascended. Not content to merely draw the enemy out, they "
-"combine their speed with an aggression that sends the Mighwar dancing "
-"through the ranks of the enemy, swords ripping and tearing at those around "
-"them. "
-msgstr ""
-"哈里发剑豪进阶自剑客，他们始终以更高的标准要求自己。哈里发剑豪不满足于仅仅牵"
-"制住敌人，他们将速度与倾略性相结合，在敌阵中跳起令人血肉横飞的剑舞。"
-
-#. [unit_type]: id=Monawish, race=khalifate
-msgid "Monawish"
-msgstr "哈里发剑客"
-
-#. [unit_type]: id=Monawish, race=khalifate
-msgid ""
-"Those Jundi who are proficient at scouting are elevated into the ranks of "
-"the Monawish. Discarding their bow, the Monawish focus on developing their "
-"swiftness of foot to allow them to flow in and out of combat. They are often "
-"used to harry the flanks of opposing forces, and it is said to be easier to "
-"catch the wind in your hand than to catch a Monawish."
-msgstr ""
-"那些拥有熟练侦查技巧的哈里发迅兵被提拔进了剑客的行列。哈里发剑客放弃了弓术，"
-"专心训练出迅捷的脚力，借此灵活的在战斗中迎敌和脱出。他们主要被派来包抄敌军的"
-"侧翼，而且人们常说捉捕哈里发剑客的难度甚于捉风。"
-
-#. [unit_type]: id=Mudafi, race=khalifate
-msgid "Mudafi"
-msgstr "哈里发防卫者"
-
-#. [unit_type]: id=Mudafi, race=khalifate
-msgid ""
-"Although the Khalifate armies are known for their astonishing mobility and "
-"fierce attack, they can be able defenders. Mudafi excel at holding their "
-"ground, keeping opponents at bay with long, razor sharp spears. Their "
-"preferred strategy is to gradually wear down enemies, until they can be "
-"defeated in a vicious counter stroke."
-msgstr ""
-"尽管哈里发军队以他们惊人的移动力和猛烈的攻击力而著称，他们也能成为干练的防守"
-"方。哈里发防卫者们擅于固守阵线，用尖利的长矛让敌人无法近身。他们喜好的策略是"
-"把敌人耗到筋疲力竭，再以犀利的反击解决战斗。"
-
-#. [unit_type]: id=Mufariq, race=khalifate
-msgid "Mufariq"
-msgstr "哈里发重骑兵"
-
-#. [unit_type]: id=Mufariq, race=khalifate
-msgid ""
-"The Mufariq are eminent horsemen, amassing titles and accolades that are as "
-"distinguishing for them as the scrollwork on their armor. Having honed their "
-"skill with a lance in years of battle, the Mufariq are an unstoppable force "
-"of nature. Fleeing enemies swiftly discover that hills do not deter these "
-"riders in the slightest, and the displaced air of a descending mace is the "
-"last sound they hear."
-msgstr ""
-"哈里发重骑兵是杰出的马师，积攒着如同他们铠甲上的漩涡纹饰那般别致耀眼的头衔和"
-"赞誉。长年的战斗让哈里发重骑兵磨练出了一手使枪的绝技，这让他们成为了一只不可"
-"阻挡的力量。逃窜的敌人们很快就发现山丘丝毫不能对这些骑手构成障碍，然后便在铁"
-"锤的破风声中被结果了性命。"
-
-#. [unit_type]: id=Muharib, race=khalifate
-msgid "Muharib"
-msgstr "哈里发游侠"
-
-#. [unit_type]: id=Muharib, race=khalifate
-msgid ""
-"Muharib are often utilized as heavy scouts, no longer just probing the enemy "
-"but conducting raids on the supply lines or eliminating patrols. Often away "
-"from the main body of the army for long periods of time, Muharib have no "
-"issue pilfering these supplies, and so they tend to be more well-equipped "
-"than most."
-msgstr ""
-"哈里发游侠常被用作重型的侦察兵。他们不再仅仅侦查敌人，还会洗劫敌人的补给线或"
-"者歼灭敌人的巡逻队。因为常常长时间待在敌后，哈里发游侠毫不介意窃取敌人的物"
-"资，因此他们常常拥有比大多数人更好的装备。"
-
-#. [unit_type]: id=Naffat, race=khalifate
-msgid "Naffat"
-msgstr "哈里发掷焰手"
-
-#. [unit_type]: id=Naffat, race=khalifate
-msgid ""
-"Naffat are a necessary evil in the ranks of Khalifate armies, utilizing fire "
-"to burn down enemy fortifications and sow terror among their ranks. While "
-"the use of fire in warfare is not a novel concept, the flames of the Naffat "
-"have proven disturbingly difficult for their enemies to extinguish."
-msgstr ""
-"哈里发掷焰手是哈里发军中的必要之恶，他们用火焰去烧毁敌人的堡垒，在敌人中间散"
-"播恐惧。虽然把火焰用于战争这个概念早已不再新奇，但是掷焰手的敌人们总是会发现"
-"他们的火焰异常的恼人和难对付。"
-
-#. [attack]: type=fire
-msgid "naphtha attack"
-msgstr "油火攻击"
-
-#. [attack]: type=fire
-msgid "fire arrow"
-msgstr "火焰箭"
-
-#. [unit_type]: id=Qanas, race=khalifate
-msgid "Qanas"
-msgstr "哈里发游骑兵"
-
-#. [unit_type]: id=Qanas, race=khalifate
-msgid ""
-"Those horsemen who are not skilled enough to join the ranks of the Faris or "
-"quick enough with a bow for the Saree are instead placed with the Qanas. Far "
-"from being a sign of failure, the Qanas were created as a mounted "
-"counterpart to the Muharib, supporting the foot troops with mace or bow as "
-"needed. Qanas are often used to draw enemies into a position where they will "
-"be surrounded and crushed by Faris."
-msgstr ""
-"那些既不足以凭借技巧加入骑士的集团又不具备迅骑兵集团所必须的迅捷与弓术的骑兵"
-"就会被编入游骑兵的行列。这并不意味着他们就是失败者，恰恰相反，哈里发游骑兵被"
-"是作为马背上的游侠而组建的，能够视需要以铁锤或弓箭为步兵提供辅助。哈里发游骑"
-"兵常被用来将敌人诱入骑士的包围网，然后让骑士们来将敌人碾碎。"
-
-#. [unit_type]: id=Qatif_al_nar, race=khalifate
-msgid "Qatif-al-nar"
-msgstr "哈里发举火者"
-
-#. [unit_type]: id=Qatif_al_nar, race=khalifate
-msgid ""
-"Qatif-al-nar spend so much time experimenting with their weapons that they "
-"smell constantly of ash and flame. Regarded with wariness by their fellow "
-"troops, Qatif-al-nar can be easily located in battle by the cleared charred "
-"area around them, a testament to the success of their experiments."
-msgstr ""
-"哈里发举火者花费了太多时间试验他们的武器，以致于他们身上一直散发着一股灰烬和"
-"火焰的味道。他们总被同袍们以谨慎的眼光看待。根据战场上的焦土痕迹，人们很容易"
-"就能在战场上确定他们的位置。那是对他们成功实验的有力宣言。"
-
-#. [unit_type]: id=Rami, race=khalifate
-msgid "Rami"
-msgstr "哈里发轻骑兵"
-
-#. [unit_type]: id=Rami, race=khalifate
-msgid ""
-"Rami are excellent horsemen, able to shoot from horseback better than most "
-"men can manage from foot. Disdaining the use of heavy armor, Rami use their "
-"superior speed and agility to circle and harass their foes, whittling down "
-"their numbers with relentless arrows."
-msgstr ""
-"哈里发轻骑兵是优秀的骑兵，他们在马背上射箭能够比许多人站在地上射得还准。哈里"
-"发轻骑兵不愿使用重甲，他们利用自己的高速和灵活去包围和不断骚扰敌人，用无情的"
-"箭雨削减敌人的数量。"
-
-#. [unit_type]: id=Rasikh, race=khalifate
-msgid "Rasikh"
-msgstr "哈里发坚守者"
-
-#. [unit_type]: id=Rasikh, race=khalifate
-msgid ""
-"Spread across the Khalifate's lands are lonely towers and garrisons that "
-"provide shelter to caravans and locals from bandits and monsters. These "
-"bastions are defended by the most determined of soldiers, who have often "
-"faced off against overwhelming odds only to repel the invaders. In an army "
-"they can be trusted to hold any position or line, long after lesser soldiers "
-"and men have fled in terror."
-msgstr ""
-"哈里发的土地上分布着孤立的高塔与要塞，它们负责为商队和当地居民提供防护，以抵"
-"御盗贼和怪物的袭扰。这些堡垒由意志最坚定的士兵们保卫着，他们为了抵御入侵者常"
-"常不得不在压倒性的逆境中作战。在军队中，可以放心地将守卫任何地点或战线的任务"
-"交给他们。即使友军们早已在恐惧中溃逃，他们仍然能够坚守住自己的位置。"
-
-#. [unit_type]: id=Saree, race=khalifate
-msgid "Saree"
-msgstr "哈里发迅骑兵"
-
-#. [unit_type]: id=Saree, race=khalifate
-msgid ""
-"Rami who demonstrate exceptional skill with the bow are made into Saree, "
-"spending hours every day practicing and building a rapport with their steed. "
-"This has made them the fastest riders in the Khalifate armies, and a wise "
-"Khalid uses this to their advantage."
-msgstr ""
-"那些展现出了高人一等的弓术的哈里发轻骑兵会被编入迅骑兵。他们每天会花费许多个"
-"小时用来练习，以和胯下的坐骑建立默契。这让哈里发迅骑兵成为了哈里发军队中最迅"
-"捷的骑手。在一位睿智的哈里发永武者帐下受驱使时，他们能够尽情地发挥这方面的长"
-"处。"
-
-#. [unit_type]: id=Shuja, race=khalifate
-msgid "Shuja"
-msgstr "哈里发勇毅者"
-
-#. [unit_type]: id=Shuja, race=khalifate
-msgid ""
-"Distinguished for their bravery and skill, Shuja are the leaders among the "
-"Khalif's ranks. Their exploits are well known among their cohorts, inspiring "
-"soldiers to fight for their cause. Despite this, they are often found "
-"leading from the front, taking down their foes with sword and shield."
-msgstr ""
-"哈里发勇毅者们因为勇气和技巧而受众人仰慕，他们是哈里发军阶体系中的领导者。他"
-"们的光辉事迹广为同袍们所熟知，激励着士兵们为他们卖命。尽管如此，他们仍然常常"
-"在作战时身先士卒，以剑盾击倒他们的敌人。"
-
-#. [unit_type]: id=Tabib, race=khalifate
-msgid "Tabib"
-msgstr "哈里发医者"
-
-#. [unit_type]: id=Tabib, race=khalifate
-msgid ""
-"Some men excel at medicine the way others do at strength of arms, and the "
-"Tabib are those whose knowledge is without peer outside of the Khalifate. "
-"Their remedies cannot only heal wounds but remove infection and poison as "
-"well, often to the disbelief of the injured. Hardened by years of travels, "
-"many are able to treat themselves."
-msgstr ""
-"有的人像别人专长于力量那样精于医术，而哈里发医者对于医药的知识在哈里发之外无"
-"人能及。他们的药物不仅能够治愈伤口，还能消除感染和解毒。其药效之神奇往往让伤"
-"者感到难以置信。他们中的许多人因长年的旅行而变得坚韧，能够处理好自身的伤病。"
-
-#. [unit_type]: id=Tineen, race=khalifate
-msgid "Tineen"
-msgstr "哈里发焚天士"
-
-#. [unit_type]: id=Tineen, race=khalifate
-msgid ""
-"Qatif-al-nar who have shut out the world for their experiments are given the "
-"honorific Tineen, as both a sign of respect and of fear. No longer cognizant "
-"of the value of life, Tineen are caught up in the power of their caged fire "
-"and likely to test their latest naphtha jar at the first opportunity."
-msgstr ""
-"那些排除了世俗之扰，完全投身进自己的实验的哈里发举火者被人用敬语称作“焚天"
-"士”，这个名字同时带有尊敬与恐惧之意。哈里发焚天士们已不再意识到生命的价值，他"
-"们被笼中火焰的力量所迷摄，不愿放过任何一个测试他们最新式燃烧罐的机会。"
-
 #. [unit_type]: id=Mermaid Diviner, race=merman
 msgid "female^Mermaid Diviner"
 msgstr "人鱼占卜师"
@@ -3207,10 +3247,11 @@ msgid "Merman Entangler"
 msgstr "人鱼缠绕者"
 
 #. [unit_type]: id=Merman Entangler, race=merman
+#, fuzzy
 msgid ""
 "Merfolk tend to use a combination of both nets and clubs in fishing; nets to "
 "collect the fish, and clubs to finish the kill. Both of these tools have "
-"seen adaptation for warfare, and are valuable enough that auxilliaries who "
+"seen adaptation for warfare, and are valuable enough that auxiliaries who "
 "specialize in using them are deliberately brought to battle.\n"
 "\n"
 "Mermen often find themselves in a standoff with land-based enemies; the "
@@ -4507,6 +4548,7 @@ msgid "Lich"
 msgstr "巫妖"
 
 #. [unit_type]: id=Lich, race=undead
+#, fuzzy
 msgid ""
 "A lich is the physical embodiment of black magic’s first goal: the quest to "
 "achieve immortality. Though a great deal is sacrificed in the rebirth, in "
@@ -4515,8 +4557,8 @@ msgid ""
 "may wither away.\n"
 "\n"
 "It is not known, save perhaps by the inner circles of necromancy, whether "
-"life is prolonged indefinitely or simply extended. But the fact that this "
-"question can be raised at all, testifies to the magnitude of what their "
+"life is prolonged indefinitely or simply extended. The fact that this "
+"question can be raised at all is a testament to the magnitude of what their "
 "order has achieved."
 msgstr ""
 "巫妖是黑魔法的首要目标——永生不朽——的实体化身。虽然为了获得重生需要付出巨大的"

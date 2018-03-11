@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
+"POT-Creation-Date: 2018-02-04 16:40 UTC\n"
 "PO-Revision-Date: 2017-10-06 11:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -79,6 +79,13 @@ msgstr "欢迎来到韦诺！"
 
 #. [message]: speaker=narrator
 msgid ""
+"This is a two-part tutorial intended for people who are new to the game. "
+"Part 1 will teach you the basics about movement, attacking, healing, and "
+"recruiting. Firstly, you’ll choose a hero (both heroes play the same)."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
 "For this tutorial, you are playing Konrad. You are standing on the keep, and "
 "your mentor Delfador is on the east side of the river. You can move the "
 "mouse over a unit to see a summary of its abilities and stats on the right "
@@ -110,14 +117,14 @@ msgid "Movement"
 msgstr "移动"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "When you select a unit, in this case Konrad, the places he can move to are "
 "highlighted. All units have a certain number of <i>movement points</i>, "
 "which dictate how many hexes that unit can move per turn. Normally, moving "
-"one hex uses one movement point, but moving across different types of hexes, "
-"or <i>terrains</i>, can use up more. You will learn more about that later. "
-"To move, simply click on your destination. You can press <b>u</b> to undo a "
-"move if you move to the wrong place."
+"one hex on flat terrain uses one movement point. To move, simply click on "
+"your destination. (You can press <b>u</b> to undo a move if you move to the "
+"wrong place.)"
 msgstr ""
 "当你选中一个单位（此时为科纳德）时，他可以移动到的位置会高亮显示。所有单位都"
 "拥有一定的<b>移动力</b>，移动力决定了该单位每个回合可以移动的格子数。通常来"
@@ -126,14 +133,14 @@ msgstr ""
 "误的位置，可以按<b>u</b>以撤销移动。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "When you select a unit, in this case Li’sar, the places she can move to are "
 "highlighted. All units have a certain number of <i>movement points</i>, "
 "which dictate how many hexes that unit can move per turn. Normally, moving "
-"one hex uses one movement point, but moving across different types of hexes, "
-"or <i>terrains</i>, can use up more. You will learn more about that later. "
-"To move, simply click on your destination. You can press <b>u</b> to undo a "
-"move if you move to the wrong place."
+"one hex on flat terrain uses one movement point. To move, simply click on "
+"your destination. (You can press <b>u</b> to undo a move if you move to the "
+"wrong place.)"
 msgstr ""
 "当你选中一个单位（此时为莉莎）时，她可以移动到的位置会高亮显示。所有单位都拥"
 "有一定的<b>移动力</b>，移动力决定了该单位每个回合可以移动的格子数。通常来说，"
@@ -202,8 +209,9 @@ msgid "Attacking"
 msgstr "攻击"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"To attack the quintain, first select the attacker (Konrad) then the target "
+"To attack the quintain, first select the attacker (Konrad), then the target "
 "(the quintain). You will see an attack description. When you click <b>OK</"
 "b>, Konrad will attack."
 msgstr ""
@@ -211,8 +219,9 @@ msgstr ""
 "描述。当你点击<b>确定</b>时，科纳德就会发动攻击。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"To attack the quintain, first select the attacker (Li’sar) then the target "
+"To attack the quintain, first select the attacker (Li’sar), then the target "
 "(the quintain). You will see an attack description. When you click <b>OK</"
 "b>, Li’sar will attack."
 msgstr ""
@@ -274,9 +283,10 @@ msgid "The <i>dummy</i> gets a turn?"
 msgstr "这<b>假人</b>也有进攻回合？"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
-"Yes. It’s a magical quintain! It gets 5 chances to hit you for 3 damage "
-"each. If it hits every time, you’ll drop from $student_hp to "
+"Yes. It’s a magical quintain! If it hits you, it does 3 damage, and has 5 "
+"chances. If it hits every time, you’ll drop from $student_hp to "
 "$($student_hp-15) hitpoints. Brace yourself!"
 msgstr ""
 "是啊，这是一个魔法刺靶！它有5次机会击中你，每中一次会造成3点伤害。如果它每次"
@@ -334,12 +344,12 @@ msgid "Villages"
 msgstr "村庄"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "You have captured a village! It now flies your colors and has been added to "
 "your total village count (the house icon at the top of the screen shows how "
 "many villages you currently control). Villages provide the gold needed to "
-"recruit units. Each turn, you gain two gold plus one for every village you "
-"own."
+"recruit units. Each turn, you gain 2 gold, plus 1 for every village you own."
 msgstr ""
 "你占领了一座村庄！它升起了你的旗帜，并且已经被加到了你的村庄总数中（屏幕顶部"
 "的房子图标旁会显示你当前控制着多少座村庄）。村庄会提供用于征募单位的金币。每"
@@ -411,13 +421,13 @@ msgid "Traits"
 msgstr "特质"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "Be sure to examine the <i>traits</i> of your new recruits. They are listed "
 "under its race in the sidebar. Traits can subtly affect how you use your "
 "troops. For example, units with the <i>quick</i> trait can move a extra hex "
-"each turn, or units with the <i>intelligent</i> trait require 20% less "
-"experience to level up. A full list of all possible traits may be found in "
-"help."
+"each turn, and units with the <i>intelligent</i> trait require 20% less "
+"experience to level up."
 msgstr ""
 "一定要查看新兵的<b>特质</b>。特质列举在侧边栏中单位的种族旁边。特质会微妙地影"
 "响你使用部队的方式。例如，拥有<b>迅捷</b>特质的单位每回合可以多移动一格，而拥"
@@ -454,9 +464,11 @@ msgid "female^I’ll tell them to use the one that does more damage!"
 msgstr "我会让他们使用伤害比较高的攻击方式！"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
-"And which would that be? The sword (5×4) or the bow (3×3)? I suppose you’ll "
-"find out..."
+"And which would that be? The sword (5×4; or 5 damage on each hit, with 4 "
+"attacks) or the bow (3×3; or 3 damage on each hit, with 3 attacks)? I "
+"suppose you’ll find out..."
 msgstr ""
 "那么你认为哪种攻击的伤害更高呢？剑（5×4）还是弓（3×3）？我想你会找到答案的……"
 
@@ -474,19 +486,22 @@ msgstr ""
 "们会帮上大忙。"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
-"Your elf used a sword (5×4; or 5 damage, 4 attacks), which is a <i>melee</i> "
-"attack. The quintain defended with its melee attack (3×5). The ranged attack "
-"(the bow) would have been safer."
+"Your elf used a sword (5×4; or 5 damage on each hit, with 4 attacks), which "
+"is a <i>melee</i> attack. The quintain defended with its melee attack (3×5; "
+"or 3 damage on each hit, with 5 attacks). The ranged attack (the bow) would "
+"have been safer."
 msgstr ""
 "你的精灵使用了剑（5×4；或每次5点伤害，攻击4次），这是一种<b>近战</b>攻击。刺"
 "靶以它的近战攻击（3×5）进行了反击。若选择远程攻击（弓）的话，本该更为安全的。"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
-"Your elf used a bow, which is a <i>ranged</i> attack (3×3; or 3 damage, 3 "
-"attacks). The quintain has no ranged attack, only a melee attack, so it "
-"could not defend itself."
+"Your elf used a bow, which is a <i>ranged</i> attack (3×3; or 3 damage on "
+"each hit, with 3 attacks). The quintain has no ranged attack, only a melee "
+"attack, so it could not defend itself."
 msgstr ""
 "你的精灵使用了弓，这是一种<b>远程</b>攻击（3×3；或每次3点伤害，攻击3次）。刺"
 "靶没有远程攻击，只有近战攻击，所以它无法保护自己。"
@@ -558,13 +573,15 @@ msgid "Defenses"
 msgstr "防御"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "Whenever one of your units is selected, you’ll see varying percentages as "
 "you move the mouse over the map. The higher the percentage, the more "
 "<i>defense</i> that unit has in that kind of terrain. For example, most "
 "units have good defenses in castles and villages but poor defenses in "
-"rivers. However, these quintains use a <i>magical</i> attack, which always "
-"has a 70% chance of hitting no matter what terrain its target occupies."
+"rivers. Some units, like these quintains, have a <i>magical</i> attack, "
+"which always has a 70% chance of hitting no matter what terrain their "
+"targets occupy."
 msgstr ""
 "一旦选中一个单位，那么当鼠标在地图上移动时，你将看到不断变化的百分数值：数值"
 "越高，则该单位在此类地形上的<b>闪避率</b>越高。例如，大多数单位在村庄和城堡中"
@@ -710,6 +727,13 @@ msgstr "莉莎阵亡"
 msgid "Death of Galdrad"
 msgstr "伽德拉德阵亡"
 
+#. [message]: speaker=narrator
+msgid ""
+"Welcome back! This is second part of the two-part tutorial. Part 2 will "
+"teach you about recalling units, abilities and weapon specials, income and "
+"upkeep, long-distance movement, zone of control, and time of day."
+msgstr ""
+
 #. [message]: speaker=student
 msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
@@ -795,9 +819,10 @@ msgid "female^Let’s go! Attack!"
 msgstr "我们出发吧！进攻！"
 
 #. [message]: speaker=Galdrad
+#, fuzzy
 msgid ""
 "Hang on! You need to gather your forces. Or do you intend to fight the orcs "
-"singlehandedly?"
+"single-handedly?"
 msgstr "等等！你得把自己的部队组织起来。还是说你想单枪匹马去和兽人战斗？"
 
 #. [message]: speaker=Galdrad
@@ -881,14 +906,30 @@ msgid "Abilities and Weapon Specials"
 msgstr "能力与武器特攻"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "Certain unit types have special <i>abilities</i>. Unlike traits, which "
 "usually provide small buffs or debuffs, abilities give units special "
 "behaviors that normal units do not have. In this case, the Elvish Shaman has "
 "the Heal ability, which allows her to heal allied adjacent units 4 hitpoints "
 "at the start of each turn. Unit types with abilities, especially ones like "
-"Heal, can be very useful, so be careful when sending them into battle.\n"
+"Heal, can be very useful, so be careful when sending them into battle."
+msgstr ""
+"有些单位类型拥有特殊<b>能力</b>。特质通常提供少量的增益或者减益，而能力则给予"
+"单位特殊行为，这是普通单位所没有的。在此，精灵萨满拥有治疗能力，这让她能够在"
+"每一回合开始时为相邻的友方单位恢复4点生命值。拥有能力，尤其是治疗等能力的单位"
+"类型是非常有用的，因此派他们前去作战时要小心。\n"
 "\n"
+"武器特攻是使得某些攻击更加强力的特殊攻击修正。在此又要提到萨满，她的缠绕攻击"
+"拥有减速特攻。当此攻击作用于敌人时，它可将他们的伤害输出减半一回合。其他武器"
+"特攻例如先制，可以让该攻击总是先手，而不论是谁先进攻的，又例如魔法，可以让该"
+"攻击总是拥有70%的命中率。\n"
+"\n"
+"能力、武器特攻以及特质的完整列表，可以在帮助中找到。"
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid ""
 "Weapon specials are special attack modifiers that make certain attacks more "
 "powerful. Once again, in this case, the Shaman has the Slows special on her "
 "entangle attack. When this attack is used on an enemy, it will halve the "
@@ -969,6 +1010,18 @@ msgstr ""
 "此基础上减去<b>维护费用</b>。你可以免费供给的单位的总等级数，与你所拥有的村庄"
 "数相等；若超出此数，则每回合每一超过级数必须付出1枚金币。小心，如果拥有太多单"
 "位，你的收入会变成负数，以至于每回合都会损失金币！"
+
+#. [message]: speaker=narrator
+msgid "Status Table"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"The Status Table details the sides’ current status and starting conditions. "
+"Fog and shroud will affect what you can see in this table, and occasionally "
+"a side may be hidden. It is useful to check this table when a scenario "
+"begins."
+msgstr ""
 
 #. [message]: speaker=Galdrad
 msgid ""
