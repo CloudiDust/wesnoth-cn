@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 20:01+0300\n"
-"PO-Revision-Date: 2017-10-06 10:55+0800\n"
+"PO-Revision-Date: 2018-03-16 19:00+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [brush]: id=brush-1
 msgid "Single Hex"
@@ -373,7 +373,6 @@ msgstr "前往"
 msgid "Add"
 msgstr "添加"
 
-#, fuzzy
 msgid "New Location Identifier"
 msgstr "新建位置标识符"
 

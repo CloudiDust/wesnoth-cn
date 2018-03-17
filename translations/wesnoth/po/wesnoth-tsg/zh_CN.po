@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2017-10-06 11:51+0800\n"
+"PO-Revision-Date: 2018-03-16 19:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=The_South_Guard
 msgid "The South Guard"
@@ -31,7 +31,6 @@ msgid "TSG"
 msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
-#, fuzzy
 msgid ""
 "A young Knight, Deoran, is dispatched to take command of the South Guard.\n"
 "\n"
@@ -39,8 +38,9 @@ msgid ""
 "‘Civilian’ difficulty level is aimed at first-time players.\n"
 "\n"
 msgstr ""
-"一位年轻的骑士德欧兰，被派往接管南疆卫队……注意：本战役是作为韦诺的入门战役来"
-"设计的。‘平民’难度面向第一次游玩的玩家。\n"
+"一位年轻的骑士德欧兰，被派往接管南疆卫队。\n"
+"\n"
+"注：本战役是作为韦诺的入门战役来设计的。“平民”难度面向第一次游玩的玩家。\n"
 "\n"
 
 #. [campaign]: id=The_South_Guard
@@ -2236,9 +2236,8 @@ msgid "Mal Tera"
 msgstr "玛尔·特拉"
 
 #. [event]
-#, fuzzy
 msgid "Finde"
-msgstr "芬德军士"
+msgstr "芬德"
 
 #. [event]
 msgid "Maelvas"
@@ -2253,9 +2252,8 @@ msgid "Mitche"
 msgstr "米切"
 
 #. [event]
-#, fuzzy
 msgid "Illan"
-msgstr "伊兰中尉"
+msgstr "伊兰"
 
 #. [event]
 msgid "Rheban"
@@ -2266,9 +2264,8 @@ msgid "Jul"
 msgstr "朱尔"
 
 #. [event]
-#, fuzzy
 msgid "Meris"
-msgstr "梅里斯中尉"
+msgstr "梅里斯"
 
 #. [event]
 msgid "Findlas"
@@ -2291,12 +2288,9 @@ msgid "Death Guard"
 msgstr "死亡卫队"
 
 #. [message]: speaker=Deoran
-#, fuzzy
 msgid ""
 "We have escaped the great forest, but look! The undead are still chasing us."
-msgstr ""
-"我们已经逃离了大森林，但是看哪！亡灵在追赶我们——我们肯定没有在丛林里根除他"
-"们。"
+msgstr "我们已经逃离了大森林，但是看哪！亡灵还在追赶我们。"
 
 #. [message]: speaker=Sir Gerrick
 msgid ""
@@ -2352,18 +2346,17 @@ msgstr "坚守防线：尽可能让格里克爵士活下去。"
 msgid ""
 "Starting with turn 6, each additional turn you survive strengthens the "
 "defenses of Westin."
-msgstr ""
+msgstr "从第六回合开始，你每多坚持一回合，韦斯廷的防御就增强一分。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "There is no way to win this scenario, and no way to lose. Hold off the "
 "undead hordes as long as you can. Keep Sir Gerrick alive as long as you can. "
 "Starting with turn 6, every turn that passes strengthens the defenses of "
 "Westin."
 msgstr ""
-"此场景没有输赢可言。尽可能长时间地拖延亡灵军团。尽可能让格里克爵士活下去。每"
-"坚持一回合，韦斯廷的防御就增强一分。"
+"此场景中无法获胜，也不会失败。尽可能长时间拖延亡灵军团。尽可能让格里克爵士活"
+"下去。从第六回合开始，每坚持一回合，韦斯廷的防御就增强一分。"
 
 #. [message]: speaker=Urza Afalas
 msgid "Now I will never see my home again... Hold back the undead, Gerrick!"
@@ -2449,9 +2442,8 @@ msgid "Provincial Guard"
 msgstr "行省卫队"
 
 #. [value]
-#, fuzzy
 msgid "Nilaf"
-msgstr "尼拉夫中尉"
+msgstr "尼拉夫"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -2813,12 +2805,11 @@ msgstr "吃我一剑！"
 
 #. [message]: speaker=unit
 msgid "I have lost all helping the humans... Now they will surely perish!"
-msgstr "帮助人类令我失去一切……现在他们难逃毁灭了！"
+msgstr "帮助人类让我失去一切……现在他们难逃一死！"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "Far from home I fall — but not in vain!"
-msgstr "我客死他乡——但并非白费！保卫我们的人民，德欧兰！"
+msgstr "我客死他乡——但并非白费！"
 
 #. [message]: speaker=narrator
 msgid ""

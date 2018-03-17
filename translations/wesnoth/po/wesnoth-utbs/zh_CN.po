@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2017-10-06 12:09+0800\n"
+"PO-Revision-Date: 2018-03-16 19:49+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,12 +19,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
 msgid "Under the Burning Suns"
-msgstr "双日之下"
+msgstr "灼热双日之下"
 
 #. [campaign]: id=Under_the_Burning_Suns
 msgid "UtBS"
@@ -37,7 +37,7 @@ msgid ""
 "journey to find a new home.\n"
 "\n"
 msgstr ""
-"在遥远的未来，一群精灵在已经殒落的帝国废墟中挣扎求生。领导你的同胞走出沙漠，"
+"在遥远的未来，一小群精灵在崩坏帝国的废墟之中挣扎求生。领导你的同胞走出沙漠，"
 "踏上寻找新家园的史诗般旅程吧。\n"
 "\n"
 
@@ -4002,7 +4002,6 @@ msgstr ""
 "隔了去对面那个华丽的石棺的路。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "For a troll this is quite an ornate tomb. The coffin itself is quite "
 "impressive. Inside, the skeleton has crumbled to dust and there are a few "
@@ -4011,10 +4010,10 @@ msgid ""
 "emerald eyes and large fangs carved around its shaft leave little doubt as "
 "to its power. We may find this useful before our journey is over."
 msgstr ""
-"对于巨魔来说，这是个很华丽的墓了，棺材本身就很特别。里面的骸骨已经化成灰了，"
-"里面还有一些彩色石头之类的玩意，而且居然还有一个翡翠魔杖。我对魔法什么的不太"
-"懂，不过上面刻的这只有着翡翠眼睛和巨大毒牙的毒蛇的威力我还是能看出来的。我们"
-"一般不容许下毒的行为，但是具体情况具体分析，我觉得我们以后能用得到这个。"
+"对于巨魔来说，这是个很华丽的墓了，棺材本身就很特别。骸骨已经化成灰了，里面还"
+"有一些彩色石头之类的玩意，但最显眼的是这柄翡翠魔杖。我不太懂什么魔法，不过柄"
+"上刻的这条有着翡翠眼睛和巨大毒牙的毒蛇表明，这魔杖的力量没什么好怀疑的。我觉"
+"得在旅程结束之前或许能用得上它。"
 
 #. [option]
 msgid "It might be useful, I’ll take it."
@@ -5407,7 +5406,7 @@ msgstr "好吧，继续向西，但是要小心。"
 
 #. [message]: speaker=$explorer.id
 msgid "Whoa, what is this place? It sure seems well protected."
-msgstr "哇，这是什么地方，这里好像被保护得很好。"
+msgstr "哇，这是什么地方？这里好像被保护得很好。"
 
 #. [message]: speaker=$ally_name
 msgid ""
@@ -12096,6 +12095,9 @@ msgid ""
 "that is known is that they can spell trouble for those who go poking around "
 "in caverns and ruins."
 msgstr ""
+"这些怪物是已然逝去的时代的兽兵？亦或是来自另一个存在位面的精魂？有关它们来源"
+"的知识已经散失，所知的只有，对在洞穴与废墟中探索的人们而言，它们会造成不少麻"
+"烦。"
 
 #. [attack]: type=fire
 msgid "flaming sword"
@@ -12245,19 +12247,17 @@ msgid "blowgun"
 msgstr "吹箭"
 
 #. [unit_type]: id=Quenoth Pathfinder, race=elf
-#, fuzzy
 msgid "Quenoth Pathfinder"
-msgstr "奎诺骑卫兵"
+msgstr "奎诺探路者"
 
 #. [unit_type]: id=Quenoth Pathfinder, race=elf
-#, fuzzy
 msgid ""
 "In most cases, turning and fleeing from an engagement is a risky tactic. "
 "These elusive Pathfinders, however, are masters of weakening an enemy while "
 "at the same time provoking them to give chase — often into a trap."
 msgstr ""
-"在绝大多数情况下，后背向敌，迅速撤退是很危险的战术。然而，这些神出鬼没的骑手"
-"却是削弱敌军并引诱他们追击的大师——经常是将他们引入陷阱之中。"
+"在绝大多数情况下，后背向敌，迅速撤退是很危险的战术。然而，这些神出鬼没的探路"
+"者却是能够削弱敌军却还能引诱他们追击的大师——经常是将他们引入陷阱之中。"
 
 #. [unit_type]: id=Quenoth Marksman, race=elf
 msgid "Quenoth Marksman"
@@ -12365,13 +12365,12 @@ msgid "Quenoth Scout"
 msgstr "奎诺侦察兵"
 
 #. [unit_type]: id=Quenoth Scout, race=elf
-#, fuzzy
 msgid ""
 "The Quenoth Scouts move swiftly across the sands. Their riding skill are "
 "unmatched, and these they use to harry and incapacitate enemies."
 msgstr ""
-"奎诺侦察兵在沙漠之上迅速穿行，他们的骑术几乎无人可敌，而他们也活用这优势来骚"
-"扰敌军，并摧毁敌方的战斗能力。"
+"奎诺侦察兵可以在沙漠之上迅速穿行。他们的骑术几乎无人可敌，而他们也活用这优势"
+"来骚扰敌军，并摧毁敌方的战斗能力。"
 
 #. [unit_type]: id=Quenoth Shaman, race=elf
 msgid "female^Quenoth Shaman"

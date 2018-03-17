@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2017-10-06 11:40+0800\n"
+"PO-Revision-Date: 2018-03-16 19:13+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -3212,9 +3212,8 @@ msgstr ""
 
 #. [unit_type]: id=Dunefolk, race=dunefolk
 #. [unit_type]: id=Noble, race=human
-#, fuzzy
 msgid "Passenger"
-msgstr "通道"
+msgstr "旅客"
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 msgid "Dwarvish Miner"

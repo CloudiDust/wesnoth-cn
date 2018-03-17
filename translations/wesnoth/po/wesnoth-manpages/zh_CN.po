@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2018-02-12 20:02+0300\n"
-"PO-Revision-Date: 2017-10-06 14:01+0800\n"
+"PO-Revision-Date: 2018-03-16 19:07+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. type: TH
 #, no-wrap
@@ -26,7 +26,7 @@ msgstr "WESNOTH"
 #. type: TH
 #, no-wrap
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 #. type: TH
 #, no-wrap
@@ -163,7 +163,7 @@ msgstr "B<--data-dir>I<\\ directory>"
 
 #. type: Plain text
 msgid "overrides the data directory with the one specified"
-msgstr "使用指定的目录作为数据目录。"
+msgstr "使用指定的目录作为数据目录"
 
 #. type: TP
 #, no-wrap
@@ -197,8 +197,7 @@ msgstr "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
 msgid ""
 "start the in-game map editor directly. If I<file> is specified, equivalent "
 "to B<-l --load>"
-msgstr ""
-"直接启动游戏内置的地图编辑器。如果指定了I<file>，则和B<-e --load>等价。"
+msgstr "直接启动游戏内置的地图编辑器。如果指定了I<file>，则和B<-e --load>等价"
 
 #. type: TP
 #, no-wrap
@@ -330,7 +329,7 @@ msgid ""
 "exits"
 msgstr ""
 "列出游戏中定义的日志域（如果使用了 I<filter> 则只列出饱含该字符串的日志域）而"
-"后退出。"
+"后退出"
 
 #. type: TP
 #, no-wrap
@@ -402,7 +401,6 @@ msgid "B<--nogui>"
 msgstr "B<--nogui>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "runs the game without the GUI. Only available in combination with B<--"
 "multiplayer> or B<--screenshot> or B<--plugin>."
@@ -465,7 +463,6 @@ msgid "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
 msgstr "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "preprocesses a specified file/folder. For each file(s) a plain .cfg file and "
 "a processed .cfg file will be written in specified target directory. If a "
@@ -476,8 +473,8 @@ msgid ""
 "preprocessor visit: https://wiki.wesnoth.org/PreprocessorRef#Command-"
 "line_preprocessor"
 msgstr ""
-"预处理所指定的文件/文件夹。这些文件将被写入所指定的目标目录：包括一个普通的."
-"cfg文件和一个处理过的.cfg文件。如果指定的是个文件夹，那么将根据已知的预处理器"
+"预处理指定的文件/文件夹。针对每个文件，一个未处理的.cfg文件和一个处理过的.cfg"
+"文件会被写入指定的目标目录中。如果指定的是个文件夹，那么将根据已知的预处理器"
 "规则递归地预处理之。“data/core/macros”目录中的常用宏会在指定的资源之前被预处"
 "理。例如： B<-p ~/wesnoth/data/campaigns/tutorial ~/result.> 有关预处理器的详"
 "情请见：http://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor"
@@ -542,16 +539,15 @@ msgid "B<--render-image>I<\\ image>B<\\ >I<output>"
 msgstr "B<--render-image>I<\\ image>B<\\ >I<output>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "takes a valid wesnoth 'image path string' with image path functions, and "
 "outputs to a .png file. Outputs to a windows .bmp file if the filename ends "
 "with .bmp or if libpng is not available. Image path functions are documented "
 "at https://wiki.wesnoth.org/ImagePathFunctionWML."
 msgstr ""
-"以一个合法的包含图像路径函数的韦诺“图像路径字符串”作为传入值，并输出结果至."
-"png文件中。如果文件名以.bmp结尾或libpng不可用，则输出Windows .bmp文件。图像路"
-"径函数的文档位于https://wiki.wesnoth.org/ImagePathFunctionWML。"
+"以一个合法的包含图像路径函数的韦诺“图像路径字符串”作为传入值，并输出一个.png"
+"文件。如果文件名以.bmp结尾或libpng不可用，则输出Windows .bmp文件。图像路径函"
+"数的文档位于https://wiki.wesnoth.org/ImagePathFunctionWML。"
 
 #. type: TP
 #, no-wrap
@@ -955,9 +951,8 @@ msgid "COPYRIGHT"
 msgstr "版权"
 
 #. type: Plain text
-#, fuzzy
 msgid "Copyright \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
-msgstr "版权所有 \\(co 2003-2017 David White E<lt>davidnwhite@verizon.netE<gt>"
+msgstr "版权所有 \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
 
 #. type: Plain text
 msgid ""
@@ -974,17 +969,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#.  This program is free software; you can redistribute it and/or modify
-#.  it under the terms of the GNU General Public License as published by
-#.  the Free Software Foundation; either version 2 of the License, or
-#.  (at your option) any later version.
-#.  This program is distributed in the hope that it will be useful,
-#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#.  GNU General Public License for more details.
-#.  You should have received a copy of the GNU General Public License
-#.  along with this program; if not, write to the Free Software
-#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#. This program is free software; you can redistribute it and/or modify
+#. it under the terms of the GNU General Public License as published by
+#. the Free Software Foundation; either version 2 of the License, or
+#. (at your option) any later version.
+#. This program is distributed in the hope that it will be useful,
+#. but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. GNU General Public License for more details.
+#. You should have received a copy of the GNU General Public License
+#. along with this program; if not, write to the Free Software
+#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 msgid "B<wesnothd>(6)."
 msgstr "B<wesnothd>(6)."
@@ -1261,7 +1256,7 @@ msgstr "B<motd>"
 
 #. type: Plain text
 msgid "The message of the day."
-msgstr "每日一言"
+msgstr "每日一言。"
 
 #. type: TP
 #, no-wrap
@@ -1573,7 +1568,7 @@ msgstr "B<server>"
 
 #. type: Plain text
 msgid "The hostname of the mail server"
-msgstr "邮件服务器的主机名。"
+msgstr "邮件服务器的主机名"
 
 #. type: TP
 #, no-wrap

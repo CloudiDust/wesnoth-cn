@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2017-10-06 11:45+0800\n"
+"PO-Revision-Date: 2018-03-17 14:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=Two_Brothers
 msgid "A Tale of Two Brothers"
@@ -238,6 +238,7 @@ msgid ""
 "Use footpads as fodder to protect your loyal units and attack during the day "
 "to minimize the damage your forces take."
 msgstr ""
+"用走卒当炮灰以保卫你的忠诚单位，在昼间进攻以将你的部队所受的伤害降至最低。"
 
 #. [message]: speaker=Baran
 msgid "Greetings, brother, and welcome home."
@@ -462,18 +463,18 @@ msgstr "在黑暗狂徒的援军到达之前击杀他"
 msgid ""
 "The Elvish forces are spread out. Seek to fight them one at a time with "
 "several of your units."
-msgstr ""
+msgstr "精灵部队四散展开。尝试使用多个单位对战一个单位，各个击破。"
 
 #. [objectives]
 msgid ""
 "Use horsemen or footpads to quickly explore the shrouded woods to locate the "
 "kidnappers."
-msgstr ""
+msgstr "使用骑师或走卒快速探索黑幕下的森林以定位绑架者。"
 
 #. [objectives]
 msgid ""
 "Separate the Dark Adept from his guards and attack in force for an easy kill."
-msgstr ""
+msgstr "将黑暗狂徒和他的守卫分开，击中兵力进攻以简单击杀。"
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -609,8 +610,8 @@ msgid ""
 "I’m no longer sure. What’s between us remains, but knowing someone else has "
 "lain hands on him changes things. Mount up, and let’s get moving."
 msgstr ""
-"现在我不确定。我们之间那破事的影响还在，不过知道另有人对他下手，事情就不一样"
-"了。上马，开拔！"
+"我不确定。我们之间那破事的影响还在，不过知道另有人对他下手，情况就不一样了。"
+"上马，开拔。"
 
 #. [event]
 msgid "Brena"
@@ -792,19 +793,21 @@ msgstr "巴兰阵亡"
 msgid ""
 "When facing an unknown situation, take into account details from story and "
 "dialog to inform your strategy."
-msgstr ""
+msgstr "当面对未知的状况时，将故事与对话中的细节纳入考量，以定下你的策略。"
 
 #. [objectives]
 msgid ""
 "The dark sorcerer is a strong unit; attack him with multiple units at once "
 "and try to force him off of his keep."
-msgstr ""
+msgstr "黑暗巫师是强大的单位；使用多个单位同时攻击它并尝试把他赶下城堡主楼。"
 
 #. [objectives]
 msgid ""
 "Markings or decorations on hexes may indicate something to be found. If you "
 "can, it is usually a good idea to investigate."
 msgstr ""
+"地图格子上的标记或装饰可能表示此处藏有物品。如果可以的话，前去调查是个不错的"
+"主意。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1117,7 +1120,7 @@ msgstr "探明村子里发生了什么"
 msgid ""
 "Recruit or Recall some high-move units to be able to see as far as possible "
 "through the fog for approaching units."
-msgstr ""
+msgstr "征募或召回一些移动力强的单位，尽可能地望穿迷雾，以看到正在接近的单位。"
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -1202,7 +1205,7 @@ msgstr "杀掉兽人军阀以解救村庄"
 
 #. [objectives]
 msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
-msgstr ""
+msgstr "你可以使用荷班地方官的主楼来征募或召回更多的单位。"
 
 #. [message]: speaker=Arvith
 msgid ""
@@ -1299,4 +1302,4 @@ msgid "Baran"
 msgstr "巴兰"
 
 msgid "Hint:"
-msgstr ""
+msgstr "提示："
