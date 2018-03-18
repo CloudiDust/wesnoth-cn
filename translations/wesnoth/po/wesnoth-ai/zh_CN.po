@@ -10,15 +10,15 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2017-10-06 14:02+0800\n"
-"Last-Translator: Brian lee <haiyuan.2007@gmail.com>\n"
+"PO-Revision-Date: 2018-03-18 20:45+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -45,7 +45,7 @@ msgid "Multiplayer_AI^Dev AI: Default + Poisoning (Formula AI)"
 msgstr "开发用AI：默认 + 使毒（公式AI）"
 
 msgid "Use the Patrols Micro AI instead of patrol.lua."
-msgstr ""
+msgstr "使用巡逻微AI而不是patrol.lua。"
 
 #. [test]: id=The_Elves_Besieged
 msgid "The Elves Besieged"
@@ -142,7 +142,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "I... I don’t think I can make it anymore."
-msgstr "我……我想我走不到那儿了。"
+msgstr "我……我想我走不到目的地了。"
 
 #. [message]: speaker=Delfador
 msgid "Prince... you must keep fighting! Nooooooo!"
@@ -158,16 +158,16 @@ msgstr "我保护王子的职责失败了！我被打败了。"
 
 #. [message]: speaker=Konrad
 msgid "Don’t die, Delfador! Please, you have to stay alive!"
-msgstr "不要逝去，黎伐多！请必须活着！"
+msgstr "不要死，黎伐多！求求你了，活下去！"
 
 #. [message]: speaker=unit
 msgid "Ugh!"
-msgstr "啊"
+msgstr "啊！"
 
 #. [message]: speaker=Delfador
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
-msgstr "不，我们已经用光了时间，他们援军已经到了。。。"
+msgstr "不，我们没时间了，他们的援军已经到了……"
 
 msgid ""
 "<u>General</u>: These AIs are set up to simulate (to some extent) how these "
@@ -192,19 +192,21 @@ msgid ""
 "Wolves Multipack AI (used in a different scenario), this Wolves AI combines "
 "all wolves of the side in the same pack."
 msgstr ""
-"<u>General</u>: 设定这些AI来模拟这些动物在真实生活中如何行动。 这些包括他们是"
-"动物，意味着他们不是特别聪明。狼通常群体狩猎，但很容易靠近的猎物分散注意力。"
-"它们也很不错，不怎么围攻鹿。大部分时候，这是故意的。\n"
+"<u>通用</u>: 这些AI是设定来模拟这些动物在现实生活中如何行动的。 其中包括“它们"
+"是动物”这一点，这意味着它们不是特别聪明。例如，狼通常群体狩猎，但很容易被其他"
+"进入狩猎范围的猎物分散注意力。它们也能够，但不是特别擅长把鹿逼入绝境。在很大"
+"程度上，这是故意的。\n"
 "\n"
-"<u>熊 (被邪灵食尸鬼代替), 蜘蛛和 雪人</u> 大部分仅仅游荡在地图各自的部分。它"
-"们不参与其它人的事情（包括狗）但被逼绝境时也不互相攻击。它们攻击其它，更弱小"
-"的动物（鹿，等），如果这些动物在它们范围。\n"
+"<u>熊 (以邪灵食尸鬼表示), 蜘蛛和雪人</u> 基本上只是在地图中各自所在的部分游"
+"荡。它们不会互相挡道（也不会挡狗的道）但被逼入绝境时会互相攻击。它们会攻击其"
+"它更弱小的动物（鹿等），如果这些动物在它们的主动攻击范围内的话。\n"
 "\n"
-"<u>狼群</u>群体捕猎。它们活跃的追捕最近的鹿（只要它呆在森林里面）并且试图逼它"
-"到绝境（但不经常成功），但容易被其它靠近范围的猎物分心。狼群尝试远离熊、蜘"
-"蛛、狗和雪人的范围，除了他们开始准备袭击。如果你让他们移动足够远，他们也会意"
-"识到攻击tusklet是不健康的。当没有鹿留下时，他们随意闲逛。注意，不同于狼群多群"
-"体AI(被使用在不同场景），这些狼群AI包括了在同样群体一方的所有狼群。"
+"<u>狼</u>群体捕猎。它们会主动追猎最近的鹿（只要它还呆在森林里面）并且试图把它"
+"逼入绝境（但不总是非常成功），但容易被其它靠近狩猎范围的猎物分散注意力。狼群"
+"试图远离熊、蜘蛛、狗和雪人的攻击范围，除非它们要进攻这些生物。如果你让它们行"
+"动足够长的时间，那么他们也会意识到攻击长牙幼兽是有害健康的。当鹿都死光时，他"
+"们会随意游荡。注意，不同于<b>多狼群AI</b>（该AI用在另一个场景中），此<b>狼群"
+"AI</b>将狼阵营中的所有狼都归入同一个狼群中。"
 
 msgid ""
 "Each <u>Deer (replaced by Vampire Bats)</u> wanders randomly on forest "
@@ -240,33 +242,36 @@ msgid ""
 "threat to each other and leave each other alone, demonstrating the enormous "
 "self control of a well trained sheep dog."
 msgstr ""
-"每个<u>鹿群（被吸血蝙蝠替代）</u> 在森林范围内游荡，但当敌人靠近这些鹿的范围"
-"时，它将逃到它能逃离最远的地方。<u>Tuskers （由食人魔所取代）</u>展现和鹿群相"
-"同的行为，但当一个敌人在其中一个Tusker旁边时，这个敌人将要承受它的震怒。.\n"
+"每只<u>鹿（以吸血蝙蝠表示）</u> 在森林内随处游荡，但当敌人进入这些鹿的守备范"
+"围时，它将逃到它能到达的最远的地方。\n"
+"<u>长牙兽（以食人魔表示）</u>表现出和鹿相同的行为，但当敌人位于一只长牙幼兽旁"
+"边时，此敌人将会领教长牙兽的全部愤怒。.\n"
 "\n"
-"<u>Tusklets(食人魔幼兽所取代）</u>盲目的跟随最近的成年长牙动物，但当没有成年"
-"长牙动物时，它的表现和鹿群一样。\n"
+"<u>长牙幼兽（以食人魔幼兽表示）</u>盲目地跟随最近的成年长牙兽，但当长牙兽都死"
+"光时，它们的表现和鹿一样。\n"
 "\n"
-"<u>兔子（由老鼠所取代）</u>也是盲目游荡，但当敌人靠近时，它们将逃到他们最近的"
-"洞穴（稻草代替）里面。如果安全了，在回合的开始，它们将在它们的洞穴重新出现\n"
+"<u>兔子（以老鼠表示）</u>也会盲目游荡，但当敌人靠近时，如果它们可以到达自己的"
+"洞穴，那么它们将逃到这些洞穴（以稻草表示）里面。如果安全了，那么在回合开始"
+"时，它们将从洞穴中重新出现。\n"
 "\n"
-"<u>护羊犬（由走卒取代）</u>试图去保护羊群安全。这包括让羊群待在由小路围成的区"
-"域，护羊犬穿进草地，位于护羊犬和正在靠近的敌人之间，如果敌人靠的太近，便攻击"
-"他们。你可以让这个场景运行一大段时间，之后你可以看到一只有意思的狗/狼活动。如"
-"果没有活动的放牧或保护行动需要，狗狗们会在小路的任意地点。<u>牧羊犬（由巨魔幼"
-"崽代替）</u>漫无目的的游荡，但一只牧羊犬靠近它们时，它们就会跑开。如果可能的"
-"话，羊群也会远离正在靠近的敌人，狗狗们利用这点，位于羊群外围。羊群、狗狗和森"
-"林动物（鹿群、长牙动物、兔子）知道它们之间没有威胁并且远离彼此， 一只训练有素"
-"的牧羊犬表现出非常好的自控能力。"
+"<u>牧羊犬（以走卒表示）</u>试图保护羊群的安全。这包括让羊群待在由牧羊犬在草地"
+"中踩出的小路围成的区域内，站在羊群和靠近的敌人之间，以及攻击靠得太近的敌人"
+"等。或许得让本场景运行很长时间之后，你才能看到有趣的狗/狼互动。如果不需要主动"
+"进行放牧和保护行为时，牧羊犬会前往小路上的随机位置。\n"
+"\n"
+"<u>羊（以巨魔幼崽表示）</u>漫无目的地游荡，但当牧羊犬靠近它们时，它们会远离"
+"它。如果有可能的话，牧羊犬会利用这点并站在羊群外围。羊也会远离靠近的敌人。"
+"羊、牧羊犬和森林生物（鹿、长牙兽、兔子）已经知道它们之间互不威胁并且会远离彼"
+"此，这正体现了一只训练有素的牧羊犬的非常优秀的自控能力。"
 
 #. [test]: id=animals
 #. [event]
 msgid "Animals"
-msgstr "动物们"
+msgstr "动物"
 
 #. [side]: id=Rutburt, type=Outlaw
 msgid "Rutburt"
-msgstr ""
+msgstr "拉特巴特"
 
 #. [side]: id=Rutburt, type=Outlaw
 #. [side]: type=General, id=leader2
@@ -295,7 +300,7 @@ msgstr "雪人"
 #. [event]
 #. [test]: id=wolves
 msgid "Wolves"
-msgstr "狼群"
+msgstr "狼"
 
 #. [side]
 msgid "Whelps"
@@ -312,7 +317,7 @@ msgstr "结束场景"
 #. [command]
 #. [then]
 msgid "Well, that was that."
-msgstr "好吧，那些是那些"
+msgstr "好吧，就这样吧。"
 
 #. [event]
 msgid ""
@@ -321,9 +326,9 @@ msgid ""
 "Wesnoth mainline, such as bears, sheep and sheep dogs, or deer. In this test "
 "scenario, these units have been replaced by mainline units."
 msgstr ""
-"<span color='#A00000'>重要:</span> 动物微型AI 在这个场景下，将用来编写在韦诺"
-"主线下不存在的一些动物单位类型，如熊，鹿和牧羊犬或者羊群。在这个测试场景下，"
-"这些单位将会被主线单位所替代。"
+"<span color='#A00000'>重要提示：</span> 此场景中的动物微AI是为韦诺主线中不存"
+"在的一些动物单位类型而编写的，例如熊、鹿、羊和牧羊犬。在此测试场景中，这些单"
+"位以主线单位来表示。"
 
 #. [event]
 msgid ""
@@ -331,13 +336,13 @@ msgid ""
 "for watching only. The animal AIs behave as follows:\n"
 "\n"
 msgstr ""
-"这个有意思的场景，有一群不同的动物AIs,大部分仅仅可以观看。这些动物AIs表现如"
-"下：\n"
+"这是个有趣的小场景，其中有一些不同的动物AI，这主要是为了旁观而设计的。这些动"
+"物AI的表现如下：\n"
 "\n"
 
 #. [message]: speaker=narrator
 msgid "Question for the Player"
-msgstr "玩家问题"
+msgstr "为玩家准备的问题"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -356,28 +361,28 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"这可能包括一个人类控制的一方1，以便在每个回合行动停止来观察（或处理调试模"
-"式）\n"
+"场景中可以包含由人类控制的阵营1，以使行动每回合停止一次，供四处观察（或使用调"
+"试模式搞事）。\n"
 "\n"
-"注意本场景没有结局。为了展示的目的，在每回合开始任何被杀死的单位会被相同的其"
-"它单位替代。为了结束这个场景，有个右击选项-但仅仅在人类控制的模式下生效。在AI"
-"控制模式，你必须按下‘esc’键或重新载入上一个存档。\n"
+"注意此场景是不会结束的。为了便于演示，在每回合开始时，任何一个被杀死的单位都"
+"会被同类型的一个新单位替代。有个右击选项可以结束此场景——但那仅仅在人类控制模"
+"式下有效。在仅有AI模式下，你必须按下“Esc”键或载入之前的存档。\n"
 "\n"
-"注意：动物AIs 被编辑为 微观 AIs。 一个微观 AI 可以被增加和修改来适应场景的需"
-"求。很容易的使用WML和 [micro_ai]标签。查看 <span color='#00A000'>微观 AI "
-"wiki 页面</span>http://wiki.wesnoth.org/Micro_AIs 获取更多信息。"
+"注意：动物AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
 
 #. [option]
 msgid "<span font='16'>I'll just watch the animals.</span>"
-msgstr "<span font='16'>'我仅仅来观察动物。</span>"
+msgstr "<span font='16'>我只想观察动物。</span>"
 
 #. [option]
 msgid "<span font='16'>I want to have control of Side 1.</span>"
-msgstr "<span font='16'>我想要控制1方。</span>"
+msgstr "<span font='16'>我想要控制阵营1。</span>"
 
 #. [objectives]
 msgid "Watch the animals do their things"
-msgstr "观看动物做它们的事情"
+msgstr "观察在做自己的事儿的动物们"
 
 #. [objective]: condition=win
 msgid "Use right-click option"
@@ -385,11 +390,11 @@ msgstr "使用右击选项"
 
 #. [objective]: condition=lose
 msgid "Death of Rutburt"
-msgstr "Rutburt之死"
+msgstr "拉特巴特阵亡"
 
 #. [note]
 msgid "Check out the right-click menu options for additional actions"
-msgstr "查看右键菜单选项获得额外动作"
+msgstr "查看右键菜单选项，其中有额外的行动选项"
 
 #. [event]
 msgid ""
@@ -397,8 +402,8 @@ msgid ""
 "Translation: Those Ogres are mean!  We better stay away from them and their "
 "young."
 msgstr ""
-"Yowl!\n"
-"Translation:这些食人魔是小气鬼！我们最好离他们和他们的幼崽远些。"
+"哟哇！\n"
+"翻译：这些食人魔很卑鄙！我们最好离他们和他们的幼崽远些。"
 
 #. [test]: id=bottleneck_defense
 msgid "Bottleneck Defense"
@@ -406,15 +411,15 @@ msgstr "瓶颈防御"
 
 #. [side]: type=Orcish Leader, id=Big Bad Orc
 msgid "Big Bad Orc"
-msgstr "极坏的兽人"
+msgstr "又大又坏的兽人"
 
 #. [event]
 msgid "All right, chaps. Those orcs need to be stopped."
-msgstr "好了，家伙们。这些兽人需要停下来。"
+msgstr "好了，伙计们。得制止这些兽人。"
 
 #. [event]
 msgid "They there!  We them get!"
-msgstr "它们在那儿，捉住它们！"
+msgstr "它们那儿，我们他们捉！"
 
 #. [event]
 msgid ""
@@ -428,13 +433,13 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"我们需要尽可能长的拖住它们。让我们把最强的战士放在前线，把负伤的单位带到后方"
-"疗伤。如果我们足够小心，我们可能甚至赢得这场战役。当我招募完毕后，我会尽快加"
-"入你来参与战斗。\n"
+"我们得尽可能拖住他们。把最强的战士放在前线，把负伤的单位带到后方疗伤。如果足"
+"够小心，我们甚至可能赢得这次战斗。完成征募后，我会立刻加入你的队伍参与战"
+"斗。\n"
 "\n"
-"注意：瓶颈防御 AI 以微观AI来编译。微观AI可以添加和修改来适应场景的需要，很容"
-"易使用WML和 [micro_ai] 标签。查看<span color='#00A000'>Micro AI wiki 页面</"
-"span> http://wiki.wesnoth.org/Micro_AIs获取更多信息"
+"注意：瓶颈防御AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将"
+"微AI加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的"
+"wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -443,37 +448,37 @@ msgid ""
 "possible. Do you want to play the orc side or let the default (RCA) AI do "
 "that?"
 msgstr ""
-"这个场景中，AI 扮演在东方的人类，他们将组成一道防线尽可能长的拖住兽人。你想扮"
-"演兽人一边或让默认的（RCA)AI来扮演？"
+"这个场景中，扮演东方人类的AI接到指示，将在通路处组成一道防线，尽可能地拖住兽"
+"人。你想亲自扮演兽人阵营，还是让默认（RCA）AI来扮演？"
 
 #. [option]
 msgid "<span font='16'>I'll watch the two AIs fight it out.</span>"
-msgstr "<span font='16'>我将来观看两边AIs谁将胜出。</span>"
+msgstr "<span font='16'>我将观看两个AI对战。</span>"
 
 #. [option]
 msgid "<span font='16'>I'll play the orcs.</span>"
-msgstr "<span font='16'>我将扮演兽人</span>"
+msgstr "<span font='16'>我将扮演兽人。</span>"
 
 #. [objectives]
 msgid "Take the pass"
-msgstr "获得通过"
+msgstr "攻陷通路"
 
 #. [objective]: condition=win
 msgid "Defeat all humans"
-msgstr "打败所有的人类"
+msgstr "击败所有人类"
 
 #. [objective]: condition=lose
 msgid "Death of Big Bad Orc"
-msgstr "大坏兽人之死"
+msgstr "又大又坏的兽人阵亡"
 
 #. [objective]: condition=lose
 msgid "Only one orc remains"
-msgstr "仅一个兽人留下"
+msgstr "只有一个兽人存活"
 
 #. [then]
 msgid ""
 "I may have fallen, but we will continue to defend the pass to the last man!"
-msgstr "我可能倒下，但我们将持续守卫这个防线到最后一个战士！"
+msgstr "我可能是倒下了，但我们将继续守卫通路直到最后一人！"
 
 #. [test]: id=dragon
 #. [event]
@@ -482,7 +487,7 @@ msgstr "龙"
 
 #. [side]
 msgid "team_name^Rowck"
-msgstr "team_name^Rowck"
+msgstr "罗克"
 
 #. [side]: type=Dread Bat, id=Dreadful Bat
 msgid "Dreadful Bat"
@@ -490,15 +495,15 @@ msgstr "恐怖蝙蝠"
 
 #. [event]
 msgid "Rowck's Home"
-msgstr "Rowck的老巢"
+msgstr "罗克之巢"
 
 #. [unit]: id=Rowck, type=Fire Dragon
 msgid "Rowck"
-msgstr "Rowck"
+msgstr "罗克"
 
 #. [event]
 msgid "Be careful to stay out of the way of that dragon. He's a mean one."
-msgstr "小心，远离那只小气的龙。"
+msgstr "小心点，远离那头龙。他很卑鄙。"
 
 #. [event]
 msgid ""
@@ -521,43 +526,43 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
 "wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"喂，我是Rowck，这是我所做的:\n"
-"碰到当我饥饿时，我就闲逛在地图上，直到我进入一个敌人的范围。如果敌人在这范围"
-"以内，我将攻击并将摧毁他们最弱的一些，而后，我将退到我休息的地方，我将在那呆"
-"几个回合或直到康复.\n"
-"一些细节（特点，无bugs,如需要可更改）:\n"
-"-如果回家路被堵了，普通的 RCA AI 会取代我的行动。\n"
-"-然后，如果能到那儿，我将攻击占领我栖息位置的任何敌人。\n"
-"-当我是攻击者而非防御者时，一次猎杀仅仅让我回家。\n"
-"-偶尔我也根本不移动在走神时（有时龙必须休息！）\n"
+"喂。我是罗克，这是我的行动模式：\n"
+"当我饥饿时，我会在地图的一部分区域内四处游荡，直到我的攻击范围内出现敌人。当"
+"敌人在攻击范围之内时，我会攻击并吞食其中最弱的一员。而后，我将退回到栖息处，"
+"我将在那儿呆几个回合或直到完全康复。\n"
+"一些细节（是特性，而不是缺陷，但若是需要时可更改）：\n"
+"- 如果回家路被堵了，那么普通的RCA AI会接管我的行动。\n"
+"- 然而，如果我能回到栖息地，那么我将攻击占据栖息地的任何敌人。\n"
+"- 当我是进攻方而非防御方时，击杀我仅仅只能送我回老家而已。\n"
+"- 在游荡时，偶尔我也会完全不移动（有时龙必须休息！）\n"
 "\n"
-"注意：狩猎者 AI 编译为 Micro AI。  A Micro AI可以根据场景需要添加和修改， 可"
-"以很容易使用WML和 [micro_ai] 标签。查看 <span color='#00A000'>Micro AI wiki页"
-"面</span>http://wiki.wesnoth.org/Micro_AIs 获取更多信息"
+"注意：猎手AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
 
 #. [objectives]
 msgid "Move the bats around to explore how Rowck reacts"
-msgstr "四处移动蝙蝠来探索Rowck如何反应"
+msgstr "四处移动蝙蝠来探查罗克的反应"
 
 #. [objective]: condition=win
 msgid "Defeat Rowck"
-msgstr "打败Rowck"
+msgstr "击败罗克"
 
 #. [objective]: condition=win
 msgid "Move the lead bat to the signpost"
-msgstr "移动领头蝙蝠到指示牌"
+msgstr "将蝙蝠首领移动到路标处"
 
 #. [objective]: condition=lose
 msgid "Death of the bat leader"
-msgstr "蝙蝠领袖之死"
+msgstr "蝙蝠首领阵亡"
 
 #. [event]
 msgid "I'm out of here."
-msgstr "我离开这儿"
+msgstr "我要离开这儿。"
 
 #. [test]: id=fast
 msgid "Fast"
-msgstr ""
+msgstr "快速"
 
 #. [event]
 msgid ""
@@ -570,6 +575,11 @@ msgid ""
 "There is nothing to do here, just watch or use this scenario as a template "
 "or for your own tests."
 msgstr ""
+"此场景表现了如下状况：地图上有太多单位，以至于默认AI在每次行动前，都会产生可"
+"感知的延迟（大概会有几秒钟）。相比之下，快速微AI的延迟要短得多。为演示这一区"
+"别，阵营1由快速微AI扮演，而阵营2由默认（RCA）AI扮演。\n"
+"\n"
+"在此你无事可做，只要看着就行，也可以将此场景用作模板或用于你自己的测试。"
 
 #. [test]: id=goto
 #. [event]
@@ -578,7 +588,7 @@ msgstr "Goto"
 
 #. [side]: id=Vaddan, type=Outlaw
 msgid "Vaddan"
-msgstr "Vaddan"
+msgstr "瓦丹"
 
 #. [side]: type=Poacher, id=leader3
 msgid "Woodsmen"
@@ -586,44 +596,44 @@ msgstr "护林人"
 
 #. [side]: type=Saurian Flanker, id=leader4
 msgid "Saurians"
-msgstr " 蜥蜴人"
+msgstr "蜥蜴人"
 
 #. [side]
 msgid "team_name^Animals"
-msgstr "小组_名称^动物"
+msgstr "动物"
 
 #. [side]
 msgid "team_name^Ghosts"
-msgstr "team_name^鬼魂"
+msgstr "鬼魂"
 
 #. [event]
 msgid "General Minry"
-msgstr "Minry将军"
+msgstr "明利将军"
 
 #. [event]
 msgid "Lieutenant Gadoc"
-msgstr "Gadoc队长"
+msgstr "伽多克尉官"
 
 #. [event]
 msgid "Lieutenant Senvan"
-msgstr "Senvan队长"
+msgstr "森凡尉官"
 
 #. [event]
 msgid "Sergeant Aethubry"
-msgstr "Aethubry中士"
+msgstr "艾萨博雷士官"
 
 #. [set_menu_item]: id=m01_new_footpad
 msgid "Place Side 1 Footpad"
-msgstr "放置阵营1走卒"
+msgstr "放置阵营1的走卒"
 
 #. [set_menu_item]: id=m02_kill_unit
 #. [set_menu_item]: id=m05_kill_unit
 msgid "Kill Unit under Cursor"
-msgstr "在光标下杀死单位"
+msgstr "杀死光标下的单位"
 
 #. [set_menu_item]: id=m03_null_control
 msgid "Turn off human control of Side 1"
-msgstr "关闭阵营1人类控制"
+msgstr "关闭阵营1的人类控制"
 
 #. [event]
 msgid ""
@@ -641,31 +651,32 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
 "wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"这个场景演示了Goto Micro AI各种使用。所有的AI 阵营由MAI控制（蜥蜴人除外，由"
-"Lurker Micro AI). 信息将贯穿全剧展示来指出这些单位正在做什么。\n"
+"此场景将演示Goto微AI的各种不同用例。所有AI阵营均由此微AI通过各种方式控制（蜥"
+"蜴人除外，他们由潜伏者微AI控制）。用于指出这些单位所执行的行动的信息将贯穿整"
+"个场景。\n"
 "\n"
-"玩家控制阵营1.右击菜单选择来增加地图上阵营1单位和把他们再次带离。测试阵营3的"
-"卫兵如何反应。\n"
+"玩家控制阵营1。右击上下文菜单中提供了在地图上添加及移除阵营1单位的选项。这主"
+"要用于测试阵营3守卫的反应模式。\n"
 "\n"
-"注意：Goto AI 编译为 Micro AI。一种Micro AI 可以添加和适应一个场景的需求，非"
-"常容易使用WML和 [micro_ai]标签。查询 <span color='#00A000'>Micro AI Wiki 页面"
-"</span>http://wiki.wesnoth.org/Micro_AIs查询更多信息。"
+"注意：Goto AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
 
 #. [objectives]
 msgid "Watch the AI units do their things"
-msgstr "观察AI单元做他们的事情"
+msgstr "观察AI单位做他们的事情"
 
 #. [objective]: condition=lose
 msgid "Death of Vaddan"
-msgstr "Vaddan之死"
+msgstr "瓦丹阵亡"
 
 #. [message]: speaker=messenger1
 msgid "The bridge is out. What do we do now?"
-msgstr "桥不在了，我们该如何做？"
+msgstr "桥断了。我们现在该怎么办？"
 
 #. [message]: speaker=messenger2
 msgid "Looks like we need to take the long way around to get to General Minry."
-msgstr "似乎我们要走很长的路去General Minry"
+msgstr "看起来我们得走远路才能到明利将军那儿了。"
 
 #. [message]: speaker=leader3
 msgid ""
@@ -676,11 +687,11 @@ msgid ""
 "guardian units, although one of the dedicated Guardian Micro AIs will often "
 "be better suited for that purpose."
 msgstr ""
-"伙计们，除了骗子Vaddan 和他的人，忽视所有人。呆在你的地方直到他的单位进入8个"
-"范围内。\n"
+"伙计们，除了骗子瓦丹和他的手下，其他人都不用管。呆在原地，直到他的单位进入你"
+"身边8格之内。\n"
 "\n"
-"注意：这是个Goto Micro Ai 如何用来编译卫兵单元的展示，即使有一个专注的卫兵"
-"Micro AIs将更好的符合那个目标。"
+"注意：这用于展示Goto微AI如何用于编写守卫单位，虽说专用的守卫微AI之一更适合用"
+"于此目的。"
 
 #. [message]: type=Vampire Bat
 msgid ""
@@ -689,16 +700,17 @@ msgid ""
 "behavior is set up with a single [micro_ai] tag, one with "
 "'unique_goals=yes', the other without."
 msgstr ""
-"使用四个蝙蝠到地图的四个角落（每一个到不同的角落），并且集体返回这儿。每种行"
-"为提供给一个单独[micro_ai]标签，一个 'unique_goals=yes'，另一个无。"
+"这四只蝙蝠会在两种行动之间切换：飞到地图的四个角落（各到一个不同的角落），以"
+"及飞回来在此重新结队。这两种行为都分别由一个[micro_ai]标签来设置，其中之一含"
+"有“unique_goals=yes”，另一个不含。"
 
 #. [event]
 msgid "Aaiiieeeeeee !!!"
-msgstr "Aaiiieeeeeee !!!"
+msgstr "啊咿咿咿咿咿！！！"
 
 #. [event]
 msgid "O no, a ghost!"
-msgstr "哦，不，幽灵！"
+msgstr "哦不，鬼魂！"
 
 #. [event]
 msgid ""
@@ -709,16 +721,16 @@ msgid ""
 "which they seem to get along just fine for some reason.  So as long as we "
 "don't corner them, they'll leave us alone."
 msgstr ""
-"别担心，这些其实是害羞的鬼魂。没人知道为什么，但它们常常消失在今年这个时候的"
-"北方并且移向南。这些幽灵也非常奇怪，它们似乎害怕任何人并且尽可能的避免与其它"
-"单位接触-除了蝙蝠和蜥蜴人，似乎因为一些原因，幽灵似乎很乐意与它们相处。因此只"
-"有我们不逼迫它们， 它们就不会干涉我们。"
+"别担心，那些鬼魂特别害羞。没人知道为什么，但每年的这段时间，它们总是出现在北"
+"方并且向南移动。而且，作为鬼魂而言非同寻常的一点是，它们似乎非常害怕所有人，"
+"会尽可能避免与其他单位接触——除了蝙蝠和蜥蜴人。因为某些原因，鬼魂似乎很乐意与"
+"它们相处。因此只要我们不把它们逼到无路可走， 它们就不会干涉我们。"
 
 #. [message]: speaker=messenger2
 msgid ""
 "I'll take the route straight through the mountains. It's much shorter than "
 "following the trail all the way around in the south."
-msgstr "我将走这条路直接穿越群山，这将比一直沿着这条路环绕南方更近。"
+msgstr "我将走这条直接穿过山脉的路，这比沿着足迹往南面绕一大圈要近多了。"
 
 #. [message]: speaker=messenger1
 msgid ""
@@ -728,14 +740,14 @@ msgid ""
 "Note: The messengers are controlled by Goto Micro AI definitions that differ "
 "by a single line, 'use_straight_line=yes/no'."
 msgstr ""
-"太疯狂了，像乌鸦飞那样，可能会更短，但它会永远的带你穿越那些群山。\n"
+"你疯了。直线距离确实是短，但你要走很长时间才能穿过山脉。\n"
 "\n"
-"注意：Goto Micro Ai 控制这些信使。definitions that differ by a single line, "
-"'use_straight_line=yes/no'."
+"注意：这些信使由Goto微AI控制。他们的定义只有一行是不同"
+"的，“use_straight_line=yes/no”。"
 
 #. [message]: speaker=unit
 msgid "I told you so!"
-msgstr "我告诉过你了！"
+msgstr "我早就告诉你了！"
 
 #. [message]: speaker=leader5
 msgid ""
@@ -743,8 +755,8 @@ msgid ""
 "I want each and every one of you to report to him before going east to fight "
 "those saurians."
 msgstr ""
-"伙计们，去河边要塞并从Aethubry军士那里获得命令。在去东边与这些蜥蜴人交战之前"
-"我希望每个，你们当中每个人都向他汇报。"
+"伙计们，去河边要塞，从艾萨博雷士官那里领命。在去东边与那些蜥蜴人交战之前，我"
+"希望你们当中每个人都向他汇报。"
 
 #. [message]: speaker=leader6
 msgid ""
@@ -753,49 +765,50 @@ msgid ""
 "Sergeant Aethubry. Once that has happened, the rest of you can head into "
 "battle directly."
 msgstr ""
-"哈，这是为你准备的文员！伙计们，我希望你们也向河边要塞移动。但非常好的是你们"
-"其中的一个向Aethubry中士报告。一旦批准，你们剩下的可以直接投入战斗。"
+"哈，这就是伽多克文员啊！伙计们，我希望你们也向河边要塞前进。但只要有一人向艾"
+"萨博雷士官报告就行。完成报告之后，剩下的人可以直接投入战斗。"
 
 #. [message]: speaker=unit
 msgid ""
 "$unit.language_name $unit.name from Lieutenant Gadoc's squadron reporting "
 "for duty, sir."
-msgstr "$unit.language_name $unit.name 来自Gadoc中尉中队报到，sir。"
+msgstr "来自伽多克尉官中队的$unit.language_name $unit.name 报到，长官。"
 
 #. [message]: speaker=fort_commander
 msgid "Ready to fight those saurians, soldier?"
-msgstr "战士们，打算和这些蜥蜴人战斗吗？"
+msgstr "准备好同那些蜥蜴人作战了吗，士兵？"
 
 #. [message]: speaker=unit
 msgid "Yes, sir."
-msgstr "是的"
+msgstr "是，长官！"
 
 #. [message]: speaker=fort_commander
 msgid ""
 "Very good, $unit.language_name. Now go help your comrade get rid of that "
 "saurian infestation in the swamps."
 msgstr ""
-"非常好。 $unit.language_name.现在去帮助在沼泽地的战友们去除蜥蜴人的入侵。"
+"非常好，$unit.language_name。现在去帮助战友们，从沼泽地里把盘踞的蜥蜴人赶出"
+"去。"
 
 #. [message]: speaker=fort_commander
 msgid "Maybe if I ignore them, they'll just go away?"
-msgstr "如果我可能忽视它们，它们会离开吗？"
+msgstr "也许只要我忽略他们，他们就会离开？"
 
 #. [message]: speaker=unit
 msgid "Lieutenant Senvan's men reporting for duty, sir."
-msgstr "Senvan中尉的人l来报到，Sir."
+msgstr "森凡尉官的下属前来报到，长官。"
 
 #. [message]: speaker=fort_commander
 msgid ""
 "Ah, Lieutenant Senvan... Is every single one of you going to bother me "
 "individually as well?"
-msgstr "啊，Senvan 中尉，你们也打算一个个来烦我？"
+msgstr "啊，森凡尉官……你们也打算一个个来烦我？"
 
 #. [message]: speaker=unit
 msgid ""
 "No, sir. Lieutenant Senvan ordered us to head into battle as soon as I have "
 "reported to you."
-msgstr "不，先生。一旦我向您汇报，Senvan 中尉命令我们投入战斗，"
+msgstr "不，长官。森凡尉官下令，一旦我向您报到，我们将立刻投入战斗。"
 
 #. [message]: speaker=fort_commander
 msgid ""
@@ -803,47 +816,47 @@ msgid ""
 "off you go then.\n"
 "\n"
 msgstr ""
-"好吧，松了一口气。有人知道如何使用他的。。。我的意思，好吧，然后离开。\n"
+"好吧，让我松了口气啊。有些人挺清楚该怎么用他的……我是说，很好，你可以走了。\n"
 "\n"
 
 #. [message]: speaker=fort_commander
 msgid ""
 "I wouldn't say anything negative about one of my superior officers now, "
 "would I?"
-msgstr "现在我没有说关于我们其中一位上级长官任何负面的东西，我会吗？"
+msgstr "我可不会说我的上级之一的坏话的，不是吗？"
 
 #. [message]: type=Vampire Bat
 msgid "We've all made it to the corners, let's get back together again."
-msgstr "我们一起把它逼到角落，让我们一起再次回来。"
+msgstr "我们都到达了角落，让我们重聚吧。"
 
 #. [message]: type=Vampire Bat
 msgid "We're back together, let's head out to the corners again."
-msgstr "我们一起回来，让我们再次驶向角落。"
+msgstr "我们重聚了，让我们再出发去角落吧。"
 
 #. [test]: id=guardians
 #. [event]
 msgid "Guardians"
-msgstr "卫兵们"
+msgstr "守卫"
 
 #. [side]: id=Kraa, type=Gryphon
 msgid "Kraa"
-msgstr "Kraa"
+msgstr "卡拉"
 
 #. [side]: id=Kraa, type=Gryphon
 msgid "Gryphons"
-msgstr "狮鹫们"
+msgstr "狮鹫"
 
 #. [side]: type=Orcish Leader, id=Another Bad Orc
 msgid "Another Bad Orc"
-msgstr "又一个糟糕的兽人"
+msgstr "又一个坏兽人"
 
 #. [unit]: type=Dwarvish Guardsman, id=guardian1
 msgid "Guardian 1"
-msgstr "卫兵1"
+msgstr "守卫1"
 
 #. [unit]: type=Dwarvish Guardsman, id=guardian2
 msgid "Guardian 2"
-msgstr "卫兵2"
+msgstr "守卫2"
 
 #. [unit]: type=Giant Rat, id=coward1
 msgid "Coward 1"
@@ -863,31 +876,31 @@ msgstr "懦夫4"
 
 #. [event]
 msgid "Move gryphons here to see different coward reactions"
-msgstr "把狮鹫们移到这儿去看不同懦夫的反应。"
+msgstr "把狮鹫移到此处以观察不同懦夫的反应"
 
 #. [unit]: type=Troll, id=return1
 msgid "Return Guardian 1"
-msgstr "往返卫兵1"
+msgstr "回归守卫1"
 
 #. [unit]: type=Troll Whelp, id=return2
 msgid "Return Guardian 2"
-msgstr "往返卫兵2"
+msgstr "回归守卫2"
 
 #. [unit]: type=Troll Whelp, id=home1
 msgid "Home Guard 1"
-msgstr "地方志愿军1"
+msgstr "家园守卫1"
 
 #. [unit]: type=Troll, id=home 2
 msgid "Home Guard 2"
-msgstr "地方志愿军2"
+msgstr "家园守卫2"
 
 #. [unit]: type=Skeleton Archer, id=stationed1
 msgid "Stationed Guardian 1"
-msgstr "驻扎守护 1"
+msgstr "驻扎守卫1"
 
 #. [unit]: type=Skeleton, id=stationed2
 msgid "Stationed Guardian 2"
-msgstr "驻扎守护 2"
+msgstr "驻扎守卫2"
 
 #. [unit]: type=Troll, id=zone1
 msgid "Gate Keeper"
@@ -895,7 +908,7 @@ msgstr "门卫"
 
 #. [unit]: type=Dwarvish Guardsman, id=zone2
 msgid "Home Keeper"
-msgstr "警卫"
+msgstr "家园护卫"
 
 #. [unit]: type=Naga Fighter, id=zone3
 msgid "Water Guardian"
@@ -903,20 +916,20 @@ msgstr "水源守卫"
 
 #. [event]
 msgid "Guarded Location"
-msgstr "防卫区域"
+msgstr "防守位置"
 
 #. [event]
 msgid "Station 1"
-msgstr "位置1"
+msgstr "驻地1"
 
 #. [event]
 msgid "Station 2"
-msgstr "位置2"
+msgstr "驻地2"
 
 #. [command]
 #. [set_menu_item]: id=m01_guardian
 msgid "Standard WML Guardian"
-msgstr "标准WML卫士"
+msgstr "标准WML守卫"
 
 #. [command]
 msgid ""
@@ -924,13 +937,13 @@ msgid ""
 "guardians attack if there is an enemy within their movement range, otherwise "
 "they do nothing (except maybe retreating to a village for healing)."
 msgstr ""
-"这是一个内置 WML 卫士使用 'ai_special=guardian' 编译。如果敌人在他们的移动范"
-"围之内，卫士们就会攻击，否则不会有任何行动（可能退守村庄治疗）"
+"这是使用“ai_special=guardian”编写的内置WML守卫。如果敌人在他们的移动范围之"
+"内，这些守卫就会攻击，否则他们不会有任何行动（除了可能会撤退到村庄里治疗）。"
 
 #. [command]
 #. [set_menu_item]: id=m02_return
 msgid "Return Guardian"
-msgstr "返回卫士"
+msgstr "回归守卫"
 
 #. [command]
 msgid ""
@@ -945,19 +958,19 @@ msgid ""
 "- If enemies are blocking your way back, do your best to get there anyway.\n"
 "- If you end up next to an enemy on the way back, attack after the move."
 msgstr ""
-"返回卫士是标准维诺卫士的一个变体。在袭击完走进的敌人后，将返回一个指定的防护"
-"位置：\n"
-"-如无敌人靠近守护位置，无动作。\n"
-"-如敌人靠近守卫区域，远离攻击默认AI(注意：如果敌人看起来太强，这可能包括不攻"
-"击）。\n"
-"-如不在守卫区域，返回那儿，无论敌人是否到达。\n"
-"-如敌人正在阻挡你回去的路，尽最大努力返回。\n"
-"-如你最终与返回的敌人撞见，在移动后攻击。"
+"“回归守卫”是标准韦诺守卫的变体。它拥有一个指定的守卫位置（GP），在攻击完接近"
+"的敌人后，它将返回该位置：\n"
+"- 若守卫在GP且敌人不在范围内，则不行动。\n"
+"- 若守卫在GP且敌人在范围内，则由默认AI接管攻击逻辑（注意，如果认为敌人太强，"
+"则此攻击逻辑中可能包括不攻击）。\n"
+"- 若守卫不在GP，则返回GP，不论是否有敌人在范围内。\n"
+"- 若敌人挡住了回去的路，则尽最大努力返回。\n"
+"- 若在回程上正好站到敌人身边，则在完成移动后攻击。"
 
 #. [command]
 #. [set_menu_item]: id=m03_home
 msgid "Home Guard"
-msgstr "地方守卫"
+msgstr "家园守卫"
 
 #. [command]
 msgid ""
@@ -975,19 +988,20 @@ msgid ""
 "return and stationed guardians and the cowards are written in Lua AI. In "
 "addition the non-guardian units of the side follow the default AI behavior."
 msgstr ""
-"“地方守卫”是“守卫\"AI 的变体。通过这个变体，如果没有卷入战争和去村庄治疗或本"
-"回合占领村庄，这个单位有一个分配的”归属“位置。并且会返回那儿。（相反，标准的"
-"守卫AI会导致单位呆在上次它进攻的地方。）这个和在归属地的返回卫士会逼迫攻击不"
-"同，可能变得疲惫远离归宿区。而不是在每次攻击后返回。（也能被一系列紧密放置的"
-"村民所引诱开，但有时那是一个地图创建者能控制的。）\n"
-"这也展示了如何结合来自一方公式AI和Lua AI候选人的行动。地方守卫有Formula编写，"
-"然而返回守卫、驻扎守卫和胆怯者由Lua AI编写。另外非守卫单元的一边遵循默认AI行"
-"为。"
+"“家园守卫”是“守卫\"特型AI的变体。在此变体中，单位拥有指定的“家园”位置，如果没"
+"有卷入战斗或前往村庄（不论是去治疗还是要在本回合内占领之），则单位会回到家"
+"园。（而标准的守卫AI会导致单位呆在上次它进行攻击的地方。）这和“回归守卫”有如"
+"下不同：家园守卫会不断进攻，可能会被吸引到离“家园”很远的位置，而不是在每次攻"
+"击后都返回。（它也能被一系列紧密放置的村庄所诱开，但那是地图创建者能控制的因"
+"素。）\n"
+"这也展示了如何在同一个阵营中结合公式AI和Lua AI的候选行动。家园守卫使用公式AI"
+"编写，而回归守卫、驻扎守卫以及懦夫使用Lua AI编写。此外，该阵营的非守卫单位遵"
+"循默认AI行为。"
 
 #. [command]
 #. [set_menu_item]: id=m04_stationed
 msgid "Stationed Guardian"
-msgstr "驻扎守护"
+msgstr "驻扎守卫"
 
 #. [command]
 msgid ""
@@ -1006,16 +1020,16 @@ msgid ""
 "rating and attack from there.\n"
 "  - If not in reach, move toward this unit."
 msgstr ""
-"驻扎守卫是比返回守卫有着某种程度上更加复杂行为的标准韦诺卫士的另外变体。有两"
-"种位置可以限定它，一种是“驻扎”位置，“守卫”位置，还有一种“距离”位置，行为如"
+"“驻扎守卫”是另一种标准韦诺守卫的变体，它的行为比“回归守卫”更复杂一些。需要为"
+"它定义两个位置，一个是“驻地”，一个是“防守位置”，还需要定义“距离”。其行为如"
 "下：\n"
-"-如果没有敌人在守卫目前位置的范围内，没有任何行为。\n"
-"-另外：如果一个敌人在守卫的距离范围内，但不在守护位置和驻扎位置的相同距离内"
-"（所有的位置同时），移动守卫到驻扎位置.\n"
-"-另外:\n"
-"-挑选离守卫位置最近的敌人.\n"
-"-如果我们能到达那儿，挑选有着最高防御力的邻近方格并且从那儿攻击.\n"
-"-如果不能到达，移向这个单位。"
+"- 如果在守卫的当前位置的“距离”之内没有敌人，则不行动。\n"
+"- 否则：如果敌人在守卫的“距离”范围内，但不在防守位置和驻地的相同距离内（所有"
+"条件同时满足），则把守卫向驻地移动。\n"
+"- 否则：\n"
+"  - 选择离防守位置最近的敌方单位。\n"
+"  - 如果可以到达该单位身边，则挑选有最高防御值的邻近格子并从那儿发动进攻。\n"
+"  - 如果不能到达，则向该单位移动。"
 
 #. [command]
 #. [set_menu_item]: id=m05_coward
@@ -1039,17 +1053,20 @@ msgid ""
 "- Both 'seek' and 'avoid' may consist of only one coordinate ('x' or 'y'), "
 "in which case not a single hex, but a line of hexes is sought or avoided."
 msgstr ""
-"懦夫像类似于守卫一样的单位，闲坐在那，除非有敌人靠近范围。然而，不像卫兵，一"
-"旦敌人靠近，他们就跑开了。可能是野兽、阻碍战斗未武装的平民，等等（？）。懦夫"
-"宏可以有两个选项位置，‘seek'和’avoid':\n"
-"- 如果两个都没有，懦夫将退到离逼近敌人的最远位置。\n"
-"- 如果是seek指令，它将优先走到那个位置（但优先远离敌人占领的位置）.\n"
-"- 如是avoid，"
+"“懦夫”是像守卫一样，当没有敌人进入范围时，会闲坐着什么都不干的单位。然而，和"
+"守卫不同的一点是，一旦敌人靠近，他们会逃跑。可用于野兽、不小心遭遇战斗的无武"
+"装平民等等。调用懦夫宏时，有两个可选参数：“seek”和“avoid”：\n"
+"- 如果两者均未给出，则懦夫将撤退到离接近的敌人最远的位置。\n"
+"- 如果给出“seek”，则它会尽可能前往指定的位置（但“远离敌人”的优先级更高）。\n"
+"- 如是给出“avoid”，则它会尝试避开指定的位置（但“使得与敌人的距离最大”和“前"
+"往‘seek’”的优先级更高）。\n"
+"- “seek”和“avoid”都可以只含有一个坐标分量（“x”或“y”），在此情况下，懦夫会前往"
+"或避开一整条线，而不是单个格子。"
 
 #. [command]
 #. [set_menu_item]: id=m06_zone
 msgid "Zone Guardian"
-msgstr ""
+msgstr "区域守卫"
 
 #. [command]
 msgid ""
@@ -1062,10 +1079,16 @@ msgid ""
 "- Otherwise, it attacks any enemy entering the enemy zone and once there are "
 "no more enemies, it goes back to patrol in its basic zone."
 msgstr ""
+"“区域守卫”，正如名称所示，是守卫一片区域的单位。它在该区域内随机移动，直到有"
+"敌人进入该区域（或单独定义的敌方区域，见下）。可用于防守城堡或是层次化的区"
+"域。调用区域宏时可指定一个可选的敌方区域：\n"
+"- 如果没有指定，则区域守卫会攻击任何进入其守卫区域的敌人。\n"
+"- 否则，它会攻击任何进入敌方区域的敌人，一旦该区域内敌人被消灭干净，则它会返"
+"回基本区域内继续巡逻。"
 
 #. [event]
 msgid "Kraahhh!!!!"
-msgstr ""
+msgstr "咔啦啊啊啊啊！！！"
 
 #. [event]
 msgid ""
@@ -1081,32 +1104,41 @@ msgid ""
 "the [micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"高原狮鹫，看看这些敌人。他们的行为并不寻常。其中绝大部分完全不会行动，除非我"
+"们接近他们。让我们看看他们会如何对我们的行动做出反应。\n"
+"\n"
+"给玩家的提醒：右击上下文菜单中提供了有关这些单位的行为模式的信息。\n"
+"\n"
+"另一个提醒：这些守卫AI中的绝大部分是作为微AI来编写的。仅使用WML和[micro_ai]标"
+"签即可很容易地将微AI加入场景中，并根据场景的需要进行适配。请查看<span "
+"color='#00A000'>微AI的wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以"
+"获取更多信息。"
 
 #. [objectives]
 msgid "Move the Gryphons around to explore how the guardians react"
-msgstr "移动狮鹫们到周围来探究卫兵如何反应"
+msgstr "让狮鹫们四处移动以探究守卫如何反应"
 
 #. [objective]: condition=win
 msgid "Defeat all enemy units"
-msgstr ""
+msgstr "击败所有地方单位"
 
 #. [objective]: condition=win
 msgid "Move Kraa to the signpost"
-msgstr "移动kraa到指定路标"
+msgstr "把卡拉移动到路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Kraa"
-msgstr ""
+msgstr "卡拉阵亡"
 
 #. [note]
 msgid ""
 "Check out the right-click menu options for information on each guardian type"
-msgstr ""
+msgstr "检视右击菜单中的选项，以查看各守卫类型的相关信息"
 
 #. [event]
 msgid ""
 "Gryphons of the High Plains, it is time to return to said plains. Follow me."
-msgstr ""
+msgstr "高原狮鹫，现在是回到高原的时刻了。跟我上。"
 
 #. [test]: id=hang_out
 msgid "Hang Out"
@@ -1114,15 +1146,15 @@ msgstr "闲逛"
 
 #. [side]: id=Bad Outlaw, type=Outlaw
 msgid "team_name^Bad Outlaw"
-msgstr ""
+msgstr "坏游寇"
 
 #. [side]: id=Good Bandit, type=Bandit
 msgid "team_name^Good Bandit"
-msgstr ""
+msgstr "好强盗"
 
 #. [event]
 msgid "Outlaw moves here"
-msgstr ""
+msgstr "游寇移动到此"
 
 #. [event]
 msgid ""
@@ -1139,45 +1171,53 @@ msgid ""
 "the <span color='#00A000'>Micro AI wiki page</span> at http://wiki.wesnoth."
 "org/Micro_AIs for more information."
 msgstr ""
+"那边那个游寇会逃往东南方的城堡主楼。他只会在那里征募三回合，而后便会开始移"
+"动。他和他的走卒比我们快多了。我们得赶快，否则就捉不住他了。\n"
+"\n"
+"注：此场景结合使用了两个微AI。其一是<b>闲逛微AI</b>，这让阵营2的单位在主楼周"
+"围闲逛两回合（同时从城堡格子上移出以允许征募）。其二是<b>信使护卫AI</b>，在征"
+"募之后会接管。仅使用WML和[micro_ai]标签即可很容易地将微AI加入场景中，并根据场"
+"景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页面</span>（http://"
+"wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
 
 #. [objectives]
 msgid ""
 "Get into the outlaw's way before he can make it to the south-eastern keep"
-msgstr ""
+msgstr "在游寇到达西南主楼之前挡住他的道"
 
 #. [objective]: condition=win
 msgid "Death of Bad Outlaw"
-msgstr ""
+msgstr "坏游寇死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Good Bandit"
-msgstr ""
+msgstr "好强盗阵亡"
 
 #. [objective]: condition=lose
 msgid "Bad Outlaw makes it to the signpost"
-msgstr ""
+msgstr "坏游寇到达路标处"
 
 #. [event]
 msgid "We got him! Now whatever it is we are fighting for is safe."
-msgstr ""
+msgstr "我们干掉他了！现在我们护卫的不论那是啥玩意儿都安全了。"
 
 #. [event]
 msgid ""
 "I made it! Now we can keep fighting for whatever it is that we are fighting "
 "for."
-msgstr ""
+msgstr "我成功了！现在我们可以继续为了我们为之战斗的不论那是啥玩意儿战斗了！"
 
 #. [test]: id=healer_support
 msgid "Healer Support"
-msgstr ""
+msgstr "疗伤支援"
 
 #. [side]: id=Rebels1, type=Elvish Ranger
 msgid "Rebels 1"
-msgstr ""
+msgstr "反抗势力1"
 
 #. [side]: id=Rebels2, type=Elvish Marksman
 msgid "Rebels 2"
-msgstr ""
+msgstr "反抗势力2"
 
 #. [event]
 msgid ""
@@ -1204,7 +1244,7 @@ msgstr ""
 
 #. [test]: id=lurkers
 msgid "Lurkers of the Swamp"
-msgstr ""
+msgstr "沼泽潜伏者"
 
 #. [side]: id=Pekzs, type=Saurian Soothsayer
 msgid "Pekzs"
