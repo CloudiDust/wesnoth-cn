@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-18 20:45+0800\n"
+"PO-Revision-Date: 2018-03-20 17:50+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -368,9 +368,9 @@ msgstr ""
 "会被同类型的一个新单位替代。有个右击选项可以结束此场景——但那仅仅在人类控制模"
 "式下有效。在仅有AI模式下，你必须按下“Esc”键或载入之前的存档。\n"
 "\n"
-"注意：动物AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将微AI"
-"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
-"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
+"此外请注意：动物AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将"
+"微AI加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的"
+"wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [option]
 msgid "<span font='16'>I'll just watch the animals.</span>"
@@ -437,9 +437,9 @@ msgstr ""
 "够小心，我们甚至可能赢得这次战斗。完成征募后，我会立刻加入你的队伍参与战"
 "斗。\n"
 "\n"
-"注意：瓶颈防御AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将"
-"微AI加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的"
-"wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
+"注：瓶颈防御AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -536,9 +536,9 @@ msgstr ""
 "- 当我是进攻方而非防御方时，击杀我仅仅只能送我回老家而已。\n"
 "- 在游荡时，偶尔我也会完全不移动（有时龙必须休息！）\n"
 "\n"
-"注意：猎手AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将微AI"
-"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
-"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
+"注：猎手AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI加入"
+"场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页面"
+"</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [objectives]
 msgid "Move the bats around to explore how Rowck reacts"
@@ -658,9 +658,9 @@ msgstr ""
 "玩家控制阵营1。右击上下文菜单中提供了在地图上添加及移除阵营1单位的选项。这主"
 "要用于测试阵营3守卫的反应模式。\n"
 "\n"
-"注意：Goto AI是作为微AI来编写的。 仅使用WML和[micro_ai]标签即可很容易地将微AI"
-"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
-"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
+"注：Goto AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI加"
+"入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页"
+"面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [objectives]
 msgid "Watch the AI units do their things"
@@ -1112,7 +1112,7 @@ msgstr ""
 "另一个提醒：这些守卫AI中的绝大部分是作为微AI来编写的。仅使用WML和[micro_ai]标"
 "签即可很容易地将微AI加入场景中，并根据场景的需要进行适配。请查看<span "
 "color='#00A000'>微AI的wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以"
-"获取更多信息。"
+"获得更多信息。"
 
 #. [objectives]
 msgid "Move the Gryphons around to explore how the guardians react"
@@ -1175,10 +1175,10 @@ msgstr ""
 "动。他和他的走卒比我们快多了。我们得赶快，否则就捉不住他了。\n"
 "\n"
 "注：此场景结合使用了两个微AI。其一是<b>闲逛微AI</b>，这让阵营2的单位在主楼周"
-"围闲逛两回合（同时从城堡格子上移出以允许征募）。其二是<b>信使护卫AI</b>，在征"
+"围闲逛两回合（同时从城堡格子上移出以允许征募）。其二是<b>信使护送AI</b>，在征"
 "募之后会接管。仅使用WML和[micro_ai]标签即可很容易地将微AI加入场景中，并根据场"
 "景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页面</span>（http://"
-"wiki.wesnoth.org/Micro_AIs）以获取更多信息。"
+"wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [objectives]
 msgid ""
@@ -1237,10 +1237,21 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"在此场景中，将演示疗伤支援微AI的使用。此AI将一个阵营的疗伤者配置于战线之后，"
+"不论在何种情况下，都会治疗受伤或受威胁的单位，而不是参与进攻。它有几个可配置"
+"的选项（此场景中的两个阵营，其选项设置是不同的），这些选项决定了疗伤者们有多"
+"激进/小心，他们是否会攻击，以及他们愿意冒多大的风险等等。\n"
+"\n"
+"为了让演示更清晰，每个疗伤者都会宣告她的下一个支援行动。如果你不想每次都看到"
+"宣告，只需在第一次宣告时按“esc”即可。\n"
+"\n"
+"注：疗伤支援AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [event]
 msgid "Argh!  They got us..."
-msgstr ""
+msgstr "啊！被他们干掉了……"
 
 #. [test]: id=lurkers
 msgid "Lurkers of the Swamp"
@@ -1248,51 +1259,51 @@ msgstr "沼泽潜伏者"
 
 #. [side]: id=Pekzs, type=Saurian Soothsayer
 msgid "Pekzs"
-msgstr ""
+msgstr "佩克兹斯"
 
 #. [side]: id=Pekzs, type=Saurian Soothsayer
 msgid "team_name^Pekzs"
-msgstr ""
+msgstr "佩克兹斯"
 
 #. [side]: type=Saurian Oracle
 msgid "Micro AI Lurkers (saurians, stationary)"
-msgstr ""
+msgstr "微AI潜伏者（蜥蜴人，固守不动）"
 
 #. [side]: type=Saurian Oracle
 msgid "Micro AI Lurkers (saurians, wanderers)"
-msgstr ""
+msgstr "微AI潜伏者（蜥蜴人，四处游荡）"
 
 #. [side]: type=Naga Warrior
 msgid "Micro AI Lurkers (nagas)"
-msgstr ""
+msgstr "微AI潜伏者（娜迦）"
 
 #. [side]: type=Saurian Oracle
 msgid "WML Lurkers (saurians)"
-msgstr ""
+msgstr "WML潜伏者（蜥蜴人）"
 
 #. [side]: type=Saurian Oracle
 msgid "Formula AI Lurkers (saurians)"
-msgstr ""
+msgstr "公式AI潜伏者（蜥蜴人）"
 
 #. [set_menu_item]: id=m01_menu_lurker2
 msgid "Place a Side 2 lurker"
-msgstr ""
+msgstr "放置一名阵营2潜伏者"
 
 #. [set_menu_item]: id=m01_menu_lurker3
 msgid "Place a Side 3 lurker"
-msgstr ""
+msgstr "放置一名阵营3潜伏者"
 
 #. [set_menu_item]: id=m01_menu_lurker4
 msgid "Place a Side 4 lurker"
-msgstr ""
+msgstr "放置一名阵营4潜伏者"
 
 #. [set_menu_item]: id=m01_menu_lurker5
 msgid "Place a Side 5 lurker"
-msgstr ""
+msgstr "放置一名阵营5潜伏者"
 
 #. [set_menu_item]: id=m01_menu_lurker6
 msgid "Place a Side 6 lurker"
-msgstr ""
+msgstr "放置一名阵营6潜伏者"
 
 #. [event]
 msgid ""
@@ -1305,6 +1316,12 @@ msgid ""
 "enemy within their reach. If no enemy is in reach, the lurker does a random "
 "move instead - or it just sits and waits (lurks)."
 msgstr ""
+"在此场景中演示潜伏者微AI。潜伏者是一个可以在绝大多数地形上移动，但只会在特定"
+"的地形上停留及发起进攻的单位。它也可能具有在此种地形上匿踪的能力（这也是这个"
+"AI被称为潜伏者AI的原因）。\n"
+"\n"
+"潜伏者各自为战而没有任何战略可言，他们总是会进攻自身攻击范围内最弱的敌人。如"
+"果该范围内没有敌人，那么潜伏者就会进行随机移动——或者就坐在原地等待（潜伏）。"
 
 #. [event]
 msgid ""
@@ -1323,10 +1340,22 @@ msgid ""
 "We also added two other sides, which demonstrate lurker behavior coded in "
 "WML (Side 5, gray) and Formula AI (Side 6, brown)."
 msgstr ""
+"此处使用参数不同的[micro_ai]标签，设置了三种不同的潜伏行为：\n"
+"\n"
+"阵营2（蓝色）：只会在沼泽中发动进攻的蜥蜴人。如果攻击范围内没有敌人，他们不会"
+"移动。\n"
+"\n"
+"阵营3（绿色）：只会在沼泽中发动进攻的蜥蜴人。如果攻击范围内没有敌人，他们四处"
+"随机游荡（只在沼泽上游荡）。\n"
+"\n"
+"阵营4（紫色）：只在水面上游荡的娜迦，但在水面上和沼泽中都会发动进攻。\n"
+"\n"
+"我们还另加了两个其他阵营，用于演示使用WML（阵营5，灰色）和公式AI（阵营6，棕"
+"色）编写的潜伏行为。"
 
 #. [event]
 msgid "Notes"
-msgstr ""
+msgstr "注"
 
 #. [event]
 msgid ""
@@ -1340,68 +1369,77 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
 "wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"你可以使用右击上下文菜单来添加额外的潜伏者。\n"
+"\n"
+"所有不与沼泽（对娜迦而言是水面）紧邻的单位都不会被潜伏者攻击，因此要防止佩克"
+"兹斯被攻击是很容易的。\n"
+"\n"
+"Lua潜伏者AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI加"
+"入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页"
+"面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [objectives]
 msgid "Watch the lurkers move around and fight them if you want"
-msgstr "观察潜伏者的走动，如果你愿意的打败它们"
+msgstr "观察潜伏者的四处移动，如果你想，也可以和它们作战"
 
 #. [objective]: condition=win
 msgid "Defeat all lurkers"
-msgstr ""
+msgstr "击败所有潜伏者"
 
 #. [objective]: condition=win
 msgid "Move Pekzs to the signpost"
-msgstr "移动 Pekzs 到指示牌"
+msgstr "移动佩克兹斯到路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Pekzs"
-msgstr ""
+msgstr "佩克兹斯阵亡"
 
 #. [note]
 msgid "Right-click on unoccupied swamp hexes to add more lurkers"
-msgstr ""
+msgstr "右击未被占据的沼泽格子以添加更多潜伏者"
 
 #. [event]
 msgid ""
 "Zzanksss for helping me wizz zzossse lurkerss. Hope to sssee you again "
 "ssometime."
-msgstr ""
+msgstr "嘶嘶嘶谢你帮我对付这些潜伏者。嘶嘶嘶嘶望还可以和你再见。"
 
 #. [test]: id=messenger_escort
 msgid "Messenger Escort"
-msgstr ""
+msgstr "信使护送"
 
 #. [side]: id=Vanak, type=Orcish Ruler
 msgid "Vanak"
-msgstr ""
+msgstr "凡纳克"
 
 #. [event]
 #. [side]
 #. [unit]: type=Dragoon, id=messenger
 msgid "Messenger"
-msgstr ""
+msgstr "信使"
 
 #. [event]
 msgid "Messenger Waypoint 1"
-msgstr ""
+msgstr "信使路点1"
 
 #. [event]
 msgid "Messenger Waypoint 2"
-msgstr ""
+msgstr "信使路点2"
 
 #. [event]
 msgid "Messenger Waypoint 3"
-msgstr ""
+msgstr "信使路点3"
 
 #. [event]
 msgid "AI moves Messenger here"
-msgstr ""
+msgstr "AI将把信使移动到此"
 
 #. [event]
 msgid ""
 "Men, I need to get to that signpost in the north, to get the message to our "
 "leader. Let's head up there as quickly as we can."
 msgstr ""
+"弟兄们，我得到北边的路标去，把消息带给我们的领袖。让我们尽快前往那里吧。"
 
 #. [event]
 msgid ""
@@ -1422,83 +1460,94 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
 "wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"信使护送AI会尝试将龙骑士信使移动到北面的路标处，同时尽可能地使用其他单位来保"
+"护他。凡纳克的兽人得阻止他。\n"
+"\n"
+"注意，此处信使的移动路径是使用一系列路点来设置的，这只是为了演示如何使用路点"
+"而已。在此地图上，只在路径最后使用一个路点，效果一样好（可能还更好）。\n"
+"\n"
+"也请注意信使并不需要准确到达每一个路标（除了最后一个），只要接近就足够了。\n"
+"\n"
+"信使护送AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI加入"
+"场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页面"
+"</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [objective]: condition=win
 msgid "Defeat the messenger"
-msgstr ""
+msgstr "击败信使"
 
 #. [objective]: condition=lose
 msgid "Messenger gets to the signpost"
-msgstr ""
+msgstr "信使到达路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Vanak"
-msgstr ""
+msgstr "凡纳克阵亡"
 
 #. [event]
 msgid "I made it!  Now our people will be safe."
-msgstr ""
+msgstr "我做到了！现在我们的人民安全了。"
 
 #. [event]
 msgid "Nooo!  All is lost. We will never stop the orcs now!"
-msgstr ""
+msgstr "不！全完了。现在我们再也不可能阻止兽人了！"
 
 #. [test]: id=patrols
 #. [event]
 msgid "Patrols"
-msgstr ""
+msgstr "巡逻队"
 
 #. [side]: id=Gertburt, type=Outlaw
 msgid "Gertburt"
-msgstr ""
+msgstr "哥特巴特"
 
 #. [side]: id=Gertburt, type=Outlaw
 msgid "Bandits"
-msgstr ""
+msgstr "强盗"
 
 #. [side]
 msgid "team_name^Konrad"
-msgstr ""
+msgstr "科纳德"
 
 #. [side]
 msgid "team_name^Urudin"
-msgstr ""
+msgstr "乌鲁丁"
 
 #. [unit]: type=Orcish Slayer, id=Urudin
 msgid "Urudin"
-msgstr ""
+msgstr "乌鲁丁"
 
 #. [event]
 msgid "Konrad Waypoint 1"
-msgstr ""
+msgstr "科纳德路点1"
 
 #. [event]
 msgid "Konrad Waypoint 2"
-msgstr ""
+msgstr "科纳德路点2"
 
 #. [event]
 msgid "Konrad Final Waypoint"
-msgstr ""
+msgstr "科纳德最终路点"
 
 #. [event]
 msgid "Patrol Waypoint 1"
-msgstr ""
+msgstr "巡逻队路点1"
 
 #. [event]
 msgid "Patrol Waypoint 2"
-msgstr ""
+msgstr "巡逻队路点2"
 
 #. [event]
 msgid "Patrol Waypoint 3"
-msgstr ""
+msgstr "巡逻队路点3"
 
 #. [event]
 msgid "Patrol Waypoint 4"
-msgstr ""
+msgstr "巡逻队路点4"
 
 #. [event]
 msgid "Urudin retreats here"
-msgstr ""
+msgstr "乌鲁丁将撤退到此"
 
 #. [event]
 msgid ""
@@ -1513,6 +1562,13 @@ msgid ""
 "\n"
 "All of this is implemented by use of the Patrol [micro_ai] tag."
 msgstr ""
+"你好！我是一个伪装成科纳德的人。在此场景中，我们将为你演示巡逻AI。\n"
+"\n"
+"我正在通过中央高山南面的一些路点前往东面的城堡主楼。一旦到达，我就会呆在那"
+"儿。而中央的两个伙计会不断地围着高山转圈，其中之一会一直沿着一个方向走，而另"
+"一个每转一圈会换一次方向。\n"
+"\n"
+"这些全部是通过使用巡逻[micro_ai]标签来实现的。"
 
 #. [event]
 msgid ""
@@ -1522,6 +1578,9 @@ msgid ""
 "same side.  For more details on different types of guardian AIs, there is a "
 "separate test scenario specializing on those."
 msgstr ""
+"而我是一个区域守卫，在某种意义上，我是在地图的最南部分巡逻。此AI是通过守卫"
+"[micro_ai]标签实现的。在此这主要是为了演示如何为同一个阵营设置不同的微AI。若"
+"想了解不同类型的守卫AI的详细信息，有另一个独立的测试场景是专门为此准备的。"
 
 #. [event]
 msgid ""
@@ -1531,6 +1590,10 @@ msgid ""
 "\n"
 "This is an AI separate from the Patrols of Side 2."
 msgstr ""
+"而我是乌鲁丁。我会在前几回合中攻击敌人，但如果我的生命值降到最大值的一半或到"
+"达第5回合，不论哪个条件先达成，我都会向地图右边缘撤退。\n"
+"\n"
+"此AI与阵营2的巡逻队AI不是同一个。"
 
 #. [event]
 msgid ""
@@ -1558,67 +1621,86 @@ msgid ""
 "and the [micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki "
 "page</span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"你作为玩家，在此场景中控制哥特巴特的强盗。你可以仅仅只是观察四处移动的巡逻"
+"队，也可以把单位移过去挡道。三个巡逻单位接到指示，在面对敌方单位时会表现出不"
+"同的行为：\n"
+"\n"
+"科纳德只会攻击哥特巴特，或者任何阻止他前往最终路点的地方单位。\n"
+"\n"
+"剑士永远不会攻击。\n"
+"\n"
+"长弓手会攻击他在移动之后紧邻的任何敌方单位。\n"
+"\n"
+"但是，他们有一点是相同的，那就是“前往下一个路点”比“攻击”的优先级高。因此，他"
+"们更愿意绕过敌人而不是直面敌人。同时，如果一个路点被他们（按照指示）不会攻击"
+"的单位占据，那么一旦离路点够近，他们（最终）会放弃该路点，并前往下一个路"
+"点。\n"
+"\n"
+"控制所有阵营2单位的巡逻AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很"
+"容易地将微AI加入场景中，并根据场景的需要进行适配。请查看<span "
+"color='#00A000'>微AI的wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以"
+"获得更多信息。"
 
 #. [objectives]
 msgid "Watch the patrols, attack them etc."
-msgstr ""
+msgstr "观察巡逻队，攻击他们，等等。"
 
 #. [objective]: condition=win
 msgid "Move Gertburt to the signpost"
-msgstr ""
+msgstr "将哥特巴特移动到路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Gertburt"
-msgstr ""
+msgstr "哥特巴特阵亡"
 
 #. [event]
 msgid ""
 "Well, that was fun!  I'll just hang out here now and watch those two guys "
 "walk and walk and ..."
-msgstr ""
+msgstr "呵，挺有趣的！现在我就呆在这儿，看那两个伙计走啊走啊走……"
 
 #. [event]
 msgid "Let's go home, chaps."
-msgstr ""
+msgstr "我们回家，伙计们。"
 
 #. [test]: id=protect_unit
 #. [event]
 msgid "Protect Unit"
-msgstr ""
+msgstr "保护单位"
 
 #. [side]: id=Langzhar, type=Lieutenant
 msgid "Langzhar"
-msgstr ""
+msgstr "朗扎"
 
 #. [side]: id=Langzhar, type=Lieutenant
 msgid "team_name^Langzhar"
-msgstr ""
+msgstr "朗扎"
 
 #. [side]: id=Koorzhar, type=Lieutenant
 msgid "Koorzhar"
-msgstr ""
+msgstr "阔扎"
 
 #. [side]: id=Koorzhar, type=Lieutenant
 msgid "team_name^Koorzhar"
-msgstr ""
+msgstr "阔扎"
 
 #. [event]
 msgid "Move Rossauba here"
-msgstr ""
+msgstr "把罗扫巴移动到此"
 
 #. [event]
 msgid "There's that traitor wizard. Let's get him."
-msgstr ""
+msgstr "叛徒巫师在那儿。我们去干掉他。"
 
 #. [event]
 msgid ""
 "Men, you know the deal. We must protect Rossauba under all circumstances. "
 "Even my survival is not as important."
-msgstr ""
+msgstr "弟兄们，你们懂的。不论如何我们都必须保护罗扫巴。甚至我的死活都不重要。"
 
 #. [event]
 msgid "That's very kind of you, but ..."
-msgstr ""
+msgstr "您真慷慨，但是……"
 
 #. [event]
 msgid ""
@@ -1626,6 +1708,8 @@ msgid ""
 "is no risk to your life, is that understood?  And get to that signpost in "
 "the northwest if it is safe."
 msgstr ""
+"没什么可但是的！你呆在战线后面，不许参加战斗，除非没有生命危险，明白了吗？要"
+"是安全了，就去西北面的路标那儿。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1640,70 +1724,79 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"在此场景中，扮演东面人类（朗扎）的AI接到指示，会保护巫师罗扫巴，同时会把他移"
+"动到路标处。而另一边，阔扎的单位（在西面）会主要攻击罗扫巴，哪怕有更好的目标"
+"也是如此。你想要控制这两个阵营之一，或是让AI自己战个痛呢？\n"
+"\n"
+"注：保护单位AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [option]
 msgid "<span font='16'>I'll watch the two AIs fight it out</span>"
-msgstr ""
+msgstr "<span font='16'>我要看着两个AI战个痛</span>"
 
 #. [option]
 msgid ""
 "<span font='16'>I'll play Langzhar's side (to see how Koorzhar's units "
 "target Rossauba)</span>"
 msgstr ""
+"<span font='16'>我要控制朗扎的阵营（以观察阔扎的单位如何攻击罗扫巴）</span>"
 
 #. [option]
 msgid ""
 "<span font='16'>I'll play Koorzhar's side (to see how Langzhar's units "
 "protect Rossauba)</span>"
 msgstr ""
+"<span font='16'>我要控制阔扎的阵营（以观察朗扎的单位如何保护罗扫巴）</span>"
 
 #. [objectives]
 msgid "Protect Rossauba while moving him to the signpost"
-msgstr ""
+msgstr "保护罗扫巴的同时，将他移动到路标处"
 
 #. [objective]: condition=win
 #. [objective]: condition=lose
 msgid "Rossauba makes it to the signpost"
-msgstr ""
+msgstr "罗扫巴到达路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Rossauba"
-msgstr ""
+msgstr "罗扫巴阵亡"
 
 #. [objective]: condition=lose
 msgid "Death of Langzhar"
-msgstr ""
+msgstr "朗扎阵亡"
 
 #. [objectives]
 msgid "Get rid of that traitor wizard Rossauba"
-msgstr ""
+msgstr "消灭叛徒巫师罗扫巴"
 
 #. [objective]: condition=win
 msgid "Defeat Rossauba"
-msgstr ""
+msgstr "击败罗扫巴"
 
 #. [objective]: condition=lose
 msgid "Death of Koorzhar"
-msgstr ""
+msgstr "阔扎阵亡"
 
 #. [event]
 msgid "I held out for as long as I could."
-msgstr ""
+msgstr "我尽力防守了。"
 
 #. [event]
 msgid "I made it"
-msgstr ""
+msgstr "我成功了"
 
 #. [test]: id=recruiting
 #. [event]
 msgid "Recruiting"
-msgstr ""
+msgstr "征募"
 
 #. [event]
 msgid ""
 "This is a very simple scenario that can be used to test out different "
 "recruiting patterns."
-msgstr ""
+msgstr "这是一个非常简单的场景，可用于测试不同的征募模式。"
 
 #. [event]
 msgid ""
@@ -1711,9 +1804,10 @@ msgid ""
 "expect. The recruitment lists cover level 0 to level 2 units, in order to "
 "make differences more obvious."
 msgstr ""
+"只要观察两个阵营的征募行动，并看看他们的行动和你的预期是否相同就好。征募列表"
+"包含了0级到2级的单位，以让两者的区别更加明显。"
 
 #. [event]
-#, fuzzy
 msgid ""
 "If you have not changed anything in the scenario code, Side 1 uses the "
 "Random Recruitment Micro AI, with swordsmen and peasants having been given "
@@ -1729,62 +1823,63 @@ msgid ""
 "AI wiki page</span> at http://wiki.wesnoth.org/Micro_AIs for more "
 "information."
 msgstr ""
-"剧本再现，主要战役王座继承者之精灵受困,AI 正控制科纳德一方。目标是移动科纳德"
-"到西北的指示牌。同时保持科纳德和黎伐多生还。同样的AI在场景保卫 Unit中被使用"
+"如果你没有修改任何场景代码，那么阵营1将使用随机征募微AI，其中给予剑士和农民比"
+"其他单位更高的几率，而法师的几率则居中。这并不能作为良好的征募模式，而指示作"
+"为AI使用方法的演示而已。"
 
 #. [test]: id=micro_ai_test
 msgid "Micro AI Tests"
-msgstr ""
+msgstr "微AI测试"
 
 #. [side]: id=Grnk, type=Goblin Spearman
 msgid "Grnk the Frail"
-msgstr ""
+msgstr "虚弱者格隆克"
 
 #. [side]: id=Grnk, type=Goblin Spearman
 msgid "team_name^Grnk"
-msgstr ""
+msgstr "格隆克"
 
 #. [event]
 #. [test]: id=swarm
 msgid "Swarm"
-msgstr ""
+msgstr "蜂群"
 
 #. [event]
 msgid "Lurkers"
-msgstr ""
+msgstr "潜伏者"
 
 #. [event]
 msgid "HttT: The Elves Besieged"
-msgstr ""
+msgstr "王座继承人：精灵受困"
 
 #. [event]
 msgid "Bottleneck"
-msgstr ""
+msgstr "瓶颈"
 
 #. [event]
 msgid "Healers"
-msgstr ""
+msgstr "疗伤者"
 
 #. [event]
 msgid "Hang Out and Messenger"
-msgstr ""
+msgstr "闲逛及信使"
 
 #. [event]
 #. [test]: id=simple_attack
 msgid "Simple Attack"
-msgstr ""
+msgstr "简单攻击"
 
 #. [event]
 msgid "Fast AI"
-msgstr ""
+msgstr "快速AI"
 
 #. [set_menu_item]: id=m01_menu_bottleneck_defense
 msgid "Bottleneck Defense Micro AI demo"
-msgstr ""
+msgstr "瓶颈防御微AI演示"
 
 #. [command]
 msgid "Bottleneck Defense Micro AI Demo"
-msgstr ""
+msgstr "瓶颈防御微AI演示"
 
 #. [command]
 msgid ""
@@ -1793,11 +1888,13 @@ msgid ""
 "watch them fight it out against the standard RCA AI or take over the orc "
 "side."
 msgstr ""
+"在瓶颈防御微AI场景中，一小队人类士兵接到指示，防守一条通道，阻挡来犯的大群兽"
+"人。你可以旁观双方作战（使用标准RCA AI），或接管兽人阵营。"
 
 #. [command]
 #. [set_menu_item]: id=m02_swamp_lurkers
 msgid "Swamp Lurker Micro AI demo"
-msgstr ""
+msgstr "沼泽潜伏者微AI演示"
 
 #. [command]
 msgid ""
@@ -1806,11 +1903,14 @@ msgid ""
 "and always attack the weakest enemy within their reach. If no enemy is in "
 "reach, the lurker does a random move instead."
 msgstr ""
+"沼泽潜伏者是愚笨而受冲动驱使的生物，他们可以在绝大部分地形上通行，但只会在沼"
+"泽中停留。他们各自为战，毫无战略，而且总是会攻击他们能够攻击到的最弱的敌人。"
+"如果攻击范围内没有敌人，潜伏者会进行随机移动。"
 
 #. [command]
 #. [set_menu_item]: id=m03_guardians
 msgid "Guardian Micro AI demo"
-msgstr ""
+msgstr "守卫微AI演示"
 
 #. [command]
 msgid ""
@@ -1818,34 +1918,36 @@ msgid ""
 "shown, including a \"coward\" unit that runs away from any approaching unit "
 "(an \"inverse guardian\", in a way)."
 msgstr ""
+"在“守卫”演示中，展示了标准韦诺守卫的几种变体，其中包括一种“懦夫”单位，它们会"
+"逃离任何接近的单位（某种意义上说是“反守卫”）。"
 
 #. [command]
 #. [set_menu_item]: id=m04_patrol
 msgid "Patrol Micro AI demo"
-msgstr ""
+msgstr "巡逻微AI演示"
 
 #. [command]
 msgid "'Patrols' contains AI modifications for units following patrol routes."
-msgstr ""
+msgstr "“巡逻“演示中包含了沿着巡逻路线前进的单位的各种AI变体。"
 
 #. [command]
 #. [set_menu_item]: id=m05_recruiting
 msgid "Recruiting Tests Micro AI demo"
-msgstr ""
+msgstr "征募测试微AI演示"
 
 #. [command]
 msgid ""
 "A simple scenario set up for the sole purpose of testing different "
 "recruiting patterns."
-msgstr ""
+msgstr "一个简单的场景，设置此场景的唯一目的是测试不同的征募模式。"
 
 #. [set_menu_item]: id=m06_protect
 msgid "Protect Unit Micro AI demo"
-msgstr ""
+msgstr "保护单位微AI演示"
 
 #. [command]
 msgid "Protect Unit Micro AI Demo"
-msgstr ""
+msgstr "保护单位微AI演示"
 
 #. [command]
 msgid ""
@@ -1855,11 +1957,15 @@ msgid ""
 "is available. You can watch the two AIs fight it out, or take control of "
 "either side to explore how the opposing AI behaves."
 msgstr ""
+"此场景演示了一个阵营在保护一名巫师的同时把他移动到一个目标位置。与此同时，另"
+"一个阵营经过了修改，会优先攻击该名巫师，哪怕有（按照默认AI判定）更合适的目标"
+"时也是如此。你可以旁观两个AI对战，也可以接管任一阵营，以探索对方AI是如何行动"
+"的。"
 
 #. [command]
 #. [set_menu_item]: id=m06a_protect
 msgid "HttT: The Elves Besieged Micro AI demo"
-msgstr ""
+msgstr "王座继承人：精灵受困微AI演示"
 
 #. [command]
 msgid ""
@@ -1867,11 +1973,13 @@ msgid ""
 "campaign \"Heir to the Throne\", just that the AI is playing Konrad's side "
 "here. The same algorithm as for scenario \"Protect Unit\" is used."
 msgstr ""
+"这是主线战役“王座继承人”中“精灵受困”场景的重现，区别只是此处由AI操作科纳德的"
+"阵营。此处使用与场景“保护单位”相同的算法。"
 
 #. [command]
 #. [set_menu_item]: id=m07_messenger
 msgid "Messenger Escort Micro AI demo"
-msgstr ""
+msgstr "信使护送微AI演示"
 
 #. [command]
 msgid ""
@@ -1879,11 +1987,13 @@ msgid ""
 "his way to the edge of the map. The escort will also try to open the path "
 "for the messenger if there are enemies in the way."
 msgstr ""
+"“信使护送”场景中的AI主动保护一名前往地图边缘的信使。如果有敌人挡道，护送部队"
+"也会试图为信使开道。"
 
 #. [command]
 #. [set_menu_item]: id=m08_animals
 msgid "Animals Micro AI demo"
-msgstr ""
+msgstr "动物微AI演示"
 
 #. [command]
 msgid ""
@@ -1892,36 +2002,38 @@ msgid ""
 "sheep; bears, spiders, yetis, boar and rabbits wandering and hunting/"
 "avoiding each other."
 msgstr ""
+"此场景演示了一些不同的动物，它们依照自定义的AI行为而行动。其中包括狼成群狩猎"
+"鹿，狗放牧羊，熊、蜘蛛、雪人、野猪和兔子四处游荡并互相捕猎/躲避。"
 
 #. [command]
 #. [set_menu_item]: id=m09_wolves
 msgid "Wolves Micro AI demo"
-msgstr ""
+msgstr "狼微AI演示"
 
 #. [command]
 msgid ""
 "Another demonstration of wolves wandering and attacking in packs, with a "
 "different behavior from that in 'Animals'."
-msgstr ""
+msgstr "另一个狼成群游荡和狩猎的演示，狼群的行为与“动物”中不同。"
 
 #. [command]
 #. [set_menu_item]: id=m10_swarm
 msgid "Swarm Micro AI demo"
-msgstr ""
+msgstr "蜂群微AI演示"
 
 #. [command]
 msgid "This scenario features bats moving around semi-randomly in a swarm."
-msgstr ""
+msgstr "此场景中展示了蝙蝠半随机地成群四处移动。"
 
 #. [command]
 #. [set_menu_item]: id=m11_dragon
 msgid "Dragon Micro AI demo"
-msgstr ""
+msgstr "巨龙微AI演示"
 
 #. [command]
 msgid ""
 "This scenario features a fire dragon displaying a hunt-and-rest behavior."
-msgstr ""
+msgstr "此场景中展示了一条展现出狩猎/休憩行为的火龙。"
 
 #. [set_menu_item]: id=m12_healer_support
 msgid "Healer support Micro AI demo"
