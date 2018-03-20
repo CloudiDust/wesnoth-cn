@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
-"PO-Revision-Date: 2017-10-06 11:12+0800\n"
+"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "LoW"
@@ -3964,7 +3964,7 @@ msgstr "我的使命结束了！我终于可以安息了！"
 msgid "Farewell, Kalenz!"
 msgstr "再见，卡雷兹！"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "Nooo! We cannot continue without Landar!"
 msgstr "不——！没有兰达尔我们无法前进！"
 
@@ -3972,7 +3972,7 @@ msgstr "不——！没有兰达尔我们无法前进！"
 msgid "I’m sorry I failed you, Kalenz... my beloved..."
 msgstr "抱歉我辜负了你，卡雷兹……亲爱的……"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "Nooo! Cleodil! Without you I cannot go on!"
 msgstr "不——！科柳迪！失去你我不能前进！"
 
@@ -3980,20 +3980,20 @@ msgstr "不——！科柳迪！失去你我不能前进！"
 msgid "I go to join my sires in the Halls of Death"
 msgstr "我去追随亡者大厅的先辈了"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
+msgid "I cannot fight the orcs alone! It’s all over!"
+msgstr "我不能独自和兽人作战！都完了！"
+
+#. [message]: speaker=Kalenz
 msgid ""
 "Our cause is lost. With Uradredia gone, the North Elves will no longer fight!"
 msgstr "我们的事情完了。尤拉德雷迪亚死了，北方精灵就不能再战了！"
-
-#. [message]: id=Kalenz
-msgid "I cannot fight the orcs alone! It’s all over!"
-msgstr "我不能独自和兽人作战！都完了！"
 
 #. [message]: speaker=unit
 msgid "I grieve that I have failed you, my lord Kalenz..."
 msgstr "我难过我辜负了你，卡雷兹阁下……"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "Farewell $unit.name. Your loyal service won’t be forgotten."
 msgstr "永别了$unit.name|。你忠诚的奉献将被永远铭记。"
 

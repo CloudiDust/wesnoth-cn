@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 20:28 UTC\n"
-"PO-Revision-Date: 2017-10-06 11:51+0800\n"
+"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [campaign]: id=The_South_Guard
 msgid "The South Guard"
@@ -32,13 +32,15 @@ msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
 msgid ""
-"A young Knight, Deoran, is dispatched to take command of the South Guard... "
+"A young Knight, Deoran, is dispatched to take command of the South Guard.\n"
+"\n"
 "Note: This campaign is designed as an introduction to Wesnoth. The "
 "‘Civilian’ difficulty level is aimed at first-time players.\n"
 "\n"
 msgstr ""
-"一位年轻的骑士德欧兰，被派往接管南疆卫队……注意：本战役是作为韦诺的入门战役来"
-"设计的。‘平民’难度面向第一次游玩的玩家。\n"
+"一位年轻的骑士德欧兰，被派往接管南疆卫队。\n"
+"\n"
+"注：本战役是作为韦诺的入门战役来设计的。“平民”难度面向第一次游玩的玩家。\n"
 "\n"
 
 #. [campaign]: id=The_South_Guard
@@ -105,10 +107,10 @@ msgstr "乌扎·马辛"
 #. [side]: type=Bandit, id=Urza Mathin
 #. [side]: type=Outlaw, id=Urza Nalmath
 #. [side]
+#. [side]: type=Rogue, id=Urza Fastik
 #. [side]: type=Outlaw, id=Jera Ilras
 #. [side]: type=Outlaw, id=Urza Afalas
 #. [side]: type=Outlaw, id=Tharzo Kalain
-#. [side]: type=Rogue, id=Urza Fastik
 msgid "Bandits"
 msgstr "强盗"
 
@@ -734,6 +736,10 @@ msgstr "急切使命"
 #. [side]: type=Rogue, id=Urza Fastik
 msgid "Urza Fastik"
 msgstr "乌扎·法斯提克"
+
+#. [side]
+msgid "Elves"
+msgstr "精灵"
 
 #. [message]: speaker=narrator
 msgid "Deoran and his men came to the eastern border of the Aethenwood..."
@@ -1798,10 +1804,6 @@ msgstr ""
 msgid "The Long March"
 msgstr "长途行军"
 
-#. [side]
-msgid "Elves"
-msgstr "精灵"
-
 #. [event]
 msgid "Fssth"
 msgstr "费瑟斯"
@@ -2234,8 +2236,8 @@ msgid "Mal Tera"
 msgstr "玛尔·特拉"
 
 #. [event]
-msgid "Sgt. Finde"
-msgstr "芬德军士"
+msgid "Finde"
+msgstr "芬德"
 
 #. [event]
 msgid "Maelvas"
@@ -2250,8 +2252,8 @@ msgid "Mitche"
 msgstr "米切"
 
 #. [event]
-msgid "Lt. Illan"
-msgstr "伊兰中尉"
+msgid "Illan"
+msgstr "伊兰"
 
 #. [event]
 msgid "Rheban"
@@ -2262,8 +2264,8 @@ msgid "Jul"
 msgstr "朱尔"
 
 #. [event]
-msgid "Lt. Meris"
-msgstr "梅里斯中尉"
+msgid "Meris"
+msgstr "梅里斯"
 
 #. [event]
 msgid "Findlas"
@@ -2287,11 +2289,8 @@ msgstr "死亡卫队"
 
 #. [message]: speaker=Deoran
 msgid ""
-"We have escaped the great forest, but look! The undead are chasing us — we "
-"must not have rooted them all out of the wood."
-msgstr ""
-"我们已经逃离了大森林，但是看哪！亡灵在追赶我们——我们肯定没有在丛林里根除他"
-"们。"
+"We have escaped the great forest, but look! The undead are still chasing us."
+msgstr "我们已经逃离了大森林，但是看哪！亡灵还在追赶我们。"
 
 #. [message]: speaker=Sir Gerrick
 msgid ""
@@ -2330,7 +2329,7 @@ msgid ""
 "Thank you, my friend."
 msgstr "你的名字将加入英雄的名录，我们会为你报仇。谢谢，我的朋友。"
 
-#. [message]: speaker=Lt. Illan
+#. [message]: speaker=Illan
 msgid ""
 "We are yours to command, Sir Gerrick. Our men are not the great warriors "
 "that you and Deoran are, but we will hold our lines staunchly, until the "
@@ -2343,14 +2342,21 @@ msgstr ""
 msgid "Hold the line: Keep Sir Gerrick alive as long as possible"
 msgstr "坚守防线：尽可能让格里克爵士活下去。"
 
+#. [note]
+msgid ""
+"Starting with turn 6, each additional turn you survive strengthens the "
+"defenses of Westin."
+msgstr "从第六回合开始，你每多坚持一回合，韦斯廷的防御就增强一分。"
+
 #. [message]: speaker=narrator
 msgid ""
 "There is no way to win this scenario, and no way to lose. Hold off the "
 "undead hordes as long as you can. Keep Sir Gerrick alive as long as you can. "
-"Every turn that passes strengthens the defenses of Westin."
+"Starting with turn 6, every turn that passes strengthens the defenses of "
+"Westin."
 msgstr ""
-"此场景没有输赢可言。尽可能长时间地拖延亡灵军团。尽可能让格里克爵士活下去。每"
-"坚持一回合，韦斯廷的防御就增强一分。"
+"此场景中无法获胜，也不会失败。尽可能长时间拖延亡灵军团。尽可能让格里克爵士活"
+"下去。从第六回合开始，每坚持一回合，韦斯廷的防御就增强一分。"
 
 #. [message]: speaker=Urza Afalas
 msgid "Now I will never see my home again... Hold back the undead, Gerrick!"
@@ -2436,8 +2442,8 @@ msgid "Provincial Guard"
 msgstr "行省卫队"
 
 #. [value]
-msgid "Lt. Nilaf"
-msgstr "尼拉夫中尉"
+msgid "Nilaf"
+msgstr "尼拉夫"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -2477,7 +2483,7 @@ msgstr ""
 "不过在他的英勇抵抗为我们赢得的短暂时机里，我们已经让整支行省卫队进入了战前状"
 "态，整座城市都已严阵以待！"
 
-#. [message]: speaker=Lt. Nilaf
+#. [message]: speaker=Nilaf
 msgid "Indeed, Lord, we are ready to defend our homes!"
 msgstr "确实如此，阁下，我们已经做好了保卫家园的准备！"
 
@@ -2799,7 +2805,11 @@ msgstr "吃我一剑！"
 
 #. [message]: speaker=unit
 msgid "I have lost all helping the humans... Now they will surely perish!"
-msgstr "帮助人类令我失去一切……现在他们难逃毁灭了！"
+msgstr "帮助人类让我失去一切……现在他们难逃一死！"
+
+#. [message]: speaker=unit
+msgid "Far from home I fall — but not in vain!"
+msgstr "我客死他乡——但并非白费！"
 
 #. [message]: speaker=narrator
 msgid ""

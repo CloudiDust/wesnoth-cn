@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-09-21 23:28+0300\n"
-"PO-Revision-Date: 2017-10-06 11:12+0800\n"
+"POT-Creation-Date: 2018-03-17 21:30+0300\n"
+"PO-Revision-Date: 2018-03-21 00:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -290,6 +290,10 @@ msgstr "风车"
 msgid "Campfire"
 msgstr "营火"
 
+#. [terrain_type]: id=wallfire
+msgid "Sconce"
+msgstr "烛台"
+
 #. [terrain_type]: id=brazier
 msgid "Brazier"
 msgstr "火盆"
@@ -465,6 +469,24 @@ msgstr "石地板"
 msgid "Basic Stone Floor"
 msgstr "基本石地板"
 
+#. [terrain_type]: id=rug_floor
+#. [terrain_type]: id=rug2_floor
+#. [terrain_type]: id=rug3_floor
+msgid "Rug"
+msgstr "地毯"
+
+#. [terrain_type]: id=rug_floor
+msgid "Royal Rug"
+msgstr "王家地毯"
+
+#. [terrain_type]: id=rug2_floor
+msgid "Normal Rug"
+msgstr "普通地毯"
+
+#. [terrain_type]: id=rug3_floor
+msgid "Cave Rug"
+msgstr "洞穴地毯"
+
 #. [terrain_type]: id=wood_floor
 msgid "Wooden Floor"
 msgstr "木地板"
@@ -524,24 +546,25 @@ msgstr "岩石洞穴"
 msgid ""
 "<italic>text='Rockbound cave'</italic> terrain is formed by the action of "
 "water and wind, carrying erosive particles that carve the rock. It resembles "
-"a scraggy underground cavern which reduces efficiency of most units, but "
-"shoulders defense. Dwarves and trolls, who are main settlers of caves, have "
-"a relatively easy time navigating this terrain. Dwarves, who by dint of "
-"their small size have the full advantage of navigation in such topography. "
-"Occasionally caves are <ref>dst='terrain_illuminated_cave' "
-"text='illuminated'</ref>\n"
+"a scraggy underground cavern which shoulders defense, but is hard for most "
+"units to traverse. Only settlers of caves, such as dwarves and trolls, are "
+"fully capable of navigating such topography.\n"
 "\n"
 "Most units have about 50% defense in rocky caves, whereas cavalry are "
-"limited to 40%. Dwarves enjoy 60% defense in rockbound caves."
+"limited to 40%. Dwarves, by dint of their small size, enjoy 60% defense in "
+"rockbound caves.\n"
+"\n"
+"Occasionally caves are <ref>dst='terrain_illuminated_cave' "
+"text='illuminated'</ref>."
 msgstr ""
 "<bold>text='岩石洞穴'</bold>地形因携带有侵蚀性微粒的水和风的作用而形成。它形"
-"如散乱的地下洞窟，会降低绝大多数单位的移动效率，但却有助于防御。矮人和巨魔是"
-"洞穴中的主要住民，他们在此地形中游走会相对轻松一些。矮人们受益于他们低矮的身"
-"材，在这种地形中行动最方便。有时洞穴会被<ref>dst='terrain_illuminated_cave' "
-"text='照亮'</ref>。\n"
+"如散乱的地下洞窟，有助于防御，但绝大多数单位都难以在其中行动。只有洞穴的住"
+"民，例如矮人和巨魔，才能在此种地势上不受阻碍地行动。\n"
 "\n"
-"绝大多数单位在岩石洞穴中有50%的防御率，而骑兵被限制在40%。矮人在岩石洞穴中享"
-"有60%的防御率。"
+"绝大多数单位在岩石洞穴中有50%的防御率，而骑兵被限制在40%。由于矮人身材矮小，"
+"因此他们在岩石洞穴中享有60%的防御率。\n"
+"\n"
+"有时洞穴会被<ref>dst='terrain_illuminated_cave' text='照亮'</ref>。"
 
 #. [terrain_type]: id=mine_rails
 #. [terrain_type]: id=mine_railsdiag1
@@ -901,6 +924,7 @@ msgstr "村庄覆盖层"
 #. [terrain_type]: id=encampment
 #. [terrain_type]: id=encampment_ruin
 #. [terrain_type]: id=encampment_snow
+#. [terrain_type]: id=troll_encampment
 #. [terrain_type]: id=aquatic_camp
 msgid "Encampment"
 msgstr "营地"
@@ -918,6 +942,7 @@ msgstr "雪中营地"
 #. [terrain_type]: id=human_castle
 #. [terrain_type]: id=snow_castle
 #. [terrain_type]: id=elven_castle
+#. [terrain_type]: id=elven_castle_ruin
 #. [terrain_type]: id=dwarven_castle
 #. [terrain_type]: id=sand_castle
 #. [terrain_type]: id=aquatic_castle
@@ -945,6 +970,10 @@ msgstr "雪中人类城堡"
 #. [terrain_type]: id=elven_castle
 msgid "Elven Castle"
 msgstr "精灵城堡"
+
+#. [terrain_type]: id=elven_castle_ruin
+msgid "Elven Castle Ruin"
+msgstr "精灵城堡废墟"
 
 #. [terrain_type]: id=dwarven_castle
 msgid "Dwarven Castle"
@@ -977,6 +1006,10 @@ msgstr "沙漠城堡"
 msgid "Ruined Desert Castle"
 msgstr "毁坏的沙漠城堡"
 
+#. [terrain_type]: id=troll_encampment
+msgid "Troll Encampment"
+msgstr "巨魔营地"
+
 #. [terrain_type]: id=aquatic_camp
 msgid "Aquatic Encampment"
 msgstr "水中营地"
@@ -989,6 +1022,7 @@ msgstr "水中城堡"
 #. [terrain_type]: id=encampment_keep_tall
 #. [terrain_type]: id=encampment_snow_keep
 #. [terrain_type]: id=merman_campkeep
+#. [terrain_type]: id=troll_campkeep
 msgid "Encampment Keep"
 msgstr "营地主楼"
 
@@ -1010,6 +1044,7 @@ msgstr "雪中营地主楼"
 #. [terrain_type]: id=human_keep
 #. [terrain_type]: id=snow_keep
 #. [terrain_type]: id=elven_keep
+#. [terrain_type]: id=elven_keep_ruin
 #. [terrain_type]: id=dwarven_keep
 #. [terrain_type]: id=desert_keep
 #. [terrain_type]: id=merman_castlekeep
@@ -1037,6 +1072,10 @@ msgstr "雪中人类城堡主楼"
 #. [terrain_type]: id=elven_keep
 msgid "Elven Castle Keep"
 msgstr "精灵城堡主楼"
+
+#. [terrain_type]: id=elven_keep_ruin
+msgid "Elven Keep Ruin"
+msgstr "精灵主楼废墟"
 
 #. [terrain_type]: id=dwarven_keep
 msgid "Dwarven Castle Keep"
@@ -1072,6 +1111,10 @@ msgstr "荒废的沙漠主楼"
 #. [terrain_type]: id=merman_campkeep
 msgid "Aquatic Encampment Keep"
 msgstr "水中营地主楼"
+
+#. [terrain_type]: id=troll_campkeep
+msgid "Troll Encampment Keep"
+msgstr "巨魔营地主楼"
 
 #. [terrain_type]: id=merman_castlekeep
 msgid "Aquatic Keep"
@@ -1182,10 +1225,14 @@ msgid "Fake Map Border"
 msgstr "伪地图边缘"
 
 #. [terrain_type]: id=shroud
-#. [toggle_button]: id=shroud
 #. [toggle_button]: id=sort_7
+#. [toggle_button]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
+
+#. [terrain_type]: id=fake_shroud_overlay
+msgid "Fake Shroud"
+msgstr "虚假黑幕"
 
 #. [terrain_type]: id=fog
 #. [toggle_button]: id=sort_6
@@ -1516,10 +1563,10 @@ msgid " (Press '$hotkey' for more information)"
 msgstr "（按‘$hotkey|’以查看更多信息）"
 
 #. [toggle_button]: id=sort_0
-#. [label]: id=name
 #. [label]
 #. [toggle_button]: id=sort_1
 #. [toggle_button]: id=sort_name
+#. [label]: id=name
 msgid "Name"
 msgstr "名字"
 
@@ -1555,14 +1602,15 @@ msgstr "安装附加组件"
 msgid "Update add-on"
 msgstr "升级附加组件"
 
+#. [button]: id=single_publish
+#. [button]: id=publish
+msgid "Publish add-on"
+msgstr "发布附加组件"
+
 #. [button]: id=single_uninstall
 #. [button]: id=uninstall
 msgid "Uninstall add-on"
 msgstr "卸载附加组件"
-
-#. [label]: id=room
-msgid "Rooms"
-msgstr "房间"
 
 #. [image]: id=pending_messages
 msgid "Messages waiting"
@@ -1621,10 +1669,6 @@ msgstr "版本："
 #. [scroll_label]: id=description
 msgid "No description available."
 msgstr "没有可用的描述。"
-
-#. [button]: id=publish
-msgid "Publish add-on"
-msgstr "发布附加组件"
 
 #. [button]: id=delete
 msgid "Delete add-on"
@@ -1695,7 +1739,7 @@ msgid "Visit this URL with a web browser"
 msgstr "使用网页浏览器查看此URL"
 
 #. [text_box]: id=filter
-msgid "Filters on addon descripton, version, type or author."
+msgid "Filters on addon description, version, type or author."
 msgstr "使用附加组件描述、版本、类型或作者进行筛选。"
 
 #. [label]
@@ -1703,8 +1747,12 @@ msgid "State:"
 msgstr "状态："
 
 #. [label]
-msgid "Get Add-ons"
-msgstr "获取附加组件"
+msgid "Order:"
+msgstr "顺序："
+
+#. [label]
+msgid "Add-ons Manager"
+msgstr "附加组件管理器"
 
 #. [button]: id=details_toggle
 msgid "Addon Details"
@@ -1722,8 +1770,8 @@ msgstr "退出"
 msgid "Choose the add-ons you want to remove."
 msgstr "选择你希望移除的附加组件。"
 
-#. [button]: id=ok
 #. [button]: id=remove
+#. [button]: id=ok
 msgid "Remove"
 msgstr "移除"
 
@@ -1855,7 +1903,7 @@ msgstr "确定性随机模式"
 msgid ""
 "Makes the random number generator yield the same results even after "
 "reloading a game"
-msgstr "让随机数发生器即使在重新载入游戏后也产生同样的结果。"
+msgstr "让随机数发生器即使在重新载入游戏后也产生同样的结果"
 
 #. [label]: id=title
 msgid "Difficulty"
@@ -2234,13 +2282,13 @@ msgstr "在将当前文件夹上夹上书签"
 msgid "Removes the current bookmark"
 msgstr "移除当前书签"
 
-#. [button]: id=delete_file
 #. [button]: id=delete
+#. [button]: id=delete_file
 msgid "Delete"
 msgstr "删除"
 
-#. [button]: id=new_dir
 #. [label]: id=title
+#. [button]: id=new_dir
 msgid "New Folder"
 msgstr "新建文件夹"
 
@@ -2290,12 +2338,13 @@ msgstr "执行轨迹"
 
 #. [button]: id=cancel
 #. [grid]
+#. [button]: id=quit_without_surrender
 msgid "Quit"
 msgstr "退出"
 
 #. [label]: id=title
 msgid "WML Cache"
-msgstr "WML缓存："
+msgstr "WML缓存"
 
 #. [label]
 msgid ""
@@ -2417,8 +2466,6 @@ msgid "Team"
 msgstr "团队"
 
 #. [toggle_button]: id=sort_2
-#. [image]: id=gold_icon
-#. [label]: id=side_gold
 msgid "Gold"
 msgstr "金币"
 
@@ -2440,8 +2487,8 @@ msgstr "维护费用"
 msgid "Income"
 msgstr "收入"
 
-#. [toggle_button]: id=sort_1
 #. [label]: id=side_title
+#. [toggle_button]: id=sort_1
 msgid "Side"
 msgstr "阵营"
 
@@ -2628,8 +2675,8 @@ msgstr "请按下期望的快捷键（按ESC取消）"
 msgid "Show or Hide Labels"
 msgstr "显示或隐藏标签"
 
-#. [label]
 #. [grid]
+#. [label]
 msgid "Language"
 msgstr "语言"
 
@@ -2645,50 +2692,9 @@ msgstr "正在载入……"
 msgid "Games"
 msgstr "游戏"
 
-#. [label]: id=era_label
-msgid "Era:"
-msgstr "时代："
-
-#. [label]: id=mods_label
-#. [label]: id=mods_header
-msgid "Modifications:"
-msgstr "模组："
-
-#. [row]
-msgid "Assign sides to players at random"
-msgstr "随机将各阵营指定给玩家"
-
-#. [row]
+#. [image]: id=needs_password
 msgid "Requires a password to join"
 msgstr "需要密码才能加入游戏"
-
-#. [row]
-msgid "Only registered users may join"
-msgstr "只有注册用户才能加入"
-
-#. [row]
-msgid "Use map settings"
-msgstr "使用地图设置"
-
-#. [row]
-msgid "Reloaded game"
-msgstr "重新载入的游戏"
-
-#. [row]
-msgid "Unknown era"
-msgstr "未知时代"
-
-#. [row]
-msgid "Gold per village"
-msgstr "金币/村庄"
-
-#. [row]
-msgid "Experience modifier"
-msgstr "经验值修正"
-
-#. [row]
-msgid "Time limit"
-msgstr "时间限制"
 
 #. [button]: id=join
 #. [button]: id=join_global
@@ -2777,13 +2783,13 @@ msgstr "多人游戏大厅"
 msgid "Player Info — "
 msgstr "玩家信息 — "
 
-#. [button]: id=add_to_friends
 #. [button]: id=add_friend
+#. [button]: id=add_to_friends
 msgid "Add Friend"
 msgstr "添加好友"
 
-#. [button]: id=add_to_ignores
 #. [button]: id=add_ignored
+#. [button]: id=add_to_ignores
 msgid "Block"
 msgstr "阻止"
 
@@ -2933,8 +2939,8 @@ msgstr "回合变化："
 msgid "When a new turn has begun"
 msgstr "当新的回合开始时"
 
-#. [button]: id=revert_to_defaults
 #. [button]: id=btn_reset_hotkeys
+#. [button]: id=revert_to_defaults
 #. [button]: id=orb_defaults
 msgid "Defaults"
 msgstr "默认"
@@ -2950,55 +2956,6 @@ msgstr "昵称"
 #. [label]
 msgid "Change Control"
 msgstr "更改控制方"
-
-#. [window]: id=mp_cmd_wrapper
-msgid "Multiplayer command dialog"
-msgstr "多人游戏命令对话框"
-
-#. [label]
-msgid "Messaging"
-msgstr "消息"
-
-#. [label]
-msgid "Message:"
-msgstr "消息："
-
-#. [button]: id=ok
-msgid "Send"
-msgstr "发送"
-
-#. [label]
-msgid "Friends/Ignored List"
-msgstr "好友/忽略列表"
-
-#. [button]: id=add_friend
-msgid "Add as Friend"
-msgstr "加入好友列表"
-
-#. [button]: id=add_ignore
-msgid "Add as Ignore"
-msgstr "加入忽略列表"
-
-#. [label]
-msgid "Moderating"
-msgstr "管理中"
-
-#. [label]
-msgid "Reason:"
-msgstr "原因："
-
-#. [label]
-msgid "Time:"
-msgstr "时间："
-
-#. [button]: id=status
-#. [label]
-msgid "Status"
-msgstr "状态"
-
-#. [button]: id=ban
-msgid "Ban"
-msgstr "封禁"
 
 #. [label]
 msgid "You will now connect to the multiplayer server."
@@ -3019,6 +2976,10 @@ msgstr "随机派系分配："
 #. [label]
 msgid "Allow for mirror matchups when random factions are chosen."
 msgstr "当选择随机派系时，允许镜像分配。"
+
+#. [label]: id=mods_header
+msgid "Modifications:"
+msgstr "模组："
 
 #. [toggle_button]: id=use_map_settings
 msgid "Use Map Settings"
@@ -3124,8 +3085,8 @@ msgstr "行动奖励"
 msgid "Time for each attack, recruit, and capture"
 msgstr "每次攻击、征募和占领的时间"
 
-#. [widget]: id=label
 #. [widget]: id=tab_label
+#. [widget]: id=label
 msgid "General"
 msgstr "通用"
 
@@ -3148,6 +3109,9 @@ msgstr "随机地图选项："
 #. [button]: id=random_map_regenerate
 msgid "Regenerate"
 msgstr "重新生成"
+
+msgid "Assign sides to players at random"
+msgstr "随机将各阵营指定给玩家"
 
 msgid "Shuffle Sides"
 msgstr "阵营洗牌"
@@ -3242,10 +3206,6 @@ msgstr "<b>派系：</b>"
 #. [label]
 msgid "<b>Gender:</b>"
 msgstr "<b>性别：</b>"
-
-#. [label]
-msgid "Connected Players"
-msgstr "已连接的玩家"
 
 #. [button]: id=cancel
 msgid "Leave"
@@ -3475,7 +3435,7 @@ msgstr "设置自动存档的最大保留数量"
 
 #. [button]: id=cachemg
 msgid "Cache"
-msgstr "缓存："
+msgstr "缓存"
 
 #. [button]: id=cachemg
 msgid "Manage the game WML cache"
@@ -3703,22 +3663,6 @@ msgstr "在聊天消息上加上时间戳"
 msgid "Uncheck to delete the saved password (on exit)"
 msgstr "取消勾选，以删除保存的密码（在退出时）"
 
-#. [toggle_button]: id=lobby_sort_players
-msgid "Sort lobby list"
-msgstr "对大厅列表排序"
-
-#. [toggle_button]: id=lobby_sort_players
-msgid "Sort the player list in the lobby by player groups"
-msgstr "根据玩家分组对大厅中的玩家列表进行排序"
-
-#. [toggle_button]: id=lobby_player_icons
-msgid "Iconize lobby list"
-msgstr "以图标形式显示大厅列表"
-
-#. [toggle_button]: id=lobby_player_icons
-msgid "Show icons in front of the player names in the lobby"
-msgstr "在大厅中玩家的名字前显示图标"
-
 #. [toggle_button]: id=lobby_whisper_friends_only
 msgid "Accept whispers from friends only"
 msgstr "仅接受来自好友的悄悄话"
@@ -3787,7 +3731,7 @@ msgstr "将此用户名从列表中移除"
 
 #. [label]: id=no_friends_notice
 msgid "You have not befriended or ignored any other players."
-msgstr "你并没有将任何其他玩家加为好友或忽略"
+msgstr "你并没有将任何其他玩家加为好友或忽略。"
 
 #. [button]: id=open
 msgid "filesystem^Open"
@@ -3796,18 +3740,6 @@ msgstr "打开"
 #. [button]: id=open
 msgid "Open this file with an external application"
 msgstr "使用外部应用打开此文件"
-
-#. [label]: id=title
-msgid "Screenshot Saved"
-msgstr "截屏已保存"
-
-#. [button]: id=browse_dir
-msgid "Screenshots..."
-msgstr "截屏……"
-
-#. [button]: id=browse_dir
-msgid "Browse the screenshots folder using a file manager"
-msgstr "使用文件管理器浏览截屏文件夹"
 
 #. [label]
 msgid "Choose Orb/Minimap Colors"
@@ -3839,7 +3771,7 @@ msgstr "配置选项"
 
 #. [label]
 msgid "Configure settings for the selected custom modifications."
-msgstr "配置所选的自定义模组的设置"
+msgstr "配置所选的自定义模组的设置。"
 
 #. [label]
 msgid "Damage"
@@ -3868,6 +3800,18 @@ msgstr "战役"
 #. [button]: id=cancel
 msgid "Skip"
 msgstr "跳过"
+
+#. [label]: id=lblTitle
+msgid "Surrender Game"
+msgstr "投降"
+
+#. [label]: id=lblMessage
+msgid "Do you really want to surrender and quit the game?"
+msgstr "真的要投降并退出游戏吗？"
+
+#. [button]: id=quit_and_surrender
+msgid "Surrender & Quit"
+msgstr "投降并退出"
 
 #. [label]: id=lblTitle
 msgid "Waiting..."
@@ -3953,7 +3897,7 @@ msgstr "开始新的单人战役"
 msgid ""
 "Play multiplayer (hotseat, LAN, or Internet), or a single scenario against "
 "the AI"
-msgstr "玩多人游戏（热座、局域网或因特网游戏），或者玩与AI对战的单个场景。"
+msgstr "玩多人游戏（热座、局域网或因特网游戏），或者玩与AI对战的单个场景"
 
 #. [grid]
 msgid "Load"
@@ -4032,10 +3976,6 @@ msgid "Attack Enemy"
 msgstr "攻击敌人"
 
 #. [label]
-msgid "Choose weapon:"
-msgstr "选择武器："
-
-#. [label]
 msgid "Create Unit (Debug!)"
 msgstr "创建单位（调试！）"
 
@@ -4046,6 +3986,10 @@ msgstr "种族"
 #. [toggle_button]: id=sort_2
 msgid "Moves"
 msgstr "移动"
+
+#. [label]
+msgid "Status"
+msgstr "状态"
 
 #. [toggle_button]: id=sort_3
 msgid "HP"
@@ -4101,7 +4045,7 @@ msgstr "详细："
 msgid "feature^Experimental OpenMP support"
 msgstr "实验性OpenMP支持"
 
-msgid "feature^PNG screenshots"
+msgid "feature^JPG screenshots"
 msgstr "PNG截屏"
 
 msgid "feature^Lua console completion"
@@ -4262,8 +4206,8 @@ msgstr "多人游戏时代"
 msgid "addons_of_type^MP factions"
 msgstr "多人游戏派系"
 
-msgid "addons_of_type^MP modifications"
-msgstr "多人游戏模组"
+msgid "addons_of_type^Modifications"
+msgstr "模组"
 
 msgid "addons_of_type^Cores"
 msgstr "核心"
@@ -4276,6 +4220,27 @@ msgstr "其他"
 
 msgid "addons_of_type^Unknown"
 msgstr "未知"
+
+msgid "addons_order^Name ($order)"
+msgstr "名称（$order）"
+
+msgid "addons_order^Author ($order)"
+msgstr "作者（$order）"
+
+msgid "addons_order^Size ($order)"
+msgstr "大小（$order）"
+
+msgid "addons_order^Downloads ($order)"
+msgstr "下载数（$order）"
+
+msgid "addons_order^Type ($order)"
+msgstr "类型（$order）"
+
+msgid "addons_order^Last updated ($order)"
+msgstr "最近更新时间（$order）"
+
+msgid "addons_order^First uploaded ($order)"
+msgstr "首次上传时间（$order）"
 
 msgid "addon_state^Not installed"
 msgstr "未安装"
@@ -4322,6 +4287,14 @@ msgstr "已发布，已损坏"
 msgid "addon_state^Unknown"
 msgstr "未知"
 
+#. TRANSLATORS: ascending
+msgid "asc"
+msgstr "升序"
+
+#. TRANSLATORS: descending
+msgid "desc"
+msgstr "降序"
+
 msgid "Clipboard support not found, contact your packager"
 msgstr "未找到剪贴板支持，请联系你的打包者"
 
@@ -4332,7 +4305,7 @@ msgid "An error occurred while downloading the add-ons list from the server."
 msgstr "从服务器上下载附加组件列表时发生错误。"
 
 msgid "No Add-ons Available"
-msgstr "没有可用的附加组件。"
+msgstr "没有可用的附加组件"
 
 msgid "There are no add-ons available for download from this server."
 msgstr "此服务器上没有可供下载的附加组件。"
@@ -4517,8 +4490,8 @@ msgstr "难度："
 msgid "Version: "
 msgstr "版本："
 
-msgid "controller^Computer"
-msgstr "计算机"
+msgid "controller^AI"
+msgstr "AI"
 
 msgid "controller^Idle"
 msgstr "空闲"
@@ -4539,7 +4512,7 @@ msgid "Running on $os"
 msgstr "运行于$os之上"
 
 msgid "version^N/A"
-msgstr "N/A"
+msgstr "不可用"
 
 msgid "Team Labels"
 msgstr "团队标签"
@@ -4610,6 +4583,9 @@ msgstr "正在等待下个场景"
 msgid "Getting game data"
 msgstr "正在获取游戏数据"
 
+msgid "Downloading lobby data"
+msgstr "正在下载大厅数据"
+
 msgid "Selected Game"
 msgstr "选中的游戏"
 
@@ -4624,15 +4600,6 @@ msgstr "大厅"
 
 msgid "Do you really want to log out?"
 msgstr "你真的要登出吗？"
-
-msgid "Games: showing $num_shown out of $num_total"
-msgstr "游戏：$num_shown|个已显示，共有$num_total|个"
-
-msgid "Observers allowed"
-msgstr "允许观察"
-
-msgid "Observers not allowed"
-msgstr "不允许观察"
 
 msgid "Incompatible User-made Content."
 msgstr "不兼容的用户制作内容。"
@@ -4656,6 +4623,46 @@ msgstr ""
 "需要安装或更新一个或多个用户制作的附件组件后，才能加入此游戏。\n"
 "你要尝试安全它们吗？"
 
+msgid "Games: showing $num_shown out of $num_total"
+msgstr "游戏：$num_shown|个已显示，共有$num_total|个"
+
+msgid "Era:"
+msgstr "时代："
+
+msgid "Settings:"
+msgstr "设置："
+
+msgid "Registered users only:"
+msgstr "仅注册用户："
+
+msgid "Reloaded:"
+msgstr "重新载入："
+
+msgid "Shared vision:"
+msgstr "共享视野："
+
+msgid "Shuffle sides:"
+msgstr "阵营洗牌："
+
+msgid "Time limit:"
+msgstr "时间限制："
+
+msgid "Use map settings:"
+msgstr "使用地图设置："
+
+msgid ""
+"One or more items need to be installed\n"
+"in order to join this game."
+msgstr ""
+"为加入此游戏\n"
+"需要安装一个或多个项目"
+
+msgid "Observers allowed"
+msgstr "允许观察"
+
+msgid "Observers not allowed"
+msgstr "不允许观察"
+
 msgid ""
 "Something is wrong with the addon version check database supporting the "
 "multiplayer lobby. Please report this at http://bugs.wesnoth.org."
@@ -4674,17 +4681,20 @@ msgstr "阵营$side"
 msgid "Scenarios"
 msgstr "场景"
 
-msgid "User Maps"
-msgstr "用户地图"
+msgid "Multiplayer Campaigns"
+msgstr "多人战役"
 
-msgid "User Scenarios"
-msgstr "用户场景"
+msgid "Singleplayer Campaigns"
+msgstr "单人战役"
+
+msgid "Custom Maps"
+msgstr "自定义地图"
+
+msgid "Custom Scenarios"
+msgstr "自定义场景"
 
 msgid "Random Maps"
 msgstr "随机地图"
-
-msgid "SP Campaigns"
-msgstr "单人游戏战役"
 
 msgid "No games found."
 msgstr "未找到游戏。"
@@ -4707,8 +4717,8 @@ msgstr "无友方镜像：任意两位结盟的玩家都不会被指定到同一
 msgid "No eras available for this game."
 msgstr "没有可用于此游戏的时代。"
 
-msgid "No description available"
-msgstr "没有可用的描述。"
+msgid "The selected game has no sides!"
+msgstr "选定的游戏没有阵营！"
 
 msgid "Choose Starting Scenario"
 msgstr "选择起始场景"
@@ -4816,9 +4826,6 @@ msgstr "重置快捷键"
 msgid "∞"
 msgstr "∞"
 
-msgid "file_size^Unknown"
-msgstr "未知"
-
 msgid "Recruits"
 msgstr "次征募"
 
@@ -4861,6 +4868,9 @@ msgstr "此单位快要升级了。"
 msgid "Dismiss Unit"
 msgstr "开除单位"
 
+msgid "No default gui defined."
+msgstr "没有已定义的默认图形界面。"
+
 msgid "addon_state^Installed, upgradable"
 msgstr "已安装，可升级"
 
@@ -4872,9 +4882,6 @@ msgstr "已安装，服务器上的版本已过时"
 
 msgid "addon_state^Published, outdated on server"
 msgstr "已发布，服务器上的版本已过时"
-
-msgid "Send new version to server"
-msgstr "发送新版本至服务器"
 
 msgid "Delete add-on from server"
 msgstr "从服务器上删除附加组件"
@@ -4937,15 +4944,8 @@ msgstr "未选中"
 msgid "Need at least 1 parallel item."
 msgstr "还需要至少一件并行的物品。"
 
-msgid ""
-"Widget definition '$definition' doesn't contain the definition for '$id'."
-msgstr "界面构件定义“$definition”不包含“$id”的定义。"
-
-msgid "No default gui defined."
-msgstr "没有已定义的默认图形界面。"
-
 msgid "No widget defined."
-msgstr "没有已定义的界面构件"
+msgstr "没有已定义的界面构件。"
 
 msgid "Invalid size."
 msgstr "无效尺寸。"
@@ -4993,7 +4993,7 @@ msgid "XP: "
 msgstr "经验："
 
 msgid "Experience Modifier: "
-msgstr "经验值修正："
+msgstr "经验修正："
 
 msgid "MP: "
 msgstr "移动："

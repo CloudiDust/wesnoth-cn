@@ -17,7 +17,7 @@ TEXTDOMAINS = [
     'sotbe', 'tb', 'test', 'thot', 'trow', 'tsg', 'tutorial', 'units', 'utbs'
 ]
 
-ROOTS = {'in': 'translations', 'out': 'target', 'dist': 'target/dist', 'official': '../official'}
+ROOTS = {'in': 'translations', 'out': 'target', 'dist': 'target/dist', 'official': '../wesnoth'}
 
 def po_path(textdomain, root='in'):
     return '%s/wesnoth/po/%s/zh_CN.po' % (ROOTS[root], textdomain)
