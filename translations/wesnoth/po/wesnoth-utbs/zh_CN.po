@@ -5,7 +5,7 @@
 # MrKing <yideey@gmail.com>, 2012.
 # Brian Lee <haiyuan.2007@gmail.com>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"

@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-17 16:13+0800\n"
+"POT-Creation-Date: 2018-03-17 18:30 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -134,9 +134,6 @@ msgstr "乌鲁戈-特尔法"
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #. [side]: type=Orcish Warlord, id=Kojun Herolm
 #. [side]: type=Orcish Warrior, id=Mokho Kimer
-#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
-#. [side]: type=Orcish Warlord, id=Urug-Tan
-#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
 #. [side]: type=Orcish Warlord, id=Urag-Tifer
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
@@ -148,6 +145,9 @@ msgstr "乌鲁戈-特尔法"
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
 #. [side]: type=Orcish Warlord, id=Kior-Dal
+#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
+#. [side]: type=Orcish Warlord, id=Urug-Tan
+#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
 msgid "Orcs"
 msgstr "兽人"
 
@@ -6115,23 +6115,23 @@ msgstr "击败所有敌方首领"
 msgid "Plainsmen"
 msgstr "平原居民"
 
-#. [side]: type=Grand Knight, id=Sir Alric
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Alric
 msgid "Sir Alric"
 msgstr "埃里克爵士"
 
-#. [side]: type=Grand Knight, id=Sir Ruga
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Ruga
 msgid "Sir Ruga"
 msgstr "鲁加爵士"
 
-#. [side]: type=Grand Knight, id=Sir Daryn
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Daryn
 msgid "Sir Daryn"
 msgstr "达林爵士"
 
-#. [side]: type=Grand Knight, id=Bayar
 #. [then]
+#. [side]: type=Grand Knight, id=Bayar
 msgid "Lord Bayar"
 msgstr "巴亚尔领主"
 
@@ -6678,8 +6678,18 @@ msgstr ""
 msgid "female^Battle Princess"
 msgstr "武士公主"
 
-#. [variation]: id=Battle Princess, race=human
 #. [unit_type]: id=Battle Princess, race=human
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals and battle tactics with the greatest sages, making her both a great "
+"combatant and a leader. Now battle-hardened and strong of will, she can now "
+"aid those around her in the art of combat."
+msgstr ""
+"公主是天生的贵族。她师从于最伟大的将军们，学会了剑术，又从最伟大的贤者那里，"
+"学会了战术。这让她成为了一位伟大的战士和领袖。现在，她历经无数战斗，磨练出了"
+"坚强的意志，可以在作战中协助她身边的战友。"
+
+#. [variation]: id=Battle Princess, race=human
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals, and battle tactics with the greatest sages, making her both a "
@@ -6811,9 +6821,9 @@ msgid ""
 msgstr "所有相邻的友方单位都能够在近战中抢先攻击，甚至在防守时也是如此。"
 
 msgid ""
-"This unit's grasp of melee tactics allows adjacent allies to strike the "
+" This unit's grasp of melee tactics allows adjacent allies to strike the "
 "first blow even when defending."
-msgstr "该单位对近战战术的理解使得相邻友军即使在防守时也能抢先出手。"
+msgstr " 该单位对近战战术的理解使得相邻友军即使在防守时也能抢先出手。"
 
 #. [message]: speaker=unit
 msgid "We are vanquished, for I have been defeated!"

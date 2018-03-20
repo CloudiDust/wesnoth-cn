@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-04 16:40 UTC\n"
-"PO-Revision-Date: 2018-03-16 19:12+0800\n"
+"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:29+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -115,8 +115,8 @@ msgstr "基利达"
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]
 #. [side]: type=Elvish Marshal, id=Crintil
+#. [side]
 #. [side]: type=Elvish Captain, id=Glildur
 msgid "Elves"
 msgstr "精灵"
@@ -340,8 +340,8 @@ msgstr ""
 "很好。我有银币，整装待发，我还会派遣一人携带宝石前去。你们制作权杖之时，他会"
 "在旁监督，以保证你们能按时完成工作。我希望权杖能在我的统治结束前完成。"
 
-#. [side]: id=Alanin, type=Dragoon
 #. [unit]: type=Dragoon, id=Alanin
+#. [side]: id=Alanin, type=Dragoon
 #. [side]: type=Haldric II, id=Haldric II
 msgid "Alanin"
 msgstr "阿拉宁"

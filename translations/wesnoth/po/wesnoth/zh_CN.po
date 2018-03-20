@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 20:02+0300\n"
-"PO-Revision-Date: 2018-03-10 23:30+0800\n"
+"POT-Creation-Date: 2018-03-17 21:31+0300\n"
+"PO-Revision-Date: 2018-03-21 00:26+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1177,6 +1177,10 @@ msgid ""
 msgstr ""
 "特殊：$ai_controller.side_$ally_side|_current_settings."
 "currently_doing_special_description"
+
+#. [else]
+msgid "This unit has been renamed to: "
+msgstr "此单位已重命名为： "
 
 msgid "<small>(early finish bonus)</small>"
 msgstr "<small>（提前过关奖励）</small>"
@@ -2478,7 +2482,7 @@ msgid ""
 "Su|Osa|Rag|Saf|Da|Fay|Nib|Nash\n"
 "suffix=af|al|lih|bair|sur|bi|lah|at|sim|ma|ih|yl|iq|raj|mam|man|ya|zid|riya|"
 "ail|air|ah|en|in|ayd|ud|rah|wah|nan|as|ir|ba|ni|yad|ras|zuq|hid|mal|kib\n"
-"connector= al-| bin | ibn \n"
+"connector= al-| bin | ibn\n"
 "centre=ʿ|ʾ|hi|sa|kar|da|na|ja|tay|ki|hai|saw\n"
 msgstr ""
 "\n"
@@ -2577,7 +2581,7 @@ msgid ""
 "Su|Osa|Rag|Saf|Da|Fay|Nib|Nash\n"
 "suffix=a|ab|ad|ah|af|aj|al|am|an|ar|as|at|ay|az|da|een|ia|ij|in|ir|la|ma|mas|"
 "n|na|nab|ni|r|ra|raa|ran|rat|ul|ur|uz|wa|ya|yah|yam|za|zi\n"
-"connector= al-| ibna | bint \n"
+"connector= al-| ibna | bint\n"
 "centre=ʿ|ʾ|hi|sa|kar|da|na|ja|tay|ki|hai|saw\n"
 "\n"
 "These nonterminals are literally copied from the male names.\n"
@@ -3434,10 +3438,6 @@ msgstr "迷雾"
 msgid "Shroud"
 msgstr "战场黑幕"
 
-#. [deprecated_message]
-msgid "This unit has been renamed to: {NEW_NAME}"
-msgstr "此单位已重命名为：{NEW_NAME}"
-
 #. [core]: id=default
 msgid "Wesnoth (Default)"
 msgstr "韦诺（默认）"
@@ -3668,16 +3668,15 @@ msgid ""
 "\n"
 "\t\tprefix=$base{!}|$river{!}\n"
 "\t\triver=$river{!}|River\n"
-"\t\tsuffix=ham|ford|cross| on {river} \n"
+"\t\tsuffix=ham|ford|cross| on {river}\n"
 "\t\tmain={prefix}{suffix}\n"
 "\t"
 msgstr ""
 "\n"
-"\t\tprefix={river}{!}上的{!}\n"
-"\t\tmiddle=$base{!}|$river{!}\n"
+"\t\tprefix=$base{!}|$river{!}\n"
 "\t\triver=$river{!}|River\n"
-"\t\tsuffix=汉姆|福德|克洛斯\n"
-"\t\tmain={prefix}{middle}{suffix}\n"
+"\t\tsuffix=汉姆|福德|克洛斯|{river}上的\n"
+"\t\tmain={prefix}{suffix}\n"
 "\t"
 
 #. [village_naming]
@@ -3820,13 +3819,33 @@ msgstr "是"
 msgid "No"
 msgstr "否"
 
-#. [fonts]
-msgid ""
-"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,"
-"DroidSansFallbackFull.ttf,Junicode-Regular.ttf"
-msgstr ""
-"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,"
-"DroidSansJapanese.ttf,Junicode-Regular.ttf"
+#. [label]: id=title
+msgid "Screenshot"
+msgstr "截屏"
+
+#. [label]
+msgid "Name:"
+msgstr "名称："
+
+#. [label]
+msgid "Size:"
+msgstr "大小："
+
+#. [button]: id=browse_dir
+msgid "Screenshots..."
+msgstr "截屏……"
+
+#. [button]: id=browse_dir
+msgid "Browse the screenshots folder using a file manager"
+msgstr "使用文件管理器浏览截屏文件夹"
+
+#. [button]: id=save
+msgid "Save"
+msgstr "保存"
+
+#. [button]: id=ok
+msgid "Close"
+msgstr "关闭"
 
 #. [fonts]
 msgid "Lato"
@@ -3836,35 +3855,29 @@ msgstr "Lato,DejaVu Sans,Andagii,Droid Sans Fallback"
 msgid "DejaVu Sans Mono"
 msgstr "DejaVu Sans Mono,Droid Sans Fallback"
 
-#. [lua]: wesnoth.deprecation_message
-msgid "$elem has been deprecated indefinitely."
-msgstr "$elem|已无限期废弃。"
+#. [fonts]
+msgid "Lato Light"
+msgstr "Lato Light,Droid Sans Fallback"
 
-#. [lua]: wesnoth.deprecation_message
-msgid "$elem has been deprecated and may be removed in version $version."
-msgstr "$elem|已废弃并将在$version|版本中移除。"
+#. [fonts]
+msgid "Oldania ADF Std"
+msgstr "Oldania ADF Std,Droid Sans Fallback"
 
-#. [lua]: wesnoth.deprecation_message
-msgid "$elem has been deprecated and may be removed at any time."
-msgstr "$elem|已废弃并将可能在任何时刻移除。"
-
-#. [lua]: wesnoth.deprecation_message
+#. [fonts]
 msgid ""
-"$elem has been deprecated and will be removed in the next version ($version)."
-msgstr "$elem|已废弃并将在下一版本（$version|）中移除。"
-
-#. [lua]: wesnoth.deprecation_message
-msgid "$elem has been deprecated and removed."
-msgstr "$elem|已废弃并已移除。"
-
-#. [lua]: wesnoth.deprecation_message
-#. [lua]: wesnoth.deprecate_api
-msgid "Invalid deprecation level $level (should be 1-4)"
-msgstr "无效废弃级别$level|（应为1-4）"
+"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,"
+"DroidSansFallbackFull.ttf,Junicode-Regular.ttf"
+msgstr ""
+"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,"
+"DroidSansJapanese.ttf,Junicode-Regular.ttf"
 
 #. [lua]: wesnoth.deprecate_api
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "（注：在新代码中，你应当使用$replacement|作为替代）"
+
+#. [lua]: wesnoth.deprecate_api
+msgid "Invalid deprecation level $level (should be 1-4)"
+msgstr "无效废弃级别$level|（应为1-4）"
 
 #. [lua]: wml_actions.deprecated_message
 msgid "Invalid deprecation level (should be 1-4)"
@@ -4607,6 +4620,7 @@ msgid "<i>― Queen Li’sar, 528YW</i>"
 msgstr "<b>——莉莎女王，韦元528年</b>"
 
 #. [tip]
+#. Whiteboard is another name for the Planning Mode
 msgid ""
 "You cannot undo a move that uncovers hexes hidden by fog or shroud. Turn on "
 "the <b>Delay Shroud Updates</b> option when you need to move units while "
@@ -5242,6 +5256,21 @@ msgstr "对$receiver|说悄悄话"
 msgid "whisper: $sender"
 msgstr "悄悄话：$sender"
 
+msgid "$elem has been deprecated indefinitely."
+msgstr "$elem|已无限期废弃。"
+
+msgid "$elem has been deprecated and may be removed in version $version."
+msgstr "$elem|已废弃并可能在$version|版本中移除。"
+
+msgid "$elem has been deprecated and may be removed at any time."
+msgstr "$elem|已废弃并将可能在任何时刻移除。"
+
+msgid "$elem has been deprecated and will be removed in version $version."
+msgstr "$elem|已废弃并将在$version|版本中移除。"
+
+msgid "$elem has been deprecated and removed."
+msgstr "$elem|已废弃并已移除。"
+
 msgid "Chat message"
 msgstr "聊天信息"
 
@@ -5446,13 +5475,13 @@ msgstr "未知场景"
 msgid "Reloaded game"
 msgstr "重新载入了游戏"
 
-msgid "Turn"
-msgstr "回合"
-
 msgid "Vacant Slot:"
 msgid_plural "Vacant Slots:"
 msgstr[0] "空闲槽位："
 msgstr[1] "空闲槽位："
+
+msgid "Turn"
+msgstr "回合"
 
 msgid "none"
 msgstr "无"
@@ -5895,27 +5924,14 @@ msgstr "视野消耗"
 msgid "Jamming Cost"
 msgstr "干扰消耗"
 
-msgid ""
-"Screenshot creation failed.\n"
-"\n"
-"Make sure there is enough space on the drive holding Wesnoth’s player "
-"resource files and that file permissions are set up correctly."
-msgstr ""
-"截图创建失败。\n"
-"\n"
-"请确保在存有韦诺玩家资源文件的驱动器上有足够多的空间，且文件权限设置正确。"
-
 msgid "Do you really want to surrender the game?"
 msgstr "你真的想要投降吗？"
 
 msgid "Surrender"
 msgstr "投降"
 
-msgid "Screenshot"
-msgstr "屏幕截图"
-
 msgid "Map-Screenshot"
-msgstr "地图-屏幕截图"
+msgstr "地图-截屏"
 
 msgid "(press $hk to disable)"
 msgstr "（按$hk|禁用）"
@@ -6065,9 +6081,6 @@ msgstr "有些单位还没有移动。你真的要结束自己的回合吗？"
 
 msgid "Rename Unit"
 msgstr "重命名单位"
-
-msgid "Name:"
-msgstr "名称："
 
 msgid "Clear Labels"
 msgstr "清除标签"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-16 19:13+0800\n"
+"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -55,12 +55,12 @@ msgstr "困难"
 msgid ""
 "Rediscover the secrets known by the lich lords of the Green Isle. They knew "
 "how to live forever, so why can't you?\n"
-"\t\n"
+"\n"
 "(Intermediate level, 21 scenarios.)\n"
 msgstr ""
-"重新发现绿岛的巫妖领主们所知道的秘密。他们能知道如何永生，那么你为什么不能"
+"重新发现绿岛的巫妖领主们所知道的秘密。他们能知道如何永生，那你凭什么不能"
 "呢？\n"
-"\t\n"
+"\n"
 "（中等级别，21幕场景。）\n"
 
 #. [about]
@@ -821,7 +821,7 @@ msgstr "黑水港"
 #. [part]
 msgid ""
 "29 III, 23 YW\n"
-"\t\t\t\n"
+"\n"
 "When the captain retained his memories, I reasoned that it may have been "
 "because he was raised so soon after his death. Further experiments with the "
 "other passengers bore out that conclusion. Just think: They may be the first "
@@ -854,8 +854,8 @@ msgstr "格温丁"
 msgid "Bremen"
 msgstr "布雷门"
 
-#. [objective]: condition=win
 #. [objectives]
+#. [objective]: condition=win
 msgid "Kill every enemy unit"
 msgstr "击杀每一个敌方单位"
 
@@ -953,7 +953,7 @@ msgstr "追随暗影"
 #. [then]
 msgid ""
 "3 IV, 23 YW\n"
-"\t\t\t\t\n"
+"\n"
 "I was so sure I had the answer! I was wrong. I wanted to believe that I was "
 "imagining it, but it’s now clear that the captain’s memories are fading. He "
 "still retains speech, and the others fight better when he is watching (many "
@@ -962,7 +962,7 @@ msgid ""
 "raised friends. I am disappointed, but the existence of my strange new "
 "companion keeps me from being depressed."
 msgstr ""
-"韦元23年4月3日：\n"
+"韦元23年4月3日\n"
 "\n"
 "我原本很确信自己找到了答案！但我错了。我想相信这只是我的想象，但现在已经很明"
 "显了，船长的记忆正在消失。他还能够说话，而且当他看着其它人作战时，其他人打得"
@@ -973,16 +973,16 @@ msgstr ""
 #. [else]
 msgid ""
 "3 IV, 23 YW\n"
-"\t\t\t\t\n"
+"\n"
 "I was so sure I had the answer! I was wrong. I wanted to believe that I was "
 "imagining it, but my recently-raised friends are losing their memories. They "
 "retain the power of speech, but precious little else. I am disappointed, but "
 "the existence of my strange new companion keeps me from being depressed."
 msgstr ""
-"韦元23年4月3日：\n"
+"韦元23年4月3日\n"
 "\n"
-"我原本很确信自己找到了答案！但我错了。我想相信这只是我的想象，但我所苏生的朋"
-"友们正在失去他们的记忆。他们还能够说话，但除此之外他们已经几乎记不起任何东西"
+"我原本很确信自己找到了答案！但我错了。我想相信这只是我的想象，但我最近苏生的"
+"朋友们正在失去他们的记忆。他们还能够说话，但除此之外已经几乎记不起任何东西"
 "了。我很失望，但我那奇怪的新同伴的存在让我没有陷入沮丧之中。"
 
 #. [part]
@@ -1109,18 +1109,18 @@ msgstr "心灵交会"
 #. [part]
 msgid ""
 "9 IV, 23 YW\n"
-"\t\t\t\n"
+"\n"
 "The tunnel at the back of the cave narrowed and ran on for quite some time. "
 "Patches of fungus on the wall gave off a feeble glow that kept me from "
 "stumbling too badly. Finally I saw a brighter light up ahead."
 msgstr ""
-"韦元23年4月9日：\n"
+"韦元23年4月9日\n"
 "\n"
 "洞穴后面的隧道变窄了，继续往下延伸了很长一段。墙上的一片片真菌发出微弱的光，"
-"让我并没有被绊得很严重。终于，我看到前方出现了一道明亮的光。"
+"让我并没有被绊得很厉害。终于，我看到前方出现了一道明亮的光。"
 
-#. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
 #. [unit]: type=Sacrifice, id=necromancer_on_altar
+#. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
 msgid "Ras-Tabahn"
 msgstr "拉斯-塔班"
 
@@ -3055,7 +3055,7 @@ msgstr "伽洛因德拉斯"
 
 #. [message]: speaker=Ardonna
 msgid "The whole world is against us."
-msgstr "全世界都和我们为敌"
+msgstr "全世界都和我们为敌。"
 
 #. [unit]: type=Paladin, id=Gwendir
 msgid "Gwendir"
@@ -3073,7 +3073,7 @@ msgstr "是了，我相信那些就是我们的猎物。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Crelanu! Still he haunts us. Remind me again why we didn’t kill him."
-msgstr "克雷拉努！他还是缠着我们不放。再提醒我一下，我们为什么没有杀掉他？"
+msgstr "克雷拉努！他还是缠着我们不放。再提醒我一下，我们是为什么没有杀掉他。"
 
 #. [message]: speaker=Gwendir
 msgid ""

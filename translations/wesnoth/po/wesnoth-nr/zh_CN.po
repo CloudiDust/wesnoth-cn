@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-16 19:11+0800\n"
+"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:29+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -579,14 +579,14 @@ msgstr "克洛格"
 msgid "Hamel"
 msgstr "哈梅尔"
 
+#. [side]: type=Death Knight, id=Mal Barath
+#. [side]: type=Death Knight, id=Delzath
+#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Ancient Lich, id=Malifor
 #. [side]: type=Draug, id=Thorin
 #. [side]: type=Draug, id=Herlin
 #. [side]: type=Draug, id=Fervin
 #. [side]: type=Draug, id=Hellian
-#. [side]: type=Death Knight, id=Mal Barath
-#. [side]: type=Death Knight, id=Delzath
-#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Death Knight, id=Hettel
 #. [side]: type=Death Knight, id=Tervor
 #. [side]: type=Death Knight, id=Author
@@ -1258,15 +1258,14 @@ msgid "When the party finally reached the mines, they were not disappointed."
 msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 
 #. [side]
-#. [side]: type=Lieutenant, id=Tallin
-#. [side]: type=Drake Burner, id=Krash
-#. [side]: type=Dwarvish Lord, id=Hamel
 #. [side]: type=Elvish Avenger, id=Sisal
+#. [side]: type=Lieutenant, id=Tallin
+#. [side]: type=Dwarvish Lord, id=Hamel
 msgid "Alliance"
 msgstr "联盟"
 
-#. [side]: type=Ancient Lich, id=Malifor
 #. [unit]: type=Ancient Lich, id=Malifor
+#. [side]: type=Ancient Lich, id=Malifor
 msgid "Malifor"
 msgstr "玛利弗"
 
@@ -1287,8 +1286,9 @@ msgid "Hellian"
 msgstr "黑连"
 
 #. [objective]: condition=win
-msgid "Clear the mines"
-msgstr "清除矿脉里的敌人"
+#. [objectives]
+msgid "Defeat the enemy leaders"
+msgstr "打败众敌将"
 
 #. [message]: speaker=Hamel
 msgid "Behold! The Dwarven Mines."
@@ -1592,6 +1592,14 @@ msgstr "保博林"
 #. [side]: type=Death Knight, id=Antrasis
 msgid "Antrasis"
 msgstr "安崔斯"
+
+#. [side]: type=Fire Dragon, id=Machador
+#. [side]: type=Blood Bat, id={ID}
+#. [side]: type=Troll Warrior, id=Gurk
+#. [side]: type=Drake Flare, id=Kishmish
+#. [side]
+msgid "Monsters"
+msgstr "怪兽"
 
 #. [message]: speaker=Tallin
 msgid "There he goes! Quick, get him!"
@@ -3029,26 +3037,25 @@ msgstr ""
 "他们经过讨论，决定让塔林带着他的人主动出击去会会兽人，而哈梅尔则率部退守洞"
 "穴。"
 
-#. [side]
 #. [side]: type=Great Mage, id=Camerin
+#. [side]
 #. [side]: type=Dwarvish Lord, id=Stalrag
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
+#. [side]: type=Orcish Warlord, id=Atul
 #. [side]
 #. [side]: type=Orcish Warlord, id=Drung
 #. [side]: type=Orcish Warlord, id=Poul
-#. [side]: type=Orcish Warlord, id=Atul
-#. [side]: type=Orcish Sovereign, id=Rakshas
-#. [side]: type=Orcish Warlord, id=Ha'Tuil
-#. [side]: type=Orcish Warlord, id=Ar'Muff
-#. [side]: type=Orcish Warlord, id=Calter
-#. [side]: type=Orcish Warlord, id=Halter
 #. [side]: type=Troll Warrior, id=Gore
 #. [side]: type=Orcish Warlord, id=Carron
 #. [side]: type=Orcish Warlord, id=Rash
 #. [side]: type=Orcish Warlord, id=Al'Mar
 #. [side]: type=Orcish Warlord, id=Ha'Tang
+#. [side]: type=Orcish Warlord, id=Ha'Tuil
+#. [side]: type=Orcish Warlord, id=Ar'Muff
+#. [side]: type=Orcish Warlord, id=Calter
+#. [side]: type=Orcish Warlord, id=Halter
 msgid "Orcs"
 msgstr "兽人"
 
@@ -3173,8 +3180,8 @@ msgstr "还没完呢，我的朋友们。将军们，派出预备队！"
 msgid "Oh yeah!"
 msgstr "噢耶！"
 
-#. [message]: id=Poul
 #. [message]: speaker=Malifor
+#. [message]: id=Poul
 msgid "HAHAHA!"
 msgstr "哈哈哈！"
 
@@ -3623,8 +3630,8 @@ msgstr "你们为什么要和那些法师来往？拯救他们的灵魂？"
 msgid "(<i>Giggle</i>) Something like that."
 msgstr "（<b>咯咯笑</b>）差不多吧。"
 
-#. [message]: speaker=Tallin
 #. [story]
+#. [message]: speaker=Tallin
 msgid "(<i>Rolls eyes</i>)"
 msgstr "（<b>转眼珠</b>）"
 
@@ -3705,10 +3712,12 @@ msgstr "巫妖"
 
 #. [unit]: type=Ancient Lich, id=Ro'Arthian
 #. [side]: type=Ancient Lich, id=Ro'Arthian
+#. [modify_side]
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
 
 #. [unit]: type=Lich, id=Ro'Sothian
+#. [modify_side]
 msgid "Ro’Sothian"
 msgstr "若·索瑟恩"
 
@@ -4090,10 +4099,10 @@ msgid ""
 "these wretched mages?!"
 msgstr "等一等，塔林。你是说要把我们的家园送给这些可恶的法师？！"
 
-#. [message]: id=Ro'Sothian
 #. [message]: speaker=Ro'Arthian
 #. [message]: speaker=Ro'Sothian
 #. [message]: speaker=Eryssa
+#. [message]: id=Ro'Sothian
 msgid "(<i>Snicker</i>)"
 msgstr "（<b>窃笑</b>）"
 
@@ -4630,6 +4639,7 @@ msgid "INTRUDERS! KILL THEM!!"
 msgstr "入侵者！杀死他们！！"
 
 #. [unit]: type=Elvish Sorceress, id=Eryssa
+#. [modify_side]
 msgid "Eryssa"
 msgstr "伊蕊莎"
 
@@ -4909,13 +4919,6 @@ msgstr "那我们必须找到这个法杖。带路吧，朋友。"
 #. [side]: type=Fire Dragon, id=Machador
 msgid "Machador"
 msgstr "玛崔德"
-
-#. [side]: type=Fire Dragon, id=Machador
-#. [side]: type=Blood Bat, id={ID}
-#. [side]: type=Troll Warrior, id=Gurk
-#. [side]: type=Drake Flare, id=Kishmish
-msgid "Monsters"
-msgstr "怪兽"
 
 #. [side]: type=Troll Warrior, id=Gurk
 msgid "Gurk"
@@ -5577,7 +5580,7 @@ msgstr "好了，在这里逗留也没用。我们回纳尔迦吧。"
 msgid "Move Tallin to the Signpost in the north"
 msgstr "把塔林带到北边的路牌"
 
-#. [message]: speaker=second_unit
+#. [message]: role=Supporter
 msgid "Hey look, it’s a troll!"
 msgstr "嘿看呐，巨魔！"
 
@@ -5635,11 +5638,6 @@ msgstr ""
 "灼热的痛传遍了他全身。一道光，既不亮也不暗，带有巨大的力量，穿透了他紧闭的眼"
 "皮，让他失去了视力。他的仆从目瞪口呆地看到，他的灵魂燃起了虚空之火，而他的肉"
 "身则瘫软在了洞穴的地上。"
-
-#. [side]: type=Orcish Sovereign, id=Rakshas
-#. [unit]: type=Orcish Sovereign, id=Rakshas
-msgid "Rakshas"
-msgstr "拉克夏斯"
 
 #. [message]: speaker=Betrayed Friend
 msgid "Hello, Tallin"
@@ -6049,6 +6047,10 @@ msgstr "沃"
 msgid "Glu"
 msgstr "格鲁"
 
+#. [side]
+msgid "Krash"
+msgstr "克莱什"
+
 #. [message]: speaker=narrator
 msgid "Upon emerging from the tunnels, the party found themselves surrounded."
 msgstr "走出隧道后，他们发现自己被包围了。"
@@ -6089,11 +6091,6 @@ msgstr "耶耶耶！我喜欢！"
 #. [objective]: condition=win
 msgid "Resist for as long as you can"
 msgstr "坚持尽可能久的时间"
-
-#. [objective]: condition=win
-#. [objectives]
-msgid "Defeat the enemy leaders"
-msgstr "打败众敌将"
 
 #. [message]: speaker=Krash
 msgid "(<i>Sniff sniff</i>)"
@@ -6354,11 +6351,11 @@ msgstr "他们倒是一见如故……"
 msgid ""
 "... the road ahead is clear and I am eager to blast some more orcs. Shall we "
 "proceed?"
-msgstr "……前面的路已经清理完毕，我迫不及待想要多杀几个兽人。我们前进吗？"
+msgstr "……前路已经清理完毕，我迫不及待想要多杀几个兽人。我们该前进吗？"
 
 #. [message]: speaker=Tallin
-msgid "Right. Onward men!"
-msgstr "说的对，前进！"
+msgid "Right. Onward, men!"
+msgstr "说得对，前进，战士们！"
 
 #. [unit]: type=Elvish Avenger, id=Sisal
 #. [side]: type=Elvish Avenger, id=Sisal
@@ -6471,10 +6468,6 @@ msgstr "沃莫"
 #. [side]: type=Orcish Warlord, id=Ha'Tang
 msgid "Ha’Tang"
 msgstr "哈唐"
-
-#. [side]: type=Drake Burner, id=Krash
-msgid "Krash"
-msgstr "克莱什"
 
 #. [message]: speaker=Tallin
 msgid ""
@@ -7760,6 +7753,9 @@ msgstr ""
 
 msgid "Elenia"
 msgstr "伊莱妮雅"
+
+msgid "Rakshas"
+msgstr "拉克夏斯"
 
 #. [message]: speaker=Tallin
 msgid ""

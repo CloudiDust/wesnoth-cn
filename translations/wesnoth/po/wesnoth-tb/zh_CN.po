@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-17 14:42+0800\n"
+"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
+"PO-Revision-Date: 2018-03-21 00:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -179,9 +179,9 @@ msgid "Humans"
 msgstr "人类"
 
 #. [side]: type=Dark Sorcerer, id=Mordak
+#. [side]: type=Orcish Warlord, id=Tairach
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #. [side]
-#. [side]: type=Orcish Warlord, id=Tairach
 msgid "Enemies"
 msgstr "敌人"
 
@@ -798,8 +798,8 @@ msgstr "当面对未知的状况时，将故事与对话中的细节纳入考量
 #. [objectives]
 msgid ""
 "The dark sorcerer is a strong unit; attack him with multiple units at once "
-"and try to force him off of his keep."
-msgstr "黑暗巫师是强大的单位；使用多个单位同时攻击它并尝试把他赶下城堡主楼。"
+"and try to force him off his keep."
+msgstr "黑暗巫师是强大的单位；使用多个单位同时攻击他并尝试把他赶下城堡主楼。"
 
 #. [objectives]
 msgid ""

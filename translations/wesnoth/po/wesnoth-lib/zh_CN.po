@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 20:01+0300\n"
-"PO-Revision-Date: 2018-03-17 15:07+0800\n"
+"POT-Creation-Date: 2018-03-17 21:30+0300\n"
+"PO-Revision-Date: 2018-03-21 00:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1225,8 +1225,8 @@ msgid "Fake Map Border"
 msgstr "伪地图边缘"
 
 #. [terrain_type]: id=shroud
-#. [toggle_button]: id=shroud
 #. [toggle_button]: id=sort_7
+#. [toggle_button]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
 
@@ -1563,10 +1563,10 @@ msgid " (Press '$hotkey' for more information)"
 msgstr "（按‘$hotkey|’以查看更多信息）"
 
 #. [toggle_button]: id=sort_0
-#. [label]: id=name
 #. [label]
 #. [toggle_button]: id=sort_1
 #. [toggle_button]: id=sort_name
+#. [label]: id=name
 msgid "Name"
 msgstr "名字"
 
@@ -1612,16 +1612,12 @@ msgstr "发布附加组件"
 msgid "Uninstall add-on"
 msgstr "卸载附加组件"
 
-#. [label]: id=room
-msgid "Rooms"
-msgstr "房间"
-
 #. [image]: id=pending_messages
 msgid "Messages waiting"
 msgstr "消息等待中"
 
-#. [button]: id=click_dismiss
 #. [button]: id=close_window
+#. [button]: id=click_dismiss
 #. [button]: id=cancel
 #. [button]: id=ok
 msgid "Close"
@@ -2286,13 +2282,13 @@ msgstr "在将当前文件夹上夹上书签"
 msgid "Removes the current bookmark"
 msgstr "移除当前书签"
 
-#. [button]: id=delete_file
 #. [button]: id=delete
+#. [button]: id=delete_file
 msgid "Delete"
 msgstr "删除"
 
-#. [button]: id=new_dir
 #. [label]: id=title
+#. [button]: id=new_dir
 msgid "New Folder"
 msgstr "新建文件夹"
 
@@ -2679,8 +2675,8 @@ msgstr "请按下期望的快捷键（按ESC取消）"
 msgid "Show or Hide Labels"
 msgstr "显示或隐藏标签"
 
-#. [label]
 #. [grid]
+#. [label]
 msgid "Language"
 msgstr "语言"
 
@@ -3745,18 +3741,6 @@ msgstr "打开"
 msgid "Open this file with an external application"
 msgstr "使用外部应用打开此文件"
 
-#. [label]: id=title
-msgid "Screenshot Saved"
-msgstr "截屏已保存"
-
-#. [button]: id=browse_dir
-msgid "Screenshots..."
-msgstr "截屏……"
-
-#. [button]: id=browse_dir
-msgid "Browse the screenshots folder using a file manager"
-msgstr "使用文件管理器浏览截屏文件夹"
-
 #. [label]
 msgid "Choose Orb/Minimap Colors"
 msgstr "选择状态球/小地图颜色"
@@ -3992,10 +3976,6 @@ msgid "Attack Enemy"
 msgstr "攻击敌人"
 
 #. [label]
-msgid "Choose weapon:"
-msgstr "选择武器："
-
-#. [label]
 msgid "Create Unit (Debug!)"
 msgstr "创建单位（调试！）"
 
@@ -4065,7 +4045,7 @@ msgstr "详细："
 msgid "feature^Experimental OpenMP support"
 msgstr "实验性OpenMP支持"
 
-msgid "feature^PNG screenshots"
+msgid "feature^JPG screenshots"
 msgstr "PNG截屏"
 
 msgid "feature^Lua console completion"
@@ -4845,9 +4825,6 @@ msgstr "重置快捷键"
 
 msgid "∞"
 msgstr "∞"
-
-msgid "file_size^Unknown"
-msgstr "未知"
 
 msgid "Recruits"
 msgstr "次征募"
