@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-20 17:50+0800\n"
+"PO-Revision-Date: 2018-03-20 23:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -34,7 +34,7 @@ msgstr "开发用AI：空闲AI"
 
 #. [ai]: id=ai_default_rca_alternate_recruiting
 msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
-msgstr "开发用AI：默认AI（RCA）及替代用征募规则"
+msgstr "开发用AI：使用另一种征募规则的默认AI（RCA）"
 
 #. [ai]: id=formula_ai # id is needed to uniquely identify a MP AI, it is not needed in the scenario AI
 msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (Formula AI)"
@@ -116,9 +116,9 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"这是主线战役<b>王座继承人</b>中<b>精灵受困</b>场景的再演绎，区别只在于此处是"
-"AI在控制科纳德的阵营。目标是将科纳德移动到西北方的路标处，同时要确保科纳德和"
-"德法多存活。此处使用的AI与<b>保护单位<b>场景中使用的AI相同。\n"
+"这是主线战役“王座继承人”中“精灵受困”场景的再演绎，区别只在于此处是AI在控制科"
+"纳德的阵营。目标是将科纳德移动到西北方的路标处，同时要确保科纳德和德法多存"
+"活。此处使用的AI与<b>保护单位<b>场景中使用的AI相同。\n"
 "\n"
 "注：保护单位AI是作为微AI来编写的。微AI可以只使用WML和[micro_ai]标签来加入到场"
 "景中，并根据场景的需要进行适配。请参阅http://wiki.wesnoth.org/Micro_AIs处的"
@@ -205,8 +205,8 @@ msgstr ""
 "逼入绝境（但不总是非常成功），但容易被其它靠近狩猎范围的猎物分散注意力。狼群"
 "试图远离熊、蜘蛛、狗和雪人的攻击范围，除非它们要进攻这些生物。如果你让它们行"
 "动足够长的时间，那么他们也会意识到攻击长牙幼兽是有害健康的。当鹿都死光时，他"
-"们会随意游荡。注意，不同于<b>多狼群AI</b>（该AI用在另一个场景中），此<b>狼群"
-"AI</b>将狼阵营中的所有狼都归入同一个狼群中。"
+"们会随意游荡。注意，不同于多狼群AI（该AI用在另一个场景中），此狼群AI将狼阵营"
+"中的所有狼都归入同一个狼群中。"
 
 msgid ""
 "Each <u>Deer (replaced by Vampire Bats)</u> wanders randomly on forest "
@@ -336,7 +336,7 @@ msgid ""
 "for watching only. The animal AIs behave as follows:\n"
 "\n"
 msgstr ""
-"这是个有趣的小场景，其中有一些不同的动物AI，这主要是为了旁观而设计的。这些动"
+"这是个有趣的小场景，其中有一些不同的动物AI，这主要是为了观看而设计的。这些动"
 "物AI的表现如下：\n"
 "\n"
 
@@ -1174,11 +1174,11 @@ msgstr ""
 "那边那个游寇会逃往东南方的城堡主楼。他只会在那里征募三回合，而后便会开始移"
 "动。他和他的走卒比我们快多了。我们得赶快，否则就捉不住他了。\n"
 "\n"
-"注：此场景结合使用了两个微AI。其一是<b>闲逛微AI</b>，这让阵营2的单位在主楼周"
-"围闲逛两回合（同时从城堡格子上移出以允许征募）。其二是<b>信使护送AI</b>，在征"
-"募之后会接管。仅使用WML和[micro_ai]标签即可很容易地将微AI加入场景中，并根据场"
-"景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页面</span>（http://"
-"wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
+"注：此场景结合使用了两个微AI。其一是闲逛微AI，这让阵营2的单位在主楼周围闲逛两"
+"回合（同时从城堡格子上移出以允许征募）。其二是信使护送AI，在征募之后会接管。"
+"仅使用WML和[micro_ai]标签即可很容易地将微AI加入场景中，并根据场景的需要进行适"
+"配。请查看<span color='#00A000'>微AI的wiki页面</span>（http://wiki.wesnoth."
+"org/Micro_AIs）以获得更多信息。"
 
 #. [objectives]
 msgid ""
@@ -1889,7 +1889,7 @@ msgid ""
 "side."
 msgstr ""
 "在瓶颈防御微AI场景中，一小队人类士兵接到指示，防守一条通道，阻挡来犯的大群兽"
-"人。你可以旁观双方作战（使用标准RCA AI），或接管兽人阵营。"
+"人。你可以观看双方作战（使用标准RCA AI），或接管兽人阵营。"
 
 #. [command]
 #. [set_menu_item]: id=m02_swamp_lurkers
@@ -1959,7 +1959,7 @@ msgid ""
 msgstr ""
 "此场景演示了一个阵营在保护一名巫师的同时把他移动到一个目标位置。与此同时，另"
 "一个阵营经过了修改，会优先攻击该名巫师，哪怕有（按照默认AI判定）更合适的目标"
-"时也是如此。你可以旁观两个AI对战，也可以接管任一阵营，以探索对方AI是如何行动"
+"时也是如此。你可以观看两个AI对战，也可以接管任一阵营，以探索对方AI是如何行动"
 "的。"
 
 #. [command]
@@ -2023,7 +2023,7 @@ msgstr "蜂群微AI演示"
 
 #. [command]
 msgid "This scenario features bats moving around semi-randomly in a swarm."
-msgstr "此场景中展示了蝙蝠半随机地成群四处移动。"
+msgstr "此场景主要展示了蝙蝠半随机地成群四处移动。"
 
 #. [command]
 #. [set_menu_item]: id=m11_dragon
@@ -2033,15 +2033,15 @@ msgstr "巨龙微AI演示"
 #. [command]
 msgid ""
 "This scenario features a fire dragon displaying a hunt-and-rest behavior."
-msgstr "此场景中展示了一条展现出狩猎/休憩行为的火龙。"
+msgstr "此场景主要展示了一条展现出狩猎/休憩行为的火龙。"
 
 #. [set_menu_item]: id=m12_healer_support
 msgid "Healer support Micro AI demo"
-msgstr ""
+msgstr "疗伤支援微AI演示"
 
 #. [command]
 msgid "Healer Support Micro AI demo"
-msgstr ""
+msgstr "疗伤支援微AI演示"
 
 #. [command]
 msgid ""
@@ -2050,11 +2050,13 @@ msgid ""
 "threatened units rather than having them participate in combat under all "
 "circumstances."
 msgstr ""
+"此场景包含了一个简单的演示，其内容为设置疗伤支援微AI，该AI使用一个阵营的疗伤"
+"者来支援受伤或受威胁的单位，而不是让他们参与战斗，不论在何种情况下皆是如此。"
 
 #. [command]
 #. [set_menu_item]: id=m13_goto
 msgid "Goto Micro AI demo"
-msgstr ""
+msgstr "Goto微AI演示"
 
 #. [command]
 msgid ""
@@ -2063,14 +2065,17 @@ msgid ""
 "set of locations. The units to be moved are defined using a Standard Unit "
 "Filter, while the goto locations are given in a Standard Location Filter."
 msgstr ""
+"此场景包含了Goto微AI的几个样例用法。Goto微AI是将一个（或一些）单位送至一个或"
+"一组位置的可灵活配置的方法。被移动的单位使用标准单位筛选器来定义，而前往的位"
+"置在标准位置筛选器中给出。"
 
 #. [set_menu_item]: id=m14_hangout
 msgid "Hang Out Micro AI demo"
-msgstr ""
+msgstr "闲逛微AI演示"
 
 #. [command]
 msgid "Combined Hang Out and Messenger Escort Micro AI demo"
-msgstr ""
+msgstr "闲逛和信使护送微AI的组合演示"
 
 #. [command]
 msgid ""
@@ -2080,11 +2085,15 @@ msgid ""
 "also shows how to combine two Micro AIs on the same side by having the "
 "Messenger Escort Micro AI take over at that point."
 msgstr ""
+"此场景是闲逛微AI的演示，该AI让单位呆在一个（可自定义的）位置周围，直到一个"
+"（可自定义的）条件满足为止。之后该AI会解除对单位的控制，而单位会按照其他AI的"
+"指示行动。通过让信使护送AI在该时点接管控制权，此场景也展示了如何在同一个阵营"
+"中组合使用两个微AI。"
 
 #. [command]
 #. [set_menu_item]: id=m15_simple_attack
 msgid "Simple Attack Micro AI demo"
-msgstr ""
+msgstr "简单攻击微AI演示"
 
 #. [command]
 msgid ""
@@ -2092,17 +2101,21 @@ msgid ""
 "priority than the standard Wesnoth attacks and how the AI can be forced to "
 "do attacks that it would otherwise avoid."
 msgstr ""
+"此场景演示了如何使得特定的攻击比标准韦诺攻击有更高的优先级，以及如何迫使AI执"
+"行它在非被迫情况下不会执行的攻击。"
 
 #. [command]
 #. [set_menu_item]: id=m16_fast
 msgid "Fast Micro AI demo"
-msgstr ""
+msgstr "快速微AI演示"
 
 #. [command]
 msgid ""
 "A simple demonstration of the calculation time advantage of the Fast Micro "
 "AI over the default AI in scenarios with many units."
 msgstr ""
+"一个简单的演示，展示了在单位众多的场景中，快速微AI相较于默认AI所具有的计算时"
+"间优势。"
 
 #. [event]
 msgid ""
@@ -2111,26 +2124,29 @@ msgid ""
 "Information about each demonstration can be accessed by right-clicking on "
 "the respective signpost."
 msgstr ""
+"将我移动到任一个路标处，以进入微AI演示。\n"
+"\n"
+"有关每个演示的信息可以通过右击相应的路标来访问。"
 
 #. [objective]: condition=win
 msgid "Move Grnk to one of the signposts"
-msgstr ""
+msgstr "将格隆克移动到路标之一处"
 
 #. [note]
 msgid "Right-click on a signpost to get information about the scenario"
-msgstr ""
+msgstr "右击一个路标以获取场景信息"
 
 #. [side]: id=Grospur, type=General
 msgid "Grospur"
-msgstr ""
+msgstr "格洛斯帕"
 
 #. [side]: type=Ancient Lich, id=Uralt
 msgid "Uralt"
-msgstr ""
+msgstr "乌拉尔特"
 
 #. [event]
 msgid "General Grospur, what do we do?  These undead will surely wipe us out."
-msgstr ""
+msgstr "格洛斯帕将军，我们该怎么办？这些亡灵肯定会把我们一网打尽的。"
 
 #. [event]
 msgid ""
@@ -2145,28 +2161,34 @@ msgid ""
 "Attack Micro AI in this scenario. General Grospur might be in for a surprise."
 "</i>"
 msgstr ""
+"别胆小得像个鸡仔似的，士官！我在防线上布置了富有经验的单位。亡灵不敢攻击他"
+"们。而那少数溜进来得亡灵……一旦它们进来，我们可以很容易地消灭它们。\n"
+"\n"
+"<b>换句话说，如果不可能一击杀死只差一点经验就要升级的单位的话，韦诺AI通常不会"
+"攻击他们。但是，在此场景中，亡灵的有些攻击是由简单攻击微AI来处理的。格洛斯帕"
+"将军怕是会大吃一惊。</b>"
 
 #. [objectives]
 msgid "Watch the undead take care of business"
-msgstr ""
+msgstr "观看亡灵干活儿"
 
 #. [objective]: condition=win
 msgid "Don't even try. You can't reach the Lich."
-msgstr ""
+msgstr "别试了。你不可能摸到那巫妖的。"
 
 #. [objective]: condition=lose
 msgid "Death of the last of Grospur's units"
-msgstr ""
+msgstr "格洛斯帕的最后一个单位阵亡"
 
 #. [note]
 msgid "When your leader dies, side leadership passes on to another unit"
-msgstr ""
+msgstr "当你的领袖阵亡时，阵营领导权会转移给另一个单位"
 
 #. [event]
 msgid ""
 "What the ... ?!?  They are not supposed to attack me. That just doesn't "
 "happen in Wesnoth!"
-msgstr ""
+msgstr "什么……？！？它们不该攻击我的。这在韦诺中不可能发生啊！"
 
 #. [event]
 msgid ""
@@ -2183,26 +2205,35 @@ msgid ""
 "for their own safety.  Only after that does the default Wesnoth attack "
 "mechanism kick in to attack with the remaining units (skeletons).</i>"
 msgstr ""
+"哈哈哈哈哈！！我给我的无魂怪下达了特别指令，先攻击你所有几乎要升级的单位。再"
+"看看同样是那些无魂怪，在之后是如何奋不顾身地攻击你那些可怜的士兵的。这样就能"
+"把我宝贵的骷髅仆从们保留到之后的战斗中了。我把“消耗用单位”提升到了崭新的层"
+"次。看吧！畏惧吧！！\n"
+"\n"
+"<b>翻译：亡灵阵营含有两个简单攻击微AI的实例。第一个实例使得无魂怪攻击所有还差"
+"1点经验就要升级的单位，这样一来之后他们就会被消灭。而第二个实例让无魂怪（和行"
+"尸）执行余下的所有可能发起的攻击，而完全不顾自身的安危。只有在那之后，默认韦"
+"诺攻击机制才会起效，使用剩下的单位（骷髅）进行攻击。</b>"
 
 #. [then]
 msgid "Rise, minions!"
-msgstr ""
+msgstr "起身吧，仆从们！"
 
 #. [else]
 msgid "And that's how the undead AI executes total annihilation ..."
-msgstr ""
+msgstr "而这就是亡灵AI执行灭绝令的方式……"
 
 #. [side]
 msgid "Bats"
-msgstr ""
+msgstr "蝙蝠"
 
 #. [set_menu_item]: id=m02_new_gryphon
 msgid "Place Side 1 Gryphon"
-msgstr ""
+msgstr "放置阵营1的狮鹫"
 
 #. [set_menu_item]: id=m03_new_bat
 msgid "Place Side 2 Bat"
-msgstr ""
+msgstr "放置阵营2的蝙蝠"
 
 #. [event]
 msgid ""
@@ -2226,38 +2257,52 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
 "wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"此场景主要展示了成群（“蜂群”）移动的蝙蝠。当没有紧邻的敌人时，它们只是试图呆"
+"在一起，并与敌人保持一定的距离。然而，如果一个敌方单位与任何一只蝙蝠接近，则"
+"蝙蝠群会四散。当把敌方单位放在蝙蝠群中央时，观看起来就特别有趣。在散开之后，"
+"蝙蝠群的成员会缓慢地重新汇合，但并不是以很有序的方式来汇合。子群或者单只蝙蝠"
+"可能会在游荡很久之后才找到回去的路。有时单只蝙蝠（或小群）也可能会从大群里分"
+"离出来。\n"
+"\n"
+"玩家控制一个狮鹫阵营，每只狮鹫可移动99次，这样一来就可以很容易地测试蝙蝠群的"
+"对敌反应。还有一些右击选项，例如增加蝙蝠或狮鹫的选项，以及把单位从地图上移走"
+"的选项。\n"
+"\n"
+"注：蜂群AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI加入"
+"场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki页面"
+"</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [objectives]
 msgid "Watch the bats move around and fight them if you want"
-msgstr ""
+msgstr "看着蝙蝠四处移动，如果想的话，也可以和它们作战"
 
 #. [objective]: condition=win
 msgid "Defeat all bats"
-msgstr ""
+msgstr "击败所有蝙蝠"
 
 #. [objective]: condition=lose
 msgid "Death of all gryphons"
-msgstr ""
+msgstr "所有狮鹫阵亡"
 
 #. [side]
 msgid "team_name^Wolves"
-msgstr ""
+msgstr "狼"
 
 #. [side]
 msgid "More Wolves"
-msgstr ""
+msgstr "更多狼"
 
 #. [set_menu_item]: id=m02_new_peasant
 msgid "Place Side 1 Peasant"
-msgstr ""
+msgstr "放置阵营1的农民"
 
 #. [set_menu_item]: id=m03_new_wolf2
 msgid "Place Side 2 Wolf"
-msgstr ""
+msgstr "放置阵营2的狼"
 
 #. [set_menu_item]: id=m04_new_wolf3
 msgid "Place Side 3 Wolf"
-msgstr ""
+msgstr "放置阵营3的狼"
 
 #. [event]
 msgid ""
@@ -2282,6 +2327,20 @@ msgid ""
 "displayed below each wolf in this scenario once the AI takes control of a "
 "side the first time."
 msgstr ""
+"此场景主要展示了与“动物”中不同的一种狼群行为。首先，可以有任意数量的狼群，且"
+"各个阵营的狼群大小是一个自由参数（在此场景中，阵营2的此参数设置为3，而阵营3的"
+"为4）。在场景开始时，相近的狼被以半有条理的方式划分到各个狼群中。同一个狼群中"
+"的狼在开始时会在地图上会合。之后，它们会共同行动直到只剩下一条狼，此时这条独"
+"狼会试图加入不完整的狼群或与其他独狼组成新的狼群。在场景中途进入地图的新的独"
+"狼的行为同样如此。\n"
+"\n"
+"其次，此处狼群不会主动狩猎。在绝大多数情况下它们只是在游荡（通常是长距离游"
+"荡）。但是，只要攻击行为不会把狼群分散到相距几格以上的位置上去，狼群就会凶猛"
+"地攻击任何进入攻击范围的敌方单位。共同行动，或是与分配到本狼群的新狼汇合，是"
+"唯二优先级高于满足狼群嗜血本能的事。\n"
+"\n"
+"为了着重表示狼与狼群的归属关系，在此场景中，一旦AI首次接管一个阵营的控制权，"
+"则狼群编号会显示在每一条狼的下方。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -2302,46 +2361,57 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"可以包含由人类控制的阵营1，这样一来每回合行动会停止一次以供四处查看（或在调试"
+"模式里搞事）。在人类控制模式中，右击菜单中会有一些选项可用，比如向两个阵营添"
+"加额外的狼，把狼从地图上移走，向人类控制的阵营添加农民，或是结束场景。这样就"
+"可以简单地探索在不同情形下狼群AI的行为了。\n"
+"\n"
+"注意，人类阵营的首领，鲁特巴特，每回合可以移动99格，这样一来总是可以让他免受"
+"伤害。\n"
+"\n"
+"也请注意：狼群AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微"
+"AI加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的"
+"wiki页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [option]
 msgid "<span font='16'>I'll just watch the two wolf sides.</span>"
-msgstr ""
+msgstr "<span font='16'>我将只是看着两个狼阵营互相攻击。</span>"
 
 #. [objectives]
 msgid "Watch the wolves move around and fight each other"
-msgstr ""
+msgstr "看着狼群四处移动并互相攻击"
 
 #. [objective]: condition=win
 msgid "No wolves left on one side"
-msgstr ""
+msgstr "一方阵营一条狼都不剩"
 
 #. [message]: speaker=narrator
 msgid "This situation should test the ability of AI to heal efficiently..."
-msgstr ""
+msgstr "此状况应可测试AI有效治疗的能力……"
 
 #. [message]: speaker=narrator
 msgid "This situation should test the ability of AI to spread poison around..."
-msgstr ""
+msgstr "此状况应可测试AI散布毒素的能力……"
 
 #. [label]
 msgid "Undead target test"
-msgstr ""
+msgstr "亡灵目标测试"
 
 #. [label]
 msgid "Target choose test"
-msgstr ""
+msgstr "目标选择测试"
 
 #. [label]
 msgid "Regeneration attack test"
-msgstr ""
+msgstr "再生攻击测试"
 
 #. [label]
 msgid "Weapon test with low hp target"
-msgstr ""
+msgstr "针对低生命值目标的武器测试"
 
 #. [message]: speaker=narrator
 msgid "This situation should test the ability of AI to make an attack..."
-msgstr ""
+msgstr "此状况应可测试AI发起攻击的能力……"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -2349,97 +2419,99 @@ msgid ""
 "filters while making attacks. Only dwarves should attack. Dark Adepts are "
 "not to be attacked."
 msgstr ""
+"此状况应可测试在发起攻击时，AI遵从自有单位和敌方单位筛选器的能力。只有矮人才"
+"该进攻，而黑暗狂徒不应遭到攻击。"
 
 #. [test]: id=ai_arena_small
 msgid "AI Arena - small"
-msgstr ""
+msgstr "AI竞技场 - 小型"
 
 #. [test]: id=ai_arena_small
 msgid "Small ai arena"
-msgstr ""
+msgstr "小型AI竞技场"
 
 #. [set_menu_item]: id=repeat_test
 msgid "Repeat last test"
-msgstr ""
+msgstr "重复最后一次测试"
 
 #. [set_menu_item]: id=select_another_ai
 msgid "Select another ai"
-msgstr ""
+msgstr "选择另一个AI"
 
 #. [set_menu_item]: id=select_test
 msgid "Select another test"
-msgstr ""
+msgstr "选择另一个测试"
 
 #. [side]: type=Nightgaunt
 msgid "AI Developer"
-msgstr ""
+msgstr "AI开发者"
 
 #. [side]: type=Nightgaunt
 msgid "team_name^AI Developer"
-msgstr ""
+msgstr "AI开发者"
 
 #. [side]: id=chall-ai, type=White Mage
 msgid "Challenger AI"
-msgstr ""
+msgstr "挑战者AI"
 
 #. [side]: id=chall-ai, type=White Mage
 msgid "North"
-msgstr ""
+msgstr "北方"
 
 #. [side]: id=champ-ai, type=Dark Adept
 msgid "Champion AI"
-msgstr ""
+msgstr "冠军AI"
 
 #. [side]: id=champ-ai, type=Dark Adept
 msgid "South"
-msgstr ""
+msgstr "南方"
 
 #. [message]: speaker=narrator
 msgid "Which AI do you wish to use, O Mighty AI Developer?"
-msgstr ""
+msgstr "你想要使用哪个AI，哦，大能的AI开发者？"
 
 #. [option]
 msgid "I am happy with the current AI of team 2, [$test_path_to_ai]"
-msgstr ""
+msgstr "我对队伍2的当前AI[$test_path_to_ai]很满意。"
 
 #. [option]
 msgid "My AI is the RCA AI (the current default)."
-msgstr ""
+msgstr "我的AI是RCA AI（当前的默认AI）。"
 
 #. [option]
 msgid ""
 "I am the king of FORMULA AI, and I will use its vast powers for world "
 "domination."
-msgstr ""
+msgstr "我是公式AI之王，我将使用它强大的力量来征服世界。"
 
 #. [option]
 msgid "I want to test formulaAI-based poisoning improvements"
-msgstr ""
+msgstr "我想要测试基于公式AI的施毒提升"
 
 #. [option]
 msgid "I've come with my own AI, and I am ready to test its strength"
-msgstr ""
+msgstr "我带着我自己的AI而来，我准备好测试它的强度了。"
 
 #. [message]: speaker=narrator
 msgid "And where is it located (path follows the usual WML convention)"
-msgstr ""
+msgstr "以及其位置（路径符合通畅的WML约定）"
 
 #. [text_input]
 msgid "AI Location:"
-msgstr ""
+msgstr "AI位置："
 
 #. [message]: speaker=narrator
 msgid "And so, the AI for team 2 was redeployed from file '$test_path_to_ai'"
-msgstr ""
+msgstr "如此，队伍2的AI已从文件“$test_path_to_ai|”中重新部署。"
 
 #. [test]: id=lua_ai
 msgid "Lua AI Test scenario"
-msgstr ""
+msgstr "Lua AI测试场景"
 
 #. [test]: id=lua_ai_old_syntax
 msgid "Lua AI Test scenario (old syntax)"
-msgstr ""
+msgstr "Lua AI测试场景（旧语法）"
 
 #. [unit]: type=Skeletal Dragon, id=Kiressh
 msgid "Kiressh"
-msgstr ""
+msgstr "奇略什"
