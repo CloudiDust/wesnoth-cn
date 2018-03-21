@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:28+0800\n"
+"PO-Revision-Date: 2018-03-21 22:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 #. [era]: id=era_dunefolk
 msgid "Default + Dunefolk"
-msgstr "默认 + 沙丘民"
+msgstr "默认 + 沙丘游民"
 
 #. [era]: id=era_dunefolk
 msgid ""
@@ -66,14 +66,14 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"此时代中除了默认时代的六大派系之外，还含有一个额外的派系。沙丘民单位不使用魔"
-"法，而是依赖于对地形的谨慎利用和晨昏时段的协同攻击。\n"
+"此时代中除了默认时代的六大派系之外，还含有一个额外的派系。沙丘游民单位不使用"
+"魔法，而是依赖于对地形的谨慎利用和晨昏时段的协同攻击。\n"
 "\n"
 "此时代仍在开发中，因此请务必报告出现的一切问题。"
 
 #. [era]: id=era_dunefolk_heroes
 msgid "Age of Heroes + Dunefolk"
-msgstr "英雄时代 + 沙丘民"
+msgstr "英雄时代 + 沙丘游民"
 
 #. [era]: id=era_dunefolk_heroes
 msgid ""
@@ -84,8 +84,8 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"此时代中除了英雄时代的六大派系之外，还含有一个额外的派系。沙丘民单位不使用魔"
-"法，而是依赖于对地形的谨慎利用和晨昏时段的协同攻击。\n"
+"此时代中除了英雄时代的六大派系之外，还含有一个额外的派系。沙丘游民单位不使用"
+"魔法，而是依赖于对地形的谨慎利用和晨昏时段的协同攻击。\n"
 "\n"
 "此时代仍在开发中，因此请务必报告出现的一切问题。"
 
@@ -131,7 +131,7 @@ msgstr ""
 
 #. [multiplayer_side]: id=Dunefolk, type=random
 msgid "Dunefolk"
-msgstr "沙丘民"
+msgstr "沙丘游民"
 
 #. [multiplayer_side]: id=Dunefolk, type=random
 msgid ""
@@ -143,10 +143,10 @@ msgid ""
 "of the Loyalist faction, they make up for this with high mobility — "
 "especially on hilly terrains."
 msgstr ""
-"<bold>text='沙丘民'</bold>是由来自南方沙漠和丘陵的人类所组成的派系。他们缺少"
-"魔法使用者，而是专精于利用地形特征来进行晨昏时段的协同攻击。他们的队伍中有很"
-"多守序和边缘单位、治疗师、出手精准的近战武士以及令人恐惧的骑射弓手。沙丘民单"
-"位常常比保王党单位金贵，但他们以高机动性来弥补——尤其是在山丘地形之上。"
+"<bold>text='沙丘游民'</bold>是由来自南方沙漠和丘陵的人类所组成的派系。他们缺"
+"少魔法使用者，而是专精于利用地形特征来进行晨昏时段的协同攻击。他们的队伍中有"
+"很多守序和边缘单位、治疗师、出手精准的近战武士以及令人恐惧的骑射弓手。沙丘游"
+"民单位常常比保王党单位金贵，但他们以高机动性来弥补——尤其是在山丘地形之上。"
 
 #. [multiplayer_side]: id=Knalgan Alliance, type=random
 msgid "Knalgan Alliance"

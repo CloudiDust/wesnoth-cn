@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 21:30+0300\n"
-"PO-Revision-Date: 2018-03-21 00:23+0800\n"
+"PO-Revision-Date: 2018-03-21 22:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4668,23 +4668,23 @@ msgstr ""
 #. [race]: id=dunefolk
 #. [race]: id=khalifate
 msgid "race^Dunefolk Human"
-msgstr "沙丘民"
+msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
 #. [race]: id=khalifate
 msgid "race+female^Dunefolk Human"
-msgstr "沙丘民"
+msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
 #. [race]: id=khalifate
 msgid "race+plural^Dunefolk"
-msgstr "沙丘民"
+msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
 msgid ""
 "The Dunefolk are a human culture inhabiting the dry deserts in the southern "
 "region of the Great Continent."
-msgstr "沙丘民是居住在泰陆南部区域的干燥沙漠中的人类文化。"
+msgstr "沙丘游民是居住在泰陆南部区域的干燥沙漠中的人类文化。"
 
 #. [race]: id=khalifate
 msgid "This race does not have a description yet."
