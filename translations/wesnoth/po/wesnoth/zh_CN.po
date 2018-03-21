@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 21:31+0300\n"
-"PO-Revision-Date: 2018-03-21 00:26+0800\n"
+"PO-Revision-Date: 2018-03-21 23:03+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1093,15 +1093,15 @@ msgstr ""
 
 #. [option]
 msgid "Defend a location..."
-msgstr "把守地点……"
+msgstr "把守位置……"
 
 #. [print]
 msgid "Right-click to select a location to defend"
-msgstr "右击以选择要把守的地点"
+msgstr "右击以选择要把守的位置"
 
 #. [set_menu_item]: id=ai_controller_defend_location_picker
 msgid "Defend this location"
-msgstr "把守此地点"
+msgstr "把守此位置"
 
 #. [command]
 msgid "focusing on defending the area around $x1|,$y1|."
@@ -1109,7 +1109,7 @@ msgstr "注重把守$x1|,$y1|周围的区域。"
 
 #. [print]
 msgid "Location selection canceled"
-msgstr "地点选择已取消"
+msgstr "位置选择已取消"
 
 #. [revoke_objective_orders]
 msgid "Clear objective orders"
@@ -1157,13 +1157,13 @@ msgid "Set special orders..."
 msgstr "设置特殊命令……"
 
 msgid "Move leader to..."
-msgstr "把首领移动至……"
+msgstr "移动首领至……"
 
 msgid "Right-click to select a location to move leader to"
-msgstr "右击以选择首领移动的目标地点"
+msgstr "右击以选择移动首领的目标位置"
 
 msgid "Move leader here"
-msgstr "把首领移动到此处"
+msgstr "移动首领至此"
 
 msgid "moving leader to $x1|,$y1|."
 msgstr "把首领移动到$x1|,$y1|。"
