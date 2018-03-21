@@ -402,7 +402,7 @@ msgid ""
 "Translation: Those Ogres are mean!  We better stay away from them and their "
 "young."
 msgstr ""
-"哟哇！\n"
+"吆嗷！\n"
 "翻译：这些食人魔很卑鄙！我们最好离他们和他们的幼崽远些。"
 
 #. [test]: id=bottleneck_defense
@@ -419,7 +419,7 @@ msgstr "好了，伙计们。得制止这些兽人。"
 
 #. [event]
 msgid "They there!  We them get!"
-msgstr "它们那儿，我们他们捉！"
+msgstr "它们那儿，我们它们捉！"
 
 #. [event]
 msgid ""
@@ -449,7 +449,7 @@ msgid ""
 "that?"
 msgstr ""
 "这个场景中，扮演东方人类的AI接到指示，将在通路处组成一道防线，尽可能地拖住兽"
-"人。你想亲自扮演兽人阵营，还是让默认（RCA）AI来扮演？"
+"人。你想亲自控制兽人阵营，还是让默认（RCA）AI来控制？"
 
 #. [option]
 msgid "<span font='16'>I'll watch the two AIs fight it out.</span>"
