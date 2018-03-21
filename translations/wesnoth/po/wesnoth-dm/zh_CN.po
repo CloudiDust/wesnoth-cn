@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:20+0800\n"
+"PO-Revision-Date: 2018-03-21 23:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -801,7 +801,7 @@ msgstr "哈罗德"
 
 #. [objective]: condition=win
 msgid "Move Delfador to the signpost in the northeast"
-msgstr "把德法多送到东北路标处"
+msgstr "移动德法多至东北方路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Lionel"
@@ -1029,7 +1029,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Move Delfador to Ur-Thorodor’s castle"
-msgstr "把德法多移动到乌-索罗多的城堡里"
+msgstr "移动德法多至乌-索罗多的城堡内"
 
 # This is only a sounds-like translation. More recommendations welcome.
 #. [objective]: condition=lose
@@ -1176,11 +1176,11 @@ msgstr "探索死者之地"
 
 #. [objective]: condition=win
 msgid "Have Delfador claim the magical artifact, then move him to the signpost"
-msgstr "让德法多获得魔法物品，而后把他移动到路标处"
+msgstr "让德法多获得魔法物品，而后移动他至路标处"
 
 #. [objective]: condition=win
 msgid "Move Delfador to the signpost"
-msgstr "把德法多移动到路标处"
+msgstr "移动德法多至路标处"
 
 #. [note]
 msgid "Delfador must visit a village himself to find if help is there"
@@ -1931,7 +1931,7 @@ msgstr "我注意到了国王的旨意。我的人现在听从您的指挥。"
 
 #. [message]: speaker=narrator
 msgid "To wake up the mages, move a unit near their tower."
-msgstr "为了叫醒法师，请将一个单位移动到他们的塔旁。"
+msgstr "为了叫醒法师，移动一个单位至他们的塔旁。"
 
 #. [message]: role=Teacher
 msgid "What are you doing here, disturbing our peace and concentration?"
@@ -3162,8 +3162,8 @@ msgid ""
 "Far sooner than he would have believed possible they reached their "
 "destination, undetected by Iliah-Malal."
 msgstr ""
-"矮人把德法多带进了名副其实的迷宫地道里。德法多惊异的发现，矮人在地道里移动得"
-"如此之快。比他原以为的提早了很多，他们到达了目的地，并且没有被伊利阿-玛拉尔发"
+"矮人把德法多带进了名副其实的迷宫地道里。矮人在地道里飞快的移动速度让德法多大"
+"为吃惊。他们到达目的地时比他原以为的要早了很多，而且他们没有被伊利阿-玛拉尔发"
 "现。"
 
 #. [side]: type=Death Knight, id=Prepolur
@@ -3177,7 +3177,7 @@ msgstr "阿纳威姆-玛拉尔"
 #. [objective]: condition=win
 msgid ""
 "Move Delfador to close the Portal and then return everyone to the tunnel"
-msgstr "将德法多移去关闭传送门，之后让所有人回到地道里"
+msgstr "移动德法多去关闭传送门，之后让所有人回到地道里"
 
 #. [message]: speaker=Prepolur
 msgid ""

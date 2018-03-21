@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:30 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:21+0800\n"
+"PO-Revision-Date: 2018-03-21 23:50+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -318,7 +318,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Move Gweddry to the trapdoor"
-msgstr "将格温德利移动到活板门处"
+msgstr "移动格温德利至活板门处"
 
 #. [message]: speaker=Dacyn
 msgid "Hurry! We cannot defeat this evil today! We must escape!"
@@ -350,7 +350,7 @@ msgstr "努坦"
 
 #. [objective]: condition=win
 msgid "Move Gweddry to the tunnel exit"
-msgstr "将格温德利移动到隧道出口处"
+msgstr "移动格温德利至隧道出口"
 
 #. [note]
 msgid "Get moving quickly."
@@ -1639,7 +1639,7 @@ msgstr "击败敌方首领"
 
 #. [objective]: condition=win
 msgid "Move Dacyn to the stronghold"
-msgstr "将格温德利移动到要塞里"
+msgstr "移动格温德利至要塞中"
 
 #. [message]: speaker=Dacyn
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:29 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:19+0800\n"
+"PO-Revision-Date: 2018-03-21 23:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -117,8 +117,8 @@ msgid ""
 "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "这是主线战役“王座继承人”中“精灵受困”场景的再演绎，区别只在于此处是AI在控制科"
-"纳德的阵营。目标是将科纳德移动到西北方的路标处，同时要确保科纳德和德法多存"
-"活。此处使用的AI与<b>保护单位<b>场景中使用的AI相同。\n"
+"纳德的阵营。目标是移动科纳德至西北方路标处，同时要确保科纳德和德法多都存活。"
+"此处使用的AI与<b>保护单位<b>场景中使用的AI相同。\n"
 "\n"
 "注：保护单位AI是作为微AI来编写的。微AI可以只使用WML和[micro_ai]标签来加入到场"
 "景中，并根据场景的需要进行适配。请参阅http://wiki.wesnoth.org/Micro_AIs处的"
@@ -126,7 +126,7 @@ msgstr ""
 
 #. [event]
 msgid "Move Konrad here"
-msgstr "将科纳德移动到此处"
+msgstr "移动科纳德至此"
 
 #. [message]: speaker=unit
 msgid "Very well, we have made it this far! But where do we go next?"
@@ -542,7 +542,7 @@ msgstr ""
 
 #. [objectives]
 msgid "Move the bats around to explore how Rowck reacts"
-msgstr "四处移动蝙蝠来探查罗克的反应"
+msgstr "四处移动蝙蝠以探究罗克如何反应"
 
 #. [objective]: condition=win
 msgid "Defeat Rowck"
@@ -550,7 +550,7 @@ msgstr "击败罗克"
 
 #. [objective]: condition=win
 msgid "Move the lead bat to the signpost"
-msgstr "将蝙蝠首领移动到路标处"
+msgstr "移动蝙蝠首领至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of the bat leader"
@@ -575,7 +575,7 @@ msgid ""
 "There is nothing to do here, just watch or use this scenario as a template "
 "or for your own tests."
 msgstr ""
-"此场景表现了如下状况：地图上有太多单位，以至于默认AI在每次行动前，都会产生可"
+"此场景表现了如下状况：地图上有太多单位，以至于默认AI在每下一手前，都会产生可"
 "感知的延迟（大概会有几秒钟）。相比之下，快速微AI的延迟要短得多。为演示这一区"
 "别，阵营1由快速微AI扮演，而阵营2由默认（RCA）AI扮演。\n"
 "\n"
@@ -876,7 +876,7 @@ msgstr "懦夫4"
 
 #. [event]
 msgid "Move gryphons here to see different coward reactions"
-msgstr "把狮鹫移到此处以观察不同懦夫的反应"
+msgstr "移动狮鹫至此以观察不同懦夫的反应"
 
 #. [unit]: type=Troll, id=return1
 msgid "Return Guardian 1"
@@ -1025,7 +1025,7 @@ msgstr ""
 "下：\n"
 "- 如果在守卫的当前位置的“距离”之内没有敌人，则不行动。\n"
 "- 否则：如果敌人在守卫的“距离”范围内，但不在防守位置和驻地的相同距离内（所有"
-"条件同时满足），则把守卫向驻地移动。\n"
+"条件同时满足），则把守卫往驻地移动。\n"
 "- 否则：\n"
 "  - 选择离防守位置最近的敌方单位。\n"
 "  - 如果可以到达该单位身边，则挑选有最高防御值的邻近格子并从那儿发动进攻。\n"
@@ -1116,7 +1116,7 @@ msgstr ""
 
 #. [objectives]
 msgid "Move the Gryphons around to explore how the guardians react"
-msgstr "让狮鹫们四处移动以探究守卫如何反应"
+msgstr "四处移动狮鹫以探究守卫如何反应"
 
 #. [objective]: condition=win
 msgid "Defeat all enemy units"
@@ -1124,7 +1124,7 @@ msgstr "击败所有地方单位"
 
 #. [objective]: condition=win
 msgid "Move Kraa to the signpost"
-msgstr "把卡拉移动到路标处"
+msgstr "移动卡拉至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Kraa"
@@ -1388,7 +1388,7 @@ msgstr "击败所有潜伏者"
 
 #. [objective]: condition=win
 msgid "Move Pekzs to the signpost"
-msgstr "移动佩克兹斯到路标处"
+msgstr "移动佩克兹斯至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Pekzs"
@@ -1647,7 +1647,7 @@ msgstr "观察巡逻队，攻击他们，等等。"
 
 #. [objective]: condition=win
 msgid "Move Gertburt to the signpost"
-msgstr "将哥特巴特移动到路标处"
+msgstr "移动哥特巴特至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Gertburt"
@@ -1686,7 +1686,7 @@ msgstr "阔扎"
 
 #. [event]
 msgid "Move Rossauba here"
-msgstr "把罗扫巴移动到此"
+msgstr "移动罗扫巴至此"
 
 #. [event]
 msgid "There's that traitor wizard. Let's get him."
@@ -1959,8 +1959,7 @@ msgid ""
 msgstr ""
 "此场景演示了一个阵营在保护一名巫师的同时把他移动到一个目标位置。与此同时，另"
 "一个阵营经过了修改，会优先攻击该名巫师，哪怕有（按照默认AI判定）更合适的目标"
-"时也是如此。你可以观看两个AI对战，也可以接管任一阵营，以探索对方AI是如何行动"
-"的。"
+"时也是如此。你可以观看两个AI对战，也可以接管任一阵营，以探究对方AI如何行动。"
 
 #. [command]
 #. [set_menu_item]: id=m06a_protect
@@ -2124,13 +2123,13 @@ msgid ""
 "Information about each demonstration can be accessed by right-clicking on "
 "the respective signpost."
 msgstr ""
-"将我移动到任一个路标处，以进入微AI演示。\n"
+"移动我至任一个路标处以进入微AI演示。\n"
 "\n"
 "有关每个演示的信息可以通过右击相应的路标来访问。"
 
 #. [objective]: condition=win
 msgid "Move Grnk to one of the signposts"
-msgstr "将格隆克移动到路标之一处"
+msgstr "移动格隆克至路标之一处"
 
 #. [note]
 msgid "Right-click on a signpost to get information about the scenario"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-04 16:39 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:20+0800\n"
+"PO-Revision-Date: 2018-03-21 23:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -742,7 +742,7 @@ msgstr "库拉·欧班"
 
 #. [objective]: condition=win
 msgid "Move Malin to the end of the mountain pass"
-msgstr "将马林移动到山道的尽头"
+msgstr "移动马林至山道尽头"
 
 #. [objective]: condition=win
 msgid "Kill the orc leaders"
@@ -752,7 +752,7 @@ msgstr "击杀所有兽人首领"
 msgid ""
 "Orcs block the way out of the mountain pass. Destroy them, and we will move "
 "on to bigger targets."
-msgstr "兽人封锁了山路的出口。歼灭他们，之后我们将前去对付更大的目标。"
+msgstr "兽人封锁了山路的出口。歼灭他们，之后我们就去对付更大的目标。"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -1215,7 +1215,7 @@ msgstr "镇民"
 
 #. [objective]: condition=win
 msgid "Move Malin and Darken Volk into the Mage Lord’s manor"
-msgstr "将马林和达肯·沃克移进法师领主的庄园"
+msgstr "移动马林和达肯·沃克，进入法师领主的庄园"
 
 #. [note]
 msgid "This scenario takes place entirely at night."

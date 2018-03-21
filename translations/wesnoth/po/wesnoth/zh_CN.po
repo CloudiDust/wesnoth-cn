@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 21:31+0300\n"
-"PO-Revision-Date: 2018-03-21 23:03+0800\n"
+"PO-Revision-Date: 2018-03-21 23:39+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3965,7 +3965,7 @@ msgstr "停止播放"
 
 #. [action]: id=button-stopreplay, type=image
 msgid "pause after current move"
-msgstr "播放完当前手后暂停"
+msgstr "播放完当前一手后暂停"
 
 #. [action]: id=button-resetreplay, type=image
 msgid "Reset"
@@ -3989,7 +3989,7 @@ msgstr "下一阵营"
 
 #. [action]: id=button-nextside, type=image
 msgid "play side turn"
-msgstr "播放当前阵营回合"
+msgstr "播放阵营回合"
 
 #. [action]: id=button-nextmove, type=image
 msgid "Next Move"
@@ -3997,7 +3997,7 @@ msgstr "下一手"
 
 #. [action]: id=button-nextmove, type=image
 msgid "play single move"
-msgstr "进行下一手"
+msgstr "播放一手"
 
 #. [menu]: id=show-what
 msgid "Point of view"

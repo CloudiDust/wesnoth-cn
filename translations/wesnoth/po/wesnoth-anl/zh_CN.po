@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:20+0800\n"
+"PO-Revision-Date: 2018-03-21 23:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -120,8 +120,8 @@ msgid ""
 "spiders guarding each captive are currently wounded, the sooner you get "
 "there the better chance you have of killing them."
 msgstr ""
-"移动任意单位到俘虏旁边，他们便会加入你的阵营。看守俘虏的蜘蛛们现在受了伤，你"
-"越快到达那里，杀死它们的机会就越大。"
+"移动任意单位至俘虏处，他们便会加入你的阵营。看守俘虏的蜘蛛们现在受了伤，你越"
+"快到达那里，杀死它们的机会就越大。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -142,8 +142,7 @@ msgid ""
 "Move any unit onto these villages to destroy the mine. Each one you destroy "
 "will reduce the enemy’s income by 10."
 msgstr ""
-"移动任意单位到这些村庄里就可以摧毁矿场。每摧毁一个矿场将使敌人的收入减少10金"
-"币。"
+"移动任意单位至这些村庄以摧毁矿场。每摧毁一个矿场将使敌人的收入减少10枚金币。"
 
 #. [message]
 msgid "This battle is nearly at an end. Victory is close at hand!"
@@ -218,7 +217,7 @@ msgstr "农田"
 msgid ""
 "Farms can only be planted on grassland. Move a peasant onto a farm and he "
 "will begin to automatically harvest the cash crop."
-msgstr "农田只能开垦在草地上。把农民移动到农田上，他就会开始自动收割商品作物。"
+msgstr "农田只能开垦在草地上。移动农民至农田上，他就会开始自动收割商品作物。"
 
 #. [message]: speaker=narrator
 #. [option]
