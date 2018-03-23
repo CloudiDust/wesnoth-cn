@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:29+0800\n"
+"PO-Revision-Date: 2018-03-23 22:29+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1126,7 +1126,7 @@ msgstr "好的。现在，这里还有野生动物在游荡，我们得回洞穴
 
 #. [objective]: condition=win
 msgid "Move Thursagan to the signpost"
-msgstr "把瑟萨冈移动到路标处"
+msgstr "移动瑟萨冈至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Thursagan"
@@ -1961,11 +1961,11 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Move Rugnur to the northeast cave entrance"
-msgstr "把拉格纳移动到东北的山洞入口"
+msgstr "移动拉格纳至东北方洞穴入口处"
 
 #. [objective]: condition=win
 msgid "Move Alanin to the southern border east of the river"
-msgstr "把阿拉宁移动到河东边的南方边界"
+msgstr "移动阿拉宁至河东的南部边界"
 
 #. [message]: speaker=Rugnur
 msgid ""
@@ -2114,7 +2114,7 @@ msgid ""
 "we can lose the elves in the caves, they move so slow there. Once we get "
 "out, we’ll make our way back to Knalga."
 msgstr ""
-"我不知道会不会面临绝境。那个洞看起来很深，精灵在洞里走的那么慢，我们就可以甩"
+"我不知道会不会面临绝境。那个洞看起来很深，精灵在洞里走得那么慢，我们就可以甩"
 "掉他们。一旦成功逃脱，我们就回纳尔迦。"
 
 #. [message]: speaker=Rugnur
@@ -2456,7 +2456,7 @@ msgstr "那漂亮的金属石头是我的！滚开！"
 
 #. [objective]: condition=win
 msgid "Move Thursagan to the forge"
-msgstr "把瑟萨冈移动到熔炉处"
+msgstr "移动瑟萨冈至熔炉处"
 
 #. [objective]: condition=win
 msgid "Defend Thursagan until the Sceptre of Fire is complete"
@@ -2608,7 +2608,7 @@ msgstr "那大概是魔法物件。攻击他们！"
 
 #. [objective]: condition=win
 msgid "Move onto the glyph in the center of the volcano"
-msgstr "移动到火山中央的魔法符上"
+msgstr "移动至火山中央的魔法符上"
 
 #. [message]: speaker=Thursagan
 msgid "That’s it! The volcano will erupt soon now that you’ve triggered it."

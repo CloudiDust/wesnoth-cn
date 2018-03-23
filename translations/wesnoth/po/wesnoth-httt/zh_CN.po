@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:30 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:25+0800\n"
+"PO-Revision-Date: 2018-03-23 22:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2286,7 +2286,7 @@ msgstr "雅碧滩"
 
 #. [objective]: condition=win
 msgid "Move Konrad to the north side of the river"
-msgstr "将科纳德移动到河的北面"
+msgstr "移动科纳德至河北面"
 
 #. [side]: type=Orcish Warlord, id=Gaga-Breuk
 msgid "Gaga-Breuk"
@@ -2677,7 +2677,7 @@ msgstr "矮人国门"
 
 #. [objective]: condition=win
 msgid "Move Konrad to the entrance of the dwarven tunnels"
-msgstr "将科纳德移动到矮人坑道的入口处"
+msgstr "移动科纳德至矮人坑道入口处"
 
 #. [side]: type=Orcish Slurbow, id=Knafa-Telfar
 msgid "Knafa-Telfar"
@@ -4136,7 +4136,7 @@ msgstr "悉听尊便，殿下。"
 msgid ""
 "If you want to choose the river path later, move a merman to the right end "
 "of the river again."
-msgstr "如果之后您还想选择水路的话，请再次把一位人鱼移动到河的最右端。"
+msgstr "如果之后您还想选择水路的话，请再次移动一位人鱼到河的最右端。"
 
 #. [scenario]: id=19a_Snow_Plains
 msgid "Snow Plains"
@@ -5253,7 +5253,7 @@ msgstr "地下通道"
 
 #. [objective]: condition=win
 msgid "Find the exit from the underground and move Konrad to it"
-msgstr "找到地下世界的出口，并把科纳德移动到那里"
+msgstr "找到地下世界的出口，并移动科纳德至该处"
 
 #. [objective]: condition=win
 msgid "Help the Wose fend off the undead attack"

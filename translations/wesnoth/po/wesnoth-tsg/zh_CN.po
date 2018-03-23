@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:35+0800\n"
+"PO-Revision-Date: 2018-03-23 22:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -189,8 +189,8 @@ msgid ""
 "Whenever you see a target that looks like this, you should move your leader "
 "(or whatever unit the dialog just suggested) onto the hex that contains it."
 msgstr ""
-"每当你看到一个像这样的目标时，你应该将你的领袖（或对话中刚指出的随便什么单"
-"位）移动到包含它的格子上。"
+"每当你看到一个像这样的目标时，你应该将你的首领（或对话中刚指出的随便什么单"
+"位）移动至包含它的格子上。"
 
 #. [message]: speaker=Urza Mathin
 msgid ""
@@ -783,12 +783,12 @@ msgid ""
 "a force strong enough to drive off the bandits before moving Deoran from his "
 "encampment!"
 msgstr ""
-"你必须将德欧兰移动到精灵堡垒的中心。在将德欧兰从营地里移动出来之前，确保征募"
+"你必须将德欧兰移动至精灵堡垒的中心。在将德欧兰从营地里移动出来之前，确保征募"
 "一支足以驱逐土匪的强大军队！"
 
 #. [objective]: condition=win
 msgid "Move Deoran to the elvish city in the northern woods"
-msgstr "将德欧兰移动到北面丛林中的精灵城市"
+msgstr "移动德欧兰至北方丛林中的精灵城市处"
 
 #. [message]: speaker=Deoran
 msgid "There is so much ground to cover. If only our riders would arrive!"
@@ -1026,7 +1026,7 @@ msgstr "扫除泪滴山谷之敌"
 
 #. [objective]: condition=win
 msgid "Move Ethiliel to Mebrin’s village"
-msgstr "将艾茜丽尔移动到梅布林的村庄"
+msgstr "移动艾茜丽尔至梅布林的村庄处"
 
 #. [objective]: condition=lose
 msgid "Death of Ethiliel"
@@ -1665,7 +1665,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Move Sir Gerrick to the north end of the woods"
-msgstr "将格里克爵士移动到丛林北端"
+msgstr "移动格里克爵士至丛林北端"
 
 #. [objective]: condition=win
 msgid "Defeat the Queen Xeila"
@@ -2381,7 +2381,7 @@ msgstr "回归克拉斯"
 
 #. [objective]: condition=win
 msgid "Move Deoran into Kerlath Province"
-msgstr "将德欧兰移进克拉斯行省"
+msgstr "移动德欧兰，进入克拉斯行省"
 
 #. [side]: type=Outlaw, id=Tharzo Kalain
 msgid "Tharzo Kalain"

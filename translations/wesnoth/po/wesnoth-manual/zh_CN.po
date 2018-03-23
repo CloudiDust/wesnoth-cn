@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2018-02-12 20:02+0300\n"
-"PO-Revision-Date: 2018-03-21 23:12+0800\n"
+"PO-Revision-Date: 2018-03-23 22:24+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1105,7 +1105,7 @@ msgstr "l"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid "Move to leader unit"
-msgstr "移动到首领单位"
+msgstr "移动至首领单位处"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid "Shift+s"
@@ -1221,7 +1221,7 @@ msgstr "1-7"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid "Show how far currently selected unit can move in that many turns"
-msgstr "数字N显示当前选中的单位在接下去的N回合中可能移动到的位置。"
+msgstr "显示当前选中单位在这么多回合中可以移动多远。"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 msgid "Space"

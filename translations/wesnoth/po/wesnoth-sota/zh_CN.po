@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:33+0800\n"
+"PO-Revision-Date: 2018-03-23 22:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -232,7 +232,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Move Ardonna to the signpost"
-msgstr "将阿冬娜移动到路标处"
+msgstr "移动阿冬娜至路标处"
 
 #. [note]
 msgid "This scenario takes place entirely at night."
@@ -1048,7 +1048,7 @@ msgstr "洞穴后面有条隧道！那鬼魂肯定是通过了它。"
 
 #. [objective]: condition=win
 msgid "Move Ardonna to the tunnel"
-msgstr "将阿冬娜移动到隧道"
+msgstr "移动阿冬娜至隧道处"
 
 #. [message]: speaker=Ardonna
 msgid "So it’s only bats, but rather a lot of them."
@@ -1945,7 +1945,7 @@ msgstr "伊丝忒馨妮尔"
 
 #. [objective]: condition=win
 msgid "Move Ardonna to the northeast corner of the map"
-msgstr "将阿冬娜移动到地图的东北角"
+msgstr "移动阿冬娜至地图东北角"
 
 #. [message]: speaker=Isthiniel
 msgid ""
@@ -2281,7 +2281,7 @@ msgstr "狮鹫"
 
 #. [objective]: condition=win
 msgid "Move Ardryn-Na and Ras-Tabahn to level ground in the northeast corner"
-msgstr "将阿德琳-娜和拉斯-塔班移动到东北角的平地处"
+msgstr "移动阿德琳-娜和拉斯-塔班至东北角平地处"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "There are some... large bones there. Claws and wings... I think."
@@ -2653,7 +2653,7 @@ msgstr "蜘蛛"
 
 #. [objective]: condition=win
 msgid "Move Ardryn-Na and Ras-Tabahn to the west end of the cave"
-msgstr "将阿德琳-娜和拉斯-塔班移动到洞穴的西端"
+msgstr "移动阿德琳-娜和拉斯-塔班至洞穴西端"
 
 #. [note]
 msgid ""

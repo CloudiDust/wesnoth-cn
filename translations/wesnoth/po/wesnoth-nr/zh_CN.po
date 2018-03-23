@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:29+0800\n"
+"PO-Revision-Date: 2018-03-23 22:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -875,7 +875,7 @@ msgstr "好的。"
 
 #. [objective]: condition=win
 msgid "Move Tallin within five hexes of Hamel to speak with him"
-msgstr "将塔林移动到哈梅尔的五格距离之内以与他交谈"
+msgstr "移动塔林至哈梅尔的五格距离之内以与他交谈"
 
 #. [message]: speaker=Hamel
 msgid "Well met, Tallin. My men have told me of your victory against Al’Tar."
@@ -5502,7 +5502,7 @@ msgstr "不知感恩的臭丫头！我真想把你的脖子拧断！"
 msgid ""
 "Make one move towards me, lich, and you’ll find yourself dangling off the "
 "end of a vine."
-msgstr "你向我走一步试试，巫妖，你会发现你正往自己脖子上套绳圈。"
+msgstr "要是你敢动我，巫妖，你会发现你正往自己脖子上套绳圈。"
 
 #. [message]: speaker=Stalrag
 msgid ""
@@ -5578,7 +5578,7 @@ msgstr "好了，在这里逗留也没用。我们回纳尔迦吧。"
 
 #. [objective]: condition=win
 msgid "Move Tallin to the Signpost in the north"
-msgstr "把塔林带到北边的路牌"
+msgstr "移动塔林至北方路标处"
 
 #. [message]: role=Supporter
 msgid "Hey look, it’s a troll!"
@@ -6571,8 +6571,8 @@ msgid ""
 "Easily, princess. We shall move unseen through the trees, overtake him, and "
 "put an end to his flight."
 msgstr ""
-"这不难，公主。我们可以在树之间无声的行进，追上他，拦住他的去路，给他的征程画"
-"上终止符。"
+"这不难，公主。我们可以在树之间匿踪行进，追上他，拦住他的去路，给他的征程画上"
+"终止符。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -6620,7 +6620,7 @@ msgstr "来吧，让他们去死！"
 
 #. [message]: speaker=Gore
 msgid "Move, you stupid orcs! I am trying to recruit here!"
-msgstr "快点，你们这些傻瓜兽人！我要在此招募新兵！"
+msgstr "快点，你们这些傻瓜兽人！我要在此征募新兵！"
 
 #. [message]: speaker=Rash
 msgid "Suit yourself, you dumb troll!"

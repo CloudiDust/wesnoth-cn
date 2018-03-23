@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:33+0800\n"
+"PO-Revision-Date: 2018-03-23 22:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -432,7 +432,7 @@ msgstr "抵抗到你的人做好撤离准备"
 
 #. [objective]: condition=win
 msgid "Then move Kapou’e to the signpost in the Northeast"
-msgstr "把卡破尔移动到东北尽头的路标处"
+msgstr "之后移动卡破尔至东北方路标处"
 
 #. [message]: role=Helper
 msgid ""
@@ -446,7 +446,7 @@ msgstr "该当差不多了。我们走吧！"
 
 #. [objective]: condition=win
 msgid "Move Kapou’e to the signpost in the Northeast"
-msgstr "把卡破尔移动到地图东北尽头的路标处"
+msgstr "移动卡破尔至东北方路标处"
 
 #. [message]: speaker=Kapou'e
 msgid "We’ll be back, you foul mud-sucking humans!"
@@ -468,7 +468,7 @@ msgstr "翻越海格山区"
 
 #. [objective]: condition=win
 msgid "Move Kapou’e to the end of the mountains"
-msgstr "将卡破尔移动到山脉尽头"
+msgstr "移动卡破尔至山脉尽头"
 
 #. [objectives]
 #. [objective]: condition=win
@@ -605,7 +605,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Move Kapou’e to the end of the mountains or"
-msgstr "把卡破尔移动到山脉尽头或者"
+msgstr "移动卡破尔至山脉尽头或"
 
 #. [objective]: condition=lose
 msgid "Death of Grüü"
@@ -615,7 +615,7 @@ msgstr "咕噜阵亡"
 msgid ""
 "In this scenario, you may ask Grüü to move to any hex by right-clicking on "
 "that hex."
-msgstr "在本关卡里，你可以右击选定的格子，安排咕噜向那个格子移动"
+msgstr "在此场景中，你可以右击任意格子，以命令咕噜移动至该格。"
 
 #. [message]: speaker=Grüü
 msgid "Father! Oh no!"
@@ -2791,7 +2791,7 @@ msgstr "击败所有反抗首领并且……"
 
 #. [objective]: condition=win
 msgid "Then move Kapou’e to the signpost in the southwest"
-msgstr "把卡破尔移动到地图西南尽头的路标处"
+msgstr "移动卡破尔至西南方路标处"
 
 #. [side]: type=Orcish Warlord, id=Braga
 msgid "Braga"
@@ -2951,7 +2951,7 @@ msgstr "现在赶紧上路吧，我们还与饭桶有个约会。"
 
 #. [objective]: condition=win
 msgid "Move Kapou’e to the signpost in the southwest"
-msgstr "把卡破尔移动到地图西南尽头的路标"
+msgstr "移动卡破尔至西南方路标处"
 
 #. [message]: speaker=Kapou'e
 msgid ""

@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 23:13+0800\n"
+"PO-Revision-Date: 2018-03-23 22:50+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1623,7 +1623,7 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Marksman, race=elf
 msgid "Elvish Marksman"
-msgstr "精灵神射手"
+msgstr "精灵精准射手"
 
 #. [unit_type]: id=Elvish Marksman, race=elf
 msgid ""
@@ -1639,7 +1639,7 @@ msgstr ""
 
 #. [female]
 msgid "female^Elvish Marksman"
-msgstr "精灵神射手"
+msgstr "精灵精准射手"
 
 #. [unit_type]: id=Elvish Marshal, race=elf
 msgid "Elvish Marshal"
@@ -1854,9 +1854,9 @@ msgstr ""
 "身材一样大。只有疯子才愿意和他们遭遇，但地精们则付出了很大的代价，终于成功地"
 "驯服并驾驭了它们。\n"
 "\n"
-"通常狼爪并不被认为很危险，但长在这些巨兽身上的爪子又厚又长，比钢钉有过之"
-"而无不及。骑手在它们的前爪上涂毒，跟兽人刺客用的一样，使得这些野兽前爪的猛击"
-"成为最致命的攻击。"
+"通常狼爪并不被认为很危险，但长在这些巨兽身上的爪子又厚又长，比钢钉有过之而无"
+"不及。骑手在它们的前爪上涂毒，跟兽人刺客用的一样，使得这些野兽前爪的猛击成为"
+"最致命的攻击。"
 
 #. [unit_type]: id=Goblin Impaler, race=goblin
 msgid "Goblin Impaler"

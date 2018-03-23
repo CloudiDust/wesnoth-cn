@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:35+0800\n"
+"PO-Revision-Date: 2018-03-23 22:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -149,11 +149,11 @@ msgstr ""
 
 #. [event]
 msgid "Move Konrad next to Delfador."
-msgstr "将科纳德移动到德法多身边。"
+msgstr "移动科纳德至德法多身边。"
 
 #. [event]
 msgid "Move Li’sar next to Delfador."
-msgstr "将莉莎移动到德法多身边。"
+msgstr "移动莉莎至德法多身边。"
 
 #. [message]: speaker=student
 msgid "Good morning, Delfador! Is it time to attack things?"
@@ -330,11 +330,11 @@ msgstr ""
 
 #. [event]
 msgid "Move Konrad to a nearby village"
-msgstr "将科纳德移动到附近的村庄里"
+msgstr "移动科纳德至附近村庄里"
 
 #. [event]
 msgid "Move Li’sar to a nearby village"
-msgstr "将莉莎移动到附近的村庄里"
+msgstr "移动莉莎至附近村庄里"
 
 #. [message]: speaker=narrator
 msgid "Villages"
@@ -385,11 +385,11 @@ msgstr ""
 
 #. [event]
 msgid "Move Konrad to the keep"
-msgstr "将科纳德移动到城堡主楼"
+msgstr "移动科纳德至城堡主楼"
 
 #. [event]
 msgid "Move Li’sar to the keep"
-msgstr "将莉莎移动到城堡主楼"
+msgstr "移动莉莎至城堡主楼"
 
 #. [message]: speaker=narrator
 msgid "Recruiting"

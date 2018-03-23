@@ -5,13 +5,13 @@
 # MrKing <yideey@gmail.com>, 2012.
 # Brian Lee <haiyuan.2007@gmail.com>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-16 19:49+0800\n"
+"PO-Revision-Date: 2018-03-23 22:55+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -11319,7 +11319,7 @@ msgstr "嘿，卡勒，写的如何？"
 
 #. [message]: speaker=Kaleh
 msgid "Actually I just finished."
-msgstr "我刚结束呢。"
+msgstr "实际上我刚写完。"
 
 #. [message]: speaker=Nym
 msgid "You’ve been working on that thing for months. I’m impressed."
@@ -11349,7 +11349,7 @@ msgstr "我们去找找看，来啊！"
 
 #. [objective]: condition=win
 msgid "Rescue Surviving Elves"
-msgstr "解救幸存者"
+msgstr "解救幸存精灵"
 
 #. [objective]: condition=win
 msgid "Kaleh Must Reach the Northern Edge of the Desert"
@@ -11357,7 +11357,7 @@ msgstr "卡勒必须到达沙漠的北部边缘"
 
 #. [objective]: condition=win
 msgid "Defeat Outlaw Leader"
-msgstr "打败流寇首领"
+msgstr "击败游寇首领"
 
 #. [objective]: condition=win
 msgid "Survive Until Dawn (or)"
@@ -11382,15 +11382,15 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Explore Underground"
-msgstr "地下探险"
+msgstr "探索地下"
 
 #. [objective]: condition=win
 msgid "Defeat all Enemies"
-msgstr "打倒所有敌人"
+msgstr "击败所有敌人"
 
 #. [objective]: condition=win
 msgid "Kill Troll Leader"
-msgstr "杀死巨魔首领"
+msgstr "击杀巨魔首领"
 
 # 游戏中双日之下没有出现中文
 #. [message]: speaker=narrator
@@ -11428,7 +11428,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Kill Dwarf Chieftain"
-msgstr "杀死矮人首领"
+msgstr "击杀矮人首领"
 
 #. [objective]: condition=win
 msgid "Choose a Unit to Take the Fire Blade"
@@ -11440,11 +11440,11 @@ msgstr "逃离洞窟"
 
 #. [objective]: condition=win
 msgid "Explore Outside"
-msgstr "探索外面"
+msgstr "探索外部"
 
 #. [objective]: condition=lose
 msgid "If a human messenger escapes the valley"
-msgstr "人类信使逃脱山谷"
+msgstr "若一名人类信使从山谷逃脱"
 
 #. [unit_type]: id=Corrupted Elf, race=elf
 #. [unit_type]: id=Corrupted Quenoth Elf, race=elf
@@ -11573,7 +11573,7 @@ msgstr ""
 
 #. [unit_type]: id=Desert Horseman, race=elf
 msgid "Desert Horseman"
-msgstr "沙漠骑兵"
+msgstr "沙漠骑师"
 
 #. [unit_type]: id=Desert Horseman, race=elf
 msgid ""
@@ -11582,7 +11582,7 @@ msgid ""
 "suited towards mounted combat than their old forests were, and through the "
 "generations the Elves have greatly increased their equestrian skills."
 msgstr ""
-"沙漠骑兵因更重型的装备而牺牲了一定的机动性能，他们更希望冲进危险之中，而不是"
+"沙漠骑师因更重型的装备而牺牲了一定的机动性能，他们更希望冲进危险之中，而不是"
 "远离。不是曾经的森林，而是开阔的沙地才能让他们更好地进行马上作战。经过世世代"
 "代的发展，精灵们的骑术已经有了很大的提高。"
 
@@ -11611,7 +11611,7 @@ msgstr "沙漠猎人"
 
 #. [unit_type]: id=Desert Marksman, race=elf
 msgid "Desert Marksman"
-msgstr "沙漠狙击手"
+msgstr "沙漠精准射手"
 
 #. [unit_type]: id=Desert Marksman, race=elf
 msgid ""
@@ -11620,12 +11620,12 @@ msgid ""
 "skill. This great skill with the bow compensates for their lack of skill in "
 "melee combat."
 msgstr ""
-"沙漠狙击手是用弓的专家。虽然他们的弓箭装备不如他们的祖先的那样精良，但是他们"
-"努力地磨练自己的技艺。他们出色的用弓技巧弥补了他们近战能力的不足。"
+"沙漠精准射手是用弓的专家。虽然他们的弓箭装备不如他们的祖先的那样精良，但是他"
+"们努力地磨练自己的技艺。他们出色的使弓技巧弥补了他们近战能力的不足。"
 
 #. [female]
 msgid "female^Desert Marksman"
-msgstr "沙漠狙击手"
+msgstr "沙漠精准射手"
 
 #. [unit_type]: id=Desert Marshal, race=elf
 #. [variation]
@@ -11658,7 +11658,7 @@ msgstr ""
 
 #. [unit_type]: id=Desert Prowler, race=elf
 msgid "Desert Prowler"
-msgstr "沙漠徘徊者"
+msgstr "沙漠潜行者"
 
 #. [unit_type]: id=Desert Prowler, race=elf
 msgid ""
@@ -11674,7 +11674,7 @@ msgstr ""
 #. [female]
 #. [unit_type]: id=Nym Prowler
 msgid "female^Desert Prowler"
-msgstr "沙漠巡游者"
+msgstr "沙漠潜行者"
 
 #. [unit_type]: id=Desert Ranger, race=elf
 msgid "Desert Ranger"
@@ -11709,13 +11709,13 @@ msgstr ""
 
 #. [unit_type]: id=Desert Scout, race=elf
 msgid "Desert Scout"
-msgstr "沙漠哨兵"
+msgstr "沙漠侦察兵"
 
 #. [unit_type]: id=Desert Scout, race=elf
 msgid ""
 "Desert Scouts move swiftly across the sands. Their skill on horseback is "
 "virtually unmatched, although they do lack power in combat."
-msgstr "沙漠哨兵在沙漠中移动迅速，虽然他们骑术出众，但是缺乏战斗能力。"
+msgstr "沙漠侦察兵在沙漠中移动迅速，虽然他们骑术出众，但是缺乏战斗能力。"
 
 #. [unit_type]: id=Desert Sentinel, race=elf
 msgid "Desert Sentinel"
@@ -11727,13 +11727,13 @@ msgid ""
 "is advantageous. They can cripple opponents with their bolas and are deadly "
 "with their swords."
 msgstr ""
-"沙漠护卫巡视沙漠，他们会在时机有利时驱逐敌人。沙漠护卫能用链球削弱敌人，然后"
+"沙漠哨兵巡视沙漠，他们会在时机有利时驱逐敌人。沙漠护卫能用链球削弱敌人，然后"
 "用剑取其性命。"
 
 #. [female]
 #. [unit_type]: id=Nym Sentinel
 msgid "female^Desert Sentinel"
-msgstr "沙漠护卫"
+msgstr "沙漠哨兵"
 
 #. [unit_type]: id=Desert Shaman, race=elf
 msgid "female^Desert Shaman"
@@ -11792,9 +11792,10 @@ msgid ""
 "gliding unencumbered across almost any terrain. Eloh’s power also reduces "
 "the wounds that Desert Stars suffer when attacked."
 msgstr ""
-"沙漠之星是神圣和强大的仙子，拥有伊洛赐予的光芒，这光芒即使是在最黑暗的地方也"
-"不会磨灭。她们是伊洛光荣与力量的人间代表。和精灵仙子一样，她们也可以轻松地从"
-"空中掠过几乎所有的地形。在伊洛的保佑下，被攻击时她们所受的伤害会减小。"
+"沙漠之星是十分神圣而强大的仙子，以至于她们散发出伊洛之光，这光芒即便是在最黑"
+"暗的地方也不会熄灭。她们是伊洛光荣与力量的活体实证。和精灵仙子一样，她们也可"
+"以轻松地从空中掠过几乎所有的地形。在伊洛的保佑下，被攻击时她们所受的伤害会减"
+"小。"
 
 #. [unit_type]: id=Desert Star
 msgid "SPECIAL_NOTE^ It also gains a 10% bonus to resistance from all attacks."

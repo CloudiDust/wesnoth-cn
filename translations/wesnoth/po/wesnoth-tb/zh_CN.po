@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:34+0800\n"
+"PO-Revision-Date: 2018-03-23 22:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -783,7 +783,7 @@ msgstr "杀死黑暗巫师以拿到牢房钥匙"
 
 #. [objective]: condition=win
 msgid "Move Arvith to the cell with his brother to free him"
-msgstr "将阿维斯移动到关押他弟弟的牢房以解救他"
+msgstr "移动阿维斯至关押他弟弟的牢房以解救他"
 
 #. [objective]: condition=lose
 msgid "Death of Baran"
