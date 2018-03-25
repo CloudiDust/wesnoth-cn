@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-23 22:27+0800\n"
+"PO-Revision-Date: 2018-03-25 20:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6429,7 +6429,7 @@ msgstr "谨遵旨意，公主。"
 
 #. [message]: speaker=Tallin
 msgid "Very well, people. The road ahead is clear, onward to victory!"
-msgstr "很好，勇士们。前路坦荡，冲向胜利！"
+msgstr "很好，战士们。我们前路坦荡，向胜利进军！"
 
 #. [scenario]: id=11a_The_Eastern_Flank
 msgid "The Eastern Flank"
@@ -6692,7 +6692,7 @@ msgid ""
 "his fall had been an epic of valor and glory, worthy to be remembered in the "
 "songs of all the kindred races until the end of days."
 msgstr ""
-"海达尔身边散布着很多兽人的尸首，几个兽人军阀，一大群步兵和兽人勇士和弩手。他"
+"海达尔身边散布着很多兽人的尸首，几个兽人军阀，一大群步兵和兽人武士和弩手。他"
 "的武器折断了，盔甲也划满伤痕了。大家都看得出来他被捕时曾经历过怎样勇猛而荣耀"
 "的斗争。他的勇敢值得同族人永远传诵。"
 

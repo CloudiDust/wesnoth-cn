@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-23 22:55+0800\n"
+"PO-Revision-Date: 2018-03-25 20:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4160,7 +4160,7 @@ msgstr "矮人新兵"
 
 #. [message]: speaker=Dwarf Sergeant
 msgid "Do you know what the first task of any dwarven warrior is, runt?"
-msgstr "小子们，你们知道作为一个矮人勇士的第一个考验是什么吗？"
+msgstr "小子们，你们知道作为一位矮人武士的第一个考验是什么吗？"
 
 #. [message]
 msgid "Sir?"
@@ -12655,8 +12655,8 @@ msgid ""
 "skeletal horses were raised from the sands by unholy magic to spread fear "
 "and destruction."
 msgstr ""
-"他们是曾经驰骋平原的勇士，现在被邪恶的魔法唤醒，和他们的骷髅战马一起，去散播"
-"恐惧与破坏。"
+"他们是曾经驰骋平原的伟大武士，现在被邪恶的魔法唤醒，和他们的骷髅战马一起，去"
+"散播恐惧与破坏。"
 
 msgid " This unit is capable of basic healing and slowing dehydration."
 msgstr " 此单位有基本的疗伤能力，并能减缓脱水。"

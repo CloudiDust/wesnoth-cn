@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-23 22:36+0800\n"
+"PO-Revision-Date: 2018-03-25 20:28+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -616,7 +616,7 @@ msgstr "是啊，老大。只要能逃开那些蒙面的家伙，怎么样都好
 
 #. [message]: speaker=Tan-Malgar
 msgid "Be silent. We are orc warriors; we do not flee foes."
-msgstr "闭嘴。我们是兽人勇士；我们从不临阵脱逃。"
+msgstr "闭嘴。我们是兽人武士；我们从不临阵脱逃。"
 
 #. [message]: speaker=Tan-Uthkar
 msgid "But, given a choice, we fight the weaker foe first."
@@ -1936,7 +1936,7 @@ msgid ""
 "often used as envoys between dwarvish clans."
 msgstr ""
 "见证者的职责是作为矮人的历史之眼，矮人一族的历史是他们绝不与外人分享的深奥知"
-"识。见证者的存在鼓舞着矮人勇士，因为他们知道，自己的事迹（还有死亡）将会被记"
+"识。见证者的存在鼓舞着矮人武士，因为他们知道，自己的事迹（还有死亡）将会被记"
 "录下来。他们学习的是一种特意与同伴们不同的战斗风格，这种战斗风格用矮人们自夸"
 "的强壮来对付自己。见证者被看作是神圣的，他们经常担任矮人氏族之间的外交使节。"
 

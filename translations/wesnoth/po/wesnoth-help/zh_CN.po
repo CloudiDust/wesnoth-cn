@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 21:30+0300\n"
-"PO-Revision-Date: 2018-03-23 22:17+0800\n"
+"PO-Revision-Date: 2018-03-24 00:00+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3746,7 +3746,7 @@ msgstr "忠诚"
 
 #. [trait]: id=loyal
 msgid "Zero upkeep"
-msgstr "无维护费用"
+msgstr "零维护费用"
 
 #. [trait]: id=loyal
 msgid ""

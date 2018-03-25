@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-21 23:48+0800\n"
+"PO-Revision-Date: 2018-03-25 20:13+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -49,7 +49,7 @@ msgstr "挑战"
 
 #. [campaign]: id=Dead_Water
 msgid "Warrior"
-msgstr "勇士"
+msgstr "武士"
 
 #. [campaign]: id=Dead_Water
 msgid "Difficult"
@@ -2189,9 +2189,9 @@ msgid ""
 "invaders."
 msgstr ""
 "曾经无法抵抗入侵而被迫逃离礁沙城的部落回来了，他们已然成为了由老兵组成的钢铁"
-"之师，而领导他们的，更是一位勇士之王。旅途的疲惫被即将回家的喜悦一扫而光。人"
-"鱼们于夜间抵达了礁沙城外，他们发现港口有重兵把守，于是他们沿岸向南，到几座偏"
-"僻的村庄里打探侵略者的消息。"
+"之师，而领导他们的，更是一位武士王。旅途的疲惫被即将回家的喜悦一扫而光。人鱼"
+"们于夜间抵达了礁沙城外，他们发现港口有重兵把守，于是他们沿岸向南，到几座偏僻"
+"的村庄里打探侵略者的消息。"
 
 #. [message]: speaker=Nebthun
 msgid ""
@@ -2540,8 +2540,8 @@ msgid ""
 "strength allows them to be truly formidable in battle. They are also fast "
 "despite their heavy armor. Even skilled soldiers look upon them with awe."
 msgstr ""
-"勇者之王常常会成为他们所处时代的传奇。他们的技巧和力量让他们在战斗中所向披"
-"靡。虽然身披重甲，他们依然身手矫捷。甚至连技艺精湛的士兵们都对他们满怀敬畏。"
+"勇士王常常会成为他们所处时代的传奇。他们的技巧和力量让他们在战斗中所向披靡。"
+"虽然身披重甲，他们依然身手矫捷。甚至连技艺精湛的士兵们都对他们满怀敬畏。"
 
 #. [unit_type]: id=Merman Young King, race=merman
 msgid "Young King"
