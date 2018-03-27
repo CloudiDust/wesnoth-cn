@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-25 20:26+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -111,13 +111,13 @@ msgstr "哈德里克二世"
 msgid "Glildur"
 msgstr "基利达"
 
+#. [side]: type=Elvish Captain, id=Glildur
 #. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]: type=Elvish Marshal, id=Crintil
 #. [side]
-#. [side]: type=Elvish Captain, id=Glildur
+#. [side]: type=Elvish Marshal, id=Crintil
 msgid "Elves"
 msgstr "精灵"
 
@@ -722,8 +722,8 @@ msgstr "所有精灵都已经解决了。现在我该继续赶往城里去报告
 msgid "In the Dwarven City"
 msgstr "矮人城中"
 
-#. [unit]: type=Dwarvish Lord, id=Durstorn
 #. [side]: type=Dwarvish Lord, id=Durstorn
+#. [unit]: type=Dwarvish Lord, id=Durstorn
 msgid "Durstorn"
 msgstr "达司拓恩"
 
@@ -1130,7 +1130,7 @@ msgstr "移动瑟萨冈至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Thursagan"
-msgstr "瑟萨冈阵亡"
+msgstr "瑟萨冈死亡"
 
 #. [message]: speaker=Thursagan
 msgid "Well, now we are in the caves again! Come on, back south, to the city."

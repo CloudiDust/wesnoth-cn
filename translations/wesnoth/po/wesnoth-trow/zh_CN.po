@@ -14,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-04 16:40 UTC\n"
-"PO-Revision-Date: 2018-03-21 00:35+0800\n"
+"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -25,8 +25,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 2.0.6\n"
 
-#. [scenario]: id=22_The_Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_of_Wesnoth
+#. [scenario]: id=22_The_Rise_of_Wesnoth
 msgid "The Rise of Wesnoth"
 msgstr "韦诺崛起"
 
@@ -202,7 +202,7 @@ msgstr "哈德里克"
 
 #. [side]: type=Wesfolk Outcast, id=Wesfolk Leader
 msgid "Wesfolk Leader"
-msgstr "韦福克头领"
+msgstr "韦福克首领"
 
 #. [side]: type=Wesfolk Outcast, id=Wesfolk Leader
 msgid "Wesfolk"
@@ -210,25 +210,25 @@ msgstr "韦福克"
 
 #. [event]
 msgid "King Eldaric IV"
-msgstr "国王艾德睿克四世"
+msgstr "艾德睿克四世国王"
 
 #. [objective]: condition=win
 msgid "Defeat the Wesfolk Leader"
-msgstr "击败韦福克头领"
+msgstr "击败韦福克首领"
 
 #. [objective]: condition=lose
 msgid "Death of Prince Haldric"
-msgstr "哈德里克王子阵亡"
+msgstr "哈德里克王子死亡"
 
 #. [objective]: condition=lose
 msgid "Death of King Eldaric"
-msgstr "国王艾德睿克阵亡"
+msgstr "艾德睿克国王死亡"
 
 #. [message]: speaker=narrator
 msgid ""
 "The trouble seems to have finally reached to the heart of the Isle, to the "
 "isolated lands of King Eldaric IV."
-msgstr "动乱终于波及到了岛中央，这里与世隔绝，是国王艾德睿克四世的领地。"
+msgstr "动乱终于波及到了岛中央，这里与世隔绝，是艾德睿克四世国王的领地。"
 
 #. [message]: speaker=King Eldaric IV
 msgid ""
@@ -402,6 +402,8 @@ msgstr "坦-拉贝格"
 #. [side]: type=Orcish Warlord, id=Tan-Vrodis
 #. [side]: type=Orcish Warlord, id=Tan-Bok
 #. [side]: type=Orcish Warlord, id=Tan-Hogar
+#. [side]: type=Orcish Warlord, id=Tan-Gralg
+#. [side]: type=Orcish Warlord, id=Tan-Rugar
 #. [side]: type=Orcish Warlord, id=Tan-Vragar
 #. [side]: type=Orcish Warlord, id=Tan-Burg
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
@@ -413,8 +415,6 @@ msgstr "坦-拉贝格"
 #. [side]: type=Orcish Warlord, id=Tan-Erirt
 #. [side]: type=Orcish Warlord, id=Tan-Gagar
 #. [side]: type=Troll Warrior, id=Thruf
-#. [side]: type=Orcish Warlord, id=Tan-Gralg
-#. [side]: type=Orcish Warlord, id=Tan-Rugar
 #. [side]: type=Draug, id=General Heravan
 #. [side]: type=Orcish Warlord, id=Tan-Halg
 #. [side]: type=Orcish Warlord, id=Tan-Rinak
@@ -439,11 +439,11 @@ msgstr "托马斯"
 
 #. [objective]: condition=lose
 msgid "Death of King Eldaric IV"
-msgstr "国王艾德睿克四世阵亡"
+msgstr "艾德睿克四世国王死亡"
 
 #. [objective]: condition=lose
 msgid "Orcs kill the Wesfolk Leader"
-msgstr "兽人杀死韦福克头领"
+msgstr "兽人杀死韦福克首领"
 
 #. [message]: speaker=King Eldaric IV
 msgid ""
@@ -585,8 +585,8 @@ msgid "A Harrowing Escape"
 msgstr "悲伤撤离"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: id=Prince Haldric, type=Noble Commander
 #. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
+#. [side]: id=Prince Haldric, type=Noble Commander
 msgid "Refugees"
 msgstr "难民"
 
@@ -936,7 +936,7 @@ msgid ""
 "I’m Haldric; my father was King Eldaric IV in the lands northwest of here. "
 "Soldier, have you deserted your post?"
 msgstr ""
-"我是哈德里克；我的父亲是西北方土地上的国王艾德睿克四世。士兵，你是个逃兵吗？"
+"我是哈德里克；我的父亲是西北方土地上的艾德睿克四世国王。士兵，你是个逃兵吗？"
 
 #. [message]: speaker=Sir Ruddry
 msgid ""
@@ -1104,7 +1104,7 @@ msgid ""
 "I’m Haldric, my father was King Eldaric IV in the lands northwest of here. "
 "Soldier, aren’t you on the wrong side of the lines?"
 msgstr ""
-"我是哈德里克;我的父亲是西北方土地上的国王艾德睿克四世。士兵，你怎么跑到战线的"
+"我是哈德里克;我的父亲是西北方土地上的艾德睿克四世国王。士兵，你怎么跑到战线的"
 "这一边来了？"
 
 #. [message]: speaker=Sir Ladoc
@@ -1188,7 +1188,7 @@ msgstr "拉赛米斯塔"
 
 #. [objective]: condition=lose
 msgid "Death of Elilmaldur-Rithrandil"
-msgstr "艾利梅度•瑞斯温迪尔阵亡"
+msgstr "艾利梅度•瑞斯温迪尔死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1773,8 +1773,8 @@ msgstr "清水港"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
 #. [side]: type=Lieutenant, id=Commander Aethyr
-#. [side]: id=Prince Haldric, type=Noble Commander
 #. [side]: type=Grand Knight, id=King Addroran IX
+#. [side]: id=Prince Haldric, type=Noble Commander
 msgid "Humans"
 msgstr "人类"
 
@@ -1825,11 +1825,11 @@ msgstr "乘第三艘船撤退"
 
 #. [objective]: condition=lose
 msgid "Death of Lady Jessene"
-msgstr "洁欣小姐阵亡"
+msgstr "洁欣小姐死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Commander Aethyr"
-msgstr "艾瑟指挥官阵亡"
+msgstr "艾瑟指挥官死亡"
 
 #. [objective]: condition=lose
 msgid "Miss the Last Ship"
@@ -2486,7 +2486,7 @@ msgstr "南湾之冬"
 
 #. [side]: type=Grand Knight, id=King Addroran IX
 msgid "King Addroran IX"
-msgstr "国王艾德卓然九世"
+msgstr "艾德卓然九世国王"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -2730,7 +2730,7 @@ msgstr "火焰宝石"
 
 #. [objective]: condition=lose
 msgid "Death of King Addroran IX"
-msgstr "国王艾德卓然九世阵亡"
+msgstr "艾德卓然九世国王死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -2839,7 +2839,7 @@ msgstr "你现在可以招募人鱼了！"
 
 #. [objective]: condition=lose
 msgid "Death of Lord Typhon"
-msgstr "泰丰领主阵亡"
+msgstr "泰丰领主死亡"
 
 #. [message]: speaker=King Addroran IX
 msgid "Make haste. We must secure the frontier or it’s all over!"
@@ -4421,7 +4421,7 @@ msgstr "坦-利纳克"
 
 #. [objective]: condition=lose
 msgid "Death of Aethyr"
-msgstr "艾瑟阵亡"
+msgstr "艾瑟死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -4757,7 +4757,7 @@ msgid ""
 "Sheesh... What is your kind’s infatuation with rushing to an ‘honorable "
 "death’?"
 msgstr ""
-"我们要保证让一个兽人头领能够带着精灵已经“拥有”了火焰宝石的情报逃回绿岛。唉……"
+"我们要保证让一个兽人首领能够带着精灵已经“拥有”了火焰宝石的情报逃回绿岛。唉……"
 "为什么你们这么醉心于追求“光荣的死亡”呢？"
 
 #. [side]: type=Ancient Lich, id=Lich-Lord Jevyan

@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-21 22:43+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -825,7 +825,7 @@ msgstr "人类"
 
 #. [then]
 msgid "Death of your leader"
-msgstr "你的首领阵亡"
+msgstr "你的首领死亡"
 
 #. [then]
 msgid ""
@@ -835,7 +835,7 @@ msgstr "你的团队里只有一位首领，因此敌人不会竭尽全力进攻
 
 #. [else]
 msgid "Death of both of your team’s leaders"
-msgstr "你队首领全部阵亡"
+msgstr "你队首领全部死亡"
 
 #. [else]
 msgid ""
@@ -1730,7 +1730,7 @@ msgstr "撑过敌军的所有攻击"
 
 #. [objective]: condition=lose
 msgid "Death of your team leaders"
-msgstr "你队首领全部阵亡"
+msgstr "你队首领全部死亡"
 
 #. [note]
 msgid "Hint: Learning the enemy spawn points and types helps a lot."

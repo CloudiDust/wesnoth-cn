@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-04 16:39 UTC\n"
-"PO-Revision-Date: 2018-03-21 23:04+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -142,11 +142,11 @@ msgstr "精灵"
 msgid "Lomarfel"
 msgstr "洛玛菲尔"
 
-#. [side]: type=Orcish Sovereign, id=Rualsha
 #. [side]: type=Orcish Warrior, id=Urugha
 #. [side]: type=Orcish Slayer, id=Gharlsa
 #. [side]: type=Orcish Warlord, id=Gnargha
 #. [side]: type=Orcish Warlord, id=Krughnar
+#. [side]: type=Orcish Sovereign, id=Rualsha
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1146,8 +1146,8 @@ msgid ""
 "they scattered, and fled from the elves back to their fastnesses in the far "
 "north."
 msgstr ""
-"但鲁尔沙高估了他的军队的意志。随着首领的阵亡，他们作鸟兽散。兽人们从精灵那里"
-"逃离，撤退到了他们位于遥远北方的要塞。"
+"但鲁尔沙高估了他的军队的意志。随着首领战死，他们作鸟兽散。兽人们从精灵那里逃"
+"离，撤退到了他们位于遥远北方的要塞。"
 
 #. [message]: speaker=Erlornas
 msgid "It grieves me to take life, even of a barbarian such as Rualsha."

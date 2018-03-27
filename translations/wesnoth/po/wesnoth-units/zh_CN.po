@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-23 22:50+0800\n"
+"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -122,8 +122,8 @@ msgstr ""
 "行尸是在黑魔法下重新活动起来的死者的躯壳。虽然它们对受过训练的士兵而言不算是"
 "很大的威胁，但若看到原来的同志变成行尸的一员，至少说也是非常恐怖的事情。"
 
-#. [attack]: type=arcane
 #. [attack]: type=impact
+#. [attack]: type=arcane
 #. [attack]: type=fire
 #. [attack]: type=cold
 msgid "touch"
@@ -463,8 +463,8 @@ msgstr ""
 "价。这些龙人所穿戴的厚重板甲能够很好地防止他们受到那些足以穿透龙鳞的武器的伤"
 "害。"
 
-#. [attack]: type=pierce
 #. [attack]: type=blade
+#. [attack]: type=pierce
 msgid "halberd"
 msgstr "戟"
 
@@ -946,8 +946,8 @@ msgid ""
 "dancing through the ranks of the enemy, swords ripping and tearing at those "
 "around them. "
 msgstr ""
-"侵掠者进阶自游击士，他们以更高的标准要求自己。侵掠者不满足于仅仅牵制住敌人，"
-"他们将速度与侵略性结合，在敌阵中跳起血肉横飞的剑舞。 "
+"侵掠者进阶自散兵，他们以更高的标准要求自己。侵掠者不满足于仅仅牵制住敌人，他"
+"们将速度与侵略性结合，在敌阵中跳起血肉横飞的剑舞。 "
 
 #. [attack]: type=blade
 msgid "longsword"
@@ -1037,10 +1037,10 @@ msgid ""
 "for taking on only the most daring missions, Rangers are often heroes to the "
 "common troopers, an image they do not try to dissuade."
 msgstr ""
-"游侠是探险者中的精英，善于采用不间断的游击战术侵扰敌军。他们迅捷如风，勇猛如"
-"虎，能够协调一致地同时发动多重打击。以弓箭驱赶敌人，再以战斧将他们砍倒。游侠"
-"热衷于接受最勇敢的任务，因此总被军人们视为英雄，他们也有意识地维护着这样的形"
-"象。"
+"游侠是探险者中的精英，善于采用不间断的打了就跑战术侵扰敌军。他们迅捷如风，勇"
+"猛如虎，能够协调一致地同时发动多重打击。以弓箭驱赶敌人，再以战斧将他们砍倒。"
+"游侠热衷于接受最勇敢的任务，因此总被军人们视为英雄，他们也有意识地维护着这样"
+"的形象。"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 msgid "Dune Rider"
@@ -1091,7 +1091,7 @@ msgstr ""
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
 msgid "Dune Skirmisher"
-msgstr "沙丘游击士"
+msgstr "沙丘散兵"
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
 msgid ""
@@ -1101,9 +1101,9 @@ msgid ""
 "used to harry the flanks of opposing forces, and it is said to be easier to "
 "catch the wind in your hand than to catch a Skirmisher."
 msgstr ""
-"那些拥有娴熟侦察能力的浪游者会被提拔进游击士的行列。游击士放弃了弓术，专心训"
-"练出迅捷的脚力，借此灵活的在战斗中迎敌和脱出。他们主要被派来包抄敌军的侧翼，"
-"据说捕捉游击士的难度的难度甚于以手捉风。"
+"那些拥有娴熟侦察能力的浪游者会被提拔进散兵的行列。散兵放弃了弓术，专心训练出"
+"迅捷的脚力，借此灵活的在战斗中迎敌和脱出。他们主要被派来包抄敌军的侧翼，据说"
+"捕捉游击士的难度的难度甚于以手捉风。"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 msgid "Dune Soldier"
@@ -1869,9 +1869,9 @@ msgid ""
 "with a long spear to compensate for their short reach, and better armor to "
 "guard their diminutive frames."
 msgstr ""
-"地精常常被兽人作为扰乱敌方战线的游击队来使用。那些在最初的几场战斗后存活下来"
-"的地精装备了一根长矛以弥补自己打不到远处的缺点，还弄了一副好一点的铠甲来保护"
-"自己瘦小的身躯。"
+"地精常常被兽人作为扰乱敌方战线的散兵来使用。那些在最初的几场战斗后存活下来的"
+"地精装备了一根长矛以弥补自己打不到远处的缺点，还弄了一副好一点的铠甲来保护自"
+"己瘦小的身躯。"
 
 #. [unit_type]: id=Goblin Knight, race=wolf
 msgid "Goblin Knight"
@@ -4100,7 +4100,7 @@ msgstr ""
 
 #. [unit_type]: id=Saurian Flanker, race=lizard
 msgid "Saurian Flanker"
-msgstr "蜥蜴人侧击士"
+msgstr "蜥蜴人侧卫"
 
 #. [unit_type]: id=Saurian Flanker, race=lizard
 msgid ""
@@ -4134,7 +4134,7 @@ msgstr ""
 
 #. [unit_type]: id=Saurian Skirmisher, race=lizard
 msgid "Saurian Skirmisher"
-msgstr "蜥蜴人游击士"
+msgstr "蜥蜴人散兵"
 
 #. [unit_type]: id=Saurian Skirmisher, race=lizard
 msgid ""

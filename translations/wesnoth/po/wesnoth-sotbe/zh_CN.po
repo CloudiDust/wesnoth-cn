@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-23 22:35+0800\n"
+"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:32+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -97,7 +97,7 @@ msgstr "打败阿尔伯"
 
 #. [objective]: condition=lose
 msgid "Death of Kapou’e"
-msgstr "卡破尔阵亡"
+msgstr "卡破尔死亡"
 
 #. [side]: type=Orcish Leader, id=Kapou'e
 #. [side]: id=Kapou'e, type=Orcish Leader
@@ -609,7 +609,7 @@ msgstr "移动卡破尔至山脉尽头或"
 
 #. [objective]: condition=lose
 msgid "Death of Grüü"
-msgstr "咕噜阵亡"
+msgstr "咕噜死亡"
 
 #. [note]
 msgid ""
@@ -1300,10 +1300,11 @@ msgstr "到达东南方的绿洲"
 msgid "Ar-Dant"
 msgstr "亚单"
 
+#. [side]: type=Assassin, type=Rogue, id=Ar-Dant
+#. [side]
 #. [side]: type=Elvish Champion, id=Thelarion
 #. [side]: type=Dwarvish Steelclad, id=Darstang
 #. [side]: type=General, id=Earl Lanbec'h
-#. [side]
 #. [side]: type=General, id=Arthain
 #. [side]: type=Lieutenant, id=Hanak
 #. [side]: type=Bandit, id=Sagmar
@@ -1312,7 +1313,6 @@ msgstr "亚单"
 #. [side]: type=General, id=Georan
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
 #. [side]: type=Orcish Warlord, id=Shan Taum
-#. [side]: type=Assassin, type=Rogue, id=Ar-Dant
 msgid "Villains"
 msgstr "恶霸"
 
@@ -2266,11 +2266,11 @@ msgstr "以牙还牙"
 
 #. [objective]: condition=lose
 msgid "Death of Al’Brock"
-msgstr "奥伯克阵亡"
+msgstr "奥伯克死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Flar’Tar"
-msgstr "弗拉塔阵亡"
+msgstr "弗拉塔死亡"
 
 #. [side]: type=General, id=Arthain
 msgid "Arthain"
@@ -3300,7 +3300,7 @@ msgstr "杀了饭桶和兰贝契伯爵"
 
 #. [objective]: condition=lose
 msgid "Death of Howgarth III"
-msgstr "豪伽施三世阵亡"
+msgstr "豪伽施三世死亡"
 
 #. [part]
 msgid ""

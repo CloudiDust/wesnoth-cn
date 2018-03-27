@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-25 20:30+0800\n"
+"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -57,8 +57,8 @@ msgstr "普通"
 msgid "Challenging"
 msgstr "挑战"
 
-#. [advancement]: id=warrior_1
 #. [campaign]: id=Under_the_Burning_Suns
+#. [advancement]: id=warrior_1
 msgid "Warrior"
 msgstr "武士"
 
@@ -3285,16 +3285,16 @@ msgstr ""
 #. [then]
 #. [modify_unit]
 msgid "Troll Skirmisher"
-msgstr "巨魔游击兵"
+msgstr "巨魔散兵"
 
 #. [else]
 #. [modify_unit]
 msgid "Dwarf Skirmisher"
-msgstr "矮人游击兵"
+msgstr "矮人散兵"
 
 #. [else]
 msgid "Dwarf Thunderer"
-msgstr "矮人雷霆守卫"
+msgstr "矮人雷霆战士"
 
 #. [unit]: type=Dwarvish Explorer, id=Fundin
 msgid "Fundin"
@@ -3358,7 +3358,7 @@ msgstr ""
 
 #. [else]
 msgid "Dwarf Grenadier"
-msgstr "矮人雷霆守卫"
+msgstr "矮人掷弹兵"
 
 #. [message]: speaker=Dwarf Grenadier
 msgid ""
@@ -3614,10 +3614,10 @@ msgstr "你的人一到达指定位置，我就会启动机关。"
 msgid "Troll Brute"
 msgstr "狂暴巨魔"
 
+#. [event]
 #. [unit]: type=Troll
 #. [unit]: type=Troll Rocklobber
 #. [unit]: type=Troll Whelp
-#. [event]
 msgid "Troll Guard"
 msgstr "巨魔守卫"
 
@@ -3642,8 +3642,8 @@ msgstr "有入侵者！杀啊！"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Wounded Dwarf
+#. [message]: speaker=Kaleh
 msgid "Never!"
 msgstr "绝不！"
 
@@ -4046,9 +4046,9 @@ msgstr "矮人地界"
 msgid "Enemies"
 msgstr "敌人"
 
+#. [side]
 #. [side]: id=King Thurongar, type=Dwarvish Lord
 #. [side]: id=Great Leader Darmog, type=Great Troll
-#. [side]
 #. [side]: id=Melusand, type=Mermaid Diviner
 msgid "Allies"
 msgstr "同盟"
@@ -4120,11 +4120,11 @@ msgstr ""
 msgid "Once you done moving into position, Zurg will destroy wall."
 msgstr "一旦你靠近了那个位置，泽格就会打通那面墙。"
 
+#. [event]
 #. [unit]: type=Dwarvish Sentinel
 #. [unit]: type=Dwarvish Steelclad
 #. [unit]: type=Dwarvish Berserker
 #. [unit]: type=Dwarvish Dragonguard
-#. [event]
 msgid "Dwarf Guard"
 msgstr "矮人守卫"
 
@@ -12526,10 +12526,10 @@ msgstr ""
 "逝的仆从，主人可以把他部署在任意地方。"
 
 #. [unit_type]: id=EGhost
-#. [unit_type]: id=ESpectre
-#. [unit_type]: id=EWraith
 #. [unit_type]: id=ENightgaunt
 #. [unit_type]: id=EShadow
+#. [unit_type]: id=ESpectre
+#. [unit_type]: id=EWraith
 msgid "SPECIAL_NOTE^ This unit is able to move through solid stone walls."
 msgstr "此单位可以穿越坚硬的石墙。"
 

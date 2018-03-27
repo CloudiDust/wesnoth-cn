@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:30 UTC\n"
-"PO-Revision-Date: 2018-03-25 20:17+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -185,10 +185,10 @@ msgstr ""
 #. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=Lieutenant, id=Gweddry
 #. [side]: type=General, id=Konrad II
+#. [side]: type=Great Mage, id=Kaldor
 #. [side]: type=General, id=Halrad
 #. [side]: type=General, id=Halric
 #. [side]: type=General, id=Halrod
-#. [side]: type=Great Mage, id=Kaldor
 msgid "Wesnothians"
 msgstr "韦诺人"
 
@@ -197,8 +197,6 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Mal-Uldhar
 #. [side]
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat
-#. [side]: type=Dark Adept, id=Mal-Tar
-#. [side]: type=Dark Sorcerer, id=Mal-Kallat
 #. [side]: type=Lich, id=Mal-Telnarad
 #. [side]: type=Dark Sorcerer, id=Mal-Marak
 #. [side]: type=Dark Sorcerer, id=Mal-Galkar
@@ -220,6 +218,8 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Lich6
 #. [side]: type=Lich, id=Lich7
 #. [side]: type=Lich, id=Lich8
+#. [side]: type=Dark Adept, id=Mal-Tar
+#. [side]: type=Dark Sorcerer, id=Mal-Kallat
 msgid "Undead"
 msgstr "亡灵"
 
@@ -241,11 +241,11 @@ msgstr "保卫哨所"
 
 #. [objective]: condition=lose
 msgid "Death of Gweddry"
-msgstr "格温德利阵亡"
+msgstr "格温德利死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Dacyn"
-msgstr "达辛阵亡"
+msgstr "达辛死亡"
 
 #. [message]: speaker=Gweddry
 msgid "What? What is going on?"
@@ -565,7 +565,7 @@ msgstr "击败敌方首领"
 
 #. [objective]: condition=lose
 msgid "Death of Volas"
-msgstr "沃拉斯阵亡"
+msgstr "沃拉斯死亡"
 
 #. [message]: speaker=Volas
 msgid "Greetings, travelers! Welcome to my realm."
@@ -976,7 +976,7 @@ msgstr "击败亡灵首领"
 
 #. [objective]: condition=lose
 msgid "Death of Owaec"
-msgstr "欧瓦埃克阵亡"
+msgstr "欧瓦埃克死亡"
 
 #. [message]: speaker=Owaec
 msgid "Hail, Gweddry!"
@@ -1785,7 +1785,7 @@ msgstr "释放其他囚犯"
 
 #. [objective]: condition=lose
 msgid "Death of the escapees"
-msgstr "囚犯们阵亡"
+msgstr "逃出的囚犯们死亡"
 
 #. [message]: speaker=unit
 msgid "The door won't open from this side."
@@ -2198,7 +2198,7 @@ msgstr "将格温德利移动到维尔帝城堡里"
 
 #. [objective]: condition=lose
 msgid "Death of Konrad II"
-msgstr "科纳德二世阵亡"
+msgstr "科纳德二世死亡"
 
 #. [message]: speaker=Gweddry
 msgid ""
@@ -2591,7 +2591,7 @@ msgstr "击杀$liches_to_kill|名巫妖以暴露玛尔-拉瓦纳尔"
 
 #. [objective]: condition=lose
 msgid "Death of Konrad"
-msgstr "科纳德阵亡"
+msgstr "科纳德死亡"
 
 #. [objective]: condition=lose
 msgid "Letting any enemy unit onto your keep"

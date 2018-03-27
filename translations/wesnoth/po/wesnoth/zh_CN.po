@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 21:31+0300\n"
-"PO-Revision-Date: 2018-03-25 00:17+0800\n"
+"POT-Creation-Date: 2018-03-27 04:21+0300\n"
+"PO-Revision-Date: 2018-03-27 21:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3823,30 +3823,6 @@ msgstr "否"
 msgid "Screenshot"
 msgstr "截屏"
 
-#. [label]
-msgid "Name:"
-msgstr "名称："
-
-#. [label]
-msgid "Size:"
-msgstr "大小："
-
-#. [button]: id=browse_dir
-msgid "Screenshots..."
-msgstr "截屏……"
-
-#. [button]: id=browse_dir
-msgid "Browse the screenshots folder using a file manager"
-msgstr "使用文件管理器浏览截屏文件夹"
-
-#. [button]: id=save
-msgid "Save"
-msgstr "保存"
-
-#. [button]: id=ok
-msgid "Close"
-msgstr "关闭"
-
 #. [fonts]
 msgid "Lato"
 msgstr "Lato,DejaVu Sans,Andagii,Droid Sans Fallback"
@@ -4170,8 +4146,8 @@ msgid ""
 "level up. Early in a campaign, try to give killing blows to these units so "
 "you can get some high-level troops sooner."
 msgstr ""
-"拥有<b>聪慧</b>特质的单位升级需要的经验值比一般单位少。在战役早期，尝试把最后"
-"一击留给这些单位，那么你就可以更快拥有一些高等级部队了。"
+"拥有<b>聪慧</b>特质的单位升级需要的经验比一般单位少。在战役早期，尝试把最后一"
+"击留给这些单位，那么你就可以更快拥有一些高等级部队了。"
 
 #. [tip]
 msgid "<i>― King Konrad, 536YW</i>"
@@ -4186,7 +4162,7 @@ msgid ""
 msgstr ""
 "包围战术是非常有效的，特别是在对抗迅捷的对手之时。只要把两个单位放置在一个敌"
 "方单位相对的两侧，他们的控制区域就能将敌方单位的移动在所有方向上都限制在一"
-"格。不幸的是，你必须完全包围住游击士才能让他们无法动弹。"
+"格。不幸的是，你必须完全包围住散兵才能让他们无法动弹。"
 
 #. [tip]
 msgid "<i>― Memoirs of Gweddry, 627YW</i>"
@@ -4320,10 +4296,10 @@ msgid ""
 "poison will not be removed unless the unit regenerates, or begins a turn in "
 "a village or next to a unit with the <i>Cures</i> ability."
 msgstr ""
-"中毒的单位每回合会损失8点生命值，直到他们剩下1点生命值为止。如果毒性不解除，"
-"那他们将一直停留在鬼门关。治疗师可以避免中毒单位的状况恶化，但除非中毒单位可"
-"以再生，或者在回合开始时位于村庄里，或者在拥有<b>解毒</b>能力的单位旁边，否则"
-"毒性不会解除。"
+"中毒的单位每回合会损失8点生命，直到他们剩下1点生命为止。如果毒性不解除，那他"
+"们将一直停留在鬼门关。治疗师可以避免中毒单位的状况恶化，但除非中毒单位可以再"
+"生，或者在回合开始时位于村庄里，或者在拥有<b>解毒</b>能力的单位旁边，否则毒性"
+"不会解除。"
 
 #. [tip]
 msgid ""
@@ -4344,7 +4320,7 @@ msgid ""
 msgstr ""
 "一级或级别更高的单位旁边的六个格子是他们的<b>控制区域</b>。如果单位移动进了敌"
 "方控制区域，它在本回合将不能进一步移动。这意味着单位之间即使有两个空格也仍然"
-"能困住敌人。不过请当心：游击士可以通过这些空隙。"
+"能困住敌人。不过请当心：散兵可以通过这些空隙。"
 
 #. [tip]
 msgid ""
@@ -4367,7 +4343,7 @@ msgid ""
 "Units stationed in villages will either heal eight hitpoints at the "
 "beginning of their turn, or will recover from poisoning."
 msgstr ""
-"驻扎在村庄里的单位在自己的回合开始时要么恢复8点生命值，要么从中毒状态中恢复过"
+"驻扎在村庄里的单位在自己的回合开始时要么恢复8点生命，要么从中毒状态中恢复过"
 "来。"
 
 #. [tip]
@@ -4377,7 +4353,7 @@ msgid ""
 "its next turn."
 msgstr ""
 "除非必要，否则不要移动负伤的单位——让它休息。如果一个单位既不移动也不攻击，它"
-"将在下回合开始时恢复2点生命值。"
+"将在下回合开始时恢复2点生命。"
 
 #. [tip]
 msgid ""
@@ -4424,7 +4400,7 @@ msgid ""
 "level opponent."
 msgstr ""
 "对敌人打出致命一击是获取经验的最好方式。单位在击杀敌人后会根据所杀敌人的等级"
-"获得经验值，每一级8点，如果击杀0级对手则获得4点经验值。"
+"获得经验，每一级8点，如果击杀0级对手则获得4点经验。"
 
 #. [tip]
 msgid ""
@@ -4577,7 +4553,7 @@ msgstr "<b>——大贤者达辛，韦元626年</b>"
 msgid ""
 "Units are healed when they advance a level. Used wisely, this can turn a "
 "fight."
-msgstr "单位升级时生命值会恢复全满。明智地利用这一点，就可能在战斗中翻盘。"
+msgstr "单位升级时生命会恢复全满。明智地利用这一点，就可能在战斗中翻盘。"
 
 #. [tip]
 msgid ""
@@ -4594,8 +4570,8 @@ msgid ""
 "lower-level units instead."
 msgstr ""
 "高等级单位不能再升级，而是获得<b>满级奖励</b>（AMLA）。通常情况下，AMLA会使该"
-"单位增加3点最大生命值，并完全治愈。这比升级通常所能带来的好处要少得多，所以让"
-"你的低等级单位升级往往更加明智。"
+"单位增加3点最大生命，并完全治愈。这比升级通常所能带来的好处要少得多，所以让你"
+"的低等级单位升级往往更加明智。"
 
 #. [tip]
 msgid ""
@@ -4687,9 +4663,9 @@ msgid ""
 "leadership—or a strong or dextrous unit—whenever the extra point or two of "
 "damage makes a one-hit kill possible."
 msgstr ""
-"拥有三种或更多攻击方式——尤其是魔法攻击——的单位非常适合于解决只剩下很少生命值"
-"的敌人。当额外的一两点伤害使得一击必杀成为可能时，要确保使用领导能力——或使用"
-"一个强壮者灵巧的单位。"
+"拥有三种或更多攻击方式——尤其是魔法攻击——的单位非常适合于解决只剩下很少生命的"
+"敌人。当额外的一两点伤害使得一击必杀成为可能时，要确保使用领导能力——或使用一"
+"个强壮者灵巧的单位。"
 
 #. [tip]
 msgid ""
@@ -4707,7 +4683,7 @@ msgid ""
 "hitpoints per turn) without tying up front-line villages."
 msgstr ""
 "当强壮的单位受重伤时，请把它送到距离战场几个回合的路途之远的村庄里治疗。这样"
-"一来它便可以安静地恢复（每回合10点生命值），而且还不会把前线村庄挤爆。"
+"一来它便可以安静地恢复（每回合10点生命），而且还不会把前线村庄挤爆。"
 
 #. [tip]
 msgid "<i>― Lord Hamel of Knalga</i>"
@@ -5831,6 +5807,9 @@ msgstr "移动特性："
 msgid "Defense properties: "
 msgstr "防御特性："
 
+msgid "Level"
+msgstr "等级"
+
 msgid "Advances from: "
 msgstr "升级自："
 
@@ -5874,7 +5853,7 @@ msgid "Cost: "
 msgstr "花费："
 
 msgid "Required XP: "
-msgstr "所需经验值："
+msgstr "所需经验："
 
 msgid "unit help^Attacks"
 msgstr "攻击手段"
@@ -6081,6 +6060,9 @@ msgstr "有些单位还没有移动。你真的要结束自己的回合吗？"
 
 msgid "Rename Unit"
 msgstr "重命名单位"
+
+msgid "Name:"
+msgstr "名称："
 
 msgid "Clear Labels"
 msgstr "清除标签"
@@ -6520,8 +6502,8 @@ msgid ""
 "Units cannot be killed by poison alone. The poison will not reduce it below "
 "1 HP."
 msgstr ""
-"此单位中毒了。它每回合将失去8点生命值，直到在村庄里找到解药或由具有“解毒”能力"
-"的友方单位解毒为止。\n"
+"此单位中毒了。它每回合将失去8点生命，直到在村庄里找到解药或由具有“解毒”能力的"
+"友方单位解毒为止。\n"
 "\n"
 "单位不会仅仅因为中毒而死。毒素不会使单位的生命降到1以下。"
 
@@ -6879,6 +6861,30 @@ msgstr "Y"
 msgid "infix_binary^i"
 msgstr "i"
 
+msgid "(unknown player)"
+msgstr "（未知玩家）"
+
+msgid "The :$command debug command was used during $player’s turn"
+msgstr "在$player|的回合中，使用了$command|调试命令"
+
+msgid ""
+"A player used a debug command during the game. If this is unexpected, it is "
+"possible the player in question is cheating."
+msgstr ""
+"一位玩家在游戏中使用了调试指令。如果这不在预期之内，那么这位玩家可能在作弊。"
+
+msgid "Details:"
+msgstr "细节："
+
+msgid "Do you wish to save the game before continuing?"
+msgstr "想要在继续之前保存游戏吗？"
+
+msgid "Debug Command Used"
+msgstr "使用了调试命令"
+
+msgid "A unit was created using debug mode during $player’s turn"
+msgstr "在$player|的回合中，使用调试模式创建了一个单位"
+
 msgid "waiting for $desc from side(s) $sides"
 msgstr "等待$sides|阵营的$desc"
 
@@ -6981,8 +6987,8 @@ msgstr "边缘"
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|：$effect_description"
 
-msgid "wesnoth"
-msgstr "韦诺"
+msgid "<span color=\"$color\">$number_or_percent</span> HP"
+msgstr "<span color=\"$color\">$number_or_percent</span>生命"
 
 msgid "<span color=\"$color\">$number_or_percent</span> move"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> moves"
@@ -6996,7 +7002,7 @@ msgid "<span color=\"$color\">$number_or_percent</span> jamming"
 msgstr "<span color=\"$color\">$number_or_percent</span>干扰"
 
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
-msgstr "<span color=\"$color\">$number_or_percent</span>点经验值以升级"
+msgstr "<span color=\"$color\">$number_or_percent</span>点经验以升级"
 
 msgid "<span color=\"$color\">$number_or_percent</span> attack per turn"
 msgid_plural ""

@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 21:30+0300\n"
-"PO-Revision-Date: 2018-03-24 00:00+0800\n"
+"POT-Creation-Date: 2018-03-27 04:20+0300\n"
+"PO-Revision-Date: 2018-03-27 21:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1301,10 +1301,10 @@ msgid ""
 "ally, solving a puzzle, or holding out against a siege until a certain "
 "number of turns have elapsed."
 msgstr ""
-"特别要注意每个场景开始前弹出的<bold>text='任务目标'</bold>窗口。通常杀死所有"
-"的敌方首领你就能取得胜利，而只有当己方首领阵亡时游戏才会失败。然而，有些场景"
-"可能有其他胜利目标——例如，让你的首领到达指定位置，或者救出某人，或者解决一个"
-"迷题，或者在被围攻时坚守城池直到撑过一定回合数。"
+"特别要注意每个场景开始前弹出的<bold>text='任务目标'</bold>窗口。在绝大多数场"
+"景中，杀死所有的敌方首领你就能取得胜利；类似地，你自己首领的死亡通常意味着失"
+"败。然而，有些场景可能有其他胜利目标，例如，让你的首领到达指定位置，救出某"
+"人，或者解决一个迷题，或者在被围攻时坚守城池直到撑过一定回合数。"
 
 #. [topic]: id=recruit_and_recall
 msgid "Recruiting and Recalling"
@@ -1623,7 +1623,7 @@ msgstr ""
 "移动时，你还需要记住<bold>text='控制区域'</bold>的概念。每个单位都会在紧邻自"
 "身的六角格中产生控制区域，敌军若进入那些六角格，将立即无法继续移动。学习如何"
 "利用控制区域，是玩韦诺时的一个重点。只有<ref>dst='ability_skirmisher' "
-"text='游击士'</ref>可以忽略控制区域的影响。"
+"text='散兵'</ref>可以忽略控制区域的影响。"
 
 #. [topic]: id=movement
 msgid ""
@@ -1958,35 +1958,35 @@ msgstr ""
 "间，而前半夜和后半夜则算作夜间：\n"
 "\n"
 
+#. [topic]: id=time_of_day
 #. [time]: id=dawn
 #. [time]: id=dawn_hour
-#. [topic]: id=time_of_day
 msgid "Dawn"
 msgstr "黎明"
 
-#. [time]: id=morning
 #. [topic]: id=time_of_day
+#. [time]: id=morning
 msgid "Morning"
 msgstr "上午"
 
-#. [time]: id=afternoon
 #. [topic]: id=time_of_day
+#. [time]: id=afternoon
 msgid "Afternoon"
 msgstr "下午"
 
+#. [topic]: id=time_of_day
 #. [time]: id=dusk
 #. [time]: id=dusk_hour
-#. [topic]: id=time_of_day
 msgid "Dusk"
 msgstr "黄昏"
 
-#. [time]: id=first_watch
 #. [topic]: id=time_of_day
+#. [time]: id=first_watch
 msgid "First Watch"
 msgstr "前半夜"
 
-#. [time]: id=second_watch
 #. [topic]: id=time_of_day
+#. [time]: id=second_watch
 msgid "Second Watch"
 msgstr "后半夜"
 
@@ -3138,11 +3138,11 @@ msgstr ""
 
 #. [skirmisher]: id=skirmisher
 msgid "skirmisher"
-msgstr "游击"
+msgstr "散兵"
 
 #. [skirmisher]: id=skirmisher
 msgid "female^skirmisher"
-msgstr "游击"
+msgstr "散兵"
 
 #. [skirmisher]: id=skirmisher
 msgid ""
@@ -3624,7 +3624,8 @@ msgid ""
 " This unit’s skill at skirmishing allows it to ignore enemies’ zones of "
 "control and thus move unhindered around them."
 msgstr ""
-" 此单位的游击能力使其能够忽视敌人的控制区域，因而能毫无阻碍地在他们附近移动。"
+" 此单位的散兵作战能力使其能够忽视敌人的控制区域，因而能毫无阻碍地在他们附近移"
+"动。"
 
 msgid " Illumination increases the lighting level in adjacent areas."
 msgstr " 照明能力会提升相邻区域的明亮程度。"

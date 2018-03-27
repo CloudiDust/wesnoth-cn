@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-25 20:25+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -298,7 +298,7 @@ msgstr "击败敌方首领"
 
 #. [objective]: condition=lose
 msgid "Death of Tallin"
-msgstr "塔林阵亡"
+msgstr "塔林死亡"
 
 #. [message]: speaker=Tallin
 msgid ""
@@ -554,11 +554,11 @@ msgstr ""
 "在兽人的手下毁灭，或者在纳尔迦隧道中遭遇未知的命运，塔林选择了后者。人们快速"
 "集合起来，收集了尽可能多的食品和武器，进入了黑暗的洞穴。"
 
-#. [side]: type=Troll, id=Franik
-#. [side]: type=Troll, id=Henie
 #. [side]: type=Troll, id=Knash
 #. [side]: type=Troll, id=Krog
 #. [side]: type=Troll Warrior, id=Thung
+#. [side]: type=Troll, id=Franik
+#. [side]: type=Troll, id=Henie
 #. [side]: type=Troll Warrior, id=Tor
 #. [side]: type=Troll Warrior, id=Bor
 #. [side]: type=Troll Warrior, id=Oof
@@ -574,8 +574,8 @@ msgstr "克纳什"
 msgid "Krog"
 msgstr "克洛格"
 
-#. [unit]: type=Dwarvish Lord, id=Hamel
 #. [side]: type=Dwarvish Lord, id=Hamel
+#. [unit]: type=Dwarvish Lord, id=Hamel
 msgid "Hamel"
 msgstr "哈梅尔"
 
@@ -621,7 +621,7 @@ msgstr "将洞穴清理干净"
 
 #. [objective]: condition=lose
 msgid "Death of Hamel"
-msgstr "哈梅尔阵亡"
+msgstr "哈梅尔死亡"
 
 #. [message]: role=Supporter
 msgid "So here we are..."
@@ -1183,8 +1183,8 @@ msgstr ""
 msgid "Ahahahaha! Yes, smash the skeletons! Smash them!"
 msgstr "啊哈哈哈哈！是的，砸碎那些骷髅！砸碎它们！"
 
-#. [message]: speaker=Tallin
 #. [message]: role=Supporter
+#. [message]: speaker=Tallin
 msgid "..."
 msgstr "……"
 
@@ -1264,8 +1264,8 @@ msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 msgid "Alliance"
 msgstr "联盟"
 
-#. [unit]: type=Ancient Lich, id=Malifor
 #. [side]: type=Ancient Lich, id=Malifor
+#. [unit]: type=Ancient Lich, id=Malifor
 msgid "Malifor"
 msgstr "玛利弗"
 
@@ -1593,11 +1593,11 @@ msgstr "保博林"
 msgid "Antrasis"
 msgstr "安崔斯"
 
+#. [side]
 #. [side]: type=Fire Dragon, id=Machador
 #. [side]: type=Blood Bat, id={ID}
 #. [side]: type=Troll Warrior, id=Gurk
 #. [side]: type=Drake Flare, id=Kishmish
-#. [side]
 msgid "Monsters"
 msgstr "怪兽"
 
@@ -2718,8 +2718,8 @@ msgstr ""
 "你，你这该死的塔林！你悲惨的生命将充满不幸！你的人民将永远得不到自由！你所亲"
 "近和珍爱的都将远离你！我诅咒雷电劈在你的头顶！我诅咒——</b>"
 
-#. [message]: speaker=Sister Thera
 #. [message]: speaker=Tallin
+#. [message]: speaker=Sister Thera
 msgid "May you shut your ugly mouth and hurry up and die."
 msgstr "闭上你邪恶的嘴，去死吧！"
 
@@ -2731,8 +2731,8 @@ msgstr ""
 "<b>大地将裂开，然后吞噬你！你所有的牙齿都会掉光！你会变成一个虚弱的皮包骨头的"
 "老男人！你——</b>"
 
-#. [message]: speaker=Father Morvin
 #. [message]: speaker=second_unit
+#. [message]: speaker=Father Morvin
 msgid "Finally! He has been reduced to dust."
 msgstr "结束了！他的身体化为灰烬。"
 
@@ -3037,16 +3037,16 @@ msgstr ""
 "他们经过讨论，决定让塔林带着他的人主动出击去会会兽人，而哈梅尔则率部退守洞"
 "穴。"
 
-#. [side]: type=Great Mage, id=Camerin
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Stalrag
+#. [side]: type=Great Mage, id=Camerin
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
-#. [side]: type=Orcish Warlord, id=Atul
 #. [side]
 #. [side]: type=Orcish Warlord, id=Drung
 #. [side]: type=Orcish Warlord, id=Poul
+#. [side]: type=Orcish Warlord, id=Atul
 #. [side]: type=Troll Warrior, id=Gore
 #. [side]: type=Orcish Warlord, id=Carron
 #. [side]: type=Orcish Warlord, id=Rash
@@ -3180,8 +3180,8 @@ msgstr "还没完呢，我的朋友们。将军们，派出预备队！"
 msgid "Oh yeah!"
 msgstr "噢耶！"
 
-#. [message]: speaker=Malifor
 #. [message]: id=Poul
+#. [message]: speaker=Malifor
 msgid "HAHAHA!"
 msgstr "哈哈哈！"
 
@@ -3701,8 +3701,8 @@ msgstr "就这样吧。我们具体该怎样到达那个山口？"
 msgid "And so Tallin and his party set out to secure the help of the mages."
 msgstr "随后塔林和他的部队出发去寻求法师的帮助。"
 
-#. [unit]: type=Dwarvish Lord, id=Stalrag
 #. [side]: type=Dwarvish Lord, id=Stalrag
+#. [unit]: type=Dwarvish Lord, id=Stalrag
 msgid "Stalrag"
 msgstr "斯托莱格"
 
@@ -3710,8 +3710,8 @@ msgstr "斯托莱格"
 msgid "Liches"
 msgstr "巫妖"
 
-#. [unit]: type=Ancient Lich, id=Ro'Arthian
 #. [side]: type=Ancient Lich, id=Ro'Arthian
+#. [unit]: type=Ancient Lich, id=Ro'Arthian
 #. [modify_side]
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
@@ -3727,11 +3727,11 @@ msgstr "从若·索瑟恩手中解救斯托莱格。"
 
 #. [objective]: condition=lose
 msgid "Death of Tallin."
-msgstr "塔林阵亡。"
+msgstr "塔林死亡。"
 
 #. [objective]: condition=lose
 msgid "Death of Stalrag."
-msgstr "斯托莱格阵亡。"
+msgstr "斯托莱格死亡。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -4593,11 +4593,11 @@ msgstr "救出公主"
 
 #. [objective]: condition=lose
 msgid "Death of Ro’Arthian"
-msgstr "若·艾瑟恩阵亡"
+msgstr "若·艾瑟恩死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Ro’Sothian"
-msgstr "若·索瑟恩阵亡"
+msgstr "若·索瑟恩死亡"
 
 #. [note]
 msgid "Even if your rescue fails, you will still advance to the next scenario"

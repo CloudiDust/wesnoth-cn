@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:29 UTC\n"
-"PO-Revision-Date: 2018-03-21 23:42+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -390,7 +390,7 @@ msgstr "使用右击选项"
 
 #. [objective]: condition=lose
 msgid "Death of Rutburt"
-msgstr "拉特巴特阵亡"
+msgstr "拉特巴特死亡"
 
 #. [note]
 msgid "Check out the right-click menu options for additional actions"
@@ -469,7 +469,7 @@ msgstr "击败所有人类"
 
 #. [objective]: condition=lose
 msgid "Death of Big Bad Orc"
-msgstr "又大又坏的兽人阵亡"
+msgstr "又大又坏的兽人死亡"
 
 #. [objective]: condition=lose
 msgid "Only one orc remains"
@@ -554,7 +554,7 @@ msgstr "移动蝙蝠首领至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of the bat leader"
-msgstr "蝙蝠首领阵亡"
+msgstr "蝙蝠首领死亡"
 
 #. [event]
 msgid "I'm out of here."
@@ -668,7 +668,7 @@ msgstr "观察AI单位做他们的事情"
 
 #. [objective]: condition=lose
 msgid "Death of Vaddan"
-msgstr "瓦丹阵亡"
+msgstr "瓦丹死亡"
 
 #. [message]: speaker=messenger1
 msgid "The bridge is out. What do we do now?"
@@ -1128,7 +1128,7 @@ msgstr "移动卡拉至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Kraa"
-msgstr "卡拉阵亡"
+msgstr "卡拉死亡"
 
 #. [note]
 msgid ""
@@ -1191,7 +1191,7 @@ msgstr "坏游寇死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Good Bandit"
-msgstr "好强盗阵亡"
+msgstr "好强盗死亡"
 
 #. [objective]: condition=lose
 msgid "Bad Outlaw makes it to the signpost"
@@ -1392,7 +1392,7 @@ msgstr "移动佩克兹斯至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Pekzs"
-msgstr "佩克兹斯阵亡"
+msgstr "佩克兹斯死亡"
 
 #. [note]
 msgid "Right-click on unoccupied swamp hexes to add more lurkers"
@@ -1412,9 +1412,9 @@ msgstr "信使护送"
 msgid "Vanak"
 msgstr "凡纳克"
 
-#. [event]
 #. [side]
 #. [unit]: type=Dragoon, id=messenger
+#. [event]
 msgid "Messenger"
 msgstr "信使"
 
@@ -1482,7 +1482,7 @@ msgstr "信使到达路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Vanak"
-msgstr "凡纳克阵亡"
+msgstr "凡纳克死亡"
 
 #. [event]
 msgid "I made it!  Now our people will be safe."
@@ -1651,7 +1651,7 @@ msgstr "移动哥特巴特至路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Gertburt"
-msgstr "哥特巴特阵亡"
+msgstr "哥特巴特死亡"
 
 #. [event]
 msgid ""
@@ -1761,11 +1761,11 @@ msgstr "罗扫巴到达路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Rossauba"
-msgstr "罗扫巴阵亡"
+msgstr "罗扫巴死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Langzhar"
-msgstr "朗扎阵亡"
+msgstr "朗扎死亡"
 
 #. [objectives]
 msgid "Get rid of that traitor wizard Rossauba"
@@ -1777,7 +1777,7 @@ msgstr "击败罗扫巴"
 
 #. [objective]: condition=lose
 msgid "Death of Koorzhar"
-msgstr "阔扎阵亡"
+msgstr "阔扎死亡"
 
 #. [event]
 msgid "I held out for as long as I could."
@@ -1787,8 +1787,8 @@ msgstr "我尽力防守了。"
 msgid "I made it"
 msgstr "我成功了"
 
-#. [event]
 #. [test]: id=recruiting
+#. [event]
 msgid "Recruiting"
 msgstr "征募"
 
@@ -2177,11 +2177,11 @@ msgstr "别试了。你不可能摸到那巫妖的。"
 
 #. [objective]: condition=lose
 msgid "Death of the last of Grospur's units"
-msgstr "格洛斯帕的最后一个单位阵亡"
+msgstr "格洛斯帕的最后一个单位死亡"
 
 #. [note]
 msgid "When your leader dies, side leadership passes on to another unit"
-msgstr "当你的领袖阵亡时，阵营领导权会转移给另一个单位"
+msgstr "当你的首领死亡时，阵营领导权会转移给另一个单位"
 
 #. [event]
 msgid ""
@@ -2281,7 +2281,7 @@ msgstr "击败所有蝙蝠"
 
 #. [objective]: condition=lose
 msgid "Death of all gryphons"
-msgstr "所有狮鹫阵亡"
+msgstr "所有狮鹫死亡"
 
 #. [side]
 msgid "team_name^Wolves"

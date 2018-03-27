@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-17 18:31 UTC\n"
-"PO-Revision-Date: 2018-03-23 23:21+0800\n"
+"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -241,8 +241,8 @@ msgstr "我应该撤退吗？"
 msgid "female^Should I retreat?"
 msgstr "我应该撤退吗？"
 
-#. [message]: speaker=Galdrad
 #. [message]: speaker=Delfador
+#. [message]: speaker=Galdrad
 msgid "Good idea!"
 msgstr "好主意！"
 
@@ -709,15 +709,15 @@ msgstr "击败兽人首领"
 
 #. [objective]: condition=lose
 msgid "Death of Konrad"
-msgstr "科纳德阵亡"
+msgstr "科纳德死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Li’sar"
-msgstr "莉莎阵亡"
+msgstr "莉莎死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Galdrad"
-msgstr "伽德拉德阵亡"
+msgstr "伽德拉德死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1173,7 +1173,7 @@ msgid ""
 "if you have limited manpower."
 msgstr ""
 "紧邻一个单位的六个格子组成了它的<b>控制区域<b>。当敌方单位进入那些格子时，他"
-"们在该回合将无法继续移动。（有一个例外，拥有<b>游击</b>能力的单位不受控制区域"
+"们在该回合将无法继续移动。（有一个例外，拥有<b>散兵</b>能力的单位不受控制区域"
 "的影响。）这可以用于封锁强敌的行动，让他们不能接近诸如村庄一类的关键位置，哪"
 "怕你人手不足也是如此。"
 

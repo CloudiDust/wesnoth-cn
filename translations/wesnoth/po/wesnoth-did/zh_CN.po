@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-04 16:39 UTC\n"
-"PO-Revision-Date: 2018-03-21 23:44+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,8 +19,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 2.0.6\n"
 
-#. [scenario]: id=11_Descent_into_Darkness
 #. [campaign]: id=Descent_into_Darkness
+#. [scenario]: id=11_Descent_into_Darkness
 msgid "Descent into Darkness"
 msgstr "堕入黑暗"
 
@@ -165,10 +165,10 @@ msgstr ""
 msgid "Defenders"
 msgstr "守卫者"
 
-#. [side]: type=Orcish Warlord, id=Borth
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
 #. [side]: type=Orcish Warlord, id=Gron'r Hronk
 #. [side]: type=Orcish Warlord, id=K'rrlar Oban
+#. [side]: type=Orcish Warlord, id=Borth
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warlord, id=K'Vark
 #. [modify_side]
@@ -179,8 +179,8 @@ msgstr "兽人"
 msgid "Kreg’a’shar Trr"
 msgstr "克里嘎沙·塔"
 
-#. [side]: type=Lieutenant, id=Drogan
 #. [side]: type=Sergeant, id=Drogan
+#. [side]: type=Lieutenant, id=Drogan
 msgid "Drogan"
 msgstr "德罗甘"
 
@@ -198,11 +198,11 @@ msgstr "兽人攻破河口要塞的防御"
 
 #. [objective]: condition=lose
 msgid "Death of Malin Keshar"
-msgstr "马林·凯沙阵亡"
+msgstr "马林·凯沙死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Drogan"
-msgstr "德罗甘阵亡"
+msgstr "德罗甘死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -298,7 +298,7 @@ msgstr "奇袭队回来了，兽人便面对着一支比他们更强的部队，
 
 #. [message]: speaker=narrator
 msgid "The orcs are broken, dead or fled."
-msgstr "兽人被击溃了，不是阵亡，便是逃跑。"
+msgstr "兽人被击溃了，不是战死，便是逃跑。"
 
 #. [message]: speaker=Drogan
 msgid ""
@@ -446,7 +446,7 @@ msgstr "占领所有的地精村庄"
 
 #. [objective]: condition=lose
 msgid "Death of Darken Volk"
-msgstr "达肯·沃克阵亡"
+msgstr "达肯·沃克死亡"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -1277,9 +1277,9 @@ msgstr "这里是入口！快！"
 msgid "A Small Favor — Part 2"
 msgstr "小小请求 — 第二部分"
 
-#. [event]
 #. [side]
 #. [command]
+#. [event]
 msgid "Guard"
 msgstr "守卫"
 

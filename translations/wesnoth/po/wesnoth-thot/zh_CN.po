@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-03-25 20:28+0800\n"
+"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -121,8 +121,8 @@ msgstr ""
 "说，发现了一小群流窜而来的兽人。"
 
 #. [side]
-#. [side]: type=Orcish Warrior, id=Marth-Tak
 #. [side]: type=Dwarvish Lord, id=Hamel
+#. [side]: type=Orcish Warrior, id=Marth-Tak
 #. [side]: type=Great Mage, id=Master Perrin
 msgid "Alliance"
 msgstr "联盟"
@@ -155,7 +155,7 @@ msgstr "击败巴什纳克"
 
 #. [objective]: condition=lose
 msgid "Death of Aiglondur"
-msgstr "艾格隆达阵亡"
+msgstr "艾格隆达死亡"
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -418,11 +418,11 @@ msgstr "帮助马斯-塔克击败戈斯拉斯"
 
 #. [objective]: condition=lose
 msgid "Death of Angarthing"
-msgstr "安伽辛阵亡"
+msgstr "安伽辛死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Marth-Tak"
-msgstr "马斯-塔克阵亡"
+msgstr "马斯-塔克死亡"
 
 #. [message]: speaker=Marth-Tak
 msgid "In the name of the Alliance, quit these lands now!"
@@ -649,7 +649,7 @@ msgstr "移动艾格隆达至山道东端路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Ratheln"
-msgstr "拉什伦阵亡"
+msgstr "拉什伦死亡"
 
 #. [message]: speaker=Angarthing
 msgid ""

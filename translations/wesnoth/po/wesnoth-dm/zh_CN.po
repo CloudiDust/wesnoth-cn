@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-21 23:47+0800\n"
+"PO-Revision-Date: 2018-03-27 21:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -345,7 +345,7 @@ msgstr "击败格罗高-图克"
 # This is only a sounds-like translation. More recommendations welcome.
 #. [objective]: condition=lose
 msgid "Death of Delfador"
-msgstr "德法多阵亡"
+msgstr "德法多死亡"
 
 #. [message]: speaker=unit
 msgid "Grooar! Pillage! Pillage! Ahahaha..."
@@ -518,7 +518,7 @@ msgstr "击败哈格哈-坦"
 
 #. [objective]: condition=lose
 msgid "Death of Leollyn"
-msgstr "利欧林阵亡"
+msgstr "利欧林死亡"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -805,7 +805,7 @@ msgstr "移动德法多至东北方路标处"
 
 #. [objective]: condition=lose
 msgid "Death of Lionel"
-msgstr "莱昂内尔阵亡"
+msgstr "莱昂内尔死亡"
 
 #. [message]: speaker=Lionel
 msgid ""
@@ -1758,7 +1758,7 @@ msgstr "击败敌人首领"
 # This is only a sounds-like translation. More recommendations welcome.
 #. [objective]: condition=lose
 msgid "Death of Chantal"
-msgstr "香黛尔阵亡"
+msgstr "香黛尔死亡"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -2283,7 +2283,7 @@ msgstr "克拉塔基斯"
 
 #. [objective]: condition=lose
 msgid "Death of Kalenz"
-msgstr "卡雷兹阵亡"
+msgstr "卡雷兹死亡"
 
 #. [message]: id=Tan-drul
 msgid ""
@@ -2613,7 +2613,7 @@ msgstr "特尔格罗"
 # 国王的名字。
 #. [objective]: condition=lose
 msgid "Death of Garard II"
-msgstr "伽拉德二世阵亡"
+msgstr "伽拉德二世死亡"
 
 #. [message]: id=Delfador
 msgid ""
@@ -3042,12 +3042,12 @@ msgstr "打败格鲁-玛拉"
 # This is only a sounds-like translation. More recommendations welcome.
 #. [objective]: condition=lose
 msgid "Death of Ulrek"
-msgstr "乌尔雷克阵亡"
+msgstr "乌尔雷克死亡"
 
 # This is only a sounds-like translation. More recommendations welcome.
 #. [objective]: condition=lose
 msgid "Death of Relgorn"
-msgstr "雷尔戈恩阵亡"
+msgstr "雷尔戈恩死亡"
 
 #. [message]: speaker=Gruv-Malal
 msgid ""

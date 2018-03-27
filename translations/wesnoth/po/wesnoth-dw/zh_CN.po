@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-25 20:13+0800\n"
+"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
+"PO-Revision-Date: 2018-03-27 21:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -185,8 +185,8 @@ msgstr ""
 msgid "Undead Forces"
 msgstr "亡灵军团"
 
-#. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Dark Sorcerer, id=Mal-Kevek
+#. [side]: type=Lich, id=Mal-Kevek
 msgid "Mal-Kevek"
 msgstr "玛尔-柯沃克"
 
@@ -221,7 +221,7 @@ msgid ""
 "aid."
 msgstr ""
 "凯王！我们被攻击了！残暴的生物入侵了我们的村庄，它们见人就杀。我拼死杀出，来"
-"此请求您的帮助！"
+"此请求您的帮助。"
 
 #. [message]: speaker=Kai Krellis
 msgid "What manner of creatures were they?"
@@ -523,8 +523,8 @@ msgstr "等一下！你觉得会不会，它的主人一死，它就会渴求新
 msgid "If it does not attack, do not kill it. Let us see if it follows us."
 msgstr "如果它不攻击，那就不要杀它。让我们看看它是不是会跟着我们。"
 
-#. [message]: speaker=unit
 #. [message]: speaker=second_unit
+#. [message]: speaker=unit
 msgid "Neep, neep!"
 msgstr "吱，吱！"
 
@@ -568,8 +568,8 @@ msgstr "你不杀了它吗？我们还得继续赶路。"
 msgid "I would feel bad about that. It is, uh, licking my hand."
 msgstr "杀了它会让我难受的。它在，呃，舔我的手。"
 
-#. [message]: speaker=unit
 #. [message]: speaker=Friendly Bat
+#. [message]: speaker=unit
 #. This should just be "translated" to whatever noise a bat makes in your language.
 msgid "Neep?"
 msgstr "吱？"
@@ -896,7 +896,7 @@ msgstr ""
 msgid ""
 "Those are the words of a true kai and your father’s son. I am proud of you, "
 "Krellis."
-msgstr "这正是一位真正的凯王和您父王之子应该说的话。克雷利斯，我为您骄傲！"
+msgstr "这正是一位真正的凯王和您父王之子应该说的话。克雷利斯，我为您骄傲。"
 
 #. [message]: speaker=Cylanna
 msgid ""
@@ -976,7 +976,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "Uh...If you say so."
-msgstr "呃……既然您这么说……"
+msgstr "呃……既然您这样说，那就这样办吧。"
 
 #. [unit]: type=Drake Burner, id=Keshan
 msgid "Keshan"
@@ -1176,7 +1176,7 @@ msgstr "我很好奇他靠这种态度是怎么招揽顾客的。"
 #. [message]: speaker=Kai Krellis
 msgid ""
 "One hour will work for us. It will not take all of us to defeat the undead. "
-msgstr "一个小时就够了。我们不需要全部人手就可以击败亡灵。"
+msgstr "一个小时就够了。我们不需要全部人手就可以击败亡灵。 "
 
 #. [message]: speaker=Kai Krellis
 msgid "We can decide what to do about the orc after that."
@@ -1718,8 +1718,8 @@ msgid ""
 "This is a good place for a large colony, so I imagine we will see more soon."
 msgstr "这地方是个很合适的聚居地，所以我猜想我们很快还会看到更多蝙蝠。"
 
-#. [side]: id=Caladon
 #. [unit]: type=Silver Mage, id=Caladon
+#. [side]: id=Caladon
 msgid "Caladon"
 msgstr "卡拉东"
 
@@ -1788,7 +1788,7 @@ msgid ""
 "I would be HAPPY to guide such a pretty mermaid AND her friends. Follow me "
 "everybody!"
 msgstr ""
-"我也很<b>高兴</b>能给像您这样美丽的人鱼<b>和</b>您的朋友做向导。大家跟我来。"
+"我也很<b>高兴</b>能给像您这样美丽的人鱼<b>和</b>您的朋友做向导。大家跟我来！"
 
 #. [message]: speaker=Kai Krellis
 msgid "Cylanna! I need you!"
@@ -1829,15 +1829,15 @@ msgstr "把烈焰神剑从它死去的主人手中撬出来"
 
 #. [objective]: condition=lose
 msgid "Death of Kai Krellis"
-msgstr "克雷利斯凯王阵亡"
+msgstr "克雷利斯凯王死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Cylanna"
-msgstr "赛兰娜阵亡"
+msgstr "赛兰娜死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Caladon"
-msgstr "卡拉东阵亡"
+msgstr "卡拉东死亡"
 
 #. [message]: speaker=$spy_unit.id
 msgid ""
@@ -2297,7 +2297,7 @@ msgstr "我们光复了家园！"
 
 #. [message]: speaker=Kai Krellis
 msgid "Cylanna! I will miss you."
-msgstr "赛兰娜！我会怀念您的！"
+msgstr "赛兰娜！我会怀念您的。"
 
 #. [message]: speaker=Cylanna
 msgid "Tyegëa! No!"
@@ -2655,7 +2655,7 @@ msgstr ""
 
 msgid ""
 " This unit is able to stun its enemies, disrupting their zones of control."
-msgstr "此单位能够击晕它的敌人，从而扰乱他们的控制区域。"
+msgstr " 此单位能够击晕它的敌人，从而扰乱他们的控制区域。"
 
 #. [damage]: id=tail_stun
 msgid "stun"
