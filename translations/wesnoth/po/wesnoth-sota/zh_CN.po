@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2017 Wesnoth development team
+# Copyright (C) 2005-2018 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2017.
 #
@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"POT-Creation-Date: 2018-03-31 23:36 UTC\n"
 "PO-Revision-Date: 2018-03-27 21:32+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -74,22 +74,6 @@ msgstr "战役维护"
 #. [about]
 msgid "Additional Artwork"
 msgstr "额外美工"
-
-#. [about]
-msgid "Translations"
-msgstr "翻译"
-
-#. [entry]
-msgid "Hungarian - WhiteWolf"
-msgstr "匈牙利文 - WhiteWolf"
-
-#. [entry]
-msgid "Japanese - RatArmy"
-msgstr "日文 - RatArmy"
-
-#. [entry]
-msgid "Russian - iven, olga_flox, and marat"
-msgstr "俄文 - iven、olga_flox和marat"
 
 #. [scenario]: id=01_Slipping_Away
 msgid "Slipping Away"

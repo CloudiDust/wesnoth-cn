@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2017 Wesnoth development team
+# Copyright (C) 2005-2018 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
@@ -1605,11 +1605,13 @@ msgstr "安装附加组件"
 msgid "Update add-on"
 msgstr "升级附加组件"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_publish
 #. [button]: id=publish
 msgid "Publish add-on"
 msgstr "发布附加组件"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_uninstall
 #. [button]: id=uninstall
 msgid "Uninstall add-on"
@@ -1648,6 +1650,7 @@ msgstr "服务器："
 msgid "Remove Add-ons"
 msgstr "移除附加组件"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=show_help
 #. [button]: id=help
 msgid "Help"
@@ -1657,6 +1660,7 @@ msgstr "帮助"
 msgid "Connect"
 msgstr "连接"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 msgid "Cancel"
 msgstr "取消"
@@ -1669,6 +1673,7 @@ msgstr "作者："
 msgid "Version:"
 msgstr "版本："
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [scroll_label]: id=description
 msgid "No description available."
 msgstr "没有可用的描述。"
@@ -1757,6 +1762,7 @@ msgstr "顺序："
 msgid "Add-ons Manager"
 msgstr "附加组件管理器"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=details_toggle
 msgid "Addon Details"
 msgstr "附加组件细节"
@@ -1826,6 +1832,7 @@ msgstr "所有其他要素"
 msgid "Scaled to hex"
 msgstr "按格子缩放"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "OK"
 msgstr "确定"
@@ -2026,6 +2033,7 @@ msgstr "新建时段"
 msgid "Delete ToD"
 msgstr "删除时段"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Confirm"
 msgstr "确认"
@@ -2034,10 +2042,12 @@ msgstr "确认"
 msgid "Would you like to apply the changes?"
 msgstr "你想应用这些改变吗？"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Yes"
 msgstr "是"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 msgid "No"
 msgstr "否"
@@ -2098,6 +2108,7 @@ msgstr "标识符："
 msgid "Description:"
 msgstr "描述："
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Experience modifier:"
 msgstr "经验值修正："
@@ -2142,6 +2153,7 @@ msgstr "战争迷雾"
 msgid "Hide in status table"
 msgstr "在状态表中隐藏"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Gold:"
 msgstr "金币："
@@ -2162,6 +2174,7 @@ msgstr "每村庄供给："
 msgid "Controller:"
 msgstr "控制者："
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [row]
 msgid "controller^Human"
 msgstr "人类"
@@ -2190,6 +2203,7 @@ msgstr "战场黑幕"
 msgid "vision^None"
 msgstr "无"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Generate Map"
 msgstr "生成地图"
@@ -2211,6 +2225,7 @@ msgstr "随机数种子："
 msgid "Generate"
 msgstr "生成"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "New Map"
 msgstr "新地图"
@@ -2229,6 +2244,7 @@ msgstr "高度："
 msgid "Create"
 msgstr "创建"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Resize Map"
 msgstr "改变地图大小"
@@ -2411,6 +2427,7 @@ msgstr "后备部队数："
 msgid "Date"
 msgstr "日期"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #. [button]: id=load_game
 msgid "Load Game"
@@ -2440,6 +2457,7 @@ msgstr "取消命令"
 msgid "Cancel any pending unit movements in the saved game"
 msgstr "取消所存游戏中所有待实施行动"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 msgid "Save Game"
 msgstr "保存游戏"
@@ -2460,6 +2478,7 @@ msgstr "覆盖？"
 msgid "Save already exists. Do you want to overwrite it?"
 msgstr "存档已经存在。你要覆盖吗？"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_0
 msgid "Leader"
 msgstr "首领"
@@ -2468,6 +2487,7 @@ msgstr "首领"
 msgid "Team"
 msgstr "团队"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
 msgid "Gold"
 msgstr "金币"
@@ -2484,6 +2504,7 @@ msgstr "单位"
 msgid "Upkeep"
 msgstr "维护费用"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [image]: id=income_icon
 #. [label]: id=side_income
@@ -2527,6 +2548,7 @@ msgstr ""
 "供给\n"
 "/村庄"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Current Status"
 msgstr "当前状态"
@@ -2535,6 +2557,7 @@ msgstr "当前状态"
 msgid "Game Stats"
 msgstr "游戏统计"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 msgid "Scenario Settings"
 msgstr "场景设置"
@@ -2752,6 +2775,7 @@ msgstr "刷新"
 msgid "Create Game"
 msgstr "创建游戏"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #. [grid]
 #. [button]: id=show_preferences
@@ -2980,6 +3004,7 @@ msgstr "随机派系分配："
 msgid "Allow for mirror matchups when random factions are chosen."
 msgstr "当选择随机派系时，允许镜像分配。"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=mods_header
 msgid "Modifications:"
 msgstr "模组："
@@ -3088,6 +3113,7 @@ msgstr "行动奖励"
 msgid "Time for each attack, recruit, and capture"
 msgstr "每次攻击、征募和占领的时间"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=label
 #. [widget]: id=tab_label
 msgid "General"
@@ -3150,6 +3176,7 @@ msgid ""
 "Set the password that people wanting to join your game as players must enter."
 msgstr "设置密码，这是想加入你的游戏的玩家所必需输入的。"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Map size:"
 msgstr "地图尺寸："
@@ -3162,6 +3189,7 @@ msgstr "首领："
 msgid "Gender:"
 msgstr "性别："
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [row]
 msgid "Random"
 msgstr "随机"
@@ -3218,6 +3246,7 @@ msgstr "离开"
 msgid "Game Lobby"
 msgstr "游戏大厅"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=status_label
 msgid "Waiting for players to join..."
 msgstr "等待玩家加入……"
@@ -3246,6 +3275,7 @@ msgstr "账号："
 msgid "Save password locally (encrypted)"
 msgstr "在本地保存密码（明文）"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [widget]: id=label
 #. [grid]
@@ -3295,6 +3325,7 @@ msgstr "本地游戏"
 msgid "Address"
 msgstr "地址"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Select"
 msgstr "选择"
@@ -3748,6 +3779,7 @@ msgstr "截屏……"
 msgid "Browse the screenshots folder using a file manager"
 msgstr "使用文件管理器浏览截屏"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=save
 msgid "Save"
 msgstr "保存"
@@ -3796,6 +3828,7 @@ msgstr "总括"
 msgid "This Turn"
 msgstr "此回合"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Statistics"
 msgstr "统计"
@@ -3812,6 +3845,7 @@ msgstr "战役"
 msgid "Skip"
 msgstr "跳过"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 msgid "Surrender Game"
 msgstr "投降"
@@ -3892,6 +3926,7 @@ msgstr "显示后一条每日提示"
 msgid "Start a tutorial to familiarize yourself with the game"
 msgstr "开始教程以熟悉游戏"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
 msgid "Tutorial"
 msgstr "教程"
@@ -3986,6 +4021,7 @@ msgstr "攻击"
 msgid "Attack Enemy"
 msgstr "攻击敌人"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Create Unit (Debug!)"
 msgstr "创建单位（调试！）"
@@ -4016,11 +4052,13 @@ msgstr "等级"
 msgid "XP"
 msgstr "经验"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [toggle_button]: id=sort_4
 msgid "Traits"
 msgstr "特质"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Unit List"
 msgstr "单位列表"
@@ -4033,6 +4071,7 @@ msgstr "召回单位"
 msgid "Dismiss"
 msgstr "解散"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Recall"
 msgstr "召回"
@@ -4041,14 +4080,17 @@ msgstr "召回"
 msgid "Recruit Unit"
 msgstr "征募单位"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Recruit"
 msgstr "征募"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Error"
 msgstr "错误"
 
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=details_heading
 msgid "Details:"
 msgstr "详细："

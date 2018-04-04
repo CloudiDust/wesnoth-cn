@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2017 Wesnoth development team
+# Copyright (C) 2005-2018 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@gmail.com>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
@@ -969,17 +969,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#. This program is free software; you can redistribute it and/or modify
-#. it under the terms of the GNU General Public License as published by
-#. the Free Software Foundation; either version 2 of the License, or
-#. (at your option) any later version.
-#. This program is distributed in the hope that it will be useful,
-#. but WITHOUT ANY WARRANTY; without even the implied warranty of
-#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#. GNU General Public License for more details.
-#. You should have received a copy of the GNU General Public License
-#. along with this program; if not, write to the Free Software
-#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#.  This program is free software; you can redistribute it and/or modify
+#.  it under the terms of the GNU General Public License as published by
+#.  the Free Software Foundation; either version 2 of the License, or
+#.  (at your option) any later version.
+#.  This program is distributed in the hope that it will be useful,
+#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#.  GNU General Public License for more details.
+#.  You should have received a copy of the GNU General Public License
+#.  along with this program; if not, write to the Free Software
+#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 msgid "B<wesnothd>(6)."
 msgstr "B<wesnothd>(6)."
