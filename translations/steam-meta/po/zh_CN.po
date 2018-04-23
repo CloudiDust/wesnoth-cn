@@ -1,0 +1,150 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2018 Wesnoth, Inc.
+# This file is distributed under the same license as the wesnoth-steam-meta package.
+# CloudiDust <cloudidust@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
+"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"PO-Revision-Date: 2018-04-23 20:18+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#. type: Plain text
+#: app_metadata.txt:2
+#, no-wrap
+msgid "######## SUMMARY ########\n"
+msgstr "######## 概述 ########\n"
+
+#. type: Plain text
+#: app_metadata.txt:4
+#, no-wrap
+msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
+msgstr "韦诺之战是一款以严肃奇幻为主题的开源回合制策略游戏。在十七场单人战役以及数十张多人地图中，探索伊迪亚的四方，在此期间参与无数的冒险吧。\n"
+
+#. type: Plain text
+#: app_metadata.txt:7
+#, no-wrap
+msgid "######## DESCRIPTION ########\n"
+msgstr "######## 描述 ########\n"
+
+#. type: Plain text
+#: app_metadata.txt:9
+#, no-wrap
+msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
+msgstr "韦诺之战是一款以严肃奇幻为主题的开源回合制策略游戏。从韦尔帝平原，到韦弥尔森林，从纳尔迦矿洞，到高耸入云的心之山脉，参与到跨越数个世纪的十多场冒险中来吧！扮演年轻的王子，逃离步步进逼的巫妖领主的手下，前往海对岸的新家园……钻入最黑暗的地底，铸造火焰之宝石……历遍大陆四方，踏上从篡权的女王手中夺回合法王位的勇敢征途……扮演村庄正被兽人入侵的年轻法师，探求复仇与永生之法……当邪恶死灵法师的亡灵大军开往您的首都之时，与之奋勇作战……率领一群无畏的幸存者，穿越酷热的沙漠，最终面对不可见的邪恶……如何选择，由您决定。\n"
+
+#. type: Plain text
+#: app_metadata.txt:11
+#, no-wrap
+msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
+msgstr "而后，参与到在线战斗中来吧！从七个完全平衡的派系中选择一个，与您的朋友们在超过50张适合各种玩家人数的多人地图上对战！\n"
+
+#. type: Plain text
+#: app_metadata.txt:13
+#, no-wrap
+msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
+msgstr "探索几百个由社区制作的充满创造力的单人与多人战役、地图及派系，并试试看制作自己的自定义内容！韦诺拥有内建的地图编辑器、对模组支持良好的引擎、简单而直观的脚本语言，以及友好而投入的模组社区。我们可无法预知您将带来怎样的冒险故事！\n"
+
+#. type: Plain text
+#: app_metadata.txt:16
+#, no-wrap
+msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########\n"
+msgstr "######## 支持的平台 - 最低配置 ########\n"
+
+#. type: Plain text
+#: app_metadata.txt:18 app_metadata.txt:43
+#, no-wrap
+msgid "#### OS VERSION ####\n"
+msgstr "#### 操作系统版本 ####\n"
+
+#. type: Plain text
+#: app_metadata.txt:20
+#, no-wrap
+msgid "Windows 7 SP1 or later\n"
+msgstr "Windows 7 SP1 或更高\n"
+
+#. type: Plain text
+#: app_metadata.txt:22
+#, no-wrap
+msgid "OS X 10.8 or later\n"
+msgstr "OS X 10.8 或更高\n"
+
+#. type: Plain text
+#: app_metadata.txt:24
+#, no-wrap
+msgid "Ubuntu 16.04 or compatible\n"
+msgstr "Ubuntu 16.04 或与之兼容的系统\n"
+
+#. type: Plain text
+#: app_metadata.txt:26 app_metadata.txt:51
+#, no-wrap
+msgid "#### PROCESSOR ####\n"
+msgstr "#### 处理器 ####\n"
+
+#. type: Plain text
+#: app_metadata.txt:28 app_metadata.txt:30 app_metadata.txt:32
+#, no-wrap
+msgid "Dual-core 2.0 GHz or better\n"
+msgstr "双核 2.0 GHz 或更好\n"
+
+#. type: Plain text
+#: app_metadata.txt:34 app_metadata.txt:59
+#, no-wrap
+msgid "#### GRAPHICS ####\n"
+msgstr "#### 图形 ####\n"
+
+#. type: Plain text
+#: app_metadata.txt:36 app_metadata.txt:61
+#, no-wrap
+msgid "#### SOUND CARD ####\n"
+msgstr "#### 声卡 ####\n"
+
+#. type: Plain text
+#: app_metadata.txt:38 app_metadata.txt:63
+#, no-wrap
+msgid "#### ADDITIONAL NOTES ####\n"
+msgstr "#### 其他说明 ####\n"
+
+#. type: Plain text
+#: app_metadata.txt:41
+#, no-wrap
+msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
+msgstr "######## 支持的平台 - 推荐配置 ########\n"
+
+#. type: Plain text
+#: app_metadata.txt:45
+#, no-wrap
+msgid "Windows 10\n"
+msgstr "Windows 10\n"
+
+#. type: Plain text
+#: app_metadata.txt:47
+#, no-wrap
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 或与之兼容的系统\n"
+
+#. type: Plain text
+#: app_metadata.txt:49
+#, no-wrap
+msgid "macOS 10.10 or later\n"
+msgstr "macOS 10.10 或更高\n"
+
+#. type: Plain text
+#: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57
+#, no-wrap
+msgid "Dual-core 3.2 GHz or better\n"
+msgstr "双核 3.2GHz 或更好\n"
+
+#. type: Plain text
+#: app_metadata.txt:65
+#, no-wrap
+msgid "######## LEGAL INFORMATION ########\n"
+msgstr "######## 法律信息 ########\n"
