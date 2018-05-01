@@ -1,0 +1,787 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2018 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# sylecn <sylecn@yahoo.com.cn>, 2009.
+# CloudiDust <cloudidust@gmail.com>, 2010.
+# DuguCloud <dugucloud@qq.com>, 2011.
+# wind <everywherewind@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth 1.14\n"
+"POT-Creation-Date: 2018-04-30 05:06-0300\n"
+"PO-Revision-Date: 2018-05-01 17:43+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#. type: Attribute 'lang' of: <html>
+#: template.html:3
+msgid "en"
+msgstr "zh_CN"
+
+#. type: Content of: <html><body><div><div><h1>
+#: template.html:15 template.html:29
+msgid "The Battle for Wesnoth 1.14"
+msgstr "韦诺之战 1.14"
+
+#. type: Content of: <html><body><div><div>
+#: template.html:27
+msgid ""
+"<a id=\"bigshield\" href=\"/\" aria-label=\"Wesnoth logo\"><span aria-hidden="
+"\"true\"></span></a>"
+msgstr ""
+"<a id=\"bigshield\" href=\"/\" aria-label=\"Wesnoth logo\"><span aria-hidden="
+"\"true\"></span></a>"
+
+#. type: Content of: <html><body><div><div><h1>
+#: template.html:29
+msgid "<span id=\"branding-sub\">New Horizons Update</span>"
+msgstr "<span id=\"branding-sub\">带来全新视野的更新</span>"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: template.html:32
+msgid ""
+"<i>May 2018.</i> The development team is proud to present version 1.14 of "
+"<cite><a href=\"/\">The&nbsp;Battle&nbsp;for&nbsp;Wesnoth</a></cite>!"
+msgstr ""
+"<b>2018年5月。</b>开发团队在此自豪地宣布<b>韦诺之战</b>的1.14版本发布了！"
+
+#. type: Content of: <html><body><div><div><div><p>
+#: template.html:34
+msgid ""
+"Along with the long-awaited debut on Steam, this new release series brings "
+"forth a vast number of additions and changes in all areas: a new single-"
+"player campaign, a visual and functional refresh of the multiplayer lobby "
+"and add-ons manager, a refurbished display engine, new unit graphics and "
+"animations, and much more. Try out the new features for yourself, or <a href="
+"\"#game\">read on</a> for more details..."
+msgstr ""
+"除了期盼已久的首次登陆Steam之外，这个新发布的版本在所有方面都增加了大量内容，"
+"进行了很多改变：一个新的单人战役，经过界面和功能翻新的多人游戏大厅及附加组件"
+"管理器，整修过的显示引擎，新的单位图像及动画，以及更多其他内容。请去体验这些"
+"新特性吧，或者<a href=\"#game\">继续阅读</a>了解更多细节……"
+
+#. type: Content of: <html><body><div><div><div>
+#: template.html:38
+msgid ""
+"<a class=\"download-button\" role=\"button\" href=\"#download\"> <span class="
+"\"download-arrow\" aria-hidden=\"true\"></span> <span class=\"download-text"
+"\"> <span class=\"download-big\">Download Now!</span> </span> </a> <a class="
+"\"steam-button\" role=\"button\" href=\"https://store.steampowered.com/"
+"app/599390\"> <span class=\"download-text\"> <span class=\"steam-icon\" aria-"
+"hidden=\"true\"></span> <span class=\"download-big\">Get on Steam!</span> </"
+"span> </a>"
+msgstr ""
+"<a class=\"download-button\" role=\"button\" href=\"#download\"> <span class="
+"\"download-arrow\" aria-hidden=\"true\"></span> <span class=\"download-text"
+"\"> <span class=\"download-big\">立即下载！</span> </span> </a> <a class="
+"\"steam-button\" role=\"button\" href=\"https://store.steampowered.com/"
+"app/599390\"> <span class=\"download-text\"> <span class=\"steam-icon\" aria-"
+"hidden=\"true\"></span> <span class=\"download-big\">在Steam上获取！</span> "
+"</span> </a>"
+
+#. type: Content of: <html><body><div><div><h2>
+#: template.html:58
+msgid "What’s New in This Update"
+msgstr "此更新中的新要素"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:60
+msgid ""
+"In the three-and-a-half years since version 1.12, we on the development team "
+"have dedicated much thought towards the future of Wesnoth and where we want "
+"to take the game going forward. Consequently, this version lays the "
+"groundwork for new and exciting changes, some of which are included here, "
+"and some of which we hope to unveil further down the line. Dozens of "
+"contributors dedicated hundreds of hours modernizing our engine, improving "
+"the interface, adding new content, and streamlining the player experience to "
+"ensure this version of Wesnoth is the most stable we have ever released. A "
+"huge number of long-standing bugs were squashed, a brand new solo campaign "
+"was added along with nine new multiplayer maps, and a brand new multiplayer "
+"lobby and revamped add-on manager make their debut!"
+msgstr ""
+"1.12版本发布之后的三年半以来，我们开发团队为韦诺的未来的路线设想了很多。因"
+"此，此版本将成为崭新而激动人心的改变的基础。其中有些改进已经包括在此，而其它"
+"的一些，我们希望在之后再公布。数十位贡献者贡献了几百个小时来将我们的引擎现代"
+"化、改进界面、增加新内容，并让用户体验更顺畅，以保证这是我们至今所发布的最稳"
+"定的韦诺版本。本版本中消灭了大量长期未能解决的缺陷，增加了一个全新的单人战役"
+"和九张全新的多人地图，而全新的多人游戏大厅及翻新过的附加组件管理器也在此首度"
+"登场！"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:62
+msgid ""
+"Probably most notable of all, in order to reach a greater audience and "
+"expand our frontiers, this is also the first release to be published on the "
+"<a href=\"https://store.steampowered.com/app/599390\"><b>Steam Store</b></"
+"a>, available for free on Windows, macOS, and Linux platforms! This is "
+"something many people have requested over the years, and we hope it brings "
+"new faces to our community."
+msgstr ""
+"或许最引起注意的一点是，为了接触更多受众并扩展我们的疆域，这也是第一个发布在"
+"<a href=\"https://store.steampowered.com/app/599390\"><b>Steam商店</b></a>上"
+"的版本，可以在Windows、macOS以及Linux平台上免费游玩！很多年来，有很多人都提出"
+"了这一需求，我们希望这一步将为我们的社区带来新面孔。"
+
+#. type: Content of: <html><body><div><div><div><a>
+#: template.html:64
+msgid "<a href=\"images/start-1.png\">"
+msgstr "<a href=\"images/start-1.png\">"
+
+#. type: Attribute 'alt' of: <html><body><div><div><div><a><img>
+#: template.html:64
+msgid "Title Screen"
+msgstr "标题画面"
+
+#. type: Content of: <html><body><div><div><div><div>
+#: template.html:64 template.html:69 template.html:82 template.html:87
+#: template.html:100 template.html:113 template.html:127
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <html><body><div><div><h3>
+#: template.html:66
+msgid "For Players"
+msgstr "玩家可见的改进"
+
+#. type: Content of: <html><body><div><div><div><div><a>
+#: template.html:69
+msgid "<a href=\"images/start-2.png\">"
+msgstr "<a href=\"images/start-2.png\">"
+
+#. type: Attribute 'alt' of: <html><body><div><div><div><div><a><img>
+#: template.html:69 template.html:87 template.html:113 template.html:127
+msgid "Wesnoth Screenshot"
+msgstr "韦诺截屏"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:72
+msgid ""
+"As of Wesnoth 1.14, the antiquated SDL 1.2 library our engine used has been "
+"replaced with the much-improved SDL 2.0. This addresses many longstanding "
+"issues with OS and hardware compatibility. In particular, support for "
+"fullscreen on multi-monitor configurations is greatly improved and various "
+"mouse-related issues on Apple Retina devices are no more."
+msgstr ""
+"在韦诺1.14中，我们的引擎曾经使用的，过时的SDL 1.2库已被改进很多的SDL 2.0取"
+"代。这一改变解决了很多长期存在的操作系统以及硬件兼容性问题。尤其是，多显示器"
+"系统上的全屏支持改进很大，而Apple视网膜设备上与鼠标有关的很多问题也不复存在"
+"了。"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:74
+msgid ""
+"The user interface has also been further and refined and polished. The main "
+"menu now features a crisper 4K resolution background and a brand-new main "
+"theme from composer <a href=\"http://mattiaswestlund.net/\">Mattias "
+"Westlund</a> (West). Larger and crisper fonts coupled with simplified dialog "
+"borders and buttons enhance the game’s readability across a variety of "
+"hardware and contexts, providing a more modern look. The add-ons manager, "
+"multiplayer lobby and game set-up interfaces have been completely replaced "
+"with fresh designs that we hope should address many long-standing "
+"deficiencies in all of them. The preferences dialog has also been through a "
+"substantial overhaul making it easier to navigate and use."
+msgstr ""
+"用户界面得到了进一步的优化和打磨。主菜单界面中现在有了清晰的4K分辨率的背景"
+"图，以及由作曲家<a href=\"http://mattiaswestlund.net/\">Mattias Westlund</"
+"a>（West）所谱写的全新主题曲。更大、更清晰的字体以及简化的对话框边框及按钮，"
+"让游戏界面的可读性在多种硬件上和上下文中都得到了增强，视觉效果也就更现代化"
+"了。附加组件管理器、多人游戏大厅以及游戏设置界面已被全新设计完全取代。我们希"
+"望这些新设计可以解决这些界面上的诸多长期存在的缺陷。首选项对话框也经过了充分"
+"的翻新，变得更易于浏览和使用。"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:76
+msgid ""
+"A plethora of units such as the Heavy Infantryman and the Elvish Sylph have "
+"received new animations and baseframes to bring them up to higher quality "
+"standards and make the battlefield more lively and dynamic. There are new "
+"generic portraits available for several units too, including the Walking "
+"Corpse and Soulless. Finally, a <i>huge</i> number of new terrains have been "
+"added to the game to enhance new and existing maps — especially those set "
+"indoors and underground — and water and lava have been redone in a new, "
+"fluid and fully-animated, aesthetically-pleasing style. Many village types "
+"have also received time-of-day variations and will now immersively light up "
+"when night falls."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:78
+msgid ""
+"Finally, the in-game sounds for many units and user interface elements have "
+"been replaced."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><h4>
+#: template.html:80
+msgid "Campaigns"
+msgstr "战役"
+
+#. type: Content of: <html><body><div><div><div><a>
+#: template.html:82
+msgid "<a href=\"images/start-3.png\">"
+msgstr "<a href=\"images/start-3.png\">"
+
+#. type: Attribute 'alt' of: <html><body><div><div><div><a><img>
+#: template.html:82
+msgid "Campaigns menu screenshot"
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:84
+msgid ""
+"The main campaign line-up welcomes the addition of <cite>Secrets of the "
+"Ancients</cite>, a player-created campaign brought to you by the author of "
+"<cite>Dead Water</cite>! Follow Ardonna of Tarrynth as she unearths the "
+"secrets of the ancient lich-lords of the Green Isle in her search for "
+"immortality."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><div><div><a>
+#: template.html:87
+msgid "<a href=\"images/start-4.png\">"
+msgstr "<a href=\"images/start-4.png\">"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:90
+msgid ""
+"After years of technical setbacks, <cite>Under the Burning Suns</cite> "
+"finally sees the desert elves faction completely revamped with brand-new "
+"sprites, stunning new portraits by long-time contributing artist <a href="
+"\"https://www.theartysquid.com/\">Emilien Rotival</a> (LordBob), and "
+"revamped unit advancement trees with unique stats to set them apart from the "
+"standard forest elves featured throughout the rest of the game."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:92
+msgid ""
+"<cite>Northern Rebirth’s</cite> first nine scenarios now have new and "
+"improved maps, making use of new terrains and simpler, more organic designs. "
+"The scenarios themselves have also been tweaked for more streamlined play. "
+"<cite>Descent into Darkness</cite> also received similar treatment; it now "
+"features cleaner, more visually-pleasing maps."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:94
+msgid ""
+"Because of the sheer number of singleplayer campaigns included in "
+"<cite>Wesnoth</cite>, it has become increasingly difficult to get a sense of "
+"the in-universe chronology of the stories they tell. To address this, the "
+"Campaigns menu now provides the option to sort campaigns according to their "
+"position in the timeline of Irdya’s history, as well as the option to sort "
+"them alphabetically should one so desire."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:96
+msgid ""
+"For those who wish to enrich their gameplay with player-made gimmicks or "
+"challenges, it is now possible to use Modifications in singleplayer as well "
+"as multiplayer. And if the temptation to reload saves to get more favorable "
+"outcomes should overcome players, they are also able to enable a special "
+"Deterministic Mode when launching campaigns."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><h4>
+#: template.html:98
+msgid "Multiplayer"
+msgstr "多人游戏"
+
+#. type: Content of: <html><body><div><div><div><a>
+#: template.html:100
+msgid "<a href=\"images/start-5.png\">"
+msgstr "<a href=\"images/start-5.png\">"
+
+#. type: Attribute 'alt' of: <html><body><div><div><div><a><img>
+#: template.html:100
+msgid "Multiplayer game setup screenshot"
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:102
+msgid ""
+"Wesnoth’s multiplayer lobby has been redesigned from the ground up to "
+"provide a simpler experience for new players getting the hang of the game. "
+"New features include clickable links in the chat log, separate tabs for "
+"private message exchanges, easier filtering of games and players, faster "
+"game creation for those using a map author’s recommended settings, and a "
+"more comprehensive display of faction attributes."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:104
+msgid ""
+"In terms of content for games with other people, players will be glad to "
+"know that the game’s roster has been expanded with no fewer than <b>nine</b> "
+"community-contributed maps! Wesnoth now ships with a total of 55 carefully-"
+"balanced maps with many different environments and team set-ups for players "
+"to choose from."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:106
+msgid ""
+"The Khalifate multiplayer faction introduced in Wesnoth 1.12 has been "
+"renamed the Dunefolk. This is part of an ongoing effort to expand their lore "
+"and better ingrate them into the world of Irdya. Accompanying this are a "
+"multitude of stats changes to various Dunefolk units aimed to better balance "
+"the faction in multiplayer matchups."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:108
+msgid ""
+"It is now possible to forfeit a multiplayer game, signaling that you no "
+"longer intend to keep playing without simply suddenly quitting."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><h4>
+#: template.html:110
+msgid "General"
+msgstr "总体改进"
+
+#. type: Content of: <html><body><div><div><div><div><a>
+#: template.html:113
+msgid "<a href=\"images/start-6.png\">"
+msgstr "<a href=\"images/start-6.png\">"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:116
+msgid ""
+"It is now possible to customize the colors of the movement/attack orbs "
+"displayed alongside units on the map to make it easier for players with "
+"different color perception to identify each unit’s status. An option "
+"(disabled by default) is also provided to display a color orb on enemy units."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:118
+msgid ""
+"Switching to another application while Wesnoth is running now pauses the "
+"music by default. If you'd prefer it to keep playing, there is an option for "
+"that."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:120
+msgid ""
+"In order for players to more easily include details about their system when "
+"reporting issues with the game, there is now a brand new version information "
+"dialog accessible from the bottom-left corner of the main menu. Among the "
+"information it provides are the operating system version, paths to the "
+"various files Wesnoth uses, the version numbers of the code libraries the "
+"game is built against, and a list of optional features enabled by the "
+"packager."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:122
+msgid ""
+"Finally, for Windows players, the game’s configuration, saves, and add-ons "
+"are now always stored in their Documents folder. This change was made to "
+"avoid various issues inherent to the legacy approach of writing to the "
+"system’s Program Files folder, which is neither recommended nor well-"
+"supported on newer Windows versions. Note that while legacy option of "
+"storing said files in the game’s installation path is gone, that behavior "
+"may still be achieved through the use of certain command-line options for "
+"those who prefer to install Wesnoth on an external drive."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><h3>
+#: template.html:124
+msgid "For Content Creators"
+msgstr "内容创作者可见的改进"
+
+#. type: Content of: <html><body><div><div><div><div><a>
+#: template.html:127
+msgid "<a href=\"images/start-7.png\">"
+msgstr "<a href=\"images/start-7.png\">"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:130
+msgid ""
+"This release series brings a major and long-overdue change to the way "
+"Wesnoth content is licensed. While all content was previously required to "
+"use the GNU General Public License version 2 or later for both code and "
+"visual and sound assets, we now allow add-on creators to use <b>any</b> <a "
+"href=\"https://creativecommons.org/licenses/\">Creative Commons license</a> "
+"for art, sounds, and music in their add-ons. Additionally, assets shipped "
+"with the game may be licensed under the <a href=\"https://creativecommons."
+"org/licenses/by-sa/4.0/\">CC BY-SA license</a>. In both cases, the GNU "
+"General Public License continues to be supported. This change does not "
+"retroactively affect any files previously published under the GNU GPL unless "
+"the copyright holder chooses to relicense said resources."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:132
+msgid ""
+"With regards to more technically-oriented aspects, Wesnoth’s WML, Lua, and "
+"Formula Language engines have seen a great number of improvements and "
+"changes this release cycle. The internal Lua interpreter has been upgraded "
+"to version 5.3.4, and much new functionality has been added to the <a href="
+"\"https://wiki.wesnoth.org/LuaWML\">Lua API</a>. This includes the ability "
+"to write <a href=\"https://wiki.wesnoth.org/MapGeneratorWML#The_lua_generator"
+"\">map generators</a> using Lua, invoke certain stock dialogs used across "
+"the game UI (menu popups, confirmation prompts, information pop-ups, the "
+"<code>[message]</code> UI, and the story screen UI), and use named Lua "
+"functions with the <code>lua_function=</code> attribute in <a href=\"https://"
+"wiki.wesnoth.org/StandardLocationFilter\">Standard Location Filters</a>. The "
+"Gamestate Inspector now also provides access to a built-in Lua console for "
+"debugging and testing code directly within the game."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:134
+msgid ""
+"Inline formulas in the Wesnoth Formula Language have been enhanced with the "
+"addition of many new built-in functions and syntax features. By extending "
+"support for the <code>formula=</code> filter attribute to <a href=\"https://"
+"wiki.wesnoth.org/StandardLocationFilter\">Standard Location Filters</a> and "
+"<a href=\"https://wiki.wesnoth.org/StandardSideFilter\">Standard Side "
+"Filters</a>, inline formulas can now be used to build more intricate logic "
+"in WML. The new <code>~ADJUST_ALPHA()</code> and <code>~CHAN()</code> <a "
+"href=\"https://wiki.wesnoth.org/ImagePathFunctionWML\">image path functions</"
+"a> also include support for formulas to alter the rendering of images within "
+"the game."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:136
+msgid ""
+"The WML preprocessor now supports optional parameters with default values in "
+"macro definitions and substitutions by means of the new <a href=\"https://"
+"wiki.wesnoth.org/PreprocessorRef#.23arg_and_.23endarg\"><code>#arg/#endarg</"
+"code> directives</a>. This should enable authors to reduce code bloat in "
+"situations where otherwise more than one definition of a macro would be "
+"needed to cover varied use cases."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:138
+msgid ""
+"WML’s looping constructs are now more natural and flexible with the addition "
+"of <a href=\"https://wiki.wesnoth.org/ConditionalActionsWML#.5Bfor.5D"
+"\"><code>[for]</code> and <code>[foreach]</code></a> tags, making the "
+"underlying syntax more lightweight compared to the old <code>{FOREACH}</"
+"code> macro and hand-written alternatives."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:140
+msgid ""
+"After several development cycles of adding new and/or experimental features "
+"to the AI engine, a long overdue AI code cleanup effort was undertaken. This "
+"includes a reorganization of the code of the current AI as well as the "
+"removal of non-functional, outdated or deprecated code. As a result, the "
+"format for configuring some AI parameters has been simplified and the AI "
+"functionality has been augmented in many ways. To name just one example, the "
+"functionality of the <a href=\"https://wiki.wesnoth.org/"
+"DirectActionsWML#.5Bmodify_ai.5D\"><code>[modify_ai]</code></a> tag has been "
+"extended significantly. Along the way, many bugs were fixed, such as "
+"inconsistencies of dealing with hidden units, fog and shroud and a problem "
+"with recruiting when the AI also had a recall list available."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:142
+msgid ""
+"As previously mentioned, <a href=\"https://wiki.wesnoth.org/ModificationWML"
+"\">game modifications</a> can now be used in singleplayer campaigns as well "
+"as multiplayer. Their syntax also sees the addition of a <code>[resource]</"
+"code> tag to implement hidden modifications that can be explicitly requested "
+"by add-ons instead of manually selected by players."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:144
+msgid ""
+"The map editor’s Open and Save As dialogs have been completely rewritten, "
+"enabling easier access to the game’s files and installed add-ons, as well as "
+"any other locations that can be saved for quick access as bookmarks."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:146
+msgid ""
+"Finally, content creators running the game on Windows might find the <i>"
+"\"Battle for Wesnoth (with console)\"</i> shortcut useful. This includes the "
+"new <code>--wconsole</code> command-line option, which enables a real-time "
+"display of log messages in a standard Windows console instead of writing "
+"them to a file. If keeping persistent logs as usual is preferred, we have "
+"also improved the way those are stored on disk. Log files are now saved to "
+"the <code>logs</code> folder in the player files path, and logs from up to "
+"eight past sessions are stored in separate files with timestamps for "
+"convenient reference. Finally, access to the current session’s log is "
+"possible from the aforementioned version information dialog."
+msgstr ""
+
+#. type: Content of: <html><body><div><div><h2>
+#: template.html:148
+msgid "Download"
+msgstr "下载"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:150
+msgid ""
+"<cite>The Battle for Wesnoth</cite> is made available under the <a href="
+"\"https://www.gnu.org/licenses/gpl-2.0.html\">GNU General Public License</a> "
+"(GNU GPL) — either version 2 of the license or, at your option, any later "
+"version — and the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/"
+"\">Creative Commons Attribution Share-Alike License</a> (CC-BY-SA) — version "
+"4.0. The source code is available on <a href=\"https://github.com/wesnoth/"
+"wesnoth\">GitHub</a>, and you can find instructions for <a href=\"https://"
+"wiki.wesnoth.org/CompilingWesnoth\">building from source</a> on a range of "
+"different operating systems on our wiki. Ready-to-install packages are "
+"available for Microsoft Windows, Apple macOS, and GNU/Linux."
+msgstr ""
+"<cite>韦诺之战</cite>采用<a href='https://www.gnu.org/licenses/gpl-2.0."
+"html'>GNU通用公共许可证</a>（GPL）授权——可以是该许可证的第2版，也可以是之后的"
+"任何一个版本，这由您选择——以及<a href=\"https://creativecommons.org/licenses/"
+"by-sa/4.0/\">创作共用 署名-相同方式共享 许可证</a> (CC-BY-SA) 4.0版本。源代码"
+"可以从<a href=\"https://github.com/wesnoth/wesnoth\">GitHub</a>获取。在我们的"
+"维基上，您可以获取在各种不同的操作系统下<a href=\"https://wiki.wesnoth.org/"
+"CompilingWesnoth\">从源代码编译</a>游戏的相关指导信息。我们也为Microsoft "
+"Windows、Apple macOS以及GNU/Linux提供即下即装的软件包。"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:153
+msgid ""
+"<a href=\"https://sourceforge.net/projects/wesnoth/files/wesnoth-1.14/"
+"wesnoth-1.14.0/wesnoth-1.14.0-win32.exe/download\"><i class=\"downloadicon "
+"downloadicon-windows\" aria-hidden=\"true\"></i><span class=\"os\">Windows</"
+"span> <span class=\"size\">403.1 MiB</span></a>"
+msgstr ""
+"<a href=\"https://sourceforge.net/projects/wesnoth/files/wesnoth-1.14/"
+"wesnoth-1.14.0/wesnoth-1.14.0-win32.exe/download\"><i class=\"downloadicon "
+"downloadicon-windows\" aria-hidden=\"true\"></i><span class=\"os\">Windows</"
+"span> <span class=\"size\">403.1 MiB</span></a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:154
+msgid ""
+"<a href=\"https://sourceforge.net/projects/wesnoth/files/wesnoth-1.14/"
+"wesnoth-1.14.0/Wesnoth_1.14.0.dmg/download\"><i class=\"downloadicon "
+"downloadicon-apple\" aria-hidden=\"true\"></i><span class=\"os\">macOS</"
+"span> <span class=\"size\">447.0 MiB</span></a>"
+msgstr ""
+"<a href=\"https://sourceforge.net/projects/wesnoth/files/wesnoth-1.14/"
+"wesnoth-1.14.0/Wesnoth_1.14.0.dmg/download\"><i class=\"downloadicon "
+"downloadicon-apple\" aria-hidden=\"true\"></i><span class=\"os\">macOS</"
+"span> <span class=\"size\">447.0 MiB</span></a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:155
+msgid ""
+"<a href=\"https://sourceforge.net/projects/wesnoth/files/wesnoth-1.14/"
+"wesnoth-1.14.0/wesnoth-1.14.0.tar.bz2/download\"><i class=\"downloadicon "
+"downloadicon-src\" aria-hidden=\"true\"></i><span class=\"os\">Source</span> "
+"<span class=\"size\">442.2 MiB</span></a>"
+msgstr ""
+"<a href=\"https://sourceforge.net/projects/wesnoth/files/wesnoth-1.14/"
+"wesnoth-1.14.0/wesnoth-1.14.0.tar.bz2/download\"><i class=\"downloadicon "
+"downloadicon-src\" aria-hidden=\"true\"></i><span class=\"os\">Source</span> "
+"<span class=\"size\">442.2 MiB</span></a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:156
+msgid ""
+"<a href=\"https://wiki.wesnoth.org/WesnothBinariesLinux\"><i class="
+"\"downloadicon downloadicon-linux\" aria-hidden=\"true\"></i><span class=\"os"
+"\">Linux</span></a>"
+msgstr ""
+"<a href=\"https://wiki.wesnoth.org/WesnothBinariesLinux\"><i class="
+"\"downloadicon downloadicon-linux\" aria-hidden=\"true\"></i><span class=\"os"
+"\">Linux</span></a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:157
+msgid ""
+"<a href=\"https://itunes.apple.com/us/app/battle-for-wesnoth-hd/"
+"id575852062\"><i class=\"downloadicon downloadicon-ios\" aria-hidden=\"true"
+"\"></i><span class=\"os\">iOS</span></a>"
+msgstr ""
+"<a href=\"https://itunes.apple.com/us/app/battle-for-wesnoth-hd/"
+"id575852062\"><i class=\"downloadicon downloadicon-ios\" aria-hidden=\"true"
+"\"></i><span class=\"os\">iOS</span></a>"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:160
+msgid ""
+"You can refer to the <a href=\"https://wiki.wesnoth.org/Download\">downloads "
+"page</a> for the latest up-to-date packages and instructions, including "
+"those for other platforms once they become available."
+msgstr ""
+"您也可以在<a href=\"https://wiki.wesnoth.org/Download\">下载页面</a>找到最新"
+"的软件包和安装方法说明，当其他平台上的软件包可用时，它们也会被包括在该页面"
+"上。"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:162
+msgid ""
+"If you downloaded previous versions of the game, you might be interested in "
+"downloading the <a href=\"https://wiki.wesnoth.org/Download_Xdeltas"
+"\">Xdelta</a> files only."
+msgstr ""
+"如果您下载过此游戏的旧版本，您可以考虑只下载<a href='http://www.wesnoth.org/"
+"wiki/Download_Xdeltas'>xdelta</a>文件。"
+
+#. type: Content of: <html><body><div><div><h2>
+#: template.html:164
+msgid "Contribute"
+msgstr "贡献"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:166
+msgid ""
+"<cite>The Battle for Wesnoth</cite> is constantly being improved and "
+"expanded upon by a multitude of international volunteers from diverse "
+"backgrounds. Since its inception in July 2003, hundreds of people have "
+"contributed to all areas of the game, from mainline content shipped as part "
+"of the official releases to hundreds of player-made projects available to "
+"download from our add-ons server. Whether you need help beating a particular "
+"scenario or adding a feature to your custom maps, <cite>Wesnoth</cite> "
+"boasts a massive community of players and creators always willing to help."
+msgstr ""
+"<cite>韦诺之战</cite>在来自各种各样背景的大量国际志愿者努力下不断完善和拓展。"
+"自从2003年7月此游戏诞生以来，几百人已经为游戏的方方面面作出了贡献。从官方发布"
+"版中包含的主线内容，到可以从我们的附加组件服务器上下载的几百个玩家自制项目，"
+"都包括在这些贡献中。无论您是需要在通关特定场景时获得一些帮助，还是想要添加新"
+"特性到您的自定义地图里，<cite>韦诺</bite>都有一个巨大的玩家和创作者社区总是愿"
+"意提供帮助。"
+
+#. type: Content of: <html><body><div><div><p>
+#: template.html:168
+msgid ""
+"Besides creating your own add-on content, there are many other ways you can "
+"help <cite>Wesnoth</cite>:"
+msgstr ""
+"除了创作您自己的附加组件内容，还有很多其他方式您能参与到<b>韦诺</b>创作中来："
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:171
+msgid "<a href=\"https://wiki.wesnoth.org/Project\">Contribute</a> code"
+msgstr "<a href=\"https://wiki.wesnoth.org/Project\">贡献</a>代码"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:172
+msgid ""
+"<a href=\"https://forums.wesnoth.org/viewforum.php?f=9\">Create</a> art for "
+"the main game or for user-made <a href=\"https://forums.wesnoth.org/"
+"viewforum.php?f=23\">add-ons</a>"
+msgstr ""
+"为游戏主体和用户自制的<a href=\"https://forums.wesnoth.org/viewforum.php?"
+"f=23\">附加组件</a>进行美工<a href=\"https://forums.wesnoth.org/viewforum."
+"php?f=9\">创作</a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:173
+msgid ""
+"<a href=\"https://wiki.wesnoth.org/WesnothTranslations\">Translate</a> the "
+"game into your language"
+msgstr ""
+"将游戏<a href=\"https://wiki.wesnoth.org/WesnothTranslations\">翻译</a>为您的"
+"语言"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:174
+msgid ""
+"<a href=\"https://forums.wesnoth.org/viewforum.php?f=14\">Produce</a> new "
+"music tracks and sound effects"
+msgstr ""
+"<a href=\"https://forums.wesnoth.org/viewforum.php?f=14\">谱写</a>新的音轨和"
+"声效"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:175
+msgid "Spread the word about <cite>Wesnoth</cite> on social media!"
+msgstr "或是在社交媒体上宣传<cite>韦诺</cite>！"
+
+#. type: Content of: <html><body><div><div><h2>
+#: template.html:178
+msgid "More Info"
+msgstr "更多信息"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:181
+msgid ""
+"<a href=\"https://changelog.wesnoth.org/1.14/\">Full Changelog</a> (English "
+"only)"
+msgstr ""
+"<a href=\"https://changelog.wesnoth.org/1.14/\">完整的更新日志</a>（仅有英"
+"文）"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:182
+msgid ""
+"<a href=\"https://www.wesnoth.org/manual/1.14/manual.en.html\">User’s "
+"Manual</a>"
+msgstr ""
+"<a href=\"https://www.wesnoth.org/manual/1.14/manual.en.html\">用户手册</a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:183
+msgid "<a href=\"https://www.wesnoth.org\">Official Website</a> (English only)"
+msgstr "<a href=\"https://www.wesnoth.org\">官方网站</a>（仅有英文）"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:185
+msgid ""
+"<a href=\"https://www.wesnoth.org/start/1.12\">Wesnoth 1.12 Release Notes</a>"
+msgstr ""
+"<a href=\"https://www.wesnoth.org/start/1.12\">韦诺之战1.12发行说明</a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:186
+msgid ""
+"<a href=\"https://www.wesnoth.org/start/1.10\">Wesnoth 1.10 Release Notes</a>"
+msgstr ""
+"<a href=\"https://www.wesnoth.org/start/1.10\">韦诺之战1.10发行说明</a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:187
+msgid ""
+"<a href=\"https://www.wesnoth.org/start/1.8\">Wesnoth 1.8 Release Notes</a>"
+msgstr "<a href=\"https://www.wesnoth.org/start/1.8\">韦诺之战1.8发行说明</a>"
+
+#. type: Content of: <html><body><div><div><ul><li>
+#: template.html:188
+msgid ""
+"<a href=\"https://www.wesnoth.org/start/1.6\">Wesnoth 1.6 Release Notes</a>"
+msgstr "<a href=\"https://www.wesnoth.org/start/1.6\">韦诺之战1.6发行说明</a>"
+
+#. type: Content of: <html><body><div><div><div><div>
+#: template.html:199
+msgid "This page is also available in the following languages:"
+msgstr "这个页面已被翻译为以下语言："
+
+#. type: Content of: <html><body><div><div><div>
+#: template.html:205
+msgid ""
+"<a href=\"https://wiki.wesnoth.org/StartingPoints\">Site Map</a> &#8226; <a "
+"href=\"https://status.wesnoth.org/\">Site Status</a>"
+msgstr ""
+"<a href=\"https://wiki.wesnoth.org/StartingPoints\">网站地图</a> &#8226; <a "
+"href=\"https://status.wesnoth.org/\">网站状态</a>"
+
+#. type: Content of: <html><body><div><div><div>
+#: template.html:206
+msgid ""
+"Copyright &#169; 2003&#8211;2018 by <a rel=\"author\" href=\"https://wiki."
+"wesnoth.org/Project\">The Battle for Wesnoth Project</a>."
+msgstr ""
+"版权所有 &#169; 2003&#8211;2018，<a rel=\"author\" href=\"https://wiki."
+"wesnoth.org/Project\">韦诺之战项目团队</a>。"
+
+#. type: Content of: <html><body><div><div><div>
+#: template.html:207
+msgid "Site design Copyright &#169; 2017&#8211;2018 by Iris Morelle."
+msgstr "网站设计版权所有 &#169; 2017&#8211;2018，Iris Morelle。"
