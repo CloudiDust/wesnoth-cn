@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-31 23:36 UTC\n"
-"PO-Revision-Date: 2018-03-27 21:32+0800\n"
+"POT-Creation-Date: 2018-05-06 08:31 UTC\n"
+"PO-Revision-Date: 2018-05-06 21:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.7\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -330,8 +330,8 @@ msgstr ""
 "之神庙"
 
 #. [event]
-msgid "Gwillyn"
-msgstr "格威林"
+msgid "Gwyllin"
+msgstr "格威尔林"
 
 #. [event]
 msgid "Veomyr"
@@ -1103,8 +1103,8 @@ msgstr ""
 "洞穴后面的隧道变窄了，继续往下延伸了很长一段。墙上的一片片真菌发出微弱的光，"
 "让我并没有被绊得很厉害。终于，我看到前方出现了一道明亮的光。"
 
-#. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
 #. [unit]: type=Sacrifice, id=necromancer_on_altar
+#. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
 msgid "Ras-Tabahn"
 msgstr "拉斯-塔班"
 
@@ -1113,8 +1113,8 @@ msgid "Oh, wow."
 msgstr "哦，喔哦。"
 
 #. [message]: speaker=Ras-Tabahn
-msgid "I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarynth!"
-msgstr "我是拉斯-塔班。欢迎来到我的实验室，塔林斯的阿冬娜！"
+msgid "I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarrynth!"
+msgstr "我是拉斯-塔班。欢迎来到我的研究室，塔林斯的阿冬娜！"
 
 #. [message]: speaker=Ardonna
 msgid "How do you know my name?"
@@ -1277,8 +1277,8 @@ msgid "Capture every village"
 msgstr "占领每一座村庄"
 
 #. [unit]: type=Shadow
-msgid "Vash Gorn"
-msgstr "瓦希·戈恩"
+msgid "Vash-Gorn"
+msgstr "瓦希-戈恩"
 
 #. [unit]: type=Mage, id=Wynran
 msgid "Wynran"
@@ -1505,25 +1505,32 @@ msgstr ""
 "帮忙了。我希望你们中的绝大部分人在这场战斗中活下来，所以试着别死掉。"
 
 #. [message]: speaker=Ras-Tabahn
-msgid "You kids may watch."
-msgstr "孩子们你们就看着吧。"
+msgid "plural^You may watch."
+msgstr "你们就看着吧。"
 
 #. [message]: speaker=Shynal
 msgid "Can we help?"
 msgstr "我们能帮什么忙吗？"
 
 #. [message]: speaker=Ras-Tabahn
-msgid "As you wish. (<i>Cough, cough</i>)"
-msgstr "如你所愿。（<b>咳，咳</b>）"
+msgid "plural^As you wish. (<i>Cough, cough</i>)"
+msgstr "如你们所愿。（<b>咳，咳</b>）"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You may watch."
 msgstr "你就看着吧。"
 
-#. [message]: speaker=Carcyn
-#. [message]: speaker=Shynal
+#. [message]: id=Carcyn,Shynal
 msgid "Can I help?"
 msgstr "我能帮什么忙吗？"
+
+#. [message]: id=Carcyn,Shynal
+msgid "self_female^Can I help?"
+msgstr "我能帮什么忙吗？"
+
+#. [message]: speaker=Ras-Tabahn
+msgid "As you wish. (<i>Cough, cough</i>)"
+msgstr "如你所愿。（<b>咳，咳</b>）"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1543,8 +1550,8 @@ msgstr ""
 "拉斯-塔班的队伍来到了泰河附近精灵之路的尽头，他们将在此等待阿冬娜。而当他们到"
 "达时，另一支队伍也到达了。"
 
-#. [side]: type=Merman Triton, id=Okean
 #. [side]
+#. [side]: type=Merman Triton, id=Okean
 msgid "Merfolk"
 msgstr "人鱼"
 
@@ -1581,8 +1588,8 @@ msgid ""
 "I wonder what are they from. A large flightless bird perhaps? Let us see."
 msgstr "我想知道这些骨架是谁的。也许是一只大型的不能飞的鸟？我们来看看。"
 
-#. [message]: speaker=$other_human
 #. [message]: speaker=Ardonna
+#. [message]: speaker=$other_human
 msgid "Oh, you were right!"
 msgstr "哦，你说对了！"
 
@@ -1632,12 +1639,12 @@ msgstr "实际上，如果你们要伤害我们，那我只能期望你们和他
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
-"This is going to cost us, but I want to keep some gold around for "
-"emergencies — I think 50 is about right. You kids help me collect some. "
-"(<i>Cough, cough</i>)"
+"addressed_plural^This is going to cost us, but I want to keep some gold "
+"around for emergencies — I think 50 is about right. You help me collect "
+"some. (<i>Cough, cough</i>)"
 msgstr ""
-"这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。孩子"
-"们帮我收集些金币吧。（<b>咳</b>）"
+"这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。你们"
+"帮我收集些金币吧。（<b>咳</b>）"
 
 #. [message]: speaker=Carcyn
 msgid "Right away sir."
@@ -1652,22 +1659,23 @@ msgid "Yes, yes. I’m quite all right."
 msgstr "是，是。我觉得很不错。"
 
 #. [message]: speaker=Shynal
-#. [message]: speaker=Carcyn
+#. [message]: id=Carcyn,Shynal
 msgid "I don’t fancy wading in the water to fight these things."
-msgstr "我可不喜欢在水里和这些东西作战。"
+msgstr "我可不想到水里去和这些东西作战。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "No problem. We can lure them onto land."
 msgstr "没问题。我们可以把他们引诱到陆地上来。"
 
 #. [message]: speaker=Shynal
-#. [message]: speaker=Carcyn
+#. [message]: id=Carcyn,Shynal
 msgid "How?"
 msgstr "怎么做？"
 
 #. [message]: speaker=Ras-Tabahn
-msgid "Have you never been fishing before? With bait of course."
-msgstr "你从来没有钓过鱼吗？当然是用鱼饵了。"
+msgid ""
+"addressed_plural^Have you never been fishing before? With bait of course."
+msgstr "你们从来都没有钓过鱼吗？当然是用鱼饵了。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1678,10 +1686,17 @@ msgstr ""
 "这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。帮我"
 "收集些金币吧。（<b>咳</b>）"
 
-#. [message]: speaker=Carcyn
-#. [message]: speaker=Shynal
+#. [message]: id=Carcyn,Shynal
 msgid "Right away sir. Are you feeling well?"
 msgstr "马上就干，老师。您觉得还好吗？"
+
+#. [message]: id=Carcyn,Shynal
+msgid "self_female^I don’t fancy wading in the water to fight these things."
+msgstr "我可不想到水里去和这些东西作战。"
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Have you never been fishing before? With bait of course."
+msgstr "你从来都没有钓过鱼吗？当然是用鱼饵了。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1757,8 +1772,8 @@ msgstr ""
 "好吧，等这些士兵为我而战之时，它们又会得到一次获取荣耀的机会。他们之中意志更"
 "加坚强的那些，甚至还可能记得自己曾经渴望荣耀。"
 
-#. [side]: type=Saurian Soothsayer, id=Krissaz
 #. [side]
+#. [side]: type=Saurian Soothsayer, id=Krissaz
 msgid "Saurians"
 msgstr "蜥蜴人"
 
@@ -1766,8 +1781,8 @@ msgstr "蜥蜴人"
 msgid "Krissaz"
 msgstr "克里萨兹"
 
-#. [side]: type=Naga Myrmidon, id=Blianxkep
 #. [side]
+#. [side]: type=Naga Myrmidon, id=Blianxkep
 msgid "Nagas"
 msgstr "娜迦"
 
@@ -2825,8 +2840,8 @@ msgstr ""
 "我们将山中之火抛在身后，再一次没入黑暗之中。在一段漫长旅程之后，我们走进了隧"
 "道末端的死胡同里……但那墙却并不坚实。"
 
-#. [side]: type=Dwarvish Lord, id=Golbanduth
 #. [side]
+#. [side]: type=Dwarvish Lord, id=Golbanduth
 msgid "Dwarves"
 msgstr "矮人"
 

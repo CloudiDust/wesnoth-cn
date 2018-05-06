@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-27 01:21 UTC\n"
+"POT-Creation-Date: 2018-05-06 08:31 UTC\n"
 "PO-Revision-Date: 2018-03-27 21:32+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -99,11 +99,11 @@ msgstr "打败阿尔伯"
 msgid "Death of Kapou’e"
 msgstr "卡破尔死亡"
 
-#. [side]: type=Orcish Leader, id=Kapou'e
 #. [side]: id=Kapou'e, type=Orcish Leader
 #. [side]
 #. [side]: type=Orcish Slayer, id=Rugh
 #. [side]: id=Grüü, type=Great Troll
+#. [side]: type=Orcish Leader, id=Kapou'e
 #. [side]: type=General, id=Howgarth III
 msgid "Kapou’e"
 msgstr "卡破尔"
@@ -112,11 +112,11 @@ msgstr "卡破尔"
 msgid "Alber"
 msgstr "阿尔伯"
 
-#. [side]: type=Lieutenant, id=Alber
-#. [side]: type=General, id=Lanbec'h
 #. [side]: type=General, id=Slowhand
 #. [side]
 #. [side]: type=General, id=Harman
+#. [side]: type=General, id=Lanbec'h
+#. [side]: type=Lieutenant, id=Alber
 msgid "Humans"
 msgstr "人类"
 
@@ -1300,17 +1300,17 @@ msgstr "到达东南方的绿洲"
 msgid "Ar-Dant"
 msgstr "亚单"
 
-#. [side]: type=Assassin, type=Rogue, id=Ar-Dant
-#. [side]
-#. [side]: type=Elvish Champion, id=Thelarion
-#. [side]: type=Dwarvish Steelclad, id=Darstang
-#. [side]: type=General, id=Earl Lanbec'h
-#. [side]: type=General, id=Arthain
-#. [side]: type=Lieutenant, id=Hanak
-#. [side]: type=Bandit, id=Sagmar
 #. [side]: type=General, id=Telthys
+#. [side]: type=Elvish Champion, id=Thelarion
 #. [side]: type=General, id=Fredor
 #. [side]: type=General, id=Georan
+#. [side]: type=General, id=Arthain
+#. [side]: type=Lieutenant, id=Hanak
+#. [side]: type=Dwarvish Steelclad, id=Darstang
+#. [side]: type=General, id=Earl Lanbec'h
+#. [side]
+#. [side]: type=Bandit, id=Sagmar
+#. [side]: type=Assassin, type=Rogue, id=Ar-Dant
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
 #. [side]: type=Orcish Warlord, id=Shan Taum
 msgid "Villains"
@@ -1721,8 +1721,8 @@ msgstr "抵御饭桶攻击20回合"
 msgid "Defeat Shan Taum"
 msgstr "打败饭桶"
 
-#. [side]: type=Orcish Warlord, id=Shan Taum
 #. [unit]: type=Orcish Warlord, id=Shan Taum
+#. [side]: type=Orcish Warlord, id=Shan Taum
 msgid "Shan Taum"
 msgstr "饭桶"
 
@@ -2077,8 +2077,8 @@ msgstr "花的时间太多了。所有的军队出击，送这些混蛋下地狱
 msgid "It won’t be said that Elves were braver than us, everyone attack!"
 msgstr "我们岂能不如精灵勇猛，全体出击！"
 
-#. [unit]: type=General, id=Earl Lanbec'h
 #. [side]: type=General, id=Earl Lanbec'h
+#. [unit]: type=General, id=Earl Lanbec'h
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
 msgid "Earl Lanbec’h"
 msgstr "兰贝契伯爵"
@@ -2797,13 +2797,13 @@ msgstr "移动卡破尔至西南方路标处"
 msgid "Braga"
 msgstr "布拉戛"
 
+#. [side]: type=Orcish Warlord, id=Orga
+#. [side]: type=Orcish Warrior, id=Knorgh
+#. [side]: type=Orcish Warrior, id=Nofhug
 #. [side]: type=Orcish Warlord, id=Braga
 #. [side]: type=Orcish Warlord, id=Meato
 #. [side]: type=Orcish Warlord, id=Ragvan
 #. [side]: type=Orcish Warlord, id=Kergai
-#. [side]: type=Orcish Warlord, id=Orga
-#. [side]: type=Orcish Warrior, id=Knorgh
-#. [side]: type=Orcish Warrior, id=Nofhug
 msgid "Rebels"
 msgstr "叛军"
 
@@ -3191,8 +3191,8 @@ msgstr "我们到了，伯爵阁下。"
 msgid "Ahhh, perfect, more reinforcements."
 msgstr "啊，好得很嘛，更多援军。"
 
-#. [unit]: type=General, id=Howgarth III
 #. [side]: type=General, id=Howgarth III
+#. [unit]: type=General, id=Howgarth III
 msgid "Howgarth III"
 msgstr "豪伽施三世"
 
