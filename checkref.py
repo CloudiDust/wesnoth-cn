@@ -12,7 +12,14 @@
 # https://code.google.com/p/wesnoth-translation-cn/wiki/CheckRef
 #
 
-import os, polib, sys, cPickle
+from __future__ import print_function
+
+import os, polib, sys
+
+if sys.version_info >= (3,0):
+    import _pickle as cPickle
+else:
+    import cPickle
 
 g_whole_words_match = False
 
@@ -34,7 +41,7 @@ def get_msg_str(msgstr):
         except:
             return "<<<Encoding Error>>>"
     else:
-        print "unknown type of msgstr", type(msgstr).__name__
+        print("unknown type of msgstr", type(msgstr).__name__)
         return ""
 
 class Myentry:
@@ -67,8 +74,8 @@ def check_words(a_fname, entry):
                 newentry = Myentry(a_fname, words[i], transwords[i])
                 entrylist.append(newentry)
         else:
-            #print "Possible error, translation should have %d commas: " % (lenwords)
-            #print a_fname, entry.msgid, entry.msgstr
+            #print("Possible error, translation should have %d commas: " % (lenwords))
+            #print(a_fname, entry.msgid, entry.msgstr)
             return False
     return entrylist
 
@@ -124,10 +131,10 @@ def check_duplicates(podict):
     for entrylist in podict.itervalues():
         if len(entrylist) > 1:
             count += 1
-            print "#"+str(count), '"'+entrylist[0].msgid.encode("utf-8")+'" :'
+            print("#"+str(count), '"'+entrylist[0].msgid.encode("utf-8")+'" :')
             for item in entrylist:
-                print item.fname, '"'+item.msgstr+'"'
-    print "Total", count, "duplicates found."
+                print(item.fname, '"'+item.msgstr+'"')
+    print("Total", count, "duplicates found.")
 
 def refresh_database():
     podict = {}
@@ -156,20 +163,20 @@ def main():
             flushed = True
             podict = refresh_database()
         if args in podict:
-            print "Translation found for", '"'+args+'"'
+            print("Translation found for", '"'+args+'"')
             for item in podict[args]:
-                print item.fname, '"'+item.msgstr+'"'
+                print(item.fname, '"'+item.msgstr+'"')
         else:
-            print "No translation found, Search substring for the first 10 matches:"
+            print("No translation found, Search substring for the first 10 matches:")
             count = 0
-            for key in podict.iterkeys():
+            for key in podict.keys():
                 if key.lower().find(args.lower()) >= 0:
                     for item in podict[key]:
                         count += 1
-                        print "#",count,item.fname, '"'+item.msgid+'"','"'+item.msgstr+'"'
+                        print("#",count,item.fname, '"'+item.msgid+'"','"'+item.msgstr+'"')
                 if count >= 10:
                     break
-            print "Finished search."
+            print("Finished search.")
     else:
         if not flushed:
             flushed = True
