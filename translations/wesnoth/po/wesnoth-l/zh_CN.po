@@ -219,7 +219,7 @@ msgstr "特纳尔"
 
 #. [event]
 msgid "Kembe"
-msgstr "神户"
+msgstr "科姆贝"
 
 #. [event]
 msgid "Treagh"
