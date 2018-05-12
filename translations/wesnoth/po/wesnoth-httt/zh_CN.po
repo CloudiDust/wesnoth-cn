@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:20 UTC\n"
-"PO-Revision-Date: 2018-05-09 22:34+0900\n"
+"PO-Revision-Date: 2018-05-12 13:31+0900\n"
 "Last-Translator: qrqiuren <qrqiuren@users.noreply.github.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2673,7 +2673,7 @@ msgstr ""
 
 #. [scenario]: id=13_The_Dwarven_Doors
 msgid "The Dwarven Doors"
-msgstr "矮人国门"
+msgstr "矮人之门"
 
 #. [objective]: condition=win
 msgid "Move Konrad to the entrance of the dwarven tunnels"
