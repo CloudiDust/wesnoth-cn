@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:20 UTC\n"
-"PO-Revision-Date: 2018-05-13 11:06+0900\n"
+"PO-Revision-Date: 2018-05-13 13:51+0900\n"
 "Last-Translator: qrqiuren <qrqiuren@users.noreply.github.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1619,7 +1619,7 @@ msgstr "该死的精灵！我们也许该和人类结盟的……"
 
 #. [scenario]: id=10_Lake_Vrug
 msgid "Lake Vrug"
-msgstr "拉格湖"
+msgstr "瓦格湖"
 
 #. [side]: type=Lieutenant, id=Gweddry
 msgid "Gweddry"
@@ -1647,7 +1647,7 @@ msgid ""
 "island off the coast ahead that was once home to a great school of magic. I "
 "pray that the library is still intact."
 msgstr ""
-"足迹很快就没了。我们快到拉格湖了。前方湖岸之外有一个小岛，岛上曾经有一所伟大"
+"足迹很快就没了。我们快到瓦格湖了。前方湖岸之外有一个小岛，岛上曾经有一所伟大"
 "的魔法学院。但愿图书馆仍然完好无损。"
 
 #. [message]: speaker=Owaec
