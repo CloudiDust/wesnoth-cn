@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-06 08:31 UTC\n"
+"POT-Creation-Date: 2018-05-16 03:33 UTC\n"
 "PO-Revision-Date: 2018-05-06 22:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -463,7 +463,8 @@ msgid ""
 msgstr "保护圣女， 我们把这个大怪物打回去！"
 
 #. [message]: speaker=Kaleh
-msgid "These fields seem strangely vacant. Where are the horses?"
+#, fuzzy
+msgid "These fields seem strangely vacant. Where are the dustboks?"
 msgstr "牧场空荡荡的。马都去哪儿啦？"
 
 #. [message]: speaker=Nym
@@ -479,25 +480,28 @@ msgid "Is it safe to come out? I was so scared."
 msgstr "外面安全了吗？ 我刚才很害怕。"
 
 #. [message]: speaker=Kaleh
-msgid "Where are all the other horses?"
+#, fuzzy
+msgid "Where are all the other dustboks?"
 msgstr "其他的马呢？"
 
 #. [message]: speaker=Naru
+#, fuzzy
 msgid ""
 "A hunting party left just yesterday, so unless the rocks fell all over the "
-"land, many of the horses have probably survived. The few that remained here "
-"were scared by the falling rocks and fled into the night. It took all my "
-"skill to calm Yasi and keep him from running."
+"land, many of the dustboks have probably survived. The few that remained "
+"here were scared by the falling rocks and fled into the night. It took all "
+"my skill to calm Yasi and keep him from running."
 msgstr ""
 "昨天一个狩猎团刚走，除非陨石落满大地，否则大多数马应该都没事，少数圈在这里的"
 "马昨晚受陨石惊吓跑散了。我使尽解数才安抚了亚希。"
 
 #. [message]: speaker=Kaleh
+#, fuzzy
 msgid ""
 "We’ll need your help in checking to see if the outer settlements survived. "
 "Who knows what kinds of damage they suffered in the night? And perhaps some "
 "of the people out in the desert have been able to round up some of the loose "
-"horses."
+"dusties."
 msgstr ""
 "我们需要你们帮忙查探外面的定居点情况。不知道他们在这个夜晚损失如何呢？也许外"
 "出的人们能寻回一些走失的马。"
@@ -11625,6 +11629,11 @@ msgstr "奎诺德鲁伊"
 msgid "sand"
 msgstr "沙"
 
+#. [unit_type]: id=Quenoth Dustbok, race=monster, description=
+#. Made-up animal name derived from 'dust' (sand) and 'bok' as in real-world steenbok or springbok antelope
+msgid "Dustbok"
+msgstr ""
+
 #. [unit_type]: id=Quenoth Fighter, race=elf
 msgid "Quenoth Fighter"
 msgstr "奎诺战士"
@@ -12099,6 +12108,11 @@ msgid "teaching"
 msgstr "传授"
 
 #. [dummy]: id=teaching
+#, fuzzy
+msgid "female^teaching"
+msgstr "传授"
+
+#. [dummy]: id=teaching
 msgid ""
 "At the start of every turn, this unit redistributes its experience points to "
 "all the units of the same side adjacent to it. If no suitable unit is "
@@ -12124,6 +12138,11 @@ msgid "formation"
 msgstr "布阵"
 
 #. [dummy]: id=formation
+#, fuzzy
+msgid "female^formation"
+msgstr "布阵"
+
+#. [dummy]: id=formation
 msgid ""
 "This unit gains a +10% bonus to defense when another unit with the same "
 "ability is adjacent to it. However, this cannot raise the unit’s defense "
@@ -12134,6 +12153,11 @@ msgstr ""
 
 #. [dummy]: id=disengage
 msgid "disengage"
+msgstr "脱离"
+
+#. [dummy]: id=disengage
+#, fuzzy
+msgid "female^disengage"
 msgstr "脱离"
 
 #. [dummy]: id=disengage
@@ -12160,6 +12184,11 @@ msgid "distract"
 msgstr "分神"
 
 #. [skirmisher]: id=distract
+#, fuzzy
+msgid "female^distract"
+msgstr "分神"
+
+#. [skirmisher]: id=distract
 msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
@@ -12167,6 +12196,11 @@ msgstr "此单位将使得其身周的敌方控制区域对友好单位失效（
 
 #. [dummy]: id=support
 msgid "support"
+msgstr "支援"
+
+#. [dummy]: id=support
+#, fuzzy
+msgid "female^support"
 msgstr "支援"
 
 #. [dummy]: id=support

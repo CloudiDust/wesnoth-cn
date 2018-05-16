@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-06 05:31-0300\n"
-"PO-Revision-Date: 2018-05-06 20:42+0800\n"
+"POT-Creation-Date: 2018-05-09 03:49-0300\n"
+"PO-Revision-Date: 2018-05-16 22:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -300,7 +300,7 @@ msgid "No random map generators found."
 msgstr "未找到随机地图生成器。"
 
 msgid "Map creation failed."
-msgstr "创建地图失败。"
+msgstr "地图创建失败。"
 
 msgid "Unsaved Changes"
 msgstr "未保存的更改"
@@ -376,6 +376,12 @@ msgstr "添加"
 
 msgid "New Location Identifier"
 msgstr "新建位置标识符"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Invalid location id"
+msgstr "无效的位置ID"
 
 msgid "Delete"
 msgstr "删除"
