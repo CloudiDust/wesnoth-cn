@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-16 03:33 UTC\n"
-"PO-Revision-Date: 2018-05-16 23:17+0800\n"
+"PO-Revision-Date: 2018-05-17 22:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1052,7 +1052,6 @@ msgid ""
 msgstr "伽德拉德，如果我沿着河滩走，我可以溜到他的主楼旁边，迅速把他解决掉。"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "You could. However, elves (and orcs) have bad <i>defense</i> in water. "
 "You’ll be more vulnerable as you try to wade slowly across the ford; the "
@@ -1061,9 +1060,10 @@ msgid ""
 "there; your Fighters will only suffer a 40% chance of being hit in return, "
 "while Shamans and Archers will only incur a 30% chance."
 msgstr ""
-"可以。不过，精灵（和兽人）在水中的<b>防御</b>很糟糕。你涉水过滩时更容易遭到伤"
-"害；敌人将有80%的几率命中你。精灵在森林中能够更好地防御，因此我建议你待在树林"
-"里攻击兽人；这样你被反击命中的几率就只有40%了。"
+"可以。不过，精灵（和兽人）在水中的<b>防御</b>很糟糕。你慢慢地涉水过滩时更容易"
+"受到伤害；敌人将有80%的几率命中你。精灵在森林中能够更好地防御，因此我建议你待"
+"在树林里攻击兽人；这样你的战士们被反击命中的几率就只有40%了，而萨满和弓箭手更"
+"是只有30%的被命中率。"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1302,7 +1302,6 @@ msgid "Time of Day"
 msgstr "时段"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "During a scenario, the time of day will shift as turns pass. There are four "
 "<i>alignments</i> a unit may be: Lawful, Neutral, Chaotic, or Liminal. Each "
@@ -1310,9 +1309,10 @@ msgid ""
 "You can hover over the sky image below the minimap on the right to see the "
 "current time of day and who has the advantage."
 msgstr ""
-"在场景中，时段会随着回合的变化而变化。一个单位拥有四种<b>立场</b>之一：守序，"
-"中立，混沌，或边缘。根据时段的不同，每种立场会得到不同的加成或是妨碍。你可以"
-"将鼠标移动到右侧小地图之下的风景画上，以查看当前时段，以及此时是谁拥有优势。"
+"在场景中，时段会随着回合的变化而变化。一个单位拥有四种<b>立场</b>之一：守序、"
+"中立、混沌或边缘。根据时段的不同，每种立场会得到不同的加成或是妨碍。你可以将"
+"鼠标移动到右侧小地图之下的天空图像上悬停，以查看当前是哪个时段，以及此时拥有"
+"优势的是谁。"
 
 #. [event]
 msgid ""
@@ -1494,26 +1494,24 @@ msgstr ""
 "它总是具有70%的命中率。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "Advancing a level has fully healed me! When attacking, I always have at "
 "least a 60% chance of hitting with my longbow thanks to my <i>Marksman</i> "
 "ability, and I deal 9 damage each for 4 attacks. Use me to dislodge hard-to-"
 "hit units."
 msgstr ""
-"升级将我完全治愈了！我的<b>精准</b>能力让我总是有60%的几率命中对手，并且我可"
-"以攻击4次，每次造成9点伤害。让我来驱逐那些难以命中的家伙。"
+"升级将我完全治愈了！我的<b>精准</b>能力让我使用长弓时总是有至少60%的几率命中"
+"对手，并且我可以攻击4次，每次造成9点伤害。让我来驱逐那些难以命中的家伙。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "female^Advancing a level has fully healed me! When attacking, I always have "
 "at least a 60% chance of hitting with my longbow thanks to my <i>Marksman</"
 "i> ability, and I deal 9 damage each for 4 attacks. Use me to dislodge hard-"
 "to-hit units."
 msgstr ""
-"升级将我完全治愈了！我的<b>精准</b>能力让我总是有60%的几率命中对手，并且我可"
-"以攻击4次，每次造成9点伤害。让我来驱逐那些难以命中的家伙。"
+"升级将我完全治愈了！我的<b>精准</b>能力让我使用长弓时总是有至少60%的几率命中"
+"对手，并且我可以攻击4次，每次造成9点伤害。让我来驱逐那些难以命中的家伙。"
 
 #. [message]: speaker=unit
 msgid ""

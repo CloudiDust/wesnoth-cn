@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-15 23:33-0400\n"
-"PO-Revision-Date: 2018-05-16 23:17+0800\n"
+"PO-Revision-Date: 2018-05-17 22:57+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5165,15 +5165,15 @@ msgstr ""
 
 #. [race]: id=wolf
 msgid "race^Wolf"
-msgstr "狼族"
+msgstr "狼"
 
 #. [race]: id=wolf
 msgid "race+female^Wolf"
-msgstr "狼族"
+msgstr "狼"
 
 #. [race]: id=wolf
 msgid "race^Wolves"
-msgstr "狼族"
+msgstr "狼"
 
 #. [race]: id=wolf
 msgid ""
@@ -5185,6 +5185,10 @@ msgid ""
 "civilization, though, only occasionally venturing close to prey upon "
 "livestock."
 msgstr ""
+"狼是在野外时常能碰到的犬科猎食者。它们迅捷、强壮、耐力强，一匹孤狼就足以轻易"
+"地重伤或者杀死平民和未经训练的士兵，但真正让它们变得对旅行者而言十分可怕的原"
+"因，便是它们倾向于成群行动以及进行有组织进攻。不过，它们也倾向于呆在远离文明"
+"之处，只是不时地冒险接近以捕猎牲畜。"
 
 #. [race]: id=wose
 msgid "race^Wose"
