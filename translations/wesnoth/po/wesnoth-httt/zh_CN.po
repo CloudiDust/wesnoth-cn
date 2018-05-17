@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:20 UTC\n"
-"PO-Revision-Date: 2018-05-18 00:37+0900\n"
+"PO-Revision-Date: 2018-05-18 00:40+0900\n"
 "Last-Translator: qrqiuren <qrqiuren@users.noreply.github.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2204,7 +2204,7 @@ msgid ""
 "continue toward the land of the dwarves. Hurry, let us go!"
 msgstr ""
 "我们必须继续北上。在冬天降临之前我们已经赶不回埃仁撒伐或者奥渡因岛进行整顿。"
-"所以我们必须渡过大河，继续向矮人的国度前进。快点，我们走！"
+"所以我们必须渡过泰河，继续向矮人的国度前进。快点，我们走！"
 
 #. [message]: speaker=Konrad
 msgid ""
@@ -2416,7 +2416,7 @@ msgid ""
 "full of soldiers! We must cross here, and quickly!"
 msgstr ""
 "冬季马上就要来临，我们只剩下几天时间来渡河了，但最近的桥在上游很远的地方。如"
-"果冬天到来的时候我们还被困在大河南面，那就是自杀。艾什薇尔会像困住老鼠一样困"
+"果冬天到来的时候我们还被困在泰河南面，那就是自杀。艾什薇尔会像困住老鼠一样困"
 "住我们！看西边！艾什薇尔有一个边境要塞，里面满是士兵！我们必须从那里过河，马"
 "上！"
 
@@ -2525,7 +2525,7 @@ msgid ""
 "distant thutter of orcish signal drums made the abundant pine forests "
 "nestled in rolling foothills both breathtaking and ominous."
 msgstr ""
-"大河的对岸，是几乎没有什么人类曾经涉足过的土地。远方偶尔会隐隐约约地传来兽人"
+"泰河的对岸，是几乎没有什么人类曾经涉足过的土地。远方偶尔会隐隐约约地传来兽人"
 "的号鼓声，令这藏身山麓之中的广袤松林变得很是惊险，让人有不祥的预感。"
 
 #. [part]
@@ -3895,7 +3895,7 @@ msgid ""
 "your life."
 msgstr ""
 "不，我在想……我并不是真的想要杀死你。我已经拥有了我要拿走的东西，所以如果你发"
-"誓再也不到大河的南岸来，那我就会饶你一命。"
+"誓再也不到泰河的南岸来，那我就会饶你一命。"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -4829,7 +4829,7 @@ msgstr "就连我们人鱼都游不过去。通往东面的道路被堵塞了。
 msgid ""
 "Wait. What about the tributary which flows into the river from inside the "
 "mountain? There seems to be a cave..."
-msgstr "等等。从山里流出来汇入大河的那条支流怎么样？那里似乎有个洞穴……"
+msgstr "等等。从山里流出来汇入泰河的那条支流怎么样？那里似乎有个洞穴……"
 
 #. [message]: speaker=Kalenz
 msgid ""
