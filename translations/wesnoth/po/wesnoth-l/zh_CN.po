@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-02-04 16:40 UTC\n"
-"PO-Revision-Date: 2018-05-13 11:09+0900\n"
-"Last-Translator: qrqiuren <qrqiuren@users.noreply.github.com>\n"
+"POT-Creation-Date: 2018-05-06 08:32 UTC\n"
+"PO-Revision-Date: 2018-05-18 22:29+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -280,16 +280,16 @@ msgid ""
 "We are barely able to survive these orc raids. We lost two men last week, "
 "more today... yet Weldyn does nothing!"
 msgstr ""
-"我们差点就无法在这次兽人袭击中幸免。我们上周损失了两人，今天有更多……然而维尔"
-"帝竟无动于衷！"
+"我们差点就都死在这些兽人的袭击里了。我们上周损失了两人，今天损失了更多人……然"
+"而维尔帝竟无动于衷！"
 
 #. [message]: speaker=Harper
 msgid ""
 "We are barely able to survive these orc raids. We lost two men last week, "
 "more could have died today... yet Weldyn does nothing!"
 msgstr ""
-"我们差点就无法在这次兽人袭击中幸免。我们上周损失了两人，今天本会更多……然而维"
-"尔帝竟无动于衷。"
+"我们差点就都死在这些兽人的袭击里了。我们上周损失了两人，今天本会损失更多人……"
+"然而维尔帝竟无动于衷！"
 
 #. [message]: speaker=Baldras
 msgid ""
@@ -365,14 +365,14 @@ msgstr ""
 msgid "Civil Disobedience"
 msgstr "公民反抗"
 
-#. [side]: type=Bandit_Peasant, id=Baldras
-#. [side]
 #. [side]: type=Bandit, id=Baldras
 #. [side]: type=Highwayman_Peasant, id=Relana
 #. [side]: type=General, id=Lord Maddock
-#. [side]: type=Rogue, id=Hans
-#. [side]: type=Shadow Lord, id=Helicrom
 #. [side]: type=Highwayman, id=Baldras
+#. [side]: type=Bandit_Peasant, id=Baldras
+#. [side]
+#. [side]: type=Shadow Lord, id=Helicrom
+#. [side]: type=Rogue, id=Hans
 msgid "Rebels"
 msgstr "叛民"
 
@@ -380,12 +380,12 @@ msgstr "叛民"
 msgid "Tarwen"
 msgstr "傲冰"
 
-#. [side]: type=Cavalier, id=Tarwen
 #. [side]: type=General, id=Kestrel
-#. [side]: type=Master Bowman, id=Quentin
-#. [side]
 #. [side]: type=Royal Guard, id=Archarel
 #. [side]: type=Iron Mauler, id=Linneus
+#. [side]: type=Cavalier, id=Tarwen
+#. [side]: type=Master Bowman, id=Quentin
+#. [side]
 #. [side]: type=General, id=Dommel
 msgid "Asheviere"
 msgstr "艾什薇尔"
@@ -1352,8 +1352,8 @@ msgid ""
 "directly from Weldyn. As soon as they arrive, they will burn every village "
 "to the ground. No one will live."
 msgstr ""
-"我担心不是。女王正直接派遣她的维尔帝主力军队的分部。他们一到达，他们会烧毁直"
-"到夷平所有村庄。没人能活下来。"
+"恐怕这不是好消息。女王正把她的主力野战军的一支从维尔帝直接派到这里。他们一旦"
+"到达，便会烧平所有村庄。没人能活下来。"
 
 #. [message]: speaker=Baldras
 msgid ""
@@ -1456,8 +1456,8 @@ msgid ""
 "wildlands that separated the human cities surrounding Weldyn and the coastal "
 "regions of Elensefar once and for all."
 msgstr ""
-"在韦诺161年，新加冕的国王准备一劳永逸的解决所有郊外土地的安全，分别是围绕维尔"
-"帝和围绕埃仁撒伐海岸区域的人类城市群。"
+"在韦诺纪元161年，新加冕的国王准备一劳永逸地驯服将围绕着维尔帝的人类城市群和埃"
+"仁撒伐水岸区域分隔开的荒原。"
 
 #. [part]
 msgid ""
@@ -1467,7 +1467,7 @@ msgid ""
 "settlements rapidly spread. The country of Wesnoth had been carved in deed "
 "as well as in name."
 msgstr ""
-"韦诺大军，被大法师高级长老会亲自带领，扫荡平原上所有各种敌对生物，野兽、兽"
+"韦诺大军，由大法师高级长老会亲自带领，扫荡平原上所有各种敌对生物，野兽、兽"
 "人、精灵。埃仁撒伐城邦正式并入王国的一部分，并且殖民快速扩展。韦诺王国就如同"
 "它的名字一样深深刻入人心。"
 
