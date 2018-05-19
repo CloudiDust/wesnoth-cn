@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2018-04-21 15:43-0300\n"
-"PO-Revision-Date: 2018-04-23 20:18+0800\n"
-"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"PO-Revision-Date: 2018-05-09 12:16+0900\n"
+"Last-Translator: qrqiuren <qrqiuren@users.noreply.github.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "######## 描述 ########\n"
 #: app_metadata.txt:9
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
-msgstr "韦诺之战是一款以严肃奇幻为主题的开源回合制策略游戏。从韦尔帝平原，到韦弥尔森林，从纳尔迦矿洞，到高耸入云的心之山脉，参与到跨越数个世纪的十多场冒险中来吧！扮演年轻的王子，逃离步步进逼的巫妖领主的手下，前往海对岸的新家园……钻入最黑暗的地底，铸造火焰之宝石……历遍大陆四方，踏上从篡权的女王手中夺回合法王位的勇敢征途……扮演村庄正被兽人入侵的年轻法师，探求复仇与永生之法……当邪恶死灵法师的亡灵大军开往您的首都之时，与之奋勇作战……率领一群无畏的幸存者，穿越酷热的沙漠，最终面对不可见的邪恶……如何选择，由您决定。\n"
+msgstr "韦诺之战是一款以严肃奇幻为主题的开源回合制策略游戏。从维尔帝平原，到韦弥尔森林，从纳尔迦矿洞，到高耸入云的心之山脉，参与到跨越数个世纪的十多场冒险中来吧！扮演年轻的王子，逃离步步进逼的巫妖领主的手下，前往海对岸的新家园……钻入最黑暗的地底，铸造火焰之宝石……历遍大陆四方，踏上从篡权的女王手中夺回合法王位的勇敢征途……扮演村庄正被兽人入侵的年轻法师，探求复仇与永生之法……当邪恶死灵法师的亡灵大军开往您的首都之时，与之奋勇作战……率领一群无畏的幸存者，穿越酷热的沙漠，最终面对不可见的邪恶……如何选择，由您决定。\n"
 
 #. type: Plain text
 #: app_metadata.txt:11

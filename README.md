@@ -15,7 +15,7 @@ Most of the localization-related discussions are happening in the QQ Group 13116
 
 For plain text translation, you may clone the repository or download the .po files in the `translations` directory and translate them. (The subdirectory structure of `translations` mirrors the official repositories of the Wesnoth project.)
 
-For map localization, this repository would only contain finished overlays. If you wish to localize the maps, please contact [qrqiuren](https://github.com/qrqiuren).
+For map localization, this repository would only contain finished overlays. If you wish to localize the maps, please go to [issue #7](https://github.com/CloudiDust/wesnoth-cn/issues/7).
 
 Please refer to the how-to links below if you are not familar with the localization workflow.
 
