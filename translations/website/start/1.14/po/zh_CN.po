@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth 1.14\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2018-05-05 16:29+0800\n"
+"PO-Revision-Date: 2018-05-07 20:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -209,13 +209,19 @@ msgid ""
 "Many village types have also received time-of-day variations and will now "
 "immersively light up when night falls."
 msgstr ""
+"大量单位，例如重装步兵、青空仙灵以及飞贼等获得了新的动画和基础帧，以将他们提"
+"升至更高的质量标准，并让战场更加生动而富有活力。有几个单位，包括巨魔、上古树"
+"人、行尸和雪人等，现在也有了新的通用立绘可用。最后，游戏中新增了<em>巨量</em>"
+"的新地形，以增强新的和已有的地图——尤其是设定在室内和地下的——而水体和岩浆也使"
+"用崭新的有完整流畅动画而很符合审美的风格重制了。很多类型的村庄也有了根据时段"
+"变化的变体，如今当夜幕降临时，它们会沉浸在点亮的灯光中。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:78
 msgid ""
 "Finally, the in-game sounds for many units and user interface elements have "
 "been replaced."
-msgstr ""
+msgstr "最后，很多单位和用户界面元素所使用的游戏内声效也被替换了。"
 
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:80
@@ -230,7 +236,7 @@ msgstr "<a href=\"images/start-3.jpg\">"
 #. type: Attribute 'alt' of: <html><body><div><div><div><a><img>
 #: template.html:82
 msgid "Campaigns menu screenshot"
-msgstr ""
+msgstr "战役菜单截屏"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:84
@@ -241,6 +247,9 @@ msgid ""
 "secrets of the ancient lich-lords of the Green Isle in her search for "
 "immortality."
 msgstr ""
+"主线战役迎来了<cite>古人之密</cite>的加入，这是由<cite>死水</cite>的作者为您"
+"带来的玩家自制战役！跟随塔林斯的阿冬娜走上寻求永生的旅途，揭开绿岛上的上古巫"
+"妖领主们的秘密。"
 
 #. type: Content of: <html><body><div><div><div><div><a>
 #: template.html:87
@@ -257,6 +266,11 @@ msgid ""
 "revamped unit advancement trees with unique stats to further set them apart "
 "from the standard forest elves featured throughout the rest of the game."
 msgstr ""
+"经历了好几年的技术性挫折之后，<cite>灼热双日之下</cite>中的沙漠精灵派系终于重"
+"制了，用上了由长期美术贡献者<a href=\"https://www.theartysquid.com/"
+"\">Emilien Rotival</a> （LordBob）所绘制的全新小人图和超棒的立绘。而单位升级"
+"树也重制了，有了独特的数值，这让他们与游戏其他部分中重点表现的标准的森林精灵"
+"的区别更大了。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:92
@@ -267,6 +281,9 @@ msgid ""
 "<cite>Descent into Darkness</cite> received similar treatment with visual "
 "improvements of its own."
 msgstr ""
+"<cite>北国重生</cite>的钱九个场景现在有了新的改进过的地图，使用了新地形和更简"
+"洁、更有组织性的设计。而场景本身也有所调整，让游玩更加顺畅。<cite>堕入黑暗</"
+"cite>也得到了类似待遇，并获得了独有的视效改进。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:94
@@ -278,6 +295,10 @@ msgid ""
 "position in the timeline of Irdya’s history, as well as the option to sort "
 "them alphabetically should one so desire."
 msgstr ""
+"<cite>韦诺</cite>中包含的单人战役数量很多，因此要在游戏世界内理清这些战役所讲"
+"的故事的时间顺序变得越来越难了。为了解决这个问题，战役菜单中现在提供了将战役"
+"按照其在伊迪亚的历史时间线上的位置来排序的选项，同时，也提供了按照战役名称的"
+"字母顺序来排序，如果您希望如此的话便可以使用。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:96
@@ -288,6 +309,9 @@ msgid ""
 "favorable outcomes overcome players, the new Deterministic Mode option will "
 "keep them in check."
 msgstr ""
+"希望使用玩家自制的噱头和挑战来让游玩过程更加丰富多彩的玩家们，现在不论在多人"
+"游戏还是单人游戏中都可以使用模组了。又及，要是玩家们被不断读档以得到更好结果"
+"的诱惑给压倒的话，新的确定性模式可以约束他们。"
 
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:98
@@ -329,7 +353,7 @@ msgstr ""
 msgid ""
 "The Khalifate multiplayer faction introduced in version 1.12 has been "
 "renamed the Dunefolk. This is part of an ongoing effort to expand their lore "
-"and better ingrate them into the world of Irdya. Accompanying this are a "
+"and better integrate them into the world of Irdya. Accompanying this are a "
 "multitude of stats changes to various Dunefolk units aimed to better balance "
 "the faction in multiplayer matchups."
 msgstr ""

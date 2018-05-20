@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-31 23:36 UTC\n"
-"PO-Revision-Date: 2018-03-27 20:44+0800\n"
+"POT-Creation-Date: 2018-04-15 04:34 UTC\n"
+"PO-Revision-Date: 2018-05-16 22:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.7\n"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
 msgid "4p — A New Land"
@@ -173,10 +173,6 @@ msgstr "同志们，替我报仇！"
 #. [message]: speaker=unit
 msgid "Do not fear, there is hope for us still!"
 msgstr "无需担心，我军尚有胜算！"
-
-#. [message]: speaker=narrator
-msgid "The chest contains $oc_treasure gold."
-msgstr "箱子里有$oc_treasure枚金币。"
 
 #. [option]
 msgid "Return to menu"
