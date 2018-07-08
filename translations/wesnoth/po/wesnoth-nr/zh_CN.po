@@ -12,9 +12,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-16 03:33 UTC\n"
-"PO-Revision-Date: 2018-05-16 22:54+0800\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:50 UTC\n"
+"PO-Revision-Date: 2018-07-08 21:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Northern Rebirth"
@@ -2306,6 +2306,17 @@ msgstr "嘶嘶嘶嘶嘶"
 msgid "‘Great Chamber’, my foot! This is a death chamber!"
 msgstr "“大厅”个鬼！这分明是个行刑室！"
 
+#. [message]: speaker=unit
+msgid ""
+"Hmmm. The wall appears weak here. I think there might be something on the "
+"other side."
+msgstr "呣。墙的这部分看起来不坚固。我猜另一面可能有什么东西。"
+
+#. [message]: speaker=unit
+#. [message]: speaker=Sister Thera
+msgid "There we go."
+msgstr "我们来了。"
+
 #. [message]: speaker=narrator
 msgid "Malifor the Great’s Study"
 msgstr "伟大的玛利弗的书屋"
@@ -2480,14 +2491,14 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 msgid ""
-"I am afraid times have changed much. Our first king, Haldric I, fled from "
-"the Green Isle with the Wesfolk and the orcs in pursuit. He came ashore on "
-"this land that we now call the Great Continent and destroyed the Lich-Lord "
-"Jevyan before founding the Kingdom of Wesnoth. That was centuries ago."
+"I am afraid times have changed much. Our first king, Haldric I, fled the "
+"Green Isle with the Wesfolk, the orcs in pursuit. He came ashore on this "
+"land that we now call the Great Continent and destroyed the Lich-Lord Jevyan "
+"before founding the Kingdom of Wesnoth. That was centuries ago."
 msgstr ""
-"我担心时间已经改变了很多东西。我们的第一位国王，哈德里克一世，被韦福克人和兽"
-"人追赶着，从绿岛逃亡而来。他在这片我们如今称作“泰陆”的土地上登陆，并消灭了巫"
-"妖领主劫复魇，之后他建立了韦诺王国。那已经是好多个世纪之前的事了。"
+"我担心时间已经改变了很多东西。我们的第一位国王，哈德里克一世，被兽人追赶着，"
+"和韦福克人一起从绿岛逃亡而来。他在这片我们如今称作“泰陆”的土地上登陆，并消灭"
+"了巫妖领主劫复魇，之后他建立了韦诺王国。那已经是好多个世纪之前的事了。"
 
 #. [message]: speaker=Abhai
 msgid "So... much time has passed indeed."
@@ -2556,6 +2567,7 @@ msgid ""
 msgstr "看来就是这里了。这是通向玛利弗书房的门。大家做好准备了吗？"
 
 #. [option]
+#. [message]: speaker=Tallin
 msgid "Get those doors open!"
 msgstr "打开那些门！"
 
@@ -2566,12 +2578,6 @@ msgstr "我们走！"
 #. [option]
 msgid "Just wait a sec."
 msgstr "等一下。"
-
-#. [message]: speaker=unit
-msgid ""
-"Hmmm. The wall appears weak here. I think there might be something on the "
-"other side."
-msgstr "呣。墙的这部分看起来不坚固。我猜另一面可能有什么东西。"
 
 #. [message]: speaker=Tallin
 msgid "Anything you can’t handle?"
@@ -2584,11 +2590,6 @@ msgstr "没有。我来打开它吗？"
 #. [option]
 msgid "Go for it!"
 msgstr "去吧！"
-
-#. [message]: speaker=unit
-#. [message]: speaker=Sister Thera
-msgid "There we go."
-msgstr "我们来了。"
 
 #. [message]: speaker=unit
 msgid "Hey, check this out, it looks like some sort of lever."
@@ -2944,8 +2945,8 @@ msgstr "我十分荣幸，哈梅尔领主。"
 #. [message]: speaker=Hamel
 msgid ""
 "Ahhhh, quit with the formality, me lad. Now, first things first. One of the "
-"most important things about being a leader is...."
-msgstr "千万别客气，年轻人。现在，作为一个领导者最最重要的是……"
+"most important things about being a leader is..."
+msgstr "啊，千万别客气，年轻人。作为一名领袖最重要的事情之一是……"
 
 #. [scenario]: id=05b_Compelled
 msgid "Compelled"
@@ -3734,16 +3735,12 @@ msgid "Ro’Sothian"
 msgstr "若·索瑟恩"
 
 #. [objective]: condition=win
-msgid "Save Stalrag from Ro’Sothian."
-msgstr "从若·索瑟恩手中解救斯托莱格。"
+msgid "Save Stalrag from Ro’Sothian"
+msgstr "从若·索瑟恩手中解救斯托莱格"
 
 #. [objective]: condition=lose
-msgid "Death of Tallin."
-msgstr "塔林死亡。"
-
-#. [objective]: condition=lose
-msgid "Death of Stalrag."
-msgstr "斯托莱格死亡。"
+msgid "Death of Stalrag"
+msgstr "斯托莱格死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -3986,8 +3983,8 @@ msgid "Back to jail, my friend."
 msgstr "回牢里去，我的朋友。"
 
 #. [objective]: condition=win
-msgid "Capture Ro’Arthian."
-msgstr "俘获若·艾瑟恩。"
+msgid "Capture Ro’Arthian"
+msgstr "俘获若·艾瑟恩"
 
 #. [message]: speaker=Tallin
 msgid "Ro’Arthian, are you ready to talk yet?"

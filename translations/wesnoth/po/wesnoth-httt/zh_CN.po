@@ -9,17 +9,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-03-27 01:20 UTC\n"
-"PO-Revision-Date: 2018-05-18 10:03+0900\n"
-"Last-Translator: qrqiuren <qrqiuren@users.noreply.github.com>\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"PO-Revision-Date: 2018-07-08 20:43+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Heir to the Throne"
@@ -4756,11 +4756,11 @@ msgstr "莉莎公主，是不是需要我再一次提醒你，科纳德才是合
 
 #. [message]: speaker=Li'sar
 msgid ""
-"Whatever.... I still think we should make an effort to rescue him from the "
+"Whatever... I still think we should make an effort to rescue him from the "
 "unfortunate position he is in. If you help him, I’ll do my best to convince "
 "him that you are not his enemies but his friends..."
 msgstr ""
-"随便怎么样都好……我仍然认为应该努力把他从那个倒霉的位置上救回来。如果你们帮助"
+"随便怎么样都好……我还是觉得应该尽力把他从那个倒霉的地方救出来。如果你们帮助"
 "他，我会尽力劝他相信你们不是他的敌人，而是他的朋友。"
 
 #. [message]: speaker=Konrad
@@ -4866,8 +4866,8 @@ msgstr ""
 "去。"
 
 #. [message]: speaker=Li'sar
-msgid "That is so very encouraging...."
-msgstr "这还真是鼓舞人心的发言呢……"
+msgid "That is so very encouraging..."
+msgstr "这还真是鼓舞人心的发言……"
 
 #. [message]: speaker=Delfador
 msgid "I wonder what kind of monsters await us inside."
@@ -6673,7 +6673,7 @@ msgstr ""
 "小王子科纳德的尸骨从精灵那里运了回来，安葬在维尔帝的皇家陵寝中。每个星期，科"
 "纳德都会前往吊唁。"
 
-#. [variation]: id=Battle Princess, race=human
+#. [variation]: race=human
 #. [unit_type]: id=Battle Princess, race=human
 msgid "female^Battle Princess"
 msgstr "武士公主"
@@ -6689,7 +6689,7 @@ msgstr ""
 "学会了战术。这让她成为了一位伟大的战士和领袖。现在，她历经无数战斗，磨练出了"
 "坚强的意志，可以在作战中协助她身边的战友。"
 
-#. [variation]: id=Battle Princess, race=human
+#. [variation]: race=human
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals, and battle tactics with the greatest sages, making her both a "
@@ -6708,7 +6708,7 @@ msgid "Commander"
 msgstr "指挥官"
 
 #. [variation]
-#. [unit_type]
+#. [unit_type]: id=Commander
 msgid ""
 "The rank of Commander is held by those who lead battle groups into combat. "
 "Possessing leadership skills, they give lower-level units in adjacent hexes "
@@ -6742,7 +6742,7 @@ msgid "raging blizzard"
 msgstr "狂怒暴雪"
 
 #. [variation]
-#. [unit_type]
+#. [unit_type]: id=Fighter
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. However they have the potential to become great warriors "
@@ -6759,7 +6759,7 @@ msgid "Lord"
 msgstr "领主"
 
 #. [variation]
-#. [unit_type]
+#. [unit_type]: id=Lord
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
 "combat, and also possess skill with the bow. Like Commanders, Lords possess "
@@ -6769,12 +6769,12 @@ msgstr ""
 "领主是大型军队的高贵领袖，他们在白刃战中尤为强力，同时也会使弓。像指挥官们一"
 "样，他们拥有领导技能，能够提升所有临近的较低等级单位的作战能力。"
 
-#. [variation]: id=Princess, race=human
+#. [variation]: race=human
 #. [unit_type]: id=Princess, race=human
 msgid "female^Princess"
 msgstr "公主"
 
-#. [variation]: id=Princess, race=human
+#. [variation]: race=human
 #. [unit_type]: id=Princess, race=human
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "

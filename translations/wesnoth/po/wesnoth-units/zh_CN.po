@@ -11,9 +11,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-16 03:33 UTC\n"
-"PO-Revision-Date: 2018-05-16 23:16+0800\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"PO-Revision-Date: 2018-07-08 21:50+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -132,6 +132,11 @@ msgstr "触碰"
 #. [attack]: type=impact
 msgid "club"
 msgstr "木棒"
+
+#. [unit_type]: id=Ancient Lich, race=undead
+#. [unit_type]: id=Ancient Lich SotA, race=undead
+msgid "Ancient Lich"
+msgstr "上古巫妖"
 
 #. [attack]: type=cold
 msgid "chill tempest"
@@ -1927,22 +1932,18 @@ msgstr "地精矛兵"
 
 #. [unit_type]: id=Goblin Spearman, race=goblin
 msgid ""
-"In any litter of orcs, several are born much smaller and weaker than the "
-"rest. These runts are called ‘Goblins’ and are looked down on by the rest of "
-"their kin. In battle, these are given the most meager of equipment, and are "
-"used as a soak-off force to give the Warlords time to prepare the real "
-"assault.\n"
-"\n"
-"Some speculate that the existence of these creatures is the beginning of a "
-"failure of the orcish bloodline, though no one knows enough of their history "
-"to state anything conclusive."
+"In any race, there are always those rare individuals who, by stroke of bad "
+"luck, are born much smaller and weaker than the rest of their kind. For "
+"Orcs, however, such occurrences are extraordinarily common, with there "
+"usually being several runts born in each litter. Known as ‘Goblins’, these "
+"sickly creatures nearly always live short, brutal lives, most used merely as "
+"fodder against an enemy of their larger siblings' choosing while equipped "
+"with only the crudest of spears."
 msgstr ""
-"每一窝兽人中总有几个天生瘦小虚弱的。这些家伙被称为“地精”，受到族人的歧视。在"
-"战斗中，他们分配到的都是最差的装备，担当挡箭牌的角色，给军阀们足够的时间去准"
-"备真正的进攻。\n"
-"\n"
-"有些人猜测，这些生物的存在是兽人的血统开始衰败的标志，但由于没人知道足够多的"
-"兽人历史，因此什么结论都下不了。"
+"在任何种族中，总有些罕见的个体，由于不走运，而生来就比同族们小得多也弱得多。"
+"然而对兽人来说，这种事却是常常发生的，在每一窝兽人里常常有好几个身材矮小的。"
+"这些病弱的生物被称为“地精”，它们的一生几乎总是短暂而残酷。绝大部分地精只是装"
+"备着最粗糙的长矛，被当作投向由它们体型更大的兄弟们所选定的敌人的炮灰罢了。"
 
 #. [unit_type]: id=Wolf Rider, race=wolf
 msgid "Wolf Rider"
@@ -4395,10 +4396,6 @@ msgstr "狼"
 #. [variation]
 msgid "wc_variation^Bat"
 msgstr "蝙蝠"
-
-#. [unit_type]: id=Ancient Lich, race=undead
-msgid "Ancient Lich"
-msgstr "上古巫妖"
 
 #. [unit_type]: id=Ancient Lich, race=undead
 msgid ""

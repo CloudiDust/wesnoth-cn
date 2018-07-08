@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-15 23:33-0400\n"
-"PO-Revision-Date: 2018-05-16 22:19+0800\n"
+"POT-Creation-Date: 2018-07-08 04:51-0400\n"
+"PO-Revision-Date: 2018-07-08 20:29+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -182,6 +182,25 @@ msgid ""
 msgstr ""
 "在游戏的对话区域内显示关于废弃API的警告消息。即使禁用此功能，这些消息也仍然会"
 "显示在日志中。以及，废弃信息日志域控制着所显示的消息的数量。"
+
+#. [advanced_preference]: type=boolean
+msgid "Use experimental PRNG combat"
+msgstr "在战斗中使用试验性的PRNG"
+
+#. [advanced_preference]: type=boolean
+msgid ""
+"Enables more determinstic chance-to-hit calculations. This is an "
+"experimental feature designed to bring the observed hit/miss rate more in "
+"line with the displayed percentages.\n"
+"\n"
+"Note: this option only affects singleplayer, and the ‘Save random seed’ "
+"option must also be enabled when creating a game for this to work."
+msgstr ""
+"启用更具有确定性的命中率计算模式。这是一个试验性的特性，是为了让观察到的命中/"
+"射失率和显示的百分比更接近而设计的。\n"
+"\n"
+"注：此选项只影响单人游戏，且为了让此特性正常工作，在创建游戏时必须启用“保存随"
+"机种子”选项。"
 
 #. [advanced_preference]: type=boolean
 msgid "Joystick support"
@@ -1356,8 +1375,9 @@ msgid ""
 msgstr "$unit.name|无法使用风暴三叉戟！让能够使用它的人鱼拥有它吧。"
 
 #. [object]
-msgid "This trident allows a merman to shoot electric bolts at his enemies!"
-msgstr "这柄三叉戟能让人鱼向敌人发射闪电球！"
+msgid ""
+"This trident gives merfolk the power to throw lightning at their enemies."
+msgstr "这柄三叉戟赐予人鱼向敌人发射闪电的力量。"
 
 #. [effect]: type=fire
 msgid "storm trident"
@@ -1397,7 +1417,7 @@ msgstr ""
 "尔,艾希,欧拉丝,欧玛格,欧玛格拉,欧拉·卡,欧丽丹,欧丽达,欧什比,瓦琳,瓦尔尼拉,瓦"
 "尔尼特,瓦丽思科,瓦拉,瓦琳·卡,瓦什塔,瓦什丁"
 
-#. Generator for male drake names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for male drake names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\n"
@@ -1415,7 +1435,7 @@ msgstr ""
 "suffix=艾什|克雷|什|林|鲁汀|史纳|鲁什|卡|艾什|阿格|阿尔|艾什|斯拉|利|迪安|利"
 "托斯|鲁斯特|希特|尼克|拉斯|迪特|孔|玛德|提克|尼尔\n"
 
-#. Generator for female drake names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for female drake names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{suffix} {short_name}\n"
@@ -1521,7 +1541,7 @@ msgstr ""
 "德洛尔,崔斯德索尔,崔斯杜鲁斯,崔斯杜利尔,崔斯杜林,崔斯杜洛斯,崔斯杜洛尔,崔斯杜"
 "希尔,崔斯杜拉鲁斯,崔斯萨阿斯,崔斯赛尔,崔斯赛因,崔斯萨索尔,崔斯骚斯"
 
-#. Generator for male dwarf names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for male dwarf names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={long_name}\n"
@@ -1794,7 +1814,7 @@ msgstr ""
 "吉娅,薇欧莱朵,薇欧玟尔,薇瑟兰,薇瑟兰妮尔,薇薇尔,沃蒂娅,玟玟,沃尔斐克蕾雅,沃尔"
 "斐妮,沃尔菲芮丝,沃尔斐薇尔,沃薇妮"
 
-#. Generator for male elf names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for male elf names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix}{consonnant}{suffix}|{prefix}{centre}{suffix}\n"
@@ -1874,7 +1894,7 @@ msgstr ""
 "尔|菲尔|菲利斯|佛尔|佛拉斯|佛尔达|冯迪尔|佛芬|佛芬迪尔|瓦拉斯|瓦尔多|瓦杜伊"
 "尔|维拉斯|维尔多\n"
 
-#. Generator for female elf names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for female elf names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix_v}{centre_v}{suffix_v}|{generated_prefix_c}{centre_c}"
@@ -1968,7 +1988,7 @@ msgstr "葛拉,葛利拉,葛利,卡,卡什,柯什,柯罗,克拉,库,克匝,克�
 msgid "Kaasa,Kayya,Keyya,Kiira,Korra"
 msgstr "卡萨,卡娅,可娅,奇拉,可拉"
 
-#. Generator for male gryphon names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for male gryphon names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -1982,7 +2002,7 @@ msgstr ""
 "suffix=阿|依阿|伊|希|罗|乌\n"
 "centre=阿|阿什|伊兹|欧兹\n"
 
-#. Generator for female gryphon names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for female gryphon names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2185,7 +2205,7 @@ msgstr ""
 "依瑟尔,依瑟洛娜,依希莉安,依希诺伊可,伊依索妲,依索温妮,依索诺依可,依苏娜,依苏"
 "薇妮法,依希珂拉,依希拉,依希莉安,依希莉卡,伊希莎"
 
-#. Generator for male Wesnothian human names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for male Wesnothian human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}"
@@ -2252,7 +2272,7 @@ msgstr ""
 "温|伊雷林|伊林凡|伊里拉恩特|伊洛德利|伊鲁林|伊鲁米尔|伊朗宁|伊朗凡|伊里尔林|"
 "伊里米尔|伊里尼克|伊里尔辛\n"
 
-#. Generator for female Wesnothian human names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for female Wesnothian human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}"
@@ -2476,7 +2496,7 @@ msgstr ""
 "亚西尔,亚赞,耶齐德,尤努斯,尤沙,尤斯里,优素福,扎法尔,扎菲尔,扎希德,查希尔,扎伊"
 "德,扎伊姆,扎伊纳,扎里夫,扎卡里亚,扎基,扎卡万,齐亚德,祖巴伊尔,祖海尔"
 
-#. Generator for male dunefolk human names
+#. Generator for male dunefolk human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={name_long}|{prefix}{suffix}|{name_mid}{connector}{name_mid}\n"
@@ -2573,7 +2593,7 @@ msgstr ""
 "亚西尔|亚赞|耶齐德|尤努斯|尤沙|尤斯里|优素福|扎法尔|扎菲尔|扎希德|查希尔|扎伊"
 "德|扎伊姆|扎伊纳|扎里夫|扎卡里亚|扎基|扎卡万|齐亚德|祖巴伊尔|祖海尔\n"
 
-#. Generator for female dunefolk human names
+#. Generator for female dunefolk human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={name_long}|{prefix}{suffix}|{name_mid}{connector}{surname}\n"
@@ -2708,7 +2728,7 @@ msgstr ""
 "斯,希拉兹,希,希拉特拉斯,希拉特雷兹,希兹,赞多尔,泽德里克斯,希尔雷克斯,希兹阿"
 "兹,希斯拉普,匝尔克兹,匝普德"
 
-#. Generator for saurian names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for saurian names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2760,7 +2780,7 @@ msgstr ""
 "玛玛·瓦塔,玛丽娜,米兰达,米丽娅,莫尔菲,帕丝诺帕,佩娜吉拉,佩希诺伊,兰,希德娜,斯"
 "蒂拉·玛丽丝,希莉珂丝皮娅,提佳塔,瓦提,薇-艾娃,薇恩·艾墨尔,薇特-艾玛"
 
-#. Generator for merman names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for merman names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2779,7 +2799,7 @@ msgstr ""
 "辛尼劳|希修提尔|塔伽洛阿|塔纳阿|坦甲洛阿|坦加|陶玛斯|提奇提奇|提尼|提尼劳|提"
 "尼洛|托尼瓦|托尼温|维兹|伏德尼克|伏鲁卡萨\n"
 
-#. Generator for mermaid names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for mermaid names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}|{prefix}{centre}{suffix}\n"
@@ -2827,7 +2847,7 @@ msgstr ""
 "拉,斯内莉娅,斯拉可,斯拉尔,斯扎可,崔克丝哲德,薇莱拉,薇萨莱,薇拉妮莎,夏布拉可,"
 "夏玛莉娅,希娜,希娜希娅,希纳玛丝,希欧普科内,扎尔丝帕,扎尔可,兹普丝可,兹丝可"
 
-#. Generator for male naga names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for male naga names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}\n"
@@ -2847,7 +2867,7 @@ msgstr ""
 "斯|希布拉克|希玛雷尔|希纳斯|希纳莫斯|希欧普空|扎尔斯普|兹雷克|兹普斯克|兹斯"
 "克\n"
 
-#. Generator for female naga names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for female naga names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}\n"
@@ -2882,7 +2902,7 @@ msgstr ""
 "卡马克,马克隆,马卡克,马库克,莫克内克,纳伽克,欧尔克,欧尔克特,雷克纳克,塔寇拉"
 "克,特拉布克,特拉空,乌卡,乌克阿克"
 
-#. Generator for ogre names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for ogre names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{suffix}\n"
@@ -3034,7 +3054,7 @@ msgstr ""
 "图,塔格,图鲁格,图鲁夫,苏尔,托格,托尔格,托克,苏克,塔,塔克·拉,尤格,阿,乌格,乌"
 "拉,乌克,乏克,佐格,组格"
 
-#. Generator for troll names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for troll names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={short_name}|{short_name}|{short_name}|{short_name} {short_name}\n"
@@ -3079,7 +3099,7 @@ msgstr ""
 "恩德姆本,特姆坦农格特姆,通德恩孔腾孔,特鲁姆巴杜姆,塔姆腾塔塔格朗姆,塔姆腾朗格"
 "塔姆,塔姆塔姆格姆托姆托姆,沃壤玛尔丁,沃达多尔普"
 
-#. Generator for wose names; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for wose names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{centre}{centre}{suffix}|{prefix}{centre}{centre}{centre}"
@@ -3115,7 +3135,7 @@ msgstr ""
 "尔,金,纳姆,尼斯,纽,欧尔,欧德,欧夫,欧乌尔,欧克斯,洛克,卢克,萨尔,萨姆,希德,赛"
 "尔,森,西尔,塔尔,沃特,维特,约克"
 
-#. Generator for the base names of features assigned by the random map generator; see for <https://wiki.wesnoth.org/Context-free_grammar> for syntax
+#. Generator for the base names of features assigned by the random map generator; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
 "main={prefix}{middle}{suffix}\n"
@@ -4748,6 +4768,9 @@ msgstr ""
 "<b>野生</b>单位——例如蝙蝠和野生动物——会避开村庄。就算它们占据了村庄格子，也不"
 "能得到村庄带来的任何防御加成，虽然说它们仍然会得到治疗。"
 
+msgid "an advancement choice"
+msgstr "升级选择"
+
 msgid "An invalid attacker weapon got selected."
 msgstr "选中了无效的进攻武器。"
 
@@ -5426,13 +5449,13 @@ msgstr "缺少附加组件：$id"
 msgid "Unknown era"
 msgstr "未知时代"
 
-msgid "S"
+msgid "scenario_abbreviation^S"
 msgstr "S"
 
 msgid "Remote scenario"
 msgstr "远程场景"
 
-msgid "C"
+msgid "campaign_abbreviation^C"
 msgstr "C"
 
 msgid "Unknown scenario"
@@ -6996,9 +7019,6 @@ msgstr "中立"
 
 msgid "female^liminal"
 msgstr "边缘"
-
-msgid "Unit with negative HP found"
-msgstr "发现生命值为负的单位"
 
 msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|：$effect_description"

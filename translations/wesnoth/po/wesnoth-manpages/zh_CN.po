@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"POT-Creation-Date: 2018-05-09 03:49-0300\n"
-"PO-Revision-Date: 2018-05-16 22:52+0800\n"
+"POT-Creation-Date: 2018-06-03 16:42+0300\n"
+"PO-Revision-Date: 2018-07-08 21:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. type: TH
 #, no-wrap
@@ -86,6 +86,19 @@ msgstr ""
 #, no-wrap
 msgid "OPTIONS"
 msgstr "选项"
+
+#. type: TP
+#, no-wrap
+msgid "B<--all-translations>"
+msgstr "B<--all-translations>"
+
+#. type: Plain text
+msgid ""
+"Show all translations in the in-game language selection list, even if they "
+"are deemed insufficiently complete."
+msgstr ""
+"在游戏中的语言选择列表中显示所有翻译，哪怕这些翻译被认为不够完整，也一样显"
+"示。"
 
 #. type: TP
 #, no-wrap
@@ -291,11 +304,12 @@ msgid ""
 "sets the severity level of the log domains.  B<all> can be used to match any "
 "log domain. Available levels: B<error>,\\ B<warning>,\\ B<info>,\\ B<debug>,"
 "\\ B<none>.  By default the B<warning> level is used for most domains, but "
-"B<deprecation> defaults to none."
+"B<deprecation> defaults to none unless combined with the B<-d> option."
 msgstr ""
 "设置日志域的严重度级别。B<all>可以用来匹配任意日志域。可选的级别有："
 "B<error>，\\ B<warning>，\\ B<info>，\\ B<debug>, \\ B<none>。对绝大多数日志"
-"域而言，默认日志级别是B<warning>，但B<deprecation>的默认级别是B<none>。"
+"域而言，默认日志级别是B<warning>，但B<deprecation>的默认级别是B<none>，除非和"
+"B<-d>选项并用。"
 
 #. type: TP
 #, no-wrap
@@ -629,6 +643,17 @@ msgstr ""
 "在小型测试场景中运行游戏。该场景应使用 B<[test]> WML标签定义。默认为 "
 "B<test> 。可使用 B<micro_ai_test> 启动对 B<[micro_ai]> 特性的演示。此选项隐"
 "含 B<--nogui> 。"
+
+#. type: TP
+#, no-wrap
+msgid "B<--translations-over>I<\\ percent>"
+msgstr "B<--translations-over>I<\\ percent>"
+
+#. type: Plain text
+msgid ""
+"Set the standard for deeming a translation is complete enough to show in the "
+"in-game language list to I<percent>.  Valid values are 0 to 100."
+msgstr "将确认翻译是否足够完整的判断标准设为I<percent>，合法的值为0到100。"
 
 #. type: TP
 #, no-wrap

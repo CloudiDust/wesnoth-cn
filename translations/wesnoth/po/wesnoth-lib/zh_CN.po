@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-15 23:33-0400\n"
-"PO-Revision-Date: 2018-05-16 22:50+0800\n"
+"POT-Creation-Date: 2018-07-08 04:51-0400\n"
+"PO-Revision-Date: 2018-07-08 20:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -685,15 +685,12 @@ msgstr "干净的石墙"
 #. [terrain_type]: id=portal_gate_rusty_open_sw
 #. [terrain_type]: id=portal_gate_rusty_open_se
 #. [terrain_type]: id=portal_gate_rusty_open_n
-#. [terrain_type]: id=portal_gate_rusty
-#. [terrain_type]: id=p_open_rusty
 msgid "Gate"
 msgstr "大门"
 
 #. [terrain_type]: id=portal_gate_rusty_sw
 #. [terrain_type]: id=portal_gate_rusty_se
 #. [terrain_type]: id=portal_gate_rusty_n
-#. [terrain_type]: id=portal_gate_rusty
 msgid "Rusty Gate"
 msgstr "锈门"
 
@@ -703,15 +700,12 @@ msgstr "锈门"
 #. [terrain_type]: id=portal_door_wooden_open_sw
 #. [terrain_type]: id=portal_door_wooden_open_se
 #. [terrain_type]: id=portal_door_wooden_open_n
-#. [terrain_type]: id=portal_door_wooden
-#. [terrain_type]: id=p_open_wooden
 msgid "Door"
 msgstr "门"
 
 #. [terrain_type]: id=portal_door_wooden_sw
 #. [terrain_type]: id=portal_door_wooden_se
 #. [terrain_type]: id=portal_door_wooden_n
-#. [terrain_type]: id=portal_door_wooden
 msgid "Wooden Door"
 msgstr "木门"
 
@@ -725,14 +719,6 @@ msgstr "开启的锈门"
 #. [terrain_type]: id=portal_door_wooden_open_se
 #. [terrain_type]: id=portal_door_wooden_open_n
 msgid "Open Wooden Door"
-msgstr "开启的木门"
-
-#. [terrain_type]: id=p_open_rusty
-msgid "Rusty Open Gate"
-msgstr "开启的锈门"
-
-#. [terrain_type]: id=p_open_wooden
-msgid "Wooden Open Door"
 msgstr "开启的木门"
 
 #. [terrain_type]: id=impassable_overlay
@@ -1899,8 +1885,8 @@ msgid "Modifications"
 msgstr "模组"
 
 #. [toggle_button]: id=checkbox_deterministic
-msgid "Deterministic mode"
-msgstr "确定性随机模式"
+msgid "Save random seed"
+msgstr "保存随机种子"
 
 #. [toggle_button]: id=checkbox_deterministic
 msgid ""
@@ -2704,18 +2690,6 @@ msgstr "游戏"
 msgid "Requires a password to join"
 msgstr "需要密码才能加入游戏"
 
-#. [label]
-msgid "Sort players:"
-msgstr "玩家排序："
-
-#. [toggle_button]: id=player_list_sort_relation
-msgid "Friends first, ignored people last"
-msgstr "好友优先，被忽略者在最后"
-
-#. [toggle_button]: id=player_list_sort_name
-msgid "Alphabetically"
-msgstr "字母顺序"
-
 #. [toggle_button]: id=filter_with_friends
 #. [widget]: id=tab_label
 msgid "Friends"
@@ -3221,6 +3195,10 @@ msgstr ""
 "必须启动一个本地服务器实例之后才能主建联机游戏。服务器将作为后台进程运行，直"
 "到所有玩家全部断线为止。您希望继续吗？"
 
+#. [button]: id=select_leader
+msgid "Select the faction and leader for this side"
+msgstr "选择此阵营的派系和首领"
+
 #. [label]
 msgid "<b>Faction:</b>"
 msgstr "<b>派系：</b>"
@@ -3313,10 +3291,6 @@ msgstr "地址"
 msgid "Select"
 msgstr "选择"
 
-#. [button]: id=select_leader
-msgid "Select the faction and leader for this side"
-msgstr "选择此阵营的派系和首领"
-
 #. [menu_button]: id=controller
 msgid "Change the side's controller"
 msgstr "改变阵营的控制者"
@@ -3349,6 +3323,10 @@ msgstr "显示"
 msgid "Advanced"
 msgstr "高级"
 
+#. [button]: id=about
+msgid "Display the game version and build information"
+msgstr "显示游戏版本和构建信息"
+
 #. [label]
 msgid "Scroll speed:"
 msgstr "滚屏速度："
@@ -3356,14 +3334,6 @@ msgstr "滚屏速度："
 #. [slider]: id=scroll_speed
 msgid "Change the speed of scrolling around the map"
 msgstr "改变地图滚屏速度"
-
-#. [toggle_button]: id=turbo_toggle
-msgid "Accelerated speed"
-msgstr "加速"
-
-#. [toggle_button]: id=turbo_toggle
-msgid "Make units move and fight faster"
-msgstr "加快单位的移动和战斗速度"
 
 #. [toggle_button]: id=skip_ai_moves
 msgid "Skip AI moves"
@@ -3373,13 +3343,23 @@ msgstr "略过AI移动"
 msgid "Do not animate AI units moving"
 msgstr "不显示AI单位的移动动画"
 
-#. [column]
-msgid "Speed:"
-msgstr "速度："
+#. [toggle_button]: id=turbo_toggle
+msgid "Accelerated speed"
+msgstr "加速"
+
+#. [toggle_button]: id=turbo_toggle
+msgid "Make units move and fight faster"
+msgstr "加快单位的移动和战斗速度"
 
 #. [column]
-msgid "Units move and fight speed"
-msgstr "单位的移动和战斗速度"
+msgid "Acceleration factor:"
+msgstr "加速因子："
+
+#. [column]
+msgid ""
+"Speed at which unit moves and animations play when ‘Accelerated speed’ is "
+"enabled or when Shift is held down in-game"
+msgstr "当启用“加快速度”或在游戏中按住Shift时，单位行动和动画的播放速度"
 
 #. [toggle_button]: id=disable_auto_moves
 msgid "Disable automatic moves"
@@ -3824,14 +3804,6 @@ msgstr "此回合"
 msgid "Statistics"
 msgstr "统计"
 
-#. [widget]: id=tab_label
-msgid "Scenario"
-msgstr "场景"
-
-#. [widget]: id=tab_label
-msgid "Campaign"
-msgstr "战役"
-
 #. [button]: id=cancel
 msgid "Skip"
 msgstr "跳过"
@@ -3985,10 +3957,6 @@ msgstr "查看制作者名单"
 #. [grid]
 msgid "Quit the game"
 msgstr "退出游戏"
-
-#. [button]: id=about
-msgid "Display the game version and build information"
-msgstr "显示游戏版本和构建信息"
 
 #. [label]
 msgid "Advance Unit"
@@ -4746,7 +4714,7 @@ msgstr "无友方镜像：任意两位结盟的玩家都不会被指定到同一
 msgid "No eras available for this game."
 msgstr "没有可用于此游戏的时代。"
 
-msgid "$min to $max"
+msgid "number of players^$min to $max"
 msgstr "$min|至$max"
 
 msgid "The selected game has no sides!"
@@ -4757,9 +4725,6 @@ msgstr "选择起始场景"
 
 msgid "Select at which point to begin this campaign."
 msgstr "选择在何处开始此战役。"
-
-msgid "No era information found."
-msgstr "未找到时代信息。"
 
 msgid "Computer Player"
 msgstr "电脑玩家"
@@ -4831,6 +4796,9 @@ msgstr ""
 "\n"
 "请尝试将截屏保存为PNG。"
 
+msgid "All Scenarios"
+msgstr "全部场景"
+
 msgid "Recruits"
 msgstr "次征募"
 
@@ -4851,6 +4819,9 @@ msgstr "点造成的伤害"
 
 msgid "Taken"
 msgstr "点受到的伤害"
+
+msgid "$count|× $name"
+msgstr "$count|× $name"
 
 msgid "Choose Test"
 msgstr "选择测试"
@@ -4899,10 +4870,10 @@ msgstr "已加入<b>“$name|”</b>房间"
 
 msgid ""
 "Whisper session with <i>“$name”</i> started. If you do not want to receive "
-"messages from this user, type <i>/ignore $name</i>\n"
+"messages from this user, type <i>/ignore $name</i>"
 msgstr ""
 "和<b>“$name|”</b>的悄悄话开始。如果你不希望收到来自此用户的消息，请输入<b>/"
-"ignore $name|</b>\n"
+"ignore $name|</b>"
 
 msgid "$player has entered the room"
 msgstr "$player|进入了房间"

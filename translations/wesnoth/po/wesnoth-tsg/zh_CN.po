@@ -10,9 +10,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-06 08:31 UTC\n"
-"PO-Revision-Date: 2018-05-16 23:13+0800\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"PO-Revision-Date: 2018-07-08 21:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [campaign]: id=The_South_Guard
 msgid "The South Guard"
@@ -1243,6 +1243,18 @@ msgstr "很好。我们会找到这条河，并探查它的秘密。"
 msgid "Investigate the areas to the south of the Black River"
 msgstr "调查黑河以南地区"
 
+#. [objective]: condition=win
+msgid "Find the source of the undead and destroy it"
+msgstr "找到亡灵之源并摧毁它"
+
+#. [objective]: condition=win
+msgid "Defeat Urza Afalas"
+msgstr "击败乌扎·阿法拉斯"
+
+#. [objective]: condition=lose
+msgid "Death of Urza Afalas"
+msgstr "乌扎·阿法拉斯死亡"
+
 #. [message]: speaker=second_unit
 #. [message]: speaker=Sir Gerrick
 msgid "The master of the undead is defeated!"
@@ -1374,14 +1386,6 @@ msgstr "那么谈判破裂了！你大有可能敲响了我们所有人的丧钟
 msgid "You will pay for taking Mebrin from us! If he is harmed..."
 msgstr "你将为抓走梅布林付出代价！要是他伤了一根寒毛……"
 
-#. [objective]: condition=win
-msgid "Find the source of the undead and destroy it"
-msgstr "找到亡灵之源并摧毁它"
-
-#. [objective]: condition=win
-msgid "Defeat Urza Afalas"
-msgstr "击败乌扎·阿法拉斯"
-
 #. [option]
 msgid "Very well. All men must unite against the undead."
 msgstr "很好。所有人类都必须联合起来对付亡灵。"
@@ -1410,10 +1414,6 @@ msgstr "精灵们把我们抛弃在这可憎的森林里了！我们肯定迷路
 #. [message]: speaker=Urza Afalas
 msgid "Do not fear, I can lead you out when the time is right."
 msgstr "别担心，等到恰当之时，我能带你们出去。"
-
-#. [objective]: condition=lose
-msgid "Death of Urza Afalas"
-msgstr "乌扎·阿法拉斯死亡"
 
 #. [message]: speaker=Urza Afalas
 #. [message]: speaker=unit

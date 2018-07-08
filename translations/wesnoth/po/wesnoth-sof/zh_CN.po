@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-06 08:32 UTC\n"
-"PO-Revision-Date: 2018-05-16 22:54+0800\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"PO-Revision-Date: 2018-07-08 21:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 msgid "The Sceptre of Fire"
@@ -2645,6 +2645,10 @@ msgstr ""
 "在他们意识到发生了什么之前，我们必须干掉他们。还有记住，岩浆蔓延得快速突然而"
 "危险。只有魔法符附近的区域是唯一安全的地方。"
 
+#. [objective]: condition=win
+msgid "Kill all of the elves before one of them escapes from the caves"
+msgstr "在任一精灵逃出洞窟前杀掉所有精灵"
+
 #. [message]: role=smartelf
 msgid ""
 "Wait, what’s going on? The volcano is going to erupt! Everyone, try to get "
@@ -2668,10 +2672,6 @@ msgid ""
 "We have hidden the Sceptre well, but now the volcano is going to erupt and "
 "kill us all."
 msgstr "我们藏好了权杖，但现在火山会喷发，我们都会死。"
-
-#. [objective]: condition=win
-msgid "Kill all of the elves before one of them escapes from the caves"
-msgstr "在任一精灵逃出洞窟前杀掉所有精灵"
 
 #. [message]: speaker=Krawg
 #. "Hmmm, me leave now!"

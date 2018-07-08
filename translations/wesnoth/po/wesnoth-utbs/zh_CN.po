@@ -9,9 +9,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-16 03:33 UTC\n"
-"PO-Revision-Date: 2018-05-17 22:33+0800\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"PO-Revision-Date: 2018-07-08 21:54+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -1523,6 +1523,12 @@ msgstr "逃啊，你们这些胆小的灵魂，能不能和平一些！"
 msgid "A Stirring in the Night"
 msgstr "匆忙的夜"
 
+#. [time]
+#. Use the same translation as for the string in the wesnoth-help textdomain.
+#. Use the same translation as for the string in the wesnoth-help textdomain.
+msgid "The Long Dark"
+msgstr "漫漫长夜"
+
 #. [side]: id=Azkotep, type=Lich
 msgid "Azkotep"
 msgstr "阿兹卡提"
@@ -2867,11 +2873,6 @@ msgstr "蜘蛛不是昆虫。"
 msgid "Thanks for the clarification."
 msgstr "谢谢提醒。"
 
-#. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
-#. [event]
-msgid "Wounded Dwarf"
-msgstr "受伤的矮人"
-
 #. [message]: speaker=Wounded Dwarf
 msgid "Help! They’re everywhere!"
 msgstr "救命！他们到处都是！"
@@ -3623,6 +3624,10 @@ msgstr ""
 #. [message]: speaker=Troll Guard
 msgid "Intruders! Kill them!"
 msgstr "有入侵者！杀啊！"
+
+#. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
+msgid "Wounded Dwarf"
+msgstr "受伤的矮人"
 
 #. [message]: speaker=Troll Interrogator
 msgid "Tell us where your leader is hiding!"
@@ -10475,7 +10480,7 @@ msgstr "她的咒语解除了，但我们还没有胜利。来帮我们！"
 msgid "Yes priestess."
 msgstr "遵命，祭祀。"
 
-#. [unit]: type=Central Body, id=Yechnagoth
+#. [unit]: type=Central Body1, id=Yechnagoth
 #. [unit]: type=Central Body2, id=Yechnagoth
 msgid "Yechnagoth"
 msgstr "耶柯纳戈斯"
@@ -11329,11 +11334,11 @@ msgstr ""
 "股战士，指挥官们让部队集结在他们周围，他们使用弓和剑来猛烈进攻敌人，毫不留"
 "情。"
 
-#. [unit_type]: id=Central Body, race=monster
+#. [unit_type]: id=Central Body Base, race=monster
 msgid "Central Body"
 msgstr "中枢躯体"
 
-#. [unit_type]: id=Central Body, race=monster
+#. [unit_type]: id=Central Body Base, race=monster
 #. [unit_type]: id=Pulsing Spire, race=monster
 #. [unit_type]: id=Crawling Horror, race=monster
 msgid ""
@@ -11344,6 +11349,20 @@ msgstr "这东西很难描述，因为从来没有人见过类似的东西。"
 #. [attack]: type=cold
 msgid "energy ray"
 msgstr "能量射线"
+
+#. [regenerate]: id=regenerates_yec
+msgid "alien regenerates"
+msgstr "异形再生"
+
+#. [regenerate]: id=regenerates_yec
+msgid "female^alien regenerates"
+msgstr "异形再生"
+
+#. [regenerate]: id=regenerates_yec
+msgid ""
+"The unit will heal itself 100 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr "此单位每回合会恢复100点生命值。如果中毒，那么会疗毒而不是疗伤。"
 
 #. [unit_type]: id=Central Body2
 msgid "Weakened Central Body"
