@@ -5,6 +5,8 @@
 # See LICENSE for GNU General Public License 2.0
 # That said, I don't see a reason why anyone would use this script elsewhere ;)
 
+from __future__ import print_function
+
 import sys
 import os
 import os.path
@@ -38,14 +40,14 @@ def ensure_dir_exists_or_inform(path):
     if os.path.isdir(path):
         return True
     elif os.path.isfile(path):
-        print 'Warning: directory expected, regular file found: %s' % path
+        print('Warning: directory expected, regular file found: %s' % path)
         return False
     else:
         try:
             os.makedirs(path)
             return True
         except OSError:
-            print 'Warning: cannot create directory: %s' % path
+            print('Warning: cannot create directory: %s' % path)
             return False
         
 def ensure_parent_exists_or_inform(path):
@@ -61,11 +63,11 @@ def merge(textdomain):
     pot = pot_path(textdomain)
 
     if not os.path.isfile(po):
-        print 'Warning: skipped textdomain %s, no catalog file.' % textdomain
+        print('Warning: skipped textdomain %s, no catalog file.' % textdomain)
     elif not os.path.isfile(pot):
-        print 'Warning: skipped textdomain %s, no template file.' % textdomain
+        print('Warning: skipped textdomain %s, no template file.' % textdomain)
     else:
-        print 'Merging ' + textdomain + '...'
+        print('Merging ' + textdomain + '...')
         cmd = ['msgmerge', '--quiet', '--no-location', '--update', po, pot]
         sys.stdout.flush()
         subprocess.call(cmd)
@@ -78,9 +80,9 @@ def merge_cmd(textdomains):
 def normalize(textdomain):
     po = po_path(textdomain)
     if not os.path.isfile(po):
-        print 'Warning: skipped textdomain %s, no catalog file.' % textdomain
+        print('Warning: skipped textdomain %s, no catalog file.' % textdomain)
     else:
-        print 'Normalizing ' + textdomain + '...'
+        print('Normalizing ' + textdomain + '...')
         cmd = ['msgattrib', po, '-o', po, '--no-obsolete']
         sys.stdout.flush()
         subprocess.call(cmd)
@@ -95,11 +97,11 @@ def compile(textdomain):
     mo = mo_path(textdomain)
 
     if not os.path.isfile(po):
-        print 'Warning: skipped textdomain %s, no catalog file.' % textdomain
+        print('Warning: skipped textdomain %s, no catalog file.' % textdomain)
     elif not ensure_parent_exists_or_inform(mo):
-        print 'Warning: skipped textdomain %s.'
+        print('Warning: skipped textdomain %s.')
     else:
-        print 'Compiling ' + textdomain + '...'
+        print('Compiling ' + textdomain + '...')
         cmd = ['msgfmt',  po, '-o', mo]
         sys.stdout.flush()
         subprocess.call(cmd)
@@ -117,16 +119,16 @@ def prepare_for_dist(textdomain):
     dist_po = po_path(textdomain, 'dist')
 
     if not os.path.isfile(pot):
-        print 'Warning: skipped textdomain %s, no template file.' % textdomain
+        print('Warning: skipped textdomain %s, no template file.' % textdomain)
         return None
     elif not os.path.isfile(po):
-        print 'Warning: skipped textdomain %s, no catalog file.' % textdomain
+        print('Warning: skipped textdomain %s, no catalog file.' % textdomain)
         return None
     elif not ensure_parent_exists_or_inform(dist_po):
-        print 'Warning: skipped textdomain %s.'
+        print('Warning: skipped textdomain %s.')
         return None
     
-    print 'Preparing ' + textdomain + '...'
+    print('Preparing ' + textdomain + '...')
     sys.stdout.flush()
     shutil.copy(po, dist_po)
     merge_cmd = ['msgmerge', '-qo', dist_po, dist_po, pot]
@@ -136,14 +138,14 @@ def prepare_for_dist(textdomain):
 def dist_cmd(textdomains):
     dist_pos = [prepare_for_dist(textdomain) for textdomain in textdomains]
     dist_pos = [path for path in dist_pos if path is not None]
-    print 'Creating distribution...'
+    print('Creating distribution...')
     tar_cmd = ['tar', 'cJ', '-f', ROOTS['dist'] + '/wesnoth_cn.tar.xz', '-C', ROOTS['dist']]
     tar_cmd.extend(dist_pos)
     sys.stdout.flush()
     subprocess.call(tar_cmd)
 
 def usage_and_exit():
-    print 'Usage: admin.py merge|normalize|compile|dist [textdomain ...]'
+    print('Usage: admin.py merge|normalize|compile|dist [textdomain ...]')
     sys.exit(1)
 
 COMMANDS = {
@@ -188,7 +190,7 @@ def split_textdomains(textdomains):
 
 def warn_about_unknown(unknown):
     if len(unknown) == 0: return
-    print 'Warning: skipped unknown textdomain: ' + ','.join(unknown)
+    print('Warning: skipped unknown textdomain: ' + ','.join(unknown))
 
 def main():
     global TEXTDOMAINS
@@ -203,7 +205,7 @@ def main():
 
     command(known)
 
-    print 'Done.'
+    print('Done.')
 
 if __name__ == "__main__":
     main()
