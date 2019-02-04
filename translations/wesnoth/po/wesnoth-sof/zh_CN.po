@@ -1,12 +1,12 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
 "PO-Revision-Date: 2018-07-08 21:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -70,7 +70,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Sceptre_of_Fire
-msgid "(Expert level, 9 scenarios.)"
+#, fuzzy
+msgid "(Hard level, 9 scenarios.)"
 msgstr "（专家级别，9幕场景。）"
 
 #. [about]
@@ -111,12 +112,12 @@ msgstr "哈德里克二世"
 msgid "Glildur"
 msgstr "基利达"
 
-#. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Crintil
+#. [side]
+#. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]
 #. [side]: type=Elvish Captain, id=Glildur
 msgid "Elves"
 msgstr "精灵"
@@ -502,8 +503,8 @@ msgstr "紧闭大门"
 msgid "Glindur"
 msgstr "格林达"
 
-#. [side]
 #. [side]: type=Troll Warrior, type=Troll
+#. [side]
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -524,6 +525,10 @@ msgstr "为关上矮人大门，在六个魔法符上分别站一人。"
 #. [objective]: condition=win
 msgid "Kill all elves in the caves after the gates are closed"
 msgstr "在大门关上后，杀掉洞穴中所有精灵。"
+
+#. [objective]: condition=win
+msgid "Kill all elves in the caves"
+msgstr "击败洞穴里的所有精灵"
 
 #. [objective]: condition=lose
 msgid "Death of Baglur"
@@ -699,10 +704,6 @@ msgstr "这儿还有些剩下的精灵。我们也必须清理掉他们，如果
 #. [message]
 msgid "You would have us be cowards! We do not surrender."
 msgstr "你把我们想的太懦弱了！我们决不投降。"
-
-#. [objective]: condition=win
-msgid "Kill all elves in the caves"
-msgstr "击败洞穴里的所有精灵"
 
 #. [message]: speaker=Rugnur
 msgid "Well, now I should go down to the city and report. I’m late already..."
@@ -917,10 +918,11 @@ msgid "Monsters"
 msgstr "怪物"
 
 #. [part]
+#, fuzzy
 msgid ""
 "The journey to the far northern wastelands was long and perilous. For the "
 "tunnels were winding and treacherous, and the paths were not safe from orcs, "
-"or worse. Nevertheless, they did reach the northlands, and began to search "
+"or worse. Nevertheless, they did reach the Northlands, and began to search "
 "for the runesmith named Thursagan — the sage of fire."
 msgstr ""
 "去往极北荒原之路漫长而艰险。皆因坑道崎岖而诡谲，山路亦未能逃过兽人乃至更可怕"
@@ -930,6 +932,24 @@ msgstr ""
 #. [objective]: condition=win
 msgid "Find Thursagan and convince him to come back to the dwarvish city"
 msgstr "找到瑟萨冈并说服他返回矮人之城"
+
+#. [objective]: condition=win
+msgid ""
+"Find Thursagan and convince him to come back to the dwarvish city, then "
+"bring him back to the caves"
+msgstr "找到瑟萨冈并说服他返回矮人之城，再将他带回洞穴里"
+
+#. [objective]: condition=win
+msgid "Move Thursagan to the signpost"
+msgstr "移动瑟萨冈至路标处"
+
+#. [objective]: condition=lose
+msgid "Death of Krawg"
+msgstr "克拉格死亡"
+
+#. [objective]: condition=lose
+msgid "Death of Thursagan"
+msgstr "瑟萨冈死亡"
 
 #. [message]: speaker=Alanin
 msgid ""
@@ -959,8 +979,9 @@ msgstr ""
 "至连精灵也不会在这里挑战我们。"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
-"Except for trolls and ogres, right? They live in the far northlands. They’re "
+"Except for trolls and ogres, right? They live in the far Northlands. They’re "
 "probably lurking around here somewhere."
 msgstr ""
 "除了巨魔和食人魔，对吗？他们住在遥远的北陆。他们八成就潜伏这里周围的什么地"
@@ -1015,20 +1036,6 @@ msgstr "寺……如果拟撒掉巨诺合食人诺，沃门会板租拟！"
 #. [message]: speaker=Baglur
 msgid "Sure, we’ll help you fight trolls and ogres."
 msgstr "当然，我们会帮你对付巨魔和食人魔。"
-
-#. [objective]: condition=win
-msgid ""
-"Find Thursagan and convince him to come back to the dwarvish city, then "
-"bring him back to the caves"
-msgstr "找到瑟萨冈并说服他返回矮人之城，再将他带回洞穴里"
-
-#. [objective]: condition=lose
-msgid "Death of Krawg"
-msgstr "克拉格死亡"
-
-#. [unit]: id=Kawn # wmllint: ignore, type=Gryphon Rider
-msgid "Kawn"
-msgstr "卡文"
 
 #. [message]: speaker=Krawg
 #. "I see a house in the distance!"
@@ -1124,14 +1131,6 @@ msgid ""
 "caves."
 msgstr "好的。现在，这里还有野生动物在游荡，我们得回洞穴里去。"
 
-#. [objective]: condition=win
-msgid "Move Thursagan to the signpost"
-msgstr "移动瑟萨冈至路标处"
-
-#. [objective]: condition=lose
-msgid "Death of Thursagan"
-msgstr "瑟萨冈死亡"
-
 #. [message]: speaker=Thursagan
 msgid "Well, now we are in the caves again! Come on, back south, to the city."
 msgstr "好，现在我们又回洞里了！赶快，回南边，到城市去。"
@@ -1162,7 +1161,8 @@ msgstr ""
 "么回事？"
 
 #. [message]: speaker=Baglur
-msgid "Yes, we did. And that is Krawg, who helped us in the northlands."
+#, fuzzy
+msgid "Yes, we did. And that is Krawg, who helped us in the Northlands."
 msgstr "是的，我们成功了。这位是克拉格，在北陆曾经帮助过我们。"
 
 #. [message]: speaker=Krawg
@@ -1637,9 +1637,18 @@ msgstr ""
 "众所周知，所有矮人都喜爱黄金，连心都是宝石做的。绍比尔一族也不例外。他们是工"
 "匠的工匠——他们打造工具。这片大陆上最好的工具。他们以物易物的交易也不赖。"
 
+#. [label]
+msgid "Shorbear caves"
+msgstr ""
+
 #. [objective]: condition=win
 msgid "Defeat Glonoin, the Shorbear clan leader"
 msgstr "击败格罗诺因，绍比尔族的首领"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid "Have all heroes, and no enemies, in the Shorbear caves"
+msgstr "当绍比尔族的洞穴内没有敌人时，让所有英雄进入洞穴内"
 
 #. [objective]: condition=lose
 msgid "Death of Durstorn"
@@ -1848,10 +1857,6 @@ msgid ""
 msgstr ""
 "别傻了！我们对付不了精灵，而且攻击这些矮人是个错误，但如果我们不得不战斗，那"
 "一达到目的就该撤退——拿到工具！"
-
-#. [objective]: condition=win
-msgid "Have all heroes in the Shorbear caves while no enemies are in the caves"
-msgstr "当绍比尔族的洞穴内没有敌人时，让所有英雄进入洞穴内"
 
 #. [message]: speaker=Durstorn
 msgid "Ha! Now we can get those tools easily, and go back to our own caves."
@@ -2190,7 +2195,7 @@ msgstr "我穿过了精灵的封锁，但他们会来追我，而且精灵骑兵
 msgid "Rugnur, I am going south. What should I tell Haldric?"
 msgstr "拉格纳，我要去南边了。我该和哈德里克说些什么？"
 
-#. [message]: speaker=Thursagan
+#. [message]: speaker=Rugnur
 msgid ""
 "Tell him to send forces north to aid us and fight the elves, but that we are "
 "probably going to die. We will run northeast towards the old eastern mines, "
@@ -2276,6 +2281,34 @@ msgstr "我们走着瞧！"
 msgid "Raesil"
 msgstr "拉艾希尔"
 
+#. [message]: speaker=second_unit
+msgid "Great, now there is no need to worry about those elves anymore!"
+msgstr ""
+
+#. [message]: role=newcomer
+msgid ""
+"Did you really think that you could escape us? Don’t underestimate us, "
+"inferior humans!"
+msgstr ""
+
+#. [message]: id=Alanin
+msgid ""
+"Even though my chances have grown worse, I have to fulfil my duty. I do not "
+"owe them any less!"
+msgstr ""
+
+#. [message]: id=Alanin
+msgid "Oh no, more of them? And there I thought I could catch my breath…"
+msgstr ""
+
+#. [message]: role=fighter
+msgid "Don’t worry sir, we’ll make it through this!"
+msgstr ""
+
+#. [message]: id=Alanin
+msgid "Is there no end to their numbers?"
+msgstr ""
+
 #. [message]: speaker=Alanin
 msgid ""
 "The villagers here are loyal to Wesnoth. They should be willing to help me "
@@ -2290,6 +2323,11 @@ msgstr "罗林"
 msgid "We will certainly help any warrior of Wesnoth who needs our help!"
 msgstr "我们当然会帮助任何需要我们帮助的韦诺勇士！"
 
+#. [message]: race=elf
+msgid ""
+"You slow humans took too long, our detachment has already caught up with you!"
+msgstr ""
+
 #. [unit]: type=Lieutenant, id=Hadlin   # wmllint: ignore
 msgid "Hadlin"
 msgstr "哈德林"
@@ -2299,10 +2337,23 @@ msgid "Who goes there?"
 msgstr "什么人？"
 
 #. [message]: speaker=Alanin
+#. dragoon = his unit type
+#, fuzzy
 msgid ""
 "I’m a dragoon, with Haldric II’s personal bodyguard. I was sent on a mission "
-"in the northlands, and now elvish horsemen are chasing me. I barely evaded "
+"in the Northlands, and now elvish horsemen are chasing me. I barely evaded "
 "them."
+msgstr ""
+"我是龙骑兵，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵正在抓"
+"我。我好不容易才逃脱。"
+
+#. [message]: speaker=Alanin
+#. cavalier = his unit type
+#, fuzzy
+msgid ""
+"I’m a cavalier, with Haldric II’s personal bodyguard. I was sent on a "
+"mission in the Northlands, and now elvish horsemen are chasing me. I barely "
+"evaded them."
 msgstr ""
 "我是龙骑兵，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵正在抓"
 "我。我好不容易才逃脱。"
@@ -2341,6 +2392,22 @@ msgstr ""
 #. [objective]: condition=win
 msgid "Get all heroes to the end of the tunnel"
 msgstr "让所有英雄到达坑道尽头"
+
+#. [objective]: condition=win
+msgid "Move Thursagan to the forge"
+msgstr "移动瑟萨冈至熔炉处"
+
+#. [objective]: condition=win
+msgid "Defend Thursagan until the Sceptre of Fire is complete"
+msgstr "保护瑟萨冈直到权杖打造完成"
+
+#. [objective]: condition=win
+msgid "Survive until turns run out"
+msgstr "撑到回合数用尽"
+
+#. [objective]: condition=lose
+msgid "An enemy moves onto the forge"
+msgstr "敌人移动到熔炉处"
 
 #. [message]: speaker=Rugnur
 msgid ""
@@ -2454,29 +2521,14 @@ msgstr ""
 msgid "That pretty metal rock is mine! Get away from it!"
 msgstr "那漂亮的金属石头是我的！滚开！"
 
-#. [objective]: condition=win
-msgid "Move Thursagan to the forge"
-msgstr "移动瑟萨冈至熔炉处"
-
-#. [objective]: condition=win
-msgid "Defend Thursagan until the Sceptre of Fire is complete"
-msgstr "保护瑟萨冈直到权杖打造完成"
-
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
-"This forge will work perfectly. Give me a few days here, and I can reforge "
+"This forge will work perfectly. Give me a day or two here, and I can reforge "
 "the Sceptre of Fire to fulfill its purpose."
 msgstr ""
 "这个熔炉会工作得非常好的。给我在几天时间，我就可以重铸圣火权杖来达到它原本的"
 "目标。"
-
-#. [objective]: condition=win
-msgid "Survive until turns run out"
-msgstr "撑到回合数用尽"
-
-#. [objective]: condition=lose
-msgid "An enemy moves onto the forge"
-msgstr "敌人移动到熔炉处"
 
 #. [message]: speaker=narrator
 msgid "You fool, you let the enemy get at me when I was unarmed!"
@@ -2509,10 +2561,11 @@ msgid "Orcs"
 msgstr "兽人"
 
 #. [part]
+#. The text in 1.14.4 mentioned Knalga. Geographically, these caves are in Knalga, but the text was confusing if the reader thought of the Knalgan Alliance.
+#, fuzzy
 msgid ""
-"There was no exit from the caverns of Knalga. They had reached the realms of "
-"the orcs, with the elves hot on their trail. And there was no exit from "
-"those caves."
+"There was no exit for the dwarves. They had reached the realms of the orcs, "
+"with the elves hot on their trail. There was truly no exit from these caves."
 msgstr ""
 "纳尔迦的洞窟没有出口。他们已踏上了兽人的领地，精灵紧跟在他们后面。这里的洞窟"
 "也没有出口。"
@@ -2719,9 +2772,10 @@ msgid "Halt! What is your business in Weldyn, capital of Wesnoth?"
 msgstr "站住！你来韦诺首都维尔帝有何贵干？"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
 "Stand aside. I am Alanin, of Haldric’s royal guard, and I bring news from "
-"the northlands."
+"the Northlands."
 msgstr "让开。我是阿拉宁，哈德里克的皇家侍卫，我带来了北陆的消息。"
 
 #. [message]: speaker=Gatekeeper
@@ -2746,8 +2800,9 @@ msgid "Enter, Alanin, and give the king your message."
 msgstr "请进，阿拉宁，向吾王汇报你的消息。"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
-"My King, fifteen years ago you sent me on a mission into the northlands. I "
+"My King, fifteen years ago you sent me on a mission into the Northlands. I "
 "have returned. What do you wish to know of my mission?"
 msgstr "吾王，十五年前您派我到北陆履行使命。我回来了。您希望了解些什么？"
 

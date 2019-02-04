@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # jan2xue <75jan@163.com>, 2005.
 # Huang Huan <unicon221@gmail.com>, 2005.
@@ -8,12 +8,12 @@
 # MrKing <yideey@gmail.com>, 2012.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:50 UTC\n"
+"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
 "PO-Revision-Date: 2018-07-08 21:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -116,13 +116,14 @@ msgstr ""
 "饶。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "The dwarves of Knalga, cannily reckoning the gains from trade, built strong "
 "fortifications around Dwarven Doors. The people who called it home, dwarven "
 "and human alike, knew that the wealth of their city might arouse envy from "
 "afar — hence they kept their weapons sharp, and reckoned themselves well "
 "able to fight off any bandit gang or petty warlord that could arise in the "
-"thinly-settled northlands."
+"thinly-settled Northlands."
 msgstr ""
 "纳尔迦的矮人们依靠精明的智慧从贸易中获得财富，并在矮人之门周围建立了强大的工"
 "事。这里的每一个人类和矮人都知道，他们称作家园的这座城市的财富必然引起远方敌"
@@ -554,15 +555,15 @@ msgstr ""
 "在兽人的手下毁灭，或者在纳尔迦隧道中遭遇未知的命运，塔林选择了后者。人们快速"
 "集合起来，收集了尽可能多的食品和武器，进入了黑暗的洞穴。"
 
+#. [side]: type=Troll, id=Franik
+#. [side]: type=Troll, id=Henie
+#. [side]: type=Troll, id=Knash
+#. [side]: type=Troll, id=Krog
+#. [side]: type=Troll Warrior, id=Thung
 #. [side]: type=Troll Warrior, id=Tor
 #. [side]: type=Troll Warrior, id=Bor
 #. [side]: type=Troll Warrior, id=Oof
 #. [side]: type=Troll Warrior, id=Glu
-#. [side]: type=Troll, id=Knash
-#. [side]: type=Troll, id=Krog
-#. [side]: type=Troll Warrior, id=Thung
-#. [side]: type=Troll, id=Franik
-#. [side]: type=Troll, id=Henie
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -574,19 +575,19 @@ msgstr "克纳什"
 msgid "Krog"
 msgstr "克洛格"
 
-#. [side]: type=Dwarvish Lord, id=Hamel
 #. [unit]: type=Dwarvish Lord, id=Hamel
+#. [side]: type=Dwarvish Lord, id=Hamel
 msgid "Hamel"
 msgstr "哈梅尔"
 
+#. [side]: type=Death Knight, id=Mal Barath
+#. [side]: type=Death Knight, id=Delzath
+#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Ancient Lich, id=Malifor
 #. [side]: type=Draug, id=Thorin
 #. [side]: type=Draug, id=Herlin
 #. [side]: type=Draug, id=Fervin
 #. [side]: type=Draug, id=Hellian
-#. [side]: type=Death Knight, id=Mal Barath
-#. [side]: type=Death Knight, id=Delzath
-#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Death Knight, id=Hettel
 #. [side]: type=Death Knight, id=Tervor
 #. [side]: type=Death Knight, id=Author
@@ -879,9 +880,9 @@ msgstr ""
 "矮人的营地。来吧，和我们的首领哈梅尔领主谈谈吧。"
 
 #. [message]: speaker=Tallin
-#. [message]: speaker=unit
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Ro'Arthian
+#. [message]: speaker=unit
 msgid "Very well."
 msgstr "好的。"
 
@@ -1191,8 +1192,8 @@ msgstr ""
 msgid "Ahahahaha! Yes, smash the skeletons! Smash them!"
 msgstr "啊哈哈哈哈！是的，砸碎那些骷髅！砸碎它们！"
 
-#. [message]: role=Supporter
 #. [message]: speaker=Tallin
+#. [message]: role=Supporter
 msgid "..."
 msgstr "……"
 
@@ -1270,14 +1271,14 @@ msgid "When the party finally reached the mines, they were not disappointed."
 msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 
 #. [side]
+#. [side]: type=Elvish Avenger, id=Sisal
 #. [side]: type=Lieutenant, id=Tallin
 #. [side]: type=Dwarvish Lord, id=Hamel
-#. [side]: type=Elvish Avenger, id=Sisal
 msgid "Alliance"
 msgstr "联盟"
 
-#. [side]: type=Ancient Lich, id=Malifor
 #. [unit]: type=Ancient Lich, id=Malifor
+#. [side]: type=Ancient Lich, id=Malifor
 msgid "Malifor"
 msgstr "玛利弗"
 
@@ -1298,7 +1299,6 @@ msgid "Hellian"
 msgstr "黑连"
 
 #. [objective]: condition=win
-#. [objectives]
 msgid "Defeat the enemy leaders"
 msgstr "打败众敌将"
 
@@ -1631,6 +1631,14 @@ msgstr "要赶上他，我们必须杀掉这些亡魂。他们只有两个，他
 msgid "Get past the Revenants."
 msgstr "摆脱亡魂。"
 
+#. [objective]: condition=win
+msgid "Find Malifor and destroy him"
+msgstr "找到玛利弗并消灭他"
+
+#. [note]
+msgid "Be sure to explore"
+msgstr "确保你探索了"
+
 #. [message]: speaker=unit
 msgid "Uh... Which way?"
 msgstr "嗯……该走哪条路？"
@@ -1660,14 +1668,6 @@ msgid ""
 "Let us proceed with caution. Nobody is to go off by himself. We don’t know "
 "what could be lurking in these tunnels."
 msgstr "我们要小心前行，大家不要单独行动。我们不知道在隧道的前方潜伏着什么。"
-
-#. [objective]: condition=win
-msgid "Find Malifor and destroy him"
-msgstr "找到玛利弗并消灭他"
-
-#. [note]
-msgid "Be sure to explore"
-msgstr "确保你探索了"
 
 #. [message]: speaker=narrator
 msgid "The Dungeon"
@@ -1776,18 +1776,6 @@ msgstr ""
 msgid "Thank you, Tallin."
 msgstr "谢谢你，塔林。"
 
-#. [message]: speaker=Tallin
-msgid ""
-"Wow! That’s incredible. Now I understand why the bag of bones kept you guys "
-"in jail; he just simply couldn’t kill you!"
-msgstr ""
-"哇！真是难以置信。现在我明白为什么那骨头架子只是把你们囚禁起来了，因为他无法"
-"杀死你们！"
-
-#. [message]: speaker=Sister Thera
-msgid "(<i>Giggle</i>)"
-msgstr "（<b>呵呵呵</b>）"
-
 #. [message]: speaker=Sister Thera
 msgid "Freedom at last! Thank you, Lord Tallin."
 msgstr "自由了！谢谢您塔林领主。"
@@ -1826,9 +1814,10 @@ msgstr ""
 "这类攻击面前很脆弱，我想你现在应该已经知道这一点了。"
 
 #. [message]: speaker=Sister Thera
+#, fuzzy
 msgid ""
 "If you have no objection, Tallin, we would like to join you. These "
-"northlands are hardly safe these days for anyone to be traveling on their "
+"Northlands are hardly safe these days for anyone to be traveling on their "
 "own, and we could lend valuable help to your cause."
 msgstr ""
 "如果你不反对，塔林，我们想加入你们。近来北方大陆很危险，任何人想单独行动都是"
@@ -1857,6 +1846,18 @@ msgstr "呣，我来试试……"
 #. [message]: speaker=unit
 msgid "There we go. Now let’s see where this tunnel leads."
 msgstr "好嘞。让我们看看这隧道通向哪里。"
+
+#. [message]: speaker=Tallin
+msgid ""
+"Wow! That’s incredible. Now I understand why the bag of bones kept you guys "
+"in jail; he just simply couldn’t kill you!"
+msgstr ""
+"哇！真是难以置信。现在我明白为什么那骨头架子只是把你们囚禁起来了，因为他无法"
+"杀死你们！"
+
+#. [message]: speaker=Sister Thera
+msgid "(<i>Giggle</i>)"
+msgstr "（<b>呵呵呵</b>）"
 
 #. [message]: speaker=unit
 msgid "She’s not in good shape..."
@@ -2680,7 +2681,7 @@ msgstr "那该死的骨头架子！火焰根本不能伤害到他！"
 msgid "Let’s try using something different on him."
 msgstr "让我们试试用别的方法来对付他。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=Malifor
 msgid "AAAAAAHHHHHH!"
 msgstr "<b>啊啊啊啊啊啊！</b>"
 
@@ -2731,8 +2732,8 @@ msgstr ""
 "你，你这该死的塔林！你悲惨的生命将充满不幸！你的人民将永远得不到自由！你所亲"
 "近和珍爱的都将远离你！我诅咒雷电劈在你的头顶！我诅咒——</b>"
 
-#. [message]: speaker=Tallin
 #. [message]: speaker=Sister Thera
+#. [message]: speaker=Tallin
 msgid "May you shut your ugly mouth and hurry up and die."
 msgstr "闭上你邪恶的嘴，去死吧！"
 
@@ -2744,8 +2745,8 @@ msgstr ""
 "<b>大地将裂开，然后吞噬你！你所有的牙齿都会掉光！你会变成一个虚弱的皮包骨头的"
 "老男人！你——</b>"
 
-#. [message]: speaker=second_unit
 #. [message]: speaker=Father Morvin
+#. [message]: speaker=second_unit
 msgid "Finally! He has been reduced to dust."
 msgstr "结束了！他的身体化为灰烬。"
 
@@ -3050,25 +3051,25 @@ msgstr ""
 "他们经过讨论，决定让塔林带着他的人主动出击去会会兽人，而哈梅尔则率部退守洞"
 "穴。"
 
+#. [side]: type=Great Mage, id=Camerin
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Stalrag
-#. [side]: type=Great Mage, id=Camerin
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
+#. [side]: type=Orcish Warlord, id=Atul
 #. [side]
+#. [side]: type=Orcish Warlord, id=Ha'Tuil
 #. [side]: type=Orcish Warlord, id=Drung
 #. [side]: type=Orcish Warlord, id=Poul
-#. [side]: type=Orcish Warlord, id=Ha'Tuil
-#. [side]: type=Orcish Warlord, id=Ar'Muff
-#. [side]: type=Orcish Warlord, id=Calter
-#. [side]: type=Orcish Warlord, id=Halter
-#. [side]: type=Orcish Warlord, id=Atul
 #. [side]: type=Troll Warrior, id=Gore
 #. [side]: type=Orcish Warlord, id=Carron
 #. [side]: type=Orcish Warlord, id=Rash
 #. [side]: type=Orcish Warlord, id=Al'Mar
 #. [side]: type=Orcish Warlord, id=Ha'Tang
+#. [side]: type=Orcish Warlord, id=Ar'Muff
+#. [side]: type=Orcish Warlord, id=Calter
+#. [side]: type=Orcish Warlord, id=Halter
 msgid "Orcs"
 msgstr "兽人"
 
@@ -3193,8 +3194,8 @@ msgstr "还没完呢，我的朋友们。将军们，派出预备队！"
 msgid "Oh yeah!"
 msgstr "噢耶！"
 
-#. [message]: id=Poul
 #. [message]: speaker=Malifor
+#. [message]: id=Poul
 msgid "HAHAHA!"
 msgstr "哈哈哈！"
 
@@ -3643,8 +3644,8 @@ msgstr "你们为什么要和那些法师来往？拯救他们的灵魂？"
 msgid "(<i>Giggle</i>) Something like that."
 msgstr "（<b>咯咯笑</b>）差不多吧。"
 
-#. [message]: speaker=Tallin
 #. [story]
+#. [message]: speaker=Tallin
 msgid "(<i>Rolls eyes</i>)"
 msgstr "（<b>转眼珠</b>）"
 
@@ -3714,8 +3715,8 @@ msgstr "就这样吧。我们具体该怎样到达那个山口？"
 msgid "And so Tallin and his party set out to secure the help of the mages."
 msgstr "随后塔林和他的部队出发去寻求法师的帮助。"
 
-#. [side]: type=Dwarvish Lord, id=Stalrag
 #. [unit]: type=Dwarvish Lord, id=Stalrag
+#. [side]: type=Dwarvish Lord, id=Stalrag
 msgid "Stalrag"
 msgstr "斯托莱格"
 
@@ -3723,20 +3724,24 @@ msgstr "斯托莱格"
 msgid "Liches"
 msgstr "巫妖"
 
-#. [modify_side]
-#. [side]: type=Ancient Lich, id=Ro'Arthian
 #. [unit]: type=Ancient Lich, id=Ro'Arthian
+#. [side]: type=Ancient Lich, id=Ro'Arthian
+#. [modify_side]
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
 
-#. [modify_side]
 #. [unit]: type=Lich, id=Ro'Sothian
+#. [modify_side]
 msgid "Ro’Sothian"
 msgstr "若·索瑟恩"
 
 #. [objective]: condition=win
 msgid "Save Stalrag from Ro’Sothian"
 msgstr "从若·索瑟恩手中解救斯托莱格"
+
+#. [objective]: condition=win
+msgid "Capture Ro’Arthian"
+msgstr "俘获若·艾瑟恩"
 
 #. [objective]: condition=lose
 msgid "Death of Stalrag"
@@ -3982,10 +3987,6 @@ msgstr "唉，我们等会儿再谈吧。"
 msgid "Back to jail, my friend."
 msgstr "回牢里去，我的朋友。"
 
-#. [objective]: condition=win
-msgid "Capture Ro’Arthian"
-msgstr "俘获若·艾瑟恩"
-
 #. [message]: speaker=Tallin
 msgid "Ro’Arthian, are you ready to talk yet?"
 msgstr "若·艾瑟恩，你有什么话想说的吗？"
@@ -4108,10 +4109,10 @@ msgid ""
 "these wretched mages?!"
 msgstr "等一等，塔林。你是说要把我们的家园送给这些可恶的法师？！"
 
-#. [message]: id=Ro'Sothian
-#. [message]: speaker=Ro'Sothian
 #. [message]: speaker=Ro'Arthian
+#. [message]: speaker=Ro'Sothian
 #. [message]: speaker=Eryssa
+#. [message]: id=Ro'Sothian
 msgid "(<i>Snicker</i>)"
 msgstr "（<b>窃笑</b>）"
 
@@ -4647,8 +4648,8 @@ msgstr ""
 msgid "INTRUDERS! KILL THEM!!"
 msgstr "入侵者！杀死他们！！"
 
-#. [modify_side]
 #. [unit]: type=Elvish Sorceress, id=Eryssa
+#. [modify_side]
 msgid "Eryssa"
 msgstr "伊蕊莎"
 
@@ -5420,10 +5421,11 @@ msgstr ""
 "他们不仅是为了你们，也是为了我们自己。"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid ""
 "Princess, we are not seeking to do business here: <i>“I do this for you and "
 "you do this for me.”</i> No, we seek to build everlasting friendships which "
-"will forever ensure the peace and prosperity of these northlands. Therefore, "
+"will forever ensure the peace and prosperity of these Northlands. Therefore, "
 "let there be no talk of debts and repayments between us."
 msgstr ""
 "公主，我们现在不是在谈生意：<b>“我为你做这个，你为我做那个。”</b>不要这样，我"
@@ -6101,6 +6103,10 @@ msgstr "耶耶耶！我喜欢！"
 msgid "Resist for as long as you can"
 msgstr "坚持尽可能久的时间"
 
+#. [objective]: condition=lose
+msgid "Turns run out"
+msgstr ""
+
 #. [message]: speaker=Krash
 msgid "(<i>Sniff sniff</i>)"
 msgstr "（<b>嗅嗅</b>）"
@@ -6188,8 +6194,8 @@ msgid "Shut your mouth, you coward!"
 msgstr "闭嘴，你这个胆小鬼！"
 
 #. [objective]: condition=win
-msgid "Help Tallin defeat the enemy leaders or"
-msgstr "帮助塔林打败敌方首领或"
+msgid "Help Tallin defeat the enemy leaders"
+msgstr "帮助塔林打败敌方首领"
 
 #. [unit]: id=Hidel, type=Elvish Marshal
 #. [unit]: type=Elvish Marshal, id=Hidel
@@ -6240,10 +6246,6 @@ msgstr "嘿！站在那别想跑，胆小鬼！"
 #. [message]: speaker=Bor
 msgid "You are a fool, human! We shall crush and destroy you!"
 msgstr "你太傻了，人类！我们完全能够摧毁你们！"
-
-#. [objective]: condition=win
-msgid "Help Tallin defeat the enemy leaders"
-msgstr "帮助塔林打败敌方首领"
 
 #. [option]
 msgid "Haha! Look at them run!"
@@ -6366,8 +6368,8 @@ msgstr "……前路已经清理完毕，我迫不及待想要多杀几个兽人
 msgid "Right. Onward, men!"
 msgstr "说得对，前进，战士们！"
 
-#. [unit]: type=Elvish Avenger, id=Sisal
 #. [side]: type=Elvish Avenger, id=Sisal
+#. [unit]: type=Elvish Avenger, id=Sisal
 msgid "Sisal"
 msgstr "塞索"
 
@@ -7688,11 +7690,12 @@ msgstr ""
 "中。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "On Father Morvin’s advice, the Council approached all the different orcish "
 "tribes and made treaties with them. If a chieftain refused to cooperate with "
-"the Alliance, he was forcibly removed from his post and another more "
-"favorably disposed put in his place."
+"the Alliance, he was forcibly removed from his post and a more favorably-"
+"disposed leader put in his place."
 msgstr ""
 "按莫文神父的建议，理事会前往各个兽人部落，和他们签订了协议。如果有哪个兽人首"
 "领拒绝和理事会合作，那他就会被用武力赶下台，换个合作些的来代替他。"
@@ -8053,8 +8056,7 @@ msgstr "席拉，难道你不觉得现在不是说这个的时候吗？"
 msgid "(<i>Giggle</i>) Sorry!"
 msgstr "（<b>咯咯笑</b>）对不起！"
 
-#. [message]: speaker=Ro'Sothian
-#. [message]: speaker=Ro'Arthian
+#. [message]: speaker=unit
 msgid "I have had enough! Come on brother, let’s get outta here."
 msgstr "我已经受够了！来吧兄弟！我们离开这里。"
 

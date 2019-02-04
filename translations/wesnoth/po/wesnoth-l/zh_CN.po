@@ -1,14 +1,14 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
 "PO-Revision-Date: 2018-07-08 20:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -63,7 +63,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Liberty
-msgid "(Intermediate level, 8 scenarios.)"
+#, fuzzy
+msgid "(Novice level, 8 scenarios.)"
 msgstr "（中等级别，8幕场景。）"
 
 #. [about]
@@ -365,13 +366,13 @@ msgid "Civil Disobedience"
 msgstr "公民反抗"
 
 #. [side]: type=Bandit, id=Baldras
-#. [side]: type=Highwayman_Peasant, id=Relana
 #. [side]: type=General, id=Lord Maddock
-#. [side]: type=Highwayman, id=Baldras
-#. [side]: type=Bandit_Peasant, id=Baldras
-#. [side]
-#. [side]: type=Shadow Lord, id=Helicrom
 #. [side]: type=Rogue, id=Hans
+#. [side]: type=Highwayman, id=Baldras
+#. [side]: type=Shadow Lord, id=Helicrom
+#. [side]
+#. [side]: type=Bandit_Peasant, id=Baldras
+#. [side]: type=Highwayman_Peasant, id=Relana
 msgid "Rebels"
 msgstr "叛民"
 
@@ -380,12 +381,12 @@ msgid "Tarwen"
 msgstr "傲冰"
 
 #. [side]: type=General, id=Kestrel
-#. [side]: type=Royal Guard, id=Archarel
-#. [side]: type=Iron Mauler, id=Linneus
-#. [side]: type=Cavalier, id=Tarwen
 #. [side]: type=Master Bowman, id=Quentin
 #. [side]
+#. [side]: type=Royal Guard, id=Archarel
+#. [side]: type=Iron Mauler, id=Linneus
 #. [side]: type=General, id=Dommel
+#. [side]: type=Cavalier, id=Tarwen
 msgid "Asheviere"
 msgstr "艾什薇尔"
 
@@ -412,9 +413,10 @@ msgid "Garard is the King of Wesnoth. We are ruled by no queen."
 msgstr "伽拉德是韦诺之王。统治我们的不是女王。"
 
 #. [message]: speaker=Tarwen
+#, fuzzy
 msgid ""
 "Insolent peasants, you will kneel before your betters! Asheviere is the "
-"queen of Wesnoth. The King fell three weeks ago at Abez. I shall not bandy "
+"Queen of Wesnoth. The King fell three weeks ago at Abez. I shall not bandy "
 "words with you. Your magistrate will be coming with us, and we do not care "
 "if it is dead or alive."
 msgstr ""
@@ -484,8 +486,9 @@ msgid ""
 msgstr "噢！不！我们没有时间了！他们的援军来了……"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"They would be remembered only traitors rightly put down by the Queen’s "
+"They would be remembered only as traitors rightly put down by the Queen’s "
 "lances. And in the dark years to come, woe betide any who questioned it."
 msgstr ""
 "他们只会作为叛徒被记住，被女王的爪牙镇压。黑暗的年代就要来了，谁敢质疑谁就倒"
@@ -495,6 +498,20 @@ msgstr ""
 msgid "A Strategy of Hope"
 msgstr "憧憬"
 
+#. [part]
+msgid ""
+"Fearing that the Queen’s army would return in force in the wake of its "
+"fallen patrol, Baldras and his men fled Dallben. They tracked to Delwyn and "
+"sent ahead for the magistrate, Relana, to meet them in a secluded strath in "
+"the swamps."
+msgstr ""
+
+#. [part]
+msgid ""
+"As morning dawned over the day after next, they found Relana already waiting "
+"for them."
+msgstr ""
+
 #. [side]: type=Highwayman_Peasant, id=Relana
 msgid "Relana"
 msgstr "雷亚纳"
@@ -503,11 +520,11 @@ msgstr "雷亚纳"
 msgid "Urk Delek"
 msgstr "乌克·德莱克"
 
-#. [side]: type=Orcish Warrior, id=Urk Delek
-#. [side]: type=Saurian Oracle, id=Thhsthss
 #. [side]: type=Necromancer, id=Mal-Jarrof
 #. [side]: type=Necromancer, id=Mal-Jerod
 #. [side]: type=Lich, id=Sel-Mana
+#. [side]: type=Orcish Warrior, id=Urk Delek
+#. [side]: type=Saurian Oracle, id=Thhsthss
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -533,9 +550,10 @@ msgstr ""
 "你的判决有过失误。"
 
 #. [message]: speaker=Relana
+#, fuzzy
 msgid ""
 "It has been a long time, old friend. Your news worries us. Yet, there is no "
-"problem we have not worked out here at our secret meeting place."
+"problem we have not worked out together."
 msgstr ""
 "那有段时间了，老伙计。你的消息使我烦恼。不用说，这里还不能作为我们秘密会谈的"
 "地点。"
@@ -594,9 +612,10 @@ msgid ""
 msgstr "我们需要证据。铁证……但等等——我是不是听到兽人的战鼓？"
 
 #. [message]: speaker=Relana
+#, fuzzy
 msgid ""
 "I think they are, old friend. And that rank smell on the wind tells another "
-"tale; saurians approach. To arms!"
+"tale: saurians approach. To arms!"
 msgstr ""
 "我想是的，老伙计。而且风中的恶臭传达着另一个信息；蜥蜴人接近了。拿起武器！"
 
@@ -641,10 +660,11 @@ msgstr ""
 "留在这里视察德尔文和达尔本的防御，但你该全速飞奔到埃仁撒伐。"
 
 #. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
 "We have tarried here for far too long... There is no way we can reach "
 "Elensefar and return with help before the Wesnoth army destroys our homes. "
-"Retreat!!"
+"Retreat!"
 msgstr ""
 "我们逗留在这里太久了……在韦诺军毁掉我们家园前我们没法到达埃仁撒伐带回援助了。"
 "撤退！！"
@@ -1098,10 +1118,11 @@ msgstr ""
 "论王位上是国王还是女王，对我们有利。"
 
 #. [message]: speaker=Helicrom
+#, fuzzy
 msgid ""
 "Carcyn is always foggy as of late because these woods have recently become "
 "home to a lich and two of its underling necromancers. Our experiments may "
-"have actually aroused it from sleep... We’re not exactly sure."
+"have actually aroused it from sleep... We’re not sure."
 msgstr ""
 "卡辛最近经常有雾是因为一位巫妖和它的两位死灵法师手下刚刚把这个森林当了家。我"
 "们的实验最近可能把它从沉睡中唤醒了……我们也不太肯定。"
@@ -1491,12 +1512,13 @@ msgstr ""
 "人都在那里劳动，建造被认为是最坚固的堡垒。这就是霍尔斯特德要塞。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "This sentinel of the western plains stood watch as Wesnoth prospered for "
-"many centuries under the protection it provided. No war has overcome it, and "
-"its walls have never been overrun. The blood of invaders stains its parapets "
-"and the bones of the defeated crumble at the base of Halstead’s frozen waves "
-"of stone."
+"many centuries under its protection. No war has overcome it, and its walls "
+"have never been overrun. The blood of invaders stains its parapets and the "
+"bones of the defeated crumble at the base of Halstead’s frozen waves of "
+"stone."
 msgstr ""
 "被视为韦诺繁荣的象征，西部平原的哨卫在它提供的保护下矗立了几百年。没一次战争"
 "攻克过它，它的城墙从没被占领过。侵略者的血涂着它的扶手，战败者的骨头碎在霍尔"
@@ -1591,10 +1613,11 @@ msgid "How do you know?"
 msgstr "你怎么知道的？"
 
 #. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
-"When I was a boy, my father — your grandfather — brought your dad and me to "
-"live in Aldril after orcs massacred many in our village. We grew up around "
-"here, and we learned many things."
+"When I was a boy, my father — your grandfather — brought your mother and me "
+"to live in Aldril after orcs massacred many in our village. We grew up "
+"around here, and we learned many things."
 msgstr ""
 "当我还是个孩子时，在兽人屠杀了我们村子里许多人后，我的父亲——你的祖父——带你的"
 "父亲和我去艾迪尔生活。我们在这里附近长大的，并且我们知道了许多事。"
@@ -1834,10 +1857,11 @@ msgstr ""
 "他们陷入迷茫，在他们向北去并经过埃仁撒伐时才慢慢消散。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "The Elense riders routed the orcish army, small as it was, and sent them "
 "back across the Great River. They then scattered to the countryside and were "
-"not heard from again. Baldras thought this odd behavior when he heard about "
+"not heard from again. Baldras thought this behavior odd when he heard about "
 "it."
 msgstr ""
 "埃仁斯的骑兵们击溃了兽人部队，尽管是支小部队，并送他们穿过泰河回去。他们然后"
@@ -1947,10 +1971,11 @@ msgid "Rogue Mage"
 msgstr "流浪法师"
 
 #. [unit_type]: id=Rogue Mage, race=human
+#, fuzzy
 msgid ""
-"Some mages are thrown out of the mage’s guild for attempting to practice "
+"Some mages are thrown out of the mages’ guild for attempting to practice "
 "forbidden arts. Now completely outside the law, these rogue mages do "
-"whatever necessary to support their study of black magic. Although not as "
+"whatever is necessary to support their study of black magic. Although not as "
 "skilled as mages with more formal training, their magic can be quite lethal, "
 "while their banditry has resulted in moderate skill with the short sword."
 msgstr ""

@@ -1,14 +1,14 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
 "PO-Revision-Date: 2018-07-08 20:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -160,8 +160,8 @@ msgstr ""
 "盟。”</b>"
 
 #. [side]
-#. [side]: type=General, id=Taylor
 #. [side]: type=Sergeant, id=Drogan
+#. [side]: type=General, id=Taylor
 msgid "Defenders"
 msgstr "守卫者"
 
@@ -169,9 +169,9 @@ msgstr "守卫者"
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warlord, id=K'Vark
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
+#. [modify_side]
 #. [side]: type=Orcish Warlord, id=Gron'r Hronk
 #. [side]: type=Orcish Warlord, id=K'rrlar Oban
-#. [modify_side]
 msgid "Orcs"
 msgstr "兽人"
 
@@ -179,8 +179,8 @@ msgstr "兽人"
 msgid "Kreg’a’shar Trr"
 msgstr "克里嘎沙·塔"
 
-#. [side]: type=Sergeant, id=Drogan
 #. [side]: type=Lieutenant, id=Drogan
+#. [side]: type=Sergeant, id=Drogan
 msgid "Drogan"
 msgstr "德罗甘"
 
@@ -330,10 +330,17 @@ msgid ""
 "The mages taught me enough. You won’t truly banish me, will you, Drogan?"
 msgstr "法师们教给我的已经够多了。你不会真的驱逐我吧，不会吧，德罗甘？"
 
+#. [message]: race=human
+msgid ""
+"We should all be glad to see you gone, necromancer. I detest having fought "
+"by your side."
+msgstr ""
+
 #. [message]: speaker=Drogan
+#, fuzzy
 msgid ""
 "Begone, now. I’ve no wish to be forced to send the soldiers after you. Your "
-"father would be ashamed to see the end to which you’ve come."
+"father would turn in his grave did he see the end to which you’ve come."
 msgstr ""
 "离开，现在。我不想被迫派出士兵追杀你。你的父亲会为你这样的结局而感到羞耻的。"
 
@@ -376,6 +383,7 @@ msgid "And leave your sister?"
 msgstr "也要扔下你的姐姐？"
 
 #. [message]: speaker=Malin Keshar
+#. The fullstop before "But" is not an error. "But revenge" means "Only revenge".
 msgid "My hands were never apt for healing. But revenge I can give her."
 msgstr "我的双手从来都不适合用来治疗。但我能为她复仇。"
 
@@ -449,8 +457,9 @@ msgid "Death of Darken Volk"
 msgstr "达肯·沃克死亡"
 
 #. [message]: speaker=Darken Volk
+#, fuzzy
 msgid ""
-"In truth, I share your hatred for the orcs. The northlands have been my... "
+"In truth, I share your hatred for the orcs. The Northlands have been my... "
 "home... for many years, and the orcs have been a growing infestation in "
 "them. They despoil the beauty of the land wherever they go. If you are "
 "interested, I would be happy to take you on as my apprentice so that you "
@@ -768,8 +777,8 @@ msgstr "感受我的愤怒吧，邪恶之物！"
 msgid "The ice doesn’t look very thick..."
 msgstr "这里的冰面看起来不太厚……"
 
-#. [message]: speaker=Darken Volk
 #. [message]: speaker=Mal Keshar
+#. [message]: speaker=Darken Volk
 msgid "..."
 msgstr "……"
 
@@ -1312,7 +1321,10 @@ msgstr ""
 "去吧！"
 
 #. [objective]: condition=win
-msgid "Move through the passageway in the northwest leading to the great hall"
+#, fuzzy
+msgid ""
+"Move Malin Keshar or Darken Volk through the passageway in the northwest "
+"leading to the great hall"
 msgstr "通过西北方的通往大礼堂的通道"
 
 #. [message]: speaker=unit
@@ -1328,12 +1340,25 @@ msgid "Guardian"
 msgstr "看守者"
 
 #. [objective]: condition=win
-msgid "Find the book"
-msgstr "找到书"
+msgid "Retrieve the book and escape"
+msgstr ""
 
 #. [message]: speaker=Malin Keshar
 msgid "I feel the book is very close, somewhere to the northwest."
 msgstr "我感到书就在非常近的地方，就在西北面的某处。"
+
+#. [message]
+msgid "I have found the book, master! It is here."
+msgstr ""
+
+#. [message]: id=Malin Keshar
+#. The speaker addresses an undead minion.
+msgid "Good! Guard it with your unlife while I come to fetch it."
+msgstr ""
+
+#. [message]: id=Malin Keshar
+msgid "Good! Guard it with your life while I come to fetch it."
+msgstr ""
 
 #. [message]: speaker=Malin Keshar
 msgid "We’ve got the book, but now how do we get out of here?"
@@ -1589,6 +1614,20 @@ msgstr "我拿到书了！"
 msgid "I am sorry, master, but that is too heavy for me."
 msgstr "对不起，主人，那对我而言太重了。"
 
+#. [unit]: type=Paladin, id=Telemon
+msgid "Telemon the Slayer"
+msgstr ""
+
+#. [message]: speaker=Telemon
+msgid "Foul necromancer! Your time has come!"
+msgstr ""
+
+#. [message]: speaker=Malin Keshar
+msgid ""
+"Reinforcements! I took too long to retrieve that book and now I have no way "
+"to win this battle..."
+msgstr ""
+
 #. [message]: speaker=Malin Keshar
 msgid ""
 "The paladins will not be able to pursue me through the mountains, and Dela "
@@ -1797,6 +1836,54 @@ msgstr ""
 "传言说道，有一个总是在猎杀巡逻队的巫妖存在。一位英雄将忠于自己的部队组织起"
 "来，决心要将这邪恶的存在消灭。"
 
+#. [part]
+msgid ""
+"Mal Keshar has had time to study the book, learning how his apprentices can "
+"become liches with less reliance on luck than Malin’s own transformation."
+msgstr ""
+
+#. [part]
+msgid "Mal Keshar continues to study the book, and re-reads the final entry."
+msgstr ""
+
+#. [part]
+#. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
+#. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
+msgid ""
+"<i>“I realize now... the world is not ready for our knowledge. I give up on "
+"all of them. I am going to live in the old troll city and learn the "
+"applications of mountain fire. In some future time, less conservative "
+"attitudes will dominate, and I can certainly afford to wait. In the "
+"meantime, we are doing what we can to hasten that day.”</i>"
+msgstr ""
+
+#. [part]
+#. More text from the epilogue of Secrets of the Ancients
+#. More text from the epilogue of Secrets of the Ancients
+msgid ""
+"<i>“As for me, I have placed some spells on my journal to help keep it from "
+"harm, and I will make it conspicuous on this battlefield. I hope that it "
+"will eventually make its way into the hands of someone in Tath who is "
+"willing to learn.”</i>"
+msgstr ""
+
+#. [part]
+msgid ""
+"That final entry in the book gnaws at Mal Keshar. While he was being used by "
+"Darken Volk as a pawn, both of them were being using as pawns by the author "
+"of the book itself."
+msgstr ""
+
+#. [part]
+msgid ""
+"The book’s author had left it for a foolish hero to pick up, and the spells "
+"protecting it had been strong enough to resist the mages of Tath. Mal Keshar "
+"had already made several copies of the book and had no further need of the "
+"original; if he allowed another foolish hero to take it, would another "
+"student eventually follow in his footsteps? Could the author’s plan work? "
+"Might liches eventually be accepted in society, if he simply waited?"
+msgstr ""
+
 #. [objective]: condition=win
 msgid "Defeat the foolish hero"
 msgstr "击败愚蠢的英雄"
@@ -1809,9 +1896,27 @@ msgstr "击败另一名愚蠢的英雄"
 msgid "Defeat yet another foolish hero"
 msgstr "击败再一名愚蠢的英雄"
 
+#. [objective]: condition=win
+msgid "Allow an enemy unit to take the book"
+msgstr ""
+
 #. [note]: description=<b>
 msgid "Endless Night $timesForever"
 msgstr "无尽长夜$timesForever"
+
+#. [note]
+#. more text copied from Secrets of the Ancients
+msgid ""
+"To turn a necromancer into a lich, right-click on it while it is in a castle."
+msgstr ""
+
+#. [set_menu_item]: id=lichify
+msgid "Make Into a Lich"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "You can only do this in a castle."
+msgstr ""
 
 #. [unit]: type=Royal Guard, id=Foolish Hero
 #. [unit]: type=Assassin, id=Foolish Hero
@@ -1945,6 +2050,121 @@ msgstr "我注定要永远和愚蠢的英雄们作战了吗？"
 msgid "Is this going to keep happening?"
 msgstr "这会不断继续吗？"
 
+#. [message]: speaker=unit
+msgid "That’s an evil grimoire!"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Burn it."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+msgid "<small>(faking pain)</small> Aaargh!"
+msgstr ""
+
+#. [message]: role=unit
+msgid "It’s not catching fire, sir."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid ""
+"But it seems to be hurting the lich. Bring it with us, retreat and let the "
+"mages destroy this."
+msgstr ""
+
+#. [message]: role=unit
+msgid "It’s paper, but it won’t burn."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid ""
+"But it seems to be hurting the lich. Grab it, retreat and throw it on a "
+"bigger fire. Once we’ve burnt it, maybe the lich will be weaker."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+#. "faerie fire" as in the elvish sylph's attack
+msgid ""
+"Bring it with us, and let’s retreat. Once it’s burned with faerie fire, "
+"maybe the lich will be weakened."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "That’s an evil grimoire, bound in iron."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Destroy it."
+msgstr ""
+
+#. [message]: speaker=unit
+#. the speaker is a dwarf
+msgid "My hammer can’t dent it and my axe can’t cut the paper."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+#. the speaker is a dwarf
+msgid ""
+"But it seems to be hurting the lich. Bring it with us, retreat and let the "
+"forge destroy it."
+msgstr ""
+
+#. [message]: speaker=unit
+#. the speaker is an orc
+msgid "The skull on that book looks good."
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Idiot."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"Uuuuuh, I can’t pull the skull off the book, but that lich screams when I "
+"try."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+msgid "Defend me, my minions! Get the book! Aaargh!"
+msgstr ""
+
+#. [message]: speaker=Foolish Hero
+msgid "Bring it with you and retreat, let’s take our time smashing that book."
+msgstr ""
+
+#. [story]
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+msgid ""
+"The foolish hero was tricked, and left believing both that the book could be "
+"destroyed, and that the lich might be weakened by doing so."
+msgstr ""
+
+#. [part]
+msgid ""
+"Safely outside the cave, the foolish hero tried to destroy the book. None of "
+"the attempts left so much as a dent or char, yet each attempt caused another "
+"scream to echo from the cave mouth. Finally the cave entrance collapsed, and "
+"everything was still."
+msgstr ""
+
+#. [part]
+msgid ""
+"Years pass. Every summer when the mountain passes become clear, humans, "
+"elves and dwarves patrol to repel orcish raiders. Undead no longer trouble "
+"the patrols, and memories of the lich fade to become just background in the "
+"tale of the brave hero’s victory."
+msgstr ""
+
+#. [part]
+msgid ""
+"Rumors circulate that fortune smiles on those patrols. That when attacked by "
+"orcs at night, it sometimes seems that more blades than just the patrol’s "
+"own are fighting the orcs."
+msgstr ""
+
 #. [message]: speaker=Foolish Hero
 msgid "His evil deeds have come to an end, and he has meet his doom."
 msgstr "他的恶行终于终结了，而他也终结了。"
@@ -2022,7 +2242,8 @@ msgstr ""
 "被韦诺视为违法之后，他逃到这些洞穴里，躲藏了起来。"
 
 #. [message]: role=second
-msgid "I guess we'll never know for sure."
+#, fuzzy
+msgid "I guess we’ll never know for sure."
 msgstr "我猜我们永远都无法确定了。"
 
 #. [message]: speaker=Foolish Hero
@@ -2132,3 +2353,7 @@ msgid ""
 "As dawn breaks, the city guards force their way into the manor and capture "
 "the two necromancers."
 msgstr "天刚破晓，城市卫队便强行冲入了庄园并俘获了两名死灵法师。"
+
+#. [unstore_unit]
+msgid "Lich"
+msgstr ""

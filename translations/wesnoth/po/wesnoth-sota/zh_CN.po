@@ -1,13 +1,13 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
 "PO-Revision-Date: 2018-07-08 21:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -52,11 +52,12 @@ msgid "Difficult"
 msgstr "困难"
 
 #. [campaign]: id=Secrets of the Ancients
+#, fuzzy
 msgid ""
 "Rediscover the secrets known by the lich lords of the Green Isle. They knew "
 "how to live forever, so why can't you?\n"
 "\n"
-"(Intermediate level, 21 scenarios.)\n"
+"(Hard level, 21 scenarios.)\n"
 msgstr ""
 "重新发现绿岛的巫妖领主们所知道的秘密。他们能知道如何永生，那你凭什么不能"
 "呢？\n"
@@ -222,6 +223,12 @@ msgstr "移动阿冬娜至路标处"
 msgid "This scenario takes place entirely at night."
 msgstr "此场景完全发生在夜间。"
 
+#. [note]
+msgid ""
+"Ardonna can climb over a fence for 2 movement points, but wild animals "
+"cannot."
+msgstr ""
+
 #. [label]
 msgid "Llorvin"
 msgstr "洛温"
@@ -255,10 +262,10 @@ msgstr ""
 "它们。但我只能用冰，我可从来没学会熟练用火。"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
-"Wolves! This journey may be more dangerous than I thought. Well, we can find "
-"safety inside the sturdy fences built by farmers and woodcutters. The wild "
-"animals surely won't be able to enter."
+"A wolf! This journey may be more dangerous than I thought. If we need to, I "
+"suppose we could rest inside a farmer's or woodcutter's fence."
 msgstr ""
 "狼群！这旅程比我所想的更为危险。好吧，我们可以在农民和樵夫搭建的牢固篱笆后面"
 "找到安全之所。野生动物们显然不能进去。"
@@ -356,6 +363,36 @@ msgstr "温"
 #. [event]
 msgid "Caradoc"
 msgstr "卡拉多克"
+
+#. [message]: speaker=Ardonna
+msgid "Oh, hello friend! I didn't know you were hiding in there."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Oh, hello! You're a handsome one."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Hey, come back! I didn't mean to frighten you."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Maybe I could attract it if I jingled some coins."
+msgstr ""
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid "Right-click adjacent to your leader to summon the bat."
+msgstr "在你的首领身边的坟墓上右击以复苏一个单位。"
+
+#. [set_menu_item]: id=summon_bat
+msgid "Summon the Bat (20 gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid "You don't have enough gold to summon the bat."
+msgstr "你的金币不足，不能复苏该单位。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit skeletons and skeleton archers!"
@@ -498,14 +535,6 @@ msgstr ""
 #. [message]: speaker=Caradoc
 msgid "Gwyllin, don’t move from that guardhouse."
 msgstr "格威林，不要离开卫兵室。"
-
-#. [message]: speaker=narrator
-msgid ""
-"You can recruit or recall from your starting position on the first turn "
-"only. To get more units, raise them from their graves."
-msgstr ""
-"只有在第一回合时，你才可以在起始位置进行征募或召回。将死者从坟墓里苏生以获得"
-"更多单位。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -838,8 +867,8 @@ msgstr "格温丁"
 msgid "Bremen"
 msgstr "布雷门"
 
-#. [objective]: condition=win
 #. [objectives]
+#. [objective]: condition=win
 msgid "Kill every enemy unit"
 msgstr "击杀每一个敌方单位"
 
@@ -858,6 +887,10 @@ msgstr "今天不想多说话？发生什么了？"
 #. [message]: speaker=Bone Captain
 msgid "Happened? Dead."
 msgstr "发生？死了。"
+
+#. [message]: speaker=Ardonna
+msgid "Keep quiet about that."
+msgstr ""
 
 #. [message]: speaker=Gweddyn
 msgid ""
@@ -1103,8 +1136,8 @@ msgstr ""
 "洞穴后面的隧道变窄了，继续往下延伸了很长一段。墙上的一片片真菌发出微弱的光，"
 "让我并没有被绊得很厉害。终于，我看到前方出现了一道明亮的光。"
 
-#. [unit]: type=Sacrifice, id=necromancer_on_altar
 #. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
+#. [unit]: type=Sacrifice, id=necromancer_on_altar
 msgid "Ras-Tabahn"
 msgstr "拉斯-塔班"
 
@@ -1550,8 +1583,8 @@ msgstr ""
 "拉斯-塔班的队伍来到了泰河附近精灵之路的尽头，他们将在此等待阿冬娜。而当他们到"
 "达时，另一支队伍也到达了。"
 
-#. [side]
 #. [side]: type=Merman Triton, id=Okean
+#. [side]
 msgid "Merfolk"
 msgstr "人鱼"
 
@@ -1588,8 +1621,8 @@ msgid ""
 "I wonder what are they from. A large flightless bird perhaps? Let us see."
 msgstr "我想知道这些骨架是谁的。也许是一只大型的不能飞的鸟？我们来看看。"
 
-#. [message]: speaker=Ardonna
 #. [message]: speaker=$other_human
+#. [message]: speaker=Ardonna
 msgid "Oh, you were right!"
 msgstr "哦，你说对了！"
 
@@ -1772,8 +1805,8 @@ msgstr ""
 "好吧，等这些士兵为我而战之时，它们又会得到一次获取荣耀的机会。他们之中意志更"
 "加坚强的那些，甚至还可能记得自己曾经渴望荣耀。"
 
-#. [side]
 #. [side]: type=Saurian Soothsayer, id=Krissaz
+#. [side]
 msgid "Saurians"
 msgstr "蜥蜴人"
 
@@ -1781,8 +1814,8 @@ msgstr "蜥蜴人"
 msgid "Krissaz"
 msgstr "克里萨兹"
 
-#. [side]
 #. [side]: type=Naga Myrmidon, id=Blianxkep
+#. [side]
 msgid "Nagas"
 msgstr "娜迦"
 
@@ -1793,10 +1826,6 @@ msgstr "连克斯克普"
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders"
 msgstr "击败所有敌方首领"
-
-#. [message]: speaker=narrator
-msgid "You can now recruit ghosts!"
-msgstr "你现在可以征募鬼魂了！"
 
 #. [message]: speaker=Blianxkep
 msgid ""
@@ -1843,8 +1872,9 @@ msgstr ""
 "我们会帮你们赶走这个敌人，如果你愿意认为我们已经全部支付了你们的分成的话。"
 
 #. [message]: speaker=Krissaz
+#, fuzzy
 msgid ""
-"When the mage isss dead and her sssouls put to ressst, we agree. We will "
+"When the mage isss dead and her dead horde put to ressst, we agree. We will "
 "have been compensssated adequately."
 msgstr ""
 "等这个法师死嘶嘶掉，而她的灵魂停息的时候，我们就会同意。到那时我们就已经拿到"
@@ -1853,6 +1883,15 @@ msgstr ""
 #. [message]: speaker=Ardonna
 msgid "Every time..."
 msgstr "每次都是……"
+
+#. [message]: speaker=Ardonna
+#, fuzzy
+msgid "Good. Now I can practice recruiting ghosts."
+msgstr "你现在可以征募鬼魂了！"
+
+#. [message]: speaker=narrator
+msgid "You can now recruit ghosts!"
+msgstr "你现在可以征募鬼魂了！"
 
 #. [unit]: id=Vendraxis, type=Saurian Soothsayer
 msgid "Vendraxis"
@@ -1882,11 +1921,12 @@ msgid ""
 msgstr "实际上，我正在搜寻这一秘密。但你能服从一个女人的命令吗？"
 
 #. [message]: speaker=Vendraxis
+#, fuzzy
 msgid ""
 "I have ssstared into the darknesss between the starsss and not been "
-"intimidated by the void, but your mind holdsss a darknesss of another kind, "
+"intimidated by the void, but your mind holds a darknesss of another kind, "
 "frightening and forbidden by my clan. I sssubmit to your power. Now that I "
-"know you are female, I will find it easier as it is the way of my kind."
+"know you are female, I will find it easier as it isss the way of my kind."
 msgstr ""
 "我注目过繁星之间的黑暗，而并没有被那虚无所吓，但你的心中却有另一种黑暗，我的"
 "部族害怕这黑暗，也禁止我们接触它。我服从于你的力量。现在我知道你是雌性了，我"
@@ -2173,6 +2213,18 @@ msgstr "沃克-鲁格"
 #. [unit]: type=Orcish Shaman, id=Krongk
 msgid "Krongk"
 msgstr "隆克"
+
+#. [message]: speaker=Vendraxis
+msgid ""
+"I have a sssense of dark foreboding regarding the sssnowy peaksss ahead. We "
+"may meet our doom if we don't have enough coinsss."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid ""
+"The passes to the north are the end of many travelers. We would be wise to "
+"reach them with a reserve of gold. (<i>Cough, cough</i>)"
+msgstr ""
 
 #. [message]: speaker=Krongk
 msgid "They’re attacking me!"
@@ -2839,8 +2891,8 @@ msgstr ""
 "我们将山中之火抛在身后，再一次没入黑暗之中。在一段漫长旅程之后，我们走进了隧"
 "道末端的死胡同里……但那墙却并不坚实。"
 
-#. [side]
 #. [side]: type=Dwarvish Lord, id=Golbanduth
+#. [side]
 msgid "Dwarves"
 msgstr "矮人"
 
@@ -2989,7 +3041,7 @@ msgstr ""
 "战斗已经在进行中了。我们的同志已经牺牲了如此之多！我们必须把这些亡灵烧成灰，"
 "把这邪恶从世上驱除出去。"
 
-#. [message]: speaker=Galoïndrath
+#. [message]: speaker=Isthiniel
 msgid ""
 "What is this? The enemy lurking in wait in our forests? To arms! Let us "
 "immediately rid our land of this foulness!"
@@ -2997,7 +3049,7 @@ msgstr ""
 "这是什么？敌人在我们的森林之中潜伏待动？武装起来！让我们把这些邪恶之物从我们"
 "的领地之上驱除出去吧！"
 
-#. [message]: speaker=Galoïndrath
+#. [message]: speaker=Isthiniel
 msgid ""
 "Never again will these monsters use the spirits of our ancestors against us. "
 "We will burn them down!"
@@ -3012,7 +3064,10 @@ msgid "Fizztsars"
 msgstr "菲兹萨斯"
 
 #. [message]: speaker=Fizztsars
-msgid "We have arrived, Taxsstrimon. We will fight bessside you."
+#, fuzzy
+msgid ""
+"We have arrived, Taxsstrimon. We will fight bessside you. They will pay for "
+"killing our malesss!"
 msgstr "我们到了，塔克斯崔蒙。我们将和你并肩作战。"
 
 #. [message]: speaker=Taxtrimon
@@ -3046,10 +3101,6 @@ msgstr "好吧。那还真是激烈啊。"
 #. [message]: speaker=Ardonna
 msgid "At last we are victorious!"
 msgstr "我们终于胜利了！"
-
-#. [unit]: type=Elvish High Lord, id=Galoïndrath
-msgid "Galoïndrath"
-msgstr "伽洛因德拉斯"
 
 #. [message]: speaker=Ardonna
 msgid "The whole world is against us."
@@ -3104,9 +3155,10 @@ msgid "Taxtrimon"
 msgstr "塔克斯崔蒙"
 
 #. [message]: speaker=Taxtrimon
+#, fuzzy
 msgid ""
-"We have found them! These magi destroyed a profitable business venture, and "
-"killed our males. We will take vengeance. You horse humans can assist us."
+"We have found them! These magi destroyed a profitable business venture. We "
+"will take vengeance. You horse humans can assist us."
 msgstr ""
 "我们找到他们了！这些法师摧毁了我们利润丰厚的生意，还杀死了我们的雄性。我们要"
 "复仇。你们这些骑马的人类可以协助我们。"

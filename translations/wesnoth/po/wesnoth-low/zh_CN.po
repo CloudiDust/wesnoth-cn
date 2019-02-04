@@ -1,14 +1,14 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-21 18:30 UTC\n"
 "PO-Revision-Date: 2018-07-08 20:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -39,7 +39,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=LOW, type=hybrid
-msgid "(Intermediate level, 18 scenarios.)"
+#, fuzzy
+msgid "(Hard level, 18 scenarios.)"
 msgstr "（中等级别，18幕场景。）"
 
 #. [campaign]: id=LOW, type=hybrid
@@ -316,28 +317,28 @@ msgstr "维伦"
 msgid "T’baran"
 msgstr "特巴兰"
 
-#. [side]: type=Saurian Flanker, id=Huurgh
-#. [side]: type=Saurian Oracle, id=Shhar
-#. [side]: type=Arch Mage, id=Aquagar
-#. [side]: type=Troll Warrior, id=Trigrul
-#. [side]: type=Troll Warrior, id=Tafrul
-#. [side]
-#. [side]: type=Saurian Ambusher, id=Shurm
-#. [side]: type=Saurian Ambusher, id=Trigr
-#. [side]: type=Orcish Warlord, id=Urug-Tar
-#. [side]: type=Orcish Warlord, id=Graur-Tan
-#. [side]: type=Troll Warrior, id=Traur
-#. [side]: id=Hraurg, type=Saurian Ambusher
-#. [side]: type=Saurian Ambusher, id=Spahr
-#. [side]: type=Orcish Warlord, id=Kior-Pur
-#. [side]: type=Orcish Warlord, id=Mbiran
-#. [side]: type=Orcish Warlord, id=Tan-Durr
 #. [side]: id=Tbaran, type=Orcish Warrior
 #. [side]: id=Wrulf, type=Orcish Warrior
 #. [side]: type=Orcish Warrior, id=Qumseh
 #. [side]: type=Orcish Warrior, id=Graur-Tan
+#. [side]
 #. [modify_side]
 #. [side]: type=Troll Hero, type=Great Troll, id=Grugl
+#. [side]: type=Saurian Ambusher, id=Shurm
+#. [side]: type=Saurian Ambusher, id=Trigr
+#. [side]: id=Hraurg, type=Saurian Ambusher
+#. [side]: type=Saurian Ambusher, id=Spahr
+#. [side]: type=Orcish Warlord, id=Urug-Tar
+#. [side]: type=Orcish Warlord, id=Graur-Tan
+#. [side]: type=Troll Warrior, id=Traur
+#. [side]: type=Troll Warrior, id=Tafrul
+#. [side]: type=Arch Mage, id=Aquagar
+#. [side]: type=Troll Warrior, id=Trigrul
+#. [side]: type=Saurian Flanker, id=Huurgh
+#. [side]: type=Saurian Oracle, id=Shhar
+#. [side]: type=Orcish Warlord, id=Kior-Pur
+#. [side]: type=Orcish Warlord, id=Mbiran
+#. [side]: type=Orcish Warlord, id=Tan-Durr
 #. [side]: type=Saurian Flanker, id=Spahr
 #. [side]: type=Saurian Flanker, id=Hgyr
 #. [side]: type=Elvish Marshal, id=Crintil
@@ -353,8 +354,8 @@ msgstr "沃若夫"
 msgid "Qumseh"
 msgstr "库姆塞"
 
-#. [side]: type=Orcish Warlord, id=Graur-Tan
 #. [side]: type=Orcish Warrior, id=Graur-Tan
+#. [side]: type=Orcish Warlord, id=Graur-Tan
 msgid "Graur-Tan"
 msgstr "格兰努-坦"
 
@@ -1431,13 +1432,13 @@ msgid ""
 "the next scenario with a preset amount."
 msgstr " 已经把剩余的全部金币放进了精灵金库。你会以预设的数量开始下一个场景。"
 
-#. [part]
 #. [message]: speaker=narrator
+#. [part]
 msgid "Kalenz"
 msgstr "卡雷兹"
 
-#. [part]
 #. [message]: speaker=narrator
+#. [part]
 msgid "Landar"
 msgstr "兰达尔"
 
@@ -1697,8 +1698,8 @@ msgstr "胡尔哥"
 msgid "Shhar"
 msgstr "沙哈"
 
-#. [side]
 #. [side]: type=Gryphon, id=Gryphon Leader
+#. [side]
 msgid "Creatures"
 msgstr "怪物"
 
@@ -1949,8 +1950,8 @@ msgstr "精灵和矮人加快脚步，奔向那股浓烟……"
 msgid "Aquagar"
 msgstr "阿库阿伽"
 
-#. [part]
 #. [side]: type=Elder Mage, id=Crelanu
+#. [part]
 msgid "Crelanu"
 msgstr "克雷拉努"
 
@@ -2496,8 +2497,8 @@ msgid ""
 "With the human-elf alliance revived, our heroes hurried to the battlefield..."
 msgstr "人类—精灵再度结盟，我们的英雄们又奔向战场……"
 
-#. [part]
 #. [unit]: id=Aldar, type=General
+#. [part]
 msgid "Aldar"
 msgstr "阿尔达"
 

@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # jan2xue <75jan@163.com>, 2005.
 # Huang Huan <unicon221@gmail.com>, 2005.
@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
-"PO-Revision-Date: 2018-07-08 20:30+0800\n"
+"POT-Creation-Date: 2018-09-16 07:03 UTC\n"
+"PO-Revision-Date: 2019-02-04 17:06+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
 msgid "4p — A New Land"
@@ -544,12 +544,16 @@ msgid "What shall I do my liege?"
 msgstr "阁下，我该做什么？"
 
 #. [option]: description=<span size='small'>
-msgid "Plant Farm"
-msgstr "开垦农田"
+msgid "Convert to Grassland"
+msgstr "化为草原"
 
 #. [option]: description=<span size='small'>
 msgid "Cost: 0g"
 msgstr "花费：0枚金币"
+
+#. [option]: description=<span size='small'>
+msgid "Plant Farm"
+msgstr "开垦农田"
 
 #. [option]: description=<span size='small'>
 msgid "Build Village"

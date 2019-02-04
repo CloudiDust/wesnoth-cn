@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Automatically generated, 2013.
 # CloudiDust <cloudidust@gmail.com>, 2015.
@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
-"PO-Revision-Date: 2018-07-08 20:29+0800\n"
+"POT-Creation-Date: 2018-09-09 08:38 UTC\n"
+"PO-Revision-Date: 2019-02-04 17:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -51,8 +51,8 @@ msgstr "使用巡逻微AI而不是patrol.lua。"
 msgid "The Elves Besieged"
 msgstr "精灵受困"
 
-#. [unit]: type=Spearman, id=Konrad
 #. [side]: type=Spearman, id=Konrad
+#. [unit]: type=Spearman, id=Konrad
 msgid "Konrad"
 msgstr "科纳德"
 
@@ -70,10 +70,10 @@ msgstr "黎伐多"
 msgid "Urug-Telfar"
 msgstr "乌鲁戈-特尔法"
 
-#. [side]: id=Vanak, type=Orcish Ruler
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
+#. [side]: id=Vanak, type=Orcish Ruler
 msgid "Orcs"
 msgstr "兽人"
 
@@ -114,15 +114,15 @@ msgid ""
 "Note: The Protect Unit AI is coded as a Micro AI. A Micro AI can be added "
 "and adapted to the need of a scenario easily using only WML and the "
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"这是主线战役“王座继承人”中“精灵受困”场景的再演绎，区别只在于此处是AI在控制科"
-"纳德的阵营。目标是移动科纳德至西北方路标处，同时要确保科纳德和德法多都存活。"
-"此处使用的AI与<b>保护单位<b>场景中使用的AI相同。\n"
+"这是主线战役<b>王座继承人</b>中<b>精灵受困</b>场景的再演绎，区别只在于此处是"
+"AI在控制科纳德的阵营。目标是移动科纳德至西北方路标处，同时要确保科纳德和德法"
+"多都存活。此处使用的AI与<b>保护单位</b>场景中使用的AI相同。\n"
 "\n"
-"注：保护单位AI是作为微AI来编写的。微AI可以只使用WML和[micro_ai]标签来加入到场"
-"景中，并根据场景的需要进行适配。请参阅http://wiki.wesnoth.org/Micro_AIs处的"
-"<span color='#00A000'>微AI维基页面</span>以获得更多信息。"
+"注：保护单位AI是作为微AI来编写的。仅使用WML和[micro_ai]标签即可很容易地将微AI"
+"加入场景中，并根据场景的需要进行适配。请查看<span color='#00A000'>微AI的wiki"
+"页面</span>（http://wiki.wesnoth.org/Micro_AIs）以获得更多信息。"
 
 #. [event]
 msgid "Move Konrad here"
@@ -273,10 +273,10 @@ msgstr "动物"
 msgid "Rutburt"
 msgstr "拉特巴特"
 
+#. [side]: id=Rutburt, type=Outlaw
 #. [side]: type=General, id=leader2
 #. [side]: type=Lieutenant, id=leader5
 #. [side]: type=Lieutenant, id=leader6
-#. [side]: id=Rutburt, type=Outlaw
 msgid "Humans"
 msgstr "人类"
 
@@ -306,10 +306,10 @@ msgstr "狼"
 msgid "Whelps"
 msgstr "幼兽"
 
+#. [set_menu_item]: id=m01_end_animals
 #. [event]
 #. [set_menu_item]: id=m04_end_animals
 #. [set_menu_item]: id=m01_end_swarm
-#. [set_menu_item]: id=m01_end_animals
 #. [set_menu_item]: id=m01_end_wolves
 msgid "End Scenario"
 msgstr "结束场景"
@@ -358,10 +358,10 @@ msgid ""
 "Also note: The Animal AIs are coded as Micro AIs. A Micro AI can be added "
 "and adapted to the need of a scenario easily using only WML and the "
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"场景中可以包含由人类控制的阵营1，以使行动每回合停止一次，供四处观察（或使用调"
-"试模式搞事）。\n"
+"场景中可以包含由人类控制的阵营1，以使行动每回合停止一次，供四处观察（或在调试"
+"模式里搞事）。\n"
 "\n"
 "注意此场景是不会结束的。为了便于演示，在每回合开始时，任何一个被杀死的单位都"
 "会被同类型的一个新单位替代。有个右击选项可以结束此场景——但那仅仅在人类控制模"
@@ -416,9 +416,9 @@ msgstr "又大又坏的兽人"
 msgid "All right, chaps. Those orcs need to be stopped."
 msgstr "好了，伙计们。得制止这些兽人。"
 
+#. [message]: speaker=Big Bad Orc
 #. [message]: speaker=Another Bad Orc
 #. [message]: speaker=Vanak
-#. [message]: speaker=Big Bad Orc
 msgid "They there!  We them get!"
 msgstr "它们那儿，我们它们捉！"
 
@@ -432,7 +432,7 @@ msgid ""
 "Note: The Bottleneck Defense AI is coded as a Micro AI. A Micro AI can be "
 "added and adapted to the need of a scenario easily using only WML and the "
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "我们得尽可能拖住他们。把最强的战士放在前线，把负伤的单位带到后方疗伤。如果足"
 "够小心，我们甚至可能赢得这次战斗。完成征募后，我会立刻加入你的队伍参与战"
@@ -524,8 +524,8 @@ msgid ""
 "\n"
 "Note: The Hunter AI is coded as a Micro AI. A Micro AI can be added and "
 "adapted to the need of a scenario easily using only WML and the [micro_ai] "
-"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
-"wiki.wesnoth.org/Micro_AIs for more information."
+"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
+"https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "喂。我是罗克，这是我的行动模式：\n"
 "当我饥饿时，我会在地图的一部分区域内四处游荡，直到我的攻击范围内出现敌人。当"
@@ -582,8 +582,8 @@ msgstr ""
 "\n"
 "在此你无事可做，只要看着就行，也可以将此场景用作模板或用于你自己的测试。"
 
-#. [test]: id=goto
 #. [event]
+#. [test]: id=goto
 msgid "Goto"
 msgstr "Goto"
 
@@ -649,8 +649,8 @@ msgid ""
 "\n"
 "Note: The Goto AI is coded as a Micro AI. A Micro AI can be added and "
 "adapted to the need of a scenario easily using only WML and the [micro_ai] "
-"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
-"wiki.wesnoth.org/Micro_AIs for more information."
+"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
+"https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "此场景将演示Goto微AI的各种不同用例。所有AI阵营均由此微AI通过各种方式控制（蜥"
 "蜴人除外，他们由潜伏者微AI控制）。用于指出这些单位所执行的行动的信息将贯穿整"
@@ -834,8 +834,8 @@ msgstr "我们都到达了角落，让我们重聚吧。"
 msgid "We're back together, let's head out to the corners again."
 msgstr "我们重聚了，让我们再出发去角落吧。"
 
-#. [test]: id=guardians
 #. [event]
+#. [test]: id=guardians
 msgid "Guardians"
 msgstr "守卫"
 
@@ -1103,7 +1103,7 @@ msgid ""
 "Another note: Most of the Guardian AIs are coded as Micro AIs. A Micro AI "
 "can be added and adapted to the need of a scenario easily using only WML and "
 "the [micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "高原狮鹫，看看这些敌人。他们的行为并不寻常。其中绝大部分完全不会行动，除非我"
 "们接近他们。让我们看看他们会如何对我们的行动做出反应。\n"
@@ -1169,7 +1169,7 @@ msgid ""
 "moving off castle tiles to allow for recruiting) and the Messenger Escort AI "
 "which takes over after that.  A Micro AI can be added and adapted to the "
 "need of a scenario easily using only WML and the [micro_ai] tag. Check out "
-"the <span color='#00A000'>Micro AI wiki page</span> at http://wiki.wesnoth."
+"the <span color='#00A000'>Micro AI wiki page</span> at https://wiki.wesnoth."
 "org/Micro_AIs for more information."
 msgstr ""
 "那边那个游寇会逃往东南方的城堡主楼。他只会在那里征募三回合，而后便会开始移"
@@ -1236,7 +1236,7 @@ msgid ""
 "Note: The Healer Support AI is coded as a Micro AI. A Micro AI can be added "
 "and adapted to the need of a scenario easily using only WML and the "
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "在此场景中，将演示疗伤支援微AI的使用。此AI将一个阵营的疗伤者配置于战线之后，"
 "不论在何种情况下，都会治疗受伤或受威胁的单位，而不是参与进攻。它有几个可配置"
@@ -1367,8 +1367,8 @@ msgid ""
 "\n"
 "The Lua Lurker AI is coded as a Micro AI. A Micro AI can be added and "
 "adapted to the need of a scenario easily using only WML and the [micro_ai] "
-"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
-"wiki.wesnoth.org/Micro_AIs for more information."
+"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
+"https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "你可以使用右击上下文菜单来添加额外的潜伏者。\n"
 "\n"
@@ -1413,9 +1413,9 @@ msgstr "信使护送"
 msgid "Vanak"
 msgstr "凡纳克"
 
+#. [event]
 #. [side]
 #. [unit]: type=Dragoon, id=messenger
-#. [event]
 msgid "Messenger"
 msgstr "信使"
 
@@ -1458,8 +1458,8 @@ msgid ""
 "\n"
 "The Messenger Escort AI is coded as a Micro AI. A Micro AI can be added and "
 "adapted to the need of a scenario easily using only WML and the [micro_ai] "
-"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
-"wiki.wesnoth.org/Micro_AIs for more information."
+"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
+"https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "信使护送AI会尝试将龙骑士信使移动到北面的路标处，同时尽可能地使用其他单位来保"
 "护他。凡纳克的兽人得阻止他。\n"
@@ -1620,7 +1620,7 @@ msgid ""
 "The Patrol AI controlling all Side 2 units is coded as a Micro AI. A Micro "
 "AI can be added and adapted to the need of a scenario easily using only WML "
 "and the [micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki "
-"page</span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"page</span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "你作为玩家，在此场景中控制哥特巴特的强盗。你可以仅仅只是观察四处移动的巡逻"
 "队，也可以把单位移过去挡道。三个巡逻单位接到指示，在面对敌方单位时会表现出不"
@@ -1723,7 +1723,7 @@ msgid ""
 "Note: The Protect Unit AI is coded as a Micro AI. A Micro AI can be added "
 "and adapted to the need of a scenario easily using only WML and the "
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "在此场景中，扮演东面人类（朗扎）的AI接到指示，会保护巫师罗扫巴，同时会把他移"
 "动到路标处。而另一边，阔扎的单位（在西面）会主要攻击罗扫巴，哪怕有更好的目标"
@@ -1788,8 +1788,8 @@ msgstr "我尽力防守了。"
 msgid "I made it"
 msgstr "我成功了"
 
-#. [test]: id=recruiting
 #. [event]
+#. [test]: id=recruiting
 msgid "Recruiting"
 msgstr "征募"
 
@@ -1821,12 +1821,18 @@ msgid ""
 "\n"
 "A Micro AI can be added and adapted to the need of a scenario easily using "
 "only WML and the [micro_ai] tag. Check out the <span color='#00A000'>Micro "
-"AI wiki page</span> at http://wiki.wesnoth.org/Micro_AIs for more "
+"AI wiki page</span> at https://wiki.wesnoth.org/Micro_AIs for more "
 "information."
 msgstr ""
 "如果你没有修改任何场景代码，那么阵营1将使用随机征募微AI，其中给予剑士和农民比"
 "其他单位更高的几率，而法师的几率则居中。这并不能作为良好的征募模式，而指示作"
-"为AI使用方法的演示而已。"
+"为AI使用方法的演示而已。\n"
+"\n"
+"阵营2使用了一波流征募微AI（此微AI也用在试验性AI中）。\n"
+"\n"
+"仅使用WML和[micro_ai]标签即可很容易地将微AI加入场景中，并根据场景的需要进行适"
+"配。请查看<span color='#00A000'>微AI的wiki页面</span>（http://wiki.wesnoth."
+"org/Micro_AIs）以获得更多信息。"
 
 #. [test]: id=micro_ai_test
 msgid "Micro AI Tests"
@@ -2254,8 +2260,8 @@ msgid ""
 "\n"
 "Note: The Swarm AI is coded as a Micro AI. A Micro AI can be added and "
 "adapted to the need of a scenario easily using only WML and the [micro_ai] "
-"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at http://"
-"wiki.wesnoth.org/Micro_AIs for more information."
+"tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
+"https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "此场景主要展示了成群（“蜂群”）移动的蝙蝠。当没有紧邻的敌人时，它们只是试图呆"
 "在一起，并与敌人保持一定的距离。然而，如果一个敌方单位与任何一只蝙蝠接近，则"
@@ -2359,7 +2365,7 @@ msgid ""
 "Also note that the wolves AI is coded as a Micro AI. A Micro AI can be added "
 "and adapted to the need of a scenario easily using only WML and the "
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-"span> at http://wiki.wesnoth.org/Micro_AIs for more information."
+"span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
 "可以包含由人类控制的阵营1，这样一来每回合行动会停止一次以供四处查看（或在调试"
 "模式里搞事）。在人类控制模式中，右击菜单中会有一些选项可用，比如向两个阵营添"

@@ -1,14 +1,14 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # MrKing <yideey@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
 "PO-Revision-Date: 2018-07-08 20:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -185,8 +185,8 @@ msgstr ""
 msgid "Undead Forces"
 msgstr "亡灵军团"
 
-#. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Dark Sorcerer, id=Mal-Kevek
+#. [side]: type=Lich, id=Mal-Kevek
 msgid "Mal-Kevek"
 msgstr "玛尔-柯沃克"
 
@@ -363,6 +363,10 @@ msgstr "（分别有不同的奖励）"
 msgid "Defeat all enemy leaders"
 msgstr "击败所有敌方首领"
 
+#. [objective]: condition=win
+msgid "Have a unit pick up the ring of power."
+msgstr "派一个单位去拣起力量指环。"
+
 #. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Necromancer, id=Mel Daveth
 #. [side]: type=Death Knight, id=Dead Knight
@@ -523,8 +527,8 @@ msgstr "等一下！你觉得会不会，它的主人一死，它就会渴求新
 msgid "If it does not attack, do not kill it. Let us see if it follows us."
 msgstr "如果它不攻击，那就不要杀它。让我们看看它是不是会跟着我们。"
 
-#. [message]: speaker=second_unit
 #. [message]: speaker=unit
+#. [message]: speaker=second_unit
 msgid "Neep, neep!"
 msgstr "吱，吱！"
 
@@ -655,10 +659,6 @@ msgstr "逃离家乡让我倍感屈辱，但我们还会回来的。"
 #. [message]: speaker=narrator
 msgid "Have a unit pick up the ring to end the scenario."
 msgstr "派一个单位去拣起指环，以结束场景。"
-
-#. [objective]: condition=win
-msgid "Have a unit pick up the ring of power."
-msgstr "派一个单位去拣起力量指环。"
 
 #. [message]: speaker=Cylanna
 msgid ""
@@ -1723,8 +1723,8 @@ msgid ""
 "This is a good place for a large colony, so I imagine we will see more soon."
 msgstr "这地方是个很合适的聚居地，所以我猜想我们很快还会看到更多蝙蝠。"
 
-#. [side]
 #. [unit]: type=Silver Mage, id=Caladon
+#. [side]
 msgid "Caladon"
 msgstr "卡拉东"
 

@@ -1,13 +1,13 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-21 18:29 UTC\n"
 "PO-Revision-Date: 2018-07-08 20:41+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -62,7 +62,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Eastern_Invasion
-msgid "(Intermediate level, 16 scenarios.)"
+#, fuzzy
+msgid "(Novice level, 16 scenarios.)"
 msgstr "（中等级别，16幕场景。）"
 
 #. [about]
@@ -182,32 +183,37 @@ msgstr ""
 "松懈起来。而后，在某一天的黎明，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
 
 #. [side]
-#. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=Lieutenant, id=Gweddry
 #. [side]: type=General, id=Konrad II
 #. [side]: type=Great Mage, id=Kaldor
 #. [side]: type=General, id=Halrad
 #. [side]: type=General, id=Halric
 #. [side]: type=General, id=Halrod
+#. [side]: type=Dwarvish Steelclad, id=Knutan
 msgid "Wesnothians"
 msgstr "韦诺人"
 
-#. [side]
+#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
+#. [side]: type=Dark Sorcerer, id=Mal-Talar
+#. [side]: type=Lich, id=Mal-Uldhar
+#. [side]: type=Dark Sorcerer, id=Mal-Skraat
+#. [side]: type=Lich, id=Mal-Telnarad
 #. [side]: type=Dark Sorcerer, id=Mal-Marak
 #. [side]: type=Dark Sorcerer, id=Mal-Galkar
 #. [side]: type=Death Knight, id=Ravanal-Guard
-#. [side]: type=Necromancer, id=Mal-un-Karad
-#. [side]: type=Dark Sorcerer, id=Mal-Skraat
-#. [side]: type=Dark Adept, id=Mal-Tar
-#. [side]: type=Dark Sorcerer, id=Mal-Kallat
+#. [side]
+#. [side]: type=Revenant, id=Lanar-Skal
 #. [side]: type=Necromancer, id=Mal-un-Darak
 #. [side]: type=Necromancer, id=Mal-un-Zanrad
 #. [side]: type=Necromancer, id=Mal-un-Xadrux
 #. [side]: type=Lich, id=Mal-Grekulak
 #. [side]: type=Lich, id=Mal-Xakralan
 #. [side]: type=Lich, id=Mal-Uknalu
-#. [side]: type=Revenant, id=Lanar-Skal
-#. [side]: type=Lich, id=Mal-Telnarad
+#. [side]: type=Dark Adept, id=Mal-Tar
+#. [side]: type=Dark Sorcerer, id=Mal-Kallat
+#. [side]: type=Bone Knight, id=Garnad
+#. [side]: type=Necromancer, id=Mal-un-Karad
+#. [side]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Lich, id=Lich2
 #. [side]: type=Lich, id=Lich3
 #. [side]: type=Lich, id=Lich4
@@ -215,11 +221,6 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Lich6
 #. [side]: type=Lich, id=Lich7
 #. [side]: type=Lich, id=Lich8
-#. [side]: type=Bone Knight, id=Garnad
-#. [side]: type=Lich Lord, id=Mal-Ravanal
-#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
-#. [side]: type=Dark Sorcerer, id=Mal-Talar
-#. [side]: type=Lich, id=Mal-Uldhar
 msgid "Undead"
 msgstr "亡灵"
 
@@ -332,11 +333,11 @@ msgstr "跟我上，士兵们！通过活版门！"
 msgid "The Escape Tunnel"
 msgstr "离脱隧道"
 
-#. [side]: type=Troll, id=Kabak
-#. [side]
 #. [side]: type=Troll Warrior, id=Darg
 #. [side]: type=Gryphon, id=Kraagak
 #. [side]: type=Ogre, id=Grug
+#. [side]
+#. [side]: type=Troll, id=Kabak
 msgid "Monsters"
 msgstr "怪物"
 
@@ -361,13 +362,18 @@ msgid "Where are we? I can’t see where we are going."
 msgstr "我们在哪儿？我不知道我们在往哪里走。"
 
 #. [message]: speaker=Dacyn
+#, fuzzy
 msgid ""
-"This is an old escape tunnel for the outpost; unfortunately these caves are "
-"currently inhabited by trolls. Now hurry, we have to move quickly; the "
-"undead will surely follow us down here."
+"This is an old escape route for the outpost. Unfortunately these caves are "
+"currently inhabited by trolls, who are blocking our path through the tunnel."
 msgstr ""
 "这是哨所的一条旧逃生隧道。不幸的是，这些洞穴里现在居住着巨魔。快，我们得赶快"
 "行动。亡灵们肯定会跟着我们来这儿的。"
+
+#. [message]: speaker=Dacyn
+#, fuzzy
+msgid "We must make haste to escape before the undead catch up."
+msgstr "快点。我们必须在亡灵杀光我们之前过河！"
 
 #. [message]: speaker=Gweddry
 msgid "Wait, before we go anywhere — who were those undead?"
@@ -424,8 +430,10 @@ msgid ""
 msgstr "俺的部落在这个洞穴里过了好几百年了，俺们不会为了一些亡灵分散开的。"
 
 #. [message]: speaker=Dacyn
-msgid "Very well. The best of luck in your battle."
-msgstr "那也好，祝你们在战斗中好运。"
+msgid ""
+"Very well. The best of luck in your battle. Gweddry, we may be able to avoid "
+"the bulk of the trolls by going through the dwarves’ tunnel."
+msgstr ""
 
 #. [message]: speaker=unit
 msgid ""
@@ -548,10 +556,10 @@ msgstr "同盟"
 msgid "Volas"
 msgstr "沃拉斯"
 
-#. [side]: type=Orcish Warlord, id=King Dra-Nak
 #. [side]: type=Orcish Warrior, id=Gruga-Har
 #. [side]: type=Orcish Nightblade, id=Bagork
 #. [side]: type=Orcish Warlord, id=Prok-Bak
+#. [side]: type=Orcish Warlord, id=King Dra-Nak
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1115,11 +1123,11 @@ msgstr "分岔口"
 
 #. [side]: type=Orcish Warlord, id=Wak-Rano
 #. [side]: type=Dark Sorcerer, id=Mal-Arnai
-#. [side]
-#. [side]: type=Orcish Ruler, id=Draka-Kura
 #. [side]: type=Orcish Warlord, id=Varrak-Klar
 #. [side]: type=Troll Warrior, id=Unhk
 #. [side]: type=Orcish Warlord, id=Ran-Lar
+#. [side]
+#. [side]: type=Orcish Ruler, id=Draka-Kura
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -2512,8 +2520,8 @@ msgstr "我将整备部队。"
 msgid "The Duel"
 msgstr "决斗"
 
-#. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Lich Lord, id=Mal-Ravanal
+#. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
 msgid "Mal-Ravanal"
 msgstr "玛尔-拉瓦纳尔"
 

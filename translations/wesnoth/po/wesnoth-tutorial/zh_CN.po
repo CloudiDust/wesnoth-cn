@@ -1,16 +1,16 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Huang Huan <unicon221@gmail.com>, 2005.
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-21 18:30 UTC\n"
 "PO-Revision-Date: 2018-07-08 21:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -117,6 +117,10 @@ msgstr "点击科纳德"
 #. [event]
 msgid "Click on Li’sar"
 msgstr "点击莉莎"
+
+#. [then]
+msgid "To undo your last move, press <b>u</b> or use the right-click menu."
+msgstr ""
 
 #. [message]: speaker=narrator
 msgid "Movement"
@@ -244,8 +248,8 @@ msgstr "我应该撤退吗？"
 msgid "female^Should I retreat?"
 msgstr "我应该撤退吗？"
 
-#. [message]: speaker=Galdrad
 #. [message]: speaker=Delfador
+#. [message]: speaker=Galdrad
 msgid "Good idea!"
 msgstr "好主意！"
 
@@ -1014,11 +1018,12 @@ msgid "Status Table"
 msgstr "状态表"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "The Status Table details the sides’ current status and starting conditions. "
 "Fog and shroud will affect what you can see in this table, and occasionally "
-"a side may be hidden. It is useful to check this table when a scenario "
-"begins."
+"a side may be hidden; however, it is still useful to check this table when a "
+"scenario begins. You can access it in the <b>Menu</b> menu."
 msgstr ""
 "状态表详细列出了各阵营当前的状态和起始条件。迷雾和黑幕会影响到你能从此表上看"
 "到的内容，有时有的阵营可能会被隐藏。在场景开始时检视此表，是很有用的。"
@@ -1350,10 +1355,11 @@ msgid "Victory Conditions"
 msgstr "胜利条件"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "In this scenario, you only need to defeat the orc leader to win. Victory "
-"conditions for a scenario are given under <b>Scenario Objectives</b> in "
-"<b>Menu</b>."
+"conditions for a scenario are given under <b>Scenario Objectives</b> in the "
+"<b>Menu</b> menu."
 msgstr ""
 "在此场景中，你只需击败兽人首领就能获胜了。场景的胜利条件在<b>菜单</b>中的<b>"
 "场景目标</b>里给出。"
@@ -1414,13 +1420,25 @@ msgstr ""
 "个后备计划！"
 
 #. [event]
+#, fuzzy
 msgid ""
-"You are close to killing their leader! The unit who finishes him will gain "
-"16 experience points because he is second level. Choose your attacking unit "
-"carefully!"
+"You are close to killing their leader! Because he is second level, the unit "
+"who finishes him will gain 16 experience points. In a campaign, it’s "
+"important to decide which units you want to advance, and give those units "
+"the best chances to gain experience."
 msgstr ""
 "你马上就能击杀他们的首领了！击杀他的单位将获得16点经验值，因为他是二级的。谨"
 "慎选择你的进攻单位！"
+
+#. [message]: speaker=narrator
+msgid "You have almost finished the tutorial"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"In a campaign you may have ten or even twenty scenarios to build your army, "
+"but this tutorial will conclude after you defeat Thrag."
+msgstr ""
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1570,15 +1588,18 @@ msgstr "啊！现在谁来教你击败这些兽人啊！"
 
 #. [message]: speaker=Galdrad
 msgid ""
-"You have beaten the orcs! You may want to try one of the novice-level "
-"campaigns next, such as <i>A Tale of Two Brothers</i>, <i>An Orcish "
-"Incursion</i>, or <i>The South Guard</i>. Konrad, Li’sar and Delfador are "
-"characters from <i>Heir to the Throne</i>. You can also refer to the in-game "
-"help browser if you ever need to refresh your memory on gameplay mechanics."
+"You have beaten the orcs! You may want to try one of the rookie-level "
+"campaigns next, which include strategy hints. <i>A Tale of Two Brothers</i> "
+"is the easiest and is the recommended first campaign. In <i>An Orcish "
+"Incursion</i> you have an Elvish army, similarly to this tutorial, but with "
+"seven scenarios for your units to gain experience and advance levels."
 msgstr ""
-"你击败了兽人！接下来你可能会想试试看新手级别的战役，例如：<b>兄弟传说</b>、"
-"<b>兽人入侵</b>或者<b>南疆卫队</b>。科纳德、莉莎和德法多是<b>王座继承人</b>中"
-"的角色。如果你需要回忆游戏玩法，那也可以参见游戏中的帮助浏览器。"
+
+#. [message]: speaker=narrator
+msgid ""
+"You can also refer to the in-game help browser if you ever need to refresh "
+"your memory on gameplay mechanics."
+msgstr ""
 
 #. [unit_type]: id=Fighter, race=human
 msgid "Fighter"

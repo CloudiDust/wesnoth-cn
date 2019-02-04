@@ -1,15 +1,15 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # Dugucloud <dugucloud@qq.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
+"POT-Creation-Date: 2019-01-21 18:29 UTC\n"
 "PO-Revision-Date: 2018-07-08 20:30+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -263,18 +263,18 @@ msgstr "此谷归我"
 msgid "Grogor-Tuk"
 msgstr "格罗高-图克"
 
+#. [side]: type=Goblin Pillager, id=Grogor-Tuk
 #. [side]: type=Orcish Warrior, id=Urthaka-Tan
+#. [side]: type=Orcish Slayer, id=Hagha-Tan
+#. [side]: type=Orcish Warlord, id=Tish Golub
 #. [side]: type=Orcish Warlord, id=Knafa-ord
 #. [side]: type=Orcish Warlord, id=Tan-drul
 #. [side]: type=Orcish Warlord, id=Krardul
-#. [side]: type=Orcish Warlord, id=Tish Golub
 #. [side]: type=Orcish Sovereign, id=Zorlan
 #. [side]: type=Orcish Warrior, id=T'bhan
 #. [side]: type=Orcish Warrior, id=Qgthun
 #. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
-#. [side]: type=Orcish Warrior, id=Tan-Garthak
-#. [side]: type=Goblin Pillager, id=Grogor-Tuk
-#. [side]: type=Orcish Slayer, id=Hagha-Tan
+#. [side]
 #. [side]: type=Orcish Warlord, id=Upgar
 msgid "Pillagers"
 msgstr "劫掠者"
@@ -495,15 +495,15 @@ msgstr "利欧林"
 msgid "Hagha-Tan"
 msgstr "哈格哈-坦"
 
-#. [side]
-#. [side]: type=King of Wesnoth, id=Garard II
-#. [side]: type=General, id=Rhuwin
 #. [side]: type=Arch Mage, id=Leollyn
-#. [modify_side]
-#. [side]: type=King of Wesnoth, id=Garard
+#. [side]
 #. [side]: type=General, id=Eldred
 #. [side]: type=General, id=Lowel
+#. [side]: type=King of Wesnoth, id=Garard
+#. [modify_side]
+#. [side]: type=King of Wesnoth, id=Garard II
 #. [side]: type=Lieutenant, id=Niktor
+#. [side]: type=General, id=Rhuwin
 msgid "Loyalists"
 msgstr "保王党人"
 
@@ -878,18 +878,18 @@ msgstr "这箱子里装着那恶棍所有从上当的路人手上抢来的钱！
 msgid "Night in the Swamp"
 msgstr "沼泽之夜"
 
-#. [side]: type=Lich, id=Sagus
+#. [side]
+#. [side]: type=Death Knight, id=Arakar
 #. [side]: type=Death Knight, id=Prepolur
 #. [side]: type=Necromancer, id=Unuvim-Malal
-#. [side]
-#. [side]: type=Necromancer, id=Gruv-Malal
+#. [side]: type=Necromancer, id=Maldun
+#. [side]: type=Death Knight, id=Alderoth
 #. [side]: type=Death Knight, id=Rudimil
 #. [side]: type=Necromancer, id=Roth-Malal
 #. [side]: type=Necromancer, id=Barth-Malal
-#. [side]: type=Death Knight, id=Arakar
-#. [side]: type=Necromancer, id=Maldun
-#. [side]: type=Death Knight, id=Alderoth
 #. [side]: type=Death Knight, id=Dirator
+#. [side]: type=Necromancer, id=Gruv-Malal
+#. [side]: type=Lich, id=Sagus
 msgid "Undead"
 msgstr "亡灵"
 
@@ -968,10 +968,6 @@ msgstr "乌-索罗多"
 #. [side]: type=Ancient Wose, id=Ur-Thorodor
 msgid "Wose"
 msgstr "树人"
-
-#. [side]: type=Orcish Warrior, id=Tan-Garthak
-msgid "Tan-Garthak"
-msgstr "坦-加特克"
 
 #. [message]: speaker=Lionel
 msgid ""
@@ -1274,8 +1270,8 @@ msgstr ""
 "你遇见了那些骷髅战士吗？他们的城堡在北边。虽然很难打过去，但是可以从西丹的村"
 "庄旁山谷里的密道过去。"
 
-#. [event]
 #. [scenario]: id=09_Houses_of_the_Dead
+#. [event]
 msgid "Nameless"
 msgstr "无名"
 
@@ -1604,9 +1600,9 @@ msgstr "不毛之地"
 msgid "Tish Golub"
 msgstr "蒂什·戈卢布"
 
+#. [side]: type=Elvish Druid
 #. [side]
 #. [side]: type=Elvish Captain, id=Clartakis
-#. [side]: type=Elvish Druid
 msgid "Elves"
 msgstr "精灵"
 
@@ -2537,11 +2533,11 @@ msgstr "我希望这书不会毁了他。"
 msgid "You speak my thought, granddaughter. May it be so."
 msgstr "你把我想说的说出来了，孙女。但愿如此吧。"
 
-#. [then]
+#. [event]
 msgid "Krumful"
 msgstr "克鲁姆孚"
 
-#. [then]
+#. [event]
 msgid "Unhul"
 msgstr "温霍"
 
@@ -2776,6 +2772,10 @@ msgstr "龙杜格尔"
 #. [message]: speaker=Adamar
 msgid "For the King!"
 msgstr "为国王而战！"
+
+#. [message]: speaker=Zorlan
+msgid "Argh! It can't be, beaten by these swine!"
+msgstr ""
 
 #. [scenario]: id=16_Dark_Sky_Over_Weldyn
 msgid "Dark Sky Over Weldyn"
@@ -3018,10 +3018,6 @@ msgid ""
 msgstr ""
 "德法多带领了一小支部队向北，试图关闭传送门。然而伊利阿-玛拉尔的大批军队在泰河"
 "以北集结，这条路变得十分危险。德法多不得不放弃这条宽阔的大路，绕道而行……"
-
-#. [event]
-msgid "Relgorn"
-msgstr "雷尔戈恩"
 
 #. [event]
 msgid "Udrin"
@@ -3688,8 +3684,8 @@ msgstr ""
 "也许吧。现在我再考虑这事，我想我最好比我来时更快地回到王宫，尽管我得跑死三匹"
 "马。"
 
-#. [side]
 #. [modify_side]
+#. [side]
 msgid "Rebels"
 msgstr "反抗势力"
 
@@ -4031,6 +4027,9 @@ msgstr "香黛尔"
 msgid "Ulrek"
 msgstr "乌尔雷克"
 
+msgid "Relgorn"
+msgstr "雷尔戈恩"
+
 msgid "Methor"
 msgstr "梅瑟"
 
@@ -4038,8 +4037,8 @@ msgid "Iliah-Malal"
 msgstr "伊利阿-玛拉尔"
 
 #. [message]: speaker=Delfador
-msgid "No! So young..."
-msgstr "不行！我死得太早了……"
+msgid "No! There is still more that I must do!"
+msgstr ""
 
 #. [message]: speaker=Delfador
 msgid "No! Without Lionel’s help, I am as good as defeated!"

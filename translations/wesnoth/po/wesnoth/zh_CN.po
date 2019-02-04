@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2018 Wesnoth development team
+# Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # jan2xue <75jan@163.com>, 2005.
 # Huang Huan <unicon221@gmail.com>, 2005.
@@ -12,9 +12,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-07-08 04:51-0400\n"
-"PO-Revision-Date: 2018-07-08 20:29+0800\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2019-01-27 12:23+0300\n"
+"PO-Revision-Date: 2019-02-04 16:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -292,18 +292,6 @@ msgstr "带走金币："
 #. [lua]: generate_objectives
 msgid "Notes:"
 msgstr "备注："
-
-#. [language]
-msgid "Easy"
-msgstr "简单"
-
-#. [language]
-msgid "Medium"
-msgstr "普通"
-
-#. [language]
-msgid "Hard"
-msgstr "困难"
 
 #. [about]
 msgid "Programming"
@@ -3382,8 +3370,8 @@ msgid "Teal"
 msgstr "青"
 
 #. [color_range]: id=gold
-msgid "Gold"
-msgstr "金币"
+msgid "color^Gold"
+msgstr "金"
 
 #. [color_range]: id=reef
 msgid "Reef"
@@ -3472,6 +3460,18 @@ msgstr "韦诺（默认）"
 #. [core]: id=default
 msgid "The standard Wesnoth core."
 msgstr "标准韦诺核心。"
+
+#. [language]
+msgid "Easy"
+msgstr "简单"
+
+#. [language]
+msgid "Medium"
+msgstr "普通"
+
+#. [language]
+msgid "Hard"
+msgstr "困难"
 
 #. [language]
 msgid "Nightmare"
@@ -3803,10 +3803,6 @@ msgstr ""
 msgid "Official Wesnoth Server"
 msgstr "官方韦诺服务器"
 
-#. [server]
-msgid "Alternate Wesnoth Server"
-msgstr "替代用韦诺服务器"
-
 #. [label]: id=no_options_notice
 msgid ""
 "There are no custom options available for the selected era, game, or "
@@ -3901,10 +3897,6 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
-#. [lua]: wesnoth.wml_actions.message
-msgid "input"
-msgstr "输入"
-
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3912,12 +3904,6 @@ msgstr "胜利："
 #. [lua]: generate_objectives
 msgid "Defeat:"
 msgstr "失败："
-
-#. [lua]: generate_objectives
-msgid "(this turn left)"
-msgid_plural "(%d turns left)"
-msgstr[0] "（仅剩本回合）"
-msgstr[1] "（剩余%d回合）"
 
 #. [lua]: generate_objectives
 msgid "%d%% of gold carried over to the next scenario."
@@ -4641,14 +4627,6 @@ msgstr ""
 
 #. [tip]
 msgid ""
-"In many campaign scenarios, you may issue simple instructions for your "
-"computer-controlled allies using the right-click context menu."
-msgstr ""
-"在许多战役场景中，你都可以通过右键上下文菜单向由计算机控制的盟友下达简单的指"
-"令。"
-
-#. [tip]
-msgid ""
 "The <i>Slow</i> ability is extremely powerful because it has such wide-"
 "ranging effects. Enemy undead get half the normal benefit from their "
 "<i>Drain</i> ability, the damage bonus from <i>Charge</i> or <i>Backstab</i> "
@@ -4760,6 +4738,23 @@ msgid "<i>― Queen Asheviere, 503YW</i>"
 msgstr "<b>——艾什薇尔女王，韦元503年</b>"
 
 #. [tip]
+msgid "Using lower-level units can be very cost-effective."
+msgstr "使用低等级单位的效费比很高。"
+
+#. [tip]
+msgid ""
+"Some higher-level units have inimitable abilities such as <i>Leadership</i>, "
+"<i>Cures</i>, or <i>Nightstalk</i>. Obtaining those units early can make a "
+"big difference in a campaign."
+msgstr ""
+"有些高等级单位拥有无可企及的能力，例如<b>领导</b>，<i>疗毒</I>，或者<i>夜遁</"
+"I>。在战役早期就获得这些单位，可以给战局带来极大变化。"
+
+#. [tip]
+msgid "<i>― Sir Gerrick of Westin, 607YW</i>"
+msgstr "<b>——韦斯廷的格里克爵士，韦元607年</b>"
+
+#. [tip]
 msgid ""
 "<i>Feral</i> units, such as Bats and wild animals, will avoid villages. Even "
 "if they occupy a village hex, they do not gain any defensive benefits from "
@@ -4773,9 +4768,6 @@ msgstr "升级选择"
 
 msgid "An invalid attacker weapon got selected."
 msgstr "选中了无效的进攻武器。"
-
-msgid "An invalid defender weapon got selected."
-msgstr "选中了无效的防御武器。"
 
 msgid "You do not have a leader to recall with."
 msgstr "你没有首领，不能进行召回。"
@@ -5869,22 +5861,46 @@ msgstr "能力："
 msgid "Ability Upgrades: "
 msgstr "能力升级："
 
-msgid "HP: "
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "HP:"
 msgstr "生命："
 
-msgid "Moves: "
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Moves:"
 msgstr "移动："
 
-msgid "Vision: "
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Vision:"
 msgstr "视野："
 
-msgid "Jamming: "
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Jamming:"
 msgstr "干扰："
 
-msgid "Cost: "
-msgstr "花费："
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Cost:"
+msgstr "费用："
 
-msgid "Required XP: "
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Alignment:"
+msgstr "立场："
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  It uses
+#. non-breaking spaces to prevent unpleasant line breaks (issue #3256).  In the
+#. translation use non-breaking spaces as appropriate for the target language.
+msgid "Required XP:"
 msgstr "所需经验："
 
 msgid "unit help^Attacks"
@@ -6071,6 +6087,9 @@ msgstr ""
 
 msgid "You currently can't recall at the highlighted location"
 msgstr "你目前不能在高亮位置进行召回"
+
+msgid "No unit recalled"
+msgstr "未召回任何单位"
 
 msgid "You must have at least 1 gold piece to recall a unit"
 msgid_plural "You must have at least $cost gold pieces to recall this unit"
@@ -6282,6 +6301,15 @@ msgstr "无法托管无效阵营：“$side|”。"
 
 msgid "Can't droid networked side: '$side'."
 msgstr "无法托管联机阵营：“$side|”。"
+
+msgid "Side '$side' is already droided."
+msgstr "阵营：“$side|”之前已被托管了。"
+
+msgid "Side '$side' controller is now controlled by: AI."
+msgstr "阵营：“$side|”现在由AI控制。"
+
+msgid "Side '$side' controller is now controlled by: human."
+msgstr "阵营：“$side|”现在由人类控制。"
 
 msgid "Can't droid a local ai side: '$side'."
 msgstr "无法托管本地AI阵营：“$side|”。"
@@ -6502,11 +6530,11 @@ msgstr "类型："
 msgid "Level: "
 msgstr "等级："
 
+msgid "Advancements:"
+msgstr "可升级为："
+
 msgid "No advancement"
 msgstr "不能升级"
-
-msgid "Advances to:"
-msgstr "升级为："
 
 msgid "Trait: "
 msgstr "特质："
@@ -6668,6 +6696,9 @@ msgid ""
 "will end."
 msgstr "当到达第二个数字所表示的回合数时，游戏将结束。"
 
+msgid "Gold"
+msgstr "金币"
+
 msgid ""
 "The amount of gold currently available to recruit and maintain your army."
 msgstr "当前可用于征募与维护你的军队的金币数量。"
@@ -6712,6 +6743,9 @@ msgstr "观察者："
 
 msgid "Clock"
 msgstr "时钟"
+
+msgid "Battery"
+msgstr "炮位"
 
 msgid "Countdown until your turn automatically ends."
 msgstr "直到你的回合自动结束的倒计时"
@@ -6789,6 +6823,9 @@ msgstr "保存游戏"
 
 msgid "Game state is corrupted"
 msgstr "游戏状态已损毁"
+
+msgid "input"
+msgstr "输入"
 
 msgid "Unexpected characters at line start"
 msgstr "行首部出现非预期的字符"
