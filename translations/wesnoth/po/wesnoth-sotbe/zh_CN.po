@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # IkathrioLionheart <axalaraflameheart@163.com>, 2012.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2018-07-08 21:23+0800\n"
+"PO-Revision-Date: 2019-02-07 17:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 msgid "Son of the Black-Eye"
@@ -331,27 +331,22 @@ msgid "Defeat Lanbec’h"
 msgstr "打败兰贝契伯爵"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Resist until your people are ready to go (turn 12)"
-msgstr "抵抗到你的人做好撤离准备"
+msgstr "坚持抵抗，直到你的人民做好出发准备（第12回合）"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Resist until your people are ready to go (turn 13)"
-msgstr "抵抗到你的人做好撤离准备"
+msgstr "坚持抵抗，直到你的人民做好出发准备（第13回合）"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Resist until your people are ready to go (turn 14)"
-msgstr "抵抗到你的人做好撤离准备"
+msgstr "坚持抵抗，直到你的人民做好出发准备（第14回合）"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Then move Kapou’e to the signpost in the northeast"
 msgstr "之后移动卡破尔至东北方路标处"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Move Kapou’e to the signpost in the northeast"
 msgstr "移动卡破尔至东北方路标处"
 
@@ -3018,13 +3013,12 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 msgid "Good morning, Shan Taum!"
-msgstr "早，闪·陶姆！"
+msgstr "早啊，闪·陶姆！"
 
 # What in the frozen northlands
 #. [message]: speaker=Shan Taum
-#, fuzzy
 msgid "What... Kapou’e! What in the frozen Northlands are you doing here?!"
-msgstr "什么鬼……卡破尔！你没事跑大老远来这冰封的远北做什么？！"
+msgstr "什么鬼……卡破尔！冰封的北陆啊！你在这儿做啥？！"
 
 #. [message]: speaker=Kapou'e
 msgid ""

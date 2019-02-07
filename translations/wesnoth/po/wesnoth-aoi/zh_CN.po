@@ -38,7 +38,7 @@ msgstr ""
 
 #. [campaign]: id=An_Orcish_Incursion
 msgid "(Rookie level, 7 scenarios.)"
-msgstr "（新手级别，7幕场景。）"
+msgstr "（菜鸟级别，7幕场景。）"
 
 #. [campaign]: id=An_Orcish_Incursion
 msgid "Beginner"

@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2018-07-08 20:30+0800\n"
+"PO-Revision-Date: 2019-02-07 17:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [scenario]: id=11_Descent_into_Darkness
 #. [campaign]: id=Descent_into_Darkness
@@ -334,15 +334,15 @@ msgstr "法师们教给我的已经够多了。你不会真的驱逐我吧，不
 msgid ""
 "We should all be glad to see you gone, necromancer. I detest having fought "
 "by your side."
-msgstr ""
+msgstr "我们都很乐意看到你滚蛋，死灵法师。曾和你并肩作战让我很厌恶。"
 
 #. [message]: speaker=Drogan
-#, fuzzy
 msgid ""
 "Begone, now. I’ve no wish to be forced to send the soldiers after you. Your "
 "father would turn in his grave did he see the end to which you’ve come."
 msgstr ""
-"离开，现在。我不想被迫派出士兵追杀你。你的父亲会为你这样的结局而感到羞耻的。"
+"现在就离开。我可不想被迫派出士兵追杀你。要是看到你落到如此地步，你的父亲在天"
+"之灵也无法安息。"
 
 #. [message]: speaker=Drogan
 msgid ""
@@ -457,7 +457,6 @@ msgid "Death of Darken Volk"
 msgstr "达肯·沃克死亡"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "In truth, I share your hatred for the orcs. The Northlands have been my... "
 "home... for many years, and the orcs have been a growing infestation in "
@@ -466,12 +465,12 @@ msgid ""
 "can... aid me in the fight against them."
 msgstr ""
 "实际上，我和你对兽人的憎恨是一样的。北方大陆许多年来一直都是我的……家，但兽人"
-"越来越在那里横行霸道。无论他们走到哪里，都会把土地上一切美好的东西夺走。如果"
-"你有兴趣，我很乐意收你为我的学徒，让你可以……协助我与兽人作战。"
+"在那里横行霸道，愈为猖獗。无论他们走到哪里，都会把土地上一切美好的东西夺走。"
+"如果你有兴趣，我很乐意收你为我的学徒，让你可以……协助我与兽人作战。"
 
 #. [message]: speaker=Malin Keshar
 msgid "Yes! I thirst for revenge on those creatures!"
-msgstr "同意！我渴望对那些生物复仇！"
+msgstr "我愿意！我渴望对那些生物复仇！"
 
 #. [message]: speaker=Darken Volk
 msgid ""
@@ -1321,11 +1320,10 @@ msgstr ""
 "去吧！"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid ""
 "Move Malin Keshar or Darken Volk through the passageway in the northwest "
 "leading to the great hall"
-msgstr "通过西北方的通往大礼堂的通道"
+msgstr "移动马林·凯沙或达肯·沃克，通过西北方通往大礼堂的通道"
 
 #. [message]: speaker=unit
 msgid "I think I found the passage to the great hall. Follow me quickly!"
@@ -1337,11 +1335,11 @@ msgstr "小小请求 — 第三部分"
 
 #. [side]
 msgid "Guardian"
-msgstr "看守者"
+msgstr "守卫"
 
 #. [objective]: condition=win
 msgid "Retrieve the book and escape"
-msgstr ""
+msgstr "拿到书并逃脱"
 
 #. [message]: speaker=Malin Keshar
 msgid "I feel the book is very close, somewhere to the northwest."
@@ -1349,16 +1347,16 @@ msgstr "我感到书就在非常近的地方，就在西北面的某处。"
 
 #. [message]
 msgid "I have found the book, master! It is here."
-msgstr ""
+msgstr "我找到书了，主人！就在这儿。"
 
 #. [message]: id=Malin Keshar
 #. The speaker addresses an undead minion.
 msgid "Good! Guard it with your unlife while I come to fetch it."
-msgstr ""
+msgstr "很好！用你不存在的命保护好它，我就来取。"
 
 #. [message]: id=Malin Keshar
 msgid "Good! Guard it with your life while I come to fetch it."
-msgstr ""
+msgstr "很好！用你的命保护好它，我就来取。"
 
 #. [message]: speaker=Malin Keshar
 msgid "We’ve got the book, but now how do we get out of here?"
@@ -1616,17 +1614,17 @@ msgstr "对不起，主人，那对我而言太重了。"
 
 #. [unit]: type=Paladin, id=Telemon
 msgid "Telemon the Slayer"
-msgstr ""
+msgstr "斩杀者泰勒蒙"
 
 #. [message]: speaker=Telemon
 msgid "Foul necromancer! Your time has come!"
-msgstr ""
+msgstr "邪恶的死灵法师！你的死期到了！"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
 "Reinforcements! I took too long to retrieve that book and now I have no way "
 "to win this battle..."
-msgstr ""
+msgstr "他们的增援到了！我花了太多时间来拿书，现在我赢不了这场战斗了……"
 
 #. [message]: speaker=Malin Keshar
 msgid ""
@@ -1841,10 +1839,12 @@ msgid ""
 "Mal Keshar has had time to study the book, learning how his apprentices can "
 "become liches with less reliance on luck than Malin’s own transformation."
 msgstr ""
+"玛尔·凯沙花了些时间来研读这本书并获知，相比他自己的转变，他的学徒们要成为巫"
+"妖，可以更不依赖运气。"
 
 #. [part]
 msgid "Mal Keshar continues to study the book, and re-reads the final entry."
-msgstr ""
+msgstr "玛尔·凯沙继续研读这本书，并重读了最后一段。"
 
 #. [part]
 #. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
@@ -1856,6 +1856,10 @@ msgid ""
 "attitudes will dominate, and I can certainly afford to wait. In the "
 "meantime, we are doing what we can to hasten that day.”</i>"
 msgstr ""
+"<b>“现在我认识到了……这世界还没有做好接受我们的知识的准备。我决定放弃他们所有"
+"人。我将居于这座古老的巨魔城市，并学会山火的用法。在未来某天，不那么保守的观"
+"念将会占有统治地位，而我当然有资本来等待。与此同时，我们将尽我们所能，让那一"
+"天更快到来。”</b>"
 
 #. [part]
 #. More text from the epilogue of Secrets of the Ancients
@@ -1866,6 +1870,8 @@ msgid ""
 "will eventually make its way into the hands of someone in Tath who is "
 "willing to learn.”</i>"
 msgstr ""
+"<b>“至于我，我在日记上施放了一些魔咒，以免它遭到损伤。同时，我会让它在战场上"
+"引人注目。我希望它最后会落入某个来自塔斯的愿意研习的人手中。”</b>"
 
 #. [part]
 msgid ""

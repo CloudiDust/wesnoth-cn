@@ -1,13 +1,13 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
 # Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2018-07-08 21:21+0800\n"
+"PO-Revision-Date: 2019-02-07 17:55+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 msgid "The Sceptre of Fire"
@@ -70,9 +70,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Sceptre_of_Fire
-#, fuzzy
 msgid "(Hard level, 9 scenarios.)"
-msgstr "（专家级别，9幕场景。）"
+msgstr "（困难级别，9幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -918,7 +917,6 @@ msgid "Monsters"
 msgstr "怪物"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The journey to the far northern wastelands was long and perilous. For the "
 "tunnels were winding and treacherous, and the paths were not safe from orcs, "
@@ -979,12 +977,11 @@ msgstr ""
 "至连精灵也不会在这里挑战我们。"
 
 #. [message]: speaker=Alanin
-#, fuzzy
 msgid ""
 "Except for trolls and ogres, right? They live in the far Northlands. They’re "
 "probably lurking around here somewhere."
 msgstr ""
-"除了巨魔和食人魔，对吗？他们住在遥远的北陆。他们八成就潜伏这里周围的什么地"
+"除了巨魔和食人魔，对吗？他们住在遥远的北陆。他们八成就潜伏在这周围的什么地"
 "方。"
 
 #. [message]: speaker=Baglur
@@ -1161,7 +1158,6 @@ msgstr ""
 "么回事？"
 
 #. [message]: speaker=Baglur
-#, fuzzy
 msgid "Yes, we did. And that is Krawg, who helped us in the Northlands."
 msgstr "是的，我们成功了。这位是克拉格，在北陆曾经帮助过我们。"
 
@@ -1639,16 +1635,15 @@ msgstr ""
 
 #. [label]
 msgid "Shorbear caves"
-msgstr ""
+msgstr "绍比尔洞穴"
 
 #. [objective]: condition=win
 msgid "Defeat Glonoin, the Shorbear clan leader"
 msgstr "击败格罗诺因，绍比尔族的首领"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Have all heroes, and no enemies, in the Shorbear caves"
-msgstr "当绍比尔族的洞穴内没有敌人时，让所有英雄进入洞穴内"
+msgstr "当绍比尔洞穴内没有敌人时，让所有英雄进入洞穴内"
 
 #. [objective]: condition=lose
 msgid "Death of Durstorn"
@@ -1657,7 +1652,7 @@ msgstr "达司拓恩死亡"
 #. [message]: speaker=Kuhnar
 msgid ""
 "Here we are; the hills of the Shorbear clan. What are we here for, anyway?"
-msgstr "我们到了绍比尔族之山。总之，我们来这干什么？"
+msgstr "我们到了绍比尔部落之山。总之，我们来这干什么？"
 
 #. [message]: speaker=Rugnur
 msgid ""

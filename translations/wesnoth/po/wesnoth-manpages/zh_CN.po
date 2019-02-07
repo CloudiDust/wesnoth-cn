@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@gmail.com>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2019-01-21 21:30+0300\n"
-"PO-Revision-Date: 2018-07-08 21:16+0800\n"
+"PO-Revision-Date: 2019-02-07 18:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. type: TH
 #, no-wrap
@@ -101,9 +101,9 @@ msgstr ""
 "示。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--bunzip2>I<\\ infile.bz2>"
-msgstr "B<--bunzip>I<\\ infile.bz2>"
+msgstr "B<--bunzip2>I<\\ infile.bz2>"
 
 #. type: Plain text
 msgid ""
@@ -113,9 +113,9 @@ msgstr ""
 "解压缩应为bzip2格式的文件，解压后去掉.bz2后缀。文件I<infile.bz2>将被删除。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--bzip2>I<\\ infile>"
-msgstr "B<--bzip>I<\\ infile>"
+msgstr "B<--bzip2>I<\\ infile>"
 
 #. type: Plain text
 msgid ""
@@ -163,39 +163,38 @@ msgstr "指定战役中的场景ID。默认为第一个场景。"
 #. type: TP
 #, no-wrap
 msgid "B<--campaign-skip-story>"
-msgstr ""
+msgstr "B<--campaign-skip-story>"
 
 #. type: Plain text
 msgid "Skip [story] screens and dialog through the end of the B<start> event."
-msgstr ""
+msgstr "在B<start>事件最后跳过[故事]画面和对话框。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--clock>"
-msgstr "B<--log-strict>"
+msgstr "B<--clock>"
 
 #. type: Plain text
 msgid "Adds the option to show a clock for testing the drawing timer."
-msgstr ""
+msgstr "增加一个选项，显示一个时钟，用于测试画面绘制计时器。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--config-dir>I<\\ name>"
-msgstr "B<--userconfig-dir>I<\\ name>"
+msgstr "B<--config-dir>I<\\ name>"
 
 #. type: Plain text
 msgid "Deprecated, use B<--userdata-dir>."
-msgstr ""
+msgstr "已废弃，请使用B<--userdata-dir>。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--config-path>"
-msgstr "B<--userconfig-path>"
+msgstr "B<--config-path>"
 
 #. type: Plain text
-#, fuzzy
 msgid "Deprecated, use B<--userdata-path>."
-msgstr "B<--userdata-path>"
+msgstr "已废弃，请使用B<--userdata-path>。"
 
 #. type: TP
 #, no-wrap
@@ -239,13 +238,13 @@ msgstr ""
 "http://www.wesnoth.org/wiki/CommandMode）"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--debug-lua>"
-msgstr "B<-d, --debug>"
+msgstr "B<--debug-lua>"
 
 #. type: Plain text
 msgid "enables some Lua debugging mechanisms"
-msgstr ""
+msgstr "启用一些Lua调试机制"
 
 #. type: TP
 #, no-wrap
@@ -253,11 +252,11 @@ msgid "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
 msgstr "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "start the in-game map editor directly. If I<file> is specified, equivalent "
 "to B<-l> B<--load>."
-msgstr "直接启动游戏内置的地图编辑器。如果指定了I<file>，则和B<-e --load>等价"
+msgstr ""
+"直接启动游戏内置的地图编辑器。如果指定了I<file>，则和 B<-l> B<--load>.等价。"
 
 #. type: TP
 #, no-wrap
@@ -347,7 +346,6 @@ msgid "B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>"
 msgstr "B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "sets the severity level of the log domains.  B<all> can be used to match any "
 "log domain. Available levels: B<error>,\\ B<warning>,\\ B<info>,\\ B<debug>,"
@@ -401,13 +399,11 @@ msgid "B<--max-fps>I<\\ fps>"
 msgstr "B<--max-fps>I<\\ fps>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "the number of frames per second the game can show, the value should be "
 "between B<1> and B<1000>, the default is the monitor's refresh rate."
 msgstr ""
-"游戏每秒能显示的帧数，这个值应该在  I<1> 和  I<1000> 之间，默认为显示器的刷新"
-"率。"
+"游戏每秒能显示的帧数，这个值应该在B<1>和B<1000>之间，默认为显示器的刷新率。"
 
 #. type: TP
 #, no-wrap
@@ -431,9 +427,9 @@ msgid "load the test mp scenarios."
 msgstr "读取测试用多人游戏场景。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--new-widgets>"
-msgstr "B<--no-delay>"
+msgstr "B<--new-widgets>"
 
 #. type: Plain text
 msgid ""
@@ -441,11 +437,14 @@ msgid ""
 "experimental, don't fill bug reports since most are known. Parts of the "
 "library are deemed stable and will work without this switch."
 msgstr ""
+"现在有一个正在制作中的窗口部件工具库，此选项将启用此工具库。这个工具库还处在"
+"很早期的试验阶段，请不要发起缺陷报告，因为大多数缺陷是已知的。库的一部分被认"
+"为是稳定的，即使不使用本开关也会启用。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--nodelay>"
-msgstr "B<--no-delay>"
+msgstr "B<--nodelay>"
 
 #. type: Plain text
 msgid ""
@@ -526,9 +525,9 @@ msgid ""
 msgstr "在连接服务器时使用 I<password> ，忽略其他首选项。不安全。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--plugin>I<\\ script>"
-msgstr "B<--gzip>I<\\ infile>"
+msgstr "B<--plugin>I<\\ script>"
 
 #. type: Plain text
 msgid ""
@@ -536,6 +535,8 @@ msgid ""
 "B<--script>, but Lua file should return a function which will be run as a "
 "coroutine and periodically woken up with updates."
 msgstr ""
+"（试验性）读取定义了韦诺插件的 I<script>。与B<--script>类似，但Lua文件应返回"
+"一个函数，该函数将作为协程运行，并周期性地使用更新地参数唤起。"
 
 #. type: TP
 #, no-wrap
@@ -543,7 +544,6 @@ msgid "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
 msgstr "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "preprocesses a specified file/folder. For each file(s) a plain .cfg file and "
 "a processed .cfg file will be written in specified target directory. If a "
@@ -558,7 +558,7 @@ msgstr ""
 "文件会被写入指定的目标目录中。如果指定的是个文件夹，那么将根据已知的预处理器"
 "规则递归地预处理之。“data/core/macros”目录中的常用宏会在指定的资源之前被预处"
 "理。例如： B<-p ~/wesnoth/data/campaigns/tutorial ~/result.> 有关预处理器的详"
-"情请见：http://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor"
+"情请见：http://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor。"
 
 #. type: TP
 #, no-wrap
@@ -606,49 +606,49 @@ msgstr ""
 "B<--preprocess> 命令之前。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--proxy>"
-msgstr "B<--fps>"
+msgstr "B<--proxy>"
 
 #. type: Plain text
 msgid "enables usage of proxy for network connections."
-msgstr ""
+msgstr "启用代理服务器来进行网络连接。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--proxy-address>I<\\ address>"
-msgstr "B<--core>I<\\ id_core>"
+msgstr "B<--proxy-address>I<\\ address>"
 
 #. type: Plain text
 msgid "specifies I<address> of the proxy."
-msgstr ""
+msgstr "指定代理服务器的B<地址>。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--proxy-port>I<\\ port>"
-msgstr "B<-p\\ >I<port>B<,\\ --port>I<\\ port>"
+msgstr "B<--proxy-port>I<\\ port>"
 
 #. type: Plain text
 msgid "specifies I<port> of the proxy."
-msgstr ""
+msgstr "指定代理服务器的B<端口>。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--proxy-user>I<\\ username>"
-msgstr "B<--username>I<\\ username>"
+msgstr "B<--proxy-user>I<\\ username>"
 
 #. type: Plain text
 msgid "specifies I<username> to log in to the proxy."
-msgstr ""
+msgstr "指定用于登录代理服务器的B<用户名>。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--proxy-password>I<\\ password>"
-msgstr "B<--password>I<\\ password>"
+msgstr "B<--proxy-password>I<\\ password>"
 
 #. type: Plain text
 msgid "specifies I<password> to log in to the proxy."
-msgstr ""
+msgstr "指定用于登录代理服务器的B<密码>。"
 
 #. type: TP
 #, no-wrap
@@ -656,9 +656,8 @@ msgid "B<-r\\ >I<X>B<x>I<Y>B<,\\ --resolution\\ >I<X>B<x>I<Y>"
 msgstr "B<-r\\ >I<X>B<x>I<Y>B<,\\ --resolution\\ >I<X>B<x>I<Y>"
 
 #. type: Plain text
-#, fuzzy
 msgid "sets the screen resolution. Example: B<-r> B<800x600>."
-msgstr "设定屏幕分辨率。例如：B<-r 800x600>"
+msgstr "设定屏幕分辨率。例如：B<-r> B<800x600>。"
 
 #. type: TP
 #, no-wrap
@@ -666,15 +665,13 @@ msgid "B<--render-image>I<\\ image>B<\\ >I<output>"
 msgstr "B<--render-image>I<\\ image>B<\\ >I<output>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "takes a valid wesnoth 'image path string' with image path functions, and "
 "outputs to a .png file. Image path functions are documented at https://wiki."
 "wesnoth.org/ImagePathFunctionWML."
 msgstr ""
 "以一个合法的包含图像路径函数的韦诺“图像路径字符串”作为传入值，并输出一个.png"
-"文件。如果文件名以.bmp结尾或libpng不可用，则输出Windows .bmp文件。图像路径函"
-"数的文档位于https://wiki.wesnoth.org/ImagePathFunctionWML。"
+"文件。图像路径函数的文档位于https://wiki.wesnoth.org/ImagePathFunctionWML。"
 
 #. type: TP
 #, no-wrap
@@ -688,16 +685,15 @@ msgid ""
 msgstr "初始化游戏目录，打印适用于缺陷报告的构建信息，并退出。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--rng-seed>I<\\ number>"
-msgstr "B<--rng-seed>I<\\ seed>"
+msgstr "B<--rng-seed>I<\\ number>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "seeds the random number generator with I<number>.  Example: B<--rng-seed> "
 "B<0>."
-msgstr "使用 E<lt>argE<gt> 作为随机数生成器的种子。例如： B<--rng-seed 0>"
+msgstr "使用 E<lt>argE<gt> 作为随机数生成器的种子。例如：B<--rng-seed> B<0>。"
 
 #. type: TP
 #, no-wrap
@@ -710,13 +706,13 @@ msgid ""
 msgstr "将 I<map> 的截图存入 I<output> 而不初始化屏幕显示。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--script>I<\\ file>"
-msgstr "B<--bzip>I<\\ infile>"
+msgstr "B<--script>I<\\ file>"
 
 #. type: Plain text
 msgid "(experimental)  I<file> containing a Lua script to control the client."
-msgstr ""
+msgstr "（试验性）指定一个B<文件>，其中包含了用于控制客户端的Lua脚本。"
 
 #. type: TP
 #, no-wrap
@@ -724,13 +720,12 @@ msgid "B<-s[>I<host>B<],\\ --server[>I<=host>B<]>"
 msgstr "B<-s[>I<host>B<],\\ --server[>I<=host>B<]>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "connects to the specified host if any, otherwise connect to the first server "
 "in preferences. Example: B<--server> B<server.wesnoth.org>."
 msgstr ""
 "如果指定了主机的话，连接到指定的主机。否则，连接到首选项中的第一个服务器。例"
-"如：B<--server server.wesnoth.org>"
+"如：B<--server> B<server.wesnoth.org>。"
 
 #. type: TP
 #, no-wrap
@@ -787,9 +782,9 @@ msgid "runs the specified test scenario as a unit test. Implies B<--nogui>."
 msgstr "将指定的测试场景作为单元测试运行。此选项隐含 B<--nogui> 。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--unsafe-scripts>"
-msgstr "B<--userconfig-path>"
+msgstr "B<--unsafe-scripts>"
 
 #. type: Plain text
 msgid ""
@@ -797,6 +792,8 @@ msgid ""
 "arbitrary packages. Do not do this with untrusted scripts! This action gives "
 "lua the same permissions as the wesnoth executable."
 msgstr ""
+"使得B<package>包在Lua脚本中可用，这样一来Lua脚本就可以载入任意包了。请不要对"
+"不可信的脚本使用此选项！此操作将赋予Lua与韦诺可执行文件相同的权限。"
 
 #. type: TP
 #, no-wrap
@@ -917,9 +914,9 @@ msgstr ""
 "数字替换。这个数字一般是1或者2，不过这取决于所选定场景中的玩家数量。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--ai-config>I<\\ number>B<:>I<value>"
-msgstr "B<--ai_config>I<\\ number>B<:>I<value>"
+msgstr "B<--ai-config>I<\\ number>B<:>I<value>"
 
 #. type: Plain text
 msgid ""
@@ -990,13 +987,13 @@ msgid "do not use map settings, use default values instead."
 msgstr "不使用地图设置，而使用默认值。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--label>I<\\ label>"
-msgstr "B<--era>I<\\ value>"
+msgstr "B<--label>I<\\ label>"
 
 #. type: Plain text
 msgid "sets the I<label> for AIs."
-msgstr ""
+msgstr "设定AI的B<标签>。"
 
 #. type: TP
 #, no-wrap
@@ -1139,21 +1136,20 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#.  This program is free software; you can redistribute it and/or modify
-#.  it under the terms of the GNU General Public License as published by
-#.  the Free Software Foundation; either version 2 of the License, or
-#.  (at your option) any later version.
-#.  This program is distributed in the hope that it will be useful,
-#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#.  GNU General Public License for more details.
-#.  You should have received a copy of the GNU General Public License
-#.  along with this program; if not, write to the Free Software
-#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#. This program is free software; you can redistribute it and/or modify
+#. it under the terms of the GNU General Public License as published by
+#. the Free Software Foundation; either version 2 of the License, or
+#. (at your option) any later version.
+#. This program is distributed in the hope that it will be useful,
+#. but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. GNU General Public License for more details.
+#. You should have received a copy of the GNU General Public License
+#. along with this program; if not, write to the Free Software
+#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
-#, fuzzy
 msgid "B<wesnothd>(6)"
-msgstr "B<wesnothd>(6)."
+msgstr "B<wesnothd>(6)"
 
 #. type: TH
 #, no-wrap
@@ -1799,6 +1795,5 @@ msgstr ""
 "E<lt>cyril@bouthors.orgE<gt> 编写。"
 
 #. type: Plain text
-#, fuzzy
 msgid "B<wesnoth>(6)"
-msgstr "B<wesnoth>(6)."
+msgstr "B<wesnoth>(6)"

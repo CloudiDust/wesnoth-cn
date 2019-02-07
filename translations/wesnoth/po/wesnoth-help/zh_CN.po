@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-22 03:45+0300\n"
-"PO-Revision-Date: 2019-02-04 16:48+0800\n"
+"PO-Revision-Date: 2019-02-07 17:26+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -30,28 +30,25 @@ msgstr "地下"
 
 #. [berserk]: id=berserk
 msgid "righteous rage"
-msgstr ""
+msgstr "正义狂怒"
 
 #. [berserk]: id=berserk
-#, fuzzy
 msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the champions is slain, or 30 rounds of attacks have occurred."
 msgstr ""
-"不论是在进攻还是防御时，此攻击都会使作战双方维持战斗状态，直到其中一方被杀，"
-"或者恶斗三十回合为止。"
+"不论是在进攻还是防御时，此攻击都会使作战双方维持战斗状态，直到其中一位斗士被"
+"杀，或者恶斗三十回合为止。"
 
 #. [chance_to_hit]: id=magical
-#, fuzzy
 msgid "true strike"
-msgstr "先制"
+msgstr "精准打击"
 
 #. [chance_to_hit]: id=magical
-#, fuzzy
 msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
 "ability of the champion being attacked."
-msgstr "此攻击无视被攻击单位的防御能力，而总是拥有70%的命中率。"
+msgstr "此攻击无视被攻击的斗士的防御能力，而总是拥有70%的命中率。"
 
 #. [heals]: id=healing
 msgid "heals +4"
@@ -608,20 +605,19 @@ msgstr ""
 "的河流。"
 
 #. [topic]: id=great_river
-#, fuzzy
 msgid "Great River"
-msgstr "泰洋"
+msgstr "泰河"
 
 #. [topic]: id=great_river
-#, fuzzy
 msgid ""
 "The Great River forms the boundary between the <ref>dst='kingdom_wesnoth' "
 "text='Kingdom of Wesnoth'</ref> and the <ref>dst='northlands' "
 "text='Northlands'</ref>. It empties to the <ref>dst='great_ocean' "
 "text='Great Ocean'</ref> at <ref>dst='elensefar' text='Elensefar'</ref>."
 msgstr ""
-"<ref>dst='kingdom_wesnoth' text='韦诺王国'</ref>所在的。其西海岸被"
-"<ref>dst='great_ocean' text='泰洋'</ref>所包围。"
+"泰河构成了<ref>dst='kingdom_wesnoth' text=韦诺王国'</ref>与"
+"<ref>dst='northlands' text='北陆'</ref>的边界。它在<ref>dst='elensefar' "
+"text='埃仁撒伐'</ref>流入<ref>dst='great_ocean' text='泰洋'</ref>。"
 
 #. [topic]: id=great_ocean
 msgid "Great Ocean"
@@ -839,7 +835,6 @@ msgid "Northlands"
 msgstr "北陆"
 
 #. [topic]: id=northlands
-#, fuzzy
 msgid ""
 "There is no government of the Northlands. Various groups of orcs, dwarves, "
 "barbarian men and even elves populate the region. The northern and eastern "
@@ -1226,7 +1221,6 @@ msgstr ""
 "现在此单位还是未知的。你必须在游戏中发现它之后才能看到对它的描述。"
 
 #. [topic]: id=..gameplay
-#, fuzzy
 msgid ""
 "Wesnoth is comprised of a series of battles, called "
 "<italic>text='scenarios'</italic>, that pit your troops against the troops "
@@ -1258,10 +1252,10 @@ msgid ""
 "difficulties, the obstacles to victory will be higher and overcoming them "
 "will require more skillful play."
 msgstr ""
-"韦诺是由一系列战斗组成的，这称为<bold>text='场景'</bold>，你的军队将对战一个"
-"或多个敌手的军队。多个互相连续的场景，讲述一个故事，便组成了<bold>text='战"
-"役'</bold>。在战役中，你通常需要更小心地游玩，保存好你最强大的部队，以在之后"
-"的场景中再次使用。\n"
+"韦诺是由一系列战斗组成的，这称为<bold>text='场景'</bold>，在这些场景中你的军"
+"队将对战一个或多个敌手的军队。多个互相连续的场景，讲述一个故事，便组成了"
+"<bold>text='战役'</bold>。在战役中，你通常需要更小心地游玩，保存好你最强大的"
+"部队，以在之后的场景中再次使用。\n"
 "\n"
 "交互式的<bold>text='教程'</bold>通过作战场景介绍了韦诺的基本玩法。教程中所涉"
 "及的材料在这些帮助页面中有更深入的解释，因此当你遗忘某些内容时，总可以回来参"
@@ -1270,7 +1264,14 @@ msgstr ""
 "当你掌握了基本玩法之后，就可以试试看初心者战役，例如<bold>text='王座继承人'</"
 "bold>或是<bold>text='南疆卫队'</bold>。已安装的战役的完整列表，可以通过主菜单"
 "中的<bold>text='战役'</bold>选项来找到。韦诺很可能会充满挑战性，因此你或许会"
-"希望从简单的开始，再过渡到更高的难度。"
+"希望从简单的开始，再过渡到更高的难度。\n"
+"\n"
+"战役按照 <bold>text='级别'</bold>和<bold>text='难度'</bold>来分组。例如，"
+"<bold>text='王座继承人'</bold>是“新手”级别，可以在三个难度之中择一进行游"
+"玩：“初心者”、“普通”和“挑战”。“级别”表明了该战役所假定的玩家对游戏机制（如"
+"<ref>dst='movement' text='控制区域l'</ref>和<ref>dst='time_of_day' text='时"
+"段'</ref>）的熟习程度。而“难度”表明了战役中的场景对一位老手会有多大挑战：难度"
+"越高，胜利之前的阻碍会越多，而要克服阻碍则需要更高超的游玩技术。"
 
 #. [topic]: id=..gameplay
 msgid ""
@@ -1349,7 +1350,6 @@ msgstr ""
 "招募时，你的总花费不能超出你所拥有的金币数量。"
 
 #. [topic]: id=recruit_and_recall
-#, fuzzy
 msgid ""
 "Each side begins with one leader in their keep. At the start of any battle, "
 "and at times during it, you will need to recruit <ref>dst='..units' "
@@ -1631,7 +1631,6 @@ msgstr ""
 "单位进入一个你还没有占领的村庄时也会耗尽所有的移动点数，但他仍然能够攻击。"
 
 #. [topic]: id=movement
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1645,9 +1644,9 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"移动时，你还需要记住<bold>text='控制区域'</bold>的概念。每个单位都会在紧邻自"
-"身的六角格中产生控制区域，敌军若进入那些六角格，将立即无法继续移动。学习如何"
-"利用控制区域，是玩韦诺时的一个重点。只有<ref>dst='ability_skirmisher' "
+"移动时，你还需要记住<bold>text='控制区域'</bold>这一概念。每个单位都会在紧邻"
+"自身的格子中产生控制区域，敌军若进入那些格子，将立即无法继续移动。学习如何利"
+"用控制区域，是游玩韦诺时的一个要点。只有<ref>dst='ability_skirmisher' "
 "text='散兵'</ref>可以忽略控制区域的影响。"
 
 #. [topic]: id=movement
@@ -2028,11 +2027,10 @@ msgid ""
 msgstr "有些地下的位置是被照亮的。那里永远都是介于昼夜之间。\n"
 
 #. [topic]: id=time_of_day
-#, fuzzy
 msgid ""
 "Some role-playing scenarios take place indoors — these regions are similarly "
 "intermediate.\n"
-msgstr "有些角色扮演场景发生在室内——这些区域与前述类似，也是介于昼夜之间。"
+msgstr "有些角色扮演场景发生在室内——这些区域与前述类似，也是介于昼夜之间。\n"
 
 #. [topic]: id=time_of_day
 msgid ""
@@ -2041,6 +2039,9 @@ msgid ""
 "<ref>dst='terrain_lava' text='lava'</ref> change the time of day bonus "
 "around them."
 msgstr ""
+"最后，具有<ref>dst='ability_illuminationilluminates' text='照明'</ref>能力和"
+"单位和诸如<ref>dst='terrain_lava' text='熔岩'</ref>一类的地形会改变周围的时段"
+"加成。"
 
 #. [topic]: id=healing
 msgid "Healing"
@@ -2068,7 +2069,6 @@ msgstr ""
 "了休息之外，这些治疗不能叠加；在一个回合中，只有其中之一会生效。"
 
 #. [topic]: id=healing
-#, fuzzy
 msgid ""
 "\n"
 "• <bold>text='Villages'</bold>: A unit which starts a turn in a village or "
@@ -2076,10 +2076,11 @@ msgid ""
 "poisoned, the poison will be cured instead."
 msgstr ""
 "\n"
-"• <bold>text='村庄'</bold>：每回合开始时，在村庄中的单位可以恢复8点生命值。"
+"• <bold>text='村庄'</bold>：每回合开始时，在村庄或<ref>dst='terrain_oasis' "
+"text='绿洲'</ref>里的单位可以回复8点生命值。如果单位中毒了，那么就不回复生命"
+"值，而是进行疗毒。"
 
 #. [topic]: id=healing
-#, fuzzy
 msgid ""
 "\n"
 "• <ref>dst='ability_regeneratesregenerates' text='Regeneration'</ref>: "
@@ -2087,11 +2088,11 @@ msgid ""
 "the unit is poisoned, the poison will be cured instead."
 msgstr ""
 "\n"
-"• <ref>dst='ability_regenerates' text='再生'</ref>：某些单位（如巨魔）每回合"
-"将自动回复8点生命值。如果此单位中毒，那么就不回复生命值，而是进行疗毒。"
+"• <ref>dst='ability_regeneratesregenerates' text='再生'</ref>：某些单位（如巨"
+"魔）每回合会自动回复8点生命值。如果此单位中毒，那么就不回复生命值，而是进行疗"
+"毒。"
 
 #. [topic]: id=healing
-#, fuzzy
 msgid ""
 "\n"
 "• <bold>text='Healing units'</bold>: Units with the "
@@ -2101,13 +2102,13 @@ msgid ""
 "prevent Poison from causing that unit damage."
 msgstr ""
 "\n"
-"• <bold>text='疗伤单位'</bold>：有<ref>dst='ability_heals +4' text='疗伤'</"
-"ref>能力的单位每回合能恢复相邻友方单位<ref>dst='ability_heals +4' text='4"
-"点'</ref>或<ref>dst='ability_heals +8' text='8点'</ref>生命值，或阻止中毒状态"
-"对该单位造成伤害。"
+"• <bold>text='疗伤单位'</bold>：有<ref>dst='ability_healingheals +4'' "
+"text='疗伤'</ref>能力的单位每回合能回复相邻友方单位"
+"<ref>dst='ability_healingheals +4' text='4点'</ref>或"
+"<ref>dst='ability_healingheals +8' text='8点'</ref>生命值，或阻止中毒状态对该"
+"单位造成伤害。"
 
 #. [topic]: id=healing
-#, fuzzy
 msgid ""
 "\n"
 "• <bold>text='Curing units'</bold>: Units with the "
@@ -2116,9 +2117,9 @@ msgid ""
 "ability as well)."
 msgstr ""
 "\n"
-"• <bold>text='疗毒单位'</bold>：有<ref>dst='ability_cures' text='疗毒'</ref>"
-"能力的单位可以解除全部相邻友方单位的中毒状态（如果此单位还有疗伤能力，则疗毒"
-"优先于疗伤）。"
+"• <bold>text='疗毒单位'</bold>：有<ref>dst='ability_curingcures' text='疗"
+"毒'</ref>能力的单位可以解除全部相邻友方单位的中毒状态（如果此单位还有疗伤能"
+"力，则疗毒优先于疗伤）。"
 
 #. [topic]: id=healing
 msgid ""
@@ -2618,7 +2619,6 @@ msgstr ""
 "新游戏时，你可以选择和配置模组。"
 
 #. [topic]: id=using_addons
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -2626,7 +2626,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text='制作者资源'</header>"
+"<header>text='核心'</header>"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2640,6 +2640,13 @@ msgid ""
 "War II campaign, or even a different game altogether, as long as it can be "
 "represented as a hexagonal map with ’units’ in some way."
 msgstr ""
+"\n"
+"\n"
+"核心可以使得韦诺之战的完全转化成为可能。核心可以替换韦诺的所有内容：当载入不"
+"同的核心时，常规单位和地形等等都不会存在。\n"
+"\n"
+"核心允许制作者开发出明显不同的游戏体验：例如，二战战役，甚至是完全不同的游"
+"戏，只要这游戏可以使用六角格和某种类型的“单位”来表示即可。"
 
 #. [topic]: id=using_addons
 msgid ""
@@ -2673,7 +2680,6 @@ msgid "Installing Add-ons"
 msgstr "安装附加组件"
 
 #. [topic]: id=installing_addons
-#, fuzzy
 msgid ""
 "User-made add-ons can be obtained and updated through the <italic>text='Add-"
 "ons'</italic> option in the main menu. After connecting to the add-ons "
@@ -2705,13 +2711,13 @@ msgstr ""
 "或者<bold>text='已过期的'</bold>的附加组件，它们的所安装版本号和最新版本号都"
 "会被列在<bold>text='版本'</bold>栏中。\n"
 "\n"
-"要通过关键字搜索组件，只需要在<bold>text='过滤项'</bold>中键入任何相关条目，"
-"并以空格隔开即可。你也可以通过点击各栏的顶端来为附加组件排序。通过点击右上角"
-"的<bold>text='选项'</bold>按钮，你也可以只让电脑显示特定类别的附加组件。\n"
+"要通过关键字搜索组件，只需要在搜索框中键入任何相关条目，并以空格隔开即可。你"
+"也可以通过点击各栏的顶端来为附加组件排序。通过点击右上角的<bold>text='类型'</"
+"bold>下拉框，你也可以让游戏只显示特定类别的附加组件。\n"
 "\n"
-"要安装某个附加组件，只需从列表中选取他，并点击<bold>text='OK'</bold>按钮，或"
-"者双击附加组件的标题。 <bold>text='描述'</bold> 按钮可以向你提供关于该附加组"
-"件的一些更多的细节，比如其完整描述、安装状态或者支持的语言。"
+"要安装某个附加组件，只需从列表中选取他，并点击<bold>text='+'</bold>按钮，或者"
+"双击附加组件的标题。 <bold>text='附加组件细节'</bold> 按钮可以提供关于该附加"
+"组件的一些更多的细节，比如其完整描述、安装状态以及可用的翻译。"
 
 #. [topic]: id=removing_addons
 msgid "Removing Add-ons"

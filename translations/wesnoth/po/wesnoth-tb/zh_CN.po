@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2018-07-08 21:23+0800\n"
+"PO-Revision-Date: 2019-02-07 18:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=Two_Brothers
 msgid "A Tale of Two Brothers"
@@ -55,9 +55,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Two_Brothers
-#, fuzzy
 msgid "(Rookie level, 4 scenarios.)"
-msgstr "（新手级别，4幕场景。）"
+msgstr "（菜鸟级别，4幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -948,7 +947,7 @@ msgstr "这很可能是他们关押巴兰的牢房的钥匙！我要拿走它。
 
 #. [message]: speaker=Arvith
 msgid "It may be important, I best take it."
-msgstr ""
+msgstr "这肯定很重要，我最好带走它。"
 
 #. [message]: speaker=unit
 msgid "Look what I have found in here! I can count a hundred pieces of gold."

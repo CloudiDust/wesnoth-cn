@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:30 UTC\n"
-"PO-Revision-Date: 2018-07-08 20:47+0800\n"
+"PO-Revision-Date: 2019-02-07 15:06+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "LoW"
@@ -39,9 +39,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=LOW, type=hybrid
-#, fuzzy
 msgid "(Hard level, 18 scenarios.)"
-msgstr "（中等级别，18幕场景。）"
+msgstr "（困难级别，18幕场景。）"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "Easy"

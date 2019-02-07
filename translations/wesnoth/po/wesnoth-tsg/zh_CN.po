@@ -46,7 +46,7 @@ msgstr ""
 #. [campaign]: id=The_South_Guard
 #, fuzzy
 msgid "(Rookie level, 9 scenarios.)"
-msgstr "（新手级别，9幕场景。）"
+msgstr "（菜鸟级别，9幕场景。）"
 
 #. [campaign]: id=The_South_Guard
 msgid "Beginner"
