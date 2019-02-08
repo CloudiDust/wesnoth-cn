@@ -2,13 +2,13 @@
 # Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2018-07-08 21:23+0800\n"
+"PO-Revision-Date: 2019-02-08 15:50+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -52,7 +52,6 @@ msgid "Difficult"
 msgstr "困难"
 
 #. [campaign]: id=Secrets of the Ancients
-#, fuzzy
 msgid ""
 "Rediscover the secrets known by the lich lords of the Green Isle. They knew "
 "how to live forever, so why can't you?\n"
@@ -62,7 +61,7 @@ msgstr ""
 "重新发现绿岛的巫妖领主们所知道的秘密。他们能知道如何永生，那你凭什么不能"
 "呢？\n"
 "\n"
-"（中等级别，21幕场景。）\n"
+"（困难级别，21幕场景。）\n"
 
 #. [about]
 msgid "Campaign Design, Programming, and Artwork"
@@ -227,7 +226,7 @@ msgstr "此场景完全发生在夜间。"
 msgid ""
 "Ardonna can climb over a fence for 2 movement points, but wild animals "
 "cannot."
-msgstr ""
+msgstr "阿冬娜可以消耗2点移动点来翻越篱笆，但野生动物不行。"
 
 #. [label]
 msgid "Llorvin"
@@ -262,13 +261,12 @@ msgstr ""
 "它们。但我只能用冰，我可从来没学会熟练用火。"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid ""
 "A wolf! This journey may be more dangerous than I thought. If we need to, I "
 "suppose we could rest inside a farmer's or woodcutter's fence."
 msgstr ""
-"狼群！这旅程比我所想的更为危险。好吧，我们可以在农民和樵夫搭建的牢固篱笆后面"
-"找到安全之所。野生动物们显然不能进去。"
+"一头狼！这旅程比我所想的更为危险。如果需要的话，我想我们可以躲在农民或樵夫搭"
+"建的篱笆后面。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -366,33 +364,31 @@ msgstr "卡拉多克"
 
 #. [message]: speaker=Ardonna
 msgid "Oh, hello friend! I didn't know you were hiding in there."
-msgstr ""
+msgstr "哦，你好啊朋友！我不知道你躲在这儿。"
 
 #. [message]: speaker=Ardonna
 msgid "Oh, hello! You're a handsome one."
-msgstr ""
+msgstr "哦，你好啊！你还挺俊的。"
 
 #. [message]: speaker=Ardonna
 msgid "Hey, come back! I didn't mean to frighten you."
-msgstr ""
+msgstr "嘿，回来！我没想吓到你。"
 
 #. [message]: speaker=Ardonna
 msgid "Maybe I could attract it if I jingled some coins."
-msgstr ""
+msgstr "要是我用金币弄出叮当声，也许就能吸引到它了。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "Right-click adjacent to your leader to summon the bat."
-msgstr "在你的首领身边的坟墓上右击以复苏一个单位。"
+msgstr "在你的首领身边的格子上右击以召唤蝙蝠。"
 
 #. [set_menu_item]: id=summon_bat
 msgid "Summon the Bat (20 gold)"
-msgstr ""
+msgstr "召唤蝙蝠（20金币）"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You don't have enough gold to summon the bat."
-msgstr "你的金币不足，不能复苏该单位。"
+msgstr "你的金币不足，不能召唤蝙蝠。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit skeletons and skeleton archers!"
@@ -886,11 +882,11 @@ msgstr "今天不想多说话？发生什么了？"
 
 #. [message]: speaker=Bone Captain
 msgid "Happened? Dead."
-msgstr "发生？死了。"
+msgstr "发生了什么？我死了。"
 
 #. [message]: speaker=Ardonna
 msgid "Keep quiet about that."
-msgstr ""
+msgstr "别多嘴。"
 
 #. [message]: speaker=Gweddyn
 msgid ""
@@ -902,7 +898,7 @@ msgstr ""
 
 #. [message]: speaker=Bone Captain
 msgid "Yes. Dead."
-msgstr "是。死了。"
+msgstr "是的。死了。"
 
 #. [message]: speaker=Gweddyn
 msgid "What madness is this?"
@@ -1872,22 +1868,20 @@ msgstr ""
 "我们会帮你们赶走这个敌人，如果你愿意认为我们已经全部支付了你们的分成的话。"
 
 #. [message]: speaker=Krissaz
-#, fuzzy
 msgid ""
 "When the mage isss dead and her dead horde put to ressst, we agree. We will "
 "have been compensssated adequately."
 msgstr ""
-"等这个法师死嘶嘶掉，而她的灵魂停息的时候，我们就会同意。到那时我们就已经拿到"
-"适当的补偿了。"
+"等这个法师死嘶嘶掉，而她的亡灵大军停息的时候，我们就会同意。到那时嘶嘶我们就"
+"已经拿到适当的补偿了。"
 
 #. [message]: speaker=Ardonna
 msgid "Every time..."
 msgstr "每次都是……"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid "Good. Now I can practice recruiting ghosts."
-msgstr "你现在可以征募鬼魂了！"
+msgstr "很好。现在你可以练习征募鬼魂了。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit ghosts!"
@@ -1921,7 +1915,6 @@ msgid ""
 msgstr "实际上，我正在搜寻这一秘密。但你能服从一个女人的命令吗？"
 
 #. [message]: speaker=Vendraxis
-#, fuzzy
 msgid ""
 "I have ssstared into the darknesss between the starsss and not been "
 "intimidated by the void, but your mind holds a darknesss of another kind, "
@@ -1929,7 +1922,7 @@ msgid ""
 "know you are female, I will find it easier as it isss the way of my kind."
 msgstr ""
 "我注目过繁星之间的黑暗，而并没有被那虚无所吓，但你的心中却有另一种黑暗，我的"
-"部族害怕这黑暗，也禁止我们接触它。我服从于你的力量。现在我知道你是雌性了，我"
+"部族害怕这黑暗，也禁止我们接触它。我服从于你的力量。现在我知道你是女性了，我"
 "觉得服从于你更加容易，因为这就是我们一族的做法。"
 
 #. [message]: speaker=Ardonna
@@ -2219,12 +2212,16 @@ msgid ""
 "I have a sssense of dark foreboding regarding the sssnowy peaksss ahead. We "
 "may meet our doom if we don't have enough coinsss."
 msgstr ""
+"我感到前方的雪嘶嘶山之中有黑暗笼罩。如果我们的金币不够用，恐怕会嘶嘶丧命于"
+"此。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "The passes to the north are the end of many travelers. We would be wise to "
 "reach them with a reserve of gold. (<i>Cough, cough</i>)"
 msgstr ""
+"往北去的通道断送了许多旅行者的命。用些金币来接触他们，是明智的。（<b>咳，咳</"
+"b>）"
 
 #. [message]: speaker=Krongk
 msgid "They’re attacking me!"
@@ -3064,11 +3061,12 @@ msgid "Fizztsars"
 msgstr "菲兹萨斯"
 
 #. [message]: speaker=Fizztsars
-#, fuzzy
 msgid ""
 "We have arrived, Taxsstrimon. We will fight bessside you. They will pay for "
 "killing our malesss!"
-msgstr "我们到了，塔克斯崔蒙。我们将和你并肩作战。"
+msgstr ""
+"我们到了，塔克斯嘶嘶崔蒙。我们将和你并肩作战。他们会为嘶嘶杀死嘶嘶我们的男性"
+"而付出代价！"
 
 #. [message]: speaker=Taxtrimon
 msgid "Well met Fizztsars. Now these creatures will certainly fall."
@@ -3155,13 +3153,12 @@ msgid "Taxtrimon"
 msgstr "塔克斯崔蒙"
 
 #. [message]: speaker=Taxtrimon
-#, fuzzy
 msgid ""
 "We have found them! These magi destroyed a profitable business venture. We "
 "will take vengeance. You horse humans can assist us."
 msgstr ""
-"我们找到他们了！这些法师摧毁了我们利润丰厚的生意，还杀死了我们的雄性。我们要"
-"复仇。你们这些骑马的人类可以协助我们。"
+"我们找到他们了！这些法师摧毁了我们利润丰厚的生意。我们要复仇。你们这些骑马的"
+"人类可以协助我们。"
 
 #. [unit]: type=Merman Hoplite, id=Mauapan
 msgid "Mauapan"

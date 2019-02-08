@@ -6,13 +6,13 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2018-07-08 21:24+0800\n"
+"PO-Revision-Date: 2019-02-08 19:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 msgid "The Hammer of Thursagan"
@@ -577,16 +577,15 @@ msgstr "坦-乌斯卡"
 
 #. [side]
 msgid "Villagers"
-msgstr ""
+msgstr "村民"
 
 #. [label]
 msgid "Ruined Castle"
 msgstr "荒废的城堡"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Defeat the orcish leaders"
-msgstr "击败面具矮人"
+msgstr "击败兽人首领们"
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -674,6 +673,7 @@ msgid ""
 "There’s a scent of scorched gryphon meat in the air, emanating from that hut "
 "yonder. We should investigate."
 msgstr ""
+"空气里有烧焦的狮鹫肉的味道，是从那边的小屋里飘出来的。我们得去调查一下。"
 
 #. [message]: speaker=Ratheln
 msgid ""
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 msgid "The Law speaks: you are cast out. You are un-dwarf. I AM A WITNESS!"
-msgstr "如法典所言：你被放逐了。你不再是矮人了。<b>我是见证者！</b>"
+msgstr "如法典所言：汝已被逐。不再为矮人。<b>吾乃见证者！</b>"
 
 #. [message]: speaker=Aiglondur
 msgid "Up axes!"
@@ -1314,7 +1314,7 @@ msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
 "dirtgrubbers. You can be part of the fist that smites them."
 msgstr ""
-"所有矮人都是一家人，必须战胜兽人和人类以及其他吃土贱民。你们也可以成为重创他"
+"所有矮人都是一家人，必须战胜兽人和人类以及其他掘土贱民。你们也可以成为重创他"
 "们的铁拳的一部分。"
 
 #. [message]: speaker=Angarthing
@@ -1373,7 +1373,7 @@ msgstr ""
 msgid ""
 "The Law speaks. Against him with the eyes to see, no deception can hold. I "
 "AM A WITNESS!"
-msgstr "如法典所言。明眼人前，无法瞒骗。<b>我是见证者！</b>"
+msgstr "如法典所言。明眼人前，无可瞒骗。<b>吾乃见证者！</b>"
 
 #. [message]: speaker=Dulcatulos
 msgid "No... no... it is horrible! My lord, how did you come to this?"
@@ -1396,7 +1396,7 @@ msgid ""
 "your new friends will be the last sacrifices I require to bind the entire "
 "dwarvish race to my purpose. TAKE THEM!"
 msgstr ""
-"而你们难逃毁灭的命运。好几百个吃土贱民已经死了，他们的血织成的网围绕着锤子和"
+"而你们难逃毁灭的命运。好几百个掘土贱民已经死了，他们的血织成的网围绕着锤子和"
 "矮人们的灵魂。你和你的新朋友们将是我所需要的最后祭品，这样我就能让整个矮人族"
 "顺从我的意图了。<b>抓住他们！</b>"
 
@@ -1432,33 +1432,29 @@ msgid "The Underlevels"
 msgstr "下层世界"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Find and defeat Karrag"
-msgstr "击败卡拉格"
+msgstr "找到并击败卡拉格"
 
 #. [message]: speaker=Angarthing
-#, fuzzy
 msgid "This place reeks of death."
-msgstr "这地方闻起来有死亡的气息。"
+msgstr "这地方散发着死亡的气息。"
 
 #. [message]: speaker=Dulcatulos
-#, fuzzy
 msgid ""
 "It has been... so many years since I’ve been down here. Only Karrag and his "
 "personal followers used this level. I can't believe I never wondered about "
 "that before."
 msgstr ""
-"离我上次到这里来有……有好几年了。只有卡拉格和他的个人追随者们使用这一层。为什"
-"么以前我从不怀疑呢？"
+"离我上次下到这里来有……有很多了。只有卡拉格和他的个人追随者们使用这一层。真不"
+"敢相信我竟然从来都没有怀疑过。"
 
 #. [message]: speaker=Angarthing
-#, fuzzy
 msgid ""
 "It is Karrag's doing—his will, and his dark magic. I think he has been "
 "casting glamours on all of you ever since he passed over."
 msgstr ""
-"卡拉格的意志，还有他的黑暗魔法。我想自从他去世以后，就一直在你们身上施展迷惑"
-"魔法。"
+"这是卡拉格干的好事——他的意志，还有他的黑暗魔法。我想自从去世以后，他就一直在"
+"你们身上施展迷惑魔法。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -1466,14 +1462,13 @@ msgid ""
 msgstr "卡拉格<b>在哪</b>？我们本来只在他后面不足几秒钟的距离上啊。"
 
 #. [message]: speaker=Angarthing
-#, fuzzy
 msgid ""
 "Most likely he has cloaked himself, thinking to run ahead to gather his "
 "followers. He could be within a spear-cast of us now and we wouldn’t know it "
 "in this gloom."
 msgstr ""
-"更可能的是他把自己伪装了起来，想要跑到前面召集他的追随者。现在他离我们可能不"
-"过就是长矛的投掷距离，但这里这么阴暗，我们根本不能确定这一点。"
+"最可能的是他把自己伪装了起来，想要跑到前面召集他的追随者。现在他离我们可能不"
+"过就是长矛能掷到的距离而已，但这里这么阴暗，我们根本不能确定这一点。"
 
 #. [message]: speaker=Dulcatulos
 msgid "Those are war-drums!"
@@ -1485,158 +1480,161 @@ msgid ""
 "hellspawn the lich will summon. AXES UP!"
 msgstr ""
 "对。卡拉格在召集他的部队作战。只有黑暗之神们才知道这巫妖会从地狱里召唤出什么"
-"狗东西。<b>举起斧头！</b>"
+"狗东西。<b>举起斧来！</b>"
 
 #. [message]: speaker=unit
 msgid "Someone died here."
-msgstr ""
+msgstr "有人死在这儿了。"
 
 #. [message]: speaker=unit
 msgid "Poor guy didn't make it."
-msgstr ""
+msgstr "可怜的家伙没撑过去。"
 
 #. [message]: speaker=unit
 msgid "There's some gold in here!"
-msgstr ""
+msgstr "这儿还有些金币！"
 
 #. [message]: speaker=unit
 msgid "I found some gold!"
-msgstr ""
+msgstr "我找到了一些金币！"
 
 #. [message]: speaker=unit
 msgid "The gates are locked. I will have to break them open by force!"
-msgstr ""
+msgstr "门锁住了。我只能用蛮力打开它们了！"
 
 #. [message]: speaker=unit
 msgid "The gates are locked!"
-msgstr ""
+msgstr "门锁住了！"
 
 #. [message]: speaker=Aiglondur
 msgid "Force them open!"
-msgstr ""
+msgstr "用蛮力打开它们！"
 
 #. [message]: speaker=unit
 msgid "Yes, sir!"
-msgstr ""
+msgstr "是，长官！"
 
 #. [message]: speaker=Angarthing
 msgid "Let us proceed onward."
-msgstr ""
+msgstr "我们继续前进吧。"
 
 #. [message]: speaker=unit
 msgid "There's something behind this door. I shall break it down!"
-msgstr ""
+msgstr "这门后面有东西。我得把它砸破！"
 
 #. [message]: speaker=unit
 msgid "There's something behind this door."
-msgstr ""
+msgstr "这门背后有东西。"
 
 #. [message]: speaker=Aiglondur
 msgid "Break it down!"
-msgstr ""
+msgstr "把它砸破！"
 
 #. [message]: speaker=unit
 msgid "It looks like there is a rune behind this gate!"
-msgstr ""
+msgstr "看起来这门后面有个符文！"
 
 #. [message]: speaker=unit
 msgid "The dirtgrubber-friends have come! Slay them all!"
-msgstr ""
+msgstr "掘土贱民的朋友来了！把他们都砍了！"
 
 #. [message]: speaker=second_unit
 msgid "You could not stop us before and you won't be stopping us now!"
-msgstr ""
+msgstr "你之前阻止不了我们，现在也不行！"
 
 #. [message]: speaker=Dufon
-#, fuzzy
 msgid ""
 "You shall never pass through here! The doors I guard are sealed by the power "
 "of the Hammer itself."
-msgstr "你们过不去的，蠢货。我守卫的门是被瑟萨冈之锤自身的能量封印的。"
+msgstr "你们休想通过！我守卫的门是被瑟萨冈之锤自身的能量封印的。"
 
 #. [message]: speaker=second_unit
 msgid "You won't stop us!"
-msgstr ""
+msgstr "你挡不住我们的！"
 
 #. [message]: speaker=Dufon
 msgid ""
 "Fools! Even should you defeat me, the master's ritual will soon be complete "
 "and you shall all become his slaves!"
 msgstr ""
+"蠢货！就算你们能击败我，主人的仪式也马上就要完成了，你们都会变成他的奴隶！"
 
 #. [message]: speaker=Aragoth
 msgid ""
 "Your path forward ends here! Once the lord's spell is complete, your souls "
 "will soon be chained to his will!"
 msgstr ""
+"你们前进的道路到此为止了！一旦领主的魔咒完成，你们的灵魂都将服从于他的意志！"
 
 #. [message]: speaker=Dranath
 msgid "The dirtgrubbers have come! Stop their advance!"
-msgstr ""
+msgstr "掘土贱民来了！阻止他们前进！"
 
 #. [message]: speaker=unit
 msgid "This must be one of the runic keys!"
-msgstr ""
+msgstr "这肯定是符文钥匙之一！"
 
 #. [message]: speaker=Aiglondur
 msgid "We still need to find the other one!"
-msgstr ""
+msgstr "我们还得要找到另一把！"
 
 #. [objective]: condition=win
 msgid "Find and activate the runic keys (one remaining)"
-msgstr ""
+msgstr "找到并激活符文钥匙（还剩一把）"
 
 #. [note]
 msgid ""
 "You may teleport units between matching runes (the destination must be clear)"
-msgstr ""
+msgstr "你可以在相匹配的符文之间传送单位（目的地必须无人占据）"
 
 #. [message]: speaker=unit
 msgid "We've found a runic key!"
-msgstr ""
+msgstr "我们找到了一把符文钥匙！"
 
 #. [message]: speaker=Angarthing
-#, fuzzy
 msgid "The keys have been found. The door should open..."
-msgstr "我们已经念出了解咒，这些门该开了……"
+msgstr "我们找到了钥匙，这门该开了……"
 
 #. [message]: speaker=Aiglondur
 msgid "The lich surely awaits us within. We must be on guard."
-msgstr ""
+msgstr "那巫妖肯定在里面等着我们。我们得警惕。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "It seems that the guard spoke the truth. These doors will not open to us!"
-msgstr "看起来那守卫说的是真的，我们现有的任何手段都不能打开这些门！"
+msgstr "看起来那守卫说的是真的。这些门不会为我们而开！"
 
 #. [message]: speaker=Angarthing
 msgid ""
 "They are sealed by the ancient runelore of the Hammer. No amount of force "
 "can open these doors - we will need to find the keys to the seals here."
 msgstr ""
+"它们被瑟萨冈之锤古老的符文术封印了。不管用多大的力气都不可能打开这些门——我们"
+"得找到能打开封印的钥匙。"
 
 #. [objective]: condition=win
 msgid "Find and activate the runic keys to the sealed door"
-msgstr ""
+msgstr "找到并激活可以打开门的符文钥匙"
 
 #. [message]: speaker=unit
 msgid "My lord, the dirtgrubbers have entered our sanctuary!"
-msgstr ""
+msgstr "吾主，掘土贱民已经进入了我们的圣域！"
 
 #. [message]: speaker=Karrag
 msgid "Excellent! Their blood will provide plenty of fuel for my ritual!"
-msgstr ""
+msgstr "好极了！他们的血可以为我的仪式提供足够多的燃料！"
 
 #. [message]: speaker=Karrag
 msgid "So, the usurpers have arrived at last."
-msgstr ""
+msgstr "篡位者终于来了啊。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
 "We are not the usurpers but the liberators of Kal Kartha! We are here to "
 "free our kin from your dark sorcery!"
 msgstr ""
+"我们不是篡位者，而是卡尔·卡萨的解放者！我们来到此地，是为了从你的黑暗巫术之下"
+"解放我们的同胞！"
 
 #. [message]: speaker=Karrag
 msgid ""
@@ -1644,6 +1642,8 @@ msgid ""
 "cleansed the lands of the true people from all unworthy scum! Kal Kartha "
 "owes me everything!"
 msgstr ""
+"你这无礼的蠢货！是我带领着卡尔·卡萨获得荣耀，也是我从这属于真正的人的土地之上"
+"清除了所有毫无价值的人渣！全都是卡尔·卡萨欠我的！"
 
 #. [message]: speaker=Angarthing
 msgid ""
@@ -1651,32 +1651,36 @@ msgid ""
 "their minds with your foul magic and now we are here to put an end to your "
 "tyrannical rule!"
 msgstr ""
+"不！你才是那个亏欠了我们弟兄的自由的人！你用你邪恶的魔法诱惑了他们的心灵，而"
+"现在我们将在此结束你残暴的统治！"
 
 #. [message]: speaker=Karrag
 msgid ""
 "Any enemy of my rule is no better than the filthiest of dirtgrubbers. You no "
 "longer belong to the true people. You will become my slaves!"
 msgstr ""
+"威胁我统治的敌人，和最下流的掘土贱民一样糟糕。你们再也不是真正的人了。你们将"
+"成为我的奴隶！"
 
 #. [message]: speaker=Aiglondur
 msgid "Not if we stop you here. AXES UP!"
-msgstr ""
+msgstr "如果我们在此阻止你，就不会了。<b>举起斧来！</b>"
 
 #. [message]: speaker=Karrag
 msgid "No! No! No! Dirtgrubbers must die! The true people must rule all!"
-msgstr "不！不！不！吃土贱民必须死！真正的人必须统治一切！"
+msgstr "不！不！不！掘土贱民必须死！真正的人必须统治一切！"
 
 #. [message]: speaker=Aiglondur
 msgid "The ‘true people’ speak through our axes. Die, foul lich."
-msgstr "‘真正的人’靠我们的斧头说话。死吧，丑恶的巫妖。"
+msgstr "“真正的人”靠我们的斧头说话。死吧，丑恶的巫妖。"
 
 #. [message]: speaker=Karrag
 msgid "Nooo! My power... it wanes..."
-msgstr ""
+msgstr "不！我的力量……衰退了……"
 
 #. [message]: speaker=Dulcatulos
 msgid "And your rule is at an end, Karrag, once the brave lord of Kal Kartha."
-msgstr ""
+msgstr "而你的统治也结束了，卡拉格，卡尔·卡萨曾经的勇毅领主。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -1684,6 +1688,8 @@ msgid ""
 "ago when his lust for power consumed him. It is now time to put the past "
 "behind and right the wrongs that have been wrought here."
 msgstr ""
+"不必哀悼他的离去，杜尔卡图洛斯。你所知的那位卡拉格，在很多年前他被对力量的贪"
+"欲吞噬之时，就已经死了。现在是时候走出过去的阴影，纠正曾经发生在此的错误了。"
 
 #. [message]: speaker=Angarthing
 msgid ""
@@ -1691,57 +1697,62 @@ msgid ""
 "darkness is gone, there is still much to do. Much will have to be done to "
 "amend the desecration of the Hammer and the evil that has been done here."
 msgstr ""
+"艾格隆达说得很对。我们打倒了巫妖。虽然黑暗的核心不复存在，但还有很多事得做。"
+"为了洗刷瑟萨冈之锤受到的亵渎，修补此处邪恶之行造成的破坏，还有很多事必须完"
+"成。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
 "But first, we must bring this news to the rest of Kal Kartha. A new Lord "
 "must be chosen."
-msgstr ""
+msgstr "但首先，我们得把这消息传达给卡尔·卡萨的其他人。必须选出一位新的领主。"
 
 #. [message]: speaker=Angarthing
 msgid "Aye, let us go."
-msgstr ""
+msgstr "是的，我们行动吧。"
 
 #. [message]: speaker=Dufon
-#, fuzzy
 msgid "The master's ritual... must not be... interrupted..."
-msgstr "我们主人的仪式不能中断。阻止他们！"
+msgstr "主人的仪式……不能……中断……"
 
 #. [message]: speaker=Dranath
 msgid ""
 "Imbeciles! Once the master's dark rite is complete, I will return to slay "
 "you myself!"
-msgstr ""
+msgstr "你们这些脏货！一旦主人的黑暗仪式完成，我会回来亲自杀掉你们！"
 
 #. [message]: speaker=Aragoth
 msgid "The heathens... have slain me-"
-msgstr ""
+msgstr "异教徒……杀了我——"
 
 #. [message]: speaker=Aiglondur
 msgid "The air is cold with the stench of death."
-msgstr ""
+msgstr "空气很冷，弥漫着死亡的恶臭。"
 
 #. [message]: speaker=Angarthing
 msgid ""
 "No doubt it is this ritual that the masked ones spoke of. We must hurry and "
 "stop Karrag!"
-msgstr ""
+msgstr "毫无疑问，这就是那些戴面具的家伙所说的仪式。我们必须赶快去阻止卡拉格！"
 
 #. [message]: speaker=Aiglondur
 msgid "I feel as if the life is being sapped out of my body!"
-msgstr ""
+msgstr "我觉得生命力正被吸出我的身体！"
 
 #. [message]: speaker=Angarthing
 msgid ""
 "Karrag's spell grows more powerful with every passing moment. If we do not "
 "defeat him now, we will all turn into his thralls!"
 msgstr ""
+"卡拉格的魔咒随着时间推移越来越强。要是不马上击败他，我们都会变成他的奴隶！"
 
 #. [message]: speaker=Karrag
 msgid ""
 "HAHAHAHA! Yes, yes, YES! The rite of death is complete at last! Die, you "
 "filthy dirtgrubbers, die so that I may raise you again as my mindless slaves!"
 msgstr ""
+"哈哈哈哈！是的，是的，<b>是的！</b>死之仪式终于完成了！死吧，你们这些低劣的掘"
+"土贱民，死吧，这样我才能把你们复苏成我没有心智的奴隶！"
 
 #. [scenario]: id=13_Epilogue
 msgid "Epilogue"
@@ -1929,7 +1940,6 @@ msgid "Dwarvish Masked Lord"
 msgstr "戴着面具的矮人领主"
 
 #. [unit_type]: id=Dwarvish Masked Lord, race=dwarf
-#, fuzzy
 msgid ""
 "Feared in dwarven legend is the Dwarf Lord who masks his face, using the "
 "formidable fighting powers of his kind without accounting to his peers and "
@@ -1996,7 +2006,7 @@ msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
-"此单位的存在使他周围的友方单位在战斗中造成更多伤害，虽然这只对与其同等级或比"
+" 此单位的存在使他周围的友方单位在战斗中造成更多伤害，虽然这只对与其同等级或比"
 "其低等级的单位有效。"
 
 #. [leadership]: id=inspire

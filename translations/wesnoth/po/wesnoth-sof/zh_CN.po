@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2019-02-07 17:55+0800\n"
+"PO-Revision-Date: 2019-02-08 14:55+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2278,31 +2278,31 @@ msgstr "拉艾希尔"
 
 #. [message]: speaker=second_unit
 msgid "Great, now there is no need to worry about those elves anymore!"
-msgstr ""
+msgstr "棒极了，我们再也不用担心那些精灵了！"
 
 #. [message]: role=newcomer
 msgid ""
 "Did you really think that you could escape us? Don’t underestimate us, "
 "inferior humans!"
-msgstr ""
+msgstr "你真以为能从我们手里逃出去吗？别小看我们，低等的人类！"
 
 #. [message]: id=Alanin
 msgid ""
 "Even though my chances have grown worse, I have to fulfil my duty. I do not "
 "owe them any less!"
-msgstr ""
+msgstr "虽然我成功的机会越来越小，但我必须旅行我的职责。这是我欠他们的！"
 
 #. [message]: id=Alanin
 msgid "Oh no, more of them? And there I thought I could catch my breath…"
-msgstr ""
+msgstr "哦不，他们来了更多人？我还以为我能喘口气了……"
 
 #. [message]: role=fighter
 msgid "Don’t worry sir, we’ll make it through this!"
-msgstr ""
+msgstr "别担心长官，我们能撑过去的！"
 
 #. [message]: id=Alanin
 msgid "Is there no end to their numbers?"
-msgstr ""
+msgstr "他们是无穷无尽的吗？"
 
 #. [message]: speaker=Alanin
 msgid ""
@@ -2321,7 +2321,7 @@ msgstr "我们当然会帮助任何需要我们帮助的韦诺勇士！"
 #. [message]: race=elf
 msgid ""
 "You slow humans took too long, our detachment has already caught up with you!"
-msgstr ""
+msgstr "你们这些行动缓慢的人类浪费太多时间了，我们的分队已经追上你们了！"
 
 #. [unit]: type=Lieutenant, id=Hadlin   # wmllint: ignore
 msgid "Hadlin"
@@ -2333,25 +2333,23 @@ msgstr "什么人？"
 
 #. [message]: speaker=Alanin
 #. dragoon = his unit type
-#, fuzzy
 msgid ""
 "I’m a dragoon, with Haldric II’s personal bodyguard. I was sent on a mission "
 "in the Northlands, and now elvish horsemen are chasing me. I barely evaded "
 "them."
 msgstr ""
-"我是龙骑兵，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵正在抓"
-"我。我好不容易才逃脱。"
+"我是一名龙骑兵，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵正"
+"在追击我。我好不容易才逃脱。"
 
 #. [message]: speaker=Alanin
 #. cavalier = his unit type
-#, fuzzy
 msgid ""
 "I’m a cavalier, with Haldric II’s personal bodyguard. I was sent on a "
 "mission in the Northlands, and now elvish horsemen are chasing me. I barely "
 "evaded them."
 msgstr ""
-"我是龙骑兵，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵正在抓"
-"我。我好不容易才逃脱。"
+"我是一名近卫骑兵，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵"
+"正在追击我。我好不容易才逃脱。"
 
 #. [message]: speaker=Hadlin  # wmllint: ignore
 msgid ""
@@ -2517,13 +2515,12 @@ msgid "That pretty metal rock is mine! Get away from it!"
 msgstr "那漂亮的金属石头是我的！滚开！"
 
 #. [message]: speaker=Thursagan
-#, fuzzy
 msgid ""
 "This forge will work perfectly. Give me a day or two here, and I can reforge "
 "the Sceptre of Fire to fulfill its purpose."
 msgstr ""
-"这个熔炉会工作得非常好的。给我在几天时间，我就可以重铸圣火权杖来达到它原本的"
-"目标。"
+"这熔炉会工作得非常好的。给我一两天时间，我就可以重铸圣火权杖，来实现它原本的"
+"目的。"
 
 #. [message]: speaker=narrator
 msgid "You fool, you let the enemy get at me when I was unarmed!"
@@ -2557,19 +2554,18 @@ msgstr "兽人"
 
 #. [part]
 #. The text in 1.14.4 mentioned Knalga. Geographically, these caves are in Knalga, but the text was confusing if the reader thought of the Knalgan Alliance.
-#, fuzzy
 msgid ""
 "There was no exit for the dwarves. They had reached the realms of the orcs, "
 "with the elves hot on their trail. There was truly no exit from these caves."
 msgstr ""
-"纳尔迦的洞窟没有出口。他们已踏上了兽人的领地，精灵紧跟在他们后面。这里的洞窟"
-"也没有出口。"
+"对矮人们而言这里没有出口。他们已踏上了兽人的领地，精灵紧跟在他们后面。这里的"
+"洞窟确实没有出口。"
 
 #. [part]
 msgid ""
 "So the dwarves had no way out. They could not leave the caverns that they "
 "had entered."
-msgstr "所以矮人们没办法出去。他们无法离开已经进入的山洞。"
+msgstr "所以矮人们没办法出去。他们没办法离开已经进入的洞窟。"
 
 #. [objective]: condition=win
 msgid "Explore as much of the cave as possible"
@@ -2767,11 +2763,10 @@ msgid "Halt! What is your business in Weldyn, capital of Wesnoth?"
 msgstr "站住！你来韦诺首都维尔帝有何贵干？"
 
 #. [message]: speaker=Alanin
-#, fuzzy
 msgid ""
 "Stand aside. I am Alanin, of Haldric’s royal guard, and I bring news from "
 "the Northlands."
-msgstr "让开。我是阿拉宁，哈德里克的皇家侍卫，我带来了北陆的消息。"
+msgstr "让开。我是阿拉宁，哈德里克的皇家侍卫，我从北陆带来了消息。"
 
 #. [message]: speaker=Gatekeeper
 msgid "Very well. You may pass."
@@ -2795,7 +2790,6 @@ msgid "Enter, Alanin, and give the king your message."
 msgstr "请进，阿拉宁，向吾王汇报你的消息。"
 
 #. [message]: speaker=Alanin
-#, fuzzy
 msgid ""
 "My King, fifteen years ago you sent me on a mission into the Northlands. I "
 "have returned. What do you wish to know of my mission?"
@@ -2809,7 +2803,7 @@ msgstr "好，权杖完工了？你带来了吗？交给我！"
 msgid ""
 "I believe it was completed, but, I do not have it. It is buried deep in the "
 "mountains of the Northlands."
-msgstr "我相信完工了，但，我没有带来。它深埋在北陆的群山之中。"
+msgstr "我相信它完工了，但，它不在我手上。它深埋在北陆的群山之中。"
 
 #. [message]: speaker=Haldric II
 msgid ""

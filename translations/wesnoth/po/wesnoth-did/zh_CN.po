@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2019-02-07 17:51+0800\n"
+"PO-Revision-Date: 2019-02-08 13:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1844,7 +1844,7 @@ msgstr ""
 
 #. [part]
 msgid "Mal Keshar continues to study the book, and re-reads the final entry."
-msgstr "玛尔·凯沙继续研读这本书，并重读了最后一段。"
+msgstr "玛尔·凯沙继续研读这本书，并重读了最后一节。"
 
 #. [part]
 #. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
@@ -1879,6 +1879,8 @@ msgid ""
 "Darken Volk as a pawn, both of them were being using as pawns by the author "
 "of the book itself."
 msgstr ""
+"书上这最后一节折磨着玛尔·凯沙。他被达肯·沃克当卒子使唤，而他们两个都被书的作"
+"者当卒子使唤。"
 
 #. [part]
 msgid ""
@@ -1889,6 +1891,10 @@ msgid ""
 "student eventually follow in his footsteps? Could the author’s plan work? "
 "Might liches eventually be accepted in society, if he simply waited?"
 msgstr ""
+"书的作者故意把书留下，希望一个愚蠢的英雄捡到，而保护着书的魔咒又足以抵抗塔斯"
+"法师的力量。玛尔·凯沙已经为这本书制作了好几本副本，也不再需要原本了；如果他让"
+"另一个愚蠢的英雄捡到书，那么会有另一个学生最终跟随他的脚步吗？作者计划行得通"
+"吗？如果他只是等下去，巫妖最终会被社会接受吗？"
 
 #. [objective]: condition=win
 msgid "Defeat the foolish hero"
@@ -1904,7 +1910,7 @@ msgstr "击败再一名愚蠢的英雄"
 
 #. [objective]: condition=win
 msgid "Allow an enemy unit to take the book"
-msgstr ""
+msgstr "允许一名敌方单位拿走书"
 
 #. [note]: description=<b>
 msgid "Endless Night $timesForever"
@@ -1914,15 +1920,15 @@ msgstr "无尽长夜$timesForever"
 #. more text copied from Secrets of the Ancients
 msgid ""
 "To turn a necromancer into a lich, right-click on it while it is in a castle."
-msgstr ""
+msgstr "当死灵法师在城堡里时，右击以将他转化为巫妖。"
 
 #. [set_menu_item]: id=lichify
 msgid "Make Into a Lich"
-msgstr ""
+msgstr "转化为巫妖"
 
 #. [message]: speaker=narrator
 msgid "You can only do this in a castle."
-msgstr ""
+msgstr "只有在城堡里才能这样做。"
 
 #. [unit]: type=Royal Guard, id=Foolish Hero
 #. [unit]: type=Assassin, id=Foolish Hero
@@ -2058,95 +2064,99 @@ msgstr "这会不断继续吗？"
 
 #. [message]: speaker=unit
 msgid "That’s an evil grimoire!"
-msgstr ""
+msgstr "是一本邪恶的魔典！"
 
 #. [message]: speaker=Foolish Hero
 msgid "Burn it."
-msgstr ""
+msgstr "烧了它。"
 
 #. [message]: speaker=Mal Keshar
 msgid "<small>(faking pain)</small> Aaargh!"
-msgstr ""
+msgstr "<small>（假装痛苦）</small>啊啊啊啊！"
 
 #. [message]: role=unit
 msgid "It’s not catching fire, sir."
-msgstr ""
+msgstr "它没着火，长官。"
 
 #. [message]: speaker=Foolish Hero
 msgid ""
 "But it seems to be hurting the lich. Bring it with us, retreat and let the "
 "mages destroy this."
-msgstr ""
+msgstr "但看起来它能伤到那巫妖。带走它，我们该撤了，让法师们销毁它吧。"
 
 #. [message]: role=unit
 msgid "It’s paper, but it won’t burn."
-msgstr ""
+msgstr "它是纸做的，但却烧不起来。"
 
 #. [message]: speaker=Foolish Hero
 msgid ""
 "But it seems to be hurting the lich. Grab it, retreat and throw it on a "
 "bigger fire. Once we’ve burnt it, maybe the lich will be weaker."
 msgstr ""
+"但看起来它能伤到那巫妖。把它捡起来，我们得撤回去，把它扔进更大的火里。一旦我"
+"们把它烧了，也许那巫妖就会变弱。"
 
 #. [message]: speaker=Foolish Hero
 #. "faerie fire" as in the elvish sylph's attack
 msgid ""
 "Bring it with us, and let’s retreat. Once it’s burned with faerie fire, "
 "maybe the lich will be weakened."
-msgstr ""
+msgstr "带走它，我们撤退吧。一旦我们用仙境之火烧掉它，也许那巫妖就会变弱。"
 
 #. [message]: speaker=unit
 msgid "That’s an evil grimoire, bound in iron."
-msgstr ""
+msgstr "是一本用铁装订的邪恶的魔典。"
 
 #. [message]: speaker=Foolish Hero
 msgid "Destroy it."
-msgstr ""
+msgstr "摧毁它。"
 
 #. [message]: speaker=unit
 #. the speaker is a dwarf
 msgid "My hammer can’t dent it and my axe can’t cut the paper."
-msgstr ""
+msgstr "我的铁锤没法砸凹它，我的斧头也切不开纸头。"
 
 #. [message]: speaker=Foolish Hero
 #. the speaker is a dwarf
 msgid ""
 "But it seems to be hurting the lich. Bring it with us, retreat and let the "
 "forge destroy it."
-msgstr ""
+msgstr "但看起来它能伤到那巫妖。我们带走它，撤回去，用熔炉摧毁它。"
 
 #. [message]: speaker=unit
 #. the speaker is an orc
 msgid "The skull on that book looks good."
-msgstr ""
+msgstr "书上的骷髅头看起来不错。"
 
 #. [message]: speaker=Foolish Hero
 msgid "Idiot."
-msgstr ""
+msgstr "蠢货。"
 
 #. [message]: speaker=unit
 msgid ""
 "Uuuuuh, I can’t pull the skull off the book, but that lich screams when I "
 "try."
-msgstr ""
+msgstr "啊啊啊，我没法把那骷髅头从书上拔出来，但我拔的时候那巫妖就鬼哭狼嚎的。"
 
 #. [message]: speaker=Mal Keshar
 msgid "Defend me, my minions! Get the book! Aaargh!"
-msgstr ""
+msgstr "保护我，我的仆从们！把书抢回来！啊啊啊啊！"
 
 #. [message]: speaker=Foolish Hero
 msgid "Bring it with you and retreat, let’s take our time smashing that book."
-msgstr ""
+msgstr "带上它，我们撤。我们有的是时间来砸烂这书。"
 
 #. [story]
 msgid "Epilogue"
-msgstr ""
+msgstr "尾声"
 
 #. [part]
 msgid ""
 "The foolish hero was tricked, and left believing both that the book could be "
 "destroyed, and that the lich might be weakened by doing so."
 msgstr ""
+"愚蠢的英雄中计了，他离开时误以为那本书是可以摧毁的，而且摧毁它可以削弱那巫"
+"妖。"
 
 #. [part]
 msgid ""
@@ -2155,6 +2165,9 @@ msgid ""
 "scream to echo from the cave mouth. Finally the cave entrance collapsed, and "
 "everything was still."
 msgstr ""
+"在洞穴外的安全之地，那愚蠢的英雄试图摧毁那本书。不管他做什么，书上都没有留下"
+"一点凹痕或是燃迹，但每次尝试都让洞中传来哀嚎声。终于，洞穴入口坍塌了，而万物"
+"归于寂静。"
 
 #. [part]
 msgid ""
@@ -2163,6 +2176,9 @@ msgid ""
 "the patrols, and memories of the lich fade to become just background in the "
 "tale of the brave hero’s victory."
 msgstr ""
+"很多年过去了。每年夏天，当山道清朗之时，人类、精灵和矮人四处巡逻，击退兽人劫"
+"掠者。亡灵再也不找巡逻队的麻烦了，而有关那巫妖的记忆，也褪色成了勇敢英雄的胜"
+"利传说的背景。"
 
 #. [part]
 msgid ""
@@ -2170,6 +2186,8 @@ msgid ""
 "orcs at night, it sometimes seems that more blades than just the patrol’s "
 "own are fighting the orcs."
 msgstr ""
+"传言说，幸运眷顾着巡逻队。在夜间遭到兽人袭击时，有时似乎有巡逻队自身所有之外"
+"的兵刃，与兽人作战。"
 
 #. [message]: speaker=Foolish Hero
 msgid "His evil deeds have come to an end, and he has meet his doom."
@@ -2248,9 +2266,8 @@ msgstr ""
 "被韦诺视为违法之后，他逃到这些洞穴里，躲藏了起来。"
 
 #. [message]: role=second
-#, fuzzy
 msgid "I guess we’ll never know for sure."
-msgstr "我猜我们永远都无法确定了。"
+msgstr "我想我们永远都无法确定了。"
 
 #. [message]: speaker=Foolish Hero
 msgid "Finally, my father and my people are avenged!"
@@ -2362,4 +2379,4 @@ msgstr "天刚破晓，城市卫队便强行冲入了庄园并俘获了两名死
 
 #. [unstore_unit]
 msgid "Lich"
-msgstr ""
+msgstr "巫妖"
