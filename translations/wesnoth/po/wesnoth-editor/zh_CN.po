@@ -348,7 +348,7 @@ msgstr "空文件"
 msgid ""
 "The map file looks like a scenario, but the map_data value does not point to "
 "an existing file"
-msgstr "此地图文件看起来像是一个场景，但是map_data的值指向了一个不存在的文件"
+msgstr "此地图文件看起来像是一幕场景，但是map_data的值指向了一个不存在的文件"
 
 msgid "Could not save the scenario: $msg"
 msgstr "无法保存场景：$msg"

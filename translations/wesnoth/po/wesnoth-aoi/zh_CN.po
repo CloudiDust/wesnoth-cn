@@ -496,7 +496,7 @@ msgid ""
 "There are no villages in this scenario — you must use healers instead. Use "
 "hit-and-run tactics to weaken enemy units who cannot heal themselves."
 msgstr ""
-"这个场景里没有村庄——你必须用治疗师代替。用打了就跑战术来削弱无法治疗自己的敌"
+"这幕场景里没有村庄——你必须用治疗师代替。用打了就跑战术来削弱无法治疗自己的敌"
 "方单位。"
 
 #. [message]: role=advisor

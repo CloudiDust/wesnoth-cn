@@ -4608,7 +4608,7 @@ msgstr "若·索瑟恩死亡"
 
 #. [note]
 msgid "Even if your rescue fails, you will still advance to the next scenario"
-msgstr "即使你的营救失败了，你也仍然会进入下个场景"
+msgstr "即使你的营救失败了，你也仍然会进入下幕场景"
 
 #. [message]: speaker=narrator
 msgid ""

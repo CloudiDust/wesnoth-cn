@@ -3154,7 +3154,7 @@ msgstr "可选目标："
 
 #. [note]: description=<b>
 msgid "This is the last scenario."
-msgstr "这是最后一个场景。"
+msgstr "这是最后一幕场景。"
 
 #. [note]: description=<b>
 msgid "No turn limit"
@@ -4207,7 +4207,7 @@ msgid ""
 "the <b>Help</b> screen carefully. Details become important as scenarios get "
 "harder!"
 msgstr ""
-"玩过几个场景后，请认真阅读<b>帮助</b>屏幕中的<b>游戏玩法</b>部分。随着场景变"
+"玩过几幕场景后，请认真阅读<b>帮助</b>屏幕中的<b>游戏玩法</b>部分。随着场景变"
 "得越来越难，细节也就变得越来越重要了！"
 
 #. [tip]
@@ -4216,7 +4216,7 @@ msgid ""
 "level units that are about to level up than with those same units at a "
 "higher level."
 msgstr ""
-"通常来说，在战役中最好把即将升级的低等级单位留到下一个场景开始时使用，而不是"
+"通常来说，在战役中最好把即将升级的低等级单位留到下一幕场景开始时使用，而不是"
 "在当前场景中先升级后，再到下一场景开始时使用。"
 
 #. [tip]
@@ -4309,7 +4309,7 @@ msgid ""
 "the <b>Actions</b> menu. By recalling the same units over and over, you can "
 "build up a powerful and experienced army."
 msgstr ""
-"你可以通过<b>行动</b>菜单中的<b>召回</b>来召回上一个场景中的单位。通过不断召"
+"你可以通过<b>行动</b>菜单中的<b>召回</b>来召回上一幕场景中的单位。通过不断召"
 "回相同的单位，你可以建立一支强大而经验丰富的军队。"
 
 #. [tip]
@@ -5606,16 +5606,16 @@ msgid_plural ""
 "You will start the next scenario with $gold on top of the defined minimum "
 "starting gold."
 msgstr[0] ""
-"除了指定的最小起始金币数以外，你将以$gold|枚额外金币来开始下一个场景。"
+"除了指定的最小起始金币数以外，你将以$gold|枚额外金币来开始下一幕场景。"
 msgstr[1] ""
-"除了指定的最小起始金币数以外，你将以$gold|枚额外金币来开始下一个场景。"
+"除了指定的最小起始金币数以外，你将以$gold|枚额外金币来开始下一幕场景。"
 
 msgid ""
 "You will start the next scenario with the defined minimum starting gold."
 msgid_plural ""
 "You will start the next scenario with the defined minimum starting gold."
-msgstr[0] "你将以指定的最小起始金币数来开始下一个场景。"
-msgstr[1] "你将以指定的最小起始金币数来开始下一个场景。"
+msgstr[0] "你将以指定的最小起始金币数来开始下一幕场景。"
+msgstr[1] "你将以指定的最小起始金币数来开始下一幕场景。"
 
 msgid ""
 "You will start the next scenario with $gold or its defined minimum starting "
@@ -5624,9 +5624,9 @@ msgid_plural ""
 "You will start the next scenario with $gold or its defined minimum starting "
 "gold, whichever is higher."
 msgstr[0] ""
-"你将以$gold|枚金币或者场景指定的最小起始金币数中较高者来开始下一个场景。"
+"你将以$gold|枚金币或者场景指定的最小起始金币数中较高者来开始下一幕场景。"
 msgstr[1] ""
-"你将以$gold|枚金币或者场景指定的最小起始金币数中较高者来开始下一个场景。"
+"你将以$gold|枚金币或者场景指定的最小起始金币数中较高者来开始下一幕场景。"
 
 msgid "Scenario Report"
 msgstr "场景报告"
@@ -6083,7 +6083,7 @@ msgid ""
 "(You must have veteran survivors from a previous scenario)"
 msgstr ""
 "没有可供召回的部队\n"
-"（你在上一个场景中必须有生还的老兵）"
+"（你在上一幕场景中必须有生还的老兵）"
 
 msgid "You currently can't recall at the highlighted location"
 msgstr "你目前不能在高亮位置进行召回"
@@ -6191,10 +6191,10 @@ msgid "<id>"
 msgstr "<ID>"
 
 msgid "Advance to the next scenario, or scenario identified by 'id'"
-msgstr "进入下一个场景，或ID为“ID”的场景"
+msgstr "进入下一幕场景，或ID为“ID”的场景"
 
 msgid "Choose next scenario"
-msgstr "选择下一个场景"
+msgstr "选择下一幕场景"
 
 msgid ""
 "Change turn number (and time of day), or increase by one if no number is "
@@ -6246,13 +6246,13 @@ msgid "<var>=<value>"
 msgstr "<变量>=<值>"
 
 msgid "Set a scenario variable."
-msgstr "设置一个场景变量。"
+msgstr "设置一幕场景变量。"
 
 msgid "<var>"
 msgstr "<变量>"
 
 msgid "Show a scenario variable."
-msgstr "显示一个场景变量。"
+msgstr "显示一幕场景变量。"
 
 msgid "Modify a unit variable. (Only top level keys are supported.)"
 msgstr "修改一个单位变量。（只支持顶层的键值。）"

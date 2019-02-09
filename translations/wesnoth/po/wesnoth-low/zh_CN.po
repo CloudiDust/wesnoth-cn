@@ -1429,7 +1429,7 @@ msgstr "也许这些金币能加大我们在评议会上的话语权。"
 msgid ""
 " has returned any remaining gold into the elvish treasury. You will start "
 "the next scenario with a preset amount."
-msgstr " 已经把剩余的全部金币放进了精灵金库。你会以预设的数量开始下一个场景。"
+msgstr " 已经把剩余的全部金币放进了精灵金库。你会以预设的数量开始下一幕场景。"
 
 #. [message]: speaker=narrator
 #. [part]
@@ -3637,7 +3637,7 @@ msgstr "卡雷兹存活六天"
 #. [note]
 msgid ""
 "If you lose you still have a chance to defeat Kalenz in the next scenario."
-msgstr "如果失败，你还可以在下一个场景中获得一次击败卡雷兹的机会。"
+msgstr "如果失败，你还可以在下一幕场景中获得一次击败卡雷兹的机会。"
 
 #. [message]: id=Kalenz
 msgid ""

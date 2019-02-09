@@ -158,7 +158,7 @@ msgstr "B<--campaign-scenario>I<\\ id_scenario>"
 msgid ""
 "The id of the scenario from the specified campaign. The default is the first "
 "scenario."
-msgstr "指定战役中的场景ID。默认为第一个场景。"
+msgstr "指定战役中的场景ID。默认为第一幕场景。"
 
 #. type: TP
 #, no-wrap
