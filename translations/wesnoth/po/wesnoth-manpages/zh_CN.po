@@ -353,8 +353,8 @@ msgid ""
 "B<deprecation> defaults to B<none> unless combined with the B<-d> option."
 msgstr ""
 "设置日志域的严重度级别。B<all>可以用来匹配任意日志域。可选的级别有："
-"B<error>，\\ B<warning>，\\ B<info>，\\ B<debug>, \\ B<none>。对绝大多数日志"
-"域而言，默认日志级别是B<warning>，但B<deprecation>的默认级别是B<none>，除非和"
+"B<error>，\\ B<warning>，\\ B<info>，\\ B<debug>, \\ B<none>。对大多数日志域"
+"而言，默认日志级别是B<warning>，但B<deprecation>的默认级别是B<none>，除非和"
 "B<-d>选项并用。"
 
 #. type: TP

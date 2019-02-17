@@ -8,7 +8,7 @@
 # MrKing <yideey@gmail.com>, 2012.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
@@ -1582,7 +1582,7 @@ msgstr "追踪"
 msgid ""
 "Leaving most of the dwarves behind, Tallin and his party set off in pursuit "
 "of Malifor."
-msgstr "塔林和他的队伍把绝大多数矮人落下，出发前去追击玛利弗。"
+msgstr "塔林和他的队伍把大多数矮人落下，出发前去追击玛利弗。"
 
 #. [side]: type=Death Knight, id=Hettel
 msgid "Hettel"

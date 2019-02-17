@@ -11748,8 +11748,8 @@ msgid ""
 "These elusive Pathfinders, however, are masters of weakening an enemy while "
 "at the same time provoking them to give chase — often into a trap."
 msgstr ""
-"在绝大多数情况下，后背向敌，迅速撤退是很危险的战术。然而，这些神出鬼没的探路"
-"者却是能够削弱敌军却还能引诱他们追击的大师——经常是将他们引入陷阱之中。"
+"在大多数情况下，后背向敌，迅速撤退是很危险的战术。然而，这些神出鬼没的探路者"
+"却是能够削弱敌军却还能引诱他们追击的大师——经常是将他们引入陷阱之中。"
 
 #. [unit_type]: id=Tauroch Protector, race=elf
 msgid "Tauroch Protector"

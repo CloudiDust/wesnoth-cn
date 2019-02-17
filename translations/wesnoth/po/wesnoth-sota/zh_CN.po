@@ -2006,9 +2006,8 @@ msgid ""
 "that drives me. However, the woods themselves are disturbed, and they will "
 "cast you out on their own. I can feel them awaken."
 msgstr ""
-"攻击？不，我不能攻击你。我绝大多数族人都不会来这儿；我只因职责驱使而来到此"
-"地。不过，丛林自身已经被打扰了，他们将会自己把你赶出去。我能感到他们已经苏醒"
-"了。"
+"攻击？不，我不能攻击你。我大多数族人都不会来这儿；我只因职责驱使而来到此地。"
+"不过，丛林自身已经被打扰了，他们将会自己把你赶出去。我能感到他们已经苏醒了。"
 
 #. [unit]: type=Ancient Wose, id=Dolmathengalin
 msgid "Dolmathengalin"

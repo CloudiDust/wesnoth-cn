@@ -4442,9 +4442,9 @@ msgid ""
 "remaining. You will usually earn more gold this way than through capturing "
 "villages and waiting for the turns to run out."
 msgstr ""
-"在绝大多数战役中，提前完成任务目标会获得金币奖励，其数目取决于地图上村庄的数"
-"量和剩余的回合数。和占领剩下的村庄并等待回合数耗尽相比，提前完成目标通常能让"
-"你获得更多金币。"
+"在大多数战役中，提前完成任务目标会获得金币奖励，其数目取决于地图上村庄的数量"
+"和剩余的回合数。和占领剩下的村庄并等待回合数耗尽相比，提前完成目标通常能让你"
+"获得更多金币。"
 
 #. [tip]
 msgid ""
