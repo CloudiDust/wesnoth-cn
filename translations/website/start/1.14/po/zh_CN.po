@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth 1.14\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2018-05-07 20:22+0800\n"
+"PO-Revision-Date: 2019-02-19 18:01+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. type: Attribute 'lang' of: <html>
 #: template.html:3
@@ -42,7 +42,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h1>
 #: template.html:29
 msgid "<span id=\"branding-sub\">New Horizons Update</span>"
-msgstr "<span id=\"branding-sub\">带来全新视野的更新</span>"
+msgstr "<span id=\"branding-sub\">新视野更新</span>"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: template.html:32
@@ -326,7 +326,7 @@ msgstr "<a href=\"images/start-5.jpg\">"
 #. type: Attribute 'alt' of: <html><body><div><div><div><a><img>
 #: template.html:100
 msgid "Multiplayer game setup screenshot"
-msgstr ""
+msgstr "多人游戏设置截屏"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:102
@@ -338,6 +338,10 @@ msgid ""
 "game creation for those using map authors’ recommended settings, and a more "
 "comprehensive display of faction attributes."
 msgstr ""
+"<cite>韦诺</cite>的多人游戏大厅已从头全新设计，为正在熟悉游戏的新玩家提供了更"
+"简单的体验。新功能包括可点击的聊天日志链接，用于私人消息交换的单独选项卡，更"
+"简单的游戏和玩家过滤，为使用地图作者推荐设置的玩家提供的更快的游戏创建，以及"
+"更全面的派系属性显示。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:104
@@ -347,6 +351,9 @@ msgid ""
 "<cite>Wesnoth</cite> now ships with a total of 55 carefully-balanced maps "
 "with many different environments and team set-ups for players to choose from."
 msgstr ""
+"在新内容方面，诸位玩家会很乐意知晓，游戏的地图花名册中新增了<b>九</b>张社区贡"
+"献的地图！<cite>韦诺</cite>现在总共提供了55张经过精心平衡的地图，其中有许多不"
+"同的环境和团队设置供玩家选择。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:106
@@ -357,6 +364,10 @@ msgid ""
 "multitude of stats changes to various Dunefolk units aimed to better balance "
 "the faction in multiplayer matchups."
 msgstr ""
+"版本1.12中引入的哈里发多人游戏派别已更名为沙丘游民。我们正在进行扩充沙丘游民"
+"的相关设定并更好地将他们融入伊迪亚世界的努力，而这次更名是这一努力的一部分。"
+"伴随这次更名而来的，是各个沙丘游民单位的大量属性数据变化。其目的是更好地平衡"
+"多人对决中的各个派系。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:108
@@ -364,6 +375,8 @@ msgid ""
 "It is now possible to forfeit a multiplayer game, signaling that you no "
 "longer intend to keep playing without simply suddenly quitting."
 msgstr ""
+"现在在多人游戏中可以放弃了，这允许你在不突然退出的情况下，表明不再继续游玩的"
+"意愿。"
 
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:110
@@ -383,6 +396,9 @@ msgid ""
 "different color perception to identify each unit’s status. An option "
 "(disabled by default) is also provided to display a color orb on enemy units."
 msgstr ""
+"现在可以自定义地图上单位旁边显示的移动/攻击球的颜色，以便具有不同的色彩感知能"
+"力的玩家能够更轻松地识别每个单位的状态。游戏中还提供了一个选项（默认情况下禁"
+"用），用于在敌方单位之上显示颜色球。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:118
@@ -391,6 +407,8 @@ msgid ""
 "pauses the music by default. If you’d prefer it to keep playing, there is an "
 "option for that."
 msgstr ""
+"现在，当在<cite>韦诺</cite> 运行中切换到另一个应用程序时，默认情况下将暂停音"
+"乐。如果您更喜欢继续播放的话，那么有一个选项可用。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:120
@@ -403,6 +421,10 @@ msgid ""
 "libraries the game is built against, and a list of optional features enabled "
 "by the packager."
 msgstr ""
+"为了让玩家在报告游戏问题时可以更容易地在报告中包含包含其系统的详细信息，现在"
+"玩家可以通过主菜单的左下角来访问全新的版本信息对话框。它提供的信息包括操作系"
+"统版本、<cite>韦诺</cite> 使用的各种文件的路径、游戏在构建时所针对的各个代码"
+"库的版本号，以及打包者所启用的可选功能的列表。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:122
@@ -416,6 +438,11 @@ msgid ""
 "may still be achieved through the use of certain command-line options for "
 "those who prefer to install <cite>Wesnoth</cite> on an external drive."
 msgstr ""
+"最后，对于Windows玩家而言，游戏的配置、存档和附加组件现在始终存储在其 \"文档"
+"\" 文件夹中。进行此更改是为了避免遗留的“写入系统的Program Files文件夹”这一方"
+"法所固有的各种问题。较新的Windows版本既不推荐也不能很好地支持这种方法。请注"
+"意，虽然“在游戏的安装路径中存储上述文件”的旧选项已经消失，但那些喜欢在外部驱"
+"动器上安装<cite>韦诺</cite>的用户, 仍可通过使用某些命令行选项来实现此行为。"
 
 #. type: Content of: <html><body><div><div><h3>
 #: template.html:124
@@ -442,6 +469,14 @@ msgid ""
 "change does not retroactively affect any files previously published under "
 "the GNU GPL unless the copyright holder chooses to relicense said resources."
 msgstr ""
+"此版本系列带来了关于<cite>韦诺</cite>内容许可证的早该进行的重大更改。虽然在以"
+"前，所有代码以及视效和音效资产都需要使用GNU通用公共许可证版本2或更高版本，但"
+"我们现在允许附加组件创建者将<b>任何一种</b><a href=\"https://creativecommons."
+"org/licenses/\">知识共享许可证</a>用于他们的附加组件中的图像、音效及音乐之"
+"上。此外，随游戏一起发布的资产可能会使用<a href=\"https://creativecommons."
+"org/licenses/by-sa/4.0/\">CC BY-SA许可证</a>。在这两种情况下，GNU通用公共许可"
+"证都继续得到官方支持，可以继续使用。此更改不会追溯到以前在GNU GPL下发布的任何"
+"文件，除非版权持有人选择对上述资源进行重新许可。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:132
@@ -461,6 +496,15 @@ msgid ""
 "access to a built-in Lua console for debugging and testing code directly "
 "within the game."
 msgstr ""
+"而在更技术性的方面，<cite>韦诺</cite>的WML、Lua和公式语言引擎在这个发布周期中"
+"有了大量改进和变化。内部Lua解释器已升级到5.3.4 版本，而在<a href=\"https://"
+"wiki.wesnoth.org/LuaWML\">Lua API</a>中也添加了许多新功能。这包括使用Lua来编"
+"写<a href=\"https://wiki.wesnoth.org/MapGeneratorWML#The_lua_generator\">地图"
+"生成器</a>的功能，调用游戏UI中各处使用的某些常备对话框 （弹出菜单、确认提示、"
+"信息弹出框、<code>[message]</code>UI以及故事屏UI）的功能，以及在<a href="
+"\"https://wiki.wesnoth.org/StandardLocationFilter\">标准位置筛选器</a>的"
+"<code>lua_function=</code>属性中使用具名Lua函数的功能。游戏状态检查器现在还提"
+"供了对内置Lua控制台的访问，可用于直接在游戏中调试和测试代码。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:134
@@ -476,6 +520,13 @@ msgid ""
 "a> also include support for formulas to alter the rendering of images within "
 "the game."
 msgstr ""
+"通过添加许多新的内置函数和语法特性，Wesnoth公式语言中的内联公式得到了增强。对"
+"<code>formula=</code>筛选属性的支持已经扩展进了<a href=\"https://wiki."
+"wesnoth.org/StandardLocationFilter\">标准位置筛选器</a>和<a href=\"https://"
+"wiki.wesnoth.org/StandardSideFilter\">标准阵营筛选器</a><code>，因此内联公式"
+"现在可以用于在WML中构建更复杂的逻辑。新的<code>~ADJUST_ALPHA()</code>和"
+"<code>~CHAN()</code> <a href=\"https://wiki.wesnoth.org/ImagePathFunctionWML"
+"\">图像路径函数</a>也包括了对公式的支持，可用于在游戏中改变图片的渲染方式。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:136
@@ -487,6 +538,10 @@ msgid ""
 "in situations where more than one definition of a macro would otherwise be "
 "needed to cover varied use cases."
 msgstr ""
+"WML预处理器现在支持在宏定义和替换中使用具有默认值的可选参数，这是通过新的<a "
+"href=\"https://wiki.wesnoth.org/PreprocessorRef#.23arg_and_.23endarg"
+"\"><code>#arg/#endarg</code>指令</a>实现的。这应该能使得附加组件作者能够在原"
+"本需要多个宏定义来涵盖各种用例的情形中减少代码膨胀。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:138
@@ -497,6 +552,10 @@ msgid ""
 "underlying syntax more lightweight compared to the old <code>{FOREACH}</"
 "code> macro and hand-written alternatives."
 msgstr ""
+"WML的循环结构现在更加自然而灵活，其中添加了<a href=\"https://wiki.wesnoth."
+"org/ConditionalActionsWML#.5Bfor.5D\"><code>[for]</code>和<code>[foreach]</"
+"code></a>标签。相比旧的<code>{FOREACH}</code>宏以及手写的各种替代方案，新标签"
+"使得底层语法更加轻量了。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:140
@@ -511,6 +570,13 @@ msgid ""
 "href=\"https://wiki.wesnoth.org/Micro_AIs\">MicroAI presets</a> were added. "
 "The sneaky assassin preset is perfect for picking off pesky enemies!"
 msgstr ""
+"在为AI引擎添加新的以及试验性功能的几个开发周期之后，我们进行了早该进行的清理"
+"和重组工作。在这一过程中修复了许多值得注意的错误，例如在处理隐藏的单位、迷雾"
+"和黑幕方面的不一致, 以及在AI也有可用的召回名单的情况下，在征募时存在的一个问"
+"题。总体而言，附加组件作者现在比以往任何时候都对AI有更多控制权。现在可以更轻"
+"松地配置各种设置和参数，同时游戏中添加了几个额外的<a href=\"https://wiki."
+"wesnoth.org/Micro_AIs\">微AI预设</a>。其中狡诈刺客预设完美地适用于一个个处理"
+"掉讨厌的敌人！"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:142
@@ -521,6 +587,10 @@ msgid ""
 "code> tag to implement hidden modifications that can be explicitly requested "
 "by add-ons instead of manually selected by players."
 msgstr ""
+"如前所述，<a href=\"https://wiki.wesnoth.org/ModificationWML\">游戏模组</a>现"
+"在可以用于单人战役，也可以用于多人游戏。它们的语法中还增加了一个 "
+"<code>[resource]</code>标签，以实现附加组件对隐藏模组的显式请求加载，而不需要"
+"由玩家手动选择加载。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:144
@@ -529,6 +599,8 @@ msgid ""
 "well, enabling easier access to the game’s files and installed add-ons, as "
 "well as any other location via quick-access bookmarks."
 msgstr ""
+"地图编辑器的“打开”和“另存为”对话框也已完全重新设计，从而让玩家可以通过快速访"
+"问书签来更轻松地访问游戏文件、已安装的附加组件以及任何其他位置。"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:146
@@ -544,6 +616,13 @@ msgid ""
 "convenient reference. Finally, access to the current session’s log is "
 "possible from the aforementioned version information dialog."
 msgstr ""
+"最后，在Windows上运行游戏的内容创建者可能会发现<b>\"韦诺之战（包含控制"
+"台）\"</b>快捷方式很有用。这一快捷方式中包含了新的<code>--wconsole</code>命令"
+"行选项，该选项使得游戏在标准Windows控制台中实时显示日志消息，而不是将它们写入"
+"文件。如果更希望像往常一样保留持久日志，那我们也改进了这些日志在磁盘上的存储"
+"方式。日志文件现在将保存到玩家文件路径中的<code>logs</code> 文件夹中，过去最"
+"多八次会话的日志将存储在单独的文件中并带有时间戳，以便于参考。最后，可以从前"
+"述的版本信息对话框中访问当前会话的日志。"
 
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:148
