@@ -5,12 +5,12 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-21 18:30 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
 "PO-Revision-Date: 2019-02-08 16:08+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1571,6 +1571,28 @@ msgstr ""
 "升级将我完全治愈了！我尤其擅长使剑，可以攻击4次，每次造成8点伤害。虽然我没有"
 "精灵队长的领导能力，但我更强大的作战能力让我的攻击能够造成更多伤害！"
 
+#. [message]: speaker=unit
+#, fuzzy
+msgid ""
+"Advancing a level has fully healed me! I have become better at using the "
+"sword, dealing 9 damage in 4 attacks. Although I do not have any special "
+"abilities, my fighting skills will allow me to beat the orcs by dealing more "
+"damage!"
+msgstr ""
+"升级将我完全治愈了！我尤其擅长使剑，可以攻击4次，每次造成8点伤害。虽然我没有"
+"精灵队长的领导能力，但我更强大的作战能力让我的攻击能够造成更多伤害！"
+
+#. [message]: speaker=unit
+#, fuzzy
+msgid ""
+"female^Advancing a level has fully healed me! I have become better at using "
+"the sword, dealing 9 damage in 4 attacks. Although I do not have any special "
+"abilities, my fighting skills will allow me to beat the orcs by dealing more "
+"damage!"
+msgstr ""
+"升级将我完全治愈了！我尤其擅长使剑，可以攻击4次，每次造成8点伤害。虽然我没有"
+"精灵队长的领导能力，但我更强大的作战能力让我的攻击能够造成更多伤害！"
+
 #. [message]: speaker=Galdrad
 msgid "You took too long! Now we’ll never be rid of these orcs!"
 msgstr "你浪费太多时间了！这样下去我们永远无法击败这些兽人！"
@@ -1634,6 +1656,22 @@ msgid ""
 "Quintains are used to practice swordplay and jousting on. It would be "
 "extremely unusual to be attacked by one."
 msgstr "刺靶是用来进行剑术和枪术练习的。被一个刺靶攻击是非常不可思议的事情。"
+
+#. [unit_type]: id=Warrior, race=human
+msgid "Warrior"
+msgstr ""
+
+#. [unit_type]: id=Warrior, race=human
+#. [unit_type]: id=Warrioress, race=human
+msgid ""
+"With more experience, Fighters have honed their skills with the sword and "
+"become powerful Warriors."
+msgstr ""
+
+#. [unit_type]: id=Warrioress, race=human
+#, fuzzy
+msgid "female^Warrior"
+msgstr "战士"
 
 #. [message]: speaker=narrator
 msgid "Undo"

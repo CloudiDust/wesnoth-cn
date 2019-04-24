@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
 "PO-Revision-Date: 2019-02-07 18:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -178,10 +178,10 @@ msgstr ""
 msgid "Humans"
 msgstr "人类"
 
-#. [side]: type=Orcish Warlord, id=Tairach
 #. [side]: type=Dark Sorcerer, id=Mordak
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #. [side]
+#. [side]: type=Orcish Warlord, id=Tairach
 msgid "Enemies"
 msgstr "敌人"
 
@@ -526,8 +526,9 @@ msgid "I see them! There they are!"
 msgstr "我看到他们了！他们在那儿！"
 
 #. [message]: speaker=Muff Toras
+#, fuzzy
 msgid ""
-"Curses! If they had been an hour slower our master’s reinforcements would "
+"Curses! If they had been an hour slower, our master’s reinforcements would "
 "already be here to meet us."
 msgstr "妈的！如果他们再晚来一个小时，我们主人的援军就已经来这里和我们汇合了。"
 
@@ -760,6 +761,7 @@ msgstr "洛萨里克"
 #. [unit]: role=Guard, id=Guard_leader, type=Assassin
 #. [unit]: role=Guard, type=Bandit
 #. [unit]: role=Guard2, id=Guard2_leader, type=Rogue
+#. [unit]: role=Guard2, type=Thug
 #. [unit]: role=Guard2, type=Bandit
 msgid "Guard"
 msgstr "守卫"
@@ -772,6 +774,14 @@ msgstr "克纳戈-布雷克"
 #. [unit]: type=Orcish Warrior
 msgid "Castle Guard"
 msgstr "城堡守卫"
+
+#. [time]: id=indoors_dark_castle
+msgid "Indoors (dark castle)"
+msgstr ""
+
+#. [time]: id=indoors_dark_castle_lit
+msgid "Indoors (lit)"
+msgstr ""
 
 #. [objective]: condition=win
 msgid "Rescue Baran"
@@ -858,15 +868,17 @@ msgid "Wrong! Die!"
 msgstr "错了！去死吧！"
 
 #. [message]: speaker=Knago-Brek
+#, fuzzy
 msgid ""
 "Haha! We not kill people for long time. Weapon wants blood. We now kill "
-"humans!!"
+"humans!"
 msgstr "哈哈！我们好久没杀人了。兵器要血祭。现在杀掉这些人类！！"
 
 #. [message]: speaker=Arvith
+#, fuzzy
 msgid ""
-"My sword-arm has a say in who will do the dying. Come on, men, let’s kill "
-"some orcs."
+"My sword-arm shall have a say in who will do the dying. Come on, men, let’s "
+"kill some orcs."
 msgstr "究竟谁会死，要看我握剑的手怎么说。上吧，弟兄们，我们来杀几个兽人。"
 
 #. [message]: speaker=Arvith
@@ -948,6 +960,17 @@ msgstr "这很可能是他们关押巴兰的牢房的钥匙！我要拿走它。
 #. [message]: speaker=Arvith
 msgid "It may be important, I best take it."
 msgstr "这肯定很重要，我最好带走它。"
+
+#. [message]: speaker=unit
+msgid "This castle seems as dark as a cave!"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"This castle is under a constant, <i>chaotic</i> time of day (equivalent to "
+"permanent night). Place your units carefully, as your troops will be weaker "
+"and enemy units stronger."
+msgstr ""
 
 #. [message]: speaker=unit
 msgid "Look what I have found in here! I can count a hundred pieces of gold."
@@ -1210,6 +1233,16 @@ msgstr "杀掉兽人军阀以解救村庄"
 #. [objectives]
 msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
 msgstr "你可以使用荷班地方官的主楼来征募或召回更多的单位。"
+
+#. [message]: speaker=Tairach
+msgid "Today, you shall pay for disfiguring my face, mage!"
+msgstr ""
+
+#. [message]: speaker=Baran
+msgid ""
+"I have already paid with the lives of my men at Toen Caric. It is time I "
+"righted that mistake and finished this once and for all."
+msgstr ""
 
 #. [message]: speaker=Arvith
 msgid ""

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2019-02-07 14:39+0800\n"
+"POT-Creation-Date: 2019-03-11 13:09 UTC\n"
+"PO-Revision-Date: 2019-04-24 22:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -185,8 +185,8 @@ msgstr ""
 msgid "Undead Forces"
 msgstr "亡灵军团"
 
-#. [side]: type=Dark Sorcerer, id=Mal-Kevek
 #. [side]: type=Lich, id=Mal-Kevek
+#. [side]: type=Dark Sorcerer, id=Mal-Kevek
 msgid "Mal-Kevek"
 msgstr "玛尔-柯沃克"
 
@@ -306,8 +306,8 @@ msgid "Hey, I did it!"
 msgstr "嘿，我成功了！"
 
 #. [message]: speaker=Gwabbo
-msgid "Good work Kai, if I may say so."
-msgstr "好样的，凯王，我忍不住要夸您一下。"
+msgid "Good work, Kai, if I may say so."
+msgstr "容我发言，干得好，凯王。"
 
 #. [scenario]: id=02_Flight
 msgid "Flight"
@@ -527,8 +527,8 @@ msgstr "等一下！你觉得会不会，它的主人一死，它就会渴求新
 msgid "If it does not attack, do not kill it. Let us see if it follows us."
 msgstr "如果它不攻击，那就不要杀它。让我们看看它是不是会跟着我们。"
 
-#. [message]: speaker=unit
 #. [message]: speaker=second_unit
+#. [message]: speaker=unit
 msgid "Neep, neep!"
 msgstr "吱，吱！"
 
@@ -731,6 +731,12 @@ msgstr "大家小心！"
 #. [message]: speaker=Kai Krellis
 msgid "Someone go find out what is exciting the bat."
 msgstr "谁去看看蝙蝠怎么这么激动。"
+
+#. [message]: speaker=Kai Krellis
+msgid ""
+"I wonder why such a strangely colored wolf emerged from the forest over "
+"there."
+msgstr "我想知道为什么这么一匹毛色奇异的狼会从那边的森林里出现。"
 
 #. [message]: speaker=unit
 msgid "There is something sticking out of the mud here. Ah! I got it."

@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:09 UTC\n"
 "PO-Revision-Date: 2019-02-07 16:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -91,9 +91,10 @@ msgid "Dallben"
 msgstr "达尔本"
 
 #. [part]
+#, fuzzy
 msgid ""
 "In the Era of Turmoil, during the reign of King Garard II, the border towns "
-"of Delwyn and Dallben in the province of Annuvin grew increasingly "
+"of Delwyn and Dallben in the Province of Annuvin grew increasingly "
 "dissatisfied with the King’s rule. Being preoccupied with the great wars, "
 "the King was unable to send adequate forces to protect the frontier."
 msgstr ""
@@ -365,13 +366,13 @@ msgid "Civil Disobedience"
 msgstr "公民反抗"
 
 #. [side]: type=Bandit, id=Baldras
-#. [side]: type=General, id=Lord Maddock
 #. [side]: type=Rogue, id=Hans
 #. [side]: type=Highwayman, id=Baldras
-#. [side]: type=Shadow Lord, id=Helicrom
-#. [side]
 #. [side]: type=Bandit_Peasant, id=Baldras
+#. [side]
+#. [side]: type=Shadow Lord, id=Helicrom
 #. [side]: type=Highwayman_Peasant, id=Relana
+#. [side]: type=General, id=Lord Maddock
 msgid "Rebels"
 msgstr "叛民"
 
@@ -379,13 +380,13 @@ msgstr "叛民"
 msgid "Tarwen"
 msgstr "傲冰"
 
-#. [side]: type=General, id=Kestrel
 #. [side]: type=Master Bowman, id=Quentin
 #. [side]
 #. [side]: type=Royal Guard, id=Archarel
 #. [side]: type=Iron Mauler, id=Linneus
-#. [side]: type=General, id=Dommel
 #. [side]: type=Cavalier, id=Tarwen
+#. [side]: type=General, id=Kestrel
+#. [side]: type=General, id=Dommel
 msgid "Asheviere"
 msgstr "艾什薇尔"
 
@@ -557,9 +558,10 @@ msgstr ""
 "的问题呢。"
 
 #. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
 "You do not understand. We attacked a Wesnoth army patrol. Not only that, the "
-"leader was no man I had ever seen in Annuvin province before. Never has one "
+"leader was no man I had ever seen in Annuvin Province before. Never has one "
 "been sent out here as a patrol captain who was so ruthless and cruel."
 msgstr ""
 "你不明白。我们攻击了韦诺军的巡逻队。不但如此，他们的领队是个我以前在安努文省"
@@ -757,8 +759,9 @@ msgstr ""
 "个黑暗的时代。"
 
 #. [message]: speaker=Harper
+#, fuzzy
 msgid ""
-"What can we do then? We have brought with us many from Annuvin province who "
+"What can we do then? We have brought with us many from Annuvin Province who "
 "are willing to fight, but our families are still at home. They will not last "
 "long if the Queen’s patrols return."
 msgstr ""
@@ -1740,10 +1743,11 @@ msgid "No one inside the fortress would make it out alive."
 msgstr "任何城堡内的人都不会活着出来了。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "After more than a week of fierce fighting, the main body of Asheviere’s host "
 "arrived from Weldyn. The battle was soon finished. Every last man from the "
-"province of Annuvin was executed."
+"Province of Annuvin was executed."
 msgstr ""
 "经过超过一个礼拜的激烈战斗，从维尔帝出发的艾什薇尔主力部队到达了。战斗很快就"
 "结束了。任何幸存的来自安努文省的人皆被处死。"

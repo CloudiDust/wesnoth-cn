@@ -6,12 +6,12 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
 "PO-Revision-Date: 2019-02-08 19:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -132,12 +132,12 @@ msgid "Pelmathidrol"
 msgstr "佩尔马希德罗"
 
 #. [side]: type=Orcish Warrior, id=Bashnark
-#. [side]: type=Orcish Warlord, id=Tan-Morgh
-#. [side]: type=Orcish Warlord, id=Tan-Garukh
-#. [side]: type=Orcish Warlord, id=Tan-Wagran
 #. [side]: type=Orcish Warlord, id=Tan-Malgar
 #. [side]: type=Orcish Warlord, id=Tan-Grolak
 #. [side]: type=Orcish Warlord, id=Tan-Uthkar
+#. [side]: type=Orcish Warlord, id=Tan-Morgh
+#. [side]: type=Orcish Warlord, id=Tan-Garukh
+#. [side]: type=Orcish Warlord, id=Tan-Wagran
 msgid "Orcs"
 msgstr "兽人"
 
@@ -827,9 +827,10 @@ msgid "The axe-bearers must not be let near our nestlings. Attack!"
 msgstr "不能让这帮拿斧头的接近我们的幼龙。进攻！"
 
 #. [message]: speaker=Master Perrin
+#, fuzzy
 msgid ""
-"We’re grateful for your assistance. And I’d like to send a couple of our "
-"senior apprentices with you to the east. It has come time for them to be "
+"We’re grateful for your assistance. Moreover, I’d like to send a couple of "
+"our senior apprentices with you to the east. It has come time for them to be "
 "journeymen... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
@@ -837,9 +838,10 @@ msgstr ""
 "满之时已到……而且，我感到东方正有什么我不喜的东西要诞生了。"
 
 #. [message]: speaker=Master Perrin
+#, fuzzy
 msgid ""
-"We’re grateful for your assistance. And I’d like to send one of our senior "
-"apprentices with you to the east. It has come time for him to be a "
+"We’re grateful for your assistance. Moreover, I’d like to send one of our "
+"senior apprentices with you to the east. It has come time for him to be a "
 "journeyman... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
@@ -913,11 +915,11 @@ msgstr "我想我们会为佩林的逝世而感到遗憾。他本来可以告诉
 msgid "Fear"
 msgstr "恐惧"
 
-#. [side]: type=Dwarvish Masked Steelclad, id=Masked Dwarf Leader
 #. [side]
 #. [side]: type=Dwarvish Masked Lord, id=Dufon
 #. [side]: type=Dwarvish Masked Lord, id=Aragoth
 #. [side]: type=Dwarvish Masked Lord, id=Dranath
+#. [side]: type=Dwarvish Masked Steelclad, id=Masked Dwarf Leader
 msgid "Masked Dwarves"
 msgstr "面具矮人"
 
@@ -925,12 +927,12 @@ msgstr "面具矮人"
 #. [unit]: type=Dwarvish Masked Steelclad, id=Magog
 #. [unit]: type=Dwarvish Ulfserker, id=Hekyll
 #. [unit]: type=Dwarvish Ulfserker, id=Jekyll
-#. [unit]: type=Dwarvish Masked Steelclad
-#. [side]: type=Dwarvish Masked Steelclad, id=Masked Dwarf Leader
 #. [unit]: type={TYPE}
 #. [side]: type=Dwarvish Masked Lord, id=Dufon
 #. [side]: type=Dwarvish Masked Lord, id=Aragoth
 #. [side]: type=Dwarvish Masked Lord, id=Dranath
+#. [unit]: type=Dwarvish Masked Steelclad
+#. [side]: type=Dwarvish Masked Steelclad, id=Masked Dwarf Leader
 #. [event]
 #. This is shown in the sidebar, it should be short.
 #. You could call them only Masked, to keep the term short.
@@ -1081,8 +1083,9 @@ msgid ""
 msgstr "鞭子。手铐。不，安伽辛，就算我应该怀疑一位博学者，我也不会怀疑你。"
 
 #. [message]: speaker=Angarthing
+#, fuzzy
 msgid ""
-"They were seeking captives. To what purpose, I cannot say. But I doubt it "
+"They were seeking captives. To what purpose, I cannot say, but I doubt it "
 "was any good one."
 msgstr "他们在找俘虏。为了什么目的，我不知道。但我不觉得那是个好目的。"
 
@@ -1228,9 +1231,10 @@ msgstr ""
 "我们最好的房间。我们的领主，符文大师卡拉格，希望明天能和你们交谈。"
 
 #. [message]: speaker=Angarthing
+#, fuzzy
 msgid ""
-"A runemaster? There had been none such since Thursagan’s day. And for one to "
-"lead a holding was unheard-of; they tended towards the solitary life."
+"A runemaster? There have been none such since Thursagan’s day. And for one "
+"to lead a holding was unheard-of; they tended towards the solitary life."
 msgstr ""
 "一位符文大师？自从瑟萨冈去世那天以来就没再有过这种人。统治一块领地的符文大师"
 "就更没有听说过了；他们倾向于过独居生活。"
@@ -1268,9 +1272,10 @@ msgid ""
 msgstr "那就奇怪了。那把锤子是用来制造和加工的，不是武器。他要用它做什么呢？"
 
 #. [message]: speaker=Dulcatulos
+#, fuzzy
 msgid ""
 "That’s for lords and loremasters to worry about, not the likes of me. I must "
-"see to my troop’s care. Food will be brought to you; rest well, we will "
+"see to my troop’s care. Food will be brought to you; rest well. We will "
 "speak again."
 msgstr ""
 "那是领主们和博学者们该操心的事，我这种人就免了。我要去照看我的部队了。食物会"

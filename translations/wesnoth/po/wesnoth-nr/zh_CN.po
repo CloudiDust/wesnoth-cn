@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
 "PO-Revision-Date: 2019-02-07 17:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -556,13 +556,13 @@ msgstr ""
 
 #. [side]: type=Troll, id=Franik
 #. [side]: type=Troll, id=Henie
-#. [side]: type=Troll, id=Knash
-#. [side]: type=Troll, id=Krog
-#. [side]: type=Troll Warrior, id=Thung
 #. [side]: type=Troll Warrior, id=Tor
 #. [side]: type=Troll Warrior, id=Bor
 #. [side]: type=Troll Warrior, id=Oof
 #. [side]: type=Troll Warrior, id=Glu
+#. [side]: type=Troll, id=Knash
+#. [side]: type=Troll, id=Krog
+#. [side]: type=Troll Warrior, id=Thung
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -878,9 +878,9 @@ msgstr ""
 "呀，纳尔迦的矮人们自己也过得非常艰难呢。但是我们没有忘记过去的盟约。欢迎来到"
 "矮人的营地。来吧，和我们的首领哈梅尔领主谈谈吧。"
 
-#. [message]: speaker=Tallin
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Ro'Arthian
+#. [message]: speaker=Tallin
 #. [message]: speaker=unit
 msgid "Very well."
 msgstr "好的。"
@@ -1269,9 +1269,9 @@ msgstr "清理矿脉"
 msgid "When the party finally reached the mines, they were not disappointed."
 msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 
+#. [side]: type=Lieutenant, id=Tallin
 #. [side]
 #. [side]: type=Elvish Avenger, id=Sisal
-#. [side]: type=Lieutenant, id=Tallin
 #. [side]: type=Dwarvish Lord, id=Hamel
 msgid "Alliance"
 msgstr "联盟"
@@ -1509,6 +1509,13 @@ msgid ""
 msgstr ""
 "呸！在我看来，他们就像是胖懒汉一样。来吧伙计们，在他们离开沟渠之前，把他们砍"
 "成碎片。"
+
+#. [message]: speaker=Hamel
+msgid ""
+"Ghouls! They have an insatiable hunger for flesh and even one scratch from "
+"their claws will weaken you with sickness and disease. Nasty things; let’s "
+"chop them to pieces before they can leave the canal."
+msgstr ""
 
 #. [message]: speaker=Malifor
 msgid ""
@@ -3055,16 +3062,16 @@ msgstr ""
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
-#. [side]: type=Orcish Warlord, id=Atul
 #. [side]
-#. [side]: type=Orcish Warlord, id=Ha'Tuil
 #. [side]: type=Orcish Warlord, id=Drung
 #. [side]: type=Orcish Warlord, id=Poul
+#. [side]: type=Orcish Warlord, id=Atul
 #. [side]: type=Troll Warrior, id=Gore
 #. [side]: type=Orcish Warlord, id=Carron
 #. [side]: type=Orcish Warlord, id=Rash
 #. [side]: type=Orcish Warlord, id=Al'Mar
 #. [side]: type=Orcish Warlord, id=Ha'Tang
+#. [side]: type=Orcish Warlord, id=Ha'Tuil
 #. [side]: type=Orcish Warlord, id=Ar'Muff
 #. [side]: type=Orcish Warlord, id=Calter
 #. [side]: type=Orcish Warlord, id=Halter
@@ -3712,8 +3719,8 @@ msgstr "就这样吧。我们具体该怎样到达那个山口？"
 msgid "And so Tallin and his party set out to secure the help of the mages."
 msgstr "随后塔林和他的部队出发去寻求法师的帮助。"
 
-#. [unit]: type=Dwarvish Lord, id=Stalrag
 #. [side]: type=Dwarvish Lord, id=Stalrag
+#. [unit]: type=Dwarvish Lord, id=Stalrag
 msgid "Stalrag"
 msgstr "斯托莱格"
 
@@ -3721,8 +3728,8 @@ msgstr "斯托莱格"
 msgid "Liches"
 msgstr "巫妖"
 
-#. [unit]: type=Ancient Lich, id=Ro'Arthian
 #. [side]: type=Ancient Lich, id=Ro'Arthian
+#. [unit]: type=Ancient Lich, id=Ro'Arthian
 #. [modify_side]
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
@@ -4610,6 +4617,12 @@ msgstr "若·索瑟恩死亡"
 msgid "Even if your rescue fails, you will still advance to the next scenario"
 msgstr "即使你的营救失败了，你也仍然会进入下幕场景"
 
+#. [note]
+msgid ""
+"You will win this scenario immediately upon moving onto the hex containing "
+"the Princess’s cage"
+msgstr ""
+
 #. [message]: speaker=narrator
 msgid ""
 "Upon emerging from the mouth of a hidden tunnel near the fortress, Tallin "
@@ -4650,16 +4663,24 @@ msgstr "入侵者！杀死他们！！"
 msgid "Eryssa"
 msgstr "伊蕊莎"
 
-#. [message]: speaker=Eryssa
+#. [message]: race=orc
 msgid ""
-"I am free! Thank you, my saviors. Who has come to rescue me from vile "
+"The intruders are breaking in! Get to the walls and defend the fortress! And "
+"where did that Elvish Princess go?"
+msgstr ""
+
+#. [message]: speaker=Eryssa
+#, fuzzy
+msgid ""
+"(<i>hushed</i>) Thank you, my saviors. Who has come to rescue me from vile "
 "captivity?"
 msgstr "我自由了！谢谢你们，我的英雄们。是谁把我从这监牢中拯救出来的？"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid ""
-"Later, princess, first let’s get outta — uh, let us take our leave of this "
-"place as swiftly as may be!"
+"(<i>whispering</i>) Later, princess, first let’s get outta — uh, let us take "
+"our leave of this place as swiftly as may be!"
 msgstr "以后再说，公主。现在让我们赶快逃出——呃，让我们尽快离开这个地方！"
 
 #. [message]: speaker=Eryssa
@@ -5587,6 +5608,11 @@ msgstr "好了，在这里逗留也没用。我们回纳尔迦吧。"
 msgid "Move Tallin to the Signpost in the north"
 msgstr "移动塔林至北方路标处"
 
+#. [objective]: condition=lose
+#, fuzzy
+msgid "Death of Eryssa"
+msgstr "斯托莱格死亡"
+
 #. [message]: role=Supporter
 msgid "Hey look, it’s a troll!"
 msgstr "嘿看呐，巨魔！"
@@ -6364,8 +6390,8 @@ msgstr "……前路已经清理完毕，我迫不及待想要多杀几个兽人
 msgid "Right. Onward, men!"
 msgstr "说得对，前进，战士们！"
 
-#. [side]: type=Elvish Avenger, id=Sisal
 #. [unit]: type=Elvish Avenger, id=Sisal
+#. [side]: type=Elvish Avenger, id=Sisal
 msgid "Sisal"
 msgstr "塞索"
 
@@ -6942,6 +6968,10 @@ msgstr "我们要杀死所有的兽人！"
 msgid "Defeat the orcs"
 msgstr "战胜兽人"
 
+#. [note]
+msgid "You will not receive any gold if Sisal dies."
+msgstr ""
+
 #. [message]: id=Ha'Tuil
 msgid "Argh! I have failed!"
 msgstr "啊！我失败了！"
@@ -6965,9 +6995,10 @@ msgid "Haha! We got the gold now!"
 msgstr "哈哈！我们现在得到了金币！"
 
 #. [message]: id=Ha'Tuil
+#, fuzzy
 msgid ""
-"Hahaha! Mission accomplished, men! Now let’s crush the rest of this scum and "
-"report back to the Master."
+"Hahaha! Mission accomplished! I’ll send a wolf to the Master to deliver the "
+"gold. Now let’s crush the rest of this scum!"
 msgstr "哈哈哈！任务完成，伙计们！把剩下的垃圾角色干掉后就可以回禀主人了。"
 
 #. [message]: id=Eryssa
@@ -8090,16 +8121,8 @@ msgid "Eryssa, no! Please don’t die!"
 msgstr "伊蕊莎，不！别死！"
 
 #. [message]: speaker=Tallin
-msgid ""
-"I am sorry, Elenia, we tried our best. (<i>Sigh</i>) I will never forget "
-"you, Eryssa."
+msgid "How could this happen? We can’t possibly go on without her..."
 msgstr ""
-"对不起，伊莱妮雅，我们进了最大的努力。（<b>叹气</b>）我们永远也不会忘记你，伊"
-"蕊莎。"
-
-#. [message]: speaker=Tallin
-msgid "You wretches are going to pay for this! FORWARD, MEN!"
-msgstr "可恶的家伙！你们会为此付出代价！进攻！"
 
 msgid "Arthian"
 msgstr "艾瑟恩"

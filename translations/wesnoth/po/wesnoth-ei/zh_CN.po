@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2019-02-07 14:43+0800\n"
+"POT-Creation-Date: 2019-03-11 13:09 UTC\n"
+"PO-Revision-Date: 2019-04-24 22:38+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -192,9 +192,6 @@ msgstr ""
 msgid "Wesnothians"
 msgstr "韦诺人"
 
-#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
-#. [side]: type=Dark Sorcerer, id=Mal-Talar
-#. [side]: type=Lich, id=Mal-Uldhar
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat
 #. [side]: type=Lich, id=Mal-Telnarad
 #. [side]: type=Dark Sorcerer, id=Mal-Marak
@@ -210,7 +207,6 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Mal-Uknalu
 #. [side]: type=Dark Adept, id=Mal-Tar
 #. [side]: type=Dark Sorcerer, id=Mal-Kallat
-#. [side]: type=Bone Knight, id=Garnad
 #. [side]: type=Necromancer, id=Mal-un-Karad
 #. [side]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Lich, id=Lich2
@@ -220,6 +216,10 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Lich6
 #. [side]: type=Lich, id=Lich7
 #. [side]: type=Lich, id=Lich8
+#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
+#. [side]: type=Dark Sorcerer, id=Mal-Talar
+#. [side]: type=Lich, id=Mal-Uldhar
+#. [side]: type=Bone Knight, id=Garnad
 msgid "Undead"
 msgstr "亡灵"
 
@@ -320,6 +320,10 @@ msgstr ""
 msgid "Move Gweddry to the trapdoor"
 msgstr "移动格温德利至活板门处"
 
+#. [objective]: condition=win
+msgid "Defeat all enemy leaders"
+msgstr "击败所有敌方首领"
+
 #. [message]: speaker=Dacyn
 msgid "Hurry! We cannot defeat this evil today! We must escape!"
 msgstr "赶快！今天我们没办法击败这邪恶之徒！我们得逃跑！"
@@ -334,9 +338,9 @@ msgstr "离脱隧道"
 
 #. [side]: type=Troll Warrior, id=Darg
 #. [side]: type=Gryphon, id=Kraagak
-#. [side]: type=Ogre, id=Grug
 #. [side]
 #. [side]: type=Troll, id=Kabak
+#. [side]: type=Ogre, id=Grug
 msgid "Monsters"
 msgstr "怪物"
 
@@ -450,12 +454,12 @@ msgstr "找到你们了，生肉！受死吧！"
 
 #. [message]: speaker=Dacyn
 msgid ""
-"They follow us... we must get out of this tunnel. It looks like it is "
-"leading east. That is unfortunate, for it will take us beyond the borders of "
-"Wesnoth. But it is our only option."
+"They follow us... we must escape through this tunnel. That is unfortunate, "
+"for it will take us into the Estmark hills, beyond the borders of Wesnoth. "
+"But it is our only option."
 msgstr ""
-"它们紧跟着……我们一定要从这个隧道里逃出去。看上去隧道通向东方。这真不幸，我们"
-"会离维尔帝更远的。但这是唯一的选择。"
+"它们紧跟着我们……我们一定要从这个隧道里逃出去。这真不幸，沿着隧道我们会越过韦"
+"诺边界，到达东界丘陵。但这是我们唯一的选择。"
 
 #. [message]: speaker=Gweddry
 msgid "We have reached the end of the tunnel. I see daylight above us!"
@@ -1225,8 +1229,8 @@ msgid "Grug"
 msgstr "格拉格"
 
 #. [objective]: condition=win
-msgid "Move Gweddry and Owaec across the river"
-msgstr "让格温德利和欧瓦埃克过河"
+msgid "Move Gweddry, Owaec, and Dacyn across the river"
+msgstr "让格温德利、欧瓦埃克和达辛过河"
 
 #. [message]: speaker=Gweddry
 msgid ""
@@ -1514,10 +1518,6 @@ msgstr "精灵"
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 msgid "Prok-Bak"
 msgstr "普罗克-巴克"
-
-#. [objective]: condition=win
-msgid "Defeat all enemy leaders"
-msgstr "击败所有敌方首领"
 
 #. [message]: speaker=Dacyn
 msgid ""

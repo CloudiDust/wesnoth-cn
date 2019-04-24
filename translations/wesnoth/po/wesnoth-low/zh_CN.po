@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-21 18:30 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
 "PO-Revision-Date: 2019-02-07 15:06+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -320,9 +320,9 @@ msgstr "特巴兰"
 #. [side]: id=Wrulf, type=Orcish Warrior
 #. [side]: type=Orcish Warrior, id=Qumseh
 #. [side]: type=Orcish Warrior, id=Graur-Tan
-#. [side]
 #. [modify_side]
 #. [side]: type=Troll Hero, type=Great Troll, id=Grugl
+#. [side]
 #. [side]: type=Saurian Ambusher, id=Shurm
 #. [side]: type=Saurian Ambusher, id=Trigr
 #. [side]: id=Hraurg, type=Saurian Ambusher
@@ -330,11 +330,11 @@ msgstr "特巴兰"
 #. [side]: type=Orcish Warlord, id=Urug-Tar
 #. [side]: type=Orcish Warlord, id=Graur-Tan
 #. [side]: type=Troll Warrior, id=Traur
+#. [side]: type=Saurian Flanker, id=Huurgh
+#. [side]: type=Saurian Oracle, id=Shhar
 #. [side]: type=Troll Warrior, id=Tafrul
 #. [side]: type=Arch Mage, id=Aquagar
 #. [side]: type=Troll Warrior, id=Trigrul
-#. [side]: type=Saurian Flanker, id=Huurgh
-#. [side]: type=Saurian Oracle, id=Shhar
 #. [side]: type=Orcish Warlord, id=Kior-Pur
 #. [side]: type=Orcish Warlord, id=Mbiran
 #. [side]: type=Orcish Warlord, id=Tan-Durr
@@ -564,8 +564,9 @@ msgstr ""
 "远点！"
 
 #. [message]: id=Landar
+#, fuzzy
 msgid ""
-"Our troubles will be yours, too, whether either of us will it or not. The "
+"Our troubles will be yours, too, whether either of us wills it or not. The "
 "orcs have come down from the north like a flood; if we squabble among "
 "ourselves they will feast on our discord."
 msgstr ""
@@ -1697,8 +1698,8 @@ msgstr "胡尔哥"
 msgid "Shhar"
 msgstr "沙哈"
 
-#. [side]: type=Gryphon, id=Gryphon Leader
 #. [side]
+#. [side]: type=Gryphon, id=Gryphon Leader
 msgid "Creatures"
 msgstr "怪物"
 
@@ -2496,8 +2497,8 @@ msgid ""
 "With the human-elf alliance revived, our heroes hurried to the battlefield..."
 msgstr "人类—精灵再度结盟，我们的英雄们又奔向战场……"
 
-#. [unit]: id=Aldar, type=General
 #. [part]
+#. [unit]: id=Aldar, type=General
 msgid "Aldar"
 msgstr "阿尔达"
 

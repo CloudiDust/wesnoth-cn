@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 12:23+0300\n"
-"PO-Revision-Date: 2019-02-04 16:58+0800\n"
+"POT-Creation-Date: 2019-03-11 16:10+0300\n"
+"PO-Revision-Date: 2019-04-24 22:26+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -554,6 +554,7 @@ msgid "Vietnamese Translation"
 msgstr "越南文翻译"
 
 #. [about]
+#. Real Acadèmia de Cultura Valenciana
 msgid "RACV’s Translation"
 msgstr "RACV的翻译"
 
@@ -3803,6 +3804,10 @@ msgstr ""
 msgid "Official Wesnoth Server"
 msgstr "官方韦诺服务器"
 
+#. [server]
+msgid "Alternate Wesnoth Server"
+msgstr "备选韦诺服务器"
+
 #. [label]: id=no_options_notice
 msgid ""
 "There are no custom options available for the selected era, game, or "
@@ -4763,7 +4768,10 @@ msgstr ""
 "<b>野生</b>单位——例如蝙蝠和野生动物——会避开村庄。就算它们占据了村庄格子，也不"
 "能得到村庄带来的任何防御加成，虽然说它们仍然会得到治疗。"
 
-msgid "an advancement choice"
+#. TRANSLATORS: In networked games, when one player has the choice
+#. between multiple advancements of a unit, this text is sent to
+#. other players. It will be embedded within a message.
+msgid "waiting for^an advancement choice"
 msgstr "升级选择"
 
 msgid "An invalid attacker weapon got selected."
@@ -5543,11 +5551,24 @@ msgstr "昵称“$nick|”未在此服务器上注册。"
 msgid " This server disallows unregistered nicknames."
 msgstr " 此服务器不允许使用没有注册的昵称。"
 
+msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
+msgstr "昵称“$nick|”在此服务器的论坛上被封禁了，封禁时长为$duration|。"
+
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
 msgstr "昵称“$nick|”在此服务器的论坛上被封禁了。"
 
+msgid "Your IP address is banned on this server’s forums for $duration|."
+msgstr "你的IP地址在此服务器的论坛上被封禁了，封禁时长为$duration|。"
+
 msgid "Your IP address is banned on this server’s forums."
 msgstr "你的IP地址在此服务器的论坛上被封禁了。"
+
+msgid ""
+"The email address for the nickname ‘$nick’ is banned on this server’s forums "
+"for $duration|."
+msgstr ""
+"昵称“$nick|”对应的电子邮件地址在此服务器的论坛上被封禁了，封禁时长为"
+"$duration|。"
 
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
@@ -6072,6 +6093,9 @@ msgstr "仅发送给盟友"
 msgid "You have no units available to recruit."
 msgstr "你没有可供征募的单位。"
 
+msgid "No unit recruited"
+msgstr "未征募任何单位"
+
 msgid "You do not have enough gold to recruit that unit"
 msgstr "你没有足够的金币，不能征募该单位"
 
@@ -6428,6 +6452,12 @@ msgstr "回合改变了"
 msgid "Terrain with a movement cost less than 1 encountered."
 msgstr "遇到了移动消耗小于1的地形。"
 
+#. TRANSLATORS:  In networked games, this text is shown for other
+#. clients, while they wait to receive the content of a global variable
+#. from another player. This text will be embedded into a sentence.
+msgid "waiting for^a global variable"
+msgstr "全局变量"
+
 msgid "time left for current turn"
 msgstr "本回合剩余时间"
 
@@ -6527,6 +6557,9 @@ msgstr "名称："
 msgid "Type: "
 msgstr "类型："
 
+msgid "Side:"
+msgstr "阵营："
+
 msgid "Level: "
 msgstr "等级："
 
@@ -6602,8 +6635,11 @@ msgstr "最小值。"
 msgid "Defense: "
 msgstr "防御："
 
-msgid "vision: "
+msgid "vision:"
 msgstr "视野："
+
+msgid "jamming:"
+msgstr "干扰："
 
 msgid "Movement Costs:"
 msgstr "移动消耗："
@@ -6675,6 +6711,12 @@ msgid "Attack"
 msgid_plural "Attacks"
 msgstr[0] "攻击手段"
 msgstr[1] "攻击手段"
+
+msgid "Time of day schedule:"
+msgstr "时段日程："
+
+msgid "Time of day:"
+msgstr "时段："
 
 msgid "Lawful units: "
 msgstr "守序单位："
@@ -6960,6 +7002,12 @@ msgid "waiting for $desc from side $sides"
 msgid_plural "waiting for $desc from sides $sides"
 msgstr[0] "等待$sides|阵营的$desc"
 msgstr[1] "等待$sides|阵营的$desc"
+
+#. TRANSLATORS: In networked games, this text is shown for other clients,
+#. while they wait for an action from another player.
+#. This text will be embedded into a sentence.
+msgid "waiting for^input"
+msgstr "输入"
 
 msgid "Allied village"
 msgstr "友方村庄"

@@ -9,12 +9,12 @@
 # MrKing <yideey@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
 "PO-Revision-Date: 2019-02-07 18:03+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -190,8 +190,8 @@ msgid "For this is the story of Haldric the First and the Rise of Wesnoth..."
 msgstr "这就是哈德里克一世和韦诺崛起的故事……"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: type=Noble Youth, type=Noble Fighter, id=Prince Haldric
 #. [side]: id=Prince Haldric, type=Noble Commander
+#. [side]: type=Noble Youth, type=Noble Fighter, id=Prince Haldric
 #. [side]: type=Noble Fighter, id=Prince Haldric
 msgid "Prince Haldric"
 msgstr "哈德里克王子"
@@ -231,8 +231,9 @@ msgid ""
 msgstr "动乱终于波及到了岛中央，这里与世隔绝，是艾德睿克四世国王的领地。"
 
 #. [message]: speaker=King Eldaric IV
+#, fuzzy
 msgid ""
-"It looks like a Wesfolk rabble have seized the Northern Keep! Prepare for "
+"It looks like some Wesfolk rabble have seized the Northern Keep! Prepare for "
 "battle, Haldric!"
 msgstr "一群韦福克暴民夺取了北部要塞！哈德里克，准备战斗！"
 
@@ -351,7 +352,8 @@ msgid ""
 msgstr "我们必须做好防守准备！哈德里克，待在要塞。我要去边境加强防御工事。"
 
 #. [message]: speaker=unit
-msgid "My forces are defeated, under your customs of surrender I will go now."
+#, fuzzy
+msgid "My forces are defeated. Under your customs of surrender, I will go now."
 msgstr "我已经被打败了，按照你们的俘虏政策，我可以走了吧。"
 
 #. [message]: speaker=King Eldaric IV
@@ -401,13 +403,9 @@ msgstr "坦-拉贝格"
 #. [side]: type=Draug, id=General Heravan
 #. [side]: type=Orcish Warlord, id=Tan-Halg
 #. [side]: type=Orcish Warlord, id=Tan-Rinak
-#. [side]: type=Orcish Warlord, id=Tan-Schmog
-#. [side]: type=Orcish Warlord, id=Tan-NauVong
 #. [side]: type=Orcish Warlord, id=Tan-Erirt
 #. [side]: type=Orcish Warlord, id=Tan-Gagar
 #. [side]: type=Troll Warrior, id=Thruf
-#. [side]: type=Orcish Warlord, id=Tan-Rarbag
-#. [side]: type=Orcish Warrior, id=Tan-Erang
 #. [side]: type=Orcish Warlord, id=Tan-Gralg
 #. [side]: type=Orcish Warlord, id=Tan-Rugar
 #. [side]: type=Orcish Warlord, id=Tan-Vragar
@@ -418,6 +416,10 @@ msgstr "坦-拉贝格"
 #. [side]: type=Orcish Warlord, id=Tan-Harak
 #. [side]: type=Orcish Warlord, id=Tan-Hork
 #. [side]: type=Orcish Warlord, id=Tan-Gulo
+#. [side]: type=Orcish Warlord, id=Tan-Rarbag
+#. [side]: type=Orcish Warrior, id=Tan-Erang
+#. [side]: type=Orcish Warlord, id=Tan-Schmog
+#. [side]: type=Orcish Warlord, id=Tan-NauVong
 msgid "Orcs"
 msgstr "兽人"
 
@@ -514,7 +516,8 @@ msgid "I think that your skills may be useful. You may join us."
 msgstr "我想你们的能力会有用的。你可以加入我们。"
 
 #. [message]: speaker=Wesfolk Leader
-msgid "Let there be peace between us, our survival depends on it."
+#, fuzzy
+msgid "Let there be peace between us. Our survival depends on it."
 msgstr "合作愉快，我们现在是一条船上的人了。"
 
 #. [message]: speaker=Prince Haldric
@@ -639,7 +642,8 @@ msgid ""
 msgstr "你最好别再多愁善感了。拿起你的剑。前面还有更多的战斗在等着我们！"
 
 #. [message]: speaker=Tan-Schmog
-msgid "You won’t get much further boy. Grrrr!"
+#, fuzzy
+msgid "You won’t get much further, boy. Grrrr!"
 msgstr "你没法再往前了，小子。嘎嘎嘎！"
 
 #. [message]: speaker=unit
@@ -4016,8 +4020,9 @@ msgid "Does anybody actually know anything about Trolls?"
 msgstr "有人确切知道巨魔的情况吗？"
 
 #. [message]: speaker=Burin the Lost
+#, fuzzy
 msgid ""
-"I indeed do. They are green, and mean, and will try to crush you like a bug. "
+"I indeed do. They are ugly and mean, and will try to crush you like a bug. "
 "They heal very quickly."
 msgstr ""
 "我知道得很清楚。他们外表绿色而且非常卑劣，还会想把你像虫子一样碾碎。他们恢复"
@@ -5421,9 +5426,10 @@ msgid "Noble Fighter"
 msgstr "贵族战士"
 
 #. [unit_type]: id=Noble Fighter, race=human
+#, fuzzy
 msgid ""
 "Young and brash, Fighters fight with a sword, and are vulnerable to ranged "
-"attacks from enemies. However they have the potential to become great "
+"attacks from enemies. However, they have the potential to become great "
 "Commanders one day."
 msgstr ""
 "年轻而高傲，战士用剑作战，因此容易遭受敌人的远程攻击。然而他们有着某天成为伟"

@@ -5,12 +5,12 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-03-11 13:09 UTC\n"
 "PO-Revision-Date: 2019-02-07 16:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -132,22 +132,22 @@ msgstr "乌鲁戈-特尔法"
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
-#. [side]: type=Orcish Warlord, id=Kojun Herolm
-#. [side]: type=Orcish Warrior, id=Mokho Kimer
 #. [side]: type=Orcish Warlord, id=Gaga-Breuk
 #. [side]: type=Orcish Warrior, id=Halgar Du'nar
 #. [side]: type=Orcish Warrior, id=Gorlak
-#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
-#. [side]: type=Orcish Warlord, id=Urug-Tan
-#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
 #. [side]: type=Orcish Warlord, id=Urag-Tifer
-#. [side]: type=Orcish Warlord, id=Kior-Dal
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
 #. [side]: type=Goblin Rouser
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
+#. [side]: type=Orcish Warlord, id=Kojun Herolm
+#. [side]: type=Orcish Warrior, id=Mokho Kimer
+#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
+#. [side]: type=Orcish Warlord, id=Urug-Tan
+#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
+#. [side]: type=Orcish Warlord, id=Kior-Dal
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1118,14 +1118,14 @@ msgstr "玛夫·玛拉尔"
 #. [side]: type=Dark Sorcerer, id=Muff Malal
 #. [side]: id=Haf-Mal, type=Lich
 #. [side]: id=Jarmal-Gorg, type=Lich
+#. [side]: type=Lich, id=Galga
+#. [side]: type=Lich, id=Na-alga
+#. [side]: type=Lich, id=Selda-Mana
 #. [side]: type=Death Knight, id=Clarustus
 #. [side]: type=Death Knight, id=Merlunius
 #. [side]: type=Lich, id=Aimucasur
 #. [side]: type=Death Knight, id=Secadius
 #. [side]: type=Death Knight, id=Dafeis
-#. [side]: type=Lich, id=Galga
-#. [side]: type=Lich, id=Na-alga
-#. [side]: type=Lich, id=Selda-Mana
 #. [side]: type=Ancient Lich, id=Muff Argulak
 msgid "Undead"
 msgstr "亡灵"
@@ -1393,12 +1393,12 @@ msgid "Agadla"
 msgstr "阿伽德拉"
 
 #. [side]: type=Troll Warrior, id=Haaf-Garga
-#. [side]: type=Orcish Warlord, id=Urug-Telfar
-#. [side]: type=Death Knight, id=Unan-Ka'tall
 #. [side]: id=Brugg, type=Troll Warrior
 #. [side]: id=Lionel, type=Death Knight
 #. [side]: type=Orcish Warlord, id=Agadla
 #. [side]: type=Dark Sorcerer, id=Muff Jaanal
+#. [side]: type=Orcish Warlord, id=Urug-Telfar
+#. [side]: type=Death Knight, id=Unan-Ka'tall
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -1730,8 +1730,9 @@ msgid ""
 msgstr "科纳德，德法多和卡雷兹骑马在韦诺的荒原上向东疾行。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"The queen’s agents were still scouring the coastal regions, for news of "
+"The Queen’s agents were still scouring the coastal regions, for news of "
 "Elensefar’s rescue had not yet reached her."
 msgstr ""
 "女王的代理人们仍然在洗劫海岸区域，因为埃仁撒伐光复的消息还没有传到她的耳朵"
@@ -1853,7 +1854,6 @@ msgstr "莉莎"
 
 #. [side]: type=General, id=Robryn
 #. [side]: type=Princess, id=Li'sar
-#. [side]: type=General, id=Honber
 #. [side]: type=Orcish Warlord, id=Haliel-Maga
 #. [side]: type=General, id=Heford
 #. [side]: type=Cavalier, id=Sir Kalm
@@ -1861,6 +1861,7 @@ msgstr "莉莎"
 #. [side]: type=General, id=Josephus
 #. [side]: type=Orcish Warlord, id=Dwar-Ni
 #. [side]: type=General, id=Malatus
+#. [side]: type=General, id=Honber
 msgid "Asheviere"
 msgstr "艾什薇尔"
 
@@ -2046,9 +2047,10 @@ msgid "Thank you for returning to help us, Moremirmu."
 msgstr "多谢你回来帮助我们，莫密尔姆。"
 
 #. [message]: speaker=Moremirmu
+#, fuzzy
 msgid ""
 "It is both my duty and pleasure, my lord! We were dining with some royal "
-"guards of the princess, taking a rest from our pilgrimage, when they spoke "
+"guards of the Princess, taking a rest from our pilgrimage, when they spoke "
 "of how you were tricked into traveling these dangerous lands. We could do "
 "nothing but help you!"
 msgstr ""
@@ -2812,10 +2814,12 @@ msgid "Who... who’s here?"
 msgstr "谁……谁在这儿？"
 
 #. [message]: speaker=Uncle Somf
+#. The addressed person is the speaker's niece or nephew.
 msgid "$outlaw_name|! How have you been? I haven’t seen you in years."
 msgstr "$outlaw_name|！哈哈，你最近过得怎么样？我有好多年没见过你了。"
 
 #. [message]: speaker=Uncle Somf
+#. The mentioned person, $outlaw_name, is the speaker's niece or nephew.
 msgid "Haw! Any friend of $outlaw_name is a friend of mine too."
 msgstr "哈哇！$outlaw_name的朋友就是我的朋友。"
 
@@ -2841,6 +2845,7 @@ msgstr ""
 "深的地方。"
 
 #. [message]: speaker=Uncle Somf
+#. The addressed person is the speaker's niece or nephew.
 msgid "How are we doing, $outlaw_name|?"
 msgstr "情况怎么样，$outlaw_name|？"
 
@@ -4129,8 +4134,9 @@ msgid "Of course not, whelp, else he would have chosen a safer route."
 msgstr "他当然不知道，小崽子，否则他会选择一条更安全的路的。"
 
 #. [message]: speaker=Konrad
+#, fuzzy
 msgid ""
-"Hold your tongue, Kalenz. The princess is our ally and of royal blood. She "
+"Hold your tongue, Kalenz. The Princess is our ally and of royal blood. She "
 "deserves not your disrespect."
 msgstr ""
 "请注意您的言辞，卡雷兹！公主是我们的盟友，还有着王族血统。她不应受到您的不"
@@ -4478,8 +4484,9 @@ msgid "Aimucasur’s lordship over this cursed ground is broken."
 msgstr "艾姆卡苏尔对这片被诅咒之地的统治结束了。"
 
 #. [message]: speaker=Konrad
+#, fuzzy
 msgid ""
-"Aimucasur? So you know of this Lich-Lord? Did you know him? He was a "
+"Aimucasur? So you know of this Lich-Lord? Did you know him? Was he a "
 "powerful mage?"
 msgstr ""
 "艾姆卡苏尔？所以您听说过这巫妖王？您以前认识他吗？他曾经是一位强大的法师吗？"
@@ -4981,9 +4988,9 @@ msgid "Your encampment will be dismantled after the first turn."
 msgstr "你的营地在第一回合后会被拆除。"
 
 #. [side]: type=Commander, id=Konrad
-#. [side]: type=Elvish Marshal, id=El'rien
 #. [side]: type=Elvish Lord, id=Uradredia
 #. [side]: type=Elvish Lady, id=Parandra
+#. [side]: type=Elvish Marshal, id=El'rien
 msgid "Allies"
 msgstr "同盟军"
 
@@ -5150,8 +5157,9 @@ msgid "So, Konrad, do you think we can simply trot across the battlefield?"
 msgstr "所以说，科纳德，你是不是认为我们可以简单地从战场上慢跑过去？"
 
 #. [message]: speaker=Konrad
+#, fuzzy
 msgid ""
-"Stop for a moment, princess. Look — you can barely see them in the distance "
+"Stop for a moment, Princess. Look — you can barely see them in the distance "
 "there, but the advance scouts have found each other. The Queen’s troops are "
 "marching full speed for the orcs’ camp, and vice-versa. These armies are out "
 "for blood."
@@ -5167,9 +5175,10 @@ msgid ""
 msgstr "但他们可不会因此忽视了我们的存在！我们正一头扑进一场大屠杀里！"
 
 #. [message]: speaker=Konrad
+#, fuzzy
 msgid ""
 "(hushed) Our soldiers will defend us as we rush across the field. Sorry to "
-"be blunt, princess, but you and I are the only ones who need to make it "
+"be blunt, Princess, but you and I are the only ones who need to make it "
 "across alive."
 msgstr ""
 "（突然静默）我们冲过战场的时候，士兵们会保护我们的。请原谅我的直率，公主，但"
@@ -5427,7 +5436,8 @@ msgid ""
 msgstr "尤拉德雷利亚领主已经召集了林塔尼尔评议会。传闻说有比我们更紧急的需求。"
 
 #. [message]: speaker=Kalenz
-msgid "Then we must hurry. Stand fast! We will send reinforcements."
+#, fuzzy
+msgid "Then we must hurry. Stand fast! We shall send reinforcements."
 msgstr "这么说我们必须赶快了。坚守阵地！我们会派来援军的。"
 
 #. [message]: speaker=Kalenz
@@ -6175,23 +6185,23 @@ msgstr "击败所有敌方首领"
 msgid "Plainsmen"
 msgstr "平原居民"
 
-#. [side]: type=Grand Knight, id=Sir Alric
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Alric
 msgid "Sir Alric"
 msgstr "埃里克爵士"
 
-#. [side]: type=Grand Knight, id=Sir Ruga
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Ruga
 msgid "Sir Ruga"
 msgstr "鲁加爵士"
 
-#. [side]: type=Grand Knight, id=Sir Daryn
 #. [then]
+#. [side]: type=Grand Knight, id=Sir Daryn
 msgid "Sir Daryn"
 msgstr "达林爵士"
 
-#. [side]: type=Grand Knight, id=Bayar
 #. [then]
+#. [side]: type=Grand Knight, id=Bayar
 msgid "Lord Bayar"
 msgstr "巴亚尔领主"
 
@@ -6346,9 +6356,10 @@ msgid "Who then is your leader? Whom do we serve?"
 msgstr "究竟谁才是你们的领袖？我们要向谁尽忠？"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
 "You will serve us. You will protect our flanks while we make way straight "
-"for the queen. With you on either flank, we can surely overcome her."
+"for the Queen. With you on either flank, we can surely overcome her."
 msgstr ""
 "你们将向我们尽忠。你们将保护我们的侧翼，而我们将直取女王。只要你们能够做好防"
 "守，我们就一定能战胜她。"
@@ -6803,9 +6814,10 @@ msgstr "狂怒暴雪"
 
 #. [variation]
 #. [unit_type]: id=Fighter
+#, fuzzy
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
-"seasoned enemies. However they have the potential to become great warriors "
+"seasoned enemies. However, they have the potential to become great warriors "
 "one day."
 msgstr ""
 "战士年轻而又性急，他们使用剑来攻击，很容易受到更有经验的敌人的伤害。尽管如"
@@ -7100,8 +7112,9 @@ msgstr ""
 "在韦诺之王伽拉德二世统治的第二十七个年头，王国陷入了与北方兽人的苦战之中。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"The Northern host encamped at Galcadar, by the ford of Abez, and the king "
+"The Northern host encamped at Galcadar, by the Ford of Abez, and the king "
 "led his forces to meet them. Splitting his army in two, he led one half "
 "while his son, the crown prince Eldred, led the other."
 msgstr ""
