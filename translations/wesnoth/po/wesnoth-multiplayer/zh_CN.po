@@ -6,13 +6,13 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:10 UTC\n"
-"PO-Revision-Date: 2019-02-07 17:03+0800\n"
+"PO-Revision-Date: 2019-05-01 14:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -543,7 +543,6 @@ msgid "Blum Duk"
 msgstr "布拉姆·达克"
 
 #. [unit]
-#, fuzzy
 msgid ""
 "Blum Duk was renowned among his goblin clan for having tamed one of the Dire "
 "Wolves of the mountains, and he had the courage to match. His leadership and "
@@ -598,7 +597,7 @@ msgstr ""
 
 #. [side]
 msgid "Turin's Monster of the Lake"
-msgstr ""
+msgstr "图林的湖中怪物"
 
 #. [unit]
 msgid ""
@@ -618,7 +617,7 @@ msgstr ""
 
 #. [side]
 msgid "The Spider"
-msgstr ""
+msgstr "蜘蛛"
 
 #. [unit]
 msgid ""
@@ -658,7 +657,6 @@ msgid "Bramwythl"
 msgstr "布拉姆维斯尔"
 
 #. [unit]
-#, fuzzy
 msgid ""
 "Bramwythl the Wose was always considered a slow, taciturn fellow, even by "
 "other Woses. More than any other Wose, he enjoyed simply standing alone in "

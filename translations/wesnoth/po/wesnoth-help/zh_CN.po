@@ -8,13 +8,13 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 16:09+0300\n"
-"PO-Revision-Date: 2019-02-08 14:35+0800\n"
+"PO-Revision-Date: 2019-05-01 14:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4312,7 +4312,6 @@ msgid "race^Drakes"
 msgstr "龙人"
 
 #. [race]: id=drake
-#, fuzzy
 msgid ""
 "Drakes are large, winged and fire-breathing creatures, reminiscent of true "
 "dragons. On average, an adult drake stands around three meters tall and "
@@ -4434,7 +4433,6 @@ msgid "race^Dwarves"
 msgstr "矮人"
 
 #. [race]: id=dwarf
-#, fuzzy
 msgid ""
 "The dwarves are a race famed for their miners, blacksmiths, merchants and "
 "warriors. Considered as the third oldest race on the great continent after "
@@ -4526,7 +4524,6 @@ msgid "race^Elves"
 msgstr "精灵"
 
 #. [race]: id=elf
-#, fuzzy
 msgid ""
 "Compared to humans, elves are somewhat taller, more agile but less sturdy. "
 "They have slightly pointy ears, pale skin and usually blond hair. Few "
@@ -5426,7 +5423,6 @@ msgid "race^Woses"
 msgstr "树人"
 
 #. [race]: id=wose
-#, fuzzy
 msgid ""
 "The mighty wose resides within the deepest forests of the known world. To "
 "the untrained eye, the wose appears to be nothing more than an oddly shaped, "
@@ -5478,12 +5474,12 @@ msgstr ""
 "来。人们相信树人是世界上最古老的种族之一，可能甚至比他们所居住的森林还要古"
 "老。人们认为是仙境的力量赋予了树人们作为森林守护者的永恒任务。\n"
 "\n"
-"树人们并不是好战的种族，他们也非常不适应战斗。但是，为了守卫他们的森林领土，"
-"他们会不由分说地使用暴力。树人们移动缓慢，而且离开林地后会变得非常脆弱。因为"
-"他们与仙境的联系，树人们对于奥术特别敏感。它们难以被物理攻击穿透的树皮在火焰"
-"面前也特别的脆弱。他们厚厚的树皮和驾驭仙境力量的能力使他们能够在受伤时快速的"
-"恢复，这使得他们能够在敌人的猛攻中存活很久，给了他们用压倒性的巨力进行还击的"
-"机会。在他们的森林家园里，树人隐藏在树木间，伏击即使是受过最好训练的精灵哨"
+"树人并不是好战的种族，他们也非常不适应战斗。但是，为了守卫他们的森林领土，他"
+"们会不由分说地使用暴力。树人们移动缓慢，而且离开林地后会变得非常脆弱。因为他"
+"们与仙境的联系，树人们对于奥术特别敏感。它们难以被物理攻击穿透的树皮在火焰面"
+"前也特别的脆弱。他们厚厚的树皮和驾驭仙境力量的能力使他们能够在受伤时快速的恢"
+"复，这使得他们能够在敌人的猛攻中存活很久，给了他们用压倒性的巨力进行还击的机"
+"会。在他们的森林家园里，树人隐藏在树木间，伏击即使是受过最好训练的精灵哨"
 "探。\n"
 "\n"
 "树人的寿命不为人知。不过这个种族中最古老的成员们已经生活了数百年，并且生长出"

@@ -5,13 +5,13 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-02-07 16:58+0800\n"
+"PO-Revision-Date: 2019-05-01 14:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1730,12 +1730,11 @@ msgid ""
 msgstr "科纳德，德法多和卡雷兹骑马在韦诺的荒原上向东疾行。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The Queen’s agents were still scouring the coastal regions, for news of "
 "Elensefar’s rescue had not yet reached her."
 msgstr ""
-"女王的代理人们仍然在洗劫海岸区域，因为埃仁撒伐光复的消息还没有传到她的耳朵"
+"女王的特务们仍然在洗劫海岸区域，因为埃仁撒伐援救成功的消息还没有传到她的耳朵"
 "里。"
 
 #. [part]
@@ -2047,16 +2046,15 @@ msgid "Thank you for returning to help us, Moremirmu."
 msgstr "多谢你回来帮助我们，莫密尔姆。"
 
 #. [message]: speaker=Moremirmu
-#, fuzzy
 msgid ""
 "It is both my duty and pleasure, my lord! We were dining with some royal "
 "guards of the Princess, taking a rest from our pilgrimage, when they spoke "
 "of how you were tricked into traveling these dangerous lands. We could do "
 "nothing but help you!"
 msgstr ""
-"这是我的义务，也是我的荣耀，殿下！在朝圣的途中我们休息了一会儿，和公主的一些"
-"皇家卫兵一起进餐，他们说起了你们被骗进入这片危险土地的事。我们别无他法，只能"
-"前来帮忙了！"
+"这是我的义务，也是我的荣幸，殿下！在朝圣的途中我们休息了一会儿，和公主的一些"
+"皇家卫兵一起进餐，他们说起了你们被骗进入这片危险土地的事。我们当然会来帮忙"
+"了！"
 
 #. [message]: speaker=Konrad
 msgid ""
@@ -4134,7 +4132,6 @@ msgid "Of course not, whelp, else he would have chosen a safer route."
 msgstr "他当然不知道，小崽子，否则他会选择一条更安全的路的。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Hold your tongue, Kalenz. The Princess is our ally and of royal blood. She "
 "deserves not your disrespect."
@@ -4484,7 +4481,6 @@ msgid "Aimucasur’s lordship over this cursed ground is broken."
 msgstr "艾姆卡苏尔对这片被诅咒之地的统治结束了。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Aimucasur? So you know of this Lich-Lord? Did you know him? Was he a "
 "powerful mage?"
@@ -5157,14 +5153,13 @@ msgid "So, Konrad, do you think we can simply trot across the battlefield?"
 msgstr "所以说，科纳德，你是不是认为我们可以简单地从战场上慢跑过去？"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Stop for a moment, Princess. Look — you can barely see them in the distance "
 "there, but the advance scouts have found each other. The Queen’s troops are "
 "marching full speed for the orcs’ camp, and vice-versa. These armies are out "
 "for blood."
 msgstr ""
-"请等一下，公主。看——虽然在这么远的距离你几乎无法看清，但双方的先头侦察部队已"
+"请等一下，公主。看——虽然在这么远的距离上几乎无法看清，但双方的先头侦察部队已"
 "经发现了对方。女王的军队正全速向兽人营地开进，反之也一样。这两支军队马上就要"
 "开始血战了。"
 
@@ -5175,14 +5170,13 @@ msgid ""
 msgstr "但他们可不会因此忽视了我们的存在！我们正一头扑进一场大屠杀里！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "(hushed) Our soldiers will defend us as we rush across the field. Sorry to "
 "be blunt, Princess, but you and I are the only ones who need to make it "
 "across alive."
 msgstr ""
-"（突然静默）我们冲过战场的时候，士兵们会保护我们的。请原谅我的直率，公主，但"
-"你和我是唯一需要活着冲过去的人。"
+"（低声）我们冲过战场的时候，士兵们会保护我们的。请原谅我的直率，公主，但你和"
+"我是唯一需要活着冲过去的人。"
 
 #. [message]: speaker=Delfador
 msgid "..."
@@ -5436,9 +5430,8 @@ msgid ""
 msgstr "尤拉德雷利亚领主已经召集了林塔尼尔评议会。传闻说有比我们更紧急的需求。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid "Then we must hurry. Stand fast! We shall send reinforcements."
-msgstr "这么说我们必须赶快了。坚守阵地！我们会派来援军的。"
+msgstr "这么说我们必须抓紧时间了。坚守阵地！我们会派来援军的。"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -6356,7 +6349,6 @@ msgid "Who then is your leader? Whom do we serve?"
 msgstr "究竟谁才是你们的领袖？我们要向谁尽忠？"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "You will serve us. You will protect our flanks while we make way straight "
 "for the Queen. With you on either flank, we can surely overcome her."
@@ -6814,14 +6806,13 @@ msgstr "狂怒暴雪"
 
 #. [variation]
 #. [unit_type]: id=Fighter
-#, fuzzy
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. However, they have the potential to become great warriors "
 "one day."
 msgstr ""
 "战士年轻而又性急，他们使用剑来攻击，很容易受到更有经验的敌人的伤害。尽管如"
-"此，他们仍然有在未来某天成为伟大武士的潜力。"
+"此，他们仍然拥有在未来某天成为伟大武士的潜力。"
 
 #. [unit_type]: id=Injured Sergeant
 msgid "Injured Sergeant"
@@ -7112,14 +7103,13 @@ msgstr ""
 "在韦诺之王伽拉德二世统治的第二十七个年头，王国陷入了与北方兽人的苦战之中。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The Northern host encamped at Galcadar, by the Ford of Abez, and the king "
 "led his forces to meet them. Splitting his army in two, he led one half "
 "while his son, the crown prince Eldred, led the other."
 msgstr ""
 "北方部落在雅碧滩旁的伽尔卡达扎营。国王领军前去迎战。他兵分两路，自己指挥一半"
-"军队，而他的儿子，太子埃雷德，指挥另一半。"
+"军队，而他的儿子，太子埃雷德，则指挥另一半。"
 
 #. [part]
 msgid ""

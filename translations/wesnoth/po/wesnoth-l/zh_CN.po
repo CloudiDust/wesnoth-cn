@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-02-07 16:16+0800\n"
+"PO-Revision-Date: 2019-05-01 14:18+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -91,7 +91,6 @@ msgid "Dallben"
 msgstr "达尔本"
 
 #. [part]
-#, fuzzy
 msgid ""
 "In the Era of Turmoil, during the reign of King Garard II, the border towns "
 "of Delwyn and Dallben in the Province of Annuvin grew increasingly "
@@ -558,14 +557,13 @@ msgstr ""
 "的问题呢。"
 
 #. [message]: speaker=Baldras
-#, fuzzy
 msgid ""
 "You do not understand. We attacked a Wesnoth army patrol. Not only that, the "
 "leader was no man I had ever seen in Annuvin Province before. Never has one "
 "been sent out here as a patrol captain who was so ruthless and cruel."
 msgstr ""
-"你不明白。我们攻击了韦诺军的巡逻队。不但如此，他们的领队是个我以前在安努文省"
-"从没见过的人。以前派来此地的巡逻队长，没有一个这样冷酷无情的。"
+"你不明白。我们攻击了韦诺军的巡逻队。不但如此，他们的领队是个我以前从没有在安"
+"努文省见过的人。以前派来此地的巡逻队长，没有一个是这样冷酷无情的。"
 
 #. [message]: speaker=Harper
 msgid ""
@@ -754,18 +752,17 @@ msgid ""
 "Wesnoth is ancient, but I am not so naïve as to place my full trust in it. "
 "Not in these wicked times."
 msgstr ""
-"在他们如此对待小村庄之前我们有个暂时的安定，最终是为了诱得我的誓约。埃仁撒伐"
-"与韦诺的协定是古老的，但我也没那么天真把我所有信赖都寄托在条约上。特别是在这"
-"个黑暗的时代。"
+"在他们解决掉小村庄之前，我们获得了暂时的和平，但他们终于还是来逼我发誓效忠"
+"了。埃仁撒伐与韦诺的协定是古老的，但我也没那么天真把我所有信赖都寄托在条约"
+"上。特别是在这个黑暗的时代。"
 
 #. [message]: speaker=Harper
-#, fuzzy
 msgid ""
 "What can we do then? We have brought with us many from Annuvin Province who "
 "are willing to fight, but our families are still at home. They will not last "
 "long if the Queen’s patrols return."
 msgstr ""
-"然后我们怎么做呢？我们带了许多希望战斗的安努文省的平民。但我们的家人还在家"
+"那我们能怎么做呢？我们带了许多希望战斗的安努文省的平民。但我们的家人还在家"
 "里。要是女王的巡逻队回来的话，他们可抵抗不了多久。"
 
 #. [message]: speaker=Lord Maddock
@@ -818,7 +815,8 @@ msgid ""
 "Their human aspect is returning! This is an evil manner of sorcery we face, "
 "but one that we may yet overcome. CHARGE!"
 msgstr ""
-"他们的人类面貌恢复了！我们面对的是个邪恶的巫术，但我们迟早能克服。冲锋！"
+"他们的人类面貌恢复了！我们面对的是个邪恶的巫术，但我们迟早能克服。<b>冲锋！</"
+"b>"
 
 #. [message]: speaker=second_unit
 msgid "Who are you? What are you?"
@@ -1726,7 +1724,7 @@ msgstr "我们不能呆在这里。堡垒开始倒塌了！"
 
 #. [message]: speaker=Baldras
 msgid "I think it’s working! Everybody get clear <i>now</i>!"
-msgstr "我想起作用了！大家撤离！<b>现在！</b>"
+msgstr "我想这起作用了！大家撤离！<b>现在！</b>"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1743,14 +1741,13 @@ msgid "No one inside the fortress would make it out alive."
 msgstr "任何城堡内的人都不会活着出来了。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "After more than a week of fierce fighting, the main body of Asheviere’s host "
 "arrived from Weldyn. The battle was soon finished. Every last man from the "
 "Province of Annuvin was executed."
 msgstr ""
-"经过超过一个礼拜的激烈战斗，从维尔帝出发的艾什薇尔主力部队到达了。战斗很快就"
-"结束了。任何幸存的来自安努文省的人皆被处死。"
+"在超过一星期的的激烈战斗之后，从维尔帝出发的艾什薇尔主力部队到达了。战斗很快"
+"就结束了。来自安努文省的所有人皆被处死。"
 
 #. [message]: speaker=Baldras
 msgid "Men, help me out of here! I am trapped under this rubble."
