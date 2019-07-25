@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-02-04 18:15+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -119,8 +119,8 @@ msgstr ""
 msgid "The Morning After"
 msgstr "天亮以后"
 
-#. [side]
 #. [side]: id=Kaleh, type=Quenoth Youth
+#. [side]
 msgid "team_name^Quenoth Elves"
 msgstr "奎诺精灵"
 
@@ -135,13 +135,13 @@ msgstr "怪物"
 msgid "Evil"
 msgstr "邪恶"
 
-#. [objectives]
-msgid "Starting Objectives:"
-msgstr "任务目标:"
-
 #. [objective]: condition=win
 msgid "Rescue surviving elves"
 msgstr "解救幸存的精灵"
+
+#. [objective]: condition=win
+msgid "Defeat Xanthos"
+msgstr "击败赞瑟斯"
 
 #. [objective]: condition=lose
 msgid "Death of Kaleh"
@@ -586,14 +586,6 @@ msgstr ""
 "们向会告诉你那不是全能的。不要亵渎我的亲戚朋友的尸体！来承受伊洛和奎诺精灵们"
 "的愤怒！"
 
-#. [objectives]
-msgid "New Objectives:"
-msgstr "新任务:"
-
-#. [objective]: condition=win
-msgid "Defeat Xanthos"
-msgstr "击败赞瑟斯"
-
 #. [message]: speaker=unit
 msgid ""
 "Some of our people felt crowded in the village, and wanted to live out on "
@@ -832,6 +824,30 @@ msgstr "亡灵"
 msgid "Kaleh must reach the northern edge of the desert"
 msgstr "卡勒必须到达沙漠的北部边缘"
 
+#. [objective]: condition=win
+msgid "Defeat outlaw leader"
+msgstr "击败游寇首领"
+
+#. [note]
+msgid ""
+"Your units become dehydrated during the day, losing hitpoints and damage "
+"when they are not on a water hex"
+msgstr ""
+
+#. [note]
+msgid ""
+"Units are refreshed at the start of your turn when they are on a water or "
+"oasis hex"
+msgstr ""
+
+#. [note]
+msgid "Healers can prevent dehydration from getting worse, but cannot heal it"
+msgstr ""
+
+#. [note]
+msgid "Healers are unable to heal adjacent units during the day"
+msgstr ""
+
 #. [label]
 msgid "Pinnacle Rock"
 msgstr "尖塔石"
@@ -852,8 +868,8 @@ msgstr ""
 msgid "Do you remember anything about these sands?"
 msgstr "还记得这片沙漠吗？"
 
-#. [message]: speaker=narrator
 #. [unit]: type=Defeated Corrupted Quenoth Elf, id=Garak_defeated
+#. [message]: speaker=narrator
 msgid "Garak"
 msgstr "伽拉克"
 
@@ -1224,10 +1240,11 @@ msgid ""
 msgstr "最讨厌的生物在我的城堡里！来吧，迷失的沙漠之魂！让我们清理这些污秽！"
 
 #. [message]: speaker=Vengeful Lord
+#, fuzzy
 msgid ""
-"Elf with a bow, I remember you. You thought me defeated, but I am back even "
-"more powerful than before. Death reigns eternal, your scorched bones and "
-"lifeless body will join my host."
+"Elf of the sands, I remember you. You thought me defeated, but I am back "
+"even more powerful than before. Death reigns eternal, your scorched bones "
+"and lifeless body will join my host."
 msgstr ""
 "拿着弓的精灵们，我记得你们。你们觉得我被击败了，但是我回来了，比以前更加强"
 "大。死亡支配永恒，你烧焦的骨头和无魂的尸体将成为我的部下。"
@@ -1298,10 +1315,6 @@ msgid ""
 msgstr ""
 "你看到了吗？我想我发现有人躲在沙丘后面。我想我们被监视着。我觉得沙丘附近的强"
 "盗数量比我们预计的要多。"
-
-#. [objective]: condition=win
-msgid "Defeat outlaw leader"
-msgstr "击败游寇首领"
 
 #. [unit]: id=Thorn, type=Outlaw
 msgid "Thorn"
@@ -1549,6 +1562,10 @@ msgstr "击败阿兹卡提"
 #. [objective]: condition=win
 msgid "Defeat Ystara"
 msgstr "击败伊斯图拉"
+
+#. [objectives]
+msgid "Starting Objectives:"
+msgstr "任务目标:"
 
 #. [objective]: condition=win
 msgid "Survive until dawn"
@@ -1813,6 +1830,10 @@ msgid ""
 msgstr ""
 "也许我说的太早。尤里安的，他掩盖了星星，都黑了。卡勒，我们的考验明确了，一定"
 "要消灭它们。"
+
+#. [objectives]
+msgid "New Objectives:"
+msgstr "新任务:"
 
 #. [message]: speaker=Azkotep
 #. [message]: speaker=Ystara
@@ -2960,7 +2981,6 @@ msgid "Defeat the Cloaked Figure"
 msgstr "击败戴斗篷者"
 
 #. [event]
-#. [unit]: type=Troll Shaman, id=Zurg
 msgid "Zurg"
 msgstr "泽格"
 
@@ -3041,8 +3061,8 @@ msgid ""
 "together, we must follow Zurg."
 msgstr "看来我们的工作还没有结束。好吧，集合队伍，我们得跟着泽格走。"
 
-#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
 #. [event]
+#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
 msgid "Grimnir"
 msgstr "格雷纳"
 
@@ -3623,10 +3643,10 @@ msgstr "你的人一到达指定位置，我就会启动机关。"
 msgid "Troll Brute"
 msgstr "狂暴巨魔"
 
-#. [event]
 #. [unit]: type=Troll
 #. [unit]: type=Troll Rocklobber
 #. [unit]: type=Troll Whelp
+#. [event]
 msgid "Troll Guard"
 msgstr "巨魔守卫"
 
@@ -5128,6 +5148,14 @@ msgstr "人类同盟"
 msgid "Escape the caves"
 msgstr "逃离洞窟"
 
+#. [objective]: condition=win
+msgid "Explore outside"
+msgstr "探索外界"
+
+#. [objective]: condition=win
+msgid "Defeat Sergeant Durstrag"
+msgstr "击败德崔格长官"
+
 #. [objective]: condition=lose
 msgid "Death of Grog"
 msgstr "果洛格死亡"
@@ -5143,6 +5171,14 @@ msgstr "若格瑞莫死亡"
 #. [objective]: condition=lose
 msgid "Death of Jarl"
 msgstr "查尔死亡"
+
+#. [objective]: condition=lose
+msgid "A human messenger escapes the valley"
+msgstr "人类信使逃离山谷"
+
+#. [note]
+msgid "The messenger is the leader of the special white colored units"
+msgstr "信使是白色特殊单位的首领"
 
 #. [message]: speaker=$ally_name
 msgid ""
@@ -5180,8 +5216,8 @@ msgstr "好吧，越快离开这里我越高兴。"
 msgid "Wait, did you feel that?"
 msgstr "等下，你们感觉到什么了吗？"
 
-#. [message]
 #. [message]: speaker=Nym
+#. [message]: role=mystic_speaker
 msgid "What?"
 msgstr "什么？"
 
@@ -5778,7 +5814,8 @@ msgstr ""
 "它，但我不知道这会有什么后果。我可不想那种东西来攻击我。"
 
 #. [option]
-msgid "Break the circle"
+#, fuzzy
+msgid "Break the circle."
 msgstr "破坏魔法圈"
 
 #. [command]
@@ -6264,10 +6301,6 @@ msgstr ""
 "好了，妮慕是对的，我们不知道外面是什么情况。所以我们要沿着洞穴出口展开一个防"
 "御阵型，然后探查山的这一边是什么情况。"
 
-#. [objective]: condition=win
-msgid "Explore outside"
-msgstr "探索外界"
-
 #. [message]: speaker=unit
 msgid ""
 "Look, the tunnel slopes sharply downwards to the left. And it’s big enough "
@@ -6472,8 +6505,8 @@ msgstr ""
 "陵。山谷的中央是平的，四周是沙丘。山谷中央似乎有定居点。在更远的北边，我看见"
 "天际似乎有闪光，但我不知道那是什么。"
 
-#. [unit]: type=Divine Avatar, id=Eloh
 #. [event]
+#. [unit]: type=Divine Avatar, id=Eloh
 #. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
 msgid "Eloh"
@@ -6822,10 +6855,6 @@ msgid ""
 "besides undead."
 msgstr "我从来都对人类没有好感。我很高兴有亡灵以外的东西可以打。"
 
-#. [objective]: condition=win
-msgid "Defeat Sergeant Durstrag"
-msgstr "击败德崔格长官"
-
 #. [message]: speaker=Nym
 msgid "I’m back, Kaleh."
 msgstr "卡勒，我回来了。"
@@ -6870,14 +6899,6 @@ msgid ""
 "Then we’ll just have to make sure that no messenger escapes this valley to "
 "summon reinforcements."
 msgstr "那我们要确保没有任何一个信使能逃出这个山谷去请求援军。"
-
-#. [objective]: condition=lose
-msgid "A human messenger escapes the valley"
-msgstr "人类信使逃离山谷"
-
-#. [note]
-msgid "The messenger is the leader of the special white colored units"
-msgstr "信使是白色特殊单位的首领"
 
 #. [event]
 msgid "Undead Emissary"
@@ -7358,6 +7379,14 @@ msgstr "艾拉崔"
 #. [objective]: condition=win
 msgid "Rescue at least two merfolk by turn 16"
 msgstr "在第十六回合前至少救出两个人鱼"
+
+#. [objective]: condition=win
+msgid "Defeat Tanstafaal and Eloh"
+msgstr "击败坦斯特福和伊洛"
+
+#. [objective]: condition=win
+msgid "Capture all 4 human ships"
+msgstr "抢占全部4艘人类船只"
 
 #. [objective]: condition=win
 msgid "Three merfolk must survive"
@@ -8017,11 +8046,11 @@ msgid ""
 "Behold, our goddess has returned to us. All bow down to Eloh, our savior!"
 msgstr "安静，我们的女神回来了。膜拜我们的救主伊洛！"
 
-#. [message]
+#. [message]: role=mystic_speaker
 msgid "The Goddess!"
 msgstr "女神！"
 
-#. [message]
+#. [message]: role=fighter_speaker
 msgid "Forgive me my sins!"
 msgstr "请原谅我的罪过！"
 
@@ -8041,12 +8070,12 @@ msgid ""
 msgstr ""
 "我来告诉你们一个坏消息：你们中有一个人背叛了我，他是你们遭受磨难的原因。"
 
-#. [message]
 #. [message]: speaker=Zhul
+#. [message]: role=scout_speaker
 msgid "No!"
 msgstr "不！"
 
-#. [message]
+#. [message]: role=rider_speaker
 msgid "Who?"
 msgstr "谁？"
 
@@ -8114,7 +8143,7 @@ msgstr ""
 "的矮人。同样地，在我们从洞穴里逃出来的时候，她又向我显现，让我服从人类，否则"
 "她就要毁了我。真正的伊洛绝不会威胁我们中的任何人，也不会命令我们去做任何事。"
 
-#. [message]
+#. [message]: role=fighter_speaker
 msgid ""
 "Why should we trust you? We have not heard Eloh’s words directly. Only now "
 "that you have led us into this folly has Eloh appeared to us."
@@ -8158,7 +8187,7 @@ msgstr ""
 "的巨魔。同样地，在我们从洞穴里逃出来的时候，她又向我显现，让我服从人类，否则"
 "她就要毁了我。真正的伊洛绝不会威胁我们中的任何人，也不会命令我们去做任何事。"
 
-#. [message]
+#. [message]: role=fighter_speaker
 msgid ""
 "Why should we trust you? We have not heard these words directly. Only now "
 "that you have led us into this folly has she appeared to us."
@@ -8205,9 +8234,10 @@ msgstr ""
 "家走到了今天，请加入我，帮我粉碎这场叛乱！"
 
 #. [message]: speaker=Nym
+#, fuzzy
 msgid ""
 "I have followed you this far Kaleh, I will not abandon you now. But I admit "
-"that my faith is shaken. If that is not our god, than what is it?"
+"that my faith is shaken. If that is not our god, then what is it?"
 msgstr ""
 "卡勒，我跟随你走了这么远，我现在也不会抛弃你。但是我承认我的信仰受到了动摇。"
 "如果这不是我们的神，那她是谁呢？"
@@ -8291,10 +8321,6 @@ msgstr ""
 #. [message]: speaker=Kaleh
 msgid "Then we will make do with those few that we have."
 msgstr "那我们就利用这些仅有的人吧。"
-
-#. [objective]: condition=win
-msgid "Defeat Tanstafaal and Eloh"
-msgstr "击败坦斯特福和伊洛"
 
 #. [event]
 msgid "Elvish Rebel"
@@ -8645,10 +8671,6 @@ msgid ""
 "Though the cost be high, we do what we must. Come let us go capture those "
 "boats."
 msgstr "虽然耗损很大，我们要做我们必须做的。来，一起去夺船吧。"
-
-#. [objective]: condition=win
-msgid "Capture all 4 human ships"
-msgstr "抢占全部4艘人类船只"
 
 #. [message]: speaker=Eloh
 msgid ""
@@ -9821,6 +9843,18 @@ msgstr "被困的人鱼"
 msgid "Kaleh must capture a keep"
 msgstr "卡勒 必须占领一个要塞"
 
+#. [objective]: condition=win
+msgid "Reach the black citadel in the center of the island"
+msgstr "抵达岛中央的黑暗要塞"
+
+#. [objective]: condition=win
+msgid "Defeat enemy leaders, find both keys"
+msgstr "打倒敌人首领， 找到两把钥匙"
+
+#. [objective]: condition=win
+msgid "Any unit must reach the black citadel"
+msgstr "任何单位抵达黑色大本营"
+
 #. [unit]: type=Quenoth Fighter
 msgid "Eagath"
 msgstr "伊格斯"
@@ -9993,10 +10027,6 @@ msgstr ""
 msgid "Thank you. I’m sure the reinforcements will be very useful."
 msgstr "谢谢，这增援太有用了。"
 
-#. [objective]: condition=win
-msgid "Reach the black citadel in the center of the island"
-msgstr "抵达岛中央的黑暗要塞"
-
 #. [message]: speaker=Kelur
 msgid "Feel the cold touch of death!"
 msgstr "感受死亡的冰冷吧！"
@@ -10050,10 +10080,6 @@ msgstr ""
 "我想我知道。我打赌伊洛会把钥匙交给她最信任的人。守门的是一个兽人和一个骷髅，"
 "他们身上肯定各有一把钥匙，首领就是应该负责掌管这种重要的东西。"
 
-#. [objective]: condition=win
-msgid "Defeat enemy leaders, find both keys"
-msgstr "打倒敌人首领， 找到两把钥匙"
-
 #. [message]: speaker=Kaleh
 msgid ""
 "We’ve found both keys. Now we just have to take them and open the door to "
@@ -10062,10 +10088,6 @@ msgid ""
 msgstr ""
 "我们已经找到了两把钥匙。现在我们可以去打开黑暗要塞的门了。我看了太多的流血牺"
 "牲，不管耶柯纳戈斯躲在哪里，我们都要找到她，让她为这一切付出代价。"
-
-#. [objective]: condition=win
-msgid "Any unit must reach the black citadel"
-msgstr "任何单位抵达黑色大本营"
 
 #. [message]: speaker=Kelur
 msgid "Aaaargh!"
@@ -10336,6 +10358,10 @@ msgstr "最后的对决"
 msgid "Defeat the false Eloh"
 msgstr "击败假冒的伊洛"
 
+#. [objective]: condition=win
+msgid "Defeat Yechnagoth"
+msgstr "击败耶柯纳戈斯"
+
 #. [message]: speaker=Nym
 msgid "Kaleh! No!"
 msgstr "卡勒！不！"
@@ -10533,10 +10559,6 @@ msgstr ""
 "它肯定有什么弱点。看看这些突起，我还以为是石头，但是似乎也有生命。如果我们破"
 "坏它们，或许就能削弱那大家伙的力量。不管发生什么可怕的事，我们都必须继续攻击"
 "它。我们现在不能停下！"
-
-#. [objective]: condition=win
-msgid "Defeat Yechnagoth"
-msgstr "击败耶柯纳戈斯"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -11819,7 +11841,7 @@ msgstr "陶洛守护者"
 
 #. [unit_type]: id=Tauroch Protector, race=elf
 msgid ""
-"From the journal of Syniel, the sand skipper:\n"
+"From the journal of Syniel, the Sand Skipper:\n"
 "\n"
 "The orcs ambushed me near the oasis at twilight. I had to flee into the "
 "desert, but even there, the wolves were nearly fast enough to keep up with "

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-09-16 07:03 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:13 UTC\n"
 "PO-Revision-Date: 2019-04-24 22:29+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -27,9 +27,10 @@ msgid "4p — A New Land"
 msgstr "4p — 新世界"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
+#, fuzzy
 msgid ""
 "This 4p survival scenario allows you to construct buildings and terraform "
-"the land. Use map settings. The recommended starting gold is 100."
+"the land. The recommended starting gold is 100."
 msgstr ""
 "在这个4玩家的生存场景里，你可以建造建筑以及改变地形。请使用地图设置。推荐起始"
 "金币数为100。"
@@ -44,14 +45,6 @@ msgstr ""
 "大战之后，残存的人类逃到了一个鲜为人知与世隔绝的幽谷之中。他们知道毁灭自己家"
 "园的敌军军势浩大，躲避终究不能长久。抵抗军的领袖们只希望能够争取到足够的时间"
 "来重建军力。"
-
-#. [objectives]
-msgid "Right-click on your leader during your turn for help"
-msgstr "在你的回合中，右键点击你的首领以获取帮助"
-
-#. [objective]: condition=win
-msgid "You must survive until turn 25."
-msgstr "你必须坚持到第25回合。"
 
 #. [side]
 msgid "teamname^Settlers"
@@ -80,6 +73,11 @@ msgstr "玛尔·史奇"
 
 #. [side]
 msgid "teamname^Prisoners"
+msgstr "囚徒"
+
+#. [side]
+#, fuzzy
+msgid "teamname^Monsters"
 msgstr "囚徒"
 
 #. [message]: speaker=narrator
@@ -278,7 +276,8 @@ msgid "A New Land — Help"
 msgstr "新世界——帮助"
 
 #. [message]: speaker=narrator
-msgid "Select a topic."
+#, fuzzy
+msgid "Select a topic:"
 msgstr "选择一个主题。"
 
 #. [option]
@@ -413,6 +412,43 @@ msgid ""
 "Our talks are complete — the Elves shall aid you in this battle. Which our "
 "of kin do you wish to recruit?"
 msgstr "我们的交涉完成了——精灵将在战斗中给您协助。您想征募哪位手足？"
+
+#. Part of the scenario objectives
+msgid "In this scenario you build up an economy"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Move any unit next to captives and they will join your side"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Right-click on a leader to read about the game mechanics"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Rules:"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Goal:"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Hint:"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Hints:"
+msgstr ""
+
+#. Part of the scenario objectives
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. Part of the scenario objectives
+#, fuzzy
+msgid "You must survive until turn 25"
+msgstr "你必须坚持到第25回合。"
 
 #. [set_menu_item]: id=anl_choose_new_recruit
 msgid "Choose New Recruit"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-02-18 19:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -32,11 +32,18 @@ msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
 msgid ""
-"A young Knight, Deoran, is dispatched to take command of the South Guard.\n"
+"A young knight, Deoran, is dispatched to the southern Wesnoth province of "
+"Kerlath to investigate the ravaged towns at the border. Thrust quickly into "
+"a hapless conflict against marauding bandits, Deoran must rally the "
+"remaining men of the derelict South Guard to defend his country.\n"
 "\n"
-"Note: This campaign is designed as an introduction to Wesnoth. The "
-"‘Civilian’ difficulty level is aimed at first-time players.\n"
-"\n"
+msgstr ""
+
+#. [campaign]: id=The_South_Guard
+#, fuzzy
+msgid ""
+"This campaign is designed as an introduction to Wesnoth. The ‘Civilian’ "
+"difficulty level is aimed at first-time players."
 msgstr ""
 "一位年轻的骑士德欧兰接受派遣，前去接管南疆卫队。\n"
 "\n"
@@ -101,10 +108,10 @@ msgstr "南疆卫队"
 msgid "Urza Mathin"
 msgstr "乌扎·马辛"
 
+#. [side]: type=Outlaw, id=Jera Ilras
 #. [side]: type=Bandit, id=Urza Mathin
 #. [side]: type=Outlaw, id=Urza Nalmath
 #. [side]: type=Rogue, id=Urza Fastik
-#. [side]: type=Outlaw, id=Jera Ilras
 #. [side]: type=Outlaw, id=Urza Afalas
 msgid "Bandits"
 msgstr "强盗"
@@ -320,8 +327,9 @@ msgstr ""
 "我们欢迎你们的帮助！当我们取胜之时，这块土地之上的河域还将继续属于你们。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"You may now recruit Merman Hunters. Mermen are aquatic creatures and fight "
+"You may now recruit Merman Hunters. Merfolk are aquatic creatures and fight "
 "best in rivers and swamps. They are much less effective on dry land."
 msgstr ""
 "你现在可以征募人鱼猎手了。人鱼是水中生物，他们在河流和沼泽之中可以最高效地战"
@@ -1008,8 +1016,8 @@ msgstr "米撒尔韦"
 msgid "Ithelden"
 msgstr "伊希尔登"
 
-#. [event]
 #. [unit]: type=Elvish Avenger, id=Eltenmir
+#. [event]
 #. [side]: type=Elvish Avenger, id=Eltenmir
 msgid "Eltenmir"
 msgstr "埃尔滕米尔"
@@ -1205,12 +1213,12 @@ msgid "Mal A’kai"
 msgstr "玛尔·阿凯"
 
 #. [side]: type=Dark Adept, type=Dark Sorcerer, type=Dark Sorcerer, id=Mal A'kai
+#. [side]: type=Soulless, id=Gruth
+#. [side]: type=Lich, id=Mal M'Brin
 #. [side]
 #. [side]: type=Ancient Lich, id=Mal M'Brin
 #. [side]: type=Soulless, id=Groth
 #. [side]: type=Lich, id=Mal Tera
-#. [side]: type=Soulless, id=Gruth
-#. [side]: type=Lich, id=Mal M'Brin
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1383,8 +1391,8 @@ msgstr "也许吧，但至少你不会再给我们制造麻烦了！"
 msgid "Mebrin! Are you there? We have come to seek your aid!"
 msgstr "梅布林！您在吗？我们来求助于您！"
 
-#. [message]: speaker=Kramak
 #. [message]: speaker=narrator
+#. [message]: speaker=Kramak
 #. [message]: speaker=Ethiliel
 msgid "..."
 msgstr "……"
@@ -1464,6 +1472,7 @@ msgid "Choice in the Fog"
 msgstr "雾中抉择"
 
 #. [side]: type=Outlaw, id=Urza Afalas
+#. [unit]: type=Outlaw, id=Urza Afalas
 msgid "Urza Afalas"
 msgstr "乌扎·阿法拉斯"
 
@@ -1851,6 +1860,12 @@ msgid ""
 "defeat the undead."
 msgstr "不要害怕！我知道出去的路，在我们打败亡灵之后, 我可以带你们回家。"
 
+#. [message]: speaker=narrator
+msgid ""
+"Urza Afalas’s troops are exhausted from battle and cannot attack this turn, "
+"but are still able to withdraw and reposition themselves."
+msgstr ""
+
 #. [message]: speaker=Urza Afalas
 msgid "I pay for my crimes, but without me, you cannot fight the undead..."
 msgstr "我为我的罪行付出代价，但没有我，你就无法与亡灵作战……"
@@ -2082,8 +2097,8 @@ msgstr "泽里克斯"
 msgid "Scorpion"
 msgstr "蝎子"
 
-#. [side]
 #. [event]
+#. [side]
 msgid "Kramak"
 msgstr "克拉马克"
 
@@ -2218,8 +2233,8 @@ msgstr "现在嘶嘶谁来保护我的孩儿们？嘶……"
 msgid "Oh! Me see elves. Elves tasty food?"
 msgstr "嗬！俺看到精灵。精灵好吃伐？"
 
-#. [message]: speaker=second_unit
 #. [message]: speaker=Deoran
+#. [message]: speaker=second_unit
 msgid "Err, Mr. Ogre, we are not very tasty."
 msgstr "呃，食人魔先生，我们并不很好吃。"
 
@@ -4011,67 +4026,6 @@ msgstr ""
 "行尸通常由较弱的黑魔法使用者驱使，他们偷来死尸，用于练习他们的亵渎魔法。单个"
 "行尸是缓慢而脆弱的，尽管一大群行尸可能会变得危险。任何被行尸杀死的单位都会被"
 "不死瘟疫所影响，而也变为行尸。"
-
-#. [message]: speaker=narrator
-msgid ""
-"Thugs are the mainstay of the bandit armies. They do not have a <i>ranged</"
-"i> attack, and are vulnerable to your archers. Deoran’s lance will also "
-"strike fear into their hearts! Like all of the bandit units, they are much "
-"more dangerous at night."
-msgstr ""
-"暴徒是土匪军队的主力。他们没有<b>远程</b>攻击，易遭你的弓箭手伤害。德欧兰的长"
-"枪也能震慑他们！和其他土匪单位一样，他们在夜间要危险得多。"
-
-#. [message]: speaker=narrator
-msgid ""
-"Thieves are more subtle than thugs. They try to surround your units and stab "
-"them in the back. Make sure that thieves never have an opportunity to attack "
-"when they have an ally directly behind the unit they are attacking — they’ll "
-"do double damage! Like thugs, thieves are vulnerable to the ranged attacks "
-"of your archers."
-msgstr ""
-"盗贼比暴徒要灵巧。他们试图包围你的单位并背刺他们。当有盗贼的同伙在你的单位背"
-"后时，不要让盗贼有出手的机会——他们将造成双倍伤害！和暴徒一样，盗贼易遭你的弓"
-"箭手的远程攻击伤害。"
-
-#. [message]: speaker=narrator
-msgid ""
-"Footpads are the scouts of the bandit armies. They are quick, and have both "
-"a <i>melee</i> attack and a <i>ranged</i> attack. Neither of their attacks "
-"is very strong, however, and your spearmen will make quick work of them "
-"during the day."
-msgstr ""
-"走卒是土匪军队的侦察兵。他们速度快，既有<b>近战</b>攻击又有<b>远程</b>攻击。"
-"但是两种攻击都不强，你的矛兵在昼间可以迅速解决他们。"
-
-#. [message]: speaker=narrator
-msgid ""
-"Skeletons are the bones of fallen warriors raised by some dark magic. They "
-"are almost immune to piercing weapons like arrows and spears. Bladed attacks "
-"like swords will injure them, and Minister Hylas’s <i>arcane</i> attack is "
-"deadly against them. Like the rest of the bandits, they are more dangerous "
-"at night!"
-msgstr ""
-"骷髅是阵亡战士的骸骨，被某种黑暗魔法所操纵。它们对箭和矛等穿刺武器几乎免疫，"
-"刃器攻击，例如剑，能伤害他们，而海拉斯辅佐官的<b>奥术</b>攻击对它们是致命的。"
-"和其他土匪一样，他们在夜间更加危险！"
-
-#. [message]: speaker=narrator
-msgid ""
-"Walking corpses are the bodies of slain warriors, filled with some black "
-"magic. They are slow and weak — any of your units is more than a match for "
-"them. They are only dangerous in packs..."
-msgstr ""
-"行尸是被杀死的战士的驱壳，被某种黑魔法所充盈。他们缓慢而弱小——你的任何一个单"
-"位都比它们强。只有成群结队时，它们才具有危险性……"
-
-#. [message]: speaker=narrator
-msgid ""
-"Losing units is part of the battle. Learn to accept losses, sometimes they "
-"may even help you to protect your more important units."
-msgstr ""
-"失去单位是战斗的一部分。学会接受损失，有时他们甚至可以帮助你保护更重要的单"
-"位。"
 
 #. [part]
 msgid ""

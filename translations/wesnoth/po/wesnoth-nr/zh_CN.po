@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-02-07 17:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -556,13 +556,13 @@ msgstr ""
 
 #. [side]: type=Troll, id=Franik
 #. [side]: type=Troll, id=Henie
-#. [side]: type=Troll Warrior, id=Tor
-#. [side]: type=Troll Warrior, id=Bor
-#. [side]: type=Troll Warrior, id=Oof
-#. [side]: type=Troll Warrior, id=Glu
 #. [side]: type=Troll, id=Knash
 #. [side]: type=Troll, id=Krog
 #. [side]: type=Troll Warrior, id=Thung
+#. [side]: type=Troll Warrior, id=Tor
+#. [side]: type=Troll Hero, id=Bor
+#. [side]: type=Troll Rocklobber, id=Oof
+#. [side]: type=Troll Hero, id=Glu
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -579,9 +579,6 @@ msgstr "克洛格"
 msgid "Hamel"
 msgstr "哈梅尔"
 
-#. [side]: type=Death Knight, id=Mal Barath
-#. [side]: type=Death Knight, id=Delzath
-#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Ancient Lich, id=Malifor
 #. [side]: type=Draug, id=Thorin
 #. [side]: type=Draug, id=Herlin
@@ -592,6 +589,9 @@ msgstr "哈梅尔"
 #. [side]: type=Death Knight, id=Author
 #. [side]: type=Death Knight, id=Boblin
 #. [side]: type=Death Knight, id=Antrasis
+#. [side]: type=Death Knight, id=Mal Barath
+#. [side]: type=Death Knight, id=Delzath
+#. [side]: type=Death Knight, id=Mal Tath
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1271,8 +1271,8 @@ msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 
 #. [side]: type=Lieutenant, id=Tallin
 #. [side]
-#. [side]: type=Elvish Avenger, id=Sisal
 #. [side]: type=Dwarvish Lord, id=Hamel
+#. [side]: type=Elvish Avenger, id=Sisal
 msgid "Alliance"
 msgstr "联盟"
 
@@ -3065,16 +3065,16 @@ msgstr "纳尔迦人"
 #. [side]
 #. [side]: type=Orcish Warlord, id=Drung
 #. [side]: type=Orcish Warlord, id=Poul
+#. [side]: type=Orcish Warlord, id=Ha'Tuil
+#. [side]: type=Orcish Warlord, id=Ar'Muff
+#. [side]: type=Orcish Warlord, id=Calter
+#. [side]: type=Orcish Warlord, id=Halter
 #. [side]: type=Orcish Warlord, id=Atul
 #. [side]: type=Troll Warrior, id=Gore
 #. [side]: type=Orcish Warlord, id=Carron
 #. [side]: type=Orcish Warlord, id=Rash
 #. [side]: type=Orcish Warlord, id=Al'Mar
 #. [side]: type=Orcish Warlord, id=Ha'Tang
-#. [side]: type=Orcish Warlord, id=Ha'Tuil
-#. [side]: type=Orcish Warlord, id=Ar'Muff
-#. [side]: type=Orcish Warlord, id=Calter
-#. [side]: type=Orcish Warlord, id=Halter
 msgid "Orcs"
 msgstr "兽人"
 
@@ -3729,8 +3729,8 @@ msgid "Liches"
 msgstr "巫妖"
 
 #. [side]: type=Ancient Lich, id=Ro'Arthian
-#. [unit]: type=Ancient Lich, id=Ro'Arthian
 #. [modify_side]
+#. [unit]: type=Ancient Lich, id=Ro'Arthian
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
 
@@ -4114,9 +4114,9 @@ msgid ""
 msgstr "等一等，塔林。你是说要把我们的家园送给这些可恶的法师？！"
 
 #. [message]: speaker=Ro'Arthian
-#. [message]: speaker=Ro'Sothian
-#. [message]: speaker=Eryssa
 #. [message]: id=Ro'Sothian
+#. [message]: speaker=Eryssa
+#. [message]: speaker=Ro'Sothian
 msgid "(<i>Snicker</i>)"
 msgstr "（<b>窃笑</b>）"
 
@@ -4480,9 +4480,10 @@ msgid "I think we have a chance to make some new allies here..."
 msgstr "我想我们现在有一个结交新盟友的机会了……"
 
 #. [story]
+#, fuzzy
 msgid ""
 "Allies? I take it we’re to go to them and ask them to join us in return for "
-"our help in rescuing their Princess? You heard their message — those elves "
+"our help in rescuing their princess? You heard their message — those elves "
 "have got their noses so high in the air they canna’ see over them. They "
 "wouldna’ ally themselves with the likes o’ us."
 msgstr ""
@@ -4658,8 +4659,8 @@ msgstr ""
 msgid "INTRUDERS! KILL THEM!!"
 msgstr "入侵者！杀死他们！！"
 
-#. [unit]: type=Elvish Sorceress, id=Eryssa
 #. [modify_side]
+#. [unit]: type=Elvish Sorceress, id=Eryssa
 msgid "Eryssa"
 msgstr "伊蕊莎"
 
@@ -4679,7 +4680,7 @@ msgstr "我自由了！谢谢你们，我的英雄们。是谁把我从这监牢
 #. [message]: speaker=Tallin
 #, fuzzy
 msgid ""
-"(<i>whispering</i>) Later, princess, first let’s get outta — uh, let us take "
+"(<i>whispering</i>) Later, my lady, first let’s get outta — uh, let us take "
 "our leave of this place as swiftly as may be!"
 msgstr "以后再说，公主。现在让我们赶快逃出——呃，让我们尽快离开这个地方！"
 
@@ -5386,9 +5387,10 @@ msgid "You’re right, Elenia, Tallin is truly a hero."
 msgstr "你说的对，伊莱妮雅，塔林是个大英雄。"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid ""
-"Not at all, Princess. I am no more than a humble peasant trying to free my "
-"people from enslavement."
+"Not at all, Your Highness. I am no more than a humble peasant trying to free "
+"my people from enslavement."
 msgstr ""
 "过奖了，公主。我只是个普通的农民。只想那个带领我的乡亲从残暴统治下获得自由。"
 
@@ -5406,7 +5408,8 @@ msgstr ""
 "中帮了北方所有的精灵。"
 
 #. [message]: speaker=Tallin
-msgid "Ahh, it was nothing, princess."
+#, fuzzy
+msgid "Ahh, it was nothing, my lady."
 msgstr "啊，这不算什么，公主。"
 
 #. [message]: speaker=Eryssa
@@ -5418,10 +5421,11 @@ msgstr ""
 "你？"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid ""
-"Princess, as Elenia has said, we are currently locked in a death-struggle "
-"with the orcs led by a warlord named Rakshas. You could help us most by "
-"joining us in our quest to crush this menace once and for all."
+"As Elenia has said, we are currently locked in a death-struggle with the "
+"orcs led by a warlord named Rakshas. You could help us most by joining us in "
+"our quest to crush this menace once and for all."
 msgstr ""
 "公主，就像伊莱妮雅说的，我们现在共同面临拉克夏斯领导兽人军团的威胁。我们希望"
 "你们和我们合作，一劳永逸的消除这个威胁。"
@@ -5439,8 +5443,9 @@ msgstr ""
 "他们不仅是为了你们，也是为了我们自己。"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid ""
-"Princess, we are not seeking to do business here: <i>“I do this for you and "
+"My lady, we are not seeking to do business here: <i>“I do this for you and "
 "you do this for me.”</i> No, we seek to build everlasting friendships which "
 "will forever ensure the peace and prosperity of these Northlands. Therefore, "
 "let there be no talk of debts and repayments between us."
@@ -5546,8 +5551,10 @@ msgid "Peace! Peace!"
 msgstr "镇定！镇定！"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid ""
-"Well, what about the orcs then, princess? Don’t you wish to be rid of them?"
+"Well, what about the orcs then, <i>Princess</i>? Don’t you wish to be rid of "
+"them?"
 msgstr "好吧，那兽人怎么办，公主？你不想摆脱他们吗？"
 
 #. [message]: speaker=Eryssa
@@ -5567,8 +5574,9 @@ msgid "Mind your tongue, elf!"
 msgstr "注意你的舌头，精灵！"
 
 #. [message]: speaker=Father Morvin
+#, fuzzy
 msgid ""
-"Frankly, princess, I am disappointed. I was always under the impression that "
+"Frankly, my lady, I am disappointed. I was always under the impression that "
 "elves were an honorable lot who took their debts seriously."
 msgstr "坦白说，公主，我很失望。我的印象里，精灵是高贵的，把恩惠看得很重要。"
 
@@ -5915,8 +5923,9 @@ msgid "Who is this annoying chit?"
 msgstr "这讨厌的小孩是谁？"
 
 #. [then]
+#, fuzzy
 msgid ""
-"This is the famous and benevolent princess Eryssa, in whose rescue we "
+"This is the famous and benevolent Princess Eryssa, in whose rescue we "
 "sacrificed many lives and <i>much</i> gold."
 msgstr ""
 "这就是著名的仁慈的伊蕊莎公主，为了救她我们牺牲了很多伙伴，还有<b>大量的</b>金"
@@ -6068,15 +6077,15 @@ msgstr ""
 msgid "Tor"
 msgstr "托"
 
-#. [side]: type=Troll Warrior, id=Bor
+#. [side]: type=Troll Hero, id=Bor
 msgid "Bor"
 msgstr "博"
 
-#. [side]: type=Troll Warrior, id=Oof
+#. [side]: type=Troll Rocklobber, id=Oof
 msgid "Oof"
 msgstr "沃"
 
-#. [side]: type=Troll Warrior, id=Glu
+#. [side]: type=Troll Hero, id=Glu
 msgid "Glu"
 msgstr "格鲁"
 
@@ -6207,11 +6216,11 @@ msgstr "哇哇，太可爱了！"
 msgid "Tell that to the trolls."
 msgstr "让巨魔知道厉害。"
 
-#. [message]: speaker=Oof
+#. [message]: id=Oof,Tor
 msgid "What?! Drakes?! Fire! Aagghh!"
 msgstr "什么！龙？！火！啊啊啊！"
 
-#. [message]: speaker=Glu
+#. [message]: id=Glu,Bor
 msgid "Shut your mouth, you coward!"
 msgstr "闭嘴，你这个胆小鬼！"
 
@@ -6219,13 +6228,14 @@ msgstr "闭嘴，你这个胆小鬼！"
 msgid "Help Tallin defeat the enemy leaders"
 msgstr "帮助塔林打败敌方首领"
 
-#. [unit]: id=Hidel, type=Elvish Marshal
 #. [unit]: type=Elvish Marshal, id=Hidel
+#. [unit]: id=Hidel, type=Elvish Marshal
 msgid "Hidel"
 msgstr "海达尔"
 
 #. [message]: speaker=Hidel
-msgid "Princess! We have finally found you!"
+#, fuzzy
+msgid "Your Highness! We have finally found you!"
 msgstr "公主！我们终于找到你了！"
 
 #. [message]: speaker=Eryssa
@@ -6233,8 +6243,9 @@ msgid "Good work, Hidel! How do your forces march?"
 msgstr "好样的，海达尔！你的人都来了吗？"
 
 #. [message]: speaker=Hidel
+#, fuzzy
 msgid ""
-"They are all here, princess! Hand picked by your father — the finest and "
+"They are all here, my lady! Hand picked by your father — the finest and "
 "bravest elvish troops in the entire Northlands. We will follow you to the "
 "end of the world if need be."
 msgstr ""
@@ -6248,10 +6259,11 @@ msgid ""
 msgstr "非常好。我们的第一个任务就是全力支持勇敢的塔林，帮助他打败那些巨魔。"
 
 #. [message]: speaker=Hidel
-msgid "With pleasure, Princess! Quickly men, set up a base!"
+#, fuzzy
+msgid "With pleasure! Quickly men, set up a base!"
 msgstr "非常荣幸，公主！快点，建起营地！"
 
-#. [message]: speaker=Oof
+#. [message]: id=Oof,Glu,Tor
 msgid ""
 "Oh no! Those blasted elves have just joined forces with the humans! This is "
 "hopeless! Flee! Flee!"
@@ -6330,7 +6342,7 @@ msgstr "北方精灵会永远记住这个侮辱的！你们很快就会为自己
 msgid "Pff, elves. What a bunch of stuck-up snots!"
 msgstr "呸，精灵。烦人的自命不凡的讨厌鬼！"
 
-#. [message]: speaker=Oof
+#. [message]: id=Oof,Glu,Tor
 msgid ""
 "Oh no! The elves have just given the humans a hoard of gold! This is "
 "hopeless! Flee! Flee!"
@@ -6396,9 +6408,10 @@ msgid "Sisal"
 msgstr "塞索"
 
 #. [message]: speaker=Hidel
+#, fuzzy
 msgid ""
-"Princess! We have finally found you! Thank the Bright Gods you are free! "
-"Your father had originally sent us to rescue you."
+"Your Highness! We have finally found you! Thank the Bright Gods you are "
+"free! Your father had originally sent us to rescue you."
 msgstr "公主！我们终于找到你了！谢天谢地！你的父亲派我们一定要救出你。"
 
 #. [message]: speaker=Eryssa
@@ -6440,8 +6453,9 @@ msgid "What is the status of our troops, Hidel?"
 msgstr "我们的部队怎样，海达尔？"
 
 #. [message]: speaker=Hidel
+#, fuzzy
 msgid ""
-"They are all here, princess! Hand picked by your father — the finest and "
+"They are all here, my lady! Hand picked by your father — the finest and "
 "bravest elvish troops in the entire Northlands."
 msgstr ""
 "他们都在这里了，公主！他们全由您父亲亲自选出，是整个北陆上最好最勇敢的精灵部"
@@ -6457,7 +6471,8 @@ msgstr ""
 "对我们和对他都一样重要。"
 
 #. [message]: speaker=Hidel
-msgid "As you wish, princess."
+#, fuzzy
+msgid "As you wish, my lady."
 msgstr "谨遵旨意，公主。"
 
 #. [message]: speaker=Tallin
@@ -6600,9 +6615,10 @@ msgid "Hidel?"
 msgstr "海达尔？"
 
 #. [message]: speaker=Hidel
+#, fuzzy
 msgid ""
-"Easily, princess. We shall move unseen through the trees, overtake him, and "
-"put an end to his flight."
+"Easily, Your Highness. We shall move unseen through the trees, overtake him, "
+"and put an end to his flight."
 msgstr ""
 "这不难，公主。我们可以在树之间匿踪行进，追上他，拦住他的去路，给他的征程画上"
 "终止符。"
@@ -6622,7 +6638,8 @@ msgid "(<i>Wink wink</i>)"
 msgstr "（<b>眨眼眨眼</b>）"
 
 #. [message]: speaker=Hidel
-msgid "(<i>Raises eyebrow</i>) Very well, princess."
+#, fuzzy
+msgid "(<i>Raises eyebrow</i>) Very well, my lady."
 msgstr "（<b>皱起眉头</b>）遵命，公主。"
 
 #. [message]: speaker=Tallin
@@ -6739,8 +6756,9 @@ msgstr ""
 "时候，他的眼睛慢慢睁开了。"
 
 #. [story]
+#, fuzzy
 msgid ""
-"I am sorry, princess... We held him for... as long as we could... but his "
+"I am sorry, my lady... We held him for... as long as we could... but his "
 "bodyguards... were... just too many and powerful... And then... the "
 "orcish... reinforcements arrived..."
 msgstr ""
@@ -6761,9 +6779,10 @@ msgid "Hidel, I am sorry. I have sent you to your death, and I grieve."
 msgstr "海达尔，对不起，是我害死你的，我真对不起。"
 
 #. [story]
+#, fuzzy
 msgid ""
-"... Don’t tax yourself... princess... I have died... a warrior’s death... "
-"You should be proud..."
+"... Don’t tax yourself... Eryssa... I have died... a warrior’s death... You "
+"should be proud..."
 msgstr "……别责备自己……公主……作为一个武士……我死得其所……你该为我感到骄傲……"
 
 #. [story]
@@ -6859,8 +6878,9 @@ msgstr ""
 "成以后，大家围到了塔林和伊蕊莎前面。"
 
 #. [story]
+#, fuzzy
 msgid ""
-"Princess... it is a hard thing, I know, but you must put your grief behind "
+"My lady... it is a hard thing, I know, but you must put your grief behind "
 "you. Or at least, put it aside for a little while. We must go quickly to the "
 "aid of Sisal and recover our gold."
 msgstr ""
@@ -6917,7 +6937,8 @@ msgid "Sisal, how do you fare?"
 msgstr "塞索，进展如何？"
 
 #. [message]: id=Sisal
-msgid "Princess! You are here! How fares Hidel?"
+#, fuzzy
+msgid "Your Highness! You are here! How fares Hidel?"
 msgstr "公主！你来了！海达尔怎样？"
 
 #. [message]: id=Eryssa

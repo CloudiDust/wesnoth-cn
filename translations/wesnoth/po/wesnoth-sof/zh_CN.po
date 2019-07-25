@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-04-24 22:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -112,12 +112,12 @@ msgid "Glildur"
 msgstr "基利达"
 
 #. [side]: type=Elvish Marshal, id=Crintil
+#. [side]: type=Elvish Captain, id=Glildur
 #. [side]
 #. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]: type=Elvish Captain, id=Glildur
 msgid "Elves"
 msgstr "精灵"
 
@@ -502,8 +502,8 @@ msgstr "紧闭大门"
 msgid "Glindur"
 msgstr "格林达"
 
-#. [side]: type=Troll Warrior, type=Troll
 #. [side]
+#. [side]: type=Troll Warrior, type=Troll
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -1794,6 +1794,10 @@ msgstr "你正犯一个错误，达司拓恩。"
 msgid "Shut up, all of you! Attack them!"
 msgstr "所有人都闭嘴！攻击他们！"
 
+#. [message]: speaker=narrator
+msgid "You may now recruit Gryphon Riders."
+msgstr ""
+
 #. [unit]: id=Lyndar, type=Elvish Marshal
 msgid "Lyndar"
 msgstr "林达尔"
@@ -2690,8 +2694,8 @@ msgstr ""
 "危险。只有魔法符附近的区域是唯一安全的地方。"
 
 #. [objective]: condition=win
-msgid "Kill all of the elves before one of them escapes from the caves"
-msgstr "在任一精灵逃出洞窟前杀掉所有精灵"
+msgid "Survive as long as possible"
+msgstr ""
 
 #. [message]: role=smartelf
 msgid ""

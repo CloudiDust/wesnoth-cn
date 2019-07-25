@@ -2,14 +2,14 @@
 # Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # IkathrioLionheart <axalaraflameheart@163.com>, 2012.
-# CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# CloudiDust <cloudidust@gmail.com>, 2017, 2019.
+# termanary, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 09:23 UTC\n"
-"PO-Revision-Date: 2019-04-24 22:41+0800\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
+"PO-Revision-Date: 2019-07-25 21:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -982,7 +982,7 @@ msgstr "你是怎么被抓住的？"
 msgid ""
 "The Barag Gór council sent me to assassinate the elvish leaders. "
 "Unfortunately, I was captured."
-msgstr "灞拉·格长老会派我暗杀精灵首领。可惜我人品太负，被抓了个现行。"
+msgstr "灞拉·格长老会派我暗杀精灵首领。可惜我人品太差，被抓了个现行。"
 
 #. [message]: speaker=Kapou'e
 msgid "Fine, someone go release him."
@@ -1030,7 +1030,7 @@ msgid ""
 "escort the shamans to the Harbor of Tirigaz where the rest of the council "
 "was residing."
 msgstr ""
-"明显的，人类试图通过绑架和杀害萨满们阻止大部落集结，萨满要求卡破尔护送他们前"
+"很明显，人类试图通过绑架和杀害萨满们阻止大部落集结，萨满要求卡破尔护送他们前"
 "往其它长老会成员居住的提里嘎兹港。"
 
 #. [part]
@@ -1164,7 +1164,7 @@ msgid ""
 "protecting you."
 msgstr ""
 "听着，如果你们要去见其他评议会成员，我们一定要击退这次进攻。你们萨满藏在这森"
-"林里直到我们打败他们。如果我们在战斗中不分神保护你们，一切都会尽快结束。"
+"林里直到我们打败他们。如果我们在战斗中不用分神保护你们，一切都会尽快结束。"
 
 #. [message]: speaker=Gork
 msgid "This is a wise choice. Good luck, Son of the Black-Eye."
@@ -1295,19 +1295,19 @@ msgstr "到达东南方的绿洲"
 msgid "Ar-Dant"
 msgstr "亚单"
 
-#. [side]: type=Elvish Champion, id=Thelarion
-#. [side]: type=Dwarvish Steelclad, id=Darstang
 #. [side]: type=General, id=Arthain
 #. [side]: type=Lieutenant, id=Hanak
+#. [side]: type=Dwarvish Steelclad, id=Darstang
 #. [side]: type=Bandit, id=Sagmar
 #. [side]: type=General, id=Telthys
+#. [side]: type=Elvish Champion, id=Thelarion
 #. [side]: type=General, id=Fredor
 #. [side]: type=General, id=Georan
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
 #. [side]: type=Assassin, type=Rogue, id=Ar-Dant
 #. [side]
-#. [side]: type=General, id=Earl Lanbec'h
 #. [side]: type=Orcish Warlord, id=Shan Taum
+#. [side]: type=General, id=Earl Lanbec'h
 msgid "Villains"
 msgstr "恶霸"
 
@@ -1431,7 +1431,7 @@ msgstr "我不知道你该不该吃那玩意儿，咕噜，但你看起来气色
 
 #. [message]: speaker=Grüü
 msgid "Ugh... I feel sick."
-msgstr "呃……我觉得我病了。"
+msgstr "呃……我觉得有点难受。"
 
 #. [message]: speaker=Gork
 msgid "Hmmm, it seems that scorpions are poisonous."
@@ -1566,7 +1566,7 @@ msgid ""
 "we meet any, we’ll cut them to pieces."
 msgstr ""
 "精灵跑到这么远的兽人领土里搞什么？不论如何，我们要休整一下。我们现在有足够的"
-"武装来对付这一小撮精灵偷猎者。如果我们遇到他们，把他们用砍成渣渣。"
+"武装来对付这一小撮精灵偷猎者。如果我们遇到他们，就把他们砍成渣渣。"
 
 #. [message]: speaker=second_unit
 msgid "Elves! I was right, this place is infested with the skinny weaklings."
@@ -1750,7 +1750,7 @@ msgstr ""
 
 #. [message]: speaker=Pirk
 msgid "I doubt he would welcome the son of the Black-Eye."
-msgstr "我怀疑他是否欢迎黑眼之子。"
+msgstr "我不知道他是否欢迎黑眼之子。"
 
 #. [message]: speaker=Shan Taum
 msgid ""
@@ -1894,8 +1894,8 @@ msgstr "为了日后招募蜥蜴人，你至少要保证依诺斯和至少四个
 msgid "Whoever detonates the bridge will die."
 msgstr "引爆桥梁的人会死。"
 
-#. [side]: type=Elvish Champion, id=Thelarion
 #. [unit]: type=Elvish Champion, id=Thelarion
+#. [side]: type=Elvish Champion, id=Thelarion
 msgid "Thelarion"
 msgstr "塞拉利昂"
 
@@ -1962,13 +1962,15 @@ msgstr ""
 "当大队蜥蜴人过河后，我们就派一人炸掉南边的桥，遏制他们前进。所有困在桥上的或"
 "是在河的另一边的人都无法幸免！"
 
+# 飞地，大多数人不会知道这个概念？
+# 抑或错别字？基地？
 #. [message]: speaker=Thelarion
 msgid ""
 "Hey look, that tribe of orcs that destroyed my enclave in the Silent Forest "
 "have reinforced Prestim. It is time to avenge the death of our fallen kin my "
 "friends — get them!"
 msgstr ""
-"嘿弟兄们看呐，就是这个部落的兽人破坏了我在寂静森林的飞地，而且还来增援普莱斯"
+"嘿弟兄们看呐，就是这个部落的兽人破坏了我在寂静森林的基地，而且还来增援普莱斯"
 "庭了。现在是为了我们逝去的朋友们复仇的时刻了——冲啊！"
 
 #. [message]: speaker=Kapou'e
@@ -2060,7 +2062,7 @@ msgstr "咻！"
 msgid ""
 "Blast it! The saurians have had too many casualties in order for them to be "
 "of any real help to us. We won’t be able to recruit them in the future."
-msgstr "可恶！蜥蜴人死伤太多，已经帮不了我们什么了。我们日后无法征招它们。"
+msgstr "可恶！蜥蜴人死伤太多，已经帮不了我们什么了。我们日后无法征募它们。"
 
 #. [message]: speaker=Thelarion
 msgid ""
@@ -2072,8 +2074,8 @@ msgstr "花的时间太多了。所有的军队出击，送这些混蛋下地狱
 msgid "It won’t be said that Elves were braver than us, everyone attack!"
 msgstr "我们岂能不如精灵勇猛，全体出击！"
 
-#. [unit]: type=General, id=Earl Lanbec'h
 #. [side]: type=Grand Marshal, id=Earl Lanbec'h
+#. [unit]: type=General, id=Earl Lanbec'h
 #. [side]: type=General, id=Earl Lanbec'h
 msgid "Earl Lanbec’h"
 msgstr "兰贝契伯爵"
@@ -2085,6 +2087,13 @@ msgstr "找到他们了！把它们统统砍成肉酱！"
 #. [message]: speaker=Kapou'e
 msgid "It is too late, we are defeated."
 msgstr "太迟了，我们被打败了。"
+
+#. [message]: speaker=Earl Lanbec'h
+msgid ""
+"So, the elves and dwarves failed to take the fortress and the beasts were "
+"able to muster a defense. No matter. Once the vanguard of my army arrives, I "
+"will storm their pitiful fortress myself."
+msgstr ""
 
 #. [message]: speaker=unit
 msgid "The green earth will curse you for this..."
@@ -2337,7 +2346,7 @@ msgstr "兰贝契，你这烂泥巴懦夫，有种的就出来跟我对♂肛！
 msgid ""
 "Sorry there, old chap. You’re deemed too insignificant for the likes of the "
 "Earl to deal with. He’s left that pleasure to me instead."
-msgstr "抱歉，老小伙子。你还不够格让伯爵亲自处理。他把这乐趣留给我了。"
+msgstr "抱歉，老小伙子。你还不够格让伯爵亲自处理。他把这美差留给我了。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -2400,7 +2409,7 @@ msgid ""
 "force to defend Dorest while he and the main horde of orcs sped to the aid "
 "of Borstep."
 msgstr ""
-"卡破尔嗅到了背叛的气味儿。虑及在这样的天气下人类的攻击会极大的受挫，他只留下"
+"卡破尔嗅到了背叛的气息儿。虑及在这样的天气下人类的攻击会极大的受挫，他只留下"
 "了小部分军队防御德赛城，而他和大部落主力去支援博斯坦普。"
 
 #. [part]
@@ -2612,9 +2621,10 @@ msgstr "呃，头儿……"
 msgid "... Yes, Grüü?"
 msgstr "……啥事儿，咕噜？"
 
+# 下句带走了100金币
 #. [message]: speaker=Grüü
 msgid "Can I get some gold with me?"
-msgstr "俺能带点金子吗？"
+msgstr "俺能带点金币吗？"
 
 #. [message]: speaker=Kapou'e
 msgid "Fine, take a hundred. Don’t lose it."
@@ -2918,11 +2928,12 @@ msgstr "耶！"
 
 #. [message]: speaker=Grüü
 msgid "Little orcs fun to squash too! Chief doesn’t let me too often."
-msgstr "扁小兽人也好玩！头儿不常让我干这事儿。"
+msgstr "扁小兽人也好玩！头儿老是不让我干这事儿。"
 
+# 更贴切
 #. [message]: speaker=Kapou'e
 msgid "You can have as many as you want now, Grüü."
-msgstr "现在你想砸什么都行，咕噜。"
+msgstr "现在你想砸多少都行，咕噜。"
 
 #. [message]: speaker=second_unit
 msgid "This rabble won’t be a problem anymore."
@@ -3043,8 +3054,9 @@ msgid ""
 "when his people are on the edge of total extermination!"
 msgstr ""
 "来，我们看看。首先，他背叛了自己誓言效忠的君主，成为了俯首帖耳给人类舔鞋的间"
-"谍。然后策划杀害评议会大半的成员，使他直接为我们数百兽人同胞的性命负责。最棒"
-"的一条是，恰在这整个民族生死存亡的时刻，他对自己的同胞发动血腥的内战！"
+"谍。然后策划杀害评议会大半的成员，使他直接成为让成百上千兽人同胞死去的罪魁祸"
+"首。最棒的一条是，恰在这整个民族生死存亡的时刻，他对自己的同胞发动血腥的内"
+"战！"
 
 #. [message]: speaker=Shan Taum
 msgid "LIES! THESE ARE ALL LIES!"
@@ -3124,6 +3136,7 @@ msgstr ""
 "如卡破尔预想的，闪·陶姆的军队一被打败，他就逃走不见了。卡破尔咬牙切齿，发誓要"
 "用这叛徒的头颅做酒杯，于是带兵向德赛城进发。"
 
+# 这应该是真实的意思，之前的翻译与下文不符。
 #. [part]
 msgid ""
 "Once there he found his generals, Al’Brock and Flar’Tar, had already arrived "
@@ -3132,8 +3145,9 @@ msgid ""
 "remaining shamans of the Great Council were also present to help in whatever "
 "way they could to preserve the unity of the Horde."
 msgstr ""
-"在那里他会师了已经提前到达了的将军奥伯克和弗拉塔，分别带着数百嗜血的兽人。受"
-"卡破尔压迫的各部落武士们也陆续赶来了。剩余的萨满也来维护大部落的团结。"
+"在那里他会师了已经提前到达了的将军奥伯克和弗拉塔，分别带着数百嗜血的兽人。之"
+"前背叛了卡破尔后被教训了一顿后听话了的各部落武士们也陆续赶来了。剩余的萨满也"
+"来维护大部落的团结。"
 
 #. [part]
 msgid ""
@@ -3304,7 +3318,7 @@ msgid ""
 "Lanbec’h flatly refused to attend the parley."
 msgstr ""
 "卡破尔同意会见豪伽施三世。因为仍然不信任人类，他带上了咕噜以及一个最信任的士"
-"兵。兰贝契伯爵断然拒绝参加和判。"
+"兵。兰贝契伯爵断然拒绝参加和谈。"
 
 #. [part]
 msgid ""
@@ -3439,7 +3453,7 @@ msgstr "可恶！那个人类逃跑了。兽人们，把卡破尔的头提给我
 
 #. [message]: speaker=Grüü
 msgid "Shan Taum big coward. Never want to fight."
-msgstr "闪·陶姆这炸妈小废物。永远都不战斗。"
+msgstr "闪·陶姆这炸妈小废物。永远都不参战。"
 
 #. [message]: speaker=second_unit
 msgid "Yeah, we finally got the coward."
@@ -3452,7 +3466,7 @@ msgstr "耶！俺们终于逮住这厮啦。老大，怎么处理他？"
 
 #. [message]: speaker=Kapou'e
 msgid "Blood and steel! The traitor was mine!"
-msgstr "铁和血！这叛徒是我的！"
+msgstr "让他死！这叛徒是我的！"
 
 #. [message]: speaker=Howgarth III
 msgid "I’m sorry, Kapou’e. I’ll have my men leave what remains of him to you."
@@ -3489,7 +3503,7 @@ msgid ""
 "all — to make the Great Council complete again."
 msgstr ""
 "伯爵被杀后，豪伽施信守承诺，解散了伯爵的军队并撤出兽人领土。卡破尔也从德赛城"
-"撤并，解散了大部落。但是解散军队前他接见了另外三个萨满──也是所有幸存的萨满——"
+"撤回，解散了大部落。但是解散军队前他接见了另外三个萨满──也是所有幸存的萨满——"
 "来重建评议会。"
 
 #. [part]

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-02-07 18:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -179,9 +179,9 @@ msgid "Humans"
 msgstr "人类"
 
 #. [side]: type=Dark Sorcerer, id=Mordak
+#. [side]: type=Orcish Warlord, id=Tairach
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #. [side]
-#. [side]: type=Orcish Warlord, id=Tairach
 msgid "Enemies"
 msgstr "敌人"
 
@@ -968,8 +968,9 @@ msgstr ""
 #. [message]: speaker=narrator
 msgid ""
 "This castle is under a constant, <i>chaotic</i> time of day (equivalent to "
-"permanent night). Place your units carefully, as your troops will be weaker "
-"and enemy units stronger."
+"permanent night), except for illuminated hexes adjacent to lit stone walls "
+"(neutral time of day). Place your units carefully, as your troops will be "
+"weaker and enemy units stronger."
 msgstr ""
 
 #. [message]: speaker=unit

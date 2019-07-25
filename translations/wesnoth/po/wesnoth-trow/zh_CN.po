@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-02-07 18:03+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -70,7 +70,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
-msgid "(Hard level, 24 scenarios.)"
+#, fuzzy
+msgid "(Hard level, 20 scenarios.)"
 msgstr "（困难级别，24幕场景。）"
 
 #. [about]
@@ -397,15 +398,6 @@ msgstr "风暴谷"
 msgid "Tan-Rarbag"
 msgstr "坦-拉贝格"
 
-#. [side]: type=Orcish Warlord, id=Tan-Vrodis
-#. [side]: type=Orcish Warlord, id=Tan-Bok
-#. [side]: type=Orcish Warlord, id=Tan-Hogar
-#. [side]: type=Draug, id=General Heravan
-#. [side]: type=Orcish Warlord, id=Tan-Halg
-#. [side]: type=Orcish Warlord, id=Tan-Rinak
-#. [side]: type=Orcish Warlord, id=Tan-Erirt
-#. [side]: type=Orcish Warlord, id=Tan-Gagar
-#. [side]: type=Troll Warrior, id=Thruf
 #. [side]: type=Orcish Warlord, id=Tan-Gralg
 #. [side]: type=Orcish Warlord, id=Tan-Rugar
 #. [side]: type=Orcish Warlord, id=Tan-Vragar
@@ -420,6 +412,15 @@ msgstr "坦-拉贝格"
 #. [side]: type=Orcish Warrior, id=Tan-Erang
 #. [side]: type=Orcish Warlord, id=Tan-Schmog
 #. [side]: type=Orcish Warlord, id=Tan-NauVong
+#. [side]: type=Orcish Warlord, id=Tan-Vrodis
+#. [side]: type=Orcish Warlord, id=Tan-Bok
+#. [side]: type=Orcish Warlord, id=Tan-Hogar
+#. [side]: type=Orcish Warlord, id=Tan-Erirt
+#. [side]: type=Orcish Warlord, id=Tan-Gagar
+#. [side]: type=Troll Warrior, id=Thruf
+#. [side]: type=Draug, id=General Heravan
+#. [side]: type=Orcish Warlord, id=Tan-Halg
+#. [side]: type=Orcish Warlord, id=Tan-Rinak
 msgid "Orcs"
 msgstr "兽人"
 
@@ -474,12 +475,15 @@ msgstr ""
 "园要丢了……我们动作要快。"
 
 #. [message]: speaker=Tan-Rarbag
-msgid "So, <i>human</i>, care to make your final stand?"
-msgstr "那么，人类，在担心你们最后的下场吗？"
+#. meat is a derogatory term for humans used by orcs and also is a subtle reference to orcs eating humans opportunistically
+msgid ""
+"Run, meat, run! Sooner or later, you will tire and our wolves will hunt you "
+"down!"
+msgstr ""
 
 #. [message]: speaker=Tan-Erang
-msgid "Die! Die! Die!"
-msgstr "去死！去死！去死！"
+msgid "The meat will die! Die! Die! Die!"
+msgstr ""
 
 #. [message]: speaker=Wesfolk Leader
 msgid "This is going to get ugly..."
@@ -588,8 +592,8 @@ msgid "A Harrowing Escape"
 msgstr "悲伤撤离"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: id=Prince Haldric, type=Noble Commander
 #. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
+#. [side]: id=Prince Haldric, type=Noble Commander
 msgid "Refugees"
 msgstr "难民"
 
@@ -623,10 +627,11 @@ msgid "Defeat all enemy leaders"
 msgstr "击败所有敌方首领"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
 "Argh, the orcish vanguard must have flanked us even further to the east! "
 "They’re already holding the mouth of the pass. We have to get out of the "
-"mountain pass before winter comes or we’re all dead meat!"
+"mountain pass before winter comes or we’re all doomed!"
 msgstr ""
 "啊，兽人前峰对我们东面的包围更深入了！他们已经占据了山峡的入口。我们必须赶在"
 "冬天来临之前通过山峡，否则我们都会死！"
@@ -643,7 +648,7 @@ msgstr "你最好别再多愁善感了。拿起你的剑。前面还有更多的
 
 #. [message]: speaker=Tan-Schmog
 #, fuzzy
-msgid "You won’t get much further, boy. Grrrr!"
+msgid "You won’t get any further than this, meat!"
 msgstr "你没法再往前了，小子。嘎嘎嘎！"
 
 #. [message]: speaker=unit
@@ -979,8 +984,8 @@ msgid ""
 "with the orcs!"
 msgstr "啊棒极了，现在要去森林……我真应该留在家里，和兽人比划比划！"
 
-#. [message]: speaker=Sir Ladoc
 #. [message]: speaker=Sir Ruddry
+#. [message]: speaker=Sir Ladoc
 msgid "Sir, if you don’t mind, I’ll go with you."
 msgstr "领主，如果您允许的话，我想和你们一起行动。"
 
@@ -1079,8 +1084,8 @@ msgid "Vrogar"
 msgstr "福罗格"
 
 #. [message]: speaker=Vrogar
-msgid "How’d they get behind us? I hate to miss such tasty meat."
-msgstr "他们怎么跑我们后面来了？失去这些可口的鲜肉我会很生气。"
+msgid "They’re attacking the chief! Kill the meat before it gets any farther!"
+msgstr ""
 
 #. [message]: speaker=Tan-Hogar
 msgid "Better him than me! Reserves!"
@@ -1738,11 +1743,12 @@ msgstr ""
 "弃，而这主要是因为你们那愚蠢的南湾王子让他们坚信不疑自己的不朽生命即将结束！"
 
 #. [message]: speaker=Lady Jessene
+#, fuzzy
 msgid ""
 "And now, I’m as much a refugee as you. In truth, I don’t know if the Lich-"
-"Lords are working with the orcs or not. The orcs may have gotten rid of the "
-"Lich-Lords, or they may not have, but I do know that the orcs are not going "
-"to tolerate living humans outside of the slave mines or stew pot!"
+"Lords still command these orcs or if the orcs have rid themselves of the "
+"Lich-Lords, but I do know that no orc is going to tolerate living humans "
+"outside of the slave mines or worse, stew pots!"
 msgstr ""
 "现在，我和你一样成了逃亡者。实际上，我不知道那些巫妖王是否还在和兽人合作。那"
 "些兽人也许会干掉巫妖王，也许不会，但我敢肯定的是，除了奴隶矿坑和他们的炖锅以"
@@ -3913,6 +3919,16 @@ msgstr "让我们解决剩下的怪物！"
 msgid "More saurians are arriving. They’ve surrounded us! We’re doomed."
 msgstr "来了更多的蜥蜴人。他们包围了我们！我们完了。"
 
+#. [message]: speaker=Lady Jessene
+msgid ""
+"We already killed the dragon. We really don’t need to be spending this much "
+"time chasing down the rest of these lizards."
+msgstr ""
+
+#. [message]: speaker=Prince Haldric
+msgid "You’re right, you’re right. Let’s head back."
+msgstr ""
+
 #. [scenario]: id=17b_Lizard_Beach
 msgid "Lizard Beach"
 msgstr "蜥蜴海滩"
@@ -4387,11 +4403,14 @@ msgid ""
 msgstr "亡灵唯一要做的就是永远沉眠。准备重回大地吧。"
 
 #. [message]: speaker=Tan-Gagar
-msgid "We must block the human advance!"
-msgstr "我们必须阻止人类前进！"
+msgid ""
+"The meat is stronger than I thought! We must use all of our forces to stop "
+"them!"
+msgstr ""
 
 #. [message]: speaker=Tan-Erirt
-msgid "Reserves! We can’t let them get to their landing site."
+#, fuzzy
+msgid "Reserves! We can’t let the meat get to the landing site."
 msgstr "预备队！我们不能让他们到达他们的登陆点。"
 
 #. [message]: speaker=Prince Haldric
@@ -4493,16 +4512,40 @@ msgstr ""
 "用的，你尸体变成的亡灵会把它放在我脚下。"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
 "We’ll see about that. The Fool Prince of Southbay was wrong to start this "
-"war, but you’re the real monster! You sacrificed your own people to preserve "
-"your immortal un-life."
+"war, but you’re the real monster. You’ve turned to using orcs as cheap "
+"lackeys and even sacrificed your own people to preserve your immortal un-"
+"life!"
 msgstr ""
 "我们走着瞧。南湾的愚蠢王子不该挑起这场战争，但你却是个真正的魔鬼！你牺牲了你"
 "的人民来维护自己的不死之命。"
 
 #. [message]: speaker=Lich-Lord Jevyan
-msgid "Enough of this. A curse of darkness upon you, young prince."
+msgid ""
+"I am hardly concerned with the doing of mortal worms — they are no more than "
+"petty pawns, orcs and humans both. The only difference is that orcs will not "
+"complain as long as they are well fed."
+msgstr ""
+
+#. [message]: speaker=Tan-Halg
+msgid "Actually, I <i>am</i> pretty hungry right now..."
+msgstr ""
+
+#. [message]: speaker=Lich-Lord Jevyan
+msgid "Pah. Just eat the humans, then. But leave the boy’s body intact."
+msgstr ""
+
+#. [message]: speaker=Prince Haldric
+msgid "Come and fight me yourself, you old bag of bones!"
+msgstr ""
+
+#. [message]: speaker=Lich-Lord Jevyan
+#, fuzzy
+msgid ""
+"As if a measly child would be worth the effort. Enough of this. A curse of "
+"darkness upon you, young prince."
 msgstr "够了。愿黑暗的诅咒降临于你，年青的王子。"
 
 #. [message]: speaker=Commander Aethyr

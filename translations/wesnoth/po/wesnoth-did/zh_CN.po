@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:09 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:13 UTC\n"
 "PO-Revision-Date: 2019-04-24 22:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -54,12 +54,12 @@ msgstr "召魂师"
 
 #. [campaign]: id=Descent_into_Darkness
 msgid ""
-"Learn the dark arts of necromancy in order to save your people from an "
-"orcish incursion.\n"
+"The northern frontier town of Parthyn is annually raided by neighboring "
+"tribes of orcs. Malin Keshar, an outcast mage, seeks to defend his home and "
+"wreak vengeance on the orcs by any means necessary, even if it means "
+"sacrificing his own soul in the process.\n"
 "\n"
 msgstr ""
-"学习死灵术的黑暗技艺，当兽人入侵之时拯救你的人民。\n"
-"\n"
 
 #. [campaign]: id=Descent_into_Darkness
 msgid "(Intermediate level, 12 scenarios.)"
@@ -167,7 +167,7 @@ msgid ""
 "not love my kind, I think it is vital that we put aside our differences for "
 "the moment. The orcish menace grows in the north and they will soon return "
 "in even greater force. You cannot hope to defend against them without my... "
-"help.”</i>"
+"help. For now, however, I ask only to refresh myself in your town.”</i>"
 msgstr ""
 "很快，一个穿着死灵法师长袍的人从树林里走了出来。<b>“请允许我作自我介绍，我是"
 "达肯·沃克。我知道你们的王国并不喜欢我们这类人，但我想最重要的是，我们得暂时把"
@@ -199,18 +199,18 @@ msgstr ""
 "于事。死灵法师离开了帕辛，没有挑起任何摩擦。"
 
 #. [side]
-#. [side]: type=Sergeant, id=Drogan
 #. [side]: type=General, id=Taylor
+#. [side]: type=Sergeant, id=Drogan
 msgid "Defenders"
 msgstr "守卫者"
 
 #. [side]: type=Orcish Warlord, id=Gron'r Hronk
 #. [side]: type=Orcish Warlord, id=K'rrlar Oban
+#. [modify_side]
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
 #. [side]: type=Orcish Warlord, id=Borth
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warlord, id=K'Vark
-#. [modify_side]
 msgid "Orcs"
 msgstr "兽人"
 
@@ -242,13 +242,18 @@ msgid "Death of Malin Keshar"
 msgstr "马林·凯沙死亡"
 
 #. [objective]: condition=lose
+#, fuzzy
+msgid "Death of Dela Keshar"
+msgstr "马林·凯沙死亡"
+
+#. [objective]: condition=lose
 msgid "Death of Drogan"
 msgstr "德罗甘死亡"
 
 #. [message]: speaker=Dela Keshar
 msgid ""
 "Was it really a good idea to send out a raiding party so soon after the orcs "
-"just attacked us? Even father is no longer here..."
+"just attacked us? Even Father is no longer here..."
 msgstr ""
 
 #. [message]: speaker=Malin Keshar
@@ -303,12 +308,11 @@ msgid ""
 msgstr "那究竟是什么东西？死灵法师又回来了？"
 
 #. [message]: speaker=Malin Keshar
-#. stewpots means a big pot that orcs cook things in, like humans in this case
 #, fuzzy
 msgid ""
 "No, Drogan. I raised this corpse with the skills Darken Volk taught me "
-"before he left. While I have no love for it, without the help of the dead, "
-"we consign ourselves and our families to orcish stewpots!"
+"before he left. While I have no love for it, we cannot hope to repel the "
+"orcs without the help of the dead!"
 msgstr ""
 "不，德罗甘。我用达肯·沃克离开前传授给我的法术唤起了这些尸体。虽然我不喜欢这"
 "个，但没有这些亡灵的帮助，我们就要把自己和家人丢进兽人的炖锅了！你一定很明白"
@@ -327,7 +331,7 @@ msgstr ""
 #. [message]: speaker=Dela Keshar
 #, fuzzy
 msgid ""
-"You say that, brother, but you have been very close-mouthed about why the "
+"You say that, Brother, but you have been very close-mouthed about why the "
 "mages sent you home from Alduin. I am beginning to think that you were "
 "already dabbling in this witchcraft even before you met that necromancer!"
 msgstr ""
@@ -448,7 +452,7 @@ msgstr ""
 msgid ""
 "That was bravely done, lad, holding the orcs off by yourself. But I fear the "
 "raiding party brings grave news from the north. More warlords have begun to "
-"mass armies in the hills, no more than a few days north of the Great River. "
+"amass armies in the hills, no more than a few days north of the Great River. "
 "I do not know if we possess the strength to fight them off."
 msgstr ""
 
@@ -1122,8 +1126,8 @@ msgid "The ice doesn’t look very thick..."
 msgstr "这里的冰面看起来不太厚……"
 
 #. [message]: speaker=Darken Volk
-#. [message]: speaker=Malin Keshar
 #. [message]: speaker=Mal Keshar
+#. [message]: speaker=Malin Keshar
 msgid "..."
 msgstr "……"
 
@@ -1198,7 +1202,7 @@ msgstr ""
 msgid ""
 "Malin and Darken Volk continue their raids on the orcs and eventually force "
 "the usually fractious Whitefang chieftains to unite in opposition. The orcs "
-"pursue the two necromancers east toward the mouth of the river men call the "
+"pursue the two necromancers east toward the mouth of the river Men call the "
 "Longlier and Elves call the Arkan-thoria, where they manage to surround the "
 "humans and force a fight."
 msgstr ""
@@ -1740,7 +1744,7 @@ msgstr ""
 
 #. [message]: speaker=Malin Keshar
 msgid ""
-"O Gods, how did it come to this? My own sister determined to personally see "
+"O gods, how did it come to this? My own sister determined to personally see "
 "to my demise. Banished from Parthyn, my country, my home... spurned by my "
 "people, whom I have given everything for... nothing has gone right ever "
 "since I got into an argument with that fat, orc-loving toad Zephrin and "
@@ -2222,10 +2226,6 @@ msgstr "通过东北面地窖中的隧道逃跑"
 msgid "Let’s get out of here."
 msgstr "咳！我们离开这里吧。"
 
-#. [objective]: condition=win
-msgid "Escape the manor"
-msgstr "逃离庄园"
-
 #. [message]: speaker=Malin Keshar
 #, fuzzy
 msgid "We’ve got the book, but how do we get out of here?"
@@ -2234,6 +2234,17 @@ msgstr "我们已经拿到书了，但现在我们该怎么从这里出去呢？
 #. [message]: speaker=Malin Keshar
 msgid "Wait, you aren’t leaving me behind, are you?"
 msgstr "等等，你不会抛下我吧，不会吧？"
+
+#. [objective]: condition=win
+#, fuzzy
+msgid ""
+"Escape the manor (Malin reaches the tunnel in the northeast cellar before "
+"Darken Volk)"
+msgstr "通过东北面地窖中的隧道逃跑"
+
+#. [objective]: condition=lose
+msgid "Darken Volk reaches the tunnel before Malin does"
+msgstr ""
 
 #. [message]: speaker=Darken Volk
 #, fuzzy
@@ -2361,7 +2372,7 @@ msgstr ""
 
 #. [message]: speaker=Malin Keshar
 msgid ""
-"... you can’t abandon me too, not the way they did... father, Drogan, Dela..."
+"... you can’t abandon me too, not the way they did... Father, Drogan, Dela..."
 msgstr ""
 
 #. [message]: role=advisor
@@ -2929,8 +2940,8 @@ msgstr "然后，这平静被拉扯，被无法忍受的极端痛苦所替代，
 msgid "... by emptiness."
 msgstr "一切化为虚无。"
 
-#. [modify_side]
 #. [side]
+#. [modify_side]
 msgid "Mal Keshar"
 msgstr "玛尔·凯沙"
 
@@ -3877,12 +3888,12 @@ msgstr "边疆女爵"
 #. [unit_type]: id=Frontier Baroness, race=human
 msgid ""
 "At Wesnoth’s frontiers, all able-bodied men and women must be able to defend "
-"their homes at need. Men are most often trained in the use of sword or bow "
-"and are used as soldiers who withstand the brunt of orcish assaults to hold "
-"the raiders at bay. Women, instead, learn to use the staff and sling and are "
-"most effective as scouts and ambushers. The most proficient are powerful "
-"skirmishers and are highly adept at reconnaissance, allowing them to often "
-"outmaneuver and entrap orcish raiders."
+"their homes in times of need. Men are most often trained in the use of sword "
+"or bow and are used as soldiers who withstand the brunt of orcish assaults "
+"to hold the raiders at bay. Women, instead, learn to use the staff and sling "
+"and are most effective as scouts and ambushers. The most proficient are "
+"powerful skirmishers and are highly adept at reconnaissance, allowing them "
+"to often outmaneuver and entrap orcish raiders."
 msgstr ""
 
 msgid "Dela Keshar"
