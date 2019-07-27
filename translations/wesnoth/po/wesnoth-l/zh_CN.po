@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-05-01 14:18+0800\n"
+"PO-Revision-Date: 2019-07-27 16:37+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Liberty
 msgid "Liberty"
@@ -815,8 +815,8 @@ msgid ""
 "Their human aspect is returning! This is an evil manner of sorcery we face, "
 "but one that we may yet overcome. CHARGE!"
 msgstr ""
-"他们的人类面貌恢复了！我们面对的是个邪恶的巫术，但我们迟早能克服。<b>冲锋！</"
-"b>"
+"他们的人类心智有些恢复了！我们面对的是一种邪恶的巫术，但我们迟早能克服。<b>冲"
+"锋！</b>"
 
 #. [message]: speaker=second_unit
 msgid "Who are you? What are you?"
@@ -1414,7 +1414,7 @@ msgstr ""
 
 #. [message]: speaker=Linneus
 msgid "It’s an ambush! Hold your ground!"
-msgstr "是个埋伏！守住自己的阵地。"
+msgstr "是埋伏！守住自己的阵地！"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1459,8 +1459,8 @@ msgid ""
 "We have spent too much time here. Surely the entire Wesnoth army marches on "
 "our position. We are done for!"
 msgstr ""
-"我们在这里浪费了太多的时间了。肯定整个韦诺军都来到了我们的这了。我们疲惫不堪"
-"了。"
+"我们在这里浪费了太多的时间。韦诺的整个军队现在肯定正向我们的位置进发。我们完"
+"蛋了！"
 
 #. [scenario]: id=08_Glory
 msgid "Glory"
@@ -1724,7 +1724,7 @@ msgstr "我们不能呆在这里。堡垒开始倒塌了！"
 
 #. [message]: speaker=Baldras
 msgid "I think it’s working! Everybody get clear <i>now</i>!"
-msgstr "我想这起作用了！大家撤离！<b>现在！</b>"
+msgstr "我想这起作用了！大家<b>快撤</b>！"
 
 #. [message]: speaker=narrator
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-04-24 22:40+0800\n"
+"PO-Revision-Date: 2019-07-27 16:54+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 msgid "The Sceptre of Fire"
@@ -480,7 +480,7 @@ msgstr "以兰达尔的名义，死吧，矮人渣滓！"
 
 #. [message]: speaker=second_unit
 msgid "Yer precious Landar can kiss my axe."
-msgstr "你丫高贵的兰达尔来亲亲俺的斧头吧！"
+msgstr "你丫高贵的兰达尔来亲亲俺的斧头吧。"
 
 #. [message]: speaker=Rugnur
 msgid "Good, the road is secured. Let’s move those caravans!"
@@ -519,11 +519,11 @@ msgstr ""
 msgid ""
 "Place someone on each of the six magic glyphs in order to close the dwarvish "
 "gates"
-msgstr "为关上矮人大门，在六个魔法符上分别站一人。"
+msgstr "为关上矮人大门，在六个魔法符上分别站一人"
 
 #. [objective]: condition=win
 msgid "Kill all elves in the caves after the gates are closed"
-msgstr "在大门关上后，杀掉洞穴中所有精灵。"
+msgstr "在大门关上后，杀掉洞穴中所有精灵"
 
 #. [objective]: condition=win
 msgid "Kill all elves in the caves"
@@ -580,7 +580,7 @@ msgstr "巴格拉"
 msgid ""
 "Wait! Rugnur, dinna’ they tell you <i>anything</i> when you took command "
 "here?!"
-msgstr "等下！拉格纳，你接下指挥权的时候他们<b>什么</b>都没有告诉你吗？"
+msgstr "等下！拉格纳，你接下指挥权的时候他们<b>什么</b>都没有告诉你吗？！"
 
 #. [message]: speaker=Rugnur
 msgid "Not really. This was supposedly a time of peace. Who are you?"
@@ -997,11 +997,11 @@ msgstr "克拉格"
 #. vocal tract of a bird and is speaking through a beak.
 #. "Will you speak with us?"
 msgid "Kwill yooo spakkk wit uus?!"
-msgstr "拟冷合沃们缩化吗？！？"
+msgstr "拟冷合沃们缩化吗？！"
 
 #. [message]: speaker=Alanin
 msgid "Aah! What is that?!"
-msgstr "啊！那是什么？"
+msgstr "啊！那是什么？！"
 
 #. [message]: speaker=Baglur
 msgid "Is that... is that a gryphon?"
@@ -1066,7 +1066,7 @@ msgstr "你们这些人想干什么？别打搅我！"
 msgid ""
 "Old mage, we come with a message from Lord Durstorn. He asks you to come "
 "back to the city."
-msgstr "老法师，我们带来了达司拓恩领主的口信。他请您回城里去、"
+msgstr "老法师，我们带来了达司拓恩领主的口信。他请您回城里去。"
 
 #. [message]: speaker=Thursagan
 msgid ""
@@ -1395,7 +1395,7 @@ msgstr "我只能扛这么多煤了……"
 
 #. [message]: speaker=unit
 msgid "Here is the mine of precious gold! Send the miners this way."
-msgstr "这是精金矿！派矿工到这边来！"
+msgstr "这就是那宝贵的金矿！派矿工到这边来。"
 
 #. [message]: speaker=unit
 msgid "I have all the gold I can carry..."
@@ -1796,7 +1796,7 @@ msgstr "所有人都闭嘴！攻击他们！"
 
 #. [message]: speaker=narrator
 msgid "You may now recruit Gryphon Riders."
-msgstr ""
+msgstr "你现在可以征募狮鹫骑士了。"
 
 #. [unit]: id=Lyndar, type=Elvish Marshal
 msgid "Lyndar"
@@ -2073,7 +2073,7 @@ msgid ""
 "If that’s what you’re thinking, you’re not fit to be ruler over us! So step "
 "down, or we’ll force you."
 msgstr ""
-"如果那是你的想法，你不再有资格当我们的统治者了！下台，不然我们就逼退你！"
+"如果那是你的想法，那你不再有资格当我们的统治者了！下台，不然我们就逼退你。"
 
 #. [message]: speaker=Durstorn
 msgid "Never!"
@@ -2695,7 +2695,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Survive as long as possible"
-msgstr ""
+msgstr "存活尽可能长的时间"
 
 #. [message]: role=smartelf
 msgid ""

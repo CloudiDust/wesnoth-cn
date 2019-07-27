@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 15:14+0300\n"
-"PO-Revision-Date: 2019-04-24 22:26+0800\n"
+"PO-Revision-Date: 2019-07-27 15:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -99,11 +99,10 @@ msgid "Chat message aging"
 msgstr "聊天信息过期"
 
 #. [advanced_preference]: type=int
-#, fuzzy
 msgid ""
 "Number of minutes to wait before clearing an ingame chat message. Set to 0 "
 "to disable."
-msgstr "在清除游戏中的某条聊天信息之前，等待的分钟数。设为0则禁用此功能"
+msgstr "在清除游戏中的一条聊天信息之前，等待的分钟数。设为0则禁用此功能。"
 
 #. [advanced_preference]: type=boolean
 msgid "Use 12-hour clock format"
@@ -279,7 +278,6 @@ msgstr "手柄：用于加速的摇杆编号"
 msgid "Joystick: deadzone of the thruster"
 msgstr "手柄：用于加速的摇杆的死区大小"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
@@ -3424,7 +3422,6 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -3449,12 +3446,10 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -3839,7 +3834,6 @@ msgstr "是"
 msgid "No"
 msgstr "否"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Screenshot"
 msgstr "截屏"
@@ -3872,7 +3866,6 @@ msgstr ""
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "（注：在新代码中，你应当使用$replacement|作为替代）"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 msgid "Invalid deprecation level $level (should be 1-4)"
 msgstr "无效废弃级别$level|（应为1-4）"
@@ -3881,27 +3874,22 @@ msgstr "无效废弃级别$level|（应为1-4）"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "无效废弃级别（应为1-4）"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3914,7 +3902,6 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3927,7 +3914,6 @@ msgstr "失败："
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%%的金币将会带到下一场景。"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [objective]: condition=win
 msgid "Defeat enemy leader(s)"
 msgstr "击败敌方首领"
@@ -4107,7 +4093,6 @@ msgid "statuspanel^lvl"
 msgstr "Lv"
 
 #. [tip]
-#, fuzzy
 msgid ""
 "Use the map editor’s <i>Areas</i> menu to define regions later addressed by "
 "event or AI coding."
@@ -4120,20 +4105,18 @@ msgid "<i>― The Wesnoth Design Guide</i>"
 msgstr "<b>——韦诺设计指南</b>"
 
 #. [tip]
-#, fuzzy
 msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
-msgstr "使用编辑器的<b>文件</b>菜单来创建一个<b>新场景</b>以使用高级特性。"
+msgstr "在地图编辑器中，选择<b>文件</b>菜单中的<b>新场景</b>以使用高级特性。"
 
 #. [tip]
-#, fuzzy
 msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the <i>Custom Scenarios</i> section of the Multiplayer “Create Game” screen."
 msgstr ""
-"编辑器中保存在默认文件夹下的场景可以在多人游戏创建界面的<b>用户场景</b>区域中"
-"选择。"
+"通过编辑器保存在默认文件夹下的场景可以在多人“创建游戏”界面的<b>自定义场景</b>"
+"区域中选择。"
 
 #. [tip]
 msgid ""
@@ -5408,7 +5391,7 @@ msgid "Local Player"
 msgstr "本地玩家"
 
 msgid "Nobody"
-msgstr ""
+msgstr "无人"
 
 msgid "Reserved"
 msgstr "保留"

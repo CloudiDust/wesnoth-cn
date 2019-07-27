@@ -5,13 +5,13 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-05-01 14:11+0800\n"
+"PO-Revision-Date: 2019-07-27 16:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Heir to the Throne"
@@ -703,7 +703,6 @@ msgid ""
 msgstr "我们来到这里之前在黑水港击退了她的部队。她还攻打了什么地方？"
 
 #. [message]: speaker=Seimus
-#, fuzzy
 msgid ""
 "She has taken control of the Bay of Pearls, long held by the Mer, and has "
 "turned them into slaves. There they dive for pearls by which she grows "
@@ -883,7 +882,6 @@ msgid "Gwarloa"
 msgstr "格瓦洛阿"
 
 #. [message]: speaker=Gwimli
-#, fuzzy
 msgid ""
 "Thank you for rescuing us! Now we can help you fight the evil orcs! The main "
 "cage where they keep most of the merfolk is in the northwest!"
@@ -916,7 +914,6 @@ msgid "Tini"
 msgstr "提尼"
 
 #. [message]: speaker=Heldaga
-#, fuzzy
 msgid ""
 "Death to the orcs! Come, my brethren, let us fight the orcs and drive them "
 "from our shores!"
@@ -924,7 +921,6 @@ msgstr ""
 "去死吧兽人！上啊，人鱼弟兄们！让我们和兽人打一场，把他们赶出我们的海岸！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "At last, we have freed the merfolk. Go back to the ocean and live in peace."
 msgstr "我们终于解放了人鱼们。请回到大海里，过平静的生活吧。"
@@ -1219,7 +1215,6 @@ msgstr ""
 "抗争着，而科纳德正在固定船帆，但突然一阵大风吹来，将他吹下了甲板……"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The merfolk finally saved Konrad from the sea, but were unable to get him "
 "back to the ship. By dint of great effort they reached a nearby island..."
@@ -1941,9 +1936,8 @@ msgstr ""
 "道路对你们来说是安全的。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid "Good day to you, then. Come, men, to the northern road!"
-msgstr "那么，日安，公主。来吧，战士们，北边的道路！"
+msgstr "那么，日安。来吧，战士们，前往北边的道路！"
 
 #. [message]: speaker=unit
 msgid ""
@@ -2962,7 +2956,6 @@ msgid "But Konrad’s party was not alone in entering the caves..."
 msgstr "但是进入洞穴的并不是只有科纳德一行……"
 
 #. [message]: speaker=Li'sar
-#, fuzzy
 msgid ""
 "Whew! We made our way through the dangerous fog of the mountains, and now "
 "there is all this chaos before us! Come on, men! We must make it to the "
@@ -3228,7 +3221,7 @@ msgid ""
 msgstr ""
 "狮鹫虽然散发着臭味，但它们是非常高贵的动物。它们也许不怎么擅长在我们这些弯弯"
 "曲曲的洞穴里行动，但如果你们真的能再次见到地面的话，它们将可以统治整片天空。"
-"祝你们好运，纳尔迦的盟友们！"
+"祝你们好运，纳尔迦的盟友们。"
 
 #. [message]: speaker=unit
 msgid "Hmm... there seems to be a secret passage behind these rocks!"
@@ -3634,11 +3627,10 @@ msgid "Surprise! Die, you sun-lovers!"
 msgstr "惊喜！去死吧，你们这些喜欢太阳的家伙！"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "Now we are surrounded! Do you still want to fight us, Li’sar? Surely that "
 "would lead to doom for us all!"
-msgstr "现在我们被包围了！你还想和我们打么，公主？当然这一定会把我们都毁了的！"
+msgstr "现在我们被包围了！你还想和我们打么，莉莎？当然这一定会把我们都毁了的！"
 
 #. [message]: speaker=Li'sar
 msgid ""

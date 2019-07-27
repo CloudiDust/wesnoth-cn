@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-07-25 21:25+0800\n"
+"PO-Revision-Date: 2019-07-27 17:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -53,7 +53,6 @@ msgid "Difficult"
 msgstr "困难"
 
 #. [campaign]: id=Secrets of the Ancients
-#, fuzzy
 msgid ""
 "Rediscover the secrets known by the lich lords of the Green Isle. They knew "
 "how to live forever, so why can't you?\n"
@@ -1242,7 +1241,7 @@ msgstr ""
 "魂。与此同时，我会尝试教一些本地的农民学会这门魔法技艺。对那些没受过教育的乌"
 "合之众，我没什么期待，但希望有几个还是足够聪明，可以增强我们的实力。当我们重"
 "聚时，你可以演示给我看如何制造那些步履蹒跚的食尸鬼。实际上我并不急，他们的味"
-"道太糟糕"
+"道太糟糕了。"
 
 #. [message]: speaker=Ardonna
 msgid "Well I can’t smell, so I didn’t know about that."
@@ -3135,7 +3134,6 @@ msgid "Crelanu! Still he haunts us. Remind me again why we didn’t kill him."
 msgstr "克雷拉努！他还是缠着我们不放。再提醒我一下，我们是为什么没有杀掉他。"
 
 #. [message]: speaker=Gwendir
-#, fuzzy
 msgid ""
 "Ardonna of Tarrynth and Rassin Tabin, you stand convicted of necromancy, and "
 "are sentenced to death!"
@@ -3190,7 +3188,6 @@ msgid "Epilogue"
 msgstr "尾声"
 
 #. [part]
-#, fuzzy
 msgid ""
 "10 VII, 23 YW — Final Entry\n"
 "\n"
@@ -3209,13 +3206,14 @@ msgstr ""
 "韦元23年7月10日——最后一篇\n"
 "\n"
 "今天我们在战场上获胜了，但我们的胜利多少有些苦涩。<b>所有人</b>都很害怕，很愤"
-"怒，他们马上开始攻击我们，而根本没听我们的消息。我现在认识到了……世界还没有准"
-"备好接受我们的知识。我放弃了他们所有人。我要到那巨魔老城里生活，学习山中之火"
-"的用法。在未来的某时，不那么保守的态度会占据主流，而我当然是等得起的。在此期"
-"间，我们将尽自己所能，让那一天快点儿到来。"
+"怒，他们马上开始攻击我们，而根本没听我们带来的消息。我现在认识到了……世界还没"
+"有准备好接受我们的知识。他们不明白，我们已经征服了最本能的恐惧：死亡。相反，"
+"当他们看着我们时，只凭着外貌便进行判断，这让他们都陷入了无知的恐慌之中。我放"
+"弃了他们所有人。现在，我应该撤退——或许去到那巨魔老城里生活，学习山中之火的用"
+"法。在未来的某时，不那么保守的态度或许会占据主流，而我们的知识将被善加利用。"
+"而我当然是等得起的。在此期间，我们将尽自己所能，让那一天快点儿到来。"
 
 #. [then]
-#, fuzzy
 msgid ""
 "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
 "of the others are going with him. I wish them success. Vendraxis now knows "
@@ -3230,12 +3228,13 @@ msgid ""
 msgstr ""
 "拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。其他人之中的大部分也会跟他走。"
 "我祝愿他们成功。文德拉克西斯现在已经知晓，要重现我们的变换过程，他需要学习什"
-"么了。他将会用自己的余生去学习，去练习，并尝试去改变他的族人的态度。至于我，"
-"我在我的日志之上施加了一些咒语，让它免遭损毁，并且我将会把它放在这战场上的醒"
-"目之处。我希望它最终落入愿意学习古人之密的某个塔斯人手中。"
+"么了。他将会用自己的余生去学习，去练习，同时尝试去改变他的族人的态度。至于"
+"我，我将会把我的日志放在这战场上的醒目之处。我怀疑大多数人都会很害怕它，以至"
+"于会尝试摧毁它。但我在日志之上施加了一些咒语来保护它。这样一来，它就能存在足"
+"够长的时间，落到某个更为开明的人手中。特别是塔斯，那是很多法师的家园。只要有"
+"一个人愿意学习古人之密就行。"
 
 #. [else]
-#, fuzzy
 msgid ""
 "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
 "of the others are going with him. I wish them success. As for me, I will "
@@ -3247,9 +3246,10 @@ msgid ""
 "ancients."
 msgstr ""
 "拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。其他人之中的大部分也会跟他走。"
-"我祝愿他们成功。至于我，我在我的日志之上施加了一些咒语，让它免遭损毁，并且我"
-"将会把它放在这战场上的醒目之处。我希望它最终落入愿意学习古人之密的某个塔斯人"
-"手中。"
+"我祝愿他们成功。至于我，我将会把我的日志放在这战场上的醒目之处。我怀疑大多数"
+"人都会很害怕它，以至于会尝试摧毁它。但我在日志之上施加了一些咒语来保护它。这"
+"样一来，它就能存在足够长的时间，落到某个更为开明的人手中。特别是塔斯，那是很"
+"多法师的家园。只要有一个人愿意学习古人之密就行。"
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
 msgid "Bone Bird"

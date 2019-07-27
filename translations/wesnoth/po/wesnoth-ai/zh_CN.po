@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:10 UTC\n"
-"PO-Revision-Date: 2019-04-24 22:29+0800\n"
+"PO-Revision-Date: 2019-07-27 15:49+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -781,7 +781,7 @@ msgstr "准备好同那些蜥蜴人作战了吗，士兵？"
 
 #. [message]: speaker=unit
 msgid "Yes, sir."
-msgstr "是，长官！"
+msgstr "是，长官。"
 
 #. [message]: speaker=fort_commander
 msgid ""
@@ -1206,7 +1206,7 @@ msgstr "我们干掉他了！现在我们护卫的不论那是啥玩意儿都安
 msgid ""
 "I made it! Now we can keep fighting for whatever it is that we are fighting "
 "for."
-msgstr "我成功了！现在我们可以继续为了我们为之战斗的不论那是啥玩意儿战斗了！"
+msgstr "我成功了！现在我们可以继续为了我们为之战斗的不论那是啥玩意儿而战了。"
 
 #. [test]: id=healer_support
 msgid "Healer Support"
@@ -2496,7 +2496,7 @@ msgstr "我想要测试基于公式AI的施毒提升"
 
 #. [option]
 msgid "I've come with my own AI, and I am ready to test its strength"
-msgstr "我带着我自己的AI而来，我准备好测试它的强度了。"
+msgstr "我带着我自己的AI而来，我准备好测试它的强度了"
 
 #. [message]: speaker=narrator
 msgid "And where is it located (path follows the usual WML convention)"

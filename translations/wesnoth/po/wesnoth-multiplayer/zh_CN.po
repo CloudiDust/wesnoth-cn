@@ -6,13 +6,13 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-05-01 14:25+0800\n"
+"PO-Revision-Date: 2019-07-27 16:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [generic_multiplayer]: id=user_map
 msgid "User Map"
@@ -657,7 +657,6 @@ msgid "Bramwythl"
 msgstr "布拉姆维斯尔"
 
 #. [unit]
-#, fuzzy
 msgid ""
 "Bramwythl the Wose was always considered a slow, taciturn fellow, even by "
 "other woses. More than any other wose, he enjoyed simply standing alone in "
@@ -961,7 +960,7 @@ msgid ""
 "that if we can finish them off in time, we shall be victorious."
 msgstr ""
 "这些生物中最后也是最强的家伙就要来到我们面前了。我觉得如果能在时限内解决他们"
-"的话，那就能赢！"
+"的话，那就能赢。"
 
 #. [lua]: final_spawn
 msgid ""

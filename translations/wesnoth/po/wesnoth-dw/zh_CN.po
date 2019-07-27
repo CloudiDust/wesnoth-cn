@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-04-24 22:35+0800\n"
+"PO-Revision-Date: 2019-07-27 16:20+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Dead_Water
 msgid "Dead Water"
@@ -135,7 +135,6 @@ msgstr ""
 "望。人鱼军队在到达提里嘎兹港时追上了兽人战团。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Under the cover of darkness, the merfolk slid into the bay, intending to "
 "launch a surprise attack at dawn. But the orcs were prepared for this, and "
@@ -149,7 +148,6 @@ msgstr ""
 "拥而来。人鱼们被包围了，敌人的数量远超他们。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Kai Laudiss’s army fought fiercely, slaying five orcs for every warrior they "
 "lost. The kai himself fought with reckless abandon; foes fell with each "
@@ -708,26 +706,29 @@ msgstr "野狼"
 
 #. [unit]: type=Goblin Knight, id=Vrunt
 msgid "Vrunt"
-msgstr "乌朗特"
+msgstr "弗伦特"
 
 #. [message]: speaker=Gashnok
-#, fuzzy
 msgid ""
 "Smells like lots of death in the south near that merman town. Hey, Vrunt, "
 "you think the wolves like eatin’ merfish?"
-msgstr "我闻到南面有很多死亡的味道。人鱼城的附近一定有许多好吃的。"
+msgstr ""
+"我闻到南面人鱼城镇附近有很多死亡的气息。嘿，弗伦特，你觉得狼们会喜欢吃人鱼"
+"不？"
 
 #. [message]: speaker=Vrunt
 msgid ""
 "Talking or not, fish are fish. Wolves’ll probably love them. Besides, look "
 "there! Some fresh ones are coming our way!"
 msgstr ""
+"不管会不会说话，鱼就是鱼。或许狼们会很喜欢他们的。还有，看那儿！有些新鱼正向"
+"着我们走来！"
 
 #. [message]: speaker=Gashnok
 msgid ""
 "They look mighty good to me. Might even have a taste later, myself. Let’s "
 "get ’em, boys!"
-msgstr ""
+msgstr "他们看起来真是可口。搞不好我自己等下也会尝一口呢。干掉他们，小的们！"
 
 #. [message]: speaker=Kai Krellis
 msgid "Beware, people!"
@@ -1919,16 +1920,15 @@ msgstr ""
 "明，虽说大家并不愿意如此。"
 
 #. [message]: speaker=Mal-Govon
-#, fuzzy
 msgid ""
 "What I remember, you old fool, is you leaving behind the smoldering bodies "
 "of the orcs you had hired to steal my sword. Now, you bring mer to do your "
 "dirty work. When they lay expiring like gasping fish on the shore, will you "
 "not flee again? Do not speak to <i>me</i> of fear."
 msgstr ""
-"我记住的是，你这个老蠢货，丢下你雇来偷我宝剑的兽人烧焦的尸首落荒而逃的模样！"
-"现在，你又带来了人鱼。等他们像海岸上缺水的鱼一样垂死挣扎时，你是不是又会逃之"
-"夭夭？别跟<b>我</b>提什么恐惧。"
+"我记住的是，你这个老蠢货，丢下你雇来偷我宝剑的兽人烧焦的尸首落荒而逃的模样。"
+"现在，你又带来了人鱼，让他们替你干脏活。等他们像海岸上缺水的鱼一样垂死挣扎"
+"时，你是不是又会逃之夭夭？别跟<b>我</b>提什么恐惧。"
 
 #. [message]: speaker=Kai Krellis
 msgid "We are here of our own accord, and we will take that sword."
@@ -2119,9 +2119,8 @@ msgstr ""
 "没办法轻易跟来的。"
 
 #. [message]: speaker=Caladon
-#, fuzzy
 msgid "CURSE you merfolk!"
-msgstr "我<b>诅咒</b>你们人鱼！"
+msgstr "<b>诅咒</b>你们，人鱼！"
 
 #. [message]: speaker=Caladon
 msgid "Aghh! Die!"
@@ -2267,11 +2266,10 @@ msgid "Maybe not yet, but just wait."
 msgstr "也许只是暂时的，不过我们再等等。"
 
 #. [message]: speaker=Mel Daveth
-#, fuzzy
 msgid ""
 "The merfolk...they came back! Bring back the search parties! Call back the "
 "hordes!"
-msgstr "是人鱼……他们回来了！召回搜索队！召回军团！"
+msgstr "是人鱼……他们回来了！召回搜索队！召回亡灵群！"
 
 #. [message]: speaker=Mal-Kevek
 msgid ""
@@ -2496,15 +2494,14 @@ msgid "Child King"
 msgstr "年幼之王"
 
 #. [unit_type]: id=Merman Child King, race=merman
-#, fuzzy
 msgid ""
 "When a mer king dies, the next in line becomes king however young he is. It "
 "is his job to lead his troops in combat if necessary. Good soldiers will do "
 "as they are told, but a very young king will get little real respect."
 msgstr ""
 "当人鱼国王驾崩之时，第一顺位继承人将登上王位，而不论他有多年轻。在必要之时率"
-"军作战是他的使命。优秀的士兵会遵命行事，但一位特别年幼的王得不到多少真正的尊"
-"敬。"
+"军作战是他的使命。优秀的士兵会遵其命行事，但一位特别年幼的王得不到多少真正的"
+"尊敬。"
 
 #. [attack]: type=impact
 msgid "scepter"

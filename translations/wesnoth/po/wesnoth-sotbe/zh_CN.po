@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-07-25 21:25+0800\n"
+"PO-Revision-Date: 2019-07-27 17:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 msgid "Son of the Black-Eye"
@@ -2068,7 +2068,7 @@ msgstr "可恶！蜥蜴人死伤太多，已经帮不了我们什么了。我们
 msgid ""
 "This isn’t working. Mobilize all our troops and send these creatures back to "
 "hell."
-msgstr "花的时间太多了。所有的军队出击，送这些混蛋下地狱！"
+msgstr "这没有效果。所有部队出击，送这些混蛋回地狱去。"
 
 #. [message]: speaker=Darstang
 msgid "It won’t be said that Elves were braver than us, everyone attack!"
@@ -2094,6 +2094,8 @@ msgid ""
 "able to muster a defense. No matter. Once the vanguard of my army arrives, I "
 "will storm their pitiful fortress myself."
 msgstr ""
+"这么说，精灵和矮人没能攻下要塞，而野兽们成功进行了防御。没关系。一旦我军的先"
+"锋到达，我将亲自攻克他们可怜的堡垒。"
 
 #. [message]: speaker=unit
 msgid "The green earth will curse you for this..."
@@ -2607,7 +2609,7 @@ msgstr ""
 #. [message]: speaker=Flar'Tar
 #. [message]: speaker=second_unit
 msgid "Yes, Chief."
-msgstr "是，首领！"
+msgstr "是，酋长。"
 
 #. [message]: speaker=Al'Brock
 msgid "Understood."
@@ -2668,7 +2670,7 @@ msgstr "呃对不起……那里有人类挡路，俺们扁了他们一顿，没
 msgid ""
 "Better late than never. Now it’s time to kill! Let nobody escape and "
 "everyone keep an eye out for the shamans."
-msgstr "迟到总比来不了好。现在该开杀了！一个也不许放跑，留意萨满！"
+msgstr "迟到总比来不了好。现在该开杀了！一个也不许放跑，留意萨满。"
 
 #. [message]: speaker=Flar'Tar
 msgid "Sounds simple enough."
@@ -2700,7 +2702,7 @@ msgstr "呃……我们自己谋划的。"
 
 #. [message]: speaker=second_unit
 msgid "Don’t make me hurt you more."
-msgstr "死到临头还嘴硬！"
+msgstr "别逼我继续打你。"
 
 #. [message]: speaker=Thelarion
 msgid ""
@@ -3289,7 +3291,7 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 msgid "Messenger, what messenger?"
-msgstr "使者？什么使者。"
+msgstr "使者？什么使者？"
 
 #. [message]: speaker=Howgarth III
 msgid "If I remember correctly, it was some orc named Shan Taum."
@@ -3484,7 +3486,7 @@ msgstr "用长矛刺穿他的脑袋，喂给秃鹫吃干净。拿他的头颅做
 
 #. [message]: speaker=Kapou'e
 msgid "No! Without him the Northern Alliance will continue to fall apart."
-msgstr "不！失去了他，北方联盟将走向崩塌！"
+msgstr "不！失去了他，北方联盟将走向崩塌。"
 
 #. [message]: speaker=Grüü
 msgid "YEAH!"
@@ -3651,4 +3653,4 @@ msgstr "弗拉塔"
 
 #. [note]
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
-msgstr "大部落：每个单位的维护费用减一"
+msgstr "大部落：每个单位的维护费用均减一。"

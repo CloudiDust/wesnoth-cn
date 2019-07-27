@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-04-24 22:38+0800\n"
+"PO-Revision-Date: 2019-07-27 16:26+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Eastern Invasion"
@@ -517,21 +517,19 @@ msgid "That would be your problem, then."
 msgstr "那这就是你的问题了。"
 
 #. [message]: speaker=Gweddry
-#, fuzzy
 msgid ""
 "These undead are toying with us! This adept is weak — we should attack at "
 "once and take his fort."
-msgstr "这些亡灵在戏弄我们！这个学徒很弱——我们或许能夺下他的城堡。"
+msgstr "这些亡灵在戏弄我们！这个学徒很弱——我们应该立刻进攻并夺下他的要塞。"
 
 #. [message]: speaker=Dacyn
-#, fuzzy
 msgid ""
 "Indeed, I see no better option. Then, we must kill either of the dark "
 "sorcerers. I would prefer to attack the western one, so we can return to "
 "Wesnoth."
 msgstr ""
-"好主意，我们必须杀掉一个黑暗巫师。我偏向于攻击西面的那个，那样我们就可以回到"
-"韦诺了。"
+"确实如此，我看不出还有什么更好的办法。我们必须杀掉两个黑暗巫师之一。我偏向于"
+"攻击西面的那个，那样我们就可以回到韦诺了。"
 
 #. [message]: speaker=Mal-Skraat
 msgid "No! You have defeated me, and can re-enter Wesnoth!"
@@ -1382,7 +1380,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "I failed my Master..."
-msgstr "我辜负了吾主！"
+msgstr "我辜负了吾主……"
 
 #. [message]
 msgid "<i>HISS!</i>"
@@ -1396,7 +1394,7 @@ msgstr "海中生物离开了！"
 msgid ""
 "We have no time to lose! Let's get moving quickly before the rest of their "
 "army catches up with us."
-msgstr "我们没时间浪费了！在他们的军队追上我们之前，我们得赶快出发！"
+msgstr "我们没时间浪费了！在他们的军队追上我们之前，我们得赶快出发。"
 
 #. [scenario]: id=08_Training_the_Ogres
 msgid "Capturing the Ogres"
@@ -1422,7 +1420,7 @@ msgstr "如果一只食人魔在它的回合内无法移动多于一格的距离
 
 #. [note]
 msgid "If an ogre reaches the edge of the map, it will escape."
-msgstr "如果一只食人魔移动到了地图边缘，则它会逃脱"
+msgstr "如果一只食人魔移动到了地图边缘，则它会逃脱。"
 
 #. [message]: speaker=Gweddry
 msgid ""
@@ -1605,7 +1603,7 @@ msgstr "我要死了？兽人统御一切！"
 
 #. [message]: speaker=Elandin
 msgid "It seems these humans are more powerful than I thought. Ugh."
-msgstr "看上去这些人类比我想象的要强大。啊！"
+msgstr "看上去这些人类比我想象的要强大。啊。"
 
 #. [message]: speaker=Elandin
 msgid "Cursed dwarves! Perhaps we should have allied with the humans..."
@@ -1629,11 +1627,11 @@ msgstr "该死的精灵！我们也许该和人类结盟的……"
 
 #. [message]: speaker=Dacyn
 msgid "Let us forge onward toward Lake Vrug."
-msgstr ""
+msgstr "让我们向弗鲁格湖前进。"
 
 #. [scenario]: id=10_Lake_Vrug
 msgid "Lake Vrug"
-msgstr "瓦格湖"
+msgstr "弗鲁格湖"
 
 #. [side]: type=Lieutenant, id=Gweddry
 msgid "Gweddry"
@@ -1661,8 +1659,8 @@ msgid ""
 "island off the coast ahead that was once home to a great school of magic. I "
 "pray that the library is still intact."
 msgstr ""
-"足迹很快就没了。我们快到瓦格湖了。前方湖岸之外有一个小岛，岛上曾经有一所伟大"
-"的魔法学院。但愿图书馆仍然完好无损。"
+"足迹很快就没了。我们快到弗鲁格湖了。前方湖岸之外有一个小岛，岛上曾经有一所伟"
+"大的魔法学院。但愿图书馆仍然完好无损。"
 
 #. [message]: speaker=Owaec
 msgid "But what happened to the people living on it?"
@@ -1791,7 +1789,7 @@ msgstr "来吧！往这边走！"
 
 #. [objective]: condition=win
 msgid "Find Gweddry, Dacyn and Owaec"
-msgstr "找到格温德利、达辛和欧瓦埃克。"
+msgstr "找到格温德利、达辛和欧瓦埃克"
 
 #. [objective]: condition=win
 msgid "Release the other prisoners"
@@ -2179,7 +2177,7 @@ msgid ""
 "still have the Null Stone!"
 msgstr ""
 "啊！看起来强大的卡拉卡莱兹已经不复生存了。但这亡灵怪物在我的奥术之下并不孱"
-"弱……他一定还拥有着虚无之石。"
+"弱……他一定还拥有虚无之石！"
 
 #. [message]: speaker=Dacyn
 msgid "The Null Stone! With it we may finally defeat Mal-Ravanal!"
