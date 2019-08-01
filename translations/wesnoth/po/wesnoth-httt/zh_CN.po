@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-07-27 16:33+0800\n"
+"PO-Revision-Date: 2019-08-01 21:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3641,24 +3641,22 @@ msgstr ""
 "止。同意么？"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Very well, I promise that you will reach the surface again, or we shall all "
 "perish together."
-msgstr "很好，我发誓会让你再一次回到地表的，或者我们就死在一起，公主。"
+msgstr "很好，我发誓会让你再一次回到地表的，或者我们就死在一起。"
 
 #. [message]: speaker=Li'sar
 msgid "But once we escape from this hole, I have a score to settle with you!"
 msgstr "不过等我们从这洞里逃出去之后，我要和你好好算算帐！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Well, we have helped each other survive so far. Now let’s continue together. "
 "What do you say?"
 msgstr ""
-"恩，到现在为止，我们算是互相协助存活下来了，公主。现在让我们继续合作吧。你觉"
-"得如何？"
+"恩，到现在为止，我们算是互相协助存活下来了。现在让我们继续合作吧。你意下如"
+"何？"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -3669,9 +3667,8 @@ msgstr ""
 "头的资源吧。我把自己的金币抵押给你。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid "Thank you. Come, men. Let us find the Sceptre!"
-msgstr "谢谢，公主。前进，战士们。让我们找回权杖吧！"
+msgstr "谢谢。来吧，战士们。我们去找到权杖吧！"
 
 #. [message]: speaker=unit
 msgid "I can’t believe it should end like this!"
@@ -3733,10 +3730,9 @@ msgid "An earthquake! We’ll be trapped!"
 msgstr "地震了！我们会被困住的！"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "No, not an earthquake, but I feel it too. Something is... aware... of us."
-msgstr "不，不是地震，公主。我也感觉到了。有某种东西……发现了……我们。"
+msgstr "不，不是地震，但我也感觉到了。有某种东西……发现了……我们。"
 
 #. [message]: speaker=Li'sar
 msgid "Aware? Who? Delfador, what does he mean?"
@@ -3923,9 +3919,8 @@ msgid ""
 msgstr "谢谢你帮我回到了地面上，不过现在我必须拿走属于我的东西！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid "You still want to fight me, do you, Li’sar?"
-msgstr "你还是想和我战斗，是么，公主？"
+msgstr "你还是想和我作对，是么，莉莎？"
 
 #. [message]: speaker=Li'sar
 msgid "Did you think I was just playing around? I need to take my inheritance!"
@@ -3941,12 +3936,10 @@ msgstr ""
 "看看北面吧……有兽人在周围！看看南面吧……有大群的亡灵！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Indeed there are. We shall have to fight our way out. Are you with us or "
 "against us?"
-msgstr ""
-"确实如此。我们必须得杀出重围。你愿意站在我们一边么，公主，或者想和我们作对？"
+msgstr "确实如此。我们必须得杀出重围。你是站在我们一边，还是想和我们作对？"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -3965,10 +3958,9 @@ msgid "We have escaped."
 msgstr "我们逃出来了。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Yes, we have. Now I suppose you want to use the Sceptre against me, Li’sar?"
-msgstr "是的，我们逃出来了。现在我猜你想用权杖来对付我，是吧公主？"
+msgstr "是的，我们逃出来了。现在我猜你想用权杖来对付我，是吧莉莎？"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -3980,12 +3972,12 @@ msgstr ""
 "誓再也不到泰河的南岸来，那我就会饶你一命。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "With all due respect, <i>Princess</i>, it is once again we who will spare "
 "you, Sceptre or no Sceptre."
 msgstr ""
-"公主，我无意冒犯，不过这一次仍然是我们将饶你一命，不论是有权杖，还是没有。"
+"<b>公主</b>，我无意冒犯，不过这一次，仍然是我们要饶你一命，不论是有权杖，还是"
+"没有。"
 
 #. [message]: speaker=Li'sar
 msgid "Such words in the presence of royalty! Do you want me to fry you, Elf?"
@@ -4055,22 +4047,20 @@ msgstr ""
 "次河。但是，我知道有个地方可以安全过河。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid "And will you join us in seeking refuge with the North Elves, Li’sar?"
-msgstr "那么你会和我们一起到北方精灵的领地寻求庇护么，公主？"
+msgstr "那么你会和我们一起到北方精灵的领地寻求庇护么，莉莎？"
 
 #. [message]: speaker=Li'sar
 msgid "If the elves will promise me refuge and safe passage, then I will go."
-msgstr "如果精灵们同意给我庇护，让我安全通过的话，我会去的。"
+msgstr "如果精灵们许诺给我庇护，让我安全通过的话，我会去的。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "That we will. Even though you are the daughter of the Queen, our enemy, we "
 "shall not harm you on this encounter, for you have helped us."
 msgstr ""
-"那么就约定了，公主。尽管你是女王的女儿，我们的敌人，但现在的遭遇之下，我们也"
-"不会伤害你，因为你帮助了我们。"
+"那么一言为定。尽管你是女王的女儿，我们的敌人，但这一次遇到你，我们并不会伤害"
+"你，因为你帮助了我们。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -4104,15 +4094,13 @@ msgstr ""
 "们的信任一样。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Your people have already saved me once from a watery death, noble merfolk, "
 "fighting by my side as undead horrors threatened to devour us. I entrust our "
 "army to your strength and protection."
 msgstr ""
-"您的族人曾经在海上救过我一命，尊贵的人鱼。你们和我并肩作战，一起对抗恐怖亡灵"
-"的威胁和灭绝我们的企图。如今，我愿意把我们的军队，都置于你们的力量和保护之"
-"下。"
+"您的族人已经在海上救过我一命，尊贵的人鱼。你们和我并肩作战，一起对抗妄图吞噬"
+"我们的恐怖亡灵的威胁。如今，我愿意把我们的军队，都置于你们的力量和保护之下。"
 
 #. [message]: speaker=Konrad
 msgid ""
@@ -4350,14 +4338,13 @@ msgstr ""
 "剩下的时候，外来者便会占据韦诺，作为他们的家园。"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Enough! I can listen to no more of this. Li’sar, you may want to end your "
 "mother’s rule, but I will end her life as she ended the life of my father "
 "and my brothers. Asheviere’s masterwork of treachery will end, and it will "
 "end by my blade!"
 msgstr ""
-"够了！我再也听不下去了！公主，你也许只是想终结你的母亲的统治，但我会终结她的"
+"够了！我再也听不下去了！莉莎，你也许只是想终结你的母亲的统治，但我会终结她的"
 "性命，就像她终结了我父亲和我兄弟的性命一样！艾什薇尔的背叛将会终结，被我的剑"
 "所终结！"
 
@@ -4560,14 +4547,13 @@ msgstr ""
 "一行人顺流而下，旅行了好多天，在人鱼们的帮助下，有时走过浅水，有时游泳而过。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "One day they saw a gruesome sight — a fleet of boats and rafts sunk or "
 "shattered among the river islands. Konrad sent some of the merfolk to "
 "investigate."
 msgstr ""
-"一天，他们看到了可怕的景象——在河中岛间，一大群航船和小舟碎裂或者沉没了。科纳"
-"德派出了一些人鱼前去调查。"
+"一天，他们看到了可怕的景象——在河中岛间，一大群航船和小舟沉没或是四分五裂了。"
+"科纳德派出了一些人鱼前去调查。"
 
 #. [message]: role=merman-advisor
 msgid ""
@@ -4701,12 +4687,11 @@ msgstr ""
 "诺王座的继承人。"
 
 #. [message]: speaker=Li'sar
-#, fuzzy
 msgid ""
 "And I am the Princess, Li’sar, the only daughter of the late King Garard II "
 "and Queen Asheviere. I, too, am an heir to the throne of Wesnoth!"
 msgstr ""
-"而我是莉莎公主，先王伽拉德二世和女王艾什薇尔唯一的女儿。我也是韦诺王座的继承"
+"而我是莉莎公主，先王伽拉德二世和王后艾什薇尔唯一的女儿。我也是韦诺王座的继承"
 "人！"
 
 #. [message]: speaker=Keh Ohn
@@ -4838,11 +4823,10 @@ msgstr ""
 "王座的继承人！"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Li’sar, do I have to remind you again that it is Konrad, not you, who is the "
 "rightful heir?"
-msgstr "莉莎公主，是不是需要我再一次提醒你，科纳德才是合法的继承人，而你不是？"
+msgstr "莉莎，是不是需要我再一次提醒你，科纳德才是合法的继承人，而你不是？"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -4885,7 +4869,6 @@ msgid ""
 msgstr "我们是朋友。不用担心，也别试图和我们战斗——你这副样子可不能战斗啊。"
 
 #. [message]: speaker=Li'sar
-#, fuzzy
 msgid ""
 "I am the Princess, Li’sar, and we are friends. Join us and wait for the "
 "healers to help you, young sergeant."
@@ -5100,13 +5083,12 @@ msgid ""
 msgstr "这听上去太危险了。也许我们应该往西撤退，躲藏起来直到战斗结束？"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "I think these wild lands are too dangerous for that! Anyhow... I expected "
 "you to be on the side of Wesnoth, Li’sar?"
 msgstr ""
 "我觉得用来躲藏的话，那野地实在是太危险了！话说……我以为你是站在韦诺那一边的，"
-"公主？"
+"莉莎？"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -5170,16 +5152,15 @@ msgid "So, Konrad, do you think we can simply trot across the battlefield?"
 msgstr "所以说，科纳德，你是不是认为我们可以简单地从战场上慢跑过去？"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Stop for a moment, Li’sar. Look — you can barely see them in the distance "
 "there, but the advance scouts have found each other. The Queen’s troops are "
 "marching full speed for the orcs’ camp, and vice-versa. These armies are out "
 "for blood."
 msgstr ""
-"请等一下，公主。看——虽然在这么远的距离上几乎无法看清，但双方的先头侦察部队已"
-"经发现了对方。女王的军队正全速向兽人营地开进，反之也一样。这两支军队马上就要"
-"开始血战了。"
+"请等一下，莉莎。看——虽然在这么远的距离上几乎无法看清，但双方的先头侦察部队已"
+"经发现了对方。女王的军队正全速向兽人营地开进，反之也一样。这两支军队就要开始"
+"血战了。"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -5188,13 +5169,12 @@ msgid ""
 msgstr "但他们可不会因此忽视了我们的存在！我们正一头扑进一场大屠杀里！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "(hushed) Our soldiers will defend us as we rush across the field. Sorry to "
 "be blunt, but you and I are the only ones who need to make it across alive."
 msgstr ""
-"（低声）我们冲过战场的时候，士兵们会保护我们的。请原谅我的直率，公主，但你和"
-"我是唯一需要活着冲过去的人。"
+"（低声）我们冲过战场的时候，士兵们会保护我们的。恕我直言，你和我是唯二需要活"
+"着冲过去的人。"
 
 #. [message]: speaker=Delfador
 msgid "..."
@@ -5408,13 +5388,12 @@ msgstr ""
 "路上前行？"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "Change is coming to the human lands. We rush to Elensiria seeking "
 "assistance, and the perils of the Arkan-thoria presented the quickest route."
 msgstr ""
-"人类的领地即将发生巨变。我们正赶往埃仁希利亚寻求协助，而危机四伏的朗利尔河正"
-"是最快捷的路径。"
+"人类的领地即将发生巨变。我们正赶往埃仁希利亚寻求协助，而危机四伏的阿坎-索利亚"
+"正是最快捷的路径。"
 
 #. [message]: speaker=Bona-Melodia
 msgid ""
@@ -5782,27 +5761,24 @@ msgstr ""
 "拉，您怎么说？"
 
 #. [message]: speaker=Parandra
-#, fuzzy
 msgid ""
 "When Delfador the Great speaks of the Queen Dowager, Asheviere, ordering the "
 "princes of Wesnoth to be put to death, he speaks the truth."
 msgstr ""
-"公主，刚才德法多大师所说，太后艾什薇尔下令处死韦诺众王子之事，句句属实。"
+"公主，刚才德法多大师所说，王后艾什薇尔下令处死韦诺众王子之事，句句属实。"
 
 #. [message]: speaker=Li'sar
 msgid "And what say you, Elf-king?"
 msgstr "那您怎么说，精灵王？"
 
 #. [message]: speaker=Uradredia
-#, fuzzy
 msgid ""
 "I did not see it myself, but I have heard many reliable reports. Asheviere "
 "indeed has the blood of the princes on her hands. She has also allowed orcs "
 "to desecrate the lands, abandoning all respect for the peoples around her."
 msgstr ""
-"公主，我虽然没有亲眼看到，但我却听到过很多可靠的情报。艾什薇尔的确双手沾满了"
-"王子们的鲜血。她也允许兽人们亵渎韦诺的土地，对她身边的人民全无一丝一毫的敬"
-"意。"
+"我虽然没有亲眼看到，但我却听到过很多可靠的情报。艾什薇尔的确双手沾满了王子们"
+"的鲜血。她也允许兽人们亵渎韦诺的土地，对她身边的人民全无一丝一毫的敬意。"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -5815,13 +5791,12 @@ msgstr ""
 "能证明这一点。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Young lady, there is some good in you, but the throne is not yours to claim. "
 "Konrad has the Sceptre. He will take the throne."
 msgstr ""
-"公主，你的内心里有着善良的部分。但王座不是属于你的。科纳德持有着权杖，他才应"
-"该得到王座。"
+"年轻的女士，你的内心里有着善良的部分。但王座不是属于你的。科纳德持有着权杖，"
+"他才应该得到王座。"
 
 #. [message]: speaker=Li'sar
 msgid ""
@@ -5835,12 +5810,11 @@ msgstr ""
 "作为我的顾问和参事，德法多。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Though you have the Sceptre, Li’sar, it is rightfully Konrad’s. You have it "
 "now only because we helped you get it."
 msgstr ""
-"虽然圣火权杖在你手里，公主，但它理应是科纳德的。你现在持有它，仅仅是因为我们"
+"虽然圣火权杖在你手里，莉莎，但它理应是科纳德的。你现在持有它，仅仅是因为我们"
 "帮助你得到了它而已。"
 
 #. [message]: speaker=Li'sar
@@ -5848,9 +5822,8 @@ msgid "And if I refuse to give it to him?"
 msgstr "那如果我拒绝把权杖给他呢？"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "If it is necessary, I will ask Konrad to fight you in a duel for it."
-msgstr "如果有必要，公主，我会让科纳德为了权杖和你决斗。"
+msgstr "如果有必要，我会让科纳德为了权杖和你决斗。"
 
 #. [message]: speaker=Konrad
 msgid ""
