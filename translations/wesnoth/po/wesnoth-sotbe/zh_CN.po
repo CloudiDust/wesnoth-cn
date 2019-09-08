@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-07-27 17:16+0800\n"
+"PO-Revision-Date: 2019-09-08 17:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -417,8 +417,8 @@ msgid ""
 "Gór in the lands of the free tribes. We shall ask them for support. With "
 "their help, perhaps we can unite the orcish tribes and crush these humans."
 msgstr ""
-"我父亲经常提到评议会的萨满，他们住在灞拉·格，自由部落的土地上。我们应该求助元"
-"老会的支援。在他们的帮助下，或许我们能再次联合兽人部族来消灭这些人类。"
+"我父亲经常提到评议会的萨满，他们住在霸拉戈·高，自由部落的土地上。我们应该求助"
+"元老会的支援。在他们的帮助下，或许我们能再次联合兽人部族来消灭这些人类。"
 
 #. [message]: speaker=Kapou'e
 msgid "$stored_helper.name|!"
@@ -649,7 +649,7 @@ msgid ""
 "take the army to Barag Gór. Catch up when you’re done."
 msgstr ""
 "早先警告过你们了，矮人。骑兵们，把他们抢个精光。谁不给钱就绑起来，搜刮完以后"
-"走人。让他们知道留活口算是我发慈悲了。我领队去灞拉·格，你们抢完以后跟上。"
+"走人。让他们知道留活口算是我发慈悲了。我领队去霸拉戈·高，你们抢完以后跟上。"
 
 #. [message]: role=doggie
 msgid "Sounds like fun. All right boys, let’s go!"
@@ -662,7 +662,7 @@ msgid ""
 "Barag Gór in the distance."
 msgstr ""
 "成功了！我们通过了海格山区！看那些绿色的山岭！自由部落的已经离这儿不远了。我"
-"可以看见远处的灞拉·格的城墙。"
+"可以看见远处的霸拉戈·高的城墙。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -721,7 +721,7 @@ msgstr "萨满祭司被杀"
 msgid ""
 "Except for the shamans, the Barag Gór defenders will not follow you into the "
 "next scenario"
-msgstr "除了萨满，其余灞拉·格的战士不会跟随你参与下一关卡"
+msgstr "除了萨满，其余霸拉戈·高的战士不会跟随你参与下一关卡"
 
 #. [side]: type=Elvish Marshal, id=Etheliel
 msgid "Etheliel"
@@ -768,7 +768,7 @@ msgstr "瓦鲁克"
 msgid ""
 "When the party finally reached Barag Gór, they were met with a most "
 "startling sight."
-msgstr "当军队终于抵达灞拉·格以后，他们看到了令人吃惊的一幕。"
+msgstr "当军队终于抵达霸拉戈·高以后，他们看到了令人吃惊的一幕。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -776,8 +776,8 @@ msgid ""
 "always been jealous of our power, but what reason do they have to attack the "
 "city?"
 msgstr ""
-"活见鬼……！精灵正在围攻灞拉·格！虽然那些树上的软蛋一直嫉妒我们的力量，但他们为"
-"什么要来攻击我们呢？"
+"活见鬼……！精灵正在围攻霸拉戈·高！虽然那些树上的软蛋一直嫉妒我们的力量，但他们"
+"为什么要来攻击我们呢？"
 
 #. [message]: speaker=Grüü
 msgid "What can you expect, Chief? They’re elves after all."
@@ -915,8 +915,8 @@ msgid ""
 "Unfortunately, I was captured. But now I am free and the elves shall feel my "
 "wrath!"
 msgstr ""
-"灞拉·格长老会派我暗杀精灵首领。可是我人品太差，被抓个现行。现在我自由了，我要"
-"让精灵感受我的怒火！"
+"霸拉戈·高长老会派我暗杀精灵首领。可是我人品太差，被抓个现行。现在我自由了，我"
+"要让精灵感受我的怒火！"
 
 #. [message]: speaker=Pirk
 msgid "At last! The siege has been broken."
@@ -982,7 +982,7 @@ msgstr "你是怎么被抓住的？"
 msgid ""
 "The Barag Gór council sent me to assassinate the elvish leaders. "
 "Unfortunately, I was captured."
-msgstr "灞拉·格长老会派我暗杀精灵首领。可惜我人品太差，被抓了个现行。"
+msgstr "霸拉戈·高长老会派我暗杀精灵首领。可惜我人品太差，被抓了个现行。"
 
 #. [message]: speaker=Kapou'e
 msgid "Fine, someone go release him."
@@ -1038,7 +1038,7 @@ msgid ""
 "Leaving most of his people at Barag Gór, Kapou’e, accompanied by the shamans "
 "and his warriors, set off to Tirigaz."
 msgstr ""
-"把大部分人留在了灞拉·格后，卡破尔和他的战士以及萨满们出发前往提里嘎兹。"
+"把大部分人留在了霸拉戈·高后，卡破尔和他的战士以及萨满们出发前往提里嘎兹。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1729,7 +1729,7 @@ msgid ""
 "Shan Taum the Smug."
 msgstr ""
 "清理了寂静森林的精灵后，卡破尔和队伍行将到达旅途的终点。几天后他们终于到达了"
-"哀悼山峦的都市拉姆瑞格，统治者正是自命不凡的闪·陶姆。"
+"哀悼山峦的都市玛里戈，统治者正是自命不凡的闪·陶姆。"
 
 #. [message]: speaker=Kapou'e
 msgid "At last, here are the Mourned Hills! We can only hope for the best."
@@ -1800,7 +1800,7 @@ msgid ""
 "What is this? Are you mad?! Humans are to besiege our fortress at Prestim "
 "and you are fighting each other?!"
 msgstr ""
-"怎么搞的？你们俩是傻×吗？！人类在围攻我们普莱斯庭的要塞，而你们却在自相残"
+"怎么搞的？你们俩是傻×吗？！人类在围攻我们普雷斯提姆的要塞，而你们却在自相残"
 "杀？！"
 
 #. [message]: speaker=Kapou'e
@@ -1846,7 +1846,7 @@ msgstr "谢谢。"
 
 #. [message]: speaker=Grüü
 msgid "Did you hear? There is a battle waiting for us at Prestim!"
-msgstr "你听说了吗？在普莱斯庭有一场战争在等着我们！"
+msgstr "你听说了吗？在普雷斯提姆有一场战争在等着我们！"
 
 #. [message]: speaker=Echarp
 msgid ""
@@ -1854,8 +1854,8 @@ msgid ""
 "of the river and your people won’t be safe. You are the only one that can "
 "help us defend Prestim!"
 msgstr ""
-"卡破尔，如果普莱斯庭陷落了，人类就会在河这边建立一个强大的据点，你的人民就再"
-"也不会安全了。你是唯一能够帮助我们坚守普莱斯庭的人！"
+"卡破尔，如果普雷斯提姆陷落了，人类就会在河这边建立一个强大的据点，你的人民就"
+"再也不会安全了。你是唯一能够帮助我们坚守普雷斯提姆的人！"
 
 #. [message]: speaker=Pirk
 msgid ""
@@ -1864,9 +1864,9 @@ msgid ""
 "will decide. We may have to form the Great Horde again, and give you the "
 "leadership of it."
 msgstr ""
-"把你的人民留在这吧，卡破尔——他们暂时是安全的——你要去保卫普莱斯庭。与此同时，"
-"既然评议会已经重聚，那我们会作出决定的。我们可能必须再次组成大部落，并授予你"
-"最高领导权。"
+"把你的人民留在这吧，卡破尔——他们暂时是安全的——你要去保卫普雷斯提姆。与此同"
+"时，既然评议会已经重聚，那我们会作出决定的。我们可能必须再次组成大部落，并授"
+"予你最高领导权。"
 
 #. [message]: speaker=Shan Taum
 msgid "Nooo! Don’t kill me, I surrender to you little earthworm."
@@ -1913,8 +1913,8 @@ msgid ""
 "fortified bridge over the River Bork was taken this morning by a small "
 "commando of elves, we have already tried to assault it twice without success."
 msgstr ""
-"援军！不管你是谁，欢迎来到普莱斯庭！伯克河上的桥垒在这个早上被一小队精灵突击"
-"队攻占了，我们已经两次试图发动夺还袭击，但都失败了。"
+"援军！不管你是谁，欢迎来到普雷斯提姆！伯克河上的桥垒在这个早上被一小队精灵突"
+"击队攻占了，我们已经两次试图发动夺还袭击，但都失败了。"
 
 #. [message]: speaker=Grüü
 msgid "Ah! They are no match against my hammer."
@@ -1970,8 +1970,8 @@ msgid ""
 "have reinforced Prestim. It is time to avenge the death of our fallen kin my "
 "friends — get them!"
 msgstr ""
-"嘿弟兄们看呐，就是这个部落的兽人破坏了我在寂静森林的基地，而且还来增援普莱斯"
-"庭了。现在是为了我们逝去的朋友们复仇的时刻了——冲啊！"
+"嘿弟兄们看呐，就是这个部落的兽人破坏了我在寂静森林的基地，而且还来增援普雷斯"
+"提姆了。现在是为了我们逝去的朋友们复仇的时刻了——冲啊！"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -1990,7 +1990,7 @@ msgid ""
 "Hurry-hurry, friends. Lanbec’h and his kind are right on our tails, we must "
 "reach Prestim quickly."
 msgstr ""
-"加油啊加油啊，朋友们。兰贝契快要逮住我们的大尾巴了，我们得赶紧去普莱斯庭。"
+"加油啊加油啊，朋友们。兰贝契快要逮住我们的大尾巴了，我们得赶紧去普雷斯提姆。"
 
 #. [message]: speaker=Kapou'e
 msgid "Bah! I’m not going to blow myself to bits!"
@@ -2133,7 +2133,7 @@ msgstr "所以我们现在在这头，而他们在准备攻城。"
 
 #. [message]: speaker=Grüü
 msgid "Prestim’s walls are rock-hard, they’ll waste themselves on them."
-msgstr "普莱斯庭的城墙像坚不可摧，他们只会在这上面浪费生命。"
+msgstr "普雷斯提姆的城墙像坚不可摧，他们只会在这上面浪费生命。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -2143,9 +2143,9 @@ msgid ""
 "the river where the bridge previously stood so he must have a better plan "
 "than that."
 msgstr ""
-"我不确定。任何堡垒都自有它的弱点。普莱斯庭的城墙虽然坚实，但同时也又长又难于"
-"防御多方向的进攻。兰贝契伯爵也应当知道，他们不可能仅靠强渡原先桥梁伫立的浅滩"
-"攻破这座城，所以他肯定还有什么更好的计划。"
+"我不确定。任何堡垒都自有它的弱点。普雷斯提姆的城墙虽然坚实，但同时也又长又难"
+"于防御多方向的进攻。兰贝契伯爵也应当知道，他们不可能仅靠强渡原先桥梁伫立的浅"
+"滩攻破这座城，所以他肯定还有什么更好的计划。"
 
 #. [message]: role=cannonfodder
 msgid ""
@@ -2167,8 +2167,8 @@ msgid ""
 "when the shamans arrive with the Great Horde. We can’t let the humans "
 "establish a foothold on this side of the river."
 msgstr ""
-"傻×！我们当然可以坚守四天。但是我们必须在萨满和大部落到来前牢牢控制住普莱斯"
-"庭。我们绝不能让人类在河这边建立一个落脚处。"
+"傻×！我们当然可以坚守四天。但是我们必须在萨满和大部落到来前牢牢控制住普雷斯提"
+"姆。我们绝不能让人类在河这边建立一个落脚处。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -2222,7 +2222,8 @@ msgid ""
 "What’s this? This weakling has let humans enter Prestim? I will lead the "
 "horde and push them to the river!"
 msgstr ""
-"什么？这个废柴居然使得人类攻入普莱斯庭了？让我来领导大部落，把人类搡下水吧！"
+"什么？这个废柴居然使得人类攻入普雷斯提姆了？让我来领导大部落，把人类搡下水"
+"吧！"
 
 #. [message]: role=greathordewarlord2
 msgid ""
@@ -2238,7 +2239,7 @@ msgstr "看啊，那帮傻×兽人开始起内讧了！现在我们的机会来�
 
 #. [message]: speaker=Gork
 msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
-msgstr "我们来了！守住普莱斯庭，我们来把他们推到河里去！"
+msgstr "我们来了！守住普雷斯提姆，我们来把他们推到河里去！"
 
 #. [message]: speaker=Earl Lanbec'h
 msgid "They are too numerous now, RETREAT!"
@@ -2255,8 +2256,8 @@ msgid ""
 "the morale of the humans. Now they are retreating to their fortresses and "
 "will not venture out again anytime soon."
 msgstr ""
-"你们保卫普莱斯庭的战斗如同史诗，面对如此强大的抵抗显然使人类士气大降。现在他"
-"们撤回了自己的要塞，短期内应该不会冒险出来了。"
+"你们保卫普雷斯提姆的战斗如同史诗，面对如此强大的抵抗显然使人类士气大降。现在"
+"他们撤回了自己的要塞，短期内应该不会冒险出来了。"
 
 #. [message]: speaker=Pirk
 msgid ""
@@ -2318,7 +2319,7 @@ msgid ""
 "orcish territory."
 msgstr ""
 "大部落军队分兵两路。在萨满的建议下，卡破尔把一部分领导权交给自以为是的闪·陶姆"
-"——虽然其人有点可恶——但闪·陶姆确实是凶悍而称职的首领。他被派往比脱克——兽人西南"
+"——虽然其人有点可恶——但闪·陶姆确实是凶悍而称职的首领。他被派往毕脱克——兽人西南"
 "边陲边的城市，以切断已经从提里嘎兹登陆的人类，阻止人类继续侵略兽人领地。"
 
 #. [part]
@@ -2327,8 +2328,8 @@ msgid ""
 "north of the Mourned Hills — to organize any remaining orcish forces as well "
 "as create an arms and supply depot."
 msgstr ""
-"他派出萨满皮尔克，古尔克和瓦鲁克返回哀悼山峦北部的城市博斯坦普，组织所有残余"
-"的兽人军队，同时建立军备补给点。"
+"他派出萨满皮尔克，古尔克和瓦鲁克返回哀悼山峦北部的城市博步，组织所有残余的兽"
+"人军队，同时建立军备补给点。"
 
 #. [part]
 msgid ""
@@ -2336,8 +2337,8 @@ msgid ""
 "his remaining forces to Dorest, the human city due southeast of Prestim, to "
 "which Earl Lanbec’h had retreated."
 msgstr ""
-"卡破尔渴望着把这件破事一了百了，就带领着剩余的部队直奔普莱斯庭东南方的人类城"
-"市德赛，也是兰贝契伯爵撤退的地方。"
+"卡破尔渴望着把这件破事一了百了，就带领着剩余的部队直奔普雷斯提姆东南方的人类"
+"城市多雷斯特，也是兰贝契伯爵撤退的地方。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -2379,7 +2380,7 @@ msgstr "萨格玛"
 msgid ""
 "After conquering and occupying Dorest, Kapou’e and his men set themselves to "
 "stabilizing the area and bringing it firmly under the iron-hard orcish rule."
-msgstr "攻占了德赛城后，卡破尔和部下们用兽人铁一般的纪律巩固了这块领土。"
+msgstr "攻占了多雷斯特后，卡破尔和部下们用兽人铁一般的纪律巩固了这块领土。"
 
 #. [part]
 msgid ""
@@ -2391,7 +2392,7 @@ msgid ""
 msgstr ""
 "花了几周时间扑灭了人类的小规模叛乱，又清除人类最后的要塞后，昭示着远北之地漫"
 "漫寒冬的第一片雪花落下了。又过了几天，在第一场雪之后，一个累得半死不活的狼骑"
-"兵冲入了德赛城，带来了博斯坦普被大批矮人、歹徒和精灵包围的消息。"
+"兵冲入了多雷斯特，带来了博步被大批矮人、歹徒和精灵包围的消息。"
 
 #. [part]
 msgid ""
@@ -2402,7 +2403,7 @@ msgid ""
 "supply depot?"
 msgstr ""
 "兽人指挥官们震惊了。如此庞大的军队怎么会如此深入兽人领地，而且全无消息？他们"
-"的首领又怎么知道要进攻兽人的集结点和军备贮存地博斯坦普？"
+"的首领又怎么知道要进攻兽人的集结点和军备贮存地博步？"
 
 #. [part]
 msgid ""
@@ -2412,7 +2413,7 @@ msgid ""
 "of Borstep."
 msgstr ""
 "卡破尔嗅到了背叛的气息儿。虑及在这样的天气下人类的攻击会极大的受挫，他只留下"
-"了小部分军队防御德赛城，而他和大部落主力去支援博斯坦普。"
+"了小部分军队防御多雷斯特，而他和大部落主力去支援博步。"
 
 #. [part]
 msgid ""
@@ -2422,9 +2423,9 @@ msgid ""
 "crafts, they marched the last leg of their journey through the deepening "
 "snow of the Mourned Hills."
 msgstr ""
-"为了赶在寒冬冻结河面之前到达博斯坦普，兽人们匆匆乘船抢渡伯克河。没日没夜的航"
-"行，大部落差点没能在河面冻实前穿越寂静森林。登陆之后，他们向旅途的目的地大步"
-"进军，穿越哀悼山峦的重重积雪。"
+"为了赶在寒冬冻结河面之前到达博步，兽人们匆匆乘船抢渡伯克河。没日没夜的航行，"
+"大部落差点没能在河面冻实前穿越寂静森林。登陆之后，他们向旅途的目的地大步进"
+"军，穿越哀悼山峦的重重积雪。"
 
 #. [part]
 msgid ""
@@ -2433,8 +2434,8 @@ msgid ""
 "smashed, houses burnt and its inhabitants driven out or slaughtered. Of the "
 "orcish shamans there was no sign."
 msgstr ""
-"他们到达城市外最近的山顶，看到了悲惨的一幕：博斯坦普一无所剩，墙毁房塌，人民"
-"奔逃，惨遭屠戮。找不到任何萨满的痕迹。"
+"他们到达城市外最近的山顶，看到了悲惨的一幕：博步一无所剩，墙毁房塌，人民奔"
+"逃，惨遭屠戮。找不到任何萨满的痕迹。"
 
 #. [part]
 msgid ""
@@ -2479,8 +2480,8 @@ msgid ""
 "than your kind can. Take the orcish prisoners and hurry to Melmog. The "
 "dwarves shall stop this orcish menace!"
 msgstr ""
-"精灵，在这种状况下我们远比你们行军更快，战力更强。赶紧带着兽人俘虏去米尔默"
-"格。矮人们定可阻挡兽人的侵袭！"
+"精灵，在这种状况下我们远比你们行军更快，战力更强。赶紧带着兽人俘虏去梅莫戈。"
+"矮人们定可阻挡兽人的侵袭！"
 
 #. [message]: speaker=Thelarion
 msgid ""
@@ -2694,7 +2695,7 @@ msgstr "……额，你们想知道什么？"
 
 #. [message]: speaker=second_unit
 msgid "You can start by telling us who told you to strike at Borstep."
-msgstr "你可以先说说是谁让你袭击博斯坦的。"
+msgstr "你可以先说说是谁让你袭击博步的。"
 
 #. [message]: speaker=Thelarion
 msgid "Uh... we have intelligence."
@@ -2863,8 +2864,8 @@ msgid ""
 msgstr ""
 "卡破尔发誓绝不会让兽族分崩离析。近来的事件让他嗅到了破坏兽人团结的变节与险"
 "谋。此外，要是那树皮虱的话可信，那么就是自命不凡的闪·陶姆主使了一切。卡破尔不"
-"知道一个兽人妄图杀戮自己的同胞是为了取得什么，但他决定向比脱克进军，亲自料理"
-"变节者。比脱克在兽人领土的边缘地带，这也是重新团结兽人的好机会——也是一直以来"
+"知道一个兽人妄图杀戮自己的同胞是为了取得什么，但他决定向毕脱克进军，亲自料理"
+"变节者。毕脱克在兽人领土的边缘地带，这也是重新团结兽人的好机会——也是一直以来"
 "的俗例。"
 
 #. [part]
@@ -2881,15 +2882,15 @@ msgid ""
 msgstr ""
 "另外，卡破尔的军队尊敬他们这位英明称职的领袖，他们向他示忠。由衷高兴的卡破尔"
 "派出分遣队到各个方向联合其它部落，必须时容许动用武力。奥伯克派往西方，沿着卡"
-"破尔将近一年前逃避人类军队走过的路。弗拉塔被派往正南，沿着海格山脉和东部的哀"
-"悼山峦，集结各个部落。卡破尔自己带兵直指西南方的比脱克。他们准备在春天到来时"
-"到德赛城会师，一同击退必定要卷土重来的人类。"
+"破尔将近一年前逃避人类军队走过的路。弗拉塔被派往正南，沿着哈戈山脉和东部的哀"
+"悼山峦，集结各个部落。卡破尔自己带兵直指西南方的毕脱克。他们准备在春天到来时"
+"到多雷斯特会师，一同击退必定要卷土重来的人类。"
 
 #. [part]
 msgid ""
 "Having thus made his plans, Kapou’e set out for Bitok to get to the root of "
 "this treachery."
-msgstr "这样定了计划，卡破尔出发前往比脱克，寻找这叛乱的根源。"
+msgstr "这样定了计划，卡破尔出发前往毕脱克，寻找这叛乱的根源。"
 
 #. [message]: speaker=Kapou'e
 msgid ""
@@ -2898,8 +2899,8 @@ msgid ""
 "opposition in your path, I want this area to be firmly under my control by "
 "the time we are through here."
 msgstr ""
-"假如我们要去比脱克，然后在春天前赶回德赛，那么一定要快了。立即撤除营地。杀光"
-"一切挡路的敌人，我要在我们通过比脱克时，那块区域完全受到我的控制。"
+"假如我们要去毕脱克，然后在春天前赶回多雷斯特，那么一定要快了。立即撤除营地。"
+"杀光一切挡路的敌人，我要在我们通过毕脱克时，那块区域完全受到我的控制。"
 
 #. [message]: speaker=Braga
 msgid "Black-Eye! We won’t submit to an upstart like you!"
@@ -3021,7 +3022,7 @@ msgid ""
 "Finally, after over three months, Kapou’e and his exhausted but hardened "
 "army arrived at Bitok, just before the spring thaw."
 msgstr ""
-"终于，过了三个多月，卡破尔和他精疲力竭然而深受战斗洗礼的军队到达了比脱克，恰"
+"终于，过了三个多月，卡破尔和他精疲力竭然而深受战斗洗礼的军队到达了毕脱克，恰"
 "好在融雪之前。"
 
 #. [message]: speaker=Kapou'e
@@ -3136,7 +3137,7 @@ msgid ""
 "Dorest."
 msgstr ""
 "如卡破尔预想的，闪·陶姆的军队一被打败，他就逃走不见了。卡破尔咬牙切齿，发誓要"
-"用这叛徒的头颅做酒杯，于是带兵向德赛城进发。"
+"用这叛徒的头颅做酒杯，于是带兵向多雷斯特进发。"
 
 # 这应该是真实的意思，之前的翻译与下文不符。
 #. [part]
@@ -3161,8 +3162,8 @@ msgid ""
 "almost frightening."
 msgstr ""
 "他们的出现可以说是多此一举。仅仅几日后卡破尔就惊讶的发现，他的人民对他怀有极"
-"大的尊敬。卡破尔的功绩广传四方──在灞拉·格援救萨满，在北方的暴雪中强行军。年轻"
-"的大兵们尤为热切的崇拜他，接近于敬畏。"
+"大的尊敬。卡破尔的功绩广传四方──在霸拉戈·高援救萨满，在北方的暴雪中强行军。年"
+"轻的大兵们尤为热切的崇拜他，接近于敬畏。"
 
 #. [part]
 msgid ""
@@ -3333,8 +3334,8 @@ msgid ""
 "Horde."
 msgstr ""
 "人类进攻暂时停止，双方在战场中央会面。豪伽施三世要求卡破尔按照协议归还德赛城"
-"和其它人类领地。卡破尔拒绝在人类大举进攻兽族领地时归还德赛城，除非人类解散军"
-"队，归还从兽人那里掠得的领土。只有这样，他才会归还德赛并解散大部落。"
+"和其它人类领地。卡破尔拒绝在人类大举进攻兽族领地时归还多雷斯特，除非人类解散"
+"军队，归还从兽人那里掠得的领土。只有这样，他才会归还德赛并解散大部落。"
 
 #. [part]
 msgid ""
@@ -3391,7 +3392,7 @@ msgid ""
 "Dorest recaptured by sunset."
 msgstr ""
 "哈哈！干得不错，闪·陶姆。这会好好给他们上一课的。进攻，士兵们！我要在日落前夺"
-"回德赛城。"
+"回多雷斯特。"
 
 #. [message]: speaker=Howgarth III
 msgid ""
@@ -3403,9 +3404,9 @@ msgid ""
 "enough, then we are here to protect you in case he violates the pact."
 msgstr ""
 "等一下，兰贝契伯爵。我已经和兽人达成协议了。你和你的军队是入侵者，你必须立即"
-"解散你的军队离开兽人领土。这些结束后，卡破尔就会归还德赛城并解散大部落。我曾"
-"经也和他父亲卡伦谈判过，我相信他的一腔热血是值得信赖的。假如这还不够，我们会"
-"留在这里保护你，防止他违约。"
+"解散你的军队离开兽人领土。这些结束后，卡破尔就会归还多雷斯特并解散大部落。我"
+"曾经也和他父亲卡伦谈判过，我相信他的一腔热血是值得信赖的。假如这还不够，我们"
+"会留在这里保护你，防止他违约。"
 
 #. [message]: speaker=Earl Lanbec'h
 msgid ""
@@ -3504,9 +3505,9 @@ msgid ""
 "horde was dispersed he appointed three more shamans — with the consent of "
 "all — to make the Great Council complete again."
 msgstr ""
-"伯爵被杀后，豪伽施信守承诺，解散了伯爵的军队并撤出兽人领土。卡破尔也从德赛城"
-"撤回，解散了大部落。但是解散军队前他接见了另外三个萨满──也是所有幸存的萨满——"
-"来重建评议会。"
+"伯爵被杀后，豪伽施信守承诺，解散了伯爵的军队并撤出兽人领土。卡破尔也从多雷斯"
+"特撤回，解散了大部落。但是解散军队前他接见了另外三个萨满──也是所有幸存的萨满"
+"——来重建评议会。"
 
 #. [part]
 msgid ""
@@ -3516,7 +3517,7 @@ msgid ""
 "sovereign over all the northern tribes."
 msgstr ""
 "正如他们曾经邀请他父亲那样，豪伽施三世邀请卡破尔加入北方联盟。卡破尔拒绝了。"
-"他回到灞拉·格，在这里定都，加冕自己为北方所有部落的王。"
+"他回到霸拉戈·高，在这里定都，加冕自己为北方所有部落的王。"
 
 #. [part]
 msgid ""
