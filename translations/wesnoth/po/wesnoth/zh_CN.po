@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-06-30 15:14+0300\n"
-"PO-Revision-Date: 2019-07-27 15:48+0800\n"
+"POT-Creation-Date: 2019-09-16 11:33+0300\n"
+"PO-Revision-Date: 2019-09-23 22:31+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3902,6 +3902,10 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
+#. [lua]: wesnoth.wml_actions.message
+msgid "input"
+msgstr "输入"
+
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3909,6 +3913,12 @@ msgstr "胜利："
 #. [lua]: generate_objectives
 msgid "Defeat:"
 msgstr "失败："
+
+#. [lua]: generate_objectives
+msgid "(this turn left)"
+msgid_plural "(%d turns left)"
+msgstr[0] "（余下此回合）"
+msgstr[1] "（余下%d回合）"
 
 #. [lua]: generate_objectives
 msgid "%d%% of gold carried over to the next scenario."
@@ -6044,8 +6054,16 @@ msgstr ""
 "显示可用命令列表或提供特定于命令的帮助。使用“help all”以包含当前不可用的命"
 "令。"
 
-msgid "do not translate the 'all'^[all|<command>]"
-msgstr "[all|<命令>]"
+#. TRANSLATORS: These are the arguments accepted by the "help" command,
+#. which are either "all" or the name of another command.
+#. As with the command's name, "all" is hardcoded, and shouldn't change in the translation.
+msgid ""
+"[all|<command>]\n"
+"“all” = overview of all commands, <command> = name of a specific command "
+"(provides more detail)"
+msgstr ""
+"[all|<命令>]\n"
+"“all” = 对全部命令的综述，<命令> = 指定命令的名称（提供更多细节信息）"
 
 msgid "Missing argument $arg_id"
 msgstr "缺少参数$arg_id"
@@ -6069,8 +6087,12 @@ msgstr " 无可用帮助信息。"
 msgid "Usage:"
 msgstr "用法："
 
-msgid "aliases:"
-msgstr "别名："
+#. TRANSLATORS: alternative names for command-line commands, only shown if
+#. there is at least one of them.
+msgid "command^Alias:"
+msgid_plural "Aliases:"
+msgstr[0] "别名："
+msgstr[1] "别名："
 
 msgid "Save Map As"
 msgstr "地图另存为"
@@ -6166,11 +6188,24 @@ msgstr "刷新图形界面。"
 msgid "Switch a side to/from AI control."
 msgstr "对某一阵营开启/关闭AI控制。"
 
-msgid "do not translate the on/off^[<side> [on/off]]"
-msgstr "[<阵营> [on/off]]"
+#. TRANSLATORS: These are the arguments accepted by the "droid" command,
+#. which must be a side-number and then optionally one of "on", "off" or "full".
+#. As with the command's name, "on" and "off" are hardcoded, and shouldn't change in the translation.
+msgid ""
+"[<side> [on/off]]\n"
+"“on” = enable control by the AI, “off” = side is controlled by the player"
+msgstr ""
+"[<阵营> [on/off]]\n"
+"“on” = 启用AI控制，“off” = 该阵营由玩家控制"
 
 msgid "Switch a side to/from idle state."
 msgstr "对某一阵营开启/关闭空闲状态。"
+
+#. TRANSLATORS: These are the arguments accepted by the "idle" command,
+#. which must be a side-number and then optionally "on" or "off".
+#. As with the command's name, "on" and "off" are hardcoded, and shouldn't change in the translation.
+msgid "command_idle^[<side> [on/off]]"
+msgstr "[<阵营> [on/off]]"
 
 msgid "<side> <nickname>"
 msgstr "<阵营> <昵称>"
@@ -6193,8 +6228,8 @@ msgstr "调试前景地形。"
 msgid "Debug layers from terrain under the mouse."
 msgstr "调试鼠标所指向的地形中的各层。"
 
-msgid "Show fps."
-msgstr "显示FPS。"
+msgid "Show fps (Frames Per Second)."
+msgstr "显示FPS（每秒帧数）。"
 
 msgid "Save game."
 msgstr "保存游戏。"
@@ -6428,11 +6463,14 @@ msgstr "无镜像"
 msgid "No Ally Mirror"
 msgstr "无友方镜像"
 
-msgid "A player has joined"
-msgstr "一位玩家加入了"
+msgid "A game ($name|, $scenario|) has been created"
+msgstr "游戏（$name|, $scenario|）已创建"
 
 msgid "Wesnoth"
 msgstr "韦诺"
+
+msgid "A player has joined"
+msgstr "一位玩家加入了"
 
 msgid "A player has left"
 msgstr "一位玩家离开了"
@@ -6518,6 +6556,20 @@ msgid ""
 "A network disconnection has occurred, and the game cannot continue. Do you "
 "want to save the game?"
 msgstr "网络连接已断开，游戏无法继续进行。你想保存游戏吗？"
+
+msgid ""
+"\n"
+"Do you want to save the game?"
+msgstr ""
+"\n"
+"你想要保存游戏吗？"
+
+msgid ""
+"This game has been ended.\n"
+"Reason: "
+msgstr ""
+"游戏已结束。\n"
+"原因："
 
 msgid "It is now $name|’s turn"
 msgstr "现在是$name|的回合"
@@ -6759,26 +6811,27 @@ msgstr "单位"
 
 msgid ""
 "The expenses incurred at the end of every turn to maintain your army. The "
-"first number is the amount of gold that will be deducted. The second is the "
-"total cost of upkeep, including that covered by villages — in other words, "
-"the amount of gold that would be deducted if you lost all villages."
+"first number is the amount of gold that will be deducted. It is equal to the "
+"number of unit levels not supported by villages. The second is the total "
+"cost of upkeep, including that covered by villages — in other words, the "
+"amount of gold that would be deducted if you lost all villages."
 msgstr ""
-"用于维护你的军队，而在每回合结束时产生的开销。第一个数字是将会减去的金币数"
-"量。第二个是总维护费用，包括由村庄支付的费用——换句话说，是当你失去所有村庄"
-"时，将会被减去的金币数量。"
+"为了维护你的军队而在每回合结束时产生的开销。第一个数字是将会减去的金币数量。"
+"该数量与村庄无法支持的单位等级数相等。第二个是总维护费用，包括由村庄支付的费"
+"用——换句话说，是当你失去所有村庄时，将会被减去的金币数量。"
 
 msgid "Upkeep"
 msgstr "维护费用"
 
-msgid "Income"
-msgstr "收入"
+msgid "Net Income"
+msgstr "净收入"
 
 msgid ""
-"The amount of gold you gain each turn from your controlled villages, or the "
-"amount of gold you will lose each turn for unit upkeep."
+"The net amount of gold you gain or lose each turn, taking into account "
+"income from controlled villages and payment of upkeep."
 msgstr ""
-"每回合从你所控制的村庄中获得的金币总数，或每回合由于单位维护而会损失的金币总"
-"数。"
+"每回合你所获得或失去的金币的净数量，该数量计入了你所控制的村庄提供的收入以及"
+"维护费用的支出。"
 
 msgid "Observers:"
 msgstr "观察者："
@@ -6865,9 +6918,6 @@ msgstr "保存游戏"
 
 msgid "Game state is corrupted"
 msgstr "游戏状态已损毁"
-
-msgid "input"
-msgstr "输入"
 
 msgid "Unexpected characters at line start"
 msgstr "行首部出现非预期的字符"

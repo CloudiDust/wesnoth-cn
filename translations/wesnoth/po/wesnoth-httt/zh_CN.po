@@ -5,12 +5,12 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-06-30 12:13 UTC\n"
+"POT-Creation-Date: 2019-09-16 08:32 UTC\n"
 "PO-Revision-Date: 2019-08-01 21:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -116,11 +116,11 @@ msgstr "科纳德"
 #. [side]: type=Fighter, id=Konrad
 #. [side]: type=Elvish Champion, id=Galdrad
 #. [side]: type=Elvish Shyde, id=Chantal
-#. [side]: id=Relgorn, type=Dwarvish Lord
-#. [side]: id=Geldar, type=Dwarvish Lord
-#. [side]
 #. [side]: type=Ancient Wose, id=Haralamdum
 #. [side]: type=Elvish Sylph, id=Bona-Melodia
+#. [side]
+#. [side]: id=Relgorn, type=Dwarvish Lord
+#. [side]: id=Geldar, type=Dwarvish Lord
 msgid "Rebels"
 msgstr "反抗军"
 
@@ -1121,12 +1121,12 @@ msgstr "玛夫·玛拉尔"
 #. [side]: type=Lich, id=Selda-Mana
 #. [side]: id=Haf-Mal, type=Lich
 #. [side]: id=Jarmal-Gorg, type=Lich
+#. [side]: type=Ancient Lich, id=Muff Argulak
 #. [side]: type=Death Knight, id=Clarustus
 #. [side]: type=Death Knight, id=Merlunius
 #. [side]: type=Lich, id=Aimucasur
 #. [side]: type=Death Knight, id=Secadius
 #. [side]: type=Death Knight, id=Dafeis
-#. [side]: type=Ancient Lich, id=Muff Argulak
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1392,13 +1392,13 @@ msgstr "埃仁撒伐"
 msgid "Agadla"
 msgstr "阿伽德拉"
 
-#. [side]: id=Brugg, type=Troll Warrior
-#. [side]: id=Lionel, type=Death Knight
 #. [side]: type=Orcish Warlord, id=Agadla
 #. [side]: type=Dark Sorcerer, id=Muff Jaanal
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Death Knight, id=Unan-Ka'tall
 #. [side]: type=Troll Warrior, id=Haaf-Garga
+#. [side]: id=Brugg, type=Troll Warrior
+#. [side]: id=Lionel, type=Death Knight
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -3191,8 +3191,10 @@ msgstr ""
 "脆弱的人类——或者更糟糕，一个精灵——永远都不可能驾驭它们暴烈的本能！"
 
 #. [message]: speaker=Delfador
+#. Relgorn is a Dwarvish Lord
+#, fuzzy
 msgid ""
-"Temper your anger. Relgorn’s manner may be rough, but surely there is "
+"Temper your anger. Lord Relgorn’s manner may be rough, but surely there is "
 "nothing wrong with his suggestion?"
 msgstr ""
 "请两位息怒。瑞尔高恩的态度也许有些糟糕，但无疑他的建议并没有什么问题吧？"
@@ -3417,6 +3419,12 @@ msgid ""
 "help us in our quest."
 msgstr "我们正在拼命把兽人和巨魔清出这些坑道！请助我们一臂之力。"
 
+#. [event]
+msgid ""
+"The dwarves are your allies in this scenario. If you help their leader "
+"survive the battle, he may provide you with useful information."
+msgstr ""
+
 #. [message]: speaker=second_unit
 msgid "Vile creature! Let us rid these tunnels of its kind!"
 msgstr "邪恶的造物！让我们把它们清除出去！"
@@ -3488,12 +3496,10 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 msgid ""
-"These caves are vast. If we are to find the Sceptre of Fire we must hurry. "
-"We are not alone, and now that our foes have smelled our blood it will be "
-"worse."
+"We have fared little better ourselves, friend. We have fled the Aethenwood "
+"last spring and come to these caves to seek the Sceptre of Fire. With the "
+"Sceptre, we hope to put the war to an end."
 msgstr ""
-"这些洞穴范围太广阔了。我们若想找到权杖，就要尽快！这儿可不是只有我们，现在敌"
-"人闻到了我们身上鲜血的味道，就更糟糕了。"
 
 #. [message]: speaker=Geldar
 msgid ""
@@ -3505,19 +3511,18 @@ msgstr ""
 "造物统治了一切。没人帮忙的话，你们都活不了。"
 
 #. [message]: speaker=Konrad
-msgid "How will we make it?"
-msgstr "我们怎样才能成功呢？"
+#. Relgorn is the dwarvish leader from the previous scenario
+msgid "Lord Relgorn’s troops are fighting at our side, sir."
+msgstr ""
 
 #. [message]: speaker=Geldar
 msgid ""
-"Northeast o’ my keep, young human, the tunnels converge towards the deepest "
-"reaches of the underground kingdom. The Sceptre can only be there. Please "
-"accept the service of my guardsmen. These elite warriors will protect you."
+"And fine troops they are, Prince, but no dwarf can match a guardsman’s "
+"resolute defense. Please accept the service o’ my clan’s defenders, to "
+"protect you and your quest."
 msgstr ""
-"俺要塞的东北方，年轻人。在那里，坑道在地下王国最深的地儿里汇到一起。权杖只可"
-"能在那里。请让俺的卫兵们来为你们服务吧。这些精英武士会保护你们的。"
 
-#. [message]: speaker=Delfador
+#. [message]: speaker=Konrad
 msgid ""
 "Your boon is most welcome, sir dwarf. Keeping the Sceptre out of the hands "
 "of evil beasts is a common goal for us, and we will prevail with your help."
@@ -3528,6 +3533,28 @@ msgstr ""
 #. [message]: speaker=narrator
 msgid "You may now recruit the legendary dwarvish guardsmen!"
 msgstr "您现在可以征募传奇般的矮人卫兵了！"
+
+#. [message]: speaker=Geldar
+#, fuzzy
+msgid ""
+"Northeast o’ my keep, Delfador, the tunnels converge towards the deepest "
+"reaches o’ the underground kingdom. The Sceptre can only be there."
+msgstr ""
+"俺要塞的东北方，年轻人。在那里，坑道在地下王国最深的地儿里汇到一起。权杖只可"
+"能在那里。请让俺的卫兵们来为你们服务吧。这些精英武士会保护你们的。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"These caves are vast. If we are to find the Sceptre of Fire we must hurry. "
+"We are not alone, and now that our foes have smelled our blood it will be "
+"worse."
+msgstr ""
+"这些洞穴范围太广阔了。我们若想找到权杖，就要尽快！这儿可不是只有我们，现在敌"
+"人闻到了我们身上鲜血的味道，就更糟糕了。"
+
+#. [message]: speaker=Konrad
+msgid "How will we make it?"
+msgstr "我们怎样才能成功呢？"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -4523,8 +4550,9 @@ msgid "Make it to the end of the river"
 msgstr "设法移动到河的尽头"
 
 #. [objective]: condition=win
-msgid "Reach the cave"
-msgstr "抵达洞穴"
+#, fuzzy
+msgid "Move Konrad to the cave"
+msgstr "移动科纳德至河北面"
 
 #. [objective]: condition=win
 msgid "Rescue the sergeant"
@@ -5344,7 +5372,7 @@ msgstr "蜥蜴人"
 msgid "Muff Argulak"
 msgstr "玛夫·阿古拉克"
 
-#. [side]: type=Ancient Wose, id=Haralamdum
+#. ['Haralamdum is ancient, and his mind does not work well any more. He takes things very slowly and carefully, even for a Wose. He halts and pauses, often searching for something in his memory, using meaningless syllables to fill the gap. The syllables of his name come from the phrase he uses to mean "that is all" or "I am done" which he says often, usually out of frustration with how hasty everyone seems. Nobody alive knows his real name, and he has likely forgotten as well. Feel free to add, move, or remove pauses to break up, or even scatter, his train of thought. For inspiration, think of Asperger Syndrome.']
 msgid "Haralamdum"
 msgstr "哈拉兰杜姆"
 
@@ -5471,7 +5499,7 @@ msgstr "不论那是什么，世界都很高兴。"
 msgid "Greetings, Sir Wose. We seek the exit to these caverns."
 msgstr "幸会，树人阁下。我们正在寻找洞穴的出口。"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Haralamdum
 msgid ""
 "If ... hmm dum ... you could help rid us of these ... alam hurum ... "
 "infernal undead, I would be ... alam alam ... look to the north and east ... "
@@ -5481,6 +5509,7 @@ msgstr ""
 "会……啊啦呣，啊啦呣……往北面和东面找找……呣……很感激的。哈，啊啦呣，达姆。"
 
 #. [message]: speaker=unit
+#. Intentionally courtly and formal here as a counter-point to the rough going when talking to Haralamdum.
 msgid "Well met, stranger."
 msgstr "幸会，陌生人。"
 
@@ -5541,6 +5570,7 @@ msgid "My head?"
 msgstr "我的头？"
 
 #. [message]: speaker=Haralamdum
+#. "just the other day" probably means a few decades ago. To Haralamdum, Ur Thorodor is a very young Wose … a small, young twig on the end of a new branch of an ancient tree, who has not yet earned the honorific 'Ur'
 msgid ""
 "Just the other day ... hmm ... I was speaking with that twig ... alam ... "
 "alam dum ... Thorodor? Hmm ... yes ... hum ... he said you took a ... alam "
@@ -5550,6 +5580,7 @@ msgstr ""
 "呣……他说你脑袋……啊啦呣，哈……被狠狠打了一下……呣……他担心你已经死了。"
 
 #. [message]: speaker=Delfador
+#. Over 50 years ago, probably 52, to be more precise.
 msgid ""
 "That was many years ago, I'm afraid. Now, we really must be moving along ..."
 msgstr "恐怕那已经是很多年以前的事了。现在，我们真的得走了……"
@@ -6161,6 +6192,19 @@ msgstr "急行军！更大的挑战挡在我们面前！在此耽搁，只会无
 msgid "Test of the Clan"
 msgstr "氏族的考验"
 
+#. [lua]: wesnoth.wml_actions.show_countdown
+#, fuzzy
+msgid "Defeat one more enemy unit"
+msgid_plural "Defeat $units_to_slay enemy units"
+msgstr[0] "击败敌方首领"
+msgstr[1] "击败敌方首领"
+
+#. [lua]: wesnoth.wml_actions.show_countdown
+msgid "Still $units_to_slay clan member to defeat!"
+msgid_plural "Still $units_to_slay clan members to defeat!"
+msgstr[0] ""
+msgstr[1] ""
+
 #. [objective]: condition=win
 msgid "Defeat enemy leaders"
 msgstr "击败所有敌方首领"
@@ -6285,6 +6329,12 @@ msgstr ""
 #. [message]: speaker=Sir Alric
 msgid "Aye."
 msgstr "没错。"
+
+#. [event]
+msgid ""
+"If you reduce Lord Bayar, Sir Ruga, Sir Daryn, or Sir Alric to 0HP, you’ll "
+"receive a reward!"
+msgstr ""
 
 #. [message]: speaker=Bayar
 msgid ""

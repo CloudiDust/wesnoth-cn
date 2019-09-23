@@ -3,11 +3,11 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@gmail.com>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
-"POT-Creation-Date: 2019-06-30 15:14+0300\n"
+"POT-Creation-Date: 2019-09-16 11:33+0300\n"
 "PO-Revision-Date: 2019-07-27 16:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1137,17 +1137,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#. This program is free software; you can redistribute it and/or modify
-#. it under the terms of the GNU General Public License as published by
-#. the Free Software Foundation; either version 2 of the License, or
-#. (at your option) any later version.
-#. This program is distributed in the hope that it will be useful,
-#. but WITHOUT ANY WARRANTY; without even the implied warranty of
-#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#. GNU General Public License for more details.
-#. You should have received a copy of the GNU General Public License
-#. along with this program; if not, write to the Free Software
-#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#.  This program is free software; you can redistribute it and/or modify
+#.  it under the terms of the GNU General Public License as published by
+#.  the Free Software Foundation; either version 2 of the License, or
+#.  (at your option) any later version.
+#.  This program is distributed in the hope that it will be useful,
+#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#.  GNU General Public License for more details.
+#.  You should have received a copy of the GNU General Public License
+#.  along with this program; if not, write to the Free Software
+#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 msgid "B<wesnothd>(6)"
 msgstr "B<wesnothd>(6)"
@@ -1630,11 +1630,14 @@ msgstr ""
 "的请求转发到指定的服务器。与B<[redirect]>接受一样的主键。"
 
 #. type: Plain text
+#, fuzzy
 msgid ""
 "B<[user_handler]> Configures the user handler. Available keys vary depending "
 "on which user handler is set with the B<user_handler> key. If no "
 "B<[user_handler]> section is present in the configuration the server will "
-"run without any nick registration service."
+"run without any nick registration service. All additional tables that are "
+"needed for the forum_user_handler to function can be found in "
+"table_definitions.sql in the Wesnoth source repository."
 msgstr ""
 "B<[user_handler]> 配置用户数据处理器。可设置的主键取决于通过B<user_handler>设"
 "置的用户数据处理器是哪一个。如果配置文件中没有B<[user_handler]>小节，则服务器"
@@ -1698,17 +1701,76 @@ msgid "B<db_extra_table>"
 msgstr "B<db_extra_table>"
 
 #. type: Plain text
+#, fuzzy
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
-"its own data about users. You will have to create this table manually, e.g.: "
-"B<CREATE TABLE E<lt>table-nameE<gt>(username VARCHAR(255) PRIMARY KEY, "
-"user_lastvisit INT UNSIGNED NOT NULL DEFAULT 0, user_is_moderator TINYINT(4) "
-"NOT NULL DEFAULT 0);>"
+"its own data about users. You will have to create this table manually."
 msgstr ""
-"（如果user_handler=forum）wesnothd存放自用的用户数据的表名。您必须自己手动创"
-"建这个表，例如：B<CREATE TABLE E<lt>table-nameE<gt>(username VARCHAR(255) "
-"PRIMARY KEY, user_lastvisit INT UNSIGNED NOT NULL DEFAULT 0, "
-"user_is_moderator TINYINT(4) NOT NULL DEFAULT 0);>"
+"（如果user_handler=forum）phpbb 论坛中存放用户数据的表名。很可能是E<lt>table-"
+"prefixE<gt>_users（例如phpbb3_users）。"
+
+#. type: TP
+#, fuzzy, no-wrap
+msgid "B<db_game_info_table>"
+msgstr "B<db_users_table>"
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"(for user_handler=forum) The name of the table in which wesnothd will save "
+"its own data about games."
+msgstr "（如果user_handler=forum）数据库登录用户名"
+
+#. type: TP
+#, fuzzy, no-wrap
+msgid "B<db_game_player_info_table>"
+msgstr "B<db_users_table>"
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"(for user_handler=forum) The name of the table in which wesnothd will save "
+"its own data about the players in a game."
+msgstr "（如果user_handler=forum）数据库登录用户名"
+
+#. type: TP
+#, no-wrap
+msgid "B<db_game_modification_info_table>"
+msgstr ""
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"(for user_handler=forum) The name of the table in which wesnothd will save "
+"its own data about the modifications used in a game."
+msgstr "（如果user_handler=forum）数据库登录用户名"
+
+#. type: TP
+#, fuzzy, no-wrap
+msgid "B<db_user_group_table>"
+msgstr "B<db_users_table>"
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"(for user_handler=forum) The name of the table in which your phpbb forums "
+"saves its user group data. Most likely this will be E<lt>table-"
+"prefixE<gt>_user_group (e.g. phpbb3_user_group)."
+msgstr ""
+"（如果user_handler=forum）phpbb 论坛中存放用户数据的表名。很可能是E<lt>table-"
+"prefixE<gt>_users（例如phpbb3_users）。"
+
+#. type: TP
+#, no-wrap
+msgid "B<mp_mod_group>"
+msgstr ""
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"(for user_handler=forum) The ID of the forum group to be considered as "
+"having moderation authority."
+msgstr "（如果user_handler=forum）数据库登录用户名"
 
 #. type: TP
 #, no-wrap
