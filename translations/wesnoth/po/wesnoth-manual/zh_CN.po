@@ -4,19 +4,19 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2019-06-30 15:14+0300\n"
-"PO-Revision-Date: 2019-07-27 16:42+0800\n"
+"PO-Revision-Date: 2020-02-10 10:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Attribute 'lang' of: <book>
 msgid "en"
@@ -33,7 +33,7 @@ msgstr "序"
 #. type: Content of: <book><preface><simpara>
 msgid ""
 "The Battle for Wesnoth is a turn-based strategy game with a fantasy theme."
-msgstr "韦诺之战（Battle for Wesnoth）是一个奇幻主题的回合制策略游戏。"
+msgstr "韦诺之战（Battle for Wesnoth）是一款奇幻主题的回合制策略游戏。"
 
 #. type: Content of: <book><preface><simpara>
 msgid ""

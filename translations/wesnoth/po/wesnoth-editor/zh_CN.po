@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-09-16 11:32+0300\n"
-"PO-Revision-Date: 2019-09-23 22:34+0800\n"
+"POT-Creation-Date: 2020-01-12 13:29-0300\n"
+"PO-Revision-Date: 2020-02-10 08:43+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [brush]: id=brush-1
 msgid "Single Hex"
@@ -121,18 +121,6 @@ msgstr "夏季"
 msgid "Winter"
 msgstr "冬季"
 
-#. [editor_times]: id=underground
-msgid "Underground"
-msgstr "地下"
-
-#. [editor_times]: id=deep_underground
-msgid "Deep Underground"
-msgstr "地下深处"
-
-#. [editor_times]: id=indoors
-msgid "Indoors"
-msgstr "室内"
-
 #. [editor_times]: id=24
 msgid "24 Hour Schedule"
 msgstr "24小时日程表"
@@ -204,6 +192,9 @@ msgstr "播放列表"
 #. [menu]: id=menu-editor-schedule
 msgid "Assign Time Schedule"
 msgstr "指定日程表"
+
+msgid "(Unknown unit type: $type)"
+msgstr "（未知的单位类型：$type）"
 
 msgid "Identifier: "
 msgstr "标识符："
@@ -406,3 +397,12 @@ msgstr "无"
 
 msgid "Player $player_number"
 msgstr "玩家$player_number"
+
+#~ msgid "Underground"
+#~ msgstr "地下"
+
+#~ msgid "Deep Underground"
+#~ msgstr "地下深处"
+
+#~ msgid "Indoors"
+#~ msgstr "室内"

@@ -6,13 +6,13 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-07-27 16:43+0800\n"
+"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
+"PO-Revision-Date: 2020-02-10 10:18+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [generic_multiplayer]: id=user_map
 msgid "User Map"
@@ -299,7 +299,7 @@ msgid "teamname^South"
 msgstr "南军"
 
 #. [objective]: condition=win
-msgid "Defeat enemy leader(s)"
+msgid "Defeat the enemy leader"
 msgstr "击败敌方首领"
 
 #. [note]
@@ -840,6 +840,7 @@ msgid "teamname^Human"
 msgstr "人类"
 
 #. [then]
+#. [objective]: condition=lose
 msgid "Death of your leader"
 msgstr "你的首领死亡"
 
@@ -1405,19 +1406,19 @@ msgstr "这个极其重要的运输通道在韦诺的诸多最伟大的战斗中
 msgid "3p — Alirok Marsh"
 msgstr "3p — 埃尔洛克沼泽"
 
-#. [multiplayer]: id=multiplayer_Alirok_Marsh
-#. [multiplayer]: id=multiplayer_Island_of_the_Horatii
-#. [multiplayer]: id=multiplayer_3p_Morituri
-#. [multiplayer]: id=multiplayer_Blue_Water_Province
-#. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
-#. [multiplayer]: id=multiplayer_Clash
-#. [multiplayer]: id=multiplayer_4p_Hamlets
-#. [multiplayer]: id=multiplayer_4p_Morituri
-#. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
-#. [multiplayer]: id=multiplayer_4p_Underworld
 #. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
 #. [multiplayer]: id=multiplayer_8p_Morituri
+#. [multiplayer]: id=multiplayer_Blue_Water_Province
+#. [multiplayer]: id=multiplayer_3p_Morituri
+#. [multiplayer]: id=multiplayer_Clash
+#. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
+#. [multiplayer]: id=multiplayer_Island_of_the_Horatii
+#. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
+#. [multiplayer]: id=multiplayer_4p_Morituri
 #. [multiplayer]: id=multiplayer_Loris_River
+#. [multiplayer]: id=multiplayer_Alirok_Marsh
+#. [multiplayer]: id=multiplayer_4p_Hamlets
+#. [multiplayer]: id=multiplayer_4p_Underworld
 msgid " Recommended setting of 2 gold per village."
 msgstr " 建议设置每座村庄供给2枚金币。"
 
@@ -1559,8 +1560,8 @@ msgstr "东北"
 msgid "4p — King of the Hill"
 msgstr "4p — 山丘之王"
 
-#. [multiplayer]: id=multiplayer_King_of_the_Hill
 #. [multiplayer]: id=multiplayer_Siege_Castles
+#. [multiplayer]: id=multiplayer_King_of_the_Hill
 msgid " Recommended setting of 2 gold per village and 150 starting gold."
 msgstr " 建议设置每座村庄供给2枚金币，并有150枚金币的起始资金。"
 
@@ -1703,6 +1704,38 @@ msgid ""
 msgstr ""
 "这是一大片充斥着野蛮和无法驾驭的荒凉的区域。森林、洞穴、河流以及古代要塞的遗"
 "迹星罗棋布。"
+
+#. [side]
+msgid "teamname^Team 3"
+msgstr "团队3"
+
+#. [side]
+msgid "teamname^Team 4"
+msgstr "团队4"
+
+#. [side]
+msgid "teamname^Monsters"
+msgstr "怪物"
+
+#. [objective]: condition=win
+msgid "Defeat all enemy leaders"
+msgstr "击败所有敌方首领"
+
+#. [objective]: condition=win
+msgid "Defeat all monsters"
+msgstr "击败所有怪物"
+
+#. [objective]: condition=win
+msgid "Defeat the enemy leaders"
+msgstr "击败敌方首领"
+
+#. [objective]: condition=lose
+msgid "Death of all your units"
+msgstr "你的单位全部死亡"
+
+#. [note]
+msgid "You cannot recruit units."
+msgstr "你不能征募单位。"
 
 #. [multiplayer]: id=multiplayer_Crusaders_Field
 msgid "6p — Crusaders’ Field"

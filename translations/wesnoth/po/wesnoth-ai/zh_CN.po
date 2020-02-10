@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-11 13:10 UTC\n"
-"PO-Revision-Date: 2019-09-23 22:32+0800\n"
+"POT-Creation-Date: 2020-01-12 16:28 UTC\n"
+"PO-Revision-Date: 2020-02-10 08:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -51,8 +51,8 @@ msgstr "使用巡逻微AI而不是patrol.lua。"
 msgid "The Elves Besieged"
 msgstr "精灵受困"
 
-#. [side]: type=Spearman, id=Konrad
 #. [unit]: type=Spearman, id=Konrad
+#. [side]: type=Spearman, id=Konrad
 msgid "Konrad"
 msgstr "科纳德"
 
@@ -70,10 +70,10 @@ msgstr "黎伐多"
 msgid "Urug-Telfar"
 msgstr "乌鲁戈-特尔法"
 
+#. [side]: id=Vanak, type=Orcish Ruler
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
-#. [side]: id=Vanak, type=Orcish Ruler
 msgid "Orcs"
 msgstr "兽人"
 
@@ -150,7 +150,7 @@ msgstr "王子……您必须坚持战斗！不！！！！！"
 
 #. [message]: speaker=unit
 msgid "It is over. I am doomed..."
-msgstr "结束了。我完了……"
+msgstr "全完了。我完蛋了……"
 
 #. [message]: speaker=unit
 msgid "I have... have failed in my duty to protect the prince! I am defeated."
@@ -167,7 +167,7 @@ msgstr "啊！"
 #. [message]: speaker=Delfador
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
-msgstr "不，我们没时间了，他们的援军已经到了……"
+msgstr "不！我们没时间了，他们的援军已经到了……"
 
 msgid ""
 "<u>General</u>: These AIs are set up to simulate (to some extent) how these "
@@ -273,10 +273,10 @@ msgstr "动物"
 msgid "Rutburt"
 msgstr "拉特巴特"
 
-#. [side]: id=Rutburt, type=Outlaw
 #. [side]: type=General, id=leader2
 #. [side]: type=Lieutenant, id=leader5
 #. [side]: type=Lieutenant, id=leader6
+#. [side]: id=Rutburt, type=Outlaw
 msgid "Humans"
 msgstr "人类"
 
@@ -306,10 +306,10 @@ msgstr "狼"
 msgid "Whelps"
 msgstr "幼兽"
 
-#. [set_menu_item]: id=m01_end_animals
 #. [event]
 #. [set_menu_item]: id=m04_end_animals
 #. [set_menu_item]: id=m01_end_swarm
+#. [set_menu_item]: id=m01_end_animals
 #. [set_menu_item]: id=m01_end_wolves
 msgid "End Scenario"
 msgstr "结束场景"
@@ -416,9 +416,9 @@ msgstr "又大又坏的兽人"
 msgid "All right, chaps. Those orcs need to be stopped."
 msgstr "好了，伙计们。得制止这些兽人。"
 
-#. [message]: speaker=Big Bad Orc
 #. [message]: speaker=Another Bad Orc
 #. [message]: speaker=Vanak
+#. [message]: speaker=Big Bad Orc
 msgid "They there!  We them get!"
 msgstr "它们那儿，我们它们捉！"
 
@@ -582,8 +582,8 @@ msgstr ""
 "\n"
 "在此你无事可做，只要看着就行，也可以将此场景用作模板或用于你自己的测试。"
 
-#. [event]
 #. [test]: id=goto
+#. [event]
 msgid "Goto"
 msgstr "Goto"
 
@@ -834,8 +834,8 @@ msgstr "我们都到达了角落，让我们重聚吧。"
 msgid "We're back together, let's head out to the corners again."
 msgstr "我们重聚了，让我们再出发去角落吧。"
 
-#. [event]
 #. [test]: id=guardians
+#. [event]
 msgid "Guardians"
 msgstr "守卫"
 
@@ -1413,9 +1413,9 @@ msgstr "信使护送"
 msgid "Vanak"
 msgstr "凡纳克"
 
-#. [event]
 #. [side]
 #. [unit]: type=Dragoon, id=messenger
+#. [event]
 msgid "Messenger"
 msgstr "信使"
 
@@ -1788,8 +1788,8 @@ msgstr "我尽力防守了。"
 msgid "I made it"
 msgstr "我成功了"
 
-#. [event]
 #. [test]: id=recruiting
+#. [event]
 msgid "Recruiting"
 msgstr "征募"
 

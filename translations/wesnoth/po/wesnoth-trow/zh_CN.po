@@ -14,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-09-23 22:45+0800\n"
+"POT-Creation-Date: 2020-01-12 16:28 UTC\n"
+"PO-Revision-Date: 2020-02-10 11:02+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [scenario]: id=22_The_Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -398,29 +398,29 @@ msgstr "风暴谷"
 msgid "Tan-Rarbag"
 msgstr "坦-拉贝格"
 
+#. [side]: type=Draug, id=General Heravan
+#. [side]: type=Orcish Warlord, id=Tan-Halg
+#. [side]: type=Orcish Warlord, id=Tan-Rinak
+#. [side]: type=Orcish Warlord, id=Tan-Vrodis
+#. [side]: type=Orcish Warlord, id=Tan-Bok
+#. [side]: type=Orcish Warlord, id=Tan-Hogar
 #. [side]: type=Orcish Warlord, id=Tan-Gralg
 #. [side]: type=Orcish Warlord, id=Tan-Rugar
+#. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
+#. [side]: type=Orcish Warlord, id=Tan-Pulk
 #. [side]: type=Orcish Warlord, id=Tan-Vragar
 #. [side]: type=Orcish Warlord, id=Tan-Burg
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
-#. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
-#. [side]: type=Orcish Warlord, id=Tan-Pulk
+#. [side]: type=Orcish Warlord, id=Tan-Erirt
+#. [side]: type=Orcish Warlord, id=Tan-Gagar
+#. [side]: type=Troll Warrior, id=Thruf
+#. [side]: type=Orcish Warlord, id=Tan-Schmog
+#. [side]: type=Orcish Warlord, id=Tan-NauVong
 #. [side]: type=Orcish Warlord, id=Tan-Harak
 #. [side]: type=Orcish Warlord, id=Tan-Hork
 #. [side]: type=Orcish Warlord, id=Tan-Gulo
 #. [side]: type=Orcish Warlord, id=Tan-Rarbag
 #. [side]: type=Orcish Warrior, id=Tan-Erang
-#. [side]: type=Orcish Warlord, id=Tan-Schmog
-#. [side]: type=Orcish Warlord, id=Tan-NauVong
-#. [side]: type=Orcish Warlord, id=Tan-Vrodis
-#. [side]: type=Orcish Warlord, id=Tan-Bok
-#. [side]: type=Orcish Warlord, id=Tan-Hogar
-#. [side]: type=Orcish Warlord, id=Tan-Erirt
-#. [side]: type=Orcish Warlord, id=Tan-Gagar
-#. [side]: type=Troll Warrior, id=Thruf
-#. [side]: type=Draug, id=General Heravan
-#. [side]: type=Orcish Warlord, id=Tan-Halg
-#. [side]: type=Orcish Warlord, id=Tan-Rinak
 msgid "Orcs"
 msgstr "兽人"
 
@@ -476,14 +476,16 @@ msgstr ""
 
 #. [message]: speaker=Tan-Rarbag
 #. meat is a derogatory term for humans used by orcs and also is a subtle reference to orcs eating humans opportunistically
+#, fuzzy
 msgid ""
 "Run, meat, run! Sooner or later, you will tire and our wolves will hunt you "
 "down!"
-msgstr ""
+msgstr "跑，肉，快跑！迟早，你会厌倦，我们的狼会追捕你！"
 
 #. [message]: speaker=Tan-Erang
+#, fuzzy
 msgid "The meat will die! Die! Die! Die!"
-msgstr ""
+msgstr "肉会死的！死！死！死！"
 
 #. [message]: speaker=Wesfolk Leader
 msgid "This is going to get ugly..."
@@ -592,8 +594,8 @@ msgid "A Harrowing Escape"
 msgstr "悲伤撤离"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
 #. [side]: id=Prince Haldric, type=Noble Commander
+#. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
 msgid "Refugees"
 msgstr "难民"
 
@@ -1084,8 +1086,9 @@ msgid "Vrogar"
 msgstr "福罗格"
 
 #. [message]: speaker=Vrogar
+#, fuzzy
 msgid "They’re attacking the chief! Kill the meat before it gets any farther!"
-msgstr ""
+msgstr "他们在攻击酋长！在肉走得更远之前先把肉杀死！"
 
 #. [message]: speaker=Tan-Hogar
 msgid "Better him than me! Reserves!"
@@ -1448,8 +1451,8 @@ msgstr ""
 msgid "Lich-Lord Lenvan"
 msgstr "巫妖王蓝温"
 
-#. [side]: type=Lich, id=Lich-Lord Lenvan
 #. [side]: type=Lich, id=Lich-Lord Caror
+#. [side]: type=Lich, id=Lich-Lord Lenvan
 #. [side]: type=Spectre, id=Isorfilad
 #. [side]: type=Spectre, id=Tinoldor
 msgid "Undead"
@@ -3920,14 +3923,16 @@ msgid "More saurians are arriving. They’ve surrounded us! We’re doomed."
 msgstr "来了更多的蜥蜴人。他们包围了我们！我们完了。"
 
 #. [message]: speaker=Lady Jessene
+#, fuzzy
 msgid ""
 "We already killed the dragon. We really don’t need to be spending this much "
 "time chasing down the rest of these lizards."
-msgstr ""
+msgstr "我们已经杀了龙我们真的不需要花这么多时间来追逐其余的蜥蜴。"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid "You’re right, you’re right. Let’s head back."
-msgstr ""
+msgstr "你说得对，你说得对。我们回去吧"
 
 #. [scenario]: id=17b_Lizard_Beach
 msgid "Lizard Beach"
@@ -4403,10 +4408,11 @@ msgid ""
 msgstr "亡灵唯一要做的就是永远沉眠。准备重回大地吧。"
 
 #. [message]: speaker=Tan-Gagar
+#, fuzzy
 msgid ""
 "The meat is stronger than I thought! We must use all of our forces to stop "
 "them!"
-msgstr ""
+msgstr "肉比我想象的要强！我们必须动用我们的所有力量来阻止他们！"
 
 #. [message]: speaker=Tan-Erirt
 #, fuzzy
@@ -4523,23 +4529,29 @@ msgstr ""
 "的人民来维护自己的不死之命。"
 
 #. [message]: speaker=Lich-Lord Jevyan
+#, fuzzy
 msgid ""
 "I am hardly concerned with the doing of mortal worms — they are no more than "
 "petty pawns, orcs and humans both. The only difference is that orcs will not "
 "complain as long as they are well fed."
 msgstr ""
+"我几乎不关心致命的蠕虫的做 -他们只不过是小卒，兽人和人类。唯一的区别是，兽人"
+"不会抱怨，只要他们吃得很好。"
 
 #. [message]: speaker=Tan-Halg
+#, fuzzy
 msgid "Actually, I <i>am</i> pretty hungry right now..."
-msgstr ""
+msgstr "事实上<i>，我现在很</i>饿..."
 
 #. [message]: speaker=Lich-Lord Jevyan
+#, fuzzy
 msgid "Pah. Just eat the humans, then. But leave the boy’s body intact."
-msgstr ""
+msgstr "Pah。那就吃人吧但是让男孩的尸体完好无损"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid "Come and fight me yourself, you old bag of bones!"
-msgstr ""
+msgstr "来跟我打吧，你这老骨头！"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #, fuzzy
@@ -5537,8 +5549,8 @@ msgstr ""
 msgid "female^Wesfolk Lady"
 msgstr "韦福克贵妇"
 
-#. [unit_type]: id=Wesfolk Lady, race=human
 #. [unit_type]: id=Wesfolk Leader, race=human
+#. [unit_type]: id=Wesfolk Lady, race=human
 msgid ""
 "Born in the Wesfolk aristocracy, she and her people were excluded from "
 "society by their lords, who betrayed their loyalty when a war against "

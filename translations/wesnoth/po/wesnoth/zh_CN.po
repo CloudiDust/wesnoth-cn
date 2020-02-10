@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-09-23 22:31+0800\n"
+"POT-Creation-Date: 2020-02-01 22:39-0300\n"
+"PO-Revision-Date: 2020-02-10 08:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -1067,7 +1067,7 @@ msgstr "注重防守。"
 
 #. [focus_on_enemy]
 msgid "Focus on defeating..."
-msgstr "注重击败……"
+msgstr "专注于击败……"
 
 #. [focus_on_enemy]
 msgid ""
@@ -1096,7 +1096,7 @@ msgstr "后退"
 
 #. [protect]
 msgid "Focus on protecting..."
-msgstr "注重保护……"
+msgstr "专注于保护……"
 
 #. [protect]
 msgid ""
@@ -3924,10 +3924,6 @@ msgstr[1] "（余下%d回合）"
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%%的金币将会带到下一场景。"
 
-#. [objective]: condition=win
-msgid "Defeat enemy leader(s)"
-msgstr "击败敌方首领"
-
 msgid "OK"
 msgstr "确定"
 
@@ -4014,21 +4010,9 @@ msgstr "游戏录像"
 msgid "pause"
 msgstr "暂停"
 
-#. [theme]: id=Classic
-msgid "theme^Classic"
-msgstr "经典"
-
-#. [theme]: id=Classic
-msgid "The classic, pre-1.12 theme"
-msgstr "经典的，1.12以前的版本所使用的主题"
-
 #. [menu]: id=menu-main
 msgid "Menu"
 msgstr "菜单"
-
-#. [menu]: id=actions-menu
-msgid "Actions"
-msgstr "行动"
 
 #. [action]: id=button-endturn
 msgid "End Turn"
@@ -4037,46 +4021,6 @@ msgstr "结束回合"
 #. [action]: id=button-endturn
 msgid "End Scenario"
 msgstr "结束场景"
-
-#. [label]: id=label-hp
-msgid "HP"
-msgstr "生命"
-
-#. [label]: id=label-xp
-msgid "XP"
-msgstr "经验"
-
-#. [label]: id=gold-icon
-msgid "gold"
-msgstr "金币"
-
-#. [label]: id=villages-icon
-msgid "villages"
-msgstr "村庄"
-
-#. [label]: id=units-icon
-msgid "units"
-msgstr "单位"
-
-#. [label]: id=upkeep-icon
-msgid "upkeep"
-msgstr "维护费用"
-
-#. [label]: id=income-icon
-msgid "income"
-msgstr "收入"
-
-#. [unit_level]: id=unit-level
-msgid "statuspanel^level"
-msgstr "等級"
-
-#. [unit_moves]: id=unit-moves
-msgid "statuspanel^moves"
-msgstr "手"
-
-#. [unit_defense]: id=unit-defense
-msgid "statuspanel^terrain def."
-msgstr "地形防御"
 
 #. [theme]: id=Default
 msgid "theme^Default"
@@ -4090,6 +4034,18 @@ msgstr "默认主题"
 msgid "Back to..."
 msgstr "回到……"
 
+#. [menu]: id=actions-menu
+msgid "Actions"
+msgstr "行动"
+
+#. [label]: id=label-hp
+msgid "HP"
+msgstr "生命"
+
+#. [label]: id=label-xp
+msgid "XP"
+msgstr "经验"
+
 #. [label]: id=label-mp
 msgid "MP"
 msgstr "移动"
@@ -4100,7 +4056,7 @@ msgstr "防"
 
 #. [unit_level]: id=unit-level
 msgid "statuspanel^lvl"
-msgstr "Lv"
+msgstr "等级"
 
 #. [tip]
 msgid ""
@@ -4771,6 +4727,20 @@ msgstr "<b>——韦斯廷的格里克爵士，韦元607年</b>"
 
 #. [tip]
 msgid ""
+"If a unit is positioned next to healers from two allied sides, the unit will "
+"be healed on both sides’ turns. This way, a unit can be healed faster than "
+"otherwise possible."
+msgstr ""
+"如果一个单位位于两个友方阵营旁边，则在这两个阵营的回合中，该单位都会得到治"
+"疗。这样一来，相比其他方法来说，单位就能更快得到治疗。"
+
+#. [tip]
+#. Translate the word "Flight" as in Wings of Victory
+msgid "<i>― Vank of Galun’s Flight, 6YW</i>"
+msgstr "<b>——戈伦群落中的凡克，韦元6年</b>"
+
+#. [tip]
+msgid ""
 "<i>Feral</i> units, such as Bats and wild animals, will avoid villages. Even "
 "if they occupy a village hex, they do not gain any defensive benefits from "
 "the village, although they will still be healed."
@@ -4791,10 +4761,10 @@ msgid "You do not have a leader to recall with."
 msgstr "你没有首领，不能进行召回。"
 
 msgid "None of your leaders are able to recall that unit."
-msgstr "你的首领都不能召回该单位。"
+msgstr "你的首领都不能召回那个单位。"
 
 msgid "You must have a leader on a keep who is able to recall that unit."
-msgstr "你必须让一位能够召回该单位的首领站在城堡主楼上。"
+msgstr "你必须让一位能够召回那个单位的首领站在城堡主楼上。"
 
 msgid "There are no vacant castle tiles in which to recall the unit."
 msgstr "城堡内没有空格，不能召回该单位。"
@@ -4805,8 +4775,8 @@ msgstr "发生了未能识别的错误。"
 msgid "You do not have a leader to recruit with."
 msgstr "你没有首领，不能进行征募。"
 
-msgid "None of your leaders are able to recruit that unit."
-msgstr "你的首领都不能征募该单位。"
+msgid "None of your leaders are able to recruit this unit."
+msgstr "你的首领都不能征募此单位。"
 
 msgid "You must have a leader on a keep who is able to recruit the unit."
 msgstr "你必须让一位能够征募该单位的首领站在城堡主楼上。"
@@ -5505,6 +5475,9 @@ msgstr ""
 "你的<b>$addon|</b>版本不兼容。你拥有的版本是<b>$local_ver|</b>而主机拥有的版"
 "本是<b>$host_ver|</b>。"
 
+msgid "Defeat enemy leader(s)"
+msgstr "击败敌方首领"
+
 msgid "Cannot find era $era"
 msgstr "无法找到$era|时代"
 
@@ -5795,6 +5768,21 @@ msgstr "引用了未知主题："
 
 msgid "Only available during a scenario."
 msgstr "仅在场景中可用。"
+
+msgid "Time of Day Schedule"
+msgstr "时段日程"
+
+msgid "Lawful Bonus:"
+msgstr "守序加成："
+
+msgid "Neutral Bonus:"
+msgstr "中立加成："
+
+msgid "Chaotic Bonus:"
+msgstr "混沌加成："
+
+msgid "Liminal Bonus:"
+msgstr "边缘加成："
 
 msgid "Schedule"
 msgstr "日程表"
@@ -6115,32 +6103,44 @@ msgstr "仅发送给盟友"
 msgid "You have no units available to recruit."
 msgstr "你没有可供征募的单位。"
 
-msgid "No unit recruited"
-msgstr "未征募任何单位"
+msgid "No unit recruited."
+msgstr "未征募任何单位。"
 
-msgid "You do not have enough gold to recruit that unit"
-msgstr "你没有足够的金币，不能征募该单位"
+msgid "Internal error. Please report this as a bug! Details:\n"
+msgstr "内部错误。请将此情况作为bug上报！详细信息：\n"
 
-msgid "You are separated from your soldiers and may not recall them"
-msgstr "你与你的士兵分开了，因此不能召回他们"
+msgid "You cannot recruit a $unit_type_name at this time."
+msgstr "现在你不能征募$unit_type_name|。"
+
+#. TRANSLATORS: "plan" refers to Planning Mode
+msgid ""
+"At this point in your plan, you will not have enough gold to recruit this "
+"unit."
+msgstr "你没有足够的金币，不能征募此单位"
+
+msgid "You do not have enough gold to recruit this unit."
+msgstr "你没有足够的金币，不能征募此单位。"
+
+msgid "You are separated from your soldiers and may not recall them."
+msgstr "你与你的士兵分开了，因此不能召回他们。"
 
 msgid ""
-"There are no troops available to recall\n"
-"(You must have veteran survivors from a previous scenario)"
+"There are no troops available to recall.\n"
+"(You must have veteran survivors from a previous scenario.)"
 msgstr ""
-"没有可供召回的部队\n"
+"没有可供召回的部队。\n"
 "（你在上一幕场景中必须有生还的老兵）"
 
-msgid "You currently can't recall at the highlighted location"
-msgstr "你目前不能在高亮位置进行召回"
+msgid "You currently can't recall at the highlighted location."
+msgstr "你目前不能在高亮位置进行召回。"
 
-msgid "No unit recalled"
-msgstr "未召回任何单位"
+msgid "No unit recalled."
+msgstr "未召回任何单位。"
 
-msgid "You must have at least 1 gold piece to recall a unit"
-msgid_plural "You must have at least $cost gold pieces to recall this unit"
-msgstr[0] "要召回此单位，你至少需要拥有1枚金币"
-msgstr[1] "要召回此单位，你至少需要拥有$cost|枚金币"
+msgid "You must have at least 1 gold piece to recall a unit."
+msgid_plural "You must have at least $cost gold pieces to recall this unit."
+msgstr[0] "要召回一个单位，你必须至少拥有1枚金币。"
+msgstr[1] "要召回此单位，你必须至少拥有$cost|枚金币。"
 
 msgid "You cannot end your turn yet!"
 msgstr "你还不可以结束自己的回合！"
@@ -6206,6 +6206,9 @@ msgstr "对某一阵营开启/关闭空闲状态。"
 #. As with the command's name, "on" and "off" are hardcoded, and shouldn't change in the translation.
 msgid "command_idle^[<side> [on/off]]"
 msgstr "[<阵营> [on/off]]"
+
+msgid "Change the in-game theme."
+msgstr "改变游戏中的界面主题。"
 
 msgid "<side> <nickname>"
 msgstr "<阵营> <昵称>"
@@ -6313,14 +6316,20 @@ msgstr "<变量>"
 msgid "Show a scenario variable."
 msgstr "显示一幕场景变量。"
 
-msgid "Modify a unit variable. (Only top level keys are supported.)"
-msgstr "修改一个单位变量。（只支持顶层的键值。）"
+#. TRANSLATORS: Do not translate the word "advances"; it is a hardcoded literal argument.
+msgid ""
+"Modify a unit variable. (Only top level keys are supported, and "
+"advances=<number>.)"
+msgstr "修改一个单位变量。（只支持顶层的键值，而前进步数=<数字>。）"
 
 msgid "Discover all units in help."
 msgstr "在帮助中显示所有单位。"
 
 msgid "'Undiscover' all units in help."
 msgstr "从帮助中清除所有已发现的单位。"
+
+msgid "<unit type id>"
+msgstr "<单位类型ID>"
 
 msgid "Create a unit."
 msgstr "创建一个单位。"
@@ -6331,8 +6340,14 @@ msgstr "为当前玩家开/关战争迷雾。"
 msgid "Toggle shroud for the current player."
 msgstr "为当前玩家开/关战场黑幕。"
 
+msgid "<amount>"
+msgstr "<数量>"
+
 msgid "Give gold to the current player."
 msgstr "给当前玩家金币。"
+
+msgid "<event name>"
+msgstr "<事件名称>"
 
 msgid "Fire a game event."
 msgstr "触发游戏事件。"
@@ -6517,6 +6532,25 @@ msgid "Undoing moves not yet transmitted to the server."
 msgstr "正在撤销还没传输到服务器的操作。"
 
 msgid ""
+"A network disconnection has occurred, and the game cannot continue. Do you "
+"want to save the game?"
+msgstr "网络连接已断开，游戏无法继续进行。你想保存游戏吗？"
+
+msgid ""
+"\n"
+"Do you want to save the game?"
+msgstr ""
+"\n"
+"你想要保存游戏吗？"
+
+msgid ""
+"This game has been ended.\n"
+"Reason: "
+msgstr ""
+"游戏已结束。\n"
+"原因："
+
+msgid ""
 "The game is out of sync, and cannot continue. There are a number of reasons "
 "this could happen: this can occur if you or another player have modified "
 "their game settings. This may mean one of the players is attempting to "
@@ -6551,25 +6585,6 @@ msgstr ""
 
 msgid "The game is over."
 msgstr "游戏结束了。"
-
-msgid ""
-"A network disconnection has occurred, and the game cannot continue. Do you "
-"want to save the game?"
-msgstr "网络连接已断开，游戏无法继续进行。你想保存游戏吗？"
-
-msgid ""
-"\n"
-"Do you want to save the game?"
-msgstr ""
-"\n"
-"你想要保存游戏吗？"
-
-msgid ""
-"This game has been ended.\n"
-"Reason: "
-msgstr ""
-"游戏已结束。\n"
-"原因："
 
 msgid "It is now $name|’s turn"
 msgstr "现在是$name|的回合"
@@ -6854,8 +6869,8 @@ msgstr "%a %b %d %I:%M %p %Y"
 msgid "%a %b %d %H:%M %Y"
 msgstr "%a %b %d %H:%M %Y"
 
-msgid " replay"
-msgstr " 游戏录像"
+msgid "replay"
+msgstr "游戏录像"
 
 msgid "Auto-Save"
 msgstr "自动存档"
@@ -6906,9 +6921,6 @@ msgstr "无法写入文件"
 
 msgid "Save Replay"
 msgstr "保存游戏录像"
-
-msgid "replay"
-msgstr "游戏录像"
 
 msgid "Could not auto save the game. Please save the game manually."
 msgstr "不能自动保存当前游戏。请手动存档。"
@@ -7220,3 +7232,36 @@ msgstr "隐藏$player的计划"
 
 msgid "Whiteboard Options"
 msgstr "白板选项"
+
+#~ msgid "theme^Classic"
+#~ msgstr "经典"
+
+#~ msgid "The classic, pre-1.12 theme"
+#~ msgstr "经典的，1.12以前的版本所使用的主题"
+
+#~ msgid "gold"
+#~ msgstr "金币"
+
+#~ msgid "villages"
+#~ msgstr "村庄"
+
+#~ msgid "units"
+#~ msgstr "单位"
+
+#~ msgid "upkeep"
+#~ msgstr "维护费用"
+
+#~ msgid "income"
+#~ msgstr "收入"
+
+#~ msgid "statuspanel^level"
+#~ msgstr "等級"
+
+#~ msgid "statuspanel^moves"
+#~ msgstr "手"
+
+#~ msgid "statuspanel^terrain def."
+#~ msgstr "地形防御"
+
+#~ msgid " replay"
+#~ msgstr " 游戏录像"

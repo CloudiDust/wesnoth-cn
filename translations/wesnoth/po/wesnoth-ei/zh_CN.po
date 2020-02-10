@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-09-16 08:32 UTC\n"
-"PO-Revision-Date: 2019-09-23 22:35+0800\n"
+"POT-Creation-Date: 2020-02-02 01:38 UTC\n"
+"PO-Revision-Date: 2020-02-10 08:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Eastern Invasion"
@@ -182,28 +182,32 @@ msgstr ""
 "松懈起来。而后，在某一天的黎明，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
 
 #. [side]
+#. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=Lieutenant, id=Gweddry
 #. [side]: type=General, id=Konrad II
 #. [side]: type=Great Mage, id=Kaldor
-#. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=General, id=Halrad
 #. [side]: type=General, id=Halric
 #. [side]: type=General, id=Halrod
 msgid "Wesnothians"
 msgstr "韦诺人"
 
-#. [side]: type=Dark Sorcerer, id=Mal-Skraat
-#. [side]: type=Lich, id=Mal-Telnarad
+#. [side]
 #. [side]: type=Dark Sorcerer, id=Mal-Marak
 #. [side]: type=Dark Sorcerer, id=Mal-Galkar
 #. [side]: type=Death Knight, id=Ravanal-Guard
-#. [side]
-#. [side]: type=Revenant, id=Lanar-Skal
+#. [side]: type=Necromancer, id=Mal-un-Karad
+#. [side]: type=Dark Sorcerer, id=Mal-Skraat
+#. [side]: type=Dark Adept, id=Mal-Tar
+#. [side]: type=Dark Sorcerer, id=Mal-Kallat
 #. [side]: type=Necromancer, id=Mal-un-Darak
 #. [side]: type=Necromancer, id=Mal-un-Zanrad
 #. [side]: type=Necromancer, id=Mal-un-Xadrux
-#. [side]: type=Necromancer, id=Mal-un-Karad
-#. [side]: type=Lich Lord, id=Mal-Ravanal
+#. [side]: type=Lich, id=Mal-Grekulak
+#. [side]: type=Lich, id=Mal-Xakralan
+#. [side]: type=Lich, id=Mal-Uknalu
+#. [side]: type=Revenant, id=Lanar-Skal
+#. [side]: type=Lich, id=Mal-Telnarad
 #. [side]: type=Lich, id=Lich2
 #. [side]: type=Lich, id=Lich3
 #. [side]: type=Lich, id=Lich4
@@ -211,15 +215,11 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Lich6
 #. [side]: type=Lich, id=Lich7
 #. [side]: type=Lich, id=Lich8
+#. [side]: type=Bone Knight, id=Garnad
+#. [side]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Dark Sorcerer, id=Mal-Sakkat
 #. [side]: type=Dark Sorcerer, id=Mal-Talar
 #. [side]: type=Lich, id=Mal-Uldhar
-#. [side]: type=Bone Knight, id=Garnad
-#. [side]: type=Lich, id=Mal-Grekulak
-#. [side]: type=Lich, id=Mal-Xakralan
-#. [side]: type=Lich, id=Mal-Uknalu
-#. [side]: type=Dark Adept, id=Mal-Tar
-#. [side]: type=Dark Sorcerer, id=Mal-Kallat
 msgid "Undead"
 msgstr "亡灵"
 
@@ -336,11 +336,11 @@ msgstr "跟我上，士兵们！通过活版门！"
 msgid "The Escape Tunnel"
 msgstr "离脱隧道"
 
-#. [side]
 #. [side]: type=Troll, id=Kabak
-#. [side]: type=Ogre, id=Grug
+#. [side]
 #. [side]: type=Troll Warrior, id=Darg
 #. [side]: type=Gryphon, id=Kraagak
+#. [side]: type=Ogre, id=Grug
 msgid "Monsters"
 msgstr "怪物"
 
@@ -410,6 +410,7 @@ msgstr ""
 "的。"
 
 #. [message]: speaker=Dacyn
+#. shown only if the undead have arrived
 msgid ""
 "Thank you. Now, I invite you to join us. Undead have followed us into these "
 "caves, and they will kill you if you stay behind."
@@ -418,6 +419,7 @@ msgstr ""
 "了你们的。"
 
 #. [message]: speaker=Dacyn
+#. shown if the undead didn't show up yet
 msgid ""
 "Thank you. Now, I invite you to join us. Undead are in these lands, and they "
 "will find these caves."
@@ -560,8 +562,8 @@ msgstr "同盟"
 msgid "Volas"
 msgstr "沃拉斯"
 
-#. [side]: type=Orcish Warrior, id=Gruga-Har
 #. [side]: type=Orcish Warlord, id=King Dra-Nak
+#. [side]: type=Orcish Warrior, id=Gruga-Har
 #. [side]: type=Orcish Nightblade, id=Bagork
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 msgid "Orcs"
@@ -1127,11 +1129,11 @@ msgstr "分岔口"
 
 #. [side]: type=Orcish Warlord, id=Wak-Rano
 #. [side]: type=Dark Sorcerer, id=Mal-Arnai
+#. [side]
+#. [side]: type=Orcish Ruler, id=Draka-Kura
 #. [side]: type=Orcish Warlord, id=Varrak-Klar
 #. [side]: type=Troll Warrior, id=Unhk
 #. [side]: type=Orcish Warlord, id=Ran-Lar
-#. [side]
-#. [side]: type=Orcish Ruler, id=Draka-Kura
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -1249,12 +1251,12 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 msgid ""
-"Across this river lies the Northlands. If we can get there, we may be able "
-"to get some ogres to help us — but the orcs will definitely attack us before "
+"Across this river lie the Northlands. If we can get there, we may be able to "
+"get some ogres to help us — but the orcs will definitely attack us before "
 "that happens."
 msgstr ""
-"穿过大河便是北陆。如果我们能到那，就可能找到一些食人魔来帮助我们——但在那之前"
-"兽人毫无疑问会攻击我们。"
+"过了此河便是北陆。如果我们能到那，就可能让一些食人魔来帮忙——但在那之前兽人毫"
+"无疑问会攻击我们。"
 
 #. [message]: speaker=Grug
 msgid "Grug say we no help you! We finish must battle orc with!"
@@ -1354,12 +1356,12 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 msgid ""
-"Across this river lies the Northland. Ogres live there, as do orcs. We "
+"Across this river lie the Northlands. Ogres live there, as do orcs. We "
 "should proceed with caution. The undead are dangerous, but the orcs may be "
 "more dangerous still."
 msgstr ""
-"过河后便是北陆。食人魔居住在那儿，兽人也是。我们必须小心谨慎。亡灵非常危险，"
-"但是兽人可能更危险。"
+"过了此河便是北陆。食人魔住在那儿，兽人也是。我们必须小心谨慎。亡灵很危险，但"
+"是兽人可能更危险。"
 
 #. [message]: speaker=Mal-un-Karad
 msgid ""
@@ -1663,8 +1665,8 @@ msgstr ""
 "大的魔法学院。但愿图书馆仍然完好无损。"
 
 #. [message]: speaker=Owaec
-msgid "But what happened to the people living on it?"
-msgstr "但是岛上的居民发生什么了？"
+msgid "But what happened to the people who lived there?"
+msgstr "但是那里的居民怎么了？"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -2524,8 +2526,8 @@ msgstr "我将整备部队。"
 msgid "The Duel"
 msgstr "决斗"
 
-#. [side]: type=Lich Lord, id=Mal-Ravanal
 #. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
+#. [side]: type=Lich Lord, id=Mal-Ravanal
 msgid "Mal-Ravanal"
 msgstr "玛尔-拉瓦纳尔"
 
@@ -2956,6 +2958,12 @@ msgstr ""
 "当在进攻中使用本攻击时，对手的反击次数将比通常少一次，但最少还是会有一次反"
 "击。"
 
+#. You can copy the translation from the wesnoth-utbs textdomain
+msgid ""
+" This unit’s melee attack can overwhelm the defenses of enemies, preventing "
+"them from retaliating as effectively."
+msgstr " 此单位的近战攻击可以击破敌方的防御，以至于敌方的反击效果会降低。"
+
 msgid "Dacyn"
 msgstr "达辛"
 
@@ -3054,7 +3062,7 @@ msgstr "什么？！……我……不可能……输的……"
 
 #. [message]: speaker=Dacyn
 msgid "I wasn’t able to prevent his escape from here. Now Wesnoth is doomed..."
-msgstr "我没能阻止他逃离这儿。韦诺完了……"
+msgstr "我没能阻止他逃跑。韦诺完了……"
 
 msgid ""
 "Wearing this amulet will cause every blow you deal to inflict <i>arcane</i> "

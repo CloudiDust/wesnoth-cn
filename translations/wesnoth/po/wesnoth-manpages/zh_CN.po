@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@gmail.com>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-07-27 16:42+0800\n"
+"PO-Revision-Date: 2020-02-10 10:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: TH
 #, no-wrap
@@ -45,7 +45,7 @@ msgstr "名称"
 
 #. type: Plain text
 msgid "wesnoth - Battle for Wesnoth, a turn-based fantasy strategy game"
-msgstr "wesnoth - 韦诺之战（Battle for Wesnoth），一个回合制奇幻策略游戏"
+msgstr "wesnoth - 韦诺之战（Battle for Wesnoth），一款回合制奇幻策略游戏"
 
 #. type: SH
 #, no-wrap
@@ -1137,17 +1137,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#.  This program is free software; you can redistribute it and/or modify
-#.  it under the terms of the GNU General Public License as published by
-#.  the Free Software Foundation; either version 2 of the License, or
-#.  (at your option) any later version.
-#.  This program is distributed in the hope that it will be useful,
-#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#.  GNU General Public License for more details.
-#.  You should have received a copy of the GNU General Public License
-#.  along with this program; if not, write to the Free Software
-#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#. This program is free software; you can redistribute it and/or modify
+#. it under the terms of the GNU General Public License as published by
+#. the Free Software Foundation; either version 2 of the License, or
+#. (at your option) any later version.
+#. This program is distributed in the hope that it will be useful,
+#. but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. GNU General Public License for more details.
+#. You should have received a copy of the GNU General Public License
+#. along with this program; if not, write to the Free Software
+#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 msgid "B<wesnothd>(6)"
 msgstr "B<wesnothd>(6)"
@@ -1630,7 +1630,6 @@ msgstr ""
 "的请求转发到指定的服务器。与B<[redirect]>接受一样的主键。"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "B<[user_handler]> Configures the user handler. Available keys vary depending "
 "on which user handler is set with the B<user_handler> key. If no "
@@ -1641,7 +1640,8 @@ msgid ""
 msgstr ""
 "B<[user_handler]> 配置用户数据处理器。可设置的主键取决于通过B<user_handler>设"
 "置的用户数据处理器是哪一个。如果配置文件中没有B<[user_handler]>小节，则服务器"
-"在运行中将不提供任何昵称注册服务。"
+"在运行中将不提供任何昵称注册服务。forum_user_handler正常运作所需的额外数据表"
+"可以在韦诺源代码库的table_definitions.sql中找到。"
 
 #. type: TP
 #, no-wrap
@@ -1650,7 +1650,7 @@ msgstr "B<db_host>"
 
 #. type: Plain text
 msgid "(for user_handler=forum) The hostname of the database server"
-msgstr "（如果user_handler=forum）数据库服务器的主机名"
+msgstr "（当user_handler=forum时）数据库服务器的主机名"
 
 #. type: TP
 #, no-wrap
@@ -1659,7 +1659,7 @@ msgstr "B<db_name>"
 
 #. type: Plain text
 msgid "(for user_handler=forum) The name of the database"
-msgstr "（如果user_handler=forum）数据库名"
+msgstr "（当user_handler=forum时）数据库名"
 
 #. type: TP
 #, no-wrap
@@ -1670,7 +1670,7 @@ msgstr "B<db_user>"
 msgid ""
 "(for user_handler=forum) The name of the user under which to log into the "
 "database"
-msgstr "（如果user_handler=forum）数据库登录用户名"
+msgstr "（当user_handler=forum时）数据库登录用户名"
 
 #. type: TP
 #, no-wrap
@@ -1679,7 +1679,7 @@ msgstr "B<db_password>"
 
 #. type: Plain text
 msgid "(for user_handler=forum) This user's password"
-msgstr "（如果user_handler=forum）这个用户的密码"
+msgstr "（当user_handler=forum时）这个用户的密码"
 
 #. type: TP
 #, no-wrap
@@ -1692,7 +1692,7 @@ msgid ""
 "saves its user data. Most likely this will be E<lt>table-prefixE<gt>_users "
 "(e.g. phpbb3_users)."
 msgstr ""
-"（如果user_handler=forum）phpbb 论坛中存放用户数据的表名。很可能是E<lt>table-"
+"（当user_handler=forum时）phpbb论坛中存放用户数据的表名。很可能是E<lt>table-"
 "prefixE<gt>_users（例如phpbb3_users）。"
 
 #. type: TP
@@ -1701,76 +1701,76 @@ msgid "B<db_extra_table>"
 msgstr "B<db_extra_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about users. You will have to create this table manually."
 msgstr ""
-"（如果user_handler=forum）phpbb 论坛中存放用户数据的表名。很可能是E<lt>table-"
-"prefixE<gt>_users（例如phpbb3_users）。"
+"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与用户相关的"
+"数据。你必须手动创建此表。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<db_game_info_table>"
-msgstr "B<db_users_table>"
+msgstr "B<db_game_info_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about games."
-msgstr "（如果user_handler=forum）数据库登录用户名"
+msgstr ""
+"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与游戏相关的"
+"数据。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<db_game_player_info_table>"
-msgstr "B<db_users_table>"
+msgstr "B<db_game_player_info_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about the players in a game."
-msgstr "（如果user_handler=forum）数据库登录用户名"
+msgstr ""
+"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与单场游戏中"
+"玩家相关的数据。"
 
 #. type: TP
 #, no-wrap
 msgid "B<db_game_modification_info_table>"
-msgstr ""
+msgstr "B<db_game_modification_info_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about the modifications used in a game."
-msgstr "（如果user_handler=forum）数据库登录用户名"
+msgstr ""
+"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与单场游戏中"
+"使用的模组相关的数据。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<db_user_group_table>"
-msgstr "B<db_users_table>"
+msgstr "B<db_user_group_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "(for user_handler=forum) The name of the table in which your phpbb forums "
 "saves its user group data. Most likely this will be E<lt>table-"
 "prefixE<gt>_user_group (e.g. phpbb3_user_group)."
 msgstr ""
-"（如果user_handler=forum）phpbb 论坛中存放用户数据的表名。很可能是E<lt>table-"
-"prefixE<gt>_users（例如phpbb3_users）。"
+"（当user_handler=forum时）phpbb论坛中存放用户组数据的表名。很可能是"
+"E<lt>table-prefixE<gt>_users_group（例如phpbb3_users_group）。"
 
 #. type: TP
 #, no-wrap
 msgid "B<mp_mod_group>"
-msgstr ""
+msgstr "B<mp_mod_group>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "(for user_handler=forum) The ID of the forum group to be considered as "
 "having moderation authority."
-msgstr "（如果user_handler=forum）数据库登录用户名"
+msgstr "（当user_handler=forum时）论坛用户组ID，该组将视为拥有管理员权限。"
 
 #. type: TP
 #, no-wrap

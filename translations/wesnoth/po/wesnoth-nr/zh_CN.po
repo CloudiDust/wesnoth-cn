@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-09-23 22:46+0800\n"
+"POT-Creation-Date: 2020-01-12 16:28 UTC\n"
+"PO-Revision-Date: 2020-02-10 10:20+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Northern Rebirth"
@@ -554,15 +554,15 @@ msgstr ""
 "在兽人的手下毁灭，或者在纳尔迦隧道中遭遇未知的命运，塔林选择了后者。人们快速"
 "集合起来，收集了尽可能多的食品和武器，进入了黑暗的洞穴。"
 
-#. [side]: type=Troll, id=Franik
-#. [side]: type=Troll, id=Henie
-#. [side]: type=Troll, id=Knash
-#. [side]: type=Troll, id=Krog
-#. [side]: type=Troll Warrior, id=Thung
 #. [side]: type=Troll Warrior, id=Tor
 #. [side]: type=Troll Hero, id=Bor
 #. [side]: type=Troll Rocklobber, id=Oof
 #. [side]: type=Troll Hero, id=Glu
+#. [side]: type=Troll, id=Knash
+#. [side]: type=Troll, id=Krog
+#. [side]: type=Troll Warrior, id=Thung
+#. [side]: type=Troll, id=Franik
+#. [side]: type=Troll, id=Henie
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -574,8 +574,8 @@ msgstr "克纳什"
 msgid "Krog"
 msgstr "克洛格"
 
-#. [unit]: type=Dwarvish Lord, id=Hamel
 #. [side]: type=Dwarvish Lord, id=Hamel
+#. [unit]: type=Dwarvish Lord, id=Hamel
 msgid "Hamel"
 msgstr "哈梅尔"
 
@@ -584,14 +584,14 @@ msgstr "哈梅尔"
 #. [side]: type=Draug, id=Herlin
 #. [side]: type=Draug, id=Fervin
 #. [side]: type=Draug, id=Hellian
+#. [side]: type=Death Knight, id=Mal Barath
+#. [side]: type=Death Knight, id=Delzath
+#. [side]: type=Death Knight, id=Mal Tath
 #. [side]: type=Death Knight, id=Hettel
 #. [side]: type=Death Knight, id=Tervor
 #. [side]: type=Death Knight, id=Author
 #. [side]: type=Death Knight, id=Boblin
 #. [side]: type=Death Knight, id=Antrasis
-#. [side]: type=Death Knight, id=Mal Barath
-#. [side]: type=Death Knight, id=Delzath
-#. [side]: type=Death Knight, id=Mal Tath
 msgid "Undead"
 msgstr "亡灵"
 
@@ -878,10 +878,10 @@ msgstr ""
 "呀，纳尔迦的矮人们自己也过得非常艰难呢。但是我们没有忘记过去的盟约。欢迎来到"
 "矮人的营地。来吧，和我们的首领哈梅尔领主谈谈吧。"
 
-#. [message]: speaker=Father Morvin
-#. [message]: speaker=Ro'Arthian
 #. [message]: speaker=Tallin
 #. [message]: speaker=unit
+#. [message]: speaker=Father Morvin
+#. [message]: speaker=Ro'Arthian
 msgid "Very well."
 msgstr "好的。"
 
@@ -1191,8 +1191,8 @@ msgstr ""
 msgid "Ahahahaha! Yes, smash the skeletons! Smash them!"
 msgstr "啊哈哈哈哈！是的，砸碎那些骷髅！砸碎它们！"
 
-#. [message]: speaker=Tallin
 #. [message]: role=Supporter
+#. [message]: speaker=Tallin
 msgid "..."
 msgstr "……"
 
@@ -1269,15 +1269,15 @@ msgstr "清理矿脉"
 msgid "When the party finally reached the mines, they were not disappointed."
 msgstr "当队伍终于进入矿脉之时，他们并没有失望。"
 
-#. [side]: type=Lieutenant, id=Tallin
 #. [side]
+#. [side]: type=Lieutenant, id=Tallin
 #. [side]: type=Dwarvish Lord, id=Hamel
 #. [side]: type=Elvish Avenger, id=Sisal
 msgid "Alliance"
 msgstr "联盟"
 
-#. [unit]: type=Ancient Lich, id=Malifor
 #. [side]: type=Ancient Lich, id=Malifor
+#. [unit]: type=Ancient Lich, id=Malifor
 msgid "Malifor"
 msgstr "玛利弗"
 
@@ -1511,11 +1511,14 @@ msgstr ""
 "成碎片。"
 
 #. [message]: speaker=Hamel
+#, fuzzy
 msgid ""
 "Ghouls! They have an insatiable hunger for flesh and even one scratch from "
 "their claws will weaken you with sickness and disease. Nasty things; let’s "
 "chop them to pieces before they can leave the canal."
 msgstr ""
+"食 尸 鬼！他们对肉有贪得无着的渴望，甚至从爪子上掉一下也会削弱你的疾病和疾"
+"病。讨厌的事情;在它们离开运河之前，先把它们切成碎片。"
 
 #. [message]: speaker=Malifor
 msgid ""
@@ -2737,8 +2740,8 @@ msgstr ""
 "你，你这该死的塔林！你悲惨的生命将充满不幸！你的人民将永远得不到自由！你所亲"
 "近和珍爱的都将远离你！我诅咒雷电劈在你的头顶！我诅咒——</b>"
 
-#. [message]: speaker=Sister Thera
 #. [message]: speaker=Tallin
+#. [message]: speaker=Sister Thera
 msgid "May you shut your ugly mouth and hurry up and die."
 msgstr "闭上你邪恶的嘴，去死吧！"
 
@@ -2750,8 +2753,8 @@ msgstr ""
 "<b>大地将裂开，然后吞噬你！你所有的牙齿都会掉光！你会变成一个虚弱的皮包骨头的"
 "老男人！你——</b>"
 
-#. [message]: speaker=Father Morvin
 #. [message]: speaker=second_unit
+#. [message]: speaker=Father Morvin
 msgid "Finally! He has been reduced to dust."
 msgstr "结束了！他的身体化为灰烬。"
 
@@ -3056,9 +3059,9 @@ msgstr ""
 "他们经过讨论，决定让塔林带着他的人主动出击去会会兽人，而哈梅尔则率部退守洞"
 "穴。"
 
-#. [side]: type=Great Mage, id=Camerin
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Stalrag
+#. [side]: type=Great Mage, id=Camerin
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
@@ -3199,8 +3202,8 @@ msgstr "还没完呢，我的朋友们。将军们，派出预备队！"
 msgid "Oh yeah!"
 msgstr "噢耶！"
 
-#. [message]: speaker=Malifor
 #. [message]: id=Poul
+#. [message]: speaker=Malifor
 msgid "HAHAHA!"
 msgstr "哈哈哈！"
 
@@ -3648,8 +3651,8 @@ msgstr "你们为什么要和那些法师来往？拯救他们的灵魂？"
 msgid "(<i>Giggle</i>) Something like that."
 msgstr "（<b>咯咯笑</b>）差不多吧。"
 
-#. [story]
 #. [message]: speaker=Tallin
+#. [story]
 msgid "(<i>Rolls eyes</i>)"
 msgstr "（<b>转眼珠</b>）"
 
@@ -3728,14 +3731,14 @@ msgstr "斯托莱格"
 msgid "Liches"
 msgstr "巫妖"
 
-#. [side]: type=Ancient Lich, id=Ro'Arthian
 #. [modify_side]
+#. [side]: type=Ancient Lich, id=Ro'Arthian
 #. [unit]: type=Ancient Lich, id=Ro'Arthian
 msgid "Ro’Arthian"
 msgstr "若·艾瑟恩"
 
-#. [unit]: type=Lich, id=Ro'Sothian
 #. [modify_side]
+#. [unit]: type=Lich, id=Ro'Sothian
 msgid "Ro’Sothian"
 msgstr "若·索瑟恩"
 
@@ -4113,10 +4116,10 @@ msgid ""
 "these wretched mages?!"
 msgstr "等一等，塔林。你是说要把我们的家园送给这些可恶的法师？！"
 
-#. [message]: speaker=Ro'Arthian
 #. [message]: id=Ro'Sothian
-#. [message]: speaker=Eryssa
 #. [message]: speaker=Ro'Sothian
+#. [message]: speaker=Ro'Arthian
+#. [message]: speaker=Eryssa
 msgid "(<i>Snicker</i>)"
 msgstr "（<b>窃笑</b>）"
 
@@ -4615,14 +4618,16 @@ msgid "Death of Ro’Sothian"
 msgstr "若·索瑟恩死亡"
 
 #. [note]
-msgid "Even if your rescue fails, you will still advance to the next scenario"
+#, fuzzy
+msgid "Even if your rescue fails, you will still advance to the next scenario."
 msgstr "即使你的营救失败了，你也仍然会进入下幕场景"
 
 #. [note]
+#, fuzzy
 msgid ""
 "You will win this scenario immediately upon moving onto the hex containing "
-"the Princess’s cage"
-msgstr ""
+"the Princess’s cage."
+msgstr "进入包含公主笼子的十六进制后，您将立即赢得此场景。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -4665,10 +4670,11 @@ msgid "Eryssa"
 msgstr "伊蕊莎"
 
 #. [message]: race=orc
+#, fuzzy
 msgid ""
 "The intruders are breaking in! Get to the walls and defend the fortress! And "
 "where did that Elvish Princess go?"
-msgstr ""
+msgstr "入侵者正在闯入！到城墙上去保卫堡垒！猫王公主去哪了？"
 
 #. [message]: speaker=Eryssa
 #, fuzzy
@@ -6228,8 +6234,8 @@ msgstr "闭嘴，你这个胆小鬼！"
 msgid "Help Tallin defeat the enemy leaders"
 msgstr "帮助塔林打败敌方首领"
 
-#. [unit]: type=Elvish Marshal, id=Hidel
 #. [unit]: id=Hidel, type=Elvish Marshal
+#. [unit]: type=Elvish Marshal, id=Hidel
 msgid "Hidel"
 msgstr "海达尔"
 
@@ -6990,8 +6996,9 @@ msgid "Defeat the orcs"
 msgstr "战胜兽人"
 
 #. [note]
+#, fuzzy
 msgid "You will not receive any gold if Sisal dies."
-msgstr ""
+msgstr "如果西萨尔去世，你将不会收到任何黄金。"
 
 #. [message]: id=Ha'Tuil
 msgid "Argh! I have failed!"
@@ -8142,8 +8149,9 @@ msgid "Eryssa, no! Please don’t die!"
 msgstr "伊蕊莎，不！别死！"
 
 #. [message]: speaker=Tallin
+#, fuzzy
 msgid "How could this happen? We can’t possibly go on without her..."
-msgstr ""
+msgstr "怎么会这样？没有她我们不可能继续..."
 
 msgid "Arthian"
 msgstr "艾瑟恩"
