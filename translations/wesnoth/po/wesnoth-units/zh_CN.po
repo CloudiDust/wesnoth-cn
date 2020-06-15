@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-02-10 11:04+0800\n"
+"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
+"PO-Revision-Date: 2020-06-15 16:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -124,8 +124,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
-#. [attack]: type=fire
 #. [attack]: type=cold
+#. [attack]: type=fire
 msgid "touch"
 msgstr "触碰"
 
@@ -464,8 +464,8 @@ msgid ""
 "‘pierce’ attacks."
 msgstr "与其他德雷克相比，德雷克仲裁者对\"穿刺\"攻击的抵抗力更高。"
 
-#. [attack]: type=pierce
 #. [attack]: type=blade
+#. [attack]: type=pierce
 msgid "halberd"
 msgstr "戟"
 
@@ -3917,9 +3917,9 @@ msgstr ""
 msgid "Wolf"
 msgstr "狼"
 
-#. [unit_type]: id=Direwolf, race=wolf
-#. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Great Wolf, race=wolf
+#. [unit_type]: id=Wolf, race=wolf
+#. [unit_type]: id=Direwolf, race=wolf
 msgid ""
 "Wolves are aggressive animals that hunt in packs. Although weak "
 "individually, a wolf pack can kill even the strongest man in minutes."

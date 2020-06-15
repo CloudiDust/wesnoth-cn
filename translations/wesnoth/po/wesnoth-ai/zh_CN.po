@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-10 08:40+0800\n"
+"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
+"PO-Revision-Date: 2020-06-15 16:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -51,8 +51,8 @@ msgstr "使用巡逻微AI而不是patrol.lua。"
 msgid "The Elves Besieged"
 msgstr "精灵受困"
 
-#. [unit]: type=Spearman, id=Konrad
 #. [side]: type=Spearman, id=Konrad
+#. [unit]: type=Spearman, id=Konrad
 msgid "Konrad"
 msgstr "科纳德"
 
@@ -70,10 +70,10 @@ msgstr "黎伐多"
 msgid "Urug-Telfar"
 msgstr "乌鲁戈-特尔法"
 
-#. [side]: id=Vanak, type=Orcish Ruler
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
+#. [side]: id=Vanak, type=Orcish Ruler
 msgid "Orcs"
 msgstr "兽人"
 
@@ -264,8 +264,8 @@ msgstr ""
 "羊、牧羊犬和森林生物（鹿、长牙兽、兔子）已经知道它们之间互不威胁并且会远离彼"
 "此，这正体现了一只训练有素的牧羊犬的非常优秀的自控能力。"
 
-#. [event]
 #. [test]: id=animals
+#. [event]
 msgid "Animals"
 msgstr "动物"
 
@@ -296,8 +296,8 @@ msgstr "蜘蛛"
 msgid "Yetis"
 msgstr "雪人"
 
-#. [event]
 #. [side]
+#. [event]
 #. [test]: id=wolves
 msgid "Wolves"
 msgstr "狼"
@@ -306,9 +306,9 @@ msgstr "狼"
 msgid "Whelps"
 msgstr "幼兽"
 
-#. [event]
-#. [set_menu_item]: id=m04_end_animals
 #. [set_menu_item]: id=m01_end_swarm
+#. [set_menu_item]: id=m04_end_animals
+#. [event]
 #. [set_menu_item]: id=m01_end_animals
 #. [set_menu_item]: id=m01_end_wolves
 msgid "End Scenario"
@@ -627,8 +627,8 @@ msgstr "艾萨博雷士官"
 msgid "Place Side 1 Footpad"
 msgstr "放置阵营1的走卒"
 
-#. [set_menu_item]: id=m02_kill_unit
 #. [set_menu_item]: id=m05_kill_unit
+#. [set_menu_item]: id=m02_kill_unit
 msgid "Kill Unit under Cursor"
 msgstr "杀死光标下的单位"
 
@@ -1413,9 +1413,9 @@ msgstr "信使护送"
 msgid "Vanak"
 msgstr "凡纳克"
 
+#. [event]
 #. [side]
 #. [unit]: type=Dragoon, id=messenger
-#. [event]
 msgid "Messenger"
 msgstr "信使"
 
@@ -1846,8 +1846,8 @@ msgstr "虚弱者格隆克"
 msgid "team_name^Grnk"
 msgstr "格隆克"
 
-#. [event]
 #. [test]: id=swarm
+#. [event]
 msgid "Swarm"
 msgstr "蜂群"
 

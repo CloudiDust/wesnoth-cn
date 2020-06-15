@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 13:28-0300\n"
-"PO-Revision-Date: 2020-02-10 09:07+0800\n"
+"POT-Creation-Date: 2020-06-12 21:49-0400\n"
+"PO-Revision-Date: 2020-06-15 16:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -557,13 +557,13 @@ msgstr "场景格式"
 msgid "Starting Positions Howto"
 msgstr "如何配置起始位置"
 
-#. [editor_times]: id=deep_underground
 #. [time]: id=deep_underground
+#. [editor_times]: id=deep_underground
 msgid "Deep Underground"
 msgstr "深层地下"
 
-#. [editor_times]: id=indoors
 #. [time]: id=indoors
+#. [editor_times]: id=indoors
 msgid "Indoors"
 msgstr "室内"
 
@@ -1210,7 +1210,6 @@ msgstr ""
 "现在此单位还是未知的。你必须在游戏中发现它之后才能看到对它的描述。"
 
 #. [topic]: id=..gameplay
-#, fuzzy
 msgid ""
 "Wesnoth is comprised of a series of battles, called "
 "<italic>text='scenarios'</italic>, that pit your troops against the troops "
@@ -1245,7 +1244,7 @@ msgid ""
 "on."
 msgstr ""
 "韦诺是由一系列战斗组成的，这称为<bold>text='场景'</bold>，在这些场景中你的军"
-"队将对战一个或多个敌手的军队。多个互相连续的场景，讲述一个故事，便组成了"
+"队将对战一个或多个敌手的军队。多个连续的场景，讲述同一个故事，便组成了"
 "<bold>text='战役'</bold>。在战役中，你通常需要更小心地游玩，保存好你最强大的"
 "部队，以在之后的场景中再次使用。\n"
 "\n"
@@ -1261,9 +1260,10 @@ msgstr ""
 "战役按照 <bold>text='级别'</bold>和<bold>text='难度'</bold>来分组。例如，"
 "<bold>text='王座继承人'</bold>是“新手”级别，可以在三个难度之中择一进行游"
 "玩：“初心者”、“普通”和“挑战”。“级别”表明了该战役所假定的玩家对游戏机制（如"
-"<ref>dst='movement' text='控制区域l'</ref>和<ref>dst='time_of_day' text='时"
+"<ref>dst='movement' text='控制区域'</ref>和<ref>dst='time_of_day' text='时"
 "段'</ref>）的熟习程度。而“难度”表明了战役中的场景对一位老手会有多大挑战：难度"
-"越高，胜利之前的阻碍会越多，而要克服阻碍则需要更高超的游玩技术。"
+"越高，胜利之前的阻碍会越多，而要克服阻碍则需要更高超的游玩技术。例如，在更高"
+"的难度下，敌方可能有更高的收入、更高级的单位、更多的城堡格子，诸如此类。"
 
 #. [topic]: id=..gameplay
 msgid ""
@@ -1715,7 +1715,6 @@ msgid "Save-loading"
 msgstr "保存和加载"
 
 #. [topic]: id=saveload
-#, fuzzy
 msgid ""
 "\n"
 "\n"
@@ -1725,9 +1724,12 @@ msgid ""
 "<italic>text='expect'</italic> one of them to die about every 20 turns. So, "
 "you’ll rarely make it through a scenario without having it happen."
 msgstr ""
-"游戏的挑战之一是找出如何保护你的英雄。小风险迅速累积：如果你有五个重要单位，"
-"而且每个单位每回合只有1%的死亡几率，你可以<italic>发短信\"期望\"</italic>其中"
-"一个每20回合死亡一次。因此，您很少会通过一个场景而不发生它。"
+"\n"
+"\n"
+"游戏的挑战之一在于找出保护你的英雄的手段。小风险会迅速累积成大风险：如果你有"
+"五个重要单位，而且每个单位每回合只有1%的死亡几率，你可以<bold>text='期望'</"
+"bold>大约每20回合会有一个重要单位死亡。因此，你很少能在重要单位不死亡的前提下"
+"通过场景。"
 
 #. [topic]: id=saveload
 #, fuzzy
@@ -2288,35 +2290,35 @@ msgstr ""
 "间，而前半夜和后半夜则算作夜间：\n"
 "\n"
 
-#. [topic]: id=time_of_day
 #. [time]: id=dawn
+#. [topic]: id=time_of_day
 #. [time]: id=dawn_hour
 msgid "Dawn"
 msgstr "黎明"
 
-#. [topic]: id=time_of_day
 #. [time]: id=morning
+#. [topic]: id=time_of_day
 msgid "Morning"
 msgstr "上午"
 
-#. [topic]: id=time_of_day
 #. [time]: id=afternoon
+#. [topic]: id=time_of_day
 msgid "Afternoon"
 msgstr "下午"
 
-#. [topic]: id=time_of_day
 #. [time]: id=dusk
+#. [topic]: id=time_of_day
 #. [time]: id=dusk_hour
 msgid "Dusk"
 msgstr "黄昏"
 
-#. [topic]: id=time_of_day
 #. [time]: id=first_watch
+#. [topic]: id=time_of_day
 msgid "First Watch"
 msgstr "前半夜"
 
-#. [topic]: id=time_of_day
 #. [time]: id=second_watch
+#. [topic]: id=time_of_day
 msgid "Second Watch"
 msgstr "后半夜"
 
@@ -5591,6 +5593,7 @@ msgid "race^Trolls"
 msgstr "巨魔"
 
 #. [race]: id=troll
+#, fuzzy
 msgid ""
 "Trolls are ancient creatures, one of the oldest known races known to inhabit "
 "the Great Continent. They are large, slow, simple-minded, and live extremely "
@@ -5611,16 +5614,16 @@ msgid ""
 "themselves slowly turn into lifeless statues of stone.\n"
 "\n"
 "Trolls are seen by many as being little more than yet another race of savage "
-"monsters. This common misconception is in part perpetuated by orcs to "
-"persuade trolls to join their armies. Because they are rather simple and do "
-"not understand the ways of other races or sometimes cannot even tell them "
-"apart, it is usually easy for an orcish band to convince a group of trolls "
-"that by joining them they get to exact revenge on those that have before "
-"hunted them. These new recruits are then directed to attack whoever the orcs "
-"themselves are currently in conflict with, whether previously a foe of the "
-"trolls or not, accumulating even more enemies for the misled trolls. The "
-"most common enemy of trolls are dwarves, and the animosity between these two "
-"races is ancient.\n"
+"monsters. This common misconception is in part perpetuated by orcish "
+"successes in persuading trolls to join their armies. Because they are rather "
+"simple and do not understand the ways of other races or sometimes cannot "
+"even tell them apart, it is usually easy for an orcish band to convince a "
+"group of trolls that by joining them they get to exact revenge on those that "
+"have before hunted them. These new recruits are then directed to attack "
+"whoever the orcs themselves are currently in conflict with, whether "
+"previously a foe of the trolls or not, accumulating even more enemies for "
+"the misled trolls. The most common enemy of trolls are dwarves, and the "
+"animosity between these two races is ancient.\n"
 "\n"
 "<header>text='Geography'</header>\n"
 "Trolls have inhabited the mountains of the Great Continent longer than the "

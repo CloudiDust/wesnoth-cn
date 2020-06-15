@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-02-01 22:39-0300\n"
-"PO-Revision-Date: 2020-02-10 08:40+0800\n"
+"POT-Creation-Date: 2020-06-12 21:49-0400\n"
+"PO-Revision-Date: 2020-06-15 16:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -721,8 +721,8 @@ msgstr "一捆麦子"
 msgid "Runic Hammer"
 msgstr "符文锤"
 
-#. [item]: id=holly-water
 #. [object]
+#. [item]: id=holly-water
 msgid "Holy Water"
 msgstr "圣水"
 
@@ -755,8 +755,8 @@ msgstr "绿色药剂"
 msgid "Gray Potion"
 msgstr "灰色药剂"
 
-#. [item]: id=potion-poison
 #. [object]: id={ID}
+#. [item]: id=potion-poison
 msgid "Poison"
 msgstr "毒药"
 
@@ -812,8 +812,8 @@ msgstr "手杖"
 msgid "Stone Tablet"
 msgstr "石板"
 
-#. [item]: id=storm-trident
 #. [object]
+#. [item]: id=storm-trident
 msgid "Storm Trident"
 msgstr "风暴三叉戟"
 
@@ -4718,8 +4718,8 @@ msgid ""
 "<i>Cures</i>, or <i>Nightstalk</i>. Obtaining those units early can make a "
 "big difference in a campaign."
 msgstr ""
-"有些高等级单位拥有无可企及的能力，例如<b>领导</b>，<i>疗毒</I>，或者<i>夜遁</"
-"I>。在战役早期就获得这些单位，可以给战局带来极大变化。"
+"有些高等级单位拥有无可企及的能力，例如<b>领导</b>，<i>疗毒</i>，或者<i>夜遁</"
+"i>。在战役早期就获得这些单位，可以给战局带来极大变化。"
 
 #. [tip]
 msgid "<i>― Sir Gerrick of Westin, 607YW</i>"
@@ -7232,36 +7232,3 @@ msgstr "隐藏$player的计划"
 
 msgid "Whiteboard Options"
 msgstr "白板选项"
-
-#~ msgid "theme^Classic"
-#~ msgstr "经典"
-
-#~ msgid "The classic, pre-1.12 theme"
-#~ msgstr "经典的，1.12以前的版本所使用的主题"
-
-#~ msgid "gold"
-#~ msgstr "金币"
-
-#~ msgid "villages"
-#~ msgstr "村庄"
-
-#~ msgid "units"
-#~ msgstr "单位"
-
-#~ msgid "upkeep"
-#~ msgstr "维护费用"
-
-#~ msgid "income"
-#~ msgstr "收入"
-
-#~ msgid "statuspanel^level"
-#~ msgstr "等級"
-
-#~ msgid "statuspanel^moves"
-#~ msgstr "手"
-
-#~ msgid "statuspanel^terrain def."
-#~ msgstr "地形防御"
-
-#~ msgid " replay"
-#~ msgstr " 游戏录像"

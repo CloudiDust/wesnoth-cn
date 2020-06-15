@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-02-02 01:39 UTC\n"
-"PO-Revision-Date: 2020-02-10 11:10+0800\n"
+"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
+"PO-Revision-Date: 2020-06-15 16:14+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,10 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
-#. [scenario]: id=11_Descent_into_Darkness
 #. [campaign]: id=Descent_into_Darkness
+#. [scenario]: id=11_Descent_into_Darkness
 msgid "Descent into Darkness"
 msgstr "堕入黑暗"
 
@@ -88,7 +88,7 @@ msgid "Saving Parthyn"
 msgstr "拯救帕辛"
 
 #. [part]
-#. comments about dialogue style and characterization **THIS TEXT CONTAINS SPOILERS**:
+#. Comments about dialogue style and characterization:
 #. Drogan: although he is the captain of Parthyn's guard, he shows signs of recklessness and inflexibility; he's stiff and stubborn, which causes him to butt heads with Malin
 #. often, we see that Drogan says something to Malin (e.g. banishing him) without a clearly good reason why, and that's because of his ego and confidence in his own righteousness
 #. Darken Volk: he talks a little more formally than Malin, and has quite a few ellipses in his speech. These are at points where he's not speaking exactly what he's thinking in his head because in reality,
@@ -211,19 +211,19 @@ msgstr ""
 "马林因父亲的死而久久不能平静，他争辩说应该允许达肯·沃克留下来协防城镇，却无济"
 "于事。死灵法师离开了帕辛，没有挑起任何摩擦。"
 
-#. [side]
 #. [side]: type=General, id=Taylor
+#. [side]
 #. [side]: type=Sergeant, id=Drogan
 msgid "Defenders"
 msgstr "守卫者"
 
+#. [modify_side]
 #. [side]: type=Orcish Warlord, id=Borth
+#. [side]: type=Orcish Warlord, id=Gron'r Hronk
+#. [side]: type=Orcish Warlord, id=K'rrlar Oban
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #. [side]: type=Orcish Warlord, id=K'Vark
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
-#. [side]: type=Orcish Warlord, id=Gron'r Hronk
-#. [side]: type=Orcish Warlord, id=K'rrlar Oban
-#. [modify_side]
 msgid "Orcs"
 msgstr "兽人"
 
@@ -231,9 +231,9 @@ msgstr "兽人"
 msgid "Kreg’a’shar Trr"
 msgstr "克里嘎沙·塔"
 
-#. [side]: type=Sergeant, id=Drogan
 #. [side]: type=Lieutenant, id=Drogan
 #. [unit]: type=Ghoul, id=DroganGhoul
+#. [side]: type=Sergeant, id=Drogan
 msgid "Drogan"
 msgstr "德罗甘"
 
@@ -849,7 +849,7 @@ msgstr "总比没有好这些生物在哪条路上撒谎？"
 #. [message]: speaker=Darken Volk
 #, fuzzy
 msgid "East."
-msgstr "看！东边！亡灵来了！"
+msgstr "东南方向的生锈的门"
 
 #. [message]: speaker=YOgre1
 #, fuzzy
@@ -911,6 +911,8 @@ msgstr ""
 "它。除了鬼怪，血肉对不死生物是无用的。首先，让血液和内脏，并处置他们。"
 
 #. [message]: speaker=Malin Keshar
+#. In the sense of "Understood, I will do that", not "very good".
+#. That's the case for both usages of this string.
 #, fuzzy
 msgid "Very well."
 msgstr "好的。"
@@ -933,7 +935,7 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #, fuzzy
 msgid "And then?"
-msgstr "然后？"
+msgstr "夏目漱石"
 
 #. [message]: speaker=Darken Volk
 #, fuzzy
@@ -1286,9 +1288,9 @@ msgstr "我渴望的是你的死亡"
 msgid "The ice doesn’t look very thick..."
 msgstr "这里的冰面看起来不太厚……"
 
-#. [message]: speaker=Darken Volk
 #. [message]: speaker=Mal Keshar
 #. [message]: speaker=Malin Keshar
+#. [message]: speaker=Darken Volk
 msgid "..."
 msgstr "……"
 
@@ -2157,7 +2159,7 @@ msgstr "入侵者"
 
 #. [side]: type=General, id=Taylor
 #, fuzzy
-msgid "General Taylor"
+msgid "Taylor"
 msgstr "泰勒"
 
 #. [side]: type=General, id=Taylor
@@ -2188,7 +2190,7 @@ msgstr "移动马林和达肯·沃克，进入法师领主的庄园"
 
 #. [objective]: condition=win
 #, fuzzy
-msgid "OR: Defeat General Taylor"
+msgid "Defeat General Taylor"
 msgstr "OR：击败泰勒将军"
 
 #. [note]
@@ -2196,7 +2198,8 @@ msgid "This scenario takes place entirely at night."
 msgstr "此场景完全发生在夜间。"
 
 #. [note]
-msgid "Enemy units have reduced vision (radius 3)"
+#, fuzzy
+msgid "Enemy units have reduced vision (radius 3)."
 msgstr "敌方单位视野下降（半径3）"
 
 #. [message]: speaker=Darken Volk
@@ -2508,7 +2511,7 @@ msgstr "拿到书并逃脱"
 #. [command]
 #, fuzzy
 msgid "Mage"
-msgstr "魔术师"
+msgstr "法师"
 
 #. [message]: speaker=Darken Volk
 #, fuzzy
@@ -2554,6 +2557,7 @@ msgid "This coffin is empty."
 msgstr "这个棺材是空的。"
 
 #. [message]
+#. Spoken by a servant of Malin Keshar (dead or alive one).
 #, fuzzy
 msgid "I have found the book, master!"
 msgstr "我找到书了，主人！就在这儿。"
@@ -2564,6 +2568,7 @@ msgid "Good! Guard it with your unlife while I come to fetch it."
 msgstr "很好！用你不存在的命保护好它，我就来取。"
 
 #. [message]: id=Malin Keshar
+#. The speaker addresses a human or a bat.
 msgid "Good! Guard it with your life while I come to fetch it."
 msgstr "很好！用你的命保护好它，我就来取。"
 
@@ -3413,8 +3418,8 @@ msgstr "然后，这平静被拉扯，被无法忍受的极端痛苦所替代，
 msgid "... by emptiness."
 msgstr "一切化为虚无。"
 
-#. [modify_side]
 #. [side]
+#. [modify_side]
 msgid "Mal Keshar"
 msgstr "玛尔·凯沙"
 

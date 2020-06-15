@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-10 08:41+0800\n"
+"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
+"PO-Revision-Date: 2020-06-15 16:14+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "Delfador’s Memoirs"
@@ -263,19 +263,19 @@ msgstr "此谷归我"
 msgid "Grogor-Tuk"
 msgstr "格罗高-图克"
 
+#. [side]: type=Orcish Slayer, id=Hagha-Tan
 #. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Orcish Warlord, id=Knafa-ord
-#. [side]: type=Orcish Warlord, id=Tan-drul
-#. [side]: type=Orcish Warlord, id=Krardul
-#. [side]: type=Orcish Warlord, id=Tish Golub
+#. [side]: type=Goblin Pillager, id=Grogor-Tuk
 #. [side]: type=Orcish Sovereign, id=Zorlan
 #. [side]: type=Orcish Warrior, id=T'bhan
 #. [side]: type=Orcish Warrior, id=Qgthun
 #. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
-#. [side]
-#. [side]: type=Goblin Pillager, id=Grogor-Tuk
-#. [side]: type=Orcish Slayer, id=Hagha-Tan
 #. [side]: type=Orcish Warlord, id=Upgar
+#. [side]: type=Orcish Warlord, id=Tish Golub
+#. [side]
+#. [side]: type=Orcish Warlord, id=Knafa-ord
+#. [side]: type=Orcish Warlord, id=Tan-drul
+#. [side]: type=Orcish Warlord, id=Krardul
 msgid "Pillagers"
 msgstr "劫掠者"
 
@@ -495,15 +495,15 @@ msgstr "利欧林"
 msgid "Hagha-Tan"
 msgstr "哈格哈-坦"
 
-#. [side]
-#. [side]: type=King of Wesnoth, id=Garard II
-#. [side]: type=General, id=Rhuwin
-#. [side]: type=Arch Mage, id=Leollyn
-#. [modify_side]
-#. [side]: type=King of Wesnoth, id=Garard
 #. [side]: type=General, id=Eldred
 #. [side]: type=General, id=Lowel
+#. [modify_side]
+#. [side]
+#. [side]: type=Arch Mage, id=Leollyn
+#. [side]: type=General, id=Rhuwin
+#. [side]: type=King of Wesnoth, id=Garard II
 #. [side]: type=Lieutenant, id=Niktor
+#. [side]: type=King of Wesnoth, id=Garard
 msgid "Loyalists"
 msgstr "保王党人"
 
@@ -878,18 +878,18 @@ msgstr "这箱子里装着那恶棍所有从上当的路人手上抢来的钱！
 msgid "Night in the Swamp"
 msgstr "沼泽之夜"
 
-#. [side]: type=Lich, id=Sagus
-#. [side]: type=Death Knight, id=Prepolur
-#. [side]: type=Necromancer, id=Unuvim-Malal
-#. [side]
-#. [side]: type=Necromancer, id=Gruv-Malal
 #. [side]: type=Death Knight, id=Rudimil
 #. [side]: type=Necromancer, id=Roth-Malal
 #. [side]: type=Necromancer, id=Barth-Malal
+#. [side]: type=Necromancer, id=Gruv-Malal
 #. [side]: type=Death Knight, id=Arakar
+#. [side]: type=Lich, id=Sagus
+#. [side]
 #. [side]: type=Necromancer, id=Maldun
 #. [side]: type=Death Knight, id=Alderoth
 #. [side]: type=Death Knight, id=Dirator
+#. [side]: type=Death Knight, id=Prepolur
+#. [side]: type=Necromancer, id=Unuvim-Malal
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1601,8 +1601,8 @@ msgid "Tish Golub"
 msgstr "蒂什·戈卢布"
 
 #. [side]
-#. [side]: type=Elvish Captain, id=Clartakis
 #. [side]: type=Elvish Druid
+#. [side]: type=Elvish Captain, id=Clartakis
 msgid "Elves"
 msgstr "精灵"
 
@@ -3684,8 +3684,8 @@ msgstr ""
 "也许吧。现在我再考虑这事，我想我最好比我来时更快地回到王宫，尽管我得跑死三匹"
 "马。"
 
-#. [side]
 #. [modify_side]
+#. [side]
 msgid "Rebels"
 msgstr "反抗势力"
 

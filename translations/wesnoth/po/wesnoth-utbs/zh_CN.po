@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-02-10 11:05+0800\n"
+"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
+"PO-Revision-Date: 2020-06-15 16:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -57,8 +57,8 @@ msgstr "普通"
 msgid "Challenging"
 msgstr "挑战"
 
-#. [advancement]: id=warrior_1
 #. [campaign]: id=Under_the_Burning_Suns
+#. [advancement]: id=warrior_1
 msgid "Warrior"
 msgstr "武士"
 
@@ -287,8 +287,8 @@ msgstr "赛尔"
 msgid "Kaleh, Nym, help us!"
 msgstr "卡勒， 妮慕， 来帮我们！"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Nym
+#. [message]: speaker=Kaleh
 msgid "What in Uria’s name is that?"
 msgstr "那尤里安的是什么？"
 
@@ -872,8 +872,8 @@ msgstr ""
 msgid "Do you remember anything about these sands?"
 msgstr "还记得这片沙漠吗？"
 
-#. [message]: speaker=narrator
 #. [unit]: type=Defeated Corrupted Quenoth Elf, id=Garak_defeated
+#. [message]: speaker=narrator
 msgid "Garak"
 msgstr "伽拉克"
 
@@ -2624,9 +2624,9 @@ msgstr ""
 "见。我不知道我在这里干什么。某种神秘的东西让我不自觉地来到这里，我有种不祥的"
 "预感。"
 
-#. [unit]: type=Dark Assassin3, id=Cloaked Figure
 #. [unit]: type=Dark Assassin2, id=Cloaked Figure
 #. [unit]: type=Dark Assassin1, id=Cloaked Figure
+#. [unit]: type=Dark Assassin3, id=Cloaked Figure
 msgid "Cloaked Figure"
 msgstr "戴斗篷者"
 
@@ -3071,8 +3071,8 @@ msgid ""
 "together, we must follow Zurg."
 msgstr "看来我们的工作还没有结束。好吧，集合队伍，我们得跟着泽格走。"
 
-#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
 #. [event]
+#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
 msgid "Grimnir"
 msgstr "格雷纳"
 
@@ -3686,8 +3686,8 @@ msgstr "受伤的矮人"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Wounded Dwarf
 #. [message]: speaker=Kaleh
+#. [message]: speaker=Wounded Dwarf
 msgid "Never!"
 msgstr "绝不！"
 
@@ -4092,8 +4092,8 @@ msgstr "敌人"
 
 #. [side]: id=King Thurongar, type=Dwarvish Lord
 #. [side]: id=Melusand, type=Mermaid Diviner
-#. [side]: id=Great Leader Darmog, type=Great Troll
 #. [side]
+#. [side]: id=Great Leader Darmog, type=Great Troll
 msgid "Allies"
 msgstr "同盟"
 
@@ -5227,8 +5227,8 @@ msgstr "好吧，越快离开这里我越高兴。"
 msgid "Wait, did you feel that?"
 msgstr "等下，你们感觉到什么了吗？"
 
-#. [message]: speaker=Nym
 #. [message]: role=mystic_speaker
+#. [message]: speaker=Nym
 msgid "What?"
 msgstr "什么？"
 
@@ -6516,10 +6516,10 @@ msgstr ""
 "陵。山谷的中央是平的，四周是沙丘。山谷中央似乎有定居点。在更远的北边，我看见"
 "天际似乎有闪光，但我不知道那是什么。"
 
-#. [event]
 #. [unit]: type=Divine Avatar, id=Eloh
 #. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
+#. [event]
 msgid "Eloh"
 msgstr "伊洛"
 
@@ -11395,8 +11395,8 @@ msgstr ""
 msgid "Central Body"
 msgstr "中枢躯体"
 
-#. [unit_type]: id=Central Body Base, race=monster
 #. [unit_type]: id=Pulsing Spire, race=monster
+#. [unit_type]: id=Central Body Base, race=monster
 #. [unit_type]: id=Crawling Horror, race=monster
 msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
@@ -11570,8 +11570,8 @@ msgstr "小型黏土怪"
 msgid "Naga Guardian"
 msgstr "娜迦守卫"
 
-#. [unit_type]: id=Naga Guardian, race=naga
 #. [unit_type]: id=Naga Warden, race=naga
+#. [unit_type]: id=Naga Guardian, race=naga
 #. [unit_type]: id=Naga Sentinel, race=naga
 msgid ""
 "These heavy fighters are the elite guards of the naga. They are slower and "
@@ -11864,8 +11864,8 @@ msgstr ""
 "翼，敌人最弱的防线。一群骑手是特别危险的，因为对他们而言，撤退和自然减员都是"
 "徒劳的，这种前景在荒凉的沙漠中是毁灭性的。"
 
-#. [attack]: type=impact
 #. [effect]: type=impact
+#. [attack]: type=impact
 msgid "bolas"
 msgstr "链球"
 
@@ -12243,11 +12243,11 @@ msgstr ""
 "就像船帆被风吹张起一样，一个灵魂被邪恶的魔法所困，这种监狱能够带来一个永不消"
 "逝的仆从，主人可以把他部署在任意地方。"
 
-#. [unit_type]: id=EShadow
-#. [unit_type]: id=ESpectre
 #. [unit_type]: id=EWraith
-#. [unit_type]: id=ENightgaunt
+#. [unit_type]: id=ESpectre
 #. [unit_type]: id=EGhost
+#. [unit_type]: id=EShadow
+#. [unit_type]: id=ENightgaunt
 msgid "SPECIAL_NOTE^ This unit is able to move through solid stone walls."
 msgstr "此单位可以穿越坚硬的石墙。"
 

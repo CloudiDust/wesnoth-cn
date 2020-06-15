@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-02-10 10:22+0800\n"
+"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
+"PO-Revision-Date: 2020-06-15 16:28+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 msgid "The Sceptre of Fire"
@@ -98,8 +98,8 @@ msgid "Rugnur"
 msgstr "拉格纳"
 
 #. [side]: type=Dwarvish Fighter, id=Rugnur
-#. [side]: type=Dwarvish Lord, id=Durstorn
 #. [side]: type=Haldric II, id=Haldric II
+#. [side]: type=Dwarvish Lord, id=Durstorn
 msgid "Dwarves"
 msgstr "矮人"
 
@@ -111,13 +111,13 @@ msgstr "哈德里克二世"
 msgid "Glildur"
 msgstr "基利达"
 
-#. [side]: type=Elvish Captain, id=Glindur
-#. [side]: type=Elvish Marshal, id=Crintil
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]
 #. [side]: type=Elvish Captain, id=Glildur
+#. [side]
+#. [side]: type=Elvish Captain, id=Glindur
+#. [side]: type=Elvish Marshal, id=Crintil
 msgid "Elves"
 msgstr "精灵"
 
@@ -502,8 +502,8 @@ msgstr "紧闭大门"
 msgid "Glindur"
 msgstr "格林达"
 
-#. [side]
 #. [side]: type=Troll Warrior, type=Troll
+#. [side]
 msgid "Trolls"
 msgstr "巨魔"
 
@@ -729,8 +729,8 @@ msgstr "所有精灵都已经解决了。现在我该继续赶往城里去报告
 msgid "In the Dwarven City"
 msgstr "矮人城中"
 
-#. [side]: type=Dwarvish Lord, id=Durstorn
 #. [unit]: type=Dwarvish Lord, id=Durstorn
+#. [side]: type=Dwarvish Lord, id=Durstorn
 msgid "Durstorn"
 msgstr "达司拓恩"
 
