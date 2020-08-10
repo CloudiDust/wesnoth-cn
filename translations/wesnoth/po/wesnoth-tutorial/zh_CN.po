@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-13 01:49 UTC\n"
-"PO-Revision-Date: 2020-06-15 16:33+0800\n"
+"POT-Creation-Date: 2020-08-08 09:20 UTC\n"
+"PO-Revision-Date: 2020-08-10 21:05+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 2.4\n"
 
 #. [lua]: wml_actions.select_character
 msgid "Select Character"
@@ -736,11 +736,10 @@ msgid "Death of Galdrad"
 msgstr "伽德拉德死亡"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid ""
 "You cannot end your turn until you have recruited troops and captured a "
 "village!"
-msgstr "在招募军队和占领村庄之前，你不能结束轮到你！"
+msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -807,7 +806,6 @@ msgstr ""
 "那时，他们的首领肯定已经征募了更多单位来进攻我们，而真正的战斗就会打响。"
 
 #. [event]
-#, fuzzy
 msgid ""
 "See this dark blue water? It’s too deep for either side to cross. The orcs "
 "could slowly wade through that narrow band of shallow lighter-blue water in "
@@ -919,23 +917,21 @@ msgid "Elvish Shaman"
 msgstr "精灵萨满"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "The Shaman has the ability to <i>heal</i> friendly units around her. She "
 "also has a special attack which <i>slows</i> enemies, halving the damage "
 "they do for one turn. However, she’s physically weaker than fighters and "
 "archers, so be careful when sending her into battle."
 msgstr ""
-"萨满是一种相当脆弱的单位，不过她拥有<b>治疗</b>周围单位的能力。同时她也拥有可"
-"以让敌人在一回合内<b>减速</b>的特殊攻击，这种攻击还会让敌人的伤害输出减半。"
+"萨满拥有<b>治疗</b>周围单位的能力。同时她也拥有可以让敌人在一回合内<b>减速</"
+"b>的特殊攻击，这种攻击会让敌人的伤害输出减半。但是，她的体格比战士和弓箭手"
+"弱，因此，在派遣她前去战斗时，请小心。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "The <i>Heal</i> Ability"
-msgstr "<i>治疗</i>能力"
+msgstr "<b>疗伤</b>能力"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "At the start of each turn, allied units adjacent to a Shaman will recover 4 "
 "hitpoints, which is only half of the amount that a village would provide. "
@@ -946,19 +942,17 @@ msgid ""
 "A detailed explanation of healing may be found in the <i>Gameplay</i> "
 "section of the help (default hotkey: <b>F1</b>)."
 msgstr ""
-"在每一回合开始时，与沙曼相邻的盟军部队将恢复4个打击点，这仅是村庄提供的一半。"
-"沙曼人没有从治疗中获得经验，只是从战斗中获得经验，但推进她是值得的——她的二级"
-"猫王进步可以治愈相当于一个村庄。\n"
+"在每一回合开始时，与萨满相邻的盟军部队将回复4点生命值，这仅是村庄提供的疗伤能"
+"力的一半。萨满不会从疗伤中获得经验，而只能从战斗中获得，但还是值得让她升级——"
+"她的二级升级精灵德鲁伊拥有与村庄相当的疗伤能力。\n"
 "\n"
-"治疗的详细解释可以在帮助<i>的游戏部分找到</i>（默认热键<b>：F1</b>）。"
+"治疗的详细解释可以在帮助的<b>游戏玩法</b>部分找到（默认热键：<b>F1</b>）。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "Weapon Specials"
 msgstr "武器特性"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Weapon specials are special attack modifiers that make certain attacks more "
 "powerful. In this case, the Shaman has the Slows special on her entangle "
@@ -970,21 +964,19 @@ msgid ""
 "A full list of abilities and weapons specials, along with traits, may be "
 "found in the help (default hotkey: <b>F1</b>)."
 msgstr ""
-"武器特攻是使得某些攻击更加强力的特殊攻击修正。在此又要提到萨满，她的缠绕攻击"
-"拥有“减速”特攻。当此攻击作用于敌人时，它可将他们的伤害输出减半一回合。其他武"
-"器特攻例如“先制”，可以让该攻击总是先手，而不论是谁先进攻的，又例如“魔法”，可"
+"武器特性是使得某些攻击更加强力的特殊攻击修正。在此又要提到萨满，她的缠绕攻击"
+"拥有“减速”特性。当此攻击成功命中敌人时，可将他们的伤害输出减半一回合。其他武"
+"器特性例如“先制”，可以让该攻击总是先手，而不论是谁先进攻的，又例如“魔法”，可"
 "以让该攻击总是拥有70%的命中率。\n"
 "\n"
-"能力、武器特攻以及特质的完整列表，可以在帮助中找到。"
+"能力、武器特性以及特质的完整列表，可以在帮助中找到（默认热键：<b>F1</b>）。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "Multiple Healers"
-msgstr "多重治疗"
+msgstr "多位疗伤者"
 
 #. [message]: speaker=narrator
 #. both healers are level one elvish shamans
-#, fuzzy
 msgid ""
 "You now have two healers. However, each unit can only receive healing from "
 "one healer — a unit will still only be healed 4 hitpoints per turn even when "
@@ -994,49 +986,44 @@ msgid ""
 "adjacent units by 8 hitpoints per turn. A unit next to multiple healers is "
 "healed by the most advanced one."
 msgstr ""
-"你现在有两个治疗师然而，每个单位只能接受一个治疗师的愈合 - 一个单位仍然只能治"
-"愈4个打击点每回合，即使毗邻两个沙曼人。\n"
+"你现在有两位疗伤者，然而每个单位只能接受一位疗伤者的医治——即使与两位萨满都相"
+"邻，一个单位每回合还是只能回复4点生命值。\n"
 "\n"
-"如果沙曼进步成为德鲁伊，那么她将能够治愈相邻的单位每回合8个命中点。多个治疗师"
-"旁边的一个单位由最先进的治疗者治愈。"
+"如果任一位萨满升级成为德鲁伊，那么她将能够为相邻的单位每回合回复8点生命值。一"
+"个单位若与多名疗伤者相邻，则由等级最高的疗伤者来医治。"
 
 #. [message]: speaker=narrator
 #. one healer is a level one shaman, but the other healer is a druid or (very unlikely) a shyde
-#, fuzzy
 msgid ""
 "You now have two healers. Your Druid can heal adjacent units by 8 hitpoints "
 "per turn compared to your Shaman's 4. However, each unit can only receive "
 "healing from one healer — a unit next to multiple healers is healed by the "
 "most advanced one."
 msgstr ""
-"你现在有两个治疗师与沙曼的 4 个命中点相比，Druid 每回合可以治愈 8 个命中点。"
-"然而，每个单位只能接受一个治疗师的愈合 - 一个单位旁边的多个治疗师由最先进的一"
-"个愈合。"
+"你现在有两位疗伤者。你的德鲁伊能够为相邻的单位每回合回复8点生命值，相比之下萨"
+"满每回合只能回复8点。然而每个单位只能接受一位疗伤者的医治——一个单位若与多名疗"
+"伤者相邻，则由等级最高的疗伤者来医治。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "Healers and Villages"
-msgstr "治疗者和村庄"
+msgstr "疗伤者与村庄"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "A unit in a village will receive healing from the village instead of from "
 "adjacent healers."
-msgstr ""
-"村庄中的一个单位将接受来自村庄的愈合，而不是从邻近的治疗师那里获得治疗。"
+msgstr "村庄中的单位将受到村庄的医治，而不是由邻近的疗伤者来医治。"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "Having more than one healer allows them to heal each other or to cover "
 "separate areas of the battlefield. It can also allow better tactical "
 "movement — the 2 hitpoints from rest-healing does combine with other sources "
 "of healing, so it’s often better to move a healer instead of an injured unit."
 msgstr ""
-"拥有不止一个治疗师允许他们互相治愈或覆盖战场的单独区域。它还可以允许更好的战"
-"术运动 - 休息愈合的2个命中点确实与其他愈合来源相结合，所以通常最好移动一个治"
-"疗师，而不是一个受伤的单位。"
+"拥有多名疗伤者让他们能够互相疗伤，或分别覆盖战场的单独区域。如此，更佳的战术"
+"移动也成为可能——通过休息获得的2点生命值回复确实可以与其他来源的生命值回复结"
+"合，因此通常来说，与移动受伤的单位相比，移动疗伤者更好。"
 
 #. [message]: speaker=narrator
 msgid "Elvish Archer"
@@ -1074,20 +1061,17 @@ msgid "Capture a village"
 msgstr "占领一座村庄"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid "You still have to capture a village!"
-msgstr "占领一座村庄"
+msgstr "你还是得占领一座村庄！"
 
 #. [then]
-#, fuzzy
 msgid ""
 "You forgot to recruit troops! You can press <b>u</b> to undo your last move."
-msgstr "别忘了，如果操作失误，你可以按<b>u</b>键来撤销大部分操作。"
+msgstr "你忘了征募部队！你可以按<b>u</b>键来撤销最后一次操作。"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid "You still have to recruit troops!"
-msgstr "你还是得招兵买马！"
+msgstr "你还是得征募部队！"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1130,11 +1114,10 @@ msgstr ""
 "的。你可以在<b>菜单</b>菜单中访问它。"
 
 #. [else]
-#, fuzzy
 msgid ""
 "You forgot to capture a village! You can press <b>u</b> to undo your last "
 "move."
-msgstr "你忘了占领一个村庄！您可以按<b>u</b>撤消最后一个移动。"
+msgstr "你忘了占领一个村庄！你可以按<b>u</b>来撤销最后一次操作。"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1259,12 +1242,10 @@ msgstr ""
 "以至于无法征募援军的。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "The tutorial isn’t meant to be this difficult"
-msgstr "本教程并不是要这样困难"
+msgstr "本教程本不是设计成这样困难的"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "The orc on the island was supposed to move over the bridge, so that he could "
 "be attacked by several elves at once. Something’s broken the scripted event, "
@@ -1272,10 +1253,10 @@ msgid ""
 "\n"
 "Please report the bug."
 msgstr ""
-"岛上的奥克应该在桥上移动，这样他就可以同时被几个精灵攻击。有些东西破坏了脚本"
-"化的事件，这将使他处于防御位置，使场景更加困难。\n"
+"岛上的兽人本应该过桥，这样他就可以同时被几个精灵攻击。某些东西破坏了预先编制"
+"好的事件，这将使他呆在防御位置，让场景变得更加困难。\n"
 "\n"
-"请报告该错误。"
+"请报告该bug。"
 
 #. [message]: speaker=narrator
 msgid "Tracking Enemy Movement"
@@ -1331,33 +1312,28 @@ msgstr ""
 "怕你人手不足也是如此。"
 
 #. [message]: speaker=student
-#, fuzzy
 msgid ""
 "I hope I will survive the counter-attack if my units can’t take this grunt "
 "out this turn. I should order them to grab more villages if they can and "
 "move everyone closer for next turn."
 msgstr ""
-"要是这回合不能干掉这个兽人步兵，但愿我的单位能撑反击。要是可行，在下回合我最"
-"后占领更多的村庄，并把大伙儿靠得近一些。"
+"要是这回合我的单位干不掉这个兽人步兵，但愿我能撑过反击。要是可行，在下回合我"
+"应该命令他们占领更多村庄，并让大伙儿靠得近一些。"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "If one of your Shamans stands just behind you, she will heal you 4 hitpoints "
 "at the beginning of the next turn."
-msgstr ""
-"如果你的一名萨满紧贴着站在你负伤的单位身后，她就会在下回合开始时为他们每人恢"
-"复4点生命值。"
+msgstr "如果你的一名萨满紧贴在你身后，她就会在下回合开始时为你回复4点生命值。"
 
 #. [message]: speaker=student
-#, fuzzy
 msgid ""
 "I hope my units will survive the counter-attack if I can’t take this grunt "
 "out this turn. I’d better grab more villages if I can and move everyone "
 "closer for next turn."
 msgstr ""
-"要是这回合不能干掉这个兽人步兵，但愿我的单位能撑反击。要是可行，在下回合我最"
-"后占领更多的村庄，并把大伙儿靠得近一些。"
+"要是这回合我干不掉这个兽人步兵，但愿我的单位能撑过反击。要是可行，在下回合我"
+"最好去占领更多村庄，并让大伙儿靠得近一些。"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1429,14 +1405,13 @@ msgstr ""
 "用他的主楼的！小心！"
 
 #. [event]
-#, fuzzy
 msgid ""
 "We need to occupy that village, otherwise they will take it soon! Move a "
 "unit into the village to stop the orcs capturing it. Whichever unit you "
 "choose will benefit from the village’s healing, too."
 msgstr ""
 "我们得占领那座村庄，否则下回合他们会占领它的！把一个单位移动到村庄里去，以阻"
-"止兽人对它的占领。不论你选择哪个单位，他都会得到村庄的治疗。"
+"止兽人对它的占领。不论你选择哪个单位，他也都会得到村庄的治疗。"
 
 #. [event]
 msgid ""
@@ -1469,7 +1444,6 @@ msgstr ""
 
 #. [then]
 #. [else]
-#, fuzzy
 msgid ""
 "Remember to retreat your wounded units to villages. Shamans can only heal 4 "
 "hitpoints per turn, while villages can heal them faster at 8 per turn.\n"
@@ -1483,14 +1457,15 @@ msgid ""
 "from villages or healers, combining for a total of up to 10 hitpoints per "
 "turn."
 msgstr ""
-"记得把你的伤员撤退到村庄。沙曼人每回合只能治愈4个打击点，而村庄每回合8个可以"
-"更快地治愈它们。\n"
+"记得把你的伤员撤退回村庄里。萨满每回合只能回复4点生命值，而村庄的回复更快，每"
+"回合能够恢复8点生命值。\n"
 "\n"
-"不同的治疗来源一般不结合。如果一个单位开始在多个治疗师旁边，或在一个村庄和旁"
-"边的治疗师，它仍然将只治愈一次。\n"
+"不同的治疗来源一般不能结合起效。即使一个单位在回合开始时与多名疗伤者相邻，或"
+"位于村庄里并同时与疗伤者相邻，它仍然将只被治疗一次。\n"
 "\n"
-"休息治疗是规则的一个例外 - 如果一个单位不做任何事情一转，它将治愈2个命中点，"
-"除了任何愈合，它可能从村庄或治疗师，结合共多达10个命中点每回合。"
+"休息疗伤则是规则的例外——如果一个单位在一回合中不做任何事情，那么它将回复2点生"
+"命值，还可叠加它能够从村庄或疗伤者处获得的任何治疗，可最多叠加到每回合10点生"
+"命值回复。"
 
 #. [message]: speaker=narrator
 msgid "Tracking Unused Units"
@@ -1634,11 +1609,10 @@ msgid ""
 msgstr "我们会怀念$unit.name|的，不过至少她不是我们的老兵里的一员！"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "Higher level units are powerful, but not invulnerable. We’ll miss you, $unit."
 "name|."
-msgstr "高级单位是很强大，但并不是无敌的。永别了，$unit.name|。"
+msgstr "高级单位是很强大，但并不是无敌的。我们会想念你的，$unit.name|。"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1770,21 +1744,17 @@ msgid "female^That... was foolish. Next time I should be more careful."
 msgstr "那……太傻了。下次我应该更小心一点。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "Agh! Who will guide you to victory now?"
-msgstr "阿格！现在谁来指引你取得胜利？"
+msgstr "啊！现在谁会来指引你们夺取胜利？"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "You have beaten the orcs! You may want to try one of the rookie-level "
 "campaigns next, which include strategy hints. <i>A Tale of Two Brothers</i> "
 "is the easiest and is the recommended first campaign."
 msgstr ""
 "你击败了兽人！接下去你或许可以试试看几个菜鸟级别的战役之一，这些战役里有策略"
-"提示。<b>兄弟传说</b>是最简单的战役，也是推荐的首个战役。在<b>兽人入侵</b>中"
-"你拥有一支精灵军队，这和此教程类似，但该战役有七幕场景可供你的单位获得经验并"
-"升级。"
+"提示。<b>兄弟传说</b>是最简单的战役，也是推荐给新手的第一个战役。"
 
 #. [message]: speaker=narrator
 msgid ""
