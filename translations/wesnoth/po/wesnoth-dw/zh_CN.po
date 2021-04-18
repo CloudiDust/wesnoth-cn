@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-08 09:20 UTC\n"
-"PO-Revision-Date: 2020-08-10 20:11+0800\n"
+"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"PO-Revision-Date: 2021-04-18 16:38+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Dead_Water
 msgid "Dead Water"
@@ -2011,6 +2011,19 @@ msgstr ""
 "他的，现在我的机会来了。克莱利斯凯王，我和我的朋友将加入你们，并肩作战。请差"
 "遣我们，我们拒绝接受报酬。"
 
+#. [unit]: type=Footpad, id=Lyllan
+msgid "Lyllan"
+msgstr "莱兰"
+
+#. [unit]: type=Thug, id=Trudd
+msgid "Trudd"
+msgstr "特鲁德"
+
+#. [unit]: type=Thug, id=Dorcyn
+#. [unit]: type=Footpad, id=Dorcyn
+msgid "Dorcyn"
+msgstr "多辛"
+
 #. [message]: speaker=Dorcyn
 msgid "I’ll join you right now! That monster is just unnatural."
 msgstr "我现在也要加入你们！那怪物太不自然了。"
@@ -2210,6 +2223,26 @@ msgstr ""
 "们于夜间抵达了礁沙城外，他们发现港口有重兵把守，于是他们沿岸向南，到几座偏僻"
 "的村庄里打探侵略者的消息。"
 
+#. [set_variable]
+msgid "Mal-Necross"
+msgstr "玛尔-那克罗斯"
+
+#. [set_variable]
+msgid "Mal-Verloth"
+msgstr "玛尔-弗洛斯"
+
+#. [unit]: type=Merman Fighter, id=Nebthun
+msgid "Nebthun"
+msgstr "那布桑"
+
+#. [unit]: type=Merman Hunter, id=Jarla
+msgid "Jarla"
+msgstr "贾拉"
+
+#. [unit]: type=Merman Brawler, id=Tabomo
+msgid "Tabomo"
+msgstr "塔波摩"
+
 #. [message]: speaker=Nebthun
 msgid ""
 "Kai Krellis! You live! We thought you and your people had all been killed "
@@ -2287,6 +2320,10 @@ msgstr ""
 #. [message]: speaker=Gwabbo
 msgid "Absolutely! Bring ’em on!"
 msgstr "那是毫无疑问的！放马过来吧！"
+
+#. [unit]: type=$type_3, id=Carallcyn
+msgid "Carallcyn"
+msgstr "卡拉尔辛"
 
 #. [message]: speaker=Carallcyn
 msgid "We searched up the coast for miles, and here they are!"

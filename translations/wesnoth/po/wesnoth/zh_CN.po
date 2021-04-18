@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-08 05:20-0400\n"
-"PO-Revision-Date: 2020-08-10 20:09+0800\n"
+"POT-Creation-Date: 2021-03-20 22:07-0300\n"
+"PO-Revision-Date: 2021-04-18 16:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -6801,7 +6801,7 @@ msgid "Turn Number"
 msgstr "回合数"
 
 msgid ""
-"When the game reaches the number of turns indicated by the second number, it "
+"When the game exceeds the number of turns indicated by the second number, it "
 "will end."
 msgstr "当到达第二个数字所表示的回合数时，游戏将结束。"
 
@@ -7006,6 +7006,7 @@ msgstr "z"
 msgid "prefix_yocto^y"
 msgstr "y"
 
+#. TRANSLATORS: Translate the K in KiB only
 msgid "prefix_kibi^K"
 msgstr "K"
 
@@ -7033,6 +7034,7 @@ msgstr "Z"
 msgid "prefix_yotta^Y"
 msgstr "Y"
 
+#. TRANSLATORS: Translate the i in (for example) KiB only
 msgid "infix_binary^i"
 msgstr "i"
 

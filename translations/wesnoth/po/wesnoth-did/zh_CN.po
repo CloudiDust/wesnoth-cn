@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-08 09:20 UTC\n"
+"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
 "PO-Revision-Date: 2020-06-15 16:14+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -820,6 +820,14 @@ msgstr ""
 "秋天的彩色拼凑最终消失为寒冬的降雪飘过贫瘠的土地。当太阳消失在看似永久的薄雾"
 "中时，夜晚会变长。在元素的追赶下，两个巫师撤退到山上寻找避难所。一时好运气，"
 "他们偶然发现了一个几乎被遗弃的洞穴，就像冬天来临。"
+
+#. [side]
+msgid "Monsters"
+msgstr ""
+
+#. [side]
+msgid "Darken Volk"
+msgstr "达肯·沃克"
 
 #. [objective]: condition=win
 #, fuzzy
@@ -2674,10 +2682,6 @@ msgstr ""
 "沉下地平线时，他们终于走出了隧道。"
 
 #. [side]
-msgid "Darken Volk"
-msgstr "达肯·沃克"
-
-#. [side]
 msgid "Wesnothians"
 msgstr "韦诺人"
 
@@ -3120,6 +3124,10 @@ msgstr ""
 "<i>反正我什么也做</i>不了马林想，并提出了他的亡灵攻击营地。在短短几分钟内，他"
 "的整个军队几乎被摧毁，他被一把毒刀严重打伤。马林撤退，在一个小山洞里找到避难"
 "所。"
+
+#. [side]
+msgid "Opposers"
+msgstr ""
 
 #. [message]: speaker=Malin Keshar
 #, fuzzy
