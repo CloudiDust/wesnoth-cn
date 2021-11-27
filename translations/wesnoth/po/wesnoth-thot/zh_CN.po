@@ -6,12 +6,12 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -68,7 +68,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
-msgid "(Intermediate level, 11 scenarios.)"
+#, fuzzy
+msgid "(Intermediate level, 8 scenarios.)"
 msgstr "（中等级别，11幕场景。）"
 
 #. [about]
@@ -123,7 +124,6 @@ msgstr ""
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Hamel
 #. [side]: type=Orcish Warrior, id=Marth-Tak
-#. [side]: type=Great Mage, id=Master Perrin
 msgid "Alliance"
 msgstr "联盟"
 
@@ -131,13 +131,10 @@ msgstr "联盟"
 msgid "Pelmathidrol"
 msgstr "佩尔马希德罗"
 
-#. [side]: type=Orcish Warlord, id=Tan-Malgar
-#. [side]: type=Orcish Warlord, id=Tan-Grolak
-#. [side]: type=Orcish Warlord, id=Tan-Uthkar
+#. [side]: type=Orcish Warrior, id=Bashnark
 #. [side]: type=Orcish Warlord, id=Tan-Morgh
 #. [side]: type=Orcish Warlord, id=Tan-Garukh
 #. [side]: type=Orcish Warlord, id=Tan-Wagran
-#. [side]: type=Orcish Warrior, id=Bashnark
 msgid "Orcs"
 msgstr "兽人"
 
@@ -172,15 +169,60 @@ msgstr ""
 "们的狼粮吧。"
 
 #. [message]: speaker=second_unit
+#, fuzzy
 msgid ""
 "What is this? Their vanquished leader wears a cloak-pin of dwarvish make. "
-"And it bears a loremaster’s emblem."
+"And it bears a loremaster’s emblem. Why would an orc be carrying metalwork "
+"of dwarvish make?"
 msgstr ""
 "这是什么？他们被击败的头目戴着矮人制作的斗篷别针。那上面还有博学者的纹章。"
 
+#. [unit]: id=Movrur, type=Dwarvish Masked Steelclad
+msgid "Movrur"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Hail, kinsmen of Knalga. I have been tracking that orc for several days. He "
+"be part of a band of raiders that attacked us a few weeks ago and stole many "
+"arms from our forges."
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid "Yes, this cloak-pin be of our work."
+msgstr ""
+
 #. [message]: speaker=Aiglondur
-msgid "The maker’s mark is strange to me. We had best consult the lord Hamel."
-msgstr "我觉得这个制作者的印记有些奇怪。我们最好向哈梅尔领主请教。"
+msgid "Hold... kinsman. Who are you and from where do you hail?"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid "I be Movrur, of the ancient stronghold of Kal Kartha."
+msgstr ""
+
+#. [message]: speaker=Aiglondur
+msgid ""
+"Kal Kartha, the hold of the forges and the olden birthplace of our kind? "
+"That Kal Kartha? We have not heard from you in years! It was thought that "
+"your hold was lost to the orcs long ago."
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Aye, our hold was once overrun by orcs, but in recent times, we have begun "
+"to clear them out and reclaim the lands that were once ours. However, as you "
+"saw here, our troubles with the orcs are far from over."
+msgstr ""
+
+#. [message]: speaker=Aiglondur
+msgid ""
+"In that case, we had best consult Lord Hamel. We may yet be able to send you "
+"some aid against these orcish marauders."
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid "If you wish it. Let us see what you can offer."
+msgstr ""
 
 #. [scenario]: id=02_Reclaiming_the_Past
 msgid "Reclaiming the Past"
@@ -201,21 +243,21 @@ msgid "Hamel"
 msgstr "哈梅尔"
 
 #. [message]: speaker=Hamel
+#, fuzzy
 msgid ""
-"Aiglondur, what ye ha’ found is disturbing, for all it seems a small thing. "
-"I make known to ye Angarthing, loremaster in training, who recognized the "
-"mark on it."
+"Aiglondur, the news ye bring is disturbing, for all it seems a small thing. "
+"I make known to ye Angarthing, loremaster in training."
 msgstr ""
 "艾格隆达，你找到的东西虽小，却很让人不安。我要引见安伽辛给你，他是修行中的博"
 "学者，他能认出那上面的印记。"
 
 #. [message]: speaker=Angarthing
+#, fuzzy
 msgid ""
-"The mark on this cloak-pin is that of our kin at Kal Kartha in the eastern "
-"hills, from whom we’ve heard nothing since before Tallin broke the orcish "
-"occupation of Knalga. It troubles us that an orc should have come to possess "
-"it; no orc should know even that loremasters exist, let alone come near "
-"enough one to get this."
+"As you know, the mark on this cloak-pin is that of our ancient kin at Kal "
+"Kartha in the high mountains. That an orc should come to possess this is "
+"troubling, for no orc should know even that loremasters exist, let alone "
+"come near enough to one to get this."
 msgstr ""
 "这枚斗篷别针上的印记是我们在卡尔·卡萨的亲族的，卡尔·卡萨在东方丘陵里，在塔林"
 "推翻兽人对纳尔迦的占领之前的很久以来，我们都没有收到过来自他们的任何消息。这"
@@ -223,44 +265,50 @@ msgstr ""
 "一位博学者并拿到这个了。"
 
 #. [message]: speaker=Hamel
-msgid "I fear some grave ill may have become Kal Kartha."
+#, fuzzy
+msgid "Has some grave ill become of Kal Kartha?"
 msgstr "我担心卡尔·卡萨有可能已遭大难。"
 
-#. [message]: speaker=Angarthing
+#. [message]: speaker=Movrur
 msgid ""
-"And I fear for the Hammer of Thursagan. Our kin at Kal Kartha have been its "
-"keepers since a hero of their line recovered it from the Caverns of Flame, "
-"centuries ago."
+"Nay, it was merely... bad luck. We had just uncovered a magma bed for a new "
+"forge, one hot enough to reforge the ruined Hammer of Thursagan. We brought "
+"a loremaster to survey the site, but orcs ambushed us not long after he "
+"arrived."
 msgstr ""
-"而我担心瑟萨冈之锤。自从几个世纪前，我们在卡尔·卡萨的亲族中的一位英雄从烈焰洞"
-"窟中取回它以来，他们一直是它的保管者。"
 
 #. [message]: speaker=Aiglondur
 msgid "The Hammer of Thursagan?"
 msgstr "瑟萨冈之锤？"
 
 #. [message]: speaker=Angarthing
+#, fuzzy
 msgid ""
 "Aye. The very tool with which our greatest runesmith made the Sceptre of "
 "Fire. But it is ancient, far older than Thursagan; he was but the last to "
 "wield it, and our oldest histories hint that this very hammer was used to "
-"forge the dwarves themselves in the heart of the earth."
+"forge the dwarves themselves in the heart of the deepest forges beneath Kal "
+"Kartha."
 msgstr ""
 "是的。我们最伟大的符文工匠打造圣火权杖时，使用的正是这一工具。但它很古老，比"
 "瑟萨冈还老得多；而他只不过是最后一位使用者而已，我们最古老的历史记载暗示说，"
 "这正是用来在地心之中打造我们矮人的那把锤子。"
 
-#. [message]: speaker=Aiglondur
+#. [message]: speaker=Movrur
 msgid ""
-"But if the dwarves of Kal Kartha have held it all this time, why has none "
-"wielded it since Thursagan?"
+"We recovered the pieces from the Caverns of Flame long ago, but were unable "
+"to repair the artifact. The consequences of the Hammer’s ruination have thus "
+"been irreparable."
 msgstr ""
-"但如果说长久以来，卡尔·卡萨的矮人一直拥有它，那为什么在瑟萨冈之后再也没人使用"
-"它呢？"
+
+#. [message]: speaker=Aiglondur
+msgid "What consequences?"
+msgstr ""
 
 #. [message]: speaker=Hamel
+#, fuzzy
 msgid ""
-"Because when Thursagan burned to death with his hand on the Hammer, all the "
+"When Thursagan burned to death with his hand on the Hammer, all the "
 "runemasters and arcanisters then living — all those who had sworn to the "
 "craft and bound themselves to the power o’ the Hammer — dropped dead without "
 "a mark on them, all struck down at the same moment. Their craft secrets died "
@@ -342,9 +390,10 @@ msgstr ""
 "你的请求是什么。"
 
 #. [message]: speaker=Aiglondur
+#, fuzzy
 msgid ""
 "That is obvious; the Order of Loremasters wants to send an expedition to Kal "
-"Kartha to find what has become of our kindred and the Hammer."
+"Kartha to examine the possibility of restoring the order of Runemasters."
 msgstr ""
 "那很明显；博学者修会想派遣一个探险队去卡尔·卡萨，看看我们的同族和瑟萨冈之锤究"
 "竟变成了什么样。"
@@ -362,9 +411,24 @@ msgid "Your great-nephew, my lord."
 msgstr "您的侄孙，阁下。"
 
 #. [message]: speaker=Hamel
+#, fuzzy
 msgid ""
 "Ye’re young and not tested... but ye have the rank, and ye’ve shown the wits "
-"to use it well. I have decided. You and Angarthing will fare to Kal Kartha "
+"to use it well. Movrur? What think ye?"
+msgstr ""
+"你还年轻又没经过考验……但你有军衔，而且展现过指挥的智慧，和军衔相配。我意已"
+"决，你和安伽辛将同去卡尔·卡萨，尽快启程，从你的卫队里挑选精兵一同前往。"
+
+#. [message]: speaker=Movrur
+msgid ""
+"As the orcs recently slew one of our invaluable loremasters, we would "
+"welcome the wisdom of one of our kin from Knalga."
+msgstr ""
+
+#. [message]: speaker=Hamel
+#, fuzzy
+msgid ""
+"Then I have decided. Aiglondur, you and Angarthing will fare to Kal Kartha "
 "together, as soon as may be, with the best men of your guard."
 msgstr ""
 "你还年轻又没经过考验……但你有军衔，而且展现过指挥的智慧，和军衔相配。我意已"
@@ -391,11 +455,12 @@ msgstr "古怪盟友"
 #. [part]
 #. 'march' is *not* a typo for 'marsh' here. In archaic English, 'march' means 'border'.
 #. The same word, as '-mark', is in the name of 'the Estmarks': the hills of the eastern border.
+#, fuzzy
 msgid ""
-"Angarthing and Aiglondur and the dwarvish troop traveled swiftly to the east "
-"through the settled lands of the Northern Alliance. Soon enough they came to "
-"the wilder march country, where raids by large bands of hostile orcs and men "
-"were all too common."
+"Angarthing, Aiglondur, Movrur, and the dwarvish troop traveled swiftly to "
+"the east through the settled lands of the Northern Alliance. Soon enough "
+"they came to the wilder march country, where raids by large bands of hostile "
+"orcs and men were all too common."
 msgstr ""
 "安伽辛和艾格隆达及矮人部队快速行军穿过北方联盟的领地到了东面。很快他们到了更"
 "为荒蛮的边境郊区，在这里，遭遇大群的敌对兽人和人类的袭击是再平常不过了。"
@@ -404,16 +469,17 @@ msgstr ""
 msgid "Marth-Tak"
 msgstr "马斯-塔克"
 
-#. [side]: type=Outlaw, id=Gothras
-msgid "Bandits"
-msgstr "土匪"
+#. [side]: type=Orcish Slayer, id=Gorthas
+msgid "Invaders"
+msgstr "侵略者"
 
-#. [side]: type=Outlaw, id=Gothras
-msgid "Gothras"
-msgstr "戈斯拉斯"
+#. [side]: type=Orcish Slayer, id=Gorthas
+msgid "Gorthas"
+msgstr ""
 
 #. [objective]: condition=win
-msgid "Help Marth-Tak defeat Gothras"
+#, fuzzy
+msgid "Help Marth-Tak defeat Gorthas"
 msgstr "帮助马斯-塔克击败戈斯拉斯"
 
 #. [objective]: condition=lose
@@ -421,20 +487,48 @@ msgid "Death of Angarthing"
 msgstr "安伽辛死亡"
 
 #. [objective]: condition=lose
+#, fuzzy
+msgid "Death of Movrur"
+msgstr "艾格隆达死亡"
+
+#. [objective]: condition=lose
 msgid "Death of Marth-Tak"
 msgstr "马斯-塔克死亡"
+
+#. [message]: speaker=Aiglondur
+msgid "Movrur, I had meant to ask you this before, but why do you wear a mask?"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Kal Kartha is the stronghold of numerous, ancient forges. We are at home in "
+"deep firepits, as smiths and craftsmen. The mask is a sign of our mastery of "
+"the forge."
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid ""
+"And more practically, it shields the face from flying sparks and molten "
+"steel. Even the forgemasters of Knalga don the mask, though perhaps not as "
+"continuously as our friend Movrur does. But we have no time to discuss this "
+"further right now; I see trouble brewing down the road!"
+msgstr ""
 
 #. [message]: speaker=Marth-Tak
 msgid "In the name of the Alliance, quit these lands now!"
 msgstr "以联盟的名义，现在马上离开这片土地！"
 
-#. [message]: speaker=Gothras
+#. [message]: speaker=Gorthas
 msgid ""
-"We will fare where we will and take what we will, dog of an orc. To the Dark "
-"Gods with you and your precious ‘Alliance’."
+"Stinkin’ weakling! No true orc would fight for somethin’ as stupid as the "
+"Alliance."
 msgstr ""
-"我们想怎么走就怎么走，想占领哪儿就占领哪儿，兽人走狗。叫黑暗之神们惩罚你和你"
-"那珍贵的“联盟”吧。"
+
+#. [message]: speaker=Marth-Tak
+msgid ""
+"You underestimate our strength. We shall see who the true orc is after this "
+"battle is over!"
+msgstr ""
 
 #. [message]: speaker=Angarthing
 msgid ""
@@ -443,9 +537,10 @@ msgid ""
 msgstr "我还是不太习惯见到这般景象——一个兽人为北方联盟而战。"
 
 #. [message]: speaker=Aiglondur
+#, fuzzy
 msgid ""
 "I’m surprised myself that so many of the orcish tribes came over to the "
-"Alliance. Not so strange to see humans raiding us, worse luck."
+"Alliance."
 msgstr ""
 "我自己也很惊奇有这么多的兽人部落加入了联盟。见到人类袭击我们倒是没那么奇怪，"
 "运气差了点儿罢了。"
@@ -454,7 +549,7 @@ msgstr ""
 msgid "You, on the road! Are you of the Northern Alliance or not?"
 msgstr "你们，路过的！你们是不是北方联盟的？"
 
-#. [message]: speaker=Aiglondur
+#. [message]: speaker=Angarthing
 msgid "We are."
 msgstr "我们是。"
 
@@ -462,13 +557,10 @@ msgstr "我们是。"
 msgid "Well, then, honor the treaty as I have."
 msgstr "好，那就像我一样遵守盟约吧。"
 
-#. [message]: speaker=Angarthing
-msgid "That is our duty."
-msgstr "那是我们的义务。"
-
 #. [message]: speaker=Aiglondur
-msgid "For the Alliance! Axes up!"
-msgstr "为了联盟！举起斧头！"
+#, fuzzy
+msgid "That is our duty. For the Alliance!"
+msgstr "我们没尽到自己对联盟的义务。"
 
 #. [message]: speaker=Angarthing
 msgid "We have failed our duty to the Alliance."
@@ -476,16 +568,47 @@ msgstr "我们没尽到自己对联盟的义务。"
 
 #. [message]: speaker=Marth-Tak
 msgid ""
-"My thanks, dwarves. These bandits might have hacked a bloody swathe through "
-"the Alliance’s tribes if we had not killed them here."
+"My thanks, dwarves. There have been many attacks on the border tribes of "
+"late, and though we have repelled them thus far, the assaults have gotten "
+"only more fierce with each passing day."
 msgstr ""
-"感谢你们，矮人们。我们要是不在这里杀掉这帮土匪的话，他们就要在联盟的部落之中"
-"砍杀一片了。"
+
+#. [message]: speaker=Angarthing
+msgid ""
+"Indeed? What disturbs me is that these orcs bear arms and coins of dwarvish "
+"make. It intimates that this war-band was hired for this purpose."
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Nonsense. It may very well be that these orcs defeated a garrison of dwarves "
+"and raided their supplies. You need not draw such drastic conclusions from "
+"such an insignificant encounter."
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid ""
+"And what of the orcs that Aiglondur fended off at the East Gate of Knalga? "
+"Their leader’s cloak-pin bore the emblem of Kal Kartha—"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Several of our scouting bands were ambushed recently. These orcs must have "
+"been among those who slew our kinsmen. It is all the better we slaughtered "
+"them here!"
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid "Indeed..."
+msgstr ""
 
 #. [message]: speaker=Aiglondur
+#, fuzzy
 msgid ""
-"My thanks to you, for proving there are orcs I can fight alongside rather "
-"than against. But we cannot linger here to celebrate; we are journeying east."
+"What matters is that these raiders are defeated now. My thanks to you, Marth-"
+"Tak, for proving there are orcs I can fight alongside rather than against. "
+"But we cannot linger here to celebrate; we are journeying east."
 msgstr ""
 "我向你致谢，你证明了这世界上有能与我并肩作战，而不是互相砍杀的兽人。但我们不"
 "能留在这里庆祝了；我们要向东行进。"
@@ -494,147 +617,7 @@ msgstr ""
 msgid "East, eh? You won’t find many friends in that direction. Travel safely."
 msgstr "东边，嗯？你不会在那个方向上碰到太多朋友的。祝一路顺风。"
 
-#. [scenario]: id=04_Troll_Bridge
-msgid "Troll Bridge"
-msgstr "巨魔之桥"
-
-#. [part]
-msgid ""
-"Aiglondur and his troop, some still shaking their heads dubiously at the "
-"very notion of fighting alongside orcs rather than against them, continued "
-"east to the easternmost edge of the Northern Alliance’s lands."
-msgstr ""
-"艾格隆达和他的部队，继续向北方联盟领地的最东边境前进。有些人还在因为和兽人并"
-"肩作战而不是互相砍杀而疑惑地摇头。"
-
-#. [side]: type=Troll, id=Gronk
-msgid "Trolls"
-msgstr "巨魔"
-
-#. [side]: type=Troll, id=Gronk
-msgid "Gronk"
-msgstr "格隆克"
-
-#. [objective]: condition=win
-msgid "Defeat Gronk"
-msgstr "击败格隆克"
-
-#. [message]: speaker=Gronk
-msgid "Dis a troll bridge. You pay toll. Er..."
-msgstr "此桥巨魔造，付钱来过桥。呃……"
-
-#. [message]: speaker=Gronk
-msgid "Dat not right. Dis a toll bridge. You pay troll. Er..."
-msgstr "不对。此桥要付钱，付钱给巨魔。呃……"
-
-#. [message]: speaker=Gronk
-msgid ""
-"Dat not right either. Big words confuse Gronk. You pay now or we smash you."
-msgstr ""
-"啥都不对。大话把格隆克搞糊涂啦。马上把钱交出来，不然我们把你们打个稀巴烂。"
-
-#. [message]: speaker=Angarthing
-msgid ""
-"The stonework of yon bridge is not good enough to be dwarf-made, but it is "
-"nowhere near crude enough to be troll-work."
-msgstr ""
-"你那桥的石工要是矮人制造的，那不够精致，但要说是巨魔制造的，又远没有那么粗"
-"糙。"
-
-#. [message]: speaker=Aiglondur
-msgid ""
-"Then it will be of the Alliance’s making, right enough, like this road that "
-"leads to it. It won’t do to have wild trolls squatting on it. Axes up!"
-msgstr ""
-"那这应该是联盟制造的，绝对正确，就像这条通到桥上的路一样。决不允许野蛮的巨魔"
-"占着它。举起斧头！"
-
-#. [message]: speaker=second_unit
-msgid "Hey! That troll was sitting on some treasure!"
-msgstr "嘿！那个巨魔正坐在宝物上面！"
-
-#. [scenario]: id=05_Invaders
-msgid "Invaders"
-msgstr "侵略者"
-
-#. [part]
-msgid ""
-"The Alliance’s road ended at the troll bridge. East of it lay only the "
-"wildlands."
-msgstr "联盟的路在巨魔桥就到了尽头。再往东就只有荒地了。"
-
-#. [side]: type=Orcish Warlord, id=Tan-Malgar
-msgid "Tan-Malgar"
-msgstr "坦-马尔嘎"
-
-#. [side]: type=Orcish Warlord, id=Tan-Grolak
-msgid "Tan-Grolak"
-msgstr "坦-格罗拉克"
-
-#. [side]: type=Orcish Warlord, id=Tan-Uthkar
-msgid "Tan-Uthkar"
-msgstr "坦-乌斯卡"
-
-#. [side]
-msgid "Villagers"
-msgstr "村民"
-
-#. [label]
-msgid "Ruined Castle"
-msgstr "荒废的城堡"
-
-#. [objective]: condition=win
-msgid "Defeat the orcish leaders"
-msgstr "击败兽人首领们"
-
-#. [message]: speaker=Aiglondur
-msgid ""
-"Stay alert, everyone, and keep together. This is bandit country — more than "
-"likely where Gothras and his gang came from."
-msgstr ""
-"大家保持警惕，尽量靠拢。这里是土匪的领地——戈斯拉斯和他的团伙很可能就来自这"
-"里。"
-
-#. [message]: role=scout
-#. 'muckle' = Scottish/archaic English meaning 'great' or 'large'
-msgid ""
-"Nae sign o’ bandits I can see, captain — but there are three muckle hosts of "
-"orcs off to our east."
-msgstr "我看不到土匪的影子，队长­——但我们的东面远处有三大群兽人。"
-
-#. [message]: speaker=Aiglondur
-msgid ""
-"What’s this? Large orcish war-bands so close to the Alliance’s border? That "
-"can only mean trouble."
-msgstr "这是？大规模的兽人战团这么靠近联盟边境？这只能意味着麻烦。"
-
-#. [message]: speaker=Tan-Malgar
-msgid ""
-"Well, boys, we were planning to invade the Northern Alliance anyway... These "
-"dwarves should make a tasty appetizer."
-msgstr "好，小子们，我们本就打算入侵北方联盟……这帮矮人算得上是可口的开胃菜啦。"
-
-#. [message]: speaker=Tan-Grolak
-msgid "Yeah, boss. Anything to get away from those masked ones..."
-msgstr "是啊，老大。只要能逃开那些蒙面的家伙，怎么样都好……"
-
-#. [message]: speaker=Tan-Malgar
-msgid "Be silent. We are orc warriors; we do not flee foes."
-msgstr "闭嘴。我们是兽人武士；我们从不临阵脱逃。"
-
-#. [message]: speaker=Tan-Uthkar
-msgid "But, given a choice, we fight the weaker foe first."
-msgstr "不过，只要有机会，我们就先对付弱小的敌人。"
-
-#. [message]: speaker=unit
-msgid "The villagers are attacking us!"
-msgstr "村民在攻击我们！"
-
-#. [message]: speaker=Aiglondur
-msgid "Aye, it’s still bandit country, right enough."
-msgstr "嗯，这里仍然是土匪的领地，绝对正确。"
-
-#. [scenario]: id=06_High_Pass
+#. [scenario]: id=04_High_Pass
 msgid "High Pass"
 msgstr "高原山口"
 
@@ -651,10 +634,6 @@ msgstr "卡拉"
 msgid "Move Aiglondur to the signpost at the east end of the pass"
 msgstr "移动艾格隆达至山道东端路标处"
 
-#. [objective]: condition=lose
-msgid "Death of Ratheln"
-msgstr "拉什伦死亡"
-
 #. [message]: speaker=Angarthing
 msgid ""
 "Behold, the High Pass. By the old maps, we are halfway to Kal Kartha here."
@@ -667,69 +646,6 @@ msgid ""
 msgstr ""
 "我们必须快速通过；特大风暴正追赶我们而来。在那么高的地方被暴风雪困住可不是闹"
 "着玩的。"
-
-#. [message]: role=keen nose
-msgid ""
-"There’s a scent of scorched gryphon meat in the air, emanating from that hut "
-"yonder. We should investigate."
-msgstr ""
-"空气里有烧焦的狮鹫肉的味道，是从那边的小屋里飘出来的。我们得去调查一下。"
-
-#. [message]: speaker=Ratheln
-msgid ""
-"Hail, I am Ratheln. If you’re traveling down the pass, please take me with "
-"you. I am near freezing and starving to death up here."
-msgstr ""
-"你们好，我是拉什伦。你们要是下山的话，请把我捎上。我几乎要冻死饿死在这里了。"
-
-#. [message]: speaker=Angarthing
-msgid "Pardon my curiosity, but what is a fire-mage doing freezing to death?"
-msgstr "请原谅我的好奇心，但一位火焰法师怎么会冻死呢？"
-
-#. [message]: speaker=Ratheln
-msgid ""
-"In case you haven’t noticed, there is a serious shortage of both firewood "
-"and food in this gods-forsaken slot. And the damned gryphons descend on me "
-"whenever I stir out of this shack. I’ve had nothing to eat but flash-roasted "
-"gryphon for the last three weeks."
-msgstr ""
-"要是你还没有注意到的话，这个神仙都不管的山沟里严重缺乏柴火和食物。只要我走出"
-"这个窝棚，该死的狮鹫就一定会降临在我面前。这三周里我除了用魔法闪光烧烤的狮鹫"
-"外什么都没吃。"
-
-#. [message]: speaker=Aiglondur
-msgid "Where were you bound when you got stuck here?"
-msgstr "你被困在这里时是要往哪里去？"
-
-#. [message]: speaker=Ratheln
-msgid ""
-"There is a school of mages near the east end of the pass. They’ve an opening "
-"for an instructor, and they’re expecting me."
-msgstr "在这山道东面尽头附近有个法师学校。他们空缺了位讲师，他们在等我去。"
-
-#. [message]: speaker=Angarthing
-msgid ""
-"Let’s take him with us, Aiglondur. We know little about the country beyond "
-"to the east; we’ve had few reports on it since before the orcs took Knalga. "
-"Those mages should know at least rumors."
-msgstr ""
-"我们带上他，艾格隆达。对再往东的地方，我们知之甚少；在兽人占领纳尔迦之前，我"
-"们就很少收到有关那边的报告了。那些法师至少会知道一些传言。"
-
-#. [message]: speaker=Aiglondur
-msgid ""
-"Aye. And I’d not leave anyone who had done my kin no harm stranded to starve."
-msgstr "好。任何没伤害过我亲族的人，我都不会让他无助地饿死的。"
-
-#. [message]: speaker=Ratheln
-msgid "This is no fit death for a mage of fire!"
-msgstr "这可不是一个火焰法师的死法！"
-
-#. [message]: speaker=Angarthing
-msgid ""
-"The snow has redoubled its fury, as if his presence had been holding it "
-"back. I do not see a way forward for us."
-msgstr "大雪更加猛烈了，就像他的存在抑制了雪势一般。我看不见我们前进的道路。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -746,170 +662,41 @@ msgid "We’re through the pass!"
 msgstr "我们通过山道了！"
 
 #. [message]: speaker=Angarthing
+#, fuzzy
 msgid ""
-"That may not be a blessing. Something frightened those orcs we fought among "
-"the bandit villages, enough to make them push west into Alliance territory. "
-"Don’t you wonder what it was?"
+"That may not be a blessing. Something has been driving these orcish raiders "
+"to push into Alliance territory. Don’t you wonder what it is?"
 msgstr ""
 "那也不一定值得高兴。那些和我们在土匪村落作战的兽人，有什么东西把他们吓得魂飞"
 "魄散，以至于他们都往西侵入到联盟领土里了。你不好奇那究竟是什么东西吗？"
 
-#. [message]: speaker=Aiglondur
+#. [message]: speaker=Movrur
 msgid ""
-"Aye. But I’ve a grim feeling we might be going to discover that in person."
-msgstr "是的。但我有一种糟糕的预感，我们也许会亲自揭开谜底的。"
-
-#. [scenario]: id=07_Mages_and_Drakes
-msgid "Mages and Drakes"
-msgstr "法师与龙人"
-
-#. [side]: type=Great Mage, id=Master Perrin
-msgid "Master Perrin"
-msgstr "佩林大师"
-
-#. [unit]: type=White Mage, id=Preceptor
-msgid "Preceptor"
-msgstr "导师"
-
-#. [unit]: type=Red Mage, id=Warder
-msgid "Warder"
-msgstr "看守"
-
-#. [side]: type=Drake Flameheart, id=Glashal
-msgid "Drakes"
-msgstr "龙人"
-
-#. [side]: type=Drake Flameheart, id=Glashal
-msgid "Glashal"
-msgstr "格拉沙尔"
-
-#. [objective]: condition=win
-msgid "Defeat Glashal"
-msgstr "击败格拉沙尔"
-
-#. [message]: speaker=Preceptor
-msgid ""
-"Master Perrin! A mage comes down from the High Pass, with a company of "
-"dwarves. They are well-armed, but not in battle array."
+"The same that has been driving them to attack us at Kal Kartha. But, no "
+"matter the reason for their aggression, we shall slaughter them all the same."
 msgstr ""
-"佩林大师！一位法师从高原山口下来了，他和一群矮人在一起。他们都全副武装，但并"
-"没有列出战斗阵型。"
-
-#. [message]: speaker=Master Perrin
-msgid ""
-"That will be Ratheln, I expect. Hail! You on the road! Who comes bearing "
-"arms into our valley?"
-msgstr "我感觉那是拉什伦。嘿！路上的人！是谁武装前来我们的山谷啊？"
-
-#. [message]: speaker=Glashal
-msgid ""
-"‘Our’ valley, says Master Perrin. The arrogance of these mages is "
-"intolerable!"
-msgstr "‘我们’的山谷，佩林大师这么说。 这帮法师的傲慢真让人无法忍受！"
-
-#. [message]: speaker=Aiglondur
-msgid ""
-"A delegation of the Northern Alliance, traveling east. I believe we’ve found "
-"a friend of yours in the High Pass."
-msgstr "北方联盟的代表团，正前往东方。我想我们在高原山口找到了你们的一位朋友。"
-
-#. [message]: speaker=Master Perrin
-msgid ""
-"Well met, then. But if you intend to travel east of here, beware of the nest "
-"of drakes in the cliffs near the valley’s end. They were here before us, and "
-"have become more hostile to travelers of late."
-msgstr ""
-"那很高兴见到你们。但如果你们想通过这里往东去，那就要小心山谷尽头悬崖上那一巢"
-"龙人。他们比我们先来到这里，而且最近变得更加敌视旅行者了。"
-
-#. [message]: speaker=Glashal
-msgid "The axe-bearers must not be let near our nestlings. Attack!"
-msgstr "不能让这帮拿斧头的接近我们的幼龙。进攻！"
-
-#. [message]: speaker=Master Perrin
-msgid ""
-"We’re grateful for your assistance. Moreover, I’d like to send a couple of "
-"our senior apprentices with you to the east. It has come time for them to be "
-"journeymen... and I sense something being born to the east that I do not "
-"like the feel of."
-msgstr ""
-"我们感激你们的援助。此外，我会派我们的几名高年级学徒跟你们一起往东去。他们的"
-"学徒期满之时已到……而且，我感到东方正有什么我不喜的东西要诞生了。"
-
-#. [message]: speaker=Master Perrin
-msgid ""
-"We’re grateful for your assistance. Moreover, I’d like to send one of our "
-"senior apprentices with you to the east. It has come time for him to be a "
-"journeyman... and I sense something being born to the east that I do not "
-"like the feel of."
-msgstr ""
-"我们感激你们的援助。此外，我会派我们的一名高年级学徒跟你们一起往东去。他的学"
-"徒期满之时已到……而且，我感到东方正有什么我不喜的东西要诞生了。"
-
-#. [unit]: type=Mage, id=Lorinne
-msgid "Lorinne"
-msgstr "洛林内"
-
-#. [unit]: type=Mage, id=Darchas
-msgid "Darchas"
-msgstr "达查斯"
-
-#. [message]: speaker=narrator
-msgid ""
-"The presence of Lorinne and Darchas gives you the ability to recruit mages."
-msgstr "洛林内和达查斯加入了，因此你获得了征募法师的能力。"
-
-#. [message]: speaker=narrator
-msgid "The presence of Darchas gives you the ability to recruit mages."
-msgstr "达查斯加入了，因此你获得了征募法师的能力。"
-
-#. [message]: speaker=Aiglondur
-msgid "What sort of thing?"
-msgstr "到底是什么东西？"
-
-#. [message]: speaker=Master Perrin
-msgid ""
-"There is some great magic brewing. Something... evil. I feel its traces in "
-"the currents of the earth and air."
-msgstr ""
-"那里酝酿着巨大的魔法力量。 某些……邪恶的东西。 我感觉到附近土地和空气的脉流之"
-"中有它的痕迹。"
-
-#. [message]: speaker=Ratheln
-msgid ""
-"I would travel east with you if I could, but I have duties I must take up "
-"here."
-msgstr "如果可以的话，我也想跟你们一起前往东方，但在这里有我必须担起的职责。"
-
-#. [message]: speaker=Aiglondur
-msgid "You have your duty, as we have ours. Fare well."
-msgstr "你有你的职责，我们有我们的使命。祝好运。"
-
-#. [message]: speaker=Ratheln
-msgid ""
-"Perrin, I owe these dwarves a debt; I think it is my duty to aid them in "
-"their journey. I’ll return with your apprentices as soon as I may."
-msgstr ""
-"佩林，我欠这些矮人一个人情；我想我有义务在他们的旅程中给予帮助。我会尽快和你"
-"的学徒们一起回来的。"
-
-#. [message]: speaker=Master Perrin
-msgid "As you will. Go safely and return swiftly."
-msgstr "如你所愿。快去快回，注意安全。"
-
-#. [message]: speaker=Ratheln
-msgid ""
-"I would travel east with you if I could, but the school will need me all the "
-"more with Master Perrin gone."
-msgstr ""
-"如果可以的话，我也想跟你们一起前往东方，但佩林大师去世后，学校更加需要我了。"
 
 #. [message]: speaker=Angarthing
 msgid ""
-"I think we will regret Perrin’s passing. There is much he might have told us."
-msgstr "我想我们会为佩林的逝世而感到遗憾。他本来可以告诉我们更多事情的。"
+"We are coming to Kal Kartha to study the Hammer of Thursagan, not mindlessly "
+"slay orcs."
+msgstr ""
 
-#. [scenario]: id=08_Fear
+#. [message]: speaker=Movrur
+msgid ""
+"Indeed, you are, but you musn’t lose sight of the end goal. Restoring the "
+"Hammer will revive the ancient art of runecraft and bring dwarven-kind back "
+"to glory. With the Hammer restored, no orc shall ever be a threat to us ever "
+"again."
+msgstr ""
+
+#. [message]: speaker=Aiglondur
+msgid ""
+"I hope so, for the sake of peace and the safety of our people. For now, "
+"however, we must content ourselves with pressing onward toward Kal Kartha."
+msgstr ""
+
+#. [scenario]: id=05_Fear
 msgid "Fear"
 msgstr "恐惧"
 
@@ -917,25 +704,17 @@ msgstr "恐惧"
 #. [side]: type=Dwarvish Masked Lord, id=Dufon
 #. [side]: type=Dwarvish Masked Lord, id=Aragoth
 #. [side]: type=Dwarvish Masked Lord, id=Dranath
-#. [side]: type=Dwarvish Masked Steelclad, id=Masked Dwarf Leader
 msgid "Masked Dwarves"
 msgstr "面具矮人"
 
-#. [unit]: type=Dwarvish Masked Steelclad, id=Gog
-#. [unit]: type=Dwarvish Masked Steelclad, id=Magog
-#. [unit]: type=Dwarvish Ulfserker, id=Hekyll
-#. [unit]: type=Dwarvish Ulfserker, id=Jekyll
-#. [unit]: type={TYPE}
-#. [side]: type=Dwarvish Masked Lord, id=Dufon
-#. [side]: type=Dwarvish Masked Lord, id=Aragoth
-#. [side]: type=Dwarvish Masked Lord, id=Dranath
-#. [unit]: type=Dwarvish Masked Steelclad
-#. [side]: type=Dwarvish Masked Steelclad, id=Masked Dwarf Leader
-#. [event]
-#. This is shown in the sidebar, it should be short.
-#. You could call them only Masked, to keep the term short.
-msgid "Masked Dwarf"
-msgstr "面具矮人"
+#. [side]
+msgid "Peasants"
+msgstr ""
+
+#. [side]
+#, fuzzy
+msgid "Raiders"
+msgstr "侵略者"
 
 #. [objective]: condition=win
 msgid "Find the inhabitants"
@@ -951,10 +730,9 @@ msgstr "我们应该是在卡尔·卡萨周围有人居住的郊区了，但这�
 msgid "It’s too quiet... and I think I smell traces of smoke on the wind."
 msgstr "太安静了……我想我闻到风中有烟味。"
 
-#. [message]: speaker=Ratheln
-msgid ""
-"I do not sense hostile magic in the vicinity. But there has been fire near "
-"here recently, and not a clean one."
+#. [message]: speaker=Angarthing
+#, fuzzy
+msgid "There has been fire near here recently, and not a clean one."
 msgstr ""
 "我没感觉到附近有敌对的魔法痕迹。 但这里附近才起过火，而且还不是干净的火。"
 
@@ -963,130 +741,213 @@ msgid ""
 "Look sharp for the inhabitants here. They might have something to tell us."
 msgstr "仔细寻找这里的居民。他们可能会告诉我们点什么。"
 
-#. [unit]: type=Peasant, id=Ollin
-msgid "Ollin"
-msgstr "奥林"
-
-#. [message]: speaker=Ollin
-msgid "Don’t kill me, masters! Please don’t kill me!"
-msgstr "别杀我，主人们！求你们别杀我！"
-
-#. [message]: speaker=Aiglondur
-msgid "You’re in no danger from us. What lies to the east of here?"
-msgstr "我们不会伤害你。这儿东边有什么吗？"
-
-#. [message]: speaker=Ollin
-msgid "You wear no mask. You... you’re not with them?"
-msgstr "你们没戴面具。你们……你们不是和他们一伙的？"
-
-#. [message]: speaker=Aiglondur
-msgid "What are you talking about?"
-msgstr "你在说些什么？"
-
-#. [message]: speaker=Ollin
-msgid "The masked dwarves. Killing, burning, kidnapping. Look..."
-msgstr "是面具矮人。杀戮，焚烧，绑架。看……"
-
-#. [message]: speaker=Masked Dwarf Leader
-msgid ""
-"Fellow dwarves, hail! We’re looking for a human refugee, one named Ollin. "
-"Have you seen him? Our master demands his life."
+#. [message]: role=peasantry
+msgid "Help! Someone please help!"
 msgstr ""
-"矮人兄弟，你们好！我们在找一位人类难民，叫奥林。你们看到他了吗？我们主人要他"
-"的命。"
+
+#. [message]: role=peasantry
+msgid "Help!"
+msgstr ""
+
+#. [message]: role=slaver
+msgid ""
+"<i>Quiet, dirtgrubber. Ye’ll not cry for help from these newcomers, else "
+"I’ll torture yer family ta death bef’re yer eyes.</i>"
+msgstr ""
+
+#. [message]: role=peasantry
+msgid "They’ll stop you!"
+msgstr ""
+
+#. [message]: role=slaver
+msgid "<i>Look again, slave. We march among their ranks too!</i>"
+msgstr ""
+
+#. [message]: role=peasantry
+msgid "<i>It can’t be...</i>"
+msgstr ""
+
+#. [message]: speaker=slaver
+msgid "<i>Now, be silent while the master speaks.</i>"
+msgstr ""
 
 #. [message]: speaker=Aiglondur
-msgid "He is here. How has he wronged your master, that you seek his death?"
-msgstr "他在这里。他对你们的主人犯了什么错，让你们要他死？"
+msgid "What in the world is going on here?"
+msgstr ""
 
 #. [message]: speaker=Masked Dwarf Leader
 msgid ""
-"Does it matter? He is only a dirtgrubbing human, not fit to polish the boots "
-"of the true people."
-msgstr "这重要吗？他不过是个在土里刨食的人类，给真正的人擦鞋都不配。"
+"Fellow dwarves, hail! Kinsman Movrur, are ye back so soon from your journey "
+"to Knalga?"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Aye. I’ve brought some of our brethren from the Dwarven Doors; we make for "
+"the forges of Kal Kartha to examine the Hammer."
+msgstr ""
+
+#. [message]: speaker=Masked Dwarf Leader
+msgid "Excellent. As for the current project, we—"
+msgstr ""
+
+#. [message]: speaker=Aiglondur
+msgid ""
+"You two haven’t answered my question. Burnt homes? The peasants in a panic? "
+"Something is very wrong here."
+msgstr ""
+
+#. [message]: speaker=Masked Dwarf Leader
+msgid ""
+"... aye. We’ve been under attack by some marauding orcs, who’re hidin’ out "
+"in some of the villages. I put some guards out in the fields to... protect "
+"the peasants, but we haven’t the forces to root out all of them orcs."
+msgstr ""
+
+#. [message]: role=peasantry
+msgid "<i>That’s not what the guards are for...</i>"
+msgstr ""
+
+#. [message]: role=slaver
+msgid "<i>Did I not tell you to be silent?</i>"
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid "Orcs, you say?"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Yes, orcs. The outskirts of Kal Kartha are a dangerous place. We’ve been "
+"forced to dedicate more of our forces here just to protect the peasants "
+"while they... go about their business."
+msgstr ""
 
 #. [message]: speaker=Angarthing
 msgid ""
-"What is your name, masked one? Will you stand behind your deed? I am a "
-"witness."
-msgstr "你的名字是什么，戴面具的？你为自己所做之事负责吗？我是见证者。"
+"Well, then. Since we are already here, why don’t we... help you root out "
+"these orcs? It will help the peasants get back to their lives."
+msgstr ""
 
 #. [message]: speaker=Masked Dwarf Leader
-msgid ""
-"A witness? My name is... my name is not important. My deed will speak its "
-"own truth."
-msgstr "见证者？我的名字是……我的名字并不重要。我的行为自会说明它自身的正确性。"
-
-#. [message]: speaker=Angarthing
-msgid ""
-"You speak without honor. Mine is the power of our ancient Law; speak your "
-"name and give up your murder, or the Law will cast you forth. I am a witness!"
+msgid "Certainly..."
 msgstr ""
-"你的话语没有荣誉可言。我的权力来自我们古老的法典；讲出你的名字并停止你的谋"
-"杀，不然法典将放逐你。我是见证者！"
-
-#. [message]: speaker=Masked Dwarf Leader
-msgid ""
-"If you were a witness of the true people, you would not let a dirtgrubber "
-"hide behind your robes. I deny you!"
-msgstr ""
-"如果你是真正的人之中的见证者，你就不会让这个吃土的人躲在你的长袍后面了。我拒"
-"绝！"
-
-#. [message]: speaker=Angarthing
-msgid "The Law speaks: you are cast out. You are un-dwarf. I AM A WITNESS!"
-msgstr "如法典所言：汝已被逐。不再为矮人。<b>吾乃见证者！</b>"
 
 #. [message]: speaker=Aiglondur
-msgid "Up axes!"
-msgstr "举起斧头！"
+msgid "<i>Angarthing, is something wrong?</i>"
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid ""
+"<i>Something is suspicious here. Stay alert and keep an eye on what those "
+"masked dwarves do. Movrur, too.</i>"
+msgstr ""
 
 #. [objective]: condition=win
-msgid "Defeat the Masked Dwarf"
-msgstr "击败面具矮人"
-
-#. [message]: speaker=Ollin
-msgid "Take that for my family’s memory, you murderer!"
-msgstr "这一下是为了我的家人，接招，你这个凶手！"
+#, fuzzy
+msgid "Find and defeat the orcish intruders"
+msgstr "击败兽人首领们"
 
 #. [message]: speaker=Aiglondur
-msgid "They are defeated!"
+msgid "The orcs are here! Up axes!"
+msgstr ""
+
+#. [unit]: type=Orcish Slayer, type=Orcish Nightblade, id=Maluk
+msgid "Maluk"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"So, the filth shows its face at last. You may think yourself mighty for "
+"preying on weak humans, but you stand no chance against us dwarves."
+msgstr ""
+
+#. [message]: speaker=Maluk
+msgid "We shall see, masked one."
+msgstr ""
+
+#. [message]: speaker=Maluk
+#, fuzzy
+msgid "They are too powerful! Retreat!"
 msgstr "他们被击败了！"
 
+#. [message]: speaker=Aiglondur
+msgid "Their leader has fled! We have won!"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid "In his haste to escape, it seems like the orc dropped some coins."
+msgstr ""
+
 #. [message]: speaker=Angarthing
-msgid "You have acted in honor. I am a witness."
-msgstr "你为荣誉而战。我是见证者。"
+msgid "Let me see those."
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid ""
+"These look as if they are of dwarven make! Movrur, what is the meaning of "
+"this?"
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid ""
+"In his haste to escape, it seems like the orc dropped some coins. It looks "
+"as if they are of dwarven make! Movrur, what is the meaning of this?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid ""
+"In his haste to escape, it seems like the orc dropped some coins. It looks "
+"as if they are of dwarven make!"
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid "What, are you sure? Movrur, what is the meaning of this?"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"Thieves and raiders, that be what these orcs are. They oft steal our gold "
+"and weapons in their raids, for such beasts have little ability to create "
+"either on their own."
+msgstr ""
+
+#. [message]: speaker=Angarthing
+msgid "So you say."
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"We of Kal Kartha have no reason to give these foul orcs any of our hard-"
+"earned gold, if that is what you are insinuating, <i>loremaster</i>."
+msgstr ""
 
 #. [message]: speaker=Aiglondur
 msgid ""
-"I have never seen the formal banishment before. One reads of it in the old "
-"tales, of course, but to hear it with one’s own ears? It was... unsettling."
+"Indeed. Although I find it odd that the orcs would have found such a sum of "
+"dwarven currency from raiding human villages..."
 msgstr ""
-"我以前从没见过正式的放逐。当然了，人们会在古老的故事里读到它。可是亲耳听到这"
-"个？那真令人……不安。"
+
+#. [message]: speaker=Movrur
+msgid ""
+"If it pleases you, I will distribute this gold to these... poor... humans. "
+"That way, they can return to their fields with their money returned to them, "
+"and we can be on our way to Kal Kartha."
+msgstr ""
 
 #. [message]: speaker=Angarthing
 msgid ""
-"It is not something we do often. The last such was in my grandsire’s time. "
-"But look at what these filth were carrying if you have any doubt it was "
-"merited."
+"<i>That did not really answer your concern.</i> Very well, that sounds "
+"reasonable to me."
 msgstr ""
-"那可不是我们经常做的。最后一次放逐还是在我祖父的时代发生的。但如果你怀疑他们"
-"否是罪有应得，那就看看这些肮脏之徒身上都有些什么。"
 
 #. [message]: speaker=Aiglondur
 msgid ""
-"Whips. Shackles. No, Angarthing, I would not doubt you, even if it were my "
-"place to doubt a loremaster."
-msgstr "鞭子。手铐。不，安伽辛，就算我应该怀疑一位博学者，我也不会怀疑你。"
+"<i>Aye, we shall have to watch him more closely. Something is strange about "
+"him and the rest of these masked ones.</i> Lead the way, Movrur."
+msgstr ""
 
-#. [message]: speaker=Angarthing
-msgid ""
-"They were seeking captives. To what purpose, I cannot say, but I doubt it "
-"was any good one."
-msgstr "他们在找俘虏。我不知道是为了什么目的。但我不觉得那会是什么好事。"
-
-#. [scenario]: id=09_Forbidden_Forest
+#. [scenario]: id=06_Forbidden_Forest
 msgid "Forbidden Forest"
 msgstr "禁绝森林"
 
@@ -1113,8 +974,9 @@ msgid "Move both Aiglondur and Angarthing to the eastern signpost"
 msgstr "移动艾格隆达和安伽辛至东方路标处"
 
 #. [note]
+#, fuzzy
 msgid ""
-"To win, either move Aiglondor to the signpost and Angarthing next to him, or "
+"To win, either move Aiglondur to the signpost and Angarthing next to him, or "
 "move Angarthing to the signpost and Aiglondur next to him."
 msgstr "为赢得胜利，移动艾格隆达至路标处，并移动安伽辛至艾格隆达身旁，或反之。"
 
@@ -1169,10 +1031,11 @@ msgid ""
 msgstr "振作起来，弟兄们。我们有比和精灵打架更好的事要做。"
 
 #. [message]: speaker=Angarthing
-msgid "Kal Kartha should be only another day’s march east of here."
+#, fuzzy
+msgid "Kal Kartha should be only another day’s march north of here."
 msgstr "从这儿往东走，卡尔·卡萨应该只有一天的行军路程了。"
 
-#. [scenario]: id=10_The_Siege_of_Kal_Kartha
+#. [scenario]: id=07_The_Siege_of_Kal_Kartha
 msgid "The Siege of Kal Kartha"
 msgstr "卡尔·卡萨围城"
 
@@ -1192,11 +1055,15 @@ msgstr "坦-瓦格朗"
 msgid "West Gate"
 msgstr "西之门"
 
+#. [objective]: condition=win
+msgid "Defeat the orcish leaders"
+msgstr "击败兽人首领们"
+
 #. [objective]: condition=lose
 msgid "Death of Dulcatulos"
 msgstr "杜尔卡图洛斯死亡"
 
-#. [message]: speaker=Angarthing
+#. [message]: speaker=Movrur
 msgid "Behold! The West Gate of Kal Kartha!"
 msgstr "看啊！卡尔·卡萨的西之门！"
 
@@ -1233,6 +1100,18 @@ msgstr ""
 "干得漂亮，非常感谢；我们被压制得太惨了。你们是我们光荣的客人，我会带你们去住"
 "我们最好的房间。我们的领主，符文大师卡拉格，希望明天能和你们交谈。"
 
+#. [message]: speaker=Movrur
+msgid "<i>Dulcatulos, you dunce...</i>"
+msgstr ""
+
+#. [message]: speaker=Dulcatulos
+msgid "<i>Did I say something I should have not?</i>"
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid "<i>Never mind. I shall deal with you later.</i>"
+msgstr ""
+
 #. [message]: speaker=Angarthing
 msgid ""
 "A runemaster? There have been none such since Thursagan’s day. And for one "
@@ -1242,47 +1121,67 @@ msgstr ""
 "就更没有听说过了；他们倾向于过独居生活。"
 
 #. [message]: speaker=Dulcatulos
+#, fuzzy
 msgid ""
-"Aye? Well, you’d know such things better than I, loremaster. Our Karrag "
+"Aye? Well, you’d know such things better than I, loremaster. Lord Karrag "
 "toiled for long years to recover the craft lore. He was elevated when our "
 "old lord fell in battle against the besieging orcs. Karrag himself was "
-"wounded near to death; none thought he would recover. But he leads us today, "
-"and his runelore has oft been the only shield between us and the orcs."
+"wounded near to death; none thought he would recover."
 msgstr ""
 "哦？好吧，你对这种事的了解比我多，博学者。我们的卡拉格花了很多年费尽苦心找回"
 "了这一技艺的知识。我们的老领主在战场上被兽人围攻倒下时，他被提拔了。卡拉格自"
 "己也受了重伤几乎死去；没有人想到他恢复了。不过现在由他领导我们，他对符文知识"
 "的了解常常是我们和兽人之间唯一的坚盾。"
 
+#. [message]: speaker=Movrur
+msgid ""
+"But he revived himself and stands with us now. That is all that matters."
+msgstr ""
+
 #. [message]: speaker=Angarthing
-msgid "He has grasped the Hammer of Thursagan, then?"
+#, fuzzy
+msgid ""
+"He has grasped the Hammer of Thursagan, then? Else I know not how he "
+"recovered the runelore of old."
 msgstr "那么说来，他掌握着瑟萨冈之锤？"
 
-#. [message]: speaker=Dulcatulos
+#. [message]: speaker=Movrur
 msgid ""
-"Aye. Toils over it in a workshop in the underlevels with his personal "
-"followers. He has promised all of us that the Hammer’s power will smash and "
-"scatter all our enemies."
+"Aye. Shattered though the Hammer may be, it still retains some of its old "
+"power. With your knowledge and help, loremaster, we can reforge the hammer "
+"and use its power to smash all enemies that oppose us."
 msgstr ""
-"是的。他和他的个人追随者们在下层为那个锤子忙活了很久。他向我们大家保证锤子的"
-"力量会粉碎并驱散我们所有的敌人。"
 
 #. [message]: speaker=Angarthing
-msgid ""
-"That is strange. The Hammer is a tool of crafting and making, not a weapon. "
-"What can he mean to do with it?"
+#, fuzzy
+msgid "The Hammer is a tool of crafting and making, not a weapon."
 msgstr "那就奇怪了。那把锤子是用来制造和加工的，不是武器。他要用它做什么呢？"
 
 #. [message]: speaker=Dulcatulos
 msgid ""
-"That’s for lords and loremasters to worry about, not the likes of me. I must "
-"see to my troop’s care. Food will be brought to you; rest well. We will "
-"speak again."
+"Is it not? Lord Karrag has wielded it in battle to great effect, even broken "
+"as it is."
+msgstr ""
+
+#. [message]: speaker=Movrur
+msgid ""
+"<i>Stop speaking, you imbecile.</i> That would be the power of runecraft you "
+"witness. No fool would take a broken weapon into battle, much less a "
+"precious artifact like the Hammer. Karrag holds it as a symbol of his "
+"knowledge and mastery of lore, no more than that."
+msgstr ""
+
+#. [message]: speaker=Dulcatulos
+#, fuzzy
+msgid ""
+"As you say. These things are for lords and loremasters to worry about, not "
+"the likes of me. I must see to my troop’s care. Food will be brought to you; "
+"rest well. We will speak again."
 msgstr ""
 "那是领主们和博学者们该操心的事，我这种人就免了。我要去照看我的部队了。食物会"
 "给你们送过去的；好好休息。我们以后再谈。"
 
-#. [scenario]: id=11_The_Court_of_Karrag
+#. [scenario]: id=08_The_Court_of_Karrag
 msgid "The Court of Karrag"
 msgstr "卡拉格的宫廷"
 
@@ -1290,18 +1189,34 @@ msgstr "卡拉格的宫廷"
 msgid "Kal Karthans"
 msgstr "卡尔·卡萨族人"
 
+#. [unit]: type=Dwarvish Masked Steelclad, id=Magog
+#. [unit]: type=Dwarvish Masked Ulfserker, id=Hekyll
+#. [unit]: type=Dwarvish Masked Ulfserker, id=Jekyll
+#. [unit]: type={TYPE}
+#. [side]: type=Dwarvish Masked Lord, id=Dufon
+#. [side]: type=Dwarvish Masked Lord, id=Aragoth
+#. [side]: type=Dwarvish Masked Lord, id=Dranath
+#. [event]
+msgid "Masked Dwarf"
+msgstr "面具矮人"
+
 #. [objective]: condition=win
 msgid "Defeat Karrag"
 msgstr "击败卡拉格"
 
-#. [message]: speaker=Aiglondur
+#. [message]: speaker=Movrur
 msgid ""
-"Psst, Angarthing... Karrag and those dwarves on the dais, they’re all "
-"<i>masked</i>."
-msgstr "嘘，安伽辛……卡拉格和那些台上的矮人，他们都戴着<b>面具</b>。"
+"I shall go take my place by Lord Karrag. See to it that you offer him the "
+"respect that he is due."
+msgstr ""
+
+#. [message]: speaker=Aiglondur
+msgid "Angarthing... I have a bad feeling about this."
+msgstr ""
 
 #. [message]: speaker=Angarthing
-msgid "I see it. There is something very wrong here."
+#, fuzzy
+msgid "Indeed. There is something very wrong here."
 msgstr "我看到了。这里非常不正常。"
 
 #. [message]: speaker=Karrag
@@ -1316,37 +1231,42 @@ msgstr ""
 "我们来自纳尔迦；你们氏族古时候是我们的亲族。我们只是尽了亲戚的职责而已。"
 
 #. [message]: speaker=Karrag
+#, fuzzy
 msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
-"dirtgrubbers. You can be part of the fist that smites them."
+"dirtgrubbers. You can be part of the fist that smites them through the power "
+"of our ancient heirloom, the Hammer of Thursagan."
 msgstr ""
 "所有矮人都是一家人，必须战胜兽人和人类以及其他掘土贱民。你们也可以成为重创他"
 "们的铁拳的一部分。"
 
 #. [message]: speaker=Angarthing
-msgid "We did not come to smite anyone, but to re-open contact and trade."
-msgstr "我们不是为重创任何人而来的，我们是来重启联系和贸易的。"
+msgid ""
+"We did not come to smite anyone, especially not using the most prized "
+"artifact of our heritage as a mere weapon."
+msgstr ""
 
 #. [message]: speaker=Karrag
 msgid ""
-"Trade? Your destruction of the besieging orcs was a far nobler act than "
-"trade. There can be more such victories. And there will be by the power of "
-"our ancient heirloom, the Hammer of Thursagan."
+"Weapon? No, no, loremaster... you mistake my intentions. You know, as well "
+"as I do, that the Hammer is hardly a paltry weapon. The Hammer holds the "
+"soul of the dwarves, the true people. It is that which forged our flesh and "
+"blood, that which binds our will and forges our resolve. It is a symbol of "
+"our superiority as the true people of Irdya, an image that the other races "
+"shall respect and fear!"
 msgstr ""
-"贸易？你们歼灭了围攻的兽人，那是远比贸易高贵得多的行为。还可以有更多次这样的"
-"胜利。只要有瑟萨冈之锤，我们的祖传宝物的力量，就一定会再有更多次的。"
 
 #. [message]: speaker=Angarthing
-msgid "It is remembered in Knalga that Kal Kartha holds the Hammer."
-msgstr "在纳尔迦的记录上，卡尔·卡萨持有此锤。"
+msgid "... so... what are you suggesting?"
+msgstr ""
 
 #. [message]: speaker=Karrag
 msgid ""
-"Yes! And the Hammer holds the soul of the dwarves, the true people. "
-"Together, we can march to greater victories! Will you of Knalga join me?"
+"The Hammer is still incomplete; we need the knowledge of a loremaster to "
+"reforge the remaining shards and restore the artifact to its most powerful "
+"state. Once that is done, none will be able to stand before me! Join us, "
+"loremaster. We can put your talent to good use."
 msgstr ""
-"对！这锤包含着矮人们，真正的人们的灵魂。我们一起能取得更伟大的胜利！你们纳尔"
-"迦族人会加入我么？"
 
 #. [message]: speaker=Angarthing
 msgid ""
@@ -1354,10 +1274,15 @@ msgid ""
 "a witness."
 msgstr "有一个条件。您必须摘下面具以真面目示人。我是见证者。"
 
+#. [message]: speaker=Movrur
+msgid "Impertinent cur! You dare—"
+msgstr ""
+
 #. [message]: speaker=Karrag
+#, fuzzy
 msgid ""
-"You... do not wish to see what is beneath this mask. I was terribly wounded "
-"in an orcish attack. Disfigured."
+"Quiet, Movrur. Loremaster, you... do not wish to see what is beneath this "
+"mask. I was terribly wounded in an orcish attack. Disfigured."
 msgstr "你……不会愿看到这面具下面的东西。我在兽人的一次进攻中受了重伤。毁容了。"
 
 #. [message]: speaker=Angarthing
@@ -1367,10 +1292,12 @@ msgid ""
 msgstr ""
 "但法典必须看到。一个矮人必须用他的名字和面目为他的行为负责。我是见证者。"
 
-#. [message]: speaker=Karrag
+#. [message]: speaker=Movrur
+#, fuzzy
 msgid ""
-"Impertinent fool! It is not for you to dictate to a lord in his own holding, "
-"much less one who holds the very soul of the dwarves in his hand."
+"Master, you need not answer to this fool. Even for a loremaster, to dictate "
+"to a lord in his own holding... and one who holds the very soul of the "
+"dwarves in his hand. It is unthinkable!"
 msgstr ""
 "无礼的蠢货！一位领主在自己的领地上，可不会让你指手画脚，更不要说他手中握着的"
 "正是矮人们的灵魂啊。"
@@ -1380,6 +1307,10 @@ msgid ""
 "The Law speaks. Against him with the eyes to see, no deception can hold. I "
 "AM A WITNESS!"
 msgstr "如法典所言。明眼人前，无可瞒骗。<b>吾乃见证者！</b>"
+
+#. [message]: speaker=Movrur
+msgid "Master—"
+msgstr ""
 
 #. [message]: speaker=Dulcatulos
 msgid "No... no... it is horrible! My lord, how did you come to this?"
@@ -1433,7 +1364,7 @@ msgstr ""
 "我们必须跟上。快点！或许他说要污染锤子，只是狂言乱语罢了，但我们可不能承受万"
 "一他的丑恶咒语成功的风险。"
 
-#. [scenario]: id=12_The_Underlevels
+#. [scenario]: id=09_The_Underlevels
 msgid "The Underlevels"
 msgstr "下层世界"
 
@@ -1760,7 +1691,7 @@ msgstr ""
 "哈哈哈哈！是的，是的，<b>是的！</b>死之仪式终于完成了！死吧，你们这些低劣的掘"
 "土贱民，死吧，这样我才能把你们复苏成我没有心智的奴隶！"
 
-#. [scenario]: id=13_Epilogue
+#. [scenario]: id=10_Epilogue
 msgid "Epilogue"
 msgstr "尾声"
 
@@ -1846,10 +1777,11 @@ msgid "I am he. Speak your message."
 msgstr "我就是。宣读你的口信。"
 
 #. [message]: speaker=Pelias
+#, fuzzy
 msgid ""
-"I have been on your track for weeks. Word of your rout of Tan-Malgar and his "
+"I have been on your track for weeks. Word of your rout of Tan-Morgh and his "
 "allies spread, and reached Tallin. You did the Alliance better service than "
-"you knew that day; Tan-Malgar had exchanged messages with certain orcish "
+"you knew that day; Tan-Morgh had exchanged messages with certain orcish "
 "chieftains within the Alliance, and your victory prevented a dangerous "
 "revolt."
 msgstr ""
@@ -1929,6 +1861,11 @@ msgstr ""
 "法，博学者站在哪儿，哪儿就有矮人的灵魂。与述史者相比，他们多出了有限的治疗能"
 "力。"
 
+#. [unit_type]: id=Dwarvish Masked Berserker, race=dwarf
+#, fuzzy
+msgid "Dwarvish Masked Berserker"
+msgstr "戴着面具的矮人雷霆战士"
+
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
 msgid "Dwarvish Masked Dragonguard"
 msgstr "戴着面具的矮人龙卫士"
@@ -1989,6 +1926,11 @@ msgstr "戴着面具的矮人雷霆战士"
 msgid "Dwarvish Masked Thunderguard"
 msgstr "戴着面具的矮人雷霆守卫"
 
+#. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
+#, fuzzy
+msgid "Dwarvish Masked Ulfserker"
+msgstr "戴着面具的矮人雷霆战士"
+
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 msgid "Dwarvish Witness"
 msgstr "矮人见证者"
@@ -2008,13 +1950,6 @@ msgstr ""
 "录下来。他们学习的是一种特意与同伴们不同的战斗风格，这种战斗风格用矮人们自夸"
 "的强壮来对付自己。见证者被看作是神圣的，他们经常担任矮人氏族之间的外交使节。"
 
-msgid ""
-" The presence of this unit inspires own units next to it to deal more damage "
-"in combat, though this only applies to units of lower or equal level."
-msgstr ""
-" 此单位的存在使他周围的友方单位在战斗中造成更多伤害，虽然这只对与其同等级或比"
-"其低等级的单位有效。"
-
 #. [leadership]: id=inspire
 msgid "inspire"
 msgstr "鼓舞"
@@ -2031,6 +1966,15 @@ msgid ""
 msgstr ""
 "此单位能鼓舞在他周围的友方单位，让他们更好地战斗。相邻的友方单位中，等级与其"
 "相同或比其低的单位将多输出25%伤害，等级每多差一级，则再多输出25%伤害。"
+
+#. [leadership]: id=inspire
+#, fuzzy
+msgid ""
+"The presence of this unit inspires own units next to it to deal more damage "
+"in combat, though this only applies to units of lower or equal level."
+msgstr ""
+" 此单位的存在使他周围的友方单位在战斗中造成更多伤害，虽然这只对与其同等级或比"
+"其低等级的单位有效。"
 
 msgid "Aiglondur"
 msgstr "艾格隆达"
@@ -2055,9 +1999,9 @@ msgstr "我失败了！"
 msgid "Oh no! Without a loremaster we cannot complete our mission!"
 msgstr "噢不！没有博学者我们无法完成我们的任务！"
 
-#. [message]: speaker=Ratheln
-msgid "Aaarrgh! My students... What will become of them?"
-msgstr "啊啊啊啊！我的学生……他们会怎么样？"
+#. [message]: speaker=Aiglondur
+msgid "We needed Movrur to accompany us to Kal Kartha!"
+msgstr ""
 
 #. [message]: speaker=Aiglondur
 msgid ""
@@ -2066,34 +2010,3 @@ msgid ""
 msgstr ""
 "没有杜尔卡图洛斯来向卡尔·卡萨族人解释我们的行动，那我们就也得和他们开战。我们"
 "的任务失败了。"
-
-#. [message]: speaker=narrator
-msgid ""
-"Without magic users from Master Perrin’s academy in your party, you can no "
-"longer recruit new ones."
-msgstr ""
-"你的队伍中没有了来自佩林大师的学院的魔法使用者，你再也不能征募新的法师了。"
-
-#. [message]: speaker=unit
-msgid "There an altar in this temple, and a staff lies upon it."
-msgstr "这神庙里有一个祭坛，祭坛上摆着一根法杖。"
-
-#. [object]: id=sorf	# Prevent it from being picked up more than once.
-msgid "Staff of Righteous Flame"
-msgstr "正义烈焰之杖"
-
-#. [object]: id=sorf	# Prevent it from being picked up more than once.
-msgid ""
-"This staff gives a dying mage a final strike that will destroy all nearby "
-"enemies."
-msgstr "此法杖能让法师在临终前释放出最后一击，摧毁附近的所有敌人。"
-
-#. [object]: id=sorf	# Prevent it from being picked up more than once.
-msgid "Only a mage may wield this Staff."
-msgstr "只有法师才可以使用这根法杖。"
-
-#. [message]: speaker=unit
-msgid ""
-"Aaarrgh! Though I die, the flame of righteousness shall send you down to "
-"darkness!"
-msgstr "啊啊啊啊！ 虽然我要死了，但正义的烈焰将会送你们下地狱！"

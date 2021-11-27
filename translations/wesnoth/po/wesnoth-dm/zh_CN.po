@@ -4,12 +4,12 @@
 # Dugucloud <dugucloud@qq.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -97,28 +97,31 @@ msgid "Overture"
 msgstr "序曲"
 
 #. [side]
-#. [side]: type=Mage of Light, id=Marshal
-#. [side]: type=White Mage, id=Arpus
 msgid "Mages"
 msgstr "法师"
 
-#. [side]: type=Mage of Light, id=Marshal
+#. [side]
+#. [part]
+msgid "Delfador"
+msgstr "德法多"
+
+#. [unit]: id=Marshal, type=Mage of Light
 msgid "Marshal"
 msgstr "典礼官"
 
-#. [side]: type=Mage of Light, id=Marshal
+#. [side]
 msgid "First Oracle"
 msgstr "第一先知"
 
-#. [side]: type=Mage of Light, id=Marshal
+#. [side]
 msgid "Second Oracle"
 msgstr "第二先知"
 
-#. [side]: type=Mage of Light, id=Marshal
+#. [side]
 msgid "Third Oracle"
 msgstr "第三先知"
 
-#. [side]: type=Mage of Light, id=Marshal
+#. [side]
 msgid "Fourth Oracle"
 msgstr "第四先知"
 
@@ -259,25 +262,13 @@ msgstr "我准备好了。"
 msgid "This Valley Belongs to Me"
 msgstr "此谷归我"
 
-#. [side]: type=Goblin Pillager, id=Grogor-Tuk
-msgid "Grogor-Tuk"
-msgstr "格罗高-图克"
-
-#. [side]: type=Orcish Slayer, id=Hagha-Tan
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Goblin Pillager, id=Grogor-Tuk
-#. [side]: type=Orcish Sovereign, id=Zorlan
-#. [side]: type=Orcish Warrior, id=T'bhan
-#. [side]: type=Orcish Warrior, id=Qgthun
-#. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
-#. [side]: type=Orcish Warlord, id=Upgar
-#. [side]: type=Orcish Warlord, id=Tish Golub
 #. [side]
-#. [side]: type=Orcish Warlord, id=Knafa-ord
-#. [side]: type=Orcish Warlord, id=Tan-drul
-#. [side]: type=Orcish Warlord, id=Krardul
 msgid "Pillagers"
 msgstr "劫掠者"
+
+#. [leader]: id=Grogor-Tuk, type=Goblin Pillager
+msgid "Grogor-Tuk"
+msgstr "格罗高-图克"
 
 #. [part]
 msgid ""
@@ -351,7 +342,7 @@ msgstr "德法多死亡"
 msgid "Grooar! Pillage! Pillage! Ahahaha..."
 msgstr "嘎啊啊！烧啊！烧啊！啊哈哈哈……"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "No! Methor... Don’t die!"
 msgstr "不！梅瑟……不要死！"
 
@@ -374,13 +365,13 @@ msgstr ""
 "处游历的日子结束了，但现在到了你往东北去，前往维尔帝的时候了，去拜访我的朋友"
 "利欧林。他会帮你的。"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "I will grieve for master Methor... I must take his advice and seek out "
 "Leollyn."
 msgstr "我会为梅瑟大师而哀伤的……我必须听他的建议去拜访利欧林。"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "And it is no good news I will bring him. Orcs, so far south and so near the "
 "capital? This is a dire sign; things are gravely amiss in Wesnoth."
@@ -392,19 +383,19 @@ msgstr ""
 msgid "The Road to Weldyn"
 msgstr "维尔帝之路"
 
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
+#. [leader]: id=Urthaka-Tan, type=Orcish Warrior
 msgid "Urthaka-Tan"
 msgstr "乌萨卡-坦"
 
-#. [label]
+#. [scenario]: id=03_The_Road_to_Weldyn
 msgid "The Great Valley"
 msgstr "大峡谷"
 
-#. [label]
+#. [scenario]: id=03_The_Road_to_Weldyn
 msgid "Fort Brell"
 msgstr "布雷尔要塞"
 
-#. [label]
+#. [scenario]: id=03_The_Road_to_Weldyn
 msgid "Fort Miryen"
 msgstr "米利恩要塞"
 
@@ -485,32 +476,18 @@ msgstr ""
 "也许让我们的一些同伴跟你一起去维尔帝比较好。这些地方对孤独的旅行者来说不安"
 "全，而且我们也许能发现是什么把兽人招来这么南的地方的。"
 
-#. [side]: type=Arch Mage, id=Leollyn
 #. [scenario]: id=04_Leollyn
-#. [unit]: type=Arch Mage, id=Leollyn
 msgid "Leollyn"
 msgstr "利欧林"
 
-#. [side]: type=Orcish Slayer, id=Hagha-Tan
+#. [leader]: id=Hagha-Tan, type=Orcish Slayer
 msgid "Hagha-Tan"
 msgstr "哈格哈-坦"
 
-#. [side]: type=General, id=Eldred
-#. [side]: type=General, id=Lowel
-#. [modify_side]
 #. [side]
-#. [side]: type=Arch Mage, id=Leollyn
-#. [side]: type=General, id=Rhuwin
-#. [side]: type=King of Wesnoth, id=Garard II
-#. [side]: type=Lieutenant, id=Niktor
-#. [side]: type=King of Wesnoth, id=Garard
+#. [modify_side]
 msgid "Loyalists"
 msgstr "保王党人"
-
-#. [message]: speaker=Delfador
-msgid ""
-"Leollyn is slain! This is terrible... I had best give up and return home."
-msgstr "利欧林被杀害了！真糟糕……我还是撂挑子回老家吧。"
 
 #. [objective]: condition=win
 msgid "Defeat Hagha-Tan"
@@ -581,6 +558,11 @@ msgstr "你们所有人都要格外小心！"
 msgid "Kill them all! For our murdered friend."
 msgstr "为了我们死去的朋友，把他们全部干掉。"
 
+#. [message]: speaker=Delfador
+msgid ""
+"Leollyn is slain! This is terrible... I had best give up and return home."
+msgstr "利欧林被杀害了！真糟糕……我还是撂挑子回老家吧。"
+
 #. [message]: speaker=Leollyn
 msgid ""
 "Well now, you arrived just in the nick of time. A fellow mage, too, I see. "
@@ -636,11 +618,7 @@ msgstr ""
 msgid "Council in Weldyn"
 msgstr "维尔帝会议"
 
-#. [side]: type=King of Wesnoth, id=Garard
-msgid "Garard"
-msgstr "伽拉德"
-
-#. [unit]: type=Cavalryman, id=Gurcyn
+#. [unit]: id=Gurcyn, type=Cavalryman
 msgid "Gurcyn"
 msgstr "古尔桑"
 
@@ -658,7 +636,7 @@ msgstr ""
 "他去参加国王的会议。正如所见，伽拉德焦急地等待韦诺边界的消息。"
 
 # 参考 http://forums.wesnoth.org/viewtopic.php?f=7&t=30298&p=441243#p441243
-#. [message]: speaker=Garard
+#. [message]: speaker=Garard II
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr "好，会议所有人都到齐了。莱昂内尔，北方的情况如何？"
@@ -687,7 +665,7 @@ msgstr ""
 "陛下，更糟糕的消息——兽人已经在这里了。要不是这个小伙子，我自己在皇家森林里已"
 "经被袭击了……"
 
-#. [message]: speaker=Garard
+#. [message]: speaker=Garard II
 msgid ""
 "Then there is no time to be lost! I will ride to the Ford of Abez with an "
 "army. As bold as the orcs may be to cross our borders in secret and prey on "
@@ -718,7 +696,7 @@ msgstr ""
 "陛下……我能参军吗？我的意思是，我来维尔帝求您任用我。还有，假如您需要弓箭手，"
 "为什么不找个法师帮忙呢？"
 
-#. [message]: speaker=Garard
+#. [message]: speaker=Garard II
 msgid ""
 "Ah, young Delfador... you speak well, and Leollyn has already told me of "
 "your bravery. I accept your offer of service with gratitude, but this is a "
@@ -786,16 +764,15 @@ msgstr ""
 msgid "The Swamps of Illuven"
 msgstr "伊卢汶沼泽"
 
-#. [side]: type=Rogue, id=Garrath
-msgid "Garrath"
-msgstr "加勒思"
-
-#. [side]: type=Rogue, id=Garrath
-#. [side]: type=Bandit, id=Harold
+#. [side]
 msgid "Bandits"
 msgstr "流寇"
 
-#. [side]: type=Bandit, id=Harold
+#. [leader]: id=Garrath, type=Rogue
+msgid "Garrath"
+msgstr "加勒思"
+
+#. [leader]: id=Harold, type=Bandit
 msgid "Harold"
 msgstr "哈罗德"
 
@@ -842,6 +819,33 @@ msgid "Thanks very much. Here’s the gold..."
 msgstr "谢谢。给你钱……"
 
 #. [message]: speaker=Garrath
+msgid ""
+"You know, you really ought to be more careful before handing over money to "
+"suspicious strangers like me. But, since I'm feeling nice at the moment, I "
+"think I will actually keep my word and offer you some protection."
+msgstr ""
+
+#. [message]: speaker=Harold
+msgid "Hey, what's your problem, Garrath? I thought we had a deal!"
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Yeah, well, I changed my mind."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid ""
+"...I'm not entirely sure what just happened here, but I guess I should be "
+"grateful?"
+msgstr ""
+
+#. [message]: speaker=Lionel
+msgid ""
+"While it appears we lucked out this time, I fear for the travelers for whom "
+"this man does NOT keep his word..."
+msgstr ""
+
+#. [message]: speaker=Garrath
 msgid "It’s been a pleasure doing business with you... Bye!"
 msgstr "你真上路……再见！"
 
@@ -856,6 +860,104 @@ msgstr "嚯 嚯 嚯！傻瓜！"
 #. [message]: speaker=Lionel
 msgid "Well, at least we only have to deal with one of them now..."
 msgstr "还好，至少我们现在只需要应付其中一边了……"
+
+#. [message]: speaker=Garrath
+msgid ""
+"Hey, that was one of OUR villages! Deal's off; we're no longer protecting "
+"you!"
+msgstr ""
+
+#. [message]: speaker=Harold
+msgid "So... does that mean that OUR deal is back on now, Garrath?"
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Fine, I guess..."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid ""
+"Wait, I'm sorry! I didn't realize you were so attached to that village! "
+"Please give me a chance to make it up to you!"
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid ""
+"Well, I guess a little extra payment could persuade me to forgive you..."
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "I'm afraid I don't have much gold left..."
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Oh well, too bad for you!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid "Well..."
+msgstr ""
+
+#. [option]
+msgid "Here's 20 more gold."
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Pleasure doing business with you! Just don't let it happen again!"
+msgstr ""
+
+#. [message]: speaker=Harold
+msgid "Sheesh, Garrath, won't you make up your mind already?!"
+msgstr ""
+
+#. [option]
+msgid "Nope, I'm not giving you any more gold."
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Suit yourself. Men, attack!"
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid ""
+"Hey! You captured one of my villages again! I thought I told you to stop "
+"doing that!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid ""
+"Sorry! It's a hard habit to break! Perhaps I can pay you again to make up "
+"for it?"
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Nope, I'm through with your games! Men, attack!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+msgid ""
+"Oh well, I guess I should have listened when he said not to let it happen "
+"again..."
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid "Stop stealing my villages!"
+msgstr ""
+
+#. [message]: speaker=Garrath
+msgid ""
+"Hm, it looks like you don't have any gold left. We're not interested in you "
+"anymore; bye!"
+msgstr ""
+
+#. [message]: speaker=Harold
+msgid "What a fickle one, that Garrath..."
+msgstr ""
+
+#. [message]: speaker=Harold
+msgid ""
+"I'll be taking back that money that your men “borrowed” from me now, Garrath!"
+msgstr ""
 
 #. [option]
 msgid "No thanks — we’ll manage by ourselves..."
@@ -878,26 +980,9 @@ msgstr "这箱子里装着那恶棍所有从上当的路人手上抢来的钱！
 msgid "Night in the Swamp"
 msgstr "沼泽之夜"
 
-#. [side]: type=Death Knight, id=Rudimil
-#. [side]: type=Necromancer, id=Roth-Malal
-#. [side]: type=Necromancer, id=Barth-Malal
-#. [side]: type=Necromancer, id=Gruv-Malal
-#. [side]: type=Death Knight, id=Arakar
-#. [side]: type=Lich, id=Sagus
 #. [side]
-#. [side]: type=Necromancer, id=Maldun
-#. [side]: type=Death Knight, id=Alderoth
-#. [side]: type=Death Knight, id=Dirator
-#. [side]: type=Death Knight, id=Prepolur
-#. [side]: type=Necromancer, id=Unuvim-Malal
 msgid "Undead"
 msgstr "亡灵"
-
-#. [message]: speaker=Delfador
-msgid ""
-"I think that’s all of them! Let’s move on — the less time we spend in this "
-"swamp the better."
-msgstr "他们应该全完蛋了！前进吧——在沼泽里待的时间越短越好。"
 
 #. [objective]: condition=win
 msgid "Survive until daybreak"
@@ -960,12 +1045,18 @@ msgstr ""
 "我再也不想度过那样的夜晚了！我们尽快离开这万恶的地方吧——我想在黄昏前离开伊卢"
 "汶。"
 
-#. [side]: type=Ancient Wose, id=Ur-Thorodor
+#. [message]: speaker=Delfador
+msgid ""
+"I think that’s all of them! Let’s move on — the less time we spend in this "
+"swamp the better."
+msgstr "他们应该全完蛋了！前进吧——在沼泽里待的时间越短越好。"
+
+#. [leader]: id=Ur-Thorodor, type=Ancient Wose
 #. [scenario]: id=08_Ur-Thorodor
 msgid "Ur-Thorodor"
 msgstr "乌-索罗多"
 
-#. [side]: type=Ancient Wose, id=Ur-Thorodor
+#. [side]
 msgid "Wose"
 msgstr "树人"
 
@@ -1135,7 +1226,7 @@ msgstr "<b>砰</b>！"
 msgid "Houses of the Dead"
 msgstr "亡灵之屋"
 
-#. [side]: type=Death Knight, id=Arakar
+#. [leader]: id=Arakar, type=Death Knight
 msgid "Arakar"
 msgstr "阿拉卡"
 
@@ -1270,8 +1361,8 @@ msgstr ""
 "你遇见了那些骷髅战士吗？他们的城堡在北边。虽然很难打过去，但是可以从西丹的村"
 "庄旁山谷里的密道过去。"
 
-#. [event]
 #. [scenario]: id=09_Houses_of_the_Dead
+#. [event]
 msgid "Nameless"
 msgstr "无名"
 
@@ -1488,7 +1579,7 @@ msgstr "我效忠于人民和国土。"
 
 #. [message]: speaker=narrator
 #. "matter" is used here with an archaic meaning, roughly
-#. that of "ground" or "essence".  This sense survives in
+#. that of "ground" or "essence". This sense survives in
 #. modern English in constructions like "It matters a lot."
 msgid ""
 "Peoples vanish and lands wither under the pitiless gaze of eternity; the "
@@ -1596,21 +1687,19 @@ msgstr ""
 msgid "Wasteland"
 msgstr "不毛之地"
 
-#. [side]: type=Orcish Warlord, id=Tish Golub
+#. [leader]: id=Tish Golub, type=Orcish Warlord
 msgid "Tish Golub"
 msgstr "蒂什·戈卢布"
 
 #. [side]
-#. [side]: type=Elvish Druid
-#. [side]: type=Elvish Captain, id=Clartakis
 msgid "Elves"
 msgstr "精灵"
 
-#. [side]: type=Elvish Druid
+#. [side]
 msgid "Istelimir"
 msgstr "伊特丽梅"
 
-#. [side]: type=Elvish Druid
+#. [side]
 msgid "Atellas"
 msgstr "阿泰拉斯"
 
@@ -1775,6 +1864,22 @@ msgstr ""
 msgid "Terror at the Ford of Parthyn"
 msgstr "帕辛滩的恐怖"
 
+#. [leader]: id=Upgar, type=Orcish Warlord
+msgid "Upgar"
+msgstr "乌普加尔"
+
+#. [leader]: id=Dirator, type=Death Knight
+msgid "Dirator"
+msgstr "迪拉托"
+
+#. [leader]: id=Niktor, type=Lieutenant
+msgid "Niktor"
+msgstr "尼克托"
+
+#. [leader]: id=Arpus, type=White Mage
+msgid "Arpus"
+msgstr "阿普斯"
+
 #. [objective]: condition=win
 msgid "Find out what is happening at the Ford"
 msgstr "搞清楚浅滩上发生的事"
@@ -1782,22 +1887,6 @@ msgstr "搞清楚浅滩上发生的事"
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders"
 msgstr "打败所有敌人首领"
-
-#. [side]: type=Orcish Warlord, id=Upgar
-msgid "Upgar"
-msgstr "乌普加尔"
-
-#. [side]: type=Death Knight, id=Dirator
-msgid "Dirator"
-msgstr "迪拉托"
-
-#. [side]: type=Lieutenant, id=Niktor
-msgid "Niktor"
-msgstr "尼克托"
-
-#. [side]: type=White Mage, id=Arpus
-msgid "Arpus"
-msgstr "阿普斯"
 
 #. [message]: speaker=Chantal
 msgid ""
@@ -1809,69 +1898,46 @@ msgstr ""
 "德法多，这里是人类最近的驻点了。只能从这里过河。自从这任韦诺国王统治开始，距"
 "这不远南边的帕辛就驻扎了大量军队。此后，兽人再也不敢从这里南下韦诺了。"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "This mist is unusual, though, even if we are close to the river. I have "
 "never seen it so thick before."
 msgstr ""
 "这股雾来得蹊跷，就算我们已经到了河边，也还是这样。我从没见过这么大的雾。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "There should be no orcs this far south. But I do not like the feel of this "
 "mist."
 msgstr "在南方应该不会有兽人了。但是我讨厌这股大雾。"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "Stay close. I don’t like the feel of it either."
 msgstr "靠近点儿。我感觉不自在。"
-
-#. [unit]: id=Axhamr, type=Draug
-msgid "Axhamr"
-msgstr "阿克斯哈姆"
-
-#. [unit]: id=Horfir, type=Spectre
-msgid "Horfir"
-msgstr "霍菲"
-
-#. [unit]: id=Backu, type=Nightgaunt
-msgid "Backu"
-msgstr "巴克"
-
-#. [unit]: id=Camdun, type=Chocobone
-msgid "Camdun"
-msgstr "卡姆顿"
-
-#. [unit]: id=Drapug, type=Wraith
-msgid "Drapug"
-msgstr "德拉普"
-
-#. [unit]: id=Kalip, type=Ghost
-msgid "Kalip"
-msgstr "卡里"
-
-#. [unit]: id=Abmin, type=Deathblade
-msgid "Abmin"
-msgstr "阿明"
 
 #. [message]: speaker=unit
 msgid "Be wary. Something does not feel right about that village..."
 msgstr "当心点儿。那村庄有些不对劲儿……"
 
 #. [message]: speaker=unit
-msgid "What in the wide green world is this abomination?"
-msgstr "在这宽广的绿色世界里潜伏着的恶心货是什么？"
+msgid "There's something there in the mist!"
+msgstr ""
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "One of Iliah-Malal’s creatures. So it has begun!"
 msgstr "一只伊利阿-玛拉尔的生物！它冲上来了！"
 
 #. [message]: speaker=unit
-msgid "Orcs! Orcs at the Ford!"
-msgstr "兽人！河滩上有兽人！"
+msgid "Orcs!"
+msgstr ""
+
+#. [message]: speaker=Chantal
+msgid "It seems there are orcs this far south after all. This is strange."
+msgstr ""
 
 #. [message]: speaker=Delfador
-msgid "Prepare to fight them! We must clear the Ford!"
+#, fuzzy
+msgid "Prepare to fight them! We must keep the Ford clear!"
 msgstr "准备干掉他们！我们必须清理这浅滩！"
 
 #. [message]: role=Commander
@@ -2020,15 +2086,15 @@ msgstr "国王给你们的命令就是去战斗。在我附近就行。"
 msgid "This village seems unharmed. Anyone here?"
 msgstr "这座村庄好像没被袭击。有人在吗？"
 
-#. [unit]: type=Deathblade, id=Bled
+#. [event]
 msgid "Bled"
 msgstr "布莱德"
 
-#. [unit]: type=Ghost, id=Crod
+#. [event]
 msgid "Crod"
 msgstr "克罗德"
 
-#. [unit]: type=Wraith, id=Angedd
+#. [event]
 msgid "Angedd"
 msgstr "安格德"
 
@@ -2088,7 +2154,7 @@ msgstr "如果你们帮忙，就会的。现在随我一起战斗吧！"
 msgid "Anyone here?"
 msgstr "有人吗？"
 
-#. [unit]: type=Draug, id=Dreadred
+#. [event]
 msgid "Dreadred"
 msgstr "红色恐怖"
 
@@ -2100,25 +2166,60 @@ msgstr "主人说过还会有更多人送上门的！"
 msgid "There are signs of a battle, but nobody seems to be here..."
 msgstr "这里似乎发生过战斗，但好像没人……"
 
-#. [unit]: type=Orcish Warrior, id=Crum
+#. [event]
 msgid "Crum"
 msgstr "克拉姆"
 
-#. [unit]: type=Orcish Grunt, id=Smalg
+#. [event]
 msgid "Smalg"
 msgstr "斯马尔"
 
-#. [unit]: type=Orcish Archer, id=Grubar
+#. [event]
 msgid "Grubar"
 msgstr "格鲁巴尔"
 
-#. [unit]: type=Orcish Assassin, id=Ulkar
+#. [event]
 msgid "Ulkar"
 msgstr "乌尔卡"
 
 #. [message]: speaker=Crum
 msgid "Wrong!"
 msgstr "错了！"
+
+#. [event]
+msgid "Axhamr"
+msgstr "阿克斯哈姆"
+
+#. [event]
+msgid "Horfir"
+msgstr "霍菲"
+
+#. [event]
+msgid "Backu"
+msgstr "巴克"
+
+#. [event]
+msgid "Camdun"
+msgstr "卡姆顿"
+
+#. [event]
+msgid "Drapug"
+msgstr "德拉普"
+
+#. [event]
+msgid "Kalip"
+msgstr "卡里"
+
+#. [event]
+msgid "Abmin"
+msgstr "阿明"
+
+#. [message]: speaker=Delfador
+#, fuzzy
+msgid ""
+"This unnatural night will surely bring another wave of the undead. Soldiers, "
+"stand firm and send these abominations back to the darkness!"
+msgstr "战士们，他们展开了第二次进攻！站稳了，把这些恶心的东西送回黑暗去！"
 
 #. [message]: speaker=Upgar
 msgid ""
@@ -2210,12 +2311,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 msgid ""
-"They have unleashed a second wave. Soldiers, stand firm and send these "
-"abominations back to the darkness!"
-msgstr "战士们，他们展开了第二次进攻！站稳了，把这些恶心的东西送回黑暗去！"
-
-#. [message]: speaker=Delfador
-msgid ""
 "This is hopeless. Many more enemies are coming, while our numbers are "
 "limited."
 msgstr "这看来是没希望了。越来越多的敌人来了，但我们只有这么些人。"
@@ -2261,19 +2356,23 @@ msgstr ""
 "大批兽人军队开始进攻精灵森林的边界，甚至林塔尼尔。卡雷兹很快召集了一队卫兵。"
 "精灵领地上的战争又回来了。"
 
-#. [side]: type=Orcish Warlord, id=Knafa-ord
+#. [side]
+msgid "Kalenz"
+msgstr "卡雷兹"
+
+#. [leader]: id=Knafa-ord, type=Orcish Warlord
 msgid "Knafa-ord"
 msgstr "纳法-奥德"
 
-#. [side]: type=Orcish Warlord, id=Tan-drul
+#. [leader]: id=Tan-drul, type=Orcish Warlord
 msgid "Tan-drul"
 msgstr "坦-德鲁尔"
 
-#. [side]: type=Orcish Warlord, id=Krardul
+#. [leader]: id=Krardul, type=Orcish Warlord
 msgid "Krardul"
 msgstr "克拉尔杜"
 
-#. [side]: type=Elvish Captain, id=Clartakis
+#. [leader]: id=Clartakis, type=Elvish Captain
 msgid "Clartakis"
 msgstr "克拉塔基斯"
 
@@ -2281,45 +2380,45 @@ msgstr "克拉塔基斯"
 msgid "Death of Kalenz"
 msgstr "卡雷兹死亡"
 
-#. [message]: id=Tan-drul
+#. [message]: speaker=Tan-drul
 msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Zorlan, "
 "as king and he will reward you all!"
 msgstr "干掉这些肮脏的精灵！所有的军阀必须服从我们的头子佐兰，他会赏赐你们的！"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "This is what we have been training for! Now we drive these beasts back!"
 msgstr "这就是我们辛苦训练的目的！把这些畜生打回去！"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "The orcs are retreating! And... what is this? A shyde flying towards us as "
 "if hell were on her heels..."
 msgstr "兽人在撤退！然后……这是怎么回事？一位仙子火急火燎地飞来……"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "The orcs are retreating! And... what is this? A druid running to meet us as "
 "though hell were on her heels..."
 msgstr "兽人在撤退！然后……这是怎么回事？一位德鲁伊火急火燎地飞驰而来……"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid "My lord Kalenz, at last I have found you!"
 msgstr "伟大的领主卡雷兹，我可算找到您了！"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "Chantal! Granddaughter! What are you doing here? You were not attacked, I "
 "hope."
 msgstr "香黛尔！乖孙女！你来这里干吗呀？你没被攻击吧？真希望如此。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "We were, but the enemy was vanquished. There are much more serious matters "
 "that require your attention."
 msgstr "我们被攻击了，然后我们打败了敌人。现在有更多更严重的问题要你注意。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "A paramount chief of all the Orcs has arisen, and he is setting a trap for "
 "the humans at the Ford of Abez. I think we must aid the humans, lest we be "
@@ -2328,7 +2427,7 @@ msgstr ""
 "兽人的大酋长在兽人中崛起，他在为雅碧滩的人类设下陷阱。我想我们有必要帮助人"
 "类，免得下次兽人进攻时被各个击破。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "There is more ill news. Evil has been unleashed. A portal has been opened "
 "from the Land of the Dead. An army of undead is being raised as we speak."
@@ -2336,24 +2435,24 @@ msgstr ""
 "还有更多坏消息。冥界通向这里的传送门已经打开，把恶灵释放了出来。就在我们说话"
 "的时候，一支亡灵的军队已经袭来。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "This is very serious. Have you informed the elvish settlements?"
 msgstr "这是个严重的问题。你通知了精灵驻地吗？"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "Yes. And I have prepared holy water for our warriors. They should be able to "
 "hold against the undead in our forests, at least for now."
 msgstr ""
 "我通知了。也给战士们准备了圣水。至少现在，他们应该能对付我们树林里的亡灵了。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "Holy water? What is this? Have you been dabbling where you should not, in "
 "the Book of Crelanu?"
 msgstr "圣水？这是什么？你是不是偷看了克雷拉努之书中你不该看的东西？"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "No. But Cleodil gave some of the Book’s least dangerous secrets to her "
 "daughters, and so I had them from my mother. And I think I have found the "
@@ -2364,13 +2463,13 @@ msgstr ""
 "现在我已经找到了那位，自从科柳迪奶奶保护这本书的时候起，我们就在等待的人选。"
 "你懂我的意思。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "I never thought to see such a human, not even in all the years I have lived. "
 "Who is this person?"
 msgstr "我从未想过，在我有生之年能见到这样的人类。他是谁？"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "Delfador, a mage trusted of their King. He has survived a passage through "
 "the Land of the Dead not merely alive but uncorrupted. He helped us defeat "
@@ -2382,15 +2481,15 @@ msgstr ""
 "助我们打败了进犯林塔尼尔的兽人，我还和他在帕辛滩迎击亡灵。我来北方的一部分原"
 "因，是来拿克雷拉努之书给他的。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "He is uncorrupted? You are sure of this?"
 msgstr "他没堕落？你确定？"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid "I have bent my healing senses upon him. I am as sure as I can be."
 msgstr "我已经用我治愈感来考察他了。我肯定。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "Then we must aid him, and I must meet him. The King of Wesnoth is just a "
 "king; it is inner strength such as you describe that will turn back the "
@@ -2412,33 +2511,33 @@ msgstr ""
 "卡雷兹和他的部队很快到了南方，然后沿着泰河北岸向西行军。他们成功地躲避了兽"
 "人，却将很快发现前方有可怕的敌人等着他们。"
 
-#. [side]: type=Death Knight, id=Rudimil
+#. [leader]: id=Rudimil, type=Death Knight
 msgid "Rudimil"
 msgstr "鲁迪米尔"
 
-#. [side]: type=Necromancer, id=Roth-Malal
+#. [leader]: id=Roth-Malal, type=Necromancer
 msgid "Roth-Malal"
 msgstr "罗思-玛拉"
 
-#. [side]: type=Necromancer, id=Barth-Malal
+#. [leader]: id=Barth-Malal, type=Necromancer
 msgid "Barth-Malal"
 msgstr "巴思-玛拉"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "This forest looks quiet — too quiet. Proceed carefully, I don’t like this at "
 "all."
 msgstr "这片森林很安静——太安静了。小心点，恐怕有情况。"
 
-#. [message]: id=Barth-Malal
+#. [message]: speaker=Barth-Malal
 msgid "Living... Soon, you’ll be more troops for my master!"
 msgstr "活物……很快，你们就会成为我的主人的部队了！"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "Undead! Where did they come from?"
 msgstr "亡灵！从哪儿来的？"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "We should try to go west. I sense things are worse on the eastern front."
 msgstr "我们应该往西走。我感到东边有些不妙。"
@@ -2495,15 +2594,15 @@ msgstr "德尔"
 msgid "And now even more help!"
 msgstr "现在还有更多！"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "Foul creatures, it is time for your final rest!"
 msgstr "丑陋的家伙，这是你们最后的宁静了！"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid "That is Delfador. Do you see, now?"
 msgstr "他是德法多，看见了吧？"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "I do. He is like a blazing fire to my inner eye. I think you have chosen "
 "well, granddaughter; he is indeed the one to whom the Book of Crelanu should "
@@ -2512,11 +2611,11 @@ msgstr ""
 "看见了。他就像照进我眼中的炽烈火光。孙女，你找的人不错；他是克雷拉努之书的可"
 "靠继承人。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid "If I were human, I think I would be in love with him."
 msgstr "如果我是人类，我会爱上他的。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "If you were human, you would be quite right to be. Strange... they are such "
 "surly children in the main, short-lived and crude and quarrelsome. And yet, "
@@ -2525,11 +2624,11 @@ msgstr ""
 "如果你是人类，这样做是非常正确的。怪了……人类主要还是暴戾、短命、粗鲁、坏脾"
 "气。但是，我们最大的奥秘也不如这个人光明。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid "I hope the Book does not destroy him."
 msgstr "我希望这书不会毁了他。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "You speak my thought, granddaughter. May it be so."
 msgstr "你把我想说的说出来了，孙女。但愿如此吧。"
 
@@ -2541,11 +2640,11 @@ msgstr "克鲁姆孚"
 msgid "Unhul"
 msgstr "温霍"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "I arrive too late for the entertainment, it would seem."
 msgstr "貌似我错过了一场好事。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "Well met, Delfador. Chantal has told me of you. I am Kalenz, High Lord of "
 "the Elves, and we are in your debt today."
@@ -2553,20 +2652,20 @@ msgstr ""
 "德法多，久闻大名。香黛尔跟我说了关于你的事。我是卡雷兹，精灵的高阶领主，我们"
 "今天欠你一个人情。"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "It is my honor to meet you. And it relieves my mind to know Chantal is safe "
 "and with her kin again."
 msgstr "很荣幸见到你。这也让我不再为香黛尔能否安全见到亲人而担心了。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "I am not sure there is safety for anyone in these days, but we all travel "
 "the same road and face the same foes."
 msgstr ""
 "我不确定这段日子里任何人绝对安全，但我们在同一条路上，面对的是相同的敌人。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "Yes. We will follow you to the Ford of Abez, Delfador. Let us hope we are "
 "not too late to prevent an orcish victory there."
@@ -2586,23 +2685,15 @@ msgstr "在德法多的领导下，精灵与韦诺的军队结成了联盟，并
 msgid "but the King was in an unenviable position..."
 msgstr "但国王的处境依然不妙……"
 
-#. [side]: type=King of Wesnoth, id=Garard II
-msgid "Garard II"
-msgstr "伽拉德二世"
-
-#. [side]: type=Orcish Sovereign, id=Zorlan
-msgid "Zorlan"
-msgstr "佐兰"
-
-#. [side]: type=Orcish Warrior, id=T'bhan
+#. [leader]: id=T'bhan, type=Orcish Warrior
 msgid "T’bhan"
 msgstr "提班"
 
-#. [side]: type=Orcish Warrior, id=Qgthun
+#. [leader]: id=Qgthun, type=Orcish Warrior
 msgid "Qgthun"
 msgstr "齐图恩"
 
-#. [side]: type=Great Troll, type=Troll Hero, id=Trgrau
+#. [leader]: id=Trgrau, type={ON_DIFFICULTY (Troll Hero) (Great Troll) (Great Troll)}
 msgid "Trgrau"
 msgstr "特尔格罗"
 
@@ -2611,13 +2702,13 @@ msgstr "特尔格罗"
 msgid "Death of Garard II"
 msgstr "伽拉德二世死亡"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "It appears we have arrived just in time! The King stands at bay, surrounded "
 "by the enemy."
 msgstr "似乎我们来得正是时候！国王在海湾被敌人包围了。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "I fear we may be too late. This new warlord must have united every orcish "
 "tribe north of the Great River. Look at their army, it is vast!"
@@ -2625,7 +2716,7 @@ msgstr ""
 "恐怕我们来得太晚了。这个新的军阀或许早已联合了泰河以北的所有兽族部落。看他们"
 "的部队，太庞大了！"
 
-#. [message]: id=Zorlan
+#. [message]: speaker=Zorlan
 msgid ""
 "Elves! I heard you have been looking for me! But you will save neither the "
 "human prince, nor yourselves."
@@ -2633,123 +2724,13 @@ msgstr ""
 "精灵！我早就听说你们在找我了！但你们既不会救下人类的王子，也不会拯救你们自"
 "己。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "We must destroy this warlord now, before his power grows any greater!"
 msgstr "我们必须在他变得更强大之前，干掉他！"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "Agreed, but we must make haste, for the King is hard pressed."
 msgstr "同意，我们必须加快，国王坚持不了多久了。"
-
-#. [message]: id=Kalenz
-msgid "Victory!"
-msgstr "胜利了！"
-
-#. [message]: id=Garard II
-msgid ""
-"Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
-"today!"
-msgstr "德法多！还有你们，精灵朋友！韦诺王国感谢你们的恩情！"
-
-#. [message]: id=Delfador
-msgid "My King, this is Kalenz, High Lord of the Elves."
-msgstr "陛下，这位是卡雷兹，精灵的高阶领主。"
-
-# court怎样翻译为妙？
-#. [message]: id=Garard II
-msgid "You will be forever welcome in the court of Wesnoth."
-msgstr "我们韦诺内阁永远欢迎您。"
-
-#. [message]: id=Kalenz
-msgid ""
-"We look forward to fighting beside you to defeat those threats that remain."
-msgstr "我们期待与你们共同作战，打败残余的敌人。"
-
-#. [message]: id=Delfador
-msgid ""
-"Your Majesty, we have more urgent matters. Leollyn sent me on a mission to "
-"find out why the dead are restless. A foul necromancer has opened a portal "
-"to the land of the dead. It must be closed at all costs, and I am afraid my "
-"skills may be insufficient for that task."
-msgstr ""
-"陛下，我们还有更紧急的问题。利欧林命我寻找亡灵躁动的原因。有个可恶的巫师打开"
-"了通向冥界的传送门。我们必须付出一切代价关上它，我也担心以我绵薄之力不能胜"
-"任。"
-
-#. [message]: id=Kalenz
-msgid ""
-"Delfador, our weapons are weak against the undead, but perhaps we have other "
-"help to give you. Centuries ago the great mage Crelanu entrusted to us a "
-"book of lore, powerful knowledge, perilous secrets that it took Crelanu all "
-"his life to gather."
-msgstr ""
-"德法多，我们的武器没法对付亡灵，但我们可能给你一些其他的帮助。数百年前伟大的"
-"法师克雷拉努交给我们一本法书，这本书蕴含着智慧，克雷拉努毕其一生寻找的强大的"
-"知识和危险的秘密。"
-
-#. [message]: id=Kalenz
-msgid ""
-"Crelanu charged us to guard his book until someone worthy of it appeared. We "
-"believe you are that one, Delfador. The book may help you find a way to "
-"close that portal."
-msgstr ""
-"克雷拉努叮嘱我们保护这本书直至配得上它的人出现。德法多，我们相信您是这样的一"
-"个人。这本书或许可以告诉你关闭传送门的方法。"
-
-#. [message]: id=Delfador
-msgid ""
-"Friends, your words do me perhaps greater honor than I deserve. I am not "
-"sure I am worthy of this charge."
-msgstr "朋友们，你们或许过分地赞美我了。我不确定是否能接受这个重任。"
-
-#. [message]: id=Kalenz
-msgid ""
-"Chantal and I are sure of your quality. But be warned: there is a curse on "
-"this book. Crelanu fairly warned us that his arts would bring much woe down "
-"upon us. And so it proved, though at the time we had no other choice. The "
-"victories you win with it may cost you as dearly."
-msgstr ""
-"我和香黛尔相信你的品德。但是小心：这本书里有一条诅咒。克雷拉努多次警告我们他"
-"的作品将会为我们带来巨大的灾难。事实也证明了这些，然而我们当时别无选择。你利"
-"用它得到的胜利将会带来惨痛的代价。"
-
-#. [message]: id=Delfador
-msgid "Curse or no, we must close that portal soon, or else we are all doomed."
-msgstr "不论有没有诅咒，我们都要尽快关闭那扇传送门，不然我们都会被毁灭的。"
-
-#. [message]: id=Kalenz
-msgid ""
-"This is a decision you will have to make. If we fight the undead without the "
-"book’s help, it will be an honor to fight by your side, no matter what the "
-"outcome."
-msgstr ""
-"这是你必须作出的选择。如果我们不借助这本书与亡灵作战，无论结果如何，与你共同"
-"作战是一种荣耀。"
-
-#. [message]: id=Delfador
-msgid ""
-"I think I, too, have no choice but to accept the book. I cannot allow the "
-"sure death of many humans and elves for fear of the curse."
-msgstr ""
-"我想我……也得……除了收下这本书以外别无选择。我不希望害怕咒语，使得人类和精灵因"
-"此尸横遍野。"
-
-#. [message]: id=Chantal
-msgid ""
-"Then here it is, Delfador. May it help you bring a swift end to the undead "
-"menace. And may it cost you less than it has cost us..."
-msgstr ""
-"德法多，给你法书。愿这本书帮您迅速消灭亡灵的威胁。也但愿这本书让您付出的代价"
-"比我们付出的少……"
-
-#. [message]: id=Delfador
-msgid ""
-"Thank you, friends. May we meet again in happier times. Now I must make "
-"haste, for I need to study the book and prepare for the battle with the "
-"undead."
-msgstr ""
-"朋友们，谢谢。希望我们以后能在更欢乐的时光相聚。现在我得开始了，我必须学习这"
-"本书以便更好地与亡灵作战。"
 
 #. [message]: speaker=Garard II
 msgid ""
@@ -2757,15 +2738,15 @@ msgid ""
 "only hope help arrives soon."
 msgstr "敌人快要来了，我的卫兵必须参战。我们只能指望援军来到了。"
 
-#. [unit]: id=Adamar, type=Royal Guard
+#. [event]
 msgid "Adamar"
 msgstr "阿达马尔"
 
-#. [unit]: id=Mitbreen, type=Royal Guard
+#. [event]
 msgid "Mitbreen"
 msgstr "米布林"
 
-#. [unit]: id=Ronduger, type=Iron Mauler
+#. [event]
 msgid "Ronduger"
 msgstr "龙杜格尔"
 
@@ -2776,6 +2757,116 @@ msgstr "为国王而战！"
 #. [message]: speaker=Zorlan
 msgid "Argh! It can't be, beaten by these swine!"
 msgstr "啊！不可能，我怎么会被这些贱种打败！"
+
+#. [message]: speaker=Kalenz
+msgid "Victory!"
+msgstr "胜利了！"
+
+#. [message]: speaker=Garard II
+msgid ""
+"Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
+"today!"
+msgstr "德法多！还有你们，精灵朋友！韦诺王国感谢你们的恩情！"
+
+#. [message]: speaker=Delfador
+msgid "My King, this is Kalenz, High Lord of the Elves."
+msgstr "陛下，这位是卡雷兹，精灵的高阶领主。"
+
+# court怎样翻译为妙？
+#. [message]: speaker=Garard II
+msgid "You will be forever welcome in the court of Wesnoth."
+msgstr "我们韦诺内阁永远欢迎您。"
+
+#. [message]: speaker=Kalenz
+msgid ""
+"We look forward to fighting beside you to defeat those threats that remain."
+msgstr "我们期待与你们共同作战，打败残余的敌人。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"Your Majesty, we have more urgent matters. Leollyn sent me on a mission to "
+"find out why the dead are restless. A foul necromancer has opened a portal "
+"to the land of the dead. It must be closed at all costs, and I am afraid my "
+"skills may be insufficient for that task."
+msgstr ""
+"陛下，我们还有更紧急的问题。利欧林命我寻找亡灵躁动的原因。有个可恶的巫师打开"
+"了通向冥界的传送门。我们必须付出一切代价关上它，我也担心以我绵薄之力不能胜"
+"任。"
+
+#. [message]: speaker=Kalenz
+msgid ""
+"Delfador, our weapons are weak against the undead, but perhaps we have other "
+"help to give you. Centuries ago the great mage Crelanu entrusted to us a "
+"book of lore, powerful knowledge, perilous secrets that it took Crelanu all "
+"his life to gather."
+msgstr ""
+"德法多，我们的武器没法对付亡灵，但我们可能给你一些其他的帮助。数百年前伟大的"
+"法师克雷拉努交给我们一本法书，这本书蕴含着智慧，克雷拉努毕其一生寻找的强大的"
+"知识和危险的秘密。"
+
+#. [message]: speaker=Kalenz
+msgid ""
+"Crelanu charged us to guard his book until someone worthy of it appeared. We "
+"believe you are that one, Delfador. The book may help you find a way to "
+"close that portal."
+msgstr ""
+"克雷拉努叮嘱我们保护这本书直至配得上它的人出现。德法多，我们相信您是这样的一"
+"个人。这本书或许可以告诉你关闭传送门的方法。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"Friends, your words do me perhaps greater honor than I deserve. I am not "
+"sure I am worthy of this charge."
+msgstr "朋友们，你们或许过分地赞美我了。我不确定是否能接受这个重任。"
+
+#. [message]: speaker=Kalenz
+msgid ""
+"Chantal and I are sure of your quality. But be warned: there is a curse on "
+"this book. Crelanu fairly warned us that his arts would bring much woe down "
+"upon us. And so it proved, though at the time we had no other choice. The "
+"victories you win with it may cost you as dearly."
+msgstr ""
+"我和香黛尔相信你的品德。但是小心：这本书里有一条诅咒。克雷拉努多次警告我们他"
+"的作品将会为我们带来巨大的灾难。事实也证明了这些，然而我们当时别无选择。你利"
+"用它得到的胜利将会带来惨痛的代价。"
+
+#. [message]: speaker=Delfador
+msgid "Curse or no, we must close that portal soon, or else we are all doomed."
+msgstr "不论有没有诅咒，我们都要尽快关闭那扇传送门，不然我们都会被毁灭的。"
+
+#. [message]: speaker=Kalenz
+msgid ""
+"This is a decision you will have to make. If we fight the undead without the "
+"book’s help, it will be an honor to fight by your side, no matter what the "
+"outcome."
+msgstr ""
+"这是你必须作出的选择。如果我们不借助这本书与亡灵作战，无论结果如何，与你共同"
+"作战是一种荣耀。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"I think I, too, have no choice but to accept the book. I cannot allow the "
+"sure death of many humans and elves for fear of the curse."
+msgstr ""
+"我想我……也得……除了收下这本书以外别无选择。我不希望害怕咒语，使得人类和精灵因"
+"此尸横遍野。"
+
+#. [message]: speaker=Chantal
+msgid ""
+"Then here it is, Delfador. May it help you bring a swift end to the undead "
+"menace. And may it cost you less than it has cost us..."
+msgstr ""
+"德法多，给你法书。愿这本书帮您迅速消灭亡灵的威胁。也但愿这本书让您付出的代价"
+"比我们付出的少……"
+
+#. [message]: speaker=Delfador
+msgid ""
+"Thank you, friends. May we meet again in happier times. Now I must make "
+"haste, for I need to study the book and prepare for the battle with the "
+"undead."
+msgstr ""
+"朋友们，谢谢。希望我们以后能在更欢乐的时光相聚。现在我得开始了，我必须学习这"
+"本书以便更好地与亡灵作战。"
 
 #. [scenario]: id=16_Dark_Sky_Over_Weldyn
 msgid "Dark Sky Over Weldyn"
@@ -2796,8 +2887,8 @@ msgstr ""
 "了，而且情况非常可疑。"
 
 #. [part]
-msgid "King Garard"
-msgstr "伽拉德国王"
+msgid "Garard II"
+msgstr "伽拉德二世"
 
 #. [part]
 msgid ""
@@ -2807,10 +2898,6 @@ msgid ""
 msgstr ""
 "我们带来了一条好消息和一条坏消息：好消息是我们打败了兽人。他们现在群龙无首，"
 "四散而逃。特别要感谢德法多的帮助。"
-
-#. [part]
-msgid "Delfador"
-msgstr "德法多"
 
 #. [part]
 msgid ""
@@ -2868,7 +2955,6 @@ msgstr ""
 "手。"
 
 #. [part]
-#. [side]: type=Lich, id=Sagus
 msgid "Sagus"
 msgstr "萨乌斯"
 
@@ -3019,15 +3105,15 @@ msgstr ""
 "德法多带领了一小支部队向北，试图关闭传送门。然而伊利阿-玛拉尔的大批军队在泰河"
 "以北集结，这条路变得十分危险。德法多不得不放弃这条宽阔的大路，绕道而行……"
 
-#. [event]
-msgid "Udrin"
-msgstr "乌德林"
-
 #. [side]
 msgid "Dwarves"
 msgstr "矮人"
 
-#. [side]: type=Necromancer, id=Gruv-Malal
+#. [side]
+msgid "Udrin"
+msgstr "乌德林"
+
+#. [leader]: id=Gruv-Malal, type=Necromancer
 msgid "Gruv-Malal"
 msgstr "格鲁-玛拉"
 
@@ -3162,11 +3248,11 @@ msgstr ""
 "为吃惊。他们到达目的地时比他原以为的要早了很多，而且他们没有被伊利阿-玛拉尔发"
 "现。"
 
-#. [side]: type=Death Knight, id=Prepolur
+#. [leader]: id=Prepolur, type=Death Knight
 msgid "Prepolur"
 msgstr "普勒波卢"
 
-#. [side]: type=Necromancer, id=Unuvim-Malal
+#. [leader]: id=Unuvim-Malal, type=Necromancer
 msgid "Unuvim-Malal"
 msgstr "阿纳威姆-玛拉尔"
 
@@ -3191,6 +3277,60 @@ msgstr ""
 #. [message]: speaker=Ulrek
 msgid "Ye all heard! Naught will ever say dwarves ever feared anyone. Attack!"
 msgstr "你们都给俺听清楚了！矮人绝不做懦夫。进攻！"
+
+#. [event]
+msgid "Samun"
+msgstr "萨蒙"
+
+#. [event]
+msgid "Skoogal"
+msgstr "斯科加尔"
+
+#. [event]
+msgid "Skulrag"
+msgstr "斯库尔拉加"
+
+#. [event]
+msgid "Idthom"
+msgstr "伊达通"
+
+#. [event]
+msgid "Hyvrun"
+msgstr "伊夫鲁恩"
+
+#. [event]
+msgid "Blud"
+msgstr "布卢德"
+
+#. [message]: speaker=Iliah-Malal
+msgid "What’s going on here? Is this Delfador? Welcome to your doom, Delfador!"
+msgstr "这里怎么回事？德法多来了吗？欢迎迎接你的末日，德法多！"
+
+#. [message]: speaker=Delfador
+msgid ""
+"They have reinforcements. Hurry, we must close the portal before we are "
+"overrun!"
+msgstr "他们还有援兵。快，我们必须在被消灭前关上传送门！"
+
+#. [message]: speaker=Iliah-Malal
+msgid "Slay them all!"
+msgstr "把他们都杀光！"
+
+#. [message]: speaker=Delfador
+msgid "Out of my way, foul creatures!"
+msgstr "别挡路，肮脏的家伙！"
+
+#. [message]: speaker=Iliah-Malal
+msgid ""
+"Fool! You could not kill me in the land of the dead, nor can you in the land "
+"of the living! I transcend both death and life, and I will destroy you!"
+msgstr "傻瓜！你无法在冥界杀死我，人间也不行！我超越了生死，我将毁灭你！"
+
+#. [message]: speaker=Delfador
+msgid ""
+"We cannot defeat him now. We must carry out our mission first, so we will be "
+"able to defeat him later."
+msgstr "现在我们没法击败他。我们必须先完成任务，这样一来，之后我们才能击败他。"
 
 #. [message]: speaker=Delfador
 msgid "Earth, rise and shut this gate of evil for good!"
@@ -3257,60 +3397,6 @@ msgstr "快！"
 msgid "We’re in. Now: Earth, seal this entrance!"
 msgstr "我们都进来了。现在：大地，封印入口吧！"
 
-#. [message]: speaker=Delfador
-msgid "Out of my way, foul creatures!"
-msgstr "别挡路，肮脏的家伙！"
-
-#. [event]
-msgid "Samun"
-msgstr "萨蒙"
-
-#. [event]
-msgid "Skoogal"
-msgstr "斯科加尔"
-
-#. [event]
-msgid "Skulrag"
-msgstr "斯库尔拉加"
-
-#. [event]
-msgid "Idthom"
-msgstr "伊达通"
-
-#. [event]
-msgid "Hyvrun"
-msgstr "伊夫鲁恩"
-
-#. [event]
-msgid "Blud"
-msgstr "布卢德"
-
-#. [message]: id=Iliah-Malal
-msgid "What’s going on here? Is this Delfador? Welcome to your doom, Delfador!"
-msgstr "这里怎么回事？德法多来了吗？欢迎迎接你的末日，德法多！"
-
-#. [message]: id=Delfador
-msgid ""
-"They have reinforcements. Hurry, we must close the portal before we are "
-"overrun!"
-msgstr "他们还有援兵。快，我们必须在被消灭前关上传送门！"
-
-#. [message]: id=Iliah-Malal
-msgid "Slay them all!"
-msgstr "把他们都杀光！"
-
-#. [message]: speaker=Iliah-Malal
-msgid ""
-"Fool! You could not kill me in the land of the dead, nor can you in the land "
-"of the living! I transcend both death and life, and I will destroy you!"
-msgstr "傻瓜！你无法在冥界杀死我，人间也不行！我超越了生死，我将毁灭你！"
-
-#. [message]: id=Delfador
-msgid ""
-"We cannot defeat him now. We must carry out our mission first, so we will be "
-"able to defeat him later."
-msgstr "现在我们没法击败他。我们必须先完成任务，这样一来，之后我们才能击败他。"
-
 #. [scenario]: id=19_Showdown_in_the_Northern_Swamp
 msgid "Showdown in the Northern Swamp"
 msgstr "北泽摊牌"
@@ -3337,11 +3423,11 @@ msgstr ""
 "派出了矮人和精灵信使，德法多能够把消息传达给国王请求援助。召集他所有的部队，"
 "莱昂内尔向北行军加入了德法多，为了这场决定韦诺命运的战斗做准备。"
 
-#. [side]: type=Necromancer, id=Maldun
+#. [leader]: id=Maldun, type=Necromancer
 msgid "Maldun"
 msgstr "马尔敦"
 
-#. [side]: type=Death Knight, id=Alderoth
+#. [leader]: id=Alderoth, type=Death Knight
 msgid "Alderoth"
 msgstr "奥尔德罗特"
 
@@ -3467,17 +3553,19 @@ msgid ""
 msgstr "莱昂内尔，跟你并肩战斗是种荣耀。现在我们为了生存跟死亡作战吧！"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
 "Remember that one of our undead or I must strike the final blow, for Iliah-"
-"Malal’s un-life can only be ended by the touch of un-life or by the power of "
+"Malal’s unlife can only be ended by the touch of unlife or by the power of "
 "the Book of Crelanu."
 msgstr ""
 "记住，必须由我方的一名亡灵或我来打出最后一击，伊利阿-玛拉尔的不死生命只能由不"
 "死生命之触或者克雷拉努之书的力量来终结。"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
-"Remember that I must strike the final blow, for Iliah-Malal’s un-life can "
+"Remember that I must strike the final blow, for Iliah-Malal’s unlife can "
 "only be ended by the power of the Book of Crelanu."
 msgstr ""
 "记住，必须由我来打出最后一击，伊利阿-玛拉尔的不死生命只能由克雷拉努之书的力量"
@@ -3584,11 +3672,11 @@ msgstr ""
 "一天突然消息传来，韦诺军队陈兵于精灵边境。卡雷兹召集了一小队兵，匆忙赶往局势"
 "紧张的乡村。"
 
-#. [side]: type=General, id=Eldred
+#. [leader]: id=Eldred, type=General
 msgid "Eldred"
 msgstr "埃雷德"
 
-#. [side]: type=General, id=Lowel
+#. [leader]: id=Lowel, type=General
 msgid "Lowel"
 msgstr "洛厄尔"
 
@@ -3596,7 +3684,13 @@ msgstr "洛厄尔"
 msgid "Defeat Eldred"
 msgstr "打败埃雷德"
 
-#. [message]: id=Kalenz
+#. [note]
+msgid ""
+"As a generation has passed, all your elvish units have gained a level and "
+"some experience."
+msgstr ""
+
+#. [message]: speaker=Kalenz
 msgid ""
 "Generals of Wesnoth: you have attacked defenseless elvish land. You must "
 "leave immediately. I am Kalenz, High Lord of the Elves. Delfador the Great "
@@ -3605,7 +3699,7 @@ msgstr ""
 "韦诺的将军：你们攻击了不设防的精灵领地。你必须马上离开。我是卡雷兹，精灵高阶"
 "领主。德法多大师会确认我们之间的条约。"
 
-#. [message]: id=Eldred
+#. [message]: speaker=Eldred
 msgid ""
 "This is elvish land no more. I, Eldred, prince of Wesnoth and heir to the "
 "throne, claim it for Wesnoth and Queen Asheviere. Delfador does not rule in "
@@ -3614,13 +3708,13 @@ msgstr ""
 "这里不再是精灵的领地了。我，埃雷德，韦诺王子，王座继承人，以韦诺王国和艾什薇"
 "尔母后的名义占领此地。德法多并不是韦诺的统治者！"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "I did not want to spill human blood, but this arrogant prince leaves me no "
 "other choice."
 msgstr "我不想让人类流血，不过这个傲慢的王子让我别无选择。"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "Peace, friends! I have been riding nonstop for days to prevent this madness! "
 "Eldred, I have direct orders from the King to take you back to the Palace, "
@@ -3632,7 +3726,7 @@ msgstr ""
 "你带回王宫，你还会为你不可宽恕的行为受到惩罚。卡雷兹，国王为这次事件表达深深"
 "的歉意，愿意做出任何补偿。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "Delfador! I am glad to see you. We have no demands on the King, but I "
 "believe he should be very careful, for he does not seem to be the only ruler "
@@ -3641,7 +3735,7 @@ msgstr ""
 "德法多！很高兴见到你。我们不需要国王补偿什么，但我认为他应该更当心点，他看起"
 "来不能完全控制韦诺！"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid ""
 "Kalenz, I am very worried. There is a cloud of evil swirling around the "
 "Royal Palace, and it has more centers than the prince alone. I see dark days "
@@ -3650,7 +3744,7 @@ msgstr ""
 "卡雷兹，我很担心。王室宫殿上空有邪恶的阴云盘旋，比王子更接近权力中心。我看见"
 "了前方黑暗的日子……"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "I wonder if the Book of Crelanu is not behind this. The Book is not evil in "
 "itself, but the power it gives tends to magnify any evil in the reader’s "
@@ -3660,7 +3754,7 @@ msgstr ""
 "我想知道克雷拉努之书是否是背后的原因。法书本身不邪恶，但它的力量能放大持有者"
 "内心的邪念。德法多，自我们把它给你以后，除了你以外是否还有别人打开看过？"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "I do not think so. But... Asheviere, Garard’s queen and Eldred’s mother, "
 "seemed to be hinting some months ago that I should teach her magery. She "
@@ -3671,11 +3765,11 @@ msgstr ""
 "她魔咒。在我没有回应后也就没有再提起，我以为这只是一个骄傲又任性的女人一时的"
 "冲动。"
 
-#. [message]: id=Chantal
+#. [message]: speaker=Chantal
 msgid "I wonder if we have not dangerously misjudged her..."
 msgstr "我希望我们没有危险地错误判断她……"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "It may be so. Now that I think on it, I think I had best return to the "
 "Palace more swiftly than I came here, even if I have to kill three horses "
@@ -3689,7 +3783,7 @@ msgstr ""
 msgid "Rebels"
 msgstr "反抗势力"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "We are too late! All is lost!"
 msgstr "我们太迟了！一切都完了！"
 
@@ -3701,13 +3795,14 @@ msgstr "采邑激战"
 #. "demesne" = the part of a feudal lord's lands reserved for
 #. personal use.
 #. The "Sceptre" spelling is intentional.
+#, fuzzy
 msgid ""
-"Upon his return to Weldyn, Delfador discovered that the queen had left with "
-"a strong escort to visit her family’s demesne and her ailing parents. "
-"Lionel, the King’s most trusted general, had been sent at Asheviere’s "
-"request on an errand to Knalga to retrieve the Sceptre of Fire. That mission "
-"would cost Lionel his life; and neither Lionel nor Delfador knew that "
-"Lionel’s mission had been compromised from the start."
+"Upon his return to Weldyn, Delfador discovered that the Book was missing. "
+"The queen had left with a strong escort to visit her family’s demesne and "
+"her ailing parents. Lionel, the King’s most trusted general, had been sent "
+"at Asheviere’s request on an errand to Knalga to retrieve the Sceptre of "
+"Fire. That mission would cost Lionel his life; and neither Lionel nor "
+"Delfador knew that Lionel’s mission had been compromised from the start."
 msgstr ""
 "他一回到维尔帝，德法多就发现王后就带了一队精装卫兵去她家族的领地看望她生病的"
 "父母。莱昂内尔，国王最信任的将军，在艾什薇尔的要求下被派往克纳尔加取回火焰权"
@@ -3726,11 +3821,12 @@ msgstr ""
 "他们。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Delfador was granted an audience with the King and expressed his concerns "
-"about the missing Book, but the King put off a decision until Asheviere "
-"returned to Weldyn, and ordered Delfador to take no further action. And for "
-"once, Delfador knew he could not obey the King’s order."
+"about the Book, but the King put off a decision until Asheviere returned to "
+"Weldyn, and ordered Delfador to take no further action. And for once, "
+"Delfador knew he could not obey the King’s order."
 msgstr ""
 "德法多被国王接见，他表达了自己对丢失的法书的担忧，但国王在艾什薇尔回到维尔帝"
 "后才会做出决定，并命令德法多不得继续行动。这一次，德法多知道他不能遵守国王的"
@@ -3745,7 +3841,7 @@ msgstr ""
 "因为他不能叫他的个人卫队去违背国王的意愿，他向卡雷兹和精灵求助。他们在夜晚行"
 "军掩人耳目，最后到达了艾什薇尔的家族领地。"
 
-#. [side]: type=General, id=Rhuwin
+#. [leader]: id=Rhuwin, type=General
 msgid "Rhuwin"
 msgstr "鲁温"
 
@@ -3765,14 +3861,14 @@ msgstr "敌方骑乘单位会前往路标"
 msgid "All enemy units will go for a signpost"
 msgstr "敌方所有单位都会前往路标"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid ""
 "I am grieved to have to resort to this. Yet the book must be recovered at "
 "all costs and no one should be left alive."
 msgstr ""
 "我很遗憾要诉诸这样的方法。但法书不惜一切代价都必须被合上，没有人能活着离开。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid ""
 "The book’s curse is already weighing heavy upon you, friend. But we cannot "
 "falter. We have acquired orcish weapons, as you have requested. Nobody will "
@@ -3781,11 +3877,11 @@ msgstr ""
 "法书的诅咒已经开始在你身上应验，朋友。但我们不能犹豫。我们已经装备了兽人的武"
 "器，按照你的要求。每人能把这次行动和你或精灵联系起来。"
 
-#. [message]: id=Kalenz
+#. [message]: speaker=Kalenz
 msgid "Make sure everybody hears the orders. Nobody must escape."
 msgstr "确保每个人都听到了命令。没有人能离开。"
 
-#. [message]: id=Rhuwin
+#. [message]: speaker=Rhuwin
 msgid ""
 "Elves! And that traitor, Delfador is with them! Riders, quickly, go alert "
 "the queen. And guards, prepare to strike them down!"
@@ -3793,7 +3889,7 @@ msgstr ""
 "精灵！还有那个叛国者，德法多和他们在一起！骑手，快，去向王后报警。守卫们，准"
 "备击退他们！"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "The guards are slain. Now we must look for the book."
 msgstr "守卫被杀死了。现在我们要马上找到法书。"
 
@@ -3801,7 +3897,7 @@ msgstr "守卫被杀死了。现在我们要马上找到法书。"
 msgid "Find the secret door to enter the manor"
 msgstr "找到密门以进入庄园"
 
-#. [message]: id=$unit.id
+#. [message]: speaker=unit
 msgid "This looks like a secret door. Let’s see where it leads..."
 msgstr "这里好像有扇密门。让我看看它通向哪里……"
 
@@ -3809,7 +3905,7 @@ msgstr "这里好像有扇密门。让我看看它通向哪里……"
 msgid "Everyone, quickly, go alert the queen!"
 msgstr "所有人，快点儿，去警告王后！"
 
-#. [message]: id=Delfador
+#. [message]: speaker=Delfador
 msgid "Reinforcements on the horizon. We are too late!"
 msgstr "援兵出现在地平线上了。我们太迟了！"
 
@@ -4008,19 +4104,6 @@ msgid ""
 "abilities of command and healing derived from extensive experience of battle."
 msgstr "法师长老与大法师一样，在战斗经验中具有特殊的指挥能力和治疗加成。"
 
-#. [unit_type]: id=Wose Shaman, race=wose
-msgid "Wose Shaman"
-msgstr "树人萨满"
-
-#. [unit_type]: id=Wose Shaman, race=wose
-msgid ""
-"These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies."
-msgstr "这种树人会指挥藤蔓类的植物以阻碍敌人。"
-
-msgid "Kalenz"
-msgstr "卡雷兹"
-
 msgid "Chantal"
 msgstr "香黛尔"
 
@@ -4032,6 +4115,9 @@ msgstr "雷尔戈恩"
 
 msgid "Methor"
 msgstr "梅瑟"
+
+msgid "Zorlan"
+msgstr "佐兰"
 
 msgid "Iliah-Malal"
 msgstr "伊利阿-玛拉尔"

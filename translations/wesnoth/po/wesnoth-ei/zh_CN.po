@@ -2,12 +2,12 @@
 # Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:39+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -27,24 +27,24 @@ msgid "EI"
 msgstr "EI"
 
 #. [campaign]: id=Eastern_Invasion
-msgid "Easy"
-msgstr "容易"
+msgid "Normal"
+msgstr "普通"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Spearman"
 msgstr "矛兵"
 
 #. [campaign]: id=Eastern_Invasion
-msgid "Normal"
-msgstr "普通"
+msgid "Challenging"
+msgstr "挑战"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Swordsman"
 msgstr "剑士"
 
 #. [campaign]: id=Eastern_Invasion
-msgid "Challenging"
-msgstr "挑战"
+msgid "Difficult"
+msgstr ""
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Royal Guard"
@@ -62,7 +62,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Eastern_Invasion
-msgid "(Novice level, 16 scenarios.)"
+#, fuzzy
+msgid "(Intermediate level, 16 scenarios.)"
 msgstr "（新手级别，16幕场景。）"
 
 #. [about]
@@ -139,8 +140,9 @@ msgstr ""
 "的计划。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"In the days of the king Garard I, two strong-points had been built along the "
+"In the days of King Garard I, two strong-points had been built along the "
 "near bank of the Weldyn, south of Soradoc, to stop bandits and orcish "
 "raiders out of the Estmarks from entering Wesnoth. But in later years the "
 "River Guard posts had been abandoned, as colonists spread into the Estmarks "
@@ -181,17 +183,38 @@ msgstr ""
 "国王的军队到来之后，一切都很正常。有好几周都没有遇到袭击，格温德利的部队开始"
 "松懈起来。而后，在某一天的黎明，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
 
-#. [side]: type=Lieutenant, id=Gweddry
 #. [side]
+#. [side]: type=Dwarvish Steelclad, id=Knutan
+#. [side]: type=Lieutenant, id=Gweddry
 #. [side]: type=General, id=Konrad II
 #. [side]: type=Great Mage, id=Kaldor
 #. [side]: type=General, id=Halrad
 #. [side]: type=General, id=Halric
 #. [side]: type=General, id=Halrod
-#. [side]: type=Dwarvish Steelclad, id=Knutan
 msgid "Wesnothians"
 msgstr "韦诺人"
 
+#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
+#. [side]: type=Dark Sorcerer, id=Mal-Talar
+#. [side]: type=Lich, id=Mal-Uldhar
+#. [side]
+#. [side]: type=Dark Sorcerer, id=Mal-Skraat
+#. [side]: type=Dark Adept, id=Mal-Tar
+#. [side]: type=Dark Sorcerer, id=Mal-Kallat
+#. [side]: type=Lich, id=Mal-Telnarad
+#. [side]: type=Dark Sorcerer, id=Mal-Marak
+#. [side]: type=Dark Sorcerer, id=Mal-Galkar
+#. [side]: type=Death Knight, id=Ravanal-Guard
+#. [side]: type=Revenant, id=Lanar-Skal
+#. [side]: type=Bone Knight, id=Garnad
+#. [side]: type=Necromancer, id=Mal-un-Karad
+#. [side]: type=Necromancer, id=Mal-un-Darak
+#. [side]: type=Necromancer, id=Mal-un-Zanrad
+#. [side]: type=Necromancer, id=Mal-un-Xadrux
+#. [side]: type=Lich, id=Mal-Grekulak
+#. [side]: type=Lich, id=Mal-Xakralan
+#. [side]: type=Lich, id=Mal-Uknalu
+#. [side]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Lich, id=Lich2
 #. [side]: type=Lich, id=Lich3
 #. [side]: type=Lich, id=Lich4
@@ -199,27 +222,6 @@ msgstr "韦诺人"
 #. [side]: type=Lich, id=Lich6
 #. [side]: type=Lich, id=Lich7
 #. [side]: type=Lich, id=Lich8
-#. [side]: type=Dark Sorcerer, id=Mal-Marak
-#. [side]: type=Dark Sorcerer, id=Mal-Galkar
-#. [side]: type=Death Knight, id=Ravanal-Guard
-#. [side]
-#. [side]: type=Dark Sorcerer, id=Mal-Skraat
-#. [side]: type=Lich, id=Mal-Telnarad
-#. [side]: type=Revenant, id=Lanar-Skal
-#. [side]: type=Lich Lord, id=Mal-Ravanal
-#. [side]: type=Bone Knight, id=Garnad
-#. [side]: type=Dark Sorcerer, id=Mal-Sakkat
-#. [side]: type=Dark Sorcerer, id=Mal-Talar
-#. [side]: type=Lich, id=Mal-Uldhar
-#. [side]: type=Lich, id=Mal-Grekulak
-#. [side]: type=Lich, id=Mal-Xakralan
-#. [side]: type=Lich, id=Mal-Uknalu
-#. [side]: type=Necromancer, id=Mal-un-Karad
-#. [side]: type=Necromancer, id=Mal-un-Darak
-#. [side]: type=Necromancer, id=Mal-un-Zanrad
-#. [side]: type=Necromancer, id=Mal-un-Xadrux
-#. [side]: type=Dark Adept, id=Mal-Tar
-#. [side]: type=Dark Sorcerer, id=Mal-Kallat
 msgid "Undead"
 msgstr "亡灵"
 
@@ -238,6 +240,11 @@ msgstr "玛尔-乌尔达"
 #. [objective]: condition=win
 msgid "Defend the outpost"
 msgstr "保卫哨所"
+
+#. [objectives]
+#. [objective]: condition=win
+msgid "Defeat all enemy leaders"
+msgstr "击败所有敌方首领"
 
 #. [objective]: condition=lose
 msgid "Death of Gweddry"
@@ -320,10 +327,6 @@ msgstr ""
 msgid "Move Gweddry to the trapdoor"
 msgstr "移动格温德利至活板门处"
 
-#. [objective]: condition=win
-msgid "Defeat all enemy leaders"
-msgstr "击败所有敌方首领"
-
 #. [message]: speaker=Dacyn
 msgid "Hurry! We cannot defeat this evil today! We must escape!"
 msgstr "赶快！今天我们没办法击败这邪恶之徒！我们得逃跑！"
@@ -336,11 +339,11 @@ msgstr "跟我上，士兵们！通过活版门！"
 msgid "The Escape Tunnel"
 msgstr "离脱隧道"
 
+#. [side]: type=Troll, id=Kabak
 #. [side]: type=Ogre, id=Grug
+#. [side]
 #. [side]: type=Troll Warrior, id=Darg
 #. [side]: type=Gryphon, id=Kraagak
-#. [side]: type=Troll, id=Kabak
-#. [side]
 msgid "Monsters"
 msgstr "怪物"
 
@@ -397,8 +400,9 @@ msgid "Who goes there?"
 msgstr "那边是谁？"
 
 #. [message]: speaker=Gweddry
+#, fuzzy
 msgid ""
-"We are soldiers of the king of Wesnoth. Will you help us fight these trolls?"
+"We are soldiers of the King of Wesnoth. Will you help us fight these trolls?"
 msgstr "我们是韦诺国王麾下的士兵。你能帮助我们和巨魔作战吗？"
 
 #. [message]: speaker=unit
@@ -562,10 +566,10 @@ msgstr "同盟"
 msgid "Volas"
 msgstr "沃拉斯"
 
+#. [side]: type=Orcish Warrior, id=Gruga-Har
 #. [side]: type=Orcish Nightblade, id=Bagork
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #. [side]: type=Orcish Warlord, id=King Dra-Nak
-#. [side]: type=Orcish Warrior, id=Gruga-Har
 msgid "Orcs"
 msgstr "兽人"
 
@@ -1127,13 +1131,13 @@ msgstr "欧瓦埃克"
 msgid "Two Paths"
 msgstr "分岔口"
 
-#. [side]
-#. [side]: type=Orcish Warlord, id=Varrak-Klar
-#. [side]: type=Troll Warrior, id=Unhk
-#. [side]: type=Orcish Warlord, id=Ran-Lar
 #. [side]: type=Orcish Warlord, id=Wak-Rano
 #. [side]: type=Dark Sorcerer, id=Mal-Arnai
 #. [side]: type=Orcish Ruler, id=Draka-Kura
+#. [side]: type=Orcish Warlord, id=Varrak-Klar
+#. [side]: type=Troll Warrior, id=Unhk
+#. [side]: type=Orcish Warlord, id=Ran-Lar
+#. [side]
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -1370,8 +1374,9 @@ msgid ""
 msgstr "我会让你的尸身烂在河里，而后让你复活，在吾主的亡灵大军之中效命！"
 
 #. [message]: speaker=Mal-un-Karad
-msgid "Creatures from the deep, I summon thee to destroy this foe!"
-msgstr "深渊之物啊，听从吾之召唤，摧毁敌军！"
+#. "Wake" doesn't mean "raise undead" here. The reinforcements are sea creatures, they're alive but hidden underwater.
+msgid "Time to wake my reinforcements!"
+msgstr ""
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1682,6 +1687,11 @@ msgid ""
 "and may you find us an answer. Onward!"
 msgstr "好吧，我们来对付巨魔和狮鹫。去图书馆搜查吧，愿你为我们找到答案。前进！"
 
+#. [label]
+#, fuzzy
+msgid "The stronghold"
+msgstr "移动达辛至要塞中"
+
 #. [message]: speaker=Dacyn
 msgid ""
 "The island ahead is mountainous; it would be wise to select troops that do "
@@ -1916,8 +1926,9 @@ msgid ""
 msgstr "我们得先找回金币！它们一定已经被移到藏宝库去了。"
 
 #. [objective]: condition=win
-msgid "Gweddry reaches the western exit"
-msgstr "格温德利到达西出口"
+#, fuzzy
+msgid "Move Gweddry to the western exit"
+msgstr "移动格温德利至隧道出口"
 
 #. [objective]: condition=win
 msgid "Retrieve the stolen gold"
@@ -1978,7 +1989,8 @@ msgid "Ran-Lar"
 msgstr "兰-拉"
 
 #. [objective]: condition=win
-msgid "Destroy the bridge OR defeat all enemies"
+#, fuzzy
+msgid "Destroy the bridge"
 msgstr "摧毁桥梁或击败所有敌人"
 
 #. [note]
@@ -1998,7 +2010,8 @@ msgid ""
 msgstr "我们得离开北陆，越快越好！ 快逃命——什……？！你是谁？"
 
 #. [message]: speaker=Engineer
-#. This is thickly accented English
+#. This is thickly accented English. In unaccented English, it would read:
+#. "I'm an engineer. I expect you'll have a need of my services. I bet you're going to want me to blow up that bridge over there."
 msgid ""
 "I’m an enginea’. I s’pect you’ll have a need of me services. I bet you’re "
 "gonna want me to blow up that bridge ov’r theah."
@@ -2020,6 +2033,7 @@ msgid "I see... I think it is a good idea to hire him. How much?"
 msgstr "我明白了……我觉得雇佣他会是个好主意。多少钱？"
 
 #. [message]: speaker=Engineer
+#. "I'm not charging gold — I want protection! Everywhere I go, I see orcs, undead. It isn't safe around here!"
 msgid ""
 "I ain’t charging gold — I wants protecshun! Everywhere I go, I see orcs, "
 "undead. ’T’ain’t safe ’round ’ere!"
@@ -2034,6 +2048,7 @@ msgstr ""
 "吧！"
 
 #. [message]: speaker=Engineer
+#. "Deal. I can blow her [it] up once I get to that signpost over there. That's where my equipment is. But everyone not over there on that side when it blows will be killed by the orcs for sure!"
 msgid ""
 "Deal. I c’n blow’er up once I get to that signpost ov’r dere. That’s where "
 "my eq’pment is. But ev’ryone not ov’r theah on that side when it blows w’ll "
@@ -2043,6 +2058,7 @@ msgstr ""
 "候在桥那边的人肯定都会被兽人杀掉的！"
 
 #. [message]: speaker=Engineer
+#. "So, do you want me to blow up the bridge yet, Captain?"
 msgid "So, d’ya want me to blow up der bridge yet, Cap’n?"
 msgstr "那现在想叫俺炸桥嘛，老大？"
 
@@ -2051,6 +2067,7 @@ msgid "Yes, blow it up."
 msgstr "是的，炸掉它。"
 
 #. [message]: speaker=Engineer
+#. "All right! Blasting time!"
 msgid "All right! Blast’n time!"
 msgstr "好的！爆破时间！"
 
@@ -2068,6 +2085,7 @@ msgid "No, wait until later."
 msgstr "不，等一会儿。"
 
 #. [message]: speaker=Engineer
+#. "No? All right then, we'll wait for later, eh?"
 msgid "Neh? A’right then, we’ll wait fa’ later, eh?"
 msgstr "不？好吧，咱再等会儿，呃？"
 
@@ -2106,6 +2124,7 @@ msgid ""
 msgstr "很好，我们往南走。但愿我们在玛尔-拉瓦纳尔之前到达维尔帝。"
 
 #. [message]: speaker=Engineer
+#. "I'll be following you from now on. I hope you can get to Weldyn and all so I can stop running..."
 msgid ""
 "I’ll be followin’ yah from now on. Hope yah can get to Weld’n an’ all so I "
 "c’n stop runnin’..."
@@ -2526,8 +2545,8 @@ msgstr "我将整备部队。"
 msgid "The Duel"
 msgstr "决斗"
 
-#. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
 #. [side]: type=Lich Lord, id=Mal-Ravanal
+#. [modify_unit]: type=Lich Lord, id=Mal-Ravanal
 msgid "Mal-Ravanal"
 msgstr "玛尔-拉瓦纳尔"
 
@@ -2958,9 +2977,10 @@ msgstr ""
 "当在进攻中使用本攻击时，对手的反击次数将比通常少一次，但最少还是会有一次反"
 "击。"
 
-#. You can copy the translation from the wesnoth-utbs textdomain
+#. [attacks]: id=shock
+#, fuzzy
 msgid ""
-" This unit’s melee attack can overwhelm the defenses of enemies, preventing "
+"This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
 msgstr " 此单位的近战攻击可以击破敌方的防御，以至于敌方的反击效果会降低。"
 

@@ -8,12 +8,12 @@
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Dugucloud <dugucloud@qq.com>, 2010.
 # wind <everywherewind@gmail.com>, 2011.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-03-20 22:07-0300\n"
+"POT-Creation-Date: 2021-11-09 03:45+0300\n"
 "PO-Revision-Date: 2021-04-18 16:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -81,10 +81,6 @@ msgid "Auto-open whisper windows in lobby"
 msgstr "在游戏大厅中自动打开悄悄话窗口"
 
 #. [advanced_preference]: type=boolean
-msgid "Group players in lobby"
-msgstr "在游戏大厅中对玩家进行分组"
-
-#. [advanced_preference]: type=boolean
 msgid "Follow unit actions"
 msgstr "跟随单位行动"
 
@@ -117,9 +113,10 @@ msgid "Show all unit types in help"
 msgstr "在帮助中显示所有单位种类"
 
 #. [advanced_preference]: type=boolean
+#, fuzzy
 msgid ""
-"Show all unit types in the help (requires restart). This does not alter the "
-"list of encountered units"
+"Show all unit types in the help (requires restart). If unset, only units "
+"that have been encountered will be shown."
 msgstr ""
 "在帮助中显示所有单位种类（需要重新启动）。这并不会改变已遇到的单位的列表"
 
@@ -141,10 +138,6 @@ msgid "Use colored mouse cursors"
 msgstr "使用彩色鼠标箭头"
 
 #. [advanced_preference]: type=custom
-msgid "Graphics scaling options"
-msgstr "图像缩放选项"
-
-#. [advanced_preference]: type=custom
 msgid "Customize orb colors"
 msgstr "自定义状态球颜色"
 
@@ -163,14 +156,6 @@ msgid ""
 msgstr "允许伤害计算窗口进行战斗模拟，而不使用精确的概率计算法"
 
 #. [advanced_preference]: type=boolean
-msgid "Show haloing effects"
-msgstr "显示光晕效果"
-
-#. [advanced_preference]: type=boolean
-msgid "Show special unit graphical effects"
-msgstr "显示特殊的单位图像效果"
-
-#. [advanced_preference]: type=boolean
 msgid "Show deprecation messages in-game"
 msgstr "在游戏中显示API废弃信息"
 
@@ -183,115 +168,88 @@ msgstr ""
 "在游戏的对话区域内显示关于废弃API的警告消息。即使禁用此功能，这些消息也仍然会"
 "显示在日志中。以及，废弃信息日志域控制着所显示的消息的数量。"
 
-#. [advanced_preference]: type=boolean
-msgid "Use experimental PRNG combat"
-msgstr "在战斗中使用试验性的PRNG"
-
-#. [advanced_preference]: type=boolean
-msgid ""
-"Enables more determinstic chance-to-hit calculations. This is an "
-"experimental feature designed to bring the observed hit/miss rate more in "
-"line with the displayed percentages.\n"
-"\n"
-"Note: this option only affects singleplayer, and the ‘Save random seed’ "
-"option must also be enabled when creating a game for this to work."
-msgstr ""
-"启用更具有确定性的命中率计算模式。这是一个试验性的特性，是为了让观察到的命中/"
-"射失率和显示的百分比更接近而设计的。\n"
-"\n"
-"注：此选项只影响单人游戏，且为了让此特性正常工作，在创建游戏时必须启用“保存随"
-"机种子”选项。"
-
-#. [advanced_preference]: type=boolean
-msgid "Joystick support"
-msgstr "手柄支持"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the scroll X-axis joystick"
-msgstr "手柄：用于横向卷屏的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the scroll X-axis"
-msgstr "手柄：用于横向卷屏的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the scroll Y-axis joystick"
-msgstr "手柄：用于纵向卷屏的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the scroll Y-axis"
-msgstr "手柄：用于纵向卷屏的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: deadzone of the scrolling stick"
-msgstr "手柄：用于卷屏的摇杆的死区大小"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the cursor X-axis joystick"
-msgstr "手柄：用于横向移动光标的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the cursor X-axis"
-msgstr "手柄：用于横向移动光标的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the cursor Y-axis joystick"
-msgstr "手柄：用于纵向移动光标的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the cursor Y-axis"
-msgstr "手柄：用于纵向移动光标的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: deadzone of the cursor stick"
-msgstr "手柄：用于移动光标的摇杆的死区大小"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the mouse X-axis joystick"
-msgstr "手柄：用于横向移动鼠标箭头的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the mouse X-axis"
-msgstr "手柄：用于横向移动鼠标箭头的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the mouse Y-axis joystick"
-msgstr "手柄：用于纵向移动鼠标箭头的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the mouse Y-axis"
-msgstr "手柄：用于纵向移动鼠标箭头的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: deadzone of the mouse stick"
-msgstr "手柄：用于移动鼠标箭头的摇杆的死区大小"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the thrust axis joystick"
-msgstr "手柄：用于加速的手柄编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: number of the thrust axis"
-msgstr "手柄：用于加速的摇杆编号"
-
-#. [advanced_preference]: type=int
-msgid "Joystick: deadzone of the thruster"
-msgstr "手柄：用于加速的摇杆的死区大小"
-
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
 msgstr "中毒"
+
+#. [effect]: type=fire
+msgid "storm trident"
+msgstr "风暴三叉戟"
 
 #. [objectives]
 #. [lua]: generate_objectives
 msgid "Gold carryover:"
 msgstr "带走金币："
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 msgid "Notes:"
 msgstr "备注："
+
+#. [button]: id=ok
+msgid "Close"
+msgstr ""
+
+#. [language]
+msgid "arcane"
+msgstr "奥术"
+
+#. [language]
+msgid "blade"
+msgstr "刃器"
+
+msgid "chaotic"
+msgstr "混沌"
+
+#. [language]
+msgid "cold"
+msgstr "冰寒"
+
+#. [language]
+msgid "Easy"
+msgstr "简单"
+
+#. [language]
+msgid "fire"
+msgstr "火焰"
+
+#. [language]
+msgid "Hard"
+msgstr "困难"
+
+#. [label]: id=label-hp
+msgid "HP"
+msgstr "生命"
+
+#. [language]
+msgid "impact"
+msgstr "冲击"
+
+msgid "lawful"
+msgstr "守序"
+
+#. [language]
+msgid "melee"
+msgstr "近战"
+
+#. [language]
+msgid "Nightmare"
+msgstr "噩梦"
+
+#. [language]
+msgid "Medium"
+msgstr "普通"
+
+#. [language]
+msgid "pierce"
+msgstr "穿刺"
+
+#. [language]
+msgid "ranged"
+msgstr "远程"
 
 #. [about]
 msgid "Programming"
@@ -344,6 +302,11 @@ msgstr "机器人"
 #. [about]
 msgid "Afrikaans Translation"
 msgstr "南非荷兰文翻译"
+
+#. [about]
+#, fuzzy
+msgid "Ancient Greek Translation"
+msgstr "希腊文翻译"
 
 #. [about]
 msgid "Arabic Translation"
@@ -721,8 +684,8 @@ msgstr "一捆麦子"
 msgid "Runic Hammer"
 msgstr "符文锤"
 
-#. [object]
 #. [item]: id=holly-water
+#. [object]
 msgid "Holy Water"
 msgstr "圣水"
 
@@ -755,8 +718,8 @@ msgstr "绿色药剂"
 msgid "Gray Potion"
 msgstr "灰色药剂"
 
-#. [object]: id={ID}
 #. [item]: id=potion-poison
+#. [object]: id={ID}
 msgid "Poison"
 msgstr "毒药"
 
@@ -812,8 +775,8 @@ msgstr "手杖"
 msgid "Stone Tablet"
 msgstr "石板"
 
-#. [object]
 #. [item]: id=storm-trident
+#. [object]
 msgid "Storm Trident"
 msgstr "风暴三叉戟"
 
@@ -1197,9 +1160,6 @@ msgstr ""
 msgid "This unit has been renamed to: "
 msgstr "此单位已重命名为： "
 
-msgid "<small>(early finish bonus)</small>"
-msgstr "<small>（提前过关奖励）</small>"
-
 #. [lua]: generate_objectives
 msgid "Early finish bonus."
 msgstr "提前过关奖励。"
@@ -1367,10 +1327,6 @@ msgstr "$unit.name|无法使用风暴三叉戟！让能够使用它的人鱼拥�
 msgid ""
 "This trident gives merfolk the power to throw lightning at their enemies."
 msgstr "这柄三叉戟赐予人鱼向敌人发射闪电的力量。"
-
-#. [effect]: type=fire
-msgid "storm trident"
-msgstr "风暴三叉戟"
 
 #. [effect]: type=fire
 msgid "sceptre of fire"
@@ -2485,6 +2441,18 @@ msgstr ""
 "亚西尔,亚赞,耶齐德,尤努斯,尤沙,尤斯里,优素福,扎法尔,扎菲尔,扎希德,查希尔,扎伊"
 "德,扎伊姆,扎伊纳,扎里夫,扎卡里亚,扎基,扎卡万,齐亚德,祖巴伊尔,祖海尔"
 
+msgid ""
+"Abiha,Afaf,A'isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,"
+"Chaima,Cynthia,Dalal,Dalia,Eliana,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,"
+"Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,"
+"Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnisa,Khawla,Khawlah,"
+"Lama,Lamia,Latifa,Layal,Layan,Leila,Lina,Lulwa,Madiha,Maha,Mahmuna,Mai,"
+"Malika,Marwa,Maryam,Maya,Maysoon,Melissa,Nadia,Nafisa,Nahla,Naila,Najat,"
+"Nasim,Nasrin,Nejla,Nezha,Niusha,Qistina,Rahima,Rana,Rashida,Reem,Ruqayya,"
+"Saadia,Sabiha,Safiya,Sahar,Saida,Sajida,Sakhra,Salma,Samira,Sarah,Shahd,"
+"Shatha,Sherine,Shumaila,Sumaya,Taslima,Umm,Yara,Yasmin,Zahra,Zakiya,Zaynab"
+msgstr ""
+
 #. Generator for male dunefolk human names; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax
 msgid ""
 "\n"
@@ -3374,6 +3342,11 @@ msgstr "青"
 msgid "color^Gold"
 msgstr "金"
 
+#. [color_range]: id=darkblue
+#, fuzzy
+msgid "Dark blue"
+msgstr "深红"
+
 #. [color_range]: id=reef
 msgid "Reef"
 msgstr "礁石"
@@ -3422,6 +3395,7 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -3446,10 +3420,12 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -3461,22 +3437,6 @@ msgstr "韦诺（默认）"
 #. [core]: id=default
 msgid "The standard Wesnoth core."
 msgstr "标准韦诺核心。"
-
-#. [language]
-msgid "Easy"
-msgstr "简单"
-
-#. [language]
-msgid "Medium"
-msgstr "普通"
-
-#. [language]
-msgid "Hard"
-msgstr "困难"
-
-#. [language]
-msgid "Nightmare"
-msgstr "噩梦"
 
 #. [language]
 msgid ""
@@ -3509,48 +3469,16 @@ msgstr ""
 "夜间：+25%伤害"
 
 #. [language]
+#, fuzzy
 msgid ""
-"Liminal units only reach their full strength during twilight.\n"
+"Liminal units fight best during the twilight times of day.\n"
 "\n"
-"Day: −25% Damage\n"
-"Night: −25% Damage"
+"Twilight: +25% Damage"
 msgstr ""
-"边缘单位只有在晨昏时段才能发挥出最大潜能。\n"
+"守序单位擅长在昼间战斗，不擅长在夜间战斗。\n"
 "\n"
-"昼间：−25%伤害\n"
+"昼间：+25%伤害\n"
 "夜间：−25%伤害"
-
-#. [language]
-msgid "melee"
-msgstr "近战"
-
-#. [language]
-msgid "ranged"
-msgstr "远程"
-
-#. [language]
-msgid "blade"
-msgstr "刃器"
-
-#. [language]
-msgid "pierce"
-msgstr "穿刺"
-
-#. [language]
-msgid "impact"
-msgstr "冲击"
-
-#. [language]
-msgid "fire"
-msgstr "火焰"
-
-#. [language]
-msgid "cold"
-msgstr "冰寒"
-
-#. [language]
-msgid "arcane"
-msgstr "奥术"
 
 #. [naming]
 #. Generator for bridge labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
@@ -3808,20 +3736,6 @@ msgstr "官方韦诺服务器"
 msgid "Alternate Wesnoth Server"
 msgstr "备选韦诺服务器"
 
-#. [label]: id=no_options_notice
-msgid ""
-"There are no custom options available for the selected era, game, or "
-"modification."
-msgstr "没有可用于选定的时代、游戏或模组的自定义选项。"
-
-#. [button]: id=reset_option_values
-msgid "Defaults"
-msgstr "默认"
-
-#. [label]
-msgid "Connected Players"
-msgstr "已连线玩家"
-
 #. [label]: id=title
 msgid "Install Dependencies"
 msgstr "安装依赖项目"
@@ -3834,6 +3748,7 @@ msgstr "是"
 msgid "No"
 msgstr "否"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Screenshot"
 msgstr "截屏"
@@ -3854,18 +3769,11 @@ msgstr "Lato Light,Droid Sans Fallback"
 msgid "Oldania ADF Std"
 msgstr "Oldania ADF Std,Droid Sans Fallback"
 
-#. [fonts]
-msgid ""
-"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,"
-"DroidSansFallbackFull.ttf,Junicode-Regular.ttf"
-msgstr ""
-"Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,"
-"DroidSansJapanese.ttf,Junicode-Regular.ttf"
-
 #. [lua]: wesnoth.deprecate_api
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "（注：在新代码中，你应当使用$replacement|作为替代）"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 msgid "Invalid deprecation level $level (should be 1-4)"
 msgstr "无效废弃级别$level|（应为1-4）"
@@ -3874,22 +3782,27 @@ msgstr "无效废弃级别$level|（应为1-4）"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "无效废弃级别（应为1-4）"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3902,10 +3815,12 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 msgid "input"
 msgstr "输入"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3915,48 +3830,92 @@ msgid "Defeat:"
 msgstr "失败："
 
 #. [lua]: generate_objectives
+#, fuzzy
 msgid "(this turn left)"
-msgid_plural "(%d turns left)"
+msgid_plural "($remaining_turns turns left)"
 msgstr[0] "（余下此回合）"
 msgstr[1] "（余下%d回合）"
 
 #. [lua]: generate_objectives
-msgid "%d%% of gold carried over to the next scenario."
+#, fuzzy
+msgid "$percent|% of gold carried over to the next scenario."
 msgstr "%d%%的金币将会带到下一场景。"
 
-msgid "OK"
-msgstr "确定"
+#. [modification]: id=plan_unit_advance
+msgid "Plan Unit Advance"
+msgstr ""
 
+#. [modification]: id=plan_unit_advance
+msgid ""
+"When playing a multiplayer game, you do not control what a unit advances to "
+"if it advances on another player's turn. With this modification you can set "
+"what your units advance to beforehand, either for a specific unit or for all "
+"units of the same type."
+msgstr ""
+
+#. [checkbox]: id=pickadvance_force_choice
+#, fuzzy
+msgid "Force advancement planning"
+msgstr "不能升级"
+
+#. [checkbox]: id=pickadvance_force_choice
+msgid ""
+"You will be asked a question on choosing advancement whenever an undecided "
+"unit appears.\n"
+"\n"
+"Some eras and scenarios may automatically enable this option."
+msgstr ""
+
+#. [lua]: pickadvance.show_dialog_unsynchronized
+#, fuzzy
+msgid "Plan Advancement"
+msgstr "可升级为："
+
+#. [lua]: pickadvance.show_dialog_unsynchronized
+msgid ""
+"This advancement is currently the default for all units of the same type"
+msgstr ""
+
+#. [lua]: pickadvance.show_dialog_unsynchronized
+msgid "Apply to all units of this type"
+msgstr ""
+
+#. [lua]: pickadvance.show_dialog_unsynchronized
+#, fuzzy
+msgid "Save"
+msgstr "已保存"
+
+#. [lua]: pickadvance.show_dialog_unsynchronized
 msgid "Cancel"
 msgstr "取消"
 
-#. [language]
-msgid "very long"
-msgstr "非常长"
-
-#. [language]
-msgid "electrical"
-msgstr "电子"
+#. [lua]: preshow
+#, fuzzy
+msgid "No planned advancement"
+msgstr "不能升级"
 
 #. [action]: id=button-playreplay, type=image
-msgid "Play"
-msgstr "开始播放"
+#, fuzzy
+msgid "replay^Play"
+msgstr "游戏录像"
 
 #. [action]: id=button-playreplay, type=image
 msgid "continuous replay"
 msgstr "连续回放"
 
 #. [action]: id=button-stopreplay, type=image
-msgid "Stop"
-msgstr "停止播放"
+#, fuzzy
+msgid "replay^Stop"
+msgstr "游戏录像"
 
 #. [action]: id=button-stopreplay, type=image
 msgid "pause after current move"
 msgstr "播放完当前一手后暂停"
 
 #. [action]: id=button-resetreplay, type=image
-msgid "Reset"
-msgstr "重置"
+#, fuzzy
+msgid "replay^Reset"
+msgstr "游戏录像"
 
 #. [action]: id=button-resetreplay, type=image
 msgid "reset to beginning"
@@ -4006,9 +3965,21 @@ msgstr "跳过动画"
 msgid "Replay"
 msgstr "游戏录像"
 
+#. [action]: id=button-playreplay, type=image
+msgid "Play"
+msgstr "开始播放"
+
+#. [action]: id=button-stopreplay, type=image
+msgid "Stop"
+msgstr "停止播放"
+
 #. [action]: id=button-stopreplay, type=image
 msgid "pause"
 msgstr "暂停"
+
+#. [action]: id=button-resetreplay, type=image
+msgid "Reset"
+msgstr "重置"
 
 #. [menu]: id=menu-main
 msgid "Menu"
@@ -4031,16 +4002,13 @@ msgid "The default theme"
 msgstr "默认主题"
 
 #. [menu]: id=menu-autosaves
-msgid "Back to..."
-msgstr "回到……"
+#, fuzzy
+msgid "Load Turn..."
+msgstr "结束回合"
 
 #. [menu]: id=actions-menu
 msgid "Actions"
 msgstr "行动"
-
-#. [label]: id=label-hp
-msgid "HP"
-msgstr "生命"
 
 #. [label]: id=label-xp
 msgid "XP"
@@ -4262,12 +4230,13 @@ msgstr ""
 "的防御率会在屏幕的右上角显示。"
 
 #. [tip]
+#, fuzzy
 msgid ""
 "Poisoned units will lose eight hitpoints every turn until they are one point "
 "from dying. They will then remain at death’s door until the poison is "
 "removed. Healers can prevent a poisoned unit from deteriorating, but the "
 "poison will not be removed unless the unit regenerates, or begins a turn in "
-"a village or next to a unit with the <i>Cures</i> ability."
+"a village, in an oasis, or next to a unit with the <i>Cures</i> ability."
 msgstr ""
 "中毒的单位每回合会损失8点生命，直到他们剩下1点生命为止。如果毒性不解除，那他"
 "们将一直停留在鬼门关。治疗师可以避免中毒单位的状况恶化，但除非中毒单位可以再"
@@ -4479,10 +4448,6 @@ msgid "<i>― Princess Li’sar, 515YW</i>"
 msgstr "<b>——莉莎公主，韦元515年</b>"
 
 #. [tip]
-msgid "Read the <b>Hotkeys</b> list in the <b>Preferences</b> menu."
-msgstr "请查看<b>首选项</b>菜单中的<b>热键</b>列表。"
-
-#. [tip]
 msgid ""
 "If you move a unit, but don’t attack or discover any additional information, "
 "you can undo your move by pressing <b>u</b>."
@@ -4548,15 +4513,6 @@ msgstr ""
 
 #. [tip]
 msgid ""
-"Nearly every button and icon in the Wesnoth game has a tooltip. Hover the "
-"mouse pointer over any button or icon to get a description or explanation of "
-"what it does."
-msgstr ""
-"韦诺游戏中几乎所有的按钮和图标都有工具提示。把鼠标指针指向任何一个按钮或者图"
-"标，便可以看到对其作用的描述或解释。"
-
-#. [tip]
-msgid ""
 "To advance low-level units quickly, team them with a veteran and use the "
 "veteran to damage a joint target heavily enough for the junior partner to "
 "get in the killing blow."
@@ -4611,9 +4567,10 @@ msgstr ""
 "的单位所受到的反击伤害则会减轻，于是便可以更快地为他们疗伤。"
 
 #. [tip]
+#, fuzzy
 msgid ""
-"Try to operate units with a small number of powerful attacks—such as Dark "
-"Adepts, Horsemen, Orcish Grunts or Dwarvish Thunderers—in pairs or threes. "
+"Try to operate units with a small number of powerful attacks — such as Dark "
+"Adepts, Horsemen, Orcish Grunts or Dwarvish Thunderers — in pairs or threes. "
 "This gives you another try whenever your first devastating attack misses — "
 "as inevitably happens from time to time."
 msgstr ""
@@ -4622,11 +4579,12 @@ msgstr ""
 "——而失手是不可避免且时而会发生的。"
 
 #. [tip]
+#, fuzzy
 msgid ""
-"Units with three or more attacks—especially magical attacks—are ideal for "
-"finishing off enemies with only a few hitpoints remaining. Be sure to use "
-"leadership—or a strong or dextrous unit—whenever the extra point or two of "
-"damage makes a one-hit kill possible."
+"Units with three or more attacks — especially magical attacks — are ideal "
+"for finishing off enemies with only a few hitpoints remaining. Be sure to "
+"use leadership — or a strong or dextrous unit — whenever the extra point or "
+"two of damage makes a one-hit kill possible."
 msgstr ""
 "拥有三种或更多攻击方式——尤其是魔法攻击——的单位非常适合于解决只剩下很少生命的"
 "敌人。当额外的一两点伤害使得一击必杀成为可能时，要确保使用领导能力——或使用一"
@@ -4727,6 +4685,17 @@ msgstr "<b>——韦斯廷的格里克爵士，韦元607年</b>"
 
 #. [tip]
 msgid ""
+"Some types of terrain give unique bonuses, such as healing or illumination."
+msgstr ""
+
+#. [tip]
+#. Translate the word "Flight" as a collective noun for drakes
+#, fuzzy
+msgid "<i>― Galun, Flight Leader, 5YW</i>"
+msgstr "<b>——戈伦群落中的凡克，韦元6年</b>"
+
+#. [tip]
+msgid ""
 "If a unit is positioned next to healers from two allied sides, the unit will "
 "be healed on both sides’ turns. This way, a unit can be healed faster than "
 "otherwise possible."
@@ -4735,9 +4704,24 @@ msgstr ""
 "疗。这样一来，相比其他方法来说，单位就能更快得到治疗。"
 
 #. [tip]
-#. Translate the word "Flight" as in Wings of Victory
-msgid "<i>― Vank of Galun’s Flight, 6YW</i>"
-msgstr "<b>——戈伦群落中的凡克，韦元6年</b>"
+#, fuzzy
+msgid "<i>― Lord Tallin of Knalga, 538 YW</i>"
+msgstr "<b>——纳尔迦的哈梅尔领主</b>"
+
+#. [tip]
+msgid ""
+"Holding down <b>shift</b> will make the animations for moving and fighting "
+"quicker. The <i>acceleration factor</i> can be set, and turned on by "
+"default, in the <i>Preferences</i> menu’s <i>General</i> tab."
+msgstr ""
+
+#. [tip]
+#. Translate "Change difficulty" and "Load Game" as in wesnoth-lib textdomain
+msgid ""
+"Did you know that you can change the difficulty level during a campaign? "
+"Select the <i>Change difficulty</i> option at the bottom of the <i>Load "
+"Game</i> screen when loading start-of-scenario save files."
+msgstr ""
 
 #. [tip]
 msgid ""
@@ -4863,6 +4847,14 @@ msgid ""
 msgstr ""
 "附加组件<b>$addon_title</b>包含有大小写冲突的文件或目录名。文件或目录名不可以"
 "是仅有大小写不同的同一个字符串。"
+
+#, fuzzy
+msgid "Requesting file index..."
+msgstr "正在请求分发条款……"
+
+#, fuzzy
+msgid "Sending an update pack for the add-on <i>$addon_title</i>..."
+msgstr "正在发送附加组件<b>$addon_title</b>……"
 
 msgid "Sending add-on <i>$addon_title</i>..."
 msgstr "正在发送附加组件<b>$addon_title</b>……"
@@ -5043,8 +5035,115 @@ msgstr[1] "下列附加组件已成功删除："
 msgid "An error occurred while downloading the add-ons list from the server."
 msgstr "从服务器上下载附加组件列表时发生错误。"
 
-msgid "Could not find an add-on matching id $addon_id on the add-on server."
+#, fuzzy
+msgid ""
+"Could not find add-ons matching the ids $addon_ids on the add-on server."
 msgstr "在附加组件服务器上无法找到与ID：$addon_id|匹配的附加组件。"
+
+msgid "Success."
+msgstr ""
+
+msgid "Incorrect add-on passphrase."
+msgstr ""
+
+msgid "Upload denied. Please contact the server administration for assistance."
+msgstr ""
+
+msgid "Attempted to upload an update pack for a non-existent add-on."
+msgstr ""
+
+msgid "No add-on data was supplied by the client."
+msgstr ""
+
+#, fuzzy
+msgid "Invalid upload pack."
+msgstr "无效位置"
+
+#, fuzzy
+msgid "Invalid add-on name."
+msgstr "无效的标签名"
+
+msgid "Formatting character in add-on name."
+msgstr ""
+
+msgid ""
+"The add-on contains files or directories with illegal names.\n"
+"\n"
+"Names containing whitespace, control characters, or any of the following "
+"symbols are not allowed:\n"
+"\n"
+"    \" * / : < > ? \\ | ~\n"
+"\n"
+"Additionally, names may not be longer than 255 characters, contain '..', or "
+"end with '.'."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The add-on contains files or directories with case conflicts.\n"
+"\n"
+"Names in the same directory may not be differently-cased versions of each "
+"other."
+msgstr ""
+"附加组件<b>$addon_title</b>包含有大小写冲突的文件或目录名。文件或目录名不可以"
+"是仅有大小写不同的同一个字符串。"
+
+msgid "The add-on name contains an invalid UTF-8 sequence."
+msgstr ""
+
+msgid "No add-on title specified."
+msgstr ""
+
+msgid "No add-on author/maintainer name specified."
+msgstr ""
+
+msgid "No add-on version specified."
+msgstr ""
+
+#, fuzzy
+msgid "No add-on description specified."
+msgstr "无可用描述。"
+
+msgid "No add-on author/maintainer email specified."
+msgstr ""
+
+msgid "Missing passphrase."
+msgstr ""
+
+msgid "Formatting character in add-on title."
+msgstr ""
+
+#, fuzzy
+msgid "Invalid or unspecified add-on type."
+msgstr "无效单位类型"
+
+msgid "Version number not greater than the latest uploaded version."
+msgstr ""
+
+msgid "Feedback topic id is not a number."
+msgstr ""
+
+msgid "Feedback topic does not exist."
+msgstr ""
+
+msgid "The add-on publish information contains an invalid UTF-8 sequence."
+msgstr ""
+
+msgid "Unspecified server error."
+msgstr ""
+
+msgid "Server is in read-only mode."
+msgstr ""
+
+#, fuzzy
+msgid "Corrupted server add-ons list."
+msgstr "没有安装任何附加组件。"
+
+msgid "Empty add-on version list on the server."
+msgstr ""
+
+msgid "Unspecified validation failure."
+msgstr ""
 
 msgid "Added to ignore list: $nick"
 msgstr "已加入忽略列表：$nick"
@@ -5070,20 +5169,8 @@ msgstr "好友与忽略列表"
 msgid "version"
 msgstr "版本"
 
-msgid "registering with password *** and no email address"
-msgstr "以密码***注册，未使用电子邮件地址"
-
-msgid "registering with password *** and email address $email"
-msgstr "以密码***和电子邮件地址$email|注册"
-
 msgid "nick registration"
 msgstr "昵称注册"
-
-msgid "dropping your username"
-msgstr "正在废弃你的用户名"
-
-msgid "setting $var to $value"
-msgstr "正在设置$var|为$value"
 
 msgid "requesting information for user $nick"
 msgstr "正在请求用户$nick|的信息"
@@ -5125,6 +5212,11 @@ msgid "Mute/Unmute all observers. (toggles)"
 msgstr "将所有观察者禁言/解除禁言。（禁言状态开关）"
 
 msgid ""
+"Send some data to the server. Can be used to verify the network connection "
+"and notice disconnects."
+msgstr ""
+
+msgid ""
 "Report abuse, rule violations, etc. to the server moderators. Make sure to "
 "mention relevant nicknames, etc."
 msgstr ""
@@ -5136,8 +5228,9 @@ msgstr "<信息>"
 msgid "Send an emotion or personal action in chat."
 msgstr "在交谈中发送感情表达或个人动作信息。"
 
+#, fuzzy
 msgid ""
-"Sends a private message. You cannot send private messages to players in a "
+"Send a private message. You cannot send private messages to players in a "
 "running game you observe or play in."
 msgstr ""
 "发送私密信息。如果你正在观察或参与一场进行中的游戏，那么你不能向该游戏中的玩"
@@ -5161,57 +5254,17 @@ msgstr "将一个昵称加入你的好友列表。"
 msgid "Remove a nickname from your ignores or friends list."
 msgstr "将一个昵称从你的忽略或好友列表中移除。"
 
+msgid "<N>"
+msgstr ""
+
+msgid "Get a random number between 1 and N visible in the game setup lobby."
+msgstr ""
+
 msgid "Display version information."
 msgstr "显示版本信息。"
 
-msgid "<password> <email (optional)>"
-msgstr "<密码> <电子邮件（可选）>"
-
-msgid "Register your nickname"
-msgstr "注册你的昵称"
-
-msgid "Drop your nickname."
-msgstr "废弃你的昵称。"
-
-msgid "Update details for your nickname. For possible details see '/details'."
-msgstr "更新你的昵称的详细信息。可以录入的详细信息种类请参见‘/details’。"
-
-msgid "<detail> <value>"
-msgstr "<详细信息类型> <值>"
-
 msgid "Request information about a nickname."
 msgstr "请求一个昵称的有关信息。"
-
-msgid "Request a list of details you can set for your registered nickname."
-msgstr ""
-"你可以为你注册好的昵称录入详细信息，此命令请求这些可用的详细信息类型列表。"
-
-msgid "<room>"
-msgstr "<房间>"
-
-msgid "Join a room."
-msgstr "加入房间。"
-
-msgid "Part a room."
-msgstr "离开房间。"
-
-msgid "List room members."
-msgstr "列出房间成员。"
-
-msgid "List available rooms."
-msgstr "列出可用的房间。"
-
-msgid "<room> <msg>"
-msgstr "<房间> <信息>"
-
-msgid "Room message."
-msgstr "房间内信息。"
-
-msgid "<room> <type> [value]"
-msgstr "<房间> <类型> [值]"
-
-msgid "Room query."
-msgstr "房间查询。"
 
 msgid "Unknown debug level: '$level'."
 msgstr "未知调试级别：“$level|”。"
@@ -5255,21 +5308,27 @@ msgstr "韦诺之战"
 msgid "Invalid Color"
 msgstr "无效颜色"
 
+#. TRANSLATORS: 24-hour time, eg '13:59'
 msgid "%H:%M"
 msgstr "%H:%M"
 
+#. TRANSLATORS: 12-hour time, eg '1:59 PM'
 msgid "%I:%M %p"
 msgstr "%I:%M %p"
 
+#. TRANSLATORS: Day of week + 24-hour time, eg 'Sunday, 13:59'
 msgid "%A, %H:%M"
 msgstr "%A, %H:%M"
 
+#. TRANSLATORS: Day of week + 12-hour time, eg 'Sunday, 1:59 PM'
 msgid "%A, %I:%M %p"
 msgstr "%A, %H:%M %p"
 
+#. TRANSLATORS: Month + day of month, eg 'Nov 02'. Format for your locale.
 msgid "%b %d"
 msgstr "%b %d"
 
+#. TRANSLATORS: Month + day of month + year, eg 'Nov 02 2021'. Format for your locale.
 msgid "%b %d %Y"
 msgstr "%b %d %Y"
 
@@ -5325,6 +5384,12 @@ msgstr "载入自定义游戏配置文件时出错。游戏将回退到使用默
 msgid ""
 "Error loading default core game configuration files. The game will now exit."
 msgstr "载入默认核心游戏配置文件时出错。现在游戏将退出。"
+
+msgid "Use [modify_unit_type]\n"
+msgstr ""
+
+msgid "instead, use the macro with the same name in the [campaign] tag"
+msgstr ""
 
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
@@ -5390,6 +5455,9 @@ msgstr "自定义地图。"
 
 msgid "Failed to resolve dependencies"
 msgstr "依赖项目解析失败"
+
+msgid "OK"
+msgstr "确定"
 
 msgid "Scenario can't be activated. Some dependencies are missing: "
 msgstr "场景无法激活。缺少部分依赖项目："
@@ -5478,11 +5546,12 @@ msgstr ""
 msgid "Defeat enemy leader(s)"
 msgstr "击败敌方首领"
 
-msgid "Cannot find era $era"
+#, fuzzy
+msgid "Cannot find era '$era'"
 msgstr "无法找到$era|时代"
 
-msgid "Connection timed out"
-msgstr "连接超时"
+msgid "Invalid address specified for multiplayer server"
+msgstr ""
 
 msgid ""
 "The server accepts versions '$required_version', but you are using version "
@@ -5506,8 +5575,9 @@ msgstr "你要继续吗？"
 msgid "Warning"
 msgstr "警告"
 
-msgid "Bad data received from server"
-msgstr "从服务器处收到损坏的数据"
+msgid ""
+"The remote server requested a password while using an insecure connection."
+msgstr ""
 
 msgid "You must login first."
 msgstr "你必须先登录。"
@@ -5566,15 +5636,29 @@ msgid ""
 msgstr ""
 "<b>警告</b>：已经有客户端使用这个昵称登录。如果继续登录将踢走那个客户端！"
 
-msgid ""
-"Error in the login procedure (the server had no seed for your connection)."
-msgstr "登录过程中发生错误（服务器没有可用的种子，无法与你连接）。"
-
 msgid "The password you provided was incorrect."
 msgstr "你提供的密码是不正确的。"
 
 msgid "You have made too many login attempts."
 msgstr "你尝试登录的次数太多了。"
+
+msgid "Password hashing failed."
+msgstr ""
+
+msgid "Scenario Report"
+msgstr "场景报告"
+
+msgid "Victory"
+msgstr "胜利"
+
+msgid "You have emerged victorious!"
+msgstr "你赢得了胜利！"
+
+msgid "Defeat"
+msgstr "失败"
+
+msgid "You have been defeated!"
+msgstr "你被击败了！"
 
 msgid "Remaining gold: "
 msgstr "所剩金币："
@@ -5631,21 +5715,6 @@ msgstr[0] ""
 "你将以$gold|枚金币或者场景指定的最小起始金币数中较高者来开始下一幕场景。"
 msgstr[1] ""
 "你将以$gold|枚金币或者场景指定的最小起始金币数中较高者来开始下一幕场景。"
-
-msgid "Scenario Report"
-msgstr "场景报告"
-
-msgid "Victory"
-msgstr "胜利"
-
-msgid "You have emerged victorious!"
-msgstr "你赢得了胜利！"
-
-msgid "Defeat"
-msgstr "失败"
-
-msgid "You have been defeated!"
-msgstr "你被击败了！"
 
 msgid "The game could not be loaded: "
 msgstr "无法载入游戏： "
@@ -5718,14 +5787,11 @@ msgstr[1] ""
 "这个附加组件有下列依赖项目。这些依赖项目已过时或尚未安装。继续之前希望安装它"
 "们吗？"
 
-msgid "No Saved Games"
-msgstr "没有游戏存档"
-
-msgid "There are no save files to load"
-msgstr "没有存档文件供载入"
-
 msgid "No visible sides found."
 msgstr "未找到可见的阵营。"
+
+msgid "Match History — $player"
+msgstr ""
 
 msgid "In game:"
 msgstr "在游戏中："
@@ -5829,146 +5895,30 @@ msgstr "杂项"
 msgid "Alignment: "
 msgstr "立场："
 
+#. TRANSLATORS: this is expected to say "[Dunefolk are] a group of units, all of whom are Humans",
+#. or "[Quenoth Elves are] a group of units, all of whom are Elves".
+msgid ""
+"This is a group of units, all of whom are <ref>dst='$topic_id' "
+"text='$help_taxonomy'</ref>"
+msgstr ""
+
+#, fuzzy
+msgid "<header>text='Subgroups of units within this group'</header>"
+msgstr "<header>text='拥有此技能的单位'</header>"
+
+#, fuzzy
+msgid "<header>text='Groups of units within this race'</header>"
+msgstr "<header>text='此种族的单位'</header>"
+
+#, fuzzy
+msgid "<header>text='Units of this group'</header>"
+msgstr "<header>text='此种族的单位'</header>"
+
 msgid "<header>text='Units of this race'</header>"
 msgstr "<header>text='此种族的单位'</header>"
 
 msgid "corrupted original file"
 msgstr "损坏的原始文件"
-
-msgid "Best of"
-msgstr "最佳"
-
-msgid "Worst of"
-msgstr "最差"
-
-msgid "Base Terrain: "
-msgstr "基础地形："
-
-msgid "Movement properties: "
-msgstr "移动特性："
-
-msgid "Defense properties: "
-msgstr "防御特性："
-
-msgid "Level"
-msgstr "等级"
-
-msgid "Advances from: "
-msgstr "升级自："
-
-msgid "Advances to: "
-msgstr "升级为："
-
-msgid "Base unit: "
-msgstr "基础单位："
-
-msgid "Base units: "
-msgstr "基础单位："
-
-msgid "Variations: "
-msgstr "变体："
-
-msgid "Race: "
-msgstr "种族："
-
-msgid "Traits"
-msgstr "特质"
-
-msgid "Abilities: "
-msgstr "能力："
-
-msgid "Ability Upgrades: "
-msgstr "能力升级："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
-#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
-#. unpleasant line breaks (issue #3256).
-msgid "HP:"
-msgstr "生命："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
-#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
-#. unpleasant line breaks (issue #3256).
-msgid "Moves:"
-msgstr "移动："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
-#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
-#. unpleasant line breaks (issue #3256).
-msgid "Vision:"
-msgstr "视野："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
-#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
-#. unpleasant line breaks (issue #3256).
-msgid "Jamming:"
-msgstr "干扰："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
-#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
-#. unpleasant line breaks (issue #3256).
-msgid "Cost:"
-msgstr "费用："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
-#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
-#. unpleasant line breaks (issue #3256).
-msgid "Alignment:"
-msgstr "立场："
-
-#. TRANSLATORS: This string is used in the help page of a single unit.  It uses
-#. non-breaking spaces to prevent unpleasant line breaks (issue #3256).  In the
-#. translation use non-breaking spaces as appropriate for the target language.
-msgid "Required XP:"
-msgstr "所需经验："
-
-msgid "unit help^Attacks"
-msgstr "攻击手段"
-
-msgid "unit help^Name"
-msgstr "名称"
-
-msgid "Type"
-msgstr "类型"
-
-msgid "Strikes"
-msgstr "打击效果"
-
-msgid "Range"
-msgstr "射程"
-
-msgid "Special"
-msgstr "特攻"
-
-msgid "Resistances"
-msgstr "抗性"
-
-msgid "Attack Type"
-msgstr "攻击类型"
-
-msgid "Resistance"
-msgstr "抗性"
-
-msgid "Terrain Modifiers"
-msgstr "地形修正"
-
-msgid "Terrain"
-msgstr "地形"
-
-msgid "Defense"
-msgstr "防御"
-
-msgid "Movement Cost"
-msgstr "移动消耗"
-
-msgid "Defense Cap"
-msgstr "最高防御"
-
-msgid "Vision Cost"
-msgstr "视野消耗"
-
-msgid "Jamming Cost"
-msgstr "干扰消耗"
 
 msgid "Do you really want to surrender the game?"
 msgstr "你真的想要投降吗？"
@@ -6100,6 +6050,16 @@ msgstr "仅发送给观察者"
 msgid "Send to allies only"
 msgstr "仅发送给盟友"
 
+#. TRANSLATORS: An error that should never happen, might happen when loading an old savegame. If there are
+#. any units that the player can recruit then their standard recruitment dialog will be shown after this
+#. error message, otherwise they'll get the "You have no units available to recruit." error after this one.
+msgid "Error: there’s an unknown unit type on your recruit list: $unknown_ids"
+msgid_plural ""
+"Error: there are several unknown unit types on your recruit list: "
+"$unknown_ids"
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "You have no units available to recruit."
 msgstr "你没有可供征募的单位。"
 
@@ -6190,13 +6150,22 @@ msgstr "对某一阵营开启/关闭AI控制。"
 
 #. TRANSLATORS: These are the arguments accepted by the "droid" command,
 #. which must be a side-number and then optionally one of "on", "off" or "full".
-#. As with the command's name, "on" and "off" are hardcoded, and shouldn't change in the translation.
+#. As with the command's name, "on", "off" and "full" are hardcoded, and shouldn't change in the translation.
+#, fuzzy
 msgid ""
-"[<side> [on/off]]\n"
-"“on” = enable control by the AI, “off” = side is controlled by the player"
+"[<side> [on/off/full]]\n"
+"“on” = enable but retain vision, “full” = as if it’s controlled by another "
+"player"
 msgstr ""
 "[<阵营> [on/off]]\n"
 "“on” = 启用AI控制，“off” = 该阵营由玩家控制"
+
+msgid "Change terrain type of current hex"
+msgstr ""
+
+#. TRANSLATORS: [both|base|overlay] are hardcoded literal arguments and shouldn't be translated.
+msgid "<terrain type> [both|base|overlay]"
+msgstr ""
 
 msgid "Switch a side to/from idle state."
 msgstr "对某一阵营开启/关闭空闲状态。"
@@ -6231,7 +6200,8 @@ msgstr "调试前景地形。"
 msgid "Debug layers from terrain under the mouse."
 msgstr "调试鼠标所指向的地形中的各层。"
 
-msgid "Show fps (Frames Per Second)."
+#, fuzzy
+msgid "Display and log fps (Frames Per Second)."
 msgstr "显示FPS（每秒帧数）。"
 
 msgid "Save game."
@@ -6376,17 +6346,40 @@ msgstr "无法托管无效阵营：“$side|”。"
 msgid "Can't droid networked side: '$side'."
 msgstr "无法托管联机阵营：“$side|”。"
 
-msgid "Side '$side' is already droided."
-msgstr "阵营：“$side|”之前已被托管了。"
+msgid ""
+"It is not allowed to change a side from AI to human control when it's not "
+"your turn."
+msgstr ""
 
 msgid "Side '$side' controller is now controlled by: AI."
 msgstr "阵营：“$side|”现在由AI控制。"
 
+msgid "Side '$side' is already droided."
+msgstr "阵营：“$side|”之前已被托管了。"
+
 msgid "Side '$side' controller is now controlled by: human."
 msgstr "阵营：“$side|”现在由人类控制。"
 
-msgid "Can't droid a local ai side: '$side'."
-msgstr "无法托管本地AI阵营：“$side|”。"
+#, fuzzy
+msgid "Side '$side' is already not droided."
+msgstr "阵营：“$side|”之前已被托管了。"
+
+msgid ""
+"It is not allowed to change a side from human to AI control when it's not "
+"your turn."
+msgstr ""
+
+#, fuzzy
+msgid "Side '$side' controller is now fully controlled by: AI."
+msgstr "阵营：“$side|”现在由AI控制。"
+
+#, fuzzy
+msgid "Side '$side' is already fully AI controlled."
+msgstr "阵营：“$side|”之前已被托管了。"
+
+msgid ""
+"Invalid action provided for side '$side'. Valid actions are: on, off, full."
+msgstr ""
 
 msgid "Can't idle invalid side: '$side'."
 msgstr "无法将无效阵营设为空闲状态：“$side|”。"
@@ -6525,6 +6518,31 @@ msgstr "游戏失去了同步。继续游戏似乎没有多少意义了。你要
 msgid "Error details:"
 msgstr "错误细节："
 
+msgid "Warning: broken campaign branches"
+msgstr ""
+
+#. TRANSLATORS: This is an error that will hopefully only be seen by UMC authors and by players who have already
+#. said "okay" to a "loading saves from an old version might not work" dialog.
+msgid ""
+"The next scenario is missing, you will not be able to finish this campaign."
+msgid_plural ""
+"Some of the possible next scenarios are missing, you might not be able to "
+"finish this campaign."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Please report the following missing scenario to the campaign’s author:\n"
+"$unknown_list|"
+msgid_plural ""
+"Please report the following missing scenarios to the campaign’s author:\n"
+"$unknown_list|"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Once this is fixed, you will need to restart this scenario."
+msgstr ""
+
 msgid "No objectives available"
 msgstr "没有可用的任务目标"
 
@@ -6624,17 +6642,15 @@ msgstr "名称："
 msgid "Type: "
 msgstr "类型："
 
-msgid "Side:"
-msgstr "阵营："
+#, fuzzy
+msgid "Special Notes:"
+msgstr "特攻："
 
-msgid "Level: "
-msgstr "等级："
+msgid "Race: "
+msgstr "种族："
 
-msgid "Advancements:"
-msgstr "可升级为："
-
-msgid "No advancement"
-msgstr "不能升级"
+msgid "Side: <b>$side_name</b> ($color_name)"
+msgstr ""
 
 msgid "Trait: "
 msgstr "特质："
@@ -6779,6 +6795,14 @@ msgid_plural "Attacks"
 msgstr[0] "攻击手段"
 msgstr[1] "攻击手段"
 
+#. TRANSLATORS: This string is shown in the sidebar beneath the word "Attacks" when a unit can attack multiple times per turn
+msgid "Remaining: $left/$max"
+msgstr ""
+
+#, fuzzy
+msgid "This unit can attack multiple times per turn."
+msgstr "这不是多人游戏存档。"
+
 msgid "Time of day schedule:"
 msgstr "时段日程："
 
@@ -6863,12 +6887,15 @@ msgstr "直到你的回合自动结束的倒计时"
 msgid "Turn Countdown"
 msgstr "回合倒计时"
 
+#. TRANSLATORS: Day of week + month + day of month + 12-hour time + year, eg 'Tue Nov 02 1:59 PM 2021'. Format for your locale.
 msgid "%a %b %d %I:%M %p %Y"
 msgstr "%a %b %d %I:%M %p %Y"
 
+#. TRANSLATORS: Day of week + month + day of month + 24-hour time + year, eg 'Tue Nov 02 13:59 2021'. Format for your locale.
 msgid "%a %b %d %H:%M %Y"
 msgstr "%a %b %d %H:%M %Y"
 
+#. TRANSLATORS: This string is used as part of a filename, as in, "HttT-The Elves Besieged replay.gz"
 msgid "replay"
 msgstr "游戏录像"
 
@@ -6884,9 +6911,21 @@ msgid ""
 msgstr "这个存档来自于陈旧且不被支持的版本（$version_number|），无法载入。"
 
 msgid ""
-"This save is from a different version of the game ($version_number|). Do you "
-"wish to try to load it?"
-msgstr "这个存档来自于不同版本的游戏（$version_number|）。你希望尝试载入吗？"
+"This save is from a different version of the game ($version_number|), and "
+"might not work with this version.\n"
+"\n"
+"<b>Warning:</b> saves in the middle of campaigns are especially likely to "
+"fail, and you should either use the old version or restart the campaign. "
+"Even when a saved game seems to load successfully, subtler aspects like "
+"gameplay balance and story progression could be impacted. The difficulty, "
+"the challenge, the <i>fun</i> may be missing.\n"
+"\n"
+"For example, the campaign may have been rebalanced with fewer enemies in the "
+"early scenarios, but expecting your recall list to have correspondingly less "
+"experience in the late scenarios.\n"
+"\n"
+"Do you wish to continue?"
+msgstr ""
 
 msgid "Load Game"
 msgstr "载入游戏"
@@ -6909,6 +6948,12 @@ msgstr "覆盖？"
 msgid ""
 "Save names should not end on '.gz' or '.bz2'. Please remove the extension."
 msgstr "存档名不能以“.gz”或者“.bz2”结尾。请移除扩展名。"
+
+msgid ""
+"Save names may not end with a dot, or contain two dots or any of the "
+"following characters:\n"
+"    \" * / : < > ? \\ | ~"
+msgstr ""
 
 msgid "Saved"
 msgstr "已保存"
@@ -7073,6 +7118,11 @@ msgstr[1] "等待$sides|阵营的$desc"
 msgid "waiting for^input"
 msgstr "输入"
 
+#. TRANSLATORS: $color_id is the internal identifier of a side color, for example, 'lightred'.
+#. Translate the quotation marks only; leave "color_id" untranslated, as it's a variable name.
+msgid "“$color_id”"
+msgstr ""
+
 msgid "Allied village"
 msgstr "友方村庄"
 
@@ -7093,6 +7143,12 @@ msgstr "时段占位符"
 
 msgid "This Time of Day is only a Stub!"
 msgstr "这一时段只是一个占位时段！"
+
+msgid "neutral"
+msgstr "中立"
+
+msgid "liminal"
+msgstr "边缘"
 
 #. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
 msgid "<span color=\"$color\">$number_or_percent</span> damage"
@@ -7145,26 +7201,23 @@ msgid_plural "<span color=\"$color\">$number_or_percent</span> movement points"
 msgstr[0] "<span color=\"$color\">$number_or_percent</span>移动力"
 msgstr[1] "<span color=\"$color\">$number_or_percent</span>移动力"
 
-msgid "chaotic"
-msgstr "混沌"
+msgid "Level: "
+msgstr "等级："
 
-msgid "lawful"
-msgstr "守序"
+msgid "Advancements:"
+msgstr "可升级为："
 
-msgid "liminal"
-msgstr "边缘"
-
-msgid "neutral"
-msgstr "中立"
-
-msgid "female^chaotic"
-msgstr "混沌"
+msgid "No advancement"
+msgstr "不能升级"
 
 msgid "female^lawful"
 msgstr "守序"
 
 msgid "female^neutral"
 msgstr "中立"
+
+msgid "female^chaotic"
+msgstr "混沌"
 
 msgid "female^liminal"
 msgstr "边缘"

@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:40+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -43,24 +43,24 @@ msgid "(Hard level, 18 scenarios.)"
 msgstr "（困难级别，18幕场景。）"
 
 #. [campaign]: id=LOW, type=hybrid
-msgid "Easy"
-msgstr "简单"
+msgid "Normal"
+msgstr "普通"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "Soldier"
 msgstr "士兵"
 
 #. [campaign]: id=LOW, type=hybrid
+msgid "Challenging"
+msgstr "挑战"
+
+#. [campaign]: id=LOW, type=hybrid
 msgid "Lord"
 msgstr "领主"
 
 #. [campaign]: id=LOW, type=hybrid
-msgid "Normal"
-msgstr "普通"
-
-#. [campaign]: id=LOW, type=hybrid
-msgid "Challenging"
-msgstr "挑战"
+msgid "Difficult"
+msgstr ""
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "High Lord"
@@ -320,28 +320,28 @@ msgstr "特巴兰"
 #. [side]: id=Wrulf, type=Orcish Warrior
 #. [side]: type=Orcish Warrior, id=Qumseh
 #. [side]: type=Orcish Warrior, id=Graur-Tan
-#. [side]
 #. [modify_side]
 #. [side]: type=Troll Hero, type=Great Troll, id=Grugl
-#. [side]: id=Hraurg, type=Saurian Ambusher
-#. [side]: type=Saurian Ambusher, id=Spahr
+#. [side]
 #. [side]: type=Saurian Ambusher, id=Shurm
 #. [side]: type=Saurian Ambusher, id=Trigr
+#. [side]: id=Hraurg, type=Saurian Ambusher
+#. [side]: type=Saurian Ambusher, id=Spahr
 #. [side]: type=Orcish Warlord, id=Urug-Tar
 #. [side]: type=Orcish Warlord, id=Graur-Tan
 #. [side]: type=Troll Warrior, id=Traur
-#. [side]: type=Orcish Warlord, id=Kior-Pur
-#. [side]: type=Orcish Warlord, id=Mbiran
-#. [side]: type=Orcish Warlord, id=Tan-Durr
 #. [side]: type=Saurian Flanker, id=Huurgh
 #. [side]: type=Saurian Oracle, id=Shhar
 #. [side]: type=Troll Warrior, id=Tafrul
 #. [side]: type=Arch Mage, id=Aquagar
 #. [side]: type=Troll Warrior, id=Trigrul
-#. [side]: type=Elvish Marshal, id=Crintil
-#. [side]: type=Elvish Captain, id=Oblil
+#. [side]: type=Orcish Warlord, id=Kior-Pur
+#. [side]: type=Orcish Warlord, id=Mbiran
+#. [side]: type=Orcish Warlord, id=Tan-Durr
 #. [side]: type=Saurian Flanker, id=Spahr
 #. [side]: type=Saurian Flanker, id=Hgyr
+#. [side]: type=Elvish Marshal, id=Crintil
+#. [side]: type=Elvish Captain, id=Oblil
 msgid "Enemies"
 msgstr "敌人"
 
@@ -872,8 +872,8 @@ msgstr "沙门"
 msgid "Trigr"
 msgstr "泰格"
 
-#. [objectives]
 #. [objective]: condition=win
+#. [objectives]
 msgid "Defeat all enemy leaders"
 msgstr "击败所有敌方首领"
 
@@ -1344,9 +1344,29 @@ msgid ""
 "difficult fight..."
 msgstr "他们是冷酷无情的兽人和久经沙场的巨魔。兄弟们，做好打一场持久战的准备……"
 
+#. [message]: id=Landar
+msgid "Those dwarves must still be protecting our gold — on their land."
+msgstr ""
+
+#. [message]: id=Kalenz
+msgid "Yes, it seems we must defend the Kalian alone."
+msgstr ""
+
 #. [message]: id=Olurf
 msgid "Did ye think we’d let you have all the fun wi’ the orcs by yerselves?"
 msgstr "你以为我们会让你们自个儿跟兽人玩个够吗？"
+
+#. [message]: id=Landar
+msgid ""
+"You did, we’ve already driven them from the forest. You barely caught up in "
+"time to chase them into the hills."
+msgstr ""
+
+#. [message]: id=Kalenz
+msgid ""
+"Diplomacy, Landar. We do need to pursue the orcs into the mountains, and an "
+"army of dwarves will be welcome companions."
+msgstr ""
 
 #. [message]: id=Landar
 msgid "It’s not much of an army he is bringing with him, though."
@@ -1393,10 +1413,6 @@ msgstr "给战士们战前买点酒自古是矮人的传统……所以那是要
 msgid "That explains why they are so reckless in battle..."
 msgstr "这大概能解释为什么他们在战斗中如此不顾后果……"
 
-#. [message]: id=Kalenz
-msgid "... Enough, gentlemen, we have a battle to fight!"
-msgstr "……够了，先生们，我们还有仗要打！"
-
 #. [message]: id=Galtrid
 msgid "At last! The orcs are defeated."
 msgstr "结束了！兽人被打败了。"
@@ -1431,13 +1447,13 @@ msgid ""
 "the next scenario with a preset amount."
 msgstr " 已经把剩余的全部金币放进了精灵金库。你会以预设的数量开始下一幕场景。"
 
-#. [part]
 #. [message]: speaker=narrator
+#. [part]
 msgid "Kalenz"
 msgstr "卡雷兹"
 
-#. [part]
 #. [message]: speaker=narrator
+#. [part]
 msgid "Landar"
 msgstr "兰达尔"
 
@@ -3827,21 +3843,6 @@ msgid ""
 msgstr ""
 "欲知卡雷兹最后的也许是最伟大壮举，和那些在他独自一人时的故事，请参阅黎伐多大"
 "法师的传说和篡权女王阿莎维尔的倒台。"
-
-#. [unit_type]: id=Great Ogre, race=ogre
-msgid "Great Ogre"
-msgstr "大食人魔"
-
-#. [unit_type]: id=Great Ogre, race=ogre
-msgid ""
-"Great Ogres are giant creatures that usually live alone in the wilderness, "
-"remarkably similar to humans in form, though large and misshapen. While they "
-"can be easily outrun or outsmarted, their strength is not to be "
-"underestimated."
-msgstr ""
-"大食人魔是通常生活在荒郊野外的巨大生物。他们的外形很明显地和人类相像，虽然他"
-"们比人类更大而且畸形。虽然要跑得比他们快或者比他们聪明是很容易的，但千万不能"
-"小看他们的力量。"
 
 #. [leadership]: id=elates_kalenz
 msgid "elates Kalenz"

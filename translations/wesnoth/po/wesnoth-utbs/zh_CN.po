@@ -5,12 +5,12 @@
 # MrKing <yideey@gmail.com>, 2012.
 # Brian Lee <haiyuan.2007@gmail.com>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -46,16 +46,16 @@ msgid "(Expert level, 10 scenarios.)"
 msgstr "（专家级别，10幕场景。）"
 
 #. [campaign]: id=Under_the_Burning_Suns
+msgid "Challenging"
+msgstr "挑战"
+
+#. [campaign]: id=Under_the_Burning_Suns
 msgid "Fighter"
 msgstr "战士"
 
 #. [campaign]: id=Under_the_Burning_Suns
-msgid "Normal"
-msgstr "普通"
-
-#. [campaign]: id=Under_the_Burning_Suns
-msgid "Challenging"
-msgstr "挑战"
+msgid "Difficult"
+msgstr ""
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [advancement]: id=warrior_1
@@ -90,7 +90,7 @@ msgstr "其他"
 msgid "And special thanks to everyone else who I forgot to mention."
 msgstr "特别感谢忘记提到的人们。"
 
-#. [lua]: wesnoth.theme_items.unit_status
+#. [lua]: wesnoth.interface.game_display.unit_status
 msgid ""
 "dehydrated: This unit is dehydrated. It will lose 4 HP and have its damage "
 "reduced by 1 each turn during the day unless prevented by healers or cured "
@@ -103,11 +103,11 @@ msgstr ""
 "\n"
 "由于脱水，单位不会死去活或不造成伤害。"
 
-#. [lua]: wesnoth.theme_items.unit_status
+#. [lua]: wesnoth.interface.game_display.unit_status
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
 msgstr "昏迷: 此单位已昏迷，无法确保其控制区域。"
 
-#. [lua]: wesnoth.theme_items.unit_status
+#. [lua]: wesnoth.interface.game_display.unit_status
 msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
@@ -119,8 +119,8 @@ msgstr ""
 msgid "The Morning After"
 msgstr "天亮以后"
 
-#. [side]: id=Kaleh, type=Quenoth Youth
 #. [side]
+#. [side]: id=Kaleh, type=Quenoth Youth
 msgid "team_name^Quenoth Elves"
 msgstr "奎诺精灵"
 
@@ -128,10 +128,10 @@ msgstr "奎诺精灵"
 msgid "Monsters"
 msgstr "怪物"
 
+#. [side]
 #. [side]: id=Panok, type=Direwolf Rider, type=Goblin Knight
 #. [side]: id=Turg, type=Orcish Warrior, type=Orcish Warlord
 #. [side]: id=Ug'lok, type=Orcish Warrior, type=Orcish Warlord
-#. [side]
 msgid "Evil"
 msgstr "邪恶"
 
@@ -225,13 +225,14 @@ msgstr ""
 "的村子了。这真是太糟糕了。"
 
 #. [message]: speaker=Nym
+#, fuzzy
 msgid ""
 "Come on, Kaleh, we have to go see if anyone is hurt or needs help. I think I "
 "hear people calling from the south. Now is not a time for fear, we must be "
 "strong. After all you are the nephew of Tanuil, our leader, and you must "
-"answer to the call of duty. Perhaps in the light of day things won’t be as "
-"bad as you think. Let’s explore the village and see who else has survived "
-"the night."
+"answer the call of duty. Perhaps in the light of day things won’t be as bad "
+"as you think. Let’s explore the village and see who else has survived the "
+"night."
 msgstr ""
 "快啊，卡勒，我们得瞧瞧还有没有人受伤了或是需要帮助。我想我听到了南边传来呼救"
 "声。现在不能畏惧，我们要坚强。你毕竟是我们的领袖泰纽的侄子，你得承担起责任。"
@@ -353,10 +354,11 @@ msgid "Ha! They’re destroyed at last."
 msgstr "哈！ 它们终于覆灭了。"
 
 #. [message]: speaker=Garak
+#, fuzzy
 msgid ""
 "Thanks for the help. I am glad to see that so many have survived the night. "
 "But there’s no time to talk, we must save the rest of our people and crush "
-"any other of these earthen abominations back into the earth."
+"these earthen abominations."
 msgstr ""
 "谢谢帮助。我很欣慰昨晚还有这么多幸存者。但现在没功夫寒暄，我们必须救出其他子"
 "民，粉碎任何土中冒出来的怪物。"
@@ -872,8 +874,8 @@ msgstr ""
 msgid "Do you remember anything about these sands?"
 msgstr "还记得这片沙漠吗？"
 
-#. [unit]: type=Defeated Corrupted Quenoth Elf, id=Garak_defeated
 #. [message]: speaker=narrator
+#. [unit]: type=Defeated Corrupted Quenoth Elf, id=Garak_defeated
 msgid "Garak"
 msgstr "伽拉克"
 
@@ -963,8 +965,8 @@ msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
 msgstr "好吧，越快到达尖塔石越好，我们走吧！"
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
-msgid "Scorpion"
-msgstr "蝎子"
+msgid "Scuttler"
+msgstr ""
 
 #. [message]: speaker=unit
 msgid "Wait. I think I spotted something ahead of us..."
@@ -1555,9 +1557,17 @@ msgstr "阿兹卡提"
 msgid "Ystara"
 msgstr "伊斯图拉"
 
-#. [objective]: condition=lose
-msgid "You lose control (even temporarily) of more than 6 villages"
-msgstr "你失去对六个以上的村庄的控制（即使是暂时的）"
+#. [objective]: condition=win
+msgid "Survive until dawn"
+msgstr "存活至黎明"
+
+#. [objective]: condition=win
+msgid "Defeat all undead leaders"
+msgstr "击败所有亡灵首领"
+
+#. [objective]: condition=win
+msgid "Defeat Possessed Garak"
+msgstr "击败被附体的伽拉克"
 
 #. [objective]: condition=win
 msgid "Defeat Azkotep"
@@ -1567,17 +1577,9 @@ msgstr "击败阿兹卡提"
 msgid "Defeat Ystara"
 msgstr "击败伊斯图拉"
 
-#. [objectives]
-msgid "Starting Objectives:"
-msgstr "任务目标:"
-
-#. [objective]: condition=win
-msgid "Survive until dawn"
-msgstr "存活至黎明"
-
-#. [objective]: condition=win
-msgid "Defeat all undead leaders"
-msgstr "击败所有亡灵首领"
+#. [objective]: condition=lose
+msgid "You lose control (even temporarily) of more than 6 villages"
+msgstr "你失去对六个以上的村庄的控制（即使是暂时的）"
 
 #. [event]
 msgid "Zur"
@@ -1808,136 +1810,22 @@ msgid ""
 "nothing happened to him."
 msgstr "我看到他冲入黑暗中的敌阵。希望他平安无恙。"
 
-#. [message]: speaker=Nym
+#. [message]: speaker=$lich_lord.id
+#, fuzzy
 msgid ""
-"Look, dawn is nigh, our salvation is almost at hand. Even the long dark "
-"can’t last forever, and with the light of the sun the undead power wanes and "
-"their dark magics unravel."
-msgstr ""
-"看，黎明临近了，我们有救了。长夜不会一直持续的，阳光会让亡灵的力量减少，他们"
-"的黑暗魔法也会消散。"
+"No! This contest is not over yet, Ystara. I shall show you a taste of my "
+"true power."
+msgstr "不！你我的争斗还没结束，阿兹卡提。给你看看我真正的力量。"
 
-#. [message]: speaker=Ystara
+#. [message]: speaker=$lich_lord.id
 msgid ""
 "No! This contest is not over yet, Azkotep. I shall show you a taste of my "
 "true power."
 msgstr "不！你我的争斗还没结束，阿兹卡提。给你看看我真正的力量。"
 
-#. [then]
 #. [event]
 msgid "Possessed Garak"
 msgstr "疯狂的伽拉克"
-
-#. [message]: speaker=Azkotep
-msgid ""
-"No! How dare you? I shall have my vengeance upon you for spoiling this "
-"contest! Darkness shall reign until I have triumphed!"
-msgstr "不！怎么这样？我要复仇！应该是我来之后黑暗才降临的！"
-
-#. [message]: speaker=Nym
-msgid ""
-"Maybe I spoke too soon. Curse Uria, he has even blotted out the stars, all "
-"is darkness. Kaleh, our course is clear, we must destroy that abomination."
-msgstr ""
-"也许我说的太早。尤里安的，他掩盖了星星，都黑了。卡勒，我们的考验明确了，一定"
-"要消灭它们。"
-
-#. [objectives]
-msgid "New Objectives:"
-msgstr "新任务:"
-
-#. [message]: speaker=Azkotep
-#. [message]: speaker=Ystara
-msgid ""
-"No, I shall have my revenge. I shall show you that darkness is strongest "
-"just before dawn. Death and decay, grant me my vengeance!"
-msgstr "不，我要复仇。黎明前就体验黑暗的伟大。死亡和屈服。赋予我复仇的力量！"
-
-#. [message]: speaker=Ystara
-msgid ""
-"In this I shall support you, the darkness will not lift until one of us is "
-"victorious."
-msgstr "只有这一点我同意，太阳不会在我们中任意一人胜利之前升起。"
-
-#. [message]: speaker=Nym
-msgid ""
-"Maybe I spoke too soon. Curse Uria, they have even blotted out the stars, "
-"all is darkness. Kaleh, our course is clear, we must destroy one of these "
-"abominations. Whether it be the thing that has taken our friend, or the "
-"spectral evil that remains, one of them must die for this battle to end. We "
-"have no choice."
-msgstr ""
-"也许我说的太早了。尤里安的，他们甚至掩盖了星星，又是黑暗了。卡勒，我们的目标"
-"很明确了，必须毁灭其中一个。不管是那个夺走我们朋友的或是另一个，必须杀死其中"
-"之一。别无选择了。"
-
-#. [message]: speaker=Zhul
-msgid "But to kill Garak? How can we?"
-msgstr "去杀死伽拉克？ 我们怎能做到？"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"That thing is not Garak. This night has lasted long enough, and too many of "
-"our people have died. How many more would you sacrifice for Garak’s sake? "
-"Just protecting our encampments isn’t enough, darkness and chaos will "
-"overwhelm us if we can’t end this battle soon. We must destroy one of those "
-"two evils, whatever the cost. I do not intend to let that... thing keep "
-"control of the body of our friend."
-msgstr ""
-"那个东西才不是伽拉克。这个夜晚持续的够久了，已经有太多牺牲。伽拉克也不会愿意"
-"让更多的人死去了？护卫营地不是根本方法，黑暗只能靠战斗驱散。不论付出什么样的"
-"代价，我们都要击败至少一个恶魔。我不愿意让那……那种东西控制我们朋友的躯体。"
-
-#. [message]: speaker=Ystara
-#. [message]: speaker=Azkotep
-msgid "The stench of death is in the air."
-msgstr "有死亡的恶臭。"
-
-#. [message]: speaker=Possessed Garak
-msgid "Yes, let us end this once and for all."
-msgstr "是的。让我们一次了断吧。"
-
-#. [objective]: condition=win
-msgid "Defeat Possessed Garak"
-msgstr "击败被附体的伽拉克"
-
-#. [message]: speaker=Azkotep
-msgid ""
-"In this I shall support you, the darkness shall not break until one of us is "
-"victorious."
-msgstr "这一点我同意，太阳不会在我们中任意一人胜利之前升起。"
-
-#. [message]: speaker=Azkotep
-#. [message]: speaker=Ystara
-msgid ""
-"No! How dare you! I shall have my vengeance upon you for spoiling this "
-"contest! Darkness shall reign until I have triumphed!"
-msgstr ""
-"不！你怎么敢！你破坏了这场竞赛，因此我要向你复仇！黑暗会继续下去，直到我取得"
-"胜利！"
-
-#. [message]: speaker=Possessed Garak
-msgid ""
-"I told you, I will be back, you fools! Now I shall have my vengeance upon "
-"you all. Darkness shall reign until I have triumphed!"
-msgstr ""
-"我说过，我会回来的，你们这些蠢货！现在我要向你门所有人复仇！黑暗会继续下去，"
-"直到我取得胜利！"
-
-#. [message]: speaker=Azkotep
-#. [message]: speaker=Ystara
-msgid ""
-"In this I shall support you, the darkness shall not lift until one of us is "
-"victorious."
-msgstr "我同意，太阳不会在我们中任意一人胜利之前升起。"
-
-#. [message]: speaker=Nym
-msgid ""
-"Maybe I spoke too soon. Curse Uria, she has even blotted out the stars, all "
-"is darkness. Kaleh, our course is clear, we must destroy that abomination."
-msgstr ""
-"我说的太早了。尤里安的，她屏蔽了星辰，无限黑暗。卡勒，我们的目标就是消灭这憎"
-"恶的源头。"
 
 #. [message]: speaker=Zhul
 msgid "Eloh protect us, what has he done?"
@@ -1966,6 +1854,12 @@ msgid ""
 "Garak collapses to the ground with his own blade sticking from his chest."
 msgstr "伽拉克 的尸体倒下了，胸膛上插着自己的刀。"
 
+#. [message]: speaker=$other_lord.id
+msgid ""
+"No! How dare you? I shall have my vengeance upon you for spoiling this "
+"contest! Darkness shall reign until I have triumphed!"
+msgstr "不！怎么这样？我要复仇！应该是我来之后黑暗才降临的！"
+
 #. [message]: speaker=Possessed Garak
 msgid "Hahaha...!"
 msgstr "哈哈哈……！"
@@ -1985,6 +1879,74 @@ msgid ""
 msgstr ""
 "哈哈哈！你可怜的朋友已经死了。我会用他的尸体让你们灭亡。复苏吧，我的奴仆们，"
 "享受杀戮的盛宴吧！"
+
+#. [message]: speaker=$lich_lord.id
+msgid ""
+"No, I shall have my revenge. I shall show you that darkness is strongest "
+"just before dawn. Death and decay, grant me my vengeance!"
+msgstr "不，我要复仇。黎明前就体验黑暗的伟大。死亡和屈服。赋予我复仇的力量！"
+
+#. [message]: speaker=$other_lord.id
+msgid ""
+"In this I shall support you, the darkness will not lift until one of us is "
+"victorious."
+msgstr "只有这一点我同意，太阳不会在我们中任意一人胜利之前升起。"
+
+#. [message]: speaker=Possessed Garak
+msgid ""
+"I told you, I will be back, you fools! Now I shall have my vengeance upon "
+"you all. Darkness shall reign until I have triumphed!"
+msgstr ""
+"我说过，我会回来的，你们这些蠢货！现在我要向你门所有人复仇！黑暗会继续下去，"
+"直到我取得胜利！"
+
+#. [message]: speaker=$other_lord.id
+msgid ""
+"In this I shall support you, the darkness shall not lift until one of us is "
+"victorious."
+msgstr "我同意，太阳不会在我们中任意一人胜利之前升起。"
+
+#. [message]: speaker=Nym
+msgid ""
+"Look, dawn is nigh, our salvation is almost at hand. Even the long dark "
+"can’t last forever, and with the light of the sun the undead power wanes and "
+"their dark magics unravel."
+msgstr ""
+"看，黎明临近了，我们有救了。长夜不会一直持续的，阳光会让亡灵的力量减少，他们"
+"的黑暗魔法也会消散。"
+
+#. [message]: speaker=Nym
+msgid ""
+"Maybe I spoke too soon. Curse Uria, he has even blotted out the stars, all "
+"is darkness. Kaleh, our course is clear, we must destroy that abomination."
+msgstr ""
+"也许我说的太早。尤里安的，他掩盖了星星，都黑了。卡勒，我们的考验明确了，一定"
+"要消灭它们。"
+
+#. [message]: speaker=Zhul
+msgid "But to kill Garak? How can we?"
+msgstr "去杀死伽拉克？ 我们怎能做到？"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"That thing is not Garak. This night has lasted long enough, and too many of "
+"our people have died. How many more would you sacrifice for Garak’s sake? "
+"Just protecting our encampments isn’t enough, darkness and chaos will "
+"overwhelm us if we can’t end this battle soon. We must destroy one of those "
+"two evils, whatever the cost. I do not intend to let that... thing keep "
+"control of the body of our friend."
+msgstr ""
+"那个东西才不是伽拉克。这个夜晚持续的够久了，已经有太多牺牲。伽拉克也不会愿意"
+"让更多的人死去了？护卫营地不是根本方法，黑暗只能靠战斗驱散。不论付出什么样的"
+"代价，我们都要击败至少一个恶魔。我不愿意让那……那种东西控制我们朋友的躯体。"
+
+#. [message]: speaker=$other_lord.id
+msgid "The stench of death is in the air."
+msgstr "有死亡的恶臭。"
+
+#. [message]: speaker=Possessed Garak
+msgid "Yes, let us end this once and for all."
+msgstr "是的。让我们一次了断吧。"
 
 #. [unit]: type=Orcish Leader, type=Orcish Ruler, id=Ganthos
 msgid "Ganthos"
@@ -2431,15 +2393,15 @@ msgstr "快跑！"
 msgid "Goblins are so predictable."
 msgstr "地精的行动总是那么好预测。"
 
-#. [scenario]: id=04_Descending_into_Darkness
+#. [event]
 msgid "Orac"
 msgstr "欧若可"
 
-#. [scenario]: id=04_Descending_into_Darkness
+#. [event]
 msgid "Scylla"
 msgstr "塞勒"
 
-#. [scenario]: id=04_Descending_into_Darkness
+#. [event]
 msgid "Lake Naga"
 msgstr "湖中的那迦"
 
@@ -2450,8 +2412,8 @@ msgid ""
 msgstr "上吧，湖中生物们！履行你们的诺言，帮助我们把这些讨厌的生物驱逐出境。"
 
 #. [message]: speaker=Scylla
-msgid "Sssslay them all! In the name of the Ssscaled One!"
-msgstr "杀啊啊啊死它们！以有噢噢噢鳞之人的名义！"
+msgid "Yesss, we remember the oath... Sssslay them all!"
+msgstr ""
 
 #. [message]: speaker=Panok
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
@@ -2625,8 +2587,8 @@ msgstr ""
 "见。我不知道我在这里干什么。某种神秘的东西让我不自觉地来到这里，我有种不祥的"
 "预感。"
 
-#. [unit]: type=Dark Assassin2, id=Cloaked Figure
 #. [unit]: type=Dark Assassin1, id=Cloaked Figure
+#. [unit]: type=Dark Assassin2, id=Cloaked Figure
 #. [unit]: type=Dark Assassin3, id=Cloaked Figure
 msgid "Cloaked Figure"
 msgstr "戴斗篷者"
@@ -2728,20 +2690,40 @@ msgid "Explore underground"
 msgstr "探索地下世界"
 
 #. [objective]: condition=win
-msgid "Defeat enemy leaders"
-msgstr "击败敌方首领"
+msgid "Defeat troll leaders"
+msgstr "击败巨魔首领"
 
-#. [unit]: type=Quenoth Fighter
-msgid "Nantheos"
-msgstr "南斯奥"
+#. [objective]: condition=win
+msgid "Defeat dwarf leaders"
+msgstr "击败矮人首领"
 
-#. [unit]: type=Quenoth Fighter
-msgid "Sylestria"
-msgstr "塞拉史翠"
+#. [objective]: condition=win
+msgid "Defeat the Cloaked Figure"
+msgstr "击败戴斗篷者"
+
+#. [objective]: condition=lose
+msgid "Death of Fundin"
+msgstr "凡丁死亡"
+
+#. [objective]: condition=lose
+msgid "Death of Nori"
+msgstr "诺瑞死亡"
+
+#. [objective]: condition=lose
+msgid "Death of Thungar"
+msgstr "萨格死亡"
+
+#. [objective]: condition=lose
+msgid "Death of Gnarl"
+msgstr "诺尔死亡"
 
 #. [unit]: type=Quenoth Flanker
 msgid "Rygar"
 msgstr "瑞格"
+
+#. [unit]: type=Quenoth Fighter
+msgid "Nantheos"
+msgstr "南斯奥"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -2949,201 +2931,6 @@ msgid ""
 "anything, everyone."
 msgstr "我不管“他们”是什么东西， 反正我们没有退路了。大家准备动手。"
 
-#. [scenario]: id=05_A_Subterranean_Struggle
-msgid ""
-"What are you doing back here? The trolls hide in the southern tunnels, not "
-"this way."
-msgstr "你们折回来干什么？巨魔躲在南边的通道，不是这边。"
-
-#. [scenario]: id=05_A_Subterranean_Struggle
-msgid "Nasty dwarves and stinkin’ elves, we will smash you all!"
-msgstr "肮脏的矮人和臭精灵们，我们会把你们统统砸扁！"
-
-#. [scenario]: id=05_A_Subterranean_Struggle
-msgid ""
-"Kill the elves! We must stop them here. This is our land, crush the "
-"intruders!"
-msgstr "杀掉精灵！我们必须阻止他们。这是我们的土地，消灭入侵者！"
-
-#. [scenario]: id=05_A_Subterranean_Struggle
-msgid ""
-"Treacherous elves, how can you fight with such horrid creatures as trolls? I "
-"will cleave all in two with my axe!"
-msgstr ""
-"卑鄙的精灵，你们竟然和巨魔这样讨厌的生物狼狈为奸。看我一斧子把你们劈成两半！"
-
-#. [scenario]: id=05_A_Subterranean_Struggle
-msgid ""
-"If you think you can take these caves from us, then you are fools. We are "
-"masters of fighting underground and we will die to defend our home. Fight "
-"on, my brothers!"
-msgstr ""
-"如果你们觉得能从我们手里夺走这些洞穴，那你们还真是天真。我们可是地下的战斗大"
-"师啊，我们会誓死保卫我们的家园。给我上，兄弟们！"
-
-#. [scenario]: id=05_A_Subterranean_Struggle
-msgid ""
-"What you doing back here? Nasty dwarves are to the north, no dwarves this "
-"way. Go back and fight bravely."
-msgstr "你回来这里干什么？肮脏的矮人在北边，这里没有矮人。快回去作战，勇敢点。"
-
-#. [objective]: condition=win
-msgid "Defeat the Cloaked Figure"
-msgstr "击败戴斗篷者"
-
-#. [event]
-msgid "Zurg"
-msgstr "泽格"
-
-#. [message]: speaker=Zurg
-msgid ""
-"Congratulations! Some of trolls didn’t think you strong enough to beat "
-"Dwarves."
-msgstr "恭喜！有些巨魔还觉得你们不够强壮，不能击败矮人呢。"
-
-#. [message]: speaker=Kaleh
-msgid "Where did you come from?"
-msgstr "你们从哪里来？"
-
-#. [message]: speaker=Zurg
-msgid ""
-"There many secret tunnels that you sun dwellers not know of. Only troll "
-"know. We smarter than you think. Zurg would have killed dwarves himself, but "
-"he was just sent back from where real fighting is."
-msgstr ""
-"很多秘密通道是你们这些阳光下的居民不知道的，只有巨魔清楚那些。我们比你们想象"
-"的要聪明。泽格本来可以在前线亲手杀敌，但是现在却从真正的战斗中被派回这后方来"
-"了。"
-
-#. [message]: speaker=Zhul
-msgid "The real fighting? I thought that was what we were waist-deep in?"
-msgstr "难道这里不是真正的战斗吗，难道我们这里是在过家家吗？"
-
-#. [message]: speaker=Zurg
-msgid ""
-"While you fighting, another clan of dwarves sneak around and flank us. They "
-"tricksy like that. We must leave you and run back to defend women and little "
-"trolls. Dwarves never give up, many trolls die today, very hard fighting. "
-"But dwarves make mistake, you stronger than dwarf or troll thought. You "
-"trolls’ secret weapon."
-msgstr ""
-"在你们作战的时候，另一拨矮人偷偷绕到后方偷袭了我们。他们就是这样狡猾。我们不"
-"得已只好撤退去保护妇女和小巨魔。矮人从不懂得罢休，今天许多巨魔牺牲了，这真是"
-"一场艰难的战斗啊。不过矮人还是失算了，你们比矮人或者巨魔想象的更加强大。你们"
-"是我们巨魔的秘密武器。"
-
-#. [message]: speaker=Nym
-msgid "How do you mean?"
-msgstr "秘密武器？"
-
-#. [message]: speaker=Zurg
-msgid ""
-"Right before battle, we find secret passage just to the north leading "
-"straight to big dwarf stronghold. Hiding in stronghold is big important "
-"dwarf, directing the battle. Dwarves always think they best fighters around "
-"so they leave only a few dwarves guarding their stronghold. If you elves can "
-"break through dwarf defenses and kill dwarf chieftain, then it will do much "
-"damage to dwarves, make them afraid and confused, easy prey for trolls. You "
-"do this and we can drive them back. Then troll leader can help show you how "
-"to return to surface. You come with Zurg, he show you way to secret passage."
-msgstr ""
-"就在战争打响前，我们在北边发现了一条直通矮人大本营的秘道。指挥这场战争的矮人"
-"首领就藏在那个大本营里。矮人自认为他们的战士是最优秀的，所以他们没有派很多人"
-"来守卫大本营。如果你们精灵能够突破矮人的防线去杀死他们的首领，那就会给矮人以"
-"沉重打击，这样他们就会乱了阵脚，任巨魔宰割了。一旦你们成功了，我们就能把他们"
-"赶回去。然后巨魔首领就会帮你们找到回地表的路。你们跟泽格来，我会带你们去那条"
-"秘道。"
-
-#. [message]: speaker=Elyssa
-msgid ""
-"Their knowledge of these tunnels is uncanny. I could have sworn a minute ago "
-"that that wall was solid rock."
-msgstr "他们的坑道知识真是太神奇了。我发誓一分钟前那堵墙还只是坚固的石头。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"Wait a moment, Zurg, we must deal with this mysterious cloaked figure before "
-"we can follow you."
-msgstr "泽格，等一下，我们要先料理了这个神秘的戴斗篷者，然后才能跟你走。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"It sounds like our work is not yet done. Very well, gather yourselves "
-"together, we must follow Zurg."
-msgstr "看来我们的工作还没有结束。好吧，集合队伍，我们得跟着泽格走。"
-
-#. [event]
-#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
-msgid "Grimnir"
-msgstr "格雷纳"
-
-#. [message]: speaker=Grimnir
-msgid ""
-"Congratulations, some of me boys didn’t think you could beat the trolls."
-msgstr "祝贺你，我手下有些人还以为你们打不退巨魔呢。"
-
-#. [message]: speaker=Grimnir
-msgid ""
-"Don’t think you know all the tunnels and passages that twist through these "
-"caves, elf. I would have killed him myself, but I was just sent back from "
-"the main front of the battle."
-msgstr ""
-"精灵，别以为你们了解洞穴里蜿蜒交错的坑道和通路。我本来可以亲手杀了他的，但是"
-"我却从主站场被派了回来。"
-
-#. [message]: speaker=Zhul
-msgid "The front? I thought this was the front."
-msgstr "主战场？我还以为这里就是前线呢。"
-
-#. [message]: speaker=Grimnir
-msgid ""
-"While you were fighting, a separate clan of trolls sneaked around our "
-"sentries and flanked us, attacking our supply depots. There are more of "
-"those stinking buggers than we had originally thought. To tell you the "
-"truth, we are hard pressed. We’re going to have to pull back all our forces "
-"in these caves to reinforce the back lines. But your victory here has "
-"produced a unexpected opportunity."
-msgstr ""
-"当你们战斗时，一队巨魔潜入我们据点袭击了补给设施。这些恶心的家伙比我们想像的"
-"还多。老实告诉你，我们担子很重。我们准备把所有的人都撤回来保卫我们的后方。不"
-"过，你们的胜利是个意外的收获啊。"
-
-#. [message]: speaker=Nym
-msgid "It has?"
-msgstr "有什么？"
-
-#. [message]: speaker=Grimnir
-msgid ""
-"Right before the trolls overran this area of the mines, our scouts had found "
-"an old tunnel south of here that leads almost straight to the main lair of "
-"this tribe of trolls. We believe that protected in the lair is one of their "
-"main leaders who is directing the battle. We were going to try to sneak in "
-"and lead a surprise attack, but frankly we didn’t have enough dwarves to "
-"spare. If by using this passage you can sneak past their front lines and "
-"kill him, then it will throw the trolls into disarray and relieve the "
-"pressure on our front lines. If you do this our King has promised to help "
-"you return your people to the sunlit lands. When you’re ready I’ll show you "
-"the way. It’s not far."
-msgstr ""
-"就在巨魔入侵这个矿区之前，我们的侦察兵发现了南边的一个旧坑道，它直接通向了这"
-"群巨魔的主巢。我们认为指挥这场战争的巨魔首领之一就在那个巢里藏匿着。我们打算"
-"偷偷潜入发动一场突袭，但是很不巧我们人手不够。如果你们利用这个坑道穿过他们的"
-"前线杀死他们的首领，那么巨魔就会陷入混乱。这样我们前线的压力也会减轻。只要你"
-"们愿意干，我们的王答应一定会帮你带领你的人民回到阳光普照的地方去。你准备好了"
-"我就带你去。离这里不远。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"Wait a moment, Grimnir, we must deal with this mysterious cloaked figure "
-"before we can follow you."
-msgstr "格雷纳，等一下，我们要先料理了这个神秘的戴斗篷者，然后才能跟你走。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"It sounds like our work is not yet done. Very well, gather yourselves "
-"together, we must follow Grimnir."
-msgstr "看来我们的工作还没有完成。好吧，行动起来，让我们跟着格雷纳。"
-
 #. [event]
 msgid "Dwarf Defender"
 msgstr "矮人守卫"
@@ -3280,18 +3067,6 @@ msgid ""
 "Griknagh will smash you all."
 msgstr "呸！你们都是一样的，都和巨魔作对。走着瞧，格纳福会压扁你们。"
 
-#. [objective]: condition=win
-msgid "Defeat troll leaders"
-msgstr "击败巨魔首领"
-
-#. [objective]: condition=lose
-msgid "Death of Fundin"
-msgstr "凡丁死亡"
-
-#. [objective]: condition=lose
-msgid "Death of Nori"
-msgstr "诺瑞死亡"
-
 #. [option]
 msgid "Let’s aid the trolls."
 msgstr "我们帮巨魔。"
@@ -3301,18 +3076,6 @@ msgid ""
 "I knew elves couldn’t be trusted. Foolish boy, you will regret your "
 "betrayal. Taste dwarven steel!"
 msgstr "我就知道精灵靠不住。傻瓜们，为背叛忏悔吧。尝尝矮人的钢斧！"
-
-#. [objective]: condition=win
-msgid "Defeat dwarf leaders"
-msgstr "击败矮人首领"
-
-#. [objective]: condition=lose
-msgid "Death of Thungar"
-msgstr "萨格死亡"
-
-#. [objective]: condition=lose
-msgid "Death of Gnarl"
-msgstr "诺尔死亡"
 
 #. [message]: speaker=$explorer.id
 msgid ""
@@ -3520,6 +3283,44 @@ msgstr ""
 "会把我们全都吞噬的。但是在此之前，我要先完成我的复仇。卡勒，为我跳一支死亡舞"
 "曲吧！跳啊！跳啊！"
 
+#. [message]: speaker=unit
+msgid "Nasty dwarves and stinkin’ elves, we will smash you all!"
+msgstr "肮脏的矮人和臭精灵们，我们会把你们统统砸扁！"
+
+#. [message]: speaker=unit
+msgid ""
+"Kill the elves! We must stop them here. This is our land, crush the "
+"intruders!"
+msgstr "杀掉精灵！我们必须阻止他们。这是我们的土地，消灭入侵者！"
+
+#. [message]: speaker=unit
+msgid ""
+"What are you doing back here? The trolls hide in the southern tunnels, not "
+"this way."
+msgstr "你们折回来干什么？巨魔躲在南边的通道，不是这边。"
+
+#. [message]: speaker=unit
+msgid ""
+"Treacherous elves, how can you fight with such horrid creatures as trolls? I "
+"will cleave all in two with my axe!"
+msgstr ""
+"卑鄙的精灵，你们竟然和巨魔这样讨厌的生物狼狈为奸。看我一斧子把你们劈成两半！"
+
+#. [message]: speaker=unit
+msgid ""
+"If you think you can take these caves from us, then you are fools. We are "
+"masters of fighting underground and we will die to defend our home. Fight "
+"on, my brothers!"
+msgstr ""
+"如果你们觉得能从我们手里夺走这些洞穴，那你们还真是天真。我们可是地下的战斗大"
+"师啊，我们会誓死保卫我们的家园。给我上，兄弟们！"
+
+#. [message]: speaker=unit
+msgid ""
+"What you doing back here? Nasty dwarves are to the north, no dwarves this "
+"way. Go back and fight bravely."
+msgstr "你回来这里干什么？肮脏的矮人在北边，这里没有矮人。快回去作战，勇敢点。"
+
 #. [message]: speaker=Fundin
 msgid "The rest is silence..."
 msgstr "让我安息吧……"
@@ -3535,6 +3336,159 @@ msgstr "呃啊！！"
 #. [message]: speaker=Gnarl
 msgid "I will be avenged..."
 msgstr "会有人为我复仇。。。"
+
+#. [event]
+msgid "Zurg"
+msgstr "泽格"
+
+#. [message]: speaker=Zurg
+msgid ""
+"Congratulations! Some of trolls didn’t think you strong enough to beat "
+"Dwarves."
+msgstr "恭喜！有些巨魔还觉得你们不够强壮，不能击败矮人呢。"
+
+#. [message]: speaker=Kaleh
+msgid "Where did you come from?"
+msgstr "你们从哪里来？"
+
+#. [message]: speaker=Zurg
+msgid ""
+"There many secret tunnels that you sun dwellers not know of. Only troll "
+"know. We smarter than you think. Zurg would have killed dwarves himself, but "
+"he was just sent back from where real fighting is."
+msgstr ""
+"很多秘密通道是你们这些阳光下的居民不知道的，只有巨魔清楚那些。我们比你们想象"
+"的要聪明。泽格本来可以在前线亲手杀敌，但是现在却从真正的战斗中被派回这后方来"
+"了。"
+
+#. [message]: speaker=Zhul
+msgid "The real fighting? I thought that was what we were waist-deep in?"
+msgstr "难道这里不是真正的战斗吗，难道我们这里是在过家家吗？"
+
+#. [message]: speaker=Zurg
+msgid ""
+"While you fighting, another clan of dwarves sneak around and flank us. They "
+"tricksy like that. We must leave you and run back to defend women and little "
+"trolls. Dwarves never give up, many trolls die today, very hard fighting. "
+"But dwarves make mistake, you stronger than dwarf or troll thought. You "
+"trolls’ secret weapon."
+msgstr ""
+"在你们作战的时候，另一拨矮人偷偷绕到后方偷袭了我们。他们就是这样狡猾。我们不"
+"得已只好撤退去保护妇女和小巨魔。矮人从不懂得罢休，今天许多巨魔牺牲了，这真是"
+"一场艰难的战斗啊。不过矮人还是失算了，你们比矮人或者巨魔想象的更加强大。你们"
+"是我们巨魔的秘密武器。"
+
+#. [message]: speaker=Nym
+msgid "How do you mean?"
+msgstr "秘密武器？"
+
+#. [message]: speaker=Zurg
+msgid ""
+"Right before battle, we find secret passage just to the north leading "
+"straight to big dwarf stronghold. Hiding in stronghold is big important "
+"dwarf, directing the battle. Dwarves always think they best fighters around "
+"so they leave only a few dwarves guarding their stronghold. If you elves can "
+"break through dwarf defenses and kill dwarf chieftain, then it will do much "
+"damage to dwarves, make them afraid and confused, easy prey for trolls. You "
+"do this and we can drive them back. Then troll leader can help show you how "
+"to return to surface. You come with Zurg, he show you way to secret passage."
+msgstr ""
+"就在战争打响前，我们在北边发现了一条直通矮人大本营的秘道。指挥这场战争的矮人"
+"首领就藏在那个大本营里。矮人自认为他们的战士是最优秀的，所以他们没有派很多人"
+"来守卫大本营。如果你们精灵能够突破矮人的防线去杀死他们的首领，那就会给矮人以"
+"沉重打击，这样他们就会乱了阵脚，任巨魔宰割了。一旦你们成功了，我们就能把他们"
+"赶回去。然后巨魔首领就会帮你们找到回地表的路。你们跟泽格来，我会带你们去那条"
+"秘道。"
+
+#. [message]: speaker=Elyssa
+msgid ""
+"Their knowledge of these tunnels is uncanny. I could have sworn a minute ago "
+"that that wall was solid rock."
+msgstr "他们的坑道知识真是太神奇了。我发誓一分钟前那堵墙还只是坚固的石头。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"Wait a moment, Zurg, we must deal with this mysterious cloaked figure before "
+"we can follow you."
+msgstr "泽格，等一下，我们要先料理了这个神秘的戴斗篷者，然后才能跟你走。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"It sounds like our work is not yet done. Very well, gather yourselves "
+"together, we must follow Zurg."
+msgstr "看来我们的工作还没有结束。好吧，集合队伍，我们得跟着泽格走。"
+
+#. [event]
+#. [unit]: type=Dwarvish Pathfinder, id=Grimnir
+msgid "Grimnir"
+msgstr "格雷纳"
+
+#. [message]: speaker=Grimnir
+msgid ""
+"Congratulations, some of me boys didn’t think you could beat the trolls."
+msgstr "祝贺你，我手下有些人还以为你们打不退巨魔呢。"
+
+#. [message]: speaker=Grimnir
+msgid ""
+"Don’t think you know all the tunnels and passages that twist through these "
+"caves, elf. I would have killed him myself, but I was just sent back from "
+"the main front of the battle."
+msgstr ""
+"精灵，别以为你们了解洞穴里蜿蜒交错的坑道和通路。我本来可以亲手杀了他的，但是"
+"我却从主站场被派了回来。"
+
+#. [message]: speaker=Zhul
+msgid "The front? I thought this was the front."
+msgstr "主战场？我还以为这里就是前线呢。"
+
+#. [message]: speaker=Grimnir
+msgid ""
+"While you were fighting, a separate clan of trolls sneaked around our "
+"sentries and flanked us, attacking our supply depots. There are more of "
+"those stinking buggers than we had originally thought. To tell you the "
+"truth, we are hard pressed. We’re going to have to pull back all our forces "
+"in these caves to reinforce the back lines. But your victory here has "
+"produced a unexpected opportunity."
+msgstr ""
+"当你们战斗时，一队巨魔潜入我们据点袭击了补给设施。这些恶心的家伙比我们想像的"
+"还多。老实告诉你，我们担子很重。我们准备把所有的人都撤回来保卫我们的后方。不"
+"过，你们的胜利是个意外的收获啊。"
+
+#. [message]: speaker=Nym
+msgid "It has?"
+msgstr "有什么？"
+
+#. [message]: speaker=Grimnir
+msgid ""
+"Right before the trolls overran this area of the mines, our scouts had found "
+"an old tunnel south of here that leads almost straight to the main lair of "
+"this tribe of trolls. We believe that protected in the lair is one of their "
+"main leaders who is directing the battle. We were going to try to sneak in "
+"and lead a surprise attack, but frankly we didn’t have enough dwarves to "
+"spare. If by using this passage you can sneak past their front lines and "
+"kill him, then it will throw the trolls into disarray and relieve the "
+"pressure on our front lines. If you do this our King has promised to help "
+"you return your people to the sunlit lands. When you’re ready I’ll show you "
+"the way. It’s not far."
+msgstr ""
+"就在巨魔入侵这个矿区之前，我们的侦察兵发现了南边的一个旧坑道，它直接通向了这"
+"群巨魔的主巢。我们认为指挥这场战争的巨魔首领之一就在那个巢里藏匿着。我们打算"
+"偷偷潜入发动一场突袭，但是很不巧我们人手不够。如果你们利用这个坑道穿过他们的"
+"前线杀死他们的首领，那么巨魔就会陷入混乱。这样我们前线的压力也会减轻。只要你"
+"们愿意干，我们的王答应一定会帮你带领你的人民回到阳光普照的地方去。你准备好了"
+"我就带你去。离这里不远。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"Wait a moment, Grimnir, we must deal with this mysterious cloaked figure "
+"before we can follow you."
+msgstr "格雷纳，等一下，我们要先料理了这个神秘的戴斗篷者，然后才能跟你走。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"It sounds like our work is not yet done. Very well, gather yourselves "
+"together, we must follow Grimnir."
+msgstr "看来我们的工作还没有完成。好吧，行动起来，让我们跟着格雷纳。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -3575,6 +3529,10 @@ msgstr "在巨魔的隧道里"
 #. [side]
 msgid "Dwarf Ally"
 msgstr "矮人同盟"
+
+#. [objectives]
+msgid "Starting Objectives:"
+msgstr "任务目标:"
 
 #. [objective]: condition=win
 msgid "Kill troll leader"
@@ -3687,8 +3645,8 @@ msgstr "受伤的矮人"
 msgid "Tell us where your leader is hiding!"
 msgstr "你们的首领藏在哪里！"
 
-#. [message]: speaker=Kaleh
 #. [message]: speaker=Wounded Dwarf
+#. [message]: speaker=Kaleh
 msgid "Never!"
 msgstr "绝不！"
 
@@ -3786,6 +3744,16 @@ msgstr ""
 "$heat_damage|点伤害。热量造成的这种伤害可以让单位的生命值减少到1点，但不会致"
 "死。"
 
+#. [message]: role=Troll High Shaman
+msgid "Arise! Arise and engulf the intruders in your holy fire!"
+msgstr "起来吧！起来用你们神圣的火焰吞噬这些入侵者！"
+
+#. [message]
+msgid ""
+"What the heck is that? It sure doesn’t look good. The last thing we need in "
+"here is even more fire."
+msgstr "那是什么鬼东西？看起来太糟糕了，我们现在最不缺的东西就是火了。"
+
 #. [message]: speaker=$explorer.id
 msgid ""
 "There is a small pool of water here. It must come from some spring deep "
@@ -3807,19 +3775,9 @@ msgstr ""
 "的影响。不过，如果单位离开了这个池子，他还是会在每回合受到 $temp_damage 点的"
 "高温伤害。"
 
-#. [message]: role=Troll High Shaman
-msgid "Arise! Arise and engulf the intruders in your holy fire!"
-msgstr "起来吧！起来用你们神圣的火焰吞噬这些入侵者！"
-
-#. [then]
+#. [unit]: type={ON_DIFFICULTY (Fire Guardian) (Fire Guardian2) (Fire Guardian3)}, role=Guardian Phoenix
 msgid "Guardian Phoenix"
 msgstr "凤凰守卫"
-
-#. [message]
-msgid ""
-"What the heck is that? It sure doesn’t look good. The last thing we need in "
-"here is even more fire."
-msgstr "那是什么鬼东西？看起来太糟糕了，我们现在最不缺的东西就是火了。"
 
 #. [message]
 msgid "That thing just won’t stay dead!"
@@ -3829,7 +3787,7 @@ msgstr "这东西不安份！"
 msgid "Arise, hallowed guardians, and destroy them!"
 msgstr "起来，神圣的守卫们，摧毁他们！"
 
-#. [then]
+#. [event]
 msgid "Fire Guardian"
 msgstr "火焰守卫"
 
@@ -3906,7 +3864,7 @@ msgstr "起来，我们以前的兄弟！再来消灭入侵者！"
 msgid "Argh! Curse you! May you never live to see daylight again!"
 msgstr "啊！我诅咒你们！诅咒你们再也见不到阳光！"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid "And so, at last, it ends."
 msgstr "好了，终于结束了。"
 
@@ -4091,10 +4049,10 @@ msgstr "矮人地界"
 msgid "Enemies"
 msgstr "敌人"
 
-#. [side]: id=King Thurongar, type=Dwarvish Lord
-#. [side]: id=Melusand, type=Mermaid Diviner
 #. [side]
+#. [side]: id=King Thurongar, type=Dwarvish Lord
 #. [side]: id=Great Leader Darmog, type=Great Troll
+#. [side]: id=Melusand, type=Mermaid Diviner
 msgid "Allies"
 msgstr "同盟"
 
@@ -4165,11 +4123,11 @@ msgstr ""
 msgid "Once you done moving into position, Zurg will destroy wall."
 msgstr "一旦你靠近了那个位置，泽格就会打通那面墙。"
 
+#. [event]
 #. [unit]: type=Dwarvish Sentinel
 #. [unit]: type=Dwarvish Steelclad
 #. [unit]: type=Dwarvish Berserker
 #. [unit]: type=Dwarvish Dragonguard
-#. [event]
 msgid "Dwarf Guard"
 msgstr "矮人守卫"
 
@@ -4277,7 +4235,7 @@ msgid ""
 "one is gonna save you."
 msgstr "啊，你跑不了了。要抓住你是易如反掌，这回可没有人会来救你。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid "How did a troll get stuck all the way back here?"
 msgstr "巨魔怎么会被困在这里？"
 
@@ -4354,7 +4312,7 @@ msgstr "毛特多蝙蝠"
 msgid "Dwarf Hermit"
 msgstr "矮人隐居者"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid ""
 "Incoming! Ugh, it’s big, hairy, and nasty. I hate bats, I really hate bats."
 msgstr "有情况！啊，又大毛又多，还很脏。我讨厌蝙蝠，相当讨厌。"
@@ -5228,8 +5186,8 @@ msgstr "好吧，越快离开这里我越高兴。"
 msgid "Wait, did you feel that?"
 msgstr "等下，你们感觉到什么了吗？"
 
-#. [message]: role=mystic_speaker
 #. [message]: speaker=Nym
+#. [message]: role=mystic_speaker
 msgid "What?"
 msgstr "什么？"
 
@@ -5237,22 +5195,23 @@ msgstr "什么？"
 msgid "It felt like a distant rumbling. And what’s that roaring sound?"
 msgstr "远处似乎传来轰隆隆的异响。这个轰鸣声是什么？"
 
+#. [unit]: type=Troll Rocklobber
 #. [unit]: type=Troll Whelp
 #. [unit]: type=Troll Shaman, role=avenger
 msgid "Troll Avenger"
 msgstr "巨魔复仇者"
 
 #. [message]: role=avenger
+#, fuzzy
 msgid ""
-"Foul elves, you not escaped us yet. The Great Leader shall be avenged! We "
-"have dammed the river and soon all shall drown in its dark waters. Come join "
-"us in death!"
+"Foul elves, you not escaped us yet. Great Leader will be avenged! We plugged "
+"river and you all drown with us!"
 msgstr ""
 "龌龊的精灵，你们别想逃。我们要为首领报仇！我们戳通了水坝，不久这里就被淹没"
 "了。死后再见我们吧！"
 
 #. [unit]: type=Dwarvish Fighter
-#. [unit]: type=Dwarvish Thunderer
+#. [unit]: type=Dwarvish Thunderguard
 #. [unit]: type=Dwarvish Pathfinder, role=avenger
 msgid "Dwarf Avenger"
 msgstr "矮人复仇者"
@@ -5976,6 +5935,13 @@ msgid ""
 msgstr "我真弄不懂这些异教徒怎么有这么多花样。更重要的是，我们该走哪条路？"
 
 #. [message]: speaker=unit
+#, fuzzy
+msgid ""
+"I think I hear the sound of rushing water down the western passage; it might "
+"already be flooding! It must connect back somehow to the other tunnels."
+msgstr "看，西边的通道已经被水淹了！看来它肯定通向我们身后的某个坑道。"
+
+#. [message]: speaker=unit
 msgid ""
 "Look, the western passage is already flooding! It must connect back somehow "
 "to the other tunnels."
@@ -6103,6 +6069,10 @@ msgstr "那就走吧，我无所谓。"
 msgid "Look, daylight! I think we finally made it out of the caves!"
 msgstr "看，阳光！我们终于走出洞穴了！"
 
+#. [message]: speaker=Nym
+msgid "Kaleh? Zhul? I’m still stuck back here..."
+msgstr ""
+
 #. [message]: speaker=$explorer.id
 msgid ""
 "What’s this? Someone has built an outpost at the end of the cave. Where are "
@@ -6112,6 +6082,10 @@ msgstr "这是什么？有人在这洞穴的出口建了一个哨卡。它的主
 #. [message]: speaker=$explorer.id
 msgid "Kaleh, I think you should come up and see this."
 msgstr "卡勒，来看这个。"
+
+#. [message]: speaker=Kaleh
+msgid "Ack, I’m surrounded by water!"
+msgstr ""
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -6125,11 +6099,7 @@ msgstr ""
 msgid "Now, Keratur, I will have my answers. Did you have a hand in this?"
 msgstr "凯若特，现在我想问你，这是你干的吗？"
 
-#. [unit]: type=Dark Assassin3, id=Keratur
-msgid "Keratur"
-msgstr "凯若特"
-
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "They heard me and... and they got in the way. But they aren’t even elves, "
 "what do they matter?"
@@ -6149,7 +6119,7 @@ msgstr ""
 "妮慕，别说了。不过我还不清楚你是怎么来这里的。我们以为你已经死了。我们到处搜"
 "寻，一直没有找到你的尸体。"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "Heh, heh, no you didn’t find me. I awoke trapped under the rubble, and when "
 "I finally escaped the village was deserted. Just the stink of death and "
@@ -6165,7 +6135,7 @@ msgstr ""
 msgid "Watch what?"
 msgstr "看什么？"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "They brought some humans, bound up tight. So beautiful... she had flaming "
 "red hair... they cut her... I can still hear her screaming. But that was "
@@ -6180,7 +6150,7 @@ msgstr ""
 msgid "From the humans?"
 msgstr "人类的嚎叫？"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "Faugh. No, I heard the screams of the dead, torn from their rest, their "
 "souls rose into the air howling in agony."
@@ -6192,7 +6162,7 @@ msgstr ""
 msgid "But, but we burned the bodies so they couldn’t be raised."
 msgstr "但是，但是我们已经把尸体都烧了，他们不该被复苏了啊。"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "Fool. That did not stop their dark power. Nothing could stop them. I felt "
 "the rush of flying spirits, and the unbearable cold, so cold. For a moment I "
@@ -6204,7 +6174,7 @@ msgstr ""
 "他们正在折磨我。但是他们不会杀我，不会杀我。他们让我作为一个目击者苟活着，他"
 "们嘲笑着看我爬过沙丘。"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "I was able to follow your trail, and I slipped among your people. No one "
 "noticed me, no I was too sneaky. And you wondered how I managed to follow "
@@ -6217,7 +6187,7 @@ msgstr ""
 msgid "But why, why did you want to kill us?"
 msgstr "但是为什么，为什么你要杀死我们？"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid ""
 "You abandoned them! The pain, the agony, I still see their ghostly faces and "
 "hear their wails. And the necromancers kept chanting one name over and over: "
@@ -6235,7 +6205,7 @@ msgstr ""
 msgid "I... I forgive you."
 msgstr "我……我原谅你。"
 
-#. [message]: speaker=Keratur
+#. [message]: speaker=Cloaked Figure
 msgid "I do not fear death any more."
 msgstr "我不再害怕死亡了。"
 
@@ -6501,7 +6471,7 @@ msgid ""
 "windy it can be."
 msgstr "我想我们终于走出来了。我都忘了天空的广阔和风的吹拂了。"
 
-#. [message]: race=elf
+#. [message]: race=quenoth,elf
 msgid "Can you see very far? Do you have any idea where we are?"
 msgstr "你能看到远处吗？你知道我们在哪里吗？"
 
@@ -6517,10 +6487,10 @@ msgstr ""
 "陵。山谷的中央是平的，四周是沙丘。山谷中央似乎有定居点。在更远的北边，我看见"
 "天际似乎有闪光，但我不知道那是什么。"
 
+#. [event]
 #. [unit]: type=Divine Avatar, id=Eloh
 #. [side]
 #. [unit]: type=Divine Incarnation, id=Eloh
-#. [event]
 msgid "Eloh"
 msgstr "伊洛"
 
@@ -6630,10 +6600,11 @@ msgstr ""
 "们也不能活着走出那些洞穴。"
 
 #. [message]: speaker=Eloh
+#, fuzzy
 msgid ""
 "You were weak and foolish, but I forgive you. You must remember, Kaleh, that "
-"without my guidance, your people would have died out years ago. I am your "
-"god, and you must follow my every command."
+"without my guidance, your people would have died out years ago. Believe in "
+"me, I alone can save you."
 msgstr ""
 "你过于弱小愚昧，不过我原谅你。记住，卡勒，没有我的指引，你们早就灭亡了。我是"
 "你们的神，你们必须听从我的命令。"
@@ -6656,9 +6627,10 @@ msgstr ""
 "新的家园。"
 
 #. [message]: speaker=Eloh
+#, fuzzy
 msgid ""
-"Of course I am. Oh, how little you understand. Do not worry yourself with "
-"all those tiny questions. Come to me and all will be made clear."
+"Of course I am! Oh, how little you understand. Do not worry yourself with "
+"such distractions, come to me and all will be made clear."
 msgstr ""
 "我当然是神。哦，你能了解的实在太少了。不要担心那些小小的问题。听我的话，你就"
 "会最终了解。"
@@ -6782,28 +6754,32 @@ msgstr ""
 "我管辖。放下武器，乖乖地听话，否则我会让你后悔没有听我的。"
 
 #. [message]: speaker=Eloh
+#, fuzzy
 msgid ""
 "Kaleh, I am Eloh, bearer of the staff of Ishtar and slayer of the demon-god "
-"Zhangor. Do as I say! Submit to him or I will abandon your people to "
-"suffering and death. Your bones will litter the sand dunes, and vultures "
-"shall pick at your flesh. I am not a forgiving god, Kaleh."
+"Zhangor. Submit to him or I shall abandon your people to suffering and "
+"death. Your bones will litter the sand dunes, and vultures shall pick at "
+"your flesh. I am a just god, Kaleh, but no more forgiving than the harsh "
+"desert sun."
 msgstr ""
 "卡勒，我是伊洛，伊师塔的继承者，消灭了魔神战戈的伊洛。按我说的去做！把武器交"
 "给他，否则我就要抛弃你的人民，任你们承受苦难与死亡。你们将曝尸沙丘，任秃鹫吞"
 "吃你们的肉。卡勒，我可不是个心胸宽广的神。"
 
 #. [message]: speaker=Kaleh
+#, fuzzy
 msgid ""
 "Then kill me if you must, but I will not give myself over to those who "
 "threaten me and my people. I have not come through peril and darkness just "
-"to surrender to a man such as you."
+"to surrender to one such as you."
 msgstr ""
 "既然这样你就杀了我吧，我是不会把自己交给威胁我和我的人民的人的。我克服了这么"
 "多艰难险阻，可不是为了来向你投降的。"
 
 #. [message]: speaker=Sergeant Durstrag
+#, fuzzy
 msgid ""
-"Your dare defy me?! All who refuse to submit to the authority of the Iron "
+"You dare defy me?! All who refuse to submit to the authority of the Iron "
 "Council shall be killed. By the Dark Lady, I shall not put up with this "
 "bickering any longer. To battle, men! Drive those heathens back into the "
 "caves!"
@@ -6812,10 +6788,11 @@ msgstr ""
 "和你们废话下去了。伙计们，准备战斗！把这些异教徒赶回洞穴里去！"
 
 #. [message]: speaker=Eloh
+#, fuzzy
 msgid ""
-"You disappoint me, Kaleh. You are weak, and not worthy of my guidance. Do "
-"what you will, but this is not over. You may be the appointed leader of your "
-"people but I am your god, and I will not let you usurp my authority."
+"You disappoint me, Kaleh. You are weak, and not worthy of my guidance... Do "
+"as you like, but know that while you may be the appointed leader of your "
+"people, I am your god, and you defy me at your peril!"
 msgstr ""
 "卡勒，你太让我失望了。你太懦弱，你不值得我的指引。你爱怎样就怎样吧，但是事情"
 "还没完，你也许是你的人民推选出来的领导者，但我是你们的神，我不会让你篡夺我的"
@@ -7006,9 +6983,10 @@ msgstr "派出信使和他的卫队。到北边去搬救兵，越快越好！"
 msgid "Human Messenger"
 msgstr "人类信使"
 
-#. [unit]: type={ON_DIFFICULTY (Cavalryman) (Cavalier) (Dragoon)}
+#. [unit]: type={ON_DIFFICULTY (Cavalryman) (Cavalryman) (Dragoon)}
+#. [unit]: type={ON_DIFFICULTY (Cavalryman) (Dragoon) (Dragoon)}
 #. [unit]: type={ON_DIFFICULTY (Spearman) (Javelineer) (Swordsman)}
-#. [unit]: type={ON_DIFFICULTY (Spearman) (Longbowman) (Master Bowman)}
+#. [unit]: type={ON_DIFFICULTY (Bowman) (Bowman) (Longbowman)}
 msgid "Human Escort"
 msgstr "人类护卫"
 
@@ -7213,6 +7191,26 @@ msgstr "我能看到天际出现了人类的援军。我们会被击败的！除
 msgid "Several hours pass..."
 msgstr "几小时后。。。"
 
+#. [event]
+msgid "Jezhar"
+msgstr ""
+
+#. [message]: speaker=Dummy Unit7
+msgid ""
+"Eastern scouts, reporting back! If you like sand and hot dust, there's "
+"plenty more out there! No water, or signs of others, we had to turn back."
+msgstr ""
+
+#. [message]: speaker=Kaleh
+msgid ""
+"No shame in that, Jezhar. Of all the scouts, only Tanstafaal and Nym have "
+"yet to return."
+msgstr ""
+
+#. [message]: speaker=Zhul
+msgid "And that has me worried. What if-"
+msgstr ""
+
 #. [message]: speaker=Zhul
 msgid "In Eloh’s name, Nym, you look terrible. Are you well?"
 msgstr "伊洛保佑，妮慕，你气色好差。还好吧？"
@@ -7258,10 +7256,11 @@ msgid "Don’t try to explain, Esanoo. We’ll have to show them instead."
 msgstr "伊瑟努，不用解释。我们只能展示给他们看。"
 
 #. [message]: speaker=Esanoo
+#, fuzzy
 msgid ""
 "It’s not important. What’s important is that I am an emissary from one who "
-"much desires to speak with you, Kaleh. Despite the danger, my master sent me "
-"and my brethren to scour the dry land searching for you."
+"much desires to speak with you, Kaleh. Despite the danger, our wise leader "
+"sent me and my brethren to scour the dry land searching for you."
 msgstr ""
 "那不重要。重要的是有位大人很想和您卡勒会谈，我是他的信使。虽然危险，我的首领"
 "还是派我和同胞到干旱的土地上寻找你们的踪迹。"
@@ -7281,8 +7280,9 @@ msgid "And why should we trust anything you say?"
 msgstr "为什么我们要相信你？"
 
 #. [message]: speaker=Esanoo
+#, fuzzy
 msgid ""
-"My master thought you might be suspicious. She said that what we must talk "
+"Our leader thought you might be suspicious. She said that what we must talk "
 "with you about concerns the fate of your people. Apparently it concerns "
 "‘Yechnagoth’ and ‘Zhangor’. She said that you would understand, Kaleh."
 msgstr ""
@@ -7294,10 +7294,11 @@ msgid "Hmmmm... Yes, yes I think I do. I don’t know why, but I trust you."
 msgstr "嗯……是的，我想我明白。不知道为什么，我相信你。"
 
 #. [message]: speaker=Esanoo
+#, fuzzy
 msgid ""
-"Thank you. Now I have a boon to ask of you. Our instructions were to find "
-"you and to bring you and your people to meet with my master. The problem is "
-"that I don’t know where she is hiding."
+"Thank you, Kaleh. Now I have a favor to ask of you. Our instructions were to "
+"find you and to bring you and your people to meet with our wise leader. The "
+"problem is that I don’t know where she is hiding."
 msgstr ""
 "谢谢。现在我想请求您帮个忙。我们收到的命令是找到你，并带你和你的人民去见我的"
 "主人。但问题是，我不知道她现在躲在哪里。"
@@ -7307,17 +7308,18 @@ msgid "You don’t know where to find your master?"
 msgstr "你不知道去哪里找你的主人？"
 
 #. [message]: speaker=Esanoo
+#, fuzzy
 msgid ""
 "It’s complicated, and I don’t know how much I am allowed to tell you. My "
 "people are fighting a desperate war against... against a powerful foe. Many "
-"times our enemy has tried to assassinate my master. My master worried that "
-"her presence was a danger to the rest of my kind. So right after she sent us "
+"times our enemy has tried to assassinate our wise leader, so she worried "
+"that her presence was a danger to the rest of us. So right after she sent us "
 "on our mission she went into hiding. I am the youngest member of our group, "
 "and so I wasn’t told the location. You must understand, there are spies "
 "everywhere. Only the leaders of our group knew, but the rest of them were "
 "all captured by those foul humans. They are being held in the settlement to "
-"the north. If we are to have any chance of finding my master, we must first "
-"rescue them. I would do it myself, but..."
+"the north. If we are to have any chance of finding our wise leader, we must "
+"first rescue them. I would do it myself, but..."
 msgstr ""
 "说来话长，我不知道有哪些事是可以跟你讲的。我的同胞们正在进行一场关乎生死存亡"
 "的战争，对抗……对抗一个强大的敌人。我们的敌人数次试图刺杀我的主人。我的主人担"
@@ -7327,22 +7329,21 @@ msgstr ""
 "到我的主人的唯一方法，就是先把他们救出来。本来我应该自己去的，但是……"
 
 #. [message]: speaker=Nym
+#, fuzzy
 msgid ""
-"It would be suicide for you to try to rescue them alone. Of course we will "
-"help you."
+"...It would be suicide for you to try to rescue them alone. Of course we "
+"will help you!"
 msgstr "如果你试图自己去营救他们，相当于是去自杀。我们当然会帮助你。"
 
 #. [message]: speaker=Esanoo
-msgid "Thank you. I am not very good at fighting on the dry ground."
+#, fuzzy
+msgid "Thank you, Nym. I am not very good at fighting on the dry ground."
 msgstr "谢谢你。我不适于在干燥的地面战斗。"
 
 #. [message]: speaker=Kaleh
 msgid ""
-"All the other scouting parties have returned, except for one. Tanstafaal and "
-"his scouts haven’t reported back yet. I’m starting to get worried."
+"With you back, Nym, the only scouts yet to return are Tanstafaal's group."
 msgstr ""
-"所有其它侦察小队都回来了，但还有一支。坦斯特福和他的小队还没有回来禀报。我有"
-"点担心。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -7354,9 +7355,10 @@ msgstr ""
 "安。"
 
 #. [message]: speaker=Kaleh
+#, fuzzy
 msgid ""
-"Things are coming to a head. I’m worried about Tanstafaal and your merfolk "
-"friends. Time is of the essence, so let’s move out as soon as possible."
+"Things are coming to a head, Tanstafaal and our new friends are in trouble. "
+"Time is of the essence, so let’s move out as soon as possible."
 msgstr ""
 "事情已经火烧眉毛了。我担心坦斯特福和你的人鱼伙伴。时间就是生命，让我们马上行"
 "动。"
@@ -7403,14 +7405,6 @@ msgstr "抢占全部4艘人类船只"
 #. [objective]: condition=win
 msgid "Three merfolk must survive"
 msgstr "至少三个人鱼存活"
-
-#. [unit]: type=Quenoth Fighter, id=Ulothanir
-msgid "Ulothanir"
-msgstr "乌洛珊"
-
-#. [unit]: type=Quenoth Scout, id=Elonea
-msgid "Elonea"
-msgstr "艾洛尼"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -7466,8 +7460,9 @@ msgstr ""
 "们了。我想我们行动小队的其他人就被关在那里。"
 
 #. [message]: speaker=Esanoo
+#, fuzzy
 msgid ""
-"My master wanted to make sure that if one of us was captured, we couldn’t "
+"Our leader wanted to make sure that if one of us was captured, we couldn’t "
 "betray her location. So she didn’t tell us where she was, but she taught us "
 "a simple spell to divine her hiding place. But it requires three merfolk to "
 "cast. So in order to find her, we must rescue at least two of my people. "
@@ -7483,6 +7478,7 @@ msgid "And you said that there are only five others in your group left?"
 msgstr "你说你的行动小组里还有五个人？"
 
 #. [message]: speaker=Esanoo
+#, fuzzy
 msgid ""
 "We originally numbered much more, but we were ambushed by a band of naga on "
 "the way here. Half of our force held off the naga while the rest of us fled. "
@@ -7490,7 +7486,7 @@ msgid ""
 "grace of the Sea God I managed to hide when the rest of my group was "
 "ambushed and captured. I doubt that they have been broken yet, but I do not "
 "know how long they can last. Remember, without three of us, you will not be "
-"able to find my master."
+"able to find our leader."
 msgstr ""
 "我们本来有更多人，但在来的路上我们中了一队娜迦的埋伏。我们中一半人留下来拖住"
 "娜迦，剩下的人逃走了。等来到这个海岸时，我们只剩下六个人了。在其他人被伏击并"
@@ -7728,7 +7724,7 @@ msgid ""
 "land. I envy you."
 msgstr "谢谢搭救。你们精灵在干燥的土地上作战很有技巧，我羡慕你们。"
 
-#. [message]: speaker=$unit.id, race=elf
+#. [message]: speaker=$unit.id, race=quenoth,elf
 msgid "As I envy your kind’s prowess when fighting in the water."
 msgstr "我们也很羡慕你们在水中的高超战斗技能。"
 
@@ -7737,9 +7733,10 @@ msgid "Yantili"
 msgstr "阳提利"
 
 #. [message]: speaker=Yantili
+#, fuzzy
 msgid ""
 "Thank you for rescuing me. I never imagined that we would actually be able "
-"to find you elves. Our master was right after all. But more of that later..."
+"to find you elves. Our leader was right after all. But more of that later..."
 msgstr ""
 "谢谢搭救。我没想到我们真的能找到你们精灵。我们的主人果然是对的。不过现在……"
 
@@ -7795,10 +7792,11 @@ msgstr ""
 "付出代价！"
 
 #. [message]: speaker=We-jial
+#, fuzzy
 msgid ""
 "Do not worry yourself, now that I am free all will be set to rights. It is "
 "not our mission to defeat all the evil in this world. Protecting the elves "
-"is most important. We must bring them to our master; all else is secondary."
+"is most important. We must bring them to our leader; all else is secondary."
 msgstr ""
 "你别担心，我现在已经自由了，一切都会好起来。击败世上所有邪恶不是我们的任务。"
 "保护精灵才是最重要的。我们必须带他们去见我们的主人，其它一切都是次要的。"
@@ -7885,16 +7883,11 @@ msgstr ""
 "她说你会来的。你们可能可以击败我们，但是没有人能对抗她。你们最终还是会屈服"
 "的。这是你们的命运。"
 
-#. [message]: speaker=Darius
+#. [print]
 msgid ""
-"The time has come. On this most holy day, let us sacrifice these infidels "
-"unto the Dark Lady. Their suffering shall be a testament to her power and "
-"glory!"
+"$(16 - $turn_number) turns remain to free $number_merfolk_caged| merfolk"
 msgstr ""
-"时辰已到。在这个最神圣的日子里，让我们把这些异教徒祭献给黑暗女神。他们的痛苦"
-"就是她的力量与光荣的证明！"
 
-#. [else]
 #. [event]
 #. [unit]: type=Necromancer, id=Hekuba
 msgid "Hekuba"
@@ -7969,7 +7962,8 @@ msgstr ""
 "么，这一幕太恶心了。"
 
 #. [message]: speaker=Esanoo
-msgid "They are all dead. We were too late. Forgive me, master!"
+#, fuzzy
+msgid "They are all dead. We were too late. Forgive me, wise leader!"
 msgstr "他们全死了。我们太迟了。原谅我，主人！"
 
 #. [message]: speaker=Kaleh
@@ -8016,10 +8010,12 @@ msgstr ""
 "诅咒他们！他们偷了我们给女神的贡品。我们要复仇。继续战斗，执行第三计划！"
 
 #. [message]: speaker=Nym
+#. Nym is talking about Hekuba, the male necromancer who is the final enemy leader in
 msgid "Who was that?"
 msgstr "那是谁？"
 
 #. [message]: race=merman
+#. subject is a male necromancer
 msgid ""
 "That was one of the Iron Triad. Rarely do they leave their sanctuary. They "
 "prefer to let their minions do the dirty work."
@@ -8082,8 +8078,8 @@ msgid ""
 msgstr ""
 "我来告诉你们一个坏消息：你们中有一个人背叛了我，他是你们遭受磨难的原因。"
 
-#. [message]: speaker=Zhul
 #. [message]: role=scout_speaker
+#. [message]: speaker=Zhul
 msgid "No!"
 msgstr "不！"
 
@@ -8460,6 +8456,129 @@ msgstr "它们从哪儿来的？危险。"
 msgid "What are those things? They looked like ticked off giant crabs."
 msgstr "这些是什么啊？看来像是生气的大螃蟹。"
 
+#. [message]: speaker=Eloh
+msgid ""
+"You think you can strike me down. This is just a small part of my true power."
+msgstr "你认为可以打倒我。但那只是我力量的一小部分。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"Small part or no, if it is mortally possible to destroy you, I shall. Your "
+"hands are stained in our blood; you are not our god."
+msgstr ""
+"不管是不是一小部分，只要有万分之一击败你的可能，我都会去试的。你的脏手沾满了"
+"血，你不是我们的神。"
+
+#. [message]: speaker=Eloh
+msgid "Don’t worry Kaleh, we will see each other again... I promise."
+msgstr "卡勒，不用担心，我们会再见的……我保证。"
+
+#. [message]: speaker=Nym
+msgid "She freaks me out, but at least it seems that she can be destroyed."
+msgstr "她是个很大的威胁，不过我们已经知道她可以被击败。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"That was just an apparition, but if we meet again I will make her pay for "
+"all that she has done."
+msgstr "那只是个幽灵，但是如果再次遇到，我要她偿还一切代价。"
+
+#. [message]: speaker=Zhul
+msgid ""
+"I’m sorry, Kaleh. My faith clouded my reason. But I wanted so very much to "
+"believe."
+msgstr "卡勒，我很抱歉。我的信仰蒙蔽了理智。但是我非常需要一个信仰。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"You do not need to apologize. What you did was very brave. I wish to... to "
+"whatever god still watches over us, that this bloodshed was not necessary. "
+"But I could not let half my people be co-opted by that thing. As horrible as "
+"it sounds, even death is a better fate."
+msgstr ""
+"您不需要道歉。您很勇敢。我想……我想不管是什么神在看着我们，这血光都是不必要"
+"的。我不能让一半的人民被这事件影响。那真是不堪耳闻，甚至死亡也算是更好的命"
+"运。"
+
+#. [message]: speaker=Zhul
+msgid ""
+"So when you had the strange encounter with that human Durstrag and his "
+"guards, just after we escaped the caves, you were talking to Eloh, or "
+"whatever she is?"
+msgstr ""
+"所以，在我们刚走出洞穴的时候，你对那个人类德崔格和他的护卫的奇怪举动，其实是"
+"在和伊洛讲话，或者某个别的东西？"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"Yes, she appeared only to me and demanded that I surrender to the humans. "
+"When I refused she threatened me, saying she would kill me if I refused. "
+"That’s when I really started to get suspicious."
+msgstr ""
+"是的，她当时只向我显现，命令我向人类投降。我拒绝了她，然后她威胁我，说如果我"
+"拒绝她，她就要杀了我。从那时起，我开始怀疑她。"
+
+#. [message]: speaker=Zhul
+msgid ""
+"It is clear that that thing was not our god. I do not know what it was, but "
+"I have to keep believing that Eloh is out there somewhere. Without our "
+"faith, what do we have left?"
+msgstr ""
+"那个东西不是我们的神，这已经很清楚了。我不知道它是什么，但我相信伊洛在某个地"
+"方。没有了信仰，我们还有什么呢？"
+
+#. [message]: speaker=Nym
+msgid "We have each other."
+msgstr "我们都还在，都在一起。"
+
+#. [message]: speaker=Zhul
+msgid ""
+"That’s not enough. Look, you’re a wonderful girl Nym, and Kaleh, you’ve "
+"shown yourself to be a great leader, but our actions have to mean something "
+"more than just our day-to-day survival. There has to be a higher purpose, "
+"Eloh must have some sort of plan for us. We have to keep believing."
+msgstr ""
+"这不够。妮慕，你是个好女孩，还有卡勒，你已经证明了自己是个优秀的领导者，但是"
+"我们的行为应该不仅仅为了日常的生存。我们应该有更高尚的追求，伊洛肯定有她自己"
+"的计划。我们必须坚持我们的信仰。"
+
+#. [message]: speaker=Kaleh
+msgid "Peace, Zhul, we can discuss theology later. We still have work to do."
+msgstr "好了，朱尔，我们可以等会儿再讨论神学。我们还有别的事情要做。"
+
+#. [message]: speaker=Tanstafaal
+msgid ""
+"You cannot defeat me, I am protected by the goddess now. Finally, Kaleh, I "
+"will show everyone who is stronger!"
+msgstr "你不能击败我，我被女神护佑。最后，卡勒，我要向世界展示我比你强！"
+
+#. [message]: speaker=Kaleh
+msgid "Oh Tanstafaal, I pity you. This battle was never about you."
+msgstr "哦，坦斯特福。这场战斗实际上不是你的事。"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"No, do not kill him. He may deserve it, but he will not die at my hands."
+msgstr "不，不要杀他。他或许应得惩罚，但是不应该死在我手里。"
+
+#. [message]: speaker=Tanstafaal
+msgid "Never Kaleh. I will not be your lackey again!"
+msgstr "永远也不会的，卡勒，我再也不会向你屈服！"
+
+#. [message]: speaker=Kaleh
+msgid ""
+"Why did he have to kill himself? Oh, poor misguided Tanstafaal. We have lost "
+"too many elves today."
+msgstr "他为什么自杀？噢，可怜的坦斯特福，我们今天失去了很多同胞。"
+
+#. [message]: speaker=Nym
+msgid "Do not blame yourself too much, it is Eloh who persuaded him to rebel."
+msgstr "不要过多责怪自己，是伊洛把他推向反叛的道路。"
+
+#. [message]: speaker=Kaleh
+msgid "Yes, she too will pay for her part in all of this."
+msgstr "是，她也要为这个付出代价。"
+
 #. [message]: speaker=Kaleh
 msgid ""
 "It is finished. See, my people, Tanstafaal has been killed by his own hand, "
@@ -8596,19 +8715,15 @@ msgstr ""
 "渡海？！我们是生活在沙漠上的，我们不会开船！而且我也不想把自己的性命寄托在这"
 "些人类造的东西上。"
 
+#. [message]: type=Mermaid Priestess,Mermaid Diviner,Mermaid Enchantress,Mermaid Siren
 #. [message]: race=merman
 msgid ""
-"We have often spied on the humans and have picked up some knowledge of "
-"piloting. We also have some magical skills that allow us to control the "
-"winds and thus we can easily propel the ships in the right direction. Once "
-"out on the open sea we should be safe from danger. Besides, our master lives "
-"far out in the waters. Trying to find her and bearing her back here would "
-"take too long and there is no other way to get you to her."
+"We have picked up some knowledge of piloting while spying on the humans and "
+"we have some magical skill for controlling the winds. Once out on the open "
+"sea, our journey should be swift and safe from danger. Besides, time is "
+"pressing and our leader lives too far out in the waters to make this voyage "
+"twice."
 msgstr ""
-"我们经常去侦察人类，学会了一些驾船的技术。我们的魔法技能也能让我们控制风向，"
-"这样我们可以更容易地操控船只。只要到了外面开阔的海里，我们就安全了。而且我们"
-"的主人住在很远的海里，去找到她然后带她到这里来要花很长的时间，而此外也没有别"
-"的办法带你们去见她。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -8686,129 +8801,6 @@ msgid ""
 "boats."
 msgstr "虽然耗损很大，我们要做我们必须做的。来，一起去夺船吧。"
 
-#. [message]: speaker=Eloh
-msgid ""
-"You think you can strike me down. This is just a small part of my true power."
-msgstr "你认为可以打倒我。但那只是我力量的一小部分。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"Small part or no, if it is mortally possible to destroy you, I shall. Your "
-"hands are stained in our blood; you are not our god."
-msgstr ""
-"不管是不是一小部分，只要有万分之一击败你的可能，我都会去试的。你的脏手沾满了"
-"血，你不是我们的神。"
-
-#. [message]: speaker=Eloh
-msgid "Don’t worry Kaleh, we will see each other again... I promise."
-msgstr "卡勒，不用担心，我们会再见的……我保证。"
-
-#. [message]: speaker=Nym
-msgid "She freaks me out, but at least it seems that she can be destroyed."
-msgstr "她是个很大的威胁，不过我们已经知道她可以被击败。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"That was just an apparition, but if we meet again I will make her pay for "
-"all that she has done."
-msgstr "那只是个幽灵，但是如果再次遇到，我要她偿还一切代价。"
-
-#. [message]: speaker=Zhul
-msgid ""
-"I’m sorry, Kaleh. My faith clouded my reason. But I wanted so very much to "
-"believe."
-msgstr "卡勒，我很抱歉。我的信仰蒙蔽了理智。但是我非常需要一个信仰。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"You do not need to apologize. What you did was very brave. I wish to... to "
-"whatever god still watches over us, that this bloodshed was not necessary. "
-"But I could not let half my people be co-opted by that thing. As horrible as "
-"it sounds, even death is a better fate."
-msgstr ""
-"您不需要道歉。您很勇敢。我想……我想不管是什么神在看着我们，这血光都是不必要"
-"的。我不能让一半的人民被这事件影响。那真是不堪耳闻，甚至死亡也算是更好的命"
-"运。"
-
-#. [message]: speaker=Zhul
-msgid ""
-"So when you had the strange encounter with that human Durstrag and his "
-"guards, just after we escaped the caves, you were talking to Eloh, or "
-"whatever she is?"
-msgstr ""
-"所以，在我们刚走出洞穴的时候，你对那个人类德崔格和他的护卫的奇怪举动，其实是"
-"在和伊洛讲话，或者某个别的东西？"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"Yes, she appeared only to me and demanded that I surrender to the humans. "
-"When I refused she threatened me, saying she would kill me if I refused. "
-"That’s when I really started to get suspicious."
-msgstr ""
-"是的，她当时只向我显现，命令我向人类投降。我拒绝了她，然后她威胁我，说如果我"
-"拒绝她，她就要杀了我。从那时起，我开始怀疑她。"
-
-#. [message]: speaker=Zhul
-msgid ""
-"It is clear that that thing was not our god. I do not know what it was, but "
-"I have to keep believing that Eloh is out there somewhere. Without our "
-"faith, what do we have left?"
-msgstr ""
-"那个东西不是我们的神，这已经很清楚了。我不知道它是什么，但我相信伊洛在某个地"
-"方。没有了信仰，我们还有什么呢？"
-
-#. [message]: speaker=Nym
-msgid "We have each other."
-msgstr "我们都还在，都在一起。"
-
-#. [message]: speaker=Zhul
-msgid ""
-"That’s not enough. Look, you’re a wonderful girl Nym, and Kaleh, you’ve "
-"shown yourself to be a great leader, but our actions have to mean something "
-"more than just our day-to-day survival. There has to be a higher purpose, "
-"Eloh must have some sort of plan for us. We have to keep believing."
-msgstr ""
-"这不够。妮慕，你是个好女孩，还有卡勒，你已经证明了自己是个优秀的领导者，但是"
-"我们的行为应该不仅仅为了日常的生存。我们应该有更高尚的追求，伊洛肯定有她自己"
-"的计划。我们必须坚持我们的信仰。"
-
-#. [message]: speaker=Kaleh
-msgid "Peace, Zhul, we can discuss theology later. We still have work to do."
-msgstr "好了，朱尔，我们可以等会儿再讨论神学。我们还有别的事情要做。"
-
-#. [message]: speaker=Tanstafaal
-msgid ""
-"You cannot defeat me, I am protected by the goddess now. Finally, Kaleh, I "
-"will show everyone who is stronger!"
-msgstr "你不能击败我，我被女神护佑。最后，卡勒，我要向世界展示我比你强！"
-
-#. [message]: speaker=Kaleh
-msgid "Oh Tanstafaal, I pity you. This battle was never about you."
-msgstr "哦，坦斯特福。这场战斗实际上不是你的事。"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"No, do not kill him. He may deserve it, but he will not die at my hands."
-msgstr "不，不要杀他。他或许应得惩罚，但是不应该死在我手里。"
-
-#. [message]: speaker=Tanstafaal
-msgid "Never Kaleh. I will not be your lackey again!"
-msgstr "永远也不会的，卡勒，我再也不会向你屈服！"
-
-#. [message]: speaker=Kaleh
-msgid ""
-"Why did he have to kill himself? Oh, poor misguided Tanstafaal. We have lost "
-"too many elves today."
-msgstr "他为什么自杀？噢，可怜的坦斯特福，我们今天失去了很多同胞。"
-
-#. [message]: speaker=Nym
-msgid "Do not blame yourself too much, it is Eloh who persuaded him to rebel."
-msgstr "不要过多责怪自己，是伊洛把他推向反叛的道路。"
-
-#. [message]: speaker=Kaleh
-msgid "Yes, she too will pay for her part in all of this."
-msgstr "是，她也要为这个付出代价。"
-
 #. [message]: speaker=Kaleh
 msgid ""
 "We’ve run out of time. The humans are gaining strength and will surely "
@@ -8832,6 +8824,7 @@ msgstr ""
 "们会在海岸线西部接头。不用担心我们走失，我们会贴着海岸，人鱼能帮我们保持联"
 "系。一旦我们成功逃脱，并到达人类追击范围以外，我们就可以让剩下的人也上船。"
 
+#. [message]: type=Mermaid Priestess,Mermaid Diviner,Mermaid Enchantress,Mermaid Siren
 #. [message]: race=merman
 msgid ""
 "Then by the Sea God’s hand I call forth the winds. May they confound our "
@@ -8874,11 +8867,12 @@ msgid "This is—"
 msgstr "这位是——"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Grog, that your "
-"recent actions and indeed your presence with these fine folk is a credit to "
-"your race."
+"recent actions and indeed your presence with these fine folk speaks well for "
+"your people."
 msgstr ""
 "不，你们不必自我介绍。 我已经知道你们是谁，也知道你们一路旅途的目的。而且我要"
 "说，果洛格，你最近的举动，以及你和这些好伙伴的相处，都为你的族人争了光。"
@@ -8888,11 +8882,12 @@ msgid "Grog says thank you."
 msgstr "果洛格向你致谢。"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Nog, that your "
-"recent actions and indeed your presence with these fine folk is a credit to "
-"your race."
+"recent actions and indeed your presence with these fine folk speaks well for "
+"your people."
 msgstr ""
 "不，你们不必自我介绍。 我已经知道你们是谁，也知道你们一路旅途的目的。而且我要"
 "说，诺格，你最近的举动，以及你和这些好伙伴的相处，都为你的族人争了光。"
@@ -8902,11 +8897,12 @@ msgid "Nog says thank you."
 msgstr "诺格向你致谢。"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Rogrimir, that "
-"your recent actions and indeed your presence with these fine folk is a "
-"credit to your race."
+"your recent actions and indeed your presence with these fine folk speaks "
+"well for your people."
 msgstr ""
 "不，你们不必自我介绍。我已经知道你们是谁，也知道你们一路旅途的目的。而且我要"
 "说，若格瑞莫，你最近的举动，以及你和这些好伙伴的相处，都为你的族人争了光。"
@@ -8917,11 +8913,12 @@ msgid "Thank you for your kindness."
 msgstr "谢谢你的友善。"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Jarl, that your "
-"recent actions and indeed your presence with these fine folk is a credit to "
-"your race."
+"recent actions and indeed your presence with these fine folk speaks well for "
+"your people."
 msgstr ""
 "不，你们不必自我介绍。我已经知道你们是谁，也知道你们一路旅途的目的。而且我要"
 "说，查尔，你最近的举动，以及你和这些好伙伴的相处，都为你的族人争了光。"
@@ -8958,10 +8955,11 @@ msgid "Whose spies?"
 msgstr "谁的间谍？"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
-"Perhaps I should start at the beginning. Make yourselves comfortable, for "
-"this may take a while. I want to tell you a tale, it is a story of the fall "
-"of what you refer to as ‘The Golden Age’."
+"Perhaps I should start at the beginning, for that is a good place to start. "
+"Make yourselves comfortable, this may take a while. I want to tell you a "
+"tale, it is a story of the fall of what you refer to as ‘The Golden Age’."
 msgstr ""
 "我就从头讲起吧。你们最好换个舒服的姿势，因为我会讲挺久的。我要告诉你们一个故"
 "事，你们所说的“黄金时代”的衰落的故事。"
@@ -8981,9 +8979,10 @@ msgid "Yes, we know about this age."
 msgstr "嗯，我们知道这个时代。"
 
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
-"This will go much faster if you don’t interrupt me. Now, as I was saying the "
-"Empire of Wesnoth was very learned in the magical arts and had vast "
+"This will go much faster if you don’t interrupt me. Now, as I was saying, "
+"the Empire of Wesnoth was very learned in the magical arts and had vast "
 "repositories of knowledge. Back then there was only one sun in the sky, the "
 "sun you call Sela. But the king decreed that he would raise a second sun "
 "into the heavens, to lengthen their days and shorten the darkness. All the "
@@ -9005,6 +9004,7 @@ msgstr ""
 
 # 修改了一下以前的翻译
 #. [message]: speaker=Melusand
+#, fuzzy
 msgid ""
 "But with their prosperity and power, over the generations the humans grew "
 "arrogant. One day a young descendant of the original king decreed that "
@@ -9013,11 +9013,11 @@ msgid ""
 "complacent and the ranks of mages who still trained hard to harness the "
 "magical arts had decreased greatly. Still the king believed he was all-"
 "powerful and would not listen to the mages’ protests. So, seeking to "
-"duplicate their ancestors’ previous success, the mages tried to lift a "
+"duplicate the previous success of their ancestors, the mages tried to lift a "
 "second mountain into the sky. But a great evil befell them that day; their "
-"power failed and the mountain crashed down onto the humans' capital, "
-"crushing all within it. In an instant the center of the Empire of Wesnoth "
-"was utterly destroyed."
+"power failed and the mountain crashed down onto the human capital, crushing "
+"all within. In an instant the center of the Empire of Wesnoth was utterly "
+"destroyed."
 msgstr ""
 "但是正是由于他们的繁荣与强大，数代人以后人类变得骄傲起来。有一天，最初皇帝的"
 "一个年轻传人认为，为了使光明与善良普照大地，黑暗必须被彻底地消除。但是人们已"
@@ -9869,14 +9869,6 @@ msgstr "打倒敌人首领， 找到两把钥匙"
 msgid "Any unit must reach the black citadel"
 msgstr "任何单位抵达黑色大本营"
 
-#. [unit]: type=Quenoth Fighter
-msgid "Eagath"
-msgstr "伊格斯"
-
-#. [unit]: type=Quenoth Scout
-msgid "Alusan"
-msgstr "厄鲁森"
-
 #. [message]: speaker=Nym
 msgid "Where did this fog come from? I can’t see a thing!"
 msgstr "这些雾气从哪里来的？我什么都看不见！"
@@ -9976,7 +9968,7 @@ msgstr "狂热的蜥蜴人"
 msgid "My death matters not. The One will kill you all. None can resist her."
 msgstr "我的死无关紧要。你们所有人都会死。没人能忤逆她。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid "I say good riddance. He creeped me out."
 msgstr "终于摆脱他了。他让我很不舒服。"
 
@@ -10107,14 +10099,14 @@ msgstr ""
 msgid "Aaaargh!"
 msgstr "啊！"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid ""
 "Look, I found a gold key on a chain around his neck. This must be one of the "
 "keys needed to enter the black citadel."
 msgstr ""
 "看，我发现他的脖子上挂着一个金钥匙。这肯定是进入黑暗要塞所需要的钥匙之一。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid ""
 "Look, I found a gold key on a chain around his neck. I wonder what this key "
 "is for? I bet it will become useful eventually. I’ll keep it just in case."
@@ -10126,14 +10118,14 @@ msgstr ""
 msgid "Nooo!!"
 msgstr "不！！"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid ""
 "Look, I found an iron key on a chain around his neck. This must be one of "
 "the keys needed to enter the black citadel."
 msgstr ""
 "看，我发现他的脖子上挂着一个铁钥匙。这肯定是进入黑暗要塞所需要的钥匙之一。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=$speaking_unit.id
 msgid ""
 "Look, I found an iron key on a chain around his neck. I wonder what this key "
 "is for? I bet it will become useful eventually. I’ll keep it just in case."
@@ -10308,11 +10300,12 @@ msgstr ""
 "漠都走不出去。你们尽管坐在这里祈祷，我要进去了！"
 
 #. [message]: speaker=Zhul
+#, fuzzy
 msgid ""
 "Curse that girl! She’ll be the death of me. But still she doesn’t stand a "
 "chance without me. Kaleh is one thing, but Nym needs my protection. All "
 "right, I’m going in. The rest of you stand guard, if we don’t come out in "
-"half a hour then flee the island with the merfolk."
+"half an hour then flee the island with the merfolk."
 msgstr ""
 "固执的小姑娘！她这是要气死我啊。如果没有我，她不会成功的。虽然卡勒可以照顾自"
 "己，但是妮慕需要我的保护。好了，我也进去。其他人守在这里，如果半小时我们还没"
@@ -11396,9 +11389,9 @@ msgstr ""
 msgid "Central Body"
 msgstr "中枢躯体"
 
-#. [unit_type]: id=Pulsing Spire, race=monster
 #. [unit_type]: id=Central Body Base, race=monster
 #. [unit_type]: id=Crawling Horror, race=monster
+#. [unit_type]: id=Pulsing Spire, race=monster
 msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
 "before."
@@ -11417,8 +11410,9 @@ msgid "female^alien regenerates"
 msgstr "异形再生"
 
 #. [regenerate]: id=regenerates_yec
+#, fuzzy
 msgid ""
-"The unit will heal itself 100 HP per turn. If it is poisoned, it will remove "
+"The unit will heal itself 150 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr "此单位每回合会恢复100点生命值。如果中毒，那么会疗毒而不是疗伤。"
 
@@ -11433,19 +11427,6 @@ msgstr "游荡恐怖怪"
 #. [unit_type]: id=Pulsing Spire, race=monster
 msgid "Pulsing Spire"
 msgstr "方形突起"
-
-#. [unit_type]: id=Giant Ant, race=monster
-msgid "Giant Ant"
-msgstr "巨蚁"
-
-#. [unit_type]: id=Giant Ant, race=monster
-msgid ""
-"Giant Ants are common in almost any environment, from caverns deep under the "
-"earth to the tops of tall mountains. Though normally not hostile, they can "
-"bite at close range."
-msgstr ""
-"巨蚁很常见，无论是在地下深处的洞穴里还是在高耸的山顶上。虽然通常没有进攻性，"
-"但当有人靠近时他还是会咬人的。"
 
 #. [unit_type]: id=Cave Spider
 msgid "Cave Spider"
@@ -11567,22 +11548,17 @@ msgstr "烈焰神剑"
 msgid "Small Mudcrawler"
 msgstr "小型黏土怪"
 
-#. [unit_type]: id=Naga Guardian, race=naga
+#. [unit_type]: id=Naga Guardian
 msgid "Naga Guardian"
 msgstr "娜迦守卫"
 
-#. [unit_type]: id=Naga Warden, race=naga
-#. [unit_type]: id=Naga Guardian, race=naga
-#. [unit_type]: id=Naga Sentinel, race=naga
-msgid ""
-"These heavy fighters are the elite guards of the naga. They are slower and "
-"more heavily armored than most naga and wield huge maces which they use to "
-"crush their enemies. They mostly guard naga outposts, but occasionally "
-"participate in offensive raids."
-msgstr ""
-"这些重装战士是娜迦守卫者中的精英。他们比一般娜迦穿着更厚的盔甲，但移动得也更"
-"慢，他们会挥舞巨大的锤子来击碎敌人。他们通常守卫着娜迦的哨卡，但有时也参与进"
-"攻行动。"
+#. [unit_type]: id=Naga Warden
+msgid "Naga Warden"
+msgstr "娜迦守望者"
+
+#. [unit_type]: id=Naga Sentinel
+msgid "Naga Sentinel"
+msgstr "娜迦哨卫"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 msgid "Naga Hunter"
@@ -11598,19 +11574,11 @@ msgstr ""
 "娜迦猎手是娜迦中擅长使用弓箭的一群。由于娜迦天生百毒不侵，所以他们毫无顾忌地"
 "使用毒箭来狩猎。这些两尺长的箭，末端抹上了剧毒，已经杀死了无数的猎物。"
 
-#. [unit_type]: id=Naga Sentinel, race=naga
-msgid "Naga Sentinel"
-msgstr "娜迦哨卫"
-
-#. [unit_type]: id=Naga Warden, race=naga
-msgid "Naga Warden"
-msgstr "娜迦守望者"
-
-#. [unit_type]: id=Dark Assassin1, race=orc
+#. [unit_type]: id=Dark Assassin1, race=quenoth
 msgid "Dark Assassin"
 msgstr "黑暗刺客"
 
-#. [unit_type]: id=Dark Assassin1, race=orc
+#. [unit_type]: id=Dark Assassin1, race=quenoth
 msgid ""
 "The Dark Assassin appears and disappears at a moment’s notice. No one knows "
 "where he came from or why he acts the way he does, but the trail of death he "
@@ -11620,18 +11588,18 @@ msgstr ""
 "是他所到之处必会有死亡却是明白无误的。"
 
 #. [attack]: type=blade
-msgid "scythe"
-msgstr "长镰刀"
+msgid "dagger"
+msgstr ""
 
 #. [attack]: type=blade
-msgid "darts"
-msgstr "螯刺"
+msgid "throwing knives"
+msgstr ""
 
-#. [unit_type]: id=Quenoth Archer, race=elf
+#. [unit_type]: id=Quenoth Archer, race=quenoth
 msgid "Quenoth Archer"
 msgstr "奎诺弓手"
 
-#. [unit_type]: id=Quenoth Archer, race=elf
+#. [unit_type]: id=Quenoth Archer, race=quenoth
 #, fuzzy
 msgid ""
 "With the open sands providing much less protection than the old forests did, "
@@ -11645,11 +11613,11 @@ msgstr ""
 "的大量精灵弓箭手队伍也彻底消失了。仍然选择钻研祖先们的这一传统武器的少数精"
 "灵，转而选择在马鞍上练习射术，于是便轻易地躲过了近战的危险。"
 
-#. [unit_type]: id=Quenoth Champion, race=elf
+#. [unit_type]: id=Quenoth Champion, race=quenoth
 msgid "Quenoth Champion"
 msgstr "奎诺斗士"
 
-#. [unit_type]: id=Quenoth Champion, race=elf
+#. [unit_type]: id=Quenoth Champion, race=quenoth
 #, fuzzy
 msgid ""
 "Standing at the forefront of most Quenoth spear lines, Champions are those "
@@ -11667,11 +11635,11 @@ msgstr ""
 msgid "glaive"
 msgstr "利剑"
 
-#. [unit_type]: id=Corrupted Quenoth Elf, race=elf
+#. [unit_type]: id=Corrupted Quenoth Elf, race=quenoth
 msgid "Corrupted Elf"
 msgstr "堕落精灵"
 
-#. [unit_type]: id=Corrupted Quenoth Elf, race=elf
+#. [unit_type]: id=Corrupted Quenoth Elf, race=quenoth
 msgid ""
 "Imbued with a dark spirit these corrupted elves combine unhuman strength "
 "with potent magics to create formidable opponents. Though the elvish body "
@@ -11685,11 +11653,11 @@ msgstr ""
 msgid "magic"
 msgstr "魔法"
 
-#. [unit_type]: id=Divine Avatar, race=elf
+#. [unit_type]: id=Divine Avatar, race=quenoth
 msgid "female^Divine Avatar"
 msgstr "神的显灵"
 
-#. [unit_type]: id=Divine Avatar, race=elf
+#. [unit_type]: id=Divine Avatar, race=quenoth
 msgid ""
 "Divine Avatars only appear in time of great need. Forms of the Gods "
 "themselves, made real in this world for a time, blessed are those who are "
@@ -11708,11 +11676,11 @@ msgid ""
 "presence in this world. They can be both awe-inspiring and terrifying."
 msgstr "据说神的化身是世间最接近神的实际存在的存在，她令人敬畏且令人觉得恐怖。"
 
-#. [unit_type]: id=Quenoth Druid, race=elf
+#. [unit_type]: id=Quenoth Druid, race=quenoth
 msgid "female^Quenoth Druid"
 msgstr "奎诺德鲁伊"
 
-#. [unit_type]: id=Quenoth Druid, race=elf
+#. [unit_type]: id=Quenoth Druid, race=quenoth
 #, fuzzy
 msgid ""
 "Worshippers of the Goddess of Light, Eloh, Druids are considered mysterious "
@@ -11731,16 +11699,27 @@ msgstr ""
 msgid "sand"
 msgstr "沙"
 
-#. [unit_type]: id=Quenoth Dustbok, race=monster, description=
+#. [unit_type]: id=Quenoth Dustbok, race=monster
 #. Made-up animal name derived from 'dust' (sand) and 'bok' as in real-world steenbok or springbok antelope
 msgid "Dustbok"
 msgstr "尘羚"
 
-#. [unit_type]: id=Quenoth Fighter, race=elf
+#. [unit_type]: id=Quenoth Dustbok, race=monster
+msgid ""
+"Dustboks are nimble, graceful creatures whose timid and peaceful nature "
+"stands in sharp contrast to the harsh land in which they live. Because the "
+"scorched land cannot support herds or even territorial neighbors, dustboks "
+"are solitary wanderers and yet still social, curious, and willing to "
+"cooperate with anyone if it leads to food. While this behavior has led to "
+"the death of many a foolish dustbok, it has made them excellent partners to "
+"the Quenoth Elves, who value their speed and agility."
+msgstr ""
+
+#. [unit_type]: id=Quenoth Fighter, race=quenoth
 msgid "Quenoth Fighter"
 msgstr "奎诺战士"
 
-#. [unit_type]: id=Quenoth Fighter, race=elf
+#. [unit_type]: id=Quenoth Fighter, race=quenoth
 #, fuzzy
 msgid ""
 "Long ago, during more prosperous times, Elven warriors favored the use of "
@@ -11757,32 +11736,11 @@ msgstr ""
 "须制造更便宜、更容易修复的武器。Quenoth战斗机在协调小组中非常熟练，他们可以通"
 "过组成强大的长矛队伍来击退几乎任何正面攻击，从而抵消更尖端武器的缺乏。"
 
-#. [unit_type]: id=Tauroch Flagbearer, race=elf
-msgid "Tauroch Flagbearer"
-msgstr "陶洛旗手"
-
-#. [unit_type]: id=Tauroch Flagbearer, race=elf
-#, fuzzy
-msgid ""
-"The prestigious Flagbearers spend years out in the open deserts leading "
-"their brethren on patrols and hunts, where they forage for supplies while "
-"defending their villages from brigands. They are invariably masters of "
-"skirmishes and tactics, highly proficient at roaming through the "
-"inhospitable sands. Rarely the leaders of large villages or armies, "
-"Flagbearers nonetheless have the skill and charisma to act as generals in "
-"times of need, when the elves are threatened by something more than mere "
-"scavengers or wild beasts."
-msgstr ""
-"久负盛名的旗手们花了数年时间在开阔的沙漠中带领他们的兄弟们巡逻和狩猎，在那里"
-"他们觅食补给品，同时保护他们的村庄免受强盗的迫害。他们总是小冲突和战术的大"
-"师，非常精通在荒凉的沙地中漫游。很少是大村庄或军队的领导人，旗手们仍然有技能"
-"和魅力，在需要的时候充当将军，当精灵受到的不仅仅是拾荒者或野兽的威胁。"
-
-#. [unit_type]: id=Quenoth Flanker, race=elf
+#. [unit_type]: id=Quenoth Flanker, race=quenoth
 msgid "Quenoth Flanker"
 msgstr "奎诺侧击士"
 
-#. [unit_type]: id=Quenoth Flanker, race=elf
+#. [unit_type]: id=Quenoth Flanker, race=quenoth
 #, fuzzy
 msgid ""
 "Some fighters find that their true talents lie not within rigid spear ranks, "
@@ -11800,11 +11758,11 @@ msgstr ""
 msgid "blowgun"
 msgstr "吹箭"
 
-#. [unit_type]: id=Quenoth Marksman, race=elf
+#. [unit_type]: id=Quenoth Marksman, race=quenoth
 msgid "Quenoth Marksman"
 msgstr "奎诺神射手"
 
-#. [unit_type]: id=Quenoth Marksman, race=elf
+#. [unit_type]: id=Quenoth Marksman, race=quenoth
 #, fuzzy
 msgid ""
 "In times past, the elves’ supremacy at archery was unquestioned among the "
@@ -11827,11 +11785,11 @@ msgstr ""
 "传奇壮举，这些大师弓箭手可以达到相同的速度和精度的老神枪手，所有在马背上全速"
 "疾驰。"
 
-#. [unit_type]: id=Quenoth Mystic, race=elf
+#. [unit_type]: id=Quenoth Mystic, race=quenoth
 msgid "female^Quenoth Mystic"
 msgstr "奎诺秘术师"
 
-#. [unit_type]: id=Quenoth Mystic, race=elf
+#. [unit_type]: id=Quenoth Mystic, race=quenoth
 #, fuzzy
 msgid ""
 "Like their ancestors, Quenoth Mystics are those who devote themselves to the "
@@ -11846,11 +11804,11 @@ msgstr ""
 "中汲取了大部分力量。相反，沙和太阳是精灵新力量的源泉，他们在沙漠中的家中运用"
 "这种力量，效果很好。"
 
-#. [unit_type]: id=Quenoth Outrider, race=elf
+#. [unit_type]: id=Quenoth Outrider, race=quenoth
 msgid "Quenoth Outrider"
 msgstr "奎诺骑卫兵"
 
-#. [unit_type]: id=Quenoth Outrider, race=elf
+#. [unit_type]: id=Quenoth Outrider, race=quenoth
 #, fuzzy
 msgid ""
 "Described as riders who ‘rush like the wind’, Outriders breeze across the "
@@ -11865,16 +11823,16 @@ msgstr ""
 "翼，敌人最弱的防线。一群骑手是特别危险的，因为对他们而言，撤退和自然减员都是"
 "徒劳的，这种前景在荒凉的沙漠中是毁灭性的。"
 
-#. [effect]: type=impact
 #. [attack]: type=impact
+#. [effect]: type=impact
 msgid "bolas"
 msgstr "链球"
 
-#. [unit_type]: id=Quenoth Pathfinder, race=elf
+#. [unit_type]: id=Quenoth Pathfinder, race=quenoth
 msgid "Quenoth Pathfinder"
 msgstr "奎诺探路者"
 
-#. [unit_type]: id=Quenoth Pathfinder, race=elf
+#. [unit_type]: id=Quenoth Pathfinder, race=quenoth
 #, fuzzy
 msgid ""
 "In times past, turning and fleeing from an engagement was a risky tactic, "
@@ -11894,11 +11852,189 @@ msgstr ""
 "图让敌人保持耐心，他们被激怒，肆无忌惮地追逐——这不可避免地会陷入许多致命的陷"
 "阱。"
 
-#. [unit_type]: id=Tauroch Protector, race=elf
+#. [unit_type]: id=Quenoth Ranger, race=quenoth
+msgid "Quenoth Ranger"
+msgstr "奎诺游侠"
+
+#. [unit_type]: id=Quenoth Ranger, race=quenoth
+#, fuzzy
+msgid ""
+"The title ‘Ranger’ is a little misleading, for these agile elves have little "
+"in common with the more pacifistic explorers of nature that once bore the "
+"same title. They, instead, are expert fighters who specifically seek combat "
+"in order to better hone their skirmishing skills. While they do not possess "
+"the brute force of their warrior counterparts, Quenoth Rangers are more "
+"proficient at navigating through chaotic fights and are capable of darting "
+"in and out of enemy lines to assassinate injured targets. Their masterful "
+"use of poison and formidable swordsmanship make these elves especially "
+"deadly in the harsh desert terrain, where fewer options to retreat are "
+"available."
+msgstr ""
+"标题\"Ranger\"有点误导，因为这些敏捷的精灵与曾经拥有相同头衔的自然探险家没有"
+"什么共同之处。相反，他们是专家战士，他们专门寻求战斗，以便更好地磨练他们的战"
+"地技能。虽然他们不具备战士的蛮力，但奎诺特游侠更善于在混乱的战斗中导航，并且"
+"能够冲进和冲出敌人的防线来刺杀受伤的目标。他们熟练地使用毒药和强大的剑术，使"
+"这些精灵在严酷的沙漠地形中特别致命，那里可供撤退的选择较少。"
+
+#. [unit_type]: id=Quenoth Scout, race=quenoth
+msgid "Quenoth Scout"
+msgstr "奎诺侦察兵"
+
+#. [unit_type]: id=Quenoth Scout, race=quenoth
+#, fuzzy
+msgid ""
+"Riding the graceful, agile dustboks, Quenoth Scouts move with unmatched "
+"speed across the sands. Their practiced skill with sword and sling are "
+"useful abilities to harry enemies and allows them to act as effective "
+"hunters and patrolmen."
+msgstr ""
+"骑着优雅、敏捷的尘步，Quenoth童子军以无与伦比的速度穿越沙地。他们练习的剑和吊"
+"带技能是有用的能力，哈里的敌人，并允许他们作为有效的猎人和巡逻员。"
+
+#. [unit_type]: id=Quenoth Shaman, race=quenoth
+msgid "female^Quenoth Shaman"
+msgstr "奎诺萨满"
+
+#. [unit_type]: id=Quenoth Shaman, race=quenoth
+#, fuzzy
+msgid ""
+"Like the elves of old, many Quenoth elves seek to study the art of medicine "
+"and healing rather than hone their abilities in direct battle. Shamans are "
+"highly knowledgeable about the sparse plant-life scattered across the "
+"deserts and even possess some ability to bolster crop growth, an invaluable "
+"skill in a land with few resources. The capacity to foster flora in such an "
+"inhospitable environment is a sign of hope as well, a chance that nature "
+"might one day rise from its sandy grave and bloom again."
+msgstr ""
+"像老精灵一样，许多奎诺的精灵寻求研究医学和治疗的艺术，而不是在直接战斗中磨练"
+"自己的能力。沙曼人对分散在沙漠中的稀疏植物生活非常了解，甚至具备一些促进作物"
+"生长的能力，在资源匮少的土地上，这是一项宝贵的技能。在这样一个荒凉的环境中培"
+"育植物的能力也是希望的象征，大自然有朝一日可能从沙地坟墓中崛起，再次绽放。"
+
+#. [unit_type]: id=Quenoth Shyde, race=quenoth
+msgid "female^Quenoth Shyde"
+msgstr "奎诺仙子"
+
+#. [unit_type]: id=Quenoth Shyde, race=quenoth
+#, fuzzy
+msgid ""
+"From the teachings of Analia, the healer of the Emerald Blossom:\n"
+"\n"
+"“... by embracing the path to the faerie, we must step past the boundary of "
+"flesh and magic to become a being of them both. As surely as the physical "
+"form binds the blood that gives us life, it must bind the energy that "
+"governs our world, that which is the flowing wind, the cycle of day and "
+"night, the endless march of time... We are the physical form, but we are "
+"timeless spirits as well, beings touched by that which is faerie. That realm "
+"is one that endures through the aeons, whether it takes on the form of "
+"nature, of fire, or of sand, it is always there. As it is mutable, so must "
+"we be, for the power of faerie is that to transmute the flesh of our world, "
+"from sand to earth, from scorched wasteland to life.”"
+msgstr ""
+"从翡翠花的治疗师阿纳利亚的教导：\n"
+"\n"
+"\"...通过拥抱通往精灵的道路，我们必须跨过肉体和魔法的边界，成为他们两者中的一"
+"个存在。正如物质形式必然束缚了赋予我们生命的血脉一样，它必然束缚支配我们世界"
+"的能量，即流动的风，昼夜的循环，时间的无休止的行进......我们是物质形态，但我"
+"们也是永恒的精神，被精灵所触动的人。这个领域是一个经受考验的领域，无论是以自"
+"然、火或沙的形式，它总是存在。因为它是可变的，我们也必须如此，因为精灵的力量"
+"是，将我们世界的肉体，从沙地，从焦灼的荒地转移到生命。"
+
+#. [unit_type]: id=Quenoth Sun Singer, race=quenoth
+msgid "female^Quenoth Sun Singer"
+msgstr "奎诺旭日歌者"
+
+#. [unit_type]: id=Quenoth Sun Singer, race=quenoth
+#, fuzzy
+msgid ""
+"Faerie and elven magic have oft been aptly associated with life, from which "
+"they draw the majority of their power. However, with the death of much of "
+"Irdya’s flora, the Quenoth Elves were forced to seek another source for "
+"their sorcery. In time, they learned to harness the power of the suns Sela "
+"and Naia - the twin stars that had razed the forests of Irdya to ashes, yet "
+"still spring forth the energy required for sparking life. Those who master "
+"this new magic sing of the dual nature of these embodiments of fire: flames "
+"that are both life and life’s demise."
+msgstr ""
+"精灵和精灵的魔法与生活有着恰当的联系，他们从生活中汲取了大部分的力量。然而，"
+"随着伊尔迪亚许多植物的死亡，奎尼的精灵们被迫寻找另一个巫术来源。随着时间的推"
+"移，他们学会了利用太阳的威力，塞拉和奈亚——这两颗双星把伊尔迪亚的森林夷为灰"
+"烬，然而仍然激发了激发生命所需的能量。掌握这种新魔力的人唱起这些火的化身的双"
+"重性：火焰既是生命，也是生命的灭亡。"
+
+#. [unit_type]: id=Quenoth Sun Sylph, race=quenoth
+msgid "female^Quenoth Sun Sylph"
+msgstr "奎诺旭日仙灵"
+
+#. [unit_type]: id=Quenoth Sun Sylph, race=quenoth
+#, fuzzy
+msgid ""
+"In times past, those who stepped beyond the boundary of the worlds of elf "
+"and faerie were called Sylphs, mystics with unparalleled knowledge of the "
+"secrets of the natural sphere. However, in the harsh new world, the path "
+"into the realm of the faerie became no longer a journey into the heart of "
+"nature, but a diverging path between light and darkness. Those elves who "
+"embrace the burning suns as the fulcrum of life and death learn also to "
+"harness their power, transforming into beings imbued with radiant fire. "
+"These Sun Sylphs very much embody the power that they wield: light that "
+"heals and protects, and flames that smolder with destruction."
+msgstr ""
+"过去，那些超越精灵和精灵世界界限的人被称为西尔弗斯，神秘者对自然领域的秘密有"
+"着无与伦比的了解。然而，在严酷的新世界里，通往精灵王国的道路不再是进入自然之"
+"心的旅程，而是光明与黑暗之间的一条不同的道路。那些拥抱燃烧的太阳作为生与死的"
+"支点的精灵也学会利用他们的力量，变成充满光芒的火焰。这些太阳精灵非常体现他们"
+"所运用的力量：治愈和保护的光，以及燃烧着毁灭的火焰。"
+
+#. [unit_type]: id=Tauroch, race=monster
+#, fuzzy
+msgid "Tauroch"
+msgstr "陶洛骑兵"
+
+#. [unit_type]: id=Tauroch, race=monster
+#, fuzzy
+msgid ""
+"Taurochs are huge, hardened beasts of the desert, considered untamable by "
+"most surviving races. However, the elves’ affinity with nature has allowed "
+"them to form an unlikely bond with these unruly animals. While Taurochs can "
+"easily carry or pull heavy loads, their thick hides and unwavering "
+"resolution also make them formidable mounts in battle."
+msgstr ""
+"陶洛兽是沙漠之中的一种巨大而坚韧的野兽。绝大部分幸存的种族，都认为它们是无法"
+"驯服的。然而，精灵们与自然的密切关系，使得他们与陶洛兽之间，形成了并不容易成"
+"真的紧密关系。陶洛兽可以轻易背负或者拖拽沉重的负载，而他们厚实的皮与不屈的意"
+"志也让他们成为了战斗中强大的坐骑。由一位熟练的骑兵引导的陶洛兽可以挡住很多敌"
+"人，直到援军到来为止。"
+
+#. [attack]: type=impact
+msgid "trample"
+msgstr "践踏"
+
+#. [unit_type]: id=Tauroch Flagbearer, race=quenoth
+msgid "Tauroch Flagbearer"
+msgstr "陶洛旗手"
+
+#. [unit_type]: id=Tauroch Flagbearer, race=quenoth
+#, fuzzy
+msgid ""
+"The prestigious Flagbearers spend years out in the open deserts leading "
+"their brethren on patrols and hunts, where they forage for supplies while "
+"defending their villages from brigands. They are invariably masters of "
+"skirmishes and tactics, highly proficient at roaming through the "
+"inhospitable sands. Rarely the leaders of large villages or armies, "
+"Flagbearers nonetheless have the skill and charisma to act as generals in "
+"times of need, when the elves are threatened by something more than mere "
+"scavengers or wild beasts."
+msgstr ""
+"久负盛名的旗手们花了数年时间在开阔的沙漠中带领他们的兄弟们巡逻和狩猎，在那里"
+"他们觅食补给品，同时保护他们的村庄免受强盗的迫害。他们总是小冲突和战术的大"
+"师，非常精通在荒凉的沙地中漫游。很少是大村庄或军队的领导人，旗手们仍然有技能"
+"和魅力，在需要的时候充当将军，当精灵受到的不仅仅是拾荒者或野兽的威胁。"
+
+#. [unit_type]: id=Tauroch Protector, race=quenoth
 msgid "Tauroch Protector"
 msgstr "陶洛守护者"
 
-#. [unit_type]: id=Tauroch Protector, race=elf
+#. [unit_type]: id=Tauroch Protector, race=quenoth
 #, fuzzy
 msgid ""
 "From the journal of Syniel, the Sand Skipper:\n"
@@ -11945,46 +12081,20 @@ msgstr ""
 "是我的救世主，我警惕的守护者，来自女神本人的祝福。我想我会叫她娜拉，意思是'保"
 "护者'在我们的舌头。我相信我们会有更多的冒险在一起。"
 
-#. [attack]: type=impact
-msgid "trample"
-msgstr "践踏"
-
-#. [unit_type]: id=Quenoth Ranger, race=elf
-msgid "Quenoth Ranger"
-msgstr "奎诺游侠"
-
-#. [unit_type]: id=Quenoth Ranger, race=elf
-#, fuzzy
-msgid ""
-"The title ‘Ranger’ is a little misleading, for these agile elves have little "
-"in common with the more pacifistic explorers of nature that once bore the "
-"same title. They, instead, are expert fighters who specifically seek combat "
-"in order to better hone their skirmishing skills. While they do not possess "
-"the brute force of their warrior counterparts, Quenoth Rangers are more "
-"proficient at navigating through chaotic fights and are capable of darting "
-"in and out of enemy lines to assassinate injured targets. Their masterful "
-"use of poison and formidable swordsmanship make these elves especially "
-"deadly in the harsh desert terrain, where fewer options to retreat are "
-"available."
-msgstr ""
-"标题\"Ranger\"有点误导，因为这些敏捷的精灵与曾经拥有相同头衔的自然探险家没有"
-"什么共同之处。相反，他们是专家战士，他们专门寻求战斗，以便更好地磨练他们的战"
-"地技能。虽然他们不具备战士的蛮力，但奎诺特游侠更善于在混乱的战斗中导航，并且"
-"能够冲进和冲出敌人的防线来刺杀受伤的目标。他们熟练地使用毒药和强大的剑术，使"
-"这些精灵在严酷的沙漠地形中特别致命，那里可供撤退的选择较少。"
-
-#. [unit_type]: id=Tauroch Rider, race=elf
+#. [unit_type]: id=Tauroch Rider, race=quenoth
 msgid "Tauroch Rider"
 msgstr "陶洛骑兵"
 
-#. [unit_type]: id=Tauroch Rider, race=elf
+#. [unit_type]: id=Tauroch Rider, race=quenoth
+#, fuzzy
 msgid ""
 "Taurochs are huge, hardened beasts of the desert, considered untamable by "
-"most surviving races. However, the elves' affinity with nature has allowed "
-"them to form an unlikely bond with them. While taurochs can easily carry or "
-"pull heavy loads, their thick hides and unwavering resolution also make them "
-"formidable mounts in battle. A tauroch guided by a skilled rider can hold "
-"off multiple enemies long enough for assistance to arrive."
+"most surviving races. However, the elves’ affinity with nature has allowed "
+"them to form an unlikely bond with these unruly animals. While Taurochs can "
+"easily carry or pull heavy loads, their thick hides and unwavering "
+"resolution also make them formidable mounts in battle. A Tauroch guided by a "
+"skilled rider can hold off multiple enemies by itself and serves as a "
+"powerful warden to protect elven villages and caravans."
 msgstr ""
 "陶洛兽是沙漠之中的一种巨大而坚韧的野兽。绝大部分幸存的种族，都认为它们是无法"
 "驯服的。然而，精灵们与自然的密切关系，使得他们与陶洛兽之间，形成了并不容易成"
@@ -11992,75 +12102,11 @@ msgstr ""
 "志也让他们成为了战斗中强大的坐骑。由一位熟练的骑兵引导的陶洛兽可以挡住很多敌"
 "人，直到援军到来为止。"
 
-#. [unit_type]: id=Quenoth Scout, race=elf
-msgid "Quenoth Scout"
-msgstr "奎诺侦察兵"
-
-#. [unit_type]: id=Quenoth Scout, race=elf
-#, fuzzy
-msgid ""
-"Riding the graceful, agile dustboks, Quenoth Scouts move with unmatched "
-"speed across the sands. Their practiced skill with sword and sling are "
-"useful abilities to harry enemies and allows them to act as effective "
-"hunters and patrolmen."
-msgstr ""
-"骑着优雅、敏捷的尘步，Quenoth童子军以无与伦比的速度穿越沙地。他们练习的剑和吊"
-"带技能是有用的能力，哈里的敌人，并允许他们作为有效的猎人和巡逻员。"
-
-#. [unit_type]: id=Quenoth Shaman, race=elf
-msgid "female^Quenoth Shaman"
-msgstr "奎诺萨满"
-
-#. [unit_type]: id=Quenoth Shaman, race=elf
-#, fuzzy
-msgid ""
-"Like the elves of old, many Quenoth elves seek to study the art of medicine "
-"and healing rather than hone their abilities in direct battle. Shamans are "
-"highly knowledgeable about the sparse plant-life scattered across the "
-"deserts and even possess some ability to bolster crop growth, an invaluable "
-"skill in a land with few resources. The capacity to foster flora in such an "
-"inhospitable environment is a sign of hope as well, a chance that nature "
-"might one day rise from its sandy grave and bloom again."
-msgstr ""
-"像老精灵一样，许多奎诺的精灵寻求研究医学和治疗的艺术，而不是在直接战斗中磨练"
-"自己的能力。沙曼人对分散在沙漠中的稀疏植物生活非常了解，甚至具备一些促进作物"
-"生长的能力，在资源匮少的土地上，这是一项宝贵的技能。在这样一个荒凉的环境中培"
-"育植物的能力也是希望的象征，大自然有朝一日可能从沙地坟墓中崛起，再次绽放。"
-
-#. [unit_type]: id=Quenoth Shyde, race=elf
-msgid "female^Quenoth Shyde"
-msgstr "奎诺仙子"
-
-#. [unit_type]: id=Quenoth Shyde, race=elf
-#, fuzzy
-msgid ""
-"From the teachings of Analia, the healer of the Emerald Blossom:\n"
-"\n"
-"“... by embracing the path to the faerie, we must step past the boundary of "
-"flesh and magic to become a being of them both. As surely as the physical "
-"form binds the blood that gives us life, it must bind the energy that "
-"governs our world, that which is the flowing wind, the cycle of day and "
-"night, the endless march of time... We are the physical form, but we are "
-"timeless spirits as well, beings touched by that which is faerie. That realm "
-"is one that endures through the aeons, whether it takes on the form of "
-"nature, of fire, or of sand, it is always there. As it is mutable, so must "
-"we be, for the power of faerie is that to transmute the flesh of our world, "
-"from sand to earth, from scorched wasteland to life.”"
-msgstr ""
-"从翡翠花的治疗师阿纳利亚的教导：\n"
-"\n"
-"\"...通过拥抱通往精灵的道路，我们必须跨过肉体和魔法的边界，成为他们两者中的一"
-"个存在。正如物质形式必然束缚了赋予我们生命的血脉一样，它必然束缚支配我们世界"
-"的能量，即流动的风，昼夜的循环，时间的无休止的行进......我们是物质形态，但我"
-"们也是永恒的精神，被精灵所触动的人。这个领域是一个经受考验的领域，无论是以自"
-"然、火或沙的形式，它总是存在。因为它是可变的，我们也必须如此，因为精灵的力量"
-"是，将我们世界的肉体，从沙地，从焦灼的荒地转移到生命。"
-
-#. [unit_type]: id=Tauroch Stalwart, race=elf
+#. [unit_type]: id=Tauroch Stalwart, race=quenoth
 msgid "Tauroch Stalwart"
 msgstr "陶洛坚守者"
 
-#. [unit_type]: id=Tauroch Stalwart, race=elf
+#. [unit_type]: id=Tauroch Stalwart, race=quenoth
 #, fuzzy
 msgid ""
 "When encountering wild Taurochs, Quenoth hunters often observe the curious "
@@ -12076,56 +12122,11 @@ msgstr ""
 "熟练的骑手选择他们特殊的韧性。任何战士谁发现他们的进步被一个斯塔尔瓦特阻止，"
 "无疑是明智的寻求另一条路，因为试图取代野兽将类似于试图打石墙。"
 
-#. [unit_type]: id=Quenoth Sun Singer, race=elf
-msgid "female^Quenoth Sun Singer"
-msgstr "奎诺旭日歌者"
-
-#. [unit_type]: id=Quenoth Sun Singer, race=elf
-#, fuzzy
-msgid ""
-"Faerie and elven magic have oft been aptly associated with life, from which "
-"they draw the majority of their power. However, with the death of much of "
-"Irdya’s flora, the Quenoth Elves were forced to seek another source for "
-"their sorcery. In time, they learned to harness the power of the suns Sela "
-"and Naia - the twin stars that had razed the forests of Irdya to ashes, yet "
-"still spring forth the energy required for sparking life. Those who master "
-"this new magic sing of the dual nature of these embodiments of fire: flames "
-"that are both life and life’s demise."
-msgstr ""
-"精灵和精灵的魔法与生活有着恰当的联系，他们从生活中汲取了大部分的力量。然而，"
-"随着伊尔迪亚许多植物的死亡，奎尼的精灵们被迫寻找另一个巫术来源。随着时间的推"
-"移，他们学会了利用太阳的威力，塞拉和奈亚——这两颗双星把伊尔迪亚的森林夷为灰"
-"烬，然而仍然激发了激发生命所需的能量。掌握这种新魔力的人唱起这些火的化身的双"
-"重性：火焰既是生命，也是生命的灭亡。"
-
-#. [unit_type]: id=Quenoth Sun Sylph, race=elf
-msgid "female^Quenoth Sun Sylph"
-msgstr "奎诺旭日仙灵"
-
-#. [unit_type]: id=Quenoth Sun Sylph, race=elf
-#, fuzzy
-msgid ""
-"In times past, those who stepped beyond the boundary of the worlds of elf "
-"and faerie were called Sylphs, mystics with unparalleled knowledge of the "
-"secrets of the natural sphere. However, in the harsh new world, the path "
-"into the realm of the faerie became no longer a journey into the heart of "
-"nature, but a diverging path between light and darkness. Those elves who "
-"embrace the burning suns as the fulcrum of life and death learn also to "
-"harness their power, transforming into beings imbued with radiant fire. "
-"These Sun Sylphs very much embody the power that they wield: light that "
-"heals and protects, and flames that smolder with destruction."
-msgstr ""
-"过去，那些超越精灵和精灵世界界限的人被称为西尔弗斯，神秘者对自然领域的秘密有"
-"着无与伦比的了解。然而，在严酷的新世界里，通往精灵王国的道路不再是进入自然之"
-"心的旅程，而是光明与黑暗之间的一条不同的道路。那些拥抱燃烧的太阳作为生与死的"
-"支点的精灵也学会利用他们的力量，变成充满光芒的火焰。这些太阳精灵非常体现他们"
-"所运用的力量：治愈和保护的光，以及燃烧着毁灭的火焰。"
-
-#. [unit_type]: id=Tauroch Vanguard, race=elf
+#. [unit_type]: id=Tauroch Vanguard, race=quenoth
 msgid "Tauroch Vanguard"
 msgstr "陶洛先锋"
 
-#. [unit_type]: id=Tauroch Vanguard, race=elf
+#. [unit_type]: id=Tauroch Vanguard, race=quenoth
 #, fuzzy
 msgid ""
 "The massive and fearless Taurochs are often employed not only to charge and "
@@ -12143,11 +12144,11 @@ msgstr ""
 "芒，即使在远处的沙漠上，也有着独特的景象。这些骑手的存在对大多数精灵来说是一"
 "个振奋人心的，对在沙漠中游荡的许多掠夺者来说是一种威慑。"
 
-#. [unit_type]: id=Quenoth Warrior, race=elf
+#. [unit_type]: id=Quenoth Warrior, race=quenoth
 msgid "Quenoth Warrior"
 msgstr "奎诺武士"
 
-#. [unit_type]: id=Quenoth Warrior, race=elf
+#. [unit_type]: id=Quenoth Warrior, race=quenoth
 #, fuzzy
 msgid ""
 "When compared to a spear, a glaive is often a shorter weapon with less "
@@ -12214,9 +12215,9 @@ msgstr "领袖（只能选一项）：擅长支援友军"
 msgid "Leader (choose only one): specialize in distracting enemies"
 msgstr "领袖（只能选一项）：擅长扰乱敌军"
 
-#. [unit_type]: id=Quenoth Youth, race=elf, description={QUENOTH_YOUTH_DESCRIPTION}
-#. [unit_type]: id=Quenoth Youth 2, race=elf, description={QUENOTH_YOUTH_DESCRIPTION}
-#. [unit_type]: id=Quenoth Youth 3, race=elf, description={QUENOTH_YOUTH_DESCRIPTION}
+#. [unit_type]: id=Quenoth Youth, race=quenoth, description={QUENOTH_YOUTH_DESCRIPTION}
+#. [unit_type]: id=Quenoth Youth 2, race=quenoth, description={QUENOTH_YOUTH_DESCRIPTION}
+#. [unit_type]: id=Quenoth Youth 3, race=quenoth, description={QUENOTH_YOUTH_DESCRIPTION}
 msgid "Quenoth Youth"
 msgstr "奎诺青年"
 
@@ -12244,23 +12245,9 @@ msgstr ""
 "就像船帆被风吹张起一样，一个灵魂被邪恶的魔法所困，这种监狱能够带来一个永不消"
 "逝的仆从，主人可以把他部署在任意地方。"
 
-#. [unit_type]: id=EWraith
-#. [unit_type]: id=ESpectre
-#. [unit_type]: id=EGhost
-#. [unit_type]: id=EShadow
-#. [unit_type]: id=ENightgaunt
-msgid "SPECIAL_NOTE^ This unit is able to move through solid stone walls."
-msgstr "此单位可以穿越坚硬的石墙。"
-
 #. [unit_type]: id=ENightgaunt
 msgid "Ethereal Nightgaunt"
 msgstr "虚空荒芜"
-
-#. [unit_type]: id=ENightgaunt
-msgid ""
-"SPECIAL_NOTE^ Unlike normal Nightgaunts, Ethereal Nightgaunts cannot hide at "
-"night."
-msgstr "不像普通的夜之荒芜，永恒荒芜不会在夜里隐匿。"
 
 #. [unit_type]: id=ENightgaunt
 msgid ""
@@ -12271,6 +12258,13 @@ msgid ""
 msgstr ""
 "这些生物戴面具的原因无从知晓，他们的真实面目也不为人知。这些可怕的存在很少被"
 "活物见到，即使有活物见过面，他们也不会有闲暇研究这些对手。"
+
+#. [special_note]
+#, fuzzy
+msgid ""
+"SPECIAL_NOTE^Unlike normal Nightgaunts, Ethereal Nightgaunts cannot hide at "
+"night."
+msgstr "不像普通的夜之荒芜，永恒荒芜不会在夜里隐匿。"
 
 #. [unit_type]: id=EShadow
 msgid "Ethereal Shadow"
@@ -12289,7 +12283,7 @@ msgstr ""
 "\n"
 "对于这个问题，可能一个巫师可以为你解答。"
 
-#. [unit_type]: id=EShadow
+#. [special_note]
 msgid ""
 "SPECIAL_NOTE^ Unlike normal Shadows, Ethereal Shadows cannot hide at night."
 msgstr "不像普通阴影，恒久阴影不会在夜里隐匿。"
@@ -12377,13 +12371,31 @@ msgstr ""
 "他们是曾经驰骋平原的伟大武士，现在被邪恶的魔法唤醒，和他们的骷髅战马一起，去"
 "散播恐惧与破坏。"
 
-msgid " This unit is capable of basic healing and slowing dehydration."
-msgstr " 此单位有基本的疗伤能力，并能减缓脱水。"
+#. [race]: id=quenoth
+#, fuzzy
+msgid "race^Quenoth Elf"
+msgstr "奎诺精灵"
 
+#. [race]: id=quenoth
+#, fuzzy
+msgid "race+female^Quenoth Elf"
+msgstr "奎诺德鲁伊"
+
+#. [race]: id=quenoth
+#, fuzzy
+msgid "race^Quenoth Elves"
+msgstr "奎诺精灵"
+
+#. [race]: id=quenoth
 msgid ""
-" This unit is capable of healing those around it, slowing dehydration, and "
-"curing them of poison."
-msgstr " 此单位可以对周围的单位疗伤，减缓脱水，并疗毒。"
+"Compared to the elves of the Great Continent around the time of Wesnoth, the "
+"Quenoth Elves are far more suited to life in the desert."
+msgstr ""
+
+#. [special_note]
+#, fuzzy
+msgid "SPECIAL_NOTE^This unit is able to move through solid stone walls."
+msgstr "此单位可以穿越坚硬的石墙。"
 
 #. [dummy]: id=teaching
 msgid "teaching"
@@ -12414,15 +12426,22 @@ msgstr ""
 "当此攻击用于进攻时，对手的反击次数会比通常情况下少一次，但对手最少还是能反击"
 "一次。"
 
-#. [dummy]: id=formation
+#. [attacks]: id=shock
+#, fuzzy
+msgid ""
+"This unit’s melee attack can overwhelm the defenses of enemies, preventing "
+"them from retaliating as effectively."
+msgstr " 此单位的近战攻击可以摧垮敌方的防御，使得他们无法以最佳状态反击。"
+
+#. [chance_to_hit]: id=formation
 msgid "formation"
 msgstr "布阵"
 
-#. [dummy]: id=formation
+#. [chance_to_hit]: id=formation
 msgid "female^formation"
 msgstr "布阵"
 
-#. [dummy]: id=formation
+#. [chance_to_hit]: id=formation
 msgid ""
 "This unit gains a +10% bonus to defense when another unit with the same "
 "ability is adjacent to it. However, this cannot raise the unit’s defense "
@@ -12430,6 +12449,11 @@ msgid ""
 msgstr ""
 "当另一个有相同能力的单位与此单位相邻时，此单位获得+10%防御加成。但是，此能力"
 "无法让单位的防御升到70%以上。"
+
+#. [chance_to_hit]: id=formation
+#, fuzzy
+msgid "Groups of units of this type are able to shield each other in combat."
+msgstr " 此种类型的单位成群时，可以在战斗中互相保护。"
 
 #. [dummy]: id=disengage
 msgid "disengage"
@@ -12445,6 +12469,11 @@ msgid ""
 "points after the attack."
 msgstr ""
 "如果此单位在进攻之前没有移动，那么在进攻之后它仍然会保有自己的移动点数。"
+
+#. [dummy]: id=disengage
+#, fuzzy
+msgid "This unit can move either before or after attacking."
+msgstr " 此单位可以在进攻前移动，也可以在进攻后移动（但只能选其一）。"
 
 #. [dummy]: id=daze
 msgid "daze"
@@ -12466,6 +12495,13 @@ msgstr ""
 "魔法攻击仍有70%的命中率。\n"
 "只有当攻击次数大于 60% 时，马克斯曼的攻击才会受到影响。"
 
+#. [dummy]: id=daze
+#, fuzzy
+msgid ""
+"This unit can daze its enemies, reducing their accuracy and defense until "
+"they end a turn."
+msgstr " 此单位可以让敌人眩目，降低他们的命中和防御，直到他们的回合结束。"
+
 #. [skirmisher]: id=distract
 msgid "distract"
 msgstr "分神"
@@ -12480,6 +12516,15 @@ msgid ""
 "not for itself)."
 msgstr "此单位将使得其身周的敌方控制区域对友好单位失效（但对其自身仍然有效）。"
 
+#. [skirmisher]: id=distract
+#, fuzzy
+msgid ""
+"This unit is capable of distracting opponents, allowing allied units to "
+"trespass their Zones of Control and move unhindered around them."
+msgstr ""
+"此单位可以使对手分神，让友方单位可以随意穿过对手的控制区域，在他们身边毫无障"
+"碍地穿行。"
+
 #. [dummy]: id=support
 msgid "support"
 msgstr "支援"
@@ -12491,30 +12536,6 @@ msgstr "支援"
 #. [dummy]: id=support
 msgid "The upkeep costs of adjacent friendly units are lowered by 1."
 msgstr "身周的友好单位的维护费用降低1。"
-
-msgid ""
-" This unit’s melee attack can overwhelm the defenses of enemies, preventing "
-"them from retaliating as effectively."
-msgstr " 此单位的近战攻击可以摧垮敌方的防御，使得他们无法以最佳状态反击。"
-
-msgid " Groups of units of this type are able to shield each other in combat."
-msgstr " 此种类型的单位成群时，可以在战斗中互相保护。"
-
-msgid " This unit can move either before or after attacking."
-msgstr " 此单位可以在进攻前移动，也可以在进攻后移动（但只能选其一）。"
-
-msgid ""
-" This unit can daze its enemies, reducing their accuracy and defense until "
-"they end a turn."
-msgstr " 此单位可以让敌人眩目，降低他们的命中和防御，直到他们的回合结束。"
-
-#, fuzzy
-msgid ""
-" This unit is capable of distracting opponents, allowing allied units to "
-"trespass their Zones of Control and move unhindered around them."
-msgstr ""
-"此单位可以使对手分神，让友方单位可以随意穿过对手的控制区域，在他们身边毫无障"
-"碍地穿行。"
 
 #. [unstore_unit]
 msgid "dazed"
@@ -12593,26 +12614,29 @@ msgid ""
 "She will be sorely missed."
 msgstr "我们怎么能让她死去？我以前从没见过那样的火魔法。我们会想念她的。"
 
-#. [unstore_unit]
-msgid "thirst"
-msgstr "口渴"
-
-#. [unstore_unit]
+#. [floating_text]
 #, fuzzy
 msgid "female^thirst"
 msgstr "传授"
 
-#. [unstore_unit]
-msgid "refreshed"
-msgstr "恢复"
+#. [floating_text]
+msgid "thirst"
+msgstr "口渴"
 
+#. [floating_text]
 #. [unstore_unit]
 #, fuzzy
 msgid "female^refreshed"
 msgstr "恢复"
 
-msgid "+%d XP"
-msgstr "+%d经验值"
+#. [floating_text]
+#. [unstore_unit]
+msgid "refreshed"
+msgstr "恢复"
+
+#. Floating text shown when Garak's teaching ability transfers experience points
+msgid "+$amount XP"
+msgstr ""
 
 #. [part]
 msgid ""
@@ -13380,6 +13404,16 @@ msgstr ""
 #. [terrain_type]: id=lava_overlay
 msgid "Lava"
 msgstr "岩浆"
+
+#. [terrain_type]: id=gray_utbs_water
+#, fuzzy
+msgid "Shallow Water"
+msgstr "圣水"
+
+#. [terrain_type]: id=gray_utbs_water
+#, fuzzy
+msgid "Flood Water"
+msgstr "圣水"
 
 #. [terrain_type]: id=human_ship
 msgid "Human Ship"

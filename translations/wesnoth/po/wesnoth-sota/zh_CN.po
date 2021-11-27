@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2017, 2019.
 # termanary, 2019.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -75,6 +75,34 @@ msgstr "战役维护"
 #. [about]
 msgid "Additional Artwork"
 msgstr "额外美工"
+
+#. [label]
+msgid "Lvl 0"
+msgstr ""
+
+#. [label]
+msgid "Undead"
+msgstr ""
+
+#. [label]
+msgid "Traits"
+msgstr ""
+
+#. [label]
+msgid "Attacks"
+msgstr ""
+
+#. [label]
+msgid "Choose a Corpse"
+msgstr ""
+
+#. [button]
+msgid "Recruit"
+msgstr ""
+
+#. [button]: id=cancel
+msgid "Cancel"
+msgstr ""
 
 #. [scenario]: id=01_Slipping_Away
 msgid "Slipping Away"
@@ -236,6 +264,13 @@ msgstr "洛温"
 #. [message]: speaker=Ardonna
 msgid "I suspected some of the rats would show themselves."
 msgstr "我还就知道有些老鼠会出现。"
+
+#. [message]: speaker=narrator
+msgid ""
+"<span color='cyan'>Special Note: </span>In this campaign, if a unit is "
+"killed and not immediately raised as a corpse, its corpse type will be "
+"permanently added to the recruit list instead."
+msgstr ""
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -648,40 +683,51 @@ msgstr "无风难行"
 msgid ""
 "22 III, 23 YW\n"
 "\n"
-"Research sometimes requires experiments, so I began. I forced my will into "
-"the life-force pathways of the bandit, thus turning him into my puppet. He "
-"resisted, but on account of my recent practice, my will proved the stronger. "
-"More strangely, the inside of his body also resisted, attacking me, the "
-"invader. However, since I wasn’t physically there, it ended up attacking "
-"itself! Over a period of hours, slabs of flesh became weak and threatened to "
-"fall off his frame. I was obliged to stitch them in place."
+"Research sometimes requires experiments, so I began.  I knew the bandit had "
+"intended to rob me, and once I had killed his beloved, he had intended to "
+"torture and kill me.  Now that I was in control, he was afraid and "
+"defensive, and while his hatred of me was unabated, his desire to live made "
+"him somewhat malleable."
 msgstr ""
-"韦元23年3月22日：\n"
-"\n"
-"研究有时需要试验才行，所以我便开始了试验。我将自己的意志强行投射进那强盗的生"
-"命力通路里，于是便把他变成了我的傀儡。他进行了抵抗，但由于我最近的练习，结果"
-"证明我的意志比他的更强。更奇怪的是，他的身体也同样在抵抗，对我这个入侵者发动"
-"攻击。但是，由于我的身体并没有在他体内，他的身体最终攻击了自己！在几小时内，"
-"他身上的肉片变得很虚弱，几乎要从骨架上掉下来。我不得不把它们缝合起来。"
 
 #. [part]
 msgid ""
-"Some of the bandit’s companions had perished in better condition than the "
-"leader, and I got the idea to add their flesh to my puppet. I stitched on "
-"muscles where they seemed to fit, and used enchantments to improve the "
-"bonding, thus improving the strength of the creature. At first, each new "
-"piece of flesh caused another violent reaction from the body’s defenses. "
-"Eventually, the reactions weakened, and the body stabilized in its new "
-"configuration, though by this time it was suppurating and unrecognizable. "
-"The mind inside gibbered at what it had become, but the bandit had wished "
-"for me a fate worse than death, so it didn’t seem unfair."
+"I passed him a wineskin, to put him at ease. He eyed me suspiciously, then "
+"took a sip, calculating my intentions. I then placed a portion of my gold "
+"resources on the table, and his eyes locked upon it.\n"
+"\n"
+"I then placed upon the table a ring stripped off the bandit named 'Mossa', "
+"his beloved partner in crime.  His gaze shifted from the gold to the ring, "
+"and then quickly to my eyes.  Had he not been tied to the chair, he would "
+"have attacked me.\n"
+"\n"
+"I added more gold to the pile, but he didn't notice, he only glared at me "
+"with such hatred.  The hunger for vengeance radiated off of him like heat "
+"from a thousand suns - I could feel it more strongly than the fear or hunger "
+"from any of my pets..."
 msgstr ""
-"这强盗的一些同伙死时比他们首领的情况更好，而我想到个主意，把他们的血肉加到我"
-"的傀儡身上。我在看起来适合的位置缝上了肌肉，并用法术强化了联结，并因此提升了"
-"这造物的力量。起先，每一块新血肉都会引起这躯体的防御机制的强烈反应。但最终，"
-"反应变弱了，而躯体在这新结构下稳定了下来，虽说此时它已经化了脓而且无法辨认"
-"了。躯体内的心智发觉自己变成了这种模样，胡言乱语起来。但这强盗诅咒我不得好"
-"死，所以这显得很公平。"
+
+#. [part]
+msgid ""
+"This rich vein into the life-force of the bandit was like nothing I had ever "
+"seen, but I knew enough to bend his hunger to my will. With further study, I "
+"may one day be able to stop it there, but today I could not: The single-"
+"minded hunger consumed the man, it was all I could do to control its "
+"direction!\n"
+"\n"
+"The bandit howled, thrashed, tore at his clothes and bindings, eventually "
+"digging into his own flesh.  Eventually, when all but the hunger had been "
+"flensed from his being, he calmed down.  Now hairless, bloody, naked, and "
+"unthinking, the bandit was unrecognizable as the man he once was."
+msgstr ""
+
+#. [part]
+msgid ""
+"No doubt whatever was left of the mind inside gibbered at what it had "
+"become, but the bandit was now my puppet and I stitched the wounds as best I "
+"could. In some ways, this experiment was a failure, but the creature it "
+"created would be useful..."
+msgstr ""
 
 # 原文真的没有问题吗？很不通顺
 #. [part]
@@ -723,7 +769,6 @@ msgid "Ship’s Crew"
 msgstr "船员"
 
 #. [side]: type=Sea Captain, id=Rudic
-#. [unit]: type=Bone Captain, id=Bone Captain
 msgid "Rudic"
 msgstr "鲁迪克"
 
@@ -866,8 +911,8 @@ msgstr "格温丁"
 msgid "Bremen"
 msgstr "布雷门"
 
-#. [objectives]
 #. [objective]: condition=win
+#. [objectives]
 msgid "Kill every enemy unit"
 msgstr "击杀每一个敌方单位"
 
@@ -1135,10 +1180,14 @@ msgstr ""
 "洞穴后面的隧道变窄了，继续往下延伸了很长一段。墙上的一片片真菌发出微弱的光，"
 "让我并没有被绊得很厉害。终于，我看到前方出现了一道明亮的光。"
 
+#. [side]
 #. [unit]: type=Sacrifice, id=necromancer_on_altar
-#. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
 msgid "Ras-Tabahn"
 msgstr "拉斯-塔班"
+
+#. [unit]: type=Shadow
+msgid "Vash-Gorn"
+msgstr "瓦希-戈恩"
 
 #. [message]: speaker=Ardonna
 msgid "Oh, wow."
@@ -1276,7 +1325,6 @@ msgid "Very well. We will do as you suggest."
 msgstr "很好。就按你说的办吧。"
 
 #. [label]
-#. [unit]: type=Ruffian SotA, id=Carcyn
 #. [scenario]: id=08_Carcyn
 #. The name of the city
 #. male name
@@ -1308,10 +1356,6 @@ msgstr "卡辛·费希尔"
 #. [objective]: condition=win
 msgid "Capture every village"
 msgstr "占领每一座村庄"
-
-#. [unit]: type=Shadow
-msgid "Vash-Gorn"
-msgstr "瓦希-戈恩"
 
 #. [unit]: type=Mage, id=Wynran
 msgid "Wynran"
@@ -1359,11 +1403,6 @@ msgstr "船舶店"
 #. "Grange" in the American usage: farmers' association
 msgid "Grange Hall"
 msgstr "谷仓"
-
-#. [unit]: type=Delinquent, id=Shynal
-#. female name
-msgid "Shynal"
-msgstr "赛娜尔"
 
 #. [message]: speaker=Carcyn
 msgid "Carcyn Fisher at your service, and this is my friend Shynal."
@@ -1597,8 +1636,8 @@ msgstr ""
 "拉斯-塔班的队伍来到了泰河附近精灵之路的尽头，他们将在此等待阿冬娜。而当他们到"
 "达时，另一支队伍也到达了。"
 
-#. [side]
 #. [side]: type=Merman Triton, id=Okean
+#. [side]
 msgid "Merfolk"
 msgstr "人鱼"
 
@@ -1765,10 +1804,11 @@ msgid "Battleground"
 msgstr "战场"
 
 #. [part]
+#, fuzzy
 msgid ""
 "11 IV, 23 YW\n"
 "\n"
-"Rastaban seems like an acceptable ally. He is quite different from the "
+"Ras-Tabahn seems like an acceptable ally. He is quite different from the "
 "stodgy teachers at the academy who were so full of themselves and loved to "
 "hear themselves talk. He also never once disparaged me for being a girl or "
 "even mentioned my hair. As long as he continues to respect me, everything "
@@ -1910,10 +1950,6 @@ msgstr "很好。现在你可以练习征募鬼魂了。"
 #. [message]: speaker=narrator
 msgid "You can now recruit ghosts!"
 msgstr "你现在可以征募鬼魂了！"
-
-#. [unit]: id=Vendraxis, type=Saurian Soothsayer
-msgid "Vendraxis"
-msgstr "文德拉克西斯"
 
 #. [message]: speaker=Vendraxis
 msgid "Human, take me with you!"
@@ -2215,12 +2251,12 @@ msgstr ""
 "瘫倒在沙地里，猛烈咳嗽起来，我可从没见过这么严重的症状。等他终于可以说话的时"
 "候，他向我保证说这只是因为寒冷而已，我不必担心，但我还是很不放心。"
 
-#. [side]: type=Orcish Sovereign, id=Rod-Ishnak
+#. [side]: type=Orcish Warlord, id=Rod-Ishnak
 #. [side]: type=Orcish Warlord, id=Vok-Hroog
 msgid "Orcs"
 msgstr "兽人"
 
-#. [side]: type=Orcish Sovereign, id=Rod-Ishnak
+#. [side]: type=Orcish Warlord, id=Rod-Ishnak
 msgid "Rod-Ishnak"
 msgstr "罗德-伊什纳克"
 
@@ -2400,6 +2436,10 @@ msgstr "这迷雾之中会有什么危险潜伏着？"
 #. [message]: speaker=Ras-Tabahn
 msgid "Gryphons... live at this height. We should be cautious."
 msgstr "狮鹫……在这高处生活。我们应当小心。"
+
+#. [message]: speaker=Vendraxis
+msgid "Yesss. The danger I sssensed is here."
+msgstr ""
 
 #. [scenario]: id=16_The_Mage
 msgid "The Mage"
@@ -2914,8 +2954,8 @@ msgstr ""
 "我们将山中之火抛在身后，再一次没入黑暗之中。在一段漫长旅程之后，我们走进了隧"
 "道末端的死胡同里……但那墙却并不坚实。"
 
-#. [side]
 #. [side]: type=Dwarvish Lord, id=Golbanduth
+#. [side]
 msgid "Dwarves"
 msgstr "矮人"
 
@@ -3097,6 +3137,14 @@ msgstr ""
 #. [message]: speaker=Taxtrimon
 msgid "Well met Fizztsars. Now these creatures will certainly fall."
 msgstr "幸会，菲兹萨斯。现在这些造物必将死亡。"
+
+#. [message]: speaker=Fizztsars
+msgid "Except for the male of oursss with them. He will come with usss."
+msgstr ""
+
+#. [message]: speaker=Vendraxis
+msgid "No! I will not return yet, I still have sssecrets to learn!"
+msgstr ""
 
 #. [unit]: type=Dwarvish Dragonguard, id=Thrigalurd
 msgid "Thrigalurd"
@@ -3319,7 +3367,7 @@ msgstr ""
 msgid "pick"
 msgstr "镐"
 
-#. [unit_type]: id=Ancient Lich SotA, race=undead
+#. [unit_type]: id=SotA Ancient Lich, race=undead
 msgid ""
 "An experienced lich can easily tap into the power of the spirit world and "
 "throw freezing lightning to devastating effect, or drain the very life force "
@@ -3376,8 +3424,37 @@ msgstr ""
 "在他的船上，船长是最终的权力者，他所有的命令都必须被立即遵从。违逆船长的旅客"
 "或船员得自负后果，这是因为他具有当场处决罪犯或叛乱者的权力。"
 
+#. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
+#. A fake unit type that appears in the recruit list as soon as the
+#. player has access to more than one type of walking corpse. Trying to
+#. recruit it launches the zombie recruit dialog as a child of the normal
+#. recruitment dialog. "Walking Corpse" is not used here because some swim,
+#. and some fly.
+msgid "All Corpses"
+msgstr ""
+
+#. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
+msgid "Choose this “unit” to get a list of available corpses."
+msgstr ""
+
+#. [unit_type]: id=SotA Flying Corpse_Gryphon
+#. [unit_type]: id=SotA Flying Corpse_Bat
+msgid "Flying Corpse"
+msgstr ""
+
+#. [unit_type]: id=SotA Swimming Corpse
+msgid "Swimming Corpse"
+msgstr ""
+
 msgid "Ardonna"
 msgstr "阿冬娜"
+
+#. female name
+msgid "Shynal"
+msgstr "赛娜尔"
+
+msgid "Vendraxis"
+msgstr "文德拉克西斯"
 
 #. [objective]: condition=lose
 msgid "Death of Ardonna"
@@ -3441,6 +3518,30 @@ msgstr "你总是这么鲁莽。"
 msgid "I will miss you."
 msgstr "我会想你的。"
 
+#. [message]: speaker=Vendraxis
+msgid "Now I will never learn the sssecret of exssstending my ssspan."
+msgstr ""
+
+#. [message]: speaker=Carcyn
+msgid "I'm going to miss him."
+msgstr ""
+
+#. [message]: speaker=Ras-Tabahn
+msgid "Unfortunate. He was useful."
+msgstr ""
+
+#. [message]: speaker=Shynal
+msgid "Yes, he was helpful."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Indeed, he will be missed."
+msgstr ""
+
+#. [message]: speaker=Ardonna
+msgid "Don't worry, my pet. I can save you."
+msgstr ""
+
 #. [message]: speaker=$unit.id
 msgid "Aww. I wanted to be a mage like Shynal."
 msgstr "嗷。我想成为像赛娜尔那样的法师。"
@@ -3489,99 +3590,291 @@ msgstr "隐藏船帆和船索"
 msgid "Show Sails and Rigging"
 msgstr "显示船帆和船索"
 
+#. [terrain_type]: id=zgrave
 #. [terrain_type]: id=grave
 msgid "Grave"
 msgstr "墓穴"
 
+#. [terrain_type]: id=zgrave
 #. [terrain_type]: id=grave
 msgid "Grave Overlay"
 msgstr "墓穴覆盖层"
 
+#. [terrain_type]: id=znot_here
 #. [terrain_type]: id=not_here
 msgid "Not Here Overlay"
 msgstr "非此处覆盖层"
 
+#. [terrain_type]: id=zcrystal
 #. [terrain_type]: id=crystal
 msgid "Crystal Caves"
 msgstr "水晶洞穴"
 
+#. [terrain_type]: id=zpassageway
 #. [terrain_type]: id=passageway
 msgid "Passageway"
 msgstr "通道"
 
+#. [terrain_type]: id=zgate_open
+#. [terrain_type]: id=zgate_closed
 #. [terrain_type]: id=gate_open
 #. [terrain_type]: id=gate_closed
 msgid "Gate"
 msgstr "门"
 
+#. [terrain_type]: id=zweb
 #. [terrain_type]: id=web
 msgid "Spiderweb"
 msgstr "蜘蛛网"
 
+#. [terrain_type]: id=zgraveyard-fence-top
 #. [terrain_type]: id=graveyard-fence-top
 msgid "Fence-Top"
 msgstr "栅栏顶部"
 
+#. [terrain_type]: id=zgraveyard-fence-bottom
 #. [terrain_type]: id=graveyard-fence-bottom
 msgid "Fence"
 msgstr "栅栏"
 
+#. [terrain_type]: id=zgraveyard-fence-bottom
 #. [terrain_type]: id=graveyard-fence-bottom
 msgid "Fence-Bottom"
 msgstr "栅栏底部"
 
+#. [terrain_type]: id=zship--forecastle
 #. [terrain_type]: id=ship--forecastle
 msgid "Ship Forecastle"
 msgstr "前甲板"
 
+#. [terrain_type]: id=zship--main-deck
 #. [terrain_type]: id=ship--main-deck
 msgid "Ship Main Deck"
 msgstr "主甲板"
 
+#. [terrain_type]: id=zship--poop-deck
 #. [terrain_type]: id=ship--poop-deck
 msgid "Ship Poop Deck"
 msgstr "尾楼甲板"
 
+#. [terrain_type]: id=zship--hull
+#. [terrain_type]: id=zship--railing
 #. [terrain_type]: id=ship--hull
 #. [terrain_type]: id=ship--railing
 msgid "Ship Hull"
 msgstr "船体"
 
+#. [terrain_type]: id=zship--rigging-and-sails
 #. [terrain_type]: id=ship--rigging-and-sails
 msgid "Ship Rigging and Sails"
 msgstr "船索和船帆"
 
+#. [terrain_type]: id=zship--railing
 #. [terrain_type]: id=ship--railing
 msgid "Ship Railing"
 msgstr "扶手"
 
+#. [terrain_type]: id=zship--bits-and-pieces
 #. [terrain_type]: id=ship--bits-and-pieces
 msgid "Ship Pieces"
 msgstr "船的碎片"
 
+#. [terrain_type]: id=zship--lower-deck
 #. [terrain_type]: id=ship--lower-deck
 msgid "Ship Lower Deck"
 msgstr "下层甲板"
 
+#. [terrain_type]: id=zship--lower-deck-edge
 #. [terrain_type]: id=ship--lower-deck-edge
 msgid "Ship Lower Deck Edge"
 msgstr "下层甲板边缘"
 
-#. [terrain_type]: id=ship--forecastle
+#. [terrain_type]: id=zship--forecastle
 #. [terrain_type]: id=ship--main-deck
+#. [terrain_type]: id=zship--poop-deck
+#. [terrain_type]: id=zship--lower-deck
+#. [terrain_type]: id=ship--forecastle
 #. [terrain_type]: id=ship--poop-deck
 #. [terrain_type]: id=ship--lower-deck
 msgid "Ship"
 msgstr "船"
 
+#. [terrain_type]: id=zfull-void
 #. [terrain_type]: id=full-void
 msgid "Full Void"
 msgstr "完全虚空"
 
+#. [terrain_type]: id=zfull-void-overlay
 #. [terrain_type]: id=full-void-overlay
 msgid "Void Overlay"
 msgstr "虚空覆盖层"
 
+#. [terrain_type]: id=zhalf-void-overlay
 #. [terrain_type]: id=half-void-overlay
 msgid "Half Void"
 msgstr "半虚空"
+
+#. [value]: type=SotA Flying Corpse_Bat
+#. shown instead of the unit_type name in the recruitment dialog
+msgid "recruit^Flying Corpse (Bat)"
+msgstr ""
+
+#. [value]: type=SotA Flying Corpse_Bat
+#, fuzzy
+msgid "You can now raise bat corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Rat
+#, fuzzy
+msgid "recruit^Walking Corpse (Rat)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Rat
+#, fuzzy
+msgid "You can now raise rat corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Wolf
+#, fuzzy
+msgid "recruit^Walking Corpse (Wolf)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Wolf
+#, fuzzy
+msgid "You can now raise wolf corpses!"
+msgstr "你现在可以征募骷髅鸟骑手了！"
+
+#. [value]: type=SotA Walking Corpse_Human
+#, fuzzy
+msgid "recruit^Walking Corpse (Human)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Human
+#, fuzzy
+msgid "You can now raise human corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Mounted
+#. the mount is an undead horse (not a wolf), this is shown instead of the unit_type name in the recruitment dialog
+#, fuzzy
+msgid "recruit^Walking Corpse (Mounted)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Mounted
+#, fuzzy
+msgid "You can now raise mounted corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Wolf Rider
+#, fuzzy
+msgid "recruit^Walking Corpse (Wolf Rider)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Wolf Rider
+#, fuzzy
+msgid "You can now raise wolf rider corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Swimming Corpse
+#. this is used for both naga and merfolk zombies
+msgid "recruit^Swimming Corpse"
+msgstr ""
+
+#. [value]: type=SotA Swimming Corpse
+#. this is used for both naga and merfolk zombies
+#, fuzzy
+msgid "You can now raise swimming corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Saurian
+msgid "recruit^Walking Corpse (Saurian)"
+msgstr ""
+
+#. [value]: type=SotA Walking Corpse_Saurian
+#, fuzzy
+msgid "You can now raise saurian corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Wose
+#, fuzzy
+msgid "recruit^Walking Corpse (Wose)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Wose
+#, fuzzy
+msgid "You can now raise wose corpses!"
+msgstr "你现在可以征募骷髅鸟骑手了！"
+
+#. [value]: type=SotA Walking Corpse_Goblin
+#, fuzzy
+msgid "recruit^Walking Corpse (Goblin)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Goblin
+#, fuzzy
+msgid "You can now raise goblin corpses!"
+msgstr "你现在可以征募食尸鬼了！"
+
+#. [value]: type=SotA Flying Corpse_Gryphon
+msgid "recruit^Flying Corpse (Gryphon)"
+msgstr ""
+
+#. [value]: type=SotA Flying Corpse_Gryphon
+#, fuzzy
+msgid "You can now raise gryphon corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Spider
+#, fuzzy
+msgid "recruit^Walking Corpse (Spider)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Spider
+#, fuzzy
+msgid "You can now raise spider corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Troll
+#, fuzzy
+msgid "recruit^Walking Corpse (Troll)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Troll
+#, fuzzy
+msgid "You can now raise troll corpses!"
+msgstr "你现在可以征募鬼魂了！"
+
+#. [value]: type=SotA Walking Corpse_Dwarf
+#, fuzzy
+msgid "recruit^Walking Corpse (Dwarf)"
+msgstr "复苏行尸（8枚金币）"
+
+#. [value]: type=SotA Walking Corpse_Dwarf
+#, fuzzy
+msgid "You can now raise dwarf corpses!"
+msgstr "你现在可以征募黑暗狂徒了！"
+
+#. [message]: speaker=narrator
+msgid "A lua error has occurred, and a corpse cannot be recruited."
+msgstr ""
+
+#. [lua]: select
+msgid "HP: "
+msgstr ""
+
+#. [lua]: select
+msgid "MP: "
+msgstr ""
+
+#. [lua]: select
+msgid "XP: "
+msgstr ""
+
+#. [lua]: postshow
+msgid "There are no corpses available."
+msgstr ""
+
+#. [lua]: postshow
+#, fuzzy
+msgid "You do not have enough gold to recruit that unit"
+msgstr "你的金币不足，不能复苏该单位。"

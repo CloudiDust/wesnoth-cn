@@ -5,12 +5,12 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -21,28 +21,49 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 2.4.2\n"
 
-#. [lua]: wml_actions.select_character
+#. [campaign]: id=Tutorial
+msgid "Battle Training"
+msgstr ""
+
+#. [difficulty]
+#. [campaign]: id=Tutorial
+msgid "Tutorial"
+msgstr ""
+
+#. [campaign]: id=Tutorial
+msgid ""
+"Learn the basics of Wesnoth gameplay with a tutorial. Recommended for first "
+"time players."
+msgstr ""
+
+#. [difficulty]
+msgid "Beginner"
+msgstr ""
+
+#. [label]
 msgid "Select Character"
 msgstr "选择角色"
 
-#. [lua]: wml_actions.select_character
+#. [label]
 msgid "Who do you want to play?"
 msgstr "你要扮演谁？"
 
+#. [button]
 #. [side]: type=Fighter, id=student
-#. [lua]: wml_actions.select_character
 msgid "Konrad"
 msgstr "科纳德"
 
+#. [button]
 #. [modify_side]
 #. [lua]: wml_actions.select_character
 msgid "Li’sar"
 msgstr "莉莎"
 
-#. [tutorial]: id=tutorial
+#. [scenario]: id=tutorial
 #. Hello, translators! The tutorial is meant to be a bit funny at the start,
 #. welcoming new players. Please keep the friendly fun feeling!
-#. If you have any questions, ask in the forums or in the #wesnoth-dev channel on the Freenode IRC network.
+#. If you have any questions, ask in the forums or, the #wesnoth-dev channel on irc.libera.chat,
+#. or https://discord.gg/battleforwesnoth.
 msgid "Wesnoth Tutorial — Part I"
 msgstr "韦诺教程 — 第一部分"
 
@@ -76,6 +97,12 @@ msgstr "摧毁凶残之敌"
 #. [objective]: condition=lose
 msgid "Get yourself killed"
 msgstr "把你自己搞挂掉"
+
+#. [disallow_end_turn]
+#, fuzzy
+msgid ""
+"You cannot end your turn until you have completed the lesson on movement!"
+msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
 
 #. [message]: speaker=narrator
 msgid "Welcome to Wesnoth!"
@@ -232,6 +259,11 @@ msgstr ""
 "要攻击刺靶，首先要选中进攻方（莉莎），然后选中目标（刺靶）。你将会看到攻击描"
 "述。当你准备好之后，点击<b>攻击</b>。"
 
+#. [disallow_end_turn]
+#, fuzzy
+msgid "You cannot end your turn until you have attacked the dummy!"
+msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+
 #. [message]: speaker=student
 msgid "Hey! This quintain fights back!"
 msgstr "嘿！这个刺靶会反击！"
@@ -248,8 +280,8 @@ msgstr "我应该撤退吗？"
 msgid "female^Should I retreat?"
 msgstr "我应该撤退吗？"
 
-#. [message]: speaker=Galdrad
 #. [message]: speaker=Delfador
+#. [message]: speaker=Galdrad
 msgid "Good idea!"
 msgstr "好主意！"
 
@@ -315,10 +347,16 @@ msgstr ""
 "人类玩家控制的，将进行他们的行动。有些场景必须在一定的回合数以内完成。在屏幕"
 "顶部的旗帜图标旁，你可以看到当前回合数，以及回合数上限（如果有的话）。"
 
-#. [else]
 #. [event]
+#. [else]
 msgid "End your turn"
 msgstr "结束你的回合"
+
+#. [disallow_end_turn]
+#, fuzzy
+msgid ""
+"You cannot end your turn until you have completed the lesson on healing!"
+msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
 
 #. [message]: speaker=student
 msgid "Ouch! I need to heal! Only $student_hp hitpoints left!"
@@ -362,6 +400,12 @@ msgstr ""
 "你占领了一座村庄！它升起了你的旗帜，并被加到了你的村庄总数中（屏幕顶部的房子"
 "图标旁会显示你当前控制着多少座村庄）。村庄会提供用于征募单位的金币。每回合你"
 "将得到两枚金币，而你拥有的每座村庄都会提供一枚额外的金币。"
+
+#. [disallow_end_turn]
+#, fuzzy
+msgid ""
+"You cannot end your turn until you have completed the lesson on recruiting!"
+msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -444,6 +488,12 @@ msgstr ""
 "响你使用部队的方式。例如，拥有<b>迅捷</b>特质的单位每回合可以多移动一格，而拥"
 "有<b>聪慧</b>特质的单位升级所需的经验值要少20%。"
 
+#. [disallow_end_turn]
+#, fuzzy
+msgid ""
+"You cannot end your turn until you have completed the lesson on attacking!"
+msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+
 #. [message]: speaker=student
 msgid ""
 "Hey, the quintain just healed 2 hitpoints! I’d better attack it at once!"
@@ -496,6 +546,25 @@ msgstr ""
 "们会帮上大忙。"
 
 #. [message]: speaker=Delfador
+#. a strong elf, so +1 damage
+#, fuzzy
+msgid ""
+"Your elf used a sword (6×4; or 6 damage on each hit, with 4 attacks), which "
+"is a <i>melee</i> attack. The quintain defended with its melee attack (3×5; "
+"or 3 damage on each hit, with 5 attacks). The ranged attack (the bow) would "
+"have been safer."
+msgstr ""
+"你的精灵使用了剑（5×4；或者说每次命中造成5点伤害，可攻击4次），这是一种<b>近"
+"战</b>攻击。刺靶以它的近战攻击（3×5；或者说每次命中造成3点伤害，可攻击5次）进"
+"行了反击。若选择远程攻击（弓）的话，本该更为安全的。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"Elvish Fighters normally do 5×4 damage with their swords, but this elf has "
+"the <i>strong</i> trait, which increases the damage output of melee attacks."
+msgstr ""
+
+#. [message]: speaker=Delfador
 msgid ""
 "Your elf used a sword (5×4; or 5 damage on each hit, with 4 attacks), which "
 "is a <i>melee</i> attack. The quintain defended with its melee attack (3×5; "
@@ -505,6 +574,23 @@ msgstr ""
 "你的精灵使用了剑（5×4；或者说每次命中造成5点伤害，可攻击4次），这是一种<b>近"
 "战</b>攻击。刺靶以它的近战攻击（3×5；或者说每次命中造成3点伤害，可攻击5次）进"
 "行了反击。若选择远程攻击（弓）的话，本该更为安全的。"
+
+#. [message]: speaker=Delfador
+#. a dextrous elf, so +1 damage
+#, fuzzy
+msgid ""
+"Your elf used a bow, which is a <i>ranged</i> attack (4×3; or 4 damage on "
+"each hit, with 3 attacks). The quintain has no ranged attack, only a melee "
+"attack, so it could not defend itself."
+msgstr ""
+"你的精灵使用了弓，这是一种<b>远程</b>攻击（3×3；或者说每次命中造成3点伤害，可"
+"攻击3次）。刺靶没有远程攻击，只有近战攻击，所以它无法保护自己。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"Elvish Fighters normally do 3×3 damage with their bows, but this elf has the "
+"<i>dextrous</i> trait, which increases the damage output of ranged attacks."
+msgstr ""
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -670,7 +756,7 @@ msgstr ""
 "留模式</b>。当你结束查看时，点击<b>结束场景</b>按钮，以进入战役中的下一幕场"
 "景。"
 
-#. [tutorial]: id=2_Tutorial
+#. [scenario]: id=2_Tutorial
 msgid "Wesnoth Tutorial — Part II"
 msgstr "韦诺教程 — 第二部分"
 
@@ -1496,6 +1582,17 @@ msgstr ""
 "在此场景中，你只需击败兽人首领就能获胜了。场景的胜利条件在<b>菜单</b>菜单中的"
 "<b>场景目标</b>里给出。"
 
+#. [message]: speaker=narrator
+msgid "Speeding Up Animations"
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid ""
+"Holding down <b>shift</b> will make the animations for moving and fighting "
+"quicker. The <b>acceleration factor</b> can be set, and turned on by "
+"default, in the <b>Preferences</b> menu’s <b>General</b> tab."
+msgstr ""
+
 #. [message]: speaker=Galdrad
 msgid "Hurry up and defeat the orcs before they become entrenched!"
 msgstr "赶快，在兽人稳住脚跟之前击败他们！"
@@ -1767,8 +1864,8 @@ msgstr ""
 msgid "Fighter"
 msgstr "战士"
 
-#. [unit_type]: id=Fighteress, race=human
 #. [unit_type]: id=Fighter, race=human
+#. [unit_type]: id=Fighteress, race=human
 msgid ""
 "Young and brash, Fighters are skilled with swords and are vulnerable to "
 "attack from enemies. However, they have the potential to become great "
@@ -1795,8 +1892,8 @@ msgstr "刺靶是用来进行剑术和枪术练习的。被一个刺靶攻击是
 msgid "Warrior"
 msgstr "武士"
 
-#. [unit_type]: id=Warrioress, race=human
 #. [unit_type]: id=Warrior, race=human
+#. [unit_type]: id=Warrioress, race=human
 msgid ""
 "With more experience, Fighters have honed their skills with the sword and "
 "become powerful Warriors."
@@ -1816,7 +1913,9 @@ msgid ""
 "mistake."
 msgstr "别忘了，如果操作失误，你可以按<b>u</b>键来撤销大部分操作。"
 
+#, fuzzy
 msgid ""
+"\n"
 "\n"
 "<big>Click a mouse button or press the spacebar to continue...</big>"
 msgstr ""

@@ -6,12 +6,12 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -27,9 +27,12 @@ msgid "4p — A New Land"
 msgstr "4p — 新世界"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
+#, fuzzy
 msgid ""
 "This 4p survival scenario allows you to construct buildings and terraform "
-"the land. The recommended starting gold is 100."
+"the land.\n"
+"\n"
+"For experienced players, it’s recommended to lower the starting gold to 75."
 msgstr ""
 "在这个4玩家的生存场景里，你可以建造建筑以及改变地形。推荐起始金币数为100。"
 
@@ -252,9 +255,9 @@ msgstr ""
 "“精灵式”的村庄代表了大学。每当你的回合开始，身处大学的法师就会自动增加你所选"
 "定的目标的研究进度。右键点击大学里的法师以改变研究目标。"
 
-#. [set_menu_item]: id=anl_diplomacy
 #. [message]: speaker=narrator
 #. [option]
+#. [set_menu_item]: id=anl_diplomacy
 msgid "Diplomacy"
 msgstr "外交"
 
@@ -497,8 +500,8 @@ msgstr ""
 "研究进度：$player_$side_number|.farming.progress|/$player_$side_number|."
 "farming.target"
 
-#. [research]
 #. [command]
+#. [research]
 msgid "agriculture"
 msgstr "农业"
 

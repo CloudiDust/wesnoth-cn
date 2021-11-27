@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
 "PO-Revision-Date: 2020-06-15 16:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -51,16 +51,16 @@ msgid "(Novice level, 23 scenarios.)"
 msgstr "（新手级别，23幕场景。）"
 
 #. [campaign]: id=Heir_To_The_Throne
-msgid "Beginner"
-msgstr "初心者"
+msgid "Easy"
+msgstr ""
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Fighter"
 msgstr "战士"
 
 #. [campaign]: id=Heir_To_The_Throne
-msgid "Hero"
-msgstr "英雄"
+msgid "Commander"
+msgstr "指挥官"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Normal"
@@ -71,8 +71,8 @@ msgid "Challenging"
 msgstr "挑战"
 
 #. [campaign]: id=Heir_To_The_Throne
-msgid "Champion"
-msgstr "斗士"
+msgid "Lord"
+msgstr "领主"
 
 #. [about]
 msgid "Campaign Design"
@@ -106,21 +106,21 @@ msgstr "科纳德死亡"
 msgid "Death of Delfador"
 msgstr "德法多死亡"
 
-#. [side]: type=Commander, id=Konrad
 #. [side]: type=Fighter, id=Konrad
+#. [side]: type=Commander, id=Konrad
 msgid "Konrad"
 msgstr "科纳德"
 
-#. [side]: type=Commander, id=Konrad
-#. [side]: type=Ancient Wose, id=Haralamdum
-#. [side]: type=Elvish Sylph, id=Bona-Melodia
-#. [side]: type=Grand Knight, id=Kaylan
 #. [side]: type=Fighter, id=Konrad
 #. [side]: type=Elvish Champion, id=Galdrad
 #. [side]: type=Elvish Shyde, id=Chantal
+#. [side]: type=Commander, id=Konrad
+#. [side]: type=Grand Knight, id=Kaylan
 #. [side]: id=Relgorn, type=Dwarvish Lord
 #. [side]: id=Geldar, type=Dwarvish Lord
 #. [side]
+#. [side]: type=Ancient Wose, id=Haralamdum
+#. [side]: type=Elvish Enchantress, id=Bona-Melodia
 msgid "Rebels"
 msgstr "反抗军"
 
@@ -128,26 +128,26 @@ msgstr "反抗军"
 msgid "Urug-Telfar"
 msgstr "乌鲁戈-特尔法"
 
-#. [side]: type=Orcish Warrior, id=Mokolo Qimur
-#. [side]: type=Orcish Warrior, id=Halgar Du'nar
-#. [side]: type=Orcish Warrior, id=Gorlak
 #. [side]: type=Orcish Warlord, id=Urug-Telfar
 #. [side]: type=Orcish Warlord, id=Knafa-Tan
 #. [side]: type=Orcish Warlord, id=Maga-Knafa
-#. [side]: type=Orcish Warlord, id=Kior-Dal
-#. [side]: type=Orcish Warlord, id=Kojun Herolm
-#. [side]: type=Orcish Warrior, id=Mokho Kimer
-#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
-#. [side]: type=Orcish Warlord, id=Urug-Tan
-#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
+#. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
+#. [side]: type=Orcish Warlord, id=Kojun Herolm
+#. [side]: type=Orcish Warrior, id=Mokho Kimer
 #. [side]: type=Orcish Warlord, id=Gaga-Breuk
-#. [side]: type=Orcish Warlord, id=Urag-Tifer
+#. [side]: type=Orcish Warrior, id=Halgar Du'nar
+#. [side]: type=Orcish Warrior, id=Gorlak
+#. [side]: type=Orcish Slurbow, id=Knafa-Telfar
+#. [side]: type=Orcish Warlord, id=Urug-Tan
+#. [side]: type=Orcish Sovereign, id=Shuuga-Mool
 #. [side]: type=Goblin Rouser
 #. [side]: type=Orcish Warlord
 #. [side]: type=Troll Warrior
+#. [side]: type=Orcish Warlord, id=Urag-Tifer
+#. [side]: type=Orcish Warlord, id=Kior-Dal
 msgid "Orcs"
 msgstr "兽人"
 
@@ -244,7 +244,7 @@ msgstr ""
 "不要把生命浪费在这里，香黛尔。必须有人去警告北方精灵，我们担忧多年的战争开始"
 "了。"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Konrad
 msgid "Very well, we have made it this far! But where do we go next?"
 msgstr "好险啊，我们总算是逃出来了！但接下去该去哪里？"
 
@@ -254,7 +254,7 @@ msgid ""
 "will find refuge there."
 msgstr "我们必须往北走，试着到达奥渡因岛。希望我们在那里可以找到避难所。"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Konrad
 msgid ""
 "Of course you are right, Delfador. But what will become of the elves here?"
 msgstr "您的看法当然是正确的，德法多。但这里的精灵们会怎么样？"
@@ -271,7 +271,7 @@ msgstr ""
 msgid "Good luck, Konrad! Don’t worry about us, we will fight as best we can!"
 msgstr "祝你好运，科纳德！不用为我们担心，我们会拼尽全力战斗的！"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Konrad
 msgid "I... I don’t think I can make it anymore."
 msgstr "我……我觉得我……做不到了。"
 
@@ -279,11 +279,11 @@ msgstr "我……我觉得我……做不到了。"
 msgid "Prince... you must keep fighting! Nooooooo!"
 msgstr "王子……你必须坚持战斗！不！！！"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Konrad
 msgid "It is over. I am doomed..."
 msgstr "一切都结束了。我完了……"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Delfador
 msgid "I have... have failed in my duty to protect the prince! I am defeated."
 msgstr "我……我没有履行好保护王子的义务！我败了。"
 
@@ -291,7 +291,7 @@ msgstr "我……我没有履行好保护王子的义务！我败了。"
 msgid "Don’t die, Delfador! Please, you have to stay alive!"
 msgstr "德法多！不要死！求您了，您必须活下去！"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Delfador
 msgid "Ugh!"
 msgstr "呃啊！"
 
@@ -304,7 +304,7 @@ msgstr "哦，不！我们没有时间了！敌人的增援来了……"
 msgid "Die, villain, die!"
 msgstr "死吧！恶贼！死吧！"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=Delfador
 msgid "Only the foolish oppose me!"
 msgstr "只有蠢货才会和我对抗！"
 
@@ -735,8 +735,8 @@ msgstr "珍珠湾"
 msgid "Defeat one enemy leader, and resist the other until turns run out"
 msgstr "击败一名敌方首领，并抵御另一名首领的攻击直到回合数耗尽"
 
-#. [objective]: condition=win
 #. [objectives]
+#. [objective]: condition=win
 msgid "Defeat all enemy leaders"
 msgstr "击败所有的敌方首领"
 
@@ -1115,19 +1115,19 @@ msgstr "击败玛夫·玛拉尔"
 msgid "Muff Malal"
 msgstr "玛夫·玛拉尔"
 
+#. [side]: type=Dark Sorcerer, id=Muff Malal
+#. [side]: id=Haf-Mal, type=Lich
+#. [side]: id=Jarmal-Gorg, type=Lich
+#. [side]: type=Lich, id=Galga
+#. [side]: type=Lich, id=Na-alga
+#. [side]: type=Lich, id=Selda-Mana
+#. [side]: type=Death Knight, id=Unan-Ka'tall
 #. [side]: type=Death Knight, id=Clarustus
 #. [side]: type=Death Knight, id=Merlunius
 #. [side]: type=Lich, id=Aimucasur
 #. [side]: type=Death Knight, id=Secadius
 #. [side]: type=Death Knight, id=Dafeis
 #. [side]: type=Ancient Lich, id=Muff Argulak
-#. [side]: type=Dark Sorcerer, id=Muff Malal
-#. [side]: type=Death Knight, id=Unan-Ka'tall
-#. [side]: type=Lich, id=Galga
-#. [side]: type=Lich, id=Na-alga
-#. [side]: type=Lich, id=Selda-Mana
-#. [side]: id=Haf-Mal, type=Lich
-#. [side]: id=Jarmal-Gorg, type=Lich
 msgid "Undead"
 msgstr "亡灵"
 
@@ -1298,8 +1298,8 @@ msgstr "这座神庙似乎是空的。"
 msgid "Looks like there is somebody hidden in the temple."
 msgstr "看上去似乎有什么人躲在神庙里。"
 
-#. [unit]: id=Moremirmu, type=Mage of Light
 #. [unit]: id=Moremirmu, type=White Mage
+#. [unit]: id=Moremirmu, type=Mage of Light
 msgid "Moremirmu"
 msgstr "莫密尔姆"
 
@@ -1335,11 +1335,11 @@ msgstr "夏凯"
 msgid "Surprise! Searching for magi, and all I get is these foul humans!"
 msgstr "奇怪！法师没找到，却找到了你们这些肮脏的人类！"
 
-#. [message]: speaker=unit
+#. [message]: speaker=Moremirmu
 msgid "Fight on against the undead without me, friends!"
 msgstr "朋友，我死之后，你们一定要继续和亡灵作战！"
 
-#. [message]: speaker=hidden_advisor
+#. [message]: role=Advisor
 msgid ""
 "Thank goodness we have found you, sir! Come aboard quickly, we shall take "
 "you away from this horrible island!"
@@ -1393,11 +1393,11 @@ msgstr "埃仁撒伐"
 msgid "Agadla"
 msgstr "阿伽德拉"
 
-#. [side]: type=Troll Warrior, id=Haaf-Garga
-#. [side]: id=Brugg, type=Troll Warrior
-#. [side]: id=Lionel, type=Death Knight
 #. [side]: type=Orcish Warlord, id=Agadla
 #. [side]: type=Dark Sorcerer, id=Muff Jaanal
+#. [side]: id=Brugg, type=Troll Warrior
+#. [side]: id=Lionel, type=Death Knight
+#. [side]: type=Troll Warrior, id=Haaf-Garga
 msgid "Evil"
 msgstr "邪恶势力"
 
@@ -1852,11 +1852,11 @@ msgid "Li’sar"
 msgstr "莉莎"
 
 #. [side]: type=Princess, id=Li'sar
+#. [side]: type=General, id=Robryn
 #. [side]: type=General, id=Honber
 #. [side]: type=General, id=Josephus
 #. [side]: type=Orcish Warlord, id=Dwar-Ni
 #. [side]: type=General, id=Malatus
-#. [side]: type=General, id=Robryn
 #. [side]: type=Orcish Warlord, id=Haliel-Maga
 #. [side]: type=General, id=Heford
 #. [side]: type=Cavalier, id=Sir Kalm
@@ -2302,11 +2302,12 @@ msgid "Monsters"
 msgstr "怪兽"
 
 #. [message]: speaker=Delfador
+#, fuzzy
 msgid ""
 "This is the Ford of Abez. When we ford this river, we will be leaving "
 "Wesnoth, and entering the lands of the North. The dwarves once ruled these "
 "lands, but they are now filled only with chaos. This is where your father "
-"and uncle were betrayed, almost seventeen years ago now, Konrad."
+"and uncle were betrayed, almost twenty-one years ago now, Konrad."
 msgstr ""
 "这儿就是雅碧滩。一但涉水过河，我们就会离开韦诺，而进入北方大陆。矮人曾经统治"
 "着那里，但如今却只剩下一片混乱。这儿就是你的父亲和叔叔遭到背叛的地方，那已经"
@@ -3736,6 +3737,11 @@ msgstr "我不相信居然会这样结束！"
 
 #. [scenario]: id=17_Sceptre_of_Fire
 msgid "The Sceptre of Fire"
+msgstr "圣火权杖"
+
+#. [generator]: id=cavegen
+#, fuzzy
+msgid "Sceptre of Fire Caves"
 msgstr "圣火权杖"
 
 #. [part]
@@ -5427,7 +5433,7 @@ msgstr "玛夫·阿古拉克"
 msgid "Haralamdum"
 msgstr "哈拉兰杜姆"
 
-#. [side]: type=Elvish Sylph, id=Bona-Melodia
+#. [side]: type=Elvish Enchantress, id=Bona-Melodia
 msgid "Bona-Melodia"
 msgstr "波娜-梅洛蒂娅"
 
@@ -5795,8 +5801,9 @@ msgstr ""
 "尤其是在人类之中。"
 
 #. [message]: speaker=Parandra
+#, fuzzy
 msgid ""
-"How quickly does the race of men mature! Only seventeen winters have passed "
+"How quickly does the race of men mature! Only twenty-one winters have passed "
 "since I last laid eyes on you, Konrad, yet you are now a grown man. A proven "
 "warrior stands before me!"
 msgstr ""
@@ -5818,8 +5825,9 @@ msgid "I had no idea! Thank you, my lady. It is a pleasure to meet you again."
 msgstr "我竟然不知道！谢谢您，女士。能再次见到您，我很高兴。"
 
 #. [message]: speaker=Li'sar
+#, fuzzy
 msgid ""
-"Rescued him from my mother? But seventeen years ago Konrad would have been "
+"Rescued him from my mother? But twenty-one years ago Konrad would have been "
 "an infant! What is this you are talking about?"
 msgstr ""
 "把他从我母后手中救下来？但十七年前科纳德也不过只是一个婴儿啊！你们究竟在说什"
@@ -6266,23 +6274,23 @@ msgstr "击败所有敌方首领"
 msgid "Plainsmen"
 msgstr "平原居民"
 
-#. [then]
 #. [side]: type=Grand Knight, id=Sir Alric
+#. [then]
 msgid "Sir Alric"
 msgstr "埃里克爵士"
 
-#. [then]
 #. [side]: type=Grand Knight, id=Sir Ruga
+#. [then]
 msgid "Sir Ruga"
 msgstr "鲁加爵士"
 
-#. [then]
 #. [side]: type=Grand Knight, id=Sir Daryn
+#. [then]
 msgid "Sir Daryn"
 msgstr "达林爵士"
 
-#. [then]
 #. [side]: type=Grand Knight, id=Bayar
+#. [then]
 msgid "Lord Bayar"
 msgstr "巴亚尔领主"
 
@@ -6505,8 +6513,9 @@ msgstr ""
 "在这儿可以鸟瞰维尔帝城，伟大之城，古老之城，邪恶之城，良善之城，人类之城。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"I have not looked upon this city for seventeen years. Seventeen years ago, "
+"I have not looked upon this city for twenty-one years. Twenty-one years ago, "
 "when I should have been at the height of my power. But my strength failed "
 "me. I failed, and I cannot atone for it."
 msgstr ""
@@ -6854,12 +6863,15 @@ msgstr ""
 "学会了战术。这让她成为了一位伟大的战士和领袖。现在，她历经无数战斗，磨练出了"
 "坚强的意志，可以在作战中协助她身边的战友。"
 
+#. [variation]: race=human
+#. [variation]
+#, fuzzy
+msgid "with sceptre"
+msgstr "权杖"
+
 #. [attack]: type=fire
 msgid "sceptre of fire"
 msgstr "圣火权杖"
-
-msgid "Commander"
-msgstr "指挥官"
 
 #. [variation]
 #. [unit_type]: id=Commander
@@ -6896,6 +6908,10 @@ msgid "raging blizzard"
 msgstr "狂怒暴雪"
 
 #. [variation]
+msgid "defeated"
+msgstr ""
+
+#. [variation]
 #. [unit_type]: id=Fighter
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
@@ -6908,9 +6924,6 @@ msgstr ""
 #. [unit_type]: id=Injured Sergeant
 msgid "Injured Sergeant"
 msgstr "负伤军士"
-
-msgid "Lord"
-msgstr "领主"
 
 #. [variation]
 #. [unit_type]: id=Lord
@@ -6964,19 +6977,20 @@ msgstr "沉睡狮鹫"
 msgid "Shhhh! The Gryphon is sleeping! You’d better not wake it up!"
 msgstr "嘘！这只狮鹫睡着了！您最好还是不要吵醒它！"
 
-#. [dummy]: id=initiative
+#. [firststrike]: id=initiative
 msgid "initiative"
 msgstr "主导"
 
-#. [dummy]: id=initiative
+#. [firststrike]: id=initiative
 msgid ""
 "All adjacent friendly units will strike first in melee combat, even when "
 "defending."
 msgstr "所有相邻的友方单位都能够在近战中抢先攻击，甚至在防守时也是如此。"
 
+#. [firststrike]: id=initiative
 #, fuzzy
 msgid ""
-" This unit’s grasp of melee tactics allows adjacent allies to strike the "
+"This unit’s grasp of melee tactics allows adjacent allies to strike the "
 "first blow even when defending."
 msgstr " 该单位对近战战术的理解使得相邻友军即使在防守时也能抢先出手。"
 

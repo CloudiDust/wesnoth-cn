@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # MrKing <yideey@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:38+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -28,12 +28,12 @@ msgid "DW"
 msgstr "DW"
 
 #. [campaign]: id=Dead_Water
-msgid "Beginner"
-msgstr "初心者"
-
-#. [campaign]: id=Dead_Water
 msgid "Citizen"
 msgstr "居民"
+
+#. [campaign]: id=Dead_Water
+msgid "Easy"
+msgstr ""
 
 #. [campaign]: id=Dead_Water
 msgid "Fighter"
@@ -91,7 +91,7 @@ msgstr "剧本修改与主线集成"
 msgid "Artwork"
 msgstr "美工"
 
-#. [lua]: wesnoth.theme_items.unit_status
+#. [lua]: wesnoth.interface.game_display.unit_status
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
 msgstr "眩晕：此单位眩晕了。它无法维持自己的控制区域。"
 
@@ -100,15 +100,16 @@ msgid "Invasion!"
 msgstr "入侵！"
 
 #. [part]
+#, fuzzy
 msgid ""
-"In the Far North, where the Mountains of Dorth approach the coast, lies a "
-"bay with a narrow mouth. In the calm waters of this bay lies the merfolk "
-"city of Jotha. The natural harbor and the prosperity of the dwellers within "
-"drew many envious eyes, but none could match the prowess of the merfolk in "
-"their aquatic domain. In most years, orcs from the port city of Tirigaz, "
-"further north, would raid against Jotha as predictably as the spring rains; "
-"always, they were driven back to dry land with heavy losses, the salt water "
-"of the bay stinging their wounds."
+"In the Far North, where the foothills of the Heart Mountains approach the "
+"coast, lies a bay with a narrow mouth. In the calm waters of this bay lies "
+"the merfolk city of Jotha. The natural harbor and the prosperity of the "
+"dwellers within drew many envious eyes, but none could match the prowess of "
+"the merfolk in their aquatic domain. In most years, orcs from the port city "
+"of Tirigaz, further north, would raid against Jotha as predictably as the "
+"spring rains; always, they were driven back to dry land with heavy losses, "
+"the salt water of the bay stinging their wounds."
 msgstr ""
 "在遥远的西方，多斯山脉与海岸相接之处，有一个窄口的海湾。海湾里的水平静地拥抱"
 "着人鱼城市，礁沙城。这天然的港湾和居民们的富足让很多人眼红，但没有人能在人鱼"
@@ -185,8 +186,8 @@ msgstr ""
 msgid "Undead Forces"
 msgstr "亡灵军团"
 
-#. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Dark Sorcerer, id=Mal-Kevek
+#. [side]: type=Lich, id=Mal-Kevek
 msgid "Mal-Kevek"
 msgstr "玛尔-柯沃克"
 
@@ -799,6 +800,10 @@ msgstr "蜥蜴奴隶"
 msgid "Gilak"
 msgstr "吉拉克"
 
+#. [unit]: type=Saurian Skirmisher
+msgid "Guardian"
+msgstr ""
+
 #. [side]: id=Raxisz, type=Saurian Ambusher, type=Saurian Ambusher, type=Saurian Flanker, type=Saurian Flanker
 msgid "Raxisz"
 msgstr "莱克西斯"
@@ -1279,9 +1284,9 @@ msgid "Beloved Pet"
 msgstr "受宠的宠物"
 
 #. [message]: speaker=Kai Krellis
+#, fuzzy
 msgid ""
-"Uh oh. There is someone else here. Hey! He is being attacked by a cuttle "
-"fish!"
+"Uh oh. There is someone else here. Hey! He is being attacked by a cuttlefish!"
 msgstr "啊哦。这里还有其他人。嘿！一条大乌贼正在袭击他！"
 
 #. [message]: speaker=Growloff
@@ -1305,9 +1310,10 @@ msgid "Brace yourselves."
 msgstr "全体警戒。"
 
 #. [message]: speaker=Kai Krellis
+#, fuzzy
 msgid ""
-"Oh no! Look what he has frisking at his heels now. And I thought the cuttle "
-"fish was bad!"
+"Oh no! Look what he has frisking at his heels now. And I thought the "
+"cuttlefish was bad!"
 msgstr ""
 "噢不！看看他脚边活蹦乱跳的都是些什么东西。我还以为那大乌贼已经够糟糕了！"
 
@@ -1324,10 +1330,11 @@ msgid "But you attacked us with these monsters."
 msgstr "但你让这些怪物袭击了我们。"
 
 #. [message]: speaker=Growloff
+#, fuzzy
 msgid ""
 "They are my friends. I’ve been so lonely here...and you killed so many of my "
 "friends. They could be your friends too. Spare me, and I’ll give you my "
-"favorite cuttle fish. His name is Inky."
+"favorite cuttlefish. His name is Inky."
 msgstr ""
 "它们是我的朋友。我在这儿太寂寞了……而你们杀掉了我这么多朋友。它们本来也可以成"
 "为你们的朋友的。放了我，我就把我最喜欢的乌贼送给你们。它叫墨墨。"
@@ -1349,8 +1356,9 @@ msgid "Maybe we could use a pet sea monster."
 msgstr "说不定我们确实可以用上一只宠物海怪。"
 
 #. [message]: speaker=Kai Krellis
+#, fuzzy
 msgid ""
-"Very well. I will take the cuttle fish. But do not trouble us again, or I "
+"Very well. I will take the cuttlefish. But do not trouble us again, or I "
 "shall kill you and all the rest of your pets."
 msgstr ""
 "那好吧，乌贼我收下了。但你别再来找麻烦，否则我就杀了你，还有你剩下的所有宠"
@@ -1583,8 +1591,9 @@ msgid "Well, I defeated the Drakes on your island."
 msgstr "好吧。我打败了您的小岛上的龙人。"
 
 #. [message]: speaker=Tyegea
+#, fuzzy
 msgid ""
-"Bah! Drakes only look dangerous. Soldiers carrying spears make short work of "
+"Drakes only look dangerous. Soldiers carrying spears make short work of "
 "them. No, I have something else in mind. You will complete a task for the "
 "good of the merfolk. Listen."
 msgstr ""
@@ -2223,11 +2232,11 @@ msgstr ""
 "们于夜间抵达了礁沙城外，他们发现港口有重兵把守，于是他们沿岸向南，到几座偏僻"
 "的村庄里打探侵略者的消息。"
 
-#. [set_variable]
+#. [modify_unit]
 msgid "Mal-Necross"
 msgstr "玛尔-那克罗斯"
 
-#. [set_variable]
+#. [modify_unit]
 msgid "Mal-Verloth"
 msgstr "玛尔-弗洛斯"
 
@@ -2600,10 +2609,11 @@ msgid "Young King"
 msgstr "年轻之王"
 
 #. [unit_type]: id=Merman Young King, race=merman
+#, fuzzy
 msgid ""
 "A young king with some battle experience will be treated with some respect. "
 "Common citizens will be inspired to do their utmost when the king is nearby, "
-"but battle-hardened veterens will be less impressed."
+"but battle-hardened veterans will be less impressed."
 msgstr ""
 "有一些战斗经验的年轻国王会赢得一些尊敬。当国王在附近时，普通平民会受到极大的"
 "鼓舞而全力作战，但是久经沙场的老兵们则不会多以为然。"
@@ -2707,10 +2717,6 @@ msgid ""
 msgstr ""
 "人类巫师戴着一个指环！也许上面附着了魔法。谁来试着戴戴，看看它有什么效果。"
 
-msgid ""
-" This unit is able to stun its enemies, disrupting their zones of control."
-msgstr " 此单位能够击晕它的敌人，从而扰乱他们的控制区域。"
-
 #. [damage]: id=tail_stun
 msgid "stun"
 msgstr "击晕"
@@ -2722,3 +2728,9 @@ msgid ""
 msgstr ""
 "此攻击很重，以至于对手会被打得眩晕，因此无法维持控制区域。眩晕效果将在对手的"
 "下个回合消除。"
+
+#. [damage]: id=tail_stun
+#, fuzzy
+msgid ""
+"This unit is able to stun its enemies, disrupting their zones of control."
+msgstr " 此单位能够击晕它的敌人，从而扰乱他们的控制区域。"

@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 16:35-0300\n"
+"POT-Creation-Date: 2021-11-09 03:44+0300\n"
 "PO-Revision-Date: 2020-08-10 20:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -52,6 +52,12 @@ msgstr ""
 "中毒的单位不能由疗伤者疗毒，只能进入村庄疗毒，或者由拥有疗毒能力的单位疗毒。"
 
 #. [heals]: id=healing
+#. [heals]
+#, fuzzy
+msgid "This unit is capable of basic healing and slowing dehydration."
+msgstr " 此单位能够简单疗伤。"
+
+#. [heals]: id=healing
 msgid "heals +8"
 msgstr "疗伤+8"
 
@@ -74,6 +80,190 @@ msgstr ""
 "\n"
 "此疗伤者所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
 "中毒的单位不能由疗伤者疗毒，只能进入村庄疗毒，或者由拥有疗毒能力的单位疗毒。"
+
+#. [heals]: id=healing
+#, fuzzy
+msgid "heals +12"
+msgstr "疗伤+4"
+
+#. [heals]: id=healing
+#, fuzzy
+msgid "female^heals +12"
+msgstr "疗伤+4"
+
+#. [heals]: id=healing
+#, fuzzy
+msgid ""
+"This unit combines herbal remedies with magic to heal units more quickly "
+"than is normally possible on the battlefield.\n"
+"\n"
+"A unit cared for by this healer may heal up to 12 HP per turn, or stop "
+"poison from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+"此单位将魔法与草药混合使用以在战场上对单位进行疗伤，比通常可能的速度快得"
+"多。\n"
+"\n"
+"此疗伤者所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
+"中毒的单位不能由疗伤者疗毒，只能进入村庄疗毒，或者由拥有疗毒能力的单位疗毒。"
+
+#. [heals]
+#, fuzzy
+msgid ""
+"This unit is capable of healing those around it, slowing dehydration, and "
+"curing them of poison."
+msgstr " 此单位能够对周围的单位进行疗伤，并解除中毒状态。"
+
+#. [trait]: id=healthy
+msgid "Always rest heals"
+msgstr "总是能获得休息疗伤效果"
+
+#. [hides]: id=ambush
+msgid "ambush"
+msgstr "伏击"
+
+#. [damage]: id=backstab
+msgid "backstab"
+msgstr "背刺"
+
+msgid "Castle"
+msgstr ""
+
+msgid "Cave"
+msgstr ""
+
+#. [damage]: id=charge
+msgid "charge"
+msgstr "冲锋"
+
+#. [hides]: id=concealment
+msgid "concealment"
+msgstr "隐蔽"
+
+#. [heals]: id=curing
+msgid "cures"
+msgstr "疗毒"
+
+msgid "Defense"
+msgstr ""
+
+#. [drains]: id=drains
+msgid "drains"
+msgstr "吸血"
+
+#. [trait]: id=fearless
+msgid "fearless"
+msgstr "无惧"
+
+#. [dummy]: id=feeding
+msgid "feeding"
+msgstr "食尸"
+
+#. [dummy]: id=feeding
+msgid ""
+"This unit gains 1 hitpoint added to its maximum whenever it kills a unit, "
+"except units that are immune to plague."
+msgstr ""
+"此单位每杀死一个单位就会获得1点额外的最大生命值，除非被杀死的单位免疫瘟疫。"
+
+msgid "+1 max HP"
+msgstr "+1最大生命值"
+
+#, fuzzy
+msgid "firststrike"
+msgstr "先制"
+
+msgid "Flat"
+msgstr ""
+
+msgid "Forest"
+msgstr ""
+
+msgid "Frozen"
+msgstr ""
+
+#. [trait]: id=healthy
+msgid "healthy"
+msgstr "康健"
+
+msgid "Hills"
+msgstr ""
+
+#. [illuminates]: id=illumination
+msgid "illuminates"
+msgstr "照明"
+
+#. [leadership]: id=leadership
+msgid "leadership"
+msgstr "领导"
+
+#. [chance_to_hit]: id=magical
+msgid "magical"
+msgstr "魔法"
+
+#. [chance_to_hit]: id=marksman
+msgid "marksman"
+msgstr "精准"
+
+msgid "Mushroom Grove"
+msgstr ""
+
+#. [hides]: id=nightstalk
+msgid "nightstalk"
+msgstr "夜遁"
+
+#. [plague]: id=plague({TYPE}), type={TYPE}
+#. [plague]: id=plague, type=Walking Corpse
+msgid "plague"
+msgstr "瘟疫"
+
+#. [poison]: id=poison
+msgid "poison"
+msgstr "毒素"
+
+#. [regenerate]: id=regenerates
+msgid "regenerates"
+msgstr "再生"
+
+msgid "Resistances"
+msgstr ""
+
+msgid "Sand"
+msgstr ""
+
+#. [skirmisher]: id=skirmisher
+msgid "skirmisher"
+msgstr "散兵"
+
+#. [slow]: id=slow
+msgid "slows"
+msgstr "减速"
+
+#. [resistance]: id=steadfast
+msgid "steadfast"
+msgstr "坚定"
+
+msgid "Strikes"
+msgstr ""
+
+#. [hides]: id=submerge
+msgid "submerge"
+msgstr "潜水"
+
+msgid "Swamp"
+msgstr ""
+
+#. [teleport]: id=teleport
+msgid "teleport"
+msgstr "传送"
+
+#. [trait]: id=undead
+msgid "undead"
+msgstr "亡灵"
+
+msgid "Village"
+msgstr ""
 
 #. [section]: id=editor
 msgid "Map and Scenario Editor"
@@ -403,11 +593,7 @@ msgid ""
 "<ref>dst='editor_tool_unit' text='units'</ref> in addition to the leader, "
 "and assigning <ref>dst='editor_tool_village' text='village ownership'</ref> "
 "at the start of the scenario. There’s also a <ref>dst='editor_playlist' "
-"text='playlist manager'</ref> for the music.\n"
-"\n"
-"<bold>text='Warning: the Scenario Mode is buggy in 1.14.'</bold> Improving "
-"it is one of the main blockers for the 1.16 release, however in 1.14 its "
-"quality is far below that of the game and the terrain mode."
+"text='playlist manager'</ref> for the music."
 msgstr ""
 
 #. [topic]: id=..editor
@@ -705,13 +891,13 @@ msgid ""
 "to know which WML is part of each scenario."
 msgstr ""
 
-#. [time]: id=deep_underground
 #. [editor_times]: id=deep_underground
+#. [time]: id=deep_underground
 msgid "Deep Underground"
 msgstr "深层地下"
 
-#. [time]: id=indoors
 #. [editor_times]: id=indoors
+#. [time]: id=indoors
 msgid "Indoors"
 msgstr "室内"
 
@@ -721,8 +907,36 @@ msgid "Encyclopedia"
 msgstr "韦诺大百科"
 
 #. [topic]: id=..encyclopedia
-msgid "<ref>dst='..geography' text='Geography'</ref>"
+#, fuzzy
+msgid ""
+"<ref>dst='..calendar' text='Calendar'</ref>\n"
+"<ref>dst='..geography' text='Geography'</ref>"
 msgstr "<ref>dst='..geography' text='地理'</ref>"
+
+#. [section]: id=calendar
+#. [topic]: id=..calendar
+msgid "Calendar"
+msgstr ""
+
+#. [topic]: id=..calendar
+msgid ""
+"Each year in the Wesnoth calendar is composed of 12 months. These are, in "
+"order:\n"
+"\n"
+"Whitefire\n"
+"Bleeding Moon\n"
+"Scatterseed\n"
+"Deeproot\n"
+"Scryer’s Bloom\n"
+"Thorntress\n"
+"Summit Star\n"
+"Kindlefire\n"
+"Stillseed\n"
+"Reaper’s Moon\n"
+"Verglas Bloom\n"
+"Blackfire\n"
+"\n"
+msgstr ""
 
 #. [section]: id=geography
 #. [topic]: id=..geography
@@ -841,6 +1055,7 @@ msgid "Kingdom of Wesnoth"
 msgstr "韦诺王国"
 
 #. [topic]: id=kingdom_wesnoth
+#, fuzzy
 msgid ""
 "The Kingdom of Wesnoth is located in the north-central portion of the "
 "<ref>dst='great_continent' text='Great Continent'</ref>. Most of the "
@@ -890,7 +1105,7 @@ msgid ""
 "tenuous at best and banditry is common.\n"
 "    • Glyn’s Forest: Sometimes known as the Royal Forest, named for one of "
 "Haldric II’s sons.\n"
-"    • Gray Woods: Large forest in the heart of the wilds of Wesnoth, located "
+"    • Grey Woods: Large forest in the heart of the wilds of Wesnoth, located "
 "between Carcyn and Aldril and generally considered to be haunted."
 msgstr ""
 "韦诺王国位于<ref>dst='great_continent' text='泰陆'</ref>的中北部。绝大部分主"
@@ -1174,6 +1389,7 @@ msgstr "入门介绍"
 msgid "Gameplay"
 msgstr "游戏玩法"
 
+#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 msgid "Traits"
@@ -1858,14 +2074,46 @@ msgstr ""
 "下一个随机事件发生，或者使用<bold>text='立即刷新黑幕'</bold>进行手动刷新，或"
 "者你的回合结束为止。如此一来，你就可以保留撤销移动的能力了。"
 
+#. [topic]: id=shroud_and_fog
+#, fuzzy
+msgid "<header>text='Multiplayer and undo'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='多人游戏时代与阵营'</header>"
+
+#. [topic]: id=shroud_and_fog
+msgid ""
+"In multiplayer games, moves that have been sent to the network can’t be "
+"undone; the game delays sending data to try to preserve your undo ability. "
+"When discussing with teammates, remember that the other players are usually "
+"looking at a snapshot from the time of the last combat or fog-revealing "
+"move. Chat messages and map labels are sent immediately, however they don’t "
+"cause the undoable moves to be sent."
+msgstr ""
+
 #. [topic]: id=saveload
 msgid "Save-loading"
 msgstr "保存和加载"
 
 #. [topic]: id=saveload
+#, fuzzy
 msgid ""
-"\n"
-"\n"
+"Random numbers are part of Wesnoth, attacks can fail and units can die due "
+"to bad luck — this is an expected part of the game. Going back to a previous "
+"turn to try a different strategy is a part of learning the game, but we "
+"recommend against reloading merely to try the same strategy again while "
+"hoping for better luck."
+msgstr ""
+"随机数是韦诺的一部分，攻击可能会失败，单位可能会因运气不佳而死亡。这是游戏中"
+"可以预见的内容。游戏的设计目标之一，是一位足够熟练的玩家应该能够在困难难度"
+"下，完成所有主线战役，而无需存取游戏存档。回到上一个回合并尝试不同的策略，是"
+"本游戏的学习过程的一部分。但我们建议，读取存档后不要只是重复相同的策略并期望"
+"这一回的运气能好一点儿。"
+
+#. [topic]: id=saveload
+#, fuzzy
+msgid ""
 "One of the challenges of the game is to work out how to protect your heroes. "
 "Small risks quickly build up: if you have five important units, and they "
 "each have just a 1% chance of death each turn, you can "
@@ -1881,59 +2129,26 @@ msgstr ""
 
 #. [topic]: id=saveload
 msgid ""
-"Random numbers are part of Wesnoth, attacks can fail and units can die due "
-"to bad luck. This is an expected part of the game, and one of the aims of "
-"the game is that a sufficiently skilled player should be able to complete "
-"all of the mainline campaigns, on hard, without needing to save-load. Going "
-"back to a previous turn to try a different strategy is a part of learning "
-"the game, but we recommend against reloading merely to try the same strategy "
-"again while hoping for better luck."
+"Small risks build up for your non-hero units too. While the story and "
+"dialogue usually aim to give you some emotional bond with your troops, the "
+"game mechanics reward remembering that it’s just a game — there is rarely "
+"any penalty for letting these units die, other than being unable to recall "
+"them in future scenarios. Your battle plan should distribute the risks based "
+"on which troops you want to recall later."
 msgstr ""
-"随机数是韦诺的一部分，攻击可能会失败，单位可能会因运气不佳而死亡。这是游戏中"
-"可以预见的内容。游戏的设计目标之一，是一位足够熟练的玩家应该能够在困难难度"
-"下，完成所有主线战役，而无需存取游戏存档。回到上一个回合并尝试不同的策略，是"
-"本游戏的学习过程的一部分。但我们建议，读取存档后不要只是重复相同的策略并期望"
-"这一回的运气能好一点儿。"
 
 #. [topic]: id=saveload
 msgid ""
-"\n"
-"\n"
-"The following points are under discussion on the forums. At least for the "
-"1.15.x series before 1.16.0 please assume that the forum threads are more "
-"authoritative than the text on this page."
+"The difficulty levels are balanced assuming that the player won’t save-load. "
+"In the mainline campaigns, harder difficulties generally have more enemies "
+"and thus more experience points available; this leads to them being balanced "
+"assuming that the player will be able to train enough troops to cope with "
+"losing some level two or level three units."
 msgstr ""
-"\n"
-"\n"
-"论坛上正在讨论以下几点内容。至少对于1.16.0发布之前的1.15.x系列，请假定论坛上"
-"的讨论串比本页上的文本更具有权威性。"
 
 #. [topic]: id=saveload
+#, fuzzy
 msgid ""
-"\n"
-"\n"
-"In the mainline campaigns, on hard:\n"
-"• A sufficiently skilled player will have a good chance to win each scenario "
-"on the first time that they see that scenario, without foreknowledge of what "
-"will happen.\n"
-"• This assumes that the player picks up all of the clues given in the "
-"dialogue.\n"
-"• There are more experience points available than on easy, and the player "
-"will be able to train enough troops to cope with losing some L2 or L3 units."
-msgstr ""
-"\n"
-"\n"
-"在主线战役中，困难难度下：\n"
-"• 一个足够熟练的玩家将有很大的概率初见即赢下每一个场景，而无需事先知道会发生"
-"什么。\n"
-"• 其中，假定玩家会注意到对话中给出的所有线索。\n"
-"• 相比简单难度有更多的经验点数可用， 玩家将能够训练足够多的部队，就算失去一些"
-"二级或三级单位也能够应对。"
-
-#. [topic]: id=saveload
-msgid ""
-"\n"
-"\n"
 "That said, it’s a game; the best way to play it is whichever way gives you "
 "the most enjoyment."
 msgstr ""
@@ -2022,19 +2237,20 @@ msgstr ""
 "他的建议，他可能会救你一命。"
 
 #. [topic]: id=whylost
+#, fuzzy
 msgid ""
 "\n"
 "\n"
-"• Barely scraping a victory in a previous scenario. At all but the easiest "
-"difficulties, campaigns assume that you will have some "
-"<italic>text='carryover gold'</italic> and some advanced units on your "
-"<italic>text='recall list.'</italic> (These concepts are explained in the "
-"tutorial.) If you win a scenario but lose most of your advanced units and "
-"much of your gold, the following scenario may be very difficult to beat, "
-"even for a more experienced player. If you find yourself in this situation, "
-"you may try to go back a scenario or two and win them more convincingly, or "
-"change to an easier difficulty. (However, remember that <italic>text='some'</"
-"italic> losses are expected, particularly at higher difficulties.)"
+"• Barely scraping a victory in a previous scenario. Campaigns generally "
+"assume that you will have some <italic>text='carryover gold'</italic> and "
+"some experienced units on your <italic>text='recall list.'</italic> (These "
+"concepts are explained in the tutorial.) If you win a scenario but lose most "
+"of your experienced units and much of your gold, the following scenario may "
+"be very difficult to beat, even for a more experienced player. If you find "
+"yourself in this situation, you may try to go back a scenario or two and win "
+"them more convincingly, or change to an easier difficulty. (However, "
+"remember that <italic>text='some'</italic> losses are expected, particularly "
+"at higher difficulties.)"
 msgstr ""
 "\n"
 "\n"
@@ -2384,43 +2600,111 @@ msgstr ""
 "是如此。"
 
 #. [topic]: id=orbs
-msgid "Orbs"
-msgstr "行动状态球"
-
-#. [topic]: id=orbs
-msgid ""
-"On top of the energy bar shown next to each unit of yours is an orb. For "
-"units you control, this orb is:"
+msgid "Orbs and ellipses"
 msgstr ""
-"在你的每一个单位的能量条上方是一个行动状态球。对于你所控制的单位，行动状态球"
-"有以下状态："
-
-#. [topic]: id=orbs
-msgid " green if it hasn’t moved this turn,"
-msgstr " 绿色：表明此单位本回合还没有移动过，"
-
-#. [topic]: id=orbs
-msgid " yellow if it has moved, but could still move further or attack, or"
-msgstr " 黄色：表明此单位移动过，但还可以继续移动或攻击，或者"
 
 #. [topic]: id=orbs
 msgid ""
-" red if it can no longer move or attack, or the user ended the unit’s turn."
-msgstr " 黑色：表明此单位不能继续移动或攻击，或玩家结束了其回合。"
+"There are colored indicators above the energy bars of some units, consisting "
+"of a colored orb (and sometimes a <ref>dst='crowns' text='crown'</ref>)."
+msgstr ""
 
 #. [topic]: id=orbs
-msgid " blue if the unit is an ally you do not control."
-msgstr " 蓝色：表明此单位是你所不能控制的友军。"
+#. The help page has a set of images above this paragraph, in the same order as the bullet points
+msgid ""
+"The orbs show whether the unit can move or attack. The statuses and their "
+"standard colors are:\n"
+"• <bold>text='Green'</bold> if it has neither moved nor attacked this turn.\n"
+"• <bold>text='Yellow'</bold> if it has moved (or attacked), and can still "
+"attack. It might still be able to move further too.\n"
+"• <bold>text='Red'</bold> if it can neither move further nor attack again "
+"this turn.\n"
+"    • Red is also used after the ‘end unit turn’ command, and,\n"
+"    • when a unit is in the middle of a multi-turn move (has been told to "
+"move further than it can in the current turn).\n"
+"• <bold>text='Red and yellow'</bold> if it has moved (or attacked), can "
+"still move further, but it can no longer attack.\n"
+"    • This can happen due to campaign-specific events or abilities, for "
+"example the <italic>text='disengage'</italic> ability in the campaign "
+"<italic>text='Under the Burning Suns'</italic>.\n"
+"• <bold>text='Blue'</bold> for allied units, except during that ally’s own "
+"turn.\n"
+"    • During the ally’s own turn, their units will be shown with the green/"
+"yellow/red/white colors; however their moves, and the corresponding orb "
+"changes, are delayed as explained in <ref>dst='shroud_and_fog' text='Shroud "
+"and Fog of War'</ref>.\n"
+"• Enemy units normally don’t have orbs, however these can be enabled in the "
+"advanced preference “Customize orb colors”."
+msgstr ""
 
 #. [topic]: id=orbs
-msgid " Enemy units have no orb on top of their energy bar."
-msgstr " 敌方单位的能量条上方没有行动状态球。"
+#, fuzzy
+msgid "<header>text='Ellipses'</header>"
+msgstr ""
+"\n"
+"\n"
+"<header>text='核心'</header>"
+
+#. [topic]: id=orbs
+msgid ""
+"A team-colored shape is drawn on the ground under each unit. This is called "
+"the “ellipse”, although some units’ ellipses are not elliptical."
+msgstr ""
+
+#. [topic]: id=orbs
+#. The help page has a set of images above this paragraph, in the same order as the bullet points
+msgid ""
+"• Most units have a circular ellipse.\n"
+"• Units that can recruit have a seven-pointed star.\n"
+"• <ref>dst='crowns' text='Hero units'</ref> have a smaller variant of the "
+"seven-pointed star, these units can’t recruit.\n"
+"• Units without a <ref>dst='movement' text='zone of control'</ref> have a "
+"broken outline version of the shape.\n"
+"• Some campaigns start with a level zero leader. Able to recruit but lacking "
+"a ZoC, these units have a broken outline version of the seven-pointed star."
+msgstr ""
+
+#. [topic]: id=crowns
+msgid "Crowns and loyal markers"
+msgstr ""
+
+#. [topic]: id=crowns
+msgid ""
+"Some units have an additional marker superimposed on their <ref>dst='orbs' "
+"text='orb'</ref>, and a corresponding shape to their <ref>dst='orbs' "
+"text='ellipses'</ref>:"
+msgstr ""
+
+#. [topic]: id=crowns
+#. The help page has a set of images above this paragraph, in the same order as the first set of bullet points, showing what the "loyal icon" is and the difference between "silver" and "blueish-silver".
+msgid ""
+"• Leaders are shown with a <bold>text='gold crown'</bold>.\n"
+"• Heroes have a <bold>text='blueish-silver crown'</bold>.\n"
+"• Expendable leaders are shown with a <bold>text='silver crown'</bold>.\n"
+"• <ref>dst='traits_loyal' text='Loyal units'</ref> have the "
+"<bold>text='loyal icon'</bold>.\n"
+"\n"
+"Of these categories, only leaders are built into the basic game rules. The "
+"others are found in campaigns, and are characters that form part of the "
+"narration. The exact rules for them are set by their campaign, which might "
+"deviate from these standard expectations about them:\n"
+"\n"
+"• The death of any hero leads to immediate defeat.\n"
+"• The death of an expendable leader doesn’t lead to immediate defeat, even "
+"though they can recruit.\n"
+"• All of these units have the main advantage of the loyal trait, that they "
+"cost no upkeep.\n"
+"• Losing any of these units causes a disadvantage for the remainder of the "
+"campaign, assuming it doesn’t end immediately.\n"
+"• These units will never occur as random recruits."
+msgstr ""
 
 #. [topic]: id=time_of_day
 msgid "Time of Day"
 msgstr "时段"
 
 #. [topic]: id=time_of_day
+#, fuzzy
 msgid ""
 "The time of day affects the damage of certain units as follows:\n"
 "\n"
@@ -2429,8 +2713,7 @@ msgid ""
 "• <bold>text='Chaotic'</bold> units get +25% damage at night, and −25% in "
 "daytime.\n"
 "• <bold>text='Neutral'</bold> units are unaffected by the time of day.\n"
-"• <bold>text='Liminal'</bold> units get −25% damage during both night and "
-"daytime."
+"• <bold>text='Liminal'</bold> units get +25% damage during twilight."
 msgstr ""
 "时段对某些单位的伤害输出有影响，如下：\n"
 "\n"
@@ -2454,35 +2737,35 @@ msgstr ""
 "间，而前半夜和后半夜则算作夜间：\n"
 "\n"
 
-#. [time]: id=dawn
 #. [topic]: id=time_of_day
+#. [time]: id=dawn
 #. [time]: id=dawn_hour
 msgid "Dawn"
 msgstr "黎明"
 
-#. [time]: id=morning
 #. [topic]: id=time_of_day
+#. [time]: id=morning
 msgid "Morning"
 msgstr "上午"
 
-#. [time]: id=afternoon
 #. [topic]: id=time_of_day
+#. [time]: id=afternoon
 msgid "Afternoon"
 msgstr "下午"
 
-#. [time]: id=dusk
 #. [topic]: id=time_of_day
+#. [time]: id=dusk
 #. [time]: id=dusk_hour
 msgid "Dusk"
 msgstr "黄昏"
 
-#. [time]: id=first_watch
 #. [topic]: id=time_of_day
+#. [time]: id=first_watch
 msgid "First Watch"
 msgstr "前半夜"
 
-#. [time]: id=second_watch
 #. [topic]: id=time_of_day
+#. [time]: id=second_watch
 msgid "Second Watch"
 msgstr "后半夜"
 
@@ -3253,23 +3536,17 @@ msgstr ""
 "退出游戏或输入 :nodebug 将关闭调试模式。\n"
 "\n"
 
-# can someone explain this to me in other words? i have not seen this in real multiplayer yet
 #. [topic]: id=general_commands
 msgid ""
 "\n"
-"Set or toggle player on side between human and AI player. The player/client "
-"who controls that side needs to issue this command. If no second parameter "
-"is supplied, toggle between human and AI. If it is ‘on’, set an AI "
-"controller. If it is ‘off’ set a human controller. Defaults to the currently "
-"active side if no parameter is supplied.\n"
+"Switch a side between human and AI control. The second parameter can be "
+"‘off’ to bring the side under human control, ‘on’ to watch the AI make its "
+"moves, or ‘full’ to make the AI’s turn behave similarly to another player‘s "
+"turn. If no second parameter is supplied, it toggles between ‘on’ and ‘off’. "
+"Defaults to toggling the currently active side if no parameters are "
+"supplied.\n"
 "\n"
 msgstr ""
-"\n"
-"设置或开关某一阵营由人类玩家或者AI玩家来控制。这条命令需要由控制该阵营的玩家/"
-"客户端来发出。如果不指定第二个参数，则在人类和AI之间切换。如果第二个参数"
-"是“on”，则设置为AI控制。如果第二个参数是“off”，则设置为玩家控制。如果不指定参"
-"数，则默认为当前活动的阵营。\n"
-"\n"
 
 #. [topic]: id=general_commands
 msgid ""
@@ -3282,9 +3559,11 @@ msgstr ""
 "\n"
 
 #. [topic]: id=general_commands
+#, fuzzy
 msgid ""
 "\n"
-"Toggle the display of the current frames per second.\n"
+"Toggle the display of the current frames per second. Also writes these "
+"values to a file in the userdata directory.\n"
 "\n"
 msgstr ""
 "\n"
@@ -3609,10 +3888,6 @@ msgstr ""
 "然而，此能力不能对中毒的单位进行疗毒，只能拖延毒性的发作而已。"
 
 #. [heals]: id=curing
-msgid "cures"
-msgstr "疗毒"
-
-#. [heals]: id=curing
 msgid "female^cures"
 msgstr "疗毒"
 
@@ -3621,10 +3896,6 @@ msgid ""
 "A curer can cure a unit of poison, although that unit will receive no "
 "additional healing on the turn it is cured of the poison."
 msgstr "疗毒者可以解除单位的中毒状态，虽然该单位在被疗毒的回合将不能被疗伤。"
-
-#. [regenerate]: id=regenerates
-msgid "regenerates"
-msgstr "再生"
 
 #. [regenerate]: id=regenerates
 msgid "female^regenerates"
@@ -3637,9 +3908,30 @@ msgid ""
 msgstr ""
 "此单位可以每回合回复自身8点生命值。如果中了毒，那么就疗毒，而不是疗伤。"
 
-#. [resistance]: id=steadfast
-msgid "steadfast"
-msgstr "坚定"
+#. [regenerate]: id=regenerates
+#, fuzzy
+msgid "regenerates +4"
+msgstr "再生"
+
+#. [regenerate]: id=regenerates
+#, fuzzy
+msgid "female^regenerates +4"
+msgstr "再生"
+
+#. [regenerate]: id=regenerates
+#, fuzzy
+msgid ""
+"The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr ""
+"此单位可以每回合回复自身8点生命值。如果中了毒，那么就疗毒，而不是疗伤。"
+
+#. [regenerate]: id=regenerates
+#, fuzzy
+msgid ""
+"This unit heals itself each turn, though not as much as if stationed in a "
+"village."
+msgstr " 此单位能够再生，这让它可以治疗自己，就像一直驻扎在村庄里一样。"
 
 #. [resistance]: id=steadfast
 msgid "female^steadfast"
@@ -3652,9 +3944,33 @@ msgid ""
 "Vulnerabilities are not affected."
 msgstr "当进行防御时，此单位具有双倍抗性，最高50%。此单位的弱点不受影响。"
 
-#. [leadership]: id=leadership
-msgid "leadership"
+#. [chance_to_hit]: id=diversion
+msgid "diversion"
+msgstr ""
+
+#. [chance_to_hit]: id=diversion
+#, fuzzy
+msgid "female^diversion"
 msgstr "领导"
+
+#. [chance_to_hit]: id=diversion
+#, fuzzy
+msgid ""
+"If there is an enemy of the target on the opposite side of the target, this "
+"unit diverts the target’s attention and reduces its chance to hit by 20%."
+msgstr ""
+" 如果目标被此单位和其他对其怀有敌意的单位前后包夹，此单位就可以悄悄绕到敌人背"
+"后并背刺之，造成双倍伤害。"
+
+#. [chance_to_hit]: id=diversion
+#, fuzzy
+msgid ""
+"If there is an enemy of the target on the opposite side of the target while "
+"attacking it, this unit diverts the target's attention and reduces its "
+"chance to hit."
+msgstr ""
+" 如果目标被此单位和其他对其怀有敌意的单位前后包夹，此单位就可以悄悄绕到敌人背"
+"后并背刺之，造成双倍伤害。"
 
 #. [leadership]: id=leadership
 msgid "female^leadership"
@@ -3677,10 +3993,6 @@ msgstr ""
 "害。"
 
 #. [skirmisher]: id=skirmisher
-msgid "skirmisher"
-msgstr "散兵"
-
-#. [skirmisher]: id=skirmisher
 msgid "female^skirmisher"
 msgstr "散兵"
 
@@ -3689,10 +4001,6 @@ msgid ""
 "This unit is skilled in moving past enemies quickly, and ignores all enemy "
 "Zones of Control."
 msgstr "此单位擅长于从敌人旁边迅速通过，且能忽略所有敌人单位的控制区域。"
-
-#. [illuminates]: id=illumination
-msgid "illuminates"
-msgstr "照明"
 
 #. [illuminates]: id=illumination
 msgid "female^illuminates"
@@ -3712,10 +4020,6 @@ msgstr ""
 "那么他们会像在白天时那样战斗。"
 
 #. [teleport]: id=teleport
-msgid "teleport"
-msgstr "传送"
-
-#. [teleport]: id=teleport
 msgid "female^teleport"
 msgstr "传送"
 
@@ -3726,10 +4030,6 @@ msgid ""
 msgstr ""
 "此单位可以花费一次移动机会，在任意两个属于此单位所属阵营的无人驻守的村庄之间"
 "传送。"
-
-#. [hides]: id=ambush
-msgid "ambush"
-msgstr "伏击"
 
 #. [hides]: id=ambush
 msgid "female^ambush"
@@ -3748,9 +4048,29 @@ msgstr ""
 "当此单位在森林里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现此单位的"
 "敌方单位将立刻丧失其剩余的全部行动点数。"
 
-#. [hides]: id=nightstalk
-msgid "nightstalk"
-msgstr "夜遁"
+#. [hides]: id=burrow
+msgid "burrow"
+msgstr ""
+
+#. [hides]: id=burrow
+#, fuzzy
+msgid "female^burrow"
+msgstr "缓慢"
+
+#. [hides]: id=burrow
+#, fuzzy
+msgid ""
+"This unit can hide in forest or sand if it is resting (has not moved for a "
+"turn), and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is resting in forest or sand, "
+"except if they have units next to it. Any enemy unit that first discovers "
+"this unit immediately loses all its remaining movement."
+msgstr ""
+"此单位可以隐藏在森林里，不会被敌人发觉。\n"
+"\n"
+"当此单位在森林里时，敌人看不见他，除非敌方有单位与他相邻。第一个发现此单位的"
+"敌方单位将立刻丧失其剩余的全部行动点数。"
 
 #. [hides]: id=nightstalk
 msgid ""
@@ -3764,10 +4084,6 @@ msgstr ""
 "\n"
 "敌方单位在晚上看不见此单位，除非敌军有单位与他相邻。第一个发现此单位的敌方单"
 "位将立刻丧失其剩余的全部行动点数。"
-
-#. [hides]: id=concealment
-msgid "concealment"
-msgstr "隐蔽"
 
 #. [hides]: id=concealment
 msgid "female^concealment"
@@ -3789,10 +4105,6 @@ msgstr ""
 "敌方单位将立刻丧失其剩余的全部行动点数。"
 
 #. [hides]: id=submerge
-msgid "submerge"
-msgstr "潜水"
-
-#. [hides]: id=submerge
 msgid "female^submerge"
 msgstr "潜水"
 
@@ -3810,19 +4122,8 @@ msgstr ""
 "敌方单位将立刻丧失其剩余的全部行动点数。"
 
 #. [dummy]: id=feeding
-msgid "feeding"
-msgstr "食尸"
-
-#. [dummy]: id=feeding
 msgid "female^feeding"
 msgstr "食尸"
-
-#. [dummy]: id=feeding
-msgid ""
-"This unit gains 1 hitpoint added to its maximum whenever it kills a unit, "
-"except units that are immune to plague."
-msgstr ""
-"此单位每杀死一个单位就会获得1点额外的最大生命值，除非被杀死的单位免疫瘟疫。"
 
 #. [berserk]: id=berserk
 msgid "berserk"
@@ -3837,10 +4138,6 @@ msgstr ""
 "或者恶斗三十回合为止。"
 
 #. [damage]: id=backstab
-msgid "backstab"
-msgstr "背刺"
-
-#. [damage]: id=backstab
 msgid ""
 "When used offensively, this attack deals double damage if there is an enemy "
 "of the target on the opposite side of the target, and that unit is not "
@@ -3848,11 +4145,6 @@ msgid ""
 msgstr ""
 "在用于进攻时，如果目标的另一面（与进攻方相对）紧邻着与目标敌对的单位，且该单"
 "位具有战斗力（没有被石化或者被别的方式麻痹）时，此攻击将造成双倍伤害。"
-
-#. [plague]: id=plague({TYPE}), type={TYPE}
-#. [plague]: id=plague, type=Walking Corpse
-msgid "plague"
-msgstr "瘟疫"
 
 #. [plague]: id=plague({TYPE}), type={TYPE}
 msgid ""
@@ -3871,10 +4163,6 @@ msgid ""
 msgstr ""
 "当一个单位被瘟疫攻击杀死时，该单位将变成行尸，并与进行瘟疫攻击的单位属于同一"
 "阵营。这对亡灵或在村庄中的单位不起作用。"
-
-#. [slow]: id=slow
-msgid "slows"
-msgstr "减速"
 
 #. [slow]: id=slow
 msgid ""
@@ -3897,17 +4185,26 @@ msgid ""
 msgstr "此攻击将使目标石化，也就是把他变成石头。被石化的单位将不能移动或攻击。"
 
 #. [chance_to_hit]: id=marksman
-msgid "marksman"
-msgstr "精准"
-
-#. [chance_to_hit]: id=marksman
 msgid ""
 "When used offensively, this attack always has at least a 60% chance to hit."
 msgstr "当用于进攻时，此攻击至少有60%的几率会命中。"
 
-#. [chance_to_hit]: id=magical
-msgid "magical"
-msgstr "魔法"
+#. [chance_to_hit]: id=deflect
+msgid "deflect"
+msgstr ""
+
+#. [chance_to_hit]: id=deflect
+#, fuzzy
+msgid ""
+"When used defensively, this attack reduces the opponent's chance to hit by "
+"10%."
+msgstr "当用于进攻时，此攻击至少有60%的几率会命中。"
+
+#. [chance_to_hit]: id=deflect
+msgid ""
+"This unit’s defensive techniques reduce the chance of a successful enemy "
+"attack."
+msgstr ""
 
 #. [chance_to_hit]: id=magical
 msgid ""
@@ -3931,10 +4228,6 @@ msgstr ""
 "峰值的3/4。"
 
 #. [damage]: id=charge
-msgid "charge"
-msgstr "冲锋"
-
-#. [damage]: id=charge
 msgid ""
 "When used offensively, this attack deals double damage to the target. It "
 "also causes this unit to take double damage from the target’s counterattack."
@@ -3942,9 +4235,20 @@ msgstr ""
 "用于进攻时，此攻击将对目标造成双倍伤害，但目标的反击也会使此单位受到双倍伤"
 "害。"
 
-#. [drains]: id=drains
-msgid "drains"
-msgstr "吸血"
+#. [damage]: id=absorb
+msgid "absorb"
+msgstr ""
+
+#. [damage]: id=absorb
+msgid ""
+"This attack puts the unit in good defensive position, and it absorbs some of "
+"the damage dealt by an enemy strike."
+msgstr ""
+
+#. [damage]: id=absorb
+msgid ""
+"This unit can block enemy strikes, so that it takes reduced damage when hit."
+msgstr ""
 
 #. [drains]: id=drains
 msgid ""
@@ -3962,10 +4266,6 @@ msgstr "先制"
 msgid ""
 "This unit always strikes first with this attack, even if they are defending."
 msgstr "此单位使用此攻击时，总是能率先攻击，即使是在防御时也不例外。"
-
-#. [poison]: id=poison
-msgid "poison"
-msgstr "毒素"
 
 #. [poison]: id=poison
 msgid ""
@@ -4130,171 +4430,198 @@ msgstr "长夜(3)"
 msgid "The Long Dark (4)"
 msgstr "长夜(4)"
 
-msgid ""
-"\n"
-"\n"
-"Special Notes:"
+#, fuzzy
+msgid "Special Notes:"
 msgstr ""
 "\n"
 "\n"
 "特别提示："
 
+#, fuzzy
 msgid ""
-" Spirits have very unusual resistances to damage, and move quite slowly over "
+"Spirits have very unusual resistances to damage, and move quite slowly over "
 "open water."
 msgstr " 亡魂们对伤害具有相当不寻常的抗性，但在开阔的水面上移动得很慢。"
 
+#, fuzzy
 msgid ""
-" This unit’s arcane attack deals tremendous damage to magical creatures, and "
+"This unit’s arcane attack deals tremendous damage to magical creatures, and "
 "even some to mundane creatures."
 msgstr ""
 " 此单位的奥术攻击对魔法造物将造成巨大的伤害，对某些凡间的生物也是如此。"
 
-msgid " This unit is capable of basic healing."
+#, fuzzy
+msgid "This unit is capable of basic healing."
 msgstr " 此单位能够简单疗伤。"
 
-msgid " This unit is capable of rapid healing."
+#, fuzzy
+msgid "This unit is capable of rapid healing."
 msgstr " 此单位能够迅速疗伤。"
 
+#, fuzzy
 msgid ""
-" This unit is capable of healing those around it, and curing them of poison."
+"This unit is capable of healing those around it, and curing them of poison."
 msgstr " 此单位能够对周围的单位进行疗伤，并解除中毒状态。"
 
+#, fuzzy
 msgid ""
-" This unit is capable of neutralizing the effects of poison in units around "
+"This unit is capable of neutralizing the effects of poison in units around "
 "it."
 msgstr " 此单位能够解除周围单位的中毒状态。"
 
+#, fuzzy
 msgid ""
-" This unit regenerates, which allows it to heal as though always stationed "
-"in a village."
+"This unit regenerates, which allows it to heal as though always stationed in "
+"a village."
 msgstr " 此单位能够再生，这让它可以治疗自己，就像一直驻扎在村庄里一样。"
 
+#, fuzzy
 msgid ""
-" The steadiness of this unit reduces damage from some attacks, but only "
-"while defending."
+"The steadiness of this unit reduces damage from some attacks, but only while "
+"defending."
 msgstr ""
 " 此单位的坚忍不拔使得它遭到某些攻击时受到的伤害下降，但这只在防御时有效。"
 
+#, fuzzy
 msgid ""
-" The leadership of this unit enables adjacent units of the same side to deal "
+"The leadership of this unit enables adjacent units of the same side to deal "
 "more damage in combat, though this only applies to units of lower level."
 msgstr ""
 " 此单位的领导能力使得相邻的本方单位在战斗中造成更多的伤害，虽然这只对比此单位"
 "等级低的单位有效。"
 
+#, fuzzy
 msgid ""
-" This unit’s skill at skirmishing allows it to ignore enemies’ zones of "
+"This unit’s skill at skirmishing allows it to ignore enemies’ zones of "
 "control and thus move unhindered around them."
 msgstr ""
 " 此单位的散兵作战能力使其能够忽视敌人的控制区域，因而能毫无阻碍地在他们附近移"
 "动。"
 
-msgid " Illumination increases the lighting level in adjacent areas."
+#, fuzzy
+msgid "Illumination increases the lighting level in adjacent areas."
 msgstr " 照明能力会提升相邻区域的明亮程度。"
 
+#, fuzzy
 msgid ""
-" This unit can use one move to teleport between any two empty villages "
+"This unit can use one move to teleport between any two empty villages "
 "controlled by its side."
 msgstr ""
 " 此单位可以花费一次移动机会，在任意两个属于此单位所属阵营的无人驻守的村庄之间"
 "传送。"
 
+#, fuzzy
 msgid ""
-" In woodlands, this unit’s ambush skill renders it invisible to enemies "
+"In woodlands, this unit’s ambush skill renders it invisible to enemies "
 "unless it is immediately adjacent or has revealed itself by attacking."
 msgstr ""
 " 在树林中，此单位的伏击技能让敌人无法察觉到其存在，除非敌人与其紧邻。此单位在"
 "攻击时也会暴露自己。"
 
-msgid " This unit is able to hide at night, leaving no trace of its presence."
+#, fuzzy
+msgid "This unit is able to hide at night, leaving no trace of its presence."
 msgstr " 此单位能够在夜晚隐匿身形，不留蛛丝马迹。"
 
+#, fuzzy
 msgid ""
-" This unit can hide in villages (with the exception of water villages), and "
+"This unit can hide in villages (with the exception of water villages), and "
 "remain undetected by its enemies, except by those standing next to it."
 msgstr ""
 " 此单位可以隐藏在村庄里（水中村庄除外）而不会被敌人发觉，除了那些与它相邻的敌"
 "人之外。"
 
+#, fuzzy
 msgid ""
-" This unit can move unseen in deep water, requiring no air from the surface."
+"This unit can move unseen in deep water, requiring no air from the surface."
 msgstr " 此单位可以在深水中移动而不被发现，它不需要呼吸水面上的空气。"
 
+#, fuzzy
 msgid ""
-" This unit gains 1 hitpoint added to its maximum whenever it kills a living "
+"This unit gains 1 hitpoint added to its maximum whenever it kills a living "
 "unit."
 msgstr " 此单位每杀死一个活体单位就会获得1点额外的最大生命值。"
 
+#, fuzzy
 msgid ""
-" Whenever its berserk attack is used, this unit continues to push the attack "
+"Whenever its berserk attack is used, this unit continues to push the attack "
 "until either it or its enemy lies dead."
 msgstr ""
 " 无论何时，只要此单位使用狂暴攻击，就将不停战斗，直到它或者它的对手被杀死。"
 
+#, fuzzy
 msgid ""
-" If there is an enemy of the target on the opposite side of the target while "
+"If there is an enemy of the target on the opposite side of the target while "
 "attacking it, this unit may backstab, inflicting double damage by creeping "
 "around behind that enemy."
 msgstr ""
 " 如果目标被此单位和其他对其怀有敌意的单位前后包夹，此单位就可以悄悄绕到敌人背"
 "后并背刺之，造成双倍伤害。"
 
+#, fuzzy
 msgid ""
-" Foes who lose their life to the plague will rise again in unlife, unless "
+"Foes who lose their life to the plague will rise again in unlife, unless "
 "they are standing on a village."
 msgstr " 因瘟疫而丧生的敌人将重生为亡灵，除非他们在村庄里。"
 
+#, fuzzy
 msgid ""
-" This unit is able to slow its enemies, halving their movement speed and "
+"This unit is able to slow its enemies, halving their movement speed and "
 "attack damage until they end a turn."
 msgstr ""
 " 此单位能够使敌人减速，让他们的移动速度和攻击伤害都减半，直到本回合结束。"
 
+#, fuzzy
 msgid ""
-" The ability to turn the living to stone makes this unit extremely dangerous."
+"The ability to turn the living to stone makes this unit extremely dangerous."
 msgstr " 把活人变成石头的能力使得此单位变得极其危险。"
 
+#, fuzzy
 msgid ""
-" This unit’s marksmanship gives it a high chance of hitting targeted "
-"enemies, but only on the attack."
+"This unit’s marksmanship gives it a high chance of hitting targeted enemies, "
+"but only on the attack."
 msgstr ""
 " 此单位的精准射术让它有很高的几率命中被瞄准的敌人，但只有在进攻时有效。"
 
+#, fuzzy
 msgid ""
-" This unit has magical attacks, which always have a high chance of hitting "
-"an opponent."
+"This unit has magical attacks, which always have a high chance of hitting an "
+"opponent."
 msgstr " 此单位拥有魔法攻击，该攻击总是有很高的几率能命中对手。"
 
+#, fuzzy
 msgid ""
-" The swarming attacks of this unit become less deadly whenever its members "
+"The swarming attacks of this unit become less deadly whenever its members "
 "are wounded."
 msgstr " 当此单位的成员受伤时，他们的成群攻击就不那么致命了。"
 
+#, fuzzy
 msgid ""
-" Using a charging attack doubles both damage dealt and received; this does "
+"Using a charging attack doubles both damage dealt and received; this does "
 "not affect defensive retaliation."
 msgstr " 冲锋攻击将使得输出与受到的伤害都加倍。这不会影响防御时反击的杀伤力。"
 
+#, fuzzy
 msgid ""
-" During battle, this unit can drain life from victims to renew its own "
-"health."
+"During battle, this unit can drain life from victims to renew its own health."
 msgstr " 在作战时，此单位能够从受害者身上吸取生命以补充自己的体力。"
 
+#, fuzzy
 msgid ""
-" The length of this unit’s weapon allows it to strike first in melee, even "
-"in defense."
+"The length of this unit’s weapon allows it to strike first in melee, even in "
+"defense."
 msgstr " 此单位的武器很长，使得他在近战中可以先发制人，甚至在防御时也是如此。"
 
+#, fuzzy
 msgid ""
-" The victims of this unit’s poison will continually take damage until they "
+"The victims of this unit’s poison will continually take damage until they "
 "can be cured in town or by a unit which cures."
 msgstr ""
 " 此单位的毒素的受害者们将持续地受到伤害，直到他们在城镇中疗毒，或者被拥有疗毒"
 "能力的单位疗毒。"
 
+#, fuzzy
 msgid ""
-" This unit has a defense cap on certain terrain types — it cannot achieve a "
+"This unit has a defense cap on certain terrain types — it cannot achieve a "
 "higher defense rating on mixed terrains with such terrain types."
 msgstr ""
 " 此单位在某些地形类型上有防御力上限——在以这些地形类型为基本类型的混合地形上，"
@@ -4338,10 +4665,6 @@ msgid ""
 msgstr ""
 "<bold>text='忠诚'</bold>单位不需要维护费用。大多数单位在每回合结束时都需要花"
 "费维护费用，该费用与他们的等级相等。而忠诚单位不会增加这笔开销。"
-
-#. [trait]: id=undead
-msgid "undead"
-msgstr "亡灵"
 
 #. [trait]: id=undead
 msgid "female^undead"
@@ -4583,16 +4906,8 @@ msgstr ""
 "点。"
 
 #. [trait]: id=healthy
-msgid "healthy"
-msgstr "康健"
-
-#. [trait]: id=healthy
 msgid "female^healthy"
 msgstr "康健"
-
-#. [trait]: id=healthy
-msgid "Always rest heals"
-msgstr "总是能获得休息疗伤效果"
 
 #. [trait]: id=healthy
 msgid ""
@@ -4613,10 +4928,6 @@ msgid ""
 "rest even when traveling."
 msgstr ""
 "有些矮人以生命力顽强著称，他们比别的矮人更强壮，甚至可以在移动的同时休息。"
-
-#. [trait]: id=fearless
-msgid "fearless"
-msgstr "无惧"
 
 #. [trait]: id=fearless
 msgid "female^fearless"
@@ -5014,63 +5325,65 @@ msgid ""
 "They have slightly pointy ears, pale skin and usually blond hair. Few "
 "differences between humans and elves are more pronounced than the Elves’ "
 "unusually long life — most, unless claimed by illness, accident or war, live "
-"a full two and a half centuries. While some elves possessing a high magical "
-"aptitude have been known to live an additional full century, most elves "
-"begin to grow physically frail at some point between 250 and 300 years of "
-"age and pass away rapidly (generally within a year or two) thereafter.\n"
+"at least a full two centuries. While some elves possessing a high magical "
+"aptitude have been known to live longer, most elves begin to grow physically "
+"frail at some point between 250 and 300 years of age and pass away rapidly "
+"thereafter.\n"
 "\n"
-"Elves are naturally imbued with magic to a small degree. Though most are "
-"unable to channel it directly, its latent presence gives them their keen "
-"senses and long life. Many elves have magic-driven talents such as "
-"marksmanship or stealth, allowing them to achieve tasks that most normal "
-"beings would find astonishing. Those elves that learn to wield this power in "
-"more general ways can become truly formidable in its use. Many choose to use "
-"their gift to heal others.\n"
-"\n"
-"A few elves, venturing far down the paths of magic and mysticism, become "
-"sensitive to the presence of cold iron and can even be burned by it. Elvish "
-"legend hints that this was more common in the far past.\n"
-"\n"
-"Elves spend much of their time honing their talents and skills. Those not "
-"adept at the magical arts typically devote their time honing their physical "
-"skills. As a result, elves excel at archery, which is perhaps their most "
-"important method of warfare. Most elvish troops carry a bow and no other "
-"race can rival their archers in speed and accuracy. All elves also share an "
-"intense affection for unspoiled nature. They often feel uncomfortable in "
-"open, unvegetated spaces. They live primarily in the forests of the Great "
-"Continent; the Aethenwood in the southwest, Wesmere in the northwest, and "
-"the great northern woods of which the Lintanir Forest is the southernmost "
-"edge.\n"
+"Most elves share an intense affection for unspoiled nature and find "
+"themselves uncomfortable in open, unvegetated places. They live primarily in "
+"the forests of the Great Continent, the Aethenwood in the southwest, Wesmere "
+"in the northwest, and the great northern woods of which the Lintanir Forest "
+"is the southernmost edge.\n"
 "\n"
 "Elves are the eldest race of the continent, with the possible exception of "
 "trolls. Many of their settlements cannot be reliably dated, undoubtedly "
-"having existed for over a millennium."
+"having existed for several millennia.\n"
+"\n"
+"<header>text='Magic'</header>\n"
+"While elves are fundamentally different creatures than the fabled fair folk, "
+"their magic has some connection to the faerie and is the source of their "
+"unusually keen senses as well as their long lives. Elven magic is split "
+"between two different paths, one focused on manipulation of the mundane or "
+"natural world, and one focused on divination into the arcane plane. More "
+"common is the the way of corporeal alteration, which has more tangible "
+"effects than its antithesis in the arcane. Though elven nature magic is ill-"
+"suited toward combat, its potent ability to harness earthly energies to "
+"nurture and protect is the primary reason for the effectiveness of elven "
+"healing as well as the beauty and vitality of their forests.\n"
+"\n"
+"Those who follow the mystic path are also well-regarded by other elves, but "
+"their motives and abilities are often unclear to those outside of their "
+"order. Some who venture far down the path of mysticism take on more faerie-"
+"like traits, gaining extraordinary insight and longevity, but also becoming "
+"sensitive to and even burned by the presence of cold iron.\n"
+"\n"
+"<header>text='Culture'</header>\n"
+"Elves spend much of their time honing their talents and skills. Those not "
+"adept at the magical arts typically devote their time honing their physical "
+"skills, often for sporting purposes. As a result, elves excel at archery, a "
+"craft that is readily and effectively applied to warfare. Elves are also "
+"renowned musicians, particularly skilled at wind and plucked string "
+"instruments in small ensembles. The Aeolian harps of the Aethenwood, for "
+"example, are crafted from the fine wood of Elven yew trees and are legendary "
+"for their soft, gentle tone.\n"
+"\n"
+"<header>text='Society'</header>\n"
+"Elvish society is roughly divided into three factions: a pseudo-military "
+"faction responsible for defending their forests, peaceful civilians who are "
+"usually craftsmen and artists, and healers and mystics who maintain the "
+"elves’ connection to the faerie. Responsible for governing these different "
+"aspects is the nobility, who are treated as servants to the broader social "
+"order, rather than as strict rulers of their people. The process for "
+"selecting these nobles differs between the various elven conclaves, with the "
+"governing council of Wesmere — the Ka’lian — being elected and the nobility "
+"in Lintanir usually being inherited.\n"
+"\n"
+"In times of strife, the hierarchy of command becomes more adaptable, with "
+"the ordinary aristocracy deferring to more war-minded marshals. By "
+"tradition, in both Wesmere and Lintanir, an enchantress from the order of "
+"elven mystics is also called upon to facilitate the transition of power."
 msgstr ""
-"相较于人类，精灵长得较高一些，行动更为敏捷，但是体格不如人类壮硕。他们有对尖"
-"长的耳朵，肤色较白，而且通常一头金发。精灵与人类之间的最大差别莫过于他们拥有"
-"非比寻常的寿命——除非死于疾病、意外或者战争，他们整整可以活两百五十年。大部分"
-"精灵活到出生后250年到300年间就开始迅速虚弱死亡（一般在一两年内），不过据了解"
-"一些拥有高魔法资质的精灵可以再多活一个世纪。\n"
-"\n"
-"精灵天生就有微弱的魔力，虽然大部分的精灵不会直接运用魔法，但这潜藏的魔力也会"
-"赋予他们灵敏的知觉以及极长的寿命。许多精灵拥有着魔法所产生的天赋，例如高超的"
-"射术或者匿踪能力，使他们能够完成令大多数生物惊讶的任务。那些学习将这些力量用"
-"于更通用的场合的精灵们会在这方面变得十分强大。很多精灵选择将这个天赋用于治疗"
-"他人。\n"
-"\n"
-"有少数精灵，因为在魔法与秘术的道路上走得太远，竟变得对冰冷的铁器十分敏感，甚"
-"至会被这些铁器烫伤。精灵族的传说暗示说，在遥远的过去，这种情况要常见得多。\n"
-"\n"
-"精灵们花很多时间来打磨他们的天赋与技能，不擅魔法的就将时间都花在锻炼身体技能"
-"上。因而精灵擅长射术，这可能是他们在战争中最重要的战斗方式。大多数精灵士兵都"
-"会携带一把弓，不论是在速度还是在精准度方面，没有任何一个其他种族可以跟精灵部"
-"队的弓箭手匹敌。所有的精灵都对没有被破坏的自然世界有种强烈的情感，在空旷而没"
-"有高大植被的地带里他们常常会觉得很不适应。精灵主要居住在泰陆的森林中，像是西"
-"南边的艾森丛林，西北边的韦弥尔，以及以林塔尼尔森林为最南端的南部大森林地"
-"区。\n"
-"\n"
-"也许除了巨魔以外，精灵是这片上最古老的种族。他们的许多定居点都无法确定究竟有"
-"多少年的历史，但毋庸置疑地都已经存在了超过一千年。"
 
 #. [race]: id=falcon
 msgid "race^Falcon"
@@ -5168,6 +5481,34 @@ msgstr ""
 "虽然狮鹫很重，但还是能够飞行。他们是怎么飞起来的，这一点很多个世纪以来引起了"
 "很多争论，但却仍然是个谜，正如他们的起源一般。"
 
+#. [race]: id=horse
+#, fuzzy
+msgid "race^Horse"
+msgstr "树人"
+
+#. [race]: id=horse
+#, fuzzy
+msgid "race+female^Horse"
+msgstr "食人魔"
+
+#. [race]: id=horse
+#, fuzzy
+msgid "race^Horses"
+msgstr "树人"
+
+#. [race]: id=horse
+msgid ""
+"Domesticated horses come in many shapes and sizes, from mighty war chargers, "
+"to sturdy draught horses or agile stock horses.  While they are more fragile "
+"than many beasts, their speed and cunning allow feral horses to thrive in "
+"the wild, alongside their wild brethren.\n"
+"\n"
+"Horses have been an important part of many civilizations, so it is not "
+"surprising that there are many myths and stories centered around them.  "
+"Winged horses, man-horse hybrids, and ghost horses have made their way into "
+"written history, though few can honestly claim to have seen such things."
+msgstr ""
+
 #. [race]: id=human
 msgid "race^Human"
 msgstr "人类"
@@ -5248,28 +5589,26 @@ msgstr ""
 "些，而他们可以互相取长补短。"
 
 #. [race]: id=dunefolk
-#. [race]: id=khalifate # wmllint: noconvert
 msgid "race^Dunefolk Human"
 msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
-#. [race]: id=khalifate # wmllint: noconvert
 msgid "race+female^Dunefolk Human"
 msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
-#. [race]: id=khalifate # wmllint: noconvert
 msgid "race+plural^Dunefolk"
 msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
+#, fuzzy
 msgid ""
-"An offshoot of a forgotten nomadic civilization, the Dunefolk humans lay "
-"claim to the river valleys and oases of the Sandy Wastes. How they came to "
-"inhabit this far corner of the Great Continent is unknown. Their legends "
-"tell of many long and perilous travels through far-flung lands, but the true "
-"origin of their people is a topic of endless and heated debate among even "
-"the most erudite of their scholars.\n"
+"An offshoot of a forgotten nomadic civilization, the Dunefolk lay claim to "
+"the river valleys and oases of the Sandy Wastes. How they came to inhabit "
+"this far corner of the Great Continent is unknown. Their legends tell of "
+"many long and perilous travels through far-flung lands, but the true origin "
+"of their people is a topic of endless and heated debate among even the most "
+"erudite of their scholars.\n"
 "\n"
 "Whatever their origin, the Dunefolk have thrived. Bustling cities stand "
 "proudly in the largest fertile regions. Skilled artisans, fine smiths, and "
@@ -5353,10 +5692,6 @@ msgstr ""
 "派出凶残而奇异的巨兽。从威严的巨鸟到壮美的双足飞龙，与这些生物的协同使得他们"
 "的战术充满了灵活性。这一传统很可能是起源于沙丘游民的遥远过去，那时他们在伊迪"
 "亚遥远的异域角落中生活。"
-
-#. [race]: id=khalifate # wmllint: noconvert
-msgid "This race does not have a description yet."
-msgstr "此种族暂时还没有描述。"
 
 #. [race]: id=lizard
 msgid "race^Saurian"
@@ -5756,10 +6091,11 @@ msgid "race^Trolls"
 msgstr "巨魔"
 
 #. [race]: id=troll
+#, fuzzy
 msgid ""
 "Trolls are ancient creatures, one of the oldest known races known to inhabit "
-"the Great Continent. They are large, slow, simple-minded, and live extremely "
-"long lives inside deep caves or atop high mountains. The most unique "
+"the Great Continent. They are large, slow, simple, and live extremely long "
+"lives inside deep caves or atop high mountains. The most unique "
 "characteristic of trolls is an internal vitality that sustains and heals "
 "them from within. As a result they live very different lives from almost any "
 "known creature. Trolls have few real needs: they require little food or "
@@ -5828,17 +6164,26 @@ msgid "race+plural^Undead"
 msgstr "亡灵"
 
 #. [race]: id=undead
+#, fuzzy
 msgid ""
 "Undead are not really a single race of creatures, although often treated as "
-"such. Almost any dead creature can, by a sufficiently skilled necromancer, "
-"be reanimated and rise again in undeath. Undead are for the most part "
-"unnatural but mindless constructs, obeying whoever created them without "
-"question nor thought. A greater mystery of necromancy is in how constructs "
-"are sustained without continuous effort from the necromancer. An undead "
-"creature does not require the constant attention of the necromancer to "
-"command and sustain, but can work autonomously according to the commands of "
-"its master. Only rarely, perhaps once every few months, does the necromancer "
-"need to maintain his creation.\n"
+"such. Most ordinary creatures can, by a sufficiently skilled necromancer, be "
+"reanimated into constructs of varying character — resurrection of the "
+"physical form often results in a minion that obeys its master without "
+"question, while manifestation of a soul usually produces a servant with at "
+"least a modicum of thought. A great mystery of necromancy is how these "
+"constructs are sustained and controlled without continuous effort from the "
+"necromancer. Most dark magi do not provide constant attention or maintenance "
+"to their creations, instead allowing them a small degree of independence to "
+"function autonomously in line with the provided commands. However, when left "
+"unchecked, some undead gain enough sovereignty to break free from and even "
+"turn on their masters. Accordingly, while even lesser undead require "
+"periodic maintenance, this is especially true for more powerful undead, "
+"particularly greater spirits or death knights, who possess a high degree of "
+"inherent will. In these cases, necromancy becomes a battle of resolve "
+"between mage and minion. The necromancer must maintain a delicate balance "
+"between control over their servants and allotting them free will — the "
+"source of their individual powers.\n"
 "\n"
 "Necromancy is almost solely limited to humans. Even the legends of magically "
 "apt races like elves and merfolk tell of very few of their kind who have "
@@ -5972,14 +6317,147 @@ msgstr ""
 "像个哨兵那样一动不动的站着，坐看一个个世纪流逝。他们对于文明世界中的事情丝毫"
 "不感兴趣，只有到了需要保卫自然和守护森林家园的时候他们才会参和进来。"
 
-msgid "+1 max HP"
-msgstr "+1最大生命值"
-
 msgid "Close"
 msgstr "关闭"
 
-msgid "The Battle for Wesnoth Help"
-msgstr "韦诺之战帮助"
+msgid "Help"
+msgstr ""
 
-msgid "Parse error when parsing help text: "
+#, fuzzy
+msgid "Parse error when parsing help text:"
 msgstr "分析帮助文本时出现分析错误："
+
+msgid "Best of"
+msgstr ""
+
+msgid "Worst of"
+msgstr ""
+
+#, fuzzy
+msgid "Base Terrain: "
+msgstr "地形"
+
+msgid "Movement properties: "
+msgstr ""
+
+msgid "Defense properties: "
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+#, fuzzy
+msgid "Advances from: "
+msgstr "升级"
+
+#, fuzzy
+msgid "Advances to: "
+msgstr "升级"
+
+msgid "Base unit: "
+msgstr ""
+
+msgid "Base units: "
+msgstr ""
+
+msgid "Variations: "
+msgstr ""
+
+#, fuzzy
+msgid "race^Miscellaneous"
+msgstr "人鱼"
+
+msgid "Race: "
+msgstr ""
+
+#, fuzzy
+msgid "Abilities: "
+msgstr "能力"
+
+msgid "Ability Upgrades: "
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "HP:"
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Moves:"
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Vision:"
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Jamming:"
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Cost:"
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
+#. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
+#. unpleasant line breaks (issue #3256).
+msgid "Alignment:"
+msgstr ""
+
+#. TRANSLATORS: This string is used in the help page of a single unit.  It uses
+#. non-breaking spaces to prevent unpleasant line breaks (issue #3256).  In the
+#. translation use non-breaking spaces as appropriate for the target language.
+msgid "Required XP:"
+msgstr ""
+
+msgid "unit help^Attacks"
+msgstr ""
+
+msgid "unit help^Name"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+#, fuzzy
+msgid "Special"
+msgstr "武器特效"
+
+msgid "Attack Type"
+msgstr ""
+
+msgid "Resistance"
+msgstr ""
+
+#, fuzzy
+msgid "Terrain Modifiers"
+msgstr "地形编辑器"
+
+#, fuzzy
+msgid "Terrain"
+msgstr "地形"
+
+#, fuzzy
+msgid "Movement Cost"
+msgstr "移动"
+
+msgid "Defense Cap"
+msgstr ""
+
+msgid "Vision Cost"
+msgstr ""
+
+msgid "Jamming Cost"
+msgstr ""

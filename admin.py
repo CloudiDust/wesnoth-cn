@@ -14,9 +14,9 @@ import shutil
 import subprocess
 
 TEXTDOMAINS = [
-    'wesnoth', 'ai', 'anl', 'aoi', 'did', 'dm', 'dw', 'editor', 'ei', 'help', 'httt',
+    'wesnoth', 'anl', 'did', 'dm', 'dw', 'editor', 'ei', 'help', 'httt',
     'l', 'lib', 'low', 'manpages', 'manual', 'multiplayer', 'nr', 'sof', 'sota',
-    'sotbe', 'tb', 'test', 'thot', 'trow', 'tsg', 'tutorial', 'units', 'utbs'
+    'sotbe', 'tb', 'thot', 'trow', 'tsg', 'tutorial', 'units', 'utbs', 'wc'
 ]
 
 ROOTS = {'in': 'translations', 'out': 'target', 'dist': 'target/dist', 'official': '../wesnoth'}

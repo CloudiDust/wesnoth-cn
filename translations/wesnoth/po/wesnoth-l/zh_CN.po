@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:39+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -40,21 +40,21 @@ msgid "Outlaw"
 msgstr "游寇"
 
 #. [campaign]: id=Liberty
-msgid "Difficult"
-msgstr "困难"
+msgid "Challenging"
+msgstr ""
 
 #. [campaign]: id=Liberty
 msgid "Fugitive"
 msgstr "亡命徒"
 
 #. [campaign]: id=Liberty
-#. Yes, that is "marchlanders", not "marshlanders".
-#. "marchlander" is archaic English for an inhabitant of a border region.
+#. "marchlander" is archaic English for an inhabitant of a border region, not to be confused with "marshlander"
+#, fuzzy
 msgid ""
-"As the shadow of civil war lengthens across Wesnoth, a band of hardy "
-"marchlanders revolts against the tyranny of Queen Asheviere. To win their "
-"way to freedom, they must defeat not just the trained blades of Wesnothian "
-"troops but darker foes including orcs and undead.\n"
+"As the shadow of civil war deepens across Wesnoth, a band of hardy "
+"marchlanders revolts against the governance of the new queen. To win their "
+"way to freedom, they must learn to use shadows and deception to rout the "
+"trained blades of the Wesnothian army.\n"
 "\n"
 msgstr ""
 "内战的阴影长时间笼罩着韦诺，一群勇敢的边民揭杆而起，反对艾什薇尔女王的暴政。"
@@ -63,16 +63,18 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Liberty
-msgid "(Novice level, 8 scenarios.)"
+#, fuzzy
+msgid "(Novice level, 7 scenarios.)"
 msgstr "（新手级别，8幕场景。）"
 
 #. [about]
-msgid "Campaign Design"
+#, fuzzy
+msgid "Original Campaign Design"
 msgstr "战役设计"
 
 #. [about]
-msgid "Prose-doctoring and preparation for mainline"
-msgstr "情节修改与主线准备"
+msgid "Latest Rewrite"
+msgstr ""
 
 #. [about]
 msgid "Campaign Maintenance"
@@ -91,47 +93,42 @@ msgid "Dallben"
 msgstr "达尔本"
 
 #. [part]
+#. Baldras is an old man from the country and both speaks and writes with many grammatical errors due to his relative lack of education
+#. He is also a little bit rude and grumpy, so languages with ruder or more informal variants of words should use those where appropriate
 msgid ""
-"In the Era of Turmoil, during the reign of King Garard II, the border towns "
-"of Delwyn and Dallben in the Province of Annuvin grew increasingly "
-"dissatisfied with the King’s rule. Being preoccupied with the great wars, "
-"the King was unable to send adequate forces to protect the frontier."
+"From the journal of Baldras, 21 Scatterseed, 501 YW\n"
+"\n"
+"Months... seven months it’s been since the Crown did send a single guard "
+"here to help us. This Garard II be a pompous stinker, even worser than his "
+"pa! Us of these border towns Delwyn and Dallben already be poor and needy, "
+"yet alls ‘His Majesty’ can think of is tax, tax, tax, takin’ all our hard "
+"earned gold from us. Then he uses our gold to provoke more wars with more "
+"orcs just for personal glory and more land for them grubby nobles to lord "
+"over."
 msgstr ""
-"伽拉德二世国王执政时期，是个混乱时代，安努文省的边境城镇德尔文和达尔本越发不"
-"满国王的统治。由于全心准备和兽人大战，国王无法派出足够的军队去保护边境。"
 
 #. [part]
 msgid ""
-"The hardy people of these marches learned self-reliance and survival skills "
-"against the raiding orc hordes and savage saurians. They established their "
-"own trading routes and pacts of mutual defense."
+"To abbadon with the Crown! We got no armies and we don’t even got real "
+"weapons, but we of the Western Marches make do just fine with our slings and "
+"clubs. In all Annuvin Province, there won’t be nobody besting us in these "
+"swamps. We’re self-reliant out here. We gots our own trade routes and pacts "
+"of mutual defense. No need for them Wesnothians. Not a single bit."
 msgstr ""
-"这些坚强的边境人民学会了自力更生，学会了在兽人部落和野蛮蜥蜴族的侵袭下自保。"
-"他们建立了自己的商业路线和协防条约。"
 
 #. [part]
+#. Some languages, including Norwegian and Old English, don't have a single word for "uncle", dividing it into
+#. mother's-brother vs. father's-brother. Baldras is Harper's mother's brother.
+#. In some human societies, including the Navaho and Akan, this would give him a special responsibility for the boy.
+#. Erwen is Baldras' younger sister, so languages with a special word for that should use it
 msgid ""
-"Although not permitted to train with proper military weapons, these woodsmen "
-"were at home in the forests and swamps of the Western Marches, and became "
-"very effective with their simple slings and clubs."
+"The sun were out today, but it were raining too. Weird mix of brightness and "
+"woe. Reminds me of the day Harper’s pa died in that orc raid. Since my sis "
+"Erwen passed when he were young, poor lad had nobody but me. Never wanted no "
+"kid of my own but... he’s mine to take care of now. Fine lad, that one, just "
+"a bit careless like his pa. I needs to keep a good eye on him now, with all "
+"them orcs running round here of late."
 msgstr ""
-"虽然不允许用正规军的武器训练，这些山民倒是熟悉西部边境的森林和沼泽，并十分有"
-"效的使用他们简单的投石器和木棒。"
-
-#. [part]
-msgid ""
-"After the betrayal of the King by Queen Asheviere, the new regent of Wesnoth "
-"sought to consolidate her ill-gotten power. She sent her armies across "
-"Wesnoth to intimidate the provincial rulers and secure her continued reign."
-msgstr ""
-"艾什薇尔王后背叛国王之后，这位新的韦诺执政者寻求巩固她的非法得到的权力。她派"
-"出她的军队横穿韦诺，胁迫外省长官以保证她的统治延续。"
-
-#. [part]
-msgid ""
-"The people of Annuvin were unwilling to relinquish their hard-earned self-"
-"rule, especially not to this pretender..."
-msgstr "安努文的人民不愿放弃他们来之不易的自治权，特别是对这个篡位者……"
 
 #. [side]: type=Bandit_Peasant, id=Baldras
 msgid "Baldras"
@@ -142,6 +139,8 @@ msgid "Fal Khag"
 msgstr "法尔·卡格"
 
 #. [side]: type=Goblin Pillager, id=Fal Khag
+#. [side]: type=Orcish Warrior, id=Urk Delek
+#. [side]: type=Saurian Oracle, id=Thhsthss
 #. [side]: type=Orcish Warlord, id=Vashna
 msgid "Orcs"
 msgstr "兽人"
@@ -180,17 +179,14 @@ msgstr "戈罗克"
 
 #. [message]: speaker=Fal Khag
 msgid ""
-"I long to burn human cities, but until our great chieftains provide us with "
-"sufficient forces we must look to these villagers to feed our wolves and "
-"slake the thirst of our blades."
+"I long to burn human cities, but that weaselly witch thinks we’re only good "
+"enough for these puny villages. These hapless clods barely have anything, "
+"but at least the witch’s gold is good."
 msgstr ""
-"我渴望焚烧人类的城市，但在大酋长给我们足够的军队前，我们得拿这些村民喂饱我们"
-"的狼，满足我们的杀戮欲。"
 
 #. [message]: speaker=Fal Khag
-msgid ""
-"Ride, you worms, I want to finish our raid before the hunting party returns "
-"to the human village."
+#, fuzzy
+msgid "Ride, you worms! Let’s finish our raid before their hunters return."
 msgstr "骑士，你们慢的要命，我要在狩猎队返回人类村庄前就完成我们的奇袭。"
 
 #. [event]
@@ -230,93 +226,120 @@ msgid "Harper"
 msgstr "哈珀"
 
 #. [message]: speaker=Red
+#. Other country folk also have accents
+#, fuzzy
 msgid ""
-"Look, goblin riders approach! You were right, they were going to raid "
-"Dallben while we were gone."
+"Look, goblin riders approach! You was right, they was going to raid Dallben "
+"while we was gone."
 msgstr "看，地精骑士来了！你是对的，他们准备在我们离开的时候偷袭达尔本。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"We must stop them before they reach the village. Damn the crown, they have "
-"long since forgotten about us out here."
+"We gots to stop them or they’ll burn down the whole village. Damn these "
+"goblins and damn the Crown. We always be havin’ to fight for ourselves."
 msgstr ""
-"我们要在他们到达村庄前阻止他们。该死的皇室，他们忘掉我们已经很长时间了。"
 
 #. [message]: speaker=Harper
+#. Harper has a bit of an accent, but not as much as Baldras.
+#. He's a bit of a reckless kid as Baldras alludes to, but he's much more polite
+#, fuzzy
 msgid ""
-"That goblin leader is heading full-speed straight for Dallben. But we’ll "
-"need to chase them all down if we’re going to stop them."
+"Uncle, we got no time to talk! Them riders are heading full speed straight "
+"for Dallben. We’ll need to chase them down through those woods, and fast, or "
+"we won’t be able to catch up."
 msgstr ""
 "那个地精头儿正朝达尔本全速奔去呢。如果我们要拦住他们就要把他们全找出来。"
 
 #. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
-"Do it. Try to hold them back until us old-timers can get there and finish "
-"them off."
+"Do it. Hold them beasts back till us old-timers get there to finish ‘em off."
 msgstr "行动。试着阻止他们，直到我们的老前辈们到达干掉他们。"
 
 #. [message]: speaker=Baldras
-#. Some languages, including Norwegian and Old English, don't
-#. have a single word for "uncle", dividing it into
-#. mother's-brother vs. father's-brother. Baldras is
-#. Harper's mother's brother.  In some human societies,
-#. including the Navaho and Akan, this would give him a
-#. special responsibility for the boy.
 msgid ""
-"And Harper... don’t get yourself killed. I’m responsible for you now that "
-"your father is gone, and I won’t dishonor his memory by breaking my promise "
-"to keep you safe."
+"And Harper... don’t be getting reckless on me today. Your old man died like "
+"that, charging into a pack of goblins by ‘imself. I won’t lose ya the same "
+"way."
 msgstr ""
-"还有哈珀……别让你自己死掉。你的父亲过世后，我现在要对你负责，我不想背弃那时对"
-"他许下的誓言：保证你安全。"
 
 #. [message]: speaker=Harper
-msgid "... I know... All right now, let’s stop these goblins!"
-msgstr "……我知道……好了，让我们阻止这些地精！"
+msgid "I know, I know, no need to worry so much. All right, let’s go!"
+msgstr ""
 
 #. [message]: speaker=Harper
 msgid ""
-"We are barely able to survive these orc raids. We lost two men last week, "
-"more today... yet Weldyn does nothing!"
+"These orc raids keep getting harder and harder to hold off. Feels like every "
+"new day’s just another chance for us to lose everything..."
 msgstr ""
-"我们差点就都死在这些兽人的袭击里了。我们上周损失了两人，今天损失了更多人……然"
-"而维尔帝竟无动于衷！"
-
-#. [message]: speaker=Harper
-msgid ""
-"We are barely able to survive these orc raids. We lost two men last week, "
-"more could have died today... yet Weldyn does nothing!"
-msgstr ""
-"我们差点就都死在这些兽人的袭击里了。我们上周损失了两人，今天本会损失更多人……"
-"然而维尔帝竟无动于衷！"
 
 #. [message]: speaker=Baldras
 msgid ""
-"The King stopped sending patrols out here once the war started. Once that "
-"happened, the burden fell to us. We are citizens of Wesnoth, and as long as "
-"her banner flies we will resist the horde."
+"That Garard II stopped sendin’ patrols out here a while back. Stinker "
+"probably sent his troops on some new war against them orcs. Don’t really "
+"matter. Technically Annuvin be under the charge of Elensefar, but you don’t "
+"see ‘em coming to help us either."
 msgstr ""
-"战争一爆发国王就再没派巡逻队到这里来了。一旦那样，这个担子就落到我们身上了。"
-"我们是韦诺公民，只要她的旗帜还在飘扬，我们就要抵御游牧部落。"
-
-#. [message]: speaker=Harper
-msgid "The banner will fly over a ghost town if help does not come soon."
-msgstr "如果援助还不快到的话，旗帜就要飘在鬼镇上了。"
 
 #. [message]: speaker=Harper
 msgid ""
-"They’re getting closer to our village! What about the town guards, can they "
-"help us?"
+"Then why do we got to pay taxes to the King? Maybe Elensefar doesn’t help "
+"us, but at least they don’t take our gold."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"We don’t got no choice, lad. If I don’t gives them what they want, they’ll "
+"make trouble for everyone in Dallben."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid ""
+"But we can’t keep doing this forever, Uncle. If we stay like this, those "
+"orcs will eventually overrun us. What should we do?"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"I don’t know, Harper. I just don’t know. Alls I can say is we’re on our own "
+"out here."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+msgid "Time to feast on these puny pinkskins."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "Hey! Who ya calling puny?"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+msgid "I was... too weak..?"
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "Silly goblin."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid ""
+"Hey, someone left their pack here. I could use it to carry some more rocks."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Spooky."
+msgstr ""
+
+#. [message]: speaker=Harper
+#, fuzzy
+msgid "They’re getting close to Dallben! What should we do?"
 msgstr "他们离我们村子更近了！村庄守卫们怎么样了，他们能帮我们吗？"
 
 #. [message]: speaker=Baldras
 msgid ""
-"They’ll come out when they see those riders, or us, approaching, but there "
-"aren’t many of them... I wouldn’t count on them being able to protect the "
-"village alone for long."
+"There be a couple guards in the village. Might be able to slow them wolves "
+"down if they gets closer."
 msgstr ""
-"他们要是看到狼骑兵或是我们就会出来的，接近了，但他们并不多……我可不指望他们能"
-"长久独自保护村庄。"
 
 #. [event]
 msgid "Remald"
@@ -331,47 +354,66 @@ msgid "Jasken"
 msgstr "贾斯肯"
 
 #. [message]: speaker=Wolmas
-msgid "What’s happening here? Why are you running like mad, $unit.name|?"
+#, fuzzy
+msgid "What’s happening here? Why be you running like mad, $unit.name|?"
 msgstr "这儿发生了什么？为什么你跑的这么疯狂，$unit.name|？"
 
 #. [message]: speaker=unit
-msgid "Goblin riders on the hunt. We must not let any of them to the village!"
-msgstr "地精骑士们来袭了。我们不能让他们任何一个进入村庄！"
+#, fuzzy
+msgid ""
+"Goblin riders be on the hunt, headed right for Dallben. We gots to stop them!"
+msgstr "看！地精骑士们追过来了——正朝着达尔本！"
 
 #. [message]: speaker=Wolmas
-msgid "Look! Goblin riders are on the hunt — and heading right for Dallben!"
+#, fuzzy
+msgid "Look! Goblin riders be on the hunt, headed right for Dallben!"
 msgstr "看！地精骑士们追过来了——正朝着达尔本！"
 
 #. [message]: speaker=Remald
-msgid "Halt!"
-msgstr "停住！"
-
-#. [message]: speaker=Baldras
-msgid ""
-"The goblins reached the village! There will surely be nothing left when they "
-"are done pillaging it."
-msgstr "地精们到达村庄了！他们肯定要掠夺一空了。"
-
-#. [message]: speaker=narrator
-msgid ""
-"None remarked on the passing of the tiny, isolated frontier town. It was but "
-"a harbinger of the evil to come under the tyranny of Asheviere."
+msgid "We gots to stop them!"
 msgstr ""
-"在奔向这座小小的孤立的边境小镇时没有人意识到。这只是艾什薇尔暴政到来前的邪恶"
-"预兆。"
+
+#. [message]: speaker=Harper
+#, fuzzy
+msgid ""
+"The goblins reached the village! Now there’ll be nothing left after they "
+"raid our homes..."
+msgstr "地精们到达村庄了！他们肯定要掠夺一空了。"
 
 #. [scenario]: id=02_Civil_Disobedience
 msgid "Civil Disobedience"
 msgstr "公民反抗"
 
+#. [label]
+#, fuzzy
+msgid "Baldras’ farm"
+msgstr "巴尔德拉斯"
+
+#. [part]
+msgid ""
+"Baldras’ journal, 6 Deeproot, 501 YW:\n"
+"\n"
+"Me and Harper visited Erwen’s grave today. I helped the lad pick her a bunch "
+"of flowers — we even found some of her favorite, blue lillies. Harper don’t "
+"remember her much, but he still thinks lots about her. Lad reminds me so "
+"much of his ma often times, real bright and brassy, even if he don’t got her "
+"sense or wits. I’m just hoping he be learning more with time."
+msgstr ""
+
+#. [part]
+msgid ""
+"Speaking of sense, I gots me a bad feeling in my gut about today. I’d better "
+"ready our hunting troop when I get back to the village, just in case..."
+msgstr ""
+
+#. [side]: type=Bandit_Peasant, id=Baldras
+#. [side]
 #. [side]: type=Bandit, id=Baldras
+#. [side]: type=Highwayman_Peasant, id=Relana
 #. [side]: type=General, id=Lord Maddock
 #. [side]: type=Rogue, id=Hans
 #. [side]: type=Highwayman, id=Baldras
 #. [side]: type=Shadow Lord, id=Helicrom
-#. [side]
-#. [side]: type=Bandit_Peasant, id=Baldras
-#. [side]: type=Highwayman_Peasant, id=Relana
 msgid "Rebels"
 msgstr "叛民"
 
@@ -379,15 +421,15 @@ msgstr "叛民"
 msgid "Tarwen"
 msgstr "傲冰"
 
+#. [side]: type=Cavalier, id=Tarwen
 #. [side]: type=General, id=Kestrel
 #. [side]: type=Master Bowman, id=Quentin
 #. [side]
+#. [side]: type=Shock Trooper, id=Linneus
+#. [side]: type=Lieutenant, id=Archarel
 #. [side]: type=General, id=Dommel
-#. [side]: type=Cavalier, id=Tarwen
-#. [side]: type=Royal Guard, id=Archarel
-#. [side]: type=Iron Mauler, id=Linneus
-msgid "Asheviere"
-msgstr "艾什薇尔"
+msgid "Weldyn"
+msgstr ""
 
 #. [objective]: condition=win
 msgid "Kill the Wesnoth army captain, Tarwen"
@@ -402,94 +444,159 @@ msgid "Stand fast, nephew."
 msgstr "快站住，侄子。"
 
 #. [message]: speaker=Tarwen
+#, fuzzy
 msgid ""
-"By order of the Queen, the magistrate of this town is ordered to travel with "
-"us to Elensefar for vetting."
+"By order of the Queen, the magistrate of this town is to travel with us to "
+"Elensefar for vetting."
 msgstr "奉女王之命，这个镇的治安官被勒令随我们去埃仁撒伐接受审查。"
 
-#. [message]: speaker=Harper
-msgid "Garard is the King of Wesnoth. We are ruled by no queen."
-msgstr "伽拉德是韦诺之王。统治我们的不是女王。"
+#. [message]: speaker=Baldras
+msgid ""
+"The Crown did long since abandon our village. You Wesnothians be too busy "
+"countin’ the gold from our taxes to be sending aid against them orcs. Nobody "
+"here be leaving to nowhere."
+msgstr ""
 
 #. [message]: speaker=Tarwen
 msgid ""
-"Insolent peasants, you will kneel before your betters! Asheviere is the "
-"Queen of Wesnoth. The King fell three weeks ago at Abez. I shall not bandy "
-"words with you. Your magistrate will be coming with us, and we do not care "
-"if it is dead or alive."
+"Insolent peasant. Try not my patience, else I shall be forced to drag thy "
+"deceased corpse back with me to the city."
 msgstr ""
-"无礼的泥腿子，你们理当跪在上等人面前！艾什薇尔已是韦诺的女王。国王在三周前在"
-"雅碧滩驾崩。我不会与你争辩。你们的治安官必须跟我们走，而我们可不在乎他是死是"
-"活。"
+
+#. [message]: speaker=Baldras
+msgid "Try it then, stinker."
+msgstr ""
+
+#. [message]: speaker=Tarwen
+msgid "As you wish."
+msgstr ""
 
 #. [message]: speaker=Tarwen
 msgid "Guard the gate."
 msgstr "守住大门。"
 
-#. [message]: speaker=Baldras
-msgid "Harper, get out of here. This is no battle for you."
-msgstr "哈珀，离开这里。这不是你的战斗。"
+#. [message]: speaker=Harper
+msgid "<i>Uncle, since when did we have a Queen?</i>"
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"I am the magistrate of Dallben, and it is <i>you</i> who will be leaving "
-"Dallben, be it dead or alive."
-msgstr "我是达尔本的治安官，该离开达尔本的是<b>你</b>，不管是死是活。"
+"<i>Since a few years back, I thinks, but weren’t never her giving out no "
+"orders...</i>"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"<i>It don’t really matter right now. Harper, get yerself out o’ here. This "
+"be no kind of battle for you.</i>"
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "I can fight!"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "<i>Harper, do what I says to ya.</i>"
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "We’re in this together. Death to the Wesnothians!"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "Impulsive lad..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+msgid "Help, help! I’m being repressed!"
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "They just killed an innocent man! Murderers!"
+msgstr ""
 
 #. [message]: speaker=Tarwen
-msgid "Get back, you cur!"
+msgid "Cry thine eyes out for me, peasant."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "I oughta bring out the good mace to fight off these thugs."
+msgstr ""
+
+#. [message]: speaker=Tarwen
+#, fuzzy
+msgid "Back, back ye curs!"
 msgstr "回来，你个狗杂种！"
+
+#. [message]: speaker=Harper
+msgid "Take that, you bullies!"
+msgstr ""
 
 #. [message]: speaker=second_unit
 msgid "Get out of my village!"
 msgstr "从我的村子里滚出去！"
 
+#. [message]: role=Advisor
+msgid ""
+"We beat their leader, but a couple of them riders escaped. What should we do?"
+msgstr ""
+
 #. [message]: speaker=Baldras
 msgid ""
-"Our lives were hard enough when we were beneath the attention of the Crown. "
-"But now I fear things will be worse."
-msgstr "我们生活在王权的照料下已经够艰难的了。但现在恐怕还会更糟了。"
+"Somethin’ be very wrong here. That Garard weren’t never no hero or nothing, "
+"but his men never would’ve attacked us. The Queen must’ve did something to "
+"him."
+msgstr ""
 
 #. [message]: speaker=Harper
-msgid "We must tell the people of Delwyn about this."
-msgstr "我们必须把这些告诉德尔文的人民。"
+msgid ""
+"We’ve got to tell the people of Delwyn about this. Ol’ magistrate Relana "
+"will have some ideas."
+msgstr ""
 
 #. [message]: role=Advisor
 msgid ""
-"That is true. We have always flown to their aid, and they to ours. This is "
-"something we should face together."
+"That’s true. Whenever there’s been troubles, we’ve always looked to her for "
+"help."
 msgstr ""
-"对。我们经常获得他们的援助，他们也同样有我们支持。这次是该我们共同面对了。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"Very well. We will go to Delwyn and share counsel with them. I never thought "
-"Wesnoth would fall into darkness. Now, not only do the orcs threaten our "
-"lands, but some sinister thing is happening with the ascent of the Queen to "
-"the throne."
+"Fine. We’ll go to Delwyn, see what Relana gots to say. With them riders so "
+"eagerly attackin’ us today, I’m thinking Delwyn will be under threat too."
 msgstr ""
-"很好。我们去德尔文和他们商议。我决不相信韦诺会陷入黑暗。现在，不只是兽人威胁"
-"了我们的土地，还有王后登上王位的不祥之兆。"
+
+#. [message]: speaker=Harper
+msgid "So we’ll have to fight them Wesnothians again?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"Today we may no longer be citizens of Wesnoth. I wish it could be otherwise, "
-"but we are now outlaws."
+"Alls I can say for certain is we’ve made ourselves enemies of the Crown. "
+"They’ll be hunting us now."
 msgstr ""
-"今天我们不再是韦诺的公民了。我其实希望能有别的方式，但我们已经是罪犯了。"
+
+#. [message]: speaker=Harper
+msgid "Then we’re outlaws."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "Aye, outlaws."
+msgstr ""
+
+#. [message]: speaker=Reinforcement Knight
+msgid "At your order, Captain."
+msgstr ""
+
+#. [message]: speaker=Tarwen
+msgid "Slay them all."
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"Oh, no! We have run out of time, they have arrived with reinforcements..."
-msgstr "噢！不！我们没有时间了！他们的援军来了……"
-
-#. [message]: speaker=narrator
-msgid ""
-"They would be remembered only as traitors rightly put down by the Queen’s "
-"lances. And in the dark years to come, woe betide any who questioned it."
+"Curses! Their reinforcements has arrived. We gots no chance to fight ‘em off "
+"now..."
 msgstr ""
-"他们将只是被当作被女王的正义之师镇压的叛徒而被记住。在即将到来的黑暗年代里，"
-"胆敢质疑这一点的人都会倒霉。"
 
 #. [scenario]: id=03_A_Strategy_of_Hope
 msgid "A Strategy of Hope"
@@ -497,19 +604,40 @@ msgstr "憧憬"
 
 #. [part]
 msgid ""
-"Fearing that the Queen’s army would return in force in the wake of its "
-"fallen patrol, Baldras and his men fled Dallben. They tracked to Delwyn and "
-"sent ahead for the magistrate, Relana, to meet them in a secluded strath in "
-"the swamps."
+"Baldras’ journal, 10 Deeproot, 501 YW:\n"
+"\n"
+"Been a strange few days. Had to leave Dallben real quick. We grabbed "
+"whatever we could in just a day, some food, some clothes, sis’s lucky "
+"bracelet... and made off for Delwyn as quick as these old bones would let "
+"me. It be a three day journey there for me, but I sended Harper ahead for "
+"Relana first. Said we’d meet her in the usual hiding spot in the swamp."
 msgstr ""
-"由于担心女王的大军会在发现巡逻队覆灭后杀来，巴尔德拉斯和手下逃离了达尔本。他"
-"们前往德尔文，并派人预先通知治安官雷拉纳在沼泽中一块隐蔽的谷底见面。"
 
 #. [part]
 msgid ""
-"As morning dawned over the day after next, they found Relana already waiting "
-"for them."
-msgstr "在第三天的清晨，他们发现雷拉纳早就在等待他们了。"
+"This whole mess be utter stupidness. Of all the things to be driving us from "
+"our home, how did it ended up being those accursed Wesnothians? Blasted "
+"Crown. Don’t matter whoever’s the one giving out them orders, those stinkers "
+"in Weldyn always be making trouble for us countryfolk."
+msgstr ""
+
+#. [part]
+msgid ""
+"I’m too old for all this. Them orc raids already be plenty for me to deal "
+"with. I don’t be keen on fighting no war with Wesnoth. But... I guess, I "
+"don’t really got no choice either. Harper’s still too young to be leading "
+"anyone, and it don’t seem like anyone else in the village be suitable."
+msgstr ""
+
+#. [part]
+msgid ""
+"In times like these... I still wish Erwen was here with us. Little sis were "
+"always the better of us two. She always knew how to keep her temper and her "
+"wits about her. What would she say to me now? Probably something like, “Quit "
+"yapping ya old dog and focus on what you’re doing. We’ve got to be getting "
+"them people to safety.” Cheeky kid, that one. But, she’d be right, I has me "
+"a responsibility to our people. Got a lot of trouble ahead of us..."
+msgstr ""
 
 #. [side]: type=Highwayman_Peasant, id=Relana
 msgid "Relana"
@@ -518,14 +646,6 @@ msgstr "雷拉纳"
 #. [side]: type=Orcish Warrior, id=Urk Delek
 msgid "Urk Delek"
 msgstr "乌克·德莱克"
-
-#. [side]: type=Orcish Warrior, id=Urk Delek
-#. [side]: type=Saurian Oracle, id=Thhsthss
-#. [side]: type=Necromancer, id=Mal-Jarrof
-#. [side]: type=Necromancer, id=Mal-Jerod
-#. [side]: type=Lich, id=Sel-Mana
-msgid "Evil"
-msgstr "邪恶势力"
 
 #. [side]: type=Saurian Oracle, id=Thhsthss
 msgid "Thhsthss"
@@ -539,138 +659,200 @@ msgstr "击败两名敌方首领"
 msgid "Death of Relana"
 msgstr "雷拉纳死亡"
 
-#. [message]: speaker=Baldras
-msgid ""
-"Relana, thank you for welcoming our messenger and agreeing to meet with us. "
-"In your many years as Delwyn’s magistrate I have never known your judgment "
-"to err."
-msgstr ""
-"雷拉纳，感谢你接待我们的信使并会见我们。你做德尔文治安官这么多年，我从未听说"
-"你的判决有过失误。"
-
 #. [message]: speaker=Relana
-msgid ""
-"It has been a long time, old friend. Your news worries us. Yet, there is no "
-"problem we have not worked out together."
+msgid "Baldras! Ya made it! Lil Harper here told me all about what happened."
 msgstr ""
-"好久不见了，老伙计。你的消息让我很担心。不过，我俩合力，还从没遇到过解决不了"
-"的问题呢。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"You do not understand. We attacked a Wesnoth army patrol. Not only that, the "
-"leader was no man I had ever seen in Annuvin Province before. Never has one "
-"been sent out here as a patrol captain who was so ruthless and cruel."
+"Aye, Relana. It were one o’ the Queen’s patrol, strange as it do sound. "
+"Turns out they was itchin’ to attack us soon as I wasn’t willing to leave "
+"with ‘em."
 msgstr ""
-"你不明白。我们攻击了韦诺军的巡逻队。不但如此，他们的领队是个我以前从没有在安"
-"努文省见过的人。以前派来此地的巡逻队长，没有一个是这样冷酷无情的。"
 
 #. [message]: speaker=Harper
-msgid ""
-"Had they taken my uncle, they would have surely shown up in Delwyn today "
-"with the same ultimatum. As it is, several riders escaped."
+msgid "But we fought those ugly scoundrels off!"
 msgstr ""
-"要是他们带走了我的叔叔，他们今天肯定会来德尔文，发出同样的最后通牒。就算是现"
-"在这样，也有几个骑手溜了。"
 
 #. [message]: speaker=Relana
 msgid ""
-"Well, it won’t be long until they report back to the local garrison with the "
-"details of your encounter."
-msgstr "嗯，不久他们就会向本地驻军汇报你们遭遇的细节。"
+"Queen’s patrol, ya say? They sent them a messenger our way a couple days "
+"ago, demanding our allegiance to some ‘Asheviere’. Weren’t that Garard’s "
+"young bride or something? Why’s she the one in charge now?"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"I don’t know, but some of them riders escaped us. Bet they’ll report back to "
+"their local garrison, tell them we’re a bunch o’ traitors."
+msgstr ""
 
 #. [message]: role=Advisor
-msgid "Then they’ll be back in force."
+#, fuzzy
+msgid "Then they’ll be comin’ back in force."
 msgstr "然后他们会带军队回来了。"
 
-#. [message]: speaker=Baldras
+#. [message]: speaker=Relana
 msgid ""
-"An offense to decency, this is! Since when has Wesnoth been ruled by fear "
-"and treachery? We should consult with Lord Maddock of Elensefar. We have "
-"known him for years to be noble in deed as well as in name."
+"We needs more information. We should consult ourselves with Elensefar. Lord "
+"Maddock surely gots to know more than us."
 msgstr ""
-"这就是阳谋！难道从此以后韦诺要用恐怖和背叛来执行统治？我们该和埃仁撒伐的马多"
-"克领主商量了。我们这些年来知道他就和他的名字一样高尚。"
+
+#. [message]: speaker=Baldras
+#, fuzzy
+msgid "Elensefar? Why him?"
+msgstr "埃仁撒伐"
 
 #. [message]: speaker=Relana
 msgid ""
-"I agree. But, Baldras, what will you tell him? We know something has been "
-"going badly wrong in Wesnoth of late, that more than ordinary corruption and "
-"incompetence is afoot. But when the effects fall on mere peasants, the wrong "
-"of it may not seem so obvious from a noble’s chair."
+"Well all Annuvin be ruled by Elensefar, right? We don’t gots to heed "
+"anything Wesnoth says. Lord Maddock’s technically the one we answer to."
 msgstr ""
-"我同意。但，巴尔德拉斯，你要对他说什么呢？我们知道韦诺最近变得十分失常，酝酿"
-"着远甚于腐败和无能的危机。但这个落在寻常百姓头上时，影响没有落在贵族身上那么"
-"明显。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"We need evidence. Hard evidence... but wait— Are those orcish war drums I "
-"hear?"
-msgstr "我们需要证据。铁证……但等等——我是不是听到了兽人的战鼓？"
+"It don’t matter. Weldyn be doing whatever it likes while Maddock says "
+"nothing. He knows, but he don’t care."
+msgstr ""
 
 #. [message]: speaker=Relana
 msgid ""
-"I think they are, old friend. And that rank smell on the wind tells another "
-"tale: saurians approach. To arms!"
+"But we still need that knowledge, Baldras. We can’t be coming up with any "
+"great plan without no information. We both knows that if Weldyn brings one "
+"o’ their armies here, there be no way we can fight them off."
 msgstr ""
-"我想是的，老伙计。而且风中的恶臭传达了另一个信息；蜥蜴人接近了。拿起武器！"
+
+#. [message]: speaker=Baldras
+msgid ""
+"Perhaps, but — hold there. Did ya hear that? Sounded like some wolf howl."
+msgstr ""
+
+#. [message]: speaker=Relana
+msgid "Somethin’ smells like lizard too. We’re not alone here."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "Finally, some action!"
+msgstr ""
 
 #. [message]: speaker=Urk Delek
 msgid ""
-"By the sound of the wolves, the scent trail of Fal Khag’s killers ends here."
-msgstr "按狼的叫声来看，杀死法尔·卡格的凶手的踪迹到这里结束了。"
+"Blasted humans and blasted Fal Khag! Stupid goblin was only supposed to "
+"scout that puny village, not fight it by himself. Then those damned humans "
+"rejected our help and look where that got them."
+msgstr ""
+
+#. [message]: speaker=Urk Delek
+msgid ""
+"“Don’t know why the Queen hired some stinkin’ orcs, we don’t need you here.” "
+"Yeah, well now they’re dead like a bunch of beasts."
+msgstr ""
 
 #. [message]: speaker=Thhsthss
-msgid "Fal Khag is nothing to usss, orc. You promissed uss gold. Bright gold."
+#, fuzzy
+msgid "Your ordersss mean nothing to usss, orc. You promissed uss gold."
 msgstr "法尔·卡格对我～们毫无用处，兽人。你许诺过我～们金子的。闪亮的金子。"
 
 #. [message]: speaker=Urk Delek
-msgid "You will get gold. And our wolves will get meat."
-msgstr "你会得到金子的。而且我们的狼会得到肉。"
+msgid ""
+"Shut your trap, lizard. You’ll get your gold as soon as my wolves get their "
+"meat."
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"Something is very wrong here. Those orcs were carrying weapons with Army "
-"forge-markings."
+"We gots to be headin’ for Elensefar soon before them Wesnothians come back."
+msgstr ""
+
+#. [message]: speaker=unit
+#. fishperson is the same as merfolk
+msgid "Looks like some fishperson used to live here."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "Looks like they still do. Ick."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "Ewww, I think it be smelling even worse now. Least it’s stopped moving."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "I don’t likes me the look of that water."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Ahh! Help, it’s a tentacle monster!"
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "That’s some fresh tasty water. Mmm!"
+msgstr ""
+
+#. [message]: speaker=Urk Delek
+msgid "Blasted pinkskins..."
+msgstr ""
+
+#. [message]: speaker=Thhsthss
+msgid "Thissss was not part of the deal..."
+msgstr ""
+
+#. [message]: speaker=Baldras
+#, fuzzy
+msgid ""
+"Something be very wrong here. These orcs has weapons with Army forge-"
+"markings."
 msgstr "这儿很不对劲。那些兽人拿的武器带有韦诺军的铸造标志。"
 
 #. [message]: speaker=Relana
-msgid "Aye. And the gold in their pouches looked new from the mint."
+#, fuzzy
+msgid ""
+"Aye, and the gold in their pouches looks new from mint. Could just be "
+"plunder, but..."
 msgstr "对。而且他们袋里的金币看起来是新近铸造的。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"Can the darkest rumors be true, then? Does the Kingdom— Does Queen "
-"Asheviere... send orcs against her own people?"
+"Don’t seem like it. I be thinking these orcs were hired to scout us. But for "
+"what? Of all the alliances to be making, why would Weldyn be hiring orcs?"
 msgstr ""
-"难道最黑暗的谣言变成了现实？难道是王国——是女王艾什薇尔……派兽人来对付她自己的"
-"臣民？"
 
 #. [message]: speaker=Relana
 msgid ""
-"I think your mission to Lord Maddock just became more urgent than we knew, "
-"Baldras. I must remain here to see to the defense of Delwyn and Dallben, but "
-"you should fly to Elensefar with all speed."
+"I thinks your mission to Lord Maddock just became even more urgent. We needs "
+"to know the Queen’s motives."
 msgstr ""
-"我想你去拜访马多克领主的使命现在变得比我们预想的还要紧急，巴尔德拉斯。我必须"
-"留在这里视察德尔文和达尔本的防御，但你该全速飞奔到埃仁撒伐。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"We have tarried here for far too long... There is no way we can reach "
-"Elensefar and return with help before the Wesnoth army destroys our homes. "
-"Retreat!"
+"I don’t like leaving our people here alone, but I sees your point. If we "
+"wait, more will be coming."
 msgstr ""
-"我们在这里逗留太久了……在韦诺军毁掉我们的家园之前，我们没法到达埃仁撒伐带回援"
-"军了。撤退！"
+
+#. [message]: speaker=Relana
+msgid ""
+"For now, I can stay here and perhaps talk them Wesnothians out of attacking "
+"us directly, but I don’t thinks it will work forever. To survive this, we "
+"needs to act quick, Baldras."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "Then we’ll go to Elensefar as fast as we can. Luck be with ya, Relana."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"We gots no more time to be spending here nor to be traveling to Elensefar... "
+"them Wesnothians probably already be mobilizing against us. We’ve got to "
+"head back to Dallben!"
+msgstr ""
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "Baldras and Relana returned to their villages to find them destroyed, with "
-"those who fought left dead and the few survivors borne away to unknown "
-"fates. It was a bitter doom, and as Wesnoth descended into darkness they "
-"would live to see worse."
+"any survivors borne away to unknown fates. It was a bitter doom, and as "
+"Wesnoth descended into chaos, they would live to see worse."
 msgstr ""
 "巴尔德拉斯和雷拉纳回到了他们的村子，却发现成了废墟，抗争的都死了，仅有的幸存"
 "者背井离乡寻找未知的命运。这是个痛苦的结局，韦诺堕入了黑暗他们还会看到更糟。"
@@ -707,95 +889,176 @@ msgstr "马多克死亡"
 msgid "Rothel"
 msgstr "罗特尔"
 
+#. [message]: speaker=Baldras
+msgid "Maddock, I be coming to report—"
+msgstr ""
+
 #. [message]: speaker=Lord Maddock
 msgid ""
-"Baldras, your trip here was not wise. The Queen’s patrols have been visiting "
-"the local villages and bringing the elders here. Those that swear allegiance "
-"to the Queen are allowed to return home. Those that do not—"
+"I am already aware of your altercation in Dallben, Baldras. Your dissent was "
+"not wise."
 msgstr ""
-"巴尔德拉斯，你到这里来是不明智的。女王的巡逻队刚刚来过本地村庄并带来了长老。"
-"那些发誓效忠女王的被允许回家。那些没有的——"
+
+#. [message]: speaker=Baldras
+#. pigdirt is slang for bullshit or hogwash
+msgid ""
+"Dissent? Maddock, I’m not trusting no strange riders who show up out of "
+"nowhere claimin’ to be from the Queen. Seems like a bunch of pigdirt to me."
+msgstr ""
+
+#. [message]: speaker=Lord Maddock
+msgid ""
+"That was partially my fault, since I was not able to send a messenger to you "
+"in time. I shall have to inform you now. Five weeks ago, at the Ford of "
+"Abez, Queen Asheviere’s men allied themselves with the northern orcs and "
+"betrayed King Garard II."
+msgstr ""
+
+#. [message]: speaker=Lord Maddock
+msgid ""
+"Since Prince Eldred died in the battle, the Queen took the throne and has "
+"been consolidating her power. Part of that has been bringing the elders from "
+"the local villages here, forcing them to swear allegiance to her. That was "
+"the purpose of that patrol."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "Annuvin province be ruled by Elensefar! We has no duty to Weldyn."
+msgstr ""
+
+#. [message]: speaker=Lord Maddock
+msgid ""
+"You do now. I do not really need to tell you what will happen should you "
+"refuse Her Majesty’s offer."
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"— Are dispatched on the spot. I know the price of dissent. But what of you?"
-msgstr "——被当场处死。我知道反抗的代价。但你呢？"
+"Grow a spine, Maddock. If they come to ya and make you swear fealty to this "
+"Asheviere, would ya really give up that easy?"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 msgid ""
-"Well, they do not come within the walls of my city. They are actually camped "
-"nearby, and the main garrison is further south at Halstead. I know my time "
-"will soon come to swear allegiance, but they do not press me. They are "
-"afraid I will refuse."
+"Well, they do not come within the walls of my city. There is a large "
+"garrison south at the great fortress of Halstead, but even should they "
+"mobilize all their troops, I doubt they could take Elensefar. It is true "
+"that for now, the majority of my forces are still returning from the battle "
+"of Abez, but unless we are attacked within the next few days, I shall be "
+"able to hold the city."
 msgstr ""
-"恩，他们没进我的城墙。现在他们在附近驻扎，主力在更远的霍尔斯特德的南部。我知"
-"道到了该我宣誓效忠的时候了，但他们没有强迫我。他们怕我拒绝。"
 
 #. [message]: speaker=Baldras
-msgid "Will you?"
-msgstr "你会拒绝吗？"
+msgid "And what abouts us? Throw us like dogs to those Wesnothians?"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 msgid ""
-"Yes. The Queen ascended to the throne through the vilest of treachery. "
-"However, while most of my forces were sent with the King to fight the orcs, "
-"we have a strong enough contingent here to make the Queen’s forces think "
-"twice about attacking Elensefar outright."
+"We have an uneasy peace to maintain. The treaty between Elensefar and "
+"Wesnoth is ancient, and I do not think Her Majesty means to break it. At the "
+"same time, I have some concessions that I shall have to make. I cannot "
+"afford a war with Weldyn, as you can surely understand."
 msgstr ""
-"是的。王后通过最恶劣的背叛登上王位。虽然我大部分的军队都被派与国王对付兽人，"
-"但我们还有一个强大的分队，足以让女王为是否直接进攻埃仁撒伐而三思。"
-
-#. [message]: speaker=Lord Maddock
-msgid ""
-"We have an uneasy peace until they are done with the smaller villages and "
-"finally come around to obtaining my oath. The treaty between Elensefar and "
-"Wesnoth is ancient, but I am not so naïve as to place my full trust in it. "
-"Not in these wicked times."
-msgstr ""
-"在他们解决掉小村庄之前，我们获得了暂时的和平，但他们终于还是来逼我发誓效忠"
-"了。埃仁撒伐与韦诺的协定是古老的，但我也没那么天真把我所有信赖都寄托在条约"
-"上。特别是在这个黑暗的时代。"
 
 #. [message]: speaker=Harper
 msgid ""
-"What can we do then? We have brought with us many from Annuvin Province who "
-"are willing to fight, but our families are still at home. They will not last "
-"long if the Queen’s patrols return."
+"But we can’t do nothing! The Queen even be sending them beast orcs against "
+"us, that’s how evil she is! Surely you can’t stand for this..."
 msgstr ""
-"那我们能怎么做呢？我们带了许多希望战斗的安努文省的平民。但我们的家人还在家"
-"里。要是女王的巡逻队回来的话，他们可抵抗不了多久。"
 
 #. [message]: speaker=Lord Maddock
 msgid ""
-"I am unwilling to start a civil war. I believe the Queen will remain "
-"preoccupied with order throughout the kingdom and, more importantly, with "
-"quelling the Northerner threat. We are a matter she will choose to deal with "
-"later rather than sooner, if she can."
+"Yes, I am aware of Queen Asheviere’s propensity for hiring orcs to "
+"supplement her forces. That does not mean I could do anything about it, even "
+"if I were so inclined. The best advice I can give you is to just apologize. "
+"Even if they may want your head, Baldras, you still have the chance to "
+"preserve your village. Think of the bigger picture."
 msgstr ""
-"我不想发动内战。我相信女王会继续专心的传令全国, 并且，更重要的是，消除北方人"
-"的威胁。我们是她稍后处理的麻烦而不是现在，如果她不蠢的话。"
 
-#. [message]: speaker=Kestrel
+#. [message]: speaker=Baldras
 msgid ""
-"A foolish miscalculation, Lord Maddock. These men with which you consort are "
-"outlaws and fugitives. They are a well-organized gang of criminals and "
-"murderers. We will kill them and then expect your oath of allegiance to "
-"Queen Asheviere."
+"The bigger picture of you idly sittin’ here waiting till them Wesnothians "
+"come to take the city right from your hands."
 msgstr ""
-"一个愚蠢的打算，马多克领主。你结交的这些人是游寇和亡命徒。他们是一群非常有组"
-"织的罪犯和凶手。我们先杀掉他们再期待你对艾什薇尔女王的效忠宣誓。"
 
 #. [message]: speaker=Lord Maddock
-msgid "Men, to arms! The defense of Elensefar has begun!"
-msgstr "大家拿起武器！保卫埃仁撒伐的战斗开始了！"
+msgid "I very much doubt they would be bold enough to attack us outright—"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"Head out of your behind, Maddock. Open your eyes! Look south and tell me "
+"that again!"
+msgstr ""
+
+#. [message]: speaker=Lord Maddock
+msgid ""
+"An invading army? No, something is not right with those soldiers... but I "
+"presume we have no time to ponder that. To arms!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Hey, look! Some buried treasure!"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Looks like someone left some supplies here."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid ""
+"It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
+"Land.” Whoever that was."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "Maddock’s firstborn son."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Oh."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid ""
+"That’s a deep well! Wonder how far down it goes. Guess I’ll chuck a rock "
+"down and find out."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid ""
+"...\n"
+"...\n"
+"..."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "Plunk!"
+msgstr ""
+
+#. [message]: speaker=Lord Maddock
+msgid "Hold there, soldier! Can we not come to terms without bloodshed?"
+msgstr ""
+
+#. [message]: speaker=unit
+#. [message]: speaker=Lord Maddock
+#. [message]: type=Spearman
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Lord Maddock
+msgid "Hmm. Something is quite wrong indeed..."
+msgstr ""
+
+#. [message]: speaker=narrator
+msgid "<i>The sun sets...</i>"
+msgstr ""
 
 #. [message]: speaker=narrator
 msgid ""
-"As the sun set, a horrific change began to take place to the human "
-"adversaries of Baldras and his allies..."
+"Baldras and Harper watch, petrified, as the skin and flesh of their "
+"adversaries begin to rot away."
 msgstr ""
-"随着太阳的下山，一个令人毛骨悚然的变化发生在巴尔德拉斯与他盟友的人类对手身"
-"上……"
 
 #. [wml_message]
 msgid "Could not convert a $stored_changers[$i].type, please report!"
@@ -803,20 +1066,21 @@ msgstr "无法转换 $stored_changers[$i].type，请发送错误报告！"
 
 #. [message]: speaker=Harper
 msgid ""
-"I cannot believe what my eyes are seeing! The flesh runs from their bones... "
-"these are not human warriors we fight. They are evil spirits masquerading as "
-"human!"
+"By the Light! Them things look like evil spirits! Are they those undead you "
+"told me about, Uncle?"
 msgstr ""
-"我真不敢相信我的眼睛！肌肉从他们的骨头上掉下来了……和我们战斗的不是人类的部"
-"队。他们是冒充人类的邪恶亡灵！"
+
+#. [message]: speaker=Baldras
+msgid ""
+"They bears some likeness, but these men almost seem half alive. This be some "
+"kind of truly dreadful sorcery."
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 msgid ""
-"Their human aspect is returning! This is an evil manner of sorcery we face, "
-"but one that we may yet overcome. CHARGE!"
+"So, their human aspect returns. Whatever these creatures are, we shall crush "
+"them all under the light of the sun."
 msgstr ""
-"他们的人类心智有些恢复了！我们面对的是一种邪恶的巫术，但我们迟早能克服。<b>冲"
-"锋！</b>"
 
 #. [message]: speaker=second_unit
 msgid "Who are you? What are you?"
@@ -824,57 +1088,61 @@ msgstr "你们是谁？你们怎么了？"
 
 #. [message]: speaker=Kestrel
 msgid ""
-"We are accursed. We were once under the command of Prince Eldred, the King’s "
-"son and betrayer. The price for our treason is this hellish existence. We "
-"know not who or what inflicted this curse upon us, but our mortal deaths may "
-"be only the beginning of the penance we are doomed to pay."
+"We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
+"and betrayer... when the Prince was slain at the hands of the mage Delfador, "
+"those of us who bore witness to it were warped into these twisted forms. "
+"Now, our mortal bodies pass... into another plane of hellish existence..."
 msgstr ""
-"我们被诅咒了。我们曾经被王子埃尔德雷德指挥，他是国王的儿子，也是叛国者。我们"
-"背叛的代价是这样地狱般的存在。我们不知道是谁或是怎样施以诅咒在我们身上，但我"
-"们人类身体的死亡只也许是我们注定要付出的赎罪的开始。"
+
+#. [message]: speaker=Lord Maddock
+msgid "Such is the price for treachery."
+msgstr ""
 
 #. [message]: speaker=Baldras
-msgid "Lord Maddock, now that we are victorious, will you help us?"
-msgstr "马多克领主，现在我们获胜了，你可以帮我们了吗？"
+msgid "Maddock, we helped you defend your city. Will you help us now?"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 msgid ""
-"I will not. Unless you want me to round up the city’s thieves to fight for "
-"you, I do not have the troops to spare. However, I am not the only one who "
-"commands men in this corner of Wesnoth."
+"<i>Listen carefully. I shall not openly speak against Asheviere seeing as "
+"some of her spies are in the city... however, rest assured, I certainly do "
+"not trust the Queen and her questionable tactics.</i>"
 msgstr ""
-"我不会。除非你让我把城里的盗贼聚集起来为你战斗，不然我可没多余的军队。不管怎"
-"么说，我并不是这韦诺这一隅唯一的支配者。"
 
 #. [message]: speaker=Baldras
-msgid "I don’t understand. There are no other noble lords in this area."
-msgstr "我不明白。这一带并没有其他的贵族领主。"
+msgid "<i>What can ya offer us then?</i>"
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
 msgid ""
-"Southeast of here there is a town, and there you may find assistance of the "
-"type I cannot give."
-msgstr "这儿的东南面有个镇子，在那里你可以找到我无法提供的帮助。"
-
-#. [message]: speaker=Baldras
-msgid ""
-"Wish us well. If we are to resist the Wesnoth army a second time, we’re "
-"going to need more than clubs and slings against steel."
+"<i>Well, I do not normally make my relationship with them known, but I can "
+"make an exception. Southeast of here, in Carcyn, you may find assistance "
+"from one of my... contacts. Their methods should be better suited to your "
+"needs. As for your homes, I cannot offer you protection against Weldyn, but "
+"I can arrange for some roads to be closed to delay their patrols. That is "
+"the most I can do for you.</i>"
 msgstr ""
-"希望我们顺利。如果我们要又一次的抵抗韦诺军，我们希望不是只能用木棒和投石器来"
-"对付钢刀。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"Look, more riders come from the southeast. We cannot survive another "
-"assault. We are finished!"
-msgstr "看，更多的骑兵从东南方来了，我们抵不住再一轮的突袭了。我们完了！"
+"<i>Hmph. Clear that you won’t help us fight, but I gots no more time to be "
+"stayin’ here. If we is going to resist the Crown a second time, we needs "
+"ourselves a good plan. Hope that you’re not sending us to our deaths, "
+"Maddock.</i>"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"More troops be coming from the south! With all them reinforcements, we gots "
+"no chance to defend Elensefar!"
+msgstr ""
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"Indeed, Asheviere’s armies had mustered and struck before the nascent "
-"rebellion could even be planned. Her power and ruthlessness — and their toll "
-"of death — would only grow greater with time."
+"Asheviere’s armies assembled and struck before the nascent rebellion could "
+"even be planned. Without the necessary forces, Annuvin soon fell under "
+"Weldyn’s absolute control."
 msgstr ""
 "事实上，艾什薇尔的军队已经召集起来，在新生的叛乱计划前就能进行围剿。她的力量"
 "和冷酷——还有他们的殉难人数——只会与日俱增。"
@@ -883,9 +1151,27 @@ msgstr ""
 msgid "Hide and Seek"
 msgstr "隐藏和搜索"
 
-#. [time]: id=midnight
-msgid "Midnight"
-msgstr "午夜"
+#. [part]
+msgid ""
+"22 Deeproot, 501 YW\n"
+"\n"
+"Been a tough few days since we left Elensefar with all them patrols running "
+"around. Going by boat along the Great River, we has been managing to avoid "
+"them Wesnothians, but being constantly on the lookout be real taxing. I "
+"truly be starting to feel that tiredness in my bones... old men like me "
+"should be sitting back at home, resting our grey bodies and watchin’ over "
+"them younger folk growing up. I don’t got no business here, running around "
+"as some outlaw. Maybe if I was ten years younger..."
+msgstr ""
+
+#. [part]
+msgid ""
+"Anyway, the messenger I sent back to Relana should be in Delwyn already. We "
+"should be arriving to Carcyn soon too, to where that coward Maddock said his "
+"‘contact’ be. Truths be told, I don’t know how this’ll be turning out, "
+"especially since I don’t be no social butterfly like sis were. Don’t like me "
+"no city folk really. But I’ll deal with them if I gots to."
+msgstr ""
 
 #. [side]: type=Master Bowman, id=Quentin
 msgid "Quentin"
@@ -896,127 +1182,156 @@ msgid "Hans"
 msgstr "汉斯"
 
 #. [objective]: condition=win
-msgid "Take Baldras to meet the leader of the insurgency"
-msgstr "让巴尔德拉斯面见起义头目"
+#, fuzzy
+msgid "Enter the Grey Woods"
+msgstr "灰色森林"
 
 #. [note]
-msgid ""
-"Remember that in fog, units always see one hex further than they can move."
+#, fuzzy
+msgid "In fog, units always see one hex further than they can move."
 msgstr "记住，在雾中，单位的视野总是比他们的移动范围多一格。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "Relentlessly pursued by riders patrolling the road to Elensefar, Baldras and "
 "his men traveled unseen along the swampy banks of the Great River to the "
-"city of Carcyn."
+"city of Carcyn. They hid until nightfall, then crept out to find the help "
+"Lord Maddock hinted was here."
 msgstr ""
 "由于到埃仁撒伐的大路有巡逻的骑兵们无情的追捕，巴尔德拉斯和他的人沿着泰河的湿"
 "岸去了卡辛。"
 
-#. [message]: speaker=narrator
+#. [message]: speaker=Harper
 msgid ""
-"They hid until nightfall, then crept out to find the help Lord Maddock "
-"hinted was here."
-msgstr "他们潜伏到夜晚降临，然后出动寻找马多克领主提示说在这里会有的帮助。"
+"Wow, is that Carcyn in the distance? Look at how grand some of them spires "
+"be!"
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"I’m not sure where we’re supposed to go now. If we go into town we can start "
-"asking around for information."
+"Not since I were a young lad did I come this far south. Maybe it looks "
+"impressive now, but city life weren’t never something real nice. Them city "
+"folk be real impatient and mean. Always wantin’ some price for their help, "
+"too."
 msgstr ""
-"现在我不敢肯定我们该往哪儿走了。我们要是进个镇子我们就可以问下附近的人一些情"
-"况。"
+
+#. [message]: speaker=Harper
+msgid ""
+"Well, we need their help now, don’t we? So we got to figure out a way to get "
+"to Lord Maddock’s friend. But he didn’t say anything about who that was."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"Harper, when a noble lord says he don’t want some kind of relationship "
+"known, it means some kind o’ connection with the black market. We be looking "
+"for criminals, probably some thieves’ den. Or, maybe they be looking for us."
+msgstr ""
 
 #. [unit]: type=Thief, id=Link
 msgid "Link"
 msgstr "环"
 
 #. [message]: speaker=Baldras
-msgid "Who are you?"
-msgstr "你是谁？"
-
-#. [message]: speaker=Link
-msgid ""
-"I have come to find you. You must make it through the city without being "
-"seen. The soldiers are normally out hunting for my kind, but a company of "
-"heavy infantry arrived three days ago and took over the patrols."
+msgid "Right on time."
 msgstr ""
-"我来是找你的。你必须悄悄地穿过这个城市，不能被发现。通常，是士兵的搜寻我们这"
-"类人，但三天前一队重甲步兵接管了这里的巡逻任务。"
 
 #. [message]: speaker=Harper
-msgid "They’re looking for us."
-msgstr "他们在找我们。"
+msgid "How do we know we can trust him?"
+msgstr ""
 
 #. [message]: speaker=Link
 msgid ""
-"Well, good thing I found you first. Now hurry, you must make it past the "
-"city into the Grey Woods. There is a small path in the southeast that leads "
-"into the forest; look for the signpost. My brother Hans is waiting for you "
-"there and will take you to our master. Try to avoid the soldiers if you can."
+"If you were one of my quarries, your throat would be slit by now, boy. As it "
+"is, you two are still in imminent danger. Just a week ago, the Crown sent a "
+"contingent of heavy infantry here to supervise the city. They’re patrolling "
+"the streets and forests for us."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "I be assuming they’ll also try to stop us if they see us."
+msgstr ""
+
+#. [message]: speaker=Link
+#, fuzzy
+msgid ""
+"Very likely. Now hurry, you must make it past the city into the Grey Woods. "
+"There is a small path in the southeast that leads into the forest. Look for "
+"the signpost. My brother Hans will guide you from there. Avoid the soldiers "
+"if you can."
 msgstr ""
 "恩，幸好我先找到了你。现在赶快，你必须通过这个城市进入灰色森林。东南面有条小"
 "路通往森林；找到路标。我的兄弟汉斯正在那儿等你，并带你去见我们的头儿。尽可能"
 "的避开这些士兵。"
 
 #. [message]: speaker=second_unit
+#, fuzzy
 msgid ""
-"Looks like these guards hold stationary posts, so if we’re careful enough we "
-"should be able to slip our way around them unnoticed."
+"Looks like these guards be holding stationary posts. If we’re careful, we "
+"can get ourselves around them unnoticed."
 msgstr ""
 "看起来这些守卫们驻守着固定岗位，所以我们要是足够小心的话，我们可以在他们边上"
 "不被注意的溜过去。"
 
 #. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
-"Harper, you younger and faster folks need to be our eyes now. Scout ahead "
-"and try to find a way for us to get past the guards, but make sure to not "
-"stay where they can see you or we’re all in big trouble..."
+"Harper, you younger and faster folks needs to be our eyes. Scout ahead and "
+"find a way past them guards, but make sure ya don’t get yourselves spotted..."
 msgstr ""
 "哈珀，你们年轻腿便的人现在要作我们的眼睛。在前头侦察找条路通过守卫，但确信别"
 "呆在他们能看到你的地方，不然我们会有大麻烦……"
+
+#. [message]: speaker=unit
+msgid "Who goes there? Halt!"
+msgstr ""
 
 #. [message]: speaker=Harper
 msgid "They’ve seen us! <i>Run</i>!"
 msgstr "他们发现我们了！<b>快跑</b>！"
 
 #. [message]: speaker=Baldras
-msgid "Fall back, quickly! Maybe we can yet lose them!"
+#, fuzzy
+msgid "Quick, back into the shadows! Maybe we can still lose them!"
 msgstr "撤，快！也许我们能甩掉他们！"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
-"Gentlemen, please come this way and follow the path into the forest. Our "
-"leader is anxious to meet you."
-msgstr "阁下，请到这边来，沿着这条路进入森林。我们的头儿渴望见你。"
+"This way, into the forest! We’ll be able to lose them in the Grey Woods."
+msgstr "快，在灰色森林里我们才能避开他们。"
 
-#. [message]: speaker=second_unit
+#. [message]: speaker=Hans
+#, fuzzy
 msgid ""
-"As soon as we escape the Wesnoth death squad, we will be happy to oblige."
-msgstr "一旦我们能逃脱韦诺的死亡小队，我们就会乐于效劳的。"
+"You can come if you wish, but we are mostly interested in speaking to "
+"Baldras."
+msgstr "你愿意的话可以跟过来，但是头目只会和巴尔德拉斯说话。"
 
 #. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
-"I haven’t run this much in years. If you were to ask me to infiltrate a "
-"heavily guarded city relying on nothing but the cover of darkness and my "
-"wits, I would say you were crazy."
+"I haven’t run so much in years. Feels like I be a real outlaw now, "
+"infiltrating a heavily guarded city relyin’ on nothing but the cover of "
+"darkness and my wits."
 msgstr ""
 "这些年来我都没跑这么多路。你要是以前说，叫我什么也不靠,只凭着夜幕和灵巧去潜入"
 "一个这么个重装守卫的城市，我会说你疯了。"
 
+#. [message]: speaker=Harper
+msgid "It was fun, wasn’t it?"
+msgstr ""
+
 #. [message]: speaker=Baldras
-msgid "As it turns out, I’m the crazy one. Let’s finish this folly."
-msgstr "只有试过才知道，我也是一个疯子。让我们结束这个荒唐的举动。"
+msgid "Perhaps a little."
+msgstr ""
 
 #. [message]: speaker=Hans
 msgid ""
-"You can come if you wish, but the leader is only interested in speaking to "
-"Baldras."
-msgstr "你愿意的话可以跟过来，但是头目只会和巴尔德拉斯说话。"
-
-#. [message]: speaker=Hans
-msgid "Fly, and we may yet evade them in the Grey Woods."
-msgstr "快，在灰色森林里我们才能避开他们。"
+"Enough chatter, you still have some guards on your tail. We need to head "
+"deeper into the Grey Woods to lose them."
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid "Lead the way."
@@ -1024,397 +1339,343 @@ msgstr "走这条路。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"We have spent too much time here. Surely the Queen’s forces have returned to "
-"Dallben. Our mission is unfinished, but we must return to fight a suicide "
-"battle."
+"Blast it, we was too slow! With the sun rising already, them guards will "
+"have no trouble spotting us now..."
 msgstr ""
-"我们在这里花费太多的时间了。女王的军队肯定已经回到达尔本了。我们的任务还没完"
-"成，但我们必须回去进行自杀式的战斗了。"
 
-#. [scenario]: id=06_The_Grey_Woods
-msgid "The Grey Woods"
-msgstr "灰色森林"
+#. [scenario]: id=06_The_Hunters
+msgid "The Hunters"
+msgstr "猎手"
+
+#. [part]
+msgid ""
+"24 Deeproot, 501 YW\n"
+"\n"
+"The sun don’t really shine at all in these Grey Woods, but truth be told, I "
+"has been getting used to it more and more. Lounging out in the warm "
+"daylight, talkin’ with Erwen while watching them kids play out in the "
+"fields... those times were so long ago. Our lives weren’t never real "
+"peaceful, but back then, we had our homes and our friends and our family... "
+"now we be creatures of the dark."
+msgstr ""
+
+#. [part]
+msgid ""
+"It be real lonesome like this. I still has me Harper, and I be grateful for "
+"the boy, but he don’t really understand an old man like me. I know the past "
+"be the past, but I just can’t help but think of sis in times like these. How "
+"she used to be dragging me out on some silly little romp, a little job here "
+"and there for some gold or lil trinket, or sometimes just for fun... I never "
+"wanted to go, of course. I were always real lazy. Still am, even now."
+msgstr ""
+
+#. [part]
+msgid ""
+"Then, Harper tells me, “Come on Uncle, we’re on an adventure! Don’t be so "
+"mopey, live a little!” I know he be trying to be cheery, but he really don’t "
+"know how much he be reminding me of her sometimes..."
+msgstr ""
+
+#. [part]
+msgid ""
+"I must be strong. That’s what I tells myself. I should be strong, but... I "
+"don’t know what be keeping me going, if it be this misguided sense of pride, "
+"or my duties to the village, or Harper, or even just remembering the past, "
+"making some futile attempts to go back to better times."
+msgstr ""
+
+#. [part]
+msgid "Either way, I be here now, on this adventure."
+msgstr ""
 
 #. [side]: type=Shadow Lord, id=Helicrom
 msgid "Helicrom"
 msgstr "黑里康"
 
-#. [side]: type=Necromancer, id=Mal-Jarrof
-msgid "Mal-Jarrof"
-msgstr "莫-贾罗夫"
+#. [side]: type=Shock Trooper, id=Linneus
+msgid "Linneus"
+msgstr "林尼亚斯"
 
-#. [side]: type=Necromancer, id=Mal-Jerod
-msgid "Mal-Jerod"
-msgstr "莫-后裔"
-
-#. [side]: type=Lich, id=Sel-Mana
-msgid "Sel-Mana"
-msgstr "赛尔-神力"
+#. [side]: type=Lieutenant, id=Archarel
+msgid "Archarel"
+msgstr "天使长"
 
 #. [objective]: condition=win
-msgid "Defeat the lich and its minions"
-msgstr "击败巫妖和它的奴仆们"
+msgid "Kill all enemy patrols before they reach the outpost"
+msgstr ""
+
+#. [objective]: condition=lose
+#, fuzzy
+msgid "Death of Helicrom"
+msgstr "哈珀死亡"
+
+#. [objective]: condition=lose
+msgid "Any patrol units survive when turns run out"
+msgstr ""
+
+#. [objective]: condition=lose
+msgid "Any allied unit is sighted by the outpost guards"
+msgstr ""
 
 #. [message]: speaker=Baldras
-msgid "The leader, I presume."
+#, fuzzy
+msgid "The leader, I presumes."
 msgstr "我猜你就是头儿。"
 
 #. [message]: speaker=Helicrom
 msgid ""
-"I am Helicrom, and you should not be so glib. I control dangerous men. My "
-"henchmen can slip unseen through any city, rob a man while he sleeps, or "
-"attack a caravan head-on. It’s not noble work, but our pursuits require "
-"plenty of gold."
+"Indeed, I am Lord Helicrom, the Crow of the Grey Woods. We are acquaintances "
+"of Lord Maddock, who sent word to us of your predicament. I believe we can "
+"work something out for your situation."
 msgstr ""
-"我是黑里康，别太油嘴滑舌。我控制着危险的家伙。我的追随者可以不被发现地溜进任"
-"何城市，抢劫一个睡熟的人，或是正面攻击商队。这不是高尚的工作，但我们的追求需"
-"要大量金钱。"
 
 #. [message]: speaker=Baldras
-msgid "Your pursuits?"
+#, fuzzy
+msgid "What be your pursuits?"
 msgstr "你们的追求？"
 
 #. [message]: speaker=Helicrom
+#, fuzzy
 msgid ""
 "The former King’s magic ministry kept a tight control on the training and "
 "employment of mages in Wesnoth. Those of us who dared to... depart from the "
-"curriculum, you might say, were dealt with harshly. We are outcasts because "
-"we seek to master shadow magic. Our secrecy and security are not cheap."
+"curriculum were dealt with harshly. Many of us were forced to escape here to "
+"continue our study of our brand of magic. Our security and secrecy are not "
+"cheap."
 msgstr ""
 "前国王的魔法院在韦诺训练和招收法师十分严格。我们一些人敢于……放弃课程，你可能"
 "会说，那会被严厉处理的。我们被驱逐是因为我们尝试掌握暗影魔法。我们的秘密可不"
 "便宜。"
 
 #. [message]: speaker=Baldras
-msgid "I have heard of you. Necromancers. Barely-human scum, I say."
-msgstr "我听说过你。死灵法师。几乎没人性的人渣，我是说。"
-
-#. [message]: speaker=Helicrom
-msgid ""
-"Wrong. Necromancers become slaves to their lich masters and eventually lose "
-"their humanity. We have proven that practicing the dark arts need not lead "
-"down that path to damnation. We remain human, and seek the mystical secret "
-"of balance between the ways of light and darkness. We dance between both "
-"ways, adhering to neither."
-msgstr ""
-"错。死灵法师变成他们的巫妖主人的奴隶并最终失去人他们的人性。我们已经证明研习"
-"黑暗术并不需要堕入这个地狱之路。我们仍是人类，且钻研光明与黑暗之路平衡的奥"
-"秘。我们舞蹈在这两路上，同时又不依附于它们。"
-
-#. [message]: speaker=Baldras
-msgid "I... see, I think. Why do you want to help us?"
+#, fuzzy
+msgid "Then you be fellow outlaws. But why do you wants to help us?"
 msgstr "我……明白了，我想。为什么你要帮助我们？"
 
 #. [message]: speaker=Helicrom
 msgid ""
-"We don’t. You have sought us out. But, I do know of your situation and am "
-"willing to help. Any weakening of the Throne of Wesnoth, whether it be "
-"occupied by King or Queen, aids us."
+"<i>Quid pro quo.</i> Our aid is never given freely. You have something that "
+"may be useful to us."
 msgstr ""
-"我们没。是你找到我们的。但，我清楚你的境地并乐意帮助。任何韦诺君主的衰弱，无"
-"论王位上是国王还是女王，对我们有利。"
+
+#. [message]: speaker=Baldras
+msgid "Manpower. Mages be no good at fighting, I knows. But what for?"
+msgstr ""
 
 #. [message]: speaker=Helicrom
 msgid ""
-"Carcyn is always foggy as of late because these woods have recently become "
-"home to a lich and two of its underling necromancers. Our experiments may "
-"have actually aroused it from sleep... We’re not sure."
+"Understand this. Any weakening of the Throne of Wesnoth, whether it be "
+"occupied by King or Queen, aids us. To accomplish that, we must destabilize "
+"their forces in this region. The key is Halstead."
 msgstr ""
-"卡辛近来总是浓雾笼罩，那是因为最近有一名巫妖和它的两位死灵法师手下在森林里住"
-"下了。我们的实验可能把它从沉睡中唤醒了……我们也不太肯定。"
+
+#. [message]: speaker=Harper
+msgid "The great fort standing between Aldril and Elensefar?"
+msgstr ""
 
 #. [message]: speaker=Baldras
 msgid ""
-"So now you need to defend your rear as well as your front... I see your "
-"predicament. My men will wipe this land clean if you can help us defend our "
-"homeland."
+"Aye, Harper. What the mage says be no surprise. It be a bastion of central "
+"importance, rivalin’ Elensefar even. Maddock said the Queen’s troops were "
+"gathering there. But we gots no way to fight a war with them, not since "
+"Maddock won’t send his soldiers to battle."
 msgstr ""
-"所以你需要防卫你的后方如同你的前面……我明白了你的困境。如果你你能帮助我们保卫"
-"我们的家园，我的人会清理这片土地的。"
-
-#. [message]: speaker=Helicrom
-msgid "Finally, that creature is dead, yet its foolish minions resist."
-msgstr "这个生物终于死了，它的愚蠢的奴仆还在抵抗。"
-
-#. [message]: speaker=Baldras
-msgid "The lich is destroyed and its minions dead."
-msgstr "巫妖被消灭而且它的奴仆都死了。"
-
-#. [message]: speaker=narrator
-msgid ""
-"The defeat of the evil lich infesting the Grey Woods was a bittersweet "
-"victory. With Helicrom dead, the guild of shadow magic was thrown into "
-"disarray."
-msgstr ""
-"击败骚扰灰色森林的邪恶巫妖是个苦乐参半的胜利。随着黑里康的死，暗影魔法协会陷"
-"入了混乱。"
-
-#. [message]: speaker=narrator
-msgid ""
-"The remaining members were very grateful and offered Baldras a sizable sum "
-"of gold for his help. It was not the help he was hoping for, but he knew it "
-"would have to be enough for the coming conflict."
-msgstr ""
-"剩余的成员非常感激并给了巴尔德拉斯一笔可观的金钱作为感谢。这不是他希望的帮"
-"助，但他明白这对即将到来的冲突已经足够了。"
 
 #. [message]: speaker=Helicrom
 msgid ""
-"With the undead driven out, we may live here in relative peace and pursue "
-"our studies. For this, Baldras, I am grateful."
+"Know this, Baldras. During the past week, several patrols have again "
+"ventured across the Great River into Annuvin. A woman named Relana opposed "
+"them with a small militia and was victorious, but with heavy loses. The "
+"Crown, however, has begun to take notice of this rebellion and is massing "
+"forces within Halstead. When its armies are raised, none of your little "
+"villages will be able to resist them. Your only choice would be to flee "
+"farther north into orcish territory."
 msgstr ""
-"随着亡灵被驱散，我们可以相对安宁的住在这里了并继续我们的研究。因为这个，巴尔"
-"德拉斯，我很感激。"
-
-#. [message]: speaker=Baldras
-msgid ""
-"Studies? Peace? You mean to continue feeding on the lawful citizens of "
-"Wesnoth. There will be no peace for them."
-msgstr "研究？安宁？你的意思是继续蚕食韦诺的守法居民。他们可没安宁。"
-
-#. [message]: speaker=Helicrom
-msgid ""
-"No one here is in a position to be dispensing moral judgments. Regardless, "
-"you have done great service to us today, and we owe you a debt. I will help "
-"you to the utmost of my ability."
-msgstr ""
-"这里的人没人能够逃避道德的审判。但不论如何，你今天给我们巨大帮助，我们欠你。"
-"我会尽我最大能力帮助你的。"
-
-#. [message]: speaker=Helicrom
-msgid ""
-"I was planning on giving you gold. Any good army is well financed, and with "
-"the lich gone we can now spare it."
-msgstr ""
-"我计划给你些钱。任何好的军队都有好的财政，随着巫妖的消灭我们现在有些闲钱了。"
-
-#. [message]: speaker=Helicrom
-msgid ""
-"But, I think it would help you more if I lent you some of my men to join you "
-"on your adventures. The Queen has been sending mages out here, and my men "
-"are itching for some payback."
-msgstr ""
-"但是，我想我让几个我的人加入你的冒险行动里对你会更有帮助。女王已经派出法师到"
-"这里来了，并且我的人也渴望有些报酬。"
-
-#. [message]: speaker=Helicrom
-msgid ""
-"On the other hand, if I keep the full force of my organization here, we "
-"might be able to regroup and join you on the battlefield when the time comes."
-msgstr ""
-"另一方面，如果我在这里全力经营我的组织，当时机到来时我们能重新组合，在战场上"
-"加入你们。"
-
-#. [message]: speaker=Helicrom
-msgid "I leave it to you to decide."
-msgstr "我等待你的决定。"
-
-#. [option]
-msgid "I will take the gold. How does 500 sound?"
-msgstr "我选金币。500怎么样？"
-
-#. [message]: speaker=Helicrom
-msgid "Agreed. Good luck and farewell to you, Master Baldras."
-msgstr "同意。祝你好运，再会，巴尔德拉斯长老。"
-
-#. [option]
-msgid ""
-"Send your men with us. They will be valuable help as we prepare for the "
-"assault from the Wesnoth army garrison."
-msgstr "派你的人跟随我们。他们在我们准备袭击韦诺军的守备部队会很有价值。"
-
-#. [message]: speaker=Helicrom
-msgid "Done. My finest mages and thieves are at your disposal. Use them well."
-msgstr "好。我最出色的法师和盗贼由你差遣。好好用他们。"
-
-#. [option]
-msgid "I wish you to join us in battle against the Queen’s forces."
-msgstr "我希望你能加入我们对付女王军队的战斗。"
-
-#. [message]: speaker=Helicrom
-msgid ""
-"All right. I need time to clean up this forest and recall my men from the "
-"countryside. We will be ready to march in seven days. All now hinges on you! "
-"Until then..."
-msgstr ""
-"行。我需要点时间整理下森林并召集我的乡下人民。我们会在7天内启程的。都靠你了！"
-"直到……"
-
-#. [message]: speaker=Helicrom
-msgid "My men... have failed to protect me! I perish..."
-msgstr "我的人……没能保护我！我死了……"
-
-#. [scenario]: id=07_The_Hunters
-msgid "The Hunters"
-msgstr "猎手"
-
-#. [part]
-msgid ""
-"Baldras and his men quickly left the Grey Woods, not entirely convinced of "
-"their safety even after eradicating the lich."
-msgstr ""
-"巴尔德拉斯和他的人快速离开了灰色森林，即使消灭了巫妖也没让他们完全确信自己是"
-"安全的。"
-
-#. [part]
-msgid ""
-"As they marched, many men and women from the small hamlets peppering the "
-"area around Carcyn and the Grey Woods approached the group, asking to join "
-"them. The ascent of the Queen had cast an uneasy pall over the citizens of "
-"Wesnoth, and some of them were willing to resist it."
-msgstr ""
-"他们行军时，大量男人和妇女们从小村庄涌向卡辛和灰色森林附近,赶上这队人，希望加"
-"入他们。女王的上位给韦诺的公民带来了不安，一些人决心反抗。"
-
-#. [part]
-msgid ""
-"Knowing they too would be labeled criminals, he reluctantly accepted their "
-"help.\n"
-"<b>Note:</b> Baldras is now able to recruit Outlaws."
-msgstr ""
-"清楚他们非常可能也会被归为罪犯，他不情愿地接受了他们的帮助。\n"
-"<b>注意：</b>巴尔德拉斯现在可以征募游寇。"
-
-#. [part]
-msgid ""
-"Camped at the edge of the forest, they quietly observed substantial troop "
-"movements coming from the direction of Aldril, a nearby city, and marching "
-"to the northwest. Unsure what to make of it, they debated their next course "
-"of action..."
-msgstr ""
-"他们驻扎在森林的边缘，悄悄的注意到大量的军队从艾迪尔方向，一个附近的城市，向"
-"西北面行进。虽不清楚原因，他们争论着他们的下一步行动……"
-
-#. [side]: type=Royal Guard, id=Archarel
-msgid "Archarel"
-msgstr "天使长"
-
-#. [side]: type=Iron Mauler, id=Linneus
-msgid "Linneus"
-msgstr "林尼亚斯"
-
-#. [objective]: condition=win
-msgid "Kill all enemy forces"
-msgstr "击败所有敌人军队"
-
-#. [event]
-msgid "Jingo"
-msgstr "沙文"
-
-#. [event]
-msgid "Majel"
-msgstr "马耶尔"
-
-#. [message]: speaker=Baldras
-msgid ""
-"The words of Lord Maddock have weighed heavy on me these past few days. It "
-"has dawned on me that we can never win. We will never defeat the entire army "
-"of Wesnoth. Idiocy! If the noble lord of Elensefar is unwilling to resist "
-"the Queen, how should I ever expect to?"
-msgstr ""
-"这几天马多克领主的话让我心情沉重。他暗示我我们不可能赢。我们无法打败整个韦诺"
-"军。白痴！要是埃仁撒伐的贵族领主都不愿意抵抗女王，我们该指望什么呀？"
 
 #. [message]: speaker=Harper
 msgid ""
-"What’s worse is that she appears to have taken notice. We have counted five "
-"platoons of heavy infantry marching towards the garrison in just the last "
-"two hours."
+"We’d never survive there. But would it be so bad if we just swore fealty to "
+"the Queen?"
 msgstr ""
-"更糟的是她似乎已经注意到了。刚刚两个小时里我们数了有五个重甲步兵团向要塞行"
-"进。"
 
 #. [message]: speaker=Baldras
-msgid ""
-"The garrison. The towers of Halstead are more than a garrison, nephew, they "
-"are a fortress. They used to protect this area from the enemies of Wesnoth; "
-"I never imagined they would house its enemies."
+msgid "Only if we gots no other choice. Let’s hear the mage’s plan first."
 msgstr ""
-"要塞。霍尔斯特德塔更不仅是个要塞，侄子，那是个堡垒。被韦诺军用来保护这片土"
-"地；我没想过那里会驻扎它的敌人。"
 
-#. [event]
-msgid "Pitcher"
-msgstr "大水罐"
+#. [message]: speaker=Helicrom
+msgid ""
+"I’m not asking you to fight a war. A direct fight against Weldyn’s armies "
+"would be undoubtedly foolish. However, we have other means within our grasp. "
+"From Dan Tonk to Halstead, the fastest path lies through the pass between "
+"the Brown Hills and the Gryphon Mountains followed by the trek through these "
+"Grey Woods. We are in prime position to gnaw away at their troops, crippling "
+"their forces before they ever arrive at their destination."
+msgstr ""
 
-#. [message]: speaker=Pitcher
-msgid "whisper^<i>Baldras!</i>"
-msgstr "（轻声）<b>巴尔德拉斯！</b>"
+#. [message]: speaker=Baldras
+msgid "Then what?"
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid "I am sure you can guess, magistrate."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "You means to sack Halstead itself."
+msgstr ""
 
 #. [message]: speaker=Harper
-msgid "Uncle, he wears the crest of the Elense. We should answer."
-msgstr "叔叔，他戴着埃仁斯的顶饰。我们该回答下。"
-
-#. [message]: speaker=Baldras
-msgid "Rider, hush before we are discovered! Come to us, but quietly!"
-msgstr "骑兵，在我们被发现前悄悄下来！快过来，别发出声音！"
-
-#. [message]: speaker=Pitcher
-msgid ""
-"Master Baldras, I bring news from the north. During the past week, several "
-"patrols have again ventured across the Great River into Annuvin. A woman "
-"named Relana opposed them with a small militia. She was victorious."
+msgid "There’s no way we can fight them all... can we?"
 msgstr ""
-"巴尔德拉斯长老，我带来了北方的消息。在上周，一些巡逻队再次冒险穿过泰河进入安"
-"努文。一个叫雷拉纳的女人率少量的民兵抵抗他们。她获得了胜利。"
-
-#. [message]: speaker=Majel
-msgid "This is surely good news!"
-msgstr "那真是个好消息！"
-
-#. [message]: speaker=Pitcher
-msgid ""
-"I am afraid it is not. The Queen is sending a branch of her main field army "
-"directly from Weldyn. As soon as they arrive, they will burn every village "
-"to the ground. No one will live."
-msgstr ""
-"恐怕这不是好消息。女王正把她的主力野战军的一支从维尔帝直接派到这里。他们一旦"
-"到达，便会烧平所有村庄。没人能活下来。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"The troop movements all make sense now. We must stop this army from reaching "
-"the garrison. We cannot swallow them whole, but we can gnaw away at them. "
-"They mustn’t take one step without us being there to harass and delay them. "
-"When they reach Halstead they must be exhausted or dying."
+"I don’t know. But, for now, ambushing them patrols be easy enough. That’ll "
+"slow them Wesnothians down enough for us to figure out the next step."
 msgstr ""
-"这些军队的行军现在都能感觉到了。我们必须阻止这支军队到达要塞。我们不能把他们"
-"全部歼灭，但我们能消耗他们。我们必须在他们行进的每一步骚扰拖延他们。当他们到"
-"达霍尔斯特德时他们绝对精疲力尽奄奄一息。"
+
+#. [message]: speaker=Helicrom
+msgid ""
+"In the last day, my scouts have counted five platoons of troops marching "
+"towards the garrison. We must eliminate them all before they reach the "
+"outpost at the end of the woods. The outpost also must not be alerted to our "
+"presence, or we will have the bulk of their forces upon us."
+msgstr ""
 
 #. [message]: speaker=Harper
-msgid "You just said we can’t beat their entire army!"
-msgstr "你说过我们不可能击败他们全部军队的！"
-
-#. [message]: speaker=Baldras
-msgid ""
-"Do you propose surrender? It’s this or nothing. All we can do is see it "
-"through to the end."
-msgstr "你要准备投降？这等于什么也没做。我们唯一所做的就是看着它结束。"
-
-#. [message]: speaker=Pitcher
-msgid ""
-"May you prevail in peace and war. I must depart before I am seen so far from "
-"my Lord’s borders."
-msgstr ""
-"也许你会赢得战争与和平的。我必须在我被发现远离我领主边界这么远前回去了。"
-
-#. [message]: speaker=Jingo
-msgid "Another platoon approaches..."
+#, fuzzy
+msgid "The first platoon approaches..."
 msgstr "另一团抵达……"
 
-#. [message]: speaker=Baldras
+#. [message]: speaker=Helicrom
+#, fuzzy
 msgid ""
-"When we are done, no one will fear the open roads and night sky more than "
-"the army of the usurper. Strike fast, strike silently... and leave no one "
-"alive."
+"My men and I shall pincer them from the other side of this path. When we are "
+"done, no one shall fear the open roads and night sky more than the armies of "
+"Weldyn. Strike quickly, strike silently... and leave no one alive."
 msgstr ""
 "要是我们搞定了，没人会比篡位者的军队还恐惧这大道和夜空了。迅速的攻击，悄悄的"
 "攻击……别让任何人活下来。"
 
 #. [message]: speaker=Linneus
-msgid "It’s an ambush! Hold your ground!"
+#, fuzzy
+msgid "It’s an ambush! Run!"
 msgstr "是埋伏！守住自己的阵地！"
+
+#. [message]: speaker=Helicrom
+msgid ""
+"Ah, here it is. I was wondering where I had misplaced my favorite blade."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Hey, I found some old coins in this shack."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Bleagh, a slimy tentacle. Why’s it so big?"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "There’s a rusty key here. I wonder if it could be useful?"
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "There is a waterlogged coffin here."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Hey, that key fits in this coffin. Should I open it?"
+msgstr ""
+
+#. [option]
+msgid "No, that be a terrible idea."
+msgstr ""
+
+#. [option]
+msgid "Fine, do it."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "What is this disgusting monster?"
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid ""
+"A ghoul, a creature of disease and pestilence. Kill the putrid thing. Its "
+"stench is making me sick."
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid ""
+"Disgusting though it may be, perhaps that creature’s corpse could be useful."
+msgstr ""
+
+#. [message]: speaker=unit
+msgid "Should I use this potion?"
+msgstr ""
+
+#. [option]
+msgid "Yes, I’ll use it."
+msgstr ""
+
+#. [object]: id=poison_weapon
+msgid "Vile Concoction"
+msgstr ""
+
+#. [object]: id=poison_weapon
+msgid ""
+"This unit’s melee weapons gain the poison special and this unit gains a "
+"small number of hitpoints."
+msgstr ""
+
+#. [option]
+msgid "No, I’ll leave it for someone else."
+msgstr ""
+
+#. [message]: type=Spearman
+msgid "Doesn’t something about these woods feel weird to you, sir?"
+msgstr ""
+
+#. [message]: type=Pikeman
+msgid "Afraid of ghosts, soldier?"
+msgstr ""
+
+#. [message]: type=Master at Arms
+msgid ""
+"Woods, woods, woods and more woods! Bah, that general had better have a good "
+"reason for dragging me out to Halstead with all these oafs."
+msgstr ""
+
+#. [message]: type=Duelist
+msgid "But cap’n, we’re your loyal troops..."
+msgstr ""
+
+#. [message]: type=Master at Arms
+msgid "Shut it and keep moving."
+msgstr ""
+
+#. [message]: speaker=Archarel
+msgid ""
+"Several platoons of troops were supposed to arrive today. I wonder if "
+"something happened to them."
+msgstr ""
+
+#. [message]: speaker=Archarel
+msgid ""
+"Something about these woods seems quite unnatural. Perhaps we should stop "
+"sending our soldiers this way."
+msgstr ""
+
+#. [message]: speaker=Archarel
+msgid ""
+"Troops, to arms! Show these fugitive scum the meaning of the Queen’s law!"
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid ""
+"With the outpost aware of our presence, we can no longer harry their "
+"reinforcements. Their forces will soon grow too powerful for us to resist."
+msgstr ""
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1425,100 +1686,118 @@ msgstr ""
 "第二天早晨，本地的夜间巡逻队返回附近的前哨。他们吃惊的看到他们的同伴们忙于应"
 "对如此之多的暴徒团伙。"
 
-#. [message]: speaker=Archarel
-msgid ""
-"Troops, to arms! These peasant scum think they are above the law. We will "
-"show them the law!"
+#. [message]: speaker=Baldras
+msgid "It be done. Their patrols be shattered and broken."
 msgstr ""
-"士兵们，准备战斗！这些乡下人渣以为他们能凌驾于法律之上。我们来告诉他们什么是"
-"法律！"
+
+#. [message]: speaker=Helicrom
+msgid ""
+"Well done, but the fight is far from over. We will not be able to employ "
+"these tactics when more platoons arrive. You must make your choice. Will you "
+"fight? Or will you return to your village and beg for amnesty?"
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"Amnesty? Knowing these Wesnothians, they’ll have my head. Then again, if I "
+"could gives my life to save my whole village, I would."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid "We need you! Uncle..."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"I know what you is going to say, Harper. That we should be fighting for our "
+"homes, just like we do against them orcs. But we be risking everything on "
+"this, lad."
+msgstr ""
+
+#. [message]: speaker=Harper
+msgid ""
+"If we go back like this, that means we’ll surrender to them Wesnothians and "
+"live our whole lives in oppression. You saw how they were sending so many "
+"soldiers and even orcs against us."
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid ""
+"The boy is naive, but his spirit is in the right place. You risk your homes "
+"and the lives of your people, yes, but what good will they be if you live in "
+"tyranny? Believe me, I have been there. I would rather die than go back."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid ""
+"Yes... Erwen would’ve said the same. If we march on Halstead, we gots to "
+"burn it to the ground before the Queen’s forces rally. If we does that, "
+"Weldyn won’t have no foothold in Annuvin no more."
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid ""
+"It would be months before they could reassemble their forces here. Enough "
+"time for you to secure your homes, or relocate."
+msgstr ""
+
+#. [message]: speaker=Baldras
+msgid "Then it be decided. We’ll attack the fort together. Luck be with us."
+msgstr ""
 
 #. [message]: speaker=unit
-msgid "Ow! Fire hot! No step in fire!"
-msgstr "噢！火很烫！别跳进去！"
-
-#. [message]: speaker=Baldras
 msgid ""
-"What a bloody mess. We must attack Halstead next. If we wait, they will "
-"become invincible. If we can burn it to the ground before that happens, our "
-"people may have a chance. Rest well tonight, because tomorrow’s battle will "
-"decide the fate of our homes, our families, and our freedom."
+"Lieutenant, we were assaulted by a band of outlaws en route to the outpost. "
+"We were barely able to evade them and make it here!"
 msgstr ""
-"多么血腥的会战啊。我们下一步必须进攻霍尔斯特德。如果我们等待，他们就变得没法"
-"战胜了。我们要是在那发生前把它烧毁夷为平地的话，我们的人民可能还有点机会。今"
-"晚好好休息，因为明天的战斗将决定我们家园，我们家庭，我们自由的命运。"
 
-#. [message]: speaker=Baldras
-msgid ""
-"Send word to Helicrom that we are ready. It is time for him to repay his "
-"debt."
-msgstr "捎个消息给黑里康说我们准备好了。到他还人情的时候了。"
-
-#. [message]: speaker=Baldras
-msgid ""
-"We have spent too much time here. Surely the entire Wesnoth army marches on "
-"our position. We are done for!"
+#. [message]: speaker=second_unit
+msgid "Look there! Outlaws and bandits roam these woods, harrying our patrols!"
 msgstr ""
-"我们在这里浪费了太多的时间。韦诺的整个军队现在肯定正向我们的位置进发。我们完"
-"蛋了！"
 
-#. [scenario]: id=08_Glory
+#. [message]: speaker=Helicrom
+msgid "This is the end for me..."
+msgstr ""
+
+#. [scenario]: id=07_Glory
 msgid "Glory"
 msgstr "荣耀"
 
 #. [part]
 msgid ""
-"In the Year of Wesnoth 161, the newly crowned king sought to tame the "
-"wildlands that separated the human cities surrounding Weldyn and the coastal "
-"regions of Elensefar once and for all."
+"From the Annals of Alduin, 98 YW\n"
+"\n"
+"One score and eight years ago, in 70 YW, the King of Wesnoth and the Lord of "
+"Elensefar signed a treaty of trade and alliance in order to further the "
+"security of humankind. The realization of this treaty required the creation "
+"of a safe path between Weldyn and Elensefar, with all manner of hostile "
+"creature or beast scoured from these civilized lands. From Dan Tonk, the "
+"establishment of Aldril and Carcyn secured the once hazardous passage "
+"alongside the Grey Woods, completing the way between the two cities. With "
+"this, the alliance can truly be deemed a coalition of men."
 msgstr ""
-"在韦诺纪元161年，新加冕的国王准备一劳永逸地驯服将围绕着维尔帝的人类城市群和埃"
-"仁撒伐水岸区域分隔开的荒原。"
 
 #. [part]
 msgid ""
-"The grand army of Wesnoth, personally led by the High Council of Archmagi, "
-"scoured the plains of all manner of hostile creature, be it beast, orc, or "
-"elf. The city-state of Elensefar was formally united to the kingdom and "
-"settlements rapidly spread. The country of Wesnoth had been carved in deed "
-"as well as in name."
+"To commemorate the concordat, six years ago, the Lords of Weldyn and "
+"Elensefar decreed that a monument be erected in the heart of these once "
+"wildlands. We, the magi of Alduin, lent our services to demonstrate the full "
+"prowess and might of human magic. Above a series of old catacombs in a scant "
+"hill, we spent these years raising an immense stronghold from the earth’s "
+"living rock."
 msgstr ""
-"韦诺大军，由大法师高级长老会亲自带领，扫荡平原上所有各种敌对生物，野兽、兽"
-"人、精灵。埃仁撒伐城邦正式并入王国的一部分，并且殖民快速扩展。韦诺王国的伟业"
-"就如同它的名字一样深深刻入人心。"
 
 #. [part]
 msgid ""
-"A monument to this achievement was erected in the very heart of the "
-"wildlands. In a twelve-year ritual, the High Council demonstrated the height "
-"to which human magic had grown over the years by drawing the monument "
-"directly from the earth’s living rock."
+"Completed, as it is on this day, this sentinel of the west now towers "
+"hundreds of paces tall, a great monolith looming sheer above the plains. The "
+"sight of these colossal walls, to even us magi, is both awe-inspiring and "
+"terrifying. So tall these towers peak and so mighty these walls arise that "
+"such a feat seems more like a force of nature than a work of man. That we "
+"have fashioned this mountain as insignificant humans is almost "
+"inconceivable. Halstead, as we have named it, is impenetrable. No one shall "
+"ever overcome these tidal waves of stone."
 msgstr ""
-"在荒野的正中心，这一伟业的纪念碑树立起来。高级长老会让纪念碑直接从陆地的原生"
-"岩石中拔地而起，在长达十二年的仪式中展示了人类的魔法水平在这些年中所增长到的"
-"高度。"
-
-#. [part]
-msgid ""
-"Hundreds of feet tall, the mountain towered high above the plains, its sheer "
-"walls both inspiring and terrifying. Men from all over the countryside "
-"labored there, building the most formidable fortress ever conceived. It "
-"became the Stronghold of Halstead."
-msgstr ""
-"这座山有数百尺高，它耸立在平原上，它峻峭的墙壁即鼓舞人心又令人恐惧。所有的郊"
-"外的人都在那里劳动，建造被认为是最坚固的堡垒。这就是霍尔斯特德要塞。"
-
-#. [part]
-msgid ""
-"This sentinel of the western plains stood watch as Wesnoth prospered for "
-"many centuries under its protection. No war has overcome it, and its walls "
-"have never been overrun. The blood of invaders stains its parapets and the "
-"bones of the defeated crumble at the base of Halstead’s frozen waves of "
-"stone."
-msgstr ""
-"这一西部平原的哨卫坚守岗位，而韦诺在它提供的保护下繁荣了很多世纪。没有一次战"
-"争攻克过它，也没有谁跨越过它的城墙。侵略者的血涂满它的扶手，而战败者的骨头碎"
-"在霍尔斯特德干冻石流的地基之上。"
 
 #. [side]: type=General, id=Dommel
 msgid "Dommel"
@@ -1533,132 +1812,129 @@ msgid "Destroy the stronghold of Halstead"
 msgstr "摧毁霍尔斯特德的要塞"
 
 #. [message]: speaker=Baldras
-msgid "There it is. The stronghold of Halstead."
+#, fuzzy
+msgid "There be it. The stronghold of Halstead."
 msgstr "这就是。霍尔斯特德的要塞。"
 
 #. [message]: speaker=Harper
+#, fuzzy
 msgid ""
-"Look at how tall it is! Those towers rise sheer out of the ground, as if "
-"called forth out of the earth."
+"Look at how tall it is! Those towers be so sheer and smooth, it almost looks "
+"like magic called them up out of the earth!"
 msgstr "看它有多高啊！这些塔峻峭立在土地上，好似从地里召唤出来的。"
 
 #. [message]: speaker=Baldras
 msgid ""
-"That may not be too far from the truth. During the time of the Great Kings "
-"of Wesnoth, this land was tamed with powerful magic. Wizards of an ancient "
-"era forged the walls of Halstead from the rock below."
+"Aye, there may be some truths in that. Old stories tells us that in times "
+"past, Elensefar and Weldyn had some real strong mages, much more adept than "
+"them ones who only be politicking nowadays. They helped tame the lands "
+"between the cities and forged the walls of Halstead itself to honor the "
+"alliance."
 msgstr ""
-"说的八九不离十。在韦诺伟大国王时代，这片土地被强大的魔力开垦。远古时代的术士"
-"们从石头下面造出了霍尔斯特德的城墙。"
 
 #. [message]: speaker=Harper
-msgid ""
-"I don’t see how we can bring it down. They are already invincible in there!"
+#, fuzzy
+msgid "I don’t see how we can bring it down. They seem invincible in there!"
 msgstr "我看不出怎样才能让它倒塌。他们在那里已经是不可战胜的了！"
 
-#. [message]: speaker=Helicrom
-msgid ""
-"No, my young friend. Halstead indeed has a weakness. Among my many assets is "
-"access to a wealth of secrets few in Wesnoth are privy to."
+#. [message]: speaker=Baldras
+msgid "Indeed..."
 msgstr ""
-"不，我年轻的朋友。霍尔斯特德事实上有个弱点。我花费大量的资产就为了知道韦诺很"
-"少人知道的惊人秘密。"
 
 #. [message]: speaker=Helicrom
 msgid ""
-"You see, the mountain on which the fort was built is solid, but the castle "
-"on top has been built and rebuilt many times over the ages. It is not as "
-"indestructible as you might think."
+"Worry not, Halstead has a weakness. What Baldras spoke was partly true. "
+"Previous orders of magi did help erect the fortress. What is not made known "
+"to most is that the original construction of the castle was flawed."
 msgstr ""
-"你知道，堡垒建造在山上山是坚固的，但顶上的城堡在过去的时期里被建立和重建了许"
-"多次。它并不是如你所想的那样不可破坏。"
 
 #. [message]: speaker=Helicrom
 msgid ""
-"Beneath the structure is a system of catacombs that connects all four towers "
-"to the central keep. Over time, after many wars, supports were required to "
-"hold up the middle."
+"These walls were raised over a system of catacombs, which connect the four "
+"towers to the central keep. Though they appear impressive, the tunnels were "
+"never meant to hold up such a tremendous weight. Supports were added later "
+"to hold up the middle, which eventually began to collapse without them. "
+"Naturally, this was made secret by the magi, who did not want others to "
+"learn of their error."
 msgstr ""
-"在建筑之下是个连接四个塔楼到中枢要塞的地下墓穴。在过去，经历了许多战争，都需"
-"要支撑物支撑着中间。"
 
 #. [message]: speaker=Harper
+#, fuzzy
 msgid ""
-"So... we can knock out the supports and bring down the stronghold of "
-"Halstead. Would it really work?"
+"So... we can knock out the supports and bring down the main keep. Would it "
+"really work?"
 msgstr "所以……我们打破支撑物然后毁掉霍尔斯特德的要塞。真的会如此吗？"
 
 #. [message]: speaker=Helicrom
-#. [message]: speaker=Baldras
+#, fuzzy
 msgid ""
-"I believe it will. Each tower has a passage down to the catacombs. If we can "
-"reach the center of each tower, one of our men can escape down to the bowels "
-"of the mountain and destroy its support. I am sure we will need to demolish "
-"no less than all four supports to raze the fortress."
+"I believe it will. Each tower has a passage down to the catacombs. We must "
+"enter the tunnels and demolish all four supports, then the fortress should "
+"crumble."
 msgstr ""
 "我相信会的。每个塔都有通往地下墓穴的通道。如果我们可以达到每个塔的中心，我们"
 "中的某位就可以溜进山的内部并摧毁它的支撑物。我敢肯定我们要毁掉不少于所有的四"
 "个支撑物就可以把这个堡垒夷为平地。"
 
 #. [message]: speaker=Baldras
-msgid "No, young one. Halstead indeed has a weakness."
-msgstr "不，年轻人。霍尔斯特德实际上有个弱点。"
-
-#. [message]: speaker=Harper
-msgid "How do you know?"
-msgstr "你怎么知道的？"
-
-#. [message]: speaker=Baldras
-msgid ""
-"When I was a boy, my father — your grandfather — brought your mother and me "
-"to live in Aldril after orcs massacred many in our village. We grew up "
-"around here, and we learned many things."
+msgid "Let’s hope you be right. Everything be hinging on this battle."
 msgstr ""
-"当我还是个孩子时，在兽人屠杀了我们村子里许多人后，我的父亲——你的祖父——带你的"
-"父亲和我去艾迪尔生活。我们是在这附近长大的，而我们也学到了许多。"
 
-#. [message]: speaker=Baldras
+#. [message]: speaker=Vashna
 msgid ""
-"Beneath the structure is a system of catacombs that connects all four towers "
-"to the central keep. The catacombs growing over time, combined with "
-"centuries of war, made it necessary to install supports to hold up the "
-"middle."
+"Dommel! The Queen has sent me and my warriors to support your forces. We "
+"come to squash the puny peasant rebellion."
 msgstr ""
-"在建筑之下是个连接四个塔到中枢要塞的地下墓穴。这个地下墓穴过去一直不断扩建，"
-"加由几百年来的战争，让它难免要安装了支撑物以支撑中间。"
 
-#. [message]: speaker=Harper
-msgid ""
-"I hope you’re right. In a few hours, night will fall, and we will find out."
-msgstr "我希望你是正确的。几个小时内，黑夜会降临，我们会找出来的。"
-
-#. [message]: speaker=Baldras
-msgid ""
-"We must be cautious. Look there, a substantial orc force is also advancing "
-"on Halstead. They must think Wesnoth’s army is spread out right now."
+#. [message]: speaker=Dommel
+msgid "I received no word from Her Majesty of your arrival, orc."
 msgstr ""
-"我们必须小心。看那里，相当多的兽人军队也正向霍尔斯特德推进。他们一定是想韦诺"
-"的军队现在离开了。"
 
-#. [message]: speaker=Harper
-msgid "Heh. They’re in for a surprise. This may work to our advantage."
-msgstr "哼哼。他们会大吃一惊的。这对我们有利。"
+#. [message]: speaker=Vashna
+msgid "I have the orders right here."
+msgstr ""
+
+#. [message]: speaker=Dommel
+msgid ""
+"I do not care. I would be a fool and an oaf to let a band of stinky raider "
+"orcs into Halstead without a fight."
+msgstr ""
+
+#. [message]: speaker=Vashna
+msgid ""
+"What? Now look here, you coddled pinkskin. Your helpless ‘soldiers’ have "
+"been getting bested by a filthy bunch of vagrant bandits. Your army is as "
+"useless as you are pink. The Queen sent us here to clean up the mess that "
+"you are clearly too stupid to fix on your own."
+msgstr ""
+
+#. [message]: speaker=Dommel
+msgid ""
+"A fine story. Most likely, this is a pitiful excuse for you to enter our "
+"fortress to plunder our armory. Even if Her Majesty did order you here, we "
+"have no need for the help of you uncouth orcs. We have always managed just "
+"fine without you."
+msgstr ""
+
+#. [message]: speaker=Vashna
+msgid ""
+"Yeah? Well, we will see how fine you manage <i>against</i> us. I’ll show you "
+"just how weak you pinkskins are."
+msgstr ""
+
+#. [message]: speaker=Dommel
+msgid "Come try it, cretin."
+msgstr ""
+
+#. [message]: speaker=Helicrom
+msgid ""
+"Infighting among the forces of Weldyn does not bode well for the new queen, "
+"but is awfully convenient for us..."
+msgstr ""
 
 #. [message]: role=farseer
 msgid "Look in the distance... riders approach!"
 msgstr "看远处……骑兵来了！"
-
-#. [message]: speaker=Baldras
-msgid "Who is it?"
-msgstr "那是谁？"
-
-#. [message]: role=farseer
-msgid "Help, I hope. Circumstances cannot afford to get much more dire."
-msgstr "援助，我希望。现在情况已经无法承受更糟了。"
-
-#. [message]: speaker=Baldras
-msgid "Riders approach from the northwest! Stand fast, men."
-msgstr "骑兵从西北面来了！大家顶住。"
 
 #. [unit]: type=Paladin, id=Sir Gwydion
 msgid "Sir Gwydion"
@@ -1668,29 +1944,44 @@ msgstr "格威迪恩爵士"
 msgid "Sound the advance!"
 msgstr "听令！"
 
+#. [message]: type=Lancer
+msgid "At your order, my liege."
+msgstr ""
+
 #. [message]: speaker=Sir Gwydion
 msgid ""
-"Knights of Elensefar, behold: the battle has already begun! Make camp here. "
-"Then, we charge!"
-msgstr "埃仁撒伐的骑士们，看：战斗已经开始了！在此地扎营。然后，我们冲锋！"
-
-#. [message]: speaker=Baldras
-msgid ""
-"Amazing. Lord Maddock sent his house guards... his finest troops! Elensefar "
-"must be defenseless now. More hinges on this battle than I thought."
+"Lo, Knights of Elensefar, the battle hath begun ere our arrival. Though I "
+"disobey my father in this endeavor, our presence surely is much needed."
 msgstr ""
-"奇怪。马多克领主派出了他的亲卫……他的最精锐的部队！埃仁撒伐现在一定空虚了。这"
-"场战斗比我想的还要关键。"
+
+#. [message]: speaker=Sir Gwydion
+msgid ""
+"Ready thine lances, mine brethren. Let us charge down the armies of Weldyn!"
+msgstr ""
 
 #. [message]: role=farseer
 msgid ""
-"Baldras, Gwydion is Lord Maddock’s son. This battle isn’t just about Annuvin "
-"anymore."
+"A horde of knights, bearing the emblem of Elensefar! Amazing. I’ve never "
+"seen me so many riders in one place."
+msgstr ""
+
+#. [message]: speaker=Baldras
+#, fuzzy
+msgid ""
+"Gwydion be Lord Maddock’s son... more be hinging on victory than I thought. "
+"This battle don’t just be about our little villages no more."
 msgstr "巴尔德拉斯，格威迪恩是马多克领主的儿子。这场战争并不仅仅和安努文有关。"
 
 #. [message]: speaker=narrator
 msgid ""
-"That afternoon, another advance element of the main Wesnoth army arrived..."
+"Not even a full day had passed before the first advance elements of "
+"Wesnoth’s main army began to arrive..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#, fuzzy
+msgid ""
+"That morning, another advance element of the main Wesnoth army arrived..."
 msgstr "那个下午，另一队先头的韦诺主力军队到达了……"
 
 #. [message]: speaker=Dommel
@@ -1703,12 +1994,13 @@ msgid "They have breached the fortress gate! Repulse them!"
 msgstr "他们已经破坏了堡垒大门！击退他们！"
 
 #. [message]: speaker=unit
-msgid "I’m inside the tower! I’m going down to the catacombs — cover me."
+#, fuzzy
+msgid "I’m inside! I’m heading down to the catacombs."
 msgstr "我进到塔里了！我准备下到地下墓穴里——掩护我。"
 
 #. [message]: speaker=narrator
-msgid "After about an hour..."
-msgstr "一个小时后……"
+msgid "After some time..."
+msgstr ""
 
 #. [message]: speaker=unit
 msgid "It’s done."
@@ -1719,19 +2011,22 @@ msgid "The stronghold of Halstead began to shake..."
 msgstr "霍尔斯特德的要塞开始震动……"
 
 #. [message]: speaker=unit
-msgid "We cannot stay here. The fortress has started to collapse!"
+#, fuzzy
+msgid "We can’t stay here. The fortress is starting to collapse!"
 msgstr "我们不能呆在这里。堡垒开始倒塌了！"
 
 #. [message]: speaker=Baldras
-msgid "I think it’s working! Everybody get clear <i>now</i>!"
+#, fuzzy
+msgid "I think it be working! Everybody get clear!"
 msgstr "我想这起作用了！大家<b>快撤</b>！"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "With a thunderous roar and a vast billowing of dust, thousands of tons of "
-"stone and wood crashed in on itself. Some of it tumbled down the steep "
-"sides, while the remainder came to rest several hundred feet below ground, "
-"in the bowels of the hollowed-out mountain."
+"stone and wood crashed in on itself. Some of the wreckage tumbled down the "
+"steep sides, while the remainder came to rest several hundred feet below "
+"ground, in the bowels of the hollowed-out mountain."
 msgstr ""
 "随着雷鸣般的震动和满天的滚滚浓烟，数千吨的石木原地倒塌。有些滚下了悬崖，剩下"
 "的沉入几百尺的地下，在空心山的内部。"
@@ -1741,17 +2036,18 @@ msgid "No one inside the fortress would make it out alive."
 msgstr "任何城堡内的人都不会活着出来了。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"After more than a week of fierce fighting, the main body of Asheviere’s host "
-"arrived from Weldyn. The battle was soon finished. Every last man from the "
-"Province of Annuvin was executed."
+"After several days of fierce fighting, the main body of Weldyn’s host "
+"arrived. The battle was soon finished. Every last man from the rebellion was "
+"executed."
 msgstr ""
 "在超过一星期的的激烈战斗之后，从维尔帝出发的艾什薇尔主力部队到达了。战斗很快"
 "就结束了。来自安努文省的所有人皆被处死。"
 
 #. [message]: speaker=Baldras
-msgid "Men, help me out of here! I am trapped under this rubble."
-msgstr "伙计们，帮我从这里逃出去！我陷在碎石堆里了。"
+msgid "The fort be done with... but I be crushed... under this rubble..."
+msgstr ""
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1761,171 +2057,148 @@ msgstr ""
 "没人能及时救出巴尔德拉斯。他和他许多的同伴在那天都死在霍尔斯特德要塞的下面。"
 
 #. [message]: speaker=Baldras
-msgid "I hope this sacrifice is not in vain... but we will never know."
-msgstr "我希望这牺牲不会白费……但我们永远也不会知道了。"
-
-#. [message]: speaker=Baldras
-msgid "Our dream of freedom... gone... Unngh."
-msgstr "我们的自由之梦……消逝了……呃呃呃啊。"
+msgid "I knew... this wouldn’t work..."
+msgstr ""
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "The rebellion had staked its all on victory at Halstead, but win or lose, "
-"there would be no help for the villagers, ground beneath the wheels of "
-"Asheviere’s wrath."
+"there would be no help for the doomed villagers."
 msgstr ""
 "霍尔斯特德的叛乱已经孤注一掷，但无乱输赢，都不会给村民带来任何帮助，在艾什薇"
 "尔的愤怒前只是螳臂当车罢了。"
 
 #. [message]: speaker=Harper
-msgid "Uncle!"
-msgstr "叔叔！"
-
-#. [message]: speaker=Baldras
-msgid "NO!"
-msgstr "不！"
-
-#. [message]: speaker=Baldras
-msgid "I promised your father I would watch after you... and I failed."
-msgstr "我向你的父亲保证我会照顾你……但我没能。"
-
-#. [message]: speaker=Baldras
-msgid ""
-"But we are so close to the end. We must finish this. I am sorry you will not "
-"be able to enjoy our freedom. Goodbye, Harper."
+msgid "Unngh..."
 msgstr ""
-"但我们是如此接近目标。我们一定完成它。很遗憾你不能享受我们的自由了。再见，哈"
-"珀。"
+
+#. [message]: speaker=Baldras
+#, fuzzy
+msgid "Harper, no!"
+msgstr "哈珀"
 
 #. [message]: speaker=Helicrom
-msgid ""
-"Carry on, my friends. Fighting by your side is the most honorable thing I "
-"have done..."
-msgstr "继续，我的朋友们。与你们并肩作战是我做过的最光荣的事……"
+msgid "Ended... like this? Fight on without me..."
+msgstr ""
 
 #. [message]: speaker=second_unit
-msgid "Your reign of terror is over, General."
+#, fuzzy
+msgid "Your time is over, General."
 msgstr "你的恐怖统治结束了，将军。"
 
 #. [message]: speaker=Dommel
 msgid ""
-"You will never successfully oppose Asheviere. Her power is too great... This "
-"small victory today is but a reprieve from the unimaginable pain you will "
-"suffer when the full force of her wrath descends upon you."
+"I may be done... but my death shall only bring the full wrath of the Crown "
+"upon you... relish your small victory, peasants, while you still can..."
 msgstr ""
-"你对抗艾什薇尔决不会成功的。她的力量太强大了……当她愤怒的全力降临到你头上时，"
-"今天的小胜不过是你暂缓忍受她的无法想象的痛苦。"
 
-#. [message]: speaker=Baldras
-msgid ""
-"This was no small victory. You underestimate the power of love for freedom."
-msgstr "这可不是小胜。你低估了自由之爱的力量。"
+#. [message]: speaker=Vashna
+msgid "Grrarrghh... you... fools..."
+msgstr ""
 
 #. [message]: speaker=Dommel
-msgid ""
-"You... underestimate the... cruelty and ambition of your Queen... Uungh..."
-msgstr "你……低估了……你女王的残酷和野心……呃呃呃啊……"
+msgid "Idiot orc. Know your place."
+msgstr ""
 
-#. [message]: speaker=Baldras
-msgid ""
-"Small victory? Bah! Now we will raze this fortress and bury it in the earth "
-"from whence it came."
-msgstr "小胜？呸！现在我们会毁掉城堡并把它埋到土里，那是它来的地方。"
-
-#. [scenario]: id=09_Epilogue
+#. [scenario]: id=08_Epilogue
 msgid "Liberty — Epilogue"
 msgstr "自由——后记"
 
 #. [part]
 msgid ""
-"The rest of the battle was a blur. The shock of what had happened stunned "
-"everybody."
-msgstr "剩下的战斗无人知晓详情。这发生的冲突震惊了所有人。"
-
-#. [part]
-msgid ""
-"Baldras and his men fled the plains of western Wesnoth under the cover of "
-"night. The spectacle of Halstead’s destruction stunned them into a daze that "
-"only slowly wore off as they made their way north to and past Elensefar."
+"03 Scryer’s Bloom, 501 YW\n"
+"\n"
+"It were a real shock. I were so stunned, I barely even remember what "
+"happened after."
 msgstr ""
-"巴尔德拉斯和他的人在夜幕的掩护下逃到韦诺西部的平原。霍尔斯特德毁灭的场面吓得"
-"他们陷入迷茫，在他们向北去并经过埃仁撒伐时才慢慢消散。"
 
 #. [part]
 msgid ""
-"The Elense riders routed the orcish army, small as it was, and sent them "
-"back across the Great River. They then scattered to the countryside and were "
-"not heard from again. Baldras thought this behavior odd when he heard about "
-"it."
+"Helicrom, I don’t know what happened to him, didn’t see what happened to "
+"Maddock’s son either. Me and Harper and the few of us who survived got up "
+"and ran. We be heading back north now, toward Carcyn and Elensefar. Them "
+"patrols seems to be in real disarray, mostly seeming to be riding back south "
+"to regroup. It be looking like we really did disrupt Weldyn’s chain of "
+"command."
 msgstr ""
-"埃仁斯的骑兵们击溃了兽人军队，尽管是支小部队，并把他们逼退回泰河对岸。而后，"
-"他们在郊野之中四散，再也没人听到过他们的消息。巴尔德拉斯听说这事时，认为这真"
-"是古怪的行为。"
 
 #. [part]
 msgid ""
-"As the main body of Asheviere’s army neared the ruins of Halstead, strange "
-"things began to happen. Every night, men would disappear. Others were found "
-"hacked to bloody pieces. Unexplained misfortune plagued the marching "
-"columns. Soldiers dropped dead where they stood, slain by unseen assassins. "
-"Fear of an undead menace spread through the ranks."
+"I’m sure them Wesnothians will come back in time and with Maddock holed up "
+"in his stupid tower, they’ll eventually siege Elensefar and take the city... "
+"but that don’t be my problem anymore. I has me a village to worry about. I "
+"need to get back, consult myself with Relana and figure out what to do next. "
+"We gots some more time now, but we can’t wait forever."
 msgstr ""
-"当艾什薇尔的主力军接近霍尔斯特德的废墟时，奇怪的事发生了。每个晚上都有人会消"
-"失。另一些人被发现被砍成带血的碎块。莫名的灾难折磨着行进中的队列。士兵们站着"
-"就倒地身亡，被看不见的刺客杀害了。对亡灵威胁的恐惧在队列中蔓延。"
 
 #. [part]
 msgid ""
-"When the army of Wesnoth found the ruins of the mighty fortress Halstead, it "
-"was too much. Their shock that such a thing could happen combined with the "
-"invisible terror stalking them convinced Asheviere’s second in command the "
-"entire countryside was cursed. He quickly retreated to the traditional "
-"border and set up strong defenses against the west."
+"10 Scryer’s Bloom, 501 YW\n"
+"\n"
+"We got back to Dallben today, but the village were empty. There were a few "
+"bodies and some burned houses, but it weren’t raided or nothing. Must’ve "
+"been one of them Wesnoth patrols, curse those damned stinkers! When I first "
+"saw the scene with my eyes, I thoughts that we failed, that we was too "
+"late... but now that I thinks of it, it be real weird that so few died. The "
+"others must’ve escaped to somewhere. But I didn’t see any clues here."
 msgstr ""
-"当韦诺军发现雄伟堡垒霍尔斯特德的废墟时，太迟了。他们震惊于这样的事竟会发生，"
-"并且无形的恐怖悄悄跟随，进而使他们确信艾什薇尔的支持者在整个郊区都是被诅咒"
-"的。他快速的撤退到传统边界上并建立了对西部的坚固防线。"
 
 #. [part]
 msgid ""
-"Baldras had just crossed the Great River when rumors of night-stalkers "
-"filtered through his ranks. With bitter humor he realized that Lord "
-"Maddock’s men were successfully using tactics Baldras had mastered and used "
-"during his resistance."
+"I sended Harper off to Delwyn. Hope he’ll find something there. In the "
+"meantimes, I’ll rest this tired body for a little and go see sis, maybe pick "
+"her up some lilies. Seems like this’ll probably be the last time I gets to "
+"see her..."
 msgstr ""
-"当潜夜杀手的流言传到巴尔德拉斯的队伍时，他刚刚渡过泰河。带着黑色幽默，他明白"
-"是马多克领主的手下成功地使用了巴尔德拉斯曾在反抗中使用和精通的战术。"
 
 #. [part]
 msgid ""
-"The peasants-turned-outlaws finally reached Dallben. It was burnt to the "
-"ground. In a panic, they raced through the forest to Delwyn. It was likewise "
-"devastated. However, they did find one clue as to what happened..."
+"She’ll tell me not to be sad, of course. That life just be a big adventure "
+"and filled with fun, that I shouldn’t think about stuffs I can’t change. The "
+"world be huge and vast, much bigger than small little people like me. I "
+"don’t got the power to change it, so why not try to live as best I can? "
+"Besides, she’ll say that I still gots me a little piece of her in Harper, so "
+"I should cherish the lad."
 msgstr ""
-"这群逼上梁山的人们最终达到了达尔本。这已经被烧夷为平地了。带着恐慌，他们穿过"
-"森林跑到德尔文。这也同样的被摧毁了。然而，他们找到一条了发生什么事的线索……"
 
 #. [part]
 msgid ""
-"... a grimy note nailed to a charred post that read, <i>“Baldras, You would "
-"have been proud. We gave ’em hell. But in the end, it wasn’t enough.”</i>"
+"I do, Erwen, I really do. This all be real hard. I don’t be no brave soul, "
+"nor some great warrior, but I does my best. And I haven’t forgotten about "
+"all them good times we had together ― somehow, some way, they keeps me "
+"going. Me and Harper, we won’t give up till the very end."
 msgstr ""
-"……一个肮脏的便条钉在烧焦的标杆上，上面写着，<b>“巴尔德拉斯，你该自豪。我们给"
-"他们个地狱。但最后，这还不够。”</b>"
 
 #. [part]
 msgid ""
-"<i>“We fled like criminals in the night, but we made sure that no one would "
-"harass us anymore.”</i>"
-msgstr "<b>“我们在晚上像个罪犯样逃亡，但我们肯定没人再骚扰我们了。”</b>"
-
-#. [part]
-msgid ""
-"<i>“If you wish to find us, head southwest. When you reach the land’s end, "
-"just keep going. See you in the Three Sisters, old friend. ― Relana”</i>"
+"14 Scryer’s Bloom, 501 YW\n"
+"\n"
+"Harper got back today from Delwyn. Said he didn’t find no one alive there, "
+"but he did bring back a note he found. Let’s see what it says."
 msgstr ""
-"<b>“如果你想找我，朝西南面走。当你到达陆地的边缘时，继续前进。在三姐妹岛再"
-"会，老朋友。——雷拉纳”</b>"
+
+#. [part]
+msgid ""
+"<i>“Baldras, you would’ve been proud. We fought them soldiers off twice, "
+"gave them a good ol’ thrashing they won’t ever forget. But in the end, it "
+"weren’t enough. We had to run like criminals before they killed us all.”</i>"
+msgstr ""
+
+#. [part]
+msgid ""
+"<i>“I don’t know if you and Harper will see this note, but if you do, I’m "
+"expecting ya to come find us. Remember them ol’ pirate islands we used to "
+"hear some of them Elensefar sailors talk about? We be heading there, "
+"southwest of the city and past the land’s end. See you in the Three Sisters, "
+"old friend. ― Relana”</i>"
+msgstr ""
+
+#. [part]
+msgid ""
+"So they survived! Them islands be a bit far, but I suppose this sack of old "
+"bones has one more adventure left in it..."
+msgstr ""
 
 #. [unit_type]: id=Bone Knight, race=undead
 msgid "Bone Knight"
@@ -2171,27 +2444,14 @@ msgstr ""
 "忍的沼泽巨鼠（译注：出自星球大战）并能追踪他们领地上任何移动的东西。"
 
 #. [message]: speaker=Baldras
-msgid "Tell my wife... that I loved her!"
-msgstr "告诉我妻子……我爱她！"
-
-#. [message]: speaker=Harper
-msgid "Unngh... Now our people may never be free..."
-msgstr "呃……我们的人民再也无法自由了……"
+msgid "I’m coming... Erwen..."
+msgstr ""
 
 #. [message]: speaker=Relana
-msgid "I am finished... will we ever be free?"
-msgstr "我生命结束了……我们是不是永远自由了？"
+msgid "I’m finished..."
+msgstr ""
 
 #. [message]: speaker=Lord Maddock
-msgid "How can this be? We have lost."
+#, fuzzy
+msgid "How can this be?"
 msgstr "怎么会这样？我们失败了。"
-
-#. [message]: speaker=narrator
-msgid ""
-"They returned to their village to find it destroyed, with those who fought "
-"left dead and the few survivors borne away to unknown fates. It was a bitter "
-"doom, but as Asheviere’s grip tightened they would live to see worse."
-msgstr ""
-"他们回到了自己的村庄，却发现村庄已经被摧毁了，那些斗争的人都死了，少数幸存的"
-"人背井离乡，面对无法预测的命运。这是苦涩的终末，但被艾什薇尔紧紧掌控他们会生"
-"活得更糟。"

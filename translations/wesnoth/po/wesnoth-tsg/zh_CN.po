@@ -6,12 +6,12 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -45,17 +45,7 @@ msgstr ""
 
 #. [campaign]: id=The_South_Guard
 #, fuzzy
-msgid ""
-"This campaign is designed as an introduction to Wesnoth. The ‘Civilian’ "
-"difficulty level is aimed at first-time players."
-msgstr ""
-"一位年轻的骑士德欧兰接受派遣，前去接管南疆卫队。\n"
-"\n"
-"注：本战役是作为韦诺的入门战役来设计的。“平民”难度面向第一次游玩的玩家。\n"
-"\n"
-
-#. [campaign]: id=The_South_Guard
-msgid "(Rookie level, 9 scenarios.)"
+msgid "(Novice level, 8 scenarios.)"
 msgstr "（菜鸟级别，9幕场景。）"
 
 #. [campaign]: id=The_South_Guard
@@ -87,6 +77,11 @@ msgid "Campaign Design"
 msgstr "战役设计"
 
 #. [about]
+#, fuzzy
+msgid "Latest Campaign Revision"
+msgstr "战役设计"
+
+#. [about]
 msgid "Campaign Maintenance"
 msgstr "战役维护"
 
@@ -98,13 +93,13 @@ msgstr "美工和图形设计"
 msgid "Born to the Banner"
 msgstr "为旗而生"
 
-#. [side]: type=Horseman Commander, id=Deoran
 #. [side]: id=Deoran
+#. [side]: type=Horseman Commander, id=Deoran
 msgid "Deoran"
 msgstr "德欧兰"
 
-#. [side]: type=Horseman Commander, id=Deoran
 #. [side]: id=Deoran
+#. [side]: type=Horseman Commander, id=Deoran
 msgid "South Guard"
 msgstr "南疆卫队"
 
@@ -112,11 +107,11 @@ msgstr "南疆卫队"
 msgid "Urza Mathin"
 msgstr "乌扎·马辛"
 
-#. [side]: type=Outlaw, id=Urza Afalas
+#. [side]: type=Bandit, id=Urza Mathin
+#. [side]: type=Outlaw, id=Urza Nalmath
 #. [side]: type=Rogue, id=Urza Fastik
 #. [side]: type=Outlaw, id=Jera Ilras
-#. [side]: type=Outlaw, id=Urza Nalmath
-#. [side]: type=Bandit, id=Urza Mathin
+#. [side]: type=Outlaw, id=Urza Afalas
 msgid "Bandits"
 msgstr "强盗"
 
@@ -569,6 +564,18 @@ msgstr "罪犯"
 msgid "female^Criminal"
 msgstr "罪犯"
 
+#. [objective]: condition=win
+msgid "Bring Deoran to the Citadel of Westin"
+msgstr "带德欧兰到韦斯廷堡垒"
+
+#. [objective]: condition=win
+msgid "Defeat Urza Nalmath, the bandit leader"
+msgstr "击败土匪首领，乌扎·纳尔马什"
+
+#. [objective]: condition=lose
+msgid "Death of Minister Hylas"
+msgstr "海拉斯辅佐官死亡"
+
 #. [message]: speaker=Deoran
 msgid ""
 "Look there! Smoke rises from Westin! The bandits must have already overrun "
@@ -588,18 +595,6 @@ msgid ""
 msgstr ""
 "什么？！有韦诺士兵从北方要塞过来……那说明我的兄弟马辛肯定死了。那些魔鬼，他们"
 "将为他的死付出代价！"
-
-#. [objective]: condition=win
-msgid "Bring Deoran to the Citadel of Westin"
-msgstr "带德欧兰到韦斯廷堡垒"
-
-#. [objective]: condition=win
-msgid "Defeat Urza Nalmath, the bandit leader"
-msgstr "击败土匪首领，乌扎·纳尔马什"
-
-#. [objective]: condition=lose
-msgid "Death of Minister Hylas"
-msgstr "海拉斯辅佐官死亡"
 
 #. [message]: speaker=unit
 msgid "I have reached the citadel!"
@@ -883,6 +878,10 @@ msgstr "精灵"
 msgid "Ethiliel"
 msgstr "艾茜莉尔"
 
+#. [objective]: condition=win
+msgid "Move Deoran to the Elvish city in the western woods"
+msgstr "移动德欧兰至西方丛林中的精灵城市处"
+
 #. [message]: speaker=narrator
 msgid ""
 "Deoran and his men came to the eastern border of the Aethenwood, where the "
@@ -949,10 +948,6 @@ msgstr ""
 "你必须将德欧兰移动至精灵堡垒的中心。在将德欧兰从营地里移动出来之前，确保征募"
 "一支足以驱逐土匪的强大军队！"
 
-#. [objective]: condition=win
-msgid "Move Deoran to the Elvish city in the western woods"
-msgstr "移动德欧兰至西方丛林中的精灵城市处"
-
 #. [message]: speaker=Deoran
 msgid "There is so much ground to cover. If only our riders would arrive!"
 msgstr "路途真是漫长。要是我们的骑手能赶到就好了！"
@@ -1015,17 +1010,6 @@ msgstr "林德里翁"
 msgid "Mithalwe"
 msgstr "米撒尔韦"
 
-#. [unit]: type=Elvish Marshal, id=Ithelden
-#. [event]
-msgid "Ithelden"
-msgstr "伊希尔登"
-
-#. [event]
-#. [side]: type=Elvish Avenger, id=Eltenmir
-#. [unit]: type=Elvish Avenger, id=Eltenmir
-msgid "Eltenmir"
-msgstr "埃尔滕米尔"
-
 #. [event]
 msgid "Vardanos"
 msgstr "瓦达诺斯"
@@ -1033,6 +1017,16 @@ msgstr "瓦达诺斯"
 #. [event]
 msgid "Talchar"
 msgstr "塔尔查"
+
+#. [unit]: type=Elvish Marshal, id=Ithelden
+msgid "Ithelden"
+msgstr "伊希尔登"
+
+#. [unit]: type=Elvish Outrider, id=Eltenmir
+#. [unit]: type=Elvish Avenger, id=Eltenmir
+#. [side]: type=Elvish Outrider, id=Eltenmir
+msgid "Eltenmir"
+msgstr "埃尔滕米尔"
 
 #. [message]: speaker=Linderion
 msgid "Halt! Who enters our sacred grove without leave?"
@@ -1216,19 +1210,30 @@ msgstr "泪滴山谷"
 msgid "Mal A’kai"
 msgstr "玛尔·阿凯"
 
-#. [side]: type=Soulless, id=Gruth
-#. [side]: type=Lich, id=Mal M'Brin
-#. [side]
 #. [side]: type=Dark Adept, type=Dark Sorcerer, type=Dark Sorcerer, id=Mal A'kai
+#. [side]
+#. [side]: type=Lich, id=Mal M'Brin
 #. [side]: type=Ancient Lich, id=Mal M'Brin
-#. [side]: type=Lich, id=Mal Tera
 #. [side]: type=Soulless, id=Groth
+#. [side]: type=Lich, id=Mal Tera
 msgid "Undead"
 msgstr "亡灵"
 
 #. [side]: type=Outlaw, id=Jera Ilras
 msgid "Jera Ilras"
 msgstr "杰拉·伊拉思"
+
+#. [objective]: condition=win
+msgid "Cleanse the Vale of Tears"
+msgstr "清除泪滴山谷之敌"
+
+#. [objective]: condition=win
+msgid "Move Ethiliel to Mebrin’s village"
+msgstr "移动艾茜莉尔至梅布林的村庄处"
+
+#. [objective]: condition=lose
+msgid "Death of Ethiliel"
+msgstr "艾茜莉尔死亡"
 
 #. [message]: speaker=Ethiliel
 msgid ""
@@ -1303,18 +1308,6 @@ msgid ""
 "that stains the trees and feeds our powers!"
 msgstr ""
 "哭吧，肮脏的肉袋，哭吧！记住你们的眼泪将化为血液，玷污树木，滋养我们的力量！"
-
-#. [objective]: condition=win
-msgid "Cleanse the Vale of Tears"
-msgstr "清除泪滴山谷之敌"
-
-#. [objective]: condition=win
-msgid "Move Ethiliel to Mebrin’s village"
-msgstr "移动艾茜莉尔至梅布林的村庄处"
-
-#. [objective]: condition=lose
-msgid "Death of Ethiliel"
-msgstr "艾茜莉尔死亡"
 
 #. [message]: speaker=unit
 msgid ""
@@ -1395,9 +1388,9 @@ msgstr "也许吧，但至少你不会再给我们制造麻烦了！"
 msgid "Mebrin! Are you there? We have come to seek your aid!"
 msgstr "梅布林！您在吗？我们来求助于您！"
 
-#. [message]: speaker=Ethiliel
 #. [message]: speaker=narrator
 #. [message]: speaker=Kramak
+#. [message]: speaker=Ethiliel
 msgid "..."
 msgstr "……"
 
@@ -1490,11 +1483,11 @@ msgstr "雾中抉择"
 msgid "Urza Afalas"
 msgstr "乌扎·阿法拉斯"
 
-#. [side]: type=Soulless, id=Gruth
+#. [leader]: type=Soulless, id=Gruth
 msgid "Gruth"
 msgstr "格鲁斯"
 
-#. [unit]: type=Soulless, id=Gerd
+#. [leader]: type=Soulless, id=Gerd
 msgid "Gerd"
 msgstr "戈德"
 
@@ -1507,6 +1500,22 @@ msgstr "？"
 #, fuzzy
 msgid "Monster"
 msgstr "招聘网站"
+
+#. [objective]: condition=win
+msgid "Investigate the areas to the south of the Black River"
+msgstr "调查黑河以南地区"
+
+#. [objective]: condition=win
+msgid "Find the source of the undead and destroy it"
+msgstr "找到亡灵之源并摧毁它"
+
+#. [objective]: condition=win
+msgid "Defeat Urza Afalas"
+msgstr "击败乌扎·阿法拉斯"
+
+#. [objective]: condition=lose
+msgid "Death of Urza Afalas"
+msgstr "乌扎·阿法拉斯死亡"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -1613,22 +1622,6 @@ msgid ""
 "its secrets."
 msgstr "很好。来吧，伙计们，让我们聚起我们的智慧来探索森林的秘密。"
 
-#. [objective]: condition=win
-msgid "Investigate the areas to the south of the Black River"
-msgstr "调查黑河以南地区"
-
-#. [objective]: condition=win
-msgid "Find the source of the undead and destroy it"
-msgstr "找到亡灵之源并摧毁它"
-
-#. [objective]: condition=win
-msgid "Defeat Urza Afalas"
-msgstr "击败乌扎·阿法拉斯"
-
-#. [objective]: condition=lose
-msgid "Death of Urza Afalas"
-msgstr "乌扎·阿法拉斯死亡"
-
 #. [message]: speaker=second_unit
 #. This message is shown when the frist zombie leader died.
 #. There is a second one, a few hexes next to him, the player most likely saw him already.
@@ -1638,11 +1631,11 @@ msgstr "他并不孤单。"
 #. [message]: speaker=second_unit
 #. [message]: speaker=Sir Gerrick
 #. Note that masters is in plural.
+#. Note that masters is in plural.
 msgid "The masters of the undead are defeated!"
 msgstr "亡灵之主们被击败了！"
 
 #. [message]: speaker=Minister Hylas
-#. Shown if the player defeated the zombies, but doesn't know yet about the real enemy.
 msgid ""
 "No... I fear there is still much evil present. These were merely servants of "
 "a far more powerful force."
@@ -1650,19 +1643,16 @@ msgstr ""
 "不……恐怕还有很多邪恶之物存在。这些仅仅只是一种远为强大的力量的仆从罢了。"
 
 #. [message]: speaker=second_unit
-#. In this case, the player knows that there is one more enemy.
 msgid "Two undead leaders have fallen."
 msgstr "两名亡灵首领已经倒下了。"
 
 #. [message]: speaker=Minister Hylas
-#. In this case, the player knows that there is one more enemy.
 msgid ""
 "Indeed, though we have merely destroyed the servants of a far more powerful "
 "master."
 msgstr "的确。虽说我们只是歼灭了一名远为强大的主君的仆从而已。"
 
 #. [message]: speaker=Minister Hylas
-#. In this case, the player knows that there is one more enemy.
 msgid "These were merely servants of a far more powerful master."
 msgstr "这些仅仅是一名远为强大的主君的仆从而已。"
 
@@ -1884,10 +1874,14 @@ msgid ""
 msgstr "不要害怕！我知道出去的路，在我们打败亡灵之后, 我可以带你们回家。"
 
 #. [message]: speaker=narrator
+#. All of Urza Afalas’s units have been transferred to the player’s side. The troops who attacked or were recruited last turn can’t attack this turn; the others can. The “disengaged” orb is the one used for Under the Burning Sun’s disengage ability.
 #, fuzzy
 msgid ""
-"Urza Afalas’s troops are exhausted from battle and cannot attack this turn, "
-"but are still able to withdraw and reposition themselves."
+"Many of Urza Afalas’s troops are exhausted from battle and cannot attack "
+"this turn, but are still able to withdraw and reposition themselves.\n"
+"\n"
+"Units that can move but can’t attack are shown with the <i>disengaged</i> "
+"orb."
 msgstr ""
 "乌尔扎·阿法拉的部队在战斗中筋疲力尽，无法进攻，但仍能够撤退和重新定位。"
 
@@ -2098,438 +2092,7 @@ msgid ""
 "battle."
 msgstr "的确。你就留在这儿做你的工作，我们会为即将到来的战斗做好准备。"
 
-#. [scenario]: id=06a_Tidings_Good_and_Ill
-msgid "Tidings, Good and Ill"
-msgstr "好消息，坏消息"
-
-#. [side]
-msgid "Enemies"
-msgstr "敌人"
-
-#. [side]
-msgid "Ssesseth"
-msgstr "瑟瑟斯"
-
-#. [side]
-msgid "Zasz"
-msgstr "扎斯"
-
-#. [side]
-msgid "Zerix"
-msgstr "泽里克斯"
-
-#. [side]
-msgid "Scorpion"
-msgstr "蝎子"
-
-#. [side]
-#. [event]
-msgid "Kramak"
-msgstr "克拉马克"
-
-#. [side]
-msgid "Issorai"
-msgstr "伊索莱"
-
-#. [side]
-msgid "Zarr"
-msgstr "扎尔"
-
-#. [side]
-msgid "Abdur"
-msgstr "阿卜达"
-
-#. [side]
-msgid "Queen Xeila"
-msgstr "瑟拉女王"
-
-#. [side]
-msgid "Ssanur"
-msgstr "萨那"
-
-#. [side]
-msgid "Lesssh"
-msgstr "勒什"
-
-#. [side]
-msgid "Kallen"
-msgstr "卡伦"
-
-#. [unit]: type=Elvish Ranger, id=Eliomir
-msgid "Eliomir"
-msgstr "艾利欧米尔"
-
-#. [message]: speaker=Eliomir
-msgid ""
-"Sir Gerrick, you must return to Westin and warn your people of the danger "
-"from the south. We will lead you through the forest and clear the foes from "
-"your path. You may choose some of your veterans to accompany your journey. "
-"Any troops you leave behind will still have time to join Ethiliel and Deoran."
-msgstr ""
-"格里克爵士，你必须赶回韦斯廷，警告你的族人防备来自南方的危险。我们会领头穿过"
-"森林，并清除你前进道路上的一切敌人。你也可以挑选一些老兵跟随你。剩下的人都会"
-"有时间与艾茜莉尔和德欧兰会合。"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"With many of the bandits and undead vanquished already, few foes should "
-"remain before us. Let us hope this is a speedy journey, for the specter of "
-"winter looms closer."
-msgstr ""
-"我们已经战胜了这么多土匪和亡灵，前方不会还有什么敌人了。但愿这趟旅程能很快结"
-"束，冬日的幽影已然若隐若现了。"
-
-#. [objective]: condition=win
-msgid "Move Sir Gerrick to the north end of the woods"
-msgstr "移动格里克爵士至丛林北端"
-
-#. [objective]: condition=win
-msgid "Defeat Queen Xeila"
-msgstr "击败瑟拉女王"
-
-#. [note]
-msgid "Recalled units will be unavailable to Deoran."
-msgstr "德欧兰将不能使用此处召回的单位。"
-
-#. [message]: speaker=Queen Xeila
-#. Hss is a hissing sound made by the naga
-msgid ""
-"Hss... Here come the humans who have made a pact with the cursed mermen!"
-msgstr "嘶……和那些该死的人鱼有协约的人类来了！"
-
-#. [message]: speaker=Eliomir
-msgid "We have stumbled upon a den of naga!"
-msgstr "我们偶然闯进了一个娜迦巢穴！"
-
-#. [message]: speaker=Queen Xeila
-msgid "Hss... Elves too! We will kill them all, my brood. Hss..."
-msgstr "嘶……还有精灵！孩儿们，我们要杀光他们。嘶……"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"If we leave these naga here, they will ambush Deoran and Ethiliel! We must "
-"destroy them!"
-msgstr "如果我们留下这些娜迦，他们会伏击德欧兰和艾茜莉尔！我们必须消灭他们！"
-
-#. [message]: speaker=Queen Xeila
-msgid "Hss... elves! Are they friends or enemies? Hss..."
-msgstr "嘶……精灵！他们是敌是友？嘶……"
-
-#. [message]: speaker=Sir Gerrick
-msgid "We are weary travelers, seeking our homes. If you but let us pass..."
-msgstr "我们是疲惫的过路人，正在回家。如果您让我们过去……"
-
-#. [message]: speaker=Queen Xeila
-msgid ""
-"Hss... And humans! Humans drained our swamps and destroyed our homes! Now "
-"they have found my winter nest and seek to destroy me. The Land-Walkers must "
-"die! Hss..."
-msgstr ""
-"嘶……还有人类！人类抽干我们的沼泽，摧毁我们的家园！现在他们找到了我的冬穴，想"
-"毁了我。这些陆行生物必须死！嘶……"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"She refuses to listen! If we leave these naga here, they will ambush Deoran "
-"and Ethiliel! We must destroy them!"
-msgstr ""
-"她听不进去！如果我们留下这些娜迦，他们会伏击德欧兰和艾茜莉尔！我们必须歼灭他"
-"们！"
-
-#. [message]: speaker=second_unit
-msgid ""
-"There are a group of naga occupying this area. They don’t look very friendly."
-msgstr "有一群娜迦盘踞此地。他们看上去不怎么友好。"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"If they are hostile to us, they could endanger Deoran and Ethiliel as well, "
-"but perhaps we can reason with their leader."
-msgstr ""
-"如果他们和我们敌对，那他们也会危及德欧兰和艾茜莉尔，但也许能和他们的首领讲讲"
-"道理。"
-
-#. [message]: speaker=Queen Xeila
-msgid "Who will watch over my brood now? Hss..."
-msgstr "现在嘶嘶谁来保护我的孩儿们？嘶……"
-
-#. [message]: speaker=Kramak
-#. The ogre purposely has very bad grammar, because he is very stupid.
-msgid "Oh! Me see elves. Elves tasty food?"
-msgstr "嗬！俺看到精灵。精灵好吃伐？"
-
-#. [message]: speaker=second_unit
-#. [message]: speaker=Deoran
-msgid "Err, Mr. Ogre, we are not very tasty."
-msgstr "呃，食人魔先生，我们并不很好吃。"
-
-#. [message]: speaker=Kramak
-msgid "Oh. Me like only tasty meat. You go away."
-msgstr "哦。俺只吃好吃的。你们走吧。"
-
-#. [message]: speaker=Kramak
-msgid "Wait! Me no believe! Me eat you!"
-msgstr "等等！俺不信！俺吃你们！"
-
-#. [message]: speaker=Kramak
-msgid "Bad food! It hurt me. Me no like. Me pain..."
-msgstr "坏吃的！它弄痛俺。俺不喜欢。俺好痛……"
-
-#. [message]: speaker=Abdur
-msgid ""
-"Hail, travelers! I seek the dark sage who is rumored to dwell in these "
-"lands. Surely you have come from him?"
-msgstr ""
-"你们好，旅行者们！我在寻找黑暗贤者，传闻他居住在此地。你们肯定是从他那儿来的"
-"吧？"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"Indeed! I just left my comrades, who were preparing to kill the vile "
-"necromancer."
-msgstr "没错！我刚离开我的战友们，他们正准备杀掉那卑鄙的死灵法师。"
-
-#. [message]: speaker=Abdur
-msgid ""
-"Unworthy fools! How dare you attack the hallowed one?! You must be slain for "
-"this sacrilege!"
-msgstr "毫无价值的蠢货！你们怎么敢攻击圣人？！我要杀掉你们这些渎圣者！"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"These naga are still in control of the road. We must clear the way for "
-"Deoran and Ethiliel!"
-msgstr "这些娜迦仍然控制着道路。我们必须为德欧兰和艾茜莉尔开路！"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"I must hasten back to Kerlath Province and seek the advice of the Council of "
-"Westin. I pray that Deoran and Ethiliel find the strength to defeat the "
-"undead on their own."
-msgstr ""
-"现在我必须加紧奔回克拉斯行省，寻求韦斯廷议会的建议。我祈祷德欧兰和艾希莉尔可"
-"以靠他们自己找到击败亡灵的力量。"
-
-#. [message]: speaker=Eliomir
-msgid ""
-"We will return to our council as well. There is much we have to tell them... "
-"much indeed."
-msgstr "我们也会回到我们的评议会去。我们有很多事要告诉他们……真是太多了。"
-
-#. [scenario]: id=06b_The_Long_March
-msgid "The Long March"
-msgstr "长途行军"
-
-#. [side]
-#. Another elvish side.
-msgid "Ambushers"
-msgstr ""
-
-#. [message]: speaker=narrator
-msgid "Deoran and Urza Afalas retreated quickly from Mebrin's fortress..."
-msgstr "德欧兰和乌扎·阿法拉斯迅速从梅布林的要塞撤退了……"
-
-#. [message]: speaker=Deoran
-msgid ""
-"Forest, forest, forest! As far as the eye can see, it is all forest! I am "
-"getting sick of endlessly trudging through these woods. Are you sure you are "
-"taking us in the right direction?"
-msgstr ""
-"森林，森林，森林！眼前能看到的全都是森林！我厌倦了不停地在这片丛林里跋涉。你"
-"确定你带我们走的是正确的方向吗？"
-
-#. [message]: speaker=Urza Afalas
-msgid ""
-"Trust me. I have often traveled these woods with my comrades and I know a "
-"secret path through it. I am taking you there so we can avoid the elves on "
-"the way back."
-msgstr ""
-"相信我，我和我的同伴经常在这些丛林中穿行。我知道有一条秘密小径可以穿过丛林。"
-"我会带你们走那条路，这样我们就可以在回去的路上避开精灵。"
-
-#. [message]: speaker=Deoran
-msgid ""
-"Would that I had listened to Ethiliel... we would be battling the undead by "
-"now, instead of crawling around in these woods like rats!"
-msgstr ""
-"要是我听了艾希莉尔德话就好了……那样的话现在我们现在已经在和亡灵作战了，而不是"
-"像老鼠一样在这丛林里爬来爬去！"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"What’s done is done. We must worry about the task at hand. Winter is almost "
-"upon us and it will be much more difficult to forage for food then."
-msgstr ""
-"已经发生的事情是没法改变的。我们得忧心的是手头的任务。冬天快到了，到了那时寻"
-"找食物会困难得多。"
-
-#. [message]: speaker=Minister Hylas
-msgid ""
-"That is not our only problem. I sense that many undead creatures are "
-"approaching us rapidly. It seems as if they are chasing us, though I know "
-"not why."
-msgstr ""
-"这不是我们唯一的问题。我感到许多亡灵生物正在迅速接近我们。他们似乎在追赶我"
-"们，尽管我不知道为什么。"
-
-#. [message]: speaker=Urza Afalas
-msgid ""
-"It must be because we destroyed that phantom lich. The corrupted sage is "
-"sending them to hunt us in retaliation. Let’s get out of here quickly so we "
-"won’t have to fight them."
-msgstr ""
-"那一定是因为我们消灭了那个幻影巫妖。为了报复，堕落贤者派他们来追赶我们。我们"
-"快点离开这里，这样就不用和他们战斗了。"
-
-#. [message]: speaker=Urza Afalas
-msgid ""
-"Also, remember that these woods are crawling with elves. Stay on the path "
-"and perhaps we can avoid at least most of them. If we do get seen, well, "
-"let’s hope they won’t attack us."
-msgstr ""
-"另外请记住，这丛林里到处都是精灵。坚持沿着路走，这样一来也许我们至少可以避开"
-"其中的大多数。如果我们真被他们看到了，那好吧，希望他们不会攻击我们。"
-
-#. [objective]: condition=win
-msgid "Move Deoran through the woods and over the river"
-msgstr "让德欧兰穿过树林，渡过河流"
-
-#. [note]
-msgid ""
-"At the start of each turn, Urza Afalas will reveal as much of the secret "
-"path as is within his vision range."
-msgstr "在每回合开始时，乌扎·阿法拉斯都会地尽可能揭露他视野范围内的秘密小径。"
-
-#. [message]: speaker=Urza Afalas
-msgid "Just a little further!"
-msgstr "再往前走一点点就好！"
-
-#. [message]: speaker=Urza Afalas
-msgid "We’re almost there!"
-msgstr "我们快到了！"
-
-#. [message]: speaker=Urza Afalas
-msgid "Come on! Hurry!"
-msgstr "跟我来！快！"
-
-#. [message]: speaker=Urza Afalas
-msgid "Keep moving!"
-msgstr "继续前进！"
-
-#. [message]: speaker=Urza Afalas
-msgid "You can see the banks of the river from here!"
-msgstr "在这里你可以看到河岸！"
-
-#. [message]: race=elf
-msgid ""
-"Humans! You are the curs who kidnapped the Sage Mebrin! Tell us where you "
-"have hidden him and perhaps we will grant you a quick death!"
-msgstr ""
-"人类！你们就是绑架贤者梅布林的人！告诉我们你们把他藏在哪里，也许我们会给你们"
-"个痛快！"
-
-#. [message]: id=Deoran
-msgid ""
-"We have already told you of his whereabouts! Your wise sage now practices "
-"necromancy and commands an army of undead. He means to march on our land and "
-"slay all living souls, human and elf alike!"
-msgstr ""
-"我们已经告诉你们他的下落了！你们那位智慧的贤者现在施用死灵秘术，指挥亡灵大"
-"军。他想要在我们的土地上行军，并杀死所有活物，不论是人类还是精灵！"
-
-#. [message]: race=elf
-msgid ""
-"How dare you speak of Mebrin with such lies?! Though he has knowledge of the "
-"undead, he is no human, so easily corrupted by the temptation of such power. "
-"Did you think that you could fool us with such a fictitious story?"
-msgstr ""
-"你怎么敢用这样的谎言来谈论梅布林？！虽然他对亡灵了如指掌，但他不是人类。人类"
-"才很容易被这种力量的诱惑所腐蚀。你以为你能用这样一个虚构的故事来愚弄我们吗？"
-
-#. [message]: id=Deoran
-msgid ""
-"We are not lying! If you travel south and enter the undead lair, you see "
-"that we speak the truth!"
-msgstr "我们没撒谎！如果你往南走，进入亡灵巢穴，你就会发现我们说的是实话！"
-
-#. [message]: race=elf
-msgid ""
-"Enough! I should have known that the stupidity of humans knows no bounds. We "
-"have nothing more to say here."
-msgstr "够了！我早该知道人类的愚蠢是没有边界的。我们没什么好说的了。"
-
-#. [message]: race=elf
-msgid "Humans, bandits and abductors! Prepare to be slain!"
-msgstr "人类，土匪和绑架者！准备好受死吧！"
-
-#. [message]: speaker=Sir Gerrick
-msgid "We don’t want to fight you! We wish only to return to our homes!"
-msgstr "我们不想和你们打！我们只想回家！"
-
-#. [message]: race=elf
-msgid ""
-"And so does our Sage Mebrin, yet you have not returned him to us! Even if "
-"you did, we would still dispatch of you for your heinous transgressions, you "
-"treacherous scum!"
-msgstr ""
-"我们的贤者梅布林也是如此，但你们没有把他还给我们！就算你们这样做了，我们还是"
-"会因为你们那令人发指的犯罪行为而消灭你们，背信弃义之徒！"
-
-#. [message]: speaker=Urza Afalas
-msgid ""
-"There is no reasoning with the elves. We will either have to fight or run."
-msgstr "和精灵们讲不清道理。我们要么战斗，要么逃跑。"
-
-#. [message]: race=elf
-msgid "Get them!"
-msgstr "干掉他们！"
-
-#. [message]: speaker=unit
-msgid ""
-"I pay for my crimes, but without me, you will never make it back to "
-"Kerlath..."
-msgstr "我为我的罪行付出了代价，但没有我，你永远无法回到克拉斯……"
-
-#. [message]: speaker=Ithelden
-msgid ""
-"So, these pitiful humans are still alive? Good. I will have the pleasure of "
-"crushing them myself."
-msgstr "那么说，这些可怜的人类还活着？很好。我将有机会亲自粉碎他们。"
-
-#. [message]: speaker=Deoran
-msgid "We took too long to escape these forests..."
-msgstr "我们花了太长时间来逃离这森林……"
-
-#. [message]: speaker=Deoran
-msgid ""
-"At last, we have escaped that awful forest! It seems that you actually kept "
-"your word about something, Afalas."
-msgstr "我们总算是逃离了那片可怕的森林！看来你也是能信守诺言的，阿法拉斯。"
-
-#. [message]: speaker=Urza Afalas
-msgid ""
-"Good knight, I am not evil as you think I am. I really do mean to aid in "
-"your battle against the undead. I am sorry for my deception before, but that "
-"was truly only because I thought you would kill me!"
-msgstr ""
-"尊敬的骑士，我并不像您想象的那样邪恶。我真的是想帮助您与亡灵作战。我为我之前"
-"的欺骗行为感到抱歉，但那真的只是因为我以为你会杀了我！"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"Your past crimes are not easy to overlook, but we will see how you aid us in "
-"the coming battle. As Sir Deoran said, you have kept your word about leading "
-"us back to Wesnoth, and that is a good start."
-msgstr ""
-"你过去的罪行并不不是那么容易就能忽视的，但我们会注意在接下来的战斗中你会怎样"
-"协助我们。正如德欧兰爵士所说，你信守了诺言，带领我们回到了韦诺，这是个良好的"
-"开端。"
-
-#. [message]: speaker=Urza Afalas
-msgid "Thank you. I will help you as much as I can when we return to Westin."
-msgstr "谢谢。当我们回到韦斯廷时，我会尽我所能帮助你们。"
-
-#. [scenario]: id=07a_Into_the_Depths
+#. [scenario]: id=06a_Into_the_Depths
 msgid "Into the Depths"
 msgstr "深入地下"
 
@@ -2545,7 +2108,7 @@ msgstr "格罗斯"
 msgid "Mal Tera"
 msgstr "玛尔·特拉"
 
-#. [unit]: type=Eyestalk, id=Eye Guardian
+#. [event]
 msgid "Eye Guardian"
 msgstr "灵眼守卫"
 
@@ -2553,9 +2116,18 @@ msgstr "灵眼守卫"
 msgid "Mal Maul"
 msgstr "玛尔·魔尔"
 
+#. ['unit name']
+#, fuzzy
+msgid "female^Mal Maul"
+msgstr "玛尔·魔尔"
+
 #. [event]
 msgid "Grek"
 msgstr "格雷克"
+
+#. [objective]: condition=win
+msgid "Find the source of the undead under the citadel"
+msgstr "找到城堡之下的亡灵之源"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -2590,10 +2162,6 @@ msgid ""
 "Soldiers with the <i>quick</i> trait will be useful for traversing rough "
 "caverns."
 msgstr "另外，有<b>迅捷</b>特质的士兵在通过不光整的洞穴时很有用。"
-
-#. [objective]: condition=win
-msgid "Find the source of the undead under the citadel"
-msgstr "找到城堡之下的亡灵之源"
 
 #. [message]: speaker=Minister Hylas
 msgid ""
@@ -2851,7 +2419,7 @@ msgstr ""
 "你？消灭我？你的血肉将为我的食尸鬼提供一顿盛宴, 一旦他们把你吃干抹净，你就会"
 "成为亡灵，永远为我服务！"
 
-#. [message]: speaker=Minister Hylas
+#. [message]: role=smartcombatant
 msgid ""
 "I feel the touch of dark magic. This is quite a powerful spell — the very "
 "air feels thick and heavy."
@@ -2877,7 +2445,7 @@ msgid ""
 "able to stop him."
 msgstr "我们得赶快！一旦梅布林的魔咒完全生效，我们谁都阻止不了他。"
 
-#. [message]: speaker=Sir Gerrick
+#. [message]: role=soldier
 msgid "I feel so weary... I can hardly grasp my weapon anymore..."
 msgstr "我感到很疲惫……我几乎要握不住武器了……"
 
@@ -2939,238 +2507,230 @@ msgid ""
 "homes."
 msgstr "是的……让我整理一下思绪，而后我会带领你们回到你们的家园。"
 
-#. [scenario]: id=07b_Pebbles_in_the_Flood
-msgid "Pebbles in the Flood"
-msgstr "狂洪危卵"
+#. [scenario]: id=06b_The_Long_March
+msgid "The Long March"
+msgstr "长途行军"
 
-#. [event]
-msgid "Finde"
-msgstr "芬德"
-
-#. [event]
-msgid "Maelvas"
-msgstr "梅尔瓦斯"
-
-#. [event]
-msgid "Orome"
-msgstr "欧洛梅"
-
-#. [event]
-msgid "Mitche"
-msgstr "米切"
-
-#. [event]
-msgid "Illan"
-msgstr "伊兰"
-
-#. [event]
-msgid "Rheban"
-msgstr "荷班"
-
-#. [event]
-msgid "Jul"
-msgstr "朱尔"
-
-#. [event]
-msgid "Meris"
-msgstr "梅里斯"
-
-#. [event]
-msgid "Findlas"
-msgstr "法恩德拉斯"
-
-#. [event]
-msgid "Chumet"
-msgstr "丘梅特"
-
-#. [event]
-msgid "Cadry"
-msgstr "卡德里"
-
-#. [event]
-msgid "Seran"
-msgstr "塞兰"
-
-#. [event]
-msgid "Eera"
-msgstr "艾拉"
-
-#. [event]
-msgid "Cinry"
-msgstr "辛里"
-
-#. [event]
-msgid "Death Guard"
-msgstr "死亡卫队"
-
-#. [message]: speaker=Deoran
-msgid ""
-"We are finally back in Kerlath, but look! The undead have almost caught up "
-"to us!"
-msgstr "我们终于回到了克拉斯，但快看！亡灵几乎要追上我们了！"
-
-#. [message]: speaker=Sir Gerrick
-#, fuzzy
-msgid ""
-"These forts are ill-equipped for holding back so many undead. I am certain "
-"we will be slaughtered if we try to fight them here!"
+#. [side]
+#. Another elvish side.
+msgid "Ambushers"
 msgstr ""
-"这些要塞装备不足，不能抵挡这么多亡灵。我确信，要是我们试图在这里与它们作战, "
-"我们会被屠杀的！"
-
-#. [message]: speaker=Deoran
-msgid ""
-"But we cannot flee like this forever... the horses are tired, and the men "
-"are tired, and I am tired as well. The undead can march day and night "
-"without rest, but we cannot. They will certainly overtake us before we reach "
-"Westin."
-msgstr ""
-"但我们不能一直逃下去……马累了，士兵累了，我也累了。亡灵可以日夜行军而不事休"
-"息，但我们不能。在我们到达韦斯廷之前，他们肯定会赶上我们。"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"Then we have only one course of action to take. Deoran, you must hasten back "
-"to Westin to prepare a defense against them. I will command the defense of "
-"the border forts. Leave me a few men, and we will hold back the undead as "
-"long as we can."
-msgstr ""
-"那么只有唯一一个可行的方案了。德欧兰，您必须赶紧回韦斯廷，做好防御亡灵的准"
-"备。我将指挥边境要塞的防御战。给我留几个人，我们会尽可能地阻挡亡灵。"
-
-#. [message]: speaker=Deoran
-msgid "But such a thing will mean certain death!"
-msgstr "但做这种事必死无疑！"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"Deoran, you are still young and have many things to learn. In dire times, "
-"sacrifices must always be made one way or another. If we flee with you, the "
-"undead will surely run us down and make short work of the city-folk. Then "
-"everything we have fought for will be lost!"
-msgstr ""
-"德欧兰，您还年轻，有很多东西要学。在极端时刻，必须以这样或那样的方式做出牺"
-"牲。如果我们和你们一起逃跑，亡灵肯定会把我们击垮，并很快杀光市民。那么我们就"
-"会失去我们为之奋斗的一切！"
-
-#. [message]: speaker=Deoran
-msgid "Even so..."
-msgstr "即使如此……"
-
-#. [message]: speaker=Urza Afalas
-msgid ""
-"I will stand here with you, Sir Gerrick. You will need my help to slow down "
-"the undead, and I have a debt to repay to you for sparing my life."
-msgstr ""
-"我会和您并肩作战，格里克爵士。您需要我的帮助来减缓亡灵的进军速度，而您饶了我"
-"的命，我必须还清人情。"
-
-#. [message]: speaker=Sir Gerrick
-msgid "Those are brave words that I would not have expected from you, Afalas."
-msgstr "这样勇敢的话语，我可没想到能从你口里说出来，阿法拉斯。"
-
-#. [message]: speaker=Urza Afalas
-#, fuzzy
-msgid ""
-"All things end one way or another. Alas, I would have liked to see my home "
-"in Westin one more time, but I am too tired. Tired of running, and tired of "
-"fleeing from these undead, who corrupted and consumed my brothers. You may "
-"think us criminals and outlaws, but we are still human and we still know "
-"loyalty and gratitude."
-msgstr ""
-"所有的事情都会以这样或那样的方式结束。唉，我本来想再看一次我在韦斯廷的家，但"
-"我已经厌倦了。厌倦了逃跑，厌倦了在亡灵的追击下逃离。他们腐蚀了我的兄弟们，吞"
-"噬了我的兄弟们。也许你们认为我们是罪犯和游寇，但我们仍然是人类，我们仍然知道"
-"忠诚和感激，两位骑士阁下。"
-
-#. [message]: speaker=Sir Gerrick
-msgid "You will not change our minds, Deoran. Go!"
-msgstr "您改变不了我们的想法的，德欧兰。走吧！"
-
-#. [message]: speaker=Deoran
-msgid ""
-"I... I understand. Minister Hylas, come ride with me to Westin. You must "
-"summon the city council while I prepare the defenses. Sir Gerrick, Afalas, "
-"we shall return as soon as we can and relieve you."
-msgstr ""
-"我……我明白了。海拉斯辅佐官，和我一起骑马去韦斯廷。你必须在我统筹城防时召集市"
-"议会。格里克爵士，阿法拉斯，我们会尽快来救援你们的。"
-
-#. [message]: speaker=Sir Gerrick
-msgid ""
-"You know what the outcome of our battle here will be. I trust you to protect "
-"our home from the undead and only ask you to remember those who fell "
-"defending our land. Farewell, Sir Deoran!"
-msgstr ""
-"您知道我们在此处的战斗会有什么结果。我相信您能在亡灵手下保护我们的家园，我只"
-"求您记住那些为保卫我们的土地而牺牲的人们。永别了，德欧兰爵士！"
-
-#. [message]: speaker=Minister Hylas
-msgid "The light shines upon your souls, brave warriors."
-msgstr "圣光照耀你们的灵魂，勇敢的武士们。"
-
-#. [message]: speaker=Deoran
-msgid "We will never forget your sacrifice here. Thank you, my friend."
-msgstr "我们永远不会忘记你们在此处的牺牲。谢谢，我的朋友。"
-
-#. [message]: speaker=Illan
-msgid ""
-"We are yours to command, Sir Gerrick. We will hold back the undead until the "
-"bitter end!"
-msgstr "我们听从您的命令，格里克爵士。我们会阻挡亡灵，直到苦涩的最后一刻！"
 
 #. [objective]: condition=win
-msgid "Hold the line: keep Sir Gerrick alive as long as possible"
-msgstr "坚守防线：尽可能让格里克爵士活得更久"
+msgid "Move Deoran through the woods and over the river"
+msgstr "让德欧兰穿过树林，渡过河流"
 
 #. [note]
 msgid ""
-"Starting with turn 6, each additional turn you survive strengthens the "
-"defenses of Westin."
-msgstr "从第6回合开始，你每多坚持一回合，韦斯廷的防御就增强一分。"
+"At the start of each turn, Urza Afalas will reveal as much of the secret "
+"path as is within his vision range."
+msgstr "在每回合开始时，乌扎·阿法拉斯都会地尽可能揭露他视野范围内的秘密小径。"
 
 #. [message]: speaker=narrator
-msgid ""
-"Hold off the undead hordes and keep Sir Gerrick alive as long as you can. "
-"Starting on turn 6, every turn that passes strengthens the defenses of "
-"Westin."
-msgstr ""
-"尽可能长时间拖延亡灵军团。尽可能让格里克爵士活得更久。从第6回合开始，每坚持一"
-"回合，韦斯廷的防御就增强一分。"
+msgid "Deoran and Urza Afalas retreated quickly from Mebrin's fortress..."
+msgstr "德欧兰和乌扎·阿法拉斯迅速从梅布林的要塞撤退了……"
 
-#. [message]: speaker=Sir Gerrick
-#, fuzzy
+#. [message]: speaker=Deoran
 msgid ""
-"Alas, for each casualty we suffer, the ranks of the undead grow. We must "
-"hold fast and survive as long as we can!"
+"Forest, forest, forest! As far as the eye can see, it is all forest! I am "
+"getting sick of endlessly trudging through these woods. Are you sure you are "
+"taking us in the right direction?"
 msgstr ""
-"唉，每一个我们遭受的伤亡，亡灵的队伍就会增加。我们必须坚持下去，并尽可能长久"
-"地生存下去！"
+"森林，森林，森林！眼前能看到的全都是森林！我厌倦了不停地在这片丛林里跋涉。你"
+"确定你带我们走的是正确的方向吗？"
 
 #. [message]: speaker=Urza Afalas
-msgid "So this is how it ends... I am coming to you, my brothers..."
-msgstr "结局就是这样的吗……我来找你们了，我的兄弟们……"
+msgid ""
+"Trust me. I have often traveled these woods with my comrades and I know a "
+"secret path through it. I am taking you there so we can avoid the elves on "
+"the way back."
+msgstr ""
+"相信我，我和我的同伴经常在这些丛林中穿行。我知道有一条秘密小径可以穿过丛林。"
+"我会带你们走那条路，这样我们就可以在回去的路上避开精灵。"
+
+#. [message]: speaker=Deoran
+msgid ""
+"Would that I had listened to Ethiliel... we would be battling the undead by "
+"now, instead of crawling around in these woods like rats!"
+msgstr ""
+"要是我听了艾希莉尔德话就好了……那样的话现在我们现在已经在和亡灵作战了，而不是"
+"像老鼠一样在这丛林里爬来爬去！"
 
 #. [message]: speaker=Sir Gerrick
-msgid "I only hope... we have bought enough time... for Deoran..."
-msgstr "我只希望……我们已经……为德欧兰……争取了足够多的时间……"
-
-#. [message]: speaker=Mal M'Brin
 msgid ""
-"Pesky little humans! You have only delayed the inevitable. We will sweep "
-"through your cities and raze them to the ground! March onward, my skeletons! "
-"We go to destroy Westin!"
+"What’s done is done. We must worry about the task at hand. Winter is almost "
+"upon us and it will be much more difficult to forage for food then."
 msgstr ""
-"可怜的渺小人类！你们只是推迟了不可避免之事。我们将横扫你们的城市，将它们夷为"
-"平地！进军，我的骷髅们！我们去摧毁韦斯廷！"
+"已经发生的事情是没法改变的。我们得忧心的是手头的任务。冬天快到了，到了那时寻"
+"找食物会困难得多。"
 
-#. [scenario]: id=08a_Return_to_Kerlath
+#. [message]: speaker=Minister Hylas
+msgid ""
+"That is not our only problem. I sense that many undead creatures are "
+"approaching us rapidly. It seems as if they are chasing us, though I know "
+"not why."
+msgstr ""
+"这不是我们唯一的问题。我感到许多亡灵生物正在迅速接近我们。他们似乎在追赶我"
+"们，尽管我不知道为什么。"
+
+#. [message]: speaker=Urza Afalas
+msgid ""
+"It must be because we destroyed that phantom lich. The corrupted sage is "
+"sending them to hunt us in retaliation. Let’s get out of here quickly so we "
+"won’t have to fight them."
+msgstr ""
+"那一定是因为我们消灭了那个幻影巫妖。为了报复，堕落贤者派他们来追赶我们。我们"
+"快点离开这里，这样就不用和他们战斗了。"
+
+#. [message]: speaker=Urza Afalas
+msgid ""
+"Also, remember that these woods are crawling with elves. Stay on the path "
+"and perhaps we can avoid at least most of them. If we do get seen, well, "
+"let’s hope they won’t attack us."
+msgstr ""
+"另外请记住，这丛林里到处都是精灵。坚持沿着路走，这样一来也许我们至少可以避开"
+"其中的大多数。如果我们真被他们看到了，那好吧，希望他们不会攻击我们。"
+
+#. [message]: speaker=Urza Afalas
+msgid "Just a little further!"
+msgstr "再往前走一点点就好！"
+
+#. [message]: speaker=Urza Afalas
+msgid "We’re almost there!"
+msgstr "我们快到了！"
+
+#. [message]: speaker=Urza Afalas
+msgid "Come on! Hurry!"
+msgstr "跟我来！快！"
+
+#. [message]: speaker=Urza Afalas
+msgid "Keep moving!"
+msgstr "继续前进！"
+
+#. [message]: speaker=Urza Afalas
+msgid "You can see the banks of the river from here!"
+msgstr "在这里你可以看到河岸！"
+
+#. [message]: race=elf
+msgid ""
+"Humans! You are the curs who kidnapped the Sage Mebrin! Tell us where you "
+"have hidden him and perhaps we will grant you a quick death!"
+msgstr ""
+"人类！你们就是绑架贤者梅布林的人！告诉我们你们把他藏在哪里，也许我们会给你们"
+"个痛快！"
+
+#. [message]: id=Deoran
+msgid ""
+"We have already told you of his whereabouts! Your wise sage now practices "
+"necromancy and commands an army of undead. He means to march on our land and "
+"slay all living souls, human and elf alike!"
+msgstr ""
+"我们已经告诉你们他的下落了！你们那位智慧的贤者现在施用死灵秘术，指挥亡灵大"
+"军。他想要在我们的土地上行军，并杀死所有活物，不论是人类还是精灵！"
+
+#. [message]: race=elf
+msgid ""
+"How dare you speak of Mebrin with such lies?! Though he has knowledge of the "
+"undead, he is no human, so easily corrupted by the temptation of such power. "
+"Did you think that you could fool us with such a fictitious story?"
+msgstr ""
+"你怎么敢用这样的谎言来谈论梅布林？！虽然他对亡灵了如指掌，但他不是人类。人类"
+"才很容易被这种力量的诱惑所腐蚀。你以为你能用这样一个虚构的故事来愚弄我们吗？"
+
+#. [message]: id=Deoran
+msgid ""
+"We are not lying! If you travel south and enter the undead lair, you see "
+"that we speak the truth!"
+msgstr "我们没撒谎！如果你往南走，进入亡灵巢穴，你就会发现我们说的是实话！"
+
+#. [message]: race=elf
+msgid ""
+"Enough! I should have known that the stupidity of humans knows no bounds. We "
+"have nothing more to say here."
+msgstr "够了！我早该知道人类的愚蠢是没有边界的。我们没什么好说的了。"
+
+#. [message]: race=elf
+msgid "Humans, bandits and abductors! Prepare to be slain!"
+msgstr "人类，土匪和绑架者！准备好受死吧！"
+
+#. [message]: speaker=Sir Gerrick
+msgid "We don’t want to fight you! We wish only to return to our homes!"
+msgstr "我们不想和你们打！我们只想回家！"
+
+#. [message]: race=elf
+msgid ""
+"And so does our Sage Mebrin, yet you have not returned him to us! Even if "
+"you did, we would still dispatch of you for your heinous transgressions, you "
+"treacherous scum!"
+msgstr ""
+"我们的贤者梅布林也是如此，但你们没有把他还给我们！就算你们这样做了，我们还是"
+"会因为你们那令人发指的犯罪行为而消灭你们，背信弃义之徒！"
+
+#. [message]: speaker=Urza Afalas
+msgid ""
+"There is no reasoning with the elves. We will either have to fight or run."
+msgstr "和精灵们讲不清道理。我们要么战斗，要么逃跑。"
+
+#. [message]: race=elf
+msgid "Get them!"
+msgstr "干掉他们！"
+
+#. [message]: speaker=unit
+msgid ""
+"I pay for my crimes, but without me, you will never make it back to "
+"Kerlath..."
+msgstr "我为我的罪行付出了代价，但没有我，你永远无法回到克拉斯……"
+
+#. [message]: speaker=Ithelden
+msgid ""
+"So, these pitiful humans are still alive? Good. I will have the pleasure of "
+"crushing them myself."
+msgstr "那么说，这些可怜的人类还活着？很好。我将有机会亲自粉碎他们。"
+
+#. [message]: speaker=Deoran
+msgid "We took too long to escape these forests..."
+msgstr "我们花了太长时间来逃离这森林……"
+
+#. [message]: speaker=Deoran
+msgid ""
+"At last, we have escaped that awful forest! It seems that you actually kept "
+"your word about something, Afalas."
+msgstr "我们总算是逃离了那片可怕的森林！看来你也是能信守诺言的，阿法拉斯。"
+
+#. [message]: speaker=Urza Afalas
+msgid ""
+"Good knight, I am not evil as you think I am. I really do mean to aid in "
+"your battle against the undead. I am sorry for my deception before, but that "
+"was truly only because I thought you would kill me!"
+msgstr ""
+"尊敬的骑士，我并不像您想象的那样邪恶。我真的是想帮助您与亡灵作战。我为我之前"
+"的欺骗行为感到抱歉，但那真的只是因为我以为你会杀了我！"
+
+#. [message]: speaker=Sir Gerrick
+msgid ""
+"Your past crimes are not easy to overlook, but we will see how you aid us in "
+"the coming battle. As Sir Deoran said, you have kept your word about leading "
+"us back to Wesnoth, and that is a good start."
+msgstr ""
+"你过去的罪行并不不是那么容易就能忽视的，但我们会注意在接下来的战斗中你会怎样"
+"协助我们。正如德欧兰爵士所说，你信守了诺言，带领我们回到了韦诺，这是个良好的"
+"开端。"
+
+#. [message]: speaker=Urza Afalas
+msgid "Thank you. I will help you as much as I can when we return to Westin."
+msgstr "谢谢。当我们回到韦斯廷时，我会尽我所能帮助你们。"
+
+#. [scenario]: id=07a_Return_to_Kerlath
 msgid "Return to Kerlath"
 msgstr "回归克拉斯"
 
 #. [objective]: condition=win
 msgid "Move Deoran into Kerlath Province"
 msgstr "移动德欧兰，进入克拉斯行省"
+
+#. [event]
+msgid "Kramak"
+msgstr "克拉马克"
 
 #. [message]: id=Deoran
 msgid ""
@@ -3184,6 +2744,18 @@ msgstr ""
 #. The ogre purposely has very bad grammar, because he is very stupid.
 msgid "Oh! Me see human. Human tasty food?"
 msgstr "哦！俺看到人类。人类好吃的？"
+
+#. [message]: speaker=Deoran
+msgid "Err, Mr. Ogre, we are not very tasty."
+msgstr "呃，食人魔先生，我们并不很好吃。"
+
+#. [message]: speaker=Kramak
+msgid "Oh. Me like only tasty meat. You go away."
+msgstr "哦。俺只吃好吃的。你们走吧。"
+
+#. [message]: speaker=Kramak
+msgid "Wait! Me no believe! Me eat you!"
+msgstr "等等！俺不信！俺吃你们！"
 
 #. [message]: speaker=Kramak
 msgid "Bad food! It hurt me. Me no like. Me ouch..."
@@ -3363,6 +2935,448 @@ msgstr ""
 msgid "Very well, let us make haste to Westin."
 msgstr "很好，我们快去韦斯廷吧。"
 
+#. [scenario]: id=07b_Pebbles_in_the_Flood
+msgid "Pebbles in the Flood"
+msgstr "狂洪危卵"
+
+#. [event]
+msgid "Finde"
+msgstr "芬德"
+
+#. [event]
+msgid "Maelvas"
+msgstr "梅尔瓦斯"
+
+#. [event]
+msgid "Orome"
+msgstr "欧洛梅"
+
+#. [event]
+msgid "Mitche"
+msgstr "米切"
+
+#. [event]
+msgid "Illan"
+msgstr "伊兰"
+
+#. [event]
+msgid "Rheban"
+msgstr "荷班"
+
+#. [event]
+msgid "Jul"
+msgstr "朱尔"
+
+#. [event]
+msgid "Meris"
+msgstr "梅里斯"
+
+#. [event]
+msgid "Findlas"
+msgstr "法恩德拉斯"
+
+#. [event]
+msgid "Chumet"
+msgstr "丘梅特"
+
+#. [event]
+msgid "Cadry"
+msgstr "卡德里"
+
+#. [event]
+msgid "Seran"
+msgstr "塞兰"
+
+#. [event]
+msgid "Eera"
+msgstr "艾拉"
+
+#. [event]
+msgid "Cinry"
+msgstr "辛里"
+
+#. [event]
+msgid "Death Guard"
+msgstr "死亡卫队"
+
+#. [objective]: condition=win
+msgid "Hold the line: keep Sir Gerrick alive as long as possible"
+msgstr "坚守防线：尽可能让格里克爵士活得更久"
+
+#. [note]
+msgid ""
+"Starting with turn 6, each additional turn you survive strengthens the "
+"defenses of Westin."
+msgstr "从第6回合开始，你每多坚持一回合，韦斯廷的防御就增强一分。"
+
+#. [message]: speaker=Deoran
+msgid ""
+"We are finally back in Kerlath, but look! The undead have almost caught up "
+"to us!"
+msgstr "我们终于回到了克拉斯，但快看！亡灵几乎要追上我们了！"
+
+#. [message]: speaker=Sir Gerrick
+#, fuzzy
+msgid ""
+"These forts are ill-equipped for holding back so many undead. I am certain "
+"we will be slaughtered if we try to fight them here!"
+msgstr ""
+"这些要塞装备不足，不能抵挡这么多亡灵。我确信，要是我们试图在这里与它们作战, "
+"我们会被屠杀的！"
+
+#. [message]: speaker=Deoran
+msgid ""
+"But we cannot flee like this forever... the horses are tired, and the men "
+"are tired, and I am tired as well. The undead can march day and night "
+"without rest, but we cannot. They will certainly overtake us before we reach "
+"Westin."
+msgstr ""
+"但我们不能一直逃下去……马累了，士兵累了，我也累了。亡灵可以日夜行军而不事休"
+"息，但我们不能。在我们到达韦斯廷之前，他们肯定会赶上我们。"
+
+#. [message]: speaker=Sir Gerrick
+msgid ""
+"Then we have only one course of action to take. Deoran, you must hasten back "
+"to Westin to prepare a defense against them. I will command the defense of "
+"the border forts. Leave me a few men, and we will hold back the undead as "
+"long as we can."
+msgstr ""
+"那么只有唯一一个可行的方案了。德欧兰，您必须赶紧回韦斯廷，做好防御亡灵的准"
+"备。我将指挥边境要塞的防御战。给我留几个人，我们会尽可能地阻挡亡灵。"
+
+#. [message]: speaker=Deoran
+msgid "But such a thing will mean certain death!"
+msgstr "但做这种事必死无疑！"
+
+#. [message]: speaker=Sir Gerrick
+msgid ""
+"Deoran, you are still young and have many things to learn. In dire times, "
+"sacrifices must always be made one way or another. If we flee with you, the "
+"undead will surely run us down and make short work of the city-folk. Then "
+"everything we have fought for will be lost!"
+msgstr ""
+"德欧兰，您还年轻，有很多东西要学。在极端时刻，必须以这样或那样的方式做出牺"
+"牲。如果我们和你们一起逃跑，亡灵肯定会把我们击垮，并很快杀光市民。那么我们就"
+"会失去我们为之奋斗的一切！"
+
+#. [message]: speaker=Deoran
+msgid "Even so..."
+msgstr "即使如此……"
+
+#. [message]: speaker=Urza Afalas
+msgid ""
+"I will stand here with you, Sir Gerrick. You will need my help to slow down "
+"the undead, and I have a debt to repay to you for sparing my life."
+msgstr ""
+"我会和您并肩作战，格里克爵士。您需要我的帮助来减缓亡灵的进军速度，而您饶了我"
+"的命，我必须还清人情。"
+
+#. [message]: speaker=Sir Gerrick
+msgid "Those are brave words that I would not have expected from you, Afalas."
+msgstr "这样勇敢的话语，我可没想到能从你口里说出来，阿法拉斯。"
+
+#. [message]: speaker=Urza Afalas
+#, fuzzy
+msgid ""
+"All things end one way or another. Alas, I would have liked to see my home "
+"in Westin one more time, but I am too tired. Tired of running, and tired of "
+"fleeing from these undead, who corrupted and consumed my brothers. You may "
+"think us criminals and outlaws, but we are still human and we still know "
+"loyalty and gratitude."
+msgstr ""
+"所有的事情都会以这样或那样的方式结束。唉，我本来想再看一次我在韦斯廷的家，但"
+"我已经厌倦了。厌倦了逃跑，厌倦了在亡灵的追击下逃离。他们腐蚀了我的兄弟们，吞"
+"噬了我的兄弟们。也许你们认为我们是罪犯和游寇，但我们仍然是人类，我们仍然知道"
+"忠诚和感激，两位骑士阁下。"
+
+#. [message]: speaker=Sir Gerrick
+msgid "You will not change our minds, Deoran. Go!"
+msgstr "您改变不了我们的想法的，德欧兰。走吧！"
+
+#. [message]: speaker=Deoran
+msgid ""
+"I... I understand. Minister Hylas, come ride with me to Westin. You must "
+"summon the city council while I prepare the defenses. Sir Gerrick, Afalas, "
+"we shall return as soon as we can and relieve you."
+msgstr ""
+"我……我明白了。海拉斯辅佐官，和我一起骑马去韦斯廷。你必须在我统筹城防时召集市"
+"议会。格里克爵士，阿法拉斯，我们会尽快来救援你们的。"
+
+#. [message]: speaker=Sir Gerrick
+msgid ""
+"You know what the outcome of our battle here will be. I trust you to protect "
+"our home from the undead and only ask you to remember those who fell "
+"defending our land. Farewell, Sir Deoran!"
+msgstr ""
+"您知道我们在此处的战斗会有什么结果。我相信您能在亡灵手下保护我们的家园，我只"
+"求您记住那些为保卫我们的土地而牺牲的人们。永别了，德欧兰爵士！"
+
+#. [message]: speaker=Minister Hylas
+msgid "The light shines upon your souls, brave warriors."
+msgstr "圣光照耀你们的灵魂，勇敢的武士们。"
+
+#. [message]: speaker=Deoran
+msgid "We will never forget your sacrifice here. Thank you, my friend."
+msgstr "我们永远不会忘记你们在此处的牺牲。谢谢，我的朋友。"
+
+#. [message]: speaker=Illan
+msgid ""
+"We are yours to command, Sir Gerrick. We will hold back the undead until the "
+"bitter end!"
+msgstr "我们听从您的命令，格里克爵士。我们会阻挡亡灵，直到苦涩的最后一刻！"
+
+#. [message]: speaker=narrator
+msgid ""
+"Hold off the undead hordes and keep Sir Gerrick alive as long as you can. "
+"Starting on turn 6, every turn that passes strengthens the defenses of "
+"Westin."
+msgstr ""
+"尽可能长时间拖延亡灵军团。尽可能让格里克爵士活得更久。从第6回合开始，每坚持一"
+"回合，韦斯廷的防御就增强一分。"
+
+#. [message]: speaker=Sir Gerrick
+#, fuzzy
+msgid ""
+"Alas, for each casualty we suffer, the ranks of the undead grow. We must "
+"hold fast and survive as long as we can!"
+msgstr ""
+"唉，每一个我们遭受的伤亡，亡灵的队伍就会增加。我们必须坚持下去，并尽可能长久"
+"地生存下去！"
+
+#. [message]: speaker=Urza Afalas
+msgid "So this is how it ends... I am coming to you, my brothers..."
+msgstr "结局就是这样的吗……我来找你们了，我的兄弟们……"
+
+#. [message]: speaker=Sir Gerrick
+msgid "I only hope... we have bought enough time... for Deoran..."
+msgstr "我只希望……我们已经……为德欧兰……争取了足够多的时间……"
+
+#. [message]: speaker=Mal M'Brin
+msgid ""
+"Pesky little humans! You have only delayed the inevitable. We will sweep "
+"through your cities and raze them to the ground! March onward, my skeletons! "
+"We go to destroy Westin!"
+msgstr ""
+"可怜的渺小人类！你们只是推迟了不可避免之事。我们将横扫你们的城市，将它们夷为"
+"平地！进军，我的骷髅们！我们去摧毁韦斯廷！"
+
+#. [scenario]: id=08a_Vengeance
+msgid "Vengeance"
+msgstr "复仇怒火"
+
+#. [side]: type=Horseman Commander, id=Deoran
+msgid "Westin Guard"
+msgstr "韦斯廷卫队"
+
+#. [side]: type=Elvish Outrider, id=Eltenmir
+msgid "Enraged Elves"
+msgstr "愤怒的精灵"
+
+#. [objective]: condition=win
+msgid "Survive until end of turns"
+msgstr "生存至回合耗尽"
+
+#. [message]: speaker=Deoran
+msgid ""
+"Finally, we have returned home! The undead and bandits are both defeated and "
+"it seems that the townsfolk have already begun to rebuild. Perhaps now there "
+"will be peace in Westin. You have our thanks, Lady Ethiliel. We could not "
+"have accomplished this feat without you."
+msgstr ""
+"终于，我们回到家了！亡灵和土匪都被打败了，看来镇民已经开始了重建。也许现在开"
+"始韦斯廷会拥有和平。我们要感谢你，艾茜莉尔领主。没有你，我们不可能完成这一壮"
+"举。"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Yes... you have done a great deed in destroying the undead, but it was "
+"others of your kind that brought about this evil to begin with. "
+"Nevertheless, I see now that not all humans are alike and that you, too, are "
+"capable of courage and loyalty. About the trouble with my people, I will see "
+"what I can do—"
+msgstr ""
+"是的……你们消灭了亡灵，完成了伟业，但一开始正是你们同族的其他人带来了这一邪"
+"恶。虽说如此，我现在已经看到，并不是所有的人类都是一样的。你们也可以拥有勇气"
+"和忠诚。关于我的族人们造成的麻烦，我会看看我能做些什么——"
+
+#. [message]: speaker=narrator
+msgid "Help!"
+msgstr "救命！"
+
+#. [unit]: type=Peasant, id=Poor Farmer
+msgid "Poor Farmer"
+msgstr "可怜的农夫"
+
+#. [message]: speaker=Eltenmir
+msgid "You will pay for Mebrin’s death!"
+msgstr "你要为梅布林的死付出代价！"
+
+#. [message]: speaker=Poor Farmer
+msgid "I am just a farmer! I never killed anyone!"
+msgstr "我只是个农民！我没有杀过人！"
+
+#. [message]: speaker=Eltenmir
+msgid ""
+"You lie! All humans are the same! Your people kidnapped and murdered our "
+"wisest sage! Now you will pay!"
+msgstr ""
+"你撒谎！所有人类都是一样的！你们的族人绑架并谋杀了我们最有智慧的贤者！现在付"
+"出代价吧！"
+
+#. [message]: role=observant
+msgid "He just killed that innocent farmer! We must stop him!"
+msgstr "他刚杀害了那个无辜的农民！我们必须阻止他！"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Stop, Eltenmir! These humans are not the ones who harmed Mebrin. They have "
+"helped me obtain vengeance on the ones responsible for the horrible deed and "
+"have thus absolved themselves of any wrongdoing. No more innocent blood "
+"needs to be shed."
+msgstr ""
+"住手，埃尔滕米尔！这些人类不是伤害梅布林的人。他们帮我报复了那些对这可怖之事"
+"负有责任的人。因此，不论是什么坏事，他们都已经获得了赦免。不需要再流无辜之人"
+"的血了。"
+
+#. [message]: speaker=Eltenmir
+msgid ""
+"I can hardly believe my ears. You have always been too soft, Ethiliel, but "
+"to side with the humans? All humans are scum and vermin! Just as they have "
+"felled our trees in the past, they have destroyed our homes, murdered our "
+"people, and killed Mebrin!"
+msgstr ""
+"我简直不敢相信自己的耳朵。你一直都很心软，艾茜莉尔，但你竟站在人类一边？所有"
+"的人类都是渣滓和害虫！就像他们过去砍倒我们的树一样，他们摧毁了我们的家园，谋"
+"杀了我们的人民，还杀害了梅布林！"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Mebrin was my master, Eltenmir! It is <i>I</i> who grieves the most! I have "
+"spent countless, sleepless nights thinking about his death and missing him "
+"so dearly that my heart never ceases to ache. You know how I must feel about "
+"losing one that I cherished so. Still... still, even I recognize that these "
+"humans are not the ones to blame."
+msgstr ""
+"梅布林是我的导师，埃尔滕米尔！<b>我</b>才是最悲恸的人！我度过了无数不眠之夜，"
+"我想到他的死，我对他的思念让我的心痛从无终止。你知道，失去这样珍视的人，我的"
+"感受会是怎样的。然而……然而，即使是我也认识到，这些人并不是罪魁祸首。"
+
+#. [message]: speaker=Eltenmir
+msgid ""
+"It matters not. The humans have spilled the blood of our people, and so "
+"theirs will be spilled in turn. If you stand against us, Ethiliel, we will "
+"attack you too. You had best stay out of this."
+msgstr ""
+"这并不重要。人类已经让我们的族人流了血，反过来，他们也将流血。如果你和我们对"
+"着干，艾茜莉尔，那我们也会攻击你。你最好别管这件事。"
+
+#. [message]: speaker=Ethiliel
+msgid "And what do you think Ithelden will have to say about that?"
+msgstr "你觉得伊瑟尔登会怎么说？"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Eltenmir, answer me! You know you do not have the authority to be attacking "
+"the humans like this, much less me! Eltenmir!"
+msgstr ""
+"埃尔滕米尔，回答我！你知道你无权这样攻击人类，更无权攻击我！埃尔滕米尔！"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Ever the stubborn one. Deoran, we will not be able to fight them for very "
+"long. I will send a messenger to Ithelden and hope he gets here in time "
+"before the city is overrun."
+msgstr ""
+"他总是这么顽固。德欧兰，和他们作战，我们不可能坚持很久。我会派一名信使去找伊"
+"瑟尔登，但愿他能在城市被占领前及时赶到这里。"
+
+#. [message]: speaker=Deoran
+msgid ""
+"Are you sure that they’ll listen to Ithelden? Or that he’ll even try to stop "
+"them?"
+msgstr "你确定他们会听伊瑟尔登的？你确定他会试图阻止他们吗？"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Perhaps not, but we have no other hope right now. We must survive until "
+"Ithelden arrives!"
+msgstr ""
+"可能不会，但现在我们没有别的希望了。我们必须活下去，坚持到伊瑟尔登到来！"
+
+#. [message]
+msgid "For every one of us you strike down, more will rise!"
+msgstr "你们每杀死一位我们的族人，都会有更多人起来攻击你们！"
+
+#. [message]: speaker=Ithelden
+msgid "Eltenmir! What in the world is going on here?"
+msgstr "埃尔滕米尔！这里究竟发生了什么？"
+
+#. [message]: speaker=Eltenmir
+msgid ""
+"We are merely giving these human pigs what they deserve. If they wish to "
+"shed the blood of our people, we will do the same to them."
+msgstr ""
+"我们只是给予人类猪猡他们应得的惩罚。如果他们想让我们的族人流血，我们也会对他"
+"们做同样的事情。"
+
+#. [message]: speaker=Ithelden
+msgid ""
+"I know you must be grieving over Mebrin’s death as well, but surely you see "
+"that nothing good can come of doing this. Especially not from attacking "
+"Ethiliel!"
+msgstr ""
+"我知道你一定也为梅布林的死感到悲伤，但你肯定可以看出，这样做不会有什么好结"
+"果。特别是攻击艾茜莉尔不会有什么好结果！"
+
+#. [message]: speaker=Eltenmir
+msgid "Then suggest something, for we must have some form of retribution!"
+msgstr "那就说说你的建议吧，我们必须实现某种形式的报复！"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"The ones who <i>effectively</i> killed Mebrin are dead. I saw to that "
+"personally. We should have no more qualms with the remaining humans here."
+msgstr ""
+"那些<b>事实上</b>杀害了梅布林的人已经死了。我亲自确保他们死掉的。对这里剩下的"
+"人类，我们不该有更多的疑虑。"
+
+#. [message]: speaker=Eltenmir
+msgid ""
+"As if we would be satisfied by something like that! Even if what you say is "
+"true, the death of a few bugs in the woods is hardly an equal trade for one "
+"of our greatest leaders!"
+msgstr ""
+"说得好像这样我们就该满意似的！就算你说的是真的，用丛林里死掉的几只虫子来换我"
+"们最伟大的领袖之一，这哪里公平啊！"
+
+#. [message]: speaker=Ethiliel
+msgid "But the answer cannot be more death and destruction..."
+msgstr "但答案不能是更多的死亡和毁灭……"
+
+#. [message]: speaker=Ithelden
+msgid ""
+"No, it might not be, but Eltenmir is right. We cannot sit idly by and forget "
+"this atrocity either. If you wish to prevent a slaughter here, we will have "
+"to come up with some other form of resolution. Regardless, you should come "
+"and discuss the issue with us, Ethiliel. You no longer belong with the "
+"humans."
+msgstr ""
+"不, 不能。但埃尔滕米尔是对的。我们也不能坐视不管并忘记这一暴行。如果你想制止"
+"这里的屠杀，我们就必须想出一些其他形式的解决办法。无论如何，你应该过来和我们"
+"讨论这个问题，艾茜莉尔。你不该再和人类在一起了。"
+
+#. [message]: speaker=Ethiliel
+msgid "I... I suppose you are right. I will come."
+msgstr "我……我想你说得对。我会过来的。"
+
+#. [message]: speaker=Ethiliel
+msgid ""
+"Be careful, Deoran. The more blood you spill, the more my people will be "
+"enraged. More will surely come to attack."
+msgstr ""
+"小心点，德欧兰。你让我的族人流更多的血，就会有更多人被激怒。肯定会有更多人来"
+"攻击的。"
+
 #. [scenario]: id=08b_The_Tides_of_War
 msgid "The Tides of War"
 msgstr "战争之潮"
@@ -3378,6 +3392,14 @@ msgstr "人鱼卫队"
 #. [value]
 msgid "Nilaf"
 msgstr "尼拉夫"
+
+#. [objective]: condition=win
+msgid "Defeat Mal M’Brin"
+msgstr "击败玛尔·莫布林"
+
+#. [note]
+msgid "More allies will arrive on turn $council_arrive_turn|."
+msgstr "更多友军将在第$council_arrive_turn|回合抵达。"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -3474,14 +3496,6 @@ msgstr ""
 "场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑"
 "暗生物。我们必须勇敢地面对亡灵，并保卫我们的家园！我们为格里克爵士而战！我们"
 "为韦诺而战！"
-
-#. [objective]: condition=win
-msgid "Defeat Mal M’Brin"
-msgstr "击败玛尔·莫布林"
-
-#. [note]
-msgid "More allies will arrive on turn $council_arrive_turn|."
-msgstr "更多友军将在第$council_arrive_turn|回合抵达。"
 
 #. [message]: speaker=Mal M'Brin
 msgid ""
@@ -3662,224 +3676,7 @@ msgstr "主人被杀了！他这一死……我的灵魂……就不能附在…
 msgid "At long last, it is done."
 msgstr "终于，成功了。"
 
-#. [scenario]: id=09a_Vengeance
-msgid "Vengeance"
-msgstr "复仇怒火"
-
-#. [side]: type=Horseman Commander, id=Deoran
-msgid "Westin Guard"
-msgstr "韦斯廷卫队"
-
-#. [side]: type=Elvish Avenger, id=Eltenmir
-msgid "Enraged Elves"
-msgstr "愤怒的精灵"
-
-#. [message]: speaker=Deoran
-msgid ""
-"Finally, we have returned home! The undead and bandits are both defeated and "
-"it seems that the townsfolk have already begun to rebuild. Perhaps now there "
-"will be peace in Westin. You have our thanks, Lady Ethiliel. We could not "
-"have accomplished this feat without you."
-msgstr ""
-"终于，我们回到家了！亡灵和土匪都被打败了，看来镇民已经开始了重建。也许现在开"
-"始韦斯廷会拥有和平。我们要感谢你，艾茜莉尔领主。没有你，我们不可能完成这一壮"
-"举。"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Yes... you have done a great deed in destroying the undead, but it was "
-"others of your kind that brought about this evil to begin with. "
-"Nevertheless, I see now that not all humans are alike and that you, too, are "
-"capable of courage and loyalty. About the trouble with my people, I will see "
-"what I can do—"
-msgstr ""
-"是的……你们消灭了亡灵，完成了伟业，但一开始正是你们同族的其他人带来了这一邪"
-"恶。虽说如此，我现在已经看到，并不是所有的人类都是一样的。你们也可以拥有勇气"
-"和忠诚。关于我的族人们造成的麻烦，我会看看我能做些什么——"
-
-#. [message]: speaker=narrator
-msgid "Help!"
-msgstr "救命！"
-
-#. [unit]: type=Peasant, id=Poor Farmer
-msgid "Poor Farmer"
-msgstr "可怜的农夫"
-
-#. [message]: speaker=Eltenmir
-msgid "You will pay for Mebrin’s death!"
-msgstr "你要为梅布林的死付出代价！"
-
-#. [message]: speaker=Poor Farmer
-msgid "I am just a farmer! I never killed anyone!"
-msgstr "我只是个农民！我没有杀过人！"
-
-#. [message]: speaker=Eltenmir
-msgid ""
-"You lie! All humans are the same! Your people kidnapped and murdered our "
-"wisest sage! Now you will pay!"
-msgstr ""
-"你撒谎！所有人类都是一样的！你们的族人绑架并谋杀了我们最有智慧的贤者！现在付"
-"出代价吧！"
-
-#. [message]: speaker=Sir Gerrick
-msgid "He just killed that innocent farmer! We must stop him!"
-msgstr "他刚杀害了那个无辜的农民！我们必须阻止他！"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Stop, Eltenmir! These humans are not the ones who harmed Mebrin. They have "
-"helped me obtain vengeance on the ones responsible for the horrible deed and "
-"have thus absolved themselves of any wrongdoing. No more innocent blood "
-"needs to be shed."
-msgstr ""
-"住手，埃尔滕米尔！这些人类不是伤害梅布林的人。他们帮我报复了那些对这可怖之事"
-"负有责任的人。因此，不论是什么坏事，他们都已经获得了赦免。不需要再流无辜之人"
-"的血了。"
-
-#. [message]: speaker=Eltenmir
-msgid ""
-"I can hardly believe my ears. You have always been too soft, Ethiliel, but "
-"to side with the humans? All humans are scum and vermin! Just as they have "
-"felled our trees in the past, they have destroyed our homes, murdered our "
-"people, and killed Mebrin!"
-msgstr ""
-"我简直不敢相信自己的耳朵。你一直都很心软，艾茜莉尔，但你竟站在人类一边？所有"
-"的人类都是渣滓和害虫！就像他们过去砍倒我们的树一样，他们摧毁了我们的家园，谋"
-"杀了我们的人民，还杀害了梅布林！"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Mebrin was my master, Eltenmir! It is <i>I</i> who grieves the most! I have "
-"spent countless, sleepless nights thinking about his death and missing him "
-"so dearly that my heart never ceases to ache. You know how I must feel about "
-"losing one that I cherished so. Still... still, even I recognize that these "
-"humans are not the ones to blame."
-msgstr ""
-"梅布林是我的导师，埃尔滕米尔！<b>我</b>才是最悲恸的人！我度过了无数不眠之夜，"
-"我想到他的死，我对他的思念让我的心痛从无终止。你知道，失去这样珍视的人，我的"
-"感受会是怎样的。然而……然而，即使是我也认识到，这些人并不是罪魁祸首。"
-
-#. [message]: speaker=Eltenmir
-msgid ""
-"It matters not. The humans have spilled the blood of our people, and so "
-"theirs will be spilled in turn. If you stand against us, Ethiliel, we will "
-"attack you too. You had best stay out of this."
-msgstr ""
-"这并不重要。人类已经让我们的族人流了血，反过来，他们也将流血。如果你和我们对"
-"着干，艾茜莉尔，那我们也会攻击你。你最好别管这件事。"
-
-#. [message]: speaker=Ethiliel
-msgid "And what do you think Ithelden will have to say about that?"
-msgstr "你觉得伊瑟尔登会怎么说？"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Eltenmir, answer me! You know you do not have the authority to be attacking "
-"the humans like this, much less me! Eltenmir!"
-msgstr ""
-"埃尔滕米尔，回答我！你知道你无权这样攻击人类，更无权攻击我！埃尔滕米尔！"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Ever the stubborn one. Deoran, we will not be able to fight them for very "
-"long. I will send a messenger to Ithelden and hope he gets here in time "
-"before the city is overrun."
-msgstr ""
-"他总是这么顽固。德欧兰，和他们作战，我们不可能坚持很久。我会派一名信使去找伊"
-"瑟尔登，但愿他能在城市被占领前及时赶到这里。"
-
-#. [message]: speaker=Deoran
-msgid ""
-"Are you sure that they’ll listen to Ithelden? Or that he’ll even try to stop "
-"them?"
-msgstr "你确定他们会听伊瑟尔登的？你确定他会试图阻止他们吗？"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Perhaps not, but we have no other hope right now. We must survive until "
-"Ithelden arrives!"
-msgstr ""
-"可能不会，但现在我们没有别的希望了。我们必须活下去，坚持到伊瑟尔登到来！"
-
-#. [objective]: condition=win
-msgid "Survive until end of turns"
-msgstr "生存至回合耗尽"
-
-#. [message]
-msgid "For every one of us you strike down, more will rise!"
-msgstr "你们每杀死一位我们的族人，都会有更多人起来攻击你们！"
-
-#. [message]: speaker=Ithelden
-msgid "Eltenmir! What in the world is going on here?"
-msgstr "埃尔滕米尔！这里究竟发生了什么？"
-
-#. [message]: speaker=Eltenmir
-msgid ""
-"We are merely giving these human pigs what they deserve. If they wish to "
-"shed the blood of our people, we will do the same to them."
-msgstr ""
-"我们只是给予人类猪猡他们应得的惩罚。如果他们想让我们的族人流血，我们也会对他"
-"们做同样的事情。"
-
-#. [message]: speaker=Ithelden
-msgid ""
-"I know you must be grieving over Mebrin’s death as well, but surely you see "
-"that nothing good can come of doing this. Especially not from attacking "
-"Ethiliel!"
-msgstr ""
-"我知道你一定也为梅布林的死感到悲伤，但你肯定可以看出，这样做不会有什么好结"
-"果。特别是攻击艾茜莉尔不会有什么好结果！"
-
-#. [message]: speaker=Eltenmir
-msgid "Then suggest something, for we must have some form of retribution!"
-msgstr "那就说说你的建议吧，我们必须实现某种形式的报复！"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"The ones who <i>effectively</i> killed Mebrin are dead. I saw to that "
-"personally. We should have no more qualms with the remaining humans here."
-msgstr ""
-"那些<b>事实上</b>杀害了梅布林的人已经死了。我亲自确保他们死掉的。对这里剩下的"
-"人类，我们不该有更多的疑虑。"
-
-#. [message]: speaker=Eltenmir
-msgid ""
-"As if we would be satisfied by something like that! Even if what you say is "
-"true, the death of a few bugs in the woods is hardly an equal trade for one "
-"of our greatest leaders!"
-msgstr ""
-"说得好像这样我们就该满意似的！就算你说的是真的，用丛林里死掉的几只虫子来换我"
-"们最伟大的领袖之一，这哪里公平啊！"
-
-#. [message]: speaker=Ethiliel
-msgid "But the answer cannot be more death and destruction..."
-msgstr "但答案不能是更多的死亡和毁灭……"
-
-#. [message]: speaker=Ithelden
-msgid ""
-"No, it might not be, but Eltenmir is right. We cannot sit idly by and forget "
-"this atrocity either. If you wish to prevent a slaughter here, we will have "
-"to come up with some other form of resolution. Regardless, you should come "
-"and discuss the issue with us, Ethiliel. You no longer belong with the "
-"humans."
-msgstr ""
-"不, 不能。但埃尔滕米尔是对的。我们也不能坐视不管并忘记这一暴行。如果你想制止"
-"这里的屠杀，我们就必须想出一些其他形式的解决办法。无论如何，你应该过来和我们"
-"讨论这个问题，艾茜莉尔。你不该再和人类在一起了。"
-
-#. [message]: speaker=Ethiliel
-msgid "I... I suppose you are right. I will come."
-msgstr "我……我想你说得对。我会过来的。"
-
-#. [message]: speaker=Ethiliel
-msgid ""
-"Be careful, Deoran. The more blood you spill, the more my people will be "
-"enraged. More will surely come to attack."
-msgstr ""
-"小心点，德欧兰。你让我的族人流更多的血，就会有更多人被激怒。肯定会有更多人来"
-"攻击的。"
-
-#. [scenario]: id=10a_Elf_Epilogue
+#. [scenario]: id=09a_Elf_Epilogue
 #. [scenario]: id=09b_Bandit_Epilogue
 msgid "Epilogue"
 msgstr "尾声"
@@ -4011,6 +3808,7 @@ msgid "Far from home I fall — but not in vain! Defend our people, Deoran!"
 msgstr "我将客死他乡——但并非毫无意义！保卫我们的人民，德欧兰！"
 
 #. [message]: speaker=unit
+#. Alternative message used in the last scenario.
 msgid "Far from home I fall — but not in vain!"
 msgstr "我将客死他乡——但并非毫无意义！"
 
@@ -4423,6 +4221,7 @@ msgstr ""
 
 #. [part]
 #. Epilogue B
+#, fuzzy
 msgid ""
 "After the battle, Deoran led an expedition to the southern border posts, "
 "where the forts had been smashed into crumbled ruins, and blood and broken "
@@ -4430,9 +4229,9 @@ msgid ""
 "of bodies at the site of the battle, but deep down, he had known that that "
 "would be the fate of the men who had valiantly given their lives so that "
 "Westin might survive the undead onslaught. Still, he found small consolation "
-"in locating Sir Gerrick’s sword and shield and bearing them back with him to "
-"Westin. Those he placed atop Gerrick’s mound, where they became a symbol of "
-"sacrifice, and loyalty, and valor."
+"in locating Sir Gerrick’s glaive and shield and bearing them back with him "
+"to Westin. Those he placed atop Gerrick’s mound, where they became a symbol "
+"of sacrifice, and loyalty, and valor."
 msgstr ""
 "战斗结束后，德欧兰率领一支探险队前往南部边境哨所，那里的要塞被砸成了破败的废"
 "墟，血迹和破碎的武器四散。战斗现场没有尸体，他默默诅咒了那巫妖。但在内心深"

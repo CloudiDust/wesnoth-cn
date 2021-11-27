@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-14 19:35 UTC\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:44+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -99,12 +99,12 @@ msgstr "打败阿尔伯"
 msgid "Death of Kapou’e"
 msgstr "卡破尔死亡"
 
-#. [side]: id=Kapou'e, type=Orcish Leader
-#. [side]: type=Orcish Slayer, id=Rugh
-#. [side]
-#. [side]: type=General, id=Howgarth III
 #. [side]: type=Orcish Leader, id=Kapou'e
+#. [side]: id=Kapou'e, type=Orcish Leader
+#. [side]
+#. [side]: type=Orcish Slayer, id=Rugh
 #. [side]: id=Grüü, type=Great Troll
+#. [side]: type=General, id=Howgarth III
 msgid "Kapou’e"
 msgstr "卡破尔"
 
@@ -112,11 +112,11 @@ msgstr "卡破尔"
 msgid "Alber"
 msgstr "阿尔伯"
 
+#. [side]: type=Lieutenant, id=Alber
+#. [side]: type=General, id=Lanbec'h
 #. [side]: type=General, id=Slowhand
 #. [side]
 #. [side]: type=General, id=Harman
-#. [side]: type=General, id=Lanbec'h
-#. [side]: type=Lieutenant, id=Alber
 msgid "Humans"
 msgstr "人类"
 
@@ -479,12 +479,6 @@ msgstr "击败敌方首领"
 msgid "Death of Grüü"
 msgstr "咕噜死亡"
 
-#. [note]
-msgid ""
-"In this scenario, you may ask Grüü to move to any hex by right-clicking on "
-"that hex."
-msgstr "在此场景中，你可以右击任意格子，以命令咕噜移动至该格。"
-
 #. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
 msgid "Kwili"
 msgstr "魁里"
@@ -573,6 +567,7 @@ msgid "Blemaker"
 msgstr "布列马克"
 
 #. [unit]: id=Grüü, type=Troll Hero
+#. [side]: id=Grüü, type=Great Troll
 msgid "Grüü"
 msgstr "咕噜"
 
@@ -732,7 +727,7 @@ msgstr "伊希利尔"
 #. [side]: type=Elvish Marshal, id=Hida'tul
 #. [side]: type=Elvish Marshal, id=Ammon
 #. [side]: type=Elvish Marshal, id=Sammual
-#. [side]: type=Elvish Shyde, id=Lucile
+#. [side]: type=Elvish Sharpshooter, id=Lucile
 #. [side]: type=Elvish Captain, id=Raceme
 msgid "Elves"
 msgstr "精灵"
@@ -1296,19 +1291,19 @@ msgstr "到达东南方的绿洲"
 msgid "Ar-Dant"
 msgstr "亚单"
 
-#. [side]: type=Elvish Champion, id=Thelarion
-#. [side]: type=Dwarvish Steelclad, id=Darstang
-#. [side]: type=General, id=Arthain
-#. [side]: type=Lieutenant, id=Hanak
 #. [side]: type=Assassin, type=Rogue, id=Ar-Dant
 #. [side]
+#. [side]: type=Elvish Champion, id=Thelarion
+#. [side]: type=Dwarvish Steelclad, id=Darstang
 #. [side]: type=General, id=Earl Lanbec'h
+#. [side]: type=General, id=Arthain
+#. [side]: type=Lieutenant, id=Hanak
 #. [side]: type=Bandit, id=Sagmar
-#. [side]: type=Grand Marshal, id=Earl Lanbec'h
-#. [side]: type=Orcish Warlord, id=Shan Taum
 #. [side]: type=General, id=Telthys
 #. [side]: type=General, id=Fredor
 #. [side]: type=General, id=Georan
+#. [side]: type=Grand Marshal, id=Earl Lanbec'h
+#. [side]: type=Orcish Warlord, id=Shan Taum
 msgid "Villains"
 msgstr "恶霸"
 
@@ -1503,7 +1498,7 @@ msgstr "寂静森林"
 msgid "Defeat the elves"
 msgstr "击败精灵"
 
-#. [side]: type=Elvish Shyde, id=Lucile
+#. [side]: type=Elvish Sharpshooter, id=Lucile
 msgid "Lucile"
 msgstr "露西儿"
 
@@ -1713,8 +1708,8 @@ msgstr "抵御闪·陶姆攻击20回合"
 msgid "Defeat Shan Taum"
 msgstr "打败闪·陶姆"
 
-#. [unit]: type=Orcish Warlord, id=Shan Taum
 #. [side]: type=Orcish Warlord, id=Shan Taum
+#. [unit]: type=Orcish Warlord, id=Shan Taum
 msgid "Shan Taum"
 msgstr "闪·陶姆"
 
@@ -1736,8 +1731,8 @@ msgstr ""
 msgid "At last, here are the Mourned Hills! We can only hope for the best."
 msgstr "终于！这里就是哀悼山峦。我希望能够一切顺利。"
 
-#. [message]: role=cannonfodder
 #. [message]: speaker=Grüü
+#. [message]: role=cannonfodder
 msgid "Why?"
 msgstr "为什么？"
 
@@ -1859,11 +1854,11 @@ msgstr ""
 "再也不会安全了。你是唯一能够帮助我们坚守普雷斯提姆的人！"
 
 #. [message]: speaker=Pirk
+#, fuzzy
 msgid ""
-"Leave your people here Kapou’e — they are safe for the moment — and go "
-"defend Prestim. In the meantime, now that the council is complete again, we "
-"will decide. We may have to form the Great Horde again, and give you the "
-"leadership of it."
+"Go defend Prestim, Kapou'e. In the meantime, now that the council is "
+"complete again, we will decide. We may have to form the Great Horde again, "
+"and give you the leadership of it."
 msgstr ""
 "把你的人民留在这吧，卡破尔——他们暂时是安全的——你要去保卫普雷斯提姆。与此同"
 "时，既然评议会已经重聚，那我们会作出决定的。我们可能必须再次组成大部落，并授"
@@ -2810,13 +2805,13 @@ msgstr "移动卡破尔至西南方路标处"
 msgid "Braga"
 msgstr "布拉戛"
 
-#. [side]: type=Orcish Warlord, id=Orga
-#. [side]: type=Orcish Warrior, id=Knorgh
-#. [side]: type=Orcish Warrior, id=Nofhug
 #. [side]: type=Orcish Warlord, id=Braga
 #. [side]: type=Orcish Warlord, id=Meato
 #. [side]: type=Orcish Warlord, id=Ragvan
 #. [side]: type=Orcish Warlord, id=Kergai
+#. [side]: type=Orcish Warlord, id=Orga
+#. [side]: type=Orcish Warrior, id=Knorgh
+#. [side]: type=Orcish Warrior, id=Nofhug
 msgid "Rebels"
 msgstr "叛军"
 
@@ -3204,8 +3199,8 @@ msgstr "我们到了，伯爵阁下。"
 msgid "Ahhh, perfect, more reinforcements."
 msgstr "啊，好得很嘛，更多援军。"
 
-#. [side]: type=General, id=Howgarth III
 #. [unit]: type=General, id=Howgarth III
+#. [side]: type=General, id=Howgarth III
 msgid "Howgarth III"
 msgstr "豪伽施三世"
 
@@ -3642,8 +3637,9 @@ msgid "Ahhh!"
 msgstr "啊！"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Blast it, without Inarix to lead his saurians, we can no longer count on "
+"Blast it, without Inarix to lead her saurians, we can no longer count on "
 "their help."
 msgstr "没有依诺斯来率领他的蜥蜴，我们无法指望征召它们了。"
 
