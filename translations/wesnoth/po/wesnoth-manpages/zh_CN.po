@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # sylecn <sylecn@gmail.com>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2021-11-09 03:45+0300\n"
-"PO-Revision-Date: 2021-04-18 16:40+0800\n"
+"PO-Revision-Date: 2021-11-28 16:00+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: TH
 #, no-wrap
@@ -26,7 +26,7 @@ msgstr "WESNOTH"
 #. type: TH
 #, no-wrap
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 #. type: TH
 #, no-wrap
@@ -247,18 +247,18 @@ msgid "enables some Lua debugging mechanisms"
 msgstr "启用一些Lua调试机制"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--strict-lua>"
-msgstr "B<--strict-validation>"
+msgstr "B<--strict-lua>"
 
 #. type: Plain text
 msgid "disallow deprecated Lua API calls"
-msgstr ""
+msgstr "禁用已废弃的Lua API调用"
 
 #. type: TP
 #, no-wrap
 msgid "B<-D,--diff>I<\\ left-file>B<\\ >I<right-file>"
-msgstr ""
+msgstr "B<-D,--diff>I<\\ left-file>B<\\ >I<right-file>"
 
 #. type: Plain text
 msgid ""
@@ -266,6 +266,9 @@ msgid ""
 "them through B<-p> first). Outputs the diff as DiffWML on standard output or "
 "to the file indicated by I<--output>."
 msgstr ""
+"产生这两个WML文件的diff，不会对这两个文件先进行预处理（若要进行预处理，请对它"
+"们执行B<-p>命令）。将diff以DiffWML格式输出到标准输出或由I<--output>指定的文件"
+"中。"
 
 #. type: TP
 #, no-wrap
@@ -285,12 +288,13 @@ msgid "B<--fps>"
 msgstr "B<--fps>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "displays the number of frames per second the game is currently running at in "
 "a corner of the screen as well as writes these values to a file in the "
 "userdata directory."
-msgstr "在屏幕的一角显示游戏当前的每秒帧数（FPS）。"
+msgstr ""
+"在屏幕的一角显示游戏当前的每秒帧数（FPS），并将这些数值写入玩家数据目录中的一"
+"个文件里。"
 
 #. type: TP
 #, no-wrap
@@ -508,13 +512,13 @@ msgstr ""
 "B<--plugin> 组合使用。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--nobanner>"
-msgstr "B<--nocache>"
+msgstr "B<--nobanner>"
 
 #. type: Plain text
 msgid "suppress the startup banner."
-msgstr ""
+msgstr "跳过启动时的封面图像。"
 
 #. type: TP
 #, no-wrap
@@ -546,13 +550,13 @@ msgid "runs the game without sounds and music."
 msgstr "以无音乐和音效的方式运行游戏。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--output>I<\\ file>"
-msgstr "B<--script>I<\\ file>"
+msgstr "B<--output>I<\\ file>"
 
 #. type: Plain text
 msgid "output to the specified file. Applicable to diffing operations."
-msgstr ""
+msgstr "输出到指定的文件中。对diff操作适用。"
 
 #. type: TP
 #, no-wrap
@@ -576,13 +580,13 @@ msgid ""
 "B<--script>, but Lua file should return a function which will be run as a "
 "coroutine and periodically woken up with updates."
 msgstr ""
-"（试验性）读取定义了韦诺插件的 I<script>。与B<--script>类似，但Lua文件应返回"
+"（实验性）读取定义了韦诺插件的 I<script>。与B<--script>类似，但Lua文件应返回"
 "一个函数，该函数将作为协程运行，并周期性地使用更新地参数唤起。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-P,--patch>I<\\ base-file>B<\\ >I<patch-file>"
-msgstr "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
+msgstr "B<-P,--patch>I<\\ base-file>B<\\ >I<patch-file>"
 
 #. type: Plain text
 msgid ""
@@ -590,6 +594,8 @@ msgid ""
 "files.  Outputs the patched WML to standard output or to the file indicated "
 "by I<--output>."
 msgstr ""
+"将DiffWML补丁应用到WML文件上，不会预处理这两个文件中的任何一个。将打过补丁的"
+"WML输出到标准输出或由I<--output>指定的文件中。"
 
 #. type: TP
 #, no-wrap
@@ -624,7 +630,7 @@ msgid ""
 "If B<SKIP_CORE> is in the define list the \"data/core\" directory won't be "
 "preprocessed."
 msgstr ""
-"由逗号分隔的定义列表，用于 B<--preprocess> 指令。如果B<SKIP_CORE>在定义列表"
+"由逗号分隔的定义列表，用于 B<--preprocess> 命令。如果B<SKIP_CORE>在定义列表"
 "中，则“data/core”目录不会被预处理。"
 
 #. type: TP
@@ -804,13 +810,13 @@ msgstr ""
 "不可信的脚本使用此选项！此操作将赋予Lua与韦诺可执行文件相同的权限。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-S,--use-schema>I<\\ path>"
-msgstr "B<--scenario>I<\\ value>"
+msgstr "B<-S,--use-schema>I<\\ path>"
 
 #. type: Plain text
 msgid "sets the WML schema for use with B<-V,--validate>."
-msgstr ""
+msgstr "设置B<-V,--validate>所使用的WML schema。"
 
 #. type: TP
 #, no-wrap
@@ -881,40 +887,40 @@ msgid ""
 msgstr "在连接服务器时使用 I<username> ，忽略其他首选项。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--validate>I<\\ path>"
-msgstr "B<--data-path>"
+msgstr "B<--validate>I<\\ path>"
 
 #. type: Plain text
 msgid "validates a file against the WML schema."
-msgstr ""
+msgstr "使用WML schema来验证文件。"
 
 #. type: TP
 #, no-wrap
 msgid "B<--validate-addon>I<\\ addon_id>"
-msgstr ""
+msgstr "B<--validate-addon>I<\\ addon_id>"
 
 #. type: Plain text
 msgid "validates the WML of the given addon as you play."
-msgstr ""
+msgstr "在游戏过程中，验证指定附加组件的WML。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--validate-core>"
-msgstr "B<--validcache>"
+msgstr "B<--validate-core>"
 
 #. type: Plain text
 msgid "validates the core WML as you play."
-msgstr ""
+msgstr "在游戏过程中，验证核心WML。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--validate-schema \\ path>"
-msgstr "B<--validcache>"
+msgstr "B<--validate-schema \\ path>"
 
 #. type: Plain text
 msgid "validates a file as a WML schema."
-msgstr ""
+msgstr "验证文件是否为合法的WML schema。"
 
 #. type: TP
 #, no-wrap
@@ -1170,9 +1176,8 @@ msgid "COPYRIGHT"
 msgstr "版权"
 
 #. type: Plain text
-#, fuzzy
 msgid "Copyright \\(co 2003-2021 David White E<lt>davidnwhite@verizon.netE<gt>"
-msgstr "版权所有 \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
+msgstr "版权所有 \\(co 2003-2021 David White E<lt>davidnwhite@verizon.netE<gt>"
 
 #. type: Plain text
 msgid ""
@@ -1189,17 +1194,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#.  This program is free software; you can redistribute it and/or modify
-#.  it under the terms of the GNU General Public License as published by
-#.  the Free Software Foundation; either version 2 of the License, or
-#.  (at your option) any later version.
-#.  This program is distributed in the hope that it will be useful,
-#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#.  GNU General Public License for more details.
-#.  You should have received a copy of the GNU General Public License
-#.  along with this program; if not, write to the Free Software
-#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#. This program is free software; you can redistribute it and/or modify
+#. it under the terms of the GNU General Public License as published by
+#. the Free Software Foundation; either version 2 of the License, or
+#. (at your option) any later version.
+#. This program is distributed in the hope that it will be useful,
+#. but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. GNU General Public License for more details.
+#. You should have received a copy of the GNU General Public License
+#. along with this program; if not, write to the Free Software
+#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 msgid "B<wesnothd>(6)"
 msgstr "B<wesnothd>(6)"
@@ -1579,13 +1584,13 @@ msgstr "例如: B<versions_accepted=\"*\"> 允许所有版本连接。"
 #. type: TP
 #, no-wrap
 msgid "B<deny_unregistered_login>"
-msgstr ""
+msgstr "B<deny_unregistered_login>"
 
 #. type: Plain text
 msgid ""
 "Whether to prevent users who are not registered with the B<user_handler> "
 "being used from logging in. (default: false)"
-msgstr ""
+msgstr "是否阻止没有通过B<user_handler>进行注册的用户登录。（默认：否）"
 
 #. type: SS
 #, no-wrap
@@ -1694,9 +1699,8 @@ msgid "B<db_host>"
 msgstr "B<db_host>"
 
 #. type: Plain text
-#, fuzzy
 msgid "The hostname of the database server"
-msgstr "邮件服务器的主机名"
+msgstr "数据库服务器的主机名称"
 
 #. type: TP
 #, no-wrap
@@ -1704,9 +1708,8 @@ msgid "B<db_name>"
 msgstr "B<db_name>"
 
 #. type: Plain text
-#, fuzzy
 msgid "The name of the database"
-msgstr "邮件服务器的主机名"
+msgstr "数据库名称"
 
 #. type: TP
 #, no-wrap
@@ -1714,9 +1717,8 @@ msgid "B<db_user>"
 msgstr "B<db_user>"
 
 #. type: Plain text
-#, fuzzy
 msgid "The name of the user under which to log into the database"
-msgstr "（当user_handler=forum时）数据库登录用户名"
+msgstr "用于登录数据库的用户名称"
 
 #. type: TP
 #, no-wrap
@@ -1724,9 +1726,8 @@ msgid "B<db_password>"
 msgstr "B<db_password>"
 
 #. type: Plain text
-#, fuzzy
 msgid "This user's password"
-msgstr "这个用户的密码。"
+msgstr "这个用户的密码"
 
 #. type: TP
 #, no-wrap
@@ -1734,13 +1735,12 @@ msgid "B<db_users_table>"
 msgstr "B<db_users_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The name of the table in which your phpbb forums saves its user data. Most "
 "likely this will be E<lt>table-prefixE<gt>_users (e.g. phpbb3_users)."
 msgstr ""
-"（当user_handler=forum时）phpbb论坛中存放用户数据的表名。很可能是E<lt>table-"
-"prefixE<gt>_users（例如phpbb3_users）。"
+"你的phpbb论坛中存放用户数据的表名。很可能是E<lt>table-prefixE<gt>_users（例如"
+"phpbb3_users）。"
 
 #. type: TP
 #, no-wrap
@@ -1748,12 +1748,9 @@ msgid "B<db_extra_table>"
 msgstr "B<db_extra_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The name of the table in which wesnothd will save its own data about users."
-msgstr ""
-"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与游戏相关的"
-"数据。"
+msgstr "用于保存wesnothd自有用户数据的表名。"
 
 #. type: TP
 #, no-wrap
@@ -1761,12 +1758,9 @@ msgid "B<db_game_info_table>"
 msgstr "B<db_game_info_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The name of the table in which wesnothd will save its own data about games."
-msgstr ""
-"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与游戏相关的"
-"数据。"
+msgstr "用于保存wesnothd自有游戏数据的表名。"
 
 #. type: TP
 #, no-wrap
@@ -1774,13 +1768,10 @@ msgid "B<db_game_player_info_table>"
 msgstr "B<db_game_player_info_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The name of the table in which wesnothd will save its own data about the "
 "players in a game."
-msgstr ""
-"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与单场游戏中"
-"玩家相关的数据。"
+msgstr "用于保存wesnothd自有数据的表名，其中是与单场游戏中玩家相关的数据。"
 
 #. type: TP
 #, no-wrap
@@ -1788,13 +1779,11 @@ msgid "B<db_game_modification_info_table>"
 msgstr "B<db_game_modification_info_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The name of the table in which wesnothd will save its own data about the "
 "modifications used in a game."
 msgstr ""
-"（当user_handler=forum时）用于保存wesnothd自有数据的表名，其中是与单场游戏中"
-"使用的模组相关的数据。"
+"用于保存wesnothd自有数据的表名，其中是与单场游戏中使用的模组相关的数据。"
 
 #. type: TP
 #, no-wrap
@@ -1802,14 +1791,13 @@ msgid "B<db_user_group_table>"
 msgstr "B<db_user_group_table>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The name of the table in which your phpbb forums saves its user group data. "
 "Most likely this will be E<lt>table-prefixE<gt>_user_group (e.g. "
 "phpbb3_user_group)."
 msgstr ""
-"（当user_handler=forum时）phpbb论坛中存放用户组数据的表名。很可能是"
-"E<lt>table-prefixE<gt>_users_group（例如phpbb3_users_group）。"
+"你的phpbb论坛中存放用户组数据的表名。很可能是E<lt>table-"
+"prefixE<gt>_users_group（例如phpbb3_users_group）。"
 
 #. type: TP
 #, no-wrap
@@ -1817,10 +1805,9 @@ msgid "B<mp_mod_group>"
 msgstr "B<mp_mod_group>"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "The ID of the forum group to be considered as having moderation authority."
-msgstr "（当user_handler=forum时）论坛用户组ID，该组将视为拥有管理员权限。"
+msgstr "论坛用户组ID，该组将被视为拥有管理员权限。"
 
 #. type: Plain text
 msgid ""

@@ -4,13 +4,13 @@
 # Huang Huan(unicon) <unicon221@gmail.com>, 2005.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-09-25 21:03-0300\n"
-"PO-Revision-Date: 2021-04-18 16:38+0800\n"
+"PO-Revision-Date: 2021-11-28 13:53+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [brush]: id=brush-1
 msgid "Single Hex"
@@ -372,25 +372,25 @@ msgid "Delete"
 msgstr "删除"
 
 msgid "Left-click: "
-msgstr ""
+msgstr "左击："
 
 msgid "Right-click: "
-msgstr ""
+msgstr "右击："
 
 #. TRANSLATORS: Similar behavior applies to shift + right-click. This message specifies left-click
 #. because the logic of whether to show the "overlay only" or "base only" version depends on the
 #. terrain currently selected for the left button.
 msgid "Shift + left-click: paint overlay layer only"
-msgstr ""
+msgstr "Shift+左击：仅绘制覆盖层"
 
 msgid "Shift + left-click: paint base layer only"
-msgstr ""
+msgstr "Shift+左击：仅绘制基础层"
 
 msgid "Cmd + click: copy terrain"
-msgstr ""
+msgstr "Cmd+点击：复制地形"
 
 msgid "Ctrl + click: copy terrain"
-msgstr ""
+msgstr "Ctrl+点击：复制地形"
 
 msgid "Clipboard support not found, contact your packager"
 msgstr "未找到剪贴板支持，请联系你的打包者"
