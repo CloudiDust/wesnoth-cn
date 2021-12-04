@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:44+0800\n"
+"PO-Revision-Date: 2021-12-04 15:20+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 msgid "Son of the Black-Eye"
@@ -1854,15 +1854,13 @@ msgstr ""
 "再也不会安全了。你是唯一能够帮助我们坚守普雷斯提姆的人！"
 
 #. [message]: speaker=Pirk
-#, fuzzy
 msgid ""
 "Go defend Prestim, Kapou'e. In the meantime, now that the council is "
 "complete again, we will decide. We may have to form the Great Horde again, "
 "and give you the leadership of it."
 msgstr ""
-"把你的人民留在这吧，卡破尔——他们暂时是安全的——你要去保卫普雷斯提姆。与此同"
-"时，既然评议会已经重聚，那我们会作出决定的。我们可能必须再次组成大部落，并授"
-"予你最高领导权。"
+"去保卫普雷斯提姆吧，卡破尔。与此同时，既然评议会已经重聚，那我们会作出决定"
+"的。我们可能得再次组成大部落，并授予你最高领导权。"
 
 #. [message]: speaker=Shan Taum
 msgid "Nooo! Don’t kill me, I surrender to you little earthworm."
@@ -1870,7 +1868,7 @@ msgstr "不不不！别杀我，我向你这烂蚯蚓投降。"
 
 #. [scenario]: id=10_Saving_Inarix
 msgid "Saving Inarix"
-msgstr "援救依诺斯"
+msgstr "援救依那利克斯"
 
 #. [objective]: condition=win
 msgid "Wait for Inarix’s arrival from the south on turn 4"
@@ -1884,7 +1882,7 @@ msgstr "破坏南桥"
 msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to safety"
-msgstr "为了日后招募蜥蜴人，你至少要保证依诺斯和至少四个蜥蜴人的安全"
+msgstr "为了日后招募蜥蜴人，你至少要保证依那利克斯和至少四个蜥蜴人的安全"
 
 #. [note]
 msgid "Whoever detonates the bridge will die."
@@ -1922,8 +1920,8 @@ msgid ""
 "still trapped on the other side of the river some miles away. They won’t be "
 "able to cross the river."
 msgstr ""
-"还有更糟的；我们的狼骑兵报告说依诺斯率领的蜥蜴盟军仍然被困在河那边的几里外。"
-"他们没法过河。"
+"还有更糟的；我们的狼骑兵报告说依那利克斯率领的蜥蜴盟军仍然被困在河那边的几里"
+"外。他们没法过河。"
 
 #. [message]: speaker=Plonk
 msgid ""
@@ -1938,11 +1936,12 @@ msgid ""
 "If Inarix falls prey to those humans then we won’t be able to count on their "
 "help in this struggle. We must do something!"
 msgstr ""
-"假如依诺斯成了人类的盘中餐，我们就不能指望他们帮助我们了。我们必须行动起来！"
+"假如依那利克斯成了人类的盘中餐，我们就不能指望他们帮助我们了。我们必须行动起"
+"来！"
 
 #. [message]: speaker=Grüü
 msgid "I know what we must do. Kill elves and help Inarix cross."
-msgstr "俺知道俺们必须做什么。杀了精灵，帮依诺斯过河。"
+msgstr "俺知道俺们必须做什么。杀了精灵，帮依那利克斯过河。"
 
 #. [message]: speaker=Plonk
 msgid "It won’t be that easy! Our enemies are well entrenched."
@@ -1974,12 +1973,12 @@ msgid ""
 "Ahhh, it’s ‘the Prince’ from the Silent Forest. Unfortunately, I don’t think "
 "we can deal with him now, we have to focus on saving Inarix."
 msgstr ""
-"啊，它就是那个寂静森林的“王子”。真可惜现在不是理他的时候，我们得先援救依诺"
-"斯。"
+"啊，它就是那个寂静森林的“王子”。真可惜现在不是理他的时候，我们得先援救依那利"
+"克斯。"
 
 #. [event]
 msgid "Inarix"
-msgstr "依诺斯"
+msgstr "依那利克斯"
 
 #. [message]: speaker=Inarix
 msgid ""
@@ -2014,13 +2013,13 @@ msgstr "喂，别点火，我还没到地方呢！"
 
 #. [message]: speaker=Grüü
 msgid "Chief, we can’t be blowing the bridge before Inarix is here, can we?"
-msgstr "头儿，依诺斯没到，俺们还不能炸桥吧？"
+msgstr "头儿，依那利克斯没到，俺们还不能炸桥吧？"
 
 #. [then]
 msgid ""
 "Chief, Inarix hasn’t yet made it across! Are you really sure you want to do "
 "this?"
-msgstr "头而，依诺斯还没过桥！你真要这么做吗？"
+msgstr "头而，依那利克斯还没过桥！你真要这么做吗？"
 
 #. [else]
 msgid "I’m ready, Chief!"
@@ -3637,11 +3636,10 @@ msgid "Ahhh!"
 msgstr "啊！"
 
 #. [message]: speaker=Kapou'e
-#, fuzzy
 msgid ""
 "Blast it, without Inarix to lead her saurians, we can no longer count on "
 "their help."
-msgstr "没有依诺斯来率领他的蜥蜴，我们无法指望征召它们了。"
+msgstr "该死的，没有依那利克斯来率领他的蜥蜴人，我们没法指望他们帮忙了。"
 
 msgid "Al’Brock"
 msgstr "奥伯克"

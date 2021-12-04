@@ -5,13 +5,13 @@
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:48+0800\n"
+"PO-Revision-Date: 2021-12-04 14:38+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,26 +19,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Tutorial
 msgid "Battle Training"
-msgstr ""
+msgstr "战斗训练"
 
 #. [difficulty]
 #. [campaign]: id=Tutorial
 msgid "Tutorial"
-msgstr ""
+msgstr "教程"
 
 #. [campaign]: id=Tutorial
 msgid ""
 "Learn the basics of Wesnoth gameplay with a tutorial. Recommended for first "
 "time players."
-msgstr ""
+msgstr "通过教程，学习韦诺的基础玩法。推荐第一次游玩的玩家游玩此教程。"
 
 #. [difficulty]
 msgid "Beginner"
-msgstr ""
+msgstr "初学者"
 
 #. [label]
 msgid "Select Character"
@@ -99,10 +99,9 @@ msgid "Get yourself killed"
 msgstr "把你自己搞挂掉"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid ""
 "You cannot end your turn until you have completed the lesson on movement!"
-msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+msgstr "在完成“移动”课程之前，不能结束回合！"
 
 #. [message]: speaker=narrator
 msgid "Welcome to Wesnoth!"
@@ -260,9 +259,8 @@ msgstr ""
 "述。当你准备好之后，点击<b>攻击</b>。"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid "You cannot end your turn until you have attacked the dummy!"
-msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+msgstr "在攻击刺靶之前，不能结束回合！"
 
 #. [message]: speaker=student
 msgid "Hey! This quintain fights back!"
@@ -353,10 +351,9 @@ msgid "End your turn"
 msgstr "结束你的回合"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid ""
 "You cannot end your turn until you have completed the lesson on healing!"
-msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+msgstr "在完成“治疗”课程之前，不能结束回合！"
 
 #. [message]: speaker=student
 msgid "Ouch! I need to heal! Only $student_hp hitpoints left!"
@@ -402,10 +399,9 @@ msgstr ""
 "将得到两枚金币，而你拥有的每座村庄都会提供一枚额外的金币。"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid ""
 "You cannot end your turn until you have completed the lesson on recruiting!"
-msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+msgstr "在完成“征募”课程之前，不能结束回合！"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -489,10 +485,9 @@ msgstr ""
 "有<b>聪慧</b>特质的单位升级所需的经验值要少20%。"
 
 #. [disallow_end_turn]
-#, fuzzy
 msgid ""
 "You cannot end your turn until you have completed the lesson on attacking!"
-msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+msgstr "在完成“攻击”课程之前，不能结束回合！"
 
 #. [message]: speaker=student
 msgid ""
@@ -547,14 +542,13 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #. a strong elf, so +1 damage
-#, fuzzy
 msgid ""
 "Your elf used a sword (6×4; or 6 damage on each hit, with 4 attacks), which "
 "is a <i>melee</i> attack. The quintain defended with its melee attack (3×5; "
 "or 3 damage on each hit, with 5 attacks). The ranged attack (the bow) would "
 "have been safer."
 msgstr ""
-"你的精灵使用了剑（5×4；或者说每次命中造成5点伤害，可攻击4次），这是一种<b>近"
+"你的精灵使用了剑（6×4；或者说每次命中造成6点伤害，可攻击4次），这是一种<b>近"
 "战</b>攻击。刺靶以它的近战攻击（3×5；或者说每次命中造成3点伤害，可攻击5次）进"
 "行了反击。若选择远程攻击（弓）的话，本该更为安全的。"
 
@@ -563,6 +557,8 @@ msgid ""
 "Elvish Fighters normally do 5×4 damage with their swords, but this elf has "
 "the <i>strong</i> trait, which increases the damage output of melee attacks."
 msgstr ""
+"精灵战士使剑时，通常可以造成5×4的伤害，但这位精灵拥有<b>强壮</b>特质，这一特"
+"质会增加近战攻击的伤害输出。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -577,13 +573,12 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #. a dextrous elf, so +1 damage
-#, fuzzy
 msgid ""
 "Your elf used a bow, which is a <i>ranged</i> attack (4×3; or 4 damage on "
 "each hit, with 3 attacks). The quintain has no ranged attack, only a melee "
 "attack, so it could not defend itself."
 msgstr ""
-"你的精灵使用了弓，这是一种<b>远程</b>攻击（3×3；或者说每次命中造成3点伤害，可"
+"你的精灵使用了弓，这是一种<b>远程</b>攻击（4×3；或者说每次命中造成4点伤害，可"
 "攻击3次）。刺靶没有远程攻击，只有近战攻击，所以它无法保护自己。"
 
 #. [message]: speaker=Delfador
@@ -591,6 +586,8 @@ msgid ""
 "Elvish Fighters normally do 3×3 damage with their bows, but this elf has the "
 "<i>dextrous</i> trait, which increases the damage output of ranged attacks."
 msgstr ""
+"精灵战士使弓时，通常可以造成3×3的伤害，但这位精灵拥有<b>灵巧</b>特质，这一特"
+"质会增加远程攻击的伤害输出。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -825,7 +822,7 @@ msgstr "伽德拉德死亡"
 msgid ""
 "You cannot end your turn until you have recruited troops and captured a "
 "village!"
-msgstr "在征募部队并占领一个村庄之前，你不能结束你的回合！"
+msgstr "在征募部队并占领一个村庄之前，不能结束回合！"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1584,7 +1581,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "Speeding Up Animations"
-msgstr ""
+msgstr "加速动画"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1592,6 +1589,8 @@ msgid ""
 "quicker. The <b>acceleration factor</b> can be set, and turned on by "
 "default, in the <b>Preferences</b> menu’s <b>General</b> tab."
 msgstr ""
+"按住<b>shift</b>键将会加速移动和战斗动画。在<b>首选项</b>菜单的<b>通用</b>页"
+"面中，可以设置<b>加速因子</b>，且加速功能是默认启用的。"
 
 #. [message]: speaker=Galdrad
 msgid "Hurry up and defeat the orcs before they become entrenched!"
@@ -1913,11 +1912,11 @@ msgid ""
 "mistake."
 msgstr "别忘了，如果操作失误，你可以按<b>u</b>键来撤销大部分操作。"
 
-#, fuzzy
 msgid ""
 "\n"
 "\n"
 "<big>Click a mouse button or press the spacebar to continue...</big>"
 msgstr ""
+"\n"
 "\n"
 "<big>点击鼠标按钮或者按空格键继续……</big>"

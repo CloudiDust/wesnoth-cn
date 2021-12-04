@@ -2,13 +2,13 @@
 # Copyright (C) 2005-2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:44 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:39+0800\n"
+"PO-Revision-Date: 2021-12-04 15:09+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Eastern Invasion"
@@ -44,7 +44,7 @@ msgstr "剑士"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Difficult"
-msgstr ""
+msgstr "困难"
 
 #. [campaign]: id=Eastern_Invasion
 msgid "Royal Guard"
@@ -62,9 +62,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Eastern_Invasion
-#, fuzzy
 msgid "(Intermediate level, 16 scenarios.)"
-msgstr "（新手级别，16幕场景。）"
+msgstr "（中等级别，16幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -140,7 +139,6 @@ msgstr ""
 "的计划。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "In the days of King Garard I, two strong-points had been built along the "
 "near bank of the Weldyn, south of Soradoc, to stop bandits and orcish "
@@ -149,9 +147,9 @@ msgid ""
 "and the orcs were driven in retreat north of the Great River."
 msgstr ""
 "在伽拉德一世国王统治的时期，为了阻挡东界丘陵外围的强盗和兽人掠夺者，人们在索"
-"拉多克南部的维尔帝河岸边建造了两座坚固的堡垒，以阻止东界丘陵之外匪盗以及兽人"
-"劫掠者进入韦诺。但近年来，殖民者深入东界各处定居，而兽人也被赶回了泰河的北"
-"面，河岸卫队的岗哨随之也都被放弃了。"
+"拉多克南部的维尔帝河岸边建造了两座据点，以阻止东界丘陵之外的匪盗以及兽人劫掠"
+"者进入韦诺。但近年来，殖民者深入东界各处定居，而兽人也被赶回了泰河的北面，河"
+"岸卫队的岗哨随之也都被放弃了。"
 
 #. [part]
 msgid ""
@@ -400,7 +398,6 @@ msgid "Who goes there?"
 msgstr "那边是谁？"
 
 #. [message]: speaker=Gweddry
-#, fuzzy
 msgid ""
 "We are soldiers of the King of Wesnoth. Will you help us fight these trolls?"
 msgstr "我们是韦诺国王麾下的士兵。你能帮助我们和巨魔作战吗？"
@@ -1376,7 +1373,7 @@ msgstr "我会让你的尸身烂在河里，而后让你复活，在吾主的亡
 #. [message]: speaker=Mal-un-Karad
 #. "Wake" doesn't mean "raise undead" here. The reinforcements are sea creatures, they're alive but hidden underwater.
 msgid "Time to wake my reinforcements!"
-msgstr ""
+msgstr "是时候唤醒我的援军了！"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1688,9 +1685,8 @@ msgid ""
 msgstr "好吧，我们来对付巨魔和狮鹫。去图书馆搜查吧，愿你为我们找到答案。前进！"
 
 #. [label]
-#, fuzzy
 msgid "The stronghold"
-msgstr "移动达辛至要塞中"
+msgstr "要塞"
 
 #. [message]: speaker=Dacyn
 msgid ""
@@ -1926,9 +1922,8 @@ msgid ""
 msgstr "我们得先找回金币！它们一定已经被移到藏宝库去了。"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Move Gweddry to the western exit"
-msgstr "移动格温德利至隧道出口"
+msgstr "移动格温德利至西面出口"
 
 #. [objective]: condition=win
 msgid "Retrieve the stolen gold"
@@ -1989,9 +1984,8 @@ msgid "Ran-Lar"
 msgstr "兰-拉"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Destroy the bridge"
-msgstr "摧毁桥梁或击败所有敌人"
+msgstr "摧毁桥梁"
 
 #. [note]
 msgid ""
@@ -2978,11 +2972,10 @@ msgstr ""
 "击。"
 
 #. [attacks]: id=shock
-#, fuzzy
 msgid ""
 "This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
-msgstr " 此单位的近战攻击可以击破敌方的防御，以至于敌方的反击效果会降低。"
+msgstr " 此单位的近战攻击可以压垮敌方的防御，使其无法全力反击。"
 
 msgid "Dacyn"
 msgstr "达辛"

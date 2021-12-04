@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # MrKing <yideey@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:44 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:38+0800\n"
+"PO-Revision-Date: 2021-12-04 15:01+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Dead_Water
 msgid "Dead Water"
@@ -33,7 +33,7 @@ msgstr "居民"
 
 #. [campaign]: id=Dead_Water
 msgid "Easy"
-msgstr ""
+msgstr "简单"
 
 #. [campaign]: id=Dead_Water
 msgid "Fighter"
@@ -100,7 +100,6 @@ msgid "Invasion!"
 msgstr "入侵！"
 
 #. [part]
-#, fuzzy
 msgid ""
 "In the Far North, where the foothills of the Heart Mountains approach the "
 "coast, lies a bay with a narrow mouth. In the calm waters of this bay lies "
@@ -111,11 +110,11 @@ msgid ""
 "spring rains; always, they were driven back to dry land with heavy losses, "
 "the salt water of the bay stinging their wounds."
 msgstr ""
-"在遥远的西方，多斯山脉与海岸相接之处，有一个窄口的海湾。海湾里的水平静地拥抱"
-"着人鱼城市，礁沙城。这天然的港湾和居民们的富足让很多人眼红，但没有人能在人鱼"
-"的领域中战胜他们。在更北的地方，有座港口城市提里嘎兹。在大多数年份，兽人总会"
-"从那里出发，进犯礁沙城，正如春天总会下雨一般；他们又总会被驱逐回干燥的陆上，"
-"而且损失惨重，海湾里的盐水刺痛了他们的伤口。"
+"在远北之地，心之山脉与海岸相接之处，有一个窄口的海湾。海湾里的水平静地拥抱着"
+"人鱼城市，礁沙城。这天然的港湾和居民们的富足让很多人眼红，但没有人能在人鱼的"
+"领域中战胜他们。在更北的地方，有座港口城市提里嘎兹。在大多数年份，兽人总会从"
+"那里出发，进犯礁沙城，正如春天总会下雨一般；他们又总会被驱逐回干燥的陆上，而"
+"且损失惨重，海湾里的盐水刺痛着他们的伤口。"
 
 #. [part]
 msgid ""
@@ -802,7 +801,7 @@ msgstr "吉拉克"
 
 #. [unit]: type=Saurian Skirmisher
 msgid "Guardian"
-msgstr ""
+msgstr "守卫"
 
 #. [side]: id=Raxisz, type=Saurian Ambusher, type=Saurian Ambusher, type=Saurian Flanker, type=Saurian Flanker
 msgid "Raxisz"
@@ -1284,7 +1283,6 @@ msgid "Beloved Pet"
 msgstr "受宠的宠物"
 
 #. [message]: speaker=Kai Krellis
-#, fuzzy
 msgid ""
 "Uh oh. There is someone else here. Hey! He is being attacked by a cuttlefish!"
 msgstr "啊哦。这里还有其他人。嘿！一条大乌贼正在袭击他！"
@@ -1310,12 +1308,11 @@ msgid "Brace yourselves."
 msgstr "全体警戒。"
 
 #. [message]: speaker=Kai Krellis
-#, fuzzy
 msgid ""
 "Oh no! Look what he has frisking at his heels now. And I thought the "
 "cuttlefish was bad!"
 msgstr ""
-"噢不！看看他脚边活蹦乱跳的都是些什么东西。我还以为那大乌贼已经够糟糕了！"
+"哦不！看看他脚边活蹦乱跳的都是些什么东西。我还以为那大乌贼已经够糟糕了！"
 
 #. [message]: speaker=Growloff
 msgid "You killed my pet! You’ll pay for that!"
@@ -1330,14 +1327,13 @@ msgid "But you attacked us with these monsters."
 msgstr "但你让这些怪物袭击了我们。"
 
 #. [message]: speaker=Growloff
-#, fuzzy
 msgid ""
 "They are my friends. I’ve been so lonely here...and you killed so many of my "
 "friends. They could be your friends too. Spare me, and I’ll give you my "
 "favorite cuttlefish. His name is Inky."
 msgstr ""
 "它们是我的朋友。我在这儿太寂寞了……而你们杀掉了我这么多朋友。它们本来也可以成"
-"为你们的朋友的。放了我，我就把我最喜欢的乌贼送给你们。它叫墨墨。"
+"为你们的朋友的。放了我，我就把我最喜欢的乌贼送给你们。它叫小墨。"
 
 #. [message]: speaker=Kai Krellis
 msgid "I do not want a dangerous beast like that!"
@@ -1356,7 +1352,6 @@ msgid "Maybe we could use a pet sea monster."
 msgstr "说不定我们确实可以用上一只宠物海怪。"
 
 #. [message]: speaker=Kai Krellis
-#, fuzzy
 msgid ""
 "Very well. I will take the cuttlefish. But do not trouble us again, or I "
 "shall kill you and all the rest of your pets."
@@ -1591,13 +1586,12 @@ msgid "Well, I defeated the Drakes on your island."
 msgstr "好吧。我打败了您的小岛上的龙人。"
 
 #. [message]: speaker=Tyegea
-#, fuzzy
 msgid ""
 "Drakes only look dangerous. Soldiers carrying spears make short work of "
 "them. No, I have something else in mind. You will complete a task for the "
 "good of the merfolk. Listen."
 msgstr ""
-"切！龙人不过是纸老虎罢了。装备了长矛的士兵可以轻易击败他们。不，我想到了别"
+"龙人不过是外强中干罢了。装备了长矛的士兵可以轻易击败他们。不，我想要的是别"
 "的。你得完成一项造福人鱼的任务。听着。"
 
 #. [message]: speaker=Tyegea
@@ -2609,14 +2603,13 @@ msgid "Young King"
 msgstr "年轻之王"
 
 #. [unit_type]: id=Merman Young King, race=merman
-#, fuzzy
 msgid ""
 "A young king with some battle experience will be treated with some respect. "
 "Common citizens will be inspired to do their utmost when the king is nearby, "
 "but battle-hardened veterans will be less impressed."
 msgstr ""
-"有一些战斗经验的年轻国王会赢得一些尊敬。当国王在附近时，普通平民会受到极大的"
-"鼓舞而全力作战，但是久经沙场的老兵们则不会多以为然。"
+"有一些战斗经验的年轻国王会赢得一些尊敬。当国王在附近时，普通平民会受到鼓舞而"
+"全力作战，但是久经沙场的老兵们则不会多以为然。"
 
 #. shown in the status table
 msgid "user_team_name^Merfolk"
@@ -2726,11 +2719,10 @@ msgid ""
 "This attack hits so hard that the opponent is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the opponent’s next turn."
 msgstr ""
-"此攻击很重，以至于对手会被打得眩晕，因此无法维持控制区域。眩晕效果将在对手的"
-"下个回合消除。"
+"此攻击下手很重，以至于对手会被打得眩晕，因此无法维持控制区域。眩晕效果将在对"
+"手的下个回合消除。"
 
 #. [damage]: id=tail_stun
-#, fuzzy
 msgid ""
 "This unit is able to stun its enemies, disrupting their zones of control."
-msgstr " 此单位能够击晕它的敌人，从而扰乱他们的控制区域。"
+msgstr " 此单位能够击晕敌人，从而扰乱他们的控制区域。"

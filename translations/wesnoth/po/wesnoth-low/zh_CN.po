@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:40+0800\n"
+"PO-Revision-Date: 2021-12-04 15:15+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "LoW"
@@ -60,7 +60,7 @@ msgstr "领主"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "Difficult"
-msgstr ""
+msgstr "困难"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "High Lord"
@@ -1346,11 +1346,11 @@ msgstr "他们是冷酷无情的兽人和久经沙场的巨魔。兄弟们，做
 
 #. [message]: id=Landar
 msgid "Those dwarves must still be protecting our gold — on their land."
-msgstr ""
+msgstr "那些矮人肯定还在保护着我们的金币——在他们的领地上保护。"
 
 #. [message]: id=Kalenz
 msgid "Yes, it seems we must defend the Kalian alone."
-msgstr ""
+msgstr "使得，看起来我们得独自保卫卡利安了。"
 
 #. [message]: id=Olurf
 msgid "Did ye think we’d let you have all the fun wi’ the orcs by yerselves?"
@@ -1361,16 +1361,20 @@ msgid ""
 "You did, we’ve already driven them from the forest. You barely caught up in "
 "time to chase them into the hills."
 msgstr ""
+"你们就是这么干的。我们已经把他们驱逐出森林了。你们不过刚好赶到，追着他们进了"
+"山里去而已。"
 
 #. [message]: id=Kalenz
 msgid ""
 "Diplomacy, Landar. We do need to pursue the orcs into the mountains, and an "
 "army of dwarves will be welcome companions."
 msgstr ""
+"讲点外交技巧，兰达尔。我们确实需要去山中追踪兽人，而且一支矮人军队可是值得欢"
+"迎的伙伴。"
 
 #. [message]: id=Landar
 msgid "It’s not much of an army he is bringing with him, though."
-msgstr "不过他没带来多少军队。"
+msgstr "不过他可没带来多少军队。"
 
 #. [message]: id=Olurf
 msgid ""

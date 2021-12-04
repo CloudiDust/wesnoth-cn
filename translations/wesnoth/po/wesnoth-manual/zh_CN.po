@@ -4,19 +4,19 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "POT-Creation-Date: 2021-11-09 03:45+0300\n"
-"PO-Revision-Date: 2021-04-18 16:41+0800\n"
+"PO-Revision-Date: 2021-12-04 14:51+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: outside any tag (error?)
 msgid "<?asciidoc-toc?> <?asciidoc-numbered?>"
@@ -351,7 +351,6 @@ msgid "Credits"
 msgstr "制作人员"
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><listitem><simpara>
-#, fuzzy
 msgid ""
 "Click this button for a list of major Wesnoth contributors. You will often "
 "be able to reach them in real time at irc.libera.chat:6667 on #wesnoth or at "
@@ -359,8 +358,8 @@ msgid ""
 "battleforwesnoth</ulink>"
 msgstr ""
 "点击此按钮以查看韦诺主要贡献者的名单。通常您可以在irc.freenode.org:6667的"
-"#wesnoth频道里或者<ulink url=\"https://discord.gg/battleforwesnoth\">https://"
-"discord.gg/battleforwesnoth</ulink>上与他们实时交流。"
+"#wesnoth频道里或者在<ulink url=\"https://discord.gg/battleforwesnoth"
+"\">https://discord.gg/battleforwesnoth</ulink>上与他们实时交流"
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 msgid "Quit"
@@ -925,7 +924,7 @@ msgstr "控制"
 msgid ""
 "To view and change the hotkey settings open the Preferences menu and choose "
 "the Hotkeys tab."
-msgstr ""
+msgstr "打开“首选项”菜单并选择“热键”页面，以查看及变更热键设置。"
 
 #. type: Content of: <book><chapter><section><simpara>
 msgid ""
@@ -2128,7 +2127,7 @@ msgstr "黄色球"
 msgid ""
 "If you control the unit and it has moved this turn, but could still move "
 "further or attack"
-msgstr "表示您控制着此单位，它在本回合已经移动过，但还可以继续移动或者进攻"
+msgstr "表示您控制着此单位，它在本回合已经移动过，但还可以继续移动或者攻击"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid "Red"
@@ -2148,31 +2147,30 @@ msgstr "红色球"
 msgid ""
 "If you control the unit, but it can no longer move or attack, or the user "
 "ended the unit&#8217;s turn"
-msgstr "表示您控制着此单位，但它不能再移动或者进攻，或者用户结束了其回合"
+msgstr "表示您控制着此单位，但它不能再移动或者进攻击，或者用户结束了其回合"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
-#, fuzzy
 msgid "Red and yellow"
-msgstr "征募和召回"
+msgstr "红与黄"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject>
-#, fuzzy
 msgid ""
 "<imageobject> <imagedata fileref=\"images/orb-disengaged.png\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/orb-red.jpg\"/> </imageobject>"
+"<imageobject> <imagedata fileref=\"images/orb-disengaged.png\"/> </"
+"imageobject>"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry><inlinemediaobject><textobject><phrase>
 msgid "Two color orb"
-msgstr ""
+msgstr "双色球"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
-#, fuzzy
 msgid ""
 "If you control the unit and it has attacked this turn, and could still move "
 "further but could not attack again"
-msgstr "表示您控制着此单位，它在本回合已经移动过，但还可以继续移动或者进攻"
+msgstr ""
+"表示您控制着此单位，它在本回合已经攻击过，但还可以继续移动，但不能再攻击了"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid "Blue"
@@ -2193,6 +2191,8 @@ msgid ""
 "If the unit is an ally you do not control. On the ally&#8217;s own turn "
 "these will be shown with green, yellow and red orbs"
 msgstr ""
+"表示这是友方单位，您不能控制。在该友方自己的回合时，这类单位旁边将显示绿、黄"
+"以及红色球"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 msgid "-"
@@ -2217,15 +2217,13 @@ msgid "Ellipses, Team Colors, and Hero Icons"
 msgstr "椭圆，团队颜色与英雄图标"
 
 #. type: Content of: <book><chapter><section><section><simpara>
-#, fuzzy
 msgid ""
 "Below each unit there will normally be a colored ellipses or base. The color "
 "identifies its team. The team color will also show up in parts of the "
 "unit&#8217;s clothing, or possibly on a shield insignia."
 msgstr ""
-"每个单位脚下都有一个彩色椭圆，或者叫基底。椭圆的颜色代表了单位所属的团队：在"
-"战役游戏中，人类玩家的颜色是红色。团队颜色也会出现在单位着装上，还可能出现在"
-"盾牌徽章上。"
+"每个单位脚下都有一个彩色椭圆，或者叫基底。椭圆的颜色代表了单位所属的团队。团"
+"队颜色也会出现在单位着装的一部分上，还可能出现在盾牌徽章上。"
 
 #. type: Content of: <book><chapter><section><section><simpara>
 msgid ""
@@ -2240,19 +2238,18 @@ msgstr ""
 msgid ""
 "Units that can recruit will always have a star-shaped base. Other units "
 "normally have an elliptic base."
-msgstr ""
+msgstr "可以发起征募的单位的基底总是星形的。其他单位的基底则通常是椭圆形的。"
 
 #. type: Content of: <book><chapter><section><section><simpara>
-#, fuzzy
 msgid ""
 "Some campaigns use a smaller star-shaped base and a silver crown icon above "
 "the energy bar to indicate heroes (units which are somehow special and for "
 "example not allowed to die in the course of the scenario).  Whether to do "
 "this is a stylistic choice left to campaign designers."
 msgstr ""
-"有些战役使用星形基底来标明首领和英雄（在某些方面特殊的单位，比如说，在场景中"
-"不能死亡）；另一些则使用能量条上方的银色王冠图标作为英雄的标志。还有些战役则"
-"完全没有英雄标识。采用何种方式（如果采用的话）取决于战役设计者的风格。"
+"有些战役使用小一些的星形基底和能量条上方的银色王冠图标来标明英雄（在某些方面"
+"具有特殊性的单位，比如说，在场景中不能死亡）。要不要这样做，是留给战役设计者"
+"的风格选择。"
 
 #. type: Content of: <book><chapter><section><title>
 msgid "Fighting"
