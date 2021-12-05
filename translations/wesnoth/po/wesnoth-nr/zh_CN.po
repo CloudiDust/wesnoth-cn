@@ -8,13 +8,13 @@
 # MrKing <yideey@gmail.com>, 2012.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:49+0800\n"
+"PO-Revision-Date: 2021-12-05 11:19+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Northern Rebirth"
@@ -465,13 +465,13 @@ msgstr "任务？什么任务？"
 msgid ""
 "Sounds of drums and horns echo on the mountainsides. A large orc army draws "
 "near!"
-msgstr ""
+msgstr "战鼓和号角声在山中回响。庞大的兽人军队逼近了！"
 
 #. [message]: speaker=Tallin
 msgid ""
 "If only we were faster escaping into the mines this wouldn't have happened. "
 "At least we will die free..."
-msgstr ""
+msgstr "要是我们能早点逃进矿洞里，这些就不会发生了。至少我们能作为自由人死去……"
 
 #. [scenario]: id=02_01_Infested_Caves
 msgid "Infested Caves"
@@ -1008,13 +1008,13 @@ msgstr ""
 #. [message]: speaker=narrator
 msgid ""
 "Without eating or sleeping for days, Tallin's men begin to fall one by one."
-msgstr ""
+msgstr "好几日不吃不喝之后，塔林的士兵们一个接一个倒下了。"
 
 #. [message]: speaker=Tallin
 msgid ""
 "We were too slow in finding the dwarves. I don't think we can fight for much "
 "longer!"
-msgstr ""
+msgstr "还没有找到矮人，我们行动太慢了。我可不觉得还能坚持多久了！"
 
 #. [scenario]: id=02_02_Meeting_With_Dwarves
 msgid "Meeting With Dwarves"
@@ -1532,14 +1532,13 @@ msgstr ""
 "成碎片。"
 
 #. [message]: speaker=Hamel
-#, fuzzy
 msgid ""
 "Ghouls! They have an insatiable hunger for flesh and even one scratch from "
 "their claws will weaken you with sickness and disease. Nasty things; let’s "
 "chop them to pieces before they can leave the canal."
 msgstr ""
-"食 尸 鬼！他们对肉有贪得无着的渴望，甚至从爪子上掉一下也会削弱你的疾病和疾"
-"病。讨厌的事情;在它们离开运河之前，先把它们切成碎片。"
+"食尸鬼！他们对肉有贪得无厌的渴望，即使只被它们的爪子划伤一点，也会让你恶疾缠"
+"身、虚弱无力。实在是恶心的东西。在它们离开运河之前，我们把它们砍成碎片吧。"
 
 #. [message]: speaker=Malifor
 msgid ""
@@ -4128,16 +4127,15 @@ msgid "I think we have a chance to make some new allies here..."
 msgstr "我想我们现在有一个结交新盟友的机会了……"
 
 #. [story]
-#, fuzzy
 msgid ""
 "Allies? I take it we’re to go to them and ask them to join us in return for "
 "our help in rescuing their princess? You heard their message — those elves "
 "have got their noses so high in the air they canna’ see over them. They "
 "wouldna’ ally themselves with the likes o’ us."
 msgstr ""
-"盟友？你是说我们去找他们，要求和他们结盟，作为回报，我们会帮他们营救公主？你"
-"也知道他们之前是怎么回复我们的了，那些精灵的鼻子都翘到天上去了，他们根本看不"
-"上咱们。他们不会和像我们这样的人结盟的。"
+"盟友？你是说我们去找他们，要求和他们结盟，而作为回报，我们会帮他们营救公主？"
+"你也知道他们之前是怎么回复我们的了——那些精灵的鼻子都翘到天上去了，他们根本看"
+"不上我们。他们不会和像我们这样的人结盟的。"
 
 #. [story]
 msgid ""
@@ -4267,16 +4265,14 @@ msgid "Death of Ro’Sothian"
 msgstr "若·索瑟恩死亡"
 
 #. [note]
-#, fuzzy
 msgid "Even if your rescue fails, you will still advance to the next scenario."
-msgstr "即使你的营救失败了，你也仍然会进入下幕场景"
+msgstr "即使你的营救失败了，你也仍然会进入下幕场景。"
 
 #. [note]
-#, fuzzy
 msgid ""
 "You will win this scenario immediately upon moving onto the hex containing "
 "the Princess’s cage."
-msgstr "进入包含公主笼子的十六进制后，您将立即赢得此场景。"
+msgstr "进入包含关押公主的囚笼的格子时，你将立即赢得此场景的胜利。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -4320,25 +4316,25 @@ msgid "Eryssa"
 msgstr "伊蕊莎"
 
 #. [message]: race=orc
-#, fuzzy
 msgid ""
 "The intruders are breaking in! Get to the walls and defend the fortress! And "
 "where did that Elvish Princess go?"
-msgstr "入侵者正在闯入！到城墙上去保卫堡垒！猫王公主去哪了？"
+msgstr "入侵者正在闯入！上城墙去，保卫要塞！精灵公主去哪了？"
 
 #. [message]: speaker=Eryssa
-#, fuzzy
 msgid ""
 "(<i>hushed</i>) Thank you, my saviors. Who has come to rescue me from vile "
 "captivity?"
-msgstr "我自由了！谢谢你们，我的英雄们。是谁把我从这监牢中拯救出来的？"
+msgstr ""
+"（<b>轻声</b>）谢谢你们，我的救命恩人。把我从这卑鄙的监牢之中救出的你们，是"
+"谁？"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "(<i>whispering</i>) Later, my lady, first let’s get outta — uh, let us take "
 "our leave of this place as swiftly as may be!"
-msgstr "以后再说，公主。现在让我们赶快逃出——呃，让我们尽快离开这个地方！"
+msgstr ""
+"(<b>低语</b>) 以后再说，公主。现在让我们快溜——呃，让我们尽快离开这个地方吧！"
 
 #. [message]: speaker=Eryssa
 msgid "Lead; I will follow."
@@ -4363,9 +4359,8 @@ msgid "Move Tallin to the Signpost in the north"
 msgstr "移动塔林至北方路标处"
 
 #. [objective]: condition=lose
-#, fuzzy
 msgid "Death of Eryssa"
-msgstr "斯托莱格死亡"
+msgstr "伊蕊莎死亡"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -4452,12 +4447,10 @@ msgid "You’re right, Elenia, Tallin is truly a hero."
 msgstr "你说的对，伊莱妮雅，塔林是个大英雄。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "Not at all, Your Highness. I am no more than a humble peasant trying to free "
 "my people from enslavement."
-msgstr ""
-"过奖了，公主。我只是个普通的农民。只想那个带领我的乡亲从残暴统治下获得自由。"
+msgstr "过奖了，殿下。我只是个低微的农民，只想让乡亲们逃离奴役，获得自由罢了。"
 
 #. [message]: speaker=Eryssa
 msgid "And a modest one too!"
@@ -4473,9 +4466,8 @@ msgstr ""
 "中帮了北方所有的精灵。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid "Ahh, it was nothing, my lady."
-msgstr "啊，这不算什么，公主。"
+msgstr "啊，这算不上什么，公主。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -4486,14 +4478,13 @@ msgstr ""
 "你？"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "As Elenia has said, we are currently locked in a death-struggle with the "
 "orcs led by a warlord named Rakshas. You could help us most by joining us in "
 "our quest to crush this menace once and for all."
 msgstr ""
-"公主，就像伊莱妮雅说的，我们现在共同面临拉克夏斯领导兽人军团的威胁。我们希望"
-"你们和我们合作，一劳永逸的消除这个威胁。"
+"正如伊莱妮雅所说，我们现在正和军阀拉克夏斯领导的兽人军团死战。若您想帮助我"
+"们，最好的办法便是与我们一同作战，一劳永逸地消灭这个威胁。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -4508,7 +4499,6 @@ msgstr ""
 "他们不仅是为了你们，也是为了我们自己。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "My lady, we are not seeking to do business here: <i>“I do this for you and "
 "you do this for me.”</i> No, we seek to build everlasting friendships which "
@@ -4526,7 +4516,7 @@ msgid ""
 "shall use all the influence I have, or can induce our father to use, to "
 "raise elvish troops for the battles ahead."
 msgstr ""
-"说的太好了，塔林。我愿意和你并肩战斗，消灭兽人。让狮鹫马上把这个消息传给我们"
+"说得太好了，塔林。我愿意和你并肩战斗，消灭兽人。让狮鹫马上把这个消息传给我们"
 "的人民，我将尽全力说服我的父亲，让精灵的部队冲在最前面。"
 
 #. [message]: speaker=Elenia
@@ -4616,11 +4606,10 @@ msgid "Peace! Peace!"
 msgstr "镇定！镇定！"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "Well, what about the orcs then, <i>Princess</i>? Don’t you wish to be rid of "
 "them?"
-msgstr "好吧，那兽人怎么办，公主？你不想摆脱他们吗？"
+msgstr "好吧，那兽人怎么办，<b>公主</b>？你不想摆脱他们吗？"
 
 #. [message]: speaker=Eryssa
 msgid "How we deal with the orcs is none of your concern!"
@@ -4628,7 +4617,7 @@ msgstr "怎么处理兽人轮不到你管！"
 
 #. [message]: speaker=Camerin
 msgid "What a little priss. She makes me want to fry her!"
-msgstr "这骄傲的小姑娘想让我把她炸了！"
+msgstr "这小妮子真娇气。我都想把她给炸了！"
 
 #. [message]: speaker=Eryssa
 msgid "Mind your betters, mage!"
@@ -4636,20 +4625,19 @@ msgstr "注意你的行为，法师！"
 
 #. [message]: speaker=Camerin
 msgid "Mind your tongue, elf!"
-msgstr "注意你的舌头，精灵！"
+msgstr "注意你的言语，精灵！"
 
 #. [message]: speaker=Father Morvin
-#, fuzzy
 msgid ""
 "Frankly, my lady, I am disappointed. I was always under the impression that "
 "elves were an honorable lot who took their debts seriously."
-msgstr "坦白说，公主，我很失望。我的印象里，精灵是高贵的，把恩惠看得很重要。"
+msgstr "坦白说，公主，我很失望。我的印象里，精灵是高贵的，把恩情看得很重要。"
 
 #. [message]: speaker=Eryssa
 msgid ""
 "Who said that I wasn’t going to repay you? When I get back to the elves, we "
 "will give you five thousand gold for your trouble."
-msgstr "谁说我不会报答你们了？我回去之后，我们会付给你们5000金币作辛苦费。"
+msgstr "谁说我不会报答你们了？我回去之后，我们会付给你们五千金币作为辛苦费。"
 
 #. [message]: role=Supporter
 msgid "We already have a hoard of gold! We don’t need more!"
@@ -4803,21 +4791,20 @@ msgid "Who is this annoying chit?"
 msgstr "这讨厌的小孩是谁？"
 
 #. [then]
-#, fuzzy
 msgid ""
 "This is the famous and benevolent Princess Eryssa, in whose rescue we "
 "sacrificed many lives and <i>much</i> gold."
 msgstr ""
-"这就是著名的仁慈的伊蕊莎公主，为了救她我们牺牲了很多伙伴，还有<b>大量的</b>金"
-"币。"
+"这就是著名的仁慈的伊蕊莎公主，为了救她我们牺牲了很多伙伴，还花费了<b>大量的</"
+"b>金币。"
 
 #. [then]
 msgid ""
 "That’s it! I have had enough from you worthless rabble. I will soon send a "
 "rider with the promised gold, and in the meantime, I’m leaving!"
 msgstr ""
-"是又怎么样！我受够了你们这些卑微的乌合之众。等会儿我会派个骑兵送来应许的黄"
-"金，现在，我要走了！"
+"够了！我真是受够了你们这些卑微的乌合之众。等会儿我会派个骑兵送来应许的金币，"
+"现在，我要走了！"
 
 #. [then]
 msgid "Begone and good riddance, brat!"
@@ -5111,23 +5098,21 @@ msgid "Hidel"
 msgstr "海达尔"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid "Your Highness! We have finally found you!"
-msgstr "公主！我们终于找到你了！"
+msgstr "殿下！我们终于找到你了！"
 
 #. [message]: speaker=Eryssa
 msgid "Good work, Hidel! How do your forces march?"
 msgstr "好样的，海达尔！你的人都来了吗？"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid ""
 "They are all here, my lady! Hand picked by your father — the finest and "
 "bravest elvish troops in the entire Northlands. We will follow you to the "
 "end of the world if need be."
 msgstr ""
-"他们都来了，公主！他们是由您的父亲亲自挑选的，是整个北部大陆最好最勇敢的精灵"
-"部队了。只要需要，我们会追随您到世界的尽头。"
+"他们都在这儿了，公主！他们是您的父亲亲自挑选的——是整个北陆最优秀最勇敢的精灵"
+"部队。若是有必要，我们会追随您直到世界的尽头。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -5136,9 +5121,8 @@ msgid ""
 msgstr "非常好。我们的第一个任务就是全力支持勇敢的塔林，帮助他打败那些巨魔。"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid "With pleasure! Quickly men, set up a base!"
-msgstr "非常荣幸，公主！快点，建起营地！"
+msgstr "不胜荣幸！快点，建起营地！"
 
 #. [message]: id=Oof,Glu,Tor
 msgid ""
@@ -5286,11 +5270,11 @@ msgid "Sisal"
 msgstr "塞索"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid ""
 "Your Highness! We have finally found you! Thank the Bright Gods you are "
 "free! Your father had originally sent us to rescue you."
-msgstr "公主！我们终于找到你了！谢天谢地！你的父亲派我们一定要救出你。"
+msgstr ""
+"殿下！我们终于找到您了！感谢光明之神，您自由了！您的父亲原是派我们来救您的。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -5331,13 +5315,12 @@ msgid "What is the status of our troops, Hidel?"
 msgstr "我们的部队怎样，海达尔？"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid ""
 "They are all here, my lady! Hand picked by your father — the finest and "
 "bravest elvish troops in the entire Northlands."
 msgstr ""
-"他们都在这里了，公主！他们全由您父亲亲自选出，是整个北陆上最好最勇敢的精灵部"
-"队了。"
+"他们都在这儿了，公主！他们是您的父亲亲自挑选的——是整个北陆最优秀最勇敢的精灵"
+"部队。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -5349,9 +5332,8 @@ msgstr ""
 "对我们和对他都一样重要。"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid "As you wish, my lady."
-msgstr "谨遵旨意，公主。"
+msgstr "如您所愿，公主。"
 
 #. [message]: speaker=Tallin
 msgid "Very well, people. The road ahead is clear, onward to victory!"
@@ -5493,13 +5475,10 @@ msgid "Hidel?"
 msgstr "海达尔？"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid ""
 "Easily, Your Highness. We shall move unseen through the trees, overtake him, "
 "and put an end to his flight."
-msgstr ""
-"这不难，公主。我们可以在树之间匿踪行进，追上他，拦住他的去路，给他的征程画上"
-"终止符。"
+msgstr "这不难，殿下。我们可以在树之间匿踪行进，追上他，给他的征程画上终止符。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -5516,9 +5495,8 @@ msgid "(<i>Wink wink</i>)"
 msgstr "（<b>眨眼眨眼</b>）"
 
 #. [message]: speaker=Hidel
-#, fuzzy
 msgid "(<i>Raises eyebrow</i>) Very well, my lady."
-msgstr "（<b>皱起眉头</b>）遵命，公主。"
+msgstr "（<b>挑了挑眉毛</b>）遵命，公主。"
 
 #. [message]: speaker=Tallin
 msgid ""
@@ -5634,13 +5612,12 @@ msgstr ""
 "时候，他的眼睛慢慢睁开了。"
 
 #. [story]
-#, fuzzy
 msgid ""
 "I am sorry, my lady... We held him for... as long as we could... but his "
 "bodyguards... were... just too many and powerful... And then... the "
 "orcish... reinforcements arrived..."
 msgstr ""
-"对不起，公主……我们尽量……拖住他……但是他的卫队……太……多太强了……然后……兽人的……增"
+"对不起，公主……我们尽量……拖住他了……但是他的卫队……太多太强了……然后……兽人的……增"
 "援部队到了……"
 
 #. [part]
@@ -5657,11 +5634,10 @@ msgid "Hidel, I am sorry. I have sent you to your death, and I grieve."
 msgstr "海达尔，对不起，是我害死你的，我真对不起。"
 
 #. [story]
-#, fuzzy
 msgid ""
 "... Don’t tax yourself... Eryssa... I have died... a warrior’s death... You "
 "should be proud..."
-msgstr "……别责备自己……公主……作为一个武士……我死得其所……你该为我感到骄傲……"
+msgstr "……别责备自己……伊蕊莎……作为一名武士……我死得其所……您应该感到骄傲……"
 
 #. [story]
 msgid ""
@@ -5756,14 +5732,13 @@ msgstr ""
 "成以后，大家围到了塔林和伊蕊莎前面。"
 
 #. [story]
-#, fuzzy
 msgid ""
 "My lady... it is a hard thing, I know, but you must put your grief behind "
 "you. Or at least, put it aside for a little while. We must go quickly to the "
 "aid of Sisal and recover our gold."
 msgstr ""
-"公主……这是很痛苦的事，我知道，但你必须放下你的悲伤。或者至少，暂时把它放在一"
-"边。我们必须赶去帮助塞索，并找回金币。"
+"公主……这是很痛苦的，我知道，但您必须放下悲伤。或者至少，暂时把它放在一边。我"
+"们必须赶去帮助塞索，并找回金币。"
 
 #. [story]
 msgid ""
@@ -5806,12 +5781,11 @@ msgstr "哈图尔"
 
 #. [objective]: condition=win
 msgid "Defeat the orcs"
-msgstr "战胜兽人"
+msgstr "击败兽人"
 
 #. [note]
-#, fuzzy
 msgid "You will not receive any gold if Sisal dies."
-msgstr "如果西萨尔去世，你将不会收到任何黄金。"
+msgstr "如果西萨尔去世，你将不会得到任何金币。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -5824,9 +5798,8 @@ msgid "Sisal, how do you fare?"
 msgstr "塞索，进展如何？"
 
 #. [message]: id=Sisal
-#, fuzzy
 msgid "Your Highness! You are here! How fares Hidel?"
-msgstr "公主！你来了！海达尔怎样？"
+msgstr "殿下！您来了！海达尔怎样了？"
 
 #. [message]: id=Eryssa
 msgid "(<i>Sheds a tear</i>)"
@@ -5841,8 +5814,8 @@ msgid ""
 "The dung-spawned bastards! Verily, Tallin, had it not been for Hidel we "
 "would all be dead and Rakshas would be gleefully counting his gold."
 msgstr ""
-"可恶！塔林，没有海达尔的掩护我们就会全军覆没，也许拉克夏斯现在正开心的数着金"
-"币。"
+"那些粪虫养的混蛋！塔林，我能肯定，要是没有海达尔的掩护，我们就全军覆没了，而"
+"拉克夏斯现在正开心地数着金币。"
 
 #. [message]: id=Sisal
 msgid ""
@@ -5895,11 +5868,12 @@ msgid "Haha! We got the gold now!"
 msgstr "哈哈！我们现在得到了金币！"
 
 #. [message]: id=Ha'Tuil
-#, fuzzy
 msgid ""
 "Hahaha! Mission accomplished! I’ll send a wolf to the Master to deliver the "
 "gold. Now let’s crush the rest of this scum!"
-msgstr "哈哈哈！任务完成，伙计们！把剩下的垃圾角色干掉后就可以回禀主人了。"
+msgstr ""
+"哈哈哈！任务完成！我会派一头狼把金币带回给主人。现在让我们把剩下的渣滓们碾碎"
+"吧！"
 
 #. [message]: id=Eryssa
 msgid ""
@@ -5995,15 +5969,16 @@ msgid ""
 "Eryssa and the remaining elves, eager to avenge Hidel, went south, while "
 "Tallin himself led the western group."
 msgstr ""
-"伊蕊莎和剩下的精灵们，一心想着为海达尔报仇，去往南边。而塔林则率部前往西边。"
+"伊蕊莎和剩下的精灵们，一心想着为海达尔报仇，去往南边。而塔林自己则率部前往西"
+"边。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Sisal and the remaining elves, eager to avenge Hidel and Eryssa, went south, "
 "while Tallin himself led the western group."
 msgstr ""
-"伊蕊莎和剩下的精灵们，一心想着为海达尔报仇，去往南边。而塔林则率部前往西边。"
+"西萨尔和剩下的精灵们，一心想着为海达尔和伊蕊莎报仇，去往南边。而塔林自己则率"
+"部前往西边。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -7045,9 +7020,8 @@ msgid "Eryssa, no! Please don’t die!"
 msgstr "伊蕊莎，不！别死！"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid "How could this happen? We can’t possibly go on without her..."
-msgstr "怎么会这样？没有她我们不可能继续..."
+msgstr "怎么会这样？没有她我们不可能继续前进了……"
 
 #. [part]
 msgid "Arthian"

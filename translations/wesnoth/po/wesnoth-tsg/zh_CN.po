@@ -6,13 +6,13 @@
 # wind <everywherewind@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:48+0800\n"
+"PO-Revision-Date: 2021-12-05 15:07+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=The_South_Guard
 msgid "The South Guard"
@@ -31,7 +31,6 @@ msgid "TSG"
 msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
-#, fuzzy
 msgid ""
 "A young knight, Deoran, is dispatched to the southern Wesnoth province of "
 "Kerlath to investigate the ravaged towns at the border. Thrust quickly into "
@@ -39,14 +38,13 @@ msgid ""
 "remaining men of the derelict South Guard to defend his country.\n"
 "\n"
 msgstr ""
-"一个年轻的骑士，迪奥兰，被派往南部韦斯尼特省的凯拉特调查在边境被毁坏的城镇。"
-"德奥兰迅速陷入一场与抢劫匪徒的不幸冲突，他必须召集废弃的南卫队的残余人保卫自"
-"己的国家。"
+"一位年轻的骑士，德欧兰，被派往韦诺南部行省克拉斯，调查被毁坏的边境城镇。德欧"
+"兰迅速陷入了一场与劫匪大盗的不幸冲突，他必须召集已经荒废的南疆卫队的残余成"
+"员，保卫自己的国家。\n"
 
 #. [campaign]: id=The_South_Guard
-#, fuzzy
 msgid "(Novice level, 8 scenarios.)"
-msgstr "（菜鸟级别，9幕场景。）"
+msgstr "（新手级别，8幕场景。）"
 
 #. [campaign]: id=The_South_Guard
 msgid "Beginner"
@@ -77,9 +75,8 @@ msgid "Campaign Design"
 msgstr "战役设计"
 
 #. [about]
-#, fuzzy
 msgid "Latest Campaign Revision"
-msgstr "战役设计"
+msgstr "最新战役版本"
 
 #. [about]
 msgid "Campaign Maintenance"
@@ -326,7 +323,6 @@ msgstr ""
 "我们欢迎你们的帮助！当我们取胜之时，这块土地之上的河域还将继续属于你们。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "You may now recruit Merman Hunters. Merfolk are aquatic creatures and fight "
 "best in rivers and swamps. They are much less effective on dry land."
@@ -1399,40 +1395,36 @@ msgid "Mebrin! Where are you?!"
 msgstr "梅布林！您在哪？！"
 
 #. [message]: speaker=Ethiliel
-#, fuzzy
 msgid ""
 "His home is empty... There are several sets of footprints leading away to "
 "the south..."
-msgstr "他的家里空无一人……有往南去的脚印……"
+msgstr "他的家里空无一人……有几队往南去的脚印……"
 
 #. [message]: speaker=Sir Gerrick
-#, fuzzy
 msgid "Perhaps he was taken by the undead?"
 msgstr "也许他被亡灵带走了？"
 
 #. [message]: speaker=Deoran
-#, fuzzy
 msgid ""
 "I am not sure. There is no blood here and very little sign of struggle. If "
 "it had been the undead, I suspect they would have slain him and made him one "
 "of them."
 msgstr ""
-"没有血迹，所以说他一定是被突然袭击的。但是亡灵应该会把他杀死，也变成亡灵才"
-"对。"
+"我不确定。没有血迹，也没有多少反抗的痕迹。如果这是亡灵干的，我怀疑它们会把他"
+"杀死，并变成它们的一员才对。"
 
 #. [message]: speaker=Sir Gerrick
-#, fuzzy
 msgid "Then maybe the bandits who have been summoning the undead took him?"
 msgstr "会不会是在召唤亡灵的土匪们把他抓走的？"
 
 #. [message]: speaker=Deoran
-#, fuzzy
 msgid ""
 "We cannot be sure. I should think that he would have put up a fight, but if "
 "he were ambushed or taken by surprise, he may not have had the chance. "
 "Ethiliel, what do you think?"
 msgstr ""
-"我们不能确定。我还是觉得很奇怪，这里没有战斗的迹象。艾茜莉尔，您怎么看？"
+"我们没法确定。我觉得他应该会反抗的，但如果他被偷袭了，那或许并没有机会反击。"
+"艾茜莉尔，您怎么看？"
 
 #. [message]: speaker=Deoran
 msgid "... Ethiliel? I know you must be distraught, but—"
@@ -1454,13 +1446,12 @@ msgid ""
 msgstr "那我们快出发吧。（还得避免做出任何可能让她比现在更愤怒的事……）"
 
 #. [message]: speaker=Necro
-#, fuzzy
 msgid ""
 "So the elves finally come to defend their valley. Pity, they showed up too "
 "late. We will stop them here and prevent them from reclaiming the knowledge "
 "that was once theirs!"
 msgstr ""
-"精灵们终于来保卫他们的山谷了。可惜啊，他们出现得有点晚。我们将在这里阻止他"
+"精灵们终于来保卫他们的山谷了。可惜啊，他们出现得太晚了。我们将在这里阻止他"
 "们，让他们没法收回曾经属于他们的知识！"
 
 #. [message]: speaker=Deoran
@@ -1497,9 +1488,8 @@ msgstr "？"
 
 #. [side]
 #. only a single one
-#, fuzzy
 msgid "Monster"
-msgstr "招聘网站"
+msgstr "怪物"
 
 #. [objective]: condition=win
 msgid "Investigate the areas to the south of the Black River"
@@ -1657,9 +1647,8 @@ msgid "These were merely servants of a far more powerful master."
 msgstr "这些仅仅是一名远为强大的主君的仆从而已。"
 
 #. [message]: speaker=second_unit
-#, fuzzy
 msgid "One fewer evil in this forest."
-msgstr "在这片森林里少了一个邪恶之存在。"
+msgstr "在这片森林里少了一个邪恶存在。"
 
 #. [message]: speaker=second_unit
 msgid "We found the lich!"
@@ -1875,7 +1864,6 @@ msgstr "不要害怕！我知道出去的路，在我们打败亡灵之后, 我�
 
 #. [message]: speaker=narrator
 #. All of Urza Afalas’s units have been transferred to the player’s side. The troops who attacked or were recruited last turn can’t attack this turn; the others can. The “disengaged” orb is the one used for Under the Burning Sun’s disengage ability.
-#, fuzzy
 msgid ""
 "Many of Urza Afalas’s troops are exhausted from battle and cannot attack "
 "this turn, but are still able to withdraw and reposition themselves.\n"
@@ -1883,7 +1871,10 @@ msgid ""
 "Units that can move but can’t attack are shown with the <i>disengaged</i> "
 "orb."
 msgstr ""
-"乌尔扎·阿法拉的部队在战斗中筋疲力尽，无法进攻，但仍能够撤退和重新定位。"
+"乌尔扎·阿法拉的许多部队在战斗中筋疲力尽了，他们在此回合不能攻击，但仍然能够撤"
+"退和变换位置。\n"
+"\n"
+"能够移动而不能攻击的单位旁边会显示<b>脱战</b>状态球。"
 
 #. [message]: speaker=Urza Afalas
 msgid "I pay for my crimes, but without me, you cannot fight the undead..."
@@ -2117,7 +2108,6 @@ msgid "Mal Maul"
 msgstr "玛尔·魔尔"
 
 #. ['unit name']
-#, fuzzy
 msgid "female^Mal Maul"
 msgstr "玛尔·魔尔"
 
@@ -2514,7 +2504,7 @@ msgstr "长途行军"
 #. [side]
 #. Another elvish side.
 msgid "Ambushers"
-msgstr ""
+msgstr "伏兵"
 
 #. [objective]: condition=win
 msgid "Move Deoran through the woods and over the river"
@@ -3016,12 +3006,11 @@ msgid ""
 msgstr "我们终于回到了克拉斯，但快看！亡灵几乎要追上我们了！"
 
 #. [message]: speaker=Sir Gerrick
-#, fuzzy
 msgid ""
 "These forts are ill-equipped for holding back so many undead. I am certain "
 "we will be slaughtered if we try to fight them here!"
 msgstr ""
-"这些要塞装备不足，不能抵挡这么多亡灵。我确信，要是我们试图在这里与它们作战, "
+"这些要塞装备不足，不能抵挡这么多亡灵。我确信，要是我们试图在这里与它们作战，"
 "我们会被屠杀的！"
 
 #. [message]: speaker=Deoran
@@ -3076,7 +3065,6 @@ msgid "Those are brave words that I would not have expected from you, Afalas."
 msgstr "这样勇敢的话语，我可没想到能从你口里说出来，阿法拉斯。"
 
 #. [message]: speaker=Urza Afalas
-#, fuzzy
 msgid ""
 "All things end one way or another. Alas, I would have liked to see my home "
 "in Westin one more time, but I am too tired. Tired of running, and tired of "
@@ -3084,10 +3072,9 @@ msgid ""
 "think us criminals and outlaws, but we are still human and we still know "
 "loyalty and gratitude."
 msgstr ""
-"所有的事情都会以这样或那样的方式结束。唉，我本来想再看一次我在韦斯廷的家，但"
-"我已经厌倦了。厌倦了逃跑，厌倦了在亡灵的追击下逃离。他们腐蚀了我的兄弟们，吞"
-"噬了我的兄弟们。也许你们认为我们是罪犯和游寇，但我们仍然是人类，我们仍然知道"
-"忠诚和感激，两位骑士阁下。"
+"所有的事情都会以这样或那样的方式结束。唉，我本想再看一次我在韦斯廷的家，但我"
+"已经厌倦了。厌倦了逃跑，厌倦了逃离亡灵。它们腐蚀了、吞噬了我的兄弟们。也许你"
+"们认为我们是罪犯和游寇，但我们仍然是人类，我们仍然知道忠诚和感激。"
 
 #. [message]: speaker=Sir Gerrick
 msgid "You will not change our minds, Deoran. Go!"
@@ -3135,13 +3122,11 @@ msgstr ""
 "回合，韦斯廷的防御就增强一分。"
 
 #. [message]: speaker=Sir Gerrick
-#, fuzzy
 msgid ""
 "Alas, for each casualty we suffer, the ranks of the undead grow. We must "
 "hold fast and survive as long as we can!"
 msgstr ""
-"唉，每一个我们遭受的伤亡，亡灵的队伍就会增加。我们必须坚持下去，并尽可能长久"
-"地生存下去！"
+"唉，我们一遭受伤亡，亡灵的军力就会增加。我们必须坚持下去，活得越久越好！"
 
 #. [message]: speaker=Urza Afalas
 msgid "So this is how it ends... I am coming to you, my brothers..."
@@ -3542,12 +3527,10 @@ msgstr ""
 "效命！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Every unit you lose will give the undead gold. Protect your troops and "
 "sustain as few losses as possible!"
-msgstr ""
-"你每失去一个单位，亡灵都会获得一些金币。保护你的部队，并维持尽可能少的损失！"
+msgstr "你每失去一个单位，亡灵都会获得一些金币。保护你的部队并尽可能减少损失！"
 
 #. [message]: speaker=Mal M'Brin
 msgid ""
@@ -3916,7 +3899,6 @@ msgstr ""
 
 #. [part]
 #. Intro to scenario 1
-#, fuzzy
 msgid ""
 "Haldric summoned a young, but promising cavalry officer named Deoran for the "
 "task. Though undistinguished, Deoran’s family had a decorated history in the "
@@ -3927,10 +3909,10 @@ msgid ""
 "accounting from Sir Loris."
 msgstr ""
 "哈德里克传召了一位年轻但很有前途的名叫德欧兰的骑兵军官，并派给他这项任务。虽"
-"然并不功勋卓著，但德欧兰家族在韦诺军队中有着颇有荣耀的历史：他的祖父哈尔迪尔"
-"曾在王位夺还战争中与科纳德一世并肩作战，而他的父亲伦纳德曾担任军官三十年。因"
-"此, 带着对这位年轻军官的完全信任，哈德里克国王封德欧兰为骑士，并派他前往韦斯"
-"廷，要求洛里斯爵士进行解释。"
+"然并不功勋卓著，但德欧兰家族在韦诺军队中有着颇有荣耀的历史：他的曾祖父哈尔迪"
+"尔曾在王位夺还战争中与科纳德一世并肩作战，而他的父亲利欧纳德曾担任军官三十"
+"年。因此, 凭着对这位年轻军官的完全信任，哈德里克国王封德欧兰为骑士，并派他前"
+"往韦斯廷，要求洛里斯爵士进行解释。"
 
 #. [part]
 #. Intro to scenario 2
@@ -4130,7 +4112,6 @@ msgstr ""
 
 #. [part]
 #. Epilogue A
-#, fuzzy
 msgid ""
 "<i>“These are our terms: no human will be permitted in the forests or hills "
 "of the Aethenwood, and likewise, we elves will not traverse the plains and "
@@ -4155,7 +4136,6 @@ msgstr ""
 
 #. [part]
 #. Epilogue A
-#, fuzzy
 msgid ""
 "Thus, an uneasy peace was established between man and elf. For many weeks, "
 "the South Guard patrolled the borders of the elven woods and watched over "
@@ -4166,7 +4146,8 @@ msgid ""
 msgstr ""
 "于是，人类和精灵之间达成了勉强的和平。之后的数周，南疆卫队在精灵丛林毗邻的边"
 "境巡逻，监护渐渐扩大的农田和村庄。来自精灵的威胁足以阻止村民进入现在已被禁止"
-"进入的艾森丛林。尽管森林边界处明显紧张，但休战得以维持，没有发生任何事件。"
+"进入的艾森丛林。尽管森林边界处的气氛明显紧张，但休战得以维持，没有发生任何事"
+"件。"
 
 #. [part]
 #. Is part of both Epilogues
@@ -4221,7 +4202,6 @@ msgstr ""
 
 #. [part]
 #. Epilogue B
-#, fuzzy
 msgid ""
 "After the battle, Deoran led an expedition to the southern border posts, "
 "where the forts had been smashed into crumbled ruins, and blood and broken "
@@ -4260,7 +4240,6 @@ msgstr ""
 
 #. [part]
 #. Epilogue B
-#, fuzzy
 msgid ""
 "Deoran spent his days visiting the wounded and directing the men as they "
 "rebuilt the shattered walls and ramparts of the city. Slowly, a sense of "

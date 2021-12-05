@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2011.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:46+0800\n"
+"PO-Revision-Date: 2021-12-05 12:01+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Two_Brothers
 msgid "A Tale of Two Brothers"
@@ -40,9 +40,8 @@ msgid "Challenging"
 msgstr "挑战"
 
 #. [campaign]: id=Two_Brothers
-#, fuzzy
 msgid "Grand Knight"
-msgstr "骑士"
+msgstr "高阶骑士"
 
 #. [campaign]: id=Two_Brothers
 msgid ""
@@ -56,9 +55,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Two_Brothers
-#, fuzzy
 msgid "(Novice level, 4 scenarios.)"
-msgstr "（菜鸟级别，4幕场景。）"
+msgstr "（新手级别，4幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -375,7 +373,6 @@ msgid "Arvith and his band rode north in search of his missing brother."
 msgstr "阿维斯和他的队伍骑马去北方寻找他失踪的弟弟。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "16 V, 363 YW\n"
 "Excerpt from the journal of Arvith of Maghre\n"
@@ -398,14 +395,15 @@ msgstr ""
 "摘自玛格雷的阿维斯的日记\n"
 "\n"
 "我们已经找了巴兰三天了，但什么都没有找到。我的直觉告诉我应该向北到边陲去，也"
-"就是这死灵法师的奴仆能安全躲藏的地方；而其他地方更多的是农田。一开始我以为搜"
-"寻也许是无用功，但在第一天快结束的时候，我们找到了一些脚印。有些脚印看起来像"
-"是骷髅踏出来的。\n"
+"就是这死灵法师的奴仆能安全躲藏的地方；而其他地方都只有更多的农田而已。一开始"
+"我以为搜寻也许是无用功，但在第一天快结束的时候，我们找到了一些痕迹。有些痕迹"
+"看起来像是骷髅踏出来的，虽说在他们的第一个营地之后，脚印就只剩下背负重担的人"
+"留下的了。\n"
 "\n"
-"我们现在已经接近于确定了：那些脚印踏进了灰色丛林。在人们的记忆中无论是玛格雷"
+"我们现在已经近乎确定了：那些脚印踏进了灰色丛林。在人们的记忆中，无论是玛格雷"
 "还是其他村子的人都没有进过这片森林。传承了好几代人的故事警告说不得进入那儿。"
-"据说那个地方有渴望吃活人的迷失灵魂在徘徊，任何死在那儿的人都注定会成为他们的"
-"一员。"
+"据说那个地方有渴望吞食活人的迷失灵魂在徘徊，任何死在那儿的人都注定会成为他们"
+"的一员。"
 
 #. [part]
 msgid ""
@@ -461,9 +459,8 @@ msgid "Catch the kidnappers"
 msgstr "逮住绑架者"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Kill the Dark Adept before more elves arrive"
-msgstr "在黑暗狂徒的援军到达之前击杀他"
+msgstr "在更多精灵到达之前击杀黑暗狂徒"
 
 #. [objectives]
 msgid ""
@@ -502,18 +499,21 @@ msgid ""
 "murderer, and rest assured that the grey mages will release all of the souls "
 "that their prisoner’s evil magic has bound to this world."
 msgstr ""
+"那些人发现他们抓住的人正在使用死灵术。为了你好，我希望他不是你弟弟。假设他们"
+"抓住的人是杀害了你弟弟的人，那放心吧，灰袍法师们会解放所有被那囚人禁锢在这个"
+"世界的灵魂的。"
 
 #. [message]: speaker=Arvith
 msgid ""
 "We killed the necromancer on the battlefield! I struck the killing blow "
 "myself."
-msgstr ""
+msgstr "我们在战场上击杀了死灵法师！我亲自了结了他。"
 
 #. [message]: speaker=Arvith
 msgid ""
 "We killed the necromancer on the battlefield! I saw the killing blow with my "
 "own eyes."
-msgstr ""
+msgstr "我们在战场上击杀了司令法师！我亲眼看到了最后一击。"
 
 #. [message]: speaker=Nil-Galion
 msgid ""
@@ -526,13 +526,17 @@ msgid ""
 "Either way, nothing will be gained by your intrusion into our woods. Now "
 "advance no further, for we will defend our land."
 msgstr ""
+"三天之前，我们听到了战斗的声响，但那囚人从我们身边经过时散发的邪恶死气，我们"
+"可是不会搞错的。如果你的弟弟确实就是那囚人，那他同时也是一名死灵法师。如我们"
+"大家所愿，记住你弟弟曾经的样子吧，你得知道，那囚人的命运将被你所能想到的最可"
+"怕的复仇所淹没。"
 
 #. [message]: speaker=Arvith
-#, fuzzy
 msgid ""
 "So much for those ghost stories, but even ghosts might have been more "
 "observant than these elves. Still, they will not stop me from freeing Baran!"
-msgstr "鬼故事到此为止。弱小的精灵不能阻止我救出巴兰！"
+msgstr ""
+"鬼故事到此为止了，就算是鬼都比这些精灵观察得仔细。他们不能阻止我救出巴兰！"
 
 #. [message]: role=Mercenary
 msgid ""
@@ -563,11 +567,13 @@ msgid ""
 "without arousing the elves’ suspicions. Still, no need for the disguise any "
 "more."
 msgstr ""
+"该死的！要是他们晚来几小时，我或许就能掩盖住我们的痕迹，不引起精灵的怀疑了。"
+"不过，现在可没必要再掩藏了。"
 
 #. [message]: speaker=Arvith
 #. it's likely that all the elves are already dead, and Arvith is just shouting to the forest
 msgid "Well, elves? Now do you see who the necromancers are?"
-msgstr ""
+msgstr "看到了吧，精灵们？现在你们看到谁才是死灵法师了吧？"
 
 #. [message]: speaker=messenger_elf
 #. a elven scout rides in from off-map, takes their first look at the situation, and realises that they have no idea what's going on
@@ -575,6 +581,8 @@ msgid ""
 "I heard sounds of battle, but did not expect to see this. I will inform the "
 "Council, they can work out who the necromancers are."
 msgstr ""
+"我听到了战斗的声响，但可没想到会看到这些。我会告知评议会，他们能推测出谁是死"
+"灵法师的。"
 
 #. [message]: speaker=Arvith
 msgid "Come on, men, let’s catch those kidnappers!"
@@ -716,19 +724,23 @@ msgstr "你获得了70枚金币！"
 msgid ""
 "These elves have delayed us too long, the kidnappers’ trail will have faded "
 "by now."
-msgstr ""
+msgstr "那些精灵把我们拖太久了，绑架者的痕迹现在已经消失了。"
 
 #. [message]: speaker=Arvith
 msgid ""
 "More elves are arriving; even if they believe me, the kidnappers’ trail is "
 "sure to fade before we can follow."
 msgstr ""
+"还有更多精灵正在赶来。就算他们相信我，绑架者的痕迹在我们能跟上之前也肯定会消"
+"失了。"
 
 #. [message]: speaker=Nil-Galion
 msgid ""
 "Deluded fool, you are rescuing a necromancer. I can only hope that you are "
 "too late, and that our souls will rest in peace."
 msgstr ""
+"被蒙骗的蠢货，你们正要拯救一名死灵法师。我只能希望你们没赶上，而我们的灵魂能"
+"够安息。"
 
 #. [message]: speaker=Arvith
 msgid "Follow their back trail!"

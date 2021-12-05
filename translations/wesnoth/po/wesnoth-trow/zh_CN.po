@@ -9,13 +9,13 @@
 # MrKing <yideey@gmail.com>, 2011.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:47+0800\n"
+"PO-Revision-Date: 2021-12-05 13:37+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #. [scenario]: id=22_The_Rise_of_Wesnoth
@@ -52,7 +52,7 @@ msgstr "指挥官"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 msgid "Difficult"
-msgstr ""
+msgstr "困难"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 msgid "Lord"
@@ -70,9 +70,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
-#, fuzzy
 msgid "(Hard level, 20 scenarios.)"
-msgstr "（困难级别，24幕场景。）"
+msgstr "（困难级别，20幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -232,11 +231,10 @@ msgid ""
 msgstr "动乱终于波及到了岛中央，这里与世隔绝，是艾德睿克四世国王的领地。"
 
 #. [message]: speaker=King Eldaric IV
-#, fuzzy
 msgid ""
 "It looks like some Wesfolk rabble have seized the Northern Keep! Prepare for "
 "battle, Haldric!"
-msgstr "一群韦福克暴民夺取了北部要塞！哈德里克，准备战斗！"
+msgstr "看起来一群韦福克暴民夺取了北部要塞！哈德里克，准备战斗！"
 
 #. [message]: speaker=Prince Haldric
 msgid "Father, I am of age now. May I lead our forces in battle?"
@@ -353,9 +351,8 @@ msgid ""
 msgstr "我们必须做好防守准备！哈德里克，待在要塞。我要去边境加强防御工事。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "My forces are defeated. Under your customs of surrender, I will go now."
-msgstr "我已经被打败了，按照你们的俘虏政策，我可以走了吧。"
+msgstr "我的军队已经败北，按照你们的投降习俗，我现在就走。"
 
 #. [message]: speaker=King Eldaric IV
 msgid ""
@@ -476,16 +473,14 @@ msgstr ""
 
 #. [message]: speaker=Tan-Rarbag
 #. meat is a derogatory term for humans used by orcs and also is a subtle reference to orcs eating humans opportunistically
-#, fuzzy
 msgid ""
 "Run, meat, run! Sooner or later, you will tire and our wolves will hunt you "
 "down!"
-msgstr "跑，肉，快跑！迟早，你会厌倦，我们的狼会追捕你！"
+msgstr "跑啊，鲜肉们，快跑啊！你们迟早会疲倦，而我们的狼将会狩猎你们！"
 
 #. [message]: speaker=Tan-Erang
-#, fuzzy
 msgid "The meat will die! Die! Die! Die!"
-msgstr "肉会死的！死！死！死！"
+msgstr "鲜肉必须死！去死！去死！去死！"
 
 #. [message]: speaker=Wesfolk Leader
 msgid "This is going to get ugly..."
@@ -522,9 +517,8 @@ msgid "I think that your skills may be useful. You may join us."
 msgstr "我想你们的能力会有用的。你可以加入我们。"
 
 #. [message]: speaker=Wesfolk Leader
-#, fuzzy
 msgid "Let there be peace between us. Our survival depends on it."
-msgstr "合作愉快，我们现在是一条船上的人了。"
+msgstr "我们休战吧，只有这样才能活下去。"
 
 #. [message]: speaker=Prince Haldric
 msgid "So what shall I call you?"
@@ -629,14 +623,13 @@ msgid "Defeat all enemy leaders"
 msgstr "击败所有敌方首领"
 
 #. [message]: speaker=Prince Haldric
-#, fuzzy
 msgid ""
 "Argh, the orcish vanguard must have flanked us even further to the east! "
 "They’re already holding the mouth of the pass. We have to get out of the "
 "mountain pass before winter comes or we’re all doomed!"
 msgstr ""
-"啊，兽人前峰对我们东面的包围更深入了！他们已经占据了山峡的入口。我们必须赶在"
-"冬天来临之前通过山峡，否则我们都会死！"
+"啊，兽人前峰对我们东面的包围更深入了！他们已经占据了山道的入口。我们必须赶在"
+"冬天来临之前通过山道，否则我们都会死！"
 
 #. [message]: speaker=Prince Haldric
 msgid "Father, I wish you were here..."
@@ -649,13 +642,12 @@ msgid ""
 msgstr "你最好别再多愁善感了。拿起你的剑。前面还有更多的战斗在等着我们！"
 
 #. [message]: speaker=Tan-Schmog
-#, fuzzy
 msgid "You won’t get any further than this, meat!"
-msgstr "你没法再往前了，小子。嘎嘎嘎！"
+msgstr "你不可能再往前走了，鲜肉！"
 
 #. [message]: speaker=unit
 msgid "Who goes there?"
-msgstr "谁在那？"
+msgstr "谁在那儿？"
 
 #. [unit]: id=Burin the Lost, type=Dwarvish Steelclad
 msgid "Burin the Lost"
@@ -911,12 +903,11 @@ msgid "Hey, there’s somebody hidden in the temple. Ack! Hold there!"
 msgstr "嗨，庙里好像藏着什么人。啊！别动！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "East — The Oldwood Forest.\n"
 "Enter at Your Own Risk!"
 msgstr ""
-"西南-古老森林。\n"
+"东面 — 古木森林。\n"
 "擅入者后果自负！"
 
 #. [message]: speaker=Lollyra
@@ -973,13 +964,12 @@ msgstr ""
 "役。虽然兽人军队数量惊人，但他们还没有碰上我们的主力部队。"
 
 #. [message]: speaker=Prince Haldric
-#, fuzzy
 msgid ""
 "Well, we can’t go back, and the road ahead is blocked. I guess we’ll have to "
 "risk it and go through the Oldwood forest, then make a break for Clearwater "
 "Port."
 msgstr ""
-"既然我们后无退路，前有强敌……我想我们只能冒险穿过古老森林，然后突破重围去清水"
+"既然我们后无退路，前有强敌。我想我们只能冒险穿过古木森林，然后突破重围去清水"
 "港。"
 
 #. [message]: speaker=Burin the Lost
@@ -1088,9 +1078,8 @@ msgid "Vrogar"
 msgstr "福罗格"
 
 #. [message]: speaker=Vrogar
-#, fuzzy
 msgid "They’re attacking the chief! Kill the meat before it gets any farther!"
-msgstr "他们在攻击酋长！在肉走得更远之前先把肉杀死！"
+msgstr "他们在攻击酋长！在鲜肉走得更远之前把他们杀掉！"
 
 #. [message]: speaker=Tan-Hogar
 msgid "Better him than me! Reserves!"
@@ -1736,20 +1725,18 @@ msgstr "呸，那就如你所愿！"
 
 #. [unit]: id=Lady Jessene, type=$lady_store.type
 msgid "Lady Jessene"
-msgstr "洁欣小姐"
+msgstr "洁欣女领主"
 
 #. [message]: speaker=Lady Jessene
-#, fuzzy
 msgid ""
 "I am the Lady Jessene, a noble, a princess of the Wesfolk! I was betrayed by "
 "the Lich-Lords’ dark pact with the orcs, in no small part because your fool "
 "Prince of Southbay convinced them that their immortal unlives were over!"
 msgstr ""
-"我是洁欣小姐，一个贵族，韦福克的一个公主！我被巫妖王们和兽人的卑鄙协议所背"
+"我是洁欣女领主，一个贵族，韦福克的一个公主！我被巫妖王们和兽人的卑鄙协议所背"
 "弃，而这主要是因为你们那愚蠢的南湾王子让他们坚信不疑自己的不朽生命即将结束！"
 
 #. [message]: speaker=Lady Jessene
-#, fuzzy
 msgid ""
 "And now, I’m as much a refugee as you. In truth, I don’t know if the Lich-"
 "Lords still command these orcs or if the orcs have rid themselves of the "
@@ -1841,7 +1828,7 @@ msgstr "乘第三艘船撤退"
 
 #. [objective]: condition=lose
 msgid "Death of Lady Jessene"
-msgstr "洁欣小姐死亡"
+msgstr "洁欣女领主死亡"
 
 #. [objective]: condition=lose
 msgid "Death of Commander Aethyr"
@@ -2262,8 +2249,8 @@ msgid ""
 "The lich is free! Let’s bash him and grab that book. That sounds like a job "
 "for you, Lady Jessene!"
 msgstr ""
-"巫妖复活了！让我们给他来个迎头痛击并拿到那本笔记。这任务似乎是给你的，洁欣小"
-"姐！"
+"巫妖复活了！让我们给他来个迎头痛击并拿到那本笔记。这任务似乎是给你的，洁欣女"
+"领主！"
 
 #. [message]: speaker=Lady Jessene
 msgid "Hmph! You’re just happy because that monolith proves your paternity!"
@@ -3017,8 +3004,8 @@ msgid ""
 "even more exotic lands even further to the East."
 msgstr ""
 "几天后哈德里克王子坐着他的船艾德睿克号离开了，永远地离他的故乡和绿岛而去。他"
-"将要面对的是一片广阔而狂暴的海洋，和洁欣小姐提起的神秘小岛，以及那块更为奇异"
-"的遥远东方大陆。"
+"将要面对的是一片广阔而狂暴的海洋，和洁欣女领主提起的神秘小岛，以及那块更为奇"
+"异的遥远东方大陆。"
 
 #. [part]
 msgid ""
@@ -3928,16 +3915,14 @@ msgid "More saurians are arriving. They’ve surrounded us! We’re doomed."
 msgstr "来了更多的蜥蜴人。他们包围了我们！我们完了。"
 
 #. [message]: speaker=Lady Jessene
-#, fuzzy
 msgid ""
 "We already killed the dragon. We really don’t need to be spending this much "
 "time chasing down the rest of these lizards."
-msgstr "我们已经杀了龙我们真的不需要花这么多时间来追逐其余的蜥蜴。"
+msgstr "我们已经杀掉了龙。我们真的不需要花这么多时间来追逐其余的蜥蜴。"
 
 #. [message]: speaker=Prince Haldric
-#, fuzzy
 msgid "You’re right, you’re right. Let’s head back."
-msgstr "你说得对，你说得对。我们回去吧"
+msgstr "你说得对，你说得对。我们回去吧。"
 
 #. [scenario]: id=17b_Lizard_Beach
 msgid "Lizard Beach"
@@ -4046,13 +4031,11 @@ msgid "Does anybody actually know anything about Trolls?"
 msgstr "有人确切知道巨魔的情况吗？"
 
 #. [message]: speaker=Burin the Lost
-#, fuzzy
 msgid ""
 "I indeed do. They are ugly and mean, and will try to crush you like a bug. "
 "They heal very quickly."
 msgstr ""
-"我知道得很清楚。他们外表绿色而且非常卑劣，还会想把你像虫子一样碾碎。他们恢复"
-"的速度非常快。"
+"我确实知道。他们丑陋而卑劣，还会想把你像虫子一样碾碎。他们恢复的速度非常快。"
 
 #. [message]: speaker=Lady Jessene
 msgid ""
@@ -4280,8 +4263,8 @@ msgid ""
 "orcish threat. On the eve of battle, Lady Jessene catches up with Haldric on "
 "a fog-covered plain."
 msgstr ""
-"哈德里克和他的同伴急速穿过平原来对抗再次出现的兽人威胁。在战斗的前夜，洁欣小"
-"姐在一块迷雾笼罩的平原上赶上了哈德里克。"
+"哈德里克和他的同伴急速穿过平原来对抗再次出现的兽人威胁。在战斗的前夜，洁欣女"
+"领主在一块迷雾笼罩的平原上赶上了哈德里克。"
 
 #. [message]: speaker=Lady Jessene
 msgid "Haldric, the elves, we can’t trust them!"
@@ -4360,7 +4343,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "Lady Jessene soon departs. In the distance a voice booms:"
-msgstr "洁欣小姐迅速离开了。远处传来了一阵咆哮:"
+msgstr "洁欣女领主迅速离开了。远处传来了一阵咆哮:"
 
 #. [message]: speaker=Tan-Gagar
 msgid ""
@@ -4413,16 +4396,14 @@ msgid ""
 msgstr "亡灵唯一要做的就是永远沉眠。准备重回大地吧。"
 
 #. [message]: speaker=Tan-Gagar
-#, fuzzy
 msgid ""
 "The meat is stronger than I thought! We must use all of our forces to stop "
 "them!"
-msgstr "肉比我想象的要强！我们必须动用我们的所有力量来阻止他们！"
+msgstr "鲜肉比我想象的要强！我们必须动用所有力量来阻止他们！"
 
 #. [message]: speaker=Tan-Erirt
-#, fuzzy
 msgid "Reserves! We can’t let the meat get to the landing site."
-msgstr "预备队！我们不能让他们到达他们的登陆点。"
+msgstr "预备队！我们不能让他们到达登陆点。"
 
 #. [message]: speaker=Prince Haldric
 msgid ""
@@ -4523,46 +4504,42 @@ msgstr ""
 "用的，你尸体变成的亡灵会把它放在我脚下。"
 
 #. [message]: speaker=Prince Haldric
-#, fuzzy
 msgid ""
 "We’ll see about that. The Fool Prince of Southbay was wrong to start this "
 "war, but you’re the real monster. You’ve turned to using orcs as cheap "
 "lackeys and even sacrificed your own people to preserve your immortal unlife!"
 msgstr ""
-"我们走着瞧。南湾的愚蠢王子不该挑起这场战争，但你却是个真正的魔鬼！你牺牲了你"
-"的人民来维护自己的不死之命。"
+"我们走着瞧。南湾的愚蠢王子不该挑起这场战争，但你却是个真正的怪物！你把兽人当"
+"成低下的仆从使唤，甚至牺牲了你的人民来维护自己的不死之命！"
 
 #. [message]: speaker=Lich-Lord Jevyan
-#, fuzzy
 msgid ""
 "I am hardly concerned with the doing of mortal worms — they are no more than "
 "petty pawns, orcs and humans both. The only difference is that orcs will not "
 "complain as long as they are well fed."
 msgstr ""
-"我几乎不关心致命的蠕虫的做 -他们只不过是小卒，兽人和人类。唯一的区别是，兽人"
-"不会抱怨，只要他们吃得很好。"
+"我可不关心会死掉的蠕虫——他们只不过是小卒，兽人和人类都是。唯一的区别是，只要"
+"吃得好，兽人就不会抱怨。"
 
 #. [message]: speaker=Tan-Halg
-#, fuzzy
 msgid "Actually, I <i>am</i> pretty hungry right now..."
-msgstr "事实上<i>，我现在很</i>饿..."
+msgstr "事实上，我现在<b>就</b>很饿……"
 
 #. [message]: speaker=Lich-Lord Jevyan
-#, fuzzy
 msgid "Pah. Just eat the humans, then. But leave the boy’s body intact."
-msgstr "Pah。那就吃人吧但是让男孩的尸体完好无损"
+msgstr "哈。那就吃掉那些人类吧。不过，那男孩的尸体给我留好了。"
 
 #. [message]: speaker=Prince Haldric
-#, fuzzy
 msgid "Come and fight me yourself, you old bag of bones!"
-msgstr "来跟我打吧，你这老骨头！"
+msgstr "来亲自跟我打啊，你这老骨头！"
 
 #. [message]: speaker=Lich-Lord Jevyan
-#, fuzzy
 msgid ""
 "As if a measly child would be worth the effort. Enough of this. A curse of "
 "darkness upon you, young prince."
-msgstr "够了。愿黑暗的诅咒降临于你，年青的王子。"
+msgstr ""
+"说得好像一个低贱的小孩子值得我亲自出手似的。我听够了。愿黑暗的诅咒降临于你，"
+"年青的王子。"
 
 #. [message]: speaker=Commander Aethyr
 msgid "I see masts on the horizon. Jevyan’s fleet is here! It’s all over."
@@ -5479,14 +5456,13 @@ msgid "Noble Fighter"
 msgstr "贵族战士"
 
 #. [unit_type]: id=Noble Fighter, race=human
-#, fuzzy
 msgid ""
 "Young and brash, Fighters fight with a sword, and are vulnerable to ranged "
 "attacks from enemies. However, they have the potential to become great "
 "Commanders one day."
 msgstr ""
-"年轻而高傲，战士用剑作战，因此容易遭受敌人的远程攻击。然而他们有着某天成为伟"
-"大指挥官的潜质。"
+"年轻而急躁，战士用剑作战，因此容易遭受敌人的远程攻击。然而，他们有着某天成为"
+"伟大指挥官的潜质。"
 
 #. [unit_type]: id=Noble Lord, race=human
 msgid "Noble Lord"

@@ -5,13 +5,13 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:44 UTC\n"
-"PO-Revision-Date: 2020-06-15 16:25+0800\n"
+"PO-Revision-Date: 2021-12-05 10:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Heir to the Throne"
@@ -52,7 +52,7 @@ msgstr "（新手级别，23幕场景。）"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Easy"
-msgstr ""
+msgstr "简单"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Fighter"
@@ -2302,7 +2302,6 @@ msgid "Monsters"
 msgstr "怪兽"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "This is the Ford of Abez. When we ford this river, we will be leaving "
 "Wesnoth, and entering the lands of the North. The dwarves once ruled these "
@@ -2311,7 +2310,7 @@ msgid ""
 msgstr ""
 "这儿就是雅碧滩。一但涉水过河，我们就会离开韦诺，而进入北方大陆。矮人曾经统治"
 "着那里，但如今却只剩下一片混乱。这儿就是你的父亲和叔叔遭到背叛的地方，那已经"
-"差不多是十九年之前的事了，科纳德。"
+"差不多是二十一年之前的事了，科纳德。"
 
 #. [message]: speaker=Konrad
 msgid "Really? So what happened, Delfador?"
@@ -3740,9 +3739,8 @@ msgid "The Sceptre of Fire"
 msgstr "圣火权杖"
 
 #. [generator]: id=cavegen
-#, fuzzy
 msgid "Sceptre of Fire Caves"
-msgstr "圣火权杖"
+msgstr "圣火权杖之洞穴"
 
 #. [part]
 msgid ""
@@ -5801,14 +5799,13 @@ msgstr ""
 "尤其是在人类之中。"
 
 #. [message]: speaker=Parandra
-#, fuzzy
 msgid ""
 "How quickly does the race of men mature! Only twenty-one winters have passed "
 "since I last laid eyes on you, Konrad, yet you are now a grown man. A proven "
 "warrior stands before me!"
 msgstr ""
-"人类成长得真快啊！自我上一次见到你开始，仅仅只过了十七个冬天，科纳德，但你现"
-"在已经长成大人了。一位骁勇的战士，竟然已经站在我的面前！"
+"人类成长得真快啊！自我上一次见到你开始，仅仅只过了二十一个冬天，科纳德，但你"
+"现在已经长大成人了。我面前傲立的，是一位历战的勇士！"
 
 #. [message]: speaker=Konrad
 msgid "Forgive me, Elf, but I’m afraid I do not recall meeting you before."
@@ -5825,13 +5822,12 @@ msgid "I had no idea! Thank you, my lady. It is a pleasure to meet you again."
 msgstr "我竟然不知道！谢谢您，女士。能再次见到您，我很高兴。"
 
 #. [message]: speaker=Li'sar
-#, fuzzy
 msgid ""
 "Rescued him from my mother? But twenty-one years ago Konrad would have been "
 "an infant! What is this you are talking about?"
 msgstr ""
-"把他从我母后手中救下来？但十七年前科纳德也不过只是一个婴儿啊！你们究竟在说什"
-"么？"
+"把他从我母后手中救下来？但二十一年前科纳德也不过只是一个婴儿啊！你们究竟在说"
+"什么？"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -6351,7 +6347,7 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 msgid "Lord Bayar, halt this folly! I challenge you to a personal combat."
-msgstr "巴亚尔爵士，请终止这种愚蠢的做法！我要求与您进行决斗。"
+msgstr "巴亚尔领主，请终止这种愚蠢的做法！我要求与您进行决斗。"
 
 #. [message]: speaker=Bayar
 msgid "Ho! You have amused me, young heir. Ho, ho, challenge indeed."
@@ -6374,14 +6370,13 @@ msgid "I fail to see the purpose of this exercise. It only weakens us."
 msgstr "我恐怕无法理解这场练习的目的。这只会削弱我们。"
 
 #. [message]: speaker=Bayar
-#, fuzzy
 msgid ""
 "No, whelp. You may be weakened, but the horse clans are eternal. I will "
 "promise you this, however. If you can defeat me in battle, I myself will "
 "join your siege of Weldyn."
 msgstr ""
 "不，小崽子，你们也许会被削弱，但马上氏族是永恒的。不过，我可以向你承诺，如果"
-"你能够亲自击败我，那我个人将会加入你对维尔帝的围攻。"
+"你能够在战斗中击败我，那我个人会加入你对维尔帝的围攻。"
 
 #. [message]: speaker=Sir Ruga
 #. [message]: speaker=Sir Daryn
@@ -6390,12 +6385,11 @@ msgid "Aye."
 msgstr "没错。"
 
 #. [event]
-#, fuzzy
 msgid ""
 "If you reduce Lord Bayar, Sir Ruga, Sir Daryn, or Sir Alric to 0HP, you’ll "
 "receive a reward!"
 msgstr ""
-"如果你把巴亚尔勋爵、鲁加爵士、达林爵士或阿里克爵士减为0HP，你会得到奖励！"
+"如果你把巴亚尔领主、鲁加爵士、达林爵士或阿里克爵士的HP减至0，你会得到奖励！"
 
 #. [message]: speaker=Bayar
 msgid ""
@@ -6480,7 +6474,6 @@ msgid "Secret? What secret, Delfador? What are you talking about?"
 msgstr "秘密？什么秘密，德法多？您究竟在说什么？"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "We should not speak of it now. Instead come with me, Konrad and Li’sar, to "
 "the top of Mount Elnar. To look at Weldyn. To make plans for the battle, and "
@@ -6513,14 +6506,13 @@ msgstr ""
 "在这儿可以鸟瞰维尔帝城，伟大之城，古老之城，邪恶之城，良善之城，人类之城。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "I have not looked upon this city for twenty-one years. Twenty-one years ago, "
 "when I should have been at the height of my power. But my strength failed "
 "me. I failed, and I cannot atone for it."
 msgstr ""
-"整整十七年了，我都没有再望过这座城市一眼。十七年前, 那本该是我的法力最巅峰的"
-"时候。但我却战败了，那场失败是无可弥补的。"
+"整整二十一年了，我都没有再望过这座城市一眼。二十一年前, 那本该是我的法力最巅"
+"峰的时候。但我的法力还是不够。我战败了，那场失败是无可弥补的。"
 
 #. [part]
 msgid ""
@@ -6535,7 +6527,6 @@ msgstr ""
 "们。我必须尽快赶到维尔帝，在艾什薇尔的卫兵赶到那儿并执行他们邪恶的命令之前。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "But I failed. I was too late. I entered the chambers of the youngest prince, "
 "Prince Konrad, just as one of the evil ones ran him through. All was lost. "
@@ -6583,7 +6574,6 @@ msgstr ""
 "为止。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "I had thought that we could one day make you king, Konrad. But now I see "
 "that fate has made a different choice. That despite all of Asheviere’s evil, "
@@ -6701,14 +6691,13 @@ msgid ""
 msgstr "哀家肯定已经把你杀了的！但你还是缠着哀家！滚开，魔鬼！快滚开，幽灵！"
 
 #. [message]: speaker=Konrad
-#, fuzzy
 msgid ""
 "Oh, wretched lady, I am very real. The land has suffered from your greed and "
 "ambition. You will now be held to account for your misdeeds. For the young "
 "Prince Konrad! For WESNOTH!"
 msgstr ""
 "哦，可怜的女士，我可是实实在在的。这片土地在你的贪婪与野心之下苦苦挣扎，而你"
-"现在将要为你的罪行负责。为了小王子科纳德！为了韦——诺！"
+"现在将要为你的罪行负责。为了小王子科纳德！为了<big>韦诺！</big>"
 
 #. [message]: speaker=narrator
 msgid "Konrad strikes a killing blow!"
@@ -6865,9 +6854,8 @@ msgstr ""
 
 #. [variation]: race=human
 #. [variation]
-#, fuzzy
 msgid "with sceptre"
-msgstr "权杖"
+msgstr "持有权杖"
 
 #. [attack]: type=fire
 msgid "sceptre of fire"
@@ -6909,7 +6897,7 @@ msgstr "狂怒暴雪"
 
 #. [variation]
 msgid "defeated"
-msgstr ""
+msgstr "败战的"
 
 #. [variation]
 #. [unit_type]: id=Fighter
@@ -6988,11 +6976,10 @@ msgid ""
 msgstr "所有相邻的友方单位都能够在近战中抢先攻击，甚至在防守时也是如此。"
 
 #. [firststrike]: id=initiative
-#, fuzzy
 msgid ""
 "This unit’s grasp of melee tactics allows adjacent allies to strike the "
 "first blow even when defending."
-msgstr " 该单位对近战战术的理解使得相邻友军即使在防守时也能抢先出手。"
+msgstr "此单位对近战战术的理解使得相邻友军即使在防守时也能抢先出手。"
 
 #. [message]: speaker=unit
 msgid "We are vanquished, for I have been defeated!"
