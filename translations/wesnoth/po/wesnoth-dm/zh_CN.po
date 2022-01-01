@@ -4,13 +4,13 @@
 # Dugucloud <dugucloud@qq.com>, 2011.
 # wind <everywherewind@gmail.com>, 2012.
 # CloudiDust <cloudidust@gmail.com>, 2017.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:44 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:35+0800\n"
+"PO-Revision-Date: 2022-01-01 14:33+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 msgid "Delfador’s Memoirs"
@@ -811,12 +811,12 @@ msgid ""
 "Greetings, strangers! This swamp is dangerous... You wanna cross it, you’ll "
 "need protection — cost you only $fee gold!"
 msgstr ""
-"陌生人，你好啊！这沼泽很危险……你们想过去，就需要保护——我们只收你 $fee 金币的"
+"陌生人，你好啊！这沼泽很危险……你们想过去，就需要保护——我们只收你们$fee|金币的"
 "保护费！"
 
 #. [option]
 msgid "Thanks very much. Here’s the gold..."
-msgstr "谢谢。给你钱……"
+msgstr "十分感谢。给你钱……"
 
 #. [message]: speaker=Garrath
 msgid ""
@@ -824,30 +824,34 @@ msgid ""
 "suspicious strangers like me. But, since I'm feeling nice at the moment, I "
 "think I will actually keep my word and offer you some protection."
 msgstr ""
+"我说啊，把钱给像我这样可疑的陌生人之前，你真得小心点。不过，我现在心情不错，"
+"那我想还是遵守承诺保护你们吧。"
 
 #. [message]: speaker=Harold
 msgid "Hey, what's your problem, Garrath? I thought we had a deal!"
-msgstr ""
+msgstr "嘿，你搞什么，加勒思？我还以为我们有约在先呢？"
 
 #. [message]: speaker=Garrath
 msgid "Yeah, well, I changed my mind."
-msgstr ""
+msgstr "啊，嗯，我改主意了。"
 
 #. [message]: speaker=Delfador
 msgid ""
 "...I'm not entirely sure what just happened here, but I guess I should be "
 "grateful?"
-msgstr ""
+msgstr "……我不太确定刚发生了什么，不过我猜我应该心怀感恩？"
 
 #. [message]: speaker=Lionel
 msgid ""
 "While it appears we lucked out this time, I fear for the travelers for whom "
 "this man does NOT keep his word..."
 msgstr ""
+"虽说这次我们不走运，但到了这人<b>不</b>遵守承诺的时候，我可是为那些旅行者担心"
+"呢……"
 
 #. [message]: speaker=Garrath
 msgid "It’s been a pleasure doing business with you... Bye!"
-msgstr "你真上路……再见！"
+msgstr "你真上道……再见！"
 
 #. [message]: speaker=Delfador
 msgid "Where did he go?"
@@ -865,99 +869,99 @@ msgstr "还好，至少我们现在只需要应付其中一边了……"
 msgid ""
 "Hey, that was one of OUR villages! Deal's off; we're no longer protecting "
 "you!"
-msgstr ""
+msgstr "嘿，那是<b>我们的</b>村庄！交易破裂，我们不会保护你们了！"
 
 #. [message]: speaker=Harold
 msgid "So... does that mean that OUR deal is back on now, Garrath?"
-msgstr ""
+msgstr "那么说……<b>我们的</b>交易现在能继续进行了么？"
 
 #. [message]: speaker=Garrath
 msgid "Fine, I guess..."
-msgstr ""
+msgstr "我觉得行吧……"
 
 #. [message]: speaker=Delfador
 msgid ""
 "Wait, I'm sorry! I didn't realize you were so attached to that village! "
 "Please give me a chance to make it up to you!"
-msgstr ""
+msgstr "等等，抱歉！我没意识到你这么在意那个村庄！请给我一个机会弥补！"
 
 #. [message]: speaker=Garrath
 msgid ""
 "Well, I guess a little extra payment could persuade me to forgive you..."
-msgstr ""
+msgstr "行，我想要是你多给点，那或许就能让我原谅你了……"
 
 #. [message]: speaker=Delfador
 msgid "I'm afraid I don't have much gold left..."
-msgstr ""
+msgstr "恐怕我没剩下多少金币了……"
 
 #. [message]: speaker=Garrath
 msgid "Oh well, too bad for you!"
-msgstr ""
+msgstr "好吧，你真不走运！"
 
 #. [message]: speaker=Delfador
 msgid "Well..."
-msgstr ""
+msgstr "唉……"
 
 #. [option]
 msgid "Here's 20 more gold."
-msgstr ""
+msgstr "再加20枚金币。"
 
 #. [message]: speaker=Garrath
 msgid "Pleasure doing business with you! Just don't let it happen again!"
-msgstr ""
+msgstr "很荣幸和您交易！下不为例！"
 
 #. [message]: speaker=Harold
 msgid "Sheesh, Garrath, won't you make up your mind already?!"
-msgstr ""
+msgstr "哎哟喂，加勒思，你到底决定了没有？！"
 
 #. [option]
 msgid "Nope, I'm not giving you any more gold."
-msgstr ""
+msgstr "不，我不会再给你金币了。"
 
 #. [message]: speaker=Garrath
 msgid "Suit yourself. Men, attack!"
-msgstr ""
+msgstr "准备挨打吧。伙计们，进攻！"
 
 #. [message]: speaker=Garrath
 msgid ""
 "Hey! You captured one of my villages again! I thought I told you to stop "
 "doing that!"
-msgstr ""
+msgstr "嘿！你又占领了我的另一个村庄！我还以为我已经提醒过你别这么干了！"
 
 #. [message]: speaker=Delfador
 msgid ""
 "Sorry! It's a hard habit to break! Perhaps I can pay you again to make up "
 "for it?"
-msgstr ""
+msgstr "抱歉！积习难改！或许我可以再付你点钱？"
 
 #. [message]: speaker=Garrath
 msgid "Nope, I'm through with your games! Men, attack!"
-msgstr ""
+msgstr "不必了，我已经受够了！伙计们，进攻！"
 
 #. [message]: speaker=Delfador
 msgid ""
 "Oh well, I guess I should have listened when he said not to let it happen "
 "again..."
-msgstr ""
+msgstr "唉，他说不要再让这种事发生的时候，我本该听他的……"
 
 #. [message]: speaker=Garrath
 msgid "Stop stealing my villages!"
-msgstr ""
+msgstr "别再偷走我的村庄了！"
 
 #. [message]: speaker=Garrath
 msgid ""
 "Hm, it looks like you don't have any gold left. We're not interested in you "
 "anymore; bye!"
-msgstr ""
+msgstr "嗯，看起来你已经没有金币了。我们对你没兴趣了。再见啦！"
 
 #. [message]: speaker=Harold
 msgid "What a fickle one, that Garrath..."
-msgstr ""
+msgstr "真是薄情啊，那个加勒思……"
 
 #. [message]: speaker=Harold
 msgid ""
 "I'll be taking back that money that your men “borrowed” from me now, Garrath!"
-msgstr ""
+msgstr "我现在要把你的人“借走”的钱拿回来了，加勒思！"
 
 #. [option]
 msgid "No thanks — we’ll manage by ourselves..."
@@ -1921,7 +1925,7 @@ msgstr "当心点儿。那村庄有些不对劲儿……"
 
 #. [message]: speaker=unit
 msgid "There's something there in the mist!"
-msgstr ""
+msgstr "这雾里有什么东西！"
 
 #. [message]: speaker=Delfador
 msgid "One of Iliah-Malal’s creatures. So it has begun!"
@@ -1929,16 +1933,15 @@ msgstr "一只伊利阿-玛拉尔的生物！它冲上来了！"
 
 #. [message]: speaker=unit
 msgid "Orcs!"
-msgstr ""
+msgstr "兽人！"
 
 #. [message]: speaker=Chantal
 msgid "It seems there are orcs this far south after all. This is strange."
-msgstr ""
+msgstr "看来这么南的地方终究还是有兽人啊。奇怪。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "Prepare to fight them! We must keep the Ford clear!"
-msgstr "准备干掉他们！我们必须清理这浅滩！"
+msgstr "准备与他们作战！我们必须保证这浅滩上没有兽人！"
 
 #. [message]: role=Commander
 msgid "Halt! Who goes there?"
@@ -2215,11 +2218,12 @@ msgid "Abmin"
 msgstr "阿明"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "This unnatural night will surely bring another wave of the undead. Soldiers, "
 "stand firm and send these abominations back to the darkness!"
-msgstr "战士们，他们展开了第二次进攻！站稳了，把这些恶心的东西送回黑暗去！"
+msgstr ""
+"这不自然的黑夜之中，必有第二波亡灵前来。战士们，站稳了，把这些恶心的东西送回"
+"黑暗里去！"
 
 #. [message]: speaker=Upgar
 msgid ""
@@ -3553,7 +3557,6 @@ msgid ""
 msgstr "莱昂内尔，跟你并肩战斗是种荣耀。现在我们为了生存跟死亡作战吧！"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Remember that one of our undead or I must strike the final blow, for Iliah-"
 "Malal’s unlife can only be ended by the touch of unlife or by the power of "
@@ -3563,7 +3566,6 @@ msgstr ""
 "死生命之触或者克雷拉努之书的力量来终结。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Remember that I must strike the final blow, for Iliah-Malal’s unlife can "
 "only be ended by the power of the Book of Crelanu."
@@ -3689,6 +3691,7 @@ msgid ""
 "As a generation has passed, all your elvish units have gained a level and "
 "some experience."
 msgstr ""
+"已经过去了一代人的时光，因此你所有的精灵单位都升了一级并获得了一些经验。"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -3795,7 +3798,6 @@ msgstr "采邑激战"
 #. "demesne" = the part of a feudal lord's lands reserved for
 #. personal use.
 #. The "Sceptre" spelling is intentional.
-#, fuzzy
 msgid ""
 "Upon his return to Weldyn, Delfador discovered that the Book was missing. "
 "The queen had left with a strong escort to visit her family’s demesne and "
@@ -3804,10 +3806,10 @@ msgid ""
 "Fire. That mission would cost Lionel his life; and neither Lionel nor "
 "Delfador knew that Lionel’s mission had been compromised from the start."
 msgstr ""
-"他一回到维尔帝，德法多就发现王后就带了一队精装卫兵去她家族的领地看望她生病的"
-"父母。莱昂内尔，国王最信任的将军，在艾什薇尔的要求下被派往克纳尔加取回火焰权"
-"杖。那个任务会要了他的命；莱昂内尔和德法多都不知道，莱昂内尔的任务从开始就是"
-"妥协的。"
+"一回到维尔帝，德法多便发现法书不见了。王后带了一队强力的侍卫去她家族的领地看"
+"望生病的父母。莱昂内尔，国王最信任的将军，在艾什薇尔的要求下被派往纳尔加取回"
+"圣火权杖。那个任务会要了他的命。莱昂内尔和德法多都不知道，莱昂内尔的任务从一"
+"开始就已经被扰乱了。"
 
 #. [part]
 msgid ""
@@ -3821,15 +3823,14 @@ msgstr ""
 "他们。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Delfador was granted an audience with the King and expressed his concerns "
 "about the Book, but the King put off a decision until Asheviere returned to "
 "Weldyn, and ordered Delfador to take no further action. And for once, "
 "Delfador knew he could not obey the King’s order."
 msgstr ""
-"德法多被国王接见，他表达了自己对丢失的法书的担忧，但国王在艾什薇尔回到维尔帝"
-"后才会做出决定，并命令德法多不得继续行动。这一次，德法多知道他不能遵守国王的"
+"德法多被国王接见，他表达了自己对丢失的法书的担忧，但国王决定在艾什薇尔回到维"
+"尔帝后再做定夺，并命令德法多不得继续行动。这一次，德法多知道他不能遵守国王的"
 "命令了。"
 
 #. [part]
