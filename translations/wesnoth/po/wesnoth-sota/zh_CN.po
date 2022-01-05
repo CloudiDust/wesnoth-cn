@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # CloudiDust <cloudidust@gmail.com>, 2017, 2019.
 # termanary, 2019.
-# 
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.14\n"
+"Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
+"POT-Creation-Date: 2022-01-02 18:01 UTC\n"
 "PO-Revision-Date: 2021-04-18 16:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -53,9 +53,10 @@ msgid "Difficult"
 msgstr "困难"
 
 #. [campaign]: id=Secrets of the Ancients
+#, fuzzy
 msgid ""
 "Rediscover the secrets known by the lich lords of the Green Isle. They knew "
-"how to live forever, so why can't you?\n"
+"how to live forever, so why can’t you?\n"
 "\n"
 "(Hard level, 18 scenarios.)\n"
 msgstr ""
@@ -297,9 +298,10 @@ msgstr ""
 "它们。但我只能用冰，我可从来没学会熟练用火。"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
 "A wolf! This journey may be more dangerous than I thought. If we need to, I "
-"suppose we could rest inside a farmer's or woodcutter's fence."
+"suppose we could rest inside a farmer’s or woodcutter’s fence."
 msgstr ""
 "一头狼！这旅程比我所想的更为危险。如果需要的话，我想我们可以躲在农民或樵夫搭"
 "建的篱笆后面。"
@@ -343,7 +345,8 @@ msgid "Raise Skeleton Archer (14 Gold)"
 msgstr "复苏骷髅弓箭手（14枚金币）"
 
 #. [message]: speaker=narrator
-msgid "You don't have enough gold to raise that unit."
+#, fuzzy
+msgid "You don’t have enough gold to raise that unit."
 msgstr "你的金币不足，不能复苏该单位。"
 
 #. [objective]: condition=win
@@ -363,6 +366,9 @@ msgid "Guardhouse"
 msgstr "卫兵室"
 
 #. [label]
+#. In English, this label bled into the two hexes on either side, and obscured
+#. the units there, which is why it's split across two lines. The extra spaces
+#. before "Temple" are to center that word above the others.
 msgid ""
 "  Temple\n"
 "of Healing"
@@ -399,15 +405,20 @@ msgid "Caradoc"
 msgstr "卡拉多克"
 
 #. [message]: speaker=Ardonna
-msgid "Oh, hello friend! I didn't know you were hiding in there."
+#. She's speaking to a bat from scenario 1
+#, fuzzy
+msgid "Oh, hello friend! I didn’t know you were hiding in there."
 msgstr "哦，你好啊朋友！我不知道你躲在这儿。"
 
 #. [message]: speaker=Ardonna
-msgid "Oh, hello! You're a handsome one."
+#. She's speaking to a bat that she hasn't met before
+#, fuzzy
+msgid "Oh, hello! You’re a handsome one."
 msgstr "哦，你好啊！你还挺俊的。"
 
 #. [message]: speaker=Ardonna
-msgid "Hey, come back! I didn't mean to frighten you."
+#, fuzzy
+msgid "Hey, come back! I didn’t mean to frighten you."
 msgstr "嘿，回来！我没想吓到你。"
 
 #. [message]: speaker=Ardonna
@@ -423,12 +434,15 @@ msgid "Summon the Bat (20 gold)"
 msgstr "召唤蝙蝠（20金币）"
 
 #. [message]: speaker=narrator
-msgid "You don't have enough gold to summon the bat."
+#, fuzzy
+msgid "You don’t have enough gold to summon the bat."
 msgstr "你的金币不足，不能召唤蝙蝠。"
 
 #. [message]: speaker=narrator
-msgid "You can now recruit skeletons and skeleton archers!"
-msgstr "你现在可以征募骷髅战士和骷髅弓箭手了！"
+msgid ""
+"You can now recruit skeletons and skeleton archers! You will lose this "
+"ability if the guardhouse is retaken by the guards!"
+msgstr ""
 
 #. [event]
 msgid "Blollyn"
@@ -479,8 +493,9 @@ msgid ""
 msgstr "还有，为什么要<b>七</b>个人？谁会这么想闯进坟地里啊？"
 
 #. [message]: speaker=Glant
+#, fuzzy
 msgid ""
-"I don’t know, but this evening a mage from the academy was here talking to "
+"I don’t know, but this evening a mage from the Academy was here talking to "
 "the mayor, my brother says."
 msgstr ""
 "我不知道，但今晚学院里的一位法师正在这里，和市长交谈，我兄弟是这么说的。"
@@ -540,20 +555,23 @@ msgid "You and that... other person. Who is that?"
 msgstr "你还有那个……另一个人。那是谁？"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
-"Oh, him. See here, I don't want any trouble, but he is a little... ah..."
+"Oh, him. See here, I don’t want any trouble, but he is a little... ah..."
 msgstr "哦，他啊。你看，我可不想惹麻烦，不过他有点儿……啊……"
 
 #. [message]: speaker=Caradoc
+#, fuzzy
 msgid ""
-"He's <i>dead</i>! This is dark sorcery like in my granddad’s time in the old "
+"He’s <i>dead</i>! This is dark sorcery like in my granddad’s time in the old "
 "country! The penalty is death. Attack and destroy them both!"
 msgstr ""
 "他是<b>死的</b>！这是黑暗巫术，就像在我爷爷的时代，在旧国发生的那样！惩罚是死"
 "刑。攻击，把他们都干掉！"
 
 #. [message]: speaker=Ardonna
-msgid "Hey! Don't do that, or I will need more of them."
+#, fuzzy
+msgid "Hey! Don’t do that, or I will need more of them."
 msgstr "嘿！别这样，不然我就需要更多的骷髅了。"
 
 #. [message]: speaker=Ardonna
@@ -696,12 +714,12 @@ msgid ""
 "took a sip, calculating my intentions. I then placed a portion of my gold "
 "resources on the table, and his eyes locked upon it.\n"
 "\n"
-"I then placed upon the table a ring stripped off the bandit named 'Mossa', "
+"I then placed upon the table a ring stripped off the bandit named ‘Mossa’, "
 "his beloved partner in crime.  His gaze shifted from the gold to the ring, "
 "and then quickly to my eyes.  Had he not been tied to the chair, he would "
 "have attacked me.\n"
 "\n"
-"I added more gold to the pile, but he didn't notice, he only glared at me "
+"I added more gold to the pile, but he didn’t notice, he only glared at me "
 "with such hatred.  The hunger for vengeance radiated off of him like heat "
 "from a thousand suns - I could feel it more strongly than the fear or hunger "
 "from any of my pets..."
@@ -775,6 +793,12 @@ msgstr "鲁迪克"
 #. [note]
 msgid "You can recruit from anywhere on the two highest decks."
 msgstr "你可以在最上两层甲板的任意位置进行征募。"
+
+#. [note]
+msgid ""
+"Player and Enemy units can move between the surface and the interior of the "
+"ship via stairs."
+msgstr ""
 
 #. [note]
 msgid "Barrels act as villages."
@@ -1098,7 +1122,10 @@ msgid "Surely the ghost would not have gone that way, where I cannot follow."
 msgstr "那鬼魂肯定没有往那边走，我不可能跟去那儿。"
 
 #. [message]: speaker=Ardonna
-msgid "If there is one bat, there are certainly more. We should be careful."
+#, fuzzy
+msgid ""
+"If there is one bat, there are certainly more. We should be careful. It "
+"would be foolish to explore this cave alone."
 msgstr "有一只蝙蝠，就会有很多只蝙蝠。我们得小心。"
 
 #. [message]: speaker=Ardonna
@@ -1128,8 +1155,9 @@ msgid "Let’s follow it into the cave."
 msgstr "让我们跟着它进入洞穴吧。"
 
 #. [message]: speaker=Blaust
+#, fuzzy
 msgid ""
-"I don’t know, Bogdush. The chief said he wanted stuff that was helpful for "
+"I don’t know, Bogdush. The Chief said he wanted stuff that was helpful for "
 "the war."
 msgstr "我不知道怎么说，博格达什。酋长说过他想要对战争有帮助的东西。"
 
@@ -1152,7 +1180,8 @@ msgid "They are. It makes our job of killing them that much easier!"
 msgstr "它们就是死人。这一来要杀掉它们就变得非常简单了！"
 
 #. [message]: speaker=Ardonna
-msgid "You must be Goblins. You will stand out of my way if you wish to live."
+#, fuzzy
+msgid "You must be goblins. You will stand out of my way if you wish to live."
 msgstr "你们肯定是地精。如果你们想活命，就不要挡我的道。"
 
 #. [message]: speaker=Bogdush
@@ -1202,10 +1231,11 @@ msgid "How do you know my name?"
 msgstr "你怎么会知道我的名字？"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
 "I know much about you. My ghosts have been watching you for some time now, "
 "and you and I share the goal of resisting death. I have been hoping several "
-"students would free themselves from that conservative academy, but it seems "
+"students would free themselves from that conservative Academy, but it seems "
 "that you will be the only one. Fortunately, you are quite innovative, and "
 "have even accomplished something which I have not. You have useful creatures "
 "— I believe you call them ghouls?"
@@ -1277,10 +1307,11 @@ msgstr ""
 "你说的是对你而言。我只有十九岁。但你所说的确实有道理。我们暂且可以联手。"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
 "Splendid. Here is what I propose. First, we part ways for a time, and you "
 "raise a force of ghosts following my instructions. Meanwhile, I am going to "
-"try to train some local peasants in the magical arts. I don't expect much "
+"try to train some local peasants in the magical arts. I don’t expect much "
 "from that uneducated rabble, but hopefully some will be intelligent enough "
 "to add to our firepower. When we reunite, you will show me how to make one "
 "of those shambling ghouls. I am actually in no hurry, as they have a "
@@ -1305,9 +1336,10 @@ msgid "Why can’t I just raise some of the goblins outside?"
 msgstr "为什么我就不能去苏生外面的几只地精呢？"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
 "Those goblins were too weak, and it would take their spirits a long time to "
-"become strong enough to be useful. You are going to raise Elvish warriors "
+"become strong enough to be useful. You are going to raise elvish warriors "
 "instead. A few miles into the Grey Woods, there lies an ancient battleground "
 "from a civil war hundreds of years ago. You will follow an old elf road "
 "there and raise an army of ghosts while I visit Carcyn, a nearby town. We "
@@ -1656,7 +1688,8 @@ msgid "There are some large bones here. I can see claws and wings."
 msgstr "这儿有很多大骨架。我能看到爪子和翅膀。"
 
 #. [message]: speaker=$other_human
-msgid "How odd. I wonder what are they from. A gryphon perhaps?"
+#, fuzzy
+msgid "How odd. I wonder what they are from. A gryphon perhaps?"
 msgstr "奇怪。我想知道这些骨架是谁的。也许是一只狮鹫？"
 
 #. [message]: speaker=Ras-Tabahn
@@ -1672,8 +1705,9 @@ msgid "Indeed. Let us see."
 msgstr "确实如此。我们来看看。"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
-"I wonder what are they from. A large flightless bird perhaps? Let us see."
+"I wonder what they are from. A large flightless bird perhaps? Let us see."
 msgstr "我想知道这些骨架是谁的。也许是一只大型的不能飞的鸟？我们来看看。"
 
 #. [message]: speaker=$other_human
@@ -1809,7 +1843,7 @@ msgid ""
 "11 IV, 23 YW\n"
 "\n"
 "Ras-Tabahn seems like an acceptable ally. He is quite different from the "
-"stodgy teachers at the academy who were so full of themselves and loved to "
+"stodgy teachers at the Academy who were so full of themselves and loved to "
 "hear themselves talk. He also never once disparaged me for being a girl or "
 "even mentioned my hair. As long as he continues to respect me, everything "
 "will go fine. If not, well, I am surrounded by the remnants of those who "
@@ -1823,9 +1857,10 @@ msgstr ""
 "经以为我很弱的家伙们的遗骸包围着呢。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "The question remains whether or not it is wise to trust him. As he said, I "
-"don't need to at this time, but if we are to travel together it will become "
+"don’t need to at this time, but if we are to travel together it will become "
 "necessary. He has shown me something marvelous in the ghosts, so that is a "
 "large mark in his favor. On consideration, I have decided to trust him, but "
 "only provisionally. For now, we are both vulnerable, and he must know that "
@@ -1855,9 +1890,10 @@ msgstr ""
 "砍杀的景象。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Well, these combatants were going to get a second chance for glory when they "
-"fought for me. The more strong willed among them may even remember desiring "
+"fought for me. The more strong-willed among them may even remember desiring "
 "it."
 msgstr ""
 "好吧，等这些士兵为我而战之时，它们又会得到一次获取荣耀的机会。他们之中意志更"
@@ -2174,24 +2210,27 @@ msgid ""
 msgstr "我就知道你会这样说。我们必须横渡泰河，往北进入心之山脉。"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
 "Before we leave, I have an unrelated question. Vendraxis here has said that "
-"my name is untrue. Do you have an idea what could that mean?"
+"my name is untrue. Do you have an idea what that could mean?"
 msgstr ""
 "在我们离开之前，我有个无关的问题。文德拉克西斯说我的名字不再真实了。你知道这"
 "代表着什么吗？"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
 "Before we leave, I have an unrelated question. I met a mystic who said that "
-"my name was untrue. Do you have an idea what could that mean?"
+"my name was untrue. Do you have an idea what that could mean?"
 msgstr ""
 "在我们离开之前，我有个无关的问题。我遇到了一名秘术师，他说我的名字不再真实"
 "了。你知道这代表着什么吗？"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
-"Possibly. When an academy mage completes his studies, he is granted "
+"Possibly. When an Academy mage completes his studies, he is granted "
 "syllables of power, which become his new name. You are well beyond that "
 "point, but you are with the free magi now, so choose your own name. I was "
 "originally Rassin Tabin, but that is fairly ordinary, and at one point, it "
@@ -2203,9 +2242,10 @@ msgstr ""
 "再合适了。"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
 "I suppose you are right. I am no longer the ordinary girl Ardonna, and "
-"Vendraxis was correct. From now I shall be... Ardryn-Na."
+"Vendraxis was correct. From now on I shall be... Ardryn-Na."
 msgstr ""
 "我想你说得对。我再也不是普通女孩阿冬娜了，而文德拉克西斯说得很正确。从现在开"
 "始，我是……阿德琳-娜。"
@@ -2227,6 +2267,7 @@ msgid "<i>Chapter Three:</i> To Conquer Death"
 msgstr "<b>第三章：</b>征服死亡"
 
 #. [part]
+#, fuzzy
 msgid ""
 "24 IV, 23 YW\n"
 "\n"
@@ -2236,11 +2277,10 @@ msgid ""
 "tentacled creature lurked below, but we completed the crossing without "
 "incident. The water was chill with snowmelt, so our teeth were chattering "
 "when we reached the far shore. The rising sun was warm though, and had us "
-"dried in short order. Despite this, Ras-Tabahn was not well off. He "
-"collapsed in the sand and went into a paroxysm of coughing the like of which "
-"I had never seen. When he could speak again, he assured me that it was only "
-"on account of the cold, and I should not be unduly troubled. I am uneasy all "
-"the same."
+"dried in short order. Despite this, Ras-Tabahn was not well. He collapsed in "
+"the sand and went into a paroxysm of coughing the like of which I had never "
+"seen. When he could speak again, he assured me that it was only on account "
+"of the cold, and I should not be unduly troubled. I am uneasy all the same."
 msgstr ""
 "韦元23年4月24日\n"
 "\n"
@@ -2269,9 +2309,10 @@ msgid "Krongk"
 msgstr "隆克"
 
 #. [message]: speaker=Vendraxis
+#, fuzzy
 msgid ""
 "I have a sssense of dark foreboding regarding the sssnowy peaksss ahead. We "
-"may meet our doom if we don't have enough coinsss."
+"may meet our doom if we don’t have enough coinsss."
 msgstr ""
 "我感到前方的雪嘶嘶山之中有黑暗笼罩。如果我们的金币不够用，恐怕会嘶嘶丧命于"
 "此。"
@@ -2365,6 +2406,7 @@ msgstr "山间通路"
 
 #. [part]
 #. "consumption" is an old word for tuberculosis
+#, fuzzy
 msgid ""
 "6 V, 23 YW\n"
 "\n"
@@ -2372,8 +2414,8 @@ msgid ""
 "air is cool in these upper reaches. Mist rises from the snow in the "
 "afternoon, and the icicles drip the purest water from rock overhangs. I find "
 "it all refreshing, but Ras-Tabahn’s coughing fits are frequent. Sometimes he "
-"is reduced to speaking in short phrases due to lack of breath. Of course he "
-"is quite old — 50 at least — but I am also certain that he is ill. His "
+"is reduced to speaking in short phrases due to lack of breath. Of course, he "
+"is quite old — at least fifty — but I am also certain that he is ill. His "
 "thinness leads me to believe it is consumption, but he refuses to discuss "
 "it, preferring to deny the severity of his problem."
 msgstr ""
@@ -2398,7 +2440,8 @@ msgid "There are some... large bones there. Claws and wings... I think."
 msgstr "那儿有些……很大的骨头。爪子和翅膀……我觉得。"
 
 #. [message]: speaker=Ardonna
-msgid "I wonder what are they from. A gryphon perhaps?"
+#, fuzzy
+msgid "I wonder what they are from. A gryphon perhaps?"
 msgstr "我想知道它们是哪儿来的。也许是一只狮鹫？"
 
 #. [message]: speaker=Ras-Tabahn
@@ -2793,9 +2836,10 @@ msgstr ""
 "够多的经验，那么它会直接升级成为上古巫妖！"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid ""
-"We have conquered death! Let us bring the news back to Wesnoth. We should to "
-"let them know that nobody ever need die again."
+"We have conquered death! Let us bring the news back to Wesnoth! Let all in "
+"this world know that nobody ever need die again."
 msgstr ""
 "我们征服了死亡！让我们把这消息带回韦诺吧。我们得让他们知道，所有人都不必死掉"
 "了。"
@@ -2810,7 +2854,8 @@ msgstr ""
 "遍了吧。这些隧道应该是通往纳尔迦区域的，应该能让我们直接到那儿。"
 
 #. [message]: speaker=Ardonna
-msgid "Why would the Dwarvish empire abandon an outpost like this?"
+#, fuzzy
+msgid "Why would the dwarvish empire abandon an outpost like this?"
 msgstr "矮人帝国为什么会放弃这样一个前哨站呢？"
 
 #. [message]: speaker=Ras-Tabahn
@@ -2860,10 +2905,11 @@ msgstr ""
 "智的奴隶了。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Ras-Tabahn has tried to persuade me to join him in his endeavor, but I have "
 "serious misgivings about his plan. I am not positive he can defeat the city "
-"guard, and enslaving the population is the one of the ways the old Wesfolk "
+"guard, and enslaving the population is one of the ways the old Wesfolk "
 "leaders earned their poor reputations. I think a more benevolent approach "
 "has a better chance of ensuring our legacy. We should spread the news of our "
 "success and invite the citizenry to join us voluntarily. I will journey "
@@ -2988,8 +3034,9 @@ msgid "Now, where are we?"
 msgstr "现在，我们在哪儿？"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
-"We are in a Dwarvish burial chamber it seems. That is good. We could always "
+"We are in a dwarvish burial chamber it seems. That is good. We could always "
 "use some more soldiers."
 msgstr "看起来我们在一座矮人墓穴里。很好。我们总是能用到更多的士兵。"
 
@@ -3008,8 +3055,9 @@ msgid "Well, we are not going that way."
 msgstr "好吧，我们不能走那边了。"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
-"But look. There is a large crack in the wall to our left! I’m certain we "
+"But look. There is a large crack in the wall to our right! I’m certain we "
 "could squeeze through."
 msgstr "但你看，我们左方的墙上有个大裂缝！我确信我们可以从那儿挤过去。"
 
@@ -3030,10 +3078,11 @@ msgid "Against the World"
 msgstr "世界公敌"
 
 #. [part]
+#, fuzzy
 msgid ""
 "30 VI, 23 YW\n"
 "\n"
-"From the northern part of the kingdom of Knalga, the tunnel split into many "
+"From the northern part of the Kingdom of Knalga, the tunnel split into many "
 "passageways. Being able to feel the life force of the dwarves allowed us to "
 "take mostly unoccupied tunnels, which we did."
 msgstr ""
@@ -3354,8 +3403,9 @@ msgid "Dwarvish Miner"
 msgstr "矮人旷工"
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
+#, fuzzy
 msgid ""
-"Dwarvish miners are the grunt workers of Dwarvish society. They take the "
+"Dwarvish miners are the grunt workers of dwarvish society. They take the "
 "precious ores out of the ground, but do not ever take part in the crafting "
 "of weapons or artifacts. They have no military training, but they can still "
 "do some damage with their picks."
@@ -3384,12 +3434,13 @@ msgid "Orcish Shaman"
 msgstr "兽人萨满"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
+#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
 "the whole Orcish community and arbitrates the many conflicts that arise "
 "between tribes of this argumentative race. Although physically weak (for "
-"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+"orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
 "兽人萨满是兽人魔法的守护者。他们受到兽人各部落的尊敬，组成了兽人评议会。评议"
@@ -3469,7 +3520,8 @@ msgid "Urgh."
 msgstr "啊。"
 
 #. [message]: speaker=Ardonna
-msgid "But I don't know how to bring you back yet!"
+#, fuzzy
+msgid "But I don’t know how to bring you back yet!"
 msgstr "但我还不知道怎么让你复活啊！"
 
 #. [message]: speaker=Carcyn
@@ -3481,7 +3533,8 @@ msgid "Bring her back. Please!"
 msgstr "让她复活吧。求你了！"
 
 #. [message]: speaker=Ardonna
-msgid "I'm not sure that's such a good..."
+#, fuzzy
+msgid "I’m not sure that’s such a good..."
 msgstr "我不确定这是个好……"
 
 #. [message]: speaker=Ras-Tabahn
@@ -3501,8 +3554,9 @@ msgid "Perhaps that was for the best."
 msgstr "或许这样更好吧。"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid ""
-"It's not possible. She was already back from the dead. She has been utterly "
+"It’s not possible. She was already back from the dead. She has been utterly "
 "destroyed this time."
 msgstr "这不可能。她已经起死回生过了。这次她应该是被完全摧毁了啊。"
 
@@ -3523,7 +3577,7 @@ msgid "Now I will never learn the sssecret of exssstending my ssspan."
 msgstr ""
 
 #. [message]: speaker=Carcyn
-msgid "I'm going to miss him."
+msgid "I’m going to miss him."
 msgstr ""
 
 #. [message]: speaker=Ras-Tabahn
@@ -3539,7 +3593,7 @@ msgid "Indeed, he will be missed."
 msgstr ""
 
 #. [message]: speaker=Ardonna
-msgid "Don't worry, my pet. I can save you."
+msgid "Don’t worry, my pet. I can save you."
 msgstr ""
 
 #. [message]: speaker=$unit.id

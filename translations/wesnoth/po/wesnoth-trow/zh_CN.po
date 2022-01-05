@@ -12,9 +12,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.14\n"
+"Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
+"POT-Creation-Date: 2022-01-02 18:02 UTC\n"
 "PO-Revision-Date: 2021-12-05 13:37+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -225,8 +225,9 @@ msgid "Death of King Eldaric"
 msgstr "艾德睿克国王死亡"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"The trouble seems to have finally reached to the heart of the Isle, to the "
+"The trouble seems to have finally reached the heart of the Isle, to the "
 "isolated lands of King Eldaric IV."
 msgstr "动乱终于波及到了岛中央，这里与世隔绝，是艾德睿克四世国王的领地。"
 
@@ -237,13 +238,15 @@ msgid ""
 msgstr "看起来一群韦福克暴民夺取了北部要塞！哈德里克，准备战斗！"
 
 #. [message]: speaker=Prince Haldric
-msgid "Father, I am of age now. May I lead our forces in battle?"
+#, fuzzy
+msgid "Father, I am of age now. May I lead our forces into battle?"
 msgstr "父亲，我已经长大了。我可以在战斗中领导我们的部队吗？"
 
 #. [message]: speaker=King Eldaric IV
+#, fuzzy
 msgid ""
 "You’re showing initiative, son! I’m proud of you! Yes, you may lead our "
-"forces to battle, it is time — but I’ll stay near to keep an eye on you. "
+"forces into battle, it is time — but I’ll stay near to keep an eye on you. "
 "There is more to this raid than meets the eye, I think."
 msgstr ""
 "你主动请战了，儿子！我为你骄傲！是时候让你带兵出击了，我会从旁协助你的。我"
@@ -712,9 +715,10 @@ msgid "GO HOME! AIN’T NUTTIN TO SEE HEER!"
 msgstr "回去！不要再出现在这里！"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
 "Now, should I go southeast on the river road, or southwest through the "
-"midlands? The river road crosses the Swamp of Esten, so I doubt that even "
+"Midlands? The river road crosses the Swamp of Esten, so I doubt that even "
 "orcs would go there. The Midlands were nice, but who knows what’s going on "
 "there now."
 msgstr ""
@@ -883,8 +887,9 @@ msgid "Minister Edren"
 msgstr "艾德文大师"
 
 #. [message]: speaker=Minister Edren
+#, fuzzy
 msgid ""
-"Back you vile— Oh, sorry I thought you were undead. When are those goofs in "
+"Back you vile— Oh, sorry, I thought you were undead. When are those goofs in "
 "Clearwater Port going to clear the swamp again?"
 msgstr ""
 "退下！你们这些邪灵——噢，对不起，我错以为你们是亡灵了，那些清水港的傻瓜们什么"
@@ -911,7 +916,8 @@ msgstr ""
 "擅入者后果自负！"
 
 #. [message]: speaker=Lollyra
-msgid "May I live forever in Un-death!"
+#, fuzzy
+msgid "May I live forever in Undeath!"
 msgstr "我会在不死中永生！"
 
 #. [message]: speaker=Clurka
@@ -955,8 +961,9 @@ msgid "Tell me, does Clearwater Port still stand? Is the port free?"
 msgstr "告诉我，清水港还在坚守吗？港口还能用吗？"
 
 #. [message]: speaker=Sir Ruddry
+#, fuzzy
 msgid ""
-"As far as I know, Sir. We have a large army, and they were pressing all able "
+"As far as I know, Sir. We have a large army, and they were pressing all able-"
 "bodied men and boys into service when I left. That orcish army is huge, but "
 "they haven’t met the main body of our forces yet."
 msgstr ""
@@ -998,11 +1005,12 @@ msgid "The Midlands"
 msgstr "中原"
 
 #. [part]
+#, fuzzy
 msgid ""
 "To the southwest lay the Midlands. These were prosperous kingdoms, nestled "
 "between hill and forest. These had been the breadbasket of the Green Isle, "
 "exporting lumber and gemstones as well. The Midland kingdoms fed the city of "
-"Southbay, the largest city on the Isle. The coming of the Orcs threatened to "
+"Southbay, the largest city on the Isle. The coming of the orcs threatened to "
 "lay waste to all this."
 msgstr ""
 "位于西南面的是中原。那里有着一些繁荣的国家，坐落在山丘和森林之间。它们是粮仓"
@@ -1078,7 +1086,8 @@ msgid "Vrogar"
 msgstr "福罗格"
 
 #. [message]: speaker=Vrogar
-msgid "They’re attacking the chief! Kill the meat before it gets any farther!"
+#, fuzzy
+msgid "They’re attacking the Chief! Kill the meat before it gets any farther!"
 msgstr "他们在攻击酋长！在鲜肉走得更远之前把他们杀掉！"
 
 #. [message]: speaker=Tan-Hogar
@@ -1496,14 +1505,16 @@ msgid "I don’t like the look of that pool at all."
 msgstr "我一点也不喜欢这个池子的样子。"
 
 #. [message]: speaker=narrator
-msgid "You already have the Fire Ruby."
+#, fuzzy
+msgid "Haldric already has the Ruby of Fire."
 msgstr "你已经取得了火焰宝石。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"As you open the chest you see it, the Ruby of Fire. It is the size of an "
-"apple, and burns with an internal fire, which is refracted through its "
-"faces. You can feel the power flowing from it..."
+"As Haldric opens the chest, he sees it — the Ruby of Fire. It is the size of "
+"an apple and burns with an internal fire, which is refracted through its "
+"faces. He can feel the power flowing from it..."
 msgstr ""
 "当你打开宝箱的时候你看到了它，火焰宝石。它有一个苹果那么大，里面包着一团常燃"
 "不灭之火，不断透过表面发散折射着光芒。你能感到它所充溢的能量……"
@@ -1522,9 +1533,10 @@ msgid "Maybe you should move somebody else to the chest."
 msgstr "也许你得让其他人来打开这个宝箱。"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
 "I’m glad that’s over! We have the Ruby of Fire, and that Lich-Lord is now a "
-"pile of dust, let’s get out of these catacombs!"
+"pile of dust. Let’s get out of these catacombs!"
 msgstr ""
 "我很高兴一切都结束了！我们拿到了火焰宝石，现在巫妖王也成了一堆尘土，让我们离"
 "开这些地下墓穴！"
@@ -1581,9 +1593,10 @@ msgid ""
 msgstr "那么，你终于打败了巫妖并且带着他的宝物回来了。我脚下的土地也为之高兴。"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
-"Yes, it was a tough battle, but we prevailed. Now, I’m having a problem. I "
-"know not what I should do next."
+"Yes, it was a tough battle, but we prevailed. Now, I have a problem. I know "
+"not what I should do next."
 msgstr ""
 "是的，这是一场艰苦的战斗，但是我们成功了。现在，我有个问题。我不知道下一步该"
 "怎么办。"
@@ -2037,7 +2050,6 @@ msgid "My lord, the ship isn’t here yet. Come help us defend against the orcs.
 msgstr "殿下，船还没有到。请帮助我们抵御兽人。"
 
 #. [message]: speaker=Commander Aethyr
-#. [message]: speaker=narrator
 msgid ""
 "Shirk not your duty, soldier. When the boat arrives, this is where Prince "
 "Haldric must go to lead you to the ship. Until then, help us defend against "
@@ -2055,8 +2067,9 @@ msgid "We needed him to get out of here. We’re trapped!"
 msgstr "我们需要他的帮助来撤离这里。我们被包围了！"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
-"We’ve escaped from the orcs before we were trapped by the ice! Now, on to "
+"We’ve escaped from the orcs before the winter ice could trap us! Now, on to "
 "Southbay."
 msgstr "我们终于在被冰雪困住前摆脱了这些兽人！现在，方向南湾，出发。"
 
@@ -2177,8 +2190,9 @@ msgid "Wait! I see a ship! Humans is coming! Smash ’em good!"
 msgstr "等等！俺看到了一艘船！人类来了！把他们通通打烂！"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"Prince Haldric has arrived at Fallen Lich Point, to retrieve the Lich-Lord "
+"Prince Haldric has arrived at Fallen Lich Point, to retrieve Lich-Lord "
 "Caror’s Book of Fire and Darkness, and flee into the sewers of Southbay."
 msgstr ""
 "哈德里克王子登上了战败巫妖之岬，去寻找巫妖王卡尔的火与暗之书并将潜入南湾的下"
@@ -2231,10 +2245,12 @@ msgstr ""
 "哈德里克，这看上去是给你的一个任务，这也许和那个巫妖有关。你最好亲自去一趟。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"This monolith was erected by me, ― (<i>chipped away</i>), first Mage of the "
-"good people of the Green Isle. By its power the Lich-Lord is bound in stone. "
-"To end the spell a noble of the line of Kings should utter the following..."
+"This monolith was erected by me, ― (<i>chipped away</i>), First Mage of the "
+"good people of the Green Isle. By its power, the Lich-Lord is bound in "
+"stone. To end the spell, a noble of the line of kings should utter the "
+"following..."
 msgstr ""
 "铭文:这块石碑由我，——（<I>名字被削去</i>），绿岛虔诚之民的首席法师所竖立。借"
 "助它的力量，巫妖领主困于此石中。如果要解除这个咒语，必须由具有王室血统者念诵"
@@ -2245,8 +2261,9 @@ msgid "I think I’ll say that magic phrase."
 msgstr "我决定来念这些咒语。"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
-"The lich is free! Let’s bash him and grab that book. That sounds like a job "
+"The lich is free! Let’s bash him and grab that book. This sounds like a job "
 "for you, Lady Jessene!"
 msgstr ""
 "巫妖复活了！让我们给他来个迎头痛击并拿到那本笔记。这任务似乎是给你的，洁欣女"
@@ -2407,8 +2424,9 @@ msgid "This is the far end of that river bed. Legend has it—"
 msgstr "这里就是那河床的尽头。传说——"
 
 #. [message]: speaker=Tinry the Red
+#, fuzzy
 msgid ""
-"That a King banished a pair of twin Magi and their devoted followers down "
+"That a king banished a pair of twin magi and their devoted followers down "
 "here after the Wesfolk war!"
 msgstr ""
 "在和韦福克人的战争结束后，一个国王将一对双胞胎法师和他们忠诚的追随者流放在这"
@@ -2649,11 +2667,12 @@ msgstr ""
 "法妥协，他们的数量无穷无尽，你们阻止不了更多兽人的入侵。"
 
 #. [message]: speaker=King Addroran IX
+#, fuzzy
 msgid ""
 "Hmm. There is wisdom in your words, and my end should be in this place. We "
 "can hold out for the rest of the winter here. When the orcs last came it was "
 "fall and the harvest was in. We can hunt the great schools of fish that live "
-"under the ice. You might even be able to depart in well provisioned ships!"
+"under the ice. You might even be able to depart in well-provisioned ships!"
 msgstr ""
 "嗯。你的话有一些道理，但我注定要死在这个地方。我们能在这里熬过这个冬天。虽然"
 "兽人最后一次来的时候是秋天，当时是收割的季节。但我们现在还可以去捕捉生活在冰"
@@ -2664,9 +2683,10 @@ msgid "Don’t you intend to come with us?"
 msgstr "你真的不和我们一起走吗？"
 
 #. [message]: speaker=King Addroran IX
+#, fuzzy
 msgid ""
 "No. Flee, and flee east. It is my duty to hold this city as long as I can "
-"for the sake of all who can be evacuated. That means that it shall fall on "
+"for the sake of all who can be evacuated. That means it shall fall on "
 "Haldric and you to lead the evacuation."
 msgstr ""
 "不。你们走吧，去东方吧。为了掩护要撤离的人们，我的责任就是尽可能长时间地坚守"
@@ -2838,9 +2858,10 @@ msgid "Agreed."
 msgstr "同意。"
 
 #. [message]: speaker=Lord Typhon
+#, fuzzy
 msgid ""
 "Good. We need the steel for our own war in the deep. I formally place the "
-"might of the Merfolk at your disposal!"
+"might of the merfolk at your disposal!"
 msgstr ""
 "好。在我们自己的水下战争中，这些钢制品很紧缺。我正式授予你们指挥人鱼的权利！"
 
@@ -2953,8 +2974,9 @@ msgid ""
 msgstr "噢，为了我的儿子们……——按我们说定的。我会坚守南湾直到生命最后一刻。"
 
 #. [message]: speaker=Lady Jessene
+#, fuzzy
 msgid ""
-"With the help of the Merfolk, and my knowledge of an island that will make a "
+"With the help of the merfolk, and my knowledge of an island that will make a "
 "good re-provisioning point, we should be able to embark for the great lands "
 "that are to the east."
 msgstr ""
@@ -3050,9 +3072,10 @@ msgid "Land! Land! Bless the Lords of Light!"
 msgstr "陆地！陆地！赞美光明之主吧！"
 
 #. [message]: speaker=Lady Jessene
+#, fuzzy
 msgid ""
 "This is the Elder Prince’s island all right. We had a heck of a time "
-"pacifying the Drakes who live here. Oh my, it looks like they’ve rearmed!"
+"pacifying the drakes who live here. Oh my, it looks like they’ve rearmed!"
 msgstr ""
 "这确实就是大王子经过的那座岛。我们曾花了一些时间来摆平那些住在这里的龙族。天"
 "那，他们好像已经重新武装起来了！"
@@ -3160,9 +3183,10 @@ msgid "I don’t think I can take much more of this. I’m feeling ill!"
 msgstr "我觉得我快撑不住了。我感觉很不好！"
 
 #. [message]: speaker=Lord Typhon
+#, fuzzy
 msgid ""
-"Be careful, these islands aren’t safe. We’re in Naga territory. But this is "
-"the only place to stop with soft sand beaches to make landfall... The Nagas "
+"Be careful, these islands aren’t safe. We’re in naga territory. But this is "
+"the only place to stop with soft sand beaches to make landfall... The nagas "
 "like to scavenge metal from ships that they capture here."
 msgstr ""
 "只能来这儿了，只有这里有柔软的沙滩可供停靠和登陆……但要小心，这里并不安全，这"
@@ -3229,8 +3253,9 @@ msgid "A New Land"
 msgstr "新大陆"
 
 #. [part]
+#, fuzzy
 msgid ""
-"After the defeat of the Nagas, Haldric’s refugees take on fresh water and "
+"After the defeat of the nagas, Haldric’s refugees take on fresh water and "
 "hunt small game, relieved to have land beneath their feet. When they depart, "
 "even the sea-weather is milder."
 msgstr ""
@@ -3543,7 +3568,8 @@ msgid "So what exactly is a troll?"
 msgstr "那么巨魔倒底长什么样？"
 
 #. [option]
-msgid "Let’s put those souls to rest on the cursed isle!"
+#, fuzzy
+msgid "Let’s put those souls on the cursed isle to rest!"
 msgstr "我们来让诅咒之岛上的灵魂得到安息！"
 
 #. [message]: speaker=Prince Haldric
@@ -3582,8 +3608,9 @@ msgstr ""
 "的主意，我还是把它作为一个合适的任务给你。"
 
 #. [message]: speaker=Lord El'Isomithir
+#, fuzzy
 msgid ""
-"Long ago a clan of elves on the Isle of Tears fell under the sway of a dark "
+"Long ago, a clan of elves on the Isle of Tears fell under the sway of a dark "
 "curse. Their souls still haunt that place and no elf will go there. You "
 "should clear this isle, and put their souls to rest."
 msgstr ""
@@ -3601,7 +3628,8 @@ msgid "So, you have defeated the trolls. Welcome back, Haldric."
 msgstr "那么，你已经击败了巨魔。欢迎回来，哈德里克。"
 
 #. [message]: speaker=Lord El'Isomithir
-msgid "Finally the souls of our poor kin may rest. Thank you."
+#, fuzzy
+msgid "Finally, the souls of our poor kin may rest. Thank you."
 msgstr "我们那些可怜的同胞的灵魂终于可以安息了。谢谢你。"
 
 #. [message]: speaker=Lady Dionli
@@ -3698,10 +3726,11 @@ msgid "Umm, agreed."
 msgstr "嗯，同意。"
 
 #. [message]: speaker=Lord Aryad
+#, fuzzy
 msgid ""
 "Well then, human. Each of us lords has a specific quest for you. If you "
 "complete them all you will be granted all of the plains in our domain and "
-"the hills south of the Great River, if not you will be forced to depart. So "
+"the hills south of the Great River; if not you will be forced to depart. So, "
 "which quest do you wish to undertake first?"
 msgstr ""
 "好吧，人类。我们中的每一位都会有个特殊的任务给你们。如果你把它们全部完成，你"
@@ -3749,16 +3778,18 @@ msgstr ""
 "要的时候我们还会拜访你们，请记住我们的慷慨大方。"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
 "Fair enough. I decree a ‘Pact of Mutual Aid’ between our peoples. But— "
-"aren’t you setting us in conflict with the Dwarves?"
+"aren’t you setting us in conflict with the dwarves?"
 msgstr ""
 "很公平。我签署了我们之间的“互助协议”。但是，你们不会把我们置于和矮人的冲突中"
 "吧？"
 
 #. [message]: speaker=Lord Logalmier
+#, fuzzy
 msgid ""
-"No. The Dwarves have returned to the north. But humans mine as well, no? "
+"No. The dwarves have returned to the north. But humans mine as well, no? "
 "They are your resources to guard now. In the future we would be willing to "
 "trade with you."
 msgstr ""
@@ -4188,8 +4219,9 @@ msgid "Jessene in Hiding"
 msgstr "隐蔽中的洁欣"
 
 #. [message]: speaker=Lord Logalmier
+#, fuzzy
 msgid ""
-"So a doom has followed them here from their old home. My Outriders have "
+"So, a doom has followed them here from their old home. My Outriders have "
 "reported that orcs have made landfall. Orcs! The tree-killers of our most "
 "ancient legends. Some thought them only a nightmare to frighten children, "
 "and never real at all."
@@ -4206,11 +4238,12 @@ msgstr ""
 "西在发挥作用。"
 
 #. [message]: speaker=Lord Aryad
+#, fuzzy
 msgid ""
 "We may have decided wrongly. If the humans drive the orcs off we should "
 "honor our pledge. If more trouble follows them here we should let them fight "
 "it out, then we should ‘deal’ with the survivors, and make a compromise with "
-"the Dwarves."
+"the dwarves."
 msgstr ""
 "也许我们做了个错误决定。如果人类击退了兽人我们必须遵守我们的诺言。如果他们给"
 "这里招来了更多的麻烦——我们必须让他们自行解决，然后我们来“处理”生还者，并与矮"
@@ -4222,12 +4255,13 @@ msgid ""
 msgstr "但我们和这个哈德里克以及那些西北来的人类达成了协议……"
 
 #. [message]: speaker=Lord Logalmier
+#, fuzzy
 msgid ""
 "We are the people of the forest, you know that all words spoken to these un-"
 "people are of secondary importance to our own needs. As Lord Aryad said, "
 "<i>“If more trouble follows them here we should let them fight it out, then "
 "we should ‘deal’ with the survivors, and make a compromise with the "
-"Dwarves.”</i>"
+"dwarves.”</i>"
 msgstr ""
 "我们是森林居民，你应该知道就我们的自身利益而言，所有对非森林居民所做的承诺都"
 "要摆在第二位。正如阿雅德领主所说，<b>“假如他们还给这里招来了更多的麻烦——我们"
@@ -4355,7 +4389,7 @@ msgstr "原地把金币放下！我们已经给了盟友足够的酬劳。附近
 msgid "We have run out of time... We’ll never beat the orcs to the beach."
 msgstr "我们耗尽了时间……已经不能把兽人赶回海滩了……"
 
-#. [message]: speaker=unit
+#. [message]: speaker=$chest_unit_temp.id
 msgid "I’ve found the orcs’ chest! It’s filled with gold."
 msgstr "我找到兽人的宝箱了！里面装满了金子。"
 
@@ -4422,6 +4456,10 @@ msgid ""
 "Ahh, it’s great to be home! I’m not much for the politics, but it’s great to "
 "be home!"
 msgstr "啊，回家真好！我不善于言辞，但回家真是太好了！"
+
+#. [message]: speaker=Prince Haldric
+msgid "Grab the troll’s gold and get moving!"
+msgstr ""
 
 #. [scenario]: id=20_Return_of_the_Fleet
 msgid "Return of the Fleet"
@@ -4608,9 +4646,10 @@ msgid "Flixta"
 msgstr "佛里克斯塔"
 
 #. [message]: speaker=Flixta
+#, fuzzy
 msgid ""
 "You again! You will sssuffer for your attack against my people! Shek’kahan, "
-"our Naga friendsss— You’ll pay! We have new friends now."
+"our naga friendsss— You’ll pay! We have new friends now."
 msgstr ""
 "又是你们嘶嘶。你们会为攻击我的族人以及我们的娜迦盟友沙克•卡悍而受报应嘶嘶——你"
 "们要付出代价！我们现在有了新的盟友嘶嘶。"
@@ -4633,9 +4672,10 @@ msgid "So what is your plan?"
 msgstr "你的计划到底是什么？"
 
 #. [message]: speaker=Prince Haldric
+#, fuzzy
 msgid ""
 "We’re going to convince Jevyan that we gave the elves the Ruby of Fire to "
-"secure our place in this new land. Then if the orcs return, hopefully "
+"secure our place in this new land. Then, if the orcs return, hopefully "
 "they’ll go looking for our not-so-loyal elven allies first."
 msgstr ""
 "我们要让劫复魇相信，我们把火焰宝石给了精灵以换取我们在新大陆上的土地的安全。"
@@ -5245,7 +5285,8 @@ msgid ""
 msgstr "哼。不管是精灵还是你们，我都信不过。人类和精灵总是自以为很聪明！"
 
 #. [message]: speaker=Minister Edren
-msgid "May the Lords of Light have Mercy on you. But, I am bound by my word."
+#, fuzzy
+msgid "May the Lords of Light have mercy on you. But, I am bound by my word."
 msgstr "愿光明之神能够宽恕你。不过，我会遵守我的诺言。"
 
 #. [message]: speaker=Prince Haldric
@@ -5306,10 +5347,11 @@ msgstr ""
 "个有着无数崇山峻岭的广大世界。这一点我非常肯定。"
 
 #. [message]: speaker=Minister Edren
+#, fuzzy
 msgid ""
 "We have lost much in the last few months, but we should not lose all of our "
 "knowledge. I will go forth amongst the people and spread wisdom, and see "
-"about establishing a new order of Magi in this new land."
+"about establishing a new order of magi in this new land."
 msgstr ""
 "在过去的几个月中我们损失很大，但是我们不能让我们的知识失传。我要到人民中去传"
 "播智慧，并要亲眼看到在这块新的土地上建立的魔法新秩序。"
@@ -5397,13 +5439,13 @@ msgstr ""
 "确实需要有个人来提醒他，他不会吞食闪电，也不会喷吐雷霆。我……愿意。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "It was never said afterwards that the marriage of Haldric and Jessene was "
 "exactly tranquil. But it was also said that neither could long stand to be "
 "separated from the other, and she bore him strong children that mingled the "
 "blood of their diverse ancestries. Many followed their example, and the two "
-"refugee peoples from the Green Isles became fused into one in the new "
-"kingdom."
+"refugee peoples from the Green Isle became fused into one in the new kingdom."
 msgstr ""
 "后人从不会说哈德里克和洁欣的婚姻是和睦的。但人们会说他俩到底谁也离不了谁，而"
 "且她为他生下了许多健康强壮的宝宝，孩子们继承了父母那来自不同祖先的血脉。许多"
@@ -5524,7 +5566,6 @@ msgid "female^Wesfolk Lady"
 msgstr "韦福克贵妇"
 
 #. [unit_type]: id=Wesfolk Lady, race=human
-#. [unit_type]: id=Wesfolk Leader, race=human
 msgid ""
 "Born in the Wesfolk aristocracy, she and her people were excluded from "
 "society by their lords, who betrayed their loyalty when a war against "
@@ -5541,16 +5582,31 @@ msgstr ""
 msgid "female^Wesfolk Leader"
 msgstr "韦福克首领"
 
+#. [unit_type]: id=Wesfolk Leader, race=human
+#, fuzzy
+msgid ""
+"Born in the Wesfolk aristocracy, she and her people were excluded from "
+"society by their lords, who betrayed their loyalty when they started to lose "
+"a war against Haldric’s people. This outcast still conserves her nobleness "
+"in her veins, and on the battlefield she has earned valuable experience, "
+"which continues to increase with time, as does her natural leadership."
+msgstr ""
+"她拥有韦福克贵族的血统，在社会上她和她的人民被她们的领主所排斥，因为在一次对"
+"付哈德里克人民的战争中，韦福克行将失败之时她们出卖了自己的忠诚。被流放但仍然"
+"保留着她的贵族血统，还有她在战场上获得的宝贵的经验，随着时间不断增长，如同她"
+"的天然领导能力一样。"
+
 #. [unit_type]: id=Wesfolk Outcast, race=human
 msgid "female^Wesfolk Outcast"
 msgstr "韦福克流放者"
 
 #. [unit_type]: id=Wesfolk Outcast, race=human
+#, fuzzy
 msgid ""
 "Born in the Wesfolk aristocracy, she and her people were excluded from "
 "society by their lords, who betrayed their loyalty when a war against "
 "Haldric’s people was being lost. This outcast still conserves her nobleness "
-"in her veins and on the battlefield she has earned valuable experience, "
+"in her veins, and on the battlefield she has earned valuable experience, "
 "which she can lend to her people for turning a fight in their favor."
 msgstr ""
 "她拥有韦福克贵族的血统，在社会上她和她的人民为她们的领主所排斥，因为在一次对"
@@ -5651,9 +5707,10 @@ msgid "Too bad that this isn’t going as well as the beach... I miss the beach.
 msgstr "简直太糟了，不像海滩那样顺利……我有点想念海滩了。"
 
 #. [message]: speaker=Lady Jessene
+#, fuzzy
 msgid ""
-"Haldric, just before we arrived here I got word that the your ‘third of a "
-"fleet’ has departed for our old home, the Green Isle."
+"Haldric, just before we arrived here I got word that your ‘third of a fleet’ "
+"has departed for our old home, the Green Isle."
 msgstr ""
 "哈德里克，就在我们到这里之前，我得到了消息，你那支“三分之一舰队”已经奔赴我们"
 "原来的家园，绿岛。"

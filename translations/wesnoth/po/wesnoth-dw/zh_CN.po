@@ -6,9 +6,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.14\n"
+"Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
+"POT-Creation-Date: 2022-01-02 18:00 UTC\n"
 "PO-Revision-Date: 2021-12-04 15:01+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -247,9 +247,10 @@ msgstr ""
 "物。"
 
 #. [message]: speaker=Gwabbo
+#, fuzzy
 msgid ""
 "Kai, please lead us against them yourself, it will hearten the folk. And — "
-"if you will permit — you reach the age now where a kai must learn battle "
+"if you will permit — you now reach the age where a kai must learn battle "
 "skills."
 msgstr ""
 "凯王，请亲自率领领导我们对抗亡灵，您能让我们士气大振。而且——如果您允许我这样"
@@ -326,9 +327,10 @@ msgstr ""
 "寻，看能不能找到这个拉瓦纳尔的蛛丝马迹。他们带给他的是坏消息。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Mal-Ravanal, it seemed, was a great human wizard who had transformed himself "
-"into a lich. He had attacked the edges of the kingdom of Wesnoth, and was "
+"into a lich. He had attacked the edges of the Kingdom of Wesnoth, and was "
 "building a fearsome army of undead humans there. He had also sent "
 "necromancers to attack the orcs, and even the elves, in a quest for undead "
 "soldiers of different races. It seemed that he also lusted for merfolk "
@@ -459,9 +461,10 @@ msgstr ""
 "务只不过是逃跑的借口，虽然他们不会把这想法大声说出来。"
 
 #. [message]: speaker=Cylanna
+#, fuzzy
 msgid ""
 "However, I am afraid that not everyone will follow you on so perilous an "
-"adventure. First you must prove you are not afraid of danger. If you leave "
+"adventure. First, you must prove you are not afraid of danger. If you leave "
 "now, many will think the mission is but an excuse to flee."
 msgstr ""
 "但是，我担心不是所有人都愿意跟您去冒这个巨大风险。首先您必须证明您并不惧怕危"
@@ -529,6 +532,7 @@ msgstr "如果它不攻击，那就不要杀它。让我们看看它是不是会
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=unit
+#. This should just be "translated" to whatever noise a bat makes in your language.
 msgid "Neep, neep!"
 msgstr "吱，吱！"
 
@@ -634,9 +638,10 @@ msgid "Actually, I believe it is truly dead."
 msgstr "实际上，我觉得它真是死了。"
 
 #. [message]: speaker=Cylanna
+#, fuzzy
 msgid ""
 "I believe it is undead and has no will of its own, but the Kai may have the "
-"will power to direct it."
+"willpower to direct it."
 msgstr "我觉得它只不过是没有自主意识的亡灵，但凯王或许拥有指挥它的力量。"
 
 #. [message]: speaker=Kai Krellis
@@ -661,8 +666,9 @@ msgid "Have a unit pick up the ring to end the scenario."
 msgstr "派一个单位去拣起指环，以结束场景。"
 
 #. [message]: speaker=Cylanna
+#, fuzzy
 msgid ""
-"Killing these enemies was good, but there were many more on the way. It will "
+"Killing these enemies was good, but there are many more on the way. It will "
 "take greater might than we have to defeat them."
 msgstr ""
 "击杀这些敌人固然好，但前路之上还有多得多的敌人。要击败他们，需要比我们现有的"
@@ -923,10 +929,11 @@ msgstr ""
 "好。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "You can choose when the slaves come out of their villages and attack their "
-"captors. When you are ready, right click anywhere and select the slave "
-"revolt."
+"captors. When you are ready, right-click anywhere and select 'Inspire the "
+"slaves to revolt'."
 msgstr ""
 "由你来决定奴隶们何时从村庄里冲出来反抗他们的奴隶主。当你觉得时机成熟时，右击"
 "任何位置，并选择“号召奴隶起义”即可。"
@@ -944,6 +951,7 @@ msgstr ""
 "去争取你们的自由！"
 
 #. [message]: speaker=narrator
+#. "to hand" is an expression that means "nearby".
 msgid ""
 "Cheers erupted from several villages, and former slaves rushed out with "
 "whatever meager weapons they could find, or fists and rocks if no weapons "
@@ -1027,8 +1035,9 @@ msgid "You have released me, so I owe you a great debt. I will fight with you."
 msgstr "是您放了我，我欠你一个大人情。我会和您并肩作战的。"
 
 #. [message]: speaker=Gwabbo
+#, fuzzy
 msgid ""
-"Don’t let him go too crazy. Those saurian spears will go right through his "
+"Don’t let him go too crazy. Those saurian spears can go right through his "
 "scales."
 msgstr "别让他冲得太靠前。蜥蜴人的长矛会刺穿他的鳞片。"
 
@@ -1052,7 +1061,8 @@ msgstr ""
 "烦。"
 
 #. [message]: speaker=Kai Krellis
-msgid "So you will help us defeat them?"
+#, fuzzy
+msgid "So, you will help us defeat them?"
 msgstr "那你愿不愿意帮助我们击败他们？"
 
 #. [message]: speaker=Siddry
@@ -1211,7 +1221,8 @@ msgid "I told you to stay off our land! Now you’re in for it."
 msgstr "我说过别进我们的领地！现在你们这是自找的。"
 
 #. [message]: speaker=Marg-Tonz
-msgid "I told not to bother the ships! Now you’re in for it."
+#, fuzzy
+msgid "I told you not to bother the ships! Now you’re in for it."
 msgstr "我说过别碰我们的船！现在你们这是自找的。"
 
 #. [message]: speaker=Marg-Tonz
@@ -1447,10 +1458,11 @@ msgid "Talking to Tyegëa"
 msgstr "和泰歌雅交谈"
 
 #. [part]
+#, fuzzy
 msgid ""
-"It had been more of an adventure than the Kai Krellis had planned, but they "
-"were finally at their destination. The small island where Tyegëa and her "
-"students lived was before them."
+"It had been more of an adventure than Kai Krellis had planned, but they were "
+"finally at their destination. The small island where Tyegëa and her students "
+"lived was before them."
 msgstr ""
 "虽然经历的磨难远超克雷利斯凯王的预想，他们终于还是到达了目的地。泰歌雅和她的"
 "学生们所居住的小岛就在他们眼前。"
@@ -1571,8 +1583,9 @@ msgstr ""
 "为什么赛兰娜知道您会帮助我们了。"
 
 #. [message]: speaker=Tyegea
+#, fuzzy
 msgid ""
-"That remains to be seen. I find it disturbing that a Kai — and my descendant "
+"That remains to be seen. I find it disturbing that a kai — and my descendant "
 "— would run here begging for help. Before I agree to save you, you have to "
 "prove that my blood flows in your veins. Prove that your are, despite "
 "appearances, courageous, and worthy of my help."
@@ -1582,7 +1595,8 @@ msgstr ""
 "看上去没那个样，但证明你的勇气吧，也证明你值得我帮忙吧。"
 
 #. [message]: speaker=Kai Krellis
-msgid "Well, I defeated the Drakes on your island."
+#, fuzzy
+msgid "Well, I defeated the drakes on your island."
 msgstr "好吧。我打败了您的小岛上的龙人。"
 
 #. [message]: speaker=Tyegea
@@ -1885,10 +1899,11 @@ msgid "The lich is Agnovon?"
 msgstr "那巫妖就是艾格诺文？"
 
 #. [message]: speaker=Caladon
+#, fuzzy
 msgid ""
 "Well, he calls himself Mal-Govon now, but yes. He called this land the "
-"KINGDOM of Agnovon. He was its first king. And its last, and every one in "
-"between, too! He kept getting older and older, but he never died. Well, NOW "
+"KINGDOM of Agnovon. He was its first king. And its last. And each one in "
+"between too! He kept getting older and older, but he never died. Well, NOW "
 "he’s dead of course. He still putters around in that castle over there, but "
 "he hasn’t really cared about keeping his kingdom under control for a good "
 "long while. I bet I can wake him up, though. Watch THIS!"
@@ -1923,11 +1938,12 @@ msgstr ""
 "明，虽说大家并不愿意如此。"
 
 #. [message]: speaker=Mal-Govon
+#, fuzzy
 msgid ""
 "What I remember, you old fool, is you leaving behind the smoldering bodies "
-"of the orcs you had hired to steal my sword. Now, you bring mer to do your "
-"dirty work. When they lay expiring like gasping fish on the shore, will you "
-"not flee again? Do not speak to <i>me</i> of fear."
+"of the orcs you had hired to steal my sword. Now, you bring merfolk to do "
+"your dirty work. When they lie expiring like gasping fish on the shore, will "
+"you not flee again? Do not speak to <i>me</i> of fear."
 msgstr ""
 "我记住的是，你这个老蠢货，丢下你雇来偷我宝剑的兽人烧焦的尸首落荒而逃的模样。"
 "现在，你又带来了人鱼，让他们替你干脏活。等他们像海岸上缺水的鱼一样垂死挣扎"
@@ -1965,9 +1981,10 @@ msgid ""
 msgstr "大伙儿好啊！你们是谁？是你们在叫嚷着夺取宝剑什么的吗？"
 
 #. [message]: speaker=Kai Krellis
+#, fuzzy
 msgid ""
 "I am Kai Krellis of Jotha. I am attempting to defeat Mal-Govon and take his "
-"sword. Will you to join us in battle against a common enemy?"
+"sword. Will you join us in battle against a common enemy?"
 msgstr ""
 "我是礁沙城的克雷利斯凯王。我要击败玛尔-高文然后拿走他的剑。你愿意和加入我们，"
 "一起对抗共同的敌人吗？"
@@ -2127,8 +2144,9 @@ msgid "Let someone else have it."
 msgstr "给别人用吧。"
 
 #. [message]: speaker=Kai Krellis
+#, fuzzy
 msgid ""
-"We thank all you humans for your help, and release you from any farther "
+"We thank all you humans for your help, and release you from any further "
 "obligations. Where we are going, you cannot easily follow."
 msgstr ""
 "我们感谢你们人类的帮助，你们所负的契约义务到此为止了。我们要去的地方，你们是"
@@ -2262,8 +2280,9 @@ msgstr ""
 "吧，但你看上去就像是已经见过了战斗。"
 
 #. [message]: speaker=Nebthun
+#, fuzzy
 msgid ""
-"Indeed, though we have not been hard pressed. The creatures have been busy "
+"Indeed, though we have not been hard-pressed. The creatures have been busy "
 "fouling the waters and making the bay more to their liking. We worry that "
 "they will soon be back to finish with us, and I fear we will not survive."
 msgstr ""
@@ -2628,7 +2647,8 @@ msgid ""
 msgstr "这柄三叉戟赐予人鱼向敌人发射闪电的力量。"
 
 #. [object]: id={ID}
-msgid "Only the merfolk can use this item."
+#, fuzzy
+msgid "Only merfolk can use this item."
 msgstr "只有人鱼才能使用此物品。"
 
 #. [effect]: type=fire
@@ -2692,9 +2712,10 @@ msgid "Ring of Power"
 msgstr "力量指环"
 
 #. [message]: speaker=Cylanna
+#, fuzzy
 msgid ""
-"Killing these enemies was good, but there were many more on the way. I’m "
-"sure it is still unsafe here."
+"Killing these enemies was good, but there are many more on the way. I’m sure "
+"it is still unsafe here."
 msgstr ""
 "击杀这些敌人固然好，但前路之上还有多得多的敌人。我确信这里仍然并不安全。"
 

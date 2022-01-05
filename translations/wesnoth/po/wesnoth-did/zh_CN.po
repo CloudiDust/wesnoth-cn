@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
-# 
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.14\n"
+"Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-09 00:44 UTC\n"
+"POT-Creation-Date: 2022-01-02 18:00 UTC\n"
 "PO-Revision-Date: 2020-06-15 16:14+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -1130,6 +1130,28 @@ msgid ""
 "rotten pile of flesh..."
 msgstr ""
 
+#. [message]: speaker=Darken Volk
+msgid "Has this boy been smoking again?"
+msgstr ""
+
+#. [message]: speaker=Malin Keshar
+msgid ""
+"Day 1337:\n"
+"\n"
+"All sense of time and being are entombed within darkness. How long has "
+"passed since I came here? My senses are a blur. My past life, my prior "
+"goals, my very self is all but a distant memory. All I know now is the "
+"constant squealing of rats and the ever growing mountain of flesh that "
+"feasts before me."
+msgstr ""
+
+#. [message]: speaker=Malin Keshar
+msgid ""
+"You. You there behind the screen. You are the one controlling me. Why are "
+"you doing this? What did I do to deserve this torment? Please, I beg of you. "
+"End me now. Release me from my misery!"
+msgstr ""
+
 #. [message]: speaker=Malin Keshar
 msgid "What a fat rat. I wonder where it came from?"
 msgstr ""
@@ -1597,9 +1619,9 @@ msgstr ""
 msgid ""
 "As Malin and Darken Volk continue their raids on the orcs, they eventually "
 "force the usually fractious Whitefang chieftains to unite in opposition. The "
-"orcs pursue the two necromancers east toward the mouth of the river Men call "
-"the Longlier and Elves call the Arkan-thoria, where they manage to surround "
-"the humans and force a fight."
+"orcs pursue the two necromancers east toward the mouth of the river humans "
+"call the Longlier and elves call the Arkan-thoria, where they manage to "
+"surround the humans and force a fight."
 msgstr ""
 "马林和达肯·沃克在过去一年里造成的伤害很大，平常总是离心离德的当地酋长们也被迫"
 "联合起来抵抗。最终，在人类称为“绵河”而精灵称为“阿坎-索利亚”的河流的某个狭窄之"
@@ -3322,7 +3344,7 @@ msgid ""
 "So reads the book that Malin has reclaimed. <i>“The spells of necromancy can "
 "free the spirit from the limitations of the flesh, but only once the soul "
 "has been unbound from the body. The necromancer must make the necessary "
-"incantations with his dying breaths, then conquer his own spirit much the "
+"incantations with his dying breaths, then conquer his own spirit in much the "
 "same way he binds the spirits of others. Because he retains his own will, "
 "however, the lich can call upon the awesome powers of the spirit world.”</i>"
 msgstr ""
@@ -4140,7 +4162,7 @@ msgstr ""
 msgid ""
 "The lich sometimes wonders if his endeavors are naught but a fruitless "
 "crusade, but then again, so what? Life, unlife, death... nothing has ever "
-"given his existence meaning. And yet, he still persists on? For what?"
+"given his existence meaning. And yet, he still persists? For what?"
 msgstr ""
 "巫妖有时想知道，如果他的努力是徒劳的，但徒劳的十字军，但话又说回来，那么呢？"
 "生命，无生命，死亡...从来没有给他的存在意义。然而，他仍然坚持吗？为什么？"
@@ -5448,7 +5470,7 @@ msgid "Improved baneblade drain"
 msgstr ""
 
 #. [advancement]: id=eidolon_sorrow1
-msgid "Reduces nearby enemy units' damage"
+msgid "Reduces nearby enemy units’ damage"
 msgstr ""
 
 #. [advancement]: id=eidolon_sorrow2
