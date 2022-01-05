@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "POT-Creation-Date: 2022-01-02 21:01+0300\n"
-"PO-Revision-Date: 2021-11-28 16:00+0800\n"
+"PO-Revision-Date: 2022-01-05 14:54+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: TH
 #, no-wrap
@@ -941,14 +941,13 @@ msgid "shows the version number and exits."
 msgstr "显示版本号并退出。"
 
 #. type: TP
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--simple-version>"
-msgstr "B<-v, --version>"
+msgstr "B<--simple-version>"
 
 #. type: Plain text
-#, fuzzy
 msgid "shows the version number and nothing else, then exits."
-msgstr "显示版本号并退出。"
+msgstr "仅显示版本号而不显示其他信息，之后退出。"
 
 #. type: TP
 #, no-wrap
@@ -1204,17 +1203,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
-#.  This program is free software; you can redistribute it and/or modify
-#.  it under the terms of the GNU General Public License as published by
-#.  the Free Software Foundation; either version 2 of the License, or
-#.  (at your option) any later version.
-#.  This program is distributed in the hope that it will be useful,
-#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#.  GNU General Public License for more details.
-#.  You should have received a copy of the GNU General Public License
-#.  along with this program; if not, write to the Free Software
-#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#. This program is free software; you can redistribute it and/or modify
+#. it under the terms of the GNU General Public License as published by
+#. the Free Software Foundation; either version 2 of the License, or
+#. (at your option) any later version.
+#. This program is distributed in the hope that it will be useful,
+#. but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. GNU General Public License for more details.
+#. You should have received a copy of the GNU General Public License
+#. along with this program; if not, write to the Free Software
+#. Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 msgid "B<wesnothd>(6)"
 msgstr "B<wesnothd>(6)"
@@ -1608,13 +1607,12 @@ msgid "Global tags:"
 msgstr "全局标签："
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "B<[redirect]> A tag to specify a server to redirect certain client versions "
 "to. Is not used if B<versions_accepted> is not set."
 msgstr ""
 "B<[redirect]> 这个标签用于设定一个服务器，以将某些版本的客户端重定向到该服务"
-"器上。"
+"器上。如果没有设置B<versions_accepted>，那么此标签无效。"
 
 #. type: TP
 #, no-wrap
@@ -1691,7 +1689,6 @@ msgstr ""
 "的请求转发到指定的服务器。与B<[redirect]>接受一样的主键。"
 
 #. type: Plain text
-#, fuzzy
 msgid ""
 "B<[user_handler]> Configures the user handler. If no B<[user_handler]> "
 "section is present in the configuration the server will run without any nick "
@@ -1700,10 +1697,10 @@ msgid ""
 "the Wesnoth source repository. Requires mysql support enabled. For cmake "
 "this is B<ENABLE_MYSQL> and for scons this is B<forum_user_handler.>"
 msgstr ""
-"B<[user_handler]> 配置用户数据处理器。可设置的主键取决于通过B<user_handler>设"
-"置的用户数据处理器是哪一个。如果配置文件中没有B<[user_handler]>小节，则服务器"
-"在运行中将不提供任何昵称注册服务。B<forum_user_handler>正常运作所需的额外数据"
-"表可以在韦诺源代码库的table_definitions.sql中找到。"
+"B<[user_handler]> 配置用户数据处理器。如果配置中没有B<[user_handler]>小节，则"
+"服务器在运行中将不提供任何昵称注册服务。B<forum_user_handler>正常运作所需的额"
+"外数据表可以在韦诺源代码库的table_definitions.sql中找到。需要启用mysql支持。"
+"对于cmake，请使用B<ENABLE_MYSQL>，而对于scons，请使用B<forum_user_handler>。"
 
 #. type: TP
 #, no-wrap

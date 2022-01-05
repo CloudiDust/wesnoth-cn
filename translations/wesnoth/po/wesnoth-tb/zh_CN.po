@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2021-12-05 12:01+0800\n"
+"PO-Revision-Date: 2022-01-05 16:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Two_Brothers
 msgid "A Tale of Two Brothers"
@@ -87,7 +87,6 @@ msgid "Rooting Out a Mage"
 msgstr "铲除法师"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The remote freehold of Maghre in the western reaches of the Kingdom of "
 "Wesnoth was once a peaceful place, its inhabitants largely unaware of the "
@@ -96,8 +95,8 @@ msgid ""
 "sacrifices for his evil summonings."
 msgstr ""
 "韦诺王国西面的偏远乐土玛格雷曾经是一个和平的地方，它的居民们很少会注意到外面"
-"世界的来来往往。战争和战争的传闻一直与他们无关，直到有一天，一名黑暗法师迁入"
-"了这个地方，并开始为他邪恶的召唤魔法寻找祭品。"
+"世界的风云变幻。战争，或是战争的传闻一直与他们无关，直到有一天，一名黑暗法师"
+"迁入了这个地方，并开始为他邪恶的召唤魔法寻找祭品。"
 
 #. [part]
 msgid ""
@@ -464,11 +463,10 @@ msgid "Kill the Dark Adept before more elves arrive"
 msgstr "在更多精灵到达之前击杀黑暗狂徒"
 
 #. [objectives]
-#, fuzzy
 msgid ""
 "The elvish forces are spread out. Seek to fight them one at a time with "
 "several of your units."
-msgstr "精灵部队四散展开。尝试使用多个单位对战一个单位，各个击破。"
+msgstr "精灵部队是四散的。尝试使用多个单位对战单个单位，各个击破。"
 
 #. [objectives]
 msgid ""

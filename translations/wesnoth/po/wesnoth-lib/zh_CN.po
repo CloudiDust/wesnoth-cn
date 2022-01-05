@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 21:01+0300\n"
-"PO-Revision-Date: 2021-11-28 15:38+0800\n"
+"PO-Revision-Date: 2022-01-05 14:47+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [ai]: id=ai_default_rca
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -1548,7 +1548,6 @@ msgstr ""
 "大多数单位在城堡中拥有大约60%的防御率。"
 
 #. [terrain_type]: id=mountains
-#, fuzzy
 msgid ""
 "<italic>text='Mountains'</italic> are steep enough that units often have to "
 "climb over obstacles to move.\n"
@@ -1565,9 +1564,10 @@ msgid ""
 msgstr ""
 "<bold>text='山岭'</bold>非常陡峭，单位们常常得翻越重重的障碍才能在其上移"
 "动。\n"
-"正因为如此，山岭为大多数部队提供了可观的防御加成，但也严重阻碍了一切行军。大"
-"多数骑兵干脆不能进入山岭地形。但是，精灵骑兵和地精狼骑手是例外。矮人和巨魔生"
-"活在山岭地形中，因而在此如鱼得水。\n"
+"正因为如此，山岭为大多数部队提供了可观的防御加成，但也严重阻碍了一切行军。身"
+"负重甲的单位，例如韦诺骑兵和重装步兵，干脆不能进入山岭地形。水生种族和生物，"
+"例如人鱼，由于有着鱼一般的身躯，便也不能爬上陡坡。娜迦则是例外，那是因为他们"
+"双臂强健、鳞片粗糙。矮人和巨魔都是山岭地区的土著，因而在此行动时得心应手。\n"
 "\n"
 "大多数单位在山岭中拥有60%的防御率，而矮人则享受到70%。"
 
@@ -1717,7 +1717,7 @@ msgstr "<bold>text='轨道'</bold> 用于运输矿石，大多数时候是矮人
 
 #. [settings]
 msgid " (Press '$hotkey' for more information)"
-msgstr "（按‘$hotkey|’以查看更多信息）"
+msgstr "（按”$hotkey|”以查看更多信息）"
 
 msgid "Search"
 msgstr "搜索"
@@ -1779,13 +1779,11 @@ msgstr "安装附加组件"
 msgid "Update add-on"
 msgstr "升级附加组件"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_publish
 #. [button]: id=publish
 msgid "Publish add-on"
 msgstr "发布附加组件"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_uninstall
 #. [button]: id=uninstall
 msgid "Uninstall add-on"
@@ -1815,12 +1813,10 @@ msgstr "身份认证"
 msgid "Password:"
 msgstr "密码："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "OK"
 msgstr "确定"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 msgid "Cancel"
 msgstr "取消"
@@ -1879,7 +1875,6 @@ msgstr "版本："
 msgid "Select the add-on version"
 msgstr "选择附加组件版本"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [scroll_label]: id=description
 msgid "No description available."
 msgstr "没有可用的描述。"
@@ -1920,7 +1915,6 @@ msgstr "网站："
 msgid "Dependencies:"
 msgstr "依赖项目："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=dependencies
 msgid "addon_dependencies^None"
 msgstr "无"
@@ -1929,7 +1923,6 @@ msgstr "无"
 msgid "Translations:"
 msgstr "翻译："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=translations
 msgid "translations^None"
 msgstr "无"
@@ -1940,7 +1933,7 @@ msgstr "标签："
 
 #. [text_box]: id=filter
 msgid "Filters on addon description, version, type or author"
-msgstr "使用附加组件描述、版本、类型或作者进行筛选。"
+msgstr "使用附加组件描述、版本、类型或作者进行筛选"
 
 #. [label]
 msgid "State:"
@@ -1954,7 +1947,6 @@ msgstr "顺序："
 msgid "Add-ons Manager"
 msgstr "附加组件管理器"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=details_toggle
 msgid "Add-on Details"
 msgstr "附加组件细节"
@@ -2101,7 +2093,6 @@ msgstr "难度"
 msgid "Select difficulty:"
 msgstr "选择难度："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Chat Log"
 msgstr "聊天记录"
@@ -2144,7 +2135,6 @@ msgstr "将此日志复制到剪贴板"
 msgid "Load Core"
 msgstr "读取核心"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Select"
 msgstr "选择"
@@ -2173,7 +2163,6 @@ msgstr "使用文件管理器浏览此位置"
 msgid "Edit Time Schedule"
 msgstr "编辑日程表"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Name:"
 msgstr "名字："
@@ -2218,7 +2207,6 @@ msgstr "新建时段"
 msgid "Delete ToD"
 msgstr "删除时段"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Confirm"
 msgstr "确认"
@@ -2227,12 +2215,10 @@ msgstr "确认"
 msgid "Would you like to apply the changes?"
 msgstr "你想应用这些改变吗？"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Yes"
 msgstr "是"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 msgid "No"
 msgstr "否"
@@ -2293,7 +2279,6 @@ msgstr "标识符："
 msgid "Description:"
 msgstr "描述："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Experience modifier:"
 msgstr "经验值修正："
@@ -2342,7 +2327,6 @@ msgstr "在状态表中隐藏"
 msgid "Gold:"
 msgstr "金币："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Gold per village:"
 msgstr "每村庄产出金币："
@@ -2359,7 +2343,6 @@ msgstr "每村庄供给："
 msgid "Controller:"
 msgstr "控制者："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [row]
 msgid "controller^Human"
 msgstr "人类"
@@ -2388,7 +2371,6 @@ msgstr "战场黑幕"
 msgid "vision^None"
 msgstr "无"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Generate Map"
 msgstr "生成地图"
@@ -2397,7 +2379,6 @@ msgstr "生成地图"
 msgid "Choose a map generator:"
 msgstr "选择地图生成器："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=settings
 #. [button]: id=random_map_settings
 msgid "Settings"
@@ -2411,7 +2392,6 @@ msgstr "随机数种子："
 msgid "Generate"
 msgstr "生成"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "New Map"
 msgstr "新地图"
@@ -2430,7 +2410,6 @@ msgstr "高度："
 msgid "Create"
 msgstr "创建"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Resize Map"
 msgstr "改变地图大小"
@@ -2606,7 +2585,6 @@ msgstr "后备部队数："
 msgid "Date"
 msgstr "日期"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #. [button]: id=load_game
 msgid "Load Game"
@@ -2649,12 +2627,10 @@ msgstr "打开存档文件夹"
 msgid "Load"
 msgstr "载入"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 msgid "Save Game"
 msgstr "保存游戏"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #. [button]: id=save
 msgid "Save"
@@ -2684,12 +2660,10 @@ msgstr "首领"
 msgid "Team"
 msgstr "团队"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
 msgid "Gold"
 msgstr "金币"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_3
 msgid "Villages"
 msgstr "村庄"
@@ -2702,7 +2676,6 @@ msgstr "单位"
 msgid "Upkeep"
 msgstr "维护费用"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [image]: id=income_icon
 #. [label]: id=side_income
@@ -2746,7 +2719,6 @@ msgstr ""
 "供给\n"
 "/村庄"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Current Status"
 msgstr "当前状态"
@@ -2755,7 +2727,6 @@ msgstr "当前状态"
 msgid "Game Stats"
 msgstr "游戏统计"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 msgid "Scenario Settings"
 msgstr "场景设置"
@@ -2963,12 +2934,10 @@ msgstr "反转过滤条件"
 msgid "Create Game"
 msgstr "创建游戏"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=join_global
 msgid "Join"
 msgstr "加入"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=observe_global
 msgid "Observe"
 msgstr "观察"
@@ -2978,7 +2947,6 @@ msgstr "观察"
 msgid "Announcements"
 msgstr "公告"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=show_preferences
 #. [label]: id=title
 #. [grid]
@@ -3254,7 +3222,7 @@ msgstr "改变控制方"
 
 #. [label]
 msgid "Choose or enter the address of a multiplayer server."
-msgstr "选择或键入多人游戏服务器的地址"
+msgstr "选择或键入多人游戏服务器的地址。"
 
 #. [label]
 msgid "Address:"
@@ -3384,7 +3352,6 @@ msgstr "行动奖励"
 msgid "Time for each attack, recruit, and capture"
 msgstr "每次攻击、征募和占领的时间"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 #. [widget]: id=label
 msgid "General"
@@ -3443,7 +3410,6 @@ msgid ""
 "Set the password that people wanting to join your game as players must enter"
 msgstr "设置想作为玩家加入你的游戏的人所必须输入的密码"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Map size:"
 msgstr "地图尺寸："
@@ -3458,15 +3424,13 @@ msgstr "男"
 msgid "Female"
 msgstr "女"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Recruits"
 msgstr "次征募"
 
 #. [label]
-#, fuzzy
 msgid "Choose Your Leader"
-msgstr "选择你的阵营"
+msgstr "选择你的首领"
 
 #. [label]
 #. [widget]: id=name
@@ -3502,7 +3466,6 @@ msgstr "离开"
 msgid "Game Lobby"
 msgstr "游戏大厅"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=status_label
 msgid "Waiting for players to join..."
 msgstr "等待玩家加入……"
@@ -3527,7 +3490,6 @@ msgstr "账号："
 msgid "Save password locally (encrypted)"
 msgstr "在本地保存密码（明文）"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [widget]: id=label
 #. [grid]
@@ -3735,7 +3697,6 @@ msgstr "动作"
 msgid "Hotkey"
 msgstr "快捷键"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
 #. Translate G as the initial letter for Game
 msgid "game_hotkeys^G"
@@ -3745,7 +3706,6 @@ msgstr "G"
 msgid "Available in game"
 msgstr "游戏中可用"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_3
 #. Translate E as the initial letter for Editor
 msgid "editor_hotkeys^E"
@@ -3755,12 +3715,10 @@ msgstr "E"
 msgid "Available in editor"
 msgstr "编辑器中可用"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_4
 #. Translate M as the initial letter for Main Menu
-#, fuzzy
 msgid "mainmenu_hotkeys^M"
-msgstr "G"
+msgstr "M"
 
 #. [toggle_button]: id=sort_4
 msgid "Available at main menu"
@@ -4085,7 +4043,6 @@ msgstr "配置所选的自定义模组的设置。"
 msgid "Overall"
 msgstr "总括"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Statistics"
 msgstr "统计"
@@ -4137,7 +4094,6 @@ msgstr ""
 "绿色值表明这一方比所期望的运气更好。\n"
 "红色值表明这一方比所期望的运气更差。"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 msgid "Surrender Game"
 msgstr "投降"
@@ -4202,7 +4158,6 @@ msgstr "标志"
 msgid "Choose Theme"
 msgstr "选择主题"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=help
 msgid "Help"
 msgstr "帮助"
@@ -4323,13 +4278,11 @@ msgstr "等级"
 msgid "XP"
 msgstr "经验"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [toggle_button]: id=sort_4
 msgid "Traits"
 msgstr "特质"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Unit List"
 msgstr "单位列表"
@@ -4350,7 +4303,6 @@ msgstr "重命名"
 msgid "Dismiss"
 msgstr "解散"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Recall"
 msgstr "召回"
@@ -4359,17 +4311,14 @@ msgstr "召回"
 msgid "Recruit Unit"
 msgstr "征募单位"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 msgid "Recruit"
 msgstr "征募"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 msgid "Error"
 msgstr "错误"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=details_heading
 msgid "Details:"
 msgstr "详细："
@@ -4431,7 +4380,7 @@ msgid ""
 "interpreted relative to $HOME"
 msgstr ""
 "使用绝对路径。此处对相对路径的支持已经废弃，因为在解释相对路径时，是相对于"
-"$HOME的。"
+"$HOME的"
 
 #. TRANSLATORS: This is the language code which will be used
 #. to store and fetch localized non-textual resources, such as images,
@@ -4447,7 +4396,7 @@ msgid "language code for localized resources^en_US"
 msgstr "zh_CN"
 
 msgid "The text contains invalid Pango markup: "
-msgstr "此文本中包含非法的Pango标记："
+msgstr "文本中包含非法的Pango标记："
 
 #. TRANSLATORS: Formats a two-element conjunctive list.
 msgid "conjunct pair^$first and $second"
@@ -4492,43 +4441,36 @@ msgstr "过期"
 #. is the time unit (year, month, etc.) For example, for French you would
 #. translate "timespan^$num years" as "$num ans", thus allowing the game UI to
 #. generate output such as "39 ans" after variable interpolation.
-#, fuzzy
 msgid "timespan^$num year"
 msgid_plural "timespan^$num years"
 msgstr[0] "$num|年"
 msgstr[1] "$num|年"
 
-#, fuzzy
 msgid "timespan^$num month"
 msgid_plural "timespan^$num months"
 msgstr[0] "$num|月"
 msgstr[1] "$num|月"
 
-#, fuzzy
 msgid "timespan^$num week"
 msgid_plural "timespan^$num weeks"
 msgstr[0] "$num|周"
 msgstr[1] "$num|周"
 
-#, fuzzy
 msgid "timespan^$num day"
 msgid_plural "timespan^$num days"
 msgstr[0] "$num|日"
 msgstr[1] "$num|日"
 
-#, fuzzy
 msgid "timespan^$num hour"
 msgid_plural "timespan^$num hours"
 msgstr[0] "$num|时"
 msgstr[1] "$num|时"
 
-#, fuzzy
 msgid "timespan^$num minute"
 msgid_plural "timespan^$num minutes"
 msgstr[0] "$num|分"
 msgstr[1] "$num|分"
 
-#, fuzzy
 msgid "timespan^$num second"
 msgid_plural "timespan^$num seconds"
 msgstr[0] "$num|秒"
@@ -4797,11 +4739,11 @@ msgstr "你要卸载’$addon|’吗？"
 
 #. TRANSLATORS: Four-digit year + numeric month + day of month + 12-hour time, eg '2021-11-02 1:59 PM'. Format for your locale.
 msgid "%Y-%m-%d %I:%M %p"
-msgstr ""
+msgstr "%Y-%m-%d %I:%M %p"
 
 #. TRANSLATORS: Four-digit year + numeric month + day of month + 24-hour time, eg '2021-11-02 13:59'. Format for your locale.
 msgid "%Y-%m-%d %H:%M"
-msgstr ""
+msgstr "%Y-%m-%d %H:%M"
 
 msgid "url^None"
 msgstr "无"
@@ -5156,7 +5098,7 @@ msgstr "大厅"
 
 msgid ""
 "This game doesn't allow observers. Observe using moderator rights anyway?"
-msgstr ""
+msgstr "此游戏不允许观察。仍然要使用管理员权限进行观察吗？"
 
 msgid ""
 "Something is wrong with the addon version check database supporting the "
@@ -5166,7 +5108,7 @@ msgstr ""
 "wesnoth.org报告此问题。"
 
 msgid "This game is password protected. Join using moderator rights anyway?"
-msgstr ""
+msgstr "此游戏是有密码保护的。仍然要使用管理员权限加入游戏吗？"
 
 msgid ""
 "This build of wesnoth does not include support for desktop notifications, "
