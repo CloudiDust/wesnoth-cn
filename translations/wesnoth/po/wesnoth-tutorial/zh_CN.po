@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2021-12-04 14:38+0800\n"
+"PO-Revision-Date: 2022-01-07 09:08+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Tutorial
 msgid "Battle Training"
@@ -31,7 +31,6 @@ msgid "Tutorial"
 msgstr "教程"
 
 #. [campaign]: id=Tutorial
-#, fuzzy
 msgid ""
 "Learn the basics of Wesnoth gameplay with a tutorial. Recommended for first-"
 "time players."
@@ -46,7 +45,6 @@ msgid "Select Character"
 msgstr "选择角色"
 
 #. [label]
-#, fuzzy
 msgid "Who do you want to play as?"
 msgstr "你要扮演谁？"
 
@@ -119,7 +117,6 @@ msgstr ""
 "征募的基本操作。首先，你将选择一位英雄（两位英雄游玩起来是一模一样的）。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "For this tutorial, you are playing as Konrad. You are standing on the keep, "
 "and your mentor Delfador is on the east side of the river. You can move the "
@@ -127,10 +124,9 @@ msgid ""
 "of the screen."
 msgstr ""
 "在此教程里，你扮演科纳德。你现在站在城堡主楼上，而你的导师德法多则在河的东"
-"岸。你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和属性统计的概述。"
+"岸。你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和属性。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "For this tutorial, you are playing as Li’sar. You are standing on the keep, "
 "and your mentor Delfador is on the east side of the river. You can move the "
@@ -138,7 +134,7 @@ msgid ""
 "of the screen."
 msgstr ""
 "在此教程里，你扮演莉莎。你现在站在城堡主楼上，而你的导师德法多则在河的东岸。"
-"你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和属性统计的概述。"
+"你可以将鼠标移动到一个单位上，以在屏幕右侧查看其能力和属性。"
 
 #. [event]
 msgid "Click on Konrad"
@@ -335,7 +331,6 @@ msgid "Turns"
 msgstr "回合"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Every turn, each side in a scenario gets a chance to make their move. Once "
 "you’ve completed everything you wish to do this turn, click on the <b>End "
@@ -346,7 +341,7 @@ msgid ""
 "of the screen."
 msgstr ""
 "每一回合里，场景中的各阵营都会得到一次行动机会。一旦完成了回合中想进行的一切"
-"行动，你需要点击屏幕右下角的<b>结束回合</b>按钮。其他队伍，不论是被AI还是其他"
+"行动，你需要点击屏幕右下角的<b>结束回合</b>按钮。其他阵营，不论是被AI还是其他"
 "人类玩家控制的，将进行他们的行动。有些场景必须在一定的回合数以内完成。在屏幕"
 "顶部的旗帜图标旁，你可以看到当前回合数，以及回合数上限（如果有的话）。"
 
@@ -457,7 +452,6 @@ msgid "Recruiting"
 msgstr "征募"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Whenever you’re on a <i>keep</i>, you can <i>recruit</i> units on the castle "
 "tiles around it by right-clicking and selecting <b>Recruit</b>. Note that "
@@ -467,7 +461,7 @@ msgid ""
 msgstr ""
 "任何时候，只要你在<b>城堡主楼</b>上，你就可以在其四周的城堡格子里进行<b>征募"
 "</b>，只需要右击格子并且选择<b>征募</b>即可。注意，新征募的单位在你征募他们的"
-"那一回合不能行动；在下一回合你将可以使用他们。在此场景中你只有一种类型的单位"
+"那一回合不能行动。在下一回合你将可以使用他们。在此场景中你只有一种类型的单位"
 "可以选择：精灵战士。"
 
 #. [event]
@@ -511,11 +505,10 @@ msgid "Yes, if a unit doesn’t do anything for a turn, it will slowly heal."
 msgstr "是的，如果一个单位在一回合内什么都没有做，它将会缓慢地恢复生命值。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Before you send your fighters against the quintain, you should know they "
 "have two kinds of attacks..."
-msgstr "在指派你的战士去和刺靶战斗之前，你应该知道他们有两种攻击……"
+msgstr "在指派你的战士去和刺靶战斗之前，你应该知道他们有两种攻击手段……"
 
 #. [message]: speaker=student
 msgid "I’ll tell them to use the one that does more damage!"
@@ -618,7 +611,6 @@ msgid "Unit Descriptions"
 msgstr "单位描述"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "You can right-click on a unit to see a detailed <b>Unit Description</b>."
 msgstr "你可以右击一个单位来查看详细的<b>单位描述</b>。."
@@ -833,13 +825,12 @@ msgid ""
 msgstr "在征募部队并占领一个村庄之前，不能结束回合！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Welcome back! This is the second part of the two-part tutorial. Part 2 will "
 "teach you about recalling units, abilities and weapon specials, income and "
 "upkeep, long-distance movement, zone of control, and time of day."
 msgstr ""
-"欢迎回来！这是两部分教程中的第二部分。第二部分将教给你有关召回单位、能力和武"
+"欢迎回来！这是两部分教程中的第二部分。第二部分将教给你有关单位召回、能力和武"
 "器特攻、收入和维护费用、长距离移动、控制区域以及时段的有关知识。"
 
 #. [message]: speaker=student
@@ -855,19 +846,17 @@ msgid ""
 msgstr "呵，伽德拉德！德法多有没有召唤些别的什么来揍我？也许是一群稻草人？"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "This is no game, Konrad! Orcs have encamped across the river. This is elven "
 "country; they are fools to enter here. We elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
 msgstr ""
-"这不是游戏，科纳德！兽人已经在河对岸扎了营。这里是精灵的国度；胆敢入侵这里，"
+"这不是游戏，科纳德！兽人已经在河对岸扎了营。这里是精灵的国度。胆敢入侵这里，"
 "他们真是一群蠢货。我们精灵在森林中行动迅速而且难以击中。你必须击败他们的首"
 "领，这样他们就再也不会来威胁我们了。我会向你提供建议的。"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "This is no game, Li’sar! Orcs have encamped across the river. This is elven "
 "country; they are fools to enter here. We elves are fast and hard to hit in "
@@ -975,7 +964,6 @@ msgid "Recalling"
 msgstr "召回"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "In addition to recruiting new units each scenario, you can also <i>recall</"
 "i> your experienced veterans from previous scenarios, for the cost of 20 "
@@ -987,9 +975,9 @@ msgid ""
 msgstr ""
 "除了在每幕场景中征募新单位以外，你也可以<b>召回</b>之前场景中的经验丰富的老"
 "兵，每名老兵需花费20枚金币。这样，通过召回最高级的单位，或召回拥有优秀的特质"
-"和技能组合的单位，你就能在攻略多幕场景的过程中，建立起一支强大的军队。要召回"
-"单位，当你的首领站在城堡主楼上时，请右击并选择<b>召回</b>选项。除了召回旧单位"
-"外，也要记得征募新单位。"
+"和技能组合的单位，你就能在攻略多幕场景的过程中，建立起一支强大的军队。若要召"
+"回单位，则当你的首领站在城堡主楼上时，请右击并选择<b>召回</b>选项。除了召回旧"
+"单位外，也要记得征募新单位。"
 
 #. [message]: speaker=Galdrad
 msgid ""
@@ -1045,10 +1033,9 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "Weapon Specials"
-msgstr "武器特性"
+msgstr "武器特攻"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Weapon specials are special attack modifiers that make certain attacks more "
 "powerful. In this case, the Shaman has the Slows special on her entangle "
@@ -1060,12 +1047,12 @@ msgid ""
 "A full list of abilities and weapon specials, along with traits, may be "
 "found in the help (default hotkey: <b>F1</b>)."
 msgstr ""
-"武器特性是使得某些攻击更加强力的特殊攻击修正。在此又要提到萨满，她的缠绕攻击"
-"拥有“减速”特性。当此攻击成功命中敌人时，可将他们的伤害输出减半一回合。其他武"
-"器特性例如“先制”，可以让该攻击总是先手，而不论是谁先进攻的，又例如“魔法”，可"
+"武器特攻是使得某些攻击更加强力的特殊攻击修正。在此又要提到萨满，她的缠绕攻击"
+"拥有“减速”特攻。当此攻击成功命中敌人时，可将他们的伤害输出减半一回合。其他武"
+"器特攻例如“先制”，可以让该攻击总是先手，而不论是谁先进攻的，又例如“魔法”，可"
 "以让该攻击总是拥有70%的命中率。\n"
 "\n"
-"能力、武器特性以及特质的完整列表，可以在帮助中找到（默认热键：<b>F1</b>）。"
+"能力、武器特攻以及特质的完整列表，可以在帮助中找到（默认热键：<b>F1</b>）。"
 
 #. [message]: speaker=narrator
 msgid "Multiple Healers"
@@ -1082,15 +1069,14 @@ msgid ""
 "adjacent units by 8 hitpoints per turn. A unit next to multiple healers is "
 "healed by the most advanced one."
 msgstr ""
-"你现在有两位疗伤者，然而每个单位只能接受一位疗伤者的医治——即使与两位萨满都相"
-"邻，一个单位每回合还是只能回复4点生命值。\n"
+"你现在有两位疗伤者。然而，每个单位只能接受一位疗伤者的医治——即使与两位萨满都"
+"相邻，一个单位每回合还是只能回复4点生命值。\n"
 "\n"
 "如果任一位萨满升级成为德鲁伊，那么她将能够为相邻的单位每回合回复8点生命值。一"
 "个单位若与多名疗伤者相邻，则由等级最高的疗伤者来医治。"
 
 #. [message]: speaker=narrator
 #. one healer is a level one shaman, but the other healer is a druid or (very unlikely) a shyde
-#, fuzzy
 msgid ""
 "You now have two healers. Your Druid can heal adjacent units by 8 hitpoints "
 "per turn compared to your Shaman’s 4. However, each unit can only receive "
@@ -1098,7 +1084,7 @@ msgid ""
 "most advanced one."
 msgstr ""
 "你现在有两位疗伤者。你的德鲁伊能够为相邻的单位每回合回复8点生命值，相比之下萨"
-"满每回合只能回复8点。然而每个单位只能接受一位疗伤者的医治——一个单位若与多名疗"
+"满每回合只能回复4点。然而每个单位只能接受一位疗伤者的医治——一个单位若与多名疗"
 "伤者相邻，则由等级最高的疗伤者来医治。"
 
 #. [message]: speaker=narrator
@@ -1433,7 +1419,6 @@ msgstr ""
 "最好去占领更多村庄，并让大伙儿靠得近一些。"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "If one of your Shamans stands just behind your wounded units, she will heal "
 "each of them 4 hitpoints at the beginning of the next turn."
@@ -1495,7 +1480,6 @@ msgstr ""
 "你！"
 
 #. [message]: speaker=Galdrad
-#, fuzzy
 msgid ""
 "You’re venturing away from your keep. You might need to recruit more units, "
 "and I doubt the orc leader will let you use his! Careful!"
@@ -1587,14 +1571,13 @@ msgid "Victory Conditions"
 msgstr "胜利条件"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "In this scenario, you only need to defeat the orc leader to win. Victory "
 "conditions for a scenario are given under <b>Objectives</b> in the <b>Menu</"
 "b> menu."
 msgstr ""
 "在此场景中，你只需击败兽人首领就能获胜了。场景的胜利条件在<b>菜单</b>菜单中的"
-"<b>场景目标</b>里给出。"
+"<b>目标</b>里给出。"
 
 #. [message]: speaker=narrator
 msgid "Speeding Up Animations"

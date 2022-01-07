@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2021-12-04 15:20+0800\n"
+"PO-Revision-Date: 2022-01-07 10:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 msgid "Son of the Black-Eye"
@@ -52,7 +52,6 @@ msgid "Warlord"
 msgstr "军阀"
 
 #. [campaign]: id=Son_of_the_Black-Eye
-#, fuzzy
 msgid ""
 "Your father Karun Black-Eye was the greatest orcish leader that ever lived. "
 "Now, as his son, it’s up to you to thwart the selfish designs of the humans "
@@ -418,8 +417,8 @@ msgid ""
 "Gór in the lands of the free tribes. We shall ask them for support. With "
 "their help, perhaps we can unite the orcish tribes and crush these humans."
 msgstr ""
-"我父亲经常提到评议会的萨满，他们住在霸拉戈·高，自由部落的土地上。我们应该求助"
-"元老会的支援。在他们的帮助下，或许我们能再次联合兽人部族来消灭这些人类。"
+"我父亲经常提到评议会的萨满，他们住在霸拉戈·高，自由部落的土地上。我们应该请求"
+"大评议会的支援。在他们的帮助下，或许我们能再次联合兽人部族来消灭这些人类。"
 
 #. [message]: speaker=Kapou'e
 msgid "$stored_helper.name|!"
@@ -794,7 +793,6 @@ msgid ""
 msgstr "再往前一步你就死定了，小跳蚤。要活命还不赶紧跑。"
 
 #. [message]: role=Scout
-#, fuzzy
 msgid ""
 "Quit your boasting, mule-ears. The Chief wants to know why you’re here, "
 "instead of cowering in your dung-spattered forests."
@@ -908,14 +906,13 @@ msgid "Jetto, how did you get captured by the likes of these?"
 msgstr "杰图，你怎么会被这些贱货俘虏呢?"
 
 #. [message]: speaker=Jetto
-#, fuzzy
 msgid ""
 "The Barag Gór Council sent me to assassinate the elvish leaders. "
 "Unfortunately, I was captured. But now I am free and the elves shall feel my "
 "wrath!"
 msgstr ""
-"霸拉戈·高长老会派我暗杀精灵首领。可是我人品太差，被抓个现行。现在我自由了，我"
-"要让精灵感受我的怒火！"
+"霸拉戈·高评议会派我暗杀精灵首领。但我不幸被抓了。现在我自由了，我要让精灵感受"
+"我的怒火！"
 
 #. [message]: speaker=Pirk
 msgid "At last! The siege has been broken."
@@ -978,11 +975,10 @@ msgid "How did you get captured by the likes of these?"
 msgstr "你是怎么被抓住的？"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "The Barag Gór Council sent me to assassinate the elvish leaders. "
 "Unfortunately, I was captured."
-msgstr "霸拉戈·高长老会派我暗杀精灵首领。可惜我人品太差，被抓了个现行。"
+msgstr "霸拉戈·高评议会派我暗杀精灵首领。但我不幸被抓了。"
 
 #. [message]: speaker=Kapou'e
 msgid "Fine, someone go release him."
@@ -1021,18 +1017,17 @@ msgid ""
 "entire Great Council would have to gather."
 msgstr ""
 "卡破尔和萨满休整三天，讨论了这件事。他们终于决定召唤大部落来对抗此次大规模人"
-"类入侵。但是为了这件事，他们也必须要集合整个长老会。"
+"类入侵。但是为了这件事，他们也必须要集合整个大评议会。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Since it was now obvious that the humans were going to try their best to "
 "prevent that by capturing or killing the shamans, Kapou’e was requested to "
 "escort the shamans to the harbor of Tirigaz where the rest of the Council "
 "was residing."
 msgstr ""
-"很明显，人类试图通过绑架和杀害萨满们阻止大部落集结，萨满要求卡破尔护送他们前"
-"往其它长老会成员居住的提里嘎兹港。"
+"很明显，人类试图通过绑架和杀害萨满们来阻止大部落集结，萨满要求卡破尔护送他们"
+"前往其它评议会成员居住的提里嘎兹港。"
 
 #. [part]
 msgid ""
@@ -1624,7 +1619,6 @@ msgstr ""
 "证如果我们参战，战胜后就会在你们的地盘上许给我们大片领土。"
 
 #. [message]: speaker=second_unit
-#, fuzzy
 msgid ""
 "Why would you elves want still more territory? You already have the "
 "undisputed rule of the whole elvish forest."
@@ -1690,10 +1684,9 @@ msgstr ""
 "吧。"
 
 #. [message]: speaker=Lucile
-#, fuzzy
 msgid ""
 "Ahhh! Flee; warn the Prince that I have been slain and the enclave destroyed."
-msgstr "啊！快逃命吧。 告诉王子，我被杀了，基地也被摧毁了。"
+msgstr "啊！快逃命吧。 告诉王子，我被杀了，飞地也被摧毁了。"
 
 #. [unit]: type=Elvish Scout, id=Linduilas
 msgid "Linduilas"
@@ -1811,12 +1804,11 @@ msgid "Well, ermmm..."
 msgstr "好吧，那……"
 
 #. [message]: speaker=Echarp
-#, fuzzy
 msgid ""
 "Kapou’e, rumors tell of you making a long trip to seek assistance from us, "
 "and escorting Pirk, Gork and Vraurk. The Council is grateful for that."
 msgstr ""
-"卡破尔，听说你长途跋涉来向我们求援，并护送了皮尔克，古尔克和瓦鲁克。评议会对"
+"卡破尔，听说你长途跋涉来向我们求援，并护送了皮尔克、古尔克和瓦鲁克。评议会对"
 "此非常感激。"
 
 #. [message]: speaker=Fabstep
@@ -1862,7 +1854,6 @@ msgstr ""
 "再也不会安全了。你是唯一能够帮助我们坚守普雷斯提姆的人！"
 
 #. [message]: speaker=Pirk
-#, fuzzy
 msgid ""
 "Go defend Prestim, Kapou’e. In the meantime, now that the Council is "
 "complete again, we will decide. We may have to form the Great Horde again, "
@@ -2118,7 +2109,6 @@ msgid "Defend Prestim successfully for four days"
 msgstr "成功防守普莱斯亭四天"
 
 #. [objective]: condition=lose
-#, fuzzy
 msgid ""
 "You don’t control all villages on the north side of the river when turns run "
 "out"
@@ -3577,7 +3567,6 @@ msgid "Novice Orcish Shaman"
 msgstr "兽人萨满新手"
 
 #. [unit_type]: id=Novice Orcish Shaman, race=orc
-#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
@@ -3587,16 +3576,16 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
-"兽人萨满是兽族魔法的守卫者，受到各部落的尊重。他们建立的长老会仲裁兽人团体间"
-"的纠纷。尽管他们身体脆弱（对于兽人而言），萨满却是魔咒专家──通过诅咒敌人，吸"
-"取他们的生命。这些年轻人精力旺盛，但魔力尚需锻练。"
+"兽人萨满是兽人魔法的守卫者，受到各部落的尊重。他们建立了兽人评议会，为整个兽"
+"人社区进行重大决策，并仲裁这一热衷争端的种族的各部落间的种种冲突。尽管他们身"
+"体脆弱（对于兽人而言），兽人萨满却是魔咒专家，可以诅咒敌人并吸取他们的生命。"
+"萨满新手年轻而精力旺盛，但魔力尚需锻练。"
 
 #. [unit_type]: id=Old Orcish Shaman, race=orc
 msgid "Old Orcish Shaman"
-msgstr "兽人萨满长老"
+msgstr "兽人萨满长者"
 
 #. [unit_type]: id=Old Orcish Shaman, race=orc
-#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
@@ -3606,16 +3595,16 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
-"兽人萨满是兽族魔法的守卫者，受到各部落的尊重。他们建立的长老会仲裁兽人团体间"
-"的纠纷。尽管他们身体脆弱（对于兽人而言），萨满却是魔咒专家──通过诅咒敌人，吸"
-"取他们的生命。而这些长者，虽然他们更好地掌握了魔法，身体也随年龄增长而衰弱。"
+"兽人萨满是兽人魔法的守卫者，受到各部落的尊重。他们建立了兽人评议会，为整个兽"
+"人社区进行重大决策，并仲裁这一热衷争端的种族的各部落间的种种冲突。尽管他们身"
+"体脆弱（对于兽人而言），兽人萨满却是魔咒专家，可以诅咒敌人并吸取他们的生命。"
+"兽人萨满长者是已然掌握了魔法的萨满，但他们的物理力量也随年龄增长而衰弱。"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
 msgid "Orcish Shaman"
 msgstr "兽人萨满"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
-#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
@@ -3624,9 +3613,9 @@ msgid ""
 "orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
-"兽人萨满是兽族魔法的守卫者，受到各部落的尊重。他们建立的长老会仲裁兽人团体间"
-"的纠纷。尽管他们身体脆弱（对于兽人而言），萨满却是魔咒专家──通过诅咒敌人，吸"
-"取他们的生命。"
+"兽人萨满是兽人魔法的守卫者，受到各部落的尊重。他们建立了兽人评议会，为整个兽"
+"人社区进行重大决策，并仲裁这一热衷争端的种族的各部落间的种种冲突。尽管他们身"
+"体脆弱（对于兽人而言），兽人萨满却是魔咒专家，可以诅咒敌人并吸取他们的生命。"
 
 #. [message]: speaker=unit
 msgid "Ouch! This hurts!"

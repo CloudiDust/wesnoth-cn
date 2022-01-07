@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2021-12-05 15:07+0800\n"
+"PO-Revision-Date: 2022-01-07 09:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=The_South_Guard
 msgid "The South Guard"
@@ -628,7 +628,6 @@ msgstr ""
 "确实，我们已经打败了城里大多数土匪。但洛里斯爵士在哪里？城市驻军在哪里？"
 
 #. [message]: speaker=Minister Hylas
-#, fuzzy
 msgid ""
 "Alas, Sir Loris fell in battle several days ago. For weeks, we warned him of "
 "the new power of these bandits, yet he would never lead his men against them "
@@ -638,11 +637,11 @@ msgid ""
 "Sir Loris had sent a rider earlier, he might have survived long enough to "
 "stand with us here."
 msgstr ""
-"唉, 洛里斯爵士几天前在战斗中倒下了。几个星期以来, 我们一直警告他这些土匪的全"
-"新力量。然而, 在他们的力量变得太强大，以至于我们无法处理之前，他一直都没有带"
-"领他的部下发起进攻。我派了一位使者前往国王那里，向他传达我们的困境，但他一定"
-"遭遇了不测, 因为你们是第一批到达这里的援军。如果洛里斯爵士早些时候就派出一位"
-"骑手，那他就可能会活得足够长久，可以和我们一起站在这里。"
+"唉, 洛里斯爵士几天前在战斗中倒下了。几个星期以来, 我们一直警告他这些土匪拥有"
+"了全新的力量。然而, 在他们的力量变得太强大以至于我们无法处理之前，他一直都没"
+"有带领他的部下发起进攻。我派了一位使者前往国王那里，向他传达我们的困境，但他"
+"一定遭遇了不测, 因为你们是第一批到达这里的援军。如果洛里斯爵士早些时候就派出"
+"骑手前去禀告国王，那他就可能会活到可以和我们一起站在这里。"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -1772,14 +1771,13 @@ msgstr ""
 "个梅布林在召唤这些亡灵方面起了些作用，那我毫不怀疑他也被腐蚀了。）"
 
 #. [message]: speaker=Sir Gerrick
-#, fuzzy
 msgid ""
 "<i>Indeed, these elves are not as incorruptible and pure as they like to "
 "believe they are. I suspect that this sage’s pride led him to believe that "
 "he could master a power that is uncontrollable.</i>"
 msgstr ""
-"（的确，这些精灵并不像他们所相信的那样不可腐蚀而纯洁。我怀疑,，这位贤者的自大"
-"让他相信，自己可以掌握一种无法控制的力量。）"
+"（的确，这些精灵并不像他们自己所相信的那样不可腐蚀而纯洁。我怀疑，这位贤者的"
+"自大让他相信，自己可以掌控一种无法控制的力量。）"
 
 #. [message]: speaker=Deoran
 msgid ""
@@ -2876,11 +2874,10 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #. Defeat message after time-over
-#, fuzzy
 msgid ""
 "The elves are attacking Westin! They’ll surely destroy the city without us "
 "there to defend it..."
-msgstr "精灵们在进攻韦斯廷！如果没有我们去那里保卫城市, 他们肯定会摧毁它……"
+msgstr "精灵们在进攻韦斯廷！我们来不及赶去保护城市了，他们肯定会摧毁它……"
 
 #. [unit]: type=Lieutenant, id=Liryn
 msgid "Liryn"
@@ -3597,7 +3594,6 @@ msgid ""
 msgstr "那你们打败了我的走狗。对于你们这样可怜的人来说，这真是伟大的成就。"
 
 #. [message]: speaker=Deoran
-#, fuzzy
 msgid ""
 "What is truly pitiful is the plight you have put yourself in, once wise sage "
 "of the elves. You have fallen to the black arts, twisted and corrupted by "
@@ -3738,7 +3734,6 @@ msgid "Junior Commander"
 msgstr "见习指挥官"
 
 #. [unit_type]: id=Junior Commander, race=human
-#, fuzzy
 msgid ""
 "At scarcely 17 or 18 years of age, squires are not yet full knights, but "
 "still have the knowledge and skill to master their mounts whilst in full "
@@ -3746,9 +3741,9 @@ msgid ""
 "Wesnoth’s army, where they gain experience leading fellow troops and honing "
 "their prowess in battle."
 msgstr ""
-"在刚到17岁或18岁的时候，侍从们还不是完全的骑士, 但他们仍然有足够的知识和技"
-"能，在全副武装时掌控他们的坐骑。有才能的士官有时被授予韦诺军队中的小部队指挥"
-"权, 在那里他们获得了领导战友和磨练自己在战斗中的能力的经验。"
+"骑士侍从们刚到17岁或18岁的年纪，还不是完全的骑士，但他们仍然有足够的知识和技"
+"能，能在全副武装时掌控他们的坐骑。在韦诺军队中，有才能的侍从有时被授予小部队"
+"的指挥权，在任上，他们领导属下部队，磨练自身战力，获得很多经验。"
 
 #. [unit_type]: id=Mounted General, race=human
 msgid "Mounted General"
@@ -3892,7 +3887,6 @@ msgstr ""
 
 #. [part]
 #. Intro to scenario 1
-#, fuzzy
 msgid ""
 "Over time, in the absence of pressing danger, the South Guard grew "
 "complacent and lazy. Reports to King Haldric slowed, and in the spring of "
@@ -3963,7 +3957,6 @@ msgstr ""
 
 #. [part]
 #. Intro to scenario 5
-#, fuzzy
 msgid ""
 "For many days they marched down nameless paths that no man had trod before. "
 "From time to time, Deoran fancied that he saw ghostly images of elven "
@@ -3974,7 +3967,7 @@ msgid ""
 msgstr ""
 "他们在人类从未踏足的无名小径上行进了数星期。德欧兰不时幻想，自己可以看到茂密"
 "丛林中精灵村庄和厅堂的依稀踪影，但随着他们的前行，就连这些村庄和厅堂也变得稀"
-"少了。他们远离文明，深入丛林深处，时间在模糊的白昼与黑夜之间流逝，死亡阴影的"
+"少了。他们远离文明，深入丛林深处，时间在模糊的白昼与黑夜之间流逝，死之阴影的"
 "寒意在他们身上不断蔓延。"
 
 #. [part]
@@ -3999,7 +3992,6 @@ msgstr ""
 
 #. [part]
 #. Intro to scenario 6a
-#, fuzzy
 msgid ""
 "He wondered briefly why she had stopped mentioning Mebrin and his "
 "whereabouts, but something told him that now was not the time to mention the "
@@ -4009,7 +4001,7 @@ msgid ""
 msgstr ""
 "他想知道她为什么不再提起梅布林和他的下落，但他有种感觉，现在还不是该提起那位"
 "贤者的名字的时候。他想，也许她怀疑土匪的故事确实是真的，梅布林因为涉足亡灵魔"
-"法而被腐蚀。也许她指示还没有接受这一点而已。"
+"法而被腐蚀。也许她只是还没有接受这一点而已。"
 
 #. [part]
 #. Intro to scenario 6a
@@ -4172,7 +4164,6 @@ msgstr ""
 
 #. [part]
 #. Epilogue B
-#, fuzzy
 msgid ""
 "As the lich’s final death scream echoed across the battlefield, his skeletal "
 "form began to crumble. Decayed bones disintegrated into ash, borne away on "
@@ -4186,8 +4177,8 @@ msgid ""
 msgstr ""
 "巫妖死亡时最后的惨叫声在战场上回荡，他枯骨一般的身形开始崩溃。腐烂的骨头分解"
 "成灰烬，被寒冷的风吹走，另一个不灭的灵魂又回到了无尽的时间涌流之中。随着主人"
-"力量的消失，亡灵武士们又回到了没有生命的状态，变成了一堆不会活动的骨头。当太"
-"阳开始突破灰白色的暗云之时，沙沙作响的风温柔地流过战场，带走了牺牲将士的灵"
+"力量的消失，亡灵武士们又回到了没有生命的状态，塌成了一堆堆不会活动的骨头。当"
+"太阳开始突破灰白色的暗云之时，沙沙作响的风温柔地流过战场，带走了牺牲将士的灵"
 "魂，向着天空升腾而去。在阳光终于透出的那一刻，轻风吹过，一切都归于静止。"
 
 #. [part]
@@ -4231,7 +4222,6 @@ msgstr ""
 
 #. [part]
 #. Epilogue B
-#, fuzzy
 msgid ""
 "Urza Afalas earned his own mound as well, a small, inconspicuous thing near "
 "his old home, where his brothers and he used to live before they were exiled "
@@ -4243,8 +4233,8 @@ msgid ""
 "clean up the town."
 msgstr ""
 "乌扎·阿法拉斯也得到了自己的墓堆，这是在他的老房子附近的一块不显眼的小东西。他"
-"的兄弟们和他在因犯罪被流放前就住在那里。韦斯廷议会知道这位前游寇首领曾在亡灵"
-"袭击时，协助保卫这座城市，因此赦免了剩余土匪的罪行，并允许他们返回家园。在离"
+"的兄弟们和他在因犯罪被流放前就住在那里。韦斯廷议会知道了这位前游寇首领曾在亡"
+"灵袭击时协助保卫这座城市，因此赦免了剩余土匪的罪行，并允许他们返回家园。在离"
 "家多年，并与亡灵进行了艰难而恐怖的战斗之后，大多数人都非常高兴能和平地回家，"
 "并帮忙清理城镇。"
 
