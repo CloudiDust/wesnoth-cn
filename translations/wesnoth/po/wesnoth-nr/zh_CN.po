@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2021-12-05 11:19+0800\n"
+"PO-Revision-Date: 2022-01-08 15:25+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Northern_Rebirth
 msgid "Northern Rebirth"
@@ -301,7 +301,6 @@ msgid "Death of Tallin"
 msgstr "塔林死亡"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "This challenger has made the orcs careless — I managed to sneak in and filch "
 "the key to the storerooms. Come with me lads, and grab some weapons! Let "
@@ -310,17 +309,16 @@ msgid ""
 msgstr ""
 "这挑战者让兽人疏于防范——我成功地潜入进去，偷出了储藏室的钥匙。跟我来伙计们，"
 "拿些武器！就任由他们自相残杀好了，我们可以利用这个机会一劳永逸地除掉这个渣"
-"滓、谁愿意和我一起上？"
+"滓。谁愿意和我一起上？"
 
 #. [message]: speaker=Zlex
-#, fuzzy
 msgid ""
 "Brave words, Tallin, but if I didn’t know you better I’d say you were moon-"
 "touched. These are not weapons, just pitchforks and hunting bows. We have no "
 "armor, no training. Are we supposed to beat them with bad breath and "
 "colorful language?"
 msgstr ""
-"你的发言充满了勇气，塔林，但要不是与你熟识，我一定会说你脱离实际。这些不是武"
+"你的发言充满了勇气，塔林，但要不是与你熟识，我一定会说你异想天开。这些不是武"
 "器，只是干草叉和猎弓罢了。我们没有铠甲，没受过训练。你是准备靠大口呼气和破口"
 "大骂来击败他们吗？"
 
@@ -470,7 +468,6 @@ msgid ""
 msgstr "战鼓和号角声在山中回响。庞大的兽人军队逼近了！"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "If only we were faster escaping into the mines this wouldn’t have happened. "
 "At least we will die free..."
@@ -481,15 +478,14 @@ msgid "Infested Caves"
 msgstr "洞穴混战"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Ill-armed and untrained though they were, the people of Dwarven Doors rose "
 "against the orcs. Although their losses had been tremendous, never once did "
 "they break or falter. In the end, the orcish host was smashed and the "
 "survivors sent scurrying for their lives."
 msgstr ""
-"这些缺乏武器而且毫无经验的矮人之门人民顽强抵抗兽人。尽管损失惨重，但他们从未"
-"放弃。最后，兽人领袖的一次醉酒，让幸存者们得以逃脱。意外地保全了性命。"
+"缺乏武器和训练的矮人之门的人民顽强抵抗兽人。尽管损失惨重，但他们从未放弃。最"
+"后，兽人奴隶主被彻底击败了，幸存的兽人落荒而逃。"
 
 #. [part]
 msgid ""
@@ -1010,13 +1006,11 @@ msgstr ""
 "什么危害……"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Without eating or sleeping for days, Tallin’s men begin to fall one by one."
 msgstr "好几日不吃不喝之后，塔林的士兵们一个接一个倒下了。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "We were too slow in finding the dwarves. I don’t think we can fight for much "
 "longer!"
@@ -1053,7 +1047,6 @@ msgstr ""
 "谢谢，哈梅尔。纳尔迦仍陷在黑暗的深渊中，对于幸存的矮人来说这是个极大的伤痛。"
 
 #. [message]: speaker=Camerin
-#, fuzzy
 msgid "And I, don’t forget me!"
 msgstr "还有我，别忘了我！"
 
@@ -1879,12 +1872,11 @@ msgid "There we go. Now let’s see where this tunnel leads."
 msgstr "好嘞。让我们看看这隧道通向哪里。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "Wow! That’s incredible. Now I understand why the bag of bones kept you in "
 "jail; he just simply couldn’t kill you!"
 msgstr ""
-"哇！真是难以置信。现在我明白为什么那骨头架子只是把你们囚禁起来了，因为他无法"
+"哇！真是难以置信。现在我明白为什么那骨头架子只是把你们囚禁起来了，因为他没法"
 "杀死你们！"
 
 #. [message]: speaker=Sister Thera
@@ -2063,9 +2055,8 @@ msgid "The Treasury"
 msgstr "金库"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "The Treasury! Excellent, let’s clean out the gold!"
-msgstr "金库！太好了，我们去抢些战利品回来！"
+msgstr "金库！太好了，我们去把金币拿空吧！"
 
 #. [message]: role=Treasury Guard
 msgid "Intruders! Get them!"
@@ -2120,7 +2111,6 @@ msgstr ""
 "中充满公正，恶魔和战争也没有侵袭大地。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "Well, if you don’t mind me saying — that certainly isn’t the state of "
 "affairs now. Knalga lies in ruins, orcs ravage the surface, and these dark "
@@ -2129,10 +2119,10 @@ msgid ""
 "rightful heir must have long since perished in his vain quest for the "
 "Sceptre of Fire."
 msgstr ""
-"那么，如果你不介意，我想插一句话：现在它肯定没有发挥作用。纳尔迦处在毁灭的边"
-"缘，兽人在大地上肆虐，而那些黑暗和邪恶的生物则在地下的隧道中游荡着。另一方"
-"面，据说韦诺王国正被邪恶残忍的艾什薇尔王后把持着，正统的继承人在其徒劳的要求"
-"破灭之后，也只能去寻求圣火权杖的帮助。"
+"那么，如果你不介意，我想插一句话——现在的状况当然不是这样了。纳尔迦已是废墟，"
+"兽人在大地上肆虐，而那些黑暗和邪恶的生物则在地下的隧道中游荡着。另一方面，据"
+"说韦诺王国正被邪恶残忍的艾什薇尔王后把持着，正统的继承人恐怕也早就在他对圣火"
+"权杖的徒劳搜寻中死亡了。"
 
 #. [message]: speaker=Abhai
 msgid ""
@@ -2330,7 +2320,6 @@ msgid "Perhaps I spoke too soon..."
 msgstr "或许我太早下判断了……"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "What is this? Our retreat is cut off!"
 msgstr "怎么回事？我们的退路被切断了！"
 
@@ -2358,9 +2347,8 @@ msgid "Malifor the Great’s Study"
 msgstr "伟大的玛利弗的书屋"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "There we go! This way!"
-msgstr "快来！这边，伙计们！"
+msgstr "我们走！这边！"
 
 #. [message]: role=Study Guard
 msgid ""
@@ -3075,11 +3063,10 @@ msgstr ""
 "单，就是完成哈兹·黑牙多年前启动的计划——征服纳尔迦。"
 
 #. [message]: id=Tallin
-#, fuzzy
 msgid ""
 "Khazg tried and failed, and if you repeat his folly you will soon join him "
 "in the Land of the Dead!"
-msgstr "哈兹试过，但是没有做到，如果你要重复他的愚蠢，你就去黄泉见他吧！"
+msgstr "哈兹试过，但失败了，如果要重复他的愚蠢，你就去阴曹地府见他吧！"
 
 #. [message]: id=Rakshas
 msgid ""
@@ -3376,14 +3363,13 @@ msgid ""
 msgstr "好建议，但是在这茫茫北国谁可以助我们一臂之力？"
 
 #. [story]
-#, fuzzy
 msgid ""
 "You can count the elves out. They are a selfish lot, only interested in "
 "themselves. They would only aid us if something drastic happened to them and "
 "they needed our help. What about Wesnoth?"
 msgstr ""
-"先把精灵排除了。他们很自私，只关心自己。如果要让他们帮助我们除非他们也需要我"
-"们的帮助。请求韦诺帮助怎样？"
+"可以先把精灵排除掉。他们很自私，只关心自己。除非发生了什么大事，他们也需要我"
+"们的帮助，否则他们是不会帮助我们的。请求韦诺帮助怎样？"
 
 #. [story]
 msgid ""
@@ -3392,14 +3378,13 @@ msgid ""
 msgstr "韦诺国离我们太远了，我们也不知道那里现在的政治情况。"
 
 #. [story]
-#, fuzzy
 msgid ""
 "The last news we heard of them was years ago when Prince Konrad passed "
 "through here. At that time the evil Queen Asheviere was ruling, and it was "
 "said that she was in alliance with the orcs."
 msgstr ""
-"我们所知道的关于他们的最近的消息还是多年前科纳德王子通过这里的时候。那时候正"
-"是邪恶的艾什薇尔王后的统治时期，有消息说她和兽人结盟了。"
+"我们最近一次听到他们的消息，还是在多年前科纳德王子通过这里的时候。那时邪恶的"
+"艾什薇尔女王正统治着，据说她和兽人结了盟。"
 
 #. [story]
 msgid ""
@@ -3990,13 +3975,12 @@ msgid "(<i>Mumbles</i>) Yeah, great compensation..."
 msgstr "（<b>嘟囔</b>）是啊，很好的补偿……"
 
 #. [message]: speaker=Ro'Arthian
-#, fuzzy
 msgid ""
 "I have the power to control many creatures, such as gryphons, trolls and "
 "ogres. So while I am with you they shall be at your command."
 msgstr ""
-"我可以控制很多生物，比如食人魔、狮鹫和巨魔。既然我和你是一伙的，那现在他们全"
-"部听令于你。"
+"我可以控制很多生物，比如狮鹫、巨魔和食人魔。所以，我和你们一起行动时，他们全"
+"都会听命于你。"
 
 #. [message]: speaker=Stalrag
 msgid "The Shinsplitters will be at your service, Tallin."
@@ -4131,13 +4115,12 @@ msgid ""
 msgstr "安静，安静！如果你们要出气门口有大量的兽人。"
 
 #. [story]
-#, fuzzy
 msgid ""
 "But you do have a point, Stalrag. That ransom will buy more troops and "
 "weapons for the orcs, worse news for us."
 msgstr ""
-"不过你有一点说对了，斯托莱格，兽人可以用那笔赎金招募大量战士和购买武器，这对"
-"我们不利。"
+"不过你有一点说对了，斯托莱格，兽人可以用那笔赎金征募更多战士并购买更多武器，"
+"这对我们来说不是什么好消息。"
 
 #. [story]
 msgid "I think we have a chance to make some new allies here..."
@@ -4174,19 +4157,19 @@ msgstr ""
 "联合突袭，如果兽人快要装进口袋的赎金溜走了，他们最可能会怎么做？"
 
 #. [story]
-#, fuzzy
 msgid ""
 "Kenning the way of orcs, belike they’d kill the Princess, especially if it "
 "seems the rescue ha’ any chance of succeeding."
-msgstr "按照兽人的行事，他们最可能会杀死公主，尤其是在营救有可能成功的情况下。"
+msgstr ""
+"按照兽人的行事方式，他们很可能会杀死公主，尤其是在营救有可能成功的情况下。"
 
 #. [story]
 msgid ""
 "Exactly. On the other hand, if we raided the fortress while the orcs were "
 "talking ransom with the elves, the orcs might hesitate just long enough."
 msgstr ""
-"很好。另一方面，如果我们在兽人与精灵讨价还价的时候发动突袭，兽人可能会措手不"
-"及。"
+"正是如此。另一方面，如果我们在兽人与精灵讨价还价的时候发动突袭，兽人可能会措"
+"手不及。"
 
 #. [story]
 msgid ""
@@ -4232,13 +4215,12 @@ msgstr ""
 "还是值得一试的。"
 
 #. [story]
-#, fuzzy
 msgid ""
 "Elves are deeply honor-bound, especially in matters that touch their kin. If "
 "we rescue the Princess, I am certain the deed will not go without reward."
 msgstr ""
-"精灵是知恩图报的，尤其是这事涉及到他们的族人。如果我们营救了他们的公主，我肯"
-"定这个行动会收到回报的。"
+"精灵是极为看重荣誉的，尤其是当涉及到他们的族人时。如果我们营救了公主，我肯定"
+"我们会得到回报的。"
 
 #. [story]
 msgid ""
@@ -4260,9 +4242,8 @@ msgstr ""
 "有停止对我们南部隧道的入侵。"
 
 #. [story]
-#, fuzzy
 msgid "Then to arms, men! For Knalga and the Princess!"
-msgstr "拿起武器！为了纳尔迦和公主！"
+msgstr "那就拿起武器，弟兄们！为了纳尔迦和公主！"
 
 #. [side]: type=Orcish Warlord, id=Atul
 msgid "Atul"
@@ -4336,7 +4317,6 @@ msgid "Eryssa"
 msgstr "伊蕊莎"
 
 #. [message]: race=orc
-#, fuzzy
 msgid ""
 "The intruders are breaking in! Get to the walls and defend the fortress! And "
 "where did that elvish princess go?"
@@ -4384,11 +4364,10 @@ msgid "Death of Eryssa"
 msgstr "伊蕊莎死亡"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "After rescuing the Princess, Tallin and his allies quickly withdrew into the "
 "caves."
-msgstr "救出公主后，塔林一伙迅速撤回地道中。"
+msgstr "救出公主后，塔林一行迅速撤回洞穴中。"
 
 #. [message]: speaker=Eryssa
 msgid ""
@@ -4447,13 +4426,12 @@ msgid "Wow!"
 msgstr "喔！"
 
 #. [message]: speaker=Elenia
-#, fuzzy
 msgid ""
 "Then they scrounged up bows and cudgels from the dead orcs, and marched into "
 "the caves and broke the dwarves out from their encirclement by the undead "
 "and trolls."
 msgstr ""
-"然后他们从死的兽人身上搜集弓箭和棍棒，杀入洞穴，救出了被巨魔和不死族围困的矮"
+"然后他们从死掉的兽人身上搜集弓箭和棍棒，杀入洞穴，救出了被亡灵和巨魔围困的矮"
 "人。"
 
 #. [message]: speaker=Elenia
@@ -4715,13 +4693,12 @@ msgstr ""
 "迦。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Upon arriving there something seemed to be wrong. Instead of being hailed "
 "boisterously by the dwarves as they usually were, they were met by silent "
 "guards with downcast eyes."
 msgstr ""
-"等他们到达的时候，发现事情果然不对劲。矮人平常都很喧闹的，但这回迎接他们的守"
+"他们到达之时，便发现有些不对劲。矮人平常会很吵闹地打招呼，但这回迎接他们的守"
 "卫目光沮丧，沉默不语。"
 
 #. [part]
@@ -4844,13 +4821,12 @@ msgid "Were you able to pursue them?"
 msgstr "为什么不去追他们？"
 
 #. [else]
-#, fuzzy
 msgid ""
 "This isn’t looking good. Not only do we fail to get the Princess but now we "
 "lost all of our gold! Seriously Hamel, I don’t know if we’re gonna make it."
 msgstr ""
-"事情不太妙啊。我们不仅没有争取到公主，还弄丢了所有黄金！说真的，哈梅尔，我都"
-"不知道该怎么办了。"
+"事情不太妙啊。我们不仅没有争取到公主，还弄丢了所有金币！说真的，哈梅尔，我不"
+"知道我们能不能成功了。"
 
 #. [else]
 msgid ""
@@ -5215,11 +5191,10 @@ msgstr ""
 "个杀一个。"
 
 #. [message]: speaker=Tallin
-#, fuzzy
 msgid ""
 "Tell the Princess to get off her high horse and stop acting like such a "
 "priss!"
-msgstr "告诉公主，从她高贵的马上下来，不要这么骄傲！"
+msgstr "告诉公主，别摆什么臭架子，也别再这么娇气了！"
 
 #. [message]: speaker=Himadrin
 msgid "You dare insult our princess!"
@@ -5276,9 +5251,8 @@ msgid "I am sure you will, Tallin. The trust of the elves is seldom misplaced."
 msgstr "我相信你会的，塔林。北方精灵不会信错人。"
 
 #. [message]: speaker=Ro'Arthian
-#, fuzzy
 msgid "If you lot are quite finished exchanging pleasantries..."
-msgstr "他们倒是一见如故……"
+msgstr "要是你们已经打完招呼的话……"
 
 #. [message]: speaker=Ro'Arthian
 msgid ""
@@ -5731,14 +5705,13 @@ msgstr ""
 "盖上，不停地哭泣。塔林走过来，迟疑了一下，温柔地把她揽在了怀中。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Sobbing against Tallin’s chest, Eryssa told him of the many ways Hidel had "
 "cherished and warded her since the hour of her birth. How he had comforted "
 "her childhood hurts; how in later years, he had guided her in the green "
 "paths of the forest, and taught her the deep mysteries of elven-kind."
 msgstr ""
-"伊蕊莎在塔林胸前抽泣着，告诉他海达尔从她出世起就开始关心和保护她的种种故事："
+"伊蕊莎在塔林胸前抽泣着，告诉他海达尔从她出世起就开始关心和保护她的种种故事。"
 "小时候他如何安慰受伤的自己，后来他如何教自己在森林里穿梭，他如何给自己讲精灵"
 "族最神秘的故事。"
 
@@ -6294,14 +6267,13 @@ msgstr ""
 "灵，龙人，巨魔还是别的什么人，我们不看出身，即使是兽人也可以。"
 
 #. [message]: id=Father Morvin
-#, fuzzy
 msgid ""
 "This body would not claim sovereignty over any peoples or lands, but exist "
 "only to suppress warfare and raiding in the lands south and east of the "
 "Great Ocean, north of Wesnoth and west of the elvish forests."
 msgstr ""
-"建立这个机构不是要凌驾于人民或是土地之上，而是为了禁止大洋的南边和东边，韦诺"
-"北边和精灵森林西边的土地的战争与掠夺。"
+"这个机构不会对任何人或者土地宣称主权，其存在的唯一目的是制止泰洋的南面、东"
+"面、韦诺北面、精灵森林西面的土地上的战争与掠夺。"
 
 #. [message]: id=Father Morvin
 msgid ""
@@ -6454,13 +6426,12 @@ msgid "(<i>Smiles</i>) It is not unlikely..."
 msgstr "（<b>微笑</b>）这也不是不可能……"
 
 #. [message]: id=Tallin
-#, fuzzy
 msgid ""
 "You have been a valuable ally and a great friend, Elenia. Go with our "
 "blessing, and convey to the elves our intentions and the hope of peace."
 msgstr ""
-"你是个优秀的伙伴，伊莱妮雅。带着我们的祝福去吧，向精灵传达我们的想法与和平企"
-"盼。"
+"你是重要的盟友和伟大的友人，伊莱妮雅。带着我们的祝福去吧，向精灵传达我们的想"
+"法与和平企盼。"
 
 #. [message]: id=Tallin
 msgid "Krash?"
@@ -6513,17 +6484,16 @@ msgstr "不要放在心上。我想把这些当成有趣的故事讲给家乡的
 
 #. [message]: id=Tallin
 msgid "So you would like to return to your home?"
-msgstr "你要回家吗？"
+msgstr "所以说你想要回家吗？"
 
 #. [message]: id=Abhai
-#, fuzzy
 msgid ""
 "Yes. The dead should stay in the Land of the Dead. It is against the laws of "
 "nature for it to be otherwise. There is just one problem; Malifor forced me "
 "into this body and I don’t know how to get out of it."
 msgstr ""
-"是的。死人就应该留在死亡之国。否则就违背了自然的法则。我只有一个问题：玛利弗"
-"把我禁锢在这个躯体里，我不知道怎样才能摆脱。"
+"是的。死人就应该呆在黄泉之下。否则就违背了自然的法则。只有一个问题：玛利弗把"
+"我禁锢在这个躯体里，我不知道怎样才能摆脱。"
 
 #. [message]: id=Father Morvin
 msgid ""
