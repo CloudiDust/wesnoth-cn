@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 21:01+0300\n"
-"PO-Revision-Date: 2020-08-10 20:12+0800\n"
+"PO-Revision-Date: 2022-01-11 16:13+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -53,9 +53,8 @@ msgstr ""
 
 #. [heals]: id=healing
 #. [heals]
-#, fuzzy
 msgid "This unit is capable of basic healing and slowing dehydration."
-msgstr " 此单位能够简单疗伤。"
+msgstr " 此单位有基本的疗伤能力，并能减缓脱水。"
 
 #. [heals]: id=healing
 msgid "heals +8"
@@ -82,17 +81,14 @@ msgstr ""
 "中毒的单位不能由疗伤者疗毒，只能进入村庄疗毒，或者由拥有疗毒能力的单位疗毒。"
 
 #. [heals]: id=healing
-#, fuzzy
 msgid "heals +12"
-msgstr "疗伤+4"
+msgstr "疗伤+12"
 
 #. [heals]: id=healing
-#, fuzzy
 msgid "female^heals +12"
-msgstr "疗伤+4"
+msgstr "疗伤+12"
 
 #. [heals]: id=healing
-#, fuzzy
 msgid ""
 "This unit combines herbal remedies with magic to heal units more quickly "
 "than is normally possible on the battlefield.\n"
@@ -105,15 +101,14 @@ msgstr ""
 "此单位将魔法与草药混合使用以在战场上对单位进行疗伤，比通常可能的速度快得"
 "多。\n"
 "\n"
-"此疗伤者所治疗的单位每回合最多能恢复8点生命值，或阻止毒药在该回合发作。\n"
+"此疗伤者所治疗的单位每回合最多能恢复12点生命值，或阻止毒药在该回合发作。\n"
 "中毒的单位不能由疗伤者疗毒，只能进入村庄疗毒，或者由拥有疗毒能力的单位疗毒。"
 
 #. [heals]
-#, fuzzy
 msgid ""
 "This unit is capable of healing those around it, slowing dehydration, and "
 "curing them of poison."
-msgstr " 此单位能够对周围的单位进行疗伤，并解除中毒状态。"
+msgstr "此单位可以对周围的单位疗伤，减缓脱水，并疗毒。"
 
 #. [trait]: id=healthy
 msgid "Always rest heals"
@@ -128,10 +123,10 @@ msgid "backstab"
 msgstr "背刺"
 
 msgid "Castle"
-msgstr ""
+msgstr "城堡"
 
 msgid "Cave"
-msgstr ""
+msgstr "洞穴"
 
 #. [damage]: id=charge
 msgid "charge"
@@ -146,7 +141,7 @@ msgid "cures"
 msgstr "疗毒"
 
 msgid "Defense"
-msgstr ""
+msgstr "防御"
 
 #. [drains]: id=drains
 msgid "drains"
@@ -170,25 +165,24 @@ msgstr ""
 msgid "+1 max HP"
 msgstr "+1最大生命值"
 
-#, fuzzy
 msgid "firststrike"
 msgstr "先制"
 
 msgid "Flat"
-msgstr ""
+msgstr "平原"
 
 msgid "Forest"
-msgstr ""
+msgstr "森林"
 
 msgid "Frozen"
-msgstr ""
+msgstr "冻原"
 
 #. [trait]: id=healthy
 msgid "healthy"
 msgstr "康健"
 
 msgid "Hills"
-msgstr ""
+msgstr "丘陵"
 
 #. [illuminates]: id=illumination
 msgid "illuminates"
@@ -207,7 +201,7 @@ msgid "marksman"
 msgstr "精准"
 
 msgid "Mushroom Grove"
-msgstr ""
+msgstr "蘑菇林"
 
 #. [hides]: id=nightstalk
 msgid "nightstalk"
@@ -227,10 +221,10 @@ msgid "regenerates"
 msgstr "再生"
 
 msgid "Resistances"
-msgstr ""
+msgstr "抗性"
 
 msgid "Sand"
-msgstr ""
+msgstr "沙地"
 
 #. [skirmisher]: id=skirmisher
 msgid "skirmisher"
@@ -245,14 +239,14 @@ msgid "steadfast"
 msgstr "坚定"
 
 msgid "Strikes"
-msgstr ""
+msgstr "打击次数"
 
 #. [hides]: id=submerge
 msgid "submerge"
 msgstr "潜水"
 
 msgid "Swamp"
-msgstr ""
+msgstr "沼泽"
 
 #. [teleport]: id=teleport
 msgid "teleport"
@@ -263,7 +257,7 @@ msgid "undead"
 msgstr "亡灵"
 
 msgid "Village"
-msgstr ""
+msgstr "村庄"
 
 #. [section]: id=editor
 msgid "Map and Scenario Editor"
@@ -276,9 +270,8 @@ msgstr "地形编辑器"
 
 #. [section]: id=editor_mode_scenario
 #. [topic]: id=..editor_mode_scenario
-#, fuzzy
 msgid "Scenario Editor"
-msgstr "地图/场景编辑器"
+msgstr "场景编辑器"
 
 #. [topic]: id=editor_tool_paint
 msgid "Paint Tool"
@@ -302,22 +295,36 @@ msgid ""
 "\n"
 "The selected brush changes the size of the tool:"
 msgstr ""
+"在地图上绘制地形格。\n"
+"\n"
+"绘画工具会使用笔刷尺寸和地形调色板设定。\n"
+"\n"
+"<bold>text='键盘修饰符'</bold>\n"
+"\n"
+"• Shift+鼠标点击：如果选择了基础地形，则改变基础地形而不改变覆盖层。如果选择"
+"了覆盖层，则改变覆盖层而不改变基础地形。\n"
+"• Control+鼠标点击：选择鼠标光标下的地形，与在地形调色板上选择该地形等价（同"
+"时拾取基础地形和覆盖层）。\n"
+"\n"
+"<bold>text='画笔大小'</bold>\n"
+"\n"
+"选定的笔刷尺寸会改变工具的大小："
 
 #. [topic]: id=editor_tool_paint
 msgid "Paint single hexes."
-msgstr ""
+msgstr "绘制单个格子。"
 
 #. [topic]: id=editor_tool_paint
 msgid "Paint seven hexes at a time."
-msgstr ""
+msgstr "一次绘制七个格子。"
 
 #. [topic]: id=editor_tool_paint
 msgid "Paint nineteen hexes at a time."
-msgstr ""
+msgstr "一次绘制十九个格子。"
 
 #. [topic]: id=editor_tool_paint
 msgid "Paint three hexes in a line."
-msgstr ""
+msgstr "绘制一直线上的三个格子。"
 
 #. [topic]: id=editor_tool_fill
 msgid "Fill Tool"
@@ -337,6 +344,16 @@ msgid ""
 "• Control+mouse click: Select the terrain under the mouse cursor, as if it "
 "had been selected on the terrain palette (picks up both base and overlay)."
 msgstr ""
+"用不同的地形填充连续的地形区域。\n"
+"\n"
+"填充工具会使用地形调色板设定。\n"
+"\n"
+"<bold>text='键盘修饰符'</bold>\n"
+"\n"
+"• Shift+鼠标点击：如果选择了基础地形，则改变基础地形而不改变覆盖层。如果选择"
+"了覆盖层，则改变覆盖层而不改变基础地形。\n"
+"• Control+鼠标点击：选择鼠标光标下的地形，与在地形调色板上选择该地形等价（同"
+"时拾取基础和覆盖层）。"
 
 #. [topic]: id=editor_tool_select
 msgid "Select Tool"
@@ -357,26 +374,37 @@ msgid ""
 "\n"
 "The selected brush changes the size of the tool:"
 msgstr ""
+"选择一组格子，与菜单栏下的剪切、复制和填充选择区域按钮一起使用。\n"
+"\n"
+"<bold>text='键盘修饰符'</bold>\n"
+"\n"
+"• Shift+鼠标点击：“魔杖”模式，选择鼠标光标下的格子，以及相同地形类型的相邻格"
+"子。\n"
+"• Control+鼠标点击：取消选择。\n"
+"\n"
+"<bold>text='笔刷大小'</bold>\n"
+"\n"
+"选定的笔刷尺寸会改变工具的大小："
 
 #. [topic]: id=editor_tool_select
 msgid "Select single hexes."
-msgstr ""
+msgstr "选择单个格子。"
 
 #. [topic]: id=editor_tool_select
 msgid "Select seven hexes at a time."
-msgstr ""
+msgstr "一次选择七个格子。"
 
 #. [topic]: id=editor_tool_select
 msgid "Select nineteen hexes at a time."
-msgstr ""
+msgstr "一次选择十九个格子。"
 
 #. [topic]: id=editor_tool_select
 msgid "Select three hexes in a line."
-msgstr ""
+msgstr "选择一直线上的三个格子。"
 
 #. [topic]: id=editor_tool_paste
 msgid "Clipboard and Paste Tool"
-msgstr ""
+msgstr "剪贴板和粘贴工具"
 
 #. [topic]: id=editor_tool_paste
 msgid ""
@@ -392,27 +420,36 @@ msgid ""
 "\n"
 "The paste tool also has some clipboard-manipulation functions:"
 msgstr ""
+"旋转、翻转和粘贴剪贴板中的地形\n"
+"\n"
+"可以使用<ref>dst='editor_tool_select' text='选择工具'</ref>将格子剪切或复制到"
+"剪贴板。\n"
+"\n"
+"粘贴工具会显示剪贴板中内容的轮廓，可以用鼠标点击来粘贴。显示的内容只有轮廓，"
+"但可以用撤销功能来纠正错误，该功能绑定在Control+Z键上，同时也绑定在和游戏中的"
+"撤销功能相同的键位上。\n"
+"\n"
+"粘贴工具也有一些剪贴板操作功能："
 
 #. [topic]: id=editor_tool_paste
 msgid "Rotate clockwise by 60°."
-msgstr ""
+msgstr "顺时针旋转60°。"
 
 #. [topic]: id=editor_tool_paste
 msgid "Rotate counter-clockwise by 60°."
-msgstr ""
+msgstr "逆时针旋转60°。"
 
 #. [topic]: id=editor_tool_paste
 msgid "Flip horizontally"
-msgstr ""
+msgstr "水平翻转"
 
 #. [topic]: id=editor_tool_paste
 msgid "Flip vertically"
-msgstr ""
+msgstr "垂直翻转"
 
 #. [topic]: id=editor_tool_starting
-#, fuzzy
 msgid "Starting Locations Tool"
-msgstr "如何配置起始位置"
+msgstr "起始位置工具"
 
 #. [topic]: id=editor_tool_starting
 msgid ""
@@ -446,6 +483,29 @@ msgid ""
 "location for placing with a subsequent mouse click, as if it was selected in "
 "the editor palette."
 msgstr ""
+"定义各阵营首领的的起始位置。\n"
+"\n"
+"此工具用于设置各阵营首领的默认起始位置，以及具名的特殊位置。在<ref>dst='..."
+"editor_mode_terrain' text='地形编辑器'</ref>和<ref>dst='..."
+"editor_mode_scenario' text='场景编辑器'</ref>模式下，这两种类型的位置都启用"
+"了。位置名称在编辑器调色板中显示为一个列表，点击地图将把该名称放置于一个格子"
+"上。每个位置只能放在一个格子上，而且编辑器只允许每个格子上最多有一个位置。\n"
+"\n"
+"要添加具名的特殊位置，请点击编辑器调色板底部的“添加”，并输入名称。这些名称必"
+"须以字母开头，可以包含数字和下划线。\n"
+"\n"
+"通过点击“添加”并输入数字，例如“10”，可以在一张地图上添加9个以上的队伍。UI中会"
+"将该队伍自动显示为 \"玩家10\"。\n"
+"\n"
+"具名位置可以在WML中使用标准位置过滤器的<italic>text='location_id='</italic>来"
+"访问。玩家起始位置也可以在WML中使用<italic>text='location_id=1'</italic>，"
+"<italic>text='location_id=2'</italic>等来访问——只使用数字，而不在数字前面添"
+"加“玩家”。\n"
+"\n"
+"<bold>text='键盘修饰符'</bold>\n"
+"\n"
+" •Control+鼠标点击已经含有位置的格子：选择该格子中的位置，用于在下次鼠标点击"
+"时进行放置，与在编辑器调色板中选择该位置等价。"
 
 #. [topic]: id=editor_tool_label
 msgid "Label Tool"
@@ -463,10 +523,18 @@ msgid ""
 "This tool is only available in Scenario Mode; the decorations are "
 "implemented in the scenario using WML’s <italic>text='[label]'</italic> tag."
 msgstr ""
+"在地图上放置文字标签。\n"
+"\n"
+"• 左键单击将打开对话框，以创建新标签或编辑现有标签。\n"
+"• 右键单击可以删除。\n"
+"• 鼠标左键拖放可以移动标签。\n"
+"\n"
+"此工具只在场景模式下可用。装饰物则使用WML的<italic>text='[label]'</italic>标"
+"签在场景中实现。"
 
 #. [topic]: id=editor_tool_scenery
 msgid "Item Tool (Scenery Tool)"
-msgstr ""
+msgstr "物品工具（景色工具）"
 
 #. [topic]: id=editor_tool_scenery
 msgid ""
@@ -481,6 +549,13 @@ msgid ""
 "of the terrain and are implemented in the scenario using WML’s "
 "<italic>text='[item]'</italic> tag."
 msgstr ""
+"物品工具可以放置风车、书柜和巨石等装饰物。多个物品可以放置在同一个格子上。\n"
+"\n"
+"<bold>text='注意：'</bold>此工具不支持删除已经放置的物品，也不支持撤销。目前"
+"只能通过编辑生成的WML文件来修复错误。\n"
+"\n"
+"此工具只在场景模式下可用。装饰物不是地形的一部分，而是使用WML的"
+"<italic>text='[item]'</italic>标签在场景中实现。"
 
 #. [topic]: id=editor_tool_village
 msgid "Village Ownership Tool"
@@ -499,12 +574,21 @@ msgid ""
 "stored by adding WML <italic>text='[village]'</italic> tags to the "
 "appropriate <italic>text='[side]'</italic>."
 msgstr ""
+"此工具在剧情开始时分配村庄的所有权。村庄必须首先用"
+"<ref>dst='editor_tool_paint' text='绘制工具'</ref>放置在地形上。\n"
+"\n"
+"• 左键单击将把村庄分配到当前选择的阵营。\n"
+"• 右键单击将把村庄重新设置为无主状态。\n"
+"\n"
+"此工具只在场景模式下可用。所有权信息是通过在适当的WML<italic>text='[side]'</"
+"italic>标签中添加<italic>text='[village]'</italic>标签来存储的。"
 
 #. [topic]: id=editor_tool_unit
 msgid "Unit Tool"
 msgstr "单位工具"
 
 #. [topic]: id=editor_tool_unit
+#, fuzzy
 msgid ""
 "Place units belonging to the currently-selected side.\n"
 "\n"
@@ -517,12 +601,21 @@ msgid ""
 "<italic>text='[unit]'</italic> tags to the appropriate "
 "<italic>text='[side]'</italic>."
 msgstr ""
+"放置属于当前选择的一方的单位。\n"
+"\n"
+"- 左键单击将放置一个单位。\n"
+"- 左键拖放将移动一个已经放置的单位。\n"
+"- 当六边形包含一个单位时，各种操作被添加到右键菜单中。\n"
+"\n"
+"这个工具只在场景模式下可用；它将WML<italic>text='[unit]'</italic>标签添加到适"
+"当的<italic>text='[side]'</italic>。"
 
 #. [topic]: id=editor_named_area
 msgid "Named Areas"
 msgstr "具名区域"
 
 #. [topic]: id=editor_named_area
+#, fuzzy
 msgid ""
 "This tool create sets of tiles that can be used in WML scripts’ Standard "
 "Location Filters (a concept explained in detail on the Wiki), by using the "
@@ -547,12 +640,30 @@ msgid ""
 "name implies time, it is now more generic and can be used for other purposes "
 "without needing to change the time-of-day schedule in the area."
 msgstr ""
+"这个工具通过在过滤器的<italic>text='area=</italic>'属性中使用区域的id，创建可"
+"以用于WML脚本的标准位置过滤器（这个概念在Wiki上有详细解释）的瓷砖组。比如"
+"说。\n"
+"\n"
+"- 为这组六边形指定一个当地的时区\n"
+"- 筛选出当一个单位移动到这组六边形时触发事件的这组六边形\n"
+"\n"
+"要使用该工具。\n"
+"\n"
+"- 使用<ref>dst='editor_tool_select' text='select tool</ref>'选择六边形。\n"
+"- 在区域菜单中，选择添加新区域\n"
+"- 然后在 \"区域 \"菜单中，选择 \"保存选择到区域\"。\n"
+"- 然后在 \"区域 \"菜单中，选择 \"重命名所选区域\"，为该区域选择一个名称。\n"
+"\n"
+"这个工具只在场景模式下可用；它将WML<italic>text='[time_area]'</italic>标签添"
+"加到场景中。虽然标签的名字意味着时间，但它现在更通用，可以用于其他目的，而不"
+"需要改变该区域的时间安排。"
 
 #. [topic]: id=editor_playlist
 msgid "Playlist Manager"
 msgstr "播放列表管理器"
 
 #. [topic]: id=editor_playlist
+#, fuzzy
 msgid ""
 "Shows a list of music tracks known to the editor, with toggle-boxes to "
 "enable them.\n"
@@ -560,12 +671,17 @@ msgid ""
 "This tool is only available in Scenario Mode; it adds WML "
 "<italic>text='[music]'</italic> tags to the scenario."
 msgstr ""
+"显示一个编辑器已知的音乐曲目列表，并有切换框来启用它们。\n"
+"\n"
+"这个工具只在情景模式下可用；它将WML<italic>text='[music]'</italic>标签添加到"
+"情景中。"
 
 #. [topic]: id=..editor
 msgid "Map/Scenario Editor"
 msgstr "地图/场景编辑器"
 
 #. [topic]: id=..editor
+#, fuzzy
 msgid ""
 "Wesnoth’s Map and Scenario Editor allows users to create and edit the maps "
 "on which every Wesnoth scenario takes place. It also provides a limited set "
@@ -595,8 +711,31 @@ msgid ""
 "at the start of the scenario. There’s also a <ref>dst='editor_playlist' "
 "text='playlist manager'</ref> for the music."
 msgstr ""
+"Wesnoth的地图和剧情编辑器允许用户创建和编辑每个Wesnoth剧情发生的地图。它还提"
+"供了一套有限的功能来设置一个基本的场景。\n"
+"\n"
+"编辑器可以从标题屏幕的<italic>文本='地图编辑器'</italic>选项中启动。\n"
+"\n"
+"<header>text='编辑模式' （Editing Modes）。</header>\n"
+"\n"
+"编辑器有两种操作模式：地形模式和场景模式。\n"
+"\n"
+"<ref>dst='...editor_mode_terrain' text='地形模式'</ref>类似于一个简单的绘画程"
+"序，有<ref>dst='editor_tool_paint' text='绘画'</ref>，"
+"<ref>dst='editor_tool_fill' text='填充'</ref>，<ref>dst='editor_tool_select' "
+"text='选择（和复制）'</ref>，以及<ref>dst='editor_tool_paste' text='粘贴'</"
+"ref>。它也有设置领导者的工具'<ref>dst='editor_tool_starting' text='起始位"
+"置'</ref>。\n"
+"\n"
+"<ref>dst='...editor_mode_scenario' text='场景模式'</ref>，除了地形模式中的工"
+"具外，还增加了对添加<ref>dst='editor_tool_label' text='标签'</ref>、"
+"<ref>dst='editor_tool_scenery' text='场景物品'</ref>、"
+"<ref>dst='editor_tool_unit' text='单位'</ref>，以及在场景开始时指定"
+"<ref>dst='editor_tool_village' text='村庄所有权'</ref>的支持。还有一个"
+"<ref>dst='editor_playlist' text='playlist manager'</ref>用于音乐。"
 
 #. [topic]: id=..editor
+#, fuzzy
 msgid ""
 "<header>text='What you do *not* get'</header>\n"
 "\n"
@@ -620,8 +759,26 @@ msgid ""
 "have their own terrains will need that add-on to tell the editor about their "
 "terrains."
 msgstr ""
+"<header>text='你*不*得到的东西'</header>\n"
+"\n"
+"- 与游戏中的地图渲染完全相同\n"
+"\n"
+"地图在游戏中的样子不会和编辑器中的完全一样，因为这取决于地形规则。例如，当许"
+"多山地六边形聚集在一起时，地形规则会试图将它们组合成山脉和横跨多个六边形的大"
+"图形。\n"
+"\n"
+"- 事件处理程序和脚本\n"
+"\n"
+"编辑器不是一个帮助你编写场景事件处理程序脚本的工具。\n"
+"\n"
+"- 无限的向后兼容性\n"
+"\n"
+"编辑器可以加载Wesnoth旧版本的大部分地图，但不是全部。1.3.2及以后版本的地图通"
+"常会被支持，除非它们使用的地形不再是Wesnoth主线中的地形。来自有自己地形的附加"
+"组件的地图需要该附加组件告诉编辑器它们的地形。"
 
 #. [topic]: id=..editor_mode_terrain
+#, fuzzy
 msgid ""
 "The terrain editor’s functionality is similar to a simple paint "
 "application.\n"
@@ -634,16 +791,28 @@ msgid ""
 "resulting map can be found in the “Custom Maps” game type of the multiplayer "
 "“Create Game” dialog."
 msgstr ""
+"地形编辑器的功能类似于一个简单的绘画应用。\n"
+"\n"
+"右侧边栏从上到下包含迷你地图、工具包（见每个工具的页面）、工具选项和"
+"<ref>dst='editor_palette' text='Palette'</ref>。\n"
+"\n"
+"当使用 \"地图另存为 \"并保存到默认目录时，产生的地图可以在多人游戏 \"创建游"
+"戏 \"对话框的 \"自定义地图 \"游戏类型中找到。"
 
 #. [topic]: id=..editor_mode_scenario
+#, fuzzy
 msgid ""
 "The scenario editor mode adds support for some map-related WML features, "
 "such as areas and scenery items. Most scenarios will still require "
 "additional WML to be written using a different tool; the scenario editor "
 "does not support scripting the scenario’s events."
 msgstr ""
+"场景编辑器模式增加了对一些与地图有关的WML功能的支持，如区域和场景项目。大多数"
+"场景仍然需要使用不同的工具编写额外的WML；场景编辑器不支持对场景的事件编写脚"
+"本。"
 
 #. [topic]: id=..editor_mode_scenario
+#, fuzzy
 msgid ""
 "<header>text='Checking whether the editor is in scenario mode'</header>\n"
 "\n"
@@ -652,8 +821,15 @@ msgid ""
 "• In scenario mode the “Areas” and “Side” menus are enabled.\n"
 "• In terrain-only mode the “Areas” and “Side” menus are grayed-out."
 msgstr ""
+"<header>text='检查编辑器是否处于场景模式'\n"
+"</header>\n"
+"你可以通过查看菜单栏来检查编辑器处于哪个模式。\n"
+"\n"
+"- 在场景模式下，\"区域 \"和 \"侧面 \"菜单被启用。\n"
+"- 在纯地形模式下，\"区域 \"和 \"侧面 \"菜单是灰色的。"
 
 #. [topic]: id=..editor_mode_scenario
+#, fuzzy
 msgid ""
 "<header>text='Entering scenario mode'</header>\n"
 "\n"
@@ -666,8 +842,18 @@ msgid ""
 "To load a map that was created in the scenario editor, use “Load Map” from "
 "the “File” menu, and select the .cfg file (not a .map file)."
 msgstr ""
+"<header>text='进入情景模式'\n"
+"</header>\n"
+"要在场景模式下开始一张新地图，从 \"文件 \"菜单中选择 \"新场景\"。\n"
+"\n"
+"如果你已经在地形模式下编辑地图，从 \"文件 \"菜单中使用 \"将场景保存为\"；这将"
+"切换到场景模式。\n"
+"\n"
+"要加载在场景编辑器中创建的地图，从 \"文件 \"菜单中使用 \"加载地图\"，并选择."
+"cfg文件（不是.地图文件）。"
 
 #. [topic]: id=..editor_mode_scenario
+#, fuzzy
 msgid ""
 "<header>text='The files: .map and .cfg'</header>\n"
 "\n"
@@ -684,12 +870,25 @@ msgid ""
 "editor may follow the link and open the corresponding .map in terrain-only "
 "mode, as if the .map file was chosen in the file selector."
 msgstr ""
+"<header>text='文件：.map和.cfg'\n"
+"</header>\n"
+"地图编辑器只保存一个文件，即.map（用于地形模式）或.cfg（用于场景模式）。在场"
+"景模式下，地形图被保存在.cfg文件中；没有单独的.map文件。如果你在地形模式下开"
+"始编辑，然后切换到场景模式，那么旧的.地图文件可能会保留下来，但场景编辑器不会"
+"更新。\n"
+"\n"
+"加载一个.cfg文件会有不同的结果，这取决于.cfg文件的内容。对于由场景编辑器创建"
+"的.cfg文件，它将在场景编辑器中打开.cfg。然而，对于使用单独的.map文件（不能由"
+"场景编辑器创建）的.cfg文件，编辑器可能会跟随链接并在仅有地形的模式下打开相应"
+"的.map，就像在文件选择器中选择了.map文件一样。"
 
 #. [topic]: id=editor_separate_events_file
+#, fuzzy
 msgid "Using a separate file for WML events"
-msgstr ""
+msgstr "为WML事件使用一个单独的文件"
 
 #. [topic]: id=editor_separate_events_file
+#, fuzzy
 msgid ""
 "When loading a .cfg file, the scenario editor understands files created by "
 "the scenario editor, but is likely to have difficulty with files that have "
@@ -740,6 +939,46 @@ msgid ""
 "  ◦ inside the [scenario] element, use “map_file=\"map_from_01.cfg\"” to "
 "load that file"
 msgstr ""
+"当加载.cfg文件时，情景编辑器能理解由情景编辑器创建的文件，但对手工编辑过的文"
+"件可能会有困难。\n"
+"\n"
+"由场景编辑器创建的文件省略了开头的[scenario]和结尾的[/scenario]标签。如果你正"
+"在创建一个战役（或其他附加功能），那么需要添加这些标签；在"
+"<ref>dst='editor_map_format' text='地图文件格式'</ref>文档中有更多关于这方面"
+"的细节。\n"
+"\n"
+"一个工作流程是创建一个单独的WML文件，也是以.cfg为扩展名的，它使用WML预处理器"
+"来包含编辑器创建的文件。这个单独的文件同时包含了[scenario]标签和任何手工编辑"
+"的WML，如事件。有了这个工作流程，插件的文件结构可以是这样的。\n"
+"\n"
+"<header>text='For Wesnoth 1.14''。</header>\n"
+"\n"
+"- _main.cfg。\n"
+"  ◦使用 \"{./scenarios}\"来包括 \"scenarios \"目录\n"
+"- maps/map_from_01.cfg\n"
+"  这是由场景编辑器创建的文件\n"
+"- scenarios/01_Forest.cfg，代替开头的[scenario]标签，加入这四行。\n"
+"  o [scenario]\n"
+"  ◦  {~add-ons/NAME_OF_ADD_ON/maps/map_from_01.cfg}\n"
+"  ◦ [/scenario]\n"
+"  ◦ [+scenario]\n"
+"\n"
+"其中前三行在[scenario]标签内插入场景生成的文件。第四行的'+'号意味着两个场景标"
+"签将被合并，第二个标签中的属性将覆盖第一个标签的属性。\n"
+"\n"
+"<header>text='1.16及以后'。</header>\n"
+"\n"
+"如果你的附加组件只在1.16及以后的版本中使用，有新的功能可以通过map_file加载."
+"cfg文件，并避免在.cfg文件中重复附加组件的名字。\n"
+"\n"
+"- _main.cfg。\n"
+"  使用\"[binary_path]\"将add-on的目录添加到二进制路径中，这使得 \"map_file "
+"\"可以搜索 \"maps \"目录。\n"
+"  o 使用 \"{./scenarios}\"来包括 \"场景 \"目录\n"
+"- maps/map_from_01.cfg\n"
+"  这是由场景编辑器创建的文件\n"
+"- scenarios/01_Forest.cfg\n"
+"  在[scenario]元素中，使用 \"map_file=\"map_from_01.cfg\"\"来加载该文件。"
 
 #. [topic]: id=editor_masks
 msgid "Editor Mask Usage"
@@ -758,6 +997,7 @@ msgid "ToD and Schedule Editor"
 msgstr "时间日程编辑器"
 
 #. [topic]: id=editor_time_schedule
+#, fuzzy
 msgid ""
 "This button at the top-right of the screen accesses the time-of-day preview "
 "and the schedule editor.\n"
@@ -768,6 +1008,12 @@ msgid ""
 "In scenario mode, the button accesses an editor for individual schedules for "
 "<ref>dst='editor_named_area' text='time areas'</ref>."
 msgstr ""
+"这个位于屏幕右上方的按钮可以进入时间-日期预览和日程编辑器。\n"
+"\n"
+"在地形模式下，它显示的是一天中不同时间段的地图将被重新着色。\n"
+"\n"
+"在情景模式下，这个按钮可以进入<ref>dst='editor_named_area' text='time "
+"areas'</ref>的单个时间表的编辑器。"
 
 #. [topic]: id=editor_palette
 msgid "Editor Palette"
@@ -775,6 +1021,7 @@ msgstr "编辑器调色板"
 
 #. [topic]: id=editor_palette
 #. the “Player 1”, “Player 2”, ... list is translated using "Player $side_num" in the wesnoth-editor textdomain
+#, fuzzy
 msgid ""
 "The editor palette contains the applicable items you may use with the "
 "currently selected tool. For example, the Paint tool will display a full "
@@ -788,28 +1035,41 @@ msgid ""
 "this is the leftmost of the four buttons at the top of the palette, and the "
 "graphic changes depending on what is selected. Examples:"
 msgstr ""
+"编辑器调色板包含了你可以用当前选择的工具使用的适用项目。例如，绘画工具将显示"
+"所有可用地形的完整列表，而单位工具将提供可用单位的列表。当使用起始位置工具"
+"时，调色板会变成 \"玩家1\"、\"玩家2 \"等的列表。\n"
+"\n"
+"<bold>text='过滤器'</bold>\n"
+"\n"
+"有一个过滤功能，可以只显示可用项目的一个子集--这是调色板顶部四个按钮中最左边"
+"的一个，图形会根据选择的内容而改变。例子。"
 
 #. [topic]: id=editor_palette
+#, fuzzy
 msgid "Show all kinds of terrain"
-msgstr ""
+msgstr "显示所有类型的地形"
 
 #. [topic]: id=editor_palette
+#, fuzzy
 msgid "Show only water terrains"
-msgstr ""
+msgstr "只显示水面地形"
 
 #. [topic]: id=editor_palette
+#, fuzzy
 msgid "Show only villages"
-msgstr ""
+msgstr "只显示村庄"
 
 #. [topic]: id=editor_map_format
 msgid "Wesnoth Map Format"
 msgstr "韦诺地图格式"
 
 #. [topic]: id=editor_map_format
+#, fuzzy
 msgid "Wesnoth stores its maps in human readable plain text files."
-msgstr ""
+msgstr "Wesnoth将其地图存储在人类可读的纯文本文件中。"
 
 #. [topic]: id=editor_map_format
+#, fuzzy
 msgid ""
 "<header>text='Native'</header>\n"
 "\n"
@@ -838,8 +1098,28 @@ msgid ""
 "The <italic>text='map_file'</italic> method is preferred over using a "
 "preprocessor include."
 msgstr ""
+"<header>text='本地'。</header>\n"
+"\n"
+"一个地图文件由带有逗号分隔的地形代码字符串的行组成。地图语法提供的唯一非地形"
+"信息是由<ref>dst='editor_tool_starting' text='Starting Locations Tool'</ref>"
+"创建的位置集。这些文件可以用通用的文本编辑器（如记事本）进行编辑。\n"
+"\n"
+"这些文件可以直接用于多人游戏，玩家的数量由起始位置的数量自动决定。保存在默认"
+"目录下时，可以在多人游戏 \"创建游戏 \"对话框的 \"自定义地图 \"游戏类型中找到"
+"该地图；在出现新创建的地图之前，你可能需要刷新缓存（在标题屏幕上按F5）。\n"
+"\n"
+"这些文件可以在场景的.cfg文件中使用，场景的WML提供额外的信息，如团队、自定义事"
+"件和复杂的侧面设置。.cfg文件在加载地图文件时，可以选择以下任何一种。\n"
+"\n"
+"- map_file=maps/01_First_Map.map<italic>text='- 自Wesnoth 1.14起支持'</"
+"italic>。\n"
+"- map_data=\"{maps/01_First_Map.map}\"<italic>text='- 一个WML预处理程序的附"
+"件'</italic>\n"
+"\n"
+"<italic>text='map_file'</italic>的方法比使用预处理程序的include要好。"
 
 #. [topic]: id=editor_map_format
+#, fuzzy
 msgid ""
 "<header>text='Embedded'</header>\n"
 "\n"
@@ -857,8 +1137,21 @@ msgid ""
 "this is rarely-used code. Maps opened this way are marked (E) in the Window "
 "menu."
 msgstr ""
+"<header>text='嵌入式'</header>\n"
+"\n"
+"地图数据可以作为场景的.cfg文件的一部分，直接存储在<italic>text='map_data'</"
+"italic>属性中。换句话说，在预处理器使用预处理器包含方法时，在预处理器会包含它"
+"的地方。\n"
+"\n"
+"<header>text='在地形模式中使用嵌入式格式'。</header>\n"
+"\n"
+"如果你正在编辑地图，并且不使用场景模式支持，那么在编辑器中打开之前，将数据转"
+"移到本地地图文件是很容易的。建议采用这种转换方式--编辑器支持编辑map_data的内"
+"容，而不触动文件中的其他内容，但这是很少使用的代码。以这种方式打开的地图在窗"
+"口菜单中被标记为（E）。"
 
 #. [topic]: id=editor_map_format
+#, fuzzy
 msgid ""
 "<header>text='Files created by the Scenario Editor'</header>\n"
 "\n"
@@ -869,8 +1162,15 @@ msgid ""
 "<ref>dst='editor_separate_events_file' text='using a separate .cfg file'</"
 "ref> for the hand-edited parts."
 msgstr ""
+"<header>text='由情景编辑器创建的文件'\n"
+"</header>\n"
+"在场景模式下，编辑器将数据保存为内嵌地图数据的.cfg文件。当加载一个.cfg文件"
+"时，场景编辑器能理解由场景编辑器自己创建的文件，但对那些被手工编辑过的文件可"
+"能会有困难；问题可以通过<ref>dst='editor_separate_events_file' text='使用单独"
+"的.cfg文件'</ref>来避免手工编辑的部分。"
 
 #. [topic]: id=editor_map_format
+#, fuzzy
 msgid ""
 "<header>text='Which scenario files use the [scenario] tag'</header>\n"
 "\n"
@@ -890,6 +1190,19 @@ msgid ""
 "needs the [scenario]...[/scenario] (or [multiplayer]...[/multiplayer]) tags "
 "to know which WML is part of each scenario."
 msgstr ""
+"<header>text='哪些场景文件使用[场景]标签'\n"
+"</header>\n"
+"由场景编辑器创建的文件具有WML场景元素的内容，但不包括开头的[scenario]和结尾的"
+"[/scenario]标签。对于userdata文件夹的editor/scenarios子文件夹中的每个.cfg文"
+"件，游戏会自动尝试从其中加载一个场景，以包括在 \"自定义场景 \"列表中（加载失"
+"败的文件被忽略）。在这个文件夹中，每个文件都是一个单独的项目--未能被解析为场"
+"景的文件被忽略，而且文件不能包含[scenario][/scenario]标签。\n"
+"\n"
+"当一个场景是一个战役或其他附加组件的一部分时，情况则相反。通常情况下，每个场"
+"景都有自己的.cfg文件，但这是不必要的--一个附加组件中的所有WML都会被预处理器合"
+"并，无论附加组件是否被写成独立的文件都无所谓。引擎需要[scenario]...[/"
+"scenario]（或[multiplayer]...[/multiplayer]）标签来知道哪些WML是每个场景的一"
+"部分。"
 
 #. [editor_times]: id=deep_underground
 #. [time]: id=deep_underground
@@ -915,10 +1228,12 @@ msgstr "<ref>dst='..geography' text='地理'</ref>"
 
 #. [section]: id=calendar
 #. [topic]: id=..calendar
+#, fuzzy
 msgid "Calendar"
-msgstr ""
+msgstr "日历"
 
 #. [topic]: id=..calendar
+#, fuzzy
 msgid ""
 "Each year in the Wesnoth calendar is composed of 12 months. These are, in "
 "order:\n"
@@ -937,6 +1252,21 @@ msgid ""
 "Blackfire\n"
 "\n"
 msgstr ""
+"Wesnoth日历中的每一年都由12个月组成。这些月份依次是：\n"
+"\n"
+"白火\n"
+"流血的月亮\n"
+"散播的种子\n"
+"深根\n"
+"斯克莱尔之花\n"
+"荆棘女\n"
+"巅峰之星\n"
+"火焰\n"
+"静止的种子\n"
+"死神的月亮\n"
+"维格拉斯之花\n"
+"黑火\n"
+"\n"
 
 #. [section]: id=geography
 #. [topic]: id=..geography
@@ -1389,7 +1719,6 @@ msgstr "入门介绍"
 msgid "Gameplay"
 msgstr "游戏玩法"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 msgid "Traits"
@@ -2083,6 +2412,7 @@ msgstr ""
 "<header>text='多人游戏时代与阵营'</header>"
 
 #. [topic]: id=shroud_and_fog
+#, fuzzy
 msgid ""
 "In multiplayer games, moves that have been sent to the network can’t be "
 "undone; the game delays sending data to try to preserve your undo ability. "
@@ -2091,6 +2421,10 @@ msgid ""
 "move. Chat messages and map labels are sent immediately, however they don’t "
 "cause the undoable moves to be sent."
 msgstr ""
+"在多人游戏中，已经发送至网络的棋步是不能撤销的；游戏会延迟发送数据，以试图保"
+"留你的撤销能力。当与队友讨论时，请记住，其他玩家通常看到的是最后一次战斗或揭"
+"开迷雾的动作时的快照。聊天信息和地图标签会被立即发送，然而它们并不会导致可撤"
+"销的动作被发送。"
 
 #. [topic]: id=saveload
 msgid "Save-loading"
@@ -2128,6 +2462,7 @@ msgstr ""
 "通过场景。"
 
 #. [topic]: id=saveload
+#, fuzzy
 msgid ""
 "Small risks build up for your non-hero units too. While the story and "
 "dialogue usually aim to give you some emotional bond with your troops, the "
@@ -2136,8 +2471,13 @@ msgid ""
 "them in future scenarios. Your battle plan should distribute the risks based "
 "on which troops you want to recall later."
 msgstr ""
+"你的非英雄单位也会有小的风险。虽然故事和对话通常旨在让你与你的部队有一些情感"
+"联系，但游戏机制奖励你记住这只是一个游戏--让这些单位死亡很少有任何惩罚，除了"
+"在未来的场景中无法召回他们之外。你的战斗计划应该根据你以后想召回的部队来分配"
+"风险。"
 
 #. [topic]: id=saveload
+#, fuzzy
 msgid ""
 "The difficulty levels are balanced assuming that the player won’t save-load. "
 "In the mainline campaigns, harder difficulties generally have more enemies "
@@ -2145,6 +2485,9 @@ msgid ""
 "assuming that the player will be able to train enough troops to cope with "
 "losing some level two or level three units."
 msgstr ""
+"困难程度的平衡是假设玩家不会存盘。在主线战役中，较难的难度通常有更多的敌人，"
+"因此有更多的经验值；这导致它们的平衡是假设玩家能够训练足够的部队来应对损失一"
+"些二级或三级单位。"
 
 #. [topic]: id=saveload
 #, fuzzy
@@ -2600,17 +2943,22 @@ msgstr ""
 "是如此。"
 
 #. [topic]: id=orbs
+#, fuzzy
 msgid "Orbs and ellipses"
-msgstr ""
+msgstr "球体和椭圆"
 
 #. [topic]: id=orbs
+#, fuzzy
 msgid ""
 "There are colored indicators above the energy bars of some units, consisting "
 "of a colored orb (and sometimes a <ref>dst='crowns' text='crown'</ref>)."
 msgstr ""
+"在一些单位的能量条上方有彩色的指示器，由一个彩色的球体组成（有时还有"
+"<ref>dst='crownns' text='crown'</ref>）。"
 
 #. [topic]: id=orbs
 #. The help page has a set of images above this paragraph, in the same order as the bullet points
+#, fuzzy
 msgid ""
 "The orbs show whether the unit can move or attack. The statuses and their "
 "standard colors are:\n"
@@ -2636,6 +2984,24 @@ msgid ""
 "• Enemy units normally don’t have orbs, however these can be enabled in the "
 "advanced preference “Customize orb colors”."
 msgstr ""
+"球体显示该单位是否可以移动或攻击。状态和它们的标准颜色是。\n"
+"-<bold>text='绿色'</bold>如果它在本回合既没有移动也没有攻击。\n"
+"-<bold>text='Yellow'</bold>如果它已经移动（或攻击），并且仍然可以攻击。它也可"
+"能还能进一步移动。\n"
+"-<bold>text='Red'</bold>如果它在本回合既不能进一步移动也不能再次攻击。\n"
+"    - 红色也用于 \"结束单位回合 \"命令之后，以及。\n"
+"    - 当一个单位处于一个多回合的移动中（被告知在当前回合中可以移动得更"
+"远）。\n"
+"-<bold>text='红色和黄色'</bold>如果它已经移动（或攻击），仍然可以进一步移动，"
+"但它不能再攻击。\n"
+"    - 这可能是由于战役特定的事件或能力而发生的，例如战役<italic>文本='在燃烧"
+"的太阳下'</italic>中的文本='<italic>脱离'</italic>能力。\n"
+"-<bold>文本='蓝色'</bold>的盟军单位，除了在该盟军自己的回合内。\n"
+"    - 在盟友自己的回合中，他们的单位会被显示，颜色显示单位是否还能移动和攻"
+"击；但是他们的移动，以及相应的球体变化会被延迟，正如"
+"<ref>dst='shroud_and_fog' text='Shroud and Fog of War'</ref>中所解释的。\n"
+"- 敌方单位通常没有球体，但是可以在高级偏好 \"自定义球体颜色 \"中启用这些球"
+"体。"
 
 #. [topic]: id=orbs
 #, fuzzy
@@ -2646,13 +3012,17 @@ msgstr ""
 "<header>text='核心'</header>"
 
 #. [topic]: id=orbs
+#, fuzzy
 msgid ""
 "A team-colored shape is drawn on the ground under each unit. This is called "
 "the “ellipse”, although some units’ ellipses are not elliptical."
 msgstr ""
+"每个单位下面的地面上都画有一个团队颜色的形状。这被称为 \"椭圆\"，尽管有些单位"
+"的椭圆并不是椭圆形的。"
 
 #. [topic]: id=orbs
 #. The help page has a set of images above this paragraph, in the same order as the bullet points
+#, fuzzy
 msgid ""
 "• Most units have a circular ellipse.\n"
 "• Units that can recruit have a seven-pointed star.\n"
@@ -2663,20 +3033,32 @@ msgid ""
 "• Some campaigns start with a level zero leader. Able to recruit but lacking "
 "a ZoC, these units have a broken outline version of the seven-pointed star."
 msgstr ""
+"- 大多数单位有一个圆形的椭圆。\n"
+"- 可以招募的单位有一个七角星。\n"
+"-<ref>dst='皇冠' text='英雄单位'</ref>有一个较小的七角星的变体，这些单位不能"
+"招募。\n"
+"- 没有<ref>dst='运动'text='控制区'</ref>的单位有一个破碎的轮廓版的形状。\n"
+"- 有些战役以零级领导开始。这些单位可以招募，但缺乏控制区，它们的七芒星的轮廓"
+"是破碎的。"
 
 #. [topic]: id=crowns
+#, fuzzy
 msgid "Crowns and loyal markers"
-msgstr ""
+msgstr "冠名和忠诚的标记"
 
 #. [topic]: id=crowns
+#, fuzzy
 msgid ""
 "Some units have an additional marker superimposed on their <ref>dst='orbs' "
 "text='orb'</ref>, and a corresponding shape to their <ref>dst='orbs' "
 "text='ellipses'</ref>:"
 msgstr ""
+"有些单位在其<ref>dst='orbs' text='or</ref>b'上叠加了一个额外的标记，在其"
+"<ref>dst='orbs' text='ellipses'</ref>上也有一个相应的形状。"
 
 #. [topic]: id=crowns
 #. The help page has a set of images above this paragraph, in the same order as the first set of bullet points, showing what the "loyal icon" is and the difference between "silver" and "blueish-silver".
+#, fuzzy
 msgid ""
 "• Leaders are shown with a <bold>text='gold crown'</bold>.\n"
 "• Heroes have a <bold>text='blueish-silver crown'</bold>.\n"
@@ -2698,6 +3080,22 @@ msgid ""
 "campaign, assuming it doesn’t end immediately.\n"
 "• These units will never occur as random recruits."
 msgstr ""
+"- 领导人显示为<bold>text='金冠'</bold>。\n"
+"- 英雄有一个<bold>文本='蓝银色的皇冠'</bold>。\n"
+"- 可消耗的领袖以<bold>text='银色皇冠'</bold>显示。\n"
+"-<ref>dst='traits_loyal' text='忠诚的单位'</ref>有<bold>text='忠诚的图标'</"
+"bold>。\n"
+"\n"
+"在这些类别中，只有领袖是建立在基本游戏规则中的。其他的是在战役中发现的，是构"
+"成叙述的一部分的角色。他们的确切规则是由他们的战役设定的，这可能会偏离对他们"
+"的这些标准期望。\n"
+"\n"
+"- 任何英雄的死亡都会导致立即失败。\n"
+"- 一个可消耗的领导人的死亡不会导致立即失败，即使他们可以招募。\n"
+"- 所有这些单位都有忠诚特质的主要优势，即它们不需要花费维持费。\n"
+"- 失去这些单位中的任何一个，都会在战役的剩余时间内造成劣势，前提是战役不会立"
+"即结束。\n"
+"- 这些单位永远不会作为随机招募的对象出现。"
 
 #. [topic]: id=time_of_day
 msgid "Time of Day"
@@ -3513,12 +3911,14 @@ msgstr ""
 "二是通过聊天窗口输入，请在命令前加上“/”（请先按“m”键来打开聊天窗口）。\n"
 
 #. [topic]: id=general_commands
+#, fuzzy
 msgid ""
 "\n"
 "Similar to the 'fps' command, but also forces everything to redraw instead "
 "of only things that have changed.\n"
 "\n"
 msgstr ""
+"类似于“fps”命令，但同时也会强制进行全局重绘，而不是只重绘有变化的部分。"
 
 #. [topic]: id=general_commands
 msgid ""
@@ -3545,6 +3945,7 @@ msgstr ""
 "\n"
 
 #. [topic]: id=general_commands
+#, fuzzy
 msgid ""
 "\n"
 "Switch a side between human and AI control. The second parameter can be "
@@ -3555,6 +3956,12 @@ msgid ""
 "supplied.\n"
 "\n"
 msgstr ""
+"\n"
+"在人类和人工智能控制之间切换一方。第二个参数可以是 \"关闭\"，使该方处于人类控"
+"制之下，\"打开\"，观察人工智能的动作，或 \"完全\"，使人工智能的回合行为与另一"
+"玩家的回合相似。如果没有提供第二个参数，它将在 \"开 \"和 \"关 \"之间切换。如"
+"果没有提供参数，默认为切换当前活动的一方。\n"
+"\n"
 
 #. [topic]: id=general_commands
 msgid ""
@@ -3953,8 +4360,14 @@ msgid ""
 msgstr "当进行防御时，此单位具有双倍抗性，最高50%。此单位的弱点不受影响。"
 
 #. [chance_to_hit]: id=diversion
+#, fuzzy
 msgid "diversion"
 msgstr ""
+"太好了。我们人数有限，不能和她的军队进行大规模的正面冲突。但是如果发起一场突"
+"袭，我们就能绕过她的防线，直击她的心脏。我的同胞中有很多人渴望和灵魂噬者对"
+"抗，我会在最北边的群岛发起一次佯攻来吸引敌人的注意。我想谢谢你们从人类的手上"
+"救出了我的同胞。他们的命是你们的，他们想报答你们的救命之恩。他们自愿做你们的"
+"向导，护送你们到达目的地。"
 
 #. [chance_to_hit]: id=diversion
 #, fuzzy
@@ -3985,12 +4398,16 @@ msgid "female^leadership"
 msgstr "领导"
 
 #. [leadership]: id=leadership
+#, fuzzy
 msgid ""
 "This unit can lead other troops in battle.\n"
 "\n"
 "All adjacent lower-level units from the same side deal 25% more damage for "
 "each difference in level."
 msgstr ""
+"这支部队可以在战斗中领导其他部队。\n"
+"\n"
+"同一阵营中所有相邻的低级单位，每相差一个等级，就会多造成25%的伤害。"
 
 #. [skirmisher]: id=skirmisher
 msgid "female^skirmisher"
@@ -4049,8 +4466,9 @@ msgstr ""
 "敌方单位将立刻丧失其剩余的全部行动点数。"
 
 #. [hides]: id=burrow
+#, fuzzy
 msgid "burrow"
-msgstr ""
+msgstr "洞穴"
 
 #. [hides]: id=burrow
 #, fuzzy
@@ -4190,8 +4608,9 @@ msgid ""
 msgstr "当用于进攻时，此攻击至少有60%的几率会命中。"
 
 #. [chance_to_hit]: id=deflect
+#, fuzzy
 msgid "deflect"
-msgstr ""
+msgstr "偏转"
 
 #. [chance_to_hit]: id=deflect
 #, fuzzy
@@ -4201,10 +4620,11 @@ msgid ""
 msgstr "当用于进攻时，此攻击至少有60%的几率会命中。"
 
 #. [chance_to_hit]: id=deflect
+#, fuzzy
 msgid ""
 "This unit’s defensive techniques reduce the chance of a successful enemy "
 "attack."
-msgstr ""
+msgstr "这支部队的防御技术减少了敌人攻击成功的机会。"
 
 #. [chance_to_hit]: id=magical
 msgid ""
@@ -4236,19 +4656,22 @@ msgstr ""
 "害。"
 
 #. [damage]: id=absorb
+#, fuzzy
 msgid "absorb"
-msgstr ""
+msgstr "吸收"
 
 #. [damage]: id=absorb
+#, fuzzy
 msgid ""
 "This attack puts the unit in good defensive position, and it absorbs some of "
 "the damage dealt by an enemy strike."
-msgstr ""
+msgstr "这种攻击使该部队处于良好的防御位置，它可以吸收敌人攻击造成的部分伤害。"
 
 #. [damage]: id=absorb
+#, fuzzy
 msgid ""
 "This unit can block enemy strikes, so that it takes reduced damage when hit."
-msgstr ""
+msgstr "这个单位可以阻挡敌人的打击，使其被击中时受到的伤害减少。"
 
 #. [drains]: id=drains
 msgid ""
@@ -4432,10 +4855,7 @@ msgstr "长夜(4)"
 
 #, fuzzy
 msgid "Special Notes:"
-msgstr ""
-"\n"
-"\n"
-"特别提示："
+msgstr "特别备注："
 
 #, fuzzy
 msgid ""
@@ -5320,6 +5740,7 @@ msgid "race^Elves"
 msgstr "精灵"
 
 #. [race]: id=elf
+#, fuzzy
 msgid ""
 "Compared to humans, elves are somewhat taller, more agile but less sturdy. "
 "They have slightly pointy ears, pale skin and usually blond hair. Few "
@@ -5384,6 +5805,48 @@ msgid ""
 "tradition, in both Wesmere and Lintanir, an enchantress from the order of "
 "elven mystics is also called upon to facilitate the transition of power."
 msgstr ""
+"与人类相比，精灵有点高，更敏捷，但不那么结实。他们有略微尖尖的耳朵，皮肤苍"
+"白，通常是金色的头发。人类和精灵之间很少有比精灵异常长寿更明显的差异--除非被"
+"疾病、事故或战争夺去生命，否则大多数人至少能活满两个世纪。虽然一些拥有高度魔"
+"法天赋的精灵被认为可以活得更久，但大多数精灵在250至300岁之间的某个时刻开始变"
+"得身体虚弱，并在此后迅速去世。\n"
+"\n"
+"大多数精灵对未受破坏的大自然有着强烈的感情，并发现自己在开放的、没有植被的地"
+"方感到不舒服。他们主要生活在大洲的森林里，西南的艾特纳森林，西北的威斯米尔，"
+"以及北部的大森林，林塔尼尔森林是其中最南端的边缘。\n"
+"\n"
+"精灵是大陆上最年长的种族，巨魔可能是个例外。他们的许多定居点不能被可靠地确定"
+"日期，无疑已经存在了几千年。\n"
+"\n"
+"<header>text='魔法'</header>\n"
+"虽然精灵与传说中的仙女们是根本不同的生物，但他们的魔法与精灵有某种联系，是他"
+"们异常敏锐的感觉以及长寿的源泉。精灵的魔法分为两种不同的途径，一种侧重于操纵"
+"世俗或自然世界，另一种侧重于对奥术界的占卜。更常见的是改变肉体的方式，这比它"
+"在奥术界的对立面有更明显的效果。虽然精灵的自然魔法不适合战斗，但它利用大地能"
+"量来养育和保护的强大能力是精灵治疗的有效性以及他们森林的美丽和活力的主要原"
+"因。\n"
+"\n"
+"那些走神秘主义道路的人也受到其他精灵的尊敬，但他们的动机和能力往往不为他们的"
+"教团以外的人所了解。一些在神秘主义道路上冒险的人具有更多类似于精灵的特征，获"
+"得非凡的洞察力和长寿，但也变得对冷铁的存在敏感，甚至被烧伤。\n"
+"\n"
+"<header>text='文化'\n"
+"</header>精灵们花了很多时间来磨练他们的天赋和技能。那些不擅长魔法艺术的人通常"
+"会把时间用于磨练他们的身体技能，通常是为了运动的目的。因此，精灵擅长射箭，这"
+"门手艺很容易就能有效地应用于战争。精灵也是著名的音乐家，尤其擅长小型合奏中的"
+"吹奏和弹拨弦乐器。例如，埃特纳林的伊奥利安竖琴是用精灵族紫杉树的优质木材制作"
+"的，因其柔和的音质而成为传奇。\n"
+"\n"
+"<header>text='社会'\n"
+"</header>精灵社会大致分为三个派别：负责保卫森林的伪军事派别，通常是工匠和艺术"
+"家的和平平民，以及保持精灵与精灵联系的治疗师和神秘主义者。负责管理这些不同方"
+"面的是贵族，他们被视为更广泛的社会秩序的仆人，而不是其人民的严格统治者。挑选"
+"这些贵族的过程在不同的精灵议会中有所不同，威斯米尔的管理委员会--卡里安--是选"
+"举产生的，而林塔尼尔的贵族通常是继承的。\n"
+"\n"
+"在纷争时期，指挥的等级制度变得更有适应性，普通贵族会听从于更有战争意识的元"
+"帅。根据传统，在威斯米尔和林塔尼尔，也会召集一名来自精灵神秘主义者组织的女魔"
+"法师来促进权力的交接。"
 
 #. [race]: id=falcon
 msgid "race^Falcon"
@@ -5497,6 +5960,7 @@ msgid "race^Horses"
 msgstr "树人"
 
 #. [race]: id=horse
+#, fuzzy
 msgid ""
 "Domesticated horses come in many shapes and sizes, from mighty war chargers, "
 "to sturdy draught horses or agile stock horses. While they are more fragile "
@@ -5508,6 +5972,13 @@ msgid ""
 "Winged horses, man-horse hybrids, and ghost horses have made their way into "
 "written history, though few can honestly claim to have seen such things."
 msgstr ""
+"驯养的马有许多形状和大小，从强大的战争冲锋队，到结实的吃水马或敏捷的畜力马。"
+"虽然它们比许多野兽更脆弱，但它们的速度和狡猾使野马能够在野外与它们的野生兄弟"
+"们一起茁壮成长。\n"
+"\n"
+"马是许多文明的重要组成部分，因此，有许多以马为中心的神话和故事也就不足为"
+"奇。  有翼的马、人马混血儿和鬼马已经进入了书面历史，尽管很少有人能诚实地声称"
+"见过这些东西。"
 
 #. [race]: id=human
 msgid "race^Human"
@@ -6320,130 +6791,154 @@ msgstr ""
 msgid "Close"
 msgstr "关闭"
 
+#, fuzzy
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #, fuzzy
 msgid "Parse error when parsing help text:"
 msgstr "分析帮助文本时出现分析错误："
 
+#, fuzzy
 msgid "Best of"
-msgstr ""
+msgstr "最佳"
 
+#, fuzzy
 msgid "Worst of"
-msgstr ""
+msgstr "最差"
 
 #, fuzzy
 msgid "Base Terrain: "
-msgstr "地形"
+msgstr "基础地形："
 
+#, fuzzy
 msgid "Movement properties: "
-msgstr ""
+msgstr "移动特性："
 
+#, fuzzy
 msgid "Defense properties: "
-msgstr ""
+msgstr "防御特性："
 
+#, fuzzy
 msgid "Level"
-msgstr ""
+msgstr "等级"
 
 #, fuzzy
 msgid "Advances from: "
-msgstr "升级"
+msgstr "升级自："
 
 #, fuzzy
 msgid "Advances to: "
-msgstr "升级"
+msgstr "升级为："
 
+#, fuzzy
 msgid "Base unit: "
-msgstr ""
+msgstr "基础单位："
 
+#, fuzzy
 msgid "Base units: "
-msgstr ""
+msgstr "基础单位："
 
+#, fuzzy
 msgid "Variations: "
-msgstr ""
+msgstr "变体："
 
 #, fuzzy
 msgid "race^Miscellaneous"
-msgstr "人鱼"
+msgstr "杂项"
 
+#, fuzzy
 msgid "Race: "
-msgstr ""
+msgstr "种族："
 
 #, fuzzy
 msgid "Abilities: "
-msgstr "能力"
+msgstr "能力："
 
+#, fuzzy
 msgid "Ability Upgrades: "
-msgstr ""
+msgstr "能力升级："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
+#, fuzzy
 msgid "HP:"
-msgstr ""
+msgstr "生命："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
+#, fuzzy
 msgid "Moves:"
-msgstr ""
+msgstr "移动："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
+#, fuzzy
 msgid "Vision:"
-msgstr ""
+msgstr "视野："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
+#, fuzzy
 msgid "Jamming:"
-msgstr ""
+msgstr "干扰："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
+#, fuzzy
 msgid "Cost:"
-msgstr ""
+msgstr "费用："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
+#, fuzzy
 msgid "Alignment:"
-msgstr ""
+msgstr "立场："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  It uses
 #. non-breaking spaces to prevent unpleasant line breaks (issue #3256).  In the
 #. translation use non-breaking spaces as appropriate for the target language.
+#, fuzzy
 msgid "Required XP:"
-msgstr ""
+msgstr "所需经验："
 
+#, fuzzy
 msgid "unit help^Attacks"
-msgstr ""
+msgstr "攻击手段"
 
+#, fuzzy
 msgid "unit help^Name"
-msgstr ""
+msgstr "名称"
 
+#, fuzzy
 msgid "Range"
-msgstr ""
+msgstr "射程"
 
+#, fuzzy
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #, fuzzy
 msgid "Special"
-msgstr "武器特效"
+msgstr "特殊"
 
+#, fuzzy
 msgid "Attack Type"
-msgstr ""
+msgstr "攻击类型"
 
+#, fuzzy
 msgid "Resistance"
-msgstr ""
+msgstr "抗性"
 
 #, fuzzy
 msgid "Terrain Modifiers"
-msgstr "地形编辑器"
+msgstr "地形修正"
 
 #, fuzzy
 msgid "Terrain"
@@ -6451,13 +6946,16 @@ msgstr "地形"
 
 #, fuzzy
 msgid "Movement Cost"
-msgstr "移动"
+msgstr "移动消耗"
 
+#, fuzzy
 msgid "Defense Cap"
-msgstr ""
+msgstr "最高防御"
 
+#, fuzzy
 msgid "Vision Cost"
-msgstr ""
+msgstr "视野消耗"
 
+#, fuzzy
 msgid "Jamming Cost"
-msgstr ""
+msgstr "干扰消耗"
