@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:48+0800\n"
+"PO-Revision-Date: 2022-01-12 08:42+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -54,8 +54,9 @@ msgid "Fighter"
 msgstr "战士"
 
 #. [campaign]: id=Under_the_Burning_Suns
+#, fuzzy
 msgid "Difficult"
-msgstr ""
+msgstr "困难"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [advancement]: id=warrior_1
@@ -966,8 +967,9 @@ msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
 msgstr "好吧，越快到达尖塔石越好，我们走吧！"
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
+#, fuzzy
 msgid "Scuttler"
-msgstr ""
+msgstr "斯卡特勒"
 
 #. [message]: speaker=unit
 msgid "Wait. I think I spotted something ahead of us..."
@@ -2419,8 +2421,9 @@ msgid ""
 msgstr "上吧，湖中生物们！履行你们的诺言，帮助我们把这些讨厌的生物驱逐出境。"
 
 #. [message]: speaker=Scylla
+#, fuzzy
 msgid "Yesss, we remember the oath... Sssslay them all!"
-msgstr ""
+msgstr "是的，我们记得誓言...。把他们都杀了!"
 
 #. [message]: speaker=Panok
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
@@ -4239,7 +4242,10 @@ msgstr ""
 #. [message]
 #, fuzzy
 msgid "No, it’s a... human?"
-msgstr "不，它是个精灵！"
+msgstr ""
+"一天一只狮鹫兽尖叫着回来报信：一大队精灵正从东边过来。很快他们给精灵发去消"
+"息，询问对方的目的。对方傲慢地回复说：他们想干什么不关矮人和人类的事，精灵接"
+"近的时候，矮人和人类最好躲在自己的洞里。"
 
 #. [message]: speaker=Dwarf Sergeant
 #, fuzzy
@@ -4250,7 +4256,7 @@ msgstr "什么？！好吧，首要任务，兄弟们，杀死这个入侵者！
 #. "it" is referring to the dust devil
 #, fuzzy
 msgid "No, it’s a... what is that?"
-msgstr "没有，那是什么？"
+msgstr "好，让我们看看门后面有什么。"
 
 #. [message]: speaker=Dwarf Sergeant
 #. 'earth’s guts' references the underground. What is being talked about is the dust devil.
@@ -6146,8 +6152,9 @@ msgid "Look, daylight! I think we finally made it out of the caves!"
 msgstr "看，阳光！我们终于走出洞穴了！"
 
 #. [message]: speaker=Nym
+#, fuzzy
 msgid "Kaleh? Zhul? I’m still stuck back here..."
-msgstr ""
+msgstr "Kaleh?朱尔？我仍然被困在这里..."
 
 #. [message]: speaker=$explorer.id
 msgid ""
@@ -6160,8 +6167,9 @@ msgid "Kaleh, I think you should come up and see this."
 msgstr "卡勒，来看这个。"
 
 #. [message]: speaker=Kaleh
+#, fuzzy
 msgid "Ack, I’m surrounded by water!"
-msgstr ""
+msgstr "咳，我被水包围了!"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -7268,24 +7276,30 @@ msgid "Several hours pass..."
 msgstr "几小时后。。。"
 
 #. [event]
+#, fuzzy
 msgid "Jezhar"
-msgstr ""
+msgstr "杰扎尔"
 
 #. [message]: speaker=Dummy Unit7
+#, fuzzy
 msgid ""
 "Eastern scouts, reporting back! If you like sand and hot dust, there’s "
 "plenty more out there! No water, or signs of others, we had to turn back."
 msgstr ""
+"东部侦察员，汇报情况!如果你喜欢沙子和热尘，那里还有很多!没有水，也没有其他人"
+"的迹象，我们不得不折返。"
 
 #. [message]: speaker=Kaleh
+#, fuzzy
 msgid ""
 "No shame in that, Jezhar. Of all the scouts, only Tanstafaal and Nym have "
 "yet to return."
-msgstr ""
+msgstr "这并不丢人，杰扎尔。所有的侦察员中，只有坦斯塔法尔和尼姆还没有回来。"
 
 #. [message]: speaker=Zhul
+#, fuzzy
 msgid "And that has me worried. What if-"
-msgstr ""
+msgstr "这让我很担心。如果..."
 
 #. [message]: speaker=Zhul
 msgid "In Eloh’s name, Nym, you look terrible. Are you well?"
@@ -7417,9 +7431,10 @@ msgid "Thank you, Nym. I am not very good at fighting on the dry ground."
 msgstr "谢谢你。我不适于在干燥的地面战斗。"
 
 #. [message]: speaker=Kaleh
+#, fuzzy
 msgid ""
 "With you back, Nym, the only scouts yet to return are Tanstafaal’s group."
-msgstr ""
+msgstr "你回来了，尼姆，唯一还没有回来的侦察兵是坦斯塔法尔的小组。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -7962,9 +7977,10 @@ msgstr ""
 "的。这是你们的命运。"
 
 #. [print]
+#, fuzzy
 msgid ""
 "$(16 - $turn_number) turns remain to free $number_merfolk_caged| merfolk"
-msgstr ""
+msgstr "剩余回合数为$(16-$turn_number)，以释放$number_merfolk_caged| merfolk。"
 
 #. [event]
 #. [unit]: type=Necromancer, id=Hekuba
@@ -8795,6 +8811,7 @@ msgstr ""
 
 #. [message]: type=Mermaid Priestess,Mermaid Diviner,Mermaid Enchantress,Mermaid Siren
 #. [message]: race=merman
+#, fuzzy
 msgid ""
 "We have picked up some knowledge of piloting while spying on the humans and "
 "we have some magical skill for controlling the winds. Once out on the open "
@@ -8802,6 +8819,9 @@ msgid ""
 "pressing and our leader lives too far out in the waters to make this voyage "
 "twice."
 msgstr ""
+"我们在监视人类的时候学到了一些驾驶的知识，我们还有一些控制风向的神奇技能。一"
+"旦出了公海，我们的旅程应该是迅速的，而且不会有危险。此外，时间紧迫，我们的首"
+"领住在太远的水域，无法进行两次这样的航行。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -11668,12 +11688,14 @@ msgstr ""
 "是他所到之处必会有死亡却是明白无误的。"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "dagger"
-msgstr ""
+msgstr "匕首"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "throwing knives"
-msgstr ""
+msgstr "飞刀"
 
 #. [unit_type]: id=Quenoth Archer, race=quenoth
 msgid "Quenoth Archer"
@@ -11785,6 +11807,7 @@ msgid "Dustbok"
 msgstr "尘羚"
 
 #. [unit_type]: id=Quenoth Dustbok, race=monster
+#, fuzzy
 msgid ""
 "Dustboks are nimble, graceful creatures whose timid and peaceful nature "
 "stands in sharp contrast to the harsh land in which they live. Because the "
@@ -11794,6 +11817,11 @@ msgid ""
 "the death of many a foolish dustbok, it has made them excellent partners to "
 "the Quenoth Elves, who value their speed and agility."
 msgstr ""
+"土拨鼠是一种灵活、优雅的生物，其胆小和和平的天性与它们生活的严酷土地形成了鲜"
+"明的对比。由于烧焦的土地不能支持畜群或甚至领土邻居，尘土飞扬是孤独的流浪者，"
+"但仍然是社会的，好奇的，并愿意与任何人合作，如果它导致了食物。虽然这种行为导"
+"致了许多愚蠢的尘土飞扬的死亡，但这也使他们成为昆仑山精灵的优秀伙伴，因为昆仑"
+"山精灵看重他们的速度和敏捷性。"
 
 #. [unit_type]: id=Quenoth Fighter, race=quenoth
 msgid "Quenoth Fighter"
@@ -12469,22 +12497,28 @@ msgid "race^Quenoth Elves"
 msgstr "奎诺精灵"
 
 #. [race]: id=quenoth
+#, fuzzy
 msgid ""
 "Compared to the elves of the Great Continent around the time of Wesnoth, the "
 "Quenoth Elves are far more suited to life in the desert."
-msgstr ""
+msgstr "与Wesnoth时代前后大洲的精灵相比，昆仑山的精灵更适合在沙漠中生活。"
 
 #. [race]: id=hidden_race, description=<img>src=units/unknown-unit.png~RC(magenta>red) align=left float=yes</img>
+#, fuzzy
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. [race]: id=hidden_race, description=<img>src=units/unknown-unit.png~RC(magenta>red) align=left float=yes</img>
+#, fuzzy
 msgid ""
 "\n"
 "\n"
 "The race of this unit cannot be revealed yet. You must discover it in the "
 "game to be allowed to see its description."
 msgstr ""
+"\n"
+"\n"
+"这个单位的种族还不能透露。你必须在游戏中发现它才能被允许看到它的描述。"
 
 #. [special_note]
 #, fuzzy
@@ -12525,7 +12559,7 @@ msgstr ""
 msgid ""
 "This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
-msgstr " 此单位的近战攻击可以摧垮敌方的防御，使得他们无法以最佳状态反击。"
+msgstr "此单位的近战攻击可以压垮敌方的防御，使其无法全力反击。"
 
 #. [dummy]: id=formation
 msgid "formation"
@@ -12616,8 +12650,8 @@ msgid ""
 "This unit is capable of distracting opponents, allowing allied units to "
 "trespass their Zones of Control and move unhindered around them."
 msgstr ""
-"此单位可以使对手分神，让友方单位可以随意穿过对手的控制区域，在他们身边毫无障"
-"碍地穿行。"
+"该单位拥有转移对手注意力的能力，可以让友军进入敌人的控制区域并不受阻碍地在对"
+"手周围移动。"
 
 #. [dummy]: id=support
 msgid "support"
@@ -12729,8 +12763,9 @@ msgid "refreshed"
 msgstr "恢复"
 
 #. Floating text shown when Garak's teaching ability transfers experience points
+#, fuzzy
 msgid "+$amount XP"
-msgstr ""
+msgstr "+$amount XP"
 
 #. [part]
 msgid ""
@@ -13505,7 +13540,7 @@ msgstr "岩浆"
 #. [terrain_type]: id=gray_utbs_water
 #, fuzzy
 msgid "Shallow Water"
-msgstr "圣水"
+msgstr "浅水"
 
 #. [terrain_type]: id=gray_utbs_water
 #, fuzzy

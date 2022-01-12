@@ -1,56 +1,71 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2020-08-25 23:55 UTC\n"
+"PO-Revision-Date: 2022-01-12 08:45+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [advancement]: id=amla_default
+#, fuzzy
 msgid "Max HP bonus +6%"
-msgstr ""
+msgstr "最大HP奖励+6%"
 
+#, fuzzy
 msgid "heroic"
-msgstr ""
+msgstr "heroic"
 
+#, fuzzy
 msgid "female^heroic"
-msgstr ""
+msgstr "女性^英雄主义"
 
+#, fuzzy
 msgid "expert"
-msgstr ""
+msgstr "专家"
 
+#, fuzzy
 msgid "female^expert"
-msgstr ""
+msgstr "女性^专家"
 
+#, fuzzy
 msgid "epic"
-msgstr ""
+msgstr "史诗"
 
+#, fuzzy
 msgid "female^epic"
-msgstr ""
+msgstr "女生^epic"
 
+#, fuzzy
 msgid "Always AMLA with 60 XP and raises maximum health by 6 HP."
-msgstr ""
+msgstr "始终是AMLA，有60个XP，并将最大健康值提高6HP。"
 
+#, fuzzy
 msgid "legendary"
-msgstr ""
+msgstr "传说中的"
 
+#, fuzzy
 msgid "female^legendary"
-msgstr ""
+msgstr "女性^传说中的"
 
+#, fuzzy
 msgid "Special advancement to Chocobone enabled."
-msgstr ""
+msgstr "启用Chocobone的特别推进。"
 
+#, fuzzy
 msgid "Special advancement to Goblin Pillager enabled."
-msgstr ""
+msgstr "启用对哥布林掠夺者的特别推进。"
 
+#, fuzzy
 msgid "World Conquest"
-msgstr ""
+msgstr "征服世界"
 
+#, fuzzy
 msgid ""
 "Units are defined as pairs in recruit list: Every time a unit is recruited, "
 "it is replaced by its pair. This era is designed to be balanced playing "
@@ -58,512 +73,697 @@ msgid ""
 "Includes an in-game help to know pairs status, with a right-click on an "
 "empty hex."
 msgstr ""
+"单位被定义为招募列表中的一对。每当一个单位被招募，它就会被它的配对所取代。这"
+"个时代的设计是为了平衡《征服世界II》的游戏。\n"
+"包括游戏中的帮助，可以通过右键点击空的六角星来了解配对的状态。"
 
+#, fuzzy
 msgid "The Horde"
-msgstr ""
+msgstr "部队"
 
+#, fuzzy
 msgid "The Alliance"
-msgstr ""
+msgstr "联盟"
 
+#, fuzzy
 msgid "The Guild"
-msgstr ""
+msgstr "公会"
 
+#, fuzzy
 msgid "The Trust"
-msgstr ""
+msgstr "怎么了，卡勒？你不信任我们吗？"
 
+#, fuzzy
 msgid "The Gang"
 msgstr ""
+"这终究并不是什么难事。一小群精灵，一两个黑暗巫师，一伙兽人和几个亡灵。对我们"
+"这群人来说真的只是一天工夫而已。"
 
+#, fuzzy
 msgid "The Cult"
-msgstr ""
+msgstr "邪教"
 
+#, fuzzy
 msgid "The Militia"
-msgstr ""
+msgstr "民兵"
 
+#, fuzzy
 msgid "The Scourge"
-msgstr ""
+msgstr "祸害"
 
+#, fuzzy
 msgid "The Hand"
-msgstr ""
+msgstr "但是您看，它在舔我的手。"
 
+#, fuzzy
 msgid "The Empire"
-msgstr ""
+msgstr "帝国"
 
 #. [label]: id=title
 #. [lua]: root_node.on_modified
+#, fuzzy
 msgid "WoCopedia"
-msgstr ""
+msgstr "禾谷百科全书》(WoCopedia)"
 
 #. [label]: id=title
 #. [lua]: preshow
+#, fuzzy
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #. [label]
+#, fuzzy
 msgid "Difficulty"
-msgstr ""
+msgstr "难度"
 
 #. [label]: id=title
+#, fuzzy
 msgid "Choose a bonus for your team"
-msgstr ""
+msgstr "为你的团队选择奖金"
 
 #. [label]: id=title
+#, fuzzy
 msgid "You got"
-msgstr ""
+msgstr "你有"
 
 #. [button]: id=ok
+#, fuzzy
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #. [label]: id=title
+#, fuzzy
 msgid "Pick up item?"
-msgstr ""
+msgstr "提取物品？"
 
 #. [button]: id=res_yes
+#, fuzzy
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #. [button]: id=res_no
+#, fuzzy
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #. [label]: id=title
+#, fuzzy
 msgid "Map Settings"
-msgstr ""
+msgstr "地图设置"
 
 #. [label]
+#, fuzzy
 msgid " players: "
-msgstr ""
+msgstr "玩家："
 
 #. [label]
+#, fuzzy
 msgid " scenario: "
-msgstr ""
+msgstr "场景设置"
 
 #. [label]
+#, fuzzy
 msgid " map: "
-msgstr ""
+msgstr "地图。"
 
+#, fuzzy
 msgid "$name|'s pet"
-msgstr ""
+msgstr "名义上的宠物"
 
+#, fuzzy
 msgid "Defeat all enemy leaders and commanders"
-msgstr ""
+msgstr "打败所有敌人的领导人和指挥官"
 
+#, fuzzy
 msgid "Turns run out"
-msgstr ""
+msgstr "回合耗尽"
 
+#, fuzzy
 msgid "Lose your leader and all your commanders"
-msgstr ""
+msgstr "失去你的领袖和所有的指挥官"
 
+#, fuzzy
 msgid "An in-game help is available: right-click on any empty hex."
-msgstr ""
+msgstr "游戏中的帮助是可用的：右键点击任何一个空的六角。"
 
+#, fuzzy
 msgid "Tell me how my recruit works"
-msgstr ""
+msgstr "告诉我我的新兵如何工作"
 
+#, fuzzy
 msgid ""
 "Every time you recruit a unit, it is replaced in your recruit list by its "
 "pair. The following pairs can also be found here:"
 msgstr ""
+"每当你招募一个单位时，它在你的招募列表中就会被它的配对所取代。以下的配对也可"
+"以在这里找到。"
 
 #. [lua]: wesnoth.wml_actions.wc2_recruit_info
+#, fuzzy
 msgid "You are not using a WC2 faction."
-msgstr ""
+msgstr "你没有使用WC2的派别。"
 
 #. [lua]: artifacts.give_item
+#, fuzzy
 msgid "I cannot pick up that item."
-msgstr ""
+msgstr "我不能拿起那个项目。"
 
 #. [lua]: wesnoth.wml_actions.wc2_show_item_info
+#, fuzzy
 msgid "Remind me what this item does"
-msgstr ""
+msgstr "提醒我这个项目是做什么的"
 
 #. [lua]: wesnoth.wml_actions.wc2_place_bonus
+#, fuzzy
 msgid "place"
-msgstr ""
+msgstr "地点"
 
 #. [lua]: span_font_family
+#, fuzzy
 msgid "$name's $type"
-msgstr ""
+msgstr "名的$类型"
 
 #. [lua]: bonus.found_artifact
+#, fuzzy
 msgid "Hey, I found some treasure!"
-msgstr ""
+msgstr "嘿，我发现了一些宝藏!"
 
 #. [lua]: bonus.found_hero
 #. [lua]: bonus.found_training
+#, fuzzy
 msgid "Someone is here!"
-msgstr ""
+msgstr "有人死在这儿了。"
 
+#, fuzzy
 msgid "Bane"
 msgstr ""
+"韦诺的军队中有前途的矛兵通常会得到晋升而使用长矛，身上披挂的护甲也比他们还是"
+"新兵时的杂牌皮甲要好得多。因为长矛比普通的矛要长，因此所采用的战术也就不同。"
+"长矛兵组成的人墙是骑兵冲锋的克星。同时，纪律严明、战术清晰的长矛兵也能对抗绝"
+"大多数类型的其他步兵。"
 
+#, fuzzy
 msgid "Cargo"
 msgstr ""
+"Cargo | By <a href=\"https://www.gouwo8.com\" target=\"_blank\" rel="
+"\"noopener\">狗窝吧汉化</a>"
 
+#, fuzzy
 msgid "Disaster"
-msgstr ""
+msgstr "灾难性"
 
+#, fuzzy
 msgid "Expedition"
-msgstr ""
+msgstr "远征"
 
+#, fuzzy
 msgid "Massacre"
-msgstr ""
+msgstr "大屠杀"
 
+#, fuzzy
 msgid "Point"
-msgstr ""
+msgstr "积分"
 
+#, fuzzy
 msgid "Rest"
-msgstr ""
+msgstr "Rest"
 
+#, fuzzy
 msgid "Rocks"
-msgstr ""
+msgstr "岩石"
 
+#, fuzzy
 msgid "Route"
-msgstr ""
+msgstr "路由"
 
+#, fuzzy
 msgid "Ruin"
-msgstr ""
+msgstr "毁灭"
 
+#, fuzzy
 msgid "Vestige"
-msgstr ""
+msgstr "缁嶂"
 
+#, fuzzy
 msgid "Waters"
-msgstr ""
+msgstr "脆弱的冰层在重装武士的脚下塌陷了，他淹死在山脉中冰冷的水里。"
 
+#, fuzzy
 msgid "Curse"
-msgstr ""
+msgstr "诅咒"
 
+#, fuzzy
 msgid "Exile"
-msgstr ""
+msgstr "流亡者"
 
+#, fuzzy
 msgid "Lair"
 msgstr ""
+"这些洞穴曾经是具有传奇色彩的古老蛇怪“查克索·内伊克斯”的藏身之处。那些被他石化"
+"的受害者们，至今仍是他那狂暴力量的纪念碑。"
 
+#, fuzzy
 msgid "Passage"
-msgstr ""
+msgstr "这路是个死胡同。"
 
+#, fuzzy
 msgid "Death"
-msgstr ""
+msgstr "死亡"
 
+#, fuzzy
 msgid "Quagmire"
-msgstr ""
+msgstr "泥潭"
 
+#, fuzzy
 msgid "Cemetery"
-msgstr ""
+msgstr "墓地"
 
+#, fuzzy
 msgid "Desert"
-msgstr ""
+msgstr "沙漠"
 
+#, fuzzy
 msgid "Desolation"
 msgstr ""
+"我一直希望能看到这把剑回到人鱼，它真正的所有者的手中。如果你能取回它，你就能"
+"证明自己值得我尽我所能来帮助。我不知道应该去哪里找这把剑，但我认识一个人，他"
+"知道。荒芜沼泽的南边，一座坍塌的城堡附近，住着一位名叫卡拉东的法师。他垂涎宝"
+"剑已有多年，他一定知道该去哪里找到持有这把宝剑的巫妖。"
 
+#, fuzzy
 msgid "Despair"
-msgstr ""
+msgstr "你是这么认为的吗？我会证明你是错的。看看外面你的族人，绝望吧！"
 
+#, fuzzy
 msgid "Wasteland"
-msgstr ""
+msgstr "不毛之地"
 
+#, fuzzy
 msgid "Destruction"
-msgstr ""
+msgstr "毁坏"
 
+#, fuzzy
 msgid "Cave"
-msgstr ""
+msgstr "洞穴"
 
+#, fuzzy
 msgid "Graveyard"
-msgstr ""
+msgstr "墓地"
 
+#, fuzzy
 msgid "Grotto"
-msgstr ""
+msgstr "石窟"
 
+#, fuzzy
 msgid "Bog"
-msgstr ""
+msgstr "沼泽"
 
+#, fuzzy
 msgid "Hideout"
-msgstr ""
+msgstr "藏身处"
 
+#, fuzzy
 msgid "Den"
-msgstr ""
+msgstr "穴位"
 
+#, fuzzy
 msgid "Dungeon"
-msgstr ""
+msgstr "地牢"
 
+#, fuzzy
 msgid "Mine"
-msgstr ""
+msgstr "我的"
 
+#, fuzzy
 msgid "Secret"
-msgstr ""
+msgstr "密钥"
 
+#, fuzzy
 msgid "Crypt"
-msgstr ""
+msgstr "墓室"
 
+#, fuzzy
 msgid "Dream"
-msgstr ""
+msgstr "梦想"
 
+#, fuzzy
 msgid "Mausoleum"
-msgstr ""
+msgstr "陵墓"
 
+#, fuzzy
 msgid "Ossuary"
-msgstr ""
+msgstr "骨灰龛"
 
+#, fuzzy
 msgid "Peak"
-msgstr ""
+msgstr "顶峰"
 
+#, fuzzy
 msgid "Quarry"
-msgstr ""
+msgstr "采石场"
 
+#, fuzzy
 msgid "Site"
-msgstr ""
+msgstr "站点"
 
+#, fuzzy
 msgid "Destiny"
 msgstr ""
+"她说你会来的。你们可能可以击败我们，但是没有人能对抗她。你们最终还是会屈服"
+"的。这是你们的命运。"
 
+#, fuzzy
 msgid "Domain"
-msgstr ""
+msgstr "域名"
 
+#, fuzzy
 msgid "Door"
-msgstr ""
+msgstr "门"
 
+#, fuzzy
 msgid "Gate"
-msgstr ""
+msgstr "门"
 
+#, fuzzy
 msgid "Armory"
-msgstr ""
+msgstr "军械库"
 
+#, fuzzy
 msgid "Enclave"
-msgstr ""
+msgstr "所以你们精灵在我们的地盘上建立了飞地。但是为什么？"
 
+#, fuzzy
 msgid "Fair"
-msgstr ""
+msgstr "一般级别"
 
+#, fuzzy
 msgid "Festival"
-msgstr ""
+msgstr "节日"
 
+#, fuzzy
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
+#, fuzzy
 msgid "Path"
-msgstr ""
+msgstr "路径"
 
+#, fuzzy
 msgid "Road"
-msgstr ""
+msgstr "道路"
 
+#, fuzzy
 msgid "Tournament"
-msgstr ""
+msgstr "锦标赛"
 
+#, fuzzy
 msgid "Refuge"
-msgstr ""
+msgstr "避难所"
 
+#, fuzzy
 msgid "Memory"
-msgstr ""
+msgstr "内存"
 
+#, fuzzy
 msgid "Rock"
-msgstr ""
+msgstr "岩石"
 
+#, fuzzy
 msgid "Triumph"
 msgstr ""
+"苏内达因之柱。他是一位传奇式的矮人领主，在这里他坚守直到最后一息。愿我们能在"
+"他倒下的地方获胜。"
 
+#, fuzzy
 msgid "Monolith"
-msgstr ""
+msgstr "巨石"
 
+#, fuzzy
 msgid "Obelisk"
-msgstr ""
+msgstr "方尖碑"
 
+#, fuzzy
 msgid "Desire"
-msgstr ""
+msgstr "欲望"
 
+#, fuzzy
 msgid "Well"
-msgstr ""
+msgstr "井"
 
+#, fuzzy
 msgid "Cliff"
 msgstr ""
+"\n"
+"\t\tsuffix=汉姆|布里|屯|蒙特|蒙特|克里夫|克里夫\n"
+"\t\tmain=$base{!}{suffix}\n"
+"\t"
 
+#, fuzzy
 msgid "Plateau"
-msgstr ""
+msgstr "高原"
 
+#, fuzzy
 msgid "Bay"
-msgstr ""
+msgstr "湾区"
 
+#, fuzzy
 msgid "Coast"
-msgstr ""
+msgstr "海岸"
 
+#, fuzzy
 msgid "Harbor"
-msgstr ""
+msgstr "ㄗ髡叩ノ唬?"
 
+#, fuzzy
 msgid "Lighthouse"
-msgstr ""
+msgstr "灯塔"
 
+#, fuzzy
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
+#, fuzzy
 msgid "Seaport"
-msgstr ""
+msgstr "海港"
 
+#, fuzzy
 msgid "Shore"
-msgstr ""
+msgstr "岸边"
 
+#, fuzzy
 msgid "Beacon"
-msgstr ""
+msgstr "灯塔"
 
+#, fuzzy
 msgid "Signal"
-msgstr ""
+msgstr "信号"
 
+#, fuzzy
 msgid "Marsh"
-msgstr ""
+msgstr "沼泽"
 
+#, fuzzy
 msgid "Delirium"
-msgstr ""
+msgstr "谵妄"
 
+#, fuzzy
 msgid "Conclave"
-msgstr ""
+msgstr "协进会"
 
+#, fuzzy
 msgid "Farm"
-msgstr ""
+msgstr "农场"
 
+#, fuzzy
 msgid "Field"
-msgstr ""
+msgstr "字段"
 
+#, fuzzy
 msgid "Granary"
-msgstr ""
+msgstr "粮仓"
 
+#, fuzzy
 msgid "Grassland"
-msgstr ""
+msgstr "草原"
 
+#, fuzzy
 msgid "Meadow"
-msgstr ""
+msgstr "草 地"
 
+#, fuzzy
 msgid "Prairie"
-msgstr ""
+msgstr "草 原"
 
+#, fuzzy
 msgid "Shire"
-msgstr ""
+msgstr "希尔"
 
+#, fuzzy
 msgid "Windmill"
-msgstr ""
+msgstr "风车"
 
+#, fuzzy
 msgid "Outpost"
-msgstr ""
+msgstr "前哨站"
 
+#, fuzzy
 msgid "Shelter"
-msgstr ""
+msgstr "庇护所"
 
+#, fuzzy
 msgid "Altar"
-msgstr ""
+msgstr "圣坛"
 
+#, fuzzy
 msgid "Oracle"
-msgstr ""
+msgstr "Oracle"
 
+#, fuzzy
 msgid "Academy"
-msgstr ""
+msgstr "学院"
 
+#, fuzzy
 msgid "Library"
-msgstr ""
+msgstr "库"
 
+#, fuzzy
 msgid "Sanctuary"
-msgstr ""
+msgstr "庇护所"
 
+#, fuzzy
 msgid "School"
-msgstr ""
+msgstr "学校"
 
+#, fuzzy
 msgid "Shrine"
 msgstr ""
+"冰冷的死亡便将扼住你，你感到自己的灵魂离开了躯体。你意识到，很快你便将落入和"
+"神殿的幻影守卫一样的命运。"
 
+#, fuzzy
 msgid "Temple"
-msgstr ""
+msgstr "神庙"
 
+#, fuzzy
 msgid "Decay"
-msgstr ""
+msgstr "衰减  Decay"
 
+#, fuzzy
 msgid "Moor"
-msgstr ""
+msgstr "莫尔"
 
+#, fuzzy
 msgid "Perversion"
-msgstr ""
+msgstr "变态"
 
+#, fuzzy
 msgid "Glade"
-msgstr ""
+msgstr "格莱德"
 
+#, fuzzy
 msgid "Tree"
-msgstr ""
+msgstr "树"
 
+#, fuzzy
 msgid "Observatory"
-msgstr ""
+msgstr "观察站"
 
+#, fuzzy
 msgid "Tower"
-msgstr ""
+msgstr "塔筒"
 
 #. [lua]: wc2_invest.invest
+#, fuzzy
 msgid "WC2 Invest"
-msgstr ""
+msgstr "WC2投资"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Artifacts"
 msgstr ""
+"矮人旷工是矮人社会的底层工人。他们从地里挖出宝贵的矿物，但从来都不参与武器或"
+"其他铸造品的铸造。他们没有受过军事训练，但还是能用镐子造成一些伤害。"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Heroes"
-msgstr ""
+msgstr "呀，我们要成英雄了！"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid ""
 "Commanders will take your leader’s place when the leader dies, possible "
 "commanders:"
-msgstr ""
+msgstr "指挥官将在领袖死亡时取代你的领袖的位置，可能的指挥官。"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Commander"
-msgstr ""
+msgstr "指挥官"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "promote to leader"
-msgstr ""
+msgstr "提升为领导"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "possible units:"
-msgstr ""
+msgstr "可能的单位。"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Deserter"
-msgstr ""
+msgstr "逃亡者"
 
 #. [lua]: gui.widget.add_invest_item
 #. [lua]: preshow
+#, fuzzy
 msgid "Training"
-msgstr ""
+msgstr "培训"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "$name Training"
-msgstr ""
+msgstr "$名称 培训"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "After:"
-msgstr ""
+msgstr "之后："
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Before:"
-msgstr ""
+msgstr "之前："
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "+70 gold and +1 village"
-msgstr ""
+msgstr "+70金币和+1村庄"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Stock up supplies"
-msgstr ""
+msgstr "囤积物资"
 
 #. [lua]: gui.widget.add_invest_item
+#, fuzzy
 msgid "Gives 70 gold and places a village on your keep."
-msgstr ""
+msgstr "给予70金币，并在你的守卫上放置一个村庄。"
 
+#, fuzzy
 msgid "No! This is the end!"
-msgstr ""
+msgstr "不，这才是结束。"
 
+#, fuzzy
 msgid "Don’t lose heart comrades, we can still win this battle."
-msgstr ""
+msgstr "同志们不要灰心，我们仍然可以赢得这场战斗。"
 
 msgid ""
 "Aban,Abidin,Acacalide,Acimaëli,Acratoforo,Actarof,Adham,Adnan,Adramitio,Ael-"
@@ -835,341 +1035,473 @@ msgid ""
 msgstr ""
 
 #. [lua]: training.describe_training_level
+#, fuzzy
 msgid "$name Training Maximum Level"
-msgstr ""
+msgstr "名称 培训最高级别"
 
 #. [lua]: training.describe_training_level
+#, fuzzy
 msgid "$name Training level $level"
-msgstr ""
+msgstr "$名称 培训级别 $级别"
 
 #. [lua]: training.describe_training_level2
+#, fuzzy
 msgid "Maximum Level"
-msgstr ""
+msgstr "最高级别"
 
 #. [lua]: training.describe_training_level2
+#, fuzzy
 msgid "level $level"
-msgstr ""
+msgstr "将“$domain|”域切换到“$level|”级别。"
 
 #. [lua]: training.generate_message
+#, fuzzy
 msgid "$chance| chance to $arrow $desc"
-msgstr ""
+msgstr "$chance| chance to $arrow $desc"
 
 #. [lua]: training.apply
+#, fuzzy
 msgid "trained"
 msgstr ""
+"阿雷隆是长弓手，他比普通弓手更为强壮和训练有素。他的箭对没有远程攻击的敌人而"
+"言是致命的。"
 
 #. [lua]: training.apply
+#, fuzzy
 msgid "female^trained"
-msgstr ""
+msgstr "女性^训练有素"
 
 #. [lua]: training.describe_bonus
+#, fuzzy
 msgid "Nothing to learn here"
-msgstr ""
+msgstr "这里没什么可学的"
 
 #. [lua]: training.describe_bonus
+#, fuzzy
 msgid "From $level_before to $level_after"
-msgstr ""
+msgstr "从$level_before到$level_after"
 
+#, fuzzy
 msgid ""
 "You look like you could use some help. Mind if I join in? It’s been a while "
 "since I had a good fight!"
 msgstr ""
+"你看起来可能需要一些帮助。介意我加入吗？我已经很久没有打过一场漂亮的仗了!"
 
+#, fuzzy
 msgid "Excellent. We could always use more help."
-msgstr ""
+msgstr "很好。我们总是可以使用更多的帮助。"
 
+#, fuzzy
 msgid "’bout time. Been forever since I had a good fight, eh?"
-msgstr ""
+msgstr "'bout time.我已经很久没有打过一场好仗了，是吗？"
 
+#, fuzzy
 msgid "Who you? I help you smash!"
-msgstr ""
+msgstr "你是谁？我帮你打碎!"
 
+#, fuzzy
 msgid ""
 "My clan was destroyed long ago, leaving me to fend for myself. Let me join "
 "your army and I will fight as though your clan was my own!"
 msgstr ""
+"我的部族很久以前就被摧毁了，只剩下我一个人在自生自灭。让我加入你的军队，我将"
+"像你的部族一样战斗!"
 
+#, fuzzy
 msgid "Hey boss. Looks like you’ve got some prey that need killing."
-msgstr ""
+msgstr "嘿，老板。看起来你有一些需要杀死的猎物。"
 
+#, fuzzy
 msgid "I hunts. I join you, I hunts good for you!"
-msgstr ""
+msgstr "我打猎。我加入你，我为你打猎好!"
 
+#, fuzzy
 msgid "Very well. But take care where your dog does its stuff."
-msgstr ""
+msgstr "很好。但要注意你的狗在哪里做它的事情。"
 
+#, fuzzy
 msgid ""
 "Heh, looks like you whelps might be getting in over your heads. Good thing "
 "I’m here now to win this fight for ya, huh?"
 msgstr ""
+"呵，看来你们这些小家伙们可能要在你们的头上动土了。好在我现在在这里为你们赢得"
+"这场战斗，嗯？"
 
+#, fuzzy
 msgid ""
 "I too have come a long way to this strange land. Perhaps we were destined to "
 "join blades here."
-msgstr ""
+msgstr "我也远道而来，来到这片陌生的土地。也许我们注定要在这里加入刀片。"
 
+#, fuzzy
 msgid "Looks like we fished some tasty help."
-msgstr ""
+msgstr "看起来我们钓到了一些美味的帮助。"
 
+#, fuzzy
 msgid "Need a friendly blade?"
-msgstr ""
+msgstr "需要一个友好的刀片吗？"
 
+#, fuzzy
 msgid ""
 "The mother forest sends you her blessings. Let us join together against her "
 "foes."
-msgstr ""
+msgstr "森林之母向你们送上她的祝福。让我们一起对抗她的敌人。"
 
+#, fuzzy
 msgid "Yeah, flower power!"
-msgstr ""
+msgstr "是的，花的力量!"
 
+#, fuzzy
 msgid ""
 "I offer you the service of my arrows and my steed. You will find none that "
 "fly faster than either."
-msgstr ""
+msgstr "我为你提供我的箭和我的马的服务。你会发现没有人比它们飞得更快。"
 
+#, fuzzy
 msgid "Hmm! Welcome, tree-friends. We will pound our enemies into dust!"
-msgstr ""
+msgstr "嗯!欢迎，树友们。我们将把我们的敌人打成灰烬!"
 
+#, fuzzy
 msgid ""
 "Greetings, friends. I am a lone hunter and have no legions of warriors to "
 "offer you, but I will gladly lend my arms to your cause."
 msgstr ""
+"朋友们，你们好。我是一个孤独的猎人，没有战士军团可以提供给你，但我很乐意为你"
+"的事业借出我的武器。"
 
+#, fuzzy
 msgid ""
 "You have come a long way over the ocean, yet I see that you know little of "
 "her ways. Let me show you."
-msgstr ""
+msgstr "你已经远渡重洋，然而我看到你对她的方式知之甚少。让我告诉你。"
 
+#, fuzzy
 msgid ""
 "You’re not from around here, but I seem to find myself between employers at "
 "the moment and I’m not picky. I’ll fight for you, if you’ll have me."
 msgstr ""
+"你不是这里的人，但我似乎发现自己此刻正处于雇主之间，我并不挑剔。如果你愿意的"
+"话，我可以为你而战。"
 
+#, fuzzy
 msgid "Of course. How could a girl say no to a man riding a horse?"
-msgstr ""
+msgstr "当然了。一个女孩怎么能对一个骑马的男人说不呢？"
 
+#, fuzzy
 msgid ""
 "Hurrah! Now THIS is a battle too grand to be missed. Save some for me, eh?"
-msgstr ""
+msgstr "欢呼吧!这是场不容错过的伟大战斗。给我留点吧，嗯？"
 
+#, fuzzy
 msgid ""
 "Ho there, friends! I am but a soldier of humble circumstances, yet long have "
 "I dreamed of joining great wars beyond our shores. Let me join your mission!"
 msgstr ""
+"朋友们，你们好!我只是一个出身卑微的士兵，但长期以来，我一直梦想着加入我们海岸"
+"以外的伟大战争。让我加入你们的任务吧!"
 
+#, fuzzy
 msgid ""
 "Looks like you’re a bit down on your luck, my friends. But now that I am "
 "here, there’s nothing to worry about!"
 msgstr ""
+"看起来你的运气有点不好，我的朋友们。但现在我在这里，没有什么可担心的了！\"。"
 
+#, fuzzy
 msgid ""
 "Finally reinforcements are here! I’ve been pinned down for days. Help me "
 "fight my way out of here and I’ll gladly follow you!"
 msgstr ""
+"援军终于来了!我已经被压制了好几天了。帮我打出一条路来，我很乐意跟随你！\"。"
 
+#, fuzzy
 msgid ""
 "Greetings, my lords. I have watched your battle from afar and yearn to join "
 "such a glorious campaign. I pledge myself to your service!"
 msgstr ""
+"问候您，各位大人。我从远处观看了你们的战斗，并渴望加入这样一场光荣的战役。我"
+"承诺为你们服务!"
 
+#, fuzzy
 msgid ""
 "Long have I studied the ways of lore, and I have much wisdom to offer. Allow "
 "me to guide you on your quest and together we will accomplish great things!"
 msgstr ""
+"我研究传说的方法很久了，我有很多智慧可以提供。请允许我指导你的探索，我们将一"
+"起完成伟大的事情！\"。"
 
+#, fuzzy
 msgid ""
 "I bring greetings from the merfolk. We have heard your plight, and though we "
 "have few warriors to spare among us, I would gladly lend my trident to your "
 "cause."
 msgstr ""
+"我带来了人鱼族的问候。我们已经听说了你的困境，虽然我们中很少有战士，但我很乐"
+"意为你的事业借出我的三叉戟。"
 
+#, fuzzy
 msgid "Having trouble, eh? Never worry, lads, we’ll sort ’em out soon enough!"
-msgstr ""
+msgstr "遇到麻烦了，是吗？别担心，伙计们，我们很快就会把它们解决掉的!"
 
+#, fuzzy
 msgid ""
 "You’ve got me, guv, it’s a fair cop! Just lemme work for you instead. You "
 "won’t regret it, guv, I promise!"
 msgstr ""
+"你抓到我了，头儿，这是个公平的警察！就让我为你工作吧。你不会后悔的，头儿，我"
+"保证！"
 
+#, fuzzy
 msgid ""
 "Listen up, ye primitive screwheads! This... is me BOOM STICK. Lemme show you "
 "what this baby can do!"
 msgstr ""
+"听好了，你们这些原始的螺丝钉!这... 是我的爆炸棒。让我告诉你这个宝贝能做什么！"
 
+#, fuzzy
 msgid ""
 "What, you want my help? A guy like me? Huh, that’s rich. Oh well... let’s "
 "give it a shot, eh?"
 msgstr ""
+"什么，你要我帮忙？一个像我这样的人？哼，这可真有钱。哦，好吧......让我们给它"
+"一个机会，嗯？"
 
+#, fuzzy
 msgid ""
 "A soldier is no good without something to fight for. Let me fight for you!"
-msgstr ""
+msgstr "一个士兵没有为之奋斗的东西是不行的。让我为你而战!"
 
+#, fuzzy
 msgid ""
 "Hey, hey, easy there! I done nothin’ to hurt you. We’re all friends here, "
 "right? Looks like you might be in a tight spot, but don’t worry. No one’s "
 "better at getting out of tight spots than me, boss!"
 msgstr ""
+"嘿，嘿，别紧张！我没有做任何事情来伤害你。我们都是朋友，对吗？看起来你可能陷"
+"入了困境，但别担心。没有人比我更善于摆脱困境了，老板！"
 
+#, fuzzy
 msgid "Chin up, lads. Today is a good day to die!"
-msgstr ""
+msgstr "振作起来，伙计们。今天是个死亡的好日子!"
 
+#, fuzzy
 msgid "Brave words. Welcome to The Fight Club..."
-msgstr ""
+msgstr "勇敢的话语。欢迎来到搏击俱乐部..."
 
+#, fuzzy
 msgid "Brave words. Welcome little big man."
-msgstr ""
+msgstr "勇敢的话语。欢迎小个子男人。"
 
+#, fuzzy
 msgid "Need a hand? Me an’ me bird can get just about anywheres you need."
-msgstr ""
+msgstr "需要帮忙吗？我和我的鸟可以得到你需要的任何地方。"
 
+#, fuzzy
 msgid "Sounds good. You scared me for a moment."
-msgstr ""
+msgstr "听起来不错。你吓了我一跳。"
 
+#, fuzzy
 msgid "Cool. We could always need more air power."
-msgstr ""
+msgstr "酷。我们可能总是需要更多的空中力量。"
 
+#, fuzzy
 msgid ""
 "The ancient spirits tell me my destiny lies with yours. My sword is at your "
 "command."
-msgstr ""
+msgstr "古老的灵魂告诉我，我的命运与你同在。我的剑听从你的指挥。"
 
+#, fuzzy
 msgid ""
 "Stand fast, for I bring you the strength of dragons to assist you in your "
 "battle!"
-msgstr ""
+msgstr "站稳脚跟，因为我给你带来了龙的力量，协助你战斗！\"。"
 
+#, fuzzy
 msgid ""
 "Today is a most auspicious day for you, for I deem you worthy of the power "
 "of dragonfire. Show me your foes and I will incinerate them!"
 msgstr ""
+"今天对你来说是一个最吉祥的日子，因为我认为你值得拥有龙火的力量。向我展示你的"
+"敌人，我将焚烧他们!"
 
+#, fuzzy
 msgid "Perfect. We can always use more firepower."
-msgstr ""
+msgstr "完美。我们总是可以使用更多的火力。"
 
+#, fuzzy
 msgid ""
 "You no fight good enough, no have saurian way. I show you way of saurian!"
-msgstr ""
+msgstr "你没有足够的战斗力，没有索里亚的方式。我告诉你萨乌尔人的方法!"
 
+#, fuzzy
 msgid "Sure, bro..."
-msgstr ""
+msgstr "当然，兄弟..."
 
+#, fuzzy
 msgid ""
 "You may be out to take over the land and the seas, but you’ll never get "
 "anywhere without control of the skies. Fortunately I’m here to help you!"
 msgstr ""
+"你可能会去占领陆地和海洋，但如果不控制天空，你就永远不会有任何进展。幸运的"
+"是，我是来帮助你的!"
 
+#, fuzzy
 msgid ""
 "Tribe fall long time ago, now tribe lost. This last fight of tribe. I fight "
 "with you, make last very great!"
 msgstr ""
+"部落很久以前就倒下了，现在部落失去了。这是部落的最后一次战斗。我和你一起战"
+"斗，让最后的战斗变得非常伟大!"
 
+#, fuzzy
 msgid ""
 "Don’t hit me! I’m just your average regular friendly talking skeleton, see? "
 "Looks like you fellows could use some help!"
 msgstr ""
+"别打我!我只是一个普通的友好的会说话的骷髅，看到了吗？看起来你们这些家伙需要一"
+"些帮助！我的意思是说，你们这些家伙需要一些帮助。"
 
+#, fuzzy
 msgid ""
 "I am called forth from eternal rest, bound to follow he who called me. Show "
 "me the enemy, master!"
-msgstr ""
+msgstr "我被从永恒的安息中呼唤出来，注定要跟随呼唤我的人。让我看到敌人，主人"
 
+#, fuzzy
 msgid ""
 "I say, old sport! It looks like you’ve got a spot of bother. Well, chin up, "
 "I say! I’m sure we’ll make a simply smashing team-up. We can sort this lot "
 "out and be done by tea, what?"
 msgstr ""
+"我说，老伙计！看来你有麻烦了。好了，振作起来，我说！我相信我们会成为一个非常"
+"好的团队。我们可以解决这些问题，并在茶前完成，什么？"
 
+#, fuzzy
 msgid "Have at thee, unholy abomin... wait, huh?"
-msgstr ""
+msgstr "有你，邪恶的憎恶......等等，嗯？"
 
+#, fuzzy
 msgid ""
 "You may not trust me or my reasons, but it seems you are not in a position "
 "to be choosy about your allies. Let me assist you and you just may survive."
 msgstr ""
+"你可能不相信我或我的理由，但看来你没有资格对你的盟友挑三拣四。让我协助你，你"
+"就可能活下来。"
 
+#, fuzzy
 msgid ""
 "Who calls me from my slumber? I sense a great battle being joined. Point me "
 "towards the enemy and I will feast upon their very souls!"
 msgstr ""
+"谁把我从睡梦中唤醒？我感觉到一场伟大的战斗正在加入。把我指向敌人，我将在他们"
+"的灵魂上大快朵颐!"
 
+#, fuzzy
 msgid "Skreeeeeeee!"
-msgstr ""
+msgstr "斯克雷伊！斯克雷伊！斯克雷伊！斯克雷伊！斯克雷伊"
 
+#, fuzzy
 msgid ""
 "This creature seems unusually intelligent for its kind. Perhaps it will help "
 "us!"
-msgstr ""
+msgstr "这种生物对于它的同类来说似乎异常聪明。也许它能帮助我们!"
 
+#, fuzzy
 msgid "You friend are? I friend help!"
-msgstr ""
+msgstr "你的朋友是？我的朋友帮忙!"
 
+#, fuzzy
 msgid "Me friend. We can play together."
-msgstr ""
+msgstr "我的朋友。我们可以一起玩。"
 
+#, fuzzy
 msgid "Ah, please no hurtings me! I helps you, see?"
-msgstr ""
+msgstr "啊，请不要伤害我！我帮助你，看到了吗？"
 
+#, fuzzy
 msgid "Fine. We could need a small help."
-msgstr ""
+msgstr "很好。我们可能需要一个小小的帮助。"
 
+#, fuzzy
 msgid "Excellent. We could always need cannon fodder."
-msgstr ""
+msgstr "很好。我们可能总是需要炮灰。"
 
+#, fuzzy
 msgid "..."
-msgstr ""
+msgstr "..."
 
+#, fuzzy
 msgid "Odd, it doesn’t seem to attack. I wonder if we can use it?"
-msgstr ""
+msgstr "奇怪，它似乎并不攻击。我想知道我们是否可以使用它？"
 
+#, fuzzy
 msgid "Oooh oooh oooh! I want to help! Pick me, pick me!"
-msgstr ""
+msgstr "Oooh oooh oooh!我想帮忙!选我，选我！"
 
+#, fuzzy
 msgid "...fine. I guess."
-msgstr ""
+msgstr "...很好。我想。"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "Game Mechanics"
-msgstr ""
+msgstr "游戏机制"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Gold</b>\n"
-msgstr ""
+msgstr "<b>金色</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Carryover rate is 15% and split evenly among players. Negative amounts will "
 "not carry over. Early finish bonus is superior to village control, but it is "
 "not directly related to the carryover amount.\n"
 "\n"
 msgstr ""
+"结转率为15% a，由玩家平均分配。负数将不会结转。提前结束奖金优于村庄控制，但它"
+"与结转金额没有直接关系。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Autorecall</b>\n"
-msgstr ""
+msgstr "<b>自动呼叫</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Units with the <b>heroic</b> trait are recalled at the start of each "
 "scenario with no cost (up to castle size).\n"
 "\n"
 msgstr ""
+"具有<b>英雄</b>特质的单位可以在每个场景开始时被召回，不需要任何费用（最多到城"
+"堡大小）。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Recall Cost</b>\n"
-msgstr ""
+msgstr "<b>召回成本</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Units costing less than 17 gold are cheaper to recall.\n"
 "\n"
 msgstr ""
+"价值低于17金的单位，召回起来比较便宜。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Training</b>\n"
-msgstr ""
+msgstr "<b>培训</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Every time you recruit a new unit, your training levels will be applied. If "
 "a unit gains training benefits, you can see them with the trait \"trained\". "
@@ -1177,35 +1509,50 @@ msgid ""
 "another’s.\n"
 "\n"
 msgstr ""
+"每当你招募一个新的单位，你的训练水平就会被应用。如果一个单位获得了训练的好"
+"处，你可以通过 \"训练 \"这一特性看到它们。每个单位获得训练收益的机会是独立于"
+"另一个单位的。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Upkeep</b>\n"
-msgstr ""
+msgstr "<b>维护</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Units with the <b>heroic</b> trait or holding any magic <b>item</b> have "
 "free upkeep.\n"
 "\n"
 msgstr ""
+"具有<b>英雄</b>特质的单位或持有任何魔法<b>物品</b>的单位可以免费维持。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Bonus Points</b>\n"
-msgstr ""
+msgstr "<b>奖励积分</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "In every scenario the game generates as many bonus points on the map as "
 "there are players in the game, the bonus points can be picked up by player "
 "units and either contain artifacts, loyal units, or training.\n"
 "\n"
 msgstr ""
+"在每个场景中，游戏在地图上产生的奖励点与游戏中的玩家数量一样多，奖励点可以由"
+"玩家单位拾取，并包含神器、忠诚单位或训练。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "<b>Army discipline</b>\n"
-msgstr ""
+msgstr "<b>军队纪律</b>\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "At scenarios 1 to 3, for each training level players already own, trainers "
 "found have 2% to 4% chance to become advanced trainers (provide 2 levels). "
@@ -1213,31 +1560,45 @@ msgid ""
 "be advanced.\n"
 "\n"
 msgstr ""
+"在场景1至3中，对于玩家已经拥有的每个训练等级，发现的训练者有2% to4% c的机会成"
+"为高级训练者（提供2级）。从场景4开始变得无关紧要，因为所有训练员都将是高级"
+"的。\n"
+"\n"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Training improves newly recruited units, it has no effect on already "
 "recruited units. The following list shows all available training, the "
 "training you currently have is marked in green."
 msgstr ""
+"训练可以改善新招募的部队，对已经招募的部队没有影响。下面的列表显示了所有可用"
+"的训练，你目前拥有的训练被标记为绿色。"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "Items"
-msgstr ""
+msgstr "物品"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "Items can be given to units to make them stronger. You can get items in "
 "three ways: 1) By choosing an item as your starting bonus; 2) By finding it "
 "on a map in a bonus point; 3) By dropping from enemies in later scenarios. "
 "Note, however, that not all units can pick up all items."
 msgstr ""
+"可以给单位提供物品，使其更强大。你可以通过三种方式获得物品。1）选择一个物品作"
+"为你的起始奖励；2）在地图上的奖励点找到它；3）在后来的场景中从敌人那里掉落。"
+"然而，请注意，并非所有单位都能捡到所有物品。"
 
 #. [lua]: preshow
+#, fuzzy
 msgid "Factions"
-msgstr ""
+msgstr "派系"
 
 #. [lua]: preshow
+#, fuzzy
 msgid ""
 "The World Conquest II era consists of factions that are built from pairs of "
 "mainline factions. One faction will have a healer available (Drakes, Rebels "
@@ -1247,751 +1608,1024 @@ msgid ""
 "heroes, deserters, and random leaders also depend on your factions; the "
 "items you can get do not depend on the faction you choose."
 msgstr ""
+"征服世界II时代包括由成对的主线派别组成的派别。一个派别会有治疗师可用（德拉克"
+"人、叛军和忠诚者），一个则没有（兽人、矮人和亡灵）。招募名单也是成对组织的，"
+"所以有时你必须先招募一个不同的单位，然后才能招募你想要的单位。可用的英雄、逃"
+"兵和随机领导人也取决于你的派别；你能得到的物品不取决于你选择的派别。"
 
 #. [lua]: type_icon
+#, fuzzy
 msgid " (not available for enemies)"
-msgstr ""
+msgstr "(不提供给敌人)"
 
 #. [lua]: type_icon
+#, fuzzy
 msgid " (not available for players)"
-msgstr ""
+msgstr "(玩家不能使用)"
 
 #. [lua]: wc_ii_generate_scenario
 #. [lua]: wct_store_possible_encampment_ford
+#, fuzzy
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #. [lua]: wc_ii_generate_scenario
+#, fuzzy
 msgid "Scenario"
-msgstr ""
+msgstr "脚本"
 
 #. [lua]: wc_ii_generate_scenario
+#, fuzzy
 msgid "Final Battle"
 msgstr ""
+"我们为朱尔举办了隆重的葬礼，就像她曾告诉我们的几个世纪之前的人们做的那样。我"
+"带领着剩下的祭祀和所有忠诚的人们组成的队伍，环绕了整座岛，我们想让她看看她带"
+"给我们的这一切。按照对待沙漠精灵祭祀的方式，我们把她葬在岛西北端的一个大沙滩"
+"上。在最后的战役中，她是最老的精灵之一，我感谢伊洛没有让她在旅途中就离去。她"
+"是我的导师、我的信念和我对过去的回忆。我很遗憾她没能看到她的努力所结出的硕"
+"果，但我希望她现在在一个更好的地方，和伊洛在一起。"
 
 #. [lua]: wct_map_2a_post_bunus_decoration
+#, fuzzy
 msgid "water^Springs"
-msgstr ""
+msgstr "水^泉"
 
 #. [lua]: world_conquest_tek_map_decoration_2c
+#, fuzzy
 msgid "Glaciers"
-msgstr ""
+msgstr "冰川"
 
 #. [lua]: wct_map_2d_post_bunus_decoration
+#, fuzzy
 msgid "Provinces"
-msgstr ""
+msgstr "省份"
 
 #. [lua]: wct_map_2f_post_bunus_decoration
+#, fuzzy
 msgid "Clayey"
-msgstr ""
+msgstr "克雷伊"
 
 #. [lua]: wct_map_3c_post_bunus_decoration
+#, fuzzy
 msgid "river^Delta"
-msgstr ""
+msgstr "河流^三角洲"
 
 #. [lua]: world_conquest_tek_map_repaint_3d
+#, fuzzy
 msgid "Sulfurous"
-msgstr ""
+msgstr "硫磺味"
 
 #. [lua]: wct_map_3e_post_bunus_decoration
+#, fuzzy
 msgid "made of^Coral"
-msgstr ""
+msgstr "珊瑚制成的"
 
 #. [lua]: wct_map_4a_post_bunus_decoration
+#, fuzzy
 msgid "Thermal"
-msgstr ""
+msgstr "热敏"
 
 #. [lua]: world_conquest_tek_map_repaint_4b
+#, fuzzy
 msgid "Volcanic"
-msgstr ""
+msgstr "火山型"
 
 #. [lua]: wct_map_4d_post_bunus_decoration
+#, fuzzy
 msgid "Podzol"
-msgstr ""
+msgstr "波德佐尔"
 
 #. [lua]: wct_map_4e_post_bunus_decoration
+#, fuzzy
 msgid "Wicked"
 msgstr ""
+"我们的国家曾经繁荣强大，人丁兴旺。在多位国王的领导下，人民在富饶的土地上平静"
+"的生活着。直到他们来了，那些韦福克人。他们是一个邪恶，残忍而且肮脏的种族。"
 
 #. [lua]: wild_store_roads_in_cave_zone
+#, fuzzy
 msgid "Wild"
-msgstr ""
+msgstr "野生"
 
 #. [lua]: world_conquest_tek_map_repaint_6d
+#, fuzzy
 msgid "Feudal"
-msgstr ""
+msgstr "封建的"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "To war! Prepare to defend yourselves!"
-msgstr ""
+msgstr "开战!准备好保卫自己!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "Why do we fight amongst ourselves? We should band together and take the "
 "coast with our combined forces!"
-msgstr ""
+msgstr "我们为什么要自相残杀？我们应该联合起来，用我们的联合力量夺取海岸线!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "You speak truly; together we can overpower the rest. After that, who knows? "
 "Together we could go on to conquer other lands across the sea!"
 msgstr ""
+"你说得真切；我们一起可以压倒其他人。在那之后，谁知道呢？我们可以一起去征服大"
+"洋彼岸的其他土地!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "Foolish upstarts. You will never defeat us! Come, my allies. Let us crush "
 "them!"
-msgstr ""
+msgstr "愚蠢的后起之秀。你们永远无法打败我们！来吧，我的盟友。让我们击溃他们！"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Yes! We will drive them into the sea!"
-msgstr ""
+msgstr "是的!我们要把他们赶进大海！"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Never fear! Your trusted friends stand beside you!"
-msgstr ""
+msgstr "永远不要害怕!你信任的朋友站在你身边!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Victory is ours! Let us set sail in search of new lands to conquer!"
-msgstr ""
+msgstr "胜利属于我们!让我们扬帆起航，寻找可以征服的新土地!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Ahhh. Just look at these fertile lands, ripe for conquest!"
-msgstr ""
+msgstr "啊哈。看看这些肥沃的土地吧，征服的时机已经成熟!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "What’s this?! Foreign invaders have set foot upon our shores!"
-msgstr ""
+msgstr "这是什么？外国侵略者已经踏上了我们的海岸!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "We’ll send them back to where they came from quick enough. All troops, to me!"
-msgstr ""
+msgstr "我们会很快把他们送回他们来的地方。所有部队，给我！"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "We win! Truly ours will be a glorious empire!"
-msgstr ""
+msgstr "我们赢了!我们的帝国将真正成为一个光荣的帝国!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "Do not get hasty! To reach the great continents of the east we must subdue "
 "the savage coast of Moragdu, notorious for its corsairs, before we can "
 "advance further."
 msgstr ""
+"不要急于求成!为了到达东方的伟大大陆，我们必须在进一步前进之前征服因海盗而臭名"
+"昭著的莫拉格杜的野蛮海岸。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "What’s this? It is a long time since strangers have set foot upon Moragdu — "
 "and in such great numbers too!"
-msgstr ""
+msgstr "这是什么？很久没有陌生人踏上莫拉格杜的土地了--而且人数还这么多!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "The time of prophecies is upon us! The destroyers have arrived from beyond "
 "the sea!"
-msgstr ""
+msgstr "预言的时间到了!毁灭者已经从海的那边来到了!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "I don’t know what the lizard is babbling about, but we’ll sort these "
 "‘destroyers’ out quickly enough."
-msgstr ""
+msgstr "我不知道这只蜥蜴在胡言乱语什么，但我们会很快把这些'破坏者'解决掉。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Ready yourselves, men! The conquering hordes are upon us!"
-msgstr ""
+msgstr "准备好了，伙计们！征服者的队伍正在向我们走来!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "Word has come to our island of your victories. Your army is impressive, but "
 "it will avail you not."
 msgstr ""
+"你们胜利的消息已经传到了我们的岛上。你的军队令人印象深刻，但这对你没有好处。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Indeed. You come this far, and no farther!"
-msgstr ""
+msgstr "确实如此。你走了这么远，没有更远的路了!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "Hah! We didn’t come all this way just to give up and go home. We will "
 "destroy you as we have destroyed all that have stood before us!"
 msgstr ""
+"哈!我们一路走来并不是为了放弃和回家。我们将摧毁你们，就像我们摧毁所有站在我们"
+"面前的人一样！\"。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "So be it. We stand squarely behind our allies."
-msgstr ""
+msgstr "那就这样吧。我们坚定地支持我们的盟友。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "You are not the only ones with allies! We’ll push on till the end!"
-msgstr ""
+msgstr "你们并不是唯一有盟友的人!我们会坚持到最后!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Onwards to the ships!"
-msgstr ""
+msgstr "向船只进发!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "We have travelled great oceans and brought low mighty empires. Should we not "
 "wait until our forces regain their strength?"
 msgstr ""
+"我们已经走过了大洋，打倒了强大的帝国。难道我们不应该等到我们的军队恢复实力"
+"吗？"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "One last effort! We better finish our campaign when we hold initiative, "
 "before Winter arrives."
-msgstr ""
+msgstr "最后一次努力!我们最好在举行倡议时，在冬天到来之前完成我们的运动。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "Finally we come to the shores of the last continent. Here at the edge of the "
 "world our empire shall be made complete."
 msgstr ""
+"最后，我们来到了最后一块大陆的海岸。在这里，在世界的边缘，我们的帝国将变得完"
+"整。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "Never! Your mad quest ends here, tyrant."
-msgstr ""
+msgstr "决不！你的疯狂探索到此为止，暴君。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid ""
 "All the peoples of the world stand against you. Though we would be enemies "
 "otherwise, we are united in our cause. We must stop you!"
 msgstr ""
+"世界上所有的人都站在你的对立面。虽然我们会成为敌人，但我们的事业是一致的。我"
+"们必须阻止你!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "No, not all of them. Today our full strength stands behind our allies!"
-msgstr ""
+msgstr "不，不是所有的人。今天，我们的全部力量站在我们的盟友身后!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "That’s it, our work is done here!"
-msgstr ""
+msgstr "就这样，我们的工作到此结束了!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "The whole world is now ours to command!"
-msgstr ""
+msgstr "现在整个世界都是我们可以指挥的!"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "It was hard, but I almost regret the fun is over."
-msgstr ""
+msgstr "这很难，但我几乎后悔，因为乐趣已经结束。"
 
 #. [lua]: end_message
+#, fuzzy
 msgid "The End"
-msgstr ""
+msgstr "完结"
 
 #. [lua]: add_enemy_side
+#, fuzzy
 msgid "Enemies"
-msgstr ""
+msgstr "敌人"
 
 #. [lua]: add_player_side
+#, fuzzy
 msgid "Allies"
-msgstr ""
+msgstr "同盟"
 
+#, fuzzy
 msgid "Preset Advancement"
-msgstr ""
+msgstr "预设推进"
 
 #. [lua]: wesnoth.wml_actions.wc2_pya_pick
+#, fuzzy
 msgid ""
 "Currently I’m set to advance towards: $name \n"
 "\n"
 "What are your new orders?"
 msgstr ""
+"目前，我设置为向以下方向推进：$name\n"
+"\n"
+"你的新订单是什么？"
 
 #. [lua]: wesnoth.wml_actions.wc2_pya_pick
+#, fuzzy
 msgid "Random"
-msgstr ""
+msgstr "随机"
 
+#, fuzzy
 msgid "Special Overlay"
-msgstr ""
+msgstr "特殊覆盖物"
 
+#, fuzzy
 msgid " and "
-msgstr ""
+msgstr " 和 "
 
+#, fuzzy
 msgid "damage"
-msgstr ""
+msgstr "伤害"
 
+#, fuzzy
 msgid " resistance vs "
-msgstr ""
+msgstr "防守方抗性 vs"
 
+#, fuzzy
 msgid "moves"
-msgstr ""
+msgstr "移动"
 
+#, fuzzy
 msgid "strike"
-msgstr ""
+msgstr "打倒这些傻瓜。"
 
+#, fuzzy
 msgid "XP to advance"
-msgstr ""
+msgstr "晋级的XP"
 
 #. [chance]
+#, fuzzy
 msgid "$range|: $special|"
-msgstr ""
+msgstr "$range|:$special|"
 
 #. [chance]
+#, fuzzy
 msgid "+$boost| moves"
-msgstr ""
+msgstr "+$boost| moves"
 
 #. [chance]
+#, fuzzy
 msgid "$range|: +$boost| damage"
-msgstr ""
+msgstr "$range|:+$boost|损害"
 
 #. [chance]
+#, fuzzy
 msgid "$range|: +1 damage per level"
-msgstr ""
+msgstr "范围|。每级伤害+1"
 
 #. [chance]
+#, fuzzy
 msgid "+$hitpoints| hitpoints"
-msgstr ""
+msgstr "+$hitpoints| hitpoints"
 
 #. [chance]
+#, fuzzy
 msgid "+$hitpoints| hitpoints per level"
-msgstr ""
+msgstr "+$hitpoints|每级的hitpoints"
 
 #. [chance]
+#, fuzzy
 msgid "$value| XP to advance"
-msgstr ""
+msgstr "$value| XP来推进"
 
 #. [chance]
+#, fuzzy
 msgid "Village/Castle: +5 defense"
-msgstr ""
+msgstr "村庄/城堡。+5个防御"
 
 #. [chance]
+#, fuzzy
 msgid ""
 "$terrain|: +$def| defense and full movement, +$res| resistance vs $dmg_type|"
-msgstr ""
+msgstr "$terrain|。+防御和完全移动，+$res|对$dmg_type|的抵抗。"
 
 #. [chance]
+#, fuzzy
 msgid "$terrain|: +10 defense and full movement"
-msgstr ""
+msgstr "领土。+10防御和完全移动"
 
 #. [chance]
+#, fuzzy
 msgid "+moves defense"
-msgstr ""
+msgstr "+移动防御"
 
 #. [chance]
+#, fuzzy
 msgid "melee: optional charge"
-msgstr ""
+msgstr "近战：可选择冲锋"
 
 #. [chance]
+#, fuzzy
 msgid "$range|: arcane and +25% damage"
-msgstr ""
+msgstr "范围|：奥术和+25% d伤害"
 
+#, fuzzy
 msgid "Adamant armor"
-msgstr ""
+msgstr "亚当盔甲"
 
+#, fuzzy
 msgid ""
 "The sturdy plates of this lightweight armor increase the user’s physical "
 "resistances (to a maximum of 10%) and grants the steadfast ability."
 msgstr ""
+"这种轻型盔甲的坚固板块增加了使用者的物理抵抗力（最大为10%），并授予坚定的能"
+"力。"
 
+#, fuzzy
 msgid "Assassin’s ring"
-msgstr ""
+msgstr "刺客的戒指"
 
+#, fuzzy
 msgid ""
 "This plain ring with a pleasantly smooth and slippery surface gives its "
 "owner unmatched sneak attacking skills."
 msgstr ""
+"这枚普通的戒指，表面光滑宜人，滑溜溜的，给它的主人带来无与伦比的偷袭技巧。"
 
+#, fuzzy
 msgid "Azure pearl"
-msgstr ""
+msgstr "蔚蓝的珍珠"
 
+#, fuzzy
 msgid ""
 "This wondrous gem lets the bearer breathe and move through water as if it "
 "was air, strongly improving their mobility in water and granting the "
 "submerge ability."
 msgstr ""
+"这颗神奇的宝石可以让持有者在水中呼吸和移动，就像空气一样，有力地提高了他们在"
+"水中的机动性，并赋予了潜入水中的能力。"
 
+#, fuzzy
 msgid "Bezoar"
-msgstr ""
+msgstr "牛郎织女"
 
+#, fuzzy
 msgid ""
 "This shamanic totem protects from poison, drain, and plague. Bearers of the "
 "totem are immune to fear and their vulnerabilities are reduced."
 msgstr ""
+"这个萨满教的图腾可以保护人们免受毒药、排水和瘟疫的伤害。图腾的持有者对恐惧免"
+"疫，他们的脆弱程度也会降低。"
 
+#, fuzzy
 msgid "Blood ring"
-msgstr ""
+msgstr "血环"
 
+#, fuzzy
 msgid ""
 "This pulsing ring empowers the bearer’s melee attacks with the ability to "
 "drain lifeforce from their victim."
-msgstr ""
+msgstr "这枚脉动戒指赋予佩戴者近战攻击的能力，可以消耗受害者的生命力。"
 
+#, fuzzy
 msgid "Cursed symbol of life"
-msgstr ""
+msgstr "被诅咒的生命象征"
 
+#, fuzzy
 msgid ""
 "This vampiric amulet allows a unit to drain enemy life from a safe distance."
-msgstr ""
+msgstr "这个吸血鬼护身符允许一个单位在安全距离内消耗敌人的生命。"
 
+#, fuzzy
 msgid "Eagle eye longbow"
-msgstr ""
+msgstr "鹰眼长弓"
 
+#, fuzzy
 msgid ""
 "This enchanted longbow enhances the wielder’s ranged attacks with uncanny "
 "precision and increased damage."
 msgstr ""
+"这把被施了魔法的长弓增强了施法者的远程攻击，具有不可思议的精确性和增加的伤"
+"害。"
 
+#, fuzzy
 msgid "Forbidden grimoire"
-msgstr ""
+msgstr "禁忌的魔法书"
 
+#, fuzzy
 msgid ""
 "This unholy manual gives the user the arcane knowledge to resurrect enemies "
 "slain in melee combat as the walking dead."
 msgstr ""
+"这本邪恶的手册为使用者提供了神秘的知识，使在近战中被杀的敌人复活为行尸走肉。"
 
+#, fuzzy
 msgid "Forcefield"
-msgstr ""
+msgstr "力场"
 
+#, fuzzy
 msgid "adjacent enemies do 13% less damage"
-msgstr ""
+msgstr "相邻的敌人会受到13% less的伤害"
 
+#, fuzzy
 msgid ""
 "Charged with intense magic, this shield generates a forcefield causing "
 "adjacent enemies to inflict less damage around the wielder."
 msgstr ""
+"充斥着强烈的魔力，这个盾牌产生一个力场，使相邻的敌人对施法者周围造成的伤害减"
+"少。"
 
+#, fuzzy
 msgid "Ghast’s marrow"
-msgstr ""
+msgstr "加斯特的骨髓"
 
+#, fuzzy
 msgid ""
 "This grisly concoction instills the drinker with an insatiable unholy hunger "
 "for more blood. Every time a foe is slain, a part of his lifeforce is "
 "eternally claimed through arcane ghoulish powers."
 msgstr ""
+"这种可怕的混合物使饮酒者对更多的血有一种永不满足的邪恶的渴望。每当一个敌人被"
+"杀，他的一部分生命力就会通过神秘的食尸鬼的力量被永远地夺走。"
 
+#, fuzzy
 msgid "Root of the Elder Wose"
-msgstr ""
+msgstr "长者沃斯的根"
 
+#, fuzzy
 msgid ""
 " Dwarven forged, this blunt weapon mimics the crushing power of the wose."
-msgstr ""
+msgstr "矮人锻造的这一钝器模仿了鹅的粉碎性力量。"
 
+#, fuzzy
 msgid "Cruel spike"
-msgstr ""
+msgstr "残忍的钉子"
 
+#, fuzzy
 msgid ""
 "This enchanted spear drives the owner to commit himself to his rage. A "
 "unit’s melee strikes are doubled in power when attacking, but the same is "
 "true for the retaliation strike of the defender."
 msgstr ""
+"这支被施了魔法的长矛驱使主人投入到他的愤怒中。一个单位的近战打击在攻击时威力"
+"加倍，但对于防御者的报复性打击也是如此。"
 
+#, fuzzy
 msgid "Heart of fire"
-msgstr ""
+msgstr "火之心"
 
+#, fuzzy
 msgid ""
 "This magic orb infuses the wielder’s melee attacks with fiery power, "
 "changing their damage type. It also improves fire resistance."
 msgstr ""
+"这个魔法球为施法者的近战攻击注入火热的力量，改变其伤害类型。它还能提高火抗"
+"性。"
 
+#, fuzzy
 msgid "Herald armor"
-msgstr ""
+msgstr "先驱者盔甲"
 
+#, fuzzy
 msgid ""
 "This holy armor of thin gold radiates pure light, illuminating the bearer’s "
 "body and soul. This effect will heal allies, blind evil, and preemptively "
 "smite those who seek to do harm."
 msgstr ""
+"这件由薄金制成的圣洁盔甲散发着纯洁的光芒，照亮了持有者的身体和灵魂。这种效果"
+"可以治愈盟友，蒙蔽邪恶，并先发制人地打击那些企图伤害的人。"
 
+#, fuzzy
 msgid "Holy water"
-msgstr ""
+msgstr "圣水"
 
+#, fuzzy
 msgid ""
 "This sacred vial anoints melee attacks with arcane power, increasing their "
 "damage and changing their damage type. It also increases arcane resistance."
 msgstr ""
+"这个神圣的小瓶为近战攻击注入奥术力量，增加其伤害并改变其伤害类型。它还能增加"
+"奥术抗性。"
 
+#, fuzzy
 msgid "Ice bow"
-msgstr ""
+msgstr "冰弓"
 
+#, fuzzy
 msgid ""
 "Draw this magical bow summon an ice arrow that will freeze and slow its "
 "target upon hit."
-msgstr ""
+msgstr "拉开这把神奇的弓，召唤出一支冰箭，击中目标后会冻结并减缓其速度。"
 
+#, fuzzy
 msgid "Medicinal herbs"
-msgstr ""
+msgstr "药用草药"
 
+#, fuzzy
 msgid ""
 "These potent herbs give the bearer the ability to heal adjacent units and "
 "cure their poison."
-msgstr ""
+msgstr "这些有力的草药使持有者有能力治疗相邻的单位，并为其解毒。"
 
+#, fuzzy
 msgid "Melange"
-msgstr ""
+msgstr "橙色"
 
+#, fuzzy
 msgid ""
 "This exotic drug of organic origin enhances user’s vitality and awareness. "
 "It has no effect when consumed by undead."
 msgstr ""
+"这种来自有机物的异国药物可以增强使用者的活力和意识。亡灵服用时没有效果。"
 
+#, fuzzy
 msgid "Ring of frostbite"
-msgstr ""
+msgstr "冻伤环"
 
+#, fuzzy
 msgid ""
 "This frigid ring envelops the user’s melee attacks with icy cold, changing "
 "their damage to cold and allowing them to inflict deathly chills that slow "
 "the enemy."
 msgstr ""
+"这个寒冷的戒指使使用者的近战攻击被冰冷所笼罩，将他们的伤害变为寒冷，并允许他"
+"们造成死亡的寒意，使敌人减速。"
 
+#, fuzzy
 msgid "Ring of power"
-msgstr ""
+msgstr "力量指环"
 
+#, fuzzy
 msgid ""
 "Wearing this ring enhances damage with arcane and elemental attacks, "
 "allowing using them with supernatural skill and presence."
 msgstr ""
+"戴上这枚戒指可以增强奥术和元素攻击的伤害，允许以超自然的技能和存在感使用它"
+"们。"
 
+#, fuzzy
 msgid "Runic sword"
-msgstr ""
+msgstr "符文剑"
 
+#, fuzzy
 msgid ""
 "This magic sword empowers the wielder’s melee attacks with the magical "
 "property."
-msgstr ""
+msgstr "这把魔剑赋予持剑者的近战攻击以魔法属性。"
 
+#, fuzzy
 msgid "Staff of radiance"
-msgstr ""
+msgstr "光芒之杖"
 
+#, fuzzy
 msgid "This sacred rod can unleash brilliant bursts of luminous energy."
-msgstr ""
+msgstr "这根神圣的棒子可以释放出辉煌的发光能量。"
 
+#, fuzzy
 msgid "Stormbringer"
-msgstr ""
+msgstr "风暴使者"
 
+#, fuzzy
 msgid ""
 "This tormented sword causes rage in any who wield it. Melee attacks will "
 "gain the fury ability pressing engagement for 3 rounds."
 msgstr ""
+"这把折磨人的剑会让任何挥舞它的人感到愤怒。近战攻击将获得愤怒的能力压迫交战3回"
+"合。"
 
+#, fuzzy
 msgid "Sylph bow"
-msgstr ""
+msgstr "西尔菲弓"
 
+#, fuzzy
 msgid ""
 "A runic bow. This elvish heirloom, passed from Queen to Princess, gathers "
 "power with each generation and speeds up the wielders movements so that more "
 "strikes can be landed before the engagement is over."
 msgstr ""
+"一把符文弓。这个精灵族的传家宝，从女王传到公主，每一代都会收集力量，并加快挥"
+"舞者的动作，以便在交战结束前可以进行更多的打击。"
 
+#, fuzzy
 msgid "Terror disguise"
-msgstr ""
+msgstr "恐怖的伪装"
 
+#, fuzzy
 msgid ""
 "This cursed outfit spreads a trail of darkness, harming those who get too "
 "close."
-msgstr ""
+msgstr "这套被诅咒的装备散布着黑暗的痕迹，伤害那些过于接近的人。"
 
+#, fuzzy
 msgid "The Key"
-msgstr ""
+msgstr "钥匙"
 
+#, fuzzy
 msgid "This magical object opens the gateway between dimensions."
-msgstr ""
+msgstr "这个神奇的东西能打开维度之间的通道。"
 
+#, fuzzy
 msgid "Tome of secrets"
-msgstr ""
+msgstr "秘密的巨著"
 
+#, fuzzy
 msgid "This forgotten book imparts ancient knowledge to the reader."
-msgstr ""
+msgstr "这本被遗忘的书向读者传授了古老的知识。"
 
+#, fuzzy
 msgid "Trident of storms"
-msgstr ""
+msgstr "风暴的三叉戟"
 
+#, fuzzy
 msgid ""
 "This legendary trident can summon lightning from the heavens, granting its "
 "wielder magical ranged fire attack."
-msgstr ""
+msgstr "这把传奇的三叉戟可以从天上召唤出闪电，赋予持戟者神奇的远程火力攻击。"
 
+#, fuzzy
 msgid "Trolls blood potion"
-msgstr ""
+msgstr "巨魔血药"
 
+#, fuzzy
 msgid "This foul-smelling potion allows the imbiber to regenerate health."
-msgstr ""
+msgstr "这种散发着恶臭的药水可以让吸食者再生健康。"
 
+#, fuzzy
 msgid "Ointment of venom"
-msgstr ""
+msgstr "毒药的药膏"
 
+#, fuzzy
 msgid ""
 "This deadly poison envenoms the user’s blade and pierce attacks, increasing "
 "damage and allowing them to inflict poison."
 msgstr ""
+"这种致命的毒药使使用者的刀剑和穿刺攻击变成了毒药，增加了伤害，并使其能够造成"
+"毒害。"
 
+#, fuzzy
 msgid "War banner"
-msgstr ""
+msgstr "战争旗帜"
 
+#, fuzzy
 msgid "adjacent allies do 20% more damage"
-msgstr ""
+msgstr "相邻盟友的伤害增加20%。"
 
+#, fuzzy
 msgid ""
 "This inspiring banner rallies the bearer’s allies to war, imparting a damage "
 "bonus to the allied units around it."
 msgstr ""
+"这面鼓舞人心的旗帜使持旗者的盟友团结起来，为其周围的盟友单位提供伤害奖励。"
 
+#, fuzzy
 msgid "Winged scepter"
-msgstr ""
+msgstr "有翼的权杖"
 
+#, fuzzy
 msgid ""
 "This wondrous rod imparts the user the ability to soar through the skies, "
 "making it a breeze to move through most terrain. Units that can already fly "
 "get improved defenses."
 msgstr ""
+"这根神奇的棒子赋予使用者在天空中翱翔的能力，使其轻而易举地穿越大多数地形。已"
+"经能够飞行的单位会得到更好的防御。"
 
+#, fuzzy
 msgid "Winter’s bloom"
-msgstr ""
+msgstr "冬天的绽放"
 
+#, fuzzy
 msgid ""
 "This delicate blossom rarely found in snowy peaks, is strongly appreciated "
 "for its beneficial effects on health."
-msgstr ""
+msgstr "这种精致的花朵很少在雪峰上出现，因其对健康的有益作用而受到强烈赞赏。"
 
+#, fuzzy
 msgid "Zephyr cloak"
-msgstr ""
+msgstr "泽法尔披风"
 
+#, fuzzy
 msgid ""
 "This lightweight cloak renders its wearer almost invisible in the darkness "
 "and lets them move with fluid grace past enemies with ease."
 msgstr ""
+"这种轻便的斗篷使穿戴者在黑暗中几乎看不见，并让他们以流畅的姿态轻松地穿过敌"
+"人。"
 
+#, fuzzy
 msgid "staff of radiance"
-msgstr ""
+msgstr "光芒之杖"
 
+#, fuzzy
 msgid "storm trident"
-msgstr ""
+msgstr "风暴三叉戟"
 
+#, fuzzy
 msgid "ice bow"
-msgstr ""
+msgstr "冰弓"
 
+#, fuzzy
 msgid "banner"
-msgstr ""
+msgstr "横幅区"
 
+#, fuzzy
 msgid ""
 "This unit can lead ~allied~ units that are next to it, making them fight "
 "better. Adjacent allied units will do 20% more damage. This is cumulative "
 "with leadership."
 msgstr ""
+"这个单位可以领导与它相邻的~盟军~单位，使他们的战斗力提高。相邻的盟友单位会多"
+"造成20%的伤害。这是与领导力累积的。"
 
+#, fuzzy
 msgid "corruption"
-msgstr ""
+msgstr "腐败"
 
+#, fuzzy
 msgid ""
 "This unit corrupts adjacent enemies at the beginning of our turn. Corrupted "
 "units lose 6 HP or are reduced to 1 HP. Corruption cannot, of itself, kill a "
 "unit."
 msgstr ""
+"这个单位在我们的回合开始时腐蚀邻近的敌人。被腐蚀的单位会失去6个HP或被减为1个"
+"HP。腐蚀本身不能杀死一个单位。"
 
+#, fuzzy
 msgid "darkness"
-msgstr ""
+msgstr "黑暗"
 
+#, fuzzy
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse. Any units adjacent to this unit will fight as "
 "if it were dusk when it is day, and as if it were night when it is dusk."
 msgstr ""
+"这个单位使周围地区变暗，使混乱的单位战斗力提高，合法的单位战斗力下降。任何与"
+"该单位相邻的单位在白天时都会像黄昏一样战斗，在黄昏时则像夜晚一样战斗。"
 
+#, fuzzy
 msgid "distract"
-msgstr ""
+msgstr "分神"
 
+#, fuzzy
 msgid "Allied units ignore enemy zones of control adjacent to this unit."
-msgstr ""
+msgstr "盟军单位无视与该单位相邻的敌方控制区。"
 
+#, fuzzy
 msgid "flight"
-msgstr ""
+msgstr "飞行"
 
+#, fuzzy
 msgid ""
 "Full movement and up to 50% defense in all terrains but cave or mushroom "
 "grove."
-msgstr ""
+msgstr "在除洞穴或蘑菇林以外的所有地形中，都有充分的移动和高达50% d的防御。"
 
+#, fuzzy
 msgid "swim"
-msgstr ""
+msgstr "游泳"
 
+#, fuzzy
 msgid ""
 "Full movement and up to 60% defense in water or swamp and up to 70% defense "
 "in reef."
-msgstr ""
+msgstr "在水中或沼泽中可完全移动，防御力高达60% d，在礁石中防御力高达70% d。"
 
+#, fuzzy
 msgid "forcefield"
-msgstr ""
+msgstr "力场"
 
+#, fuzzy
 msgid "Adjacent enemies do 13% less damage."
-msgstr ""
+msgstr "相邻的敌人造成13% less的伤害。"
 
+#, fuzzy
 msgid "fury"
-msgstr ""
+msgstr "大雪更加猛烈了，就像他的存在抑制了雪势一般。我看不见我们前进的道路。"
 
+#, fuzzy
 msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 3 rounds of attacks have occurred."
 msgstr ""
+"无论是进攻还是防守，这种攻击都会压迫交战，直到其中一个战斗人员被杀死，或者发"
+"生3轮攻击。"
 
+#, fuzzy
 msgid "Full movement on turn recruited or recalled"
-msgstr ""
+msgstr "轮到招收或召回时的全部动作"
 
+#, fuzzy
 msgid "optional charge"
-msgstr ""
+msgstr "可选收费"
 
+#, fuzzy
 msgid "tenacity"
-msgstr ""
+msgstr "顽强"
 
+#, fuzzy
 msgid "This unit’s vulnerabilities are halved when defending."
-msgstr ""
+msgstr "防守时，该单位的脆弱性减半。"
 
+#, fuzzy
 msgid "free upkeep"
-msgstr ""
+msgstr "免费维护"
 
+#, fuzzy
 msgid "full movement"
 msgstr ""
+"<bold>text='沼泽'</bold>代表了所有湿地。\n"
+"沼泽几乎会让所有的单位缓慢下来，而且也同样会妨碍他们的防御能力。一个例外是各"
+"种擅长在水中移动的种族；他们在沼泽中能够全速移动，并且享受防御加成。那些在湿"
+"地中栖息谋生的生灵们也知道如何利用地形掩护自己。\n"
+"\n"
+"大多数单位在沼泽中只拥有30%的防御率。而人鱼、娜迦和蜥蜴人通常都享有60%的防御"
+"率。"
 
+#, fuzzy
 msgid "terrain^water"
-msgstr ""
+msgstr "地形^水"
 
+#, fuzzy
 msgid "improved defenses"
-msgstr ""
+msgstr "改善防卫"
 
+#, fuzzy
 msgid "no undead^consumed by a living being:"
-msgstr ""
+msgstr "没有亡灵^被活人吃掉。"
 
+#, fuzzy
 msgid "up to"
-msgstr ""
+msgstr "总结"
 
+#, fuzzy
 msgid "disengage"
-msgstr ""
+msgstr "脱离"
 
+#, fuzzy
 msgid ""
 "Attack with this weapon gives unit 1 moves at end of combat (unit doesn’t "
 "gain a new attack)."
-msgstr ""
+msgstr "用此武器攻击，在战斗结束时给单位带来1次移动（单位不获得新的攻击）。"
 
+#, fuzzy
 msgid "per level"
-msgstr ""
+msgstr "每级"
 
+#, fuzzy
 msgid "Melee Combat"
-msgstr ""
+msgstr "近战战斗"
 
+#, fuzzy
 msgid ""
 "Looks like you could use some help. A grizzled old veteran like me won’t be "
 "much use on the field, but I bet I can teach your men a thing or two about "
 "swordplay."
 msgstr ""
+"看上去你需要一些帮助。像我这样灰头土脸的老兵在战场上用处不大，但我打赌我可以"
+"教你的人一两件关于剑术的事。"
 
+#, fuzzy
 msgid "Ranger Tactics"
-msgstr ""
+msgstr "突击队战术"
 
+#, fuzzy
 msgid ""
 "I sympathize with your cause, but this is not my battle. I will not fight "
 "for you, but I will gladly instruct your recruits in the art of the ranger, "
 "that they may better fight on their own."
 msgstr ""
+"我同情你们的事业，但这不是我的战斗。我不会为你而战，但我很乐意指导你的新兵学"
+"习游骑兵的艺术，使他们能更好地独立作战。"
 
+#, fuzzy
 msgid "Health"
-msgstr ""
+msgstr "健康"
 
+#, fuzzy
 msgid ""
 "Looks like a pretty grim fight you’ve got up ahead. I’ve got too many "
 "troubles of my own to join in, but stick about a while and I’ll put some "
 "steel in your backbone. When I’m through with you you’ll be able to keep on "
 "going no matter the odds!"
 msgstr ""
+"看起来你有一场相当严峻的战斗。我自己有太多的麻烦，不能加入，但坚持一段时间，"
+"我会给你的脊梁骨加点钢。当我完成了对你的训练，你就能继续前进，不管遇到什么困"
+"难！\"。"
 
+#, fuzzy
 msgid "Movement"
-msgstr ""
+msgstr "移动"
 
+#, fuzzy
 msgid ""
 "What, you want me to join the fight? Quite out of the question, old boy! I’m "
 "afraid battlefields just aren’t my scene - no drama, no style, no romance! "
@@ -1999,51 +2633,76 @@ msgid ""
 "I’ll teach you how to break out of those dreary marching formations and step "
 "light as a feather!"
 msgstr ""
+"什么，你想让我加入战斗？这是不可能的，老伙计!恐怕战场不是我的舞台--没有戏剧"
+"性，没有风格，没有浪漫!完全没有技巧!你可能不明白，所以让我来告诉你。我会教你"
+"如何突破那些沉闷的行军队形，像羽毛一样轻盈地迈步!"
 
+#, fuzzy
 msgid "Combat Experience"
-msgstr ""
+msgstr "战斗经验"
 
+#, fuzzy
 msgid ""
 " Join the battle? Nay, lads, my talents would be wasted on the frontlines. "
 "Give me some raw recruits to work with, though, and I’ll whip ’em into shape "
 "for you. I know what real battle is like; by the time I’m through with ’em, "
 "your newbies might have some idea of it too."
 msgstr ""
+"参加战斗？不，伙计们，我的才能在前线会被浪费。不过，给我一些生力军，我可以帮"
+"你把他们训练好。我知道真正的战斗是什么样子的；等我把他们训练好了，你的新手们"
+"也许也会有一些想法。"
 
+#, fuzzy
 msgid "Dark"
-msgstr ""
+msgstr "黑暗"
 
+#, fuzzy
 msgid ""
 "I haven’t lived centuries fighting others’ battles, but I could combat "
 "boredom teaching your men a couple of things about dark techniques."
 msgstr ""
+"我没有活了几个世纪去打别人的仗，但我可以对抗无聊，教你的人一些关于黑暗技术的"
+"东西。"
 
+#, fuzzy
 msgid "World Conquest 1p"
-msgstr ""
+msgstr "征服世界 1p"
 
+#, fuzzy
 msgid "World Conquest 2p"
-msgstr ""
+msgstr "征服世界 2p"
 
+#, fuzzy
 msgid "World Conquest 3p"
-msgstr ""
+msgstr "征服世界 3p"
 
+#, fuzzy
 msgid ""
 "A randomly generated campaign for 1 player. It has 6 level of difficulties.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
+"一个随机生成的单人战役。它有6个级别的难度。\n"
+"(专家级，5个场景。)"
 
+#, fuzzy
 msgid ""
 "A randomly generated cooperative campaign for 2 players. It has 6 level of "
 "difficulties.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
+"一个随机生成的2人合作战役。它有6个级别的难度。\n"
+"(专家级，5个场景。)"
 
+#, fuzzy
 msgid ""
 "A randomly generated cooperative campaign for 3 players. It has 6 level of "
 "difficulties.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
+"一个随机生成的3人合作战役。它有6个级别的难度。\n"
+"(专家级，5个场景。)"
 
 #. [campaign]: id=WC_II_{PLAYERS}p, description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#, fuzzy
 msgid "WC"
-msgstr ""
+msgstr "WC"

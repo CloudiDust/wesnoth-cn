@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:42+0800\n"
+"PO-Revision-Date: 2022-01-12 08:35+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -78,32 +78,39 @@ msgid "Additional Artwork"
 msgstr "额外美工"
 
 #. [label]
+#, fuzzy
 msgid "Lvl 0"
-msgstr ""
+msgstr "0级"
 
 #. [label]
+#, fuzzy
 msgid "Undead"
-msgstr ""
+msgstr "亡灵"
 
 #. [label]
+#, fuzzy
 msgid "Traits"
-msgstr ""
+msgstr "特质"
 
 #. [label]
+#, fuzzy
 msgid "Attacks"
-msgstr ""
+msgstr "攻击手段"
 
 #. [label]
+#, fuzzy
 msgid "Choose a Corpse"
-msgstr ""
+msgstr "选择一具尸体"
 
 #. [button]
+#, fuzzy
 msgid "Recruit"
-msgstr ""
+msgstr "新兵"
 
 #. [button]: id=cancel
+#, fuzzy
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. [scenario]: id=01_Slipping_Away
 msgid "Slipping Away"
@@ -267,11 +274,14 @@ msgid "I suspected some of the rats would show themselves."
 msgstr "我还就知道有些老鼠会出现。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "<span color='cyan'>Special Note: </span>In this campaign, if a unit is "
 "killed and not immediately raised as a corpse, its corpse type will be "
 "permanently added to the recruit list instead."
 msgstr ""
+"<span color='cyan'>特别提示： </span>在这场战役中，如果一个单位被杀后没有立即"
+"作为尸体被提出来，那么它的尸体类型将被永久地加入到新兵名单中，而不是。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -439,10 +449,12 @@ msgid "You don’t have enough gold to summon the bat."
 msgstr "你的金币不足，不能召唤蝙蝠。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
 "You can now recruit skeletons and skeleton archers! You will lose this "
 "ability if the guardhouse is retaken by the guards!"
 msgstr ""
+"你现在可以招募骷髅兵和骷髅弓箭手了!如果警卫室被卫兵夺回，你将失去这个能力!"
 
 #. [event]
 msgid "Blollyn"
@@ -698,6 +710,7 @@ msgid "Becalmed"
 msgstr "无风难行"
 
 #. [part]
+#, fuzzy
 msgid ""
 "22 III, 23 YW\n"
 "\n"
@@ -707,8 +720,14 @@ msgid ""
 "defensive, and while his hatred of me was unabated, his desire to live made "
 "him somewhat malleable."
 msgstr ""
+"22 III, 23 YW\n"
+"\n"
+"研究有时需要实验，所以我开始了。  我知道这个强盗本来打算抢劫我，一旦我杀了他"
+"的爱人，他就打算折磨和杀死我。  现在我被控制了，他感到害怕和防备，虽然他对我"
+"的恨意不减，但他的求生欲使他有些可塑性。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "I passed him a wineskin, to put him at ease. He eyed me suspiciously, then "
 "took a sip, calculating my intentions. I then placed a portion of my gold "
@@ -724,8 +743,19 @@ msgid ""
 "from a thousand suns - I could feel it more strongly than the fear or hunger "
 "from any of my pets..."
 msgstr ""
+"我递给他一个酒皮，让他放心。他怀疑地看着我，然后喝了一口，计算着我的意图。然"
+"后我把我的一部分黄金资源放在桌子上，他的目光锁定在上面。\n"
+"\n"
+"然后，我把一枚从名叫 \"莫萨 \"的强盗身上剥下来的戒指放在桌子上，这是他心爱的"
+"犯罪伙伴。  他的目光从金子转移到戒指上，然后迅速转向我的眼睛。  如果他没有被"
+"绑在椅子上，他就会攻击我。\n"
+"\n"
+"我把更多的金子加到这堆金子上，但他没有注意到，他只是用这种仇恨的目光瞪着"
+"我。  对复仇的渴望从他身上散发出来，就像来自一千个太阳的热量--我可以感觉到它"
+"比来自我任何一个宠物的恐惧或饥饿感更强烈......"
 
 #. [part]
+#, fuzzy
 msgid ""
 "This rich vein into the life-force of the bandit was like nothing I had ever "
 "seen, but I knew enough to bend his hunger to my will. With further study, I "
@@ -738,14 +768,25 @@ msgid ""
 "flensed from his being, he calmed down.  Now hairless, bloody, naked, and "
 "unthinking, the bandit was unrecognizable as the man he once was."
 msgstr ""
+"这条进入强盗生命力的丰富脉络是我从未见过的，但我知道足以让他的饥饿感屈服于我"
+"的意志。随着进一步的研究，也许有一天我能够在那里阻止它，但今天我不能。一心一"
+"意的饥饿感吞噬了这个人，我只能控制它的方向！\"。\n"
+"\n"
+"这名强盗嚎叫着，挣扎着，撕扯着他的衣服和捆绑物，最终钻进了自己的肉里。  最"
+"后，当所有的饥饿感都从他身上消失时，他平静了下来。  现在，这个强盗没有头发，"
+"浑身是血，赤身裸体，不思进取，已经无法辨认他曾经是谁了。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "No doubt whatever was left of the mind inside gibbered at what it had "
 "become, but the bandit was now my puppet and I stitched the wounds as best I "
 "could. In some ways, this experiment was a failure, but the creature it "
 "created would be useful..."
 msgstr ""
+"毫无疑问，不管里面剩下的是什么思想，都在为它变成的东西而喋喋不休，但这个强盗"
+"现在是我的傀儡，我尽我所能地缝合伤口。在某些方面，这个实验是失败的，但它创造"
+"的生物将是有用的......"
 
 # 原文真的没有问题吗？很不通顺
 #. [part]
@@ -795,10 +836,11 @@ msgid "You can recruit from anywhere on the two highest decks."
 msgstr "你可以在最上两层甲板的任意位置进行征募。"
 
 #. [note]
+#, fuzzy
 msgid ""
 "Player and Enemy units can move between the surface and the interior of the "
 "ship via stairs."
-msgstr ""
+msgstr "玩家和敌人的单位可以通过楼梯在船的表面和内部之间移动。"
 
 #. [note]
 msgid "Barrels act as villages."
@@ -2481,8 +2523,9 @@ msgid "Gryphons... live at this height. We should be cautious."
 msgstr "狮鹫……在这高处生活。我们应当小心。"
 
 #. [message]: speaker=Vendraxis
+#, fuzzy
 msgid "Yesss. The danger I sssensed is here."
-msgstr ""
+msgstr "是的。我感觉到的危险就在这里。"
 
 #. [scenario]: id=16_The_Mage
 msgid "The Mage"
@@ -3188,12 +3231,14 @@ msgid "Well met Fizztsars. Now these creatures will certainly fall."
 msgstr "幸会，菲兹萨斯。现在这些造物必将死亡。"
 
 #. [message]: speaker=Fizztsars
+#, fuzzy
 msgid "Except for the male of oursss with them. He will come with usss."
-msgstr ""
+msgstr "除了和他们一起的我们的男性。他将和我们一起去。"
 
 #. [message]: speaker=Vendraxis
+#, fuzzy
 msgid "No! I will not return yet, I still have sssecrets to learn!"
-msgstr ""
+msgstr "不！我还不会回来，我还有秘密要学。"
 
 #. [unit]: type=Dwarvish Dragonguard, id=Thrigalurd
 msgid "Thrigalurd"
@@ -3443,10 +3488,9 @@ msgid ""
 "orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
-"兽人萨满是兽人魔法的守护者。他们受到兽人各部落的尊敬，组成了兽人评议会。评议"
-"会为整个兽人社区作出重大决定，并在这个乐于争执的种族的部落之间发生冲突之时进"
-"行仲裁。虽然体格弱小（对兽人来说），但兽人萨满是优秀的施法者，可以诅咒敌人，"
-"吸取他们的生命。"
+"兽人萨满是兽人魔法的守卫者，受到各部落的尊重。他们建立了兽人评议会，为整个兽"
+"人社区进行重大决策，并仲裁这一热衷争端的种族的各部落间的种种冲突。尽管他们身"
+"体脆弱（对于兽人而言），兽人萨满却是魔咒专家，可以诅咒敌人并吸取他们的生命。"
 
 #. [unit_type]: id=Sailor, race=human
 msgid "Sailor"
@@ -3481,21 +3525,25 @@ msgstr ""
 #. recruit it launches the zombie recruit dialog as a child of the normal
 #. recruitment dialog. "Walking Corpse" is not used here because some swim,
 #. and some fly.
+#, fuzzy
 msgid "All Corpses"
-msgstr ""
+msgstr "所有的尸体"
 
 #. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
+#, fuzzy
 msgid "Choose this “unit” to get a list of available corpses."
-msgstr ""
+msgstr "选择这个 \"单位\"，可以得到一个可用的尸体清单。"
 
 #. [unit_type]: id=SotA Flying Corpse_Gryphon
 #. [unit_type]: id=SotA Flying Corpse_Bat
+#, fuzzy
 msgid "Flying Corpse"
-msgstr ""
+msgstr "飞尸"
 
 #. [unit_type]: id=SotA Swimming Corpse
+#, fuzzy
 msgid "Swimming Corpse"
-msgstr ""
+msgstr "游泳的尸体"
 
 msgid "Ardonna"
 msgstr "阿冬娜"
@@ -3573,28 +3621,34 @@ msgid "I will miss you."
 msgstr "我会想你的。"
 
 #. [message]: speaker=Vendraxis
+#, fuzzy
 msgid "Now I will never learn the sssecret of exssstending my ssspan."
-msgstr ""
+msgstr "现在，我永远也学不到延长我寿命的秘诀了。"
 
 #. [message]: speaker=Carcyn
+#, fuzzy
 msgid "I’m going to miss him."
-msgstr ""
+msgstr "我会想念他的。"
 
 #. [message]: speaker=Ras-Tabahn
+#, fuzzy
 msgid "Unfortunate. He was useful."
-msgstr ""
+msgstr "不幸的是。他是有用的。"
 
 #. [message]: speaker=Shynal
+#, fuzzy
 msgid "Yes, he was helpful."
-msgstr ""
+msgstr "是的，他很有帮助。"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid "Indeed, he will be missed."
-msgstr ""
+msgstr "的确，我们会想念他。"
 
 #. [message]: speaker=Ardonna
+#, fuzzy
 msgid "Don’t worry, my pet. I can save you."
-msgstr ""
+msgstr "别担心，我的宠物。我可以救你。"
 
 #. [message]: speaker=$unit.id
 msgid "Aww. I wanted to be a mage like Shynal."
@@ -3770,8 +3824,9 @@ msgstr "半虚空"
 
 #. [value]: type=SotA Flying Corpse_Bat
 #. shown instead of the unit_type name in the recruitment dialog
+#, fuzzy
 msgid "recruit^Flying Corpse (Bat)"
-msgstr ""
+msgstr "新兵^飞尸(蝙蝠)"
 
 #. [value]: type=SotA Flying Corpse_Bat
 #, fuzzy
@@ -3831,8 +3886,9 @@ msgstr "你现在可以征募鬼魂了！"
 
 #. [value]: type=SotA Swimming Corpse
 #. this is used for both naga and merfolk zombies
+#, fuzzy
 msgid "recruit^Swimming Corpse"
-msgstr ""
+msgstr "新兵^游泳的尸体"
 
 #. [value]: type=SotA Swimming Corpse
 #. this is used for both naga and merfolk zombies
@@ -3841,8 +3897,9 @@ msgid "You can now raise swimming corpses!"
 msgstr "你现在可以征募鬼魂了！"
 
 #. [value]: type=SotA Walking Corpse_Saurian
+#, fuzzy
 msgid "recruit^Walking Corpse (Saurian)"
-msgstr ""
+msgstr "新兵^行尸走肉(索尔人)"
 
 #. [value]: type=SotA Walking Corpse_Saurian
 #, fuzzy
@@ -3870,8 +3927,9 @@ msgid "You can now raise goblin corpses!"
 msgstr "你现在可以征募食尸鬼了！"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
+#, fuzzy
 msgid "recruit^Flying Corpse (Gryphon)"
-msgstr ""
+msgstr "新兵^飞尸(麒麟)"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
 #, fuzzy
@@ -3909,26 +3967,31 @@ msgid "You can now raise dwarf corpses!"
 msgstr "你现在可以征募黑暗狂徒了！"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid "A lua error has occurred, and a corpse cannot be recruited."
-msgstr ""
+msgstr "发生了一个lua错误，无法招募到尸体。"
 
 #. [lua]: select
+#, fuzzy
 msgid "HP: "
-msgstr ""
+msgstr "生命："
 
 #. [lua]: select
+#, fuzzy
 msgid "MP: "
-msgstr ""
+msgstr "移动："
 
 #. [lua]: select
+#, fuzzy
 msgid "XP: "
-msgstr ""
+msgstr "经验："
 
 #. [lua]: postshow
+#, fuzzy
 msgid "There are no corpses available."
-msgstr ""
+msgstr "没有尸体可用。"
 
 #. [lua]: postshow
 #, fuzzy
 msgid "You do not have enough gold to recruit that unit"
-msgstr "你的金币不足，不能复苏该单位。"
+msgstr "你没有足够的金币，不能征募此单位。"

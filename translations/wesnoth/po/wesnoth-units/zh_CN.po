@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2021-04-18 16:48+0800\n"
+"PO-Revision-Date: 2022-01-12 08:39+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -894,6 +894,7 @@ msgid "Dune Alchemist"
 msgstr "沙丘剑圣"
 
 #. [unit_type]: id=Dune Alchemist, race=dunefolk
+#, fuzzy
 msgid ""
 "To the Dunefolk, alchemy is less a form of philosophy or science, and more "
 "an extension of the phytology that is practiced by herbalists. However, in "
@@ -905,16 +906,24 @@ msgid ""
 "much so that almost every caravan will hire or train a few alchemists to "
 "maintain a reasonable level of threat at all times."
 msgstr ""
+"对Dunefolk来说，炼金术与其说是一种哲学或科学，不如说是草药师所从事的植物学的"
+"一种延伸。然而，与他们的兄弟们专注于草药的医药和治疗不同，许多炼金术士利用各"
+"种植物和自然发生的毒液来调制致命的毒药。虽然这种艺术对于削弱强硬的敌人很有"
+"用，但其他Dunefolk却很谨慎地将其视为一种有效的间谍和暗杀手段。同时，这样的工"
+"具也带来了巨大的政治优势，以至于几乎每个商队都会雇佣或训练一些炼金术士，以便"
+"在任何时候都能保持合理的威胁水平。"
 
 #. [attack]: type=pierce
+#, fuzzy
 msgid "blowgun"
-msgstr ""
+msgstr "吹箭"
 
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
 msgid "Dune Apothecary"
 msgstr "沙丘药剂师"
 
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
+#, fuzzy
 msgid ""
 "Even in the absence of battle, infection and injury are common plights in "
 "the harsh desert sands. Dunefolk healers, in particular, require vast "
@@ -928,12 +937,19 @@ msgid ""
 "these men possess a special role in supporting the remedial arts of their "
 "kind."
 msgstr ""
+"即使在没有战斗的情况下，感染和受伤也是严酷的沙漠沙地中常见的困境。与其他种族"
+"的治疗师相比，Dunefolk的治疗师尤其需要大量的草药和医药知识。他们缺乏魔法，再"
+"加上沙漠中植物的稀少，导致他们在治疗困扰沙丘人的大量疾病和毒药时遇到很大困"
+"难。与他们经验不足的兄弟相比，药剂师通常更有知识，而且游历广泛，但他们真正的"
+"技能在于照料宝贵的药用植物这一复杂的任务。如果没有必要的材料，Dunefolk就没有"
+"办法进行治疗，因此这些人在支持他们的补救艺术方面具有特殊作用。"
 
 #. [unit_type]: id=Dune Blademaster, race=dunefolk
 msgid "Dune Blademaster"
 msgstr "沙丘剑圣"
 
 #. [unit_type]: id=Dune Blademaster, race=dunefolk
+#, fuzzy
 msgid ""
 "Dunefolk swordsmen are known for playing a game called the ‘Laeqad "
 "Challenge’, in which Laeqads—thick, sturdy reeds that are several sword "
@@ -954,16 +970,29 @@ msgid ""
 "offensive swordsmanship and are capable of subverting even the strongest "
 "fortifications."
 msgstr ""
+"Dunefolk的剑客们以玩一种叫做 \"Laeqad挑战 \"的游戏而闻名，在这种游戏中，"
+"Laeqad--厚而结实的芦苇，有几个剑的长度，像标枪一样向他们投掷，他们试图在半空"
+"中将芦苇纵向劈开。这个游戏的诀窍在于，芦苇不是圆形对称的：大部分茎秆相当坚"
+"硬，但横截面上有一条细线，比较柔软，容易切割。即使对一个有经验的剑客来说，从"
+"其长度上劈开整个Laeqad也是一项非凡的成就，因为需要精确瞄准，使刀刃与芦苇的软"
+"肋对齐。然而，对于一个真正的剑术大师来说，快速连续劈开几根Laeqad是很平常的，"
+"有些人甚至能在一剑之下同时劈开两三根芦苇。\n"
+"\n"
+"这个游戏在真正的战斗中有着更实际的意义。无论战士多么难以捉摸或装备多么精良，"
+"在面对爆破师时，防御似乎很少有意义。这些战士无疑是进攻性剑术的大师，甚至能够"
+"颠覆最坚固的防御工事。"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "scimitar"
-msgstr ""
+msgstr "弯刀"
 
 #. [unit_type]: id=Dune Burner, race=dunefolk
 msgid "Dune Burner"
 msgstr "沙丘灼烧者"
 
 #. [unit_type]: id=Dune Burner, race=dunefolk
+#, fuzzy
 msgid ""
 "An oft forgotten hazard of traversing the desert is the freezing cold that "
 "descends upon the sands during the night. To combat this, the Dunefolk "
@@ -974,10 +1003,16 @@ msgid ""
 "applicability of such a substance to warfare and regularly employ fire "
 "spouting weapons to sow chaos among their enemies."
 msgstr ""
+"穿越沙漠的一个经常被遗忘的危险是夜间降临在沙地上的冰冷。为了对付这种情况，"
+"Dunefolk人通常利用Sanbaar树的高度易燃的树液，这种树液在少量的情况下缓慢而温和"
+"地燃烧，提供适量的热量和照明。然而，在大量的情况下，Sanbaar树液几乎是可燃的，"
+"燃烧起来非常猛烈。Dunefolk很快意识到这种物质在战争中的适用性，并经常使用喷火"
+"的武器在敌人中制造混乱。"
 
 #. [attack]: type=fire
+#, fuzzy
 msgid "tar bomb"
-msgstr ""
+msgstr "焦油炸弹"
 
 #. [female]
 #, fuzzy
@@ -990,6 +1025,7 @@ msgid "Dune Captain"
 msgstr "沙丘重甲骑兵"
 
 #. [unit_type]: id=Dune Captain, race=dunefolk
+#, fuzzy
 msgid ""
 "Traditionally hailing from noble or military families, captains are the core "
 "of most Dunefolk platoons. Usually chosen based on heritage rather than "
@@ -1000,12 +1036,18 @@ msgid ""
 "for most soldiers, but they still readily follow the expert tactical "
 "direction of their captains."
 msgstr ""
+"传统上，队长来自贵族或军人家庭，是大多数Dunefolk排的核心。通常是根据遗产而不"
+"是功绩来选择的，许多军官通常刀枪不入，但在战术上仍有相当的训练。他们的能力主"
+"要在于将部队引向战略上有利的位置，而不是直接提高他们的士气。对于大多数士兵来"
+"说，这样的指挥官的存在很少能激发他们的斗志，但他们仍然很乐意听从他们队长的专"
+"业战术指导。"
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
 msgid "Dune Cataphract"
 msgstr "沙丘重甲骑兵"
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
+#, fuzzy
 msgid ""
 "Cataphracts are eminent horsemen, riders of mounts that are possessed less "
 "of speed or endurance but tremendous power instead. Bearing a lance along "
@@ -1019,6 +1061,12 @@ msgid ""
 "these riders in the slightest, and the displaced air of a descending mace is "
 "the last sound they hear."
 msgstr ""
+"卡塔夫拉是杰出的骑手，他们的坐骑不具备速度和耐力，而是拥有巨大的力量。这些战"
+"士手持长矛和他们标志性的马刀，通常是主攻后的次要攻击力量。在敌军已经被侧翼的"
+"剑士占领和削弱后，一个可怕的景象是一群长枪手排成一排，长枪准备就绪。盾牌手的"
+"队伍中出现了一个缺口，在一次冲锋中，这些强大的骑兵直接刺穿了敌人的阵型，一举"
+"造成致命的打击。那些试图迅速逃离的人发现，无论是沙子还是山丘，都丝毫不能阻挡"
+"这些骑手的脚步，而下降的长矛所带来的流离失所的空气是他们最后听到的声音。"
 
 #. [attack]: type=pierce
 msgid "composite bow"
@@ -1029,6 +1077,7 @@ msgid "Dune Explorer"
 msgstr "沙丘探险者"
 
 #. [unit_type]: id=Dune Explorer, race=dunefolk
+#, fuzzy
 msgid ""
 "A slow-moving caravan out in the open desert is a prime target for bandits "
 "or marauders. In order to protect themselves, the Dunefolk employ special "
@@ -1038,6 +1087,11 @@ msgid ""
 "longer act only as scouts for probing enemies, but are skilled enough to be "
 "effective flankers or potent shock attackers."
 msgstr ""
+"在空旷的沙漠中缓慢移动的商队是强盗或掠夺者的主要目标。为了保护自己，Dunefolk"
+"雇佣了特殊的战士来侦查和击退潜在的威胁。在这样做的时候，这些舰队战士不仅保护"
+"他们脆弱的商队，而且还为自己偷窃所谓的袭击者的物资。当被用于战争时，探险家们"
+"不再仅仅作为探测敌人的侦察兵，而是熟练到可以成为有效的侧翼或强大的冲击攻击"
+"者。"
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
 #, fuzzy
@@ -1045,6 +1099,7 @@ msgid "female^Dune Falconer"
 msgstr "死灵法师"
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
+#, fuzzy
 msgid ""
 "While well respected among the dunefolk, the art of falconry is relatively "
 "rare due to the time and skill required to properly train birds of prey. "
@@ -1060,6 +1115,14 @@ msgid ""
 "the least, forcing them to abandon their efforts on offense in order to "
 "defend themselves properly."
 msgstr ""
+"虽然在沙丘人中很受尊重，但由于正确训练猎物所需的时间和技能，猎鹰的艺术相对罕"
+"见。猎鹰人通常将他们的技艺用于运动或狩猎，尤其是在空旷的沙丘上侦察猎物和水"
+"源。同样的智慧在应用于战争时也是有用的，如果可以说服猎鹰人将他们的珍贵宠物用"
+"于战斗的目的。\n"
+"\n"
+"在战斗中，猎鹰可以帮助它的主人，用它锋利的爪子攻击敌人，也可以把它送到更高的"
+"空中，在头顶盘旋，在敌人转移注意力时进行攻击。在两个不同的战线上转移战士的注"
+"意力，至少可以说是相当分心的，迫使他们放弃进攻的努力，以便适当地保护自己。"
 
 #. [attack]: type=blade
 #, fuzzy
@@ -1071,6 +1134,7 @@ msgid "Dune Firetrooper"
 msgstr "沙丘狂炎兵"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
+#, fuzzy
 msgid ""
 "By refining Sanbaar sap through a very specific distillation process, it "
 "becomes possible to produce exceedingly flammable naphtha, which burns even "
@@ -1081,10 +1145,16 @@ msgid ""
 "of choice. The resulting destruction is more than enough to justify the use "
 "of such a hazardous chemical."
 msgstr ""
+"通过一个非常特殊的蒸馏过程提炼Sanbaar树液，就有可能生产出极其易燃的石脑油，其"
+"燃烧程度甚至比它的树液还要猛烈。当然，由于其高度可燃的性质，这种物质是非常危"
+"险的。大多数人不敢使用这种物质，因为自我伤害的可能性非常大，但也有少数胆大的"
+"人拿起以纯石脑油为燃料的喷火器作为他们的首选武器。由此产生的破坏足以证明使用"
+"这种危险化学品的合理性。"
 
 #. [attack]: type=fire
+#, fuzzy
 msgid "flamethrower"
-msgstr ""
+msgstr "火焰喷射器"
 
 #. [female]
 #, fuzzy
@@ -1097,6 +1167,7 @@ msgid "female^Dune Harrier"
 msgstr "沙丘侵掠者"
 
 #. [unit_type]: id=Dune Harrier, race=dunefolk
+#, fuzzy
 msgid ""
 "While harriers can fulfill a similar role to striders in hampering enemy "
 "forces, their epithet is actually derived from the harrier hawks they employ "
@@ -1109,12 +1180,19 @@ msgid ""
 "thrust of spears is often enough to severely cripple the target, allowing "
 "the main Dunefolk force to close in and finish the job."
 msgstr ""
+"虽然鹞子在阻碍敌军方面可以发挥类似黾勉的作用，但它们的绰号实际上是来自于它们"
+"所使用的鹞鹰，以保持与Dunefolk部队的大部分联系。最常见的是在敌后行动，鹞鹰的"
+"任务是提供关于敌方部队动向的有用情报，这一点就足以让大多数Dunefolk军队战胜他"
+"们的敌人的优势。然而，当时机成熟时，这些敏捷的战士会聚集在一起，对被削弱的补"
+"给线或侧翼的后方进行攻击。在长矛的刺击下，一连串的弹雨往往足以使目标严重瘫"
+"痪，从而使邓尼佛克人的主力部队能够靠近并完成任务。"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 msgid "Dune Herbalist"
 msgstr "沙丘草药师"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
+#, fuzzy
 msgid ""
 "As those responsible for caring for the ill and wounded among the Dunefolk, "
 "herbalists possess both the medicinal skills to heal a variety of "
@@ -1129,6 +1207,14 @@ msgid ""
 "of the various flora and fauna that supply their work. Hardened by their "
 "travels, many of these men are even able to heal themselves."
 msgstr ""
+"作为负责照顾Dunefolk中的病人和伤员的人，草药师既拥有治疗各种疾病的医药技能，"
+"也拥有寻找和收集恢复性草药的技能。他们的动机有很多；有些人把它当作一种冒险或"
+"稳定的报酬来源，而有些人则认为这是对社会的一种责任。不管是什么原因，这些治疗"
+"师都是Dunefolk社会的一个宝贵部分，尤其是他们在战斗中或在沙漠中旅行时进行快速"
+"治疗的能力非常有用。\n"
+"\n"
+"即使在游牧的Dunefolk人中，草药师也会为了寻找各种植物和动物来提供他们的工作而"
+"进行大量的旅行。经过旅行的磨练，这些人中的许多人甚至能够治愈自己。"
 
 #. [unit_type]: id=Dune Horse Archer, race=dunefolk
 #, fuzzy
@@ -1136,6 +1222,7 @@ msgid "Dune Horse Archer"
 msgstr "沙丘焦燃者"
 
 #. [unit_type]: id=Dune Horse Archer, race=dunefolk
+#, fuzzy
 msgid ""
 "Though relatively few in number, some riders favor archery as their "
 "technique of choice for battle. Fleet and elusive, these horsemen are "
@@ -1145,6 +1232,10 @@ msgid ""
 "long-ranged arrows is of great use to maintain communication among the "
 "Dunefolk armies."
 msgstr ""
+"虽然数量相对较少，但一些骑手喜欢用射箭作为他们的战斗技术选择。这些骑手行动敏"
+"捷，难以捉摸，他们善于用箭矢骚扰行动不便的敌人，并从远处追捕逃亡的敌人。虽然"
+"通常不是为了渗透或刺探而训练，但这些马夫用他们的远程箭矢从远处传递信息的能力"
+"对保持Dunefolk军队之间的沟通有很大作用。"
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
 #, fuzzy
@@ -1152,6 +1243,7 @@ msgid "Dune Luminary"
 msgstr "沙丘灼烧者"
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
+#, fuzzy
 msgid ""
 "On the surface, it is not entirely clear what distinguishes a Luminary from "
 "other healers among the Dunefolk. Certainly, a Luminary may be marginally "
@@ -1167,12 +1259,21 @@ msgid ""
 "proven, but the fact remains that some Luminaries seem to hold much more "
 "influence than their abilities should afford."
 msgstr ""
+"从表面上看，并不完全清楚发光体与Dunefolk中的其他治疗师有什么区别。当然，与普"
+"通的草药师或药剂师相比，发光体可能会有更多的知识，更多的旅行，或更熟练的战斗"
+"技巧，但这种差异通常充其量也是有限的。尽管如此，\"路明 \"是授予Dunefolk治疗师"
+"最高等级的正式头衔，赋予这些人最大的尊重和最大的嫉妒。\n"
+"\n"
+"有一些猜测认为，在发光体中存在一个秘密秩序。这些所谓的 \"Eminents \"囤积了大"
+"量的禁忌知识，并从暗处为许多Dunefolk领导人提供建议。这样的事情从来没有被证实"
+"过，但事实是，一些发光体似乎拥有比他们的能力所能承受的更大的影响力。"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 msgid "Dune Marauder"
 msgstr "沙丘掠袭骑"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
+#, fuzzy
 msgid ""
 "Some find themselves well suited to the life of a raider and may even form "
 "their own clans with like-minded individuals. Ever roaming the deserts for "
@@ -1186,6 +1287,13 @@ msgid ""
 "For this reason, they are sometimes hired by small armies or wealthier "
 "caravans as a deterrent to unwanted raids."
 msgstr ""
+"有些人发现自己很适合突击队员的生活，甚至可能与志同道合的人组成自己的部族。这"
+"些骑兵经常在沙漠中游荡，寻找不小心的旅行者或脆弱的商队，他们以搜刮和偷窃为"
+"生。掠夺者没有特别的专长，他们既不是最强壮的战士，也不是最灵巧的弓箭手，但由"
+"于他们纯粹的机动性，是沙漠中最危险的敌人之一。一次协调的掠夺者攻击可以在任何"
+"反应之前消灭中等规模的营地，而游击战术可能使他们在面对强敌时取得胜利，而蛮力"
+"却不能。出于这个原因，他们有时会被小型军队或较富裕的商队雇佣，作为对不受欢迎"
+"的袭击的威慑。"
 
 #. [attack]: type=fire
 msgid "torch"
@@ -1197,6 +1305,7 @@ msgid "Dune Paragon"
 msgstr "沙丘掠袭骑"
 
 #. [unit_type]: id=Dune Paragon, race=dunefolk
+#, fuzzy
 msgid ""
 "In many Dunefolk city-states, the procedure for selecting the next "
 "generation of leaders is a long process that takes place over many years. In "
@@ -1220,6 +1329,19 @@ msgid ""
 "acuity who may then be considered as candidates to lead the next generation "
 "of Dunefolk."
 msgstr ""
+"在许多Dunefolk城邦中，挑选下一代领导人的程序是一个漫长的过程，需要花费很多年"
+"时间。在每一代中，贵族中一些特别有天赋的年轻人被挑选出来进行特别辅导。吃饭、"
+"睡觉和训练，这些战士学习生活和呼吸剑术--甚至超过了自己的延伸，成为他们的核心"
+"身份。从青春期开始，十年的高强度训练为最后的测试铺平了道路，即这些战士之间的"
+"一系列生死决斗。当尘埃落定，过程结束时，还剩下八个人。这些人被授予Kal的称号，"
+"或统称为Kalai。\n"
+"\n"
+"在Dunefolk中，虽然伟大的领袖被要求掌握剑术，但统治阶层必须知道的东西远远超过"
+"了单纯的剑术。艰苦的操练之后，通常要在沙漠中漫游数年，或者把心思用在科学上。"
+"这样做的目的是为了找到一条自我激励的启蒙之路。不管是哪种情况，在第二个训练期"
+"结束时，剩下的卡莱人将返回并向当前统治种姓的长老们展示他们的知识。那些被认为"
+"有价值的人被称为帕拉贡（Paragon），是具有强大力量和敏锐性的战士，然后可以被考"
+"虑作为领导下一代Dunefolk的候选人。"
 
 #. [attack]: type=impact
 msgid "pommel strike"
@@ -1230,6 +1352,7 @@ msgid "Dune Raider"
 msgstr "沙丘劫掠骑"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
+#, fuzzy
 msgid ""
 "Though rarely found in organized armies, raiders are a staple among the "
 "nomadic Dunefolk, who regularly ambush rival caravans and camps at night. In "
@@ -1240,12 +1363,18 @@ msgid ""
 "Dunefolk, capable of outpacing nearly anything they might encounter in the "
 "sandy deserts."
 msgstr ""
+"虽然很少有有组织的军队，但突击队员是游牧的Dunefolk中的主力军，他们经常在夜间"
+"伏击对手的商队和营地。在这些情况下，原始力量并不重要。最重要的是速度--在最短"
+"的时间内迅速出击并散布尽可能多的混乱，使这些骑手能够在闪电战中进退自如，而不"
+"必担心遭到反击。袭击者是遁地者中速度最快的，几乎能够超过他们在沙地沙漠中可能"
+"遇到的任何东西。"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 msgid "Dune Rider"
 msgstr "沙丘骑手"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
+#, fuzzy
 msgid ""
 "The Dunefolk are prominent horse breeders who raise many different varieties "
 "of mounts to fulfill various purposes. Those who are used for hard labor are "
@@ -1257,6 +1386,11 @@ msgid ""
 "is what allows these horsemen to be so effective and versatile out on the "
 "rolling dunes."
 msgstr ""
+"Dunefolk是著名的马匹饲养者，他们饲养了许多不同品种的坐骑以满足不同的目的。那"
+"些被用来做苦力的马是为了获得力量，而那些用于旅行或商队的马是为了获得耐力。对"
+"于战争来说，各种特征的混合通常是最好的，尽管容易和快速穿越沙地的能力是最重要"
+"的。这些马的骑手主要是作为侦察兵和信使，或者偶尔作为被削弱的线路的支持力量。"
+"机动性这一关键特征使这些骑手能够在起伏的沙丘上如此有效和多变。"
 
 #. [unit_type]: id=Dune Rover, race=dunefolk
 msgid "Dune Rover"
@@ -1283,6 +1417,7 @@ msgid "Dune Scorcher"
 msgstr "沙丘焦燃者"
 
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
+#, fuzzy
 msgid ""
 "The scorcher’s moniker is derived not from the destruction they wreak on "
 "adversarial formations, but on their own singed appearances. By "
@@ -1292,6 +1427,10 @@ msgid ""
 "in their work, these archers relish igniting great swaths of flame on the "
 "battlefield, though this sometimes also results in unintended friendly fire."
 msgstr ""
+"灼烧者的名字不是来自于他们对敌方阵营的破坏，而是来自于他们自己被烧焦的外表。"
+"通过无休止地试验他们的装备，大多数炙热者不可避免地在某些时候超越了他们的界"
+"限，并被浸泡在他们的武器中的极易挥发的桑巴尔树液烧伤。作为他们工作的骄傲，这"
+"些弓箭手喜欢在战场上点燃大面积的火焰，尽管这有时也会导致意外的友军射击。"
 
 #. [female]
 #, fuzzy
@@ -1304,6 +1443,7 @@ msgid "female^Dune Skirmisher"
 msgstr "沙丘散兵"
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
+#, fuzzy
 msgid ""
 "Born and raised out on the open sands, skirmishers are accustomed to the "
 "harsh, arid desert heat and inhospitable terrain. Compared to even other "
@@ -1315,6 +1455,11 @@ msgid ""
 "assassinating key units, or pincering an enemy formation into a "
 "disadvantageous position."
 msgstr ""
+"在空旷的沙地上出生和长大，小兵们已经习惯了严酷的、干旱的沙漠高温和荒凉的地"
+"形。与其他Dunefolk相比，这些游牧民族在不稳定的沙丘上有着非同寻常的灵活性，使"
+"他们能够轻松地保护他们的牧群和狩猎荒原。当应用于战斗时，同样的敏捷性使他们既"
+"能溜过敌人的防线，又能避开各种形式的攻击。这些技能使小兵成为有效的破坏者，能"
+"够切断逃跑路线和补给线，暗杀关键单位，或将敌人的阵型夹在不利的位置。"
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
 #, fuzzy
@@ -1322,6 +1467,7 @@ msgid "female^Dune Sky Hunter"
 msgstr "人鱼猎手"
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
+#, fuzzy
 msgid ""
 "Often mistaken for young Rocs, desert eagles are large, majestic birds of "
 "prey who are notoriously aggressive and nearly impossible to tame. In the "
@@ -1334,16 +1480,24 @@ msgid ""
 "tools for combat, the eagles can live for up to a few decades and are often "
 "precious companions to their dunefolk partners."
 msgstr ""
+"沙漠之鹰常常被误认为是年轻的大鹏鸟，它们是大型的、雄伟的猎物，具有臭名昭著的"
+"攻击性，几乎不可能被驯服。在野外，老鹰以大型猎物为食，如狼、小马，据说还有调"
+"皮的小孩子。这些生物的力量使它们非常难以对付，只有最熟练的猎鹰人甚至敢于接近"
+"它们。如果驯鸟师真的成功了，鸟和猎人之间的关系就不再是主人和宠物的关系，而更"
+"像是两个平等者之间的相互联系。鹰不仅是战斗的工具，还可以活上几十年，而且往往"
+"是它们的地下居民伙伴的宝贵伙伴。"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "eagle"
-msgstr ""
+msgstr "老鹰"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 msgid "Dune Soldier"
 msgstr "沙丘士兵"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
+#, fuzzy
 msgid ""
 "While most Dunefolk castes serve an additional practical purpose beyond only "
 "direct warfare, cities and caravans usually train a group of soldiers "
@@ -1354,12 +1508,18 @@ msgid ""
 "spaced pattern, allowing them to assault and overwhelm clustered enemy lines "
 "by engaging them in quasi-single combat."
 msgstr ""
+"虽然大多数Dunefolk种姓在直接战争之外还有一个额外的实用目的，但城市和商队通常"
+"会训练一批完全致力于军事目的的士兵。通过密集的练习来磨练他们的剑术技能，这些"
+"战士学会了在近距离的棘手战斗中游刃有余，通过近战来掌握敌人。一个典型的"
+"Dunefolk阵型通过将士兵放置在一个间隔的模式中来利用这种敏捷性，使他们能够通过"
+"与敌人的准单兵作战来突击和压倒集群的敌人。"
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
 msgid "Dune Spearguard"
 msgstr "沙丘矛卫"
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
+#, fuzzy
 msgid ""
 "The push and pull of any battle requires varying degrees of offense and "
 "defense. The Dunefolk no doubt value offense as the greater of the two and "
@@ -1372,12 +1532,19 @@ msgid ""
 "combat than their sword-wielding brethren, they are highly skilled with "
 "spear and shield and more than capable of repelling most advances."
 msgstr ""
+"任何战斗的推动和拉动都需要不同程度的进攻和防御。毫无疑问，Dunefolk人重视进"
+"攻，并通常将大部分精力放在训练熟练的剑客上。然而，在任何一支战士队伍中，有一"
+"小部分士兵选择放弃他们的剑，转而履行防御者的重要角色。守卫着关键的补给线和有"
+"利位置，长矛护卫队最常被安排在主线的稍后位置，作为支援力量或对侧翼攻击的威"
+"慑。虽然这些战士往往比他们挥舞着剑的兄弟们更少看到直接的战斗，但他们对长矛和"
+"盾牌的熟练程度很高，更有能力击退大多数的进攻。"
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
 msgid "Dune Spearmaster"
 msgstr "沙丘矛圣"
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
+#, fuzzy
 msgid ""
 "Among Dunefolk armies, the highest prestige goes to the master swordsmen "
 "leading every assault. Though honored for their service in battle, those who "
@@ -1398,6 +1565,19 @@ msgid ""
 "distinction, it is still a modicum of recognition for those who were "
 "prepared to die as nameless martyrs to protect their brethren."
 msgstr ""
+"在Dunefolk军队中，最高的声望归于领导每次进攻的剑术大师。虽然他们在战斗中的表"
+"现受到了表彰，但那些挥舞着长矛和盾牌的人在很大程度上被遗忘了，他们通常在战斗"
+"中扮演着最不受欢迎的角色，没有荣耀和认可。当Dunefolk的进攻失败，必须撤退时，"
+"通常会留下一排长矛护卫来抵御反击。虽然提供了一个强大的防御，但盾牌阵线不可避"
+"免地被压倒，大部分的防御者都被战火吞噬了。如果有一个人设法存活下来，并找到了"
+"回到休养生息的军队的方法，他往往会因为没有坚守阵地而受到训斥，并与其他无名的"
+"兄弟们一起死去。然而，在受到轻微的责备后，战士被接纳回来，并带着他来之不易的"
+"经验参加下一场战斗。\n"
+"\n"
+"这不是一个正式的头衔，但 \"长矛手 \"是长矛卫士对他们的同伴的称呼，他们设法从"
+"通常是自杀式的防御中返回，Dunefolk骑着马掩护他们撤退。这几乎不是一个赞美或区"
+"分的术语，它仍然是对那些准备作为无名烈士为保护他们的兄弟而牺牲的人的一种适度"
+"认可。"
 
 #. [unit_type]: id=Dune Strider, race=dunefolk
 #, fuzzy
@@ -1405,6 +1585,7 @@ msgid "female^Dune Strider"
 msgstr "沙丘迅骑"
 
 #. [unit_type]: id=Dune Strider, race=dunefolk
+#, fuzzy
 msgid ""
 "The power of any Dunefolk assault is inhibited by one major drawback: "
 "organized Dunefolk forces tend to be rather slow. Because of this, enemy "
@@ -1418,12 +1599,20 @@ msgid ""
 "striders are fairly fragile in direct combat and are easily taken down if "
 "left exposed."
 msgstr ""
+"任何Dunefolk攻击的力量都被一个主要的缺点所抑制：有组织的Dunefolk部队往往相当"
+"缓慢。正因为如此，敌军往往有能力重新集结并召集援军，在这种情况下，第二次进攻"
+"就变得更加困难。为了解决这个问题，黾勉者将他们简陋的弹弓换成了沉重的弹弓，使"
+"他们能够从侧面拖住撤退的队伍，并防止其顺利逃脱。同样的战术也可以应用于"
+"Dunefolk撤退的相反情况；前进的军队可以受到阻碍，让受伤的Dunefolk战士有时间休"
+"整。这种战术的危险之处在于，尽管黾勉者难以捉摸，但他们在直接战斗中相当脆弱，"
+"如果让他们暴露在外，很容易被击倒。"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 msgid "Dune Sunderer"
 msgstr "沙丘裂断骑"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
+#, fuzzy
 msgid ""
 "Among the many different type of Dune horsemen, there are those who most "
 "enjoy the frantic melee at the heart of battle. Bearing short-ranged maces, "
@@ -1435,12 +1624,18 @@ msgid ""
 "enough skill at archery to weaken enemy forces or pick off fleeing "
 "stragglers."
 msgstr ""
+"在众多不同类型的沙丘骑兵中，有一些人最喜欢在战斗的中心进行疯狂的混战。带着短"
+"程的马刀，这些桑德尔人是结实、强壮的战士，他们的性格和技能都能在多次小规模战"
+"斗中生存下来。虽然不是特别有创造力或特殊的战士，但这样的骑手在任何方面都不是"
+"无能的--即使是一小群桑德勒，也足以通过纯粹的力量突破大多数敌人的防线。在需要"
+"的情况下，这些骑士也拥有足够的射箭技能来削弱敌人的力量或挑掉逃跑的散兵。"
 
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
 msgid "Dune Swordsman"
 msgstr "沙丘剑士"
 
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
+#, fuzzy
 msgid ""
 "In a direct clash of large armies, the Dunefolk commonly encounter either "
 "densely packed ‘shield walls’ or heavily fortified enemy positions. Striking "
@@ -1454,20 +1649,29 @@ msgid ""
 "accuracy, a contingent of of swordsmen is enough to crack even the sternest "
 "of defenses."
 msgstr ""
+"在大型军队的直接冲突中，Dunefolk通常会遇到密密麻麻的 \"盾墙 \"或重兵把守的敌"
+"人阵地。对这些高度组织化的战线进行打击是相当具有挑战性的--敌人的阵型可能只在"
+"盾牌和盔甲之间留下小而短暂的空隙，同时用长矛和投射物的推力来威胁反击。因此，"
+"Dunefolk的剑术非常强调力量，更重要的是强调精确度。一个战士可能只找到一个机会"
+"来攻击敌人，但一个有经验的剑客更有可能抓住机会，让他的攻击发挥作用。剑客们以"
+"几乎非自然的精确性进行磨练，甚至足以破解最严密的防御。"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "forceful scimitar strike"
-msgstr ""
+msgstr "强力的弯刀攻击"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "balanced scimitar slash"
-msgstr ""
+msgstr "平衡式弯刀砍击"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 msgid "Dune Warmaster"
 msgstr "沙丘战帅"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
+#, fuzzy
 msgid ""
 "In direct contrast with other Dunefolk commanders, many high-ranking "
 "generals focus heavily on rousing their troops and maintaining high morale. "
@@ -1479,6 +1683,12 @@ msgid ""
 "rather than formal training. Said to be a veteran of a thousand battles, a "
 "warmaster is an expert leader that should never be underestimated."
 msgstr ""
+"与其他Dunefolk指挥官形成直接对比的是，许多高级将领都非常注重唤醒他们的部队并"
+"保持高昂的士气。暖男们经常出现在战斗的最前线，与他们的士兵一起战斗和流血。虽"
+"然这些指挥官通常把更精细的战略细节留给他们的低级队长，但他们肯定也是有能力的"
+"战术家；许多战役都是靠别出心裁或出其不意的演习赢得的，而这往往是战斗经验而非"
+"正式训练的创造性副产品。据称，作为一名身经百战的老兵，热血战士是一个永远不应"
+"该被低估的专家级领导。"
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #, fuzzy
@@ -1486,6 +1696,7 @@ msgid "Dune Wayfarer"
 msgstr "沙丘战帅"
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
+#, fuzzy
 msgid ""
 "From the journal of Balah, the Dune Watcher:\n"
 "\n"
@@ -1517,6 +1728,28 @@ msgid ""
 "the other Wayfarers again. My tale might not be that impressive to them, but "
 "at least it is an improvement over my previous encounter with the wyvern...”"
 msgstr ""
+"来自沙丘守望者巴拉的日记。\n"
+"\n"
+"\"......今天是第六天了。在沙漠中追赶了六天，没有睡觉，没有休息......但我也不"
+"需要。血眼大鹏抢走了我太多的兽群，供它贪婪地享用。我必须在商队饿死之前把它赶"
+"走。我已经追踪到它了，不管它逃得多远，我都会跟着。\n"
+"\n"
+"......轰掉它那怪物离我只有几百步远，但太阳却照到了我的眼睛！这时，我才发现，"
+"原来我的眼睛已经被遮住了。我成功地在这个令人讨厌的东西身上射了几箭，但只够让"
+"它减速。不过，它似乎比我累得更快。如果幸运的话，我将在它到达山区之前抓住"
+"它。\n"
+"\n"
+"...第十一天。在它落到山坡上后，我把它逼到了角落里，但还有三只我没有考虑到。大"
+"鹏鸟在近距离内是凶猛的生物。打击一只已经不是简单的任务，但同时有四只？我很庆"
+"幸自己带了第二把斧头，否则在那场战斗中我就会受重伤。现在，我正在等待我的腿上"
+"的纱布凝固，然后再返回去杀死最后两个。也许那时我终于可以找到时间吃饭和休息"
+"了。\n"
+"\n"
+"......连我自己都感到惊讶，我在21天的探险中几乎走过了北方沙丘的一半。大篷车需"
+"要近三个月的时间才能完成这一行程，但我想，我的旅程周围的情况是有些情有可原"
+"的。好的一面是，我在沿途能够采购到一些盐渍大鹏鸟的肉，这对孩子们来说应该是一"
+"种很好的享受。能再次见到其他一些路人，也是一件好事。我的故事对他们来说可能并"
+"不那么令人印象深刻，但至少比我之前与狼人的遭遇要好......\""
 
 #. [unit_type]: id=Dune Windbolt, race=dunefolk
 #, fuzzy
@@ -1524,6 +1757,7 @@ msgid "Dune Windbolt"
 msgstr "沙丘风骑"
 
 #. [unit_type]: id=Dune Windbolt, race=dunefolk
+#, fuzzy
 msgid ""
 "Archery on horseback presents a number of additional challenges that very "
 "few are able to overcome. What separates the renowned windbolts from other "
@@ -1536,6 +1770,12 @@ msgid ""
 "able to otherwise. Having honed their craft to its apex, windbolts are the "
 "undisputed masters of ranged combat among the Dunefolk."
 msgstr ""
+"马背上的射箭提出了一些额外的挑战，很少有人能够克服。著名的风伯与其他弓箭手的"
+"区别在于，他们不仅能掌握这些困难，而且能将其转化为优势。利用他们的骏马的巨大"
+"速度，风伯实际上是一个更好的弓箭手，当骑马比在陆地上。骑在马背上的额外动力为"
+"他们本已有力的射击提供了额外的力量，通过骑在蜿蜒的模式中，这些弓箭手能够弯曲"
+"他们的箭的轨迹，达到他们可能无法达到的目标。在将他们的技艺磨练到极致之后，风"
+"伯是Dunefolk中无可争议的远程战斗大师。"
 
 #. [unit_type]: id=Wyvern Rider, race=monster, description=
 #, fuzzy
@@ -1775,6 +2015,7 @@ msgid "Elvish Avenger"
 msgstr "精灵复仇者"
 
 #. [unit_type]: id=Elvish Avenger, race=elf
+#, fuzzy
 msgid ""
 "The curious name of the Elvish ‘Avengers’ comes from a tactic often employed "
 "by these master rangers. The enemy is allowed to break through a feint "
@@ -1784,12 +2025,17 @@ msgid ""
 "vengeance for their brethren lost earlier in the battle. While not so base "
 "in design, it is not at all inaccurate."
 msgstr ""
+"精灵族 \"复仇者 \"的奇特名字来自于这些游骑兵大师经常采用的一种战术。允许敌人"
+"突破佯攻的防线，当前线后方的脆弱部队跟上时，这些弓箭手就会打破掩护，发动攻"
+"击，切断补给线，一举包围敌人。这有时被解释为对他们在战斗中早先失去的弟兄们的"
+"一种报复形式。虽然在设计上不那么基础，但也不是一点都不准确。"
 
 #. [special_note]
+#, fuzzy
 msgid ""
 "Elvish Avengers are well-traveled and adept at traversing harsh terrains "
 "like sand, water, and mountains."
-msgstr ""
+msgstr "精灵族的复仇者们游刃有余，善于穿越沙地、水面和山地等恶劣的地形。"
 
 #. [female]
 msgid "female^Elvish Avenger"
@@ -1846,6 +2092,7 @@ msgid "female^Elvish Druid"
 msgstr "精灵德鲁伊"
 
 #. [unit_type]: id=Elvish Druid, race=elf
+#, fuzzy
 msgid ""
 "Some elves choose to deepen their connection to the corporeal world, thereby "
 "enhancing their already potent abilities to foster and manipulate natural "
@@ -1859,6 +2106,13 @@ msgid ""
 "the druids’ careful tending, the forest kindles their magics in turn, "
 "symbiotically enhancing the already potent powers that these elves possess."
 msgstr ""
+"一些精灵选择加深他们与肉体世界的联系，从而增强他们已经很强大的培养和操纵自然"
+"能量的能力。也许这些德鲁伊的魔法最显著的效果是他们所保护的深山林地中明显的运"
+"动感。徘徊在精灵族森林中的外来者经常说到缠绕在一起的树根和藤蔓，它们的移动速"
+"度几乎和战士的行军速度一样快，或者古树吱吱嘎嘎的晃动，在一个晚上就能穿过整个"
+"营地。森林和大地几乎成为一个相连的实体，像一个巨大的有机体一样生活和呼吸的东"
+"西。当它在德鲁伊们的精心照料下茁壮成长时，森林反过来点燃了他们的魔法，共生地"
+"增强了这些精灵们已经拥有的强大力量。"
 
 #. [attack]: type=impact
 msgid "ensnare"
@@ -1869,6 +2123,7 @@ msgid "female^Elvish Enchantress"
 msgstr "精灵魔女"
 
 #. [unit_type]: id=Elvish Enchantress, race=elf
+#, fuzzy
 msgid ""
 "In the context of Elven magic, the notion of enchanting is a little bit "
 "misleading since it almost always refers to manipulation of an object’s "
@@ -1881,6 +2136,12 @@ msgid ""
 "well-regarded by most of their kin and sometimes called upon for guidance "
 "especially in unusual or peculiar matters."
 msgstr ""
+"在精灵族的魔法中，施展魔法的概念有点误导，因为它几乎总是指为了占卜或洞察力而"
+"操纵一个物体的本质。在相应的女魔法师中，最受欢迎的是用奥术的气息熏陶她们的自"
+"然环境，产生存在于肉体世界和虚无世界之间的秘密小树林。这些神秘的领地由同样神"
+"秘的看守人看管，他们大多独来独往，远离窥视。虽然这些精灵相当拘谨，不善交际，"
+"但他们受到大多数亲属的尊重，有时会被要求提供指导，特别是在不寻常或特殊的事情"
+"上。"
 
 #. [attack]: type=impact
 msgid "entangle"
@@ -1942,6 +2203,7 @@ msgid "Elvish High Lord"
 msgstr "高阶精灵领主"
 
 #. [unit_type]: id=Elvish High Lord, race=elf
+#, fuzzy
 msgid ""
 "While the duality of Elven magic manifests itself most strongly in the split "
 "paths between the corporeal and arcane worlds, the same dichotomy is "
@@ -1960,12 +2222,24 @@ msgid ""
 "lords is invaluable for maintaining the prosperity of Elvish rule, whether "
 "or not they sit at the top of the chain of command."
 msgstr ""
+"虽然精灵族魔法的双重性在肉体世界和奥术世界之间的分裂道路上表现得最为强烈，但"
+"同样的二分法也反映在精灵族的贵族队伍中。部分原因是由于他们对精灵之火的使用，"
+"大多数领主发现自己与女魔法师紧密相连，从而将自己与洞察力和毁灭方面联系起来。"
+"虽然与智慧不同，但领主的直觉通常是值得尊重的，而他的愤怒则令人畏惧。这一点只"
+"会随着年龄的增长而变得更加真实，因为时间给精灵的头脑和感官带来了敏锐的感"
+"觉。\n"
+"\n"
+"外人认为存在一个 \"高级领主 \"的上层阶级，这通常是一个谬论，因为这些有经验的"
+"精灵在感知和力量上都有很大的差距。实际上，精灵统治的等级制度在不同的飞地之间"
+"是不同的，在和平与战争时期也是不同的。唯一可以肯定的是，这些领主的敏锐度对于"
+"维持精灵统治的繁荣是非常宝贵的，无论他们是否坐在指挥系统的顶端。"
 
 #. [unit_type]: id=Elvish Lady, race=elf
 msgid "female^Elvish Lady"
 msgstr "精灵女领主"
 
 #. [unit_type]: id=Elvish Lady, race=elf
+#, fuzzy
 msgid ""
 "Usually strongly connected with the earthly aspect of Elven magic, noble "
 "ladies of the elvish enclaves are associated with wisdom and preservation. "
@@ -1979,6 +2253,12 @@ msgid ""
 "peacekeepers, holding high authority during times of amity and taking a "
 "lesser role in times of war."
 msgstr ""
+"通常与精灵魔法的尘世方面紧密相连，精灵飞地的贵族女士与智慧和保护有关。作为那"
+"些被委托维护许多更受尊敬的精灵族传统的人，她们在维护其著名的森林圣地的宁静和"
+"自然奇迹方面发挥了很大的作用。与她们的领主不同，许多领主通过使用奥术魔法获得"
+"了巨大的个人洞察力，大多数女士将她们的权力分散到她们所指导的社会秩序中，往往"
+"要付出一些个人能力的代价。出于这个原因，她们最常担任的是外交官和维和人员，在"
+"友好时期拥有很高的权威，而在战争时期则扮演较低的角色。"
 
 #. [unit_type]: id=Elvish Lord, race=elf
 msgid "Elvish Lord"
@@ -2081,6 +2361,7 @@ msgid "Elvish Outrider"
 msgstr "精灵骑卫兵"
 
 #. [unit_type]: id=Elvish Outrider, race=elf
+#, fuzzy
 msgid ""
 "There once was an elf by the name of Beirand, who set out on a journey to a "
 "distant land.\n"
@@ -2112,6 +2393,23 @@ msgid ""
 "The truth of this tale, one can only surmise, but doubtless, Outriders the "
 "fastest do comprise."
 msgstr ""
+"从前有一个叫贝兰的精灵，他踏上了前往远方的旅程。\n"
+"他骑了13天，没有休息，直到他进入一个湖边的仙女的住所。\n"
+"\"看那里，娜丽亚！\"欢呼声传来，\"你看到那边的苹果树了吗？\"\n"
+"回应她的是一声马嘶，她高兴地跳了起来，然后飞快地跳了起来。\n"
+"没过一会儿，一阵狂风吹过，四周响起了空气般的声音。\n"
+"\"等一下，你这个精灵，这片树林是我的--我不会给你和你的马儿任何果实。\"\n"
+"接下来是回答：\"请给我们喘息的机会。我们已经走了很久，请你看看我们的困境！"
+"\"\n"
+"\"疲劳，我知道，这是你的情况，但为了赢得我的恩典，让我们来一场比赛。\"\n"
+"对此，骑手同意了，并向树上走去，然后他们就走了。\n"
+"一声嚎叫，一阵急促，一阵飞扬的大风，风把骑手甩在了尾巴上。\n"
+"但在一阵闪电般的奔跑中，马和骑手在风中几乎没有吱声。\n"
+"在增加的时间里，他们来回奔跑，直到最后，精灵舰队抵达前方。\n"
+"\"干得好，\"精灵说，她吹了口气，\"我将给予你和你所有的亲属我的恩典。\"\n"
+"贝兰德和娜丽亚就这样离开了，永远带着仙女的缓和。\n"
+"\n"
+"这个故事的真实性，人们只能猜测，但毫无疑问，外乡人的速度是最快的。"
 
 #. [unit_type]: id=Elvish Ranger, race=elf
 msgid "Elvish Ranger"
@@ -2138,10 +2436,11 @@ msgstr ""
 "而不是去冒与森林中的游侠进行游击战的风险。"
 
 #. [special_note]
+#, fuzzy
 msgid ""
 "Elvish Rangers are well-traveled and adept at traversing harsh terrains like "
 "sand, water, and mountains."
-msgstr ""
+msgstr "精灵游骑兵游刃有余，善于穿越沙地、水面和山地等恶劣的地形。"
 
 #. [female]
 msgid "female^Elvish Ranger"
@@ -2207,6 +2506,7 @@ msgid "female^Elvish Shaman"
 msgstr "精灵萨满"
 
 #. [unit_type]: id=Elvish Shaman, race=elf
+#, fuzzy
 msgid ""
 "With a little training, an elf’s inherent affinity with the natural world "
 "can be channeled into a material magic that affects the physical plane. "
@@ -2217,6 +2517,11 @@ msgid ""
 "peaceful by nature, these shamans rarely engage in combat, instead using "
 "their magic to command the earth itself to hinder or pacify their enemies."
 msgstr ""
+"只要稍加训练，精灵与生俱来的对自然界的亲和力就可以被引导到影响物理层面的物质"
+"魔法中。这个学科的巫师最常使用他们的技能来照顾与他们的力量相连的大自然，从而"
+"使他们的家园周围出现了异常茂盛和青翠的森林。同样的魔法也使他们在治疗艺术方面"
+"具有非凡的、众所周知的能力。这些巫师天性虔诚和平，很少参与战斗，而是用他们的"
+"魔法指挥大地本身来阻碍或安抚他们的敌人。"
 
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 msgid "Elvish Sharpshooter"
@@ -2247,6 +2552,7 @@ msgid "female^Elvish Sharpshooter"
 msgstr "精灵神射手"
 
 #. [unit_type]: id=Elvish Shyde, race=elf
+#, fuzzy
 msgid ""
 "As an elf maiden entwines herself more and more with nature, the essence of "
 "earth begins to transform her body. The butterfly wings that sprout on the "
@@ -2257,6 +2563,11 @@ msgid ""
 "for true faerie or ‘forest spirits’, these stewards of the forests epitomize "
 "their people’s mysterious connection with the natural order."
 msgstr ""
+"随着精灵少女越来越多地与自然纠缠在一起，大地的精华开始改造她的身体。瑟德背上"
+"长出的蝴蝶翅膀是她与精灵联系的直接表现，赋予她特有的既宁静又恐惧的空灵气质。"
+"瑟德是世俗的大师，由一种鲜为人知的力量引导，但却受到其他同类的极大尊重。他们"
+"经常被误认为是真正的精灵或 \"森林之灵\"，这些森林的管家是他们的人民与自然秩序"
+"的神秘联系的缩影。"
 
 #. [attack]: type=impact
 msgid "faerie touch"
@@ -2267,6 +2578,7 @@ msgid "female^Elvish Sorceress"
 msgstr "精灵女巫"
 
 #. [unit_type]: id=Elvish Sorceress, race=elf
+#, fuzzy
 msgid ""
 "Elven magic most commonly diverges among two paths — manipulation of the "
 "natural, or corporeal world, and divination into the arcane plane. The "
@@ -2280,12 +2592,19 @@ msgid ""
 "nonetheless hold the arcane flame in high regard and are careful to utilize "
 "it with judicious caution."
 msgstr ""
+"精灵的魔法通常分为两种途径--对自然或肉体世界的操纵，以及对奥术界的占卜。后者"
+"作为一种难以控制的力量，甚至被大多数修行者所理解，并不常被精灵们所追求。掌握"
+"奥术的人在研究其学科的不稳定性质时面临着巨大的风险，并很快学会尊重其技艺的破"
+"坏性力量。这种破坏性最常表现为 \"精灵之火 \"的喷发，这是精灵女巫最容易掌握的"
+"技能之一。虽然这种艺术的应用相当肤浅，但精灵们还是高度重视奥术火焰，并小心翼"
+"翼地谨慎利用它。"
 
 #. [unit_type]: id=Elvish Sylph, race=elf
 msgid "female^Elvish Sylph"
 msgstr "青空仙灵"
 
 #. [unit_type]: id=Elvish Sylph, race=elf
+#, fuzzy
 msgid ""
 "Tremendously powerful in unfathomable ways, the sage-like Sylphs are masters "
 "of manipulating the bridge between the mundane and arcane worlds. Long years "
@@ -2303,6 +2622,15 @@ msgid ""
 "‘reflection pools’ and steer them is one of her greatest — and most feared — "
 "abilities."
 msgstr ""
+"在深不可测的方面具有巨大的力量，像贤者一样的希尔法是操纵世俗和奥术世界之间桥"
+"梁的大师。长年累月地窥视虚无缥缈的领域，削弱了这些精灵观察物理世界的能力；作"
+"为回报，他们被赋予了一种抽象的视觉，获得了观察现实本质的一个甚至几个不同方面"
+"的能力。就像一面破碎的镜子的许多碎片一样，物质世界的无数断裂通过其许多不同的"
+"面反映出奥术的光芒。仔细的练习可以让人跟随这些光的股线从一个窗格到另一个窗"
+"格，观察物理现实的结果如何随着自由意志的每一个选择而演变。虽然直接编织连接织"
+"物通常是不可能实现的，但通过在肉体层面的机械化操作，间接操纵是可行的，因为那"
+"里对奥术层面的反映最强烈。赛尔菲找到这些 \"反射池 \"并引导它们的能力是她最伟"
+"大的--也是最令人恐惧的--能力之一。"
 
 #. [attack]: type=impact
 msgid "gossamer"
@@ -4005,59 +4333,82 @@ msgstr ""
 #. [unit_type]: id=Giant Ant, race=monster
 #, fuzzy
 msgid "Giant Ant"
-msgstr "巨鼠"
+msgstr "巨蚁"
 
 #. [unit_type]: id=Giant Ant, race=monster
+#, fuzzy
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
 "earth to the tops of tall mountains. Though normally not hostile, they can "
 "bite at close range."
 msgstr ""
+"巨蚁很常见，无论是在地下深处的洞穴里还是在高耸的山顶上。虽然通常没有进攻性，"
+"但当有人靠近时他还是会咬人的。"
 
 #. [unit_type]: id=Cave Bear, race=monster
+#, fuzzy
 msgid "Cave Bear"
-msgstr ""
+msgstr "洞穴熊"
 
 #. [unit_type]: id=Cave Bear, race=monster
+#, fuzzy
 msgid ""
 "Cave Bears are large, powerful beasts with sharp claws and large teeth. "
 "Adapted to roaming the dark caves, they have a keen sense of smell and "
 "hearing, but poor eyesight. When a rival predator, or some other threat, "
 "gets too close, a bear will reliably attack."
 msgstr ""
+"洞熊是大型的、强大的野兽，有锋利的爪子和大牙。为了适应在黑暗的洞穴中漫游，它"
+"们有敏锐的嗅觉和听觉，但视力不佳。当对手的捕食者或其他威胁过于接近时，熊会可"
+"靠地进行攻击。"
 
 #. [unit_type]: id=Woodland Boar, race=monster
+#, fuzzy
 msgid "Woodland Boar"
-msgstr ""
+msgstr "林地野猪"
 
 #. [unit_type]: id=Woodland Boar, race=monster
+#, fuzzy
 msgid ""
 "As boars age, their already formidable teeth grow longer and more numerous. "
 "A mature, tamed boar is a valuable asset to any farmer, but an angry wild "
 "boar is a challenge even to the best hunters."
 msgstr ""
+"随着野猪年龄的增长，它们本来就很厉害的牙齿变得更长、更多。一头成熟的、被驯服"
+"的野猪对任何农民来说都是一笔宝贵的财富，但一头愤怒的野猪甚至对最好的猎人也是"
+"一种挑战。"
 
 #. [attack]: type=pierce
 #. [variation]
+#, fuzzy
 msgid "tusk"
 msgstr ""
+"开始的入侵只是试探，兽人很涣散。但他们的数量变得越来越多，越来越有威胁。入侵"
+"的规模起先是战团，接着变成了集团军。后来，血剑部落中崛起了一个伟大的军阀，名"
+"叫哈兹·黑牙。他建立起一支军队，包围了矮人之门。"
 
 #. [unit_type]: id=Piglet, race=monster
+#, fuzzy
 msgid "Piglet"
-msgstr ""
+msgstr "小猪佩奇"
 
 #. [unit_type]: id=Piglet, race=monster
+#, fuzzy
 msgid ""
 "Young piglets are curious but just as ill-tempered as their parents, if a "
 "little less of a challenge in combat. But seldom is a piglet found that does "
 "not have a protective adult boar watching over them."
 msgstr ""
+"小猪好奇心强，但和它们的父母一样脾气不好，只是在战斗中少了一点挑战。但很少发"
+"现没有成年公猪保护的小猪。"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
+#, fuzzy
 msgid "Swamp Lizard"
-msgstr ""
+msgstr "沼泽蜥蜴"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
+#, fuzzy
 msgid ""
 "Swamps are vibrant environments, but often not friendly to humans or orcs. "
 "Swamp Lizards are one of the more notable hazards, with their powerful jaws "
@@ -4066,22 +4417,30 @@ msgid ""
 "adopted a ‘two legs bad’ outlook and do not hesitate to avenge their "
 "ancestors."
 msgstr ""
+"沼泽是充满活力的环境，但往往对人类或兽人并不友好。沼泽蜥蜴是比较明显的危害之"
+"一，它们有着强大的下颚和装甲的皮。尽管这些蜥蜴有着原始的外表，但它们并不愚"
+"蠢，在经历了几代人被猎取皮毛后，它们采取了 \"两条腿走路 \"的观点，并毫不犹豫"
+"地为自己的祖先报仇。"
 
 #. [special_note]
+#, fuzzy
 msgid ""
 "This unit can move unseen through swamp water, keeping most of its body "
 "submerged."
-msgstr ""
+msgstr "这支部队可以在沼泽地的水中不被发现地移动，使其身体的大部分被淹没。"
 
 #. [hides]: id=swamp_lurk
+#, fuzzy
 msgid "swamp lurk"
-msgstr ""
+msgstr "沼泽地潜伏"
 
 #. [hides]: id=swamp_lurk
+#, fuzzy
 msgid "female^swamp lurk"
-msgstr ""
+msgstr "女性^沼泽地潜伏"
 
 #. [hides]: id=swamp_lurk
+#, fuzzy
 msgid ""
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
 "\n"
@@ -4089,11 +4448,16 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
+"这支部队可以隐藏在沼泽中，不被敌人发现。\n"
+"\n"
+"当这个单位在沼泽中时，敌方单位无法看到它，除非他们有单位在它旁边。任何首先发"
+"现这个单位的敌方单位都会立即失去其所有剩余的移动。"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #, fuzzy
 msgid "Cuttlefish"
-msgstr "乌贼"
+msgstr ""
+"哦不！看看他脚边活蹦乱跳的都是些什么东西。我还以为那大乌贼已经够糟糕了！"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #, fuzzy
@@ -4146,17 +4510,21 @@ msgid "Fire Ant"
 msgstr "烈火巨龙"
 
 #. [unit_type]: id=Fire Ant, race=monster
+#, fuzzy
 msgid ""
 "Small but deadly in large numbers, fire ants possess fierce fangs and an "
 "unusual ability to generate fire. Though these creatures typically function "
 "as scavengers, a burrow of fire ants can become aggressive when provoked and "
 "have even been known to attack small groups of threatening troops."
 msgstr ""
+"火蚁体积小，但数量多时却很致命，它们拥有凶猛的獠牙和不寻常的生火能力。虽然这"
+"些生物通常是作为清道夫，但一窝火蚁在受到挑衅时可以变得具有攻击性，甚至被称为"
+"攻击小群的威胁性部队。"
 
 #. [attack]: type=fire
 #, fuzzy
 msgid "fire"
-msgstr "火球"
+msgstr "火焰"
 
 #. [unit_type]: id=Fire Dragon, race=monster
 msgid "Fire Dragon"
@@ -4220,10 +4588,12 @@ msgstr ""
 "到的东西。"
 
 #. [unit_type]: id=Frost Stoat, race=monster
+#, fuzzy
 msgid "Frost Stoat"
-msgstr ""
+msgstr "霜鼬"
 
 #. [unit_type]: id=Frost Stoat, race=monster
+#, fuzzy
 msgid ""
 "Frost Stoats are devious critters predominantly found in the frozen parts of "
 "the Northlands, although they can survive anywhere. Their most distinctive "
@@ -4232,6 +4602,10 @@ msgid ""
 "animals, but are quite territorial and the young adults have been known to "
 "attack larger intruders, including humans and orcs."
 msgstr ""
+"霜雪鼠是一种狡猾的小动物，主要存在于北地的冰冻地区，尽管它们可以在任何地方生"
+"存。它们最独特的特征是冰冷的前爪，这与其他野生动物不同。这些鼬鼠通常会捡拾垃"
+"圾或猎杀较小的动物，但它们的领地意识很强，年轻的成年人已经知道会攻击较大的入"
+"侵者，包括人类和兽人。"
 
 #. [attack]: type=cold
 #, fuzzy
@@ -4244,8 +4618,9 @@ msgid "Giant Stoat"
 msgstr "巨鼠"
 
 #. [unit_type]: id=Giant Stoat
+#, fuzzy
 msgid "Giant Stoats are obsolete, use Frost Stoat."
-msgstr ""
+msgstr "巨大的鼬鼠已经过时了，使用冰霜鼬鼠。"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 msgid "Giant Mudcrawler"
@@ -4304,19 +4679,24 @@ msgid "pincers"
 msgstr "钳"
 
 #. [variation]
+#, fuzzy
 msgid "scuttler"
-msgstr ""
+msgstr "铲运工"
 
 #. [variation]
+#, fuzzy
 msgid "Sand Scuttler"
-msgstr ""
+msgstr "扫沙机"
 
 #. [variation]
+#, fuzzy
 msgid ""
 "Making their homes in sandy dunes, these critters are an odd mix of mundane "
 "creature and elemental beast. Though usually timid, Sand Scuttlers sometimes "
 "attack unwary travelers, especially when startled."
 msgstr ""
+"这些小动物以沙丘为家，是世俗生物和元素兽的奇怪组合。虽然通常很胆小，但沙涡虫"
+"有时会攻击不小心的旅行者，尤其是在受到惊吓时。"
 
 #. [unit_type]: id=Giant Scorpling, race=monster
 msgid "Giant Scorpling"
@@ -4361,20 +4741,26 @@ msgid "web"
 msgstr "蛛网"
 
 #. [unit_type]: id=Bay Horse, race=horse
+#, fuzzy
 msgid "Bay Horse"
-msgstr ""
+msgstr "湾马"
 
 #. [unit_type]: id=Bay Horse, race=horse
+#, fuzzy
 msgid ""
 "Bay horses are defined more by their coloration than their size or "
 "temperment, and can be found anywhere from the battlefield to the farm to "
 "the wild plains and woodlands. Though an unencumbered horse will tend to "
 "flee if possible, they will fight back with a powerful kick when cornered."
 msgstr ""
+"湾马的定义是它们的颜色而不是它们的大小或脾气，从战场到农场再到野外的平原和林"
+"地，任何地方都可以找到它们。尽管没有装备的马在可能的情况下会倾向于逃跑，但它"
+"们在被逼无奈的情况下会用强有力的脚步进行反击。"
 
 #. [attack]: type=impact
+#, fuzzy
 msgid "hooves"
-msgstr ""
+msgstr "蹄子"
 
 #. [unit_type]: id=White Horse
 #, fuzzy
@@ -4382,12 +4768,16 @@ msgid "White Horse"
 msgstr "白袍法师"
 
 #. [unit_type]: id=White Horse
+#, fuzzy
 msgid ""
 "Some horses have a white color, and they are merely white horses. But there "
 "exist a special breed, found only in the wild woods, that are White Horses. "
 "As if blessed by the faerie world, they have a grace and agility not found "
 "in their more common relatives."
 msgstr ""
+"有些马的颜色是白色的，它们仅仅是白马。但存在一种特殊的品种，只在野生森林中发"
+"现，那就是白马。仿佛受到精灵世界的祝福，它们拥有更常见的亲属所没有的优雅和敏"
+"捷。"
 
 #. [unit_type]: id=Dark Horse
 #, fuzzy
@@ -4395,15 +4785,19 @@ msgid "Dark Horse"
 msgstr "黑暗巫师"
 
 #. [unit_type]: id=Dark Horse
+#, fuzzy
 msgid ""
 "Dark Horses are wild animals, but they seem to take an odd interest in the "
 "civilized races. They leave no signs of their passage, but they have been "
 "noticed scouting camps and outposts during the night."
 msgstr ""
+"黑马是野生动物，但它们似乎对文明种族有一种奇怪的兴趣。它们没有留下任何通过的"
+"痕迹，但人们注意到它们在夜间侦查营地和前哨。"
 
 #. [attack]: type=cold
+#, fuzzy
 msgid "whinny"
-msgstr ""
+msgstr "嗲声嗲气"
 
 #. [male]
 #. [female]
@@ -4412,19 +4806,24 @@ msgid "female^Dark Horse"
 msgstr "黑暗狂徒"
 
 #. [unit_type]: id=Black Horse, race=horse
+#, fuzzy
 msgid "Black Horse"
-msgstr ""
+msgstr "黑马"
 
 #. [unit_type]: id=Black Horse, race=horse
+#, fuzzy
 msgid ""
 "The true nature of Black Horses is impossible to discern, but the fire in "
 "their eyes and the unnerving, unnatural sound of their calls suggest they "
 "are malevolent spirits."
 msgstr ""
+"黑马的真实性质无法辨别，但它们眼中的火焰和令人不安的、不自然的叫声表明它们是"
+"恶灵。"
 
 #. [male]
+#, fuzzy
 msgid "Black Stallion"
-msgstr ""
+msgstr "黑骏马"
 
 #. [female]
 #, fuzzy
@@ -4437,18 +4836,24 @@ msgid "Great Horse"
 msgstr "高阶大法师"
 
 #. [unit_type]: id=Great Horse, race=horse
+#, fuzzy
 msgid ""
 "Great horses are significantly larger than the usual domesticated horse, but "
 "despite their similar appearance, they are wild animals. Their obstinate and "
 "often feisty temperaments make them too difficult to tame, though many an "
 "arrogant prince or warlord has tried and failed."
 msgstr ""
+"大马比一般的驯化马要大得多，但尽管它们的外观相似，它们却是野生动物。它们固执"
+"且经常好斗的性格使它们很难被驯服，尽管许多傲慢的王子或军阀曾尝试过，但都失败"
+"了。"
 
 #. [unit_type]: id=Icemonax, race=monster
+#, fuzzy
 msgid "Icemonax"
-msgstr ""
+msgstr "冰雪运动"
 
 #. [unit_type]: id=Icemonax, race=monster
+#, fuzzy
 msgid ""
 "Icemonax are a strange beast of the frozen north, best described as a large, "
 "armored ground squirrel. Their armor accumulates frost and snow, even in "
@@ -4456,24 +4861,35 @@ msgid ""
 "places they do not belong. Despite this, efforts to study and domesticate "
 "them have failed, as they die soon after capture."
 msgstr ""
+"Icemonax是冰冻的北方的一种奇怪的野兽，最好的描述是一种大型的、装甲的地面松"
+"鼠。它们的盔甲会积累霜和雪，即使是在比较温和的气候条件下。大多数冰雪松鼠都很"
+"好奇，经常误入不属于它们的地方。尽管如此，研究和驯化它们的努力还是失败了，因"
+"为它们在被捕后很快就会死亡。"
 
 #. [unit_type]: id=Great Icemonax, race=monster
+#, fuzzy
 msgid "Great Icemonax"
-msgstr ""
+msgstr "伟大的Icemonax"
 
 #. [unit_type]: id=Great Icemonax, race=monster
+#, fuzzy
 msgid ""
 "Icemonax are a strange beast of the frozen north, best described as a large, "
 "armored ground squirrel. Their armor accumulates ice and snow, even when the "
 "climate is warm and dry. Some Icemonax grow to be quite large and powerful, "
 "guarding their smaller, younger kin."
 msgstr ""
+"Icemonax是冰冻的北方的一种奇怪的野兽，最好的描述是一种大型的、装甲的地面松"
+"鼠。它们的盔甲会积累冰和雪，即使气候温暖干燥。一些冰雪松鼠成长为相当大和强大"
+"的，守护着它们较小的、年轻的亲属。"
 
 #. [unit_type]: id=Jinn, race=monster
+#, fuzzy
 msgid "Jinn"
-msgstr ""
+msgstr "金恩"
 
 #. [unit_type]: id=Jinn, race=monster
+#, fuzzy
 msgid ""
 "The Jinn are mysterious spirits, with no known relation to souls of the "
 "departed. They are often sighted from a distance, drifting across the desert "
@@ -4482,10 +4898,14 @@ msgid ""
 "felt the Jinn were watching over them, driving off malign forces of the "
 "night."
 msgstr ""
+"晋人是神秘的精神，与死者的灵魂没有已知的关系。他们经常从远处看到，在沙漠的山"
+"丘和沙丘上漂移，但却无法近距离观察。几乎所有记录的遭遇都是敌对性质的，但也有"
+"旅行者觉得精灵在看着他们，赶走了夜晚的恶势力。"
 
 #. [attack]: type=impact
+#, fuzzy
 msgid "desert windblast"
-msgstr ""
+msgstr "沙漠风暴"
 
 #. [attack]: type=fire
 #, fuzzy
@@ -4509,10 +4929,12 @@ msgstr ""
 "随手拿来护身的钝器的攻击，因此，它们是野心勃勃但缺乏经验的召唤师最爱的工具。"
 
 #. [unit_type]: id=Roc, race=monster
+#, fuzzy
 msgid "Roc"
-msgstr ""
+msgstr "洛克"
 
 #. [unit_type]: id=Roc, race=monster
+#, fuzzy
 msgid ""
 "Far from human cities in the great desert mountains, the large birds of prey "
 "known as Rocs can sometimes be found rapidly scouring the sands on their "
@@ -4526,6 +4948,12 @@ msgid ""
 "aid to a traveler in need, usually in exchange for a small trinket or shiny "
 "bauble."
 msgstr ""
+"在远离人类城市的大沙漠山脉中，有时可以发现被称为大鹏鸟的大型猛禽在沙地上快速"
+"搜寻猎物。尽管大鹏鸟体型庞大，但它们往往很隐蔽，其他有智慧的种族很少遇到。它"
+"们难以捉摸的本性使它们接近神话般的地位，特别是在沙漠的游牧民族中。\n"
+"\n"
+"与其他鸟类不同，如猎鹰或老鹰，个性和智慧的大鹏鸟几乎是不可驯服的。只有偶尔，"
+"大鹏鸟才会向有需要的旅行者提供帮助，通常是为了换取一个小饰品或闪亮的小玩意。"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
 #, fuzzy
@@ -4533,6 +4961,7 @@ msgid "Rock Scorpion"
 msgstr "巨蝎"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
+#, fuzzy
 msgid ""
 "Rock scorpions have featured in tales of highwaymen and drunks, but there "
 "has been scant evidence that they truly exist. They've been described as "
@@ -4540,6 +4969,9 @@ msgid ""
 "Unlike most scorpions, they do not deliver their poison with a piercing "
 "stinger, but instead spray their enemies with a noxious, volatile stream."
 msgstr ""
+"岩蝎子曾出现在高速路人和醉汉的故事中，但很少有证据表明它们真的存在。它们被描"
+"述为隐蔽的怪物，拥有坚硬的岩石皮和锋利的结晶爪子。与大多数蝎子不同的是，它们"
+"不是用刺穿的毒刺来投放毒药，而是用有毒的、挥发性的水流来喷射它们的敌人。"
 
 #. [attack]: type=impact
 #, fuzzy
@@ -4547,22 +4979,29 @@ msgid "spray"
 msgstr "水浪"
 
 #. [unit_type]: id=Horned Scarab, race=monster
+#, fuzzy
 msgid "Horned Scarab"
-msgstr ""
+msgstr "有角的斯卡布"
 
 #. [special_note]
+#, fuzzy
 msgid ""
 "This unit can burrow under loose dirt, sand, or leaves, concealing itself if "
 "it does not change location."
 msgstr ""
+"这种装置可以钻到松散的泥土、沙子或树叶下面，如果不改变位置，就会隐藏自己。"
 
 #. [unit_type]: id=Horned Scarab, race=monster
+#, fuzzy
 msgid ""
 "Horned Scarabs are large, rugged insects that can grow to be quite large, "
 "making them a threat when they decide to be aggressive. Their primary means "
 "of attack is the large, sharp horn growing from their head. Because of their "
 "large size, armor, and horn, they cannot fly."
 msgstr ""
+"角质疤痕虫是大型、粗犷的昆虫，可以长到相当大，当它们决定具有攻击性时，就会成"
+"为一种威胁。它们的主要攻击手段是头上长出的大而尖锐的角。由于它们的体型大，有"
+"盔甲，有角，所以它们不能飞行。"
 
 #. [attack]: type=pierce
 #, fuzzy
@@ -4595,6 +5034,7 @@ msgid "Great Seahorse"
 msgstr "高阶大法师"
 
 #. [unit_type]: id=Great Seahorse, race=monster
+#, fuzzy
 msgid ""
 "Seahorses are a variety of fish that have a horse-like head, but they have "
 "no real connection to equines. Most seahorses are small, shy creatures that "
@@ -4603,6 +5043,10 @@ msgid ""
 "force to stun a small animal, and has thick, bony plate armor, but like all "
 "seahorses, it is a slow swimmer and cannot move over land."
 msgstr ""
+"海马是一种具有类似马的头部的鱼类，但它们与马类没有真正的联系。大多数海马都是"
+"小而害羞的生物，吃虫子和类似的小猎物，但大海马大到足以威胁到不警惕的旅行者。"
+"这种大型品种能以足够的力量吐水，使小动物眩晕，并有厚实的骨质板甲，但与所有海"
+"马一样，它是一种缓慢的游泳者，不能在陆地上移动。"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 msgid "Skeletal Dragon"
@@ -4658,10 +5102,12 @@ msgstr ""
 "确定的一点是，躲开这些家伙聚集的水域是明智的选择。"
 
 #. [unit_type]: id=Wild Wyvern, race=monster
+#, fuzzy
 msgid "Wild Wyvern"
-msgstr ""
+msgstr "野生怀俄明"
 
 #. [unit_type]: id=Wild Wyvern, race=monster
+#, fuzzy
 msgid ""
 "Wyverns are large reptiles that resemble dragons, but are not the "
 "intelligent, magical creatures. However, the fact that they are just wild "
@@ -4674,6 +5120,13 @@ msgid ""
 "behavior may be an adaptation to the harsh desert environments they often "
 "inhabit."
 msgstr ""
+"翼龙是大型爬行动物，与龙相似，但不是那种聪明的神奇生物。然而，它们只是野兽这"
+"一事实不应导致任何遇到它们的旅行者忽视威胁，因为它们在受到威胁或饥饿时速度很"
+"快，很凶猛。\n"
+"\n"
+"翼龙是社会性生物，通常成对或成群地旅行。它们的狩猎模式和饮食很难辨别，因为它"
+"们经常与那些看起来是潜在猎物的小动物合作。这种奇怪的行为可能是对它们经常居住"
+"的恶劣沙漠环境的一种适应。"
 
 #. [unit_type]: id=Wolf, race=wolf
 msgid "Wolf"
@@ -4717,10 +5170,12 @@ msgstr ""
 "得太远了。"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga
+#, fuzzy
 msgid "Naga Dirkfang"
-msgstr ""
+msgstr "娜迦-德克芳"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga
+#, fuzzy
 msgid ""
 "In contrast to the heavily melee-focused style of their northern brethren, "
 "young Naga of the southern waters prefer to soften their prey from afar "
@@ -4731,10 +5186,16 @@ msgid ""
 "by the northern Naga warriors, these fighters are nonetheless effective when "
 "it comes time to engage in warfare."
 msgstr ""
+"与他们北方的兄弟们专注于近战的风格相比，南部水域的年轻娜迦更喜欢在靠近之前从"
+"远处软化他们的猎物。他们投掷的小型chakri可以带在手腕上或腰带上，不会造成阻"
+"碍。虽然在水下的任何最终杀戮通常必须在近距离完成，但混合的战斗风格往往使他们"
+"能够活得足够长，以学习和改进。有时，这些战士被北方的纳迦族战士视为懦弱，但当"
+"需要参与战争时，他们还是很有效。"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "chakri"
-msgstr ""
+msgstr "乍得人（Chakri）"
 
 #. [female]
 #, fuzzy
@@ -4768,6 +5229,7 @@ msgid "Naga Guard"
 msgstr "皇家卫兵"
 
 #. [unit_type]: id=Naga Guard, race=naga
+#, fuzzy
 msgid ""
 "Nagas tend to value agility and grace on the battlefield, but the slower, "
 "stronger individuals play a key role in defending important positions. These "
@@ -4775,6 +5237,9 @@ msgid ""
 "mercenary activities. They are said to have a strong code of honor, though "
 "like all things naga, it is mostly a mystery to outsiders."
 msgstr ""
+"纳加人倾向于重视战场上的敏捷和优雅，但速度较慢、身体较强壮的人在保卫重要阵地"
+"方面发挥着关键作用。这些卫兵并不经常遇到，因为他们不参加突袭或雇佣兵活动。据"
+"说他们有很强的荣誉准则，尽管像所有的娜迦事物一样，对外人来说这大多是个谜。"
 
 #. [unit_type]: id=Naga High Guard, race=naga
 #, fuzzy
@@ -4782,6 +5247,7 @@ msgid "Naga High Guard"
 msgstr "娜迦战士"
 
 #. [unit_type]: id=Naga High Guard, race=naga
+#, fuzzy
 msgid ""
 "The elite naga guards are a rigid barrier to any invaders of a naga "
 "stronghold. They have powerful stikes and, like the lesser Shield Guard, "
@@ -4790,23 +5256,31 @@ msgid ""
 "attacks, but the nagas can usually seek better terrain advantage in such "
 "situations."
 msgstr ""
+"精英的纳迦守卫是对任何入侵纳迦据点的人的一道刚性屏障。他们有强大的枪法，和较"
+"小的盾牌卫士一样，由于在近战技术中有效地使用了盾牌，他们很难从他们的岗位上移"
+"开。这种战术对远程攻击毫无作用，但在这种情况下，纳迦人通常可以寻求更好的地形"
+"优势。"
 
 #. [attack]: type=impact
 #, fuzzy
 msgid "shield"
-msgstr "盾击"
+msgstr "盾牌"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
+#, fuzzy
 msgid "Naga Shield Guard"
-msgstr ""
+msgstr "娜迦盾牌护卫"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
+#, fuzzy
 msgid ""
 "The veteran naga guards are more difficult to dislodge from their posts "
 "because of effective use of a shield in melee techniques. This tactic does "
 "nothing against ranged attacks, but the nagas can usually seek better "
 "terrain advantage in such situations."
 msgstr ""
+"由于在近战技术中有效地使用了盾牌，资深的纳迦族卫兵更难从他们的岗位上移开。这"
+"种战术对远程攻击毫无作用，但在这种情况下，纳迦人通常可以寻求更好的地形优势。"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 msgid "Naga Myrmidon"
@@ -4846,6 +5320,7 @@ msgid "Naga Ophidian"
 msgstr "娜迦忠勇武士"
 
 #. [unit_type]: id=Naga Ophidian, race=naga
+#, fuzzy
 msgid ""
 "Experienced warriors of the Southern Naga often find work as mercenaries, "
 "usually hired by neighboring Dunefolk to control key waterways near the "
@@ -4860,6 +5335,13 @@ msgid ""
 "encourage a healthy amount of competition among the surface factions, "
 "ensuring their services are valued by one tribe or another."
 msgstr ""
+"南部纳迦族有经验的战士经常找到雇佣兵的工作，通常被邻近的Dunefolk雇佣来控制海"
+"岸线附近的关键水路。由于经常与敌人的骑兵对抗，奥菲德人已经退休了他们年轻时的"
+"环形刀，并拿起了刺耳的jarid，这是一种小标枪，纳迦人通过添加从沉船压舱物中收获"
+"的铅而变得更加致命。虽然他们与富有的雇主一般都很友好，但这种友好不应该被误认"
+"为是忠诚，因为Ophidian人在每个航运季节开始时都会在敌对的城邦派别之间轻易转"
+"换，这时对水基保护的需求是最高的。作为一个群体，这些纳迦人鼓励地表派别之间的"
+"健康竞争，确保他们的服务被一个部落或另一个部落所重视。"
 
 #. [attack]: type=blade
 #, fuzzy
@@ -4867,8 +5349,9 @@ msgid "curved blade"
 msgstr "战刃"
 
 #. [attack]: type=pierce
+#, fuzzy
 msgid "jarid"
-msgstr ""
+msgstr "jarid"
 
 #. [female]
 #, fuzzy
@@ -4881,16 +5364,21 @@ msgid "Naga Ringcaster"
 msgstr "娜迦战士"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
+#, fuzzy
 msgid ""
 "The chakram, a greater blade ring than the chakri, is the signature weapon "
 "of the southern Naga and their renowned Ringcasters. Well balanced chakrams "
 "are useful for throwing, but the rejected blades make a good fist-load "
 "weapon, similar to a sharp-bladed tekko or knuckleduster."
 msgstr ""
+"chakram是一种比chakri更大的刀环，是南部纳迦族和他们著名的环形铸造师的标志性武"
+"器。平衡良好的查克拉姆对投掷很有帮助，但被拒绝的刀片是一种很好的拳头载荷武"
+"器，类似于锋利的叶片tekko或knuckleduster。"
 
 #. [attack]: type=blade
+#, fuzzy
 msgid "chakram"
-msgstr ""
+msgstr "脉络图"
 
 #. [female]
 #, fuzzy
@@ -4903,6 +5391,7 @@ msgid "Naga Sicarius"
 msgstr "娜迦武士"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
+#, fuzzy
 msgid ""
 "While they sometimes still stand in as sellswords for potential Dunefolk "
 "allies, Naga Sicarii are more often the keepers of trade routes and resource "
@@ -4918,6 +5407,14 @@ msgid ""
 "for they can anticipate many enemy strikes, and use their heavy, curved "
 "blade to deflect or distract at the critical moment."
 msgstr ""
+"虽然他们有时仍然作为潜在的Dunefolk盟友的卖家，但Naga Sicarii更经常是贸易路线"
+"和靠近水路的资源床的守护者。只要支付适当的费用或交换货物，西卡里人就会保证安"
+"全旅行或免费获得其领土上的宝贵物资。如果走错了路，西卡留斯人就会成为一个可怕"
+"的敌人，这并不是因为他们个人的战斗力，而是因为他可以召集众多的盟友来平息任何"
+"潜在的滋扰。尽管在必要的时候，这些有经验的雇佣兵完全有能力成为战士，但他们非"
+"常清楚，赚钱的最好方法是不把自己置于危险之中。当他们发现自己处于危险之中时，"
+"他们的操纵性狡猾就会得到很好的利用，因为他们可以预见到敌人的许多攻击，并在关"
+"键时刻使用他们沉重的弯刀来转移或分散注意力。"
 
 #. [female]
 #, fuzzy
@@ -4964,6 +5461,7 @@ msgid "Naga Zephyr"
 msgstr "娜迦战士"
 
 #. [unit_type]: id=Naga Zephyr, race=naga
+#, fuzzy
 msgid ""
 "The Southern Naga commonly recount a curious story about the Wind Spirit, "
 "Zefra and the aetherial chakram:\n"
@@ -5003,6 +5501,33 @@ msgid ""
 "thrown blade, this doesn't mean they are weak in melee combat, as the "
 "unbalanced chakram can be enhanced with spikes and smaller blades.\n"
 msgstr ""
+"南部纳迦人通常会讲述一个关于风神、Zefra和太极图的奇怪故事。\n"
+"\n"
+"在遥远的过去，有一个拥有传奇技能的查克拉姆人。据说他可以用一连串的刀剑劈开大"
+"海，在一个人到达他面前之前击倒一百个敌人，并且在不被击中的情况下挡住一千支"
+"箭。他的名字叫Xylrix，即暴风雨，他是一个战士，他的傲慢和他的才能一样大。他总"
+"是非常愿意向所有愿意观看他的人夸耀自己的能力。然后有一天，他在向一帮年轻的纳"
+"吉尼炫耀自己时，选择了一棵神圣的阿勒奈树作为他的目标。\n"
+"\n"
+"看着，\"他大吼一声，把树直接劈成两半。\n"
+"\n"
+"在那一刻，一阵大风包围了他，风神的声音在他耳边回响：\"你认为自己很强大，可以"
+"杀死我无能的后代？虽然你拥有天赋，但凡人不应轻视引导他们的神性。\n"
+"\n"
+"他反驳说：'来吧，精神。我并不害怕。任何武器，钢铁、水或风，都不能抵挡我的戒"
+"指。\n"
+"\n"
+"风旋得越来越快，一股狂风的洪流在愤怒的旋涡中不断旋转。他感到自己被从地面上抬"
+"起，以巨大的速度旋转，完全无力地任由泽弗拉的愤怒摆布。他惊恐地抬起脸，放开他"
+"的刀片，突然在旋转的风暴中看到了它--环状查克拉的旋转运动，在风本身的图案"
+"中。\n"
+"\n"
+"风暴来得快，消失得也快，留下Xylrix思考他的破损武器。许多天后，当他终于回到自"
+"己的家时，他宣布了自己的新名字：泽法，一个为风服务的战士，他的武器在风中飞"
+"舞。\n"
+"\n"
+"虽然古老的传说驱使这个遗产的精英战士专注于投掷的刀刃，但这并不意味着他们在近"
+"战中是弱者，因为不平衡的查克拉姆可以用尖刺和较小的刀片来加强。\n"
 
 #. [female]
 #, fuzzy
@@ -5045,6 +5570,7 @@ msgid "Orcish Archer"
 msgstr "兽人弓箭手"
 
 #. [unit_type]: id=Orcish Archer, race=orc
+#, fuzzy
 msgid ""
 "Although bows are sometimes regarded as cowardly armaments among orcs, the "
 "pragmatic nature of orcish warfare makes frequent use of these weapons, "
@@ -5054,12 +5580,17 @@ msgid ""
 "brethren to finish off on the frontlines. While typically poorly equipped "
 "themselves, these orcs can nonetheless be quite effective in large numbers."
 msgstr ""
+"虽然弓在兽人中有时被认为是懦弱的武器，但兽人战争的实用性使他们经常使用这些武"
+"器，这些武器很适合那些身材矮小的人。兽人弓箭手最喜欢的战术是使用火焰箭在敌方"
+"阵营中制造混乱，软化顽强的对手，让他们的大块头和强壮的兄弟们在前线完成任务。"
+"虽然这些兽人的装备通常很差，但在人数众多的情况下还是相当有效。"
 
 #. [unit_type]: id=Orcish Assassin, race=orc
 msgid "Orcish Assassin"
 msgstr "兽人刺客"
 
 #. [unit_type]: id=Orcish Assassin, race=orc
+#, fuzzy
 msgid ""
 "While many orcs prefer brute force as their modus operandi, the highly "
 "practical nature of their warfare promotes cutthroat tactics that are "
@@ -5069,12 +5600,17 @@ msgid ""
 "same weapon is readily turned to espionage and assassination, a commonplace "
 "occurrence between feuding orcish clans or even within a single clan itself."
 msgstr ""
+"虽然许多兽人喜欢用蛮力作为他们的行动方式，但他们战争的高度实用性促进了其他派"
+"别通常不赞成的残酷战术。毒药是兽人战略的主要支柱之一，它被广泛用于软化战场上"
+"的强硬对手，在不冒直接攻击风险的情况下削弱敌军。同样的武器也很容易被用于间谍"
+"和暗杀，这在兽人部族的争斗中，甚至在一个部族内部都是很常见的事情。"
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
 msgid "Orcish Crossbowman"
 msgstr "兽人弩手"
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
+#, fuzzy
 msgid ""
 "Despite the heavy importance placed on combat prowess by most orcs, very few "
 "tribes have any semblance of formal training in any of the warring arts. "
@@ -5083,6 +5619,10 @@ msgid ""
 "with more easily handled crossbows. Simplistic but potent, these weapons can "
 "still be deadly even when handled roughly by inexperienced warriors."
 msgstr ""
+"尽管大多数兽人非常重视战斗力，但很少有部落在战争艺术方面接受过任何形式的正式"
+"训练。正因为如此，兽人弓箭手在挥舞从人类或精灵弓箭手那里偷来的长弓时相当不给"
+"力，而更喜欢用更容易操作的弩来武装自己。这些武器简单而有力，即使被没有经验的"
+"战士粗暴地操作，也是致命的。"
 
 #. [unit_type]: id=Orcish Grunt, race=orc
 msgid "Orcish Grunt"
@@ -5127,6 +5667,7 @@ msgid "Orcish Nightblade"
 msgstr "兽人夜刃"
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
+#, fuzzy
 msgid ""
 "The most seasoned orcish assassins usually operate as mercenaries "
 "specializing in “resolving internal conflicts” and rarely participate in "
@@ -5138,6 +5679,11 @@ msgid ""
 "the cover of darkness. A contract with a nightblade is almost always a death "
 "sentence to the victim, making said expertise well worth its high price."
 msgstr ""
+"最老练的兽人刺客通常作为雇佣兵，专门负责 \"解决内部冲突\"，很少参与大规模的战"
+"斗。这些兽人在工作中表现出惊人的技巧和战斗力，他们很少效忠于任何特定的部落，"
+"而是向出价最高的人提供服务。一旦达成协议并获得必要的物资，刺客就会迅速而无声"
+"地打击他的目标，在黑暗的掩护下悄悄消灭他们。与夜刃签订的合同几乎都是对受害者"
+"的死刑判决，这使得上述专业技能值得其高价。"
 
 #. [attack]: type=blade
 msgid "blade"
@@ -5152,6 +5698,7 @@ msgid "Orcish Ruler"
 msgstr "兽人统治者"
 
 #. [unit_type]: id=Orcish Ruler, race=orc
+#, fuzzy
 msgid ""
 "A common misconception about the hierarchy of orcish clans is the notion "
 "that orcs only value brute strength. Although the leader of a smaller orcish "
@@ -5161,12 +5708,17 @@ msgid ""
 "inevitably the most shrewd and perceptive among his peers and has won the "
 "respect of his brethren through leadership rather than coercion."
 msgstr ""
+"关于兽人部族的等级制度，一个常见的误解是认为兽人只重视蛮力。尽管较小的兽人部"
+"队的首领可能是他们中最强壮的战士，但一个大部落的统治者有一个困难的任务，那就"
+"是扼制内部的争斗和内斗--这不是仅靠武力就能完成的。这样的兽人不可避免地是同龄"
+"人中最精明和最有洞察力的，并且通过领导而不是胁迫赢得了他的兄弟们的尊重。"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 msgid "Orcish Slayer"
 msgstr "兽人杀手"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
+#, fuzzy
 msgid ""
 "Skilled orcish assassins are surprisingly nimble covert troops who achieve "
 "great agility by forgoing the heavy armor of their brethren. Their weapon of "
@@ -5178,6 +5730,11 @@ msgid ""
 "precisely what gives rise to these ruthless soldiers, rightly dubbed "
 "‘Slayers’ by their enemies."
 msgstr ""
+"熟练的兽人刺客是出乎意料的灵活的隐蔽部队，他们通过放弃他们兄弟的重甲而获得极"
+"大的敏捷性。他们选择的武器，毒药，经常被批评为不适合典型战争的既定习俗的恶毒"
+"工具。然而，大多数兽人不承认这种战斗法则，并寻求通过任何必要的手段来获得胜"
+"利。失败，不管是什么原因，通常都被视为最大的耻辱。兽人所从事的全面战争的残酷"
+"性正是产生这些无情的士兵的原因，他们被敌人正确地称为 \"杀手\"。"
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
 msgid "Orcish Slurbow"
@@ -5209,6 +5766,7 @@ msgid "Orcish Sovereign"
 msgstr "兽人君主"
 
 #. [unit_type]: id=Orcish Sovereign, race=orc
+#, fuzzy
 msgid ""
 "Although orcs tend to be fairly tribal in nature, from time to time, a "
 "situation arises that impels several clans to join forces under a single "
@@ -5223,12 +5781,20 @@ msgid ""
 "rapidly dissolves back into individual clans once the strength of its "
 "leadership is extinguished."
 msgstr ""
+"虽然兽人在本质上倾向于相当的部落，但时不时地会出现一种情况，促使几个部族在一"
+"个强大的君主下联合起来。由于地位的关系，这样的兽人必须同时拥有领导伟大的战士"
+"部落的力量和狡猾，几乎无一例外地拥有一种内在的魅力，这在他们的同类中是非常罕"
+"见的。获得这种地位的途径是多种多样的；有时，一个强大的部落可能会征服较小的部"
+"落，并将被打败的战士吸收到他们的队伍中，而在其他情况下，需要由巫师理事会任"
+"命，在那里，君主成为一个临时的，但正式的头衔。无论在哪种情况下，酋长都是部落"
+"的关键所在，一旦部落的领导力量消失，部落就会迅速解体，回到各个部族。"
 
 #. [unit_type]: id=Orcish Warlord, race=orc
 msgid "Orcish Warlord"
 msgstr "兽人军阀"
 
 #. [unit_type]: id=Orcish Warlord, race=orc
+#, fuzzy
 msgid ""
 "While might is not the be-all end-all of supremacy in an orcish clan, it "
 "certainly is a prerequisite for earning the respect and obedience of other "
@@ -5243,12 +5809,20 @@ msgid ""
 "for a warlord’s downfall when his skills wane with age and another powerful "
 "warrior arises to take his place."
 msgstr ""
+"虽然力量不是兽人部族中至高无上的全部，但它肯定是赢得其他兽人尊重和服从的先决"
+"条件。一个军阀通常是他的部落中最强的战士，他通过一次又一次地战胜有抱负的挑战"
+"者来获得并保持他的地位。这种强大的战斗力使这种兽人可以充当部落首领，监督其部"
+"族的日常事务，并在需要流血的时候指挥较小的战士。虽然典型的狡猾和高度精通战"
+"争，但大多数军阀只因他们的战斗技巧而赢得敬佩，缺乏在战斗之外领导的知识或魅"
+"力。随着时间的推移，当一个军阀的技能随着年龄的增长而减弱，而另一个强大的战士"
+"出现来取代他的位置时，这种缺陷通常会成为军阀倒台的原因。"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
 msgid "Orcish Warrior"
 msgstr "兽人武士"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
+#, fuzzy
 msgid ""
 "Orcish swordplay focuses almost strictly on offense, making use of their "
 "natural stamina to outlast their opponents through sheer resilience. A more "
@@ -5258,6 +5832,10 @@ msgid ""
 "fighters, who lack the training and finesse to act on more complex "
 "strategies."
 msgstr ""
+"兽人的剑术几乎完全集中在进攻上，利用他们天生的耐力，通过纯粹的韧性来超越他们"
+"的对手。因此，一个更老练的兽人战士通常会挥舞着两把刀，选择放弃盾牌，而是在近"
+"战范围内与敌人交手。虽然这是一种相当粗暴的战术，但对这些战士来说仍然相当有"
+"效，他们缺乏训练和技巧，无法采取更复杂的策略。"
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 #, fuzzy
@@ -6099,16 +6677,18 @@ msgstr ""
 "候速度也不快。"
 
 #. [unit_type]: id=Wose Sapling, race=wose
+#, fuzzy
 msgid "Wose Sapling"
-msgstr ""
+msgstr "幼年树人"
 
 #. [unit_type]: id=Wose Shaman, race=wose
 #, fuzzy
 msgid "Wose Shaman"
-msgstr "巨魔萨满"
+msgstr "树人萨满"
 
 #. [unit_type]: id=Wose Shaman, race=wose
+#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
-msgstr ""
+msgstr "这种树人会指挥藤蔓类的植物以阻碍敌人。"
