@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 21:01+0300\n"
-"PO-Revision-Date: 2022-01-12 15:59+0800\n"
+"PO-Revision-Date: 2022-01-13 11:26+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -965,12 +965,12 @@ msgstr ""
 "\n"
 "• _main.cfg：\n"
 "  ◦ 使用“[binary_path]”将附加组件目录添加到二进制文件路径中，这样一"
-"来，“map_file”将搜索“maps”目录。\n"
+"来，“map_file”将搜索“maps”目录\n"
 "  ◦ 使用“{./scenarios}”来包含“scenarios”目录\n"
 "• maps/map_from_01.cfg\n"
 "  ◦ 这是由场景编辑器创建的文件\n"
 "• scenarios/01_Forest.cfg\n"
-"  ◦ 在[scenario]元素中，使用“map_file=\"map_from_01.cfg”来加载该文件。"
+"  ◦ 在[scenario]元素中，使用“map_file=\"map_from_01.cfg”来加载该文件"
 
 #. [topic]: id=editor_masks
 msgid "Editor Mask Usage"
@@ -4852,110 +4852,92 @@ msgstr ""
 msgid "This unit is able to hide at night, leaving no trace of its presence."
 msgstr "此单位能够在夜晚隐匿身形，不留蛛丝马迹。"
 
-#, fuzzy
 msgid ""
 "This unit can hide in villages (with the exception of water villages), and "
 "remain undetected by its enemies, except by those standing next to it."
 msgstr ""
-" 此单位可以隐藏在村庄里（水中村庄除外）而不会被敌人发觉，除了那些与它相邻的敌"
+"此单位可以隐藏在村庄里（水中村庄除外）而不会被敌人发觉，除了那些与它相邻的敌"
 "人之外。"
 
-#, fuzzy
 msgid ""
 "This unit can move unseen in deep water, requiring no air from the surface."
-msgstr " 此单位可以在深水中移动而不被发现，它不需要呼吸水面上的空气。"
+msgstr "此单位不需要呼吸水面上的空气，可以在深水中移动而不被发现。"
 
-#, fuzzy
 msgid ""
 "This unit gains 1 hitpoint added to its maximum whenever it kills a living "
 "unit."
-msgstr " 此单位每杀死一个活体单位就会获得1点额外的最大生命值。"
+msgstr "此单位每杀死一个活体单位，其最大生命值就会增加1点。"
 
-#, fuzzy
 msgid ""
 "Whenever its berserk attack is used, this unit continues to push the attack "
 "until either it or its enemy lies dead."
-msgstr ""
-" 无论何时，只要此单位使用狂暴攻击，就将不停战斗，直到它或者它的对手被杀死。"
+msgstr "无论何时，只要此单位使用狂暴攻击，就将不停战斗，直到自己或敌方死亡。"
 
-#, fuzzy
 msgid ""
 "If there is an enemy of the target on the opposite side of the target while "
 "attacking it, this unit may backstab, inflicting double damage by creeping "
 "around behind that enemy."
 msgstr ""
-" 如果目标被此单位和其他对其怀有敌意的单位前后包夹，此单位就可以悄悄绕到敌人背"
+"如果目标被此单位和其他对其怀有敌意的单位前后包夹，此单位就可以悄悄绕到敌人背"
 "后并背刺之，造成双倍伤害。"
 
-#, fuzzy
 msgid ""
 "Foes who lose their life to the plague will rise again in unlife, unless "
 "they are standing on a village."
-msgstr " 因瘟疫而丧生的敌人将重生为亡灵，除非他们在村庄里。"
+msgstr "因瘟疫而丧生的敌人将重生为亡灵，除非他们在丧生前驻扎在村庄里。"
 
-#, fuzzy
 msgid ""
 "This unit is able to slow its enemies, halving their movement speed and "
 "attack damage until they end a turn."
 msgstr ""
-" 此单位能够使敌人减速，让他们的移动速度和攻击伤害都减半，直到本回合结束。"
+"此单位能够使敌人减速，让他们的移动速度和攻击伤害都减半，直到他们的回合结束。"
 
-#, fuzzy
 msgid ""
 "The ability to turn the living to stone makes this unit extremely dangerous."
-msgstr " 把活人变成石头的能力使得此单位变得极其危险。"
+msgstr "把活人变成石头的能力使得此单位变得极其危险。"
 
-#, fuzzy
 msgid ""
 "This unit’s marksmanship gives it a high chance of hitting targeted enemies, "
 "but only on the attack."
-msgstr ""
-" 此单位的精准射术让它有很高的几率命中被瞄准的敌人，但只有在进攻时有效。"
+msgstr "此单位的精准射术让它有很高的几率命中被瞄准的敌人，但只有在进攻时有效。"
 
-#, fuzzy
 msgid ""
 "This unit has magical attacks, which always have a high chance of hitting an "
 "opponent."
-msgstr " 此单位拥有魔法攻击，该攻击总是有很高的几率能命中对手。"
+msgstr "此单位拥有魔法攻击，该攻击总是有很高的几率能命中对手。"
 
-#, fuzzy
 msgid ""
 "The swarming attacks of this unit become less deadly whenever its members "
 "are wounded."
-msgstr " 当此单位的成员受伤时，他们的成群攻击就不那么致命了。"
+msgstr "当此单位的成员受伤时，他们的成群攻击就不那么致命了。"
 
-#, fuzzy
 msgid ""
 "Using a charging attack doubles both damage dealt and received; this does "
 "not affect defensive retaliation."
-msgstr " 冲锋攻击将使得输出与受到的伤害都加倍。这不会影响防御时反击的杀伤力。"
+msgstr "冲锋攻击时，输出和受到的伤害都加倍。防守反击则不受此影响。"
 
-#, fuzzy
 msgid ""
 "During battle, this unit can drain life from victims to renew its own health."
-msgstr " 在作战时，此单位能够从受害者身上吸取生命以补充自己的体力。"
+msgstr "作战时，此单位能够从受害者身上吸取生命以补充自己的体力。"
 
-#, fuzzy
 msgid ""
 "The length of this unit’s weapon allows it to strike first in melee, even in "
 "defense."
-msgstr " 此单位的武器很长，使得他在近战中可以先发制人，甚至在防御时也是如此。"
+msgstr "此单位的武器长度使得他在近战中可以先发制人，甚至在防御时也是如此。"
 
-#, fuzzy
 msgid ""
 "The victims of this unit’s poison will continually take damage until they "
 "can be cured in town or by a unit which cures."
 msgstr ""
-" 此单位的毒素的受害者们将持续地受到伤害，直到他们在城镇中疗毒，或者被拥有疗毒"
-"能力的单位疗毒。"
+"此单位的毒素的受害者们将持续受到伤害，直到他们在城镇中疗毒，或者被拥有疗毒能"
+"力的单位疗毒为止。"
 
-#, fuzzy
 msgid ""
 "This unit has a defense cap on certain terrain types — it cannot achieve a "
 "higher defense rating on mixed terrains with such terrain types."
 msgstr ""
-" 此单位在某些地形类型上有防御力上限——在以这些地形类型为基本类型的混合地形上，"
-"它不能获得更高的防御值。"
+"此单位在某些地形类型上有防御力上限——在以这些地形类型为基本类型的混合地形上，"
+"此单位不能获得更高的防御值。"
 
 #. [trait]: id=loyal
 msgid "loyal"
@@ -5650,7 +5632,6 @@ msgid "race^Elves"
 msgstr "精灵"
 
 #. [race]: id=elf
-#, fuzzy
 msgid ""
 "Compared to humans, elves are somewhat taller, more agile but less sturdy. "
 "They have slightly pointy ears, pale skin and usually blond hair. Few "
@@ -5715,48 +5696,47 @@ msgid ""
 "tradition, in both Wesmere and Lintanir, an enchantress from the order of "
 "elven mystics is also called upon to facilitate the transition of power."
 msgstr ""
-"与人类相比，精灵有点高，更敏捷，但不那么结实。他们有略微尖尖的耳朵，皮肤苍"
-"白，通常是金色的头发。人类和精灵之间很少有比精灵异常长寿更明显的差异--除非被"
-"疾病、事故或战争夺去生命，否则大多数人至少能活满两个世纪。虽然一些拥有高度魔"
-"法天赋的精灵被认为可以活得更久，但大多数精灵在250至300岁之间的某个时刻开始变"
-"得身体虚弱，并在此后迅速去世。\n"
+"与人类相比，精灵有点高，更敏捷，但不那么壮实。他们有略微尖尖的耳朵，苍白的皮"
+"肤，以及通常是金色的头发。人类和精灵的差异之中，很少有比“精灵异常地长寿”更明"
+"显的了——除非被疾病、事故或战争夺去生命，否则大多数精灵至少能活满两个世纪。虽"
+"然有实例表明一些拥有高度魔法天赋的精灵可以活得更久，但大多数精灵在250至300岁"
+"之间的某个时刻便开始变得身体虚弱，并在此后迅速去世。\n"
 "\n"
-"大多数精灵对未受破坏的大自然有着强烈的感情，并发现自己在开放的、没有植被的地"
-"方感到不舒服。他们主要生活在大洲的森林里，西南的艾特纳森林，西北的威斯米尔，"
-"以及北部的大森林，林塔尼尔森林是其中最南端的边缘。\n"
+"大多数精灵对未受破坏的大自然有着强烈的喜爱，而在开放而没有植被的地方则感到不"
+"适。他们主要生活在泰陆的森林里：西南的艾森从林，西北的韦弥尔，以及北部的大森"
+"林。林塔尼尔森林是大森林最南端的边缘部分。\n"
 "\n"
-"精灵是大陆上最年长的种族，巨魔可能是个例外。他们的许多定居点不能被可靠地确定"
-"日期，无疑已经存在了几千年。\n"
+"精灵是泰陆上最古老的种族，巨魔可能是个例外。他们的许多定居点无疑已经存在了几"
+"个千年，已无法可靠地确定建立日期。\n"
 "\n"
 "<header>text='魔法'</header>\n"
-"虽然精灵与传说中的仙女们是根本不同的生物，但他们的魔法与精灵有某种联系，是他"
-"们异常敏锐的感觉以及长寿的源泉。精灵的魔法分为两种不同的途径，一种侧重于操纵"
-"世俗或自然世界，另一种侧重于对奥术界的占卜。更常见的是改变肉体的方式，这比它"
-"在奥术界的对立面有更明显的效果。虽然精灵的自然魔法不适合战斗，但它利用大地能"
-"量来养育和保护的强大能力是精灵治疗的有效性以及他们森林的美丽和活力的主要原"
-"因。\n"
+"虽然精灵与传说中的仙灵是根本不同的生物，但他们的魔法与仙灵有某种联系，是他们"
+"异常敏锐的感觉以及长寿的源泉。精灵的魔法分为两种不同的路径，一种侧重于操纵世"
+"俗或自然世界，另一种则侧重于奥术位面的占卜。物质变换术是更常见的那一种，比奥"
+"术界的对立流派有更明显的效果。虽然精灵的自然魔法不适合战斗，但这种利用大地能"
+"量来进行滋养与守护的强大力量，是精灵拥有高效的治疗能力以及精灵森林美丽而充满"
+"活力的主要原因。\n"
 "\n"
-"那些走神秘主义道路的人也受到其他精灵的尊敬，但他们的动机和能力往往不为他们的"
-"教团以外的人所了解。一些在神秘主义道路上冒险的人具有更多类似于精灵的特征，获"
-"得非凡的洞察力和长寿，但也变得对冷铁的存在敏感，甚至被烧伤。\n"
+"那些走上秘术师道路的人也受到其他精灵的尊敬，但他们的动机和能力往往不为教团以"
+"外的精灵所了解。一些在秘术师道路上走得很远的精灵，会表现出更多类似于仙灵的特"
+"征。他们会获得非凡的洞察力和寿命，但也会变得对冷铁过敏，甚至会被烧伤。\n"
 "\n"
-"<header>text='文化'\n"
-"</header>精灵们花了很多时间来磨练他们的天赋和技能。那些不擅长魔法艺术的人通常"
-"会把时间用于磨练他们的身体技能，通常是为了运动的目的。因此，精灵擅长射箭，这"
-"门手艺很容易就能有效地应用于战争。精灵也是著名的音乐家，尤其擅长小型合奏中的"
-"吹奏和弹拨弦乐器。例如，埃特纳林的伊奥利安竖琴是用精灵族紫杉树的优质木材制作"
-"的，因其柔和的音质而成为传奇。\n"
+"<header>text='文化'</header>\n"
+"精灵们花了很多时间来磨练他们的天赋和技能。不擅长魔法技艺的精灵通常会把时间用"
+"于磨练身体技能，这通常是为了运动目的。因此，精灵擅长射箭。这是一种很容易就能"
+"有效地应用于战争的技艺。精灵也是著名的音乐家，尤其擅长小型合奏中的吹奏和弹拨"
+"弦乐器。例如，艾森丛林的伊奥利安竖琴是用精灵紫杉树的优质木材制作的，因其柔和"
+"的音质而成为传奇。\n"
 "\n"
-"<header>text='社会'\n"
-"</header>精灵社会大致分为三个派别：负责保卫森林的伪军事派别，通常是工匠和艺术"
-"家的和平平民，以及保持精灵与精灵联系的治疗师和神秘主义者。负责管理这些不同方"
-"面的是贵族，他们被视为更广泛的社会秩序的仆人，而不是其人民的严格统治者。挑选"
-"这些贵族的过程在不同的精灵议会中有所不同，威斯米尔的管理委员会--卡里安--是选"
-"举产生的，而林塔尼尔的贵族通常是继承的。\n"
+"<header>text='社会'</header>\n"
+"\v精灵社会大致分为三个派系：负责保卫森林的准军事派系，通常担任工匠和艺术家的"
+"和平平民，以及保持精灵与仙灵联系的治疗师和秘术师。负责管理这些不同派系的是贵"
+"族，他们被视为更广泛的社会秩序的公仆，而不是其人民的严格统治者。挑选这些贵族"
+"的过程在不同的精灵议会中有所不同，韦弥尔的管理评议会——卡·利安——是选举产生的，"
+"而林塔尼尔的贵族通常是继承的。\n"
 "\n"
-"在纷争时期，指挥的等级制度变得更有适应性，普通贵族会听从于更有战争意识的元"
-"帅。根据传统，在威斯米尔和林塔尼尔，也会召集一名来自精灵神秘主义者组织的女魔"
-"法师来促进权力的交接。"
+"在纷争时期，指挥层级会适时而变，普通贵族会听命于更有战争意识的元帅。根据传"
+"统，韦弥尔和林塔尼尔都会召来一位精灵秘术师教团的魔女来推动权力的交接。"
 
 #. [race]: id=falcon
 msgid "race^Falcon"
@@ -5855,22 +5835,18 @@ msgstr ""
 "很多争论，但却仍然是个谜，正如他们的起源一般。"
 
 #. [race]: id=horse
-#, fuzzy
 msgid "race^Horse"
-msgstr "树人"
+msgstr "马"
 
 #. [race]: id=horse
-#, fuzzy
 msgid "race+female^Horse"
-msgstr "食人魔"
+msgstr "马"
 
 #. [race]: id=horse
-#, fuzzy
 msgid "race^Horses"
-msgstr "树人"
+msgstr "马"
 
 #. [race]: id=horse
-#, fuzzy
 msgid ""
 "Domesticated horses come in many shapes and sizes, from mighty war chargers, "
 "to sturdy draught horses or agile stock horses. While they are more fragile "
@@ -5882,13 +5858,13 @@ msgid ""
 "Winged horses, man-horse hybrids, and ghost horses have made their way into "
 "written history, though few can honestly claim to have seen such things."
 msgstr ""
-"驯养的马有许多形状和大小，从强大的战争冲锋队，到结实的吃水马或敏捷的畜力马。"
-"虽然它们比许多野兽更脆弱，但它们的速度和狡猾使野马能够在野外与它们的野生兄弟"
-"们一起茁壮成长。\n"
+"驯养的马有许多体型和尺寸，从强大的战争冲锋马，到结实的挽马，或是敏捷的牧畜"
+"马。虽然比许多野兽更脆弱，但烈马的速度和狡猾让它们在野外和自己的野生弟兄一道"
+"欣欣向荣。\n"
 "\n"
-"马是许多文明的重要组成部分，因此，有许多以马为中心的神话和故事也就不足为"
-"奇。  有翼的马、人马混血儿和鬼马已经进入了书面历史，尽管很少有人能诚实地声称"
-"见过这些东西。"
+"马是许多文明的重要组成部分，因此，有许多以马为中心的神话和故事也就不足为奇。"
+"翼马、人马混血种以及幽灵马都被写进了历史，尽管很少有人真能说自己见过这些东"
+"西。"
 
 #. [race]: id=human
 msgid "race^Human"
@@ -5982,7 +5958,6 @@ msgid "race+plural^Dunefolk"
 msgstr "沙丘游民"
 
 #. [race]: id=dunefolk
-#, fuzzy
 msgid ""
 "An offshoot of a forgotten nomadic civilization, the Dunefolk lay claim to "
 "the river valleys and oases of the Sandy Wastes. How they came to inhabit "
@@ -6040,7 +6015,7 @@ msgid ""
 msgstr ""
 "沙丘游民是已被遗忘的游牧文明的分支，他们以沙之荒原的河谷与绿洲为领地。没人知"
 "道他们是怎么会到泰陆的这一偏僻角落定居的。他们的传说之中，讲到了很多穿越遥远"
-"之地的漫长而危险的旅程，但即使在他们最为博学的学者之间，关于0这一民族真正起源"
+"之地的漫长而危险的旅程，但即使在他们最为博学的学者之间，关于这一民族真正起源"
 "的辩论，仍然是火热而没有尽头的。\n"
 "\n"
 "不论他们源自何方，沙丘游民都欣欣向荣。熙熙攘攘的城市在最大最丰饶的区域傲立。"
@@ -6472,7 +6447,6 @@ msgid "race^Trolls"
 msgstr "巨魔"
 
 #. [race]: id=troll
-#, fuzzy
 msgid ""
 "Trolls are ancient creatures, one of the oldest known races known to inhabit "
 "the Great Continent. They are large, slow, simple, and live extremely long "
@@ -6521,12 +6495,12 @@ msgstr ""
 "里睡觉，直到身体缓慢地变成无生命的石像，他们也就最终逝去了。\n"
 "\n"
 "巨魔常常被很多人认为不过是又一个野蛮的怪物种族而已。这种常见的误解顽固不化的"
-"原因之一，是兽人总会劝说巨魔加入他们的军队。巨魔的思维很简单，不理解其他种族"
-"的生存之道，有时甚至都不能把他们区分开来，因此兽人战团想要说服巨魔通常是很容"
-"易的。而巨魔们也就相信，加入兽人部队之后就可以向那些曾经追捕过自己的人复仇"
-"了。接着这些新兵就被派去攻击任何正与兽人们起冲突的人，不管他们原本是不是巨魔"
-"的敌人。于是对被误导的巨魔来说，敌人越来越多了。巨魔们最常见的敌人是矮人，这"
-"两个种族之间的敌意可以上溯到上古时期。\n"
+"原因之一，是兽人常常能成功劝说巨魔加入他们的军队。巨魔的思维很简单，不理解其"
+"他种族的生存之道，有时甚至都不能把他们区分开来，因此兽人战团想要说服巨魔通常"
+"是很容易的。而巨魔们也就相信，加入兽人部队之后就可以向那些曾经追捕过自己的人"
+"复仇了。接着这些新兵就被派去攻击任何正与兽人们起冲突的人，不管他们原本是不是"
+"巨魔的敌人。于是对被误导的巨魔来说，敌人越来越多了。巨魔们最常见的敌人是矮"
+"人，这两个种族之间的敌意可以上溯到上古时期。\n"
 "\n"
 "<header>text='地理'</header>\n"
 "在矮人们移居到泰陆的山脉里之前，巨魔们就已经在这些地方定居了。巨魔在韦诺北方"
@@ -6545,7 +6519,6 @@ msgid "race+plural^Undead"
 msgstr "亡灵"
 
 #. [race]: id=undead
-#, fuzzy
 msgid ""
 "Undead are not really a single race of creatures, although often treated as "
 "such. Most ordinary creatures can, by a sufficiently skilled necromancer, be "
@@ -6582,11 +6555,14 @@ msgid ""
 msgstr ""
 "亡灵事实上并不是一个单一的种族，尽管经常被当成是这样。几乎任何死去的生物都可"
 "以被一个足够强大的死灵法师唤起并成为亡灵。亡灵基本上是非自然而没有心智的存"
-"在，只听从创造它们的人的命令，从不会质疑，也不懂得思考。死灵术的重要秘密之"
-"一，就是在死灵法师并没有持续地施法的情况下，这些存在是如何维持自身的。亡灵生"
-"物不需要死灵法师的持续关注、具体操纵或者维持，但可以自动地按照主人的命令来行"
-"动。只有在很少见的情况下，也许是每过几个月，死灵法师才需要才维护一次他创造出"
-"来的东西。\n"
+"在，只听从创造它们的人的命令，从不会质疑，也不懂得思考。死灵术的不可思议之"
+"一，便是在死灵法师并没有持续地施法的情况下，这些存在是如何维持自身的。大多数"
+"黑暗法师并不会持续关注与维护自己的创造物，而是赋予它们一些自主权，让它们自动"
+"地按照给出的命令来行动。不过，在不受约束的情况下，有些亡灵的自主意识变得很"
+"强，会脱离主人的控制，甚至与主人为敌。因此，低级亡灵需要周期性的维护，而更强"
+"的亡灵更是如此，尤其是强大的灵魂或是死亡骑士——它们拥有很强的内在意志。在这些"
+"情况下，死灵术变成了法师与仆从之间的意志对抗。死灵法师必须在控制仆从和赋予它"
+"们自由意志之间维持微妙的平衡——仆从的自由意志是它们自身力量的来源。\n"
 "\n"
 "死灵术几乎只有人类才会研习。就连有魔法倾向的种族，比如精灵和人鱼的传说中，都"
 "几乎没有他们的族人研习黑魔法的记载。有人推测说，死灵术需要非常好的适应能力以"
@@ -6701,171 +6677,134 @@ msgstr ""
 msgid "Close"
 msgstr "关闭"
 
-#, fuzzy
 msgid "Help"
 msgstr "帮助"
 
-#, fuzzy
 msgid "Parse error when parsing help text:"
 msgstr "分析帮助文本时出现分析错误："
 
-#, fuzzy
 msgid "Best of"
 msgstr "最佳"
 
-#, fuzzy
 msgid "Worst of"
 msgstr "最差"
 
-#, fuzzy
 msgid "Base Terrain: "
 msgstr "基础地形："
 
-#, fuzzy
 msgid "Movement properties: "
 msgstr "移动特性："
 
-#, fuzzy
 msgid "Defense properties: "
 msgstr "防御特性："
 
-#, fuzzy
 msgid "Level"
 msgstr "等级"
 
-#, fuzzy
 msgid "Advances from: "
 msgstr "升级自："
 
-#, fuzzy
 msgid "Advances to: "
 msgstr "升级为："
 
-#, fuzzy
 msgid "Base unit: "
 msgstr "基础单位："
 
-#, fuzzy
 msgid "Base units: "
 msgstr "基础单位："
 
-#, fuzzy
 msgid "Variations: "
-msgstr "变体："
+msgstr "变种："
 
-#, fuzzy
 msgid "race^Miscellaneous"
 msgstr "杂项"
 
-#, fuzzy
 msgid "Race: "
 msgstr "种族："
 
-#, fuzzy
 msgid "Abilities: "
 msgstr "能力："
 
-#, fuzzy
 msgid "Ability Upgrades: "
 msgstr "能力升级："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
-#, fuzzy
 msgid "HP:"
 msgstr "生命："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
-#, fuzzy
 msgid "Moves:"
 msgstr "移动："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
-#, fuzzy
 msgid "Vision:"
 msgstr "视野："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
-#, fuzzy
 msgid "Jamming:"
 msgstr "干扰："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
-#, fuzzy
 msgid "Cost:"
 msgstr "费用："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
-#, fuzzy
 msgid "Alignment:"
 msgstr "立场："
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  It uses
 #. non-breaking spaces to prevent unpleasant line breaks (issue #3256).  In the
 #. translation use non-breaking spaces as appropriate for the target language.
-#, fuzzy
 msgid "Required XP:"
 msgstr "所需经验："
 
-#, fuzzy
 msgid "unit help^Attacks"
 msgstr "攻击手段"
 
-#, fuzzy
 msgid "unit help^Name"
 msgstr "名称"
 
-#, fuzzy
 msgid "Range"
 msgstr "射程"
 
-#, fuzzy
 msgid "Type"
 msgstr "类型"
 
-#, fuzzy
 msgid "Special"
-msgstr "特殊"
+msgstr "特攻"
 
-#, fuzzy
 msgid "Attack Type"
 msgstr "攻击类型"
 
-#, fuzzy
 msgid "Resistance"
 msgstr "抗性"
 
-#, fuzzy
 msgid "Terrain Modifiers"
 msgstr "地形修正"
 
-#, fuzzy
 msgid "Terrain"
 msgstr "地形"
 
-#, fuzzy
 msgid "Movement Cost"
 msgstr "移动消耗"
 
-#, fuzzy
 msgid "Defense Cap"
-msgstr "最高防御"
+msgstr "防御上限"
 
-#, fuzzy
 msgid "Vision Cost"
 msgstr "视野消耗"
 
-#, fuzzy
 msgid "Jamming Cost"
 msgstr "干扰消耗"
