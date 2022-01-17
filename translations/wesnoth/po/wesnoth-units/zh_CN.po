@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-12 08:39+0800\n"
+"PO-Revision-Date: 2022-01-17 15:56+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -239,7 +239,6 @@ msgid "berserker frenzy"
 msgstr "狂血暴击"
 
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
-#, fuzzy
 msgid ""
 "It is not clear why the Dragonguards are called what they are, a name given "
 "by their dwarven brethren. Some speculate that the name comes from their "
@@ -252,9 +251,9 @@ msgid ""
 msgstr ""
 "谁都不清楚“龙卫士”们得到这个称谓的具体缘由，只知道这名字是他们的矮人兄弟们起"
 "的。有些人猜测这是因为他们的武器，那些喷射着火焰与死亡的奇怪的杖。另一些人则"
-"猜想，这是由于这种武器甚至对真正的龙都能构成威胁，如果在已知的世界中能再一次"
-"见到这样的东西的话。无论如何，正是这些武器使得矮人族伟大堡垒的守卫者们闻名于"
-"世，并且令人畏惧；这是些能将最强悍的武士一击必杀的武器。"
+"猜想，这是由于这种武器甚至对真正的龙都能构成威胁——如果在已知的世界中能再一次"
+"见到龙的话。无论如何，正是这些武器使得矮人族伟大堡垒的守卫者们闻名于世，并且"
+"令人畏惧——这是些能将最强悍的武士一击必杀的武器。"
 
 #. [attack]: type=blade
 msgid "dagger"
@@ -348,10 +347,9 @@ msgstr ""
 
 #. [attack]: type=pierce
 msgid "thunderstick"
-msgstr "雷霆之枪"
+msgstr "雷霆棍"
 
 #. [unit_type]: id=Dwarvish Masked Thunderguard, race=dwarf
-#, fuzzy
 msgid ""
 "The Dwarven Thunderguards are famed for their curious weaponry, these "
 "strange staves of wood and iron that make a thunderous noise in their anger. "
@@ -364,12 +362,13 @@ msgid ""
 "Though a single shot from these ‘thundersticks’ can take several minutes to "
 "prepare, the results are seen by the dwarves as being well worth the wait."
 msgstr ""
-"矮人雷霆卫士以他们古怪的武器著称于世，当他们发怒时这些由木头和铁片组成的棍子"
-"会发出雷鸣般的声响。这武器的构成是个迷，使用这些武器的Knalga矮人们最后宁愿把"
-"秘密带入坟墓，他们甚至被认为正是武器的制造者。世人所知的最多不过是，矮人把一"
-"些奇怪的黑色粉末放入他们武器的入口，有人认为那是用来喂养关在里面的野兽的。\n"
+"矮人雷霆卫士以他们古怪的武器闻名于世，当他们发怒时这些由木头和铁片组成的棍子"
+"会发出雷鸣般的声响。这武器的构成是个迷，使用这些武器的纳尔伽矮人们最后宁愿把"
+"秘密带进坟墓。他们甚至被认为正是武器的制造者。世人所知的最多不过是，矮人把一"
+"些奇怪的黑色粉末放进这些武器的入口，有人认为那是用来喂养关在里面的野兽的。\n"
 "\n"
-"虽然用“雷霆之枪”攻击一次需要准备好几分钟，不过矮人们认为其效果绝对值得期待。"
+"虽然用“雷霆棍”攻击一次需要准备好几分钟，不过矮人们认为其效果绝对值得这一等"
+"待。"
 
 #. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
@@ -546,11 +545,10 @@ msgstr ""
 "害。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other drakes, Drake Arbiters have a higher resistance to "
 "‘pierce’ attacks."
-msgstr "与其他德雷克相比，德雷克仲裁者对\"穿刺\"攻击的抵抗力更高。"
+msgstr "与其他龙人相比，龙人仲裁者对“穿刺”攻击的抗性更高。"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -704,7 +702,7 @@ msgstr ""
 
 #. [unit_type]: id=Drake Flameheart, race=drake
 msgid "Drake Flameheart"
-msgstr "熔火之心"
+msgstr "龙人熔火之心"
 
 #. [unit_type]: id=Drake Flameheart, race=drake
 msgid ""
@@ -812,7 +810,6 @@ msgid "Sky Drake"
 msgstr "天空龙战士"
 
 #. [unit_type]: id=Sky Drake, race=drake
-#, fuzzy
 msgid ""
 "The lightweight ceramic armor that the Sky Drakes wear is a symbol of their "
 "rank, glazed silver to honor their connection to the air. As leaders of the "
@@ -820,10 +817,9 @@ msgid ""
 "tries to bring as much game home as possible, competing to gain the respect "
 "of their tribe."
 msgstr ""
-"天空龙战士所穿的轻装陶瓷铠甲是等级的标志，其上镶嵌着白银，以对他们与天空的联"
-"结表示敬意。作为狩猎行动的首领，他们经常会在很长的时间内远离家园。每一位天空"
-"龙战士都会尽力捕捉尽可能多的猎物并带回家，为获得部落的尊敬而互相竞争，如果可"
-"能的话，还能与那些被重重护卫的龙人女性之一约会。"
+"天空龙战士所穿的轻装陶瓷铠甲是等级的标志，其上镶嵌着白银，以示对他们与天空的"
+"联系的尊敬。作为狩猎行动的首领，他们经常会长时间远离家园。每一位天空龙战士都"
+"会尽力捕捉尽可能多的猎物并带回家，为获得部落的尊敬而互相竞争。"
 
 #. [unit_type]: id=Drake Thrasher, race=drake
 msgid "Drake Thrasher"
@@ -864,11 +860,10 @@ msgstr ""
 "熔炉中最强的杰作，而他们的战戟能够将人类一劈两半。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other drakes, Drake Wardens have a higher resistance to ‘pierce’ "
 "attacks."
-msgstr "与其他德雷克相比，德雷克·狱警对\"穿刺\"攻击的抵抗力更高。"
+msgstr "与其他龙人相比，龙人守望者对“穿刺”攻击的抗性更高。"
 
 #. [unit_type]: id=Drake Warrior, race=drake
 msgid "Drake Warrior"
@@ -889,12 +884,10 @@ msgstr ""
 "几百年的战斗方式。"
 
 #. [unit_type]: id=Dune Alchemist, race=dunefolk
-#, fuzzy
 msgid "Dune Alchemist"
-msgstr "沙丘剑圣"
+msgstr "沙丘炼金师"
 
 #. [unit_type]: id=Dune Alchemist, race=dunefolk
-#, fuzzy
 msgid ""
 "To the Dunefolk, alchemy is less a form of philosophy or science, and more "
 "an extension of the phytology that is practiced by herbalists. However, in "
@@ -906,15 +899,14 @@ msgid ""
 "much so that almost every caravan will hire or train a few alchemists to "
 "maintain a reasonable level of threat at all times."
 msgstr ""
-"对Dunefolk来说，炼金术与其说是一种哲学或科学，不如说是草药师所从事的植物学的"
-"一种延伸。然而，与他们的兄弟们专注于草药的医药和治疗不同，许多炼金术士利用各"
-"种植物和自然发生的毒液来调制致命的毒药。虽然这种艺术对于削弱强硬的敌人很有"
-"用，但其他Dunefolk却很谨慎地将其视为一种有效的间谍和暗杀手段。同时，这样的工"
-"具也带来了巨大的政治优势，以至于几乎每个商队都会雇佣或训练一些炼金术士，以便"
-"在任何时候都能保持合理的威胁水平。"
+"对沙丘游民来说，炼金术与其说是一种哲学或科学，不如说是草药师所从事的植物学的"
+"延伸。然而，与他们的兄弟们专注于草药的医学治疗效用不同，许多炼金师利用各种植"
+"物和自然产生的毒液来调制致命的毒药。虽然这种技艺在削弱强硬敌人时很有用，但其"
+"他沙丘游民却很谨慎地将其视为一种有效的间谍和暗杀手段。同时，这样的工具也带来"
+"了巨大的政治优势，以至于几乎每个商队都会雇佣或训练一些炼金师，以便在任何时候"
+"都能有效地威慑他人。"
 
 #. [attack]: type=pierce
-#, fuzzy
 msgid "blowgun"
 msgstr "吹箭"
 
@@ -923,7 +915,6 @@ msgid "Dune Apothecary"
 msgstr "沙丘药剂师"
 
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
-#, fuzzy
 msgid ""
 "Even in the absence of battle, infection and injury are common plights in "
 "the harsh desert sands. Dunefolk healers, in particular, require vast "
@@ -937,19 +928,18 @@ msgid ""
 "these men possess a special role in supporting the remedial arts of their "
 "kind."
 msgstr ""
-"即使在没有战斗的情况下，感染和受伤也是严酷的沙漠沙地中常见的困境。与其他种族"
-"的治疗师相比，Dunefolk的治疗师尤其需要大量的草药和医药知识。他们缺乏魔法，再"
-"加上沙漠中植物的稀少，导致他们在治疗困扰沙丘人的大量疾病和毒药时遇到很大困"
-"难。与他们经验不足的兄弟相比，药剂师通常更有知识，而且游历广泛，但他们真正的"
-"技能在于照料宝贵的药用植物这一复杂的任务。如果没有必要的材料，Dunefolk就没有"
-"办法进行治疗，因此这些人在支持他们的补救艺术方面具有特殊作用。"
+"即使没有战斗，感染和受伤也是严酷的沙漠中常见的困境。与其他种族的治疗师相比，"
+"沙丘游民的治疗师尤其需要大量的草药和医学知识。由于缺乏魔法能力，再加上沙漠中"
+"植物稀少，导致他们在治疗困扰沙丘人民的大量疾病和中毒时遇到很大困难。与他们经"
+"验不足的兄弟相比，药剂师通常更富学识，而且游历广泛，但他们真正地能力在于“照料"
+"宝贵的药用植物”这一复杂的任务。如果没有必要的材料，沙丘游民就没有办法进行治"
+"疗，因此在支撑族人的治疗技艺方面，这些人具有特殊的作用。"
 
 #. [unit_type]: id=Dune Blademaster, race=dunefolk
 msgid "Dune Blademaster"
 msgstr "沙丘剑圣"
 
 #. [unit_type]: id=Dune Blademaster, race=dunefolk
-#, fuzzy
 msgid ""
 "Dunefolk swordsmen are known for playing a game called the ‘Laeqad "
 "Challenge’, in which Laeqads—thick, sturdy reeds that are several sword "
@@ -970,20 +960,19 @@ msgid ""
 "offensive swordsmanship and are capable of subverting even the strongest "
 "fortifications."
 msgstr ""
-"Dunefolk的剑客们以玩一种叫做 \"Laeqad挑战 \"的游戏而闻名，在这种游戏中，"
-"Laeqad--厚而结实的芦苇，有几个剑的长度，像标枪一样向他们投掷，他们试图在半空"
-"中将芦苇纵向劈开。这个游戏的诀窍在于，芦苇不是圆形对称的：大部分茎秆相当坚"
-"硬，但横截面上有一条细线，比较柔软，容易切割。即使对一个有经验的剑客来说，从"
-"其长度上劈开整个Laeqad也是一项非凡的成就，因为需要精确瞄准，使刀刃与芦苇的软"
-"肋对齐。然而，对于一个真正的剑术大师来说，快速连续劈开几根Laeqad是很平常的，"
-"有些人甚至能在一剑之下同时劈开两三根芦苇。\n"
+"沙丘游民的剑客们以玩一种叫做“拉卡德挑战”的游戏而闻名，在这种游戏中，拉卡德——"
+"有好几把剑那么长的厚实的芦苇——被像标枪一样投向他们，而他们则试图在半空中将芦"
+"苇纵向劈开。这个游戏的诀窍在于，芦苇并不是圆形对称的：大部分茎秆相当坚硬，但"
+"纵截面上有一条细线是比较柔软而容易切割的。即使对一位富有经验的剑客来说，纵向"
+"劈开整条拉卡德也是一项非凡的成就，因为需要精确瞄准才能使刀刃与芦苇的软肋对"
+"齐。然而，对一位真正的剑术大师而言，快速连续劈开几根拉卡德乃是稀松平常之事，"
+"有些人甚至能一剑同时劈开两三根芦苇。\n"
 "\n"
-"这个游戏在真正的战斗中有着更实际的意义。无论战士多么难以捉摸或装备多么精良，"
-"在面对爆破师时，防御似乎很少有意义。这些战士无疑是进攻性剑术的大师，甚至能够"
-"颠覆最坚固的防御工事。"
+"这游戏在真正的战斗中有更实际的意义。无论战士多么行踪不定或装备精良，在面对剑"
+"圣时，防御似乎很少起作用。这些武士无疑是进攻性剑术的大师，甚至能够颠覆最坚固"
+"的防御工事。"
 
 #. [attack]: type=blade
-#, fuzzy
 msgid "scimitar"
 msgstr "弯刀"
 
@@ -992,7 +981,6 @@ msgid "Dune Burner"
 msgstr "沙丘灼烧者"
 
 #. [unit_type]: id=Dune Burner, race=dunefolk
-#, fuzzy
 msgid ""
 "An oft forgotten hazard of traversing the desert is the freezing cold that "
 "descends upon the sands during the night. To combat this, the Dunefolk "
@@ -1003,29 +991,24 @@ msgid ""
 "applicability of such a substance to warfare and regularly employ fire "
 "spouting weapons to sow chaos among their enemies."
 msgstr ""
-"穿越沙漠的一个经常被遗忘的危险是夜间降临在沙地上的冰冷。为了对付这种情况，"
-"Dunefolk人通常利用Sanbaar树的高度易燃的树液，这种树液在少量的情况下缓慢而温和"
-"地燃烧，提供适量的热量和照明。然而，在大量的情况下，Sanbaar树液几乎是可燃的，"
-"燃烧起来非常猛烈。Dunefolk很快意识到这种物质在战争中的适用性，并经常使用喷火"
-"的武器在敌人中制造混乱。"
+"穿越沙漠时，沙地上夜间降临的冰冷是一种经常被遗忘的危险。为了应对这种情况，沙"
+"丘游民通常会利用椮巴树高度易燃的树液，少量椮巴树叶会缓慢而温和地燃烧，可以提"
+"供适度的热量和照明。然而，大量椮巴树液十分易燃，燃烧起来非常猛烈。沙丘游民很"
+"快意识到这种物质在战争中很是有用，并经常使用喷火武器在敌群种制造混乱。"
 
 #. [attack]: type=fire
-#, fuzzy
 msgid "tar bomb"
 msgstr "焦油炸弹"
 
 #. [female]
-#, fuzzy
 msgid "female^Dune Burner"
 msgstr "沙丘灼烧者"
 
 #. [unit_type]: id=Dune Captain, race=dunefolk
-#, fuzzy
 msgid "Dune Captain"
-msgstr "沙丘重甲骑兵"
+msgstr "沙丘队长"
 
 #. [unit_type]: id=Dune Captain, race=dunefolk
-#, fuzzy
 msgid ""
 "Traditionally hailing from noble or military families, captains are the core "
 "of most Dunefolk platoons. Usually chosen based on heritage rather than "
@@ -1036,18 +1019,17 @@ msgid ""
 "for most soldiers, but they still readily follow the expert tactical "
 "direction of their captains."
 msgstr ""
-"传统上，队长来自贵族或军人家庭，是大多数Dunefolk排的核心。通常是根据遗产而不"
-"是功绩来选择的，许多军官通常刀枪不入，但在战术上仍有相当的训练。他们的能力主"
-"要在于将部队引向战略上有利的位置，而不是直接提高他们的士气。对于大多数士兵来"
-"说，这样的指挥官的存在很少能激发他们的斗志，但他们仍然很乐意听从他们队长的专"
-"业战术指导。"
+"传统上，队长来自贵族或军人家庭，是大多数沙丘游民排的核心。队长通常是根据血统"
+"而不是功绩来选拔的，因此许多军官剑术不佳，但在战术上仍受过适当的训练。他们的"
+"能力主要在于将部队引向战略上有利的位置，而不是直接提高他们的士气。对于大多数"
+"士兵来说，这样的指挥官的存在很少能激发他们的斗志，但他们仍然很乐意听从队长的"
+"专业战术指导。"
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
 msgid "Dune Cataphract"
-msgstr "沙丘重甲骑兵"
+msgstr "沙丘重装骑"
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
-#, fuzzy
 msgid ""
 "Cataphracts are eminent horsemen, riders of mounts that are possessed less "
 "of speed or endurance but tremendous power instead. Bearing a lance along "
@@ -1061,12 +1043,13 @@ msgid ""
 "these riders in the slightest, and the displaced air of a descending mace is "
 "the last sound they hear."
 msgstr ""
-"卡塔夫拉是杰出的骑手，他们的坐骑不具备速度和耐力，而是拥有巨大的力量。这些战"
-"士手持长矛和他们标志性的马刀，通常是主攻后的次要攻击力量。在敌军已经被侧翼的"
-"剑士占领和削弱后，一个可怕的景象是一群长枪手排成一排，长枪准备就绪。盾牌手的"
-"队伍中出现了一个缺口，在一次冲锋中，这些强大的骑兵直接刺穿了敌人的阵型，一举"
-"造成致命的打击。那些试图迅速逃离的人发现，无论是沙子还是山丘，都丝毫不能阻挡"
-"这些骑手的脚步，而下降的长矛所带来的流离失所的空气是他们最后听到的声音。"
+"重装骑是杰出的骑手，他们的坐骑不具备速度和耐力，而是拥有巨大的力量。这些武士"
+"手持长矛和他们标志性的马刀，通常是主攻后的二次攻击力量。当敌军已经在与侧翼的"
+"剑士缠斗并被削弱后，可能会见到的可怕景象之一，便是一群重装骑排成一排，长枪准"
+"备就绪。在沙丘游民的队伍中将出现一个缺口，而在仅仅一次冲锋中，这些强大的骑兵"
+"便将直接刺穿敌人的阵型，一举造成致命的打击。那些试图逃离的人很快发现，无论是"
+"沙子还是山丘，都丝毫不能阻挡这些骑手的脚步，而挥下的狼牙棒的呼呼风声，是他们"
+"最后听到的声音。"
 
 #. [attack]: type=pierce
 msgid "composite bow"
@@ -1077,7 +1060,6 @@ msgid "Dune Explorer"
 msgstr "沙丘探险者"
 
 #. [unit_type]: id=Dune Explorer, race=dunefolk
-#, fuzzy
 msgid ""
 "A slow-moving caravan out in the open desert is a prime target for bandits "
 "or marauders. In order to protect themselves, the Dunefolk employ special "
@@ -1087,19 +1069,17 @@ msgid ""
 "longer act only as scouts for probing enemies, but are skilled enough to be "
 "effective flankers or potent shock attackers."
 msgstr ""
-"在空旷的沙漠中缓慢移动的商队是强盗或掠夺者的主要目标。为了保护自己，Dunefolk"
-"雇佣了特殊的战士来侦查和击退潜在的威胁。在这样做的时候，这些舰队战士不仅保护"
-"他们脆弱的商队，而且还为自己偷窃所谓的袭击者的物资。当被用于战争时，探险家们"
-"不再仅仅作为探测敌人的侦察兵，而是熟练到可以成为有效的侧翼或强大的冲击攻击"
-"者。"
+"在空旷的沙漠中缓慢移动的商队是强盗或掠夺者的主要目标。为了保护自己，沙丘游民"
+"雇佣了特殊的武士来侦察并击退潜在的威胁。在这样做的时候，这些迅捷的战士不仅保"
+"护了他们脆弱的商队，而且还会偷窃本该是掠夺方的物资为己所用。当受雇参战时，探"
+"险家们不再仅仅作为探测敌人的侦察兵，他们的技能熟练到可以成为有效的侧卫或强大"
+"的奇袭者。"
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
-#, fuzzy
 msgid "female^Dune Falconer"
-msgstr "死灵法师"
+msgstr "沙丘驯鹰师"
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
-#, fuzzy
 msgid ""
 "While well respected among the dunefolk, the art of falconry is relatively "
 "rare due to the time and skill required to properly train birds of prey. "
@@ -1115,26 +1095,24 @@ msgid ""
 "the least, forcing them to abandon their efforts on offense in order to "
 "defend themselves properly."
 msgstr ""
-"虽然在沙丘人中很受尊重，但由于正确训练猎物所需的时间和技能，猎鹰的艺术相对罕"
-"见。猎鹰人通常将他们的技艺用于运动或狩猎，尤其是在空旷的沙丘上侦察猎物和水"
-"源。同样的智慧在应用于战争时也是有用的，如果可以说服猎鹰人将他们的珍贵宠物用"
-"于战斗的目的。\n"
+"虽然在沙丘游民中很受尊重，但由于正确训练猛禽所需的时间很长，能力要求很高，故"
+"驯鹰术相对罕见。驯鹰师通常将他们的技艺用于运动或狩猎，尤其是在空旷的沙丘上侦"
+"察猎物和水源。同样的智慧在战时也很有用——若是可以说服驯鹰师将他们的珍贵宠物用"
+"于战斗目的的话。\n"
 "\n"
-"在战斗中，猎鹰可以帮助它的主人，用它锋利的爪子攻击敌人，也可以把它送到更高的"
-"空中，在头顶盘旋，在敌人转移注意力时进行攻击。在两个不同的战线上转移战士的注"
-"意力，至少可以说是相当分心的，迫使他们放弃进攻的努力，以便适当地保护自己。"
+"在战斗中，猎鹰可以帮助它的主人，用它锋利的爪子攻击敌人，也可以上升到高空，在"
+"头顶盘旋，在敌人转移注意力时发动攻击。让战士的注意力分散到两个目标上，至少可"
+"以说是相当消耗精力的，这迫使他们放弃进攻，以适当地保护自己。"
 
 #. [attack]: type=blade
-#, fuzzy
 msgid "falcon"
 msgstr "猎鹰"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 msgid "Dune Firetrooper"
-msgstr "沙丘狂炎兵"
+msgstr "沙丘火炎兵"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
-#, fuzzy
 msgid ""
 "By refining Sanbaar sap through a very specific distillation process, it "
 "becomes possible to produce exceedingly flammable naphtha, which burns even "
@@ -1145,29 +1123,25 @@ msgid ""
 "of choice. The resulting destruction is more than enough to justify the use "
 "of such a hazardous chemical."
 msgstr ""
-"通过一个非常特殊的蒸馏过程提炼Sanbaar树液，就有可能生产出极其易燃的石脑油，其"
-"燃烧程度甚至比它的树液还要猛烈。当然，由于其高度可燃的性质，这种物质是非常危"
-"险的。大多数人不敢使用这种物质，因为自我伤害的可能性非常大，但也有少数胆大的"
-"人拿起以纯石脑油为燃料的喷火器作为他们的首选武器。由此产生的破坏足以证明使用"
-"这种危险化学品的合理性。"
+"使用非常特殊的蒸馏过程提炼椮巴树液后，就有可能生产出极其易燃的挥发油，其燃烧"
+"甚至比用于提炼的原生树液还要猛烈。当然，由于其高度可燃的性质，这种物质是非常"
+"危险的。因为伤到自己的可能性非常大，大多数人不敢使用这种物质，但也有少数胆大"
+"的人拿起以纯挥发油为燃料的火焰喷射器作为他们的首选武器。由此产生的破坏足以证"
+"明使用这种危险化学品的合理性。"
 
 #. [attack]: type=fire
-#, fuzzy
 msgid "flamethrower"
 msgstr "火焰喷射器"
 
 #. [female]
-#, fuzzy
 msgid "female^Dune Firetrooper"
-msgstr "沙丘狂炎兵"
+msgstr "沙丘火炎兵"
 
 #. [unit_type]: id=Dune Harrier, race=dunefolk
-#, fuzzy
 msgid "female^Dune Harrier"
-msgstr "沙丘侵掠者"
+msgstr "沙丘鹞骑"
 
 #. [unit_type]: id=Dune Harrier, race=dunefolk
-#, fuzzy
 msgid ""
 "While harriers can fulfill a similar role to striders in hampering enemy "
 "forces, their epithet is actually derived from the harrier hawks they employ "
@@ -1180,19 +1154,18 @@ msgid ""
 "thrust of spears is often enough to severely cripple the target, allowing "
 "the main Dunefolk force to close in and finish the job."
 msgstr ""
-"虽然鹞子在阻碍敌军方面可以发挥类似黾勉的作用，但它们的绰号实际上是来自于它们"
-"所使用的鹞鹰，以保持与Dunefolk部队的大部分联系。最常见的是在敌后行动，鹞鹰的"
-"任务是提供关于敌方部队动向的有用情报，这一点就足以让大多数Dunefolk军队战胜他"
-"们的敌人的优势。然而，当时机成熟时，这些敏捷的战士会聚集在一起，对被削弱的补"
-"给线或侧翼的后方进行攻击。在长矛的刺击下，一连串的弹雨往往足以使目标严重瘫"
-"痪，从而使邓尼佛克人的主力部队能够靠近并完成任务。"
+"虽然鹞骑在阻碍敌军方面可以发挥类似迅骑的作用，但他们的绰号实际上是来自于他们"
+"驯养的鹞鹰，这些飞禽用于保持与沙丘游民大部队的联系。鹞骑最常见于敌后行动，他"
+"们的任务常常是提供关于敌方部队动向的有用情报，这一点优势就足以让大多数沙丘游"
+"民军队靠策略击败敌人。然而，当时机成熟时，这些敏捷的武士会聚集在一起，对被削"
+"弱的补给线后方或侧翼发动进攻。长毛的刺击紧接着一连串的弹雨，往往足以使目标严"
+"重瘫痪，从而让沙丘游民的主力部队能够接近并完成任务。"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 msgid "Dune Herbalist"
 msgstr "沙丘草药师"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
-#, fuzzy
 msgid ""
 "As those responsible for caring for the ill and wounded among the Dunefolk, "
 "herbalists possess both the medicinal skills to heal a variety of "
@@ -1207,22 +1180,20 @@ msgid ""
 "of the various flora and fauna that supply their work. Hardened by their "
 "travels, many of these men are even able to heal themselves."
 msgstr ""
-"作为负责照顾Dunefolk中的病人和伤员的人，草药师既拥有治疗各种疾病的医药技能，"
-"也拥有寻找和收集恢复性草药的技能。他们的动机有很多；有些人把它当作一种冒险或"
-"稳定的报酬来源，而有些人则认为这是对社会的一种责任。不管是什么原因，这些治疗"
-"师都是Dunefolk社会的一个宝贵部分，尤其是他们在战斗中或在沙漠中旅行时进行快速"
-"治疗的能力非常有用。\n"
+"作为负责照顾沙丘游民中的病人和伤员的人，草药师既拥有治疗各种疾病的医学技能，"
+"也拥有寻找和收集恢复性草药的技能。他们的动机多种多样：有些人把它当作冒险或是"
+"稳定的报酬来源，而有些人则认为这是一种社会责任。不管是什么原因，这些治疗师都"
+"是沙丘游民社会的宝贵组成部分。他们在战斗中或在沙漠中旅行时进行快速治疗的能力"
+"尤其有用。\n"
 "\n"
-"即使在游牧的Dunefolk人中，草药师也会为了寻找各种植物和动物来提供他们的工作而"
-"进行大量的旅行。经过旅行的磨练，这些人中的许多人甚至能够治愈自己。"
+"即使在游牧的沙丘游民之中，草药师的旅行次数也可说是很多，他们是为了寻找各种植"
+"物和动物来为自己的工作提供原料。经过旅行的磨练，其中许多人甚至能够治疗自己。"
 
 #. [unit_type]: id=Dune Horse Archer, race=dunefolk
-#, fuzzy
 msgid "Dune Horse Archer"
-msgstr "沙丘焦燃者"
+msgstr "沙丘骑射手"
 
 #. [unit_type]: id=Dune Horse Archer, race=dunefolk
-#, fuzzy
 msgid ""
 "Though relatively few in number, some riders favor archery as their "
 "technique of choice for battle. Fleet and elusive, these horsemen are "
@@ -1232,18 +1203,16 @@ msgid ""
 "long-ranged arrows is of great use to maintain communication among the "
 "Dunefolk armies."
 msgstr ""
-"虽然数量相对较少，但一些骑手喜欢用射箭作为他们的战斗技术选择。这些骑手行动敏"
-"捷，难以捉摸，他们善于用箭矢骚扰行动不便的敌人，并从远处追捕逃亡的敌人。虽然"
-"通常不是为了渗透或刺探而训练，但这些马夫用他们的远程箭矢从远处传递信息的能力"
-"对保持Dunefolk军队之间的沟通有很大作用。"
+"虽然数量相对较少，但确有一些骑手喜欢把箭术作为自己的主要战斗技术。这些骑手行"
+"动敏捷，难以捉摸，他们善于用箭矢骚扰机动力较差的敌人，并从远处击杀逃亡之敌。"
+"虽然通常不会进行渗透或间谍训练，但这些骑手用远程箭矢传递信息的能力对维持沙丘"
+"游民军队之间的联系起到了很大作用。"
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
-#, fuzzy
 msgid "Dune Luminary"
-msgstr "沙丘灼烧者"
+msgstr "沙丘渊博者"
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
-#, fuzzy
 msgid ""
 "On the surface, it is not entirely clear what distinguishes a Luminary from "
 "other healers among the Dunefolk. Certainly, a Luminary may be marginally "
@@ -1259,21 +1228,20 @@ msgid ""
 "proven, but the fact remains that some Luminaries seem to hold much more "
 "influence than their abilities should afford."
 msgstr ""
-"从表面上看，并不完全清楚发光体与Dunefolk中的其他治疗师有什么区别。当然，与普"
-"通的草药师或药剂师相比，发光体可能会有更多的知识，更多的旅行，或更熟练的战斗"
-"技巧，但这种差异通常充其量也是有限的。尽管如此，\"路明 \"是授予Dunefolk治疗师"
-"最高等级的正式头衔，赋予这些人最大的尊重和最大的嫉妒。\n"
+"从表面上看，并不完全清楚渊博者与沙丘游民的其他治疗师有什么区别。当然，与普通"
+"的草药师或药剂师相比，渊博者可能学识更丰富，旅行更多，战斗技巧更熟练，但通"
+"常，这种差异充其量也是有限的。尽管如此，“渊博者”是授予沙丘游民种最高等级的治"
+"疗师团体的正式头衔，让这些人获得了最大的尊重和最深的嫉妒。\n"
 "\n"
-"有一些猜测认为，在发光体中存在一个秘密秩序。这些所谓的 \"Eminents \"囤积了大"
-"量的禁忌知识，并从暗处为许多Dunefolk领导人提供建议。这样的事情从来没有被证实"
-"过，但事实是，一些发光体似乎拥有比他们的能力所能承受的更大的影响力。"
+"有猜测认为，在渊博者之中存在一个秘密团体。这些所谓的 “卓越者”囤积了大量的禁忌"
+"知识，并暗中为许多沙丘游民领袖提供建议。这件事从来没被证实，但事实是，一些渊"
+"博者拥有的影响力，似乎比他们的能力所能支撑的影响力要大得多。"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 msgid "Dune Marauder"
-msgstr "沙丘掠袭骑"
+msgstr "沙丘掠袭者"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
-#, fuzzy
 msgid ""
 "Some find themselves well suited to the life of a raider and may even form "
 "their own clans with like-minded individuals. Ever roaming the deserts for "
@@ -1287,25 +1255,23 @@ msgid ""
 "For this reason, they are sometimes hired by small armies or wealthier "
 "caravans as a deterrent to unwanted raids."
 msgstr ""
-"有些人发现自己很适合突击队员的生活，甚至可能与志同道合的人组成自己的部族。这"
-"些骑兵经常在沙漠中游荡，寻找不小心的旅行者或脆弱的商队，他们以搜刮和偷窃为"
-"生。掠夺者没有特别的专长，他们既不是最强壮的战士，也不是最灵巧的弓箭手，但由"
-"于他们纯粹的机动性，是沙漠中最危险的敌人之一。一次协调的掠夺者攻击可以在任何"
-"反应之前消灭中等规模的营地，而游击战术可能使他们在面对强敌时取得胜利，而蛮力"
-"却不能。出于这个原因，他们有时会被小型军队或较富裕的商队雇佣，作为对不受欢迎"
-"的袭击的威慑。"
+"有些人发现自己很适合作为劫掠者来生活，甚至可能与志同道合的人组成自己的部落。"
+"这些骑手经常在沙漠中游荡，寻找不小心的旅行者或脆弱的商队，他们以搜刮和偷窃为"
+"生。劫掠者没有特别的专长，既不是最强壮的武士，也不是最灵巧的弓箭手，但由于强"
+"大的机动性，仍然是沙漠中最危险的敌人之一。掠袭者的一次经过协调的进攻可以在对"
+"手反应过来之前消灭中等规模的营地，而游击战术让他们在面对蛮力无法战胜的强敌时"
+"有可能取得胜利。出于这个原因，他们有时会被小型军队或较富裕的商队雇佣，以遏制"
+"（其他人的）劫掠。"
 
 #. [attack]: type=fire
 msgid "torch"
 msgstr "火炬"
 
 #. [unit_type]: id=Dune Paragon, race=dunefolk
-#, fuzzy
 msgid "Dune Paragon"
-msgstr "沙丘掠袭骑"
+msgstr "沙丘典范"
 
 #. [unit_type]: id=Dune Paragon, race=dunefolk
-#, fuzzy
 msgid ""
 "In many Dunefolk city-states, the procedure for selecting the next "
 "generation of leaders is a long process that takes place over many years. In "
@@ -1329,19 +1295,19 @@ msgid ""
 "acuity who may then be considered as candidates to lead the next generation "
 "of Dunefolk."
 msgstr ""
-"在许多Dunefolk城邦中，挑选下一代领导人的程序是一个漫长的过程，需要花费很多年"
-"时间。在每一代中，贵族中一些特别有天赋的年轻人被挑选出来进行特别辅导。吃饭、"
-"睡觉和训练，这些战士学习生活和呼吸剑术--甚至超过了自己的延伸，成为他们的核心"
-"身份。从青春期开始，十年的高强度训练为最后的测试铺平了道路，即这些战士之间的"
-"一系列生死决斗。当尘埃落定，过程结束时，还剩下八个人。这些人被授予Kal的称号，"
-"或统称为Kalai。\n"
+"在许多沙丘游民城邦中，挑选下一代领袖的程序是一个漫长的过程，需要花费很多年时"
+"间。在每一代中，贵族中一些特别有天赋的年轻人被挑选出来进行特别辅导。吃饭、睡"
+"觉、训练，这些战士学习剑术，直到如生活和呼吸一般自然——剑术不但是他们自身的延"
+"伸，更是会成为他们的核心身份。从青春期开始，十年的高强度训练为最后的测试铺平"
+"道路，即这些战士之间一对一的生死决斗。当尘埃落定，过程结束时，还剩下八个人。"
+"这些人被授予“卡”的称号，或统称为“卡莱”。\n"
 "\n"
-"在Dunefolk中，虽然伟大的领袖被要求掌握剑术，但统治阶层必须知道的东西远远超过"
-"了单纯的剑术。艰苦的操练之后，通常要在沙漠中漫游数年，或者把心思用在科学上。"
-"这样做的目的是为了找到一条自我激励的启蒙之路。不管是哪种情况，在第二个训练期"
-"结束时，剩下的卡莱人将返回并向当前统治种姓的长老们展示他们的知识。那些被认为"
-"有价值的人被称为帕拉贡（Paragon），是具有强大力量和敏锐性的战士，然后可以被考"
-"虑作为领导下一代Dunefolk的候选人。"
+"在沙丘游民之中，虽然伟大的领袖被要求掌握剑术，但统治阶层必须知道的东西远远不"
+"只是单纯的剑术。艰苦的操练之后，他们通常要在沙漠中漫游数年，或者把心思全部用"
+"在科学上。这样做的目的是为了找到一条自我激励的启蒙之路。不管是哪种情况，在第"
+"二个训练期结束时，剩下的卡莱将返回，并向当前统治阶层的长老们展示他们的知识。"
+"那些被认为拥有资质的人将被称为典范，是力量强大、思维敏锐的战士，他们将被认为"
+"是下一代沙丘游民领袖的候选人。"
 
 #. [attack]: type=impact
 msgid "pommel strike"
@@ -1349,10 +1315,9 @@ msgstr "剑柄攻击"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 msgid "Dune Raider"
-msgstr "沙丘劫掠骑"
+msgstr "沙丘劫掠者"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
-#, fuzzy
 msgid ""
 "Though rarely found in organized armies, raiders are a staple among the "
 "nomadic Dunefolk, who regularly ambush rival caravans and camps at night. In "
@@ -1363,18 +1328,17 @@ msgid ""
 "Dunefolk, capable of outpacing nearly anything they might encounter in the "
 "sandy deserts."
 msgstr ""
-"虽然很少有有组织的军队，但突击队员是游牧的Dunefolk中的主力军，他们经常在夜间"
-"伏击对手的商队和营地。在这些情况下，原始力量并不重要。最重要的是速度--在最短"
-"的时间内迅速出击并散布尽可能多的混乱，使这些骑手能够在闪电战中进退自如，而不"
-"必担心遭到反击。袭击者是遁地者中速度最快的，几乎能够超过他们在沙地沙漠中可能"
-"遇到的任何东西。"
+"虽然很少在有组织的军队里存在，但劫掠者是游牧的沙丘游民的支柱，他们经常在夜间"
+"伏击对手的商队和营地。在这些情况下，力量并不重要。最重要的是速度——在最短的时"
+"间内迅速出击并制造尽可能多的混乱，这些骑手能够在闪电战中进退自如，而不必担心"
+"遭到反击。劫掠者是沙丘游民中速度最快的，比他们在沙漠中可能遇到的几乎任何东西"
+"都快。"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 msgid "Dune Rider"
 msgstr "沙丘骑手"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
-#, fuzzy
 msgid ""
 "The Dunefolk are prominent horse breeders who raise many different varieties "
 "of mounts to fulfill various purposes. Those who are used for hard labor are "
@@ -1386,18 +1350,17 @@ msgid ""
 "is what allows these horsemen to be so effective and versatile out on the "
 "rolling dunes."
 msgstr ""
-"Dunefolk是著名的马匹饲养者，他们饲养了许多不同品种的坐骑以满足不同的目的。那"
-"些被用来做苦力的马是为了获得力量，而那些用于旅行或商队的马是为了获得耐力。对"
-"于战争来说，各种特征的混合通常是最好的，尽管容易和快速穿越沙地的能力是最重要"
-"的。这些马的骑手主要是作为侦察兵和信使，或者偶尔作为被削弱的线路的支持力量。"
-"机动性这一关键特征使这些骑手能够在起伏的沙丘上如此有效和多变。"
+"沙丘游民是著名的马匹饲养者，他们饲养了许多不同品种的坐骑以满足不同的目的。那"
+"些被用来做苦力的马是力量型的品种，而那些用于旅行或商队的马是耐力型的品种。而"
+"在战争方面，各种特征混合通常是最好的，尽管轻易而快速地穿越沙地的能力是最重要"
+"的。这些马的骑手主要是作为侦察兵和信使，或者偶尔在被削弱地战线上作为支持力"
+"量。机动性这一关键特征让这些骑手能够在起伏的沙丘上如此高效而全能。"
 
 #. [unit_type]: id=Dune Rover, race=dunefolk
 msgid "Dune Rover"
 msgstr "沙丘浪游者"
 
 #. [unit_type]: id=Dune Rover, race=dunefolk
-#, fuzzy
 msgid ""
 "Originating from the nomadic wanderers of the open deserts, rovers are the "
 "representation of the most well-balanced Dunefolk soldier: flexible, mobile, "
@@ -1408,16 +1371,17 @@ msgid ""
 "readily to warfare. Their unique trait of fighting best at dawn or dusk "
 "corresponds with the time when desert temperatures are the most habitable."
 msgstr ""
-"在许多方面，浪游者都是沙丘游民单位的理想代表：灵活，机动，攻守兼备，远近全"
-"能。他们习于在南方的沙漠和山丘中进行作战，那正是他们最熟悉的地形与环境。此"
-"外，他们最擅长在清晨或者傍晚战斗，因为在沙漠中那是温度最合适的时间。"
+"浪游者起源于空旷沙漠上的漫游者，是最为均衡的沙丘游民单位的代表：灵活，机动，"
+"攻守兼备，远近全能。他们是经验丰富的猎人和追踪者，是沙漠和丘陵之中坚强的住"
+"民，他们把那些地方叫做家园。虽然缺少作为正规部队的训练，但这些浪游者用于生存"
+"的技能，轻而易举地便能用于战争。他们最擅长在清晨或者傍晚战斗的特性，是因为在"
+"沙漠中，那些是温度最合适于居住的时段。"
 
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
 msgid "Dune Scorcher"
 msgstr "沙丘焦燃者"
 
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
-#, fuzzy
 msgid ""
 "The scorcher’s moniker is derived not from the destruction they wreak on "
 "adversarial formations, but on their own singed appearances. By "
@@ -1427,23 +1391,20 @@ msgid ""
 "in their work, these archers relish igniting great swaths of flame on the "
 "battlefield, though this sometimes also results in unintended friendly fire."
 msgstr ""
-"灼烧者的名字不是来自于他们对敌方阵营的破坏，而是来自于他们自己被烧焦的外表。"
-"通过无休止地试验他们的装备，大多数炙热者不可避免地在某些时候超越了他们的界"
-"限，并被浸泡在他们的武器中的极易挥发的桑巴尔树液烧伤。作为他们工作的骄傲，这"
-"些弓箭手喜欢在战场上点燃大面积的火焰，尽管这有时也会导致意外的友军射击。"
+"焦燃者的名字不是来自于他们对敌方方阵的破坏，而是来自于他们自己被烧焦的外表。"
+"由于无休止地试验自己的装备，大多数焦燃者不可避免地会在某一刻超出界限，并被浸"
+"泡着他们的武器的极易挥发的椮巴树液烧伤。他们将烧伤视为工作带来的骄傲。这些弓"
+"箭手很喜欢在战场上点燃大面积的火焰，尽管这有时也会导致意外的友军误伤。"
 
 #. [female]
-#, fuzzy
 msgid "female^Dune Scorcher"
 msgstr "沙丘焦燃者"
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
-#, fuzzy
 msgid "female^Dune Skirmisher"
 msgstr "沙丘散兵"
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
-#, fuzzy
 msgid ""
 "Born and raised out on the open sands, skirmishers are accustomed to the "
 "harsh, arid desert heat and inhospitable terrain. Compared to even other "
@@ -1455,19 +1416,17 @@ msgid ""
 "assassinating key units, or pincering an enemy formation into a "
 "disadvantageous position."
 msgstr ""
-"在空旷的沙地上出生和长大，小兵们已经习惯了严酷的、干旱的沙漠高温和荒凉的地"
-"形。与其他Dunefolk相比，这些游牧民族在不稳定的沙丘上有着非同寻常的灵活性，使"
-"他们能够轻松地保护他们的牧群和狩猎荒原。当应用于战斗时，同样的敏捷性使他们既"
-"能溜过敌人的防线，又能避开各种形式的攻击。这些技能使小兵成为有效的破坏者，能"
-"够切断逃跑路线和补给线，暗杀关键单位，或将敌人的阵型夹在不利的位置。"
+"散兵在空旷的沙地上出生和长大，他们已经习惯了严酷、干旱的沙漠高温与荒凉的地"
+"形。哪怕与其他沙丘游民相比，这些游牧者在不稳定的沙丘上都非同寻常地敏捷，这使"
+"他们能够轻松地保护牧群并在荒原上狩猎。当应用于战斗时，同样的敏捷让他们既能溜"
+"过敌人的防线，又能避开各种形式的攻击。这些技能使散兵成为高效的潜入破坏者，能"
+"够切断逃跑路线和补给线，暗杀关键单位，或将敌人方阵包夹在不利位置。"
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
-#, fuzzy
 msgid "female^Dune Sky Hunter"
-msgstr "人鱼猎手"
+msgstr "沙丘天空猎手"
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
-#, fuzzy
 msgid ""
 "Often mistaken for young Rocs, desert eagles are large, majestic birds of "
 "prey who are notoriously aggressive and nearly impossible to tame. In the "
@@ -1480,24 +1439,22 @@ msgid ""
 "tools for combat, the eagles can live for up to a few decades and are often "
 "precious companions to their dunefolk partners."
 msgstr ""
-"沙漠之鹰常常被误认为是年轻的大鹏鸟，它们是大型的、雄伟的猎物，具有臭名昭著的"
-"攻击性，几乎不可能被驯服。在野外，老鹰以大型猎物为食，如狼、小马，据说还有调"
-"皮的小孩子。这些生物的力量使它们非常难以对付，只有最熟练的猎鹰人甚至敢于接近"
-"它们。如果驯鸟师真的成功了，鸟和猎人之间的关系就不再是主人和宠物的关系，而更"
-"像是两个平等者之间的相互联系。鹰不仅是战斗的工具，还可以活上几十年，而且往往"
-"是它们的地下居民伙伴的宝贵伙伴。"
+"沙漠鹰常常被误认为是年轻的鹏鸟，它们是威严的大型猛禽，其攻击性臭名昭著，几乎"
+"不可能被驯服。在野外，鹰以大型猎物为食，例如狼、小马，据说还有调皮的小孩子。"
+"这些生物的力量使它们非常难以对付，只有最熟练的驯鹰人才敢于接近它们。如果驯鹰"
+"人真的成功了，那么鸟和猎人之间的关系并不是主人和宠物的关系，而更像是两个平等"
+"者之间的相互牵绊。鹰不仅是战斗工具，它们可以活上几十年，往往是它们的沙丘游民"
+"搭档的宝贵伙伴。"
 
 #. [attack]: type=blade
-#, fuzzy
 msgid "eagle"
-msgstr "老鹰"
+msgstr "鹰"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 msgid "Dune Soldier"
 msgstr "沙丘士兵"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
-#, fuzzy
 msgid ""
 "While most Dunefolk castes serve an additional practical purpose beyond only "
 "direct warfare, cities and caravans usually train a group of soldiers "
@@ -1508,18 +1465,17 @@ msgid ""
 "spaced pattern, allowing them to assault and overwhelm clustered enemy lines "
 "by engaging them in quasi-single combat."
 msgstr ""
-"虽然大多数Dunefolk种姓在直接战争之外还有一个额外的实用目的，但城市和商队通常"
-"会训练一批完全致力于军事目的的士兵。通过密集的练习来磨练他们的剑术技能，这些"
-"战士学会了在近距离的棘手战斗中游刃有余，通过近战来掌握敌人。一个典型的"
-"Dunefolk阵型通过将士兵放置在一个间隔的模式中来利用这种敏捷性，使他们能够通过"
-"与敌人的准单兵作战来突击和压倒集群的敌人。"
+"大多数沙丘游民阶层在直接战争之外都有额外的实际作用，但城市和商队通常会训练一"
+"批完全致力于军事目的的士兵。通过密集的练习来磨练剑术技能，这些武士在近距离的"
+"棘手战斗中游刃有余并掌控敌人。典型的沙丘游民方阵会利用这种适应性，将士兵按照"
+"互相间隔开的模式排布，使他们能够通过与敌人的准单兵作战来突击并全面压倒集群之"
+"敌。"
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
 msgid "Dune Spearguard"
 msgstr "沙丘矛卫"
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
-#, fuzzy
 msgid ""
 "The push and pull of any battle requires varying degrees of offense and "
 "defense. The Dunefolk no doubt value offense as the greater of the two and "
@@ -1532,12 +1488,12 @@ msgid ""
 "combat than their sword-wielding brethren, they are highly skilled with "
 "spear and shield and more than capable of repelling most advances."
 msgstr ""
-"任何战斗的推动和拉动都需要不同程度的进攻和防御。毫无疑问，Dunefolk人重视进"
-"攻，并通常将大部分精力放在训练熟练的剑客上。然而，在任何一支战士队伍中，有一"
-"小部分士兵选择放弃他们的剑，转而履行防御者的重要角色。守卫着关键的补给线和有"
-"利位置，长矛护卫队最常被安排在主线的稍后位置，作为支援力量或对侧翼攻击的威"
-"慑。虽然这些战士往往比他们挥舞着剑的兄弟们更少看到直接的战斗，但他们对长矛和"
-"盾牌的熟练程度很高，更有能力击退大多数的进攻。"
+"任何战斗中双方的进退，都取决于不同程度的进攻与防御能力。毫无疑问，沙丘游民重"
+"视进攻，并通常将大部分精力放在训练熟练的剑客上。然而，在任何一支战士队伍中，"
+"都有一小部分士兵选择放弃剑术，转而担任防御者这一重要角色。矛卫守卫着关键的补"
+"给线和有利地点，他们最常被安排在主要战线的稍后位置，作为支援力量或对侧翼攻击"
+"的遏制力量。虽然这些战士往往比他们挥舞着剑的兄弟们更少进行直接战斗，但他们能"
+"够熟练使用长矛和盾牌，足以击退大多数进攻。"
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
 msgid "Dune Spearmaster"
@@ -1691,9 +1647,8 @@ msgstr ""
 "该被低估的专家级领导。"
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
-#, fuzzy
 msgid "Dune Wayfarer"
-msgstr "沙丘战帅"
+msgstr "沙丘旅人"
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #, fuzzy
@@ -1778,9 +1733,8 @@ msgstr ""
 "伯是Dunefolk中无可争议的远程战斗大师。"
 
 #. [unit_type]: id=Wyvern Rider, race=monster, description=
-#, fuzzy
 msgid "Wyvern Rider"
-msgstr "狮鹫骑手"
+msgstr "双足飞龙骑手"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 msgid "Dwarvish Arcanister"
@@ -2911,7 +2865,7 @@ msgstr ""
 "团。统治者有时对他们很提防，因为圣骑士的忠心是以君主们自身显而易见的品德为限"
 "的。居心叵测的人因此造谣中伤或者驱散这些团体，或者更少见的情况是，他们靠着精"
 "心策划的诡计让这些忠贞不二的圣骑士为他们服务。\n"
-"    \n"
+"\n"
 "通常来说，完全的圣骑士不像统帅军队的“高阶骑士”那般令人畏惧，但他们也仍然是一"
 "等一的战士。此外，他们的智慧和虔诚赋予了这些武士僧侣们奇特的力量：同魔法的或"
 "非自然的事物战斗时，圣骑士非常强大，而且他们中的绝大部分人都会一些医术，有治"
