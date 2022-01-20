@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-19 16:21+0800\n"
+"PO-Revision-Date: 2022-01-20 16:05+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2282,7 +2282,7 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 msgid "Elvish Outrider"
-msgstr "精灵骑卫兵"
+msgstr "精灵先锋护卫"
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 msgid ""
@@ -2316,30 +2316,26 @@ msgid ""
 "The truth of this tale, one can only surmise, but doubtless, Outriders the "
 "fastest do comprise."
 msgstr ""
-"昔有一精灵，贝兰是为名，欲之遥远地，御马而轻行。\n"
+"昔有一精灵，贝兰是为名，欲之遥远地，御马而独行。\n"
 "一十三日夜，日夜不经停，何处可小憩，湖边仙子居。\n"
 "“彼方有果木，叶茂散芳馨，娜娅吾好友，汝可见得清？”\n"
 "欢呼又雀跃，骏马且嘶鸣，满心欣又喜，足下正趯趯。\n"
-"霎时大风起，狂暴乱无匹，有声便入耳，飘渺若游灵。\n"
+"霎时大风起，狂暴乱无匹，有声便入耳，飘渺若灵气。\n"
 "“且慢且止停，尔尔小精灵，吾林与吾果，恕吾不汝予。”\n"
 "“吾与吾爱马，身心俱已疲，料汝定有知，且容吾休憩！”\n"
-"、\n"
-"“汝身乏又累，吾确知分明。若要得吾助，相逐定吾心。”\n"
-"贝兰便应允，共赴果木下。云飞伴风啸，人马似莫及。\n"
+"“汝身乏又累，吾确知分明，若要得吾助，相逐定吾心。”\n"
+"贝兰便应允，共赴果木下，云飞伴风啸，人马似莫及。\n"
+"岂曰莫能及，人马疾如电，转瞬越劲风，竟无声一点。\n"
+"时如驹过隙，灵仙两相逐，及至果木下，贝兰胜当先。\n"
+"仙子誉精灵，恩泽被同胞，人马便离去，永沐仙赦免。\n"
 "\n"
-"但在一阵闪电般的奔跑中，马和骑手在风中几乎没有吱声。\n"
-"在增加的时间里，他们来回奔跑，直到最后，精灵舰队抵达前方。\n"
-"\"干得好，\"精灵说，她吹了口气，\"我将给予你和你所有的亲属我的恩典。\"\n"
-"贝兰德和娜丽亚就这样离开了，永远带着仙女的缓和。\n"
-"\n"
-"这个故事的真实性，人们只能猜测，但毫无疑问，外乡人的速度是最快的。"
+"逸闻真伪，止能度之，精灵先锋，皆有迅足。"
 
 #. [unit_type]: id=Elvish Ranger, race=elf
 msgid "Elvish Ranger"
 msgstr "精灵游侠"
 
 #. [unit_type]: id=Elvish Ranger, race=elf
-#, fuzzy
 msgid ""
 "The silent watchers of the forests, Elvish rangers are masters of stealth "
 "and reconnaissance. Many are explorers and loners, preferring to wander "
@@ -2351,19 +2347,18 @@ msgid ""
 "their size and will often compel attacking armies to withdraw rather than "
 "risk a game of prolonged guerrilla warfare in the forests."
 msgstr ""
-"游侠是森林中沉默的守望者，匿踪和侦察的大师。许多游侠是探险家和孤独者，他们喜"
-"欢独自沿着高耸的树木之间的小路旅行，也喜欢在家园里未被破坏的自然美景之中旅"
-"行。他们对这美丽家园的保护欲极强。虽然在使用刃器和弓箭方面都有很高的造诣，但"
-"游侠并不太善于在平等条件下与其他武士作战。他们更愿意从树林的阴影中伏击敌人。"
-"游侠的突然袭击甚至能使一支规模大许多倍的部队瘫痪。进攻的军队往往会选择撤退，"
-"而不是去冒与森林中的游侠进行游击战的风险。"
+"游侠是森林中沉默的守望者，匿踪与侦察的大师。许多游侠是孤独的探险家，他们喜欢"
+"独自在高耸树木之间穿行，这些树木保护着他们家园的自然美景。他们对这美丽家园的"
+"保护欲极强。虽然在使用刃器和弓箭方面都有很高的造诣，但游侠并不太擅长在平等条"
+"件下与其他战士对战。他们更愿意在树林的阴影中伏击敌人。游侠的突然袭击甚至能使"
+"一支规模大许多倍的部队瘫痪。进攻的军队往往会选择撤退，而不是冒风险去与森林中"
+"的游侠进行长期游击战。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Elvish Rangers are well-traveled and adept at traversing harsh terrains like "
 "sand, water, and mountains."
-msgstr "精灵游骑兵游刃有余，善于穿越沙地、水面和山地等恶劣的地形。"
+msgstr "精灵游侠们游历甚广，擅长穿越沙地、水面和山地等恶劣地形。"
 
 #. [female]
 msgid "female^Elvish Ranger"
@@ -2374,7 +2369,6 @@ msgid "Elvish Rider"
 msgstr "精灵骑手"
 
 #. [unit_type]: id=Elvish Rider, race=elf
-#, fuzzy
 msgid ""
 "The prevalence of guerrilla tactics in Elven strategy results in great "
 "emphasis on maintaining highly mobile units capable of fighting on an "
@@ -2390,20 +2384,19 @@ msgid ""
 "these riders are the oft unsung heroes of war, left supporting their "
 "brethren from the back lines."
 msgstr ""
-"游击战术在精灵战略中的盛行，使得他们非常重视维持高度机动的部队，这些部队能够"
-"在多变的战线上作战。这种战争方式需要小股部队之间的快速沟通，以及在战区之间快"
-"速调动部队的能力。经验丰富的精灵骑手们对此十分了解，因此他们的大部分时间都花"
-"在了提升马术，而不是个人的战斗技能上。他们穿越森林的速度对任何其他骑兵来说都"
-"是自杀，而他们顽强到可以在不休息的情况下一次骑行两三天。虽然这些骑手提供的情"
-"报和通信对精灵战术来说是无价的，但战斗力和前线作战经验的缺乏，意味着精灵骑手"
-"常常留在后防线上支持他们的兄弟，是战争中的无名英雄。"
+"游击战术在精灵战略中盛行，这使得他们非常重视维持高度机动的部队，这些部队能在"
+"多变的战线上作战。这种战争方式需要小股部队之间的迅速沟通，以及在战区之间快速"
+"调动部队的能力。经验丰富的精灵骑手们对此十分了解，因此他们的大部分时间都花在"
+"了提升马术上，而不是在个人战斗技能上。他们穿越森林之迅速，对其他任何骑兵来说"
+"都是自杀，而他们顽强到可以在不休息的情况下连续骑行两三天。虽然这些骑手提供的"
+"情报和通信是极其宝贵的，但他们缺乏战斗力和前线作战经验，这意味着精灵骑手常常"
+"留在后防线上支持他们的弟兄，往往是战争中的无名英雄。"
 
 #. [unit_type]: id=Elvish Scout, race=elf
 msgid "Elvish Scout"
 msgstr "精灵侦察兵"
 
 #. [unit_type]: id=Elvish Scout, race=elf
-#, fuzzy
 msgid ""
 "Although the equines bred by the wood elves are much faster and more agile "
 "than regular horses, they tend to be quite a bit harder to master. It takes "
@@ -2416,20 +2409,18 @@ msgid ""
 "support units and are adept at quickly transferring information between "
 "patrols, whom they also reinforce when necessary."
 msgstr ""
-"虽然木精灵培育的马比普通的马更快更敏捷，但它们往往也更善变更难驾驭。训练一匹"
-"精灵小马需要很多年，但一旦驯服，它们就是最忠诚、最敬业的坐骑之一。这些独特的"
-"马可以让精灵骑手以极快的速度在茂密的森林中骑行而几乎不会有擦伤，而在空地上，"
-"精灵骑手的速度快过大多数其他骑兵。虽然这些骑手掌握了一些使剑用弓的技能,，但他"
-"们最大的效用来自于侦察敌军并比敌军更快机动的能力，而不是直接与敌军作战的能"
-"力。精灵侦察兵通常被用作信使和支援单位，善于在巡逻队和小股部队之间迅速传递信"
-"息，必要时他们也会作为这些部队的援军。"
+"虽然木精灵培育的马比普通的马更快更敏捷，但它们往往也更难驾驭一些。训练浮躁的"
+"小马需要很多年，但一旦驯服，它们就是最忠诚的坐骑之一。这些独特的马可以让精灵"
+"骑手在空地上的速度快过大多数其他骑兵，甚至可以让他们在茂密的森林中全速疾驰。"
+"虽然这些骑手掌握了一些使剑用弓的技能，但他们最大的功用来自于侦察敌军并比敌军"
+"更快机动的能力。精灵侦察兵通常被用作信使或支援单位，擅长在各个巡逻队之间迅速"
+"传递信息，必要时他们也会成为这些部队的援军。"
 
 #. [unit_type]: id=Elvish Shaman, race=elf
 msgid "female^Elvish Shaman"
 msgstr "精灵萨满"
 
 #. [unit_type]: id=Elvish Shaman, race=elf
-#, fuzzy
 msgid ""
 "With a little training, an elf’s inherent affinity with the natural world "
 "can be channeled into a material magic that affects the physical plane. "
@@ -2440,18 +2431,17 @@ msgid ""
 "peaceful by nature, these shamans rarely engage in combat, instead using "
 "their magic to command the earth itself to hinder or pacify their enemies."
 msgstr ""
-"只要稍加训练，精灵与生俱来的对自然界的亲和力就可以被引导到影响物理层面的物质"
-"魔法中。这个学科的巫师最常使用他们的技能来照顾与他们的力量相连的大自然，从而"
-"使他们的家园周围出现了异常茂盛和青翠的森林。同样的魔法也使他们在治疗艺术方面"
-"具有非凡的、众所周知的能力。这些巫师天性虔诚和平，很少参与战斗，而是用他们的"
-"魔法指挥大地本身来阻碍或安抚他们的敌人。"
+"只要稍加训练，精灵与生俱来的对自然界的亲和力就可以被引导到影响物理位面的物质"
+"魔法中。这一流派的萨满最常使用技能来照顾与她们的力量相连的大自然。她们的家园"
+"周围那异常茂盛而青翠的森林，便是照顾的结果。同样的魔法也使她们在治疗技艺方面"
+"具有非凡而众所周知的能力。这些萨满天性虔诚和平，很少参与战斗，而是用自己的魔"
+"法指挥大地本身来阻碍敌人，或让他们无法作乱。"
 
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 msgid "Elvish Sharpshooter"
 msgstr "精灵神射手"
 
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
-#, fuzzy
 msgid ""
 "Though not a formal title, ‘Sharpshooter’ is the epithet given to the most "
 "gifted Elvish marksmen. These expert archers are capable of feats that, even "
@@ -2464,18 +2454,17 @@ msgid ""
 "the undisputed masters of archery."
 msgstr ""
 "虽然不是正式头衔，但“神射手”是赋予最有天赋的精灵精准射手的绰号。这些老练的弓"
-"箭手的壮举，即使按照精灵的标准也近乎奇迹：他们的射击之精确，可以在半空中击裂"
+"箭手的壮举，即使按照精灵的标准也近乎奇迹：他们的射击之精确，可以在半空中劈开"
 "来袭的箭支，他们可以在第一箭命中前就射出第二支箭，与此同时还能让箭支保持足够"
-"的力量来击伤钢甲。他们的一次齐射就足以击倒马背上的骑士，甚至重甲步兵也不能在"
-"再多一两次射击之下存活。精灵神射手已将他们的技艺磨练到了极致，是无可争辩的射"
-"术大师。"
+"的力量来击伤全装板甲。他们的一次齐射就足以击倒马背上的骑士，甚至重甲步兵要是"
+"再挨一两下也无法存活。精灵神射手已将他们的技艺磨练到了极致，是无可争辩的箭术"
+"大师。"
 
 #. [female]
 msgid "female^Elvish Sharpshooter"
 msgstr "精灵神射手"
 
 #. [unit_type]: id=Elvish Shyde, race=elf
-#, fuzzy
 msgid ""
 "As an elf maiden entwines herself more and more with nature, the essence of "
 "earth begins to transform her body. The butterfly wings that sprout on the "
@@ -2486,11 +2475,11 @@ msgid ""
 "for true faerie or ‘forest spirits’, these stewards of the forests epitomize "
 "their people’s mysterious connection with the natural order."
 msgstr ""
-"随着精灵少女越来越多地与自然纠缠在一起，大地的精华开始改造她的身体。瑟德背上"
-"长出的蝴蝶翅膀是她与精灵联系的直接表现，赋予她特有的既宁静又恐惧的空灵气质。"
-"瑟德是世俗的大师，由一种鲜为人知的力量引导，但却受到其他同类的极大尊重。他们"
-"经常被误认为是真正的精灵或 \"森林之灵\"，这些森林的管家是他们的人民与自然秩序"
-"的神秘联系的缩影。"
+"随着精灵少女越来越多地与自然纠缠在一起，大地的精华开始改造她的身体。风仙子背"
+"上长出的蝴蝶翅膀是她与仙灵联系的直接表现，赋予她特有的既宁静又恐怖的空灵气"
+"质。风仙子是俗世的大师，由鲜为人知的力量引导，但却受到同族的极大尊重。她们经"
+"常被误认为是真正的仙灵或“森林之灵”，这些森林的管理者是他们的人民与自然秩序的"
+"神秘联系的缩影。"
 
 #. [attack]: type=impact
 msgid "faerie touch"
@@ -2501,7 +2490,6 @@ msgid "female^Elvish Sorceress"
 msgstr "精灵女巫"
 
 #. [unit_type]: id=Elvish Sorceress, race=elf
-#, fuzzy
 msgid ""
 "Elven magic most commonly diverges among two paths — manipulation of the "
 "natural, or corporeal world, and divination into the arcane plane. The "
@@ -2515,19 +2503,18 @@ msgid ""
 "nonetheless hold the arcane flame in high regard and are careful to utilize "
 "it with judicious caution."
 msgstr ""
-"精灵的魔法通常分为两种途径--对自然或肉体世界的操纵，以及对奥术界的占卜。后者"
-"作为一种难以控制的力量，甚至被大多数修行者所理解，并不常被精灵们所追求。掌握"
-"奥术的人在研究其学科的不稳定性质时面临着巨大的风险，并很快学会尊重其技艺的破"
-"坏性力量。这种破坏性最常表现为 \"精灵之火 \"的喷发，这是精灵女巫最容易掌握的"
-"技能之一。虽然这种艺术的应用相当肤浅，但精灵们还是高度重视奥术火焰，并小心翼"
-"翼地谨慎利用它。"
+"精灵的魔法分为两种不同的路径，一种侧重于操纵世俗或物质世界，另一种则侧重于奥"
+"术位面的占卜。后者作为一种难以控制的力量，甚至难以被其大多数修行者所理解。精"
+"灵们通常并不追求这种力量。掌握奥术的人在研究其流派的不稳定性质时面临着巨大风"
+"险，并很快学会尊重其技艺的破坏性力量。这种破坏性最常表现为“仙灵之火”的喷发，"
+"这是精灵女巫最容易掌握的技能之一。虽然奥术火焰是奥术的相当肤浅的应用形式，但"
+"精灵们还是高度重视，并小心翼翼地利用它。"
 
 #. [unit_type]: id=Elvish Sylph, race=elf
 msgid "female^Elvish Sylph"
-msgstr "青空仙灵"
+msgstr "精灵风仙子"
 
 #. [unit_type]: id=Elvish Sylph, race=elf
-#, fuzzy
 msgid ""
 "Tremendously powerful in unfathomable ways, the sage-like Sylphs are masters "
 "of manipulating the bridge between the mundane and arcane worlds. Long years "
@@ -2545,15 +2532,15 @@ msgid ""
 "‘reflection pools’ and steer them is one of her greatest — and most feared — "
 "abilities."
 msgstr ""
-"在深不可测的方面具有巨大的力量，像贤者一样的希尔法是操纵世俗和奥术世界之间桥"
-"梁的大师。长年累月地窥视虚无缥缈的领域，削弱了这些精灵观察物理世界的能力；作"
-"为回报，他们被赋予了一种抽象的视觉，获得了观察现实本质的一个甚至几个不同方面"
-"的能力。就像一面破碎的镜子的许多碎片一样，物质世界的无数断裂通过其许多不同的"
-"面反映出奥术的光芒。仔细的练习可以让人跟随这些光的股线从一个窗格到另一个窗"
-"格，观察物理现实的结果如何随着自由意志的每一个选择而演变。虽然直接编织连接织"
-"物通常是不可能实现的，但通过在肉体层面的机械化操作，间接操纵是可行的，因为那"
-"里对奥术层面的反映最强烈。赛尔菲找到这些 \"反射池 \"并引导它们的能力是她最伟"
-"大的--也是最令人恐惧的--能力之一。"
+"贤者一般的风仙子在深不可测的方面具有巨大的力量，她们是操纵世俗和奥术世界之间"
+"桥梁的大师。长年累月地窥视超凡的领域，削弱了这些精灵观察物理世界的能力。作为"
+"回报，他们被赋予了一种抽象的视觉，获得了观察现实本质的一个甚至几个不同方面的"
+"能力。就像一面破碎的镜子的许多碎片一样，物质世界的无数断裂那许多不同的面上反"
+"射出奥术的光芒。仔细的练习可以让人跟随这些光的股线从一个窗格来到另一个窗格，"
+"观察到物理现实的结果是如何随着自由意志的每一个选择而演变。虽然通常不可能直接"
+"编织这些线，但若找到位面中对奥术位面反射最强烈的位置，并在那些位置略施小计，"
+"那么间接操纵是可行的。找到并控制这些“反射池”的能力，是风仙子最伟大的——也是最"
+"令人恐惧的——能力之一。"
 
 #. [attack]: type=impact
 msgid "gossamer"
@@ -2608,7 +2595,6 @@ msgid "Goblin Knight"
 msgstr "地精骑士"
 
 #. [unit_type]: id=Goblin Knight, race=wolf
-#, fuzzy
 msgid ""
 "Battle experience strengthens not only the combat prowess of both mount and "
 "rider, but also heartens the bond between them. While a human knight may "
@@ -2621,13 +2607,13 @@ msgid ""
 "to goblins, recognize that picking a fight with the rider is also picking a "
 "fight with jaws that strike faster than a sword, and almost as hard."
 msgstr ""
-"战斗经验不仅增强了骑兵和骑手的战斗力，而且加强了他们之间的联系。虽然人类骑士"
-"可能骑着不同的骏马投入战斗，但\"妖精骑士\"将妖精和狼合为一单位，彼此极度忠"
-"诚，几乎就是一个错误。\n"
+"战斗经验不仅增强了坐骑和骑手的战斗力，而且加强了他们之间的牵绊。虽然人类骑士"
+"可能骑着不同的骏马投入战斗，但“地精骑士”这个称谓却把地精和狼二者整体视为一个"
+"单位。他们彼此极度忠诚，几乎到了过分的程度。\n"
 "\n"
-"在兽人中，骑手被视为高于妖精的类，即使与它们的坐骑分离。Orcish 咕咕声虽然感觉"
-"自己比妖精更胜一筹，但认识到与骑手打架也是用下巴挑斗，其打击速度比剑快，而且"
-"几乎同样艰难。"
+"在兽人中，骑手被视为高于地精的阶级，即使他们与坐骑分离时也是如此。兽人咕噜兵"
+"虽然感觉自己比地精更胜一筹，但他们同时也认识到，和骑手打架，也就意味着和那些"
+"像剑一样快，也几乎一样狠的嘴的拥有者打架。"
 
 #. [unit_type]: id=Goblin Pillager, race=wolf
 msgid "Goblin Pillager"
@@ -2688,7 +2674,6 @@ msgid "Wolf Rider"
 msgstr "狼骑手"
 
 #. [unit_type]: id=Wolf Rider, race=wolf
-#, fuzzy
 msgid ""
 "No one is quite sure how the practice of taming and riding wolves came into "
 "being, but the advantages of it for a goblin are obvious. Goblins are much "
@@ -2703,11 +2688,11 @@ msgid ""
 msgstr ""
 "没人能确定驯服狼并以它们为坐骑的实践是怎么开始的，但这一实践对地精的好处显而"
 "易见。他们比自己的兽人同胞矮小，又脆弱得多，而且还常常承担着战斗中最危险最没"
-"人想做的部分。能获得一头坐骑的地精在战斗中的角色会更安全，而且猜想起来，也更"
-"有意思。\n"
+"人想做的部分。能驯服一头坐骑的地精在战斗中会更安全。\n"
 "\n"
-"类似地，狼永远不能承受一个穿着板甲的人的重量，但是搭载穿着皮甲的地精则毫无问"
-"题。不像马那样，狼能在山岭中迅速穿行，尽管水和森林还是会减慢他们的速度。"
+"虽然没几头狼在承受着一个真兽人的体重的情况下还能站得起来，但迅捷地承载一个地"
+"精则在很多狼的能力范围之内。不像马那样，狼能在山岭中迅速穿行，尽管水和森林还"
+"是会减慢他们的速度。"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 msgid "Gryphon"
@@ -2877,18 +2862,17 @@ msgstr ""
 
 #. [unit_type]: id=Cavalier, race=human
 msgid "Cavalier"
-msgstr "近卫骑兵"
+msgstr "弩骑士"
 
 #. [unit_type]: id=Cavalier, race=human
-#, fuzzy
 msgid ""
 "Cavaliers are masters at the use of both sword and crossbow from horseback. "
 "Their combination of striking power and mobility is fearsome, and they have "
 "a reputation for dash and aggressiveness to match it. The daring deeds of "
 "Cavaliers are the subject of many a tale and song."
 msgstr ""
-"近卫骑兵是在马背上使用剑和十字弩的高手。他们的打击力与机动性的结合令人畏惧，"
-"与之相应的是横冲直撞与充满侵略性的形象。他们无畏的战功也被许多传说和歌曲所传"
+"弩骑士是在马背上使用剑和十字弩的高手。他们的打击力与机动性的结合令人畏惧，与"
+"之相应的是横冲直撞与充满侵略性的形象。他们无畏的战功也被许多传说和歌曲所传"
 "颂。"
 
 #. [attack]: type=pierce
@@ -3048,11 +3032,10 @@ msgstr ""
 "这种武器。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other loyalists, Halberdiers have a higher resistance to "
 "‘pierce’ attacks."
-msgstr "与其他效忠者相比，哈尔伯迪尔对\"穿刺\"攻击的抵抗力更高。"
+msgstr "与其他保王党人相比，戟兵对“穿刺”攻击的抗性更高。"
 
 #. [unit_type]: id=Heavy Infantryman, race=human
 msgid "Heavy Infantryman"
@@ -3213,11 +3196,10 @@ msgstr ""
 "大多数类型的其他步兵。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other loyalists, Pikemen have a higher resistance to ‘pierce’ "
 "attacks."
-msgstr "与其他效忠者相比，派克门对\"穿刺\"攻击的抵抗力更高。"
+msgstr "与其他保王党人相比，长矛兵对“穿刺”攻击的抗性更高。"
 
 #. [attack]: type=pierce
 msgid "pike"
@@ -3225,7 +3207,7 @@ msgstr "长矛"
 
 #. [unit_type]: id=Royal Guard, race=human
 msgid "Royal Guard"
-msgstr "皇家卫兵"
+msgstr "侍卫"
 
 #. [unit_type]: id=Royal Guard, race=human
 msgid ""
@@ -3238,23 +3220,21 @@ msgid ""
 "reliability and mastery of close combat are their best assets, for which "
 "they are well-renowned."
 msgstr ""
-"皇家卫兵是从韦诺最好的剑士里选出来的。他们服务于高等贵族，担任保镖，并在一定"
-"程度上成为主人公职的象征。一支由皇家卫兵组成的特种部队驻扎在国会大厦，负责保"
-"卫皇宫和皇室成员。由于与上级之间的信任关系，常常是他们，而不是雇佣兵，被赋予"
-"至关重要的使命。他们的近战技艺高超，值得信赖，这是他们最大的资本，也是他们的"
-"名声所在。"
+"侍卫是从韦诺最好的剑士里选出来的。他们服务于高等贵族，担任保镖，并在一定程度"
+"上成为雇主的公职的象征。一支由侍卫组成的特种部队驻扎在首都，负责保卫王宫和王"
+"室成员。由于与上级之间的信任关系，常常是他们，而不是雇佣兵，被赋予至关重要的"
+"使命。他们值得信赖且近战技艺高超，这是他们最大的资本，也是他们声名远扬的原"
+"因。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other loyalists, Royal Guards have a higher resistance to "
 "‘blade’ and ‘impact’ attacks."
-msgstr "与其他效忠者相比，皇家卫队对\"刀片\"和\"冲击\"攻击的抵抗力更高。"
+msgstr "与其他保王党人相比，侍卫对“刃器”和“冲击”攻击的抗性更高。"
 
 #. [special_note]
-#, fuzzy
 msgid "Compared to other loyalists, Royal Guards have more movement points."
-msgstr "与其他效忠者相比，皇家卫队有更多的移动点。"
+msgstr "与其他保王党人相比，侍卫拥有更多的移动点。"
 
 #. [unit_type]: id=Sergeant, race=human
 msgid "Sergeant"
@@ -3330,11 +3310,10 @@ msgstr ""
 "也更好用。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other loyalists, Swordsmen have a higher resistance to ‘blade’ "
 "and ‘impact’ attacks."
-msgstr "与其他忠诚者相比，剑客对\"刀刃\"和\"冲击\"攻击的抵抗力更高。"
+msgstr "与其他保王党人相比，剑士对“刃器”和“冲击”攻击的抗性更高。"
 
 #. [unit_type]: id=Mage, race=human
 msgid "Mage"
@@ -3412,11 +3391,10 @@ msgstr ""
 "不是儿戏。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other mages, Arch Mages have a higher resistance to ‘fire’ "
 "attacks."
-msgstr "与其他法师相比，拱形法师对\"火\"攻击的抵抗力更高。"
+msgstr "与其他法师相比，大法师对“火焰”攻击的抗性更高。"
 
 #. [attack]: type=fire
 msgid "fireball"
@@ -3445,7 +3423,7 @@ msgstr "闪电"
 
 #. [unit_type]: id=Great Mage, race=human
 msgid "Great Mage"
-msgstr "高阶大法师"
+msgstr "伟大法师"
 
 #. [unit_type]: id=Great Mage, race=human
 msgid ""
@@ -3461,25 +3439,24 @@ msgid ""
 "Though they are not warriors, by any means, the application of their art to "
 "combat is something that often causes other soldiers to stand aside in awe."
 msgstr ""
-"凡是有可能获得高阶大法师称号的人都几乎是其所处时代的传奇。城镇传令员们被迫意"
-"识到，在使用这一头衔时必须慎而又慎。这一头衔所必须的品德，由当时最重要的法师"
-"们组成的评议会小心谨慎地决定。而要授予这一头衔，则必须由大多数人投票通过才"
-"行。无论如何，任何被严肃地提名授予高阶大法师称号的人，都是毋庸置疑的魔法大"
-"师，他们在技艺上压倒了大多数同僚。\n"
+"凡是有可能获得伟大法师称号的人都几乎是其所处时代的传奇。城镇传令员们被迫意识"
+"到，在使用这一头衔时必须慎而又慎。这一头衔所必须的品德，由当时最重要的法师们"
+"组成的评议会小心谨慎地决定。而要授予这一头衔，则必须由大多数人投票通过才行。"
+"无论如何，任何被严肃地提名授予伟大法师称号的人，都是毋庸置疑的魔法大师，他们"
+"在技艺上压倒了大多数同僚。\n"
 "\n"
 "虽然他们不是武士，但不管怎样，当他们在战斗中使用自己的能力时，别的士兵们常常"
 "站在一旁看着，内心充满着敬畏。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other mages, Great Mages have a higher resistance to ‘fire’ "
 "attacks."
-msgstr "与其他法师相比，大法师对\"火\"攻击的抵抗力更高。"
+msgstr "与其他法师相比，伟大法师对“火焰”攻击的抗性更高。"
 
 #. [female]
 msgid "female^Great Mage"
-msgstr "高阶大法师"
+msgstr "伟大法师"
 
 #. [unit_type]: id=Red Mage, race=human
 msgid "Red Mage"
@@ -3509,11 +3486,10 @@ msgstr ""
 "的能力，这也很可能正是口语中他们名号的来源。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other mages, Red Mages have a higher resistance to ‘fire’ "
 "attacks."
-msgstr "与其他法师相比，红法师对\"火\"攻击的抵抗力更高。"
+msgstr "与其他法师相比，红袍法师对“火焰”攻击的抗性更高。"
 
 #. [female]
 msgid "female^Red Mage"
@@ -3556,7 +3532,6 @@ msgstr ""
 "战场上的能力将是不容置疑的。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "SPECIAL_NOTE^Silver Magi are well-attuned to their magical natures and are "
 "highly resistant to non-physical damage."
@@ -3590,11 +3565,10 @@ msgstr ""
 "虽然没有受过作战训练，但他们在对付魔法的或者非自然的事物时仍然是强大的盟友。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other mages, White Mages have a higher resistance to ‘arcane’ "
 "attacks."
-msgstr "与其他法师相比，白法师对\"阿坎\"攻击的抵抗力更高。"
+msgstr "与其他法师相比，白袍法师对“奥术”攻击的抗性更高。"
 
 #. [female]
 msgid "female^White Mage"
@@ -3619,11 +3593,10 @@ msgstr ""
 "这些男女恪守虔诚与荣誉之信条，不知疲倦地为乱世带来活力与秩序。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "Compared to other mages, Mages of Light have a higher resistance to ‘arcane’ "
 "attacks."
-msgstr "与其他法师相比，光法师对\"神秘\"攻击的抵抗力更高。"
+msgstr "与其他法师相比，光明法师对“奥术”攻击的抗性更高。"
 
 #. [female]
 msgid "female^Mage of Light"
@@ -3650,7 +3623,7 @@ msgstr ""
 
 #. [attack]: type=impact
 msgid "morning star"
-msgstr "晨星之锤"
+msgstr "晨星锤"
 
 #. [female]
 msgid "female^Outlaw"
@@ -5549,7 +5522,7 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Grunt, race=orc
 msgid "Orcish Grunt"
-msgstr "兽人步兵"
+msgstr "兽人咕噜兵"
 
 #. [unit_type]: id=Orcish Grunt, race=orc
 #, fuzzy
