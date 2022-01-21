@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-20 16:05+0800\n"
+"PO-Revision-Date: 2022-01-21 15:37+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1100,13 +1100,13 @@ msgstr ""
 "察猎物和水源。同样的智慧在战时也很有用——若是可以说服驯鹰师将他们的珍贵宠物用"
 "于战斗目的的话。\n"
 "\n"
-"在战斗中，猎鹰可以帮助它的主人，用它锋利的爪子攻击敌人，也可以上升到高空，在"
+"在战斗中，猎隼可以帮助它的主人，用它锋利的爪子攻击敌人，也可以上升到高空，在"
 "头顶盘旋，在敌人转移注意力时发动攻击。让战士的注意力分散到两个目标上，至少可"
 "以说是相当消耗精力的，这迫使他们放弃进攻，以适当地保护自己。"
 
 #. [attack]: type=blade
 msgid "falcon"
-msgstr "猎鹰"
+msgstr "猎隼"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 msgid "Dune Firetrooper"
@@ -1439,16 +1439,16 @@ msgid ""
 "tools for combat, the eagles can live for up to a few decades and are often "
 "precious companions to their dunefolk partners."
 msgstr ""
-"沙漠鹰常常被误认为是年轻的鹏鸟，它们是威严的大型猛禽，其攻击性臭名昭著，几乎"
-"不可能被驯服。在野外，鹰以大型猎物为食，例如狼、小马，据说还有调皮的小孩子。"
-"这些生物的力量使它们非常难以对付，只有最熟练的驯鹰人才敢于接近它们。如果驯鹰"
+"沙漠雕常常被误认为是年轻的鹏鸟，它们是威严的大型猛禽，其攻击性臭名昭著，几乎"
+"不可能被驯服。在野外，雕以大型猎物为食，例如狼、小马，据说还有调皮的小孩子。"
+"这些生物的力量使它们非常难以对付，只有最熟练的驯雕人才敢于接近它们。如果驯隼"
 "人真的成功了，那么鸟和猎人之间的关系并不是主人和宠物的关系，而更像是两个平等"
-"者之间的相互牵绊。鹰不仅是战斗工具，它们可以活上几十年，往往是它们的沙丘游民"
+"者之间的相互牵绊。雕不仅是战斗工具，它们可以活上几十年，往往是它们的沙丘游民"
 "搭档的宝贵伙伴。"
 
 #. [attack]: type=blade
 msgid "eagle"
-msgstr "鹰"
+msgstr "雕"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 msgid "Dune Soldier"
@@ -3153,7 +3153,7 @@ msgstr ""
 
 #. [unit_type]: id=Master at Arms, race=human
 msgid "Master at Arms"
-msgstr "卫队士官"
+msgstr "剑术大师"
 
 #. [unit_type]: id=Master at Arms, race=human
 msgid ""
@@ -3711,7 +3711,7 @@ msgstr "亡命徒"
 
 #. [unit_type]: id=Highwayman, race=human
 msgid "Highwayman"
-msgstr "拦路强盗"
+msgstr "车匪"
 
 #. [unit_type]: id=Highwayman, race=human
 msgid ""
@@ -3721,9 +3721,9 @@ msgid ""
 "attacking on lonely roads or in the dead of night. Their experience with "
 "such encounters makes them deadly foes in hand to hand combat."
 msgstr ""
-"拦路强盗们阴险的暴力行为令他们臭名昭著。他们随时准备为出价最高的人卖命，带领"
-"着一帮小弟和雇主的敌人作战。他们通常在人烟稀少的公路上或者死寂的夜晚里发动袭"
-"击，在这类遭遇战方面的经验使得他们成为白刃战中的致命对手。"
+"车匪们阴险的暴力行为令他们臭名昭著。他们随时准备为出价最高的人卖命，带领着一"
+"帮小弟和雇主的敌人作战。他们通常在人烟稀少的公路上或者死寂的夜晚里发动袭击，"
+"在这类遭遇战方面的经验使得他们成为白刃战中的致命对手。"
 
 #. [unit_type]: id=Rogue, race=human
 msgid "Rogue"
@@ -3998,7 +3998,6 @@ msgid "Merman Entangler"
 msgstr "人鱼缠绕者"
 
 #. [unit_type]: id=Merman Entangler, race=merman
-#, fuzzy
 msgid ""
 "Merfolk tend to use a combination of both nets and clubs in fishing; nets to "
 "collect the fish, and clubs to finish the kill. Both of these tools have "
@@ -4012,12 +4011,12 @@ msgid ""
 "combat."
 msgstr ""
 "人鱼倾向于在捕鱼时同时使用渔网和大棒：渔网用来聚集鱼群，而大棒用来把鱼打死。"
-"这两种工具都用在了战争中，而且确实很有效，以致于专长于使用它们的辅工们被特意"
-"派上了战场。\n"
+"这两种工具都用在了战争中，而且确实很有效，以至于擅长使用它们的辅工们被特意派"
+"上了战场。\n"
 "\n"
-"人鱼经常发现自己与陆居的敌人们陷入僵持状态：人鱼们在水中太强，而在陆地上又太"
-"弱以至于无力发起任何进攻。渔网是这一杠杆上的关键点：如果没有它们，人鱼们在陆"
-"地上完全不能进行有效的追击，而且在肉搏战中也会处于严重的劣势。"
+"人鱼经常与陆居敌人陷入僵持状态：人鱼在水中太强，而在陆地上又太弱，无力发起任"
+"何进攻。此时渔网的影响便很关键：如果没有它们，人鱼们在陆地上就完全不能有效追"
+"击，而在肉搏战中也会处于严重的劣势。"
 
 #. [unit_type]: id=Merman Fighter, race=merman
 msgid "Merman Fighter"
@@ -4041,7 +4040,6 @@ msgid "Merman Hoplite"
 msgstr "人鱼重甲兵"
 
 #. [unit_type]: id=Merman Hoplite, race=merman
-#, fuzzy
 msgid ""
 "With their heavy armor and shields, the Merman Hoplites form the elite guard "
 "of the watery realm. Their powerful style of defensive combat and rigid "
@@ -4049,16 +4047,15 @@ msgid ""
 "In times of desperation, they can even do so on land, though not nearly as "
 "well as a creature with legs."
 msgstr ""
-"人鱼重甲兵装备着高耸的盾牌，是水世界里的精英卫兵。强力的铠甲和严明的军纪使得"
-"他们在狂暴的战争中能组织坚韧的战线。在绝境中，他们在陆地上也能组成这样的防"
-"线，当然了，效果就不能和长了腿的生物相比了。"
+"人鱼重甲兵装备重甲坚盾，是水世界的精英卫兵。强力的防御型作战风格和严明的军纪"
+"使他们在极度混乱的战斗中能坚守防线。在绝境中，他们在陆地上也能如此，但效果比"
+"长了腿的生物差一些。"
 
 #. [unit_type]: id=Merman Hunter, race=merman
 msgid "Merman Hunter"
 msgstr "人鱼猎手"
 
 #. [unit_type]: id=Merman Hunter, race=merman
-#, fuzzy
 msgid ""
 "The skills employed by merfolk in spear-fishing are easily translated into "
 "warfare, especially against those who are not at home in the water. In times "
@@ -4092,14 +4089,13 @@ msgid "Merman Javelineer"
 msgstr "人鱼标枪兵"
 
 #. [unit_type]: id=Merman Javelineer, race=merman
-#, fuzzy
 msgid ""
 "Those merfolk who master the art of the javelin can become nearly as "
 "effective as an archer — though the heft of their weapons impedes their "
 "range, the impact of one is considerably greater. In the water, the mobility "
 "of the merfolk more than makes up for this when facing foes who cannot swim."
 msgstr ""
-"掌握了掷标枪技术的人鱼几乎就像弓箭手一样高效——虽然他们武器沉重，影响了射程，"
+"掌握了掷标枪技术的人鱼几乎就像弓箭手一样高效——虽然他们武器的重量影响了射程，"
 "但造成的伤害也明显大得多。在水中，人鱼的机动性完全弥补了这种不足，特别是在对"
 "付不会游泳的敌人的时候。"
 
@@ -4108,7 +4104,6 @@ msgid "Merman Netcaster"
 msgstr "人鱼布网者"
 
 #. [unit_type]: id=Merman Netcaster, race=merman
-#, fuzzy
 msgid ""
 "Fishing, as practiced by merfolk, is largely a matter of chasing schools of "
 "fish into waiting nets, where oar-like clubs are used to dispatch the prey. "
@@ -4123,13 +4118,13 @@ msgid ""
 "since they were already quite deadly."
 msgstr ""
 "对人鱼们来说，捕鱼在很大程度上就是把大群的鱼驱赶到早已布好的网中，而后用形似"
-"船桨的大棒将猎物打死。有些人鱼即兴发挥，把这东西用在士兵们身上，实践证明这是"
-"很有效的。绝大部分陆栖生物哪怕只是站在齐腰深的水中，就已经觉得很不适应了，要"
-"是被捕到网中的话，那更是叫天不应叫地不灵。\n"
+"船桨的大棒将猎物打死。有些人鱼即兴发挥，把这东西用在士兵身上，实践证明这很有"
+"效。绝大部分陆栖生物哪怕只是站在齐腰深的水中，就已经很不适应了，要是被捕到网"
+"中，那更是叫天不应叫地不灵。\n"
 "\n"
-"这种战法的高效性使得人鱼们开发出了更小更轻的网，可以向空中抛掷。这些网在捕鱼"
-"时很无用，但在作战或者捕捉过于接近岸边的猎物时则很有效。大棒也用于战斗，却几"
-"乎没有从捕鱼方面借鉴什么，因为它们已经足够致命了。"
+"这种战法的高效性促使人鱼开发出更小却更重的网，这种网可以向空中抛掷。它们在捕"
+"鱼时很无用，但在作战或者捕捉过于接近岸边的猎物时则很有用。大棒也用于战斗，却"
+"几乎没有从捕鱼方面借鉴什么，因为它们已经足够致命了。"
 
 #. [unit_type]: id=Mermaid Priestess, race=merman
 msgid "female^Mermaid Priestess"
@@ -4181,7 +4176,6 @@ msgid "Merman Spearman"
 msgstr "人鱼矛兵"
 
 #. [unit_type]: id=Merman Spearman, race=merman
-#, fuzzy
 msgid ""
 "Archery is little favored by the merfolk, for whom use of javelins serves a "
 "similar function. Though thrown javelins are of little use under the water, "
@@ -4190,9 +4184,10 @@ msgid ""
 "wreak damage. They are also useful in melee, even deep under the surface, "
 "which is something that certainly cannot be said of arrows."
 msgstr ""
-"人鱼不谙射术，而使用与弓箭功能相当的标枪。虽然投掷标枪在水下几乎没什么用，在"
-"水面上却非常有效，因为标枪沉重，可以射入水中数尺而保持杀伤力。矛在白刃战中也"
-"很有用，即使是在深水中也是如此，而对于弓箭就不能下同样的结论了。"
+"人鱼不谙箭术，而是使用标枪来实现类似弓箭的效果。虽然投掷标枪在水下几乎没什么"
+"用，但在水面上却非常有效。因为标枪很沉重，射入水中数尺之后，它的冲力还是足以"
+"造成伤害。标枪在白刃战中也很有用，即使是在深水中也是如此，而弓箭当然就不行"
+"了。"
 
 #. [unit_type]: id=Merman Triton, race=merman
 msgid "Merman Triton"
@@ -4215,7 +4210,6 @@ msgid "Merman Warrior"
 msgstr "人鱼武士"
 
 #. [unit_type]: id=Merman Warrior, race=merman
-#, fuzzy
 msgid ""
 "Mermen Warriors form the core of merfolk armies. They wield their tridents "
 "with a skill and diligence impressive even compared to the soldiers of other "
@@ -4223,88 +4217,73 @@ msgid ""
 "any who try to match them in their homes can attest."
 msgstr ""
 "人鱼武士组成了人鱼军队的核心。他们挥舞三叉戟时展现出的技艺与投入，哪怕是与其"
-"他种族的士兵们相比，也是十分惊人的。但考虑到在水下战斗时有多困难，这就加倍惊"
-"人了。任何试图在他们的家园和他们势均力敌对抗的人都能为这一点作证。"
+"他种族的士兵们相比，也是十分惊人的。但考虑到在水下战斗有多困难，这就加倍惊人"
+"了。任何试图在他们的家园与他们势均力敌地对抗的人都能为这一点作证。"
 
 #. [unit_type]: id=Giant Ant, race=monster
-#, fuzzy
 msgid "Giant Ant"
 msgstr "巨蚁"
 
 #. [unit_type]: id=Giant Ant, race=monster
-#, fuzzy
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
 "earth to the tops of tall mountains. Though normally not hostile, they can "
 "bite at close range."
 msgstr ""
-"巨蚁很常见，无论是在地下深处的洞穴里还是在高耸的山顶上。虽然通常没有进攻性，"
-"但当有人靠近时他还是会咬人的。"
+"巨蚁在各种环境中都很常见，无论是地下深处的洞穴里还是高耸的山顶上。虽然通常不"
+"表现出敌意，但当有人靠近时它们还是会咬人的。"
 
 #. [unit_type]: id=Cave Bear, race=monster
-#, fuzzy
 msgid "Cave Bear"
-msgstr "洞穴熊"
+msgstr "穴居熊"
 
 #. [unit_type]: id=Cave Bear, race=monster
-#, fuzzy
 msgid ""
 "Cave Bears are large, powerful beasts with sharp claws and large teeth. "
 "Adapted to roaming the dark caves, they have a keen sense of smell and "
 "hearing, but poor eyesight. When a rival predator, or some other threat, "
 "gets too close, a bear will reliably attack."
 msgstr ""
-"洞熊是大型的、强大的野兽，有锋利的爪子和大牙。为了适应在黑暗的洞穴中漫游，它"
-"们有敏锐的嗅觉和听觉，但视力不佳。当对手的捕食者或其他威胁过于接近时，熊会可"
-"靠地进行攻击。"
+"穴居熊是大型而强力的野兽，有利爪和大牙。它们善于在黑暗洞穴中漫游，有敏锐的嗅"
+"觉和听觉，但视力不佳。当敌对的捕食者或其他威胁过于接近时，熊肯定会攻击他们。"
 
 #. [unit_type]: id=Woodland Boar, race=monster
-#, fuzzy
 msgid "Woodland Boar"
 msgstr "林地野猪"
 
 #. [unit_type]: id=Woodland Boar, race=monster
-#, fuzzy
 msgid ""
 "As boars age, their already formidable teeth grow longer and more numerous. "
 "A mature, tamed boar is a valuable asset to any farmer, but an angry wild "
 "boar is a challenge even to the best hunters."
 msgstr ""
-"随着野猪年龄的增长，它们本来就很厉害的牙齿变得更长、更多。一头成熟的、被驯服"
-"的野猪对任何农民来说都是一笔宝贵的财富，但一头愤怒的野猪甚至对最好的猎人也是"
-"一种挑战。"
+"随着野猪年龄的增长，它们本来就很厉害的牙齿变得更长、更多。一头成熟而被驯服的"
+"野猪对任何农民来说都是一笔宝贵的财富，但一头愤怒的野猪甚至对最好的猎人来说也"
+"是一种挑战。"
 
 #. [attack]: type=pierce
 #. [variation]
-#, fuzzy
 msgid "tusk"
-msgstr ""
-"开始的入侵只是试探，兽人很涣散。但他们的数量变得越来越多，越来越有威胁。入侵"
-"的规模起先是战团，接着变成了集团军。后来，血剑部落中崛起了一个伟大的军阀，名"
-"叫哈兹·黑牙。他建立起一支军队，包围了矮人之门。"
+msgstr "长牙"
 
 #. [unit_type]: id=Piglet, race=monster
-#, fuzzy
 msgid "Piglet"
-msgstr "小猪佩奇"
+msgstr "小猪"
 
 #. [unit_type]: id=Piglet, race=monster
-#, fuzzy
 msgid ""
 "Young piglets are curious but just as ill-tempered as their parents, if a "
 "little less of a challenge in combat. But seldom is a piglet found that does "
 "not have a protective adult boar watching over them."
 msgstr ""
-"小猪好奇心强，但和它们的父母一样脾气不好，只是在战斗中少了一点挑战。但很少发"
-"现没有成年公猪保护的小猪。"
+"小猪好奇心强，但和父母一样脾气不好，只是在战斗中没父母那样有挑战性罢了。但"
+"是，很少会发现没被保护欲很强的成年野猪保护着的小猪。"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
-#, fuzzy
 msgid "Swamp Lizard"
 msgstr "沼泽蜥蜴"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
-#, fuzzy
 msgid ""
 "Swamps are vibrant environments, but often not friendly to humans or orcs. "
 "Swamp Lizards are one of the more notable hazards, with their powerful jaws "
@@ -4314,29 +4293,25 @@ msgid ""
 "ancestors."
 msgstr ""
 "沼泽是充满活力的环境，但往往对人类或兽人并不友好。沼泽蜥蜴是比较明显的危害之"
-"一，它们有着强大的下颚和装甲的皮。尽管这些蜥蜴有着原始的外表，但它们并不愚"
-"蠢，在经历了几代人被猎取皮毛后，它们采取了 \"两条腿走路 \"的观点，并毫不犹豫"
-"地为自己的祖先报仇。"
+"一，它们有着强大的下颚和覆甲的表皮。尽管这些蜥蜴外貌原始，但它们并不愚蠢，在"
+"世世代代都因为皮而被捕猎后，它们有了“两条腿坏坏”的观点，并会毫不犹豫地为祖先"
+"报仇。"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "This unit can move unseen through swamp water, keeping most of its body "
 "submerged."
-msgstr "这支部队可以在沼泽地的水中不被发现地移动，使其身体的大部分被淹没。"
+msgstr "此单位可以在沼泽水中移动而不被发现，其身体大部分淹没在水中。"
 
 #. [hides]: id=swamp_lurk
-#, fuzzy
 msgid "swamp lurk"
-msgstr "沼泽地潜伏"
+msgstr "沼泽潜伏"
 
 #. [hides]: id=swamp_lurk
-#, fuzzy
 msgid "female^swamp lurk"
-msgstr "女性^沼泽地潜伏"
+msgstr "沼泽潜伏"
 
 #. [hides]: id=swamp_lurk
-#, fuzzy
 msgid ""
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
 "\n"
@@ -4344,19 +4319,16 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
-"这支部队可以隐藏在沼泽中，不被敌人发现。\n"
+"此单位可以隐藏在沼泽中，不被敌人发现。\n"
 "\n"
-"当这个单位在沼泽中时，敌方单位无法看到它，除非他们有单位在它旁边。任何首先发"
-"现这个单位的敌方单位都会立即失去其所有剩余的移动。"
+"当此单位在沼泽中时，敌方单位无法看到它，除非有敌方单位在它旁边。任何首先发现"
+"此单位的敌方单位都会立即失去其所有剩余的移动点数。"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
-#, fuzzy
 msgid "Cuttlefish"
-msgstr ""
-"哦不！看看他脚边活蹦乱跳的都是些什么东西。我还以为那大乌贼已经够糟糕了！"
+msgstr "乌贼"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
-#, fuzzy
 msgid ""
 "Cuttlefish are gigantic creatures of the seas. They can grab their opponents "
 "with strong tentacles, or spit a poisonous black ink from a distance. The "
@@ -4367,19 +4339,18 @@ msgstr ""
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 msgid "Elder Falcon"
-msgstr "年长猎鹰"
+msgstr "年长猎隼"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
-#, fuzzy
 msgid ""
 "Elder Falcons bear the telltale scars of veteran warriors from protecting "
 "their masters, their bodies proof of repeated dives into a swirling melee. "
 "Stronger and faster than their younger kin, they are rumored to hit with "
 "enough force to remove an enemy’s head."
 msgstr ""
-"年长猎鹰身上密布的伤疤述说着这些沙场老兵忠心护主的故事，它们身上尽是反复的俯"
-"冲战斗留下的痕迹。这些年长猎鹰比他们年幼的同族更为迅捷与强壮，有传言说他们的"
-"冲击甚至足以令敌人身首分离。 "
+"年长猎隼身上密布的伤疤述说着这些沙场老兵忠心护主的故事，它们身上尽是反复的俯"
+"冲肉搏留下的痕迹。这些年长猎隼比他们年幼的同族更为迅捷与强壮，有传言说他们的"
+"冲击甚至足以令敌人身首分离。"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -4388,7 +4359,7 @@ msgstr "喙"
 
 #. [unit_type]: id=Falcon, race=falcon
 msgid "Falcon"
-msgstr "猎鹰"
+msgstr "猎隼"
 
 #. [unit_type]: id=Falcon, race=falcon
 msgid ""
@@ -4397,34 +4368,31 @@ msgid ""
 "foes on the battlefield, and their great speed is a boon to scouting out the "
 "land."
 msgstr ""
-"猎鹰被看作贵族社会地位的象征，它们主要被驯养来作为狩猎消遣的助手。同样的狩猎"
+"猎隼被看作贵族社会地位的象征，它们主要被驯养来作为狩猎消遣的助手。同样的狩猎"
 "技巧也被用来在战场上撕裂敌人，并且它们极高的速度在战地侦察中极为有用。"
 
 #. [unit_type]: id=Fire Ant, race=monster
-#, fuzzy
 msgid "Fire Ant"
-msgstr "烈火巨龙"
+msgstr "火蚁"
 
 #. [unit_type]: id=Fire Ant, race=monster
-#, fuzzy
 msgid ""
 "Small but deadly in large numbers, fire ants possess fierce fangs and an "
 "unusual ability to generate fire. Though these creatures typically function "
 "as scavengers, a burrow of fire ants can become aggressive when provoked and "
 "have even been known to attack small groups of threatening troops."
 msgstr ""
-"火蚁体积小，但数量多时却很致命，它们拥有凶猛的獠牙和不寻常的生火能力。虽然这"
-"些生物通常是作为清道夫，但一窝火蚁在受到挑衅时可以变得具有攻击性，甚至被称为"
-"攻击小群的威胁性部队。"
+"火蚁很小，但数量多时却很致命，它们拥有凶猛的尖牙和不寻常的造火能力。虽然这些"
+"生物通常是作为食腐动物存在，但一窝火蚁在受到挑衅时会变得很有攻击性，已知它们"
+"会攻击有威胁的小规模部队。"
 
 #. [attack]: type=fire
-#, fuzzy
 msgid "fire"
 msgstr "火焰"
 
 #. [unit_type]: id=Fire Dragon, race=monster
 msgid "Fire Dragon"
-msgstr "烈火巨龙"
+msgstr "火龙"
 
 #. [unit_type]: id=Fire Dragon, race=monster
 msgid ""
@@ -4439,13 +4407,13 @@ msgid ""
 "Battling a dragon is said to be the pinnacle of danger itself, fit only for "
 "fools, or the bravest of knights."
 msgstr ""
-"巨龙是传说中的生物，一般来说只会在幻想故事中出现。它们非常稀少，如果不是因为"
-"历史上的事件——巨龙独力摧毁了一个又一个城市与村镇——那它们也许将仅仅被认为是一"
-"个神话。传奇故事中对于巨龙破坏力的描述很明确：无比的力量，速度，超自然的狡"
-"诈，以及最最重要的——它们体内燃烧的恐怖火焰。\n"
+"龙是传说中的生物，一般来说只会在幻想故事中出现。它们非常稀少，如果不是因为历"
+"史上的事件——龙独力摧毁了一个又一个城市与村镇——那它们也许将仅仅被认为是一个神"
+"话。传奇故事中对于龙的破坏力描述很明确：无比的力量，速度，超自然的狡诈，以及"
+"最最重要的——它们体内燃烧的恐怖火焰。\n"
 "\n"
-"与巨龙作战被认为是世界上最危险的事情，只有那些蠢货，或者最勇敢的骑士们才会挑"
-"战巨龙的威严。"
+"与龙作战被认为是世界上最危险的事情，只有那些蠢货，或者最勇敢的骑士们才会挑战"
+"龙的威严。"
 
 #. [unit_type]: id=Fire Guardian, race=monster
 msgid "Fire Guardian"
@@ -4467,29 +4435,25 @@ msgid "fire claws"
 msgstr "火焰爪"
 
 #. [unit_type]: id=Fire Wraith, race=monster
-#, fuzzy
 msgid "Fire Wraith"
-msgstr "火焰吐息"
+msgstr "火焰幽魂"
 
 #. [unit_type]: id=Fire Wraith, race=monster
-#, fuzzy
 msgid ""
 "Fire Wraiths are spirits of smoke and flame. No one is exactly sure where "
 "they come from, but they are occasionally summoned by powerful mages to do "
 "their bidding. The odd armor they wear hints at a former life or creator, "
 "but whatever ancient civilization was involved has been lost to history."
 msgstr ""
-"烈火卫士是烟与火之魂。没有人确知他们从何而来，但有时他们会被强大的法师召唤过"
-"来作为仆从。在没有被控制时，他们喜欢在熔岩池中嬉戏，也非常乐于燃尽一切可以碰"
-"到的东西。"
+"火焰幽魂是烟与火之魂。没有人确知它们从何而来，但有时他们会被强大的法师召唤过"
+"来为他们服务。它们身穿的奇怪铠甲暗示了它们死前的生活或是它们的创造者，但与它"
+"们有关的古代文明，都已经消失在历史中了。"
 
 #. [unit_type]: id=Frost Stoat, race=monster
-#, fuzzy
 msgid "Frost Stoat"
 msgstr "霜鼬"
 
 #. [unit_type]: id=Frost Stoat, race=monster
-#, fuzzy
 msgid ""
 "Frost Stoats are devious critters predominantly found in the frozen parts of "
 "the Northlands, although they can survive anywhere. Their most distinctive "
@@ -4498,25 +4462,22 @@ msgid ""
 "animals, but are quite territorial and the young adults have been known to "
 "attack larger intruders, including humans and orcs."
 msgstr ""
-"霜雪鼠是一种狡猾的小动物，主要存在于北地的冰冻地区，尽管它们可以在任何地方生"
-"存。它们最独特的特征是冰冷的前爪，这与其他野生动物不同。这些鼬鼠通常会捡拾垃"
-"圾或猎杀较小的动物，但它们的领地意识很强，年轻的成年人已经知道会攻击较大的入"
+"霜鼬是一种狡猾的小动物，主要存在于北陆的冰冻地区，尽管它们可以在任何地方生"
+"存。它们最独特的特征是冰冷的前爪，这与其他野生动物都不同。这些鼬鼠通常会捡食"
+"垃圾或猎杀较小的动物，但它们的领地意识很强，已知年轻的成年霜鼬会攻击较大的入"
 "侵者，包括人类和兽人。"
 
 #. [attack]: type=cold
-#, fuzzy
 msgid "ice claw"
-msgstr "火焰爪"
+msgstr "冰爪"
 
 #. [unit_type]: id=Giant Stoat
-#, fuzzy
 msgid "Giant Stoat"
-msgstr "巨鼠"
+msgstr "巨鼬"
 
 #. [unit_type]: id=Giant Stoat
-#, fuzzy
 msgid "Giant Stoats are obsolete, use Frost Stoat."
-msgstr "巨大的鼬鼠已经过时了，使用冰霜鼬鼠。"
+msgstr "巨鼬已经过时，请使用霜鼬。"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 msgid "Giant Mudcrawler"
@@ -4567,31 +4528,28 @@ msgstr "一只普通的蝎子就够危险了——而一只如人一般巨大的
 
 #. [attack]: type=pierce
 msgid "sting"
-msgstr "叮"
+msgstr "蛰刺"
 
 #. [attack]: type=impact
 #. [attack]: type=blade
 msgid "pincers"
-msgstr "钳"
+msgstr "钳击"
 
 #. [variation]
-#, fuzzy
 msgid "scuttler"
-msgstr "铲运工"
+msgstr "凿击"
 
 #. [variation]
-#, fuzzy
 msgid "Sand Scuttler"
-msgstr "扫沙机"
+msgstr "凿沙兽"
 
 #. [variation]
-#, fuzzy
 msgid ""
 "Making their homes in sandy dunes, these critters are an odd mix of mundane "
 "creature and elemental beast. Though usually timid, Sand Scuttlers sometimes "
 "attack unwary travelers, especially when startled."
 msgstr ""
-"这些小动物以沙丘为家，是世俗生物和元素兽的奇怪组合。虽然通常很胆小，但沙涡虫"
+"这些小动物以沙丘为家，是凡间生物和元素兽的奇怪结合。虽然通常很胆小，但凿沙兽"
 "有时会攻击不小心的旅行者，尤其是在受到惊吓时。"
 
 #. [unit_type]: id=Giant Scorpling, race=monster
@@ -4599,7 +4557,6 @@ msgid "Giant Scorpling"
 msgstr "巨蝎幼体"
 
 #. [unit_type]: id=Giant Scorpling, race=monster
-#, fuzzy
 msgid ""
 "One of the most potent known venoms is that of the monstrous scorpions of "
 "the frontier. Fetching a high price by assassins and apothecaries alike, "
@@ -4613,11 +4570,12 @@ msgid ""
 "carapace is very resistant to normal blade strikes or piercing attacks, but "
 "can be broken with heavy blows."
 msgstr ""
-"已知毒性最强的毒物之一，便是边疆怪物巨蝎的毒素。不论是刺客还是药剂师都高价购"
-"买此种毒素。因此，其贩卖也被视作赚快钱的方式，引来勇敢的猎人冒险前往野地进行"
-"收集。然而，即使是幼年状态的巨蝎也可以使用剧毒的蛰刺，而且比大多数人行动更迅"
+"已知毒性最强的毒物之一便是边疆怪物巨蝎的毒素。不论是刺客还是药剂师都高价购买"
+"此种毒素。因此，其贩卖也被视作赚快钱的方式，引来勇敢的猎人冒险前往野地进行收"
+"集。然而，即使是幼年状态的巨蝎也可以使用剧毒的蛰刺，而且比大多数人行动更迅"
 "速。更糟糕的是，它们会生活在相当大的巢穴中，激怒一只看起来落单的巨蝎会把一群"
-"巨蝎从地底下引出来——很快便会把猎人变成猎物。"
+"巨蝎从地底下引出来——很快便会把猎人变成猎物。它们被随着年龄越变越硬的甲壳保"
+"护，耐性也越来越强。这甲壳能够抵抗普通的刃器和穿刺攻击，但重击可以击碎它。"
 
 #. [unit_type]: id=Giant Spider, race=monster
 msgid "Giant Spider"
@@ -4637,119 +4595,101 @@ msgid "web"
 msgstr "蛛网"
 
 #. [unit_type]: id=Bay Horse, race=horse
-#, fuzzy
 msgid "Bay Horse"
-msgstr "湾马"
+msgstr "赤骏"
 
 #. [unit_type]: id=Bay Horse, race=horse
-#, fuzzy
 msgid ""
 "Bay horses are defined more by their coloration than their size or "
 "temperment, and can be found anywhere from the battlefield to the farm to "
 "the wild plains and woodlands. Though an unencumbered horse will tend to "
 "flee if possible, they will fight back with a powerful kick when cornered."
 msgstr ""
-"湾马的定义是它们的颜色而不是它们的大小或脾气，从战场到农场再到野外的平原和林"
-"地，任何地方都可以找到它们。尽管没有装备的马在可能的情况下会倾向于逃跑，但它"
-"们在被逼无奈的情况下会用强有力的脚步进行反击。"
+"赤骏主要是根据是颜色而非大小或脾气来区分的。从战场到农场再到野外的平原和林"
+"地，在任何地方都可以看到它们。尽管没有被包围的马在可能的情况下会倾向于逃跑，"
+"但它们被逼无奈时会用强有力的踢击来反击。"
 
 #. [attack]: type=impact
-#, fuzzy
 msgid "hooves"
-msgstr "蹄子"
+msgstr "踢击"
 
 #. [unit_type]: id=White Horse
-#, fuzzy
 msgid "White Horse"
-msgstr "白袍法师"
+msgstr "素骏"
 
 #. [unit_type]: id=White Horse
-#, fuzzy
 msgid ""
 "Some horses have a white color, and they are merely white horses. But there "
 "exist a special breed, found only in the wild woods, that are White Horses. "
 "As if blessed by the faerie world, they have a grace and agility not found "
 "in their more common relatives."
 msgstr ""
-"有些马的颜色是白色的，它们仅仅是白马。但存在一种特殊的品种，只在野生森林中发"
-"现，那就是白马。仿佛受到精灵世界的祝福，它们拥有更常见的亲属所没有的优雅和敏"
-"捷。"
+"有些马的颜色是白色，它们仅仅就是白色的马而已。但存在一种特殊的品种，只在野外"
+"森林中发现过，那就是素骏。它们仿佛受到仙灵世界的祝福，拥有更常见的亲属所没有"
+"的优雅和敏捷。"
 
 #. [unit_type]: id=Dark Horse
-#, fuzzy
 msgid "Dark Horse"
-msgstr "黑暗巫师"
+msgstr "黯骏"
 
 #. [unit_type]: id=Dark Horse
-#, fuzzy
 msgid ""
 "Dark Horses are wild animals, but they seem to take an odd interest in the "
 "civilized races. They leave no signs of their passage, but they have been "
 "noticed scouting camps and outposts during the night."
 msgstr ""
-"黑马是野生动物，但它们似乎对文明种族有一种奇怪的兴趣。它们没有留下任何通过的"
+"黯骏是野生动物，但它们似乎对文明种族有种奇怪的兴趣。它们行动时没有留下过任何"
 "痕迹，但人们注意到它们在夜间侦查营地和前哨。"
 
 #. [attack]: type=cold
-#, fuzzy
 msgid "whinny"
-msgstr "嗲声嗲气"
+msgstr "嘶鸣"
 
 #. [male]
 #. [female]
-#, fuzzy
 msgid "female^Dark Horse"
-msgstr "黑暗狂徒"
+msgstr "黯骏"
 
 #. [unit_type]: id=Black Horse, race=horse
-#, fuzzy
 msgid "Black Horse"
-msgstr "黑马"
+msgstr "乌骏"
 
 #. [unit_type]: id=Black Horse, race=horse
-#, fuzzy
 msgid ""
 "The true nature of Black Horses is impossible to discern, but the fire in "
 "their eyes and the unnerving, unnatural sound of their calls suggest they "
 "are malevolent spirits."
 msgstr ""
-"黑马的真实性质无法辨别，但它们眼中的火焰和令人不安的、不自然的叫声表明它们是"
-"恶灵。"
+"乌骏的真实性质无法辨别，但它们眼中燃烧的火焰，以及那令人不安的不自然的叫声，"
+"表明它们是恶灵。"
 
 #. [male]
-#, fuzzy
 msgid "Black Stallion"
-msgstr "黑骏马"
+msgstr "乌骁"
 
 #. [female]
-#, fuzzy
 msgid "female^Black Nightmare"
-msgstr "光明法师"
+msgstr "乌魇"
 
 #. [unit_type]: id=Great Horse, race=horse
-#, fuzzy
 msgid "Great Horse"
-msgstr "高阶大法师"
+msgstr "巨駥"
 
 #. [unit_type]: id=Great Horse, race=horse
-#, fuzzy
 msgid ""
 "Great horses are significantly larger than the usual domesticated horse, but "
 "despite their similar appearance, they are wild animals. Their obstinate and "
 "often feisty temperaments make them too difficult to tame, though many an "
 "arrogant prince or warlord has tried and failed."
 msgstr ""
-"大马比一般的驯化马要大得多，但尽管它们的外观相似，它们却是野生动物。它们固执"
-"且经常好斗的性格使它们很难被驯服，尽管许多傲慢的王子或军阀曾尝试过，但都失败"
-"了。"
+"巨駥比一般的驯化马要大得多，但尽管外观相似，它们却是野生动物。固执且通常好斗"
+"的性格使它们很难被驯服，尽管许多傲慢的王子或军阀曾尝试过，但都失败了。"
 
 #. [unit_type]: id=Icemonax, race=monster
-#, fuzzy
 msgid "Icemonax"
-msgstr "冰雪运动"
+msgstr "冰莫纳兽"
 
 #. [unit_type]: id=Icemonax, race=monster
-#, fuzzy
 msgid ""
 "Icemonax are a strange beast of the frozen north, best described as a large, "
 "armored ground squirrel. Their armor accumulates frost and snow, even in "
@@ -4757,35 +4697,31 @@ msgid ""
 "places they do not belong. Despite this, efforts to study and domesticate "
 "them have failed, as they die soon after capture."
 msgstr ""
-"Icemonax是冰冻的北方的一种奇怪的野兽，最好的描述是一种大型的、装甲的地面松"
-"鼠。它们的盔甲会积累霜和雪，即使是在比较温和的气候条件下。大多数冰雪松鼠都很"
-"好奇，经常误入不属于它们的地方。尽管如此，研究和驯化它们的努力还是失败了，因"
-"为它们在被捕后很快就会死亡。"
+"冰莫纳兽是北方冻土的一种奇怪野兽，最准确地说，这是一种大型的、覆甲的地面松"
+"鼠。即使是在比较温和的气候下，它们的外甲上也会积累霜雪。大多数冰莫纳兽都很好"
+"奇，经常误入它们不该去的地方。尽管如此，研究和驯化它们的努力还是失败了，因为"
+"它们在被抓后很快就会死亡。"
 
 #. [unit_type]: id=Great Icemonax, race=monster
-#, fuzzy
 msgid "Great Icemonax"
-msgstr "伟大的Icemonax"
+msgstr "大冰莫纳兽"
 
 #. [unit_type]: id=Great Icemonax, race=monster
-#, fuzzy
 msgid ""
 "Icemonax are a strange beast of the frozen north, best described as a large, "
 "armored ground squirrel. Their armor accumulates ice and snow, even when the "
 "climate is warm and dry. Some Icemonax grow to be quite large and powerful, "
 "guarding their smaller, younger kin."
 msgstr ""
-"Icemonax是冰冻的北方的一种奇怪的野兽，最好的描述是一种大型的、装甲的地面松"
-"鼠。它们的盔甲会积累冰和雪，即使气候温暖干燥。一些冰雪松鼠成长为相当大和强大"
-"的，守护着它们较小的、年轻的亲属。"
+"冰莫纳兽是北方冻土的一种奇怪野兽，最准确地说，这是一种大型的、覆甲的地面松"
+"鼠。即使在温暖而干燥的气候下，它们的外甲上也会积累冰雪。一些冰莫纳兽会成长得"
+"很大很强，守护着它们小而年轻的亲属。"
 
 #. [unit_type]: id=Jinn, race=monster
-#, fuzzy
 msgid "Jinn"
-msgstr "金恩"
+msgstr "巨灵"
 
 #. [unit_type]: id=Jinn, race=monster
-#, fuzzy
 msgid ""
 "The Jinn are mysterious spirits, with no known relation to souls of the "
 "departed. They are often sighted from a distance, drifting across the desert "
@@ -4794,19 +4730,18 @@ msgid ""
 "felt the Jinn were watching over them, driving off malign forces of the "
 "night."
 msgstr ""
-"晋人是神秘的精神，与死者的灵魂没有已知的关系。他们经常从远处看到，在沙漠的山"
-"丘和沙丘上漂移，但却无法近距离观察。几乎所有记录的遭遇都是敌对性质的，但也有"
-"旅行者觉得精灵在看着他们，赶走了夜晚的恶势力。"
+"巨灵是神秘的灵体，就目前所知，它们与死者的灵魂没有联系。经常可以从远处看到它"
+"们在沙漠中的丘陵以及沙丘上漂移，但却无法近距离观察它们。几乎所有记录下来的遭"
+"遇中，巨灵都有敌意，但也有一些实例中，旅行者觉得巨灵在守望他们，赶走了夜间的"
+"邪恶势力。"
 
 #. [attack]: type=impact
-#, fuzzy
 msgid "desert windblast"
-msgstr "沙漠风暴"
+msgstr "沙漠气浪"
 
 #. [attack]: type=fire
-#, fuzzy
 msgid "desert lightning"
-msgstr "闪电"
+msgstr "沙漠闪电"
 
 #. [unit_type]: id=Mudcrawler, race=monster
 msgid "Mudcrawler"
@@ -4825,12 +4760,10 @@ msgstr ""
 "随手拿来护身的钝器的攻击，因此，它们是野心勃勃但缺乏经验的召唤师最爱的工具。"
 
 #. [unit_type]: id=Roc, race=monster
-#, fuzzy
 msgid "Roc"
-msgstr "洛克"
+msgstr "鹏鸟"
 
 #. [unit_type]: id=Roc, race=monster
-#, fuzzy
 msgid ""
 "Far from human cities in the great desert mountains, the large birds of prey "
 "known as Rocs can sometimes be found rapidly scouring the sands on their "
@@ -4844,20 +4777,18 @@ msgid ""
 "aid to a traveler in need, usually in exchange for a small trinket or shiny "
 "bauble."
 msgstr ""
-"在远离人类城市的大沙漠山脉中，有时可以发现被称为大鹏鸟的大型猛禽在沙地上快速"
-"搜寻猎物。尽管大鹏鸟体型庞大，但它们往往很隐蔽，其他有智慧的种族很少遇到。它"
-"们难以捉摸的本性使它们接近神话般的地位，特别是在沙漠的游牧民族中。\n"
+"在远离人类城市的大沙漠的山脉中，有时可以发现被称为鹏鸟的大型猛禽飞快地掠过沙"
+"地，搜寻猎物。鹏鸟尽管体型庞大，但喜欢隐居，其他有智慧的种族很少遇到它们。这"
+"种避世的本性把它们提升到了接近神话般的地位，特别是在沙漠的游牧民族之中。\n"
 "\n"
-"与其他鸟类不同，如猎鹰或老鹰，个性和智慧的大鹏鸟几乎是不可驯服的。只有偶尔，"
-"大鹏鸟才会向有需要的旅行者提供帮助，通常是为了换取一个小饰品或闪亮的小玩意。"
+"与其他鸟类，如隼或雕不同，独立而聪慧的鹏鸟几乎是不可驯服的。偶尔，鹏鸟会向有"
+"需要的旅行者提供帮助，通常是为了换取一个小饰品或闪亮的小玩意。"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
-#, fuzzy
 msgid "Rock Scorpion"
-msgstr "巨蝎"
+msgstr "岩蝎"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
-#, fuzzy
 msgid ""
 "Rock scorpions have featured in tales of highwaymen and drunks, but there "
 "has been scant evidence that they truly exist. They've been described as "
@@ -4865,48 +4796,43 @@ msgid ""
 "Unlike most scorpions, they do not deliver their poison with a piercing "
 "stinger, but instead spray their enemies with a noxious, volatile stream."
 msgstr ""
-"岩蝎子曾出现在高速路人和醉汉的故事中，但很少有证据表明它们真的存在。它们被描"
-"述为隐蔽的怪物，拥有坚硬的岩石皮和锋利的结晶爪子。与大多数蝎子不同的是，它们"
-"不是用刺穿的毒刺来投放毒药，而是用有毒的、挥发性的水流来喷射它们的敌人。"
+"岩蝎曾出现在车匪和醉汉的故事中，但很少有证据证明它们真的存在。它们被描述为擅"
+"于隐蔽的怪物，拥有坚硬的岩石表皮和锋利的结晶螯。与大多数蝎子不同的是，它们不"
+"是用毒刺进行刺击来释放毒素，而是用挥发性的毒汁流来喷射它们的敌人。"
 
 #. [attack]: type=impact
-#, fuzzy
 msgid "spray"
-msgstr "水浪"
+msgstr "喷射"
 
 #. [unit_type]: id=Horned Scarab, race=monster
-#, fuzzy
 msgid "Horned Scarab"
-msgstr "有角的斯卡布"
+msgstr "有角圣甲虫"
 
 #. [special_note]
-#, fuzzy
 msgid ""
 "This unit can burrow under loose dirt, sand, or leaves, concealing itself if "
 "it does not change location."
 msgstr ""
-"这种装置可以钻到松散的泥土、沙子或树叶下面，如果不改变位置，就会隐藏自己。"
+"此单位可以钻到松散的泥土、沙子或树叶下面，如果不改变位置，就能隐藏自己。"
 
 #. [unit_type]: id=Horned Scarab, race=monster
-#, fuzzy
 msgid ""
 "Horned Scarabs are large, rugged insects that can grow to be quite large, "
 "making them a threat when they decide to be aggressive. Their primary means "
 "of attack is the large, sharp horn growing from their head. Because of their "
 "large size, armor, and horn, they cannot fly."
 msgstr ""
-"角质疤痕虫是大型、粗犷的昆虫，可以长到相当大，当它们决定具有攻击性时，就会成"
-"为一种威胁。它们的主要攻击手段是头上长出的大而尖锐的角。由于它们的体型大，有"
-"盔甲，有角，所以它们不能飞行。"
+"有角圣甲虫是大而粗犷的昆虫，可以长到相当大，因此，当它们决定攻击时，就会成为"
+"威胁。它们的主要攻击手段是头上长出的大而尖锐的角。由于大体型、大外甲还有大"
+"角，它们不能飞行。"
 
 #. [attack]: type=pierce
-#, fuzzy
 msgid "horn"
-msgstr "荆棘"
+msgstr "角"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 msgid "Sea Serpent"
-msgstr "海巨蛇"
+msgstr "海蛇"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 msgid ""
@@ -4918,19 +4844,17 @@ msgid ""
 "even to the elite merfolk warriors, and are the reason they seldom inhabit "
 "waters far from the shore."
 msgstr ""
-"海巨蛇令渔民和水手心生敬畏，经常在民间传说中以愤怒的海神形象出现。它们可以轻"
-"易地摧毁船只，似乎拥有无穷的力量与活力，这些灵活的海怪对任何试图与它们作战的"
-"人而言，都是十分坚韧而充满毁灭性的。海巨蛇通常生活在深海之中，甚至对精锐的人"
-"鱼战士而言，它们都能带来很大的压力。它们也是人鱼们很少在远离海岸的水中居住的"
-"原因。"
+"海蛇令渔民和水手心生敬畏，经常在民间传说中以愤怒的海神形象出现。它们可以轻易"
+"地摧毁船只，似乎拥有无穷的力量与活力，这些灵活的海怪对任何试图与它们作战的人"
+"而言，都是十分坚韧而充满毁灭性的。海巨蛇通常生活在深海之中，甚至对精锐的人鱼"
+"战士而言，它们都能带来很大的压力。它们也是人鱼们很少在远离海岸的水中居住的原"
+"因。"
 
 #. [unit_type]: id=Great Seahorse, race=monster
-#, fuzzy
 msgid "Great Seahorse"
-msgstr "高阶大法师"
+msgstr "大海马"
 
 #. [unit_type]: id=Great Seahorse, race=monster
-#, fuzzy
 msgid ""
 "Seahorses are a variety of fish that have a horse-like head, but they have "
 "no real connection to equines. Most seahorses are small, shy creatures that "
@@ -4939,10 +4863,10 @@ msgid ""
 "force to stun a small animal, and has thick, bony plate armor, but like all "
 "seahorses, it is a slow swimmer and cannot move over land."
 msgstr ""
-"海马是一种具有类似马的头部的鱼类，但它们与马类没有真正的联系。大多数海马都是"
-"小而害羞的生物，吃虫子和类似的小猎物，但大海马大到足以威胁到不警惕的旅行者。"
-"这种大型品种能以足够的力量吐水，使小动物眩晕，并有厚实的骨质板甲，但与所有海"
-"马一样，它是一种缓慢的游泳者，不能在陆地上移动。"
+"海马是一种具有类似马的头部的鱼类，但它们与马类并没有真正的联系。大多数海马都"
+"是小而害羞的生物，吃虫子和类似的小猎物，但大海马大到足以威胁到不够警惕的旅行"
+"者。这一大型品种吐水时的力量足以使小动物眩晕，并且它们拥有厚实的骨质板甲。但"
+"与所有海马一样，它游得很慢，而且不能在陆地上移动。"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 msgid "Skeletal Dragon"
@@ -4998,12 +4922,10 @@ msgstr ""
 "确定的一点是，躲开这些家伙聚集的水域是明智的选择。"
 
 #. [unit_type]: id=Wild Wyvern, race=monster
-#, fuzzy
 msgid "Wild Wyvern"
-msgstr "野生怀俄明"
+msgstr "野生双足飞龙"
 
 #. [unit_type]: id=Wild Wyvern, race=monster
-#, fuzzy
 msgid ""
 "Wyverns are large reptiles that resemble dragons, but are not the "
 "intelligent, magical creatures. However, the fact that they are just wild "
@@ -5016,13 +4938,13 @@ msgid ""
 "behavior may be an adaptation to the harsh desert environments they often "
 "inhabit."
 msgstr ""
-"翼龙是大型爬行动物，与龙相似，但不是那种聪明的神奇生物。然而，它们只是野兽这"
-"一事实不应导致任何遇到它们的旅行者忽视威胁，因为它们在受到威胁或饥饿时速度很"
-"快，很凶猛。\n"
+"双足飞龙是与龙相似的大型爬行动物，但并不是那种聪慧的魔法生物。然而，它们只是"
+"野兽这一事实，不应让任何遇到它们的旅行者忽视威胁，因为它们在受到威胁或饥饿时"
+"速度很快，也很凶猛。\n"
 "\n"
-"翼龙是社会性生物，通常成对或成群地旅行。它们的狩猎模式和饮食很难辨别，因为它"
-"们经常与那些看起来是潜在猎物的小动物合作。这种奇怪的行为可能是对它们经常居住"
-"的恶劣沙漠环境的一种适应。"
+"双足飞龙是社会性生物，通常成对或成群旅行。很难搞清楚它们的狩猎模式和饮食，因"
+"为它们经常与那些看起来是潜在猎物的小动物合作。这种奇怪的行为可能是它们对自己"
+"经常居住的恶劣沙漠环境的一种适应方式。"
 
 #. [unit_type]: id=Wolf, race=wolf
 msgid "Wolf"
@@ -6025,7 +5947,7 @@ msgstr "矮人"
 
 #. [variation]
 msgid "wc_variation^Falcon"
-msgstr "猎鹰"
+msgstr "猎隼"
 
 #. [variation]
 msgid "wc_variation^Goblin"
