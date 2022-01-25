@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2022-01-01 14:33+0800\n"
+"PO-Revision-Date: 2022-01-25 16:01+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -126,23 +126,21 @@ msgid "Fourth Oracle"
 msgstr "第四先知"
 
 #. [part]
-#, fuzzy
 msgid ""
 "This is the true story of how Delfador the Great arose from his humble "
 "beginnings, the tale of how he became the most famous and powerful of all "
 "the mages of Wesnoth."
 msgstr ""
-"这是德法多大师卑微出身的真实故事；是他成为最著名和最强大的韦诺法师的传说。"
+"这是德法多大师如何从卑微出身一路成长的真实故事，是关于他如何成为韦诺最著名而"
+"最强大的法师的传说。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "It begins on the Isle of Alduin, at the Academy, which trains mages from "
 "throughout the Great Continent."
 msgstr "这个故事从奥渡因岛，从那训练来自泰陆四方的法师的魔法学院开始。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "After ten years of training, two tests stand between one particular "
 "apprentice and attainment of the degree of Mage:"
@@ -285,7 +283,6 @@ msgstr ""
 "与力量的理解。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "But the elder mage’s health was taxed by the rigors of the journey. A year "
 "after the two left Alduin, Methor settled in a tranquil valley at the edge "
@@ -300,16 +297,15 @@ msgstr ""
 "学院的资质。"
 
 #. [message]: speaker=Methor
-#, fuzzy
 msgid ""
 "Delfador, your time as my apprentice is now almost over. You are a fully-"
 "trained mage and may choose your own path in life. I hope, however, that you "
 "will take my advice and enroll yourself in the service of King Garard. I "
 "have many contacts at the court and—"
 msgstr ""
-"德法多，现在你作为我学徒的日子就要结束了。你已是一位经历了完整训练的法师，可"
+"德法多，现在你作为我学徒的日子就要结束了。你已是一位完成了全部训练的法师，可"
 "以选择自己的人生道路了。不过我希望，你能够接受我的建议，前去为伽拉德国王效"
-"劳。我在内阁有很多熟人，而且……"
+"劳。我在王庭有很多熟人，而且——"
 
 #. [message]: speaker=Grogor-Tuk
 msgid ""
@@ -428,13 +424,12 @@ msgid "Gar"
 msgstr "加尔"
 
 #. [message]: speaker=Derrin
-#, fuzzy
 msgid ""
 "Beware, stranger! I come to warn you — a party of orcs have moved into the "
 "Great Valley to the north and have been raiding the lands around. If you "
 "press on westward, you will have to fight them."
 msgstr ""
-"陌生人，小心！我是来警告你的——一队兽人已经进驻了背面的大峡谷，正在附近的土地"
+"陌生人，小心！我是来警告你的——一队兽人已经进驻了北面的大峡谷，正在附近的土地"
 "上抢掠。如果你硬要往西走，那就必须跟他们打一仗。"
 
 #. [message]: speaker=Delfador
@@ -561,9 +556,8 @@ msgid "All of you have to be extra careful!"
 msgstr "你们所有人都要格外小心！"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "Kill them all! For our slain friend."
-msgstr "为了我们死去的朋友，把他们全部干掉。"
+msgstr "为了我们死去的朋友，把他们全部干掉！"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -571,13 +565,10 @@ msgid ""
 msgstr "利欧林被杀害了！真糟糕……我还是撂挑子回老家吧。"
 
 #. [message]: speaker=Leollyn
-#, fuzzy
 msgid ""
 "Well now, you arrived just in the nick of time. A fellow mage too, I see. "
 "Now what did you say your name was?"
-msgstr ""
-"好吧，现在，你来得正是时候。又是一位年轻的法师，我明白了。你刚才说你叫什么名"
-"字？"
+msgstr "行吧，你来得正是时候。你也是一名法师，我明白了。你刚才说你叫什么名字？"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -628,7 +619,7 @@ msgstr "维尔帝会议"
 
 #. [unit]: id=Gurcyn, type=Cavalryman
 msgid "Gurcyn"
-msgstr "古尔桑"
+msgstr "戈辛"
 
 # 参考 http://forums.wesnoth.org/viewtopic.php?f=7&t=30298&p=441243#p441243
 #. [message]: speaker=narrator
@@ -651,7 +642,6 @@ msgstr "好，会议所有人都到齐了。莱昂内尔，北方的情况如何
 
 # 参考 http://forums.wesnoth.org/viewtopic.php?f=7&t=30298&p=441243#p441243
 #. [message]: speaker=Lionel
-#, fuzzy
 msgid ""
 "Bad news, my liege. The orcs mass in great numbers on the north shore of the "
 "river, near the Ford of Abez. We have been cut off from the dwarves of "
@@ -661,10 +651,10 @@ msgid ""
 "and bandits, and by evil creatures that roamed the night in the shapes of "
 "men."
 msgstr ""
-"陛下，十万危急。兽人大量集结在雅碧滩的北岸。通往克纳尔加矮人之间的道路已被切"
-"断——有传言说兽人准备占领他们，然后集中兵力攻打韦诺。我们北方省份的人已然大量"
-"逃亡，那些地区一片混乱。暴徒和强盗，还有那些长着人形、昼伏夜出的邪恶生物攻击"
-"过我们不止一次了。"
+"陛下，坏消息。兽人大量集结在雅碧滩的北岸。我们与纳尔伽矮人之间的联系已被切断"
+"——有传言说兽人准备占领纳尔伽，然后转移目标攻打韦诺。我们北方省份的人民已在逃"
+"亡，那些地区一片混乱。暴徒和强盗，还有那些长着人形、昼伏夜出的邪恶生物攻击过"
+"我们不止一次了。"
 
 #. [message]: speaker=Leollyn
 msgid ""
@@ -675,7 +665,6 @@ msgstr ""
 "经被袭击了……"
 
 #. [message]: speaker=Garard II
-#, fuzzy
 msgid ""
 "Then there is no time to be lost! I will ride to the Ford of Abez with an "
 "army. As bold as the orcs may be to cross our borders in secret and prey on "
@@ -684,10 +673,10 @@ msgid ""
 "Gurcyn, you have been to the west — will the elves lend their archers to "
 "help us?"
 msgstr ""
-"我们不能再浪费时间了！我会带一支军队亲征雅碧滩。兽人竟敢大胆地秘密通过我们的"
-"边界掠夺手无寸铁的人，要让他们真正拿出勇气面对敌人却又计划不周和懦弱不堪。他"
-"们需要提醒，韦诺对于他们来说太热了。古尔桑，你去过西部——精灵们会借弓箭手帮我"
-"们吗？"
+"那么我们不能再浪费时间了！我会带一支军队亲征雅碧滩。兽人竟敢大胆地秘密越过边"
+"界，猎杀手无寸铁的人民。而在真正勇毅的对手面前，他们组织散乱、懦弱不堪。得有"
+"人提醒他们一下，韦诺对他们来说太热了。戈辛，你去过西部——精灵会借弓箭手来帮助"
+"我们吗？"
 
 #. [message]: speaker=Gurcyn
 msgid ""
@@ -699,13 +688,12 @@ msgstr ""
 "不友好。他们可能听信了让他们担心的谣言，但他们不会告诉我是什么。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Your Majesty... may I join your army? I mean, I came to Weldyn to seek your "
 "employ. And if it’s archers you need, might not a mage be of help?"
 msgstr ""
-"陛下……我能参军吗？我的意思是，我来维尔帝求您任用我。还有，假如您需要弓箭手，"
-"为什么不找个法师帮忙呢？"
+"陛下……我能参军吗？我的意思是，我来维尔帝是为了请您任用我。另外，假如您需要弓"
+"箭手，为什么不找个法师帮忙呢？"
 
 #. [message]: speaker=Garard II
 msgid ""
@@ -736,15 +724,12 @@ msgstr ""
 "尔帝……也许你可以代我过去看看吧？"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "I’m honored that you would entrust me with such a task... but I too stay in "
 "Weldyn, by the King’s order!"
-msgstr ""
-"我很荣幸您能信任我，还派给我这样的任务……但遵照国王的命令，我也要留在维尔帝！"
+msgstr "我很荣幸您能让我承担这样的任务……但谨遵君命，我也要留在维尔帝！"
 
 #. [message]: speaker=Leollyn
-#, fuzzy
 msgid ""
 "Hmmm... King Garard placed you under my command, and I may command you to "
 "travel north, if you wish to; he will not interfere with a mission of magery "
@@ -753,10 +738,10 @@ msgid ""
 "powerful mages. Allow only your mind to enter the Land of the Dead — should "
 "your body follow, there is no return! Do you still wish to go?"
 msgstr ""
-"嗯……伽拉德国王叫你听从我的命令，然后如果你愿意，我可以命令你去北方；他不会干"
-"涉与战争有关的魔法任务的。但你必须确认，你已经为如此严峻的任务做好准备了。与"
-"冥界打交道，甚至对于最强盗的法师来说都有危险。只允许你的意识进入冥界——如果身"
-"体也一起进去，就回不来了！你还想去吗？"
+"嗯……伽拉德国王让你听从我的命令。如果你愿意，我可以命令你去北方。他会干涉与战"
+"争有关的任务，但不会干涉与魔法有关的任务。但你必须确定自己已经准备好执行如此"
+"严峻的任务了。与灵魂世界打交道，甚至对最强大的法师来说都很危险。要只让你的意"
+"识进入冥界——如果身体也一起进去，就回不来了！你还想去吗？"
 
 #. [message]: speaker=Delfador
 msgid "If that is how I may best serve, I will do it right willingly."
