@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-21 15:37+0800\n"
+"PO-Revision-Date: 2022-01-25 15:21+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4988,12 +4988,10 @@ msgstr ""
 "得太远了。"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga
-#, fuzzy
 msgid "Naga Dirkfang"
-msgstr "娜迦-德克芳"
+msgstr "娜迦刃牙武士"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga
-#, fuzzy
 msgid ""
 "In contrast to the heavily melee-focused style of their northern brethren, "
 "young Naga of the southern waters prefer to soften their prey from afar "
@@ -5004,21 +5002,19 @@ msgid ""
 "by the northern Naga warriors, these fighters are nonetheless effective when "
 "it comes time to engage in warfare."
 msgstr ""
-"与他们北方的兄弟们专注于近战的风格相比，南部水域的年轻娜迦更喜欢在靠近之前从"
-"远处软化他们的猎物。他们投掷的小型chakri可以带在手腕上或腰带上，不会造成阻"
-"碍。虽然在水下的任何最终杀戮通常必须在近距离完成，但混合的战斗风格往往使他们"
-"能够活得足够长，以学习和改进。有时，这些战士被北方的纳迦族战士视为懦弱，但当"
-"需要参与战争时，他们还是很有效。"
+"与他们北方的兄弟们专注于近战的风格相比，南部水域的年轻娜迦更喜欢在靠近猎物之"
+"前先在远处削弱他们。他们投掷的小型“查克里”（刃环）可以带在手腕上或腰带上，不"
+"会造成阻碍。虽然在水下，任何击杀最后通常都得在近距离完成，但混合战斗风格往往"
+"使他们活得够久，足以学习并改进。有时，这些战士被北方娜迦战士视为懦弱，但当需"
+"要参战时，他们还是很高效的战士。"
 
 #. [attack]: type=blade
-#, fuzzy
 msgid "chakri"
-msgstr "乍得人（Chakri）"
+msgstr "查克里刃环"
 
 #. [female]
-#, fuzzy
 msgid "Nagini Dirkfang"
-msgstr "娜迦战士"
+msgstr "娜迦刃牙武士"
 
 #. [unit_type]: id=Naga Fighter, race=naga
 msgid "Naga Fighter"
@@ -5042,12 +5038,10 @@ msgid "Nagini Fighter"
 msgstr "娜迦战士"
 
 #. [unit_type]: id=Naga Guard, race=naga
-#, fuzzy
 msgid "Naga Guard"
-msgstr "皇家卫兵"
+msgstr "娜迦卫士"
 
 #. [unit_type]: id=Naga Guard, race=naga
-#, fuzzy
 msgid ""
 "Nagas tend to value agility and grace on the battlefield, but the slower, "
 "stronger individuals play a key role in defending important positions. These "
@@ -5055,17 +5049,16 @@ msgid ""
 "mercenary activities. They are said to have a strong code of honor, though "
 "like all things naga, it is mostly a mystery to outsiders."
 msgstr ""
-"纳加人倾向于重视战场上的敏捷和优雅，但速度较慢、身体较强壮的人在保卫重要阵地"
-"方面发挥着关键作用。这些卫兵并不经常遇到，因为他们不参加突袭或雇佣兵活动。据"
-"说他们有很强的荣誉准则，尽管像所有的娜迦事物一样，对外人来说这大多是个谜。"
+"在战场上，娜迦倾向于重视敏捷和优雅，但速度较慢、身体较强壮的娜迦在保卫重要阵"
+"地方面则发挥着关键作用。这些卫兵并不常能见到，因为他们不参与突袭或佣兵活动。"
+"据说他们有很强的荣誉准则，尽管像所有与娜迦有关的事物一样，对外人来说这基本上"
+"是个谜。"
 
 #. [unit_type]: id=Naga High Guard, race=naga
-#, fuzzy
 msgid "Naga High Guard"
-msgstr "娜迦战士"
+msgstr "娜迦高阶卫士"
 
 #. [unit_type]: id=Naga High Guard, race=naga
-#, fuzzy
 msgid ""
 "The elite naga guards are a rigid barrier to any invaders of a naga "
 "stronghold. They have powerful stikes and, like the lesser Shield Guard, "
@@ -5074,31 +5067,28 @@ msgid ""
 "attacks, but the nagas can usually seek better terrain advantage in such "
 "situations."
 msgstr ""
-"精英的纳迦守卫是对任何入侵纳迦据点的人的一道刚性屏障。他们有强大的枪法，和较"
-"小的盾牌卫士一样，由于在近战技术中有效地使用了盾牌，他们很难从他们的岗位上移"
-"开。这种战术对远程攻击毫无作用，但在这种情况下，纳迦人通常可以寻求更好的地形"
+"对入侵娜迦要塞的任何人而言，精英娜迦卫士都是一道刚硬的屏障。他们的攻击很强"
+"力，并且，他们与较弱的坚盾卫士一样能在近战中高效地使盾，故而很难从岗位上引开"
+"他们。这种战术对远程攻击毫无作用，但在这种情况下，娜迦通常可以寻找更好的地形"
 "优势。"
 
 #. [attack]: type=impact
-#, fuzzy
 msgid "shield"
-msgstr "盾牌"
+msgstr "盾击"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
-#, fuzzy
 msgid "Naga Shield Guard"
-msgstr "娜迦盾牌护卫"
+msgstr "娜迦坚盾卫士"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
-#, fuzzy
 msgid ""
 "The veteran naga guards are more difficult to dislodge from their posts "
 "because of effective use of a shield in melee techniques. This tactic does "
 "nothing against ranged attacks, but the nagas can usually seek better "
 "terrain advantage in such situations."
 msgstr ""
-"由于在近战技术中有效地使用了盾牌，资深的纳迦族卫兵更难从他们的岗位上移开。这"
-"种战术对远程攻击毫无作用，但在这种情况下，纳迦人通常可以寻求更好的地形优势。"
+"资深的娜迦卫士能在近战中能高效地使盾，故而很难从岗位上引开他们。这种战术对远"
+"程攻击毫无作用，但在这种情况下，娜迦通常可以寻找更好的地形优势。"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 msgid "Naga Myrmidon"
@@ -5133,12 +5123,10 @@ msgstr ""
 "地形上都是强大的敌手，善于游泳的特质更是在水中赋予她们致命的机动性。"
 
 #. [unit_type]: id=Naga Ophidian, race=naga
-#, fuzzy
 msgid "Naga Ophidian"
-msgstr "娜迦忠勇武士"
+msgstr "娜迦蛇身武士"
 
 #. [unit_type]: id=Naga Ophidian, race=naga
-#, fuzzy
 msgid ""
 "Experienced warriors of the Southern Naga often find work as mercenaries, "
 "usually hired by neighboring Dunefolk to control key waterways near the "
@@ -5153,63 +5141,55 @@ msgid ""
 "encourage a healthy amount of competition among the surface factions, "
 "ensuring their services are valued by one tribe or another."
 msgstr ""
-"南部纳迦族有经验的战士经常找到雇佣兵的工作，通常被邻近的Dunefolk雇佣来控制海"
-"岸线附近的关键水路。由于经常与敌人的骑兵对抗，奥菲德人已经退休了他们年轻时的"
-"环形刀，并拿起了刺耳的jarid，这是一种小标枪，纳迦人通过添加从沉船压舱物中收获"
-"的铅而变得更加致命。虽然他们与富有的雇主一般都很友好，但这种友好不应该被误认"
-"为是忠诚，因为Ophidian人在每个航运季节开始时都会在敌对的城邦派别之间轻易转"
-"换，这时对水基保护的需求是最高的。作为一个群体，这些纳迦人鼓励地表派别之间的"
-"健康竞争，确保他们的服务被一个部落或另一个部落所重视。"
+"经验丰富的南方娜迦战士经常会作为佣兵谋生，他们通常被邻近的沙漠游民雇佣来控制"
+"海岸线附近的关键水路。由于经常与敌人的骑兵对抗，蛇身武士淘汰了他们年轻时使用"
+"的环刃，而拿起了可以刺击的“贾里德”，这是一种小标枪。娜迦在其上加上了从沉船压"
+"舱物中收获的铅，因而这种标枪变得更加致命。虽然他们与富有的雇主一般都很友好，"
+"但这种友好不该被误认为是忠诚。蛇身武士因在每个航运季节开始时都会在敌对的城邦"
+"派别之间轻易改换雇主而出名，在这种时节，来自水路的安保需求是最多的。作为一个"
+"群体，这些娜迦鼓励地表派别之间的健康竞争，以确保他们的服务总会被某一个部落所"
+"重视。"
 
 #. [attack]: type=blade
-#, fuzzy
 msgid "curved blade"
-msgstr "战刃"
+msgstr "弯刃"
 
 #. [attack]: type=pierce
-#, fuzzy
 msgid "jarid"
-msgstr "jarid"
+msgstr "贾里德标枪"
 
 #. [female]
-#, fuzzy
 msgid "Nagini Ophidian"
-msgstr "娜迦忠勇武士"
+msgstr "娜迦蛇身武士"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
-#, fuzzy
 msgid "Naga Ringcaster"
-msgstr "娜迦战士"
+msgstr "娜迦刃环使"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
-#, fuzzy
 msgid ""
 "The chakram, a greater blade ring than the chakri, is the signature weapon "
 "of the southern Naga and their renowned Ringcasters. Well balanced chakrams "
 "are useful for throwing, but the rejected blades make a good fist-load "
 "weapon, similar to a sharp-bladed tekko or knuckleduster."
 msgstr ""
-"chakram是一种比chakri更大的刀环，是南部纳迦族和他们著名的环形铸造师的标志性武"
-"器。平衡良好的查克拉姆对投掷很有帮助，但被拒绝的刀片是一种很好的拳头载荷武"
-"器，类似于锋利的叶片tekko或knuckleduster。"
+"“查克拉姆”是一种比“查克里”更大的刃环，是南部娜迦和他们著名的刃环使的标志性武"
+"器。平衡良好的“查克拉姆”很适合于投掷，但收起的刀片让它成为了一种很好的拳击武"
+"器，类似于安装了锋利刀片的拳甲或是指虎。"
 
 #. [attack]: type=blade
-#, fuzzy
 msgid "chakram"
-msgstr "脉络图"
+msgstr "查克拉姆刃环"
 
 #. [female]
-#, fuzzy
 msgid "Nagini Ringcaster"
-msgstr "娜迦战士"
+msgstr "娜迦刃环使"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
-#, fuzzy
 msgid "Naga Sicarius"
-msgstr "娜迦武士"
+msgstr "娜迦影刃武士"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
-#, fuzzy
 msgid ""
 "While they sometimes still stand in as sellswords for potential Dunefolk "
 "allies, Naga Sicarii are more often the keepers of trade routes and resource "
@@ -5225,19 +5205,18 @@ msgid ""
 "for they can anticipate many enemy strikes, and use their heavy, curved "
 "blade to deflect or distract at the critical moment."
 msgstr ""
-"虽然他们有时仍然作为潜在的Dunefolk盟友的卖家，但Naga Sicarii更经常是贸易路线"
-"和靠近水路的资源床的守护者。只要支付适当的费用或交换货物，西卡里人就会保证安"
-"全旅行或免费获得其领土上的宝贵物资。如果走错了路，西卡留斯人就会成为一个可怕"
-"的敌人，这并不是因为他们个人的战斗力，而是因为他可以召集众多的盟友来平息任何"
-"潜在的滋扰。尽管在必要的时候，这些有经验的雇佣兵完全有能力成为战士，但他们非"
-"常清楚，赚钱的最好方法是不把自己置于危险之中。当他们发现自己处于危险之中时，"
-"他们的操纵性狡猾就会得到很好的利用，因为他们可以预见到敌人的许多攻击，并在关"
-"键时刻使用他们沉重的弯刀来转移或分散注意力。"
+"虽然他们有时还是会成为潜在的沙丘游民盟友的佣兵，但娜迦影刃武士更多时候是在担"
+"任贸易线路和靠近水路的资源床的守护者。只要支付适当的费用或用适当的货物来交"
+"换，影刃武士就会保证旅途安全，或让买家免费获得其领土上的宝贵物资。但要是被惹"
+"毛了，那他们就会成为可怕的敌人，这并不是因为他们个人的战斗力，而是因为他们可"
+"以召集众多盟友来平息任何潜在的滋扰。尽管在必要的时候，这些经验丰富的佣兵完全"
+"是很有力的战士，但他们非常清楚，赚钱的最好方法是不让自己处于危险之中。当发现"
+"自己确实处于危险之中时，他们就会很好地利用自己的狡猾来预见到敌人的许多攻击，"
+"并在关键时刻使用他们沉重的弯刀来偏转对方的攻击或分散其注意力。"
 
 #. [female]
-#, fuzzy
 msgid "Nagini Sicarius"
-msgstr "娜迦武士"
+msgstr "娜迦影刃武士"
 
 #. [unit_type]: id=Naga Warrior, race=naga
 msgid "Naga Warrior"
@@ -5274,12 +5253,10 @@ msgstr ""
 "躲避攻击。这使她们在陆地上很强大，但水的阻力却大大影响了她们闪躲的能力。"
 
 #. [unit_type]: id=Naga Zephyr, race=naga
-#, fuzzy
 msgid "Naga Zephyr"
-msgstr "娜迦战士"
+msgstr "娜迦灵风武士"
 
 #. [unit_type]: id=Naga Zephyr, race=naga
-#, fuzzy
 msgid ""
 "The Southern Naga commonly recount a curious story about the Wind Spirit, "
 "Zefra and the aetherial chakram:\n"
@@ -5319,38 +5296,37 @@ msgid ""
 "thrown blade, this doesn't mean they are weak in melee combat, as the "
 "unbalanced chakram can be enhanced with spikes and smaller blades.\n"
 msgstr ""
-"南部纳迦人通常会讲述一个关于风神、Zefra和太极图的奇怪故事。\n"
+"南部娜迦常常会讲述一个关于风灵泽弗拉和风之兵器查克拉姆的有趣故事。\n"
 "\n"
-"在遥远的过去，有一个拥有传奇技能的查克拉姆人。据说他可以用一连串的刀剑劈开大"
-"海，在一个人到达他面前之前击倒一百个敌人，并且在不被击中的情况下挡住一千支"
-"箭。他的名字叫Xylrix，即暴风雨，他是一个战士，他的傲慢和他的才能一样大。他总"
-"是非常愿意向所有愿意观看他的人夸耀自己的能力。然后有一天，他在向一帮年轻的纳"
-"吉尼炫耀自己时，选择了一棵神圣的阿勒奈树作为他的目标。\n"
+"在遥远的过去，有一位拥有传奇般技艺的查克拉姆使用者。据说他可以用疾风般的劈砍"
+"断开大海，在一百名敌人近身之前就将他们全部干掉，以及让一千支箭偏转而不被任何"
+"一支射中。他的名字叫希尔利克斯，即暴风雨。他是一位战士，他的傲慢和他的才能一"
+"般大。他总是非常乐意向所有愿意观看他表演的人夸耀自己的能力。然后有一天，他在"
+"向一帮年轻的女娜迦们炫耀自己时，选择了一棵神圣的阿勒奈树作为目标。\n"
 "\n"
 "看着，\"他大吼一声，把树直接劈成两半。\n"
 "\n"
-"在那一刻，一阵大风包围了他，风神的声音在他耳边回响：\"你认为自己很强大，可以"
-"杀死我无能的后代？虽然你拥有天赋，但凡人不应轻视引导他们的神性。\n"
+"在那一刻，一阵大风包围了他，风灵的声音在他耳边回响：\"你认为自己很强大，可以"
+"杀死我无能的后代？虽然你的确拥有天赋，但凡人不应轻视引导他们的神灵。\n"
 "\n"
-"他反驳说：'来吧，精神。我并不害怕。任何武器，钢铁、水或风，都不能抵挡我的戒"
-"指。\n"
+"他反驳说：'来吧，风灵。我不害怕。任何武器，或者钢铁，或者水，又或者风，都不能"
+"抵挡我的刃环。\n"
 "\n"
-"风旋得越来越快，一股狂风的洪流在愤怒的旋涡中不断旋转。他感到自己被从地面上抬"
-"起，以巨大的速度旋转，完全无力地任由泽弗拉的愤怒摆布。他惊恐地抬起脸，放开他"
-"的刀片，突然在旋转的风暴中看到了它--环状查克拉的旋转运动，在风本身的图案"
-"中。\n"
+"风旋转得越来越快，一股狂风的洪流在愤怒的旋涡中不断飞旋。他感到自己被从地面上"
+"抬起，以巨大的速度旋转，完全无力地任由泽弗拉的愤怒摆布。他惊恐地抬起脸，放开"
+"他的刃环，却突然在旋转的暴风中看到了它——查克拉姆环刃正飞旋着，其轨迹与风本身"
+"一模一样。\n"
 "\n"
-"风暴来得快，消失得也快，留下Xylrix思考他的破损武器。许多天后，当他终于回到自"
-"己的家时，他宣布了自己的新名字：泽法，一个为风服务的战士，他的武器在风中飞"
-"舞。\n"
+"风暴来得快，去得也快，留下希尔利克斯看着他破损的武器陷入沉思。许多天后，当他"
+"终于回到自己的家中时，他宣布了自己的新名字：泽法，一位向风效忠的武士，因他的"
+"武器在风中飞舞。\n"
 "\n"
-"虽然古老的传说驱使这个遗产的精英战士专注于投掷的刀刃，但这并不意味着他们在近"
-"战中是弱者，因为不平衡的查克拉姆可以用尖刺和较小的刀片来加强。\n"
+"虽然在古老传说的驱使下，追随泽法遗志的精英武士们专注于投掷刃环，但这并不意味"
+"着他们在肉搏战中很弱，因为不平衡的查克拉姆可以用尖刺和小刀片来加强。\n"
 
 #. [female]
-#, fuzzy
 msgid "Nagini Zephyr"
-msgstr "娜迦战士"
+msgstr "娜迦灵风武士"
 
 #. [unit_type]: id=Ogre, race=ogre
 msgid "Ogre"
@@ -5372,7 +5348,7 @@ msgstr "剁肉刀"
 
 #. [unit_type]: id=Young Ogre, race=ogre
 msgid "Young Ogre"
-msgstr "食人魔幼兽"
+msgstr "幼年食人魔"
 
 #. [unit_type]: id=Young Ogre, race=ogre
 msgid ""
@@ -5380,15 +5356,14 @@ msgid ""
 "trained. They cannot manage weapons skillfully, but they compensate for that "
 "lack with great strength."
 msgstr ""
-"幼年的食人魔有时会被人捕获，并被投入军中进行训练。他们无法熟练地使用武器，不"
-"过他们强大的力量弥补了这一缺点。"
+"还在幼年时，食人魔有时会被捕获，并被投入军中进行训练。他们无法熟练使用武器，"
+"不过他们强大的力量弥补了这一缺点。"
 
 #. [unit_type]: id=Orcish Archer, race=orc
 msgid "Orcish Archer"
 msgstr "兽人弓箭手"
 
 #. [unit_type]: id=Orcish Archer, race=orc
-#, fuzzy
 msgid ""
 "Although bows are sometimes regarded as cowardly armaments among orcs, the "
 "pragmatic nature of orcish warfare makes frequent use of these weapons, "
@@ -5398,17 +5373,16 @@ msgid ""
 "brethren to finish off on the frontlines. While typically poorly equipped "
 "themselves, these orcs can nonetheless be quite effective in large numbers."
 msgstr ""
-"虽然弓在兽人中有时被认为是懦弱的武器，但兽人战争的实用性使他们经常使用这些武"
-"器，这些武器很适合那些身材矮小的人。兽人弓箭手最喜欢的战术是使用火焰箭在敌方"
-"阵营中制造混乱，软化顽强的对手，让他们的大块头和强壮的兄弟们在前线完成任务。"
-"虽然这些兽人的装备通常很差，但在人数众多的情况下还是相当有效。"
+"虽然弓在兽人中有时被认为是懦弱的武器，但兽人对战争的使用主义态度让他们经常使"
+"用这些很适合身材矮小者的武器。兽人弓箭手最喜欢的战术是使用火焰箭在敌方阵线中"
+"制造混乱，削弱顽强的对手，让他们的大块头而强壮的兄弟们在前线完成击杀。虽然这"
+"些兽人自身通常装备很差，但在人数众多的情况下还是相当高效的。"
 
 #. [unit_type]: id=Orcish Assassin, race=orc
 msgid "Orcish Assassin"
 msgstr "兽人刺客"
 
 #. [unit_type]: id=Orcish Assassin, race=orc
-#, fuzzy
 msgid ""
 "While many orcs prefer brute force as their modus operandi, the highly "
 "practical nature of their warfare promotes cutthroat tactics that are "
@@ -5418,17 +5392,17 @@ msgid ""
 "same weapon is readily turned to espionage and assassination, a commonplace "
 "occurrence between feuding orcish clans or even within a single clan itself."
 msgstr ""
-"虽然许多兽人喜欢用蛮力作为他们的行动方式，但他们战争的高度实用性促进了其他派"
-"别通常不赞成的残酷战术。毒药是兽人战略的主要支柱之一，它被广泛用于软化战场上"
-"的强硬对手，在不冒直接攻击风险的情况下削弱敌军。同样的武器也很容易被用于间谍"
-"和暗杀，这在兽人部族的争斗中，甚至在一个部族内部都是很常见的事情。"
+"虽然许多兽人喜欢用蛮力作为行动方式，但他们高度实用主义的战争风格中，鼓励使用"
+"其他派系通常不赞成的残酷战术。毒药是兽人战略的主要支柱之一，被广泛用于在战场"
+"上削弱强硬对手，在不冒直接进攻风险的情况下废掉敌军。同样的武器也很容易被用于"
+"间谍和暗杀行动，这在互相争斗的兽人部族间，甚至在同一个部族内部都是很常见的事"
+"情。"
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
 msgid "Orcish Crossbowman"
 msgstr "兽人弩手"
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
-#, fuzzy
 msgid ""
 "Despite the heavy importance placed on combat prowess by most orcs, very few "
 "tribes have any semblance of formal training in any of the warring arts. "
@@ -5437,17 +5411,16 @@ msgid ""
 "with more easily handled crossbows. Simplistic but potent, these weapons can "
 "still be deadly even when handled roughly by inexperienced warriors."
 msgstr ""
-"尽管大多数兽人非常重视战斗力，但很少有部落在战争艺术方面接受过任何形式的正式"
-"训练。正因为如此，兽人弓箭手在挥舞从人类或精灵弓箭手那里偷来的长弓时相当不给"
+"尽管大多数兽人非常重视战斗力，但很少有部落在战争技艺方面接受过任何形式的正式"
+"训练。正因为如此，兽人射手在使用从人类或精灵弓箭手那里偷来的长弓时相当不给"
 "力，而更喜欢用更容易操作的弩来武装自己。这些武器简单而有力，即使被没有经验的"
-"战士粗暴地操作，也是致命的。"
+"战士粗暴地操作时，也是致命的。"
 
 #. [unit_type]: id=Orcish Grunt, race=orc
 msgid "Orcish Grunt"
 msgstr "兽人咕噜兵"
 
 #. [unit_type]: id=Orcish Grunt, race=orc
-#, fuzzy
 msgid ""
 "True orcs are well known for their raw strength and ferocity, as well as "
 "their propensity toward aggressive combat. These traits mean that even the "
@@ -5457,17 +5430,16 @@ msgid ""
 "overcome. What makes an orcish horde most threatening, however, is the sheer "
 "numbers in which these fighters can be fielded."
 msgstr ""
-"兽人步兵是兽人军队的主力，由部落所能集结的最大最强壮的兽人组成。他们会拿到最"
-"基本的装备，而后就被扔到战场上。就算是这些装备简陋的新兵也很危险，因为大兽人"
-"天生强壮，在倒下之前可以承受很多伤。然而，兽人部落之所以最有威胁，是因为可以"
-"上战场的兽人步兵的数量十分庞大。"
+"真兽人因蛮力和残忍而闻名，同样出名的还有他们对侵略性作战的癖好。这些特质意味"
+"着，就算是经验最为缺乏而装备最为简陋的咕噜兵，在战场上也不容易对付。单单一个"
+"兽人自己，出手便很野蛮很重，而反过来，他在被击败之前可以承受很多攻击。然而，"
+"兽人部落之所以最有威胁，是因为可以上战场的咕噜兵的数量十分庞大。"
 
 #. [unit_type]: id=Orcish Leader, race=orc
 msgid "Orcish Leader"
-msgstr "兽人领袖"
+msgstr "兽人首领"
 
 #. [unit_type]: id=Orcish Leader, race=orc
-#, fuzzy
 msgid ""
 "Unusually cunning orcs tend to find themselves as the leaders of warrior "
 "bands. Although not necessarily possessed of the same loyalty-inspiring "
@@ -5475,17 +5447,15 @@ msgid ""
 "certain rapport with their kin, especially goblins, and can inspire them to "
 "fight with uncharacteristic boldness."
 msgstr ""
-"那些非同一般地狡猾的兽人经常会发现自己成为了武士团的领袖。出于需要，他们会携"
-"带一把十字弩，但他们却更加擅长于剑术。这些兽人是强大的战士，但他们和族人之间"
-"同时也有着某种默契。特别是对地精而言，领袖们能够激励他们违背本性，去疯狂大胆"
-"地战斗。"
+"那些非同一般地狡猾的兽人经常会成为武士帮的首领。尽管他们并不一定具有人类和精"
+"灵非常看重的让人们想要效忠的魅力，但他们和族人，特别是地精之间常常有着某种默"
+"契。首领能够激励地精们一反常态，去大胆地战斗。"
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
 msgid "Orcish Nightblade"
 msgstr "兽人夜刃"
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
-#, fuzzy
 msgid ""
 "The most seasoned orcish assassins usually operate as mercenaries "
 "specializing in “resolving internal conflicts” and rarely participate in "
@@ -5497,26 +5467,25 @@ msgid ""
 "the cover of darkness. A contract with a nightblade is almost always a death "
 "sentence to the victim, making said expertise well worth its high price."
 msgstr ""
-"最老练的兽人刺客通常作为雇佣兵，专门负责 \"解决内部冲突\"，很少参与大规模的战"
-"斗。这些兽人在工作中表现出惊人的技巧和战斗力，他们很少效忠于任何特定的部落，"
-"而是向出价最高的人提供服务。一旦达成协议并获得必要的物资，刺客就会迅速而无声"
-"地打击他的目标，在黑暗的掩护下悄悄消灭他们。与夜刃签订的合同几乎都是对受害者"
-"的死刑判决，这使得上述专业技能值得其高价。"
+"最老练的兽人刺客通常作为雇佣兵，专长于“解决内部冲突”，而很少参与大规模的战"
+"斗。这些兽人技艺惊人，并在战斗中多有磨砺，他们很少效忠于任一个特定的部落，而"
+"是向出价最高方提供服务。一旦达成协议并获得必要的物资，刺客就会迅速而无声地攻"
+"击他的目标，在黑暗的掩护下悄悄消灭他们。与夜刃签订的合同几乎都相当于对受害者"
+"的死刑判决，这让上述专业技能值得其高价。"
 
 #. [attack]: type=blade
 msgid "blade"
-msgstr "战刃"
+msgstr "利刃"
 
 #. [attack]: type=impact
 msgid "kick"
-msgstr "踢"
+msgstr "踢击"
 
 #. [unit_type]: id=Orcish Ruler, race=orc
 msgid "Orcish Ruler"
 msgstr "兽人统治者"
 
 #. [unit_type]: id=Orcish Ruler, race=orc
-#, fuzzy
 msgid ""
 "A common misconception about the hierarchy of orcish clans is the notion "
 "that orcs only value brute strength. Although the leader of a smaller orcish "
@@ -5527,16 +5496,15 @@ msgid ""
 "respect of his brethren through leadership rather than coercion."
 msgstr ""
 "关于兽人部族的等级制度，一个常见的误解是认为兽人只重视蛮力。尽管较小的兽人部"
-"队的首领可能是他们中最强壮的战士，但一个大部落的统治者有一个困难的任务，那就"
-"是扼制内部的争斗和内斗--这不是仅靠武力就能完成的。这样的兽人不可避免地是同龄"
-"人中最精明和最有洞察力的，并且通过领导而不是胁迫赢得了他的兄弟们的尊重。"
+"队的首领可能是他们中最强壮的战士，但大部落的统治者面临着困难的任务，那就是扼"
+"制内斗——这可不是只靠武力就能做到的。这样的兽人不可避免地会是同僚之中最精明而"
+"最富洞察力的，他们通过领导力而不是胁迫来赢得兄弟们的尊重。"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 msgid "Orcish Slayer"
 msgstr "兽人杀手"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
-#, fuzzy
 msgid ""
 "Skilled orcish assassins are surprisingly nimble covert troops who achieve "
 "great agility by forgoing the heavy armor of their brethren. Their weapon of "
@@ -5548,18 +5516,17 @@ msgid ""
 "precisely what gives rise to these ruthless soldiers, rightly dubbed "
 "‘Slayers’ by their enemies."
 msgstr ""
-"熟练的兽人刺客是出乎意料的灵活的隐蔽部队，他们通过放弃他们兄弟的重甲而获得极"
-"大的敏捷性。他们选择的武器，毒药，经常被批评为不适合典型战争的既定习俗的恶毒"
-"工具。然而，大多数兽人不承认这种战斗法则，并寻求通过任何必要的手段来获得胜"
-"利。失败，不管是什么原因，通常都被视为最大的耻辱。兽人所从事的全面战争的残酷"
-"性正是产生这些无情的士兵的原因，他们被敌人正确地称为 \"杀手\"。"
+"技艺高超的兽人刺客是出乎意料地灵活的隐蔽行动部队，他们放弃了兄弟们的重甲，而"
+"变得极为敏捷。他们选择的武器，毒药，经常被批评是不适合典型战争中既定规则的恶"
+"毒工具。然而，大多数兽人不承认这种战斗规则，并不择手段地赢得胜利。不管是什么"
+"原因，失败通常都被视为最大的耻辱。兽人所进行的全面战争之残酷，正是产生这些无"
+"情士兵的原因，他们被敌人正确地称为“杀手”。"
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
 msgid "Orcish Slurbow"
 msgstr "兽人重弩手"
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
-#, fuzzy
 msgid ""
 "The basic design of a crossbow gives rise to the arbalest or ‘slurbow’, a "
 "much more intricate device complete with a hand-turned cranequin to recock "
@@ -5571,20 +5538,18 @@ msgid ""
 "Orcs prize any such weapons they can manage to procure, and they invariably "
 "end up in the hands of their most cunning archers."
 msgstr ""
-"最基本的十字弩设计逐渐发展成了强弩或者说“重装十字弩”：这是一种复杂得多的装"
-"置，有一个手摇的绞弦器用于重新装填，一般还配备了以多层复合的木头或骨头制成的"
-"多重弓弦，用于发射弩箭。这种装置和简易的十字弩相比较，更容易操作而且强大得"
-"多；当然，它也远远不是兽人的工艺所能制造的。\n"
+"最基本的十字弩设计逐渐发展成了强弩或者说“重装十字弩”。这是一种比普通弩复杂得"
+"多的装置，有一个手摇的绞弦器用于重新装填，一般还配备了以多层复合的木头或骨头"
+"制成的多重弓弦，用于发射弩箭。这种装置和更简易的十字弩相比，更容易操作而且强"
+"大得多。它也不是兽人通常能制造的。\n"
 "\n"
-"兽人珍视所有他们设法抢来的这类武器，最终它们都会落到最强壮和狡诈的兽人弓箭手"
-"手里。"
+"兽人珍视所有他们设法获得的这类武器，最终它们都会落到最狡诈的兽人射手手里。"
 
 #. [unit_type]: id=Orcish Sovereign, race=orc
 msgid "Orcish Sovereign"
 msgstr "兽人君主"
 
 #. [unit_type]: id=Orcish Sovereign, race=orc
-#, fuzzy
 msgid ""
 "Although orcs tend to be fairly tribal in nature, from time to time, a "
 "situation arises that impels several clans to join forces under a single "
@@ -5599,20 +5564,19 @@ msgid ""
 "rapidly dissolves back into individual clans once the strength of its "
 "leadership is extinguished."
 msgstr ""
-"虽然兽人在本质上倾向于相当的部落，但时不时地会出现一种情况，促使几个部族在一"
-"个强大的君主下联合起来。由于地位的关系，这样的兽人必须同时拥有领导伟大的战士"
-"部落的力量和狡猾，几乎无一例外地拥有一种内在的魅力，这在他们的同类中是非常罕"
-"见的。获得这种地位的途径是多种多样的；有时，一个强大的部落可能会征服较小的部"
-"落，并将被打败的战士吸收到他们的队伍中，而在其他情况下，需要由巫师理事会任"
-"命，在那里，君主成为一个临时的，但正式的头衔。无论在哪种情况下，酋长都是部落"
-"的关键所在，一旦部落的领导力量消失，部落就会迅速解体，回到各个部族。"
+"虽然兽人在本质上相当倾向于部落化，但时不时地会出现一种情况，促使几个部族在一"
+"位强大的君主治下联合起来。这一地位意味着这一名兽人必须既强壮又狡猾，这样才能"
+"领导一个巨大的战士部落。他们几乎无一例外地拥有内在的魅力，这在他们的同类中是"
+"非常罕见的。获得这种地位的途径是多种多样的：有时，一个强大的部落可能会征服较"
+"小的部落，并将被打败的战士吸收到他们的队伍中；而在其他情况下，君主需要由萨满"
+"评议会任命，此时，君主成为一个临时的但正式的头衔。无论在哪种情况下，战争酋长"
+"都是部落的关键所在，一旦首领被消灭，大部落就会迅速解体，变回一个个部族。"
 
 #. [unit_type]: id=Orcish Warlord, race=orc
 msgid "Orcish Warlord"
 msgstr "兽人军阀"
 
 #. [unit_type]: id=Orcish Warlord, race=orc
-#, fuzzy
 msgid ""
 "While might is not the be-all end-all of supremacy in an orcish clan, it "
 "certainly is a prerequisite for earning the respect and obedience of other "
@@ -5628,19 +5592,18 @@ msgid ""
 "warrior arises to take his place."
 msgstr ""
 "虽然力量不是兽人部族中至高无上的全部，但它肯定是赢得其他兽人尊重和服从的先决"
-"条件。一个军阀通常是他的部落中最强的战士，他通过一次又一次地战胜有抱负的挑战"
-"者来获得并保持他的地位。这种强大的战斗力使这种兽人可以充当部落首领，监督其部"
-"族的日常事务，并在需要流血的时候指挥较小的战士。虽然典型的狡猾和高度精通战"
-"争，但大多数军阀只因他们的战斗技巧而赢得敬佩，缺乏在战斗之外领导的知识或魅"
-"力。随着时间的推移，当一个军阀的技能随着年龄的增长而减弱，而另一个强大的战士"
-"出现来取代他的位置时，这种缺陷通常会成为军阀倒台的原因。"
+"条件。一名军阀通常是他的部落中最强的战士，他一次又一次战胜有抱负的挑战者来获"
+"得并保持自己的地位。这种强大的战斗力使这种兽人可以担任部落酋长，监督部族的日"
+"常事务，并在需要流血之时指挥下位的战士。虽然通常来说很狡猾，也高度精通战争之"
+"道，但大多数军阀只因他们的战斗技巧而赢得敬佩，而缺乏在战斗之外进行领导的知识"
+"或魅力。随着时间的推移，当一名军阀的技能随着年龄的增长而减弱，而另一名强大的"
+"战士上位来取而代之时，这种缺陷通常便会成为军阀倒台的原因。"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
 msgid "Orcish Warrior"
-msgstr "兽人武士"
+msgstr "兽人战士"
 
 #. [unit_type]: id=Orcish Warrior, race=orc
-#, fuzzy
 msgid ""
 "Orcish swordplay focuses almost strictly on offense, making use of their "
 "natural stamina to outlast their opponents through sheer resilience. A more "
@@ -5650,10 +5613,10 @@ msgid ""
 "fighters, who lack the training and finesse to act on more complex "
 "strategies."
 msgstr ""
-"兽人的剑术几乎完全集中在进攻上，利用他们天生的耐力，通过纯粹的韧性来超越他们"
-"的对手。因此，一个更老练的兽人战士通常会挥舞着两把刀，选择放弃盾牌，而是在近"
-"战范围内与敌人交手。虽然这是一种相当粗暴的战术，但对这些战士来说仍然相当有"
-"效，他们缺乏训练和技巧，无法采取更复杂的策略。"
+"兽人的剑术几乎完全集中在进攻上，利用他们天生的耐力，通过纯粹的韧性来比他们的"
+"对手坚持得更久。因此，更为老练的兽人战士通常会选择放弃盾牌，而是带着两把刀，"
+"在近战范围内与敌人交手。虽然这一战术相当粗暴，但对这些战士来说仍然很是有效。"
+"他们缺乏训练和技巧，无法采用更复杂的策略。"
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 msgid "female^Saurian Ambusher"
@@ -5690,7 +5653,7 @@ msgstr ""
 
 #. [unit_type]: id=Saurian Flanker, race=lizard
 msgid "female^Saurian Flanker"
-msgstr "蜥蜴人侧卫"
+msgstr "蜥蜴人侧击士"
 
 #. [unit_type]: id=Saurian Flanker, race=lizard
 msgid ""
@@ -5917,10 +5880,9 @@ msgstr ""
 
 #. [unit_type]: id=Necrophage, race=undead
 msgid "Necrophage"
-msgstr "死灵食尸鬼"
+msgstr "食尸魔"
 
 #. [unit_type]: id=Necrophage, race=undead
-#, fuzzy
 msgid ""
 "The necrophage, or ‘devourer of the dead’, is a monstrous, corpulent thing, "
 "which bears only a crude resemblance to a man. They appear to be quite "
@@ -5931,11 +5893,11 @@ msgid ""
 "— a process about which almost nothing is known, but which can be nothing "
 "but nightmarish."
 msgstr ""
-"死灵食尸鬼，或者说‘死尸吞噬者’，是怪物一样的一团肥胖的东西，和人的形状只有一"
-"点粗糙的相似。他们看上去已经腐烂，尽管还是能够移动；他们血液里充斥着疾病与致"
-"命的毒素，还有相得益彰的恶臭。但是关于这些怪物最让人反胃的事实是——这只有对那"
-"些能够察觉到他们身上丑恶魔法的踪迹的人来说才是清晰可见的——他们是通过某种方式"
-"用活着的人体组成的。关于这一过程，人们几乎一无所知，但那一定是如同梦魇一般。"
+"食尸魔，或者说“死尸吞噬者”，是怪物一样的一团肥胖的东西，和人的形状只有一点粗"
+"糙的相似。它们看上去已经腐烂，尽管还是能够移动。它们的血液里充斥着疾病与致命"
+"的毒素，还有相应的恶臭。但是关于这些怪物最让人反胃的事实是——这只有对那些能够"
+"察觉到它们身上丑恶魔法的踪迹的人来说才清晰可见——它们是通过某种方式用活人制造"
+"出来的。关于这一过程，人们几乎一无所知，但那一定是如同梦魇一般。"
 
 #. [variation]
 msgid "wc_variation^Drake"
@@ -6192,7 +6154,6 @@ msgid "Bone Shooter"
 msgstr "枯骨射手"
 
 #. [unit_type]: id=Bone Shooter, race=undead
-#, fuzzy
 msgid ""
 "Of a dark sorcerer’s creations, some take more strongly to the false life "
 "given them. The potency of their unlife is given equipment to match; "
@@ -6201,10 +6162,9 @@ msgid ""
 "victims. It follows that they are dubbed simply ‘Bone-Shooters’ by their "
 "unfortunate enemies."
 msgstr ""
-"黑暗巫师的造物中，有一部分得到了更加强大的虚假生命，也得到了与自己的死后力量"
-"相配的武器。特别是弓箭手，通常装备着非常卑鄙的武器。它们的箭袋中的箭不是木制"
-"的，而是由受害者的骨头所制成。那些倒霉的敌人因而简单地给它们起了“枯骨射手”的"
-"绰号。"
+"黑暗巫师的造物中，有一部分得到了更加强大的虚假生命，也得到了与死后力量相配的"
+"武器。特别是弓箭手，通常会装备非常卑鄙的武器。它们箭袋中的箭不是木制的，而是"
+"由受害者的骨头制成。因而，它们的不幸的敌人简单地给它们起了“枯骨射手”的绰号。"
 
 #. [unit_type]: id=Chocobone, race=undead
 msgid "Chocobone"
@@ -6325,8 +6285,8 @@ msgid ""
 "the wind in the sails of a ship. This damned vessel becomes an unfailing "
 "servant which can be bound to whatever task their master sees fit."
 msgstr ""
-"一旦陷入妖法的黑幕之中，一个被困住的灵魂就如同吹入船帆的风。这被诅咒的容器变"
-"成了唯命是从的仆人，它们可以被派给任何任务，只要它们的主人乐意就行。"
+"一旦陷入妖法的黑幕之中，被困住的灵魂就如同吹入船帆的风。这被诅咒的容器变成了"
+"唯命是从的仆人，它们可以被派给任何任务，只要它们的主人乐意就行。"
 
 #. [attack]: type=cold
 msgid "wail"
@@ -6492,8 +6452,7 @@ msgid "Wose Shaman"
 msgstr "树人萨满"
 
 #. [unit_type]: id=Wose Shaman, race=wose
-#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
-msgstr "这种树人会指挥藤蔓类的植物以阻碍敌人。"
+msgstr "这些树人会指挥森林植物，例如藤蔓来阻碍敌人。"
