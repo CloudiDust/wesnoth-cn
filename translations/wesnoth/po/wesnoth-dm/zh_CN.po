@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2022-01-25 16:01+0800\n"
+"PO-Revision-Date: 2022-01-27 14:22+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -817,39 +817,35 @@ msgid "Thanks very much. Here’s the gold..."
 msgstr "十分感谢。给你钱……"
 
 #. [message]: speaker=Garrath
-#, fuzzy
 msgid ""
 "You know, you really ought to be more careful before handing over money to "
 "suspicious strangers like me. But, since I’m feeling nice at the moment, I "
 "think I will actually keep my word and offer you some protection."
 msgstr ""
 "我说啊，把钱给像我这样可疑的陌生人之前，你真得小心点。不过，我现在心情不错，"
-"那我想还是遵守承诺保护你们吧。"
+"那我还是遵守承诺保护你们吧。"
 
 #. [message]: speaker=Harold
-#, fuzzy
 msgid "Hey, what’s your problem, Garrath? I thought we had a deal!"
-msgstr "嘿，你搞什么，加勒思？我还以为我们有约在先呢？"
+msgstr "嘿，你搞什么，加勒思？我还以为我们有约在先！"
 
 #. [message]: speaker=Garrath
 msgid "Yeah, well, I changed my mind."
 msgstr "啊，嗯，我改主意了。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "...I’m not entirely sure what just happened here, but I guess I should be "
 "grateful?"
 msgstr "……我不太确定刚发生了什么，不过我猜我应该心怀感恩？"
 
 #. [message]: speaker=Lionel
-#, fuzzy
 msgid ""
 "While it appears fortune favored us this time, I fear for the travelers for "
 "whom this man does <i>not</i> keep his word..."
 msgstr ""
 "虽说这次我们不走运，但到了这人<b>不</b>遵守承诺的时候，我可是为那些旅行者担心"
-"呢……"
+"啊……"
 
 #. [message]: speaker=Garrath
 msgid "It’s been a pleasure doing business with you... Bye!"
@@ -868,14 +864,12 @@ msgid "Well, at least we only have to deal with one of them now..."
 msgstr "还好，至少我们现在只需要应付其中一边了……"
 
 #. [message]: speaker=Garrath
-#, fuzzy
 msgid ""
 "Hey, that was one of <i>our</i> villages! Deal’s off; we’re no longer "
 "protecting you!"
-msgstr "嘿，那是<b>我们的</b>村庄！交易破裂，我们不会保护你们了！"
+msgstr "嘿，那是<b>我们的</b>村庄！交易破裂，我们不会继续保护你们了！"
 
 #. [message]: speaker=Harold
-#, fuzzy
 msgid "So... does that mean that <i>our</i> deal is back on now, Garrath?"
 msgstr "那么说……<b>我们的</b>交易现在能继续进行了么？"
 
@@ -884,7 +878,6 @@ msgid "Fine, I guess..."
 msgstr "我觉得行吧……"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Wait, I’m sorry! I didn’t realize you were so attached to that village! "
 "Please give me a chance to make it up to you!"
@@ -896,7 +889,6 @@ msgid ""
 msgstr "行，我想要是你多给点，那或许就能让我原谅你了……"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "I’m afraid I don’t have much gold left..."
 msgstr "恐怕我没剩下多少金币了……"
 
@@ -909,22 +901,18 @@ msgid "Well..."
 msgstr "唉……"
 
 #. [option]
-#, fuzzy
 msgid "Here’s 20 more gold."
-msgstr "再加20枚金币。"
+msgstr "再加20金币。"
 
 #. [message]: speaker=Garrath
-#, fuzzy
 msgid "Pleasure doing business with you! Just don’t let it happen again!"
-msgstr "很荣幸和您交易！下不为例！"
+msgstr "很荣幸和您做生意！下不为例！"
 
 #. [message]: speaker=Harold
-#, fuzzy
 msgid "Sheesh, Garrath, won’t you make up your mind already?!"
 msgstr "哎哟喂，加勒思，你到底决定了没有？！"
 
 #. [option]
-#, fuzzy
 msgid "Nope, I’m not giving you any more gold."
 msgstr "不，我不会再给你金币了。"
 
@@ -939,14 +927,12 @@ msgid ""
 msgstr "嘿！你又占领了我的另一个村庄！我还以为我已经提醒过你别这么干了！"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Sorry! It’s a hard habit to break! Perhaps I can pay you again to make up "
 "for it?"
 msgstr "抱歉！积习难改！或许我可以再付你点钱？"
 
 #. [message]: speaker=Garrath
-#, fuzzy
 msgid "Nope, I’m through with your games! Men, attack!"
 msgstr "不必了，我已经受够了！伙计们，进攻！"
 
@@ -961,18 +947,16 @@ msgid "Stop stealing my villages!"
 msgstr "别再偷走我的村庄了！"
 
 #. [message]: speaker=Garrath
-#, fuzzy
 msgid ""
 "Hm, it looks like you don’t have any gold left. We’re not interested in you "
 "anymore; bye!"
-msgstr "嗯，看起来你已经没有金币了。我们对你没兴趣了。再见啦！"
+msgstr "嗯，看来你已经没有金币了。我们对你没兴趣了。再见啦！"
 
 #. [message]: speaker=Harold
 msgid "What a fickle one, that Garrath..."
 msgstr "真是薄情啊，那个加勒思……"
 
 #. [message]: speaker=Harold
-#, fuzzy
 msgid ""
 "I’ll be taking back that money that your men “borrowed” from me now, Garrath!"
 msgstr "我现在要把你的人“借走”的钱拿回来了，加勒思！"
@@ -1017,18 +1001,16 @@ msgid "Survive until daybreak"
 msgstr "存活到破晓"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Defeat remaining enemy units"
-msgstr "打败所有敌人首领"
+msgstr "击败剩下的敌方单位"
 
 #. [message]: speaker=unit
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
 msgstr "这块石头里散发着邪恶，但我无力破坏。"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Destroy the stones and defeat all enemies"
-msgstr "摧毁石碑"
+msgstr "摧毁石头并击败所有敌人"
 
 #. [note]
 msgid "Mages and Paladins are capable of destroying the stones"
@@ -1173,12 +1155,10 @@ msgid "I trust no humans! Drive them out, my children!"
 msgstr "我不信人类！孩子们，赶他们出去！"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "I am defeated... My children, hear my last words! Destroy the humans, and "
 "never let them set foot on our island again!"
-msgstr ""
-"我被打败了……孩子们：听我最后说几句！干掉人类，不要再让他们踏足我们的沙洲！"
+msgstr "我败了……孩子们，听我最后说几句！摧毁人类，不要再让他们踏足我们的岛屿！"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -1187,36 +1167,34 @@ msgid ""
 msgstr "没希望了！如果我执行任务，却要伤害这些高贵的生物，那我没法继续了。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Ur-Thorodor, listen to me! We are not here to take your island. If you will "
 "let me remain here, then I promise you, on behalf of King Garard, that no "
 "Wesnothian will set foot on your island without your permission again. As a "
 "token of good faith, I command my army to return to the mainland."
 msgstr ""
-"乌-索罗多，听我说！我们不会占领你们的小岛。如果你可以仅把我留在这里，我就可以"
-"代表伽拉德国王保证，再也不会有韦诺人不经你允许登上沙洲了。为表诚意，我命令军"
-"队返回陆地。"
+"乌-索罗多，请听我说！我们不是来占领你们的小岛的。如果您允许我留下来，那我可以"
+"代表伽拉德国王保证，再也不会有韦诺人不经您允许就上岛了。为表诚意，我在此命令"
+"军队返回大陆。"
 
 #. [message]: speaker=Lionel
 msgid "Are you sure that’s wise?"
 msgstr "你认为这是明智的吗？"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "It’s the only way! Lionel, lead our soldiers back to the mainland. I will "
 "rejoin you when I have carried out my mission and determined what is amiss "
 "in the world of the dead."
 msgstr ""
-"只能这样了！莱昂内尔，把士兵带回陆地。完成任务以后我会找到你们的，并找出冥界"
-"到底出了什么事。"
+"只能这样了！莱昂内尔，把士兵带回大陆。完成任务并找出冥界到底出了什么事之后，"
+"我会回你们那儿去的。"
 
 #. [message]: speaker=Ur-Thorodor
 msgid ""
 "I see I had misjudged you, human. You are not like those who came before. I "
 "accept your offer!"
-msgstr "人类，我误会你了。你不像以前来的那些。我答应你的要求！"
+msgstr "人类，我误会你了。你并不像以前来的那些人。我答应你的请求！"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1278,20 +1256,19 @@ msgid ""
 "abuse one of the hated human mages, was to strike Delfador with his "
 "gauntleted fist."
 msgstr ""
-"这是改变世界命运的一个时刻。兽族战士掌握着许多可能，他不费吹灰之力就可以砍下"
+"这是改变世界命运的时刻之一。兽族战士掌握着许多可能，他不费吹灰之力就可以砍下"
 "德法多的项上人头。倘若如此，韦诺就会被兽人蹂躏、统治多年。但这个兽人却觉得这"
 "是难得的机会去侮辱一个可恶的人类法师，于是就用戴了长手套的拳头打了德法多一"
 "拳。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The blow interrupted Delfador’s meditation. He began to topple over to the "
 "ground; but before his head reached it, he vanished as though he had never "
 "been there at all."
 msgstr ""
-"这一拳中断了德法多的冥想。他开始倒地，在他的头触地前，他消失了，仿佛从来没出"
-"现过。"
+"这一拳中断了德法多的冥想。他倒将下去，但在头触地前，他便消失了，仿佛从来没存"
+"在于此一般。"
 
 #. [objective]: condition=win
 msgid "Explore the Land of the Dead"
@@ -1316,13 +1293,12 @@ msgid ""
 msgstr "德法多张开了他的眼睛，明白自己已经<b>独自在黑暗里</b>了。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "This is surely the Land of the Dead... and it seems I am still alive. But "
 "then, as Leollyn warned, I can never return! I suppose I may as well explore."
 msgstr ""
-"这里确实是冥界……好像我还活着。但这样，就像利欧林警告的，我回不去了！我想我也"
-"该查探一下。"
+"这里确实是冥界……好像我还活着。但这么说来，就像利欧林警告的，我回不去了！我想"
+"不如干脆去探索一下好了。"
 
 #. [event]
 msgid "Rorthin"
@@ -1376,15 +1352,14 @@ msgid "Penella"
 msgstr "佩内利亚"
 
 #. [message]: speaker=Penella
-#, fuzzy
 msgid ""
 "Do not fear me, Delfador. It is my doom to appear as you see me. I was a "
 "serf of a cruel lord. He demanded great taxes to fight many wars... then "
 "plague came... my family was starving, and we were forced to eat the flesh "
 "of those who had died."
 msgstr ""
-"德法多，别怕我。我出现在你面前真是不幸。我曾是一位残暴领主手下的农奴。他为了"
-"打仗，征收重税……然后瘟疫来了……家人忍饥受饿，只能被迫吃死人的肉。"
+"德法多，别怕我。我注定会以你看到的这副模样出现。我曾是一名残暴领主手下的农"
+"奴。他连年征战，征收重税……然后瘟疫来了……家人忍饥受饿，只能被迫吃死人的肉。"
 
 #. [scenario]: id=09_Houses_of_the_Dead
 msgid "Roddry"
@@ -1547,10 +1522,9 @@ msgstr ""
 "中，直至世界毁灭。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "I am only a man, a living man seeking a way home from the Land of the Dead."
-msgstr "我只是个人，一个在鬼灵室寻找归路的活人。"
+msgstr "我只是个人，一个在冥界寻找归路的活人。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1575,8 +1549,8 @@ msgid ""
 "the Mirror of Evanescent Time that a living man would come here to be "
 "tested. AND I AM THE TEST!"
 msgstr ""
-"数不清多少年前，元古的预言。安-乌斯鲁哈尔大师——我只是他最微小的影子和碎片——在"
-"消逝时间之镜中预见到，有个活人会来这里接受考验。<big>而我就是考验！</big>"
+"那是数不清多少年前，元古的预言。安-乌斯鲁哈尔大师——我只是他最微小的影子和碎片"
+"——在消逝时间之镜中预见到，有个活人会来这里接受考验。<big>而我就是考验！</big>"
 
 #. [message]: speaker=Delfador
 #. "coil" is an archaism. In the English of around 1600, it was
@@ -1585,7 +1559,7 @@ msgstr ""
 msgid ""
 "I have felt the coils of prophecy on me before. I am beginning to dislike "
 "them."
-msgstr "我曾经感到预言会缠住我。我开始讨厌预言了。"
+msgstr "我曾经感到过预言的纠缠。我开始讨厌预言了。"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -1625,8 +1599,8 @@ msgid ""
 "true matter of the world is deeper. Delfador, I ask you a third time, and on "
 "your answer hangs your life: ARE YOU A SERVANT OF THE LIGHT?"
 msgstr ""
-"在永恒的无情注视下，人民会消失，国土会枯萎；世界的本原更深刻。德法多，我第三"
-"遍问你，你的回答关系着你的命运：<big>你是否效忠于光明？</big>"
+"在永恒的无情注视下，人民会消失，国土会枯萎。世界的本源是更为深刻之物。德法"
+"多，我第三遍问你，你的回答关系着你的命运：<big>你是否效忠于光明？</big>"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -1794,7 +1768,6 @@ msgid "Er, hello... you know my name, then...?"
 msgstr "呃，您好……您知道我的名字，那……？"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid ""
 "Yes. I am Chantal, and I know many things. I know you come from the great "
 "human kingdom of the south and are a master of magic. You have faced great "
@@ -1802,20 +1775,20 @@ msgid ""
 "before have returned unchanged. Fate is heavy upon you, and you deserve our "
 "help."
 msgstr ""
-"嗯，我是香黛尔，我知道很多事情。我知道您来自南方人类的天朝大国，是位大法师。"
-"您曾经面对过重大灾难，曾经去过几乎没希望回来的地方，来自从前是虚无、早已不曾"
-"改变的地方。您的命运很沉重，所以您应该接受我们的帮助。"
+"嗯，我是香黛尔，我知道很多事情。我知道您来自南方伟大的人类国家，是位魔法大"
+"师。您曾经面对过强大的对手，曾经去过几乎没希望回来的地方，而在您之前，从那里"
+"回来的人，都被改变了。您的命运很沉重，所以您理应获得我们的帮助。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Oh... well... very nice of you, but I don’t feel very fated. In fact, I’ve "
 "been positively blundering! I was just trying to defend my master Methor’s "
 "school against the orcs, and then I was tasked with finding the source of "
 "the undead activity... and now I have failed at both."
 msgstr ""
-"哦……好的……谢谢你们，但我觉得这不是命运的安排。事实上，我以前很浮躁！我只想在"
-"兽人面前，保护梅瑟大师的学校，然后找出亡灵入侵的源头……然后我都失败了。"
+"哦……好的……谢谢你们，但我觉得这不是命运的安排。事实上，我一直在犯蠢！我只想在"
+"兽人面前，保护梅瑟大师的学校，然后我接下了找出亡灵活动源头的任务……而现在我的"
+"两个任务都失败了。"
 
 #. [message]: speaker=Chantal
 msgid ""
@@ -1930,7 +1903,6 @@ msgid "Defeat all enemy leaders"
 msgstr "打败所有敌人首领"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid ""
 "This is the nearest human garrison, Delfador — the only place where the "
 "river can be crossed. Soon after the last King of Wesnoth began his reign, "
@@ -1938,8 +1910,8 @@ msgid ""
 "orcs have not been able to cross into Wesnoth over this part of the river "
 "since."
 msgstr ""
-"德法多，这里是人类最近的驻点了。只能从这里过河。自从这任韦诺国王统治开始，距"
-"这不远南边的帕辛就驻扎了大量军队。此后，兽人再也不敢从这里南下韦诺了。"
+"德法多，这里是人类最近的驻点了。只能从这里过河。自从上一任韦诺国王统治开始，"
+"他就在距这南边不远的帕辛驻扎了大量军队。此后，兽人再也不能从这里南下韦诺了。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -1963,13 +1935,12 @@ msgid "Be wary. Something does not feel right about that village..."
 msgstr "当心点儿。那村庄有些不对劲儿……"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "There’s something there in the mist!"
 msgstr "这雾里有什么东西！"
 
 #. [message]: speaker=Delfador
 msgid "One of Iliah-Malal’s creatures. So it has begun!"
-msgstr "一只伊利阿-玛拉尔的生物！它冲上来了！"
+msgstr "伊利阿-玛拉尔的生物之一。这么说入侵已经开始了！"
 
 #. [message]: speaker=unit
 msgid "Orcs!"
@@ -1980,7 +1951,6 @@ msgid "It seems there are orcs this far south after all. This is strange."
 msgstr "看来这么南的地方终究还是有兽人啊。奇怪。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "Prepare to fight them! We must keep the ford clear!"
 msgstr "准备与他们作战！我们必须保证这浅滩上没有兽人！"
 
@@ -1994,7 +1964,7 @@ msgid ""
 "with me is Chantal, a great lady of the Lintanir Elves. Quickly, I must "
 "speak with your commander; death treads upon our very heels."
 msgstr ""
-"我是德法多，韦诺内阁的法师，利欧林法师长的使者；跟着我的这个是香黛尔，一位林"
+"我是德法多，韦诺的宫廷法师，利欧林法师长的使者；跟着我的这个是香黛尔，一位林"
 "塔尼尔精灵的女大领主。快点，我要和你们的指挥官说话；死亡快要接踵而来了。"
 
 #. [message]: role=Commander
@@ -2012,16 +1982,15 @@ msgid ""
 "I have fought these before. Be of heart: impact weapons and magic can defeat "
 "them. Do I recall aright that there is a school of mages not far from here?"
 msgstr ""
-"我跟这些东西交过手。老实告诉你：冲击和魔法可以打败它们。如果我没记错的话，这"
-"附近应该有法师学校吧？"
+"我跟这些东西交过手。鼓起勇气。冲击武器和魔法可以打败它们。如果我没记错的话，"
+"这附近应该有法师学校吧？"
 
 #. [message]: role=Commander
-#, fuzzy
 msgid ""
 "Yes, close by the southeast wall of our fort across the ford. But they are "
 "jealous of their privileges and hold aloof from us."
 msgstr ""
-"是啊，就在浅滩尽头，我们要塞的东南墙角下。但是他们总是自命清高，与我们保持疏"
+"是啊，就在浅滩对面，我们要塞的东南墙角下。但是他们总是自命清高，与我们很疏"
 "远。"
 
 #. [message]: speaker=Delfador
@@ -2029,50 +1998,49 @@ msgid ""
 "That shall soon end. Send to them in my name and the Arch-Mage Leollyn’s; "
 "nay, tell them that in this matter I speak with the King’s voice!"
 msgstr ""
-"很快不会这样了。以我和法师长利欧林的名义请他们出来；实在不行，就告诉他们我是"
-"奉国王圣旨来的！"
+"很快就不会这样了。以我和大法师利欧林的名义给他们送信。不，就告诉他们在这件事"
+"上，我是奉国王圣旨来的！"
 
 #. [message]: role=Commander
 msgid "I heed the King’s voice. My men are at your command."
-msgstr "我注意到了国王的旨意。我的人现在听从您的指挥。"
+msgstr "谨遵圣旨。我的人现在听从您的指挥。"
 
 #. [message]: speaker=narrator
 msgid "To wake up the mages, move a unit near their tower."
-msgstr "为了叫醒法师，移动一个单位至他们的塔旁。"
+msgstr "为了叫醒法师，请移动一个单位至他们的塔旁。"
 
 #. [message]: role=Teacher
 msgid "What are you doing here, disturbing our peace and concentration?"
-msgstr "你们来做甚？打搅我们的和平与专注吗？"
+msgstr "你们来做什么？来打搅我们的平静和专注吗？"
 
 #. [message]: speaker=unit
 msgid "Undead are attacking the fort on the north shore. We need your help!"
-msgstr "亡灵正在进攻北岸。请求援助！"
+msgstr "亡灵正在进攻北岸要塞。我们需要你们的援助！"
 
 #. [message]: role=Teacher
 msgid ""
 "I have told the commander of that garrison that we take orders from none "
 "other than the Chief Mage of the High Council, Master Leollyn!"
-msgstr ""
-"我告诉过驻军的指挥官，除了最高会议的首席法师——利欧林大师的部署，我谁也不服！"
+msgstr "我告诉过驻军的指挥官，我们只听从最高评议会首席法师——利欧林大师的命令！"
 
 #. [message]: speaker=unit
 msgid ""
 "Leollyn’s emissary, Delfador, requests your help. He bears Leollyn’s token, "
 "which is not lightly given."
-msgstr "利欧林的使者德法多，请求你们的帮助。他接受利欧林的重任而来。"
+msgstr ""
+"利欧林的使者德法多，请求你们的帮助。他带着利欧林的徽记，这不是能随便给人的。"
 
 #. [message]: role=Teacher
-#, fuzzy
 msgid "I recognize it. Very well; we shall join the battle."
-msgstr "明白了。好吧；我们应该加入战斗。"
+msgstr "我认得。好吧，我们将会参战。"
 
 #. [message]: speaker=unit
 msgid "What is going on here? This village has been burned to the ground!"
-msgstr "这里出什么事了？这座村庄被夷为平地！"
+msgstr "这里出什么事了？这座村庄被夷为平地了！"
 
 #. [message]: speaker=Chantal
 msgid "Maybe there are survivors? We should check."
-msgstr "可有人幸存吗？我们得找找。"
+msgstr "或许有幸存者？我们得找找。"
 
 #. [message]: speaker=unit
 msgid "Another village burned. Nobody to be seen!"
@@ -2341,22 +2309,20 @@ msgstr ""
 "高阶领主卡雷兹捎个信。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "My king does not command him... but if elves and humans do not stand "
 "together in this, I fear we will fall separately."
 msgstr ""
-"我的国王管不了他……但是我担心假如精灵和人类不能并肩作战，就会被逐个击破。"
+"我的国王无权指挥他……但我担心，假如精灵和人类不能并肩作战，就会被逐个击破。"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid ""
 "I do not doubt it. Go to your king, Delfador, and have faith in yourself; "
 "for I sense that you hold the fate of Wesnoth in your hands, and will need "
 "all the strength you have. I think we will meet again."
 msgstr ""
-"我不管了。德法多，回去找国王，要相信自己；依我看来，韦诺的未来掌握在你的手"
-"中，也需要你全力以赴。我们下次再见面。"
+"这是毫无疑问的。德法多，回去找你的国王，要相信自己。依我看来，韦诺的未来掌握"
+"在你的手中，也需要你全力以赴。我想我们会再见面的。"
 
 #. [message]: speaker=Delfador
 msgid ""
@@ -2366,23 +2332,21 @@ msgstr "这看来是没希望了。越来越多的敌人来了，但我们只有
 
 #. [scenario]: id=13_The_Return_of_Trouble
 msgid "The Return of Trouble"
-msgstr "烦恼回归"
+msgstr "麻烦回归"
 
 #. [part]
-#, fuzzy
 msgid ""
 "While Delfador was still at the Academy, major events were taking place "
 "throughout Wesnoth. After centuries of squabbling, a warlord emerged to "
 "unite the orcs. This was ill tidings for humans and elves alike."
 msgstr ""
 "德法多还在魔法学院的时候，韦诺发生了一些大事。经过长达几个世纪的混战，一个军"
-"阀出来把兽人统一了。这对于人类和精灵二者来说，真是坏消息。"
+"阀出来把兽人统一了。这对于人类和精灵来说，都是坏消息。"
 
 #. [part]
 #. "errantry" is an archaic English word associated with medieval
 #. knights. It means he wandered around looking for monsters to
 #. slay and wrongs to right.
-#, fuzzy
 msgid ""
 "There was an elf named Kalenz who had already, in Delfador’s time, been a "
 "legend among his people for centuries; his tale, <i>The Legend of Wesmere</"
@@ -2390,13 +2354,12 @@ msgid ""
 "potion, he put aside the High Lordship of the Elves after the death of his "
 "beloved wife, and wandered the Great Continent in errantry."
 msgstr ""
-"从前有一位叫做卡雷兹的精灵，算到德法多的年代，他在他的人民中已经是几个世纪的"
-"传奇了。他的故事，<b>韦弥尔传奇</b>，在精灵之地家喻户晓。他因服用了死灵术药水"
-"而变得长寿。在他亲爱的妻子死后，他丢开了精灵高阶领主的职位，在泰陆四方如游侠"
-"一般游荡。"
+"到德法多的时代时，有一位叫做卡雷兹的精灵，在他的人民中已经是好几个世纪的传奇"
+"了。他的故事，<b>韦弥尔传奇</b>，在精灵之地家喻户晓。他因服用了死灵术药水而变"
+"得长寿。在他亲爱的妻子死后，他丢开了精灵高阶领主的职位，在泰陆四方如游侠一般"
+"游荡。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "But Kalenz half-knew and half-feared he would be needed again, and the day "
 "he had long foreseen finally arrived. Reports came to him of large orcish "
@@ -2404,9 +2367,9 @@ msgid ""
 "Kalenz quickly gathered a small troop of handpicked guards. War had returned "
 "to the land of the elves."
 msgstr ""
-"但是卡雷兹隐约知道，又隐隐害怕人民会需要他，而这一天最终还是来了。战报传来，"
-"大批兽人军队开始进攻精灵森林的边界，甚至林塔尼尔。卡雷兹很快召集了一队卫兵。"
-"精灵领地上的战争又回来了。"
+"但是卡雷兹隐约知道，又隐隐害怕人民会再度需要他，而他所预见的这一天，终究还是"
+"到来了。战报传来，大批兽人军队开始进攻精灵森林的边界，甚至包括林塔尼尔本身。"
+"卡雷兹很快召集了一支精挑细选的卫队。战争回到了精灵的领地之上。"
 
 #. [side]
 msgid "Kalenz"
@@ -2433,11 +2396,12 @@ msgid "Death of Kalenz"
 msgstr "卡雷兹死亡"
 
 #. [message]: speaker=Tan-drul
-#, fuzzy
 msgid ""
 "Kill these filthy elves! Show all warlords the might of Zorlan! When they "
 "accept him as sovereign we will all be rewarded!"
-msgstr "干掉这些肮脏的精灵！所有的军阀必须服从我们的头子佐兰，他会赏赐你们的！"
+msgstr ""
+"干掉这些肮脏的精灵！给所有军阀看看，佐兰的伟力！当他们接受他的统治时，我们都"
+"会受到赏赐的！"
 
 #. [message]: speaker=Kalenz
 msgid "This is what we have been training for! Now we drive these beasts back!"
@@ -2447,17 +2411,17 @@ msgstr "这就是我们辛苦训练的目的！把这些畜生打回去！"
 msgid ""
 "The orcs are retreating! And... what is this? A shyde flying towards us as "
 "if hell were on her heels..."
-msgstr "兽人在撤退！然后……这是怎么回事？一位仙子火急火燎地飞来……"
+msgstr "兽人在撤退！以及……这是怎么回事？一位风仙子火急火燎地飞来……"
 
 #. [message]: speaker=Kalenz
 msgid ""
 "The orcs are retreating! And... what is this? A druid running to meet us as "
 "though hell were on her heels..."
-msgstr "兽人在撤退！然后……这是怎么回事？一位德鲁伊火急火燎地飞驰而来……"
+msgstr "兽人在撤退！以及……这是怎么回事？一位德鲁伊火急火燎地飞驰而来……"
 
 #. [message]: speaker=Chantal
 msgid "My lord Kalenz, at last I have found you!"
-msgstr "伟大的领主卡雷兹，我可算找到您了！"
+msgstr "卡雷兹阁下，我可算找到您了！"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -2469,17 +2433,16 @@ msgstr "香黛尔！乖孙女！你来这里干吗呀？你没被攻击吧？真
 msgid ""
 "We were, but the enemy was vanquished. There are much more serious matters "
 "that require your attention."
-msgstr "我们被攻击了，然后我们打败了敌人。现在有更多更严重的问题要你注意。"
+msgstr "我们被攻击了，但我们打败了敌人。现在有更严重的问题需要您的关注。"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid ""
 "A paramount chief of all the orcs has arisen, and he is setting a trap for "
 "the humans at the Ford of Abez. I think we must aid the humans, lest we be "
 "defeated separately once they are crushed."
 msgstr ""
-"兽人的大酋长在兽人中崛起，他在为雅碧滩的人类设下陷阱。我想我们有必要帮助人"
-"类，免得下次兽人进攻时被各个击破。"
+"一名全体兽人的至高酋长已经崛起，他正在雅碧滩对人类设陷阱。我想我们必须帮助人"
+"类，不然一旦人类败战，就该轮到我们被单独击败了。"
 
 #. [message]: speaker=Chantal
 msgid ""
@@ -2512,26 +2475,25 @@ msgid ""
 "to her daughters and granddaughters. She thought it wise to share the least "
 "dangerous secrets of the Book."
 msgstr ""
+"不。圣水的制备方式是科柳迪阁下传授给女儿和孙女们的。她认为分享书中最不危险的"
+"秘密，是明智的。"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid ""
 "Returning to present matters, I believe I have found the one we have been "
 "awaiting ever since Lady Cleodil accepted guardianship of the Book. You know "
 "of what I speak."
 msgstr ""
-"没看。但科柳迪奶奶告诉了她的女儿们书中最安全的秘密，我就从妈妈那得知了。我想"
-"现在我已经找到了那位，自从科柳迪奶奶保护这本书的时候起，我们就在等待的人选。"
-"你懂我的意思。"
+"还是来说现在的事情吧。那位自从科柳迪阁下担任这本书的守护者起，我们就在等待的"
+"人，我相信我已经找到了。您懂我的意思。"
 
 #. [message]: speaker=Kalenz
 msgid ""
 "I never thought to see such a human, not even in all the years I have lived. "
 "Who is this person?"
-msgstr "我从未想过，在我有生之年能见到这样的人类。他是谁？"
+msgstr "我活了这么多年，还从未想过能见到这样的人类。他是谁？"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid ""
 "Delfador, a mage trusted of their king. He has survived a passage through "
 "the Land of the Dead not merely alive but uncorrupted. He helped us defeat "
@@ -2539,9 +2501,9 @@ msgid ""
 "Parthyn Ford. I have come north partly because I am thinking to fetch the "
 "Book of Crelanu so I can take it to him."
 msgstr ""
-"德法多，一位深受他们国王信任的人。他从通向冥界的路中逃生，而且没有堕落。他帮"
-"助我们打败了进犯林塔尼尔的兽人，我还和他在帕辛滩迎击亡灵。我来北方的一部分原"
-"因，是来拿克雷拉努之书给他的。"
+"德法多，一位深受他们国王信任的人。他走过了冥界，不但从那里逃生，而且没有堕"
+"落。他帮助我们击败了进犯林塔尼尔的兽人，我还和他在帕辛滩迎击亡灵。我来北方的"
+"一部分原因，便是我正在考虑拿克雷拉努之书给他。"
 
 #. [message]: speaker=Kalenz
 msgid "He is uncorrupted? You are sure of this?"
@@ -2549,7 +2511,7 @@ msgstr "他没堕落？你确定？"
 
 #. [message]: speaker=Chantal
 msgid "I have bent my healing senses upon him. I am as sure as I can be."
-msgstr "我已经用我治愈感来考察他了。我肯定。"
+msgstr "我已经用治愈感触来考察他了。我非常确定。"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -2625,7 +2587,6 @@ msgid "Rkrin"
 msgstr "日格林"
 
 #. [message]: role=enemy_speaker
-#, fuzzy
 msgid "We have reinforcements!"
 msgstr "我们还有援兵！"
 
@@ -2654,18 +2615,16 @@ msgid "Dert"
 msgstr "德尔"
 
 #. [message]: role=enemy_speaker
-#, fuzzy
 msgid "And now even more reinforcements!"
-msgstr "现在还有更多！"
+msgstr "现在还有更多援兵！"
 
 #. [message]: speaker=Delfador
 msgid "Foul creatures, it is time for your final rest!"
-msgstr "丑陋的家伙，这是你们最后的宁静了！"
+msgstr "丑陋的怪物，你们是时候去死了！"
 
 #. [message]: speaker=Chantal
-#, fuzzy
 msgid "That is Delfador. Do you see now?"
-msgstr "他是德法多，看见了吧？"
+msgstr "那就是德法多。您现在看到了吧？"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -2673,8 +2632,8 @@ msgid ""
 "well, granddaughter; he is indeed the one to whom the Book of Crelanu should "
 "pass."
 msgstr ""
-"看见了。他就像照进我眼中的炽烈火光。孙女，你找的人不错；他是克雷拉努之书的可"
-"靠继承人。"
+"我看到了。在我的心眼看来，他就像炽烈的火焰。孙女，你的眼光不错。他确实是应该"
+"接手克雷拉努之书的人。"
 
 #. [message]: speaker=Chantal
 msgid "If I were human, I think I would be in love with him."
@@ -2694,9 +2653,8 @@ msgid "I hope the Book does not destroy him."
 msgstr "我希望这书不会毁了他。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid "You speak my thoughts, granddaughter. May it be so."
-msgstr "你把我想说的说出来了，孙女。但愿如此吧。"
+msgstr "你把我想说的说出来了，孙女。但愿如此。"
 
 #. [event]
 msgid "Krumful"
@@ -2707,23 +2665,22 @@ msgid "Unhul"
 msgstr "温霍"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "I have arrived too late for the entertainment, it would seem."
-msgstr "貌似我错过了一场好事。"
+msgstr "看起来我错过了一场好事。"
 
 #. [message]: speaker=Kalenz
 msgid ""
 "Well met, Delfador. Chantal has told me of you. I am Kalenz, High Lord of "
 "the Elves, and we are in your debt today."
 msgstr ""
-"德法多，久闻大名。香黛尔跟我说了关于你的事。我是卡雷兹，精灵的高阶领主，我们"
-"今天欠你一个人情。"
+"德法多，久闻大名。香黛尔跟我说了关于你的事。我是卡雷兹，精灵高阶领主，我们今"
+"天欠你一个人情。"
 
 #. [message]: speaker=Delfador
 msgid ""
 "It is my honor to meet you. And it relieves my mind to know Chantal is safe "
 "and with her kin again."
-msgstr "很荣幸见到你。这也让我不再为香黛尔能否安全见到亲人而担心了。"
+msgstr "很荣幸见到您。这也让我不再为香黛尔能否安全见到亲人而担心了。"
 
 #. [message]: speaker=Chantal
 msgid ""
@@ -2788,17 +2745,15 @@ msgid ""
 "Elves! I heard you have been looking for me! But you will save neither the "
 "human prince, nor yourselves."
 msgstr ""
-"精灵！我早就听说你们在找我了！但你们既不会救下人类的王子，也不会拯救你们自"
-"己。"
+"精灵！我早就听说你们在找我了！但你们既救不了人类的王子，也救不了你们自己。"
 
 #. [message]: speaker=Kalenz
 msgid "We must destroy this warlord now, before his power grows any greater!"
-msgstr "我们必须在他变得更强大之前，干掉他！"
+msgstr "我们必须在这个军阀变得更强大之前干掉他！"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "Agreed, but we must make haste, for the King is hard-pressed."
-msgstr "同意，我们必须加快，国王坚持不了多久了。"
+msgstr "同意，我们必须赶快，国王坚持不了多久了。"
 
 #. [message]: speaker=Garard II
 msgid ""
@@ -2823,7 +2778,6 @@ msgid "For the King!"
 msgstr "为国王而战！"
 
 #. [message]: speaker=Zorlan
-#, fuzzy
 msgid "Argh! It can’t be, beaten by these swine!"
 msgstr "啊！不可能，我怎么会被这些贱种打败！"
 
@@ -2832,20 +2786,19 @@ msgid "Victory!"
 msgstr "胜利了！"
 
 #. [message]: speaker=Garard II
-#, fuzzy
 msgid ""
 "Delfador! And you, elvish friends! The Kingdom of Wesnoth is in your debt "
 "today!"
-msgstr "德法多！还有你们，精灵朋友！韦诺王国感谢你们的恩情！"
+msgstr "德法多！还有你们，精灵朋友！韦诺王国欠你们一个人情！"
 
 #. [message]: speaker=Delfador
 msgid "My King, this is Kalenz, High Lord of the Elves."
-msgstr "陛下，这位是卡雷兹，精灵的高阶领主。"
+msgstr "陛下，这位是卡雷兹，精灵高阶领主。"
 
 # court怎样翻译为妙？
 #. [message]: speaker=Garard II
 msgid "You will be forever welcome in the court of Wesnoth."
-msgstr "我们韦诺内阁永远欢迎您。"
+msgstr "韦诺王庭永远欢迎您。"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -2853,61 +2806,54 @@ msgid ""
 msgstr "我们期待与你们共同作战，打败残余的敌人。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Your Majesty, we have more urgent matters. Leollyn sent me on a mission to "
 "find out why the dead are restless. A foul necromancer has opened a portal "
 "to the Land of the Dead. It must be closed at all costs, and I am afraid my "
 "skills may be insufficient for that task."
 msgstr ""
-"陛下，我们还有更紧急的问题。利欧林命我寻找亡灵躁动的原因。有个可恶的巫师打开"
-"了通向冥界的传送门。我们必须付出一切代价关上它，我也担心以我绵薄之力不能胜"
-"任。"
+"陛下，我们还有更紧急的问题。利欧林命我寻找亡灵躁动的原因。有个可恶的死灵术师"
+"打开了通向冥界的传送门。必须不惜代价关上它，我担心以我绵薄之力不能胜任。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "Delfador, our weapons are weak against the undead, but perhaps we have other "
 "help to give you. Centuries ago, the great mage Crelanu entrusted to us a "
 "book of lore and perilous secrets that took him his entire life to gather."
 msgstr ""
-"德法多，我们的武器没法对付亡灵，但我们可能给你一些其他的帮助。数百年前伟大的"
-"法师克雷拉努交给我们一本法书，这本书蕴含着智慧，克雷拉努毕其一生寻找的强大的"
-"知识和危险的秘密。"
+"德法多，我们的武器对亡灵没多少效果，但我们能给你一些其他的帮助。数百年前伟大"
+"的法师克雷拉努交给我们一本法书，这本书蕴含着克雷拉努毕其一生所搜集到的知识和"
+"危险的秘密。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "Crelanu charged us with guarding this book until someone worthy of it should "
 "arrive. We believe you are the one, Delfador. The book may help you find a "
 "way to close the portal."
 msgstr ""
-"克雷拉努叮嘱我们保护这本书直至配得上它的人出现。德法多，我们相信您是这样的一"
-"个人。这本书或许可以告诉你关闭传送门的方法。"
+"克雷拉努叮嘱我们保护这本书，直至能配得上它的人出现。德法多，我们相信你正是此"
+"人。这本书或许可以帮助你找到关闭传送门的方法。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Friends, your words do me greater honor than I perhaps deserve. I am not "
 "sure I am worthy of this charge."
 msgstr "朋友们，你们或许过分地赞美我了。我不确定是否能接受这个重任。"
 
 #. [message]: speaker=Kalenz
-#, fuzzy
 msgid ""
 "You may have some doubts, but Chantal and I are sure of your quality. But be "
 "warned: there is a curse on this book. Crelanu fairly warned us that his "
 "arts would bring much woe down upon us. And so it proved, though at the time "
 "we had no other choice. The victories you win with it may cost you as dearly."
 msgstr ""
-"我和香黛尔相信你的品德。但是小心：这本书里有一条诅咒。克雷拉努多次警告我们他"
-"的作品将会为我们带来巨大的灾难。事实也证明了这些，然而我们当时别无选择。你利"
-"用它得到的胜利将会带来惨痛的代价。"
+"你或许有些自我怀疑，但我和香黛尔确信你的品德。但请小心，这本书里有一条诅咒。"
+"克雷拉努警告过我们，他的技艺将为我们带来巨大的灾难。事实也证明了这一说法，然"
+"而当时我们别无选择。你利用它得到的胜利，也可能带来同样惨痛的代价。"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid "Curse or no, we must close the portal soon, or else we are all doomed."
-msgstr "不论有没有诅咒，我们都要尽快关闭那扇传送门，不然我们都会被毁灭的。"
+msgstr "不论有没有诅咒，我们都要尽快关闭那扇传送门，不然我们都会毁灭的。"
 
 #. [message]: speaker=Kalenz
 msgid ""
@@ -2931,24 +2877,22 @@ msgid ""
 "Then here it is, Delfador. May it help you bring a swift end to the undead "
 "menace. And may it cost you less than it has cost us..."
 msgstr ""
-"德法多，给你法书。愿这本书帮您迅速消灭亡灵的威胁。也但愿这本书让您付出的代价"
-"比我们付出的少……"
+"德法多，给你法书。愿这本书帮你迅速消灭亡灵的威胁。也愿这本书让你付出的代价比"
+"我们付出的少……"
 
 #. [message]: speaker=Delfador
-#, fuzzy
 msgid ""
 "Thank you, friends. May we meet again in happier times. Now I must make "
 "haste, for I need to study the book and prepare for battle with the undead."
 msgstr ""
-"朋友们，谢谢。希望我们以后能在更欢乐的时光相聚。现在我得开始了，我必须学习这"
-"本书以便更好地与亡灵作战。"
+"朋友们，谢谢。希望我们以后能在更欢乐的时刻相聚。现在我得赶快了，我必须研习这"
+"本书，准备与亡灵作战。"
 
 #. [scenario]: id=16_Dark_Sky_Over_Weldyn
 msgid "Dark Sky Over Weldyn"
 msgstr "帝都阴云"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Kalenz, Chantal, and their troops departed to ride against the remnants of "
 "the orcish Great Horde. Delfador returned to Weldyn with the King and his "
@@ -2957,10 +2901,10 @@ msgid ""
 "with Lionel who was arriving with reinforcements, and were deeply saddened "
 "to learn that Leollyn had died under very suspicious circumstances."
 msgstr ""
-"卡雷兹和香黛尔的部队去对付兽人大军的残余势力，德法多带着精灵的礼物克雷拉努之"
-"书，随国王返回维尔帝。可是，尽管取得了胜利，然而德法多深深地为亡灵带来的威胁"
-"而担心。在返回的路上，他们遇到了带来援军的莱昂内尔将军，也悲伤地得知利欧林死"
-"了，而且情况非常可疑。"
+"卡雷兹、香黛尔以及他们的部队离开了。他们驱马前行，去对付兽人大部落的残余势"
+"力。德法多带着精灵的礼物克雷拉努之书，随国王返回维尔帝。可是，尽管取得了胜"
+"利，然而德法多深深地为亡灵带来的威胁而担心。在返回的路上，他们遇到了带来援军"
+"的莱昂内尔，也悲伤地得知利欧林死了，而且情况非常可疑。"
 
 #. [part]
 msgid "Garard II"
