@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-28 16:01+0800\n"
+"PO-Revision-Date: 2022-01-30 12:48+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -111,7 +111,7 @@ msgstr "轻剑"
 #. [unit_type]: id=SotA Walking Corpse_Rat
 #. [unit_type]: id=Walking Corpse, race=undead
 msgid "Walking Corpse"
-msgstr "行尸"
+msgstr "陆行僵尸"
 
 #. [unit_type]: id=Walking Corpse Shynal, race=undead
 #. [unit_type]: id=Walking Corpse, race=undead
@@ -120,8 +120,9 @@ msgid ""
 "Though not especially dangerous to a trained soldier, the sight of one’s "
 "former comrades amongst their number is frightening to say the least."
 msgstr ""
-"行尸是在黑魔法下重新活动起来的死者的躯壳。虽然它们对受过训练的士兵而言不算是"
-"很大的威胁，但若看到原来的同志变成行尸的一员，至少说也是非常恐怖的事情。"
+"陆行僵尸是在黑魔法下重新活动起来的死者的躯壳。虽然它们对受过训练的士兵而言不"
+"算是很大的威胁，但若看到原来的同志变成陆行僵尸的一员，至少说也是非常恐怖的事"
+"情。"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
