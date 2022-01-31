@@ -1,6 +1,8 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2019 Wesnoth development team
+# Copyright (C) 2005-2022 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Translators and the years when they first participated:
 # wind <everywherewind@gmail.com>, 2010.
 # CloudiDust <cloudidust@gmail.com>, 2011.
 #
@@ -9,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2022-01-30 18:49+0800\n"
+"PO-Revision-Date: 2022-01-31 17:58+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -364,7 +366,7 @@ msgstr "无知是恐惧的根源。"
 msgid ""
 "A monolith of pale stone, luminous and bright, but cold and brittle to the "
 "touch."
-msgstr "一块苍白的石碑，发出明亮的光，但触感冰冷，似乎易碎。"
+msgstr "一块苍白石碑，发出明亮的光，但触感冰冷，似乎易碎。"
 
 #. [unit]: type=Soulless
 msgid "Sushi"
@@ -2098,7 +2100,7 @@ msgstr "逃往西北"
 
 #. [message]: speaker=narrator
 msgid "A monolith of dark stone, shadowed panes reflecting distorted images."
-msgstr "一块黯黑石碑，笼罩着阴影的表面反射着扭曲的图像。"
+msgstr "一块暗色石碑，笼罩着阴影的表面反射着扭曲的图像。"
 
 #. [message]: speaker=DroganGhoul
 #. This is just some guttural sound that a ghoul might make since it can't actually talk
@@ -2169,7 +2171,7 @@ msgid ""
 "Blasted Academy."
 msgstr ""
 "神明啊，怎么会这样？我自己的妹妹决心要亲自杀掉我。我被从帕辛放逐了，那是我的"
-"郊乡，我的家园……我被同胞唾弃了，而我为了他们，放弃了一切……那个胖蛤蟆泽夫林，"
+"郊乡，我的家园……我被同胞唾弃了，而我为了他们，放弃了一切……那个胖蛤蟆泽弗林，"
 "那个恋兽人癖，自从我和他发生争执并对他下诅咒以来，就没有发生过好事。我只是在"
 "他身上测试新咒语罢了！这应该只是简单的诅咒罢了！我怎么会知道这会杀了他？该死"
 "的学院。"
@@ -2675,7 +2677,7 @@ msgstr "真花哨，但我现在可不需要新斗篷。"
 #. [message]: id=Darken Volk
 #. The speaker addresses an undead minion.
 msgid "The book! Guard it with your unlife while I come to fetch it."
-msgstr "那本书！用你虚假的命保护好它，我就来取。"
+msgstr "那本书！用你的伪命保护好它，我就来取。"
 
 #. [message]: id=Darken Volk
 #. The speaker addresses a human or a bat.
@@ -2749,7 +2751,6 @@ msgstr ""
 "转身沿着漆黑的隧道走去，暂时躲开了追踪。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Silence permeates the darkness, broken only by the irregular dripping of "
 "water from the musty cave walls. Malin looks toward Darken Volk "
@@ -2758,18 +2759,17 @@ msgid ""
 "gratitude — only a sense of unease that has as much to do with the book as "
 "it does with Darken Volk."
 msgstr ""
-"寂静弥漫在黑暗中，只有从霉质的洞穴墙壁上不规则地滴水打破。马林偶尔朝\"黑暗"
-"\"沃尔克望去，期待老巫师们有所作为，但却遇到了冰冷的冷静。没有确认...没有感激"
-"之情——只有一种不安感，它与这本书和《黑暗Volk》一样。"
+"寂静弥漫在黑暗中，只余下洞穴种发霉的墙壁上不时滴下的水声。马林偶尔会朝达肯·沃"
+"克望去，期待老死灵法师会说些什么，但他的回应如磐石一般冰冷。没有得到承认，也"
+"没有听到感谢之词——只有一种不安的感觉，一半来自那本书，另一半来自达肯·沃克。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "They continue walking through the damp, cold air all through the morning and "
 "day, finally emerging as the last rays of sunlight sink below the horizon."
 msgstr ""
-"他们在寒冷而潮湿的空气终继续走着，从早晨一直走到中午，直到太阳的最后的一束光"
-"沉下地平线时，他们终于走出了隧道。"
+"他们在寒冷而潮湿的空气中继续走着，从早晨一直走到中午，再直到太阳的最后一束光"
+"沉下地平线时，他们终于走出了地道。"
 
 #. [side]
 msgid "Wesnothians"
@@ -2780,18 +2780,14 @@ msgid "Take the book back from Darken Volk"
 msgstr "从达肯·沃克手里拿回书"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Well, we got your precious book and made it out of Tath in one piece. What "
 "do we do now?"
-msgstr ""
-"好了，我们逃出来了。我们拿到了你的宝贝书。总之，书里有什么？还有，我们现在该"
-"做什么？"
+msgstr "好了，我们拿到了您的宝贝书，还完好无损地逃出了塔斯。我们现在做什么？"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid "‘We’? <i>We</i> do nothing."
-msgstr "‘我们’？<b>我们</b>什么也不干。你不再是我的学徒了。"
+msgstr "“我们”？<b>我们</b>什么都不做。"
 
 #. [message]: speaker=Darken Volk
 msgid "Now give the book to me."
@@ -2808,7 +2804,7 @@ msgstr "现在你走你的阳关道，我过我的独木桥。"
 
 #. [message]: speaker=Malin Keshar
 msgid "You can’t just leave me here!"
-msgstr "你不能就这样离我而去！"
+msgstr "您不能就这样把我留在这儿！"
 
 #. [message]: role=advisor
 msgid "Master, do you not see? He has merely been using you to get that book!"
@@ -2819,69 +2815,57 @@ msgid "What do you mean?"
 msgstr "你什么意思？"
 
 #. [message]: role=advisor
-#, fuzzy
 msgid ""
 "He cares not about your noble quest to push back the orcs. He needed your "
 "help to fight the mages!"
-msgstr ""
-"他根本就不关心您击退兽人的高贵征程。他需要您的协助才能对付得了那些法师！那本"
-"书理所应当是您的！"
+msgstr "他根本就不关心您击退兽人的高贵征程。他只是需要您帮忙对付那些法师罢了！"
 
 #. [message]: speaker=Malin Keshar
 msgid "Wait!"
 msgstr "等等！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "You used me! You knew the people of Parthyn would cast me out — you knew I "
 "had nobody else to turn to! You knew I would do whatever you said..."
 msgstr ""
-"你利用了我！你知道帕廷的人会把我赶出去——你知道我没有人可以求助！你知道我会做"
-"任何你说的..."
+"你利用了我！你知道帕辛的人们会把我赶出去——你知道没有其他人会帮我！你知道你说"
+"什么我就会做什么……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "After all this time... I haven’t just been a pawn to you... have I?"
-msgstr "经过这么长时间的努力...我不只是你的一颗棋子......对吗？"
+msgstr "这么长时间以来……我应该不只是你的一颗棋子……对吗？"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Why don’t you say anything?! Don’t you care at all?!"
-msgstr "你为什么不说什么？！你根本不在乎吗？！"
+msgstr "你为什么不说点什么？！你根本不在乎吗？！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "... you can’t abandon me too, not the way they did... Father, Drogan, Dela..."
-msgstr "...你不能抛弃我，而不是他们的方式...父亲，德罗根，德拉..."
+msgstr "……你不能也抛弃我啊，像他们一样抛弃我……父亲，德罗根，德拉……"
 
 #. [message]: role=advisor
-#, fuzzy
 msgid ""
 "He will not help you, but perhaps the book might. You were the one who "
 "helped him retrieve it. It is rightfully yours!"
-msgstr "他不会帮你，但也许这本书可能。是你帮他找回的;这是理所当然的！"
+msgstr "他不会帮您的，但那本书也许会帮。是您帮他找回了书。它理所当然是您的！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Yes, I suppose that is right..."
-msgstr "是的，也许，我想那是对的..."
+msgstr "是的，我想你说得对……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Darken Volk! That book is as much mine as it is yours! Give it back, or I "
 "will take it by force!"
-msgstr ""
-"变暗沃尔克！那本书和你的一样属于我！把它还回去，否则我将不得不用武力拿走它！"
+msgstr "达肯·沃克！那本书是你的，但同样是我的！还回来，不然我只能靠武力抢了！"
 
 #. [message]: speaker=Darken Volk
 msgid "You are even more of a fool than I thought."
-msgstr "你甚至比我所想的还要愚蠢得多。"
+msgstr "你比我原以为的还更愚蠢。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "You let me believe Parthyn would accept me back, so when they didn’t, I "
 "would be willing to attack my own countrymen!"
@@ -2890,96 +2874,83 @@ msgstr ""
 "了！"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "What you let yourself believe is no fault of mine. I gave you more power "
 "than you could have possibly dreamed. Use it to fight the orcs that annoy "
 "you so, not me."
 msgstr ""
-"你自己愿意相信什么，可不是我的过错。停下你那愚蠢而孩子气的发言吧。我给予了你"
-"强大的力量，比你所梦想的还强大得多。用它来对付惹恼你的兽人，而不是对付我。"
+"是你自己愿意相信，那可不是我的错。我赋予了你强大的力量，比你所梦想的还强大得"
+"多。用它去对付惹恼你的兽人，而不是对付我。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "You took my home away from me. You took Drogan away. You turned my sister "
 "against me! You have ruined my life!"
 msgstr ""
-"这么说这是真的了！你从我手里夺走了我的家园，夺走了德罗甘。现在我失去了那一"
-"切，至少，我会守住自己的劳动果实。"
+"你从我手里夺走了我的家园，夺走了德罗甘。你害得我妹妹和我反目成仇！你毁掉了我"
+"的人生！"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "The only thing I have done is given you the power to achieve your own goals. "
 "The rest, you have done yourself."
 msgstr ""
-"我所做的唯一一件事就是赋予你实现自己目标的能力。其余的，你已经做了自己。"
+"我所做的唯一一件事，便是赋予了你实现目标的力量。其余的，都是你自作自受。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "That’s not true! You can’t abandon me like this!"
 msgstr "那不是真的！你不能这样抛弃我！"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "Fighting the orcs is your ambition, not mine. You cannot expect me to help "
 "you in an endeavor that does not concern me at all."
 msgstr ""
-"够了，孩子与兽人战斗是你的野心，不是我的。你不能指望我帮助你，在一个与我无关"
-"的努力。"
+"对付兽人是你的追求，而不是我的。在我根本不关心的事情上，你不能指望我帮忙。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "The very same to you! I helped you retrieve that book! If you will not help "
 "me with my mission, I will at least keep the fruits of my labor."
 msgstr ""
-"这么说这是真的了！你从我手里夺走了我的家园，夺走了德罗甘。现在我失去了那一"
-"切，至少，我会守住自己的劳动果实。"
+"这话原样奉还！我帮你拿回了那本书！如果你不帮我完成我的使命，至少，我要守住自"
+"己的劳动果实。"
 
 #. [message]: speaker=Darken Volk
 msgid "Hardly. I will crush you easily."
 msgstr "这几乎不可能。我会轻易地碾死你。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Perhaps, but I have nothing left to lose..."
-msgstr "也许吧，但我已经没有任何可以失去的东西了。"
+msgstr "也许吧，但我已经没有什么可以失去的了……"
 
 #. [message]: speaker=Malin Keshar
 msgid "Now you shall pay for what you have done to me."
 msgstr "现在你将为你对我所做的一切付出代价。"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "Done? I have done nothing but give you an opportunity. What you choose to do "
 "with your life is not my business. Leave me alone!"
 msgstr ""
-"对你？我给了你一个机会，除此以外什么都没做。是你选择了自己的路。现在离我远"
-"点！"
+"对你？我给了你一个机会，除此之外什么都没做。你怎么走自己的人生道路，与我无"
+"关。离我远点！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "A monolith of dark stone, marred by cracks running throughout."
-msgstr "一块深色石头的巨石，被贯穿的裂缝所破坏。"
+msgstr "一块暗色石碑，损坏了，周身都是贯穿的裂缝。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "This lighthouse has been dark for quite some time. I wonder if I could "
 "relight it?"
-msgstr "这座灯塔已经黑了很久了。我想知道我是否可以重新点燃它？"
+msgstr "这座灯塔已经黑了很久了。我想知道是不是能重新点燃呢？"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "... no, that would be silly..."
-msgstr "...什么都没有..."
+msgstr "……不，这想法很蠢……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "He seems to be drinking the remains of the wine in the cargo hold."
 msgstr "他似乎在喝货舱里的残酒。"
 
@@ -2988,100 +2959,87 @@ msgid "Sir Cadaeus"
 msgstr "卡达艾乌斯爵士"
 
 #. [message]: speaker=Sir Cadaeus
-#, fuzzy
 msgid ""
 "Your travels in this region have not gone unnoticed, necromancers! The "
 "disaster you wreaked upon the good city of Tath and the noble Lady Karae can "
 "only be paid back in turn with your blood. Yes, on this day, you shall have "
 "to answer for your innumerable crimes."
 msgstr ""
-"你在这个地区的旅行并没有被忽视，巫师！你对塔斯和高贵的卡雷斯勋爵造成的灾难只"
-"能用你们的鲜血和灵魂来回报——不管他们留下什么。是的，在这一天，你必须为你无数"
-"的罪行负责。"
+"你们在这片地区的活动可没有逃脱我们的耳目，死灵法师们！你们对塔斯和高贵的卡拉"
+"艾女领主造成的灾难，只能用你们的鲜血来偿还。是的，今天，你们必将为你们无数的"
+"罪行负责。"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "Pompous words from an arrogant fool. We shall see how well you fare once I "
 "have finished this upstart."
 msgstr ""
-"等我干掉这个暴发户之后，就让我们来看看你在亡灵的刀下怎么用大话来保护自己吧。"
+"傲慢的蠢蛋，华而不实的话语。就让我们看看，等解决这个暴发户之后，你还能撑多久"
+"吧。"
 
 #. [message]: speaker=Dela Keshar
-#, fuzzy
 msgid ""
 "I finally found you, Malin! At last, you’ll pay fer what you’ve done to my "
 "people and my home. I won’t let you live ta see another sunset."
 msgstr ""
-"我告诉过你，马林，我会再次找到你的，而我遵守了诺言。我不会再忍受你让我的同胞"
-"遭受更多的伤害，所以，你不会活着看到下一次日出了。"
+"我终于找到你了，马林！你终于要为自己对我的同胞和家园所做的一切付出代价了。我"
+"不会让你活着看到下一次日出的。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "... I suppose you did vow to kill me..."
-msgstr "...我想你确实发誓要杀我..."
+msgstr "……我想你确实发过誓要杀我……"
 
 #. [message]: speaker=Dela Keshar
-#, fuzzy
 msgid ""
 "You didn’t think I’d keep my word? You thought I’d forgive you fer killing "
 "Drogan and tearing apart our town? You don’t know how badly I want ta kill "
 "ya, Malin."
 msgstr ""
-"你以为我不会遵守承诺？你以为我会原谅你杀死卓根，拆散我们的小镇？你不知道我有"
-"多想杀你，马林。"
+"你以为我不会信守誓言？你以为我会原谅你杀死德罗甘，原谅你拆散我们的小镇？你不"
+"知道我有多想杀你，马林。"
 
 #. [message]: speaker=Dela Keshar
-#, fuzzy
 msgid ""
 "Nothing to say this time? No quip ’bout how we don’t understand ya? No "
 "comment about yer moral superiority? I can only hope you’ll be so quiet when "
 "I kill you."
 msgstr ""
-"没有打趣我们怎么不理解你？对你的道德优越性没有评论？没什么可说的？我只能希望"
-"你这么安静，当我杀了你。"
+"这回怎么不说话了？怎么不讥讽我们不理解你？怎么不声称自己占据了道德高地？我只"
+"希望我杀掉你的时候，你也能这么安静。"
 
 #. [message]: speaker=Dela Keshar
-#, fuzzy
 msgid ""
 "Vile fiend... I regret that I was... not strong enough... to destroy you..."
-msgstr "邪恶恶魔...我很遗憾我...不够强大...摧毁你..."
+msgstr "卑鄙的魔鬼……我很遗憾我……不够强大……没能摧毁你……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "You brought this on yourself..."
-msgstr "你亲自带来了这个..."
+msgstr "这是你自找的……"
 
 #. [message]: speaker=Sir Cadaeus
-#, fuzzy
 msgid "For the Light I fall..."
-msgstr "为了我坠落的光..."
+msgstr "我为圣光而亡……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "See? This is what happens when you abandon me!"
-msgstr "看到？这就是当你抛弃我时发生的事情！"
+msgstr "看到了吗？你抛弃了我，就是这种下场！"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "Ungrateful wretch, this is how you repay me? Curse you, Malin the Damned!"
-msgstr "用我临终的这口气诅咒你，被诅咒的马林！"
+msgstr "忘恩负义的蛆虫，这就是你报答我的方式？诅咒你，该被诅咒的马林！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I have already been cursed many times over. One more time is nothing..."
-msgstr "我已经被诅咒过很多次了。再说一次什么都不是..."
+msgstr "我已经被诅咒过很多次了。再来一次又算得上什么……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Well, I suppose I should get that book off the battlefield."
-msgstr "现在我可以着手把那本书带出战场了！"
+msgstr "好吧，我想该把那本书带出战场了。"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Bring the book back to Malin’s camp"
-msgstr "把书带回马林的城堡"
+msgstr "把书带回马林的营地"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -3090,37 +3048,31 @@ msgid ""
 msgstr "将一个单位移动到书所在的地方以捡起它。蝙蝠和鬼魂不能携带书。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "A monolith of black stone, broken shards inexplicably held together by "
 "nothingness."
-msgstr "一块黑色石头的巨石，破碎的碎片被虚无的东西莫名其妙地固定在一起。"
+msgstr "一块黝黑石碑，那破碎的裂片，被虚无不可言说地连结在一起。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I have the book."
-msgstr "我拿到这本书。"
+msgstr "我拿到书了。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "My minions have captured the book."
-msgstr "我的小人已经抓住了这本书。"
+msgstr "我的仆从已经获得了书。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "I am sorry, master, but this book is too heavy for me."
-msgstr "对不起，主人，那对我而言太重了。"
+msgstr "对不起，主人，这本书对我而言太重了。"
 
 #. [message]: speaker=unit
 #. this is just a squeaking sound a bat might make
-#, fuzzy
 msgid "Neep! Neep!"
-msgstr "呢！呢！"
+msgstr "吱！吱！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "It’s impossible for a bat to carry a book that heavy."
-msgstr "蝙蝠不可能背着一本如此沉重的书。"
+msgstr "蝙蝠不可能携带一本如此沉重的书。"
 
 #. [unit]: type=Paladin, id=Telemon
 msgid "Telemon the Slayer"
@@ -3137,59 +3089,52 @@ msgid ""
 msgstr "他们的增援到了！我花了太多时间来拿书，现在我赢不了这场战斗了……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "The terrain is hazardous in these mountains. Neither the paladins nor Dela "
 "will be able to pursue me."
-msgstr "这些山的地形很危险。牧师和德拉都不能追我。"
+msgstr "这些山里的地形很凶险。圣骑士和德拉都不可能追赶我。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "... then again, is there a point? Even should I escape, then what? All that "
 "I have fought for, everyone who I have tried to protect, everything is gone "
 "to me."
 msgstr ""
-"...话又说回来，有道理吗？即使我应该逃跑，那又怎样？我为之奋斗的一切，所有我试"
-"图保护的人，一切都属于我。"
+"……话又说回来，这有什么意义呢？即使我成功逃跑了，那又怎样？我为之奋斗的一切，"
+"所有我试图保护的人，都已经不在了。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Life, death... unlife — at this point, I could accept any of them and "
 "nothing would change."
-msgstr "生命 死亡...在这一点上，我可以接受其中任何一个，没有什么会改变。"
+msgstr ""
+"生命、死亡……伪命——此时此刻，我可以接受其中任何一种，但什么都不会改变了。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "... but, I suppose giving up now would be a waste..."
-msgstr "...但是，我想现在放弃会是一种浪费..."
+msgstr "……我觉得要是现在放弃，挺浪费的……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "So, they are all dead. The paladin, Darken Volk, Dela..."
-msgstr "所以，他们都死了。帕拉丁，黑暗沃尔克，德拉..."
+msgstr "所以，他们都死了。那个圣骑士、达肯·沃克、德拉……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "All that I have fought for, everyone who I have tried to protect, everything "
 "is gone. Everyone is dead. Is this truly all that I am left with?"
 msgstr ""
-"我为之奋斗的一切，所有我试图保护的人，一切都消失了。每个人都死了这真的是剩下"
-"的一切吗？"
+"我为之奋斗的一切，所有我试图保护的人，都已经不在了。大家都死了。这真就是我剩"
+"下的全部了吗？"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "... nothing at all..."
-msgstr "...什么都没有..."
+msgstr "……什么都没有剩下……"
 
 #. [part]
 msgid "<i>“To become a lich, one must first die.”</i>"
 msgstr "<b>“欲成巫妖，身必先亡。”</b>"
 
 #. [part]
-#, fuzzy
 msgid ""
 "So reads the book that Malin has reclaimed. <i>“The spells of necromancy can "
 "free the spirit from the limitations of the flesh, but only once the soul "
@@ -3198,13 +3143,12 @@ msgid ""
 "same way he binds the spirits of others. Because he retains his own will, "
 "however, the lich can call upon the awesome powers of the spirit world.”</i>"
 msgstr ""
-"马林拿回的书上如是写道。<b>“死灵术之咒语能够禁锢灵魂，但只有当灵魂摆脱肉体束"
-"缚之后才行。要成为巫妖，法师必须用他濒死时的气息来念出必要的咒语。于是，他便"
-"能像死灵法师禁锢其他灵魂一样禁锢住他自己的灵魂。但因为他还保留着他自己的意"
-"志，所以，巫妖可以召唤灵界的可怕力量。”</b>"
+"马林拿回的书上如是写道。<b>“死灵术之咒语能够让灵魂从肉体的限制之中解放，但只"
+"有在灵魂脱离肉体之后才行。死灵法师必须用他濒死时的气息念出必要的咒语，之后再"
+"像禁锢其他灵魂一样征服他自己的灵魂。但因为他还保留着自己的意志，所以，巫妖可"
+"以召唤灵界让人敬畏的力量。”</b>"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Malin closes the book. After all this time and all that he has struggled "
 "for, could he just surrender to despair and perish? He has never been one to "
@@ -3213,25 +3157,23 @@ msgid ""
 "has offered him nothing; could death be any worse? Death... and not rebirth, "
 "but undeath."
 msgstr ""
-"马林合上书。经过所有这些时间，他一直为之奋斗，他能屈服于绝望和灭亡吗？他能..."
-"他会放弃吗？尽管如此，那些可怕的想法，仍然留在他的脑海。生活没有给他任何东西;"
-"死亡会更糟吗？死亡。。。而不是重生，而是没有死亡。"
+"马林合上书。经过这么长时间，想到他一直为之奋斗的一切，他能就这样向绝望和灭亡"
+"投降吗？他可不是个简简单单就放弃的人，但，还有什么值得他为之斗争的事物剩下"
+"呢？尽管如此，那些话语，那个可怕的念头，仍然留在了他的脑海深处。生命什么都没"
+"给他，那死亡还能更糟么？死亡……之后不是重生，而是伪死。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "With all of Wesnoth forbidden to him, Malin finds refuge in a secluded "
 "frontier village where few questions are asked. When word eventually filters "
 "to the town that Parthyn has been overrun by orcs, Malin rouses himself from "
 "his listless state without really knowing why, and heads northward."
 msgstr ""
-"这话语，这念头，牢牢地钉在他的脑中。由于整个韦诺都禁止他进入，马林找了一个无"
-"名的边境村庄作为避难所，在那里几乎没有人会对他有疑问。当帕辛被兽人蹂躏的消息"
-"传到村庄时，他的心中又重新燃起了憎恨。带着新仇，他召唤了自己的亡灵奴仆并赶向"
-"北方。"
+"由于整个韦诺都禁止马林进入，他便找了一个隐蔽的边境村庄来躲避，在那里几乎没有"
+"人会对他有疑问。当帕辛被兽人占领的消息终于传到这个村庄时，马林脱离了自己无精"
+"打采的状态，重又振奋起来。他并不知道这是为什么，只是向北走去。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Malin soon finds the track of an enormous orc army and follows them until he "
 "reaches their camps. As he sees the number of orcs, he begins to realize the "
@@ -3239,157 +3181,132 @@ msgid ""
 "different task than waging a truly meaningful war against them as a whole. "
 "Then again, perhaps he is beyond the point of ordinary reason."
 msgstr ""
-"马林很快便发现了一支大规模的兽人军队的踪迹，他一直追踪到了它们的营地。当看到"
-"这么大群的兽人时，他意识到了自己的任务是多么地艰巨。不论如何，他还是攻击了营"
-"地，但很快便被击退了，在撤退时又被兽人投掷的匕首严重刺伤。他找了个小山洞暂时"
-"避难。"
+"马林很快便发现了一支大规模的兽人军队的踪迹，他沿着踪迹前行，一路走到了它们的"
+"营地。当看到这么大群的兽人时，他意识到了自己的任务是徒劳的——骚扰一个兽人部"
+"族，和同全体兽人打一场真有效果的战争，是非常不同的。话说回来，也许他早就已经"
+"不在还能用普通的理智来思考的状态了。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "<i>There is nothing else left for me to do anyway,</i> Malin thinks, and "
 "raises his undead to assault the camp. Within mere minutes, nearly his "
 "entire army is destroyed and he is badly injured by a poisoned dagger. Malin "
 "retreats and finds refuge in a small cave."
 msgstr ""
-"<i>反正我什么也做</i>不了马林想，并提出了他的亡灵攻击营地。在短短几分钟内，他"
-"的整个军队几乎被摧毁，他被一把毒刀严重打伤。马林撤退，在一个小山洞里找到避难"
-"所。"
+"<b>反正也没什么我能做的事情了，</b>马林想，并唤起了他的亡灵去攻击营地。在短短"
+"几分钟内，他的整支军队便几乎全灭，而他则被一柄带毒匕首重伤。马林撤退进了一个"
+"小山洞里躲避。"
 
 #. [side]
-#, fuzzy
 msgid "teamname^Opposers"
-msgstr "球队名称^支持者"
+msgstr "压迫者"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Complete the ritual"
 msgstr "完成仪式"
 
 #. [note]
-#, fuzzy
 msgid ""
 "While Malin is standing on a runestone, he receives additional abilities"
-msgstr "当马林站在一块墓碑上时，他接受了额外的能力"
+msgstr "当马林站在符文石上时，他将获得额外的能力"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Cursed beasts!"
-msgstr "被诅咒的野兽！"
+msgstr "该死的野兽！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I won’t go down like this, felled by an orc’s blade!"
-msgstr "我不会就这样死掉的，死在兽人的剑下。我不会干看着他们击败我！"
+msgstr "我不会就这样死掉的，不会死于兽人的匕首！"
 
 #. [message]: role=advisor
 msgid "Master, you are gravely injured!"
 msgstr "主人，您的伤很严重！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "So it seems..."
-msgstr "看起来..."
+msgstr "看起来是这样……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Perhaps it would be a suitable end. The orcs were the ones who provoked this "
 "journey of mine. Would it not be fitting for them to end my quest as well?"
 msgstr ""
-"也许这将是一个合适的结局。兽人是挑起我的旅程的人。他们结束我的追求是否也不合"
-"适？"
+"也许这个结局很合适。是兽人促使我走上了我的旅程。那么让他们来结束这个旅程，不"
+"也挺合适吗？"
 
 #. [message]: role=advisor
-#, fuzzy
 msgid "There is another way, master. Remember the book!"
-msgstr "这有另一条路可走，主人。还记得那本书么……"
+msgstr "还有另一条路可走，主人。想想那本书！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Yes... yes. The book. That half-rotten, tattered tome which I gave my blood "
 "and soul for. I forsook my people, my family, my home... to follow that "
 "damned necromancer! And in the end, he betrayed me too, just like Drogan, "
 "just like Dela..."
 msgstr ""
-"是的。。。是的。书那半烂的，破烂的托米，我给了我我的血液和灵魂。我把我的人，"
-"我的家人，我的家...跟着那个该死的巫师！最后，他也背叛了我，就像德洛根一样，就"
-"像德拉一样..."
+"对啊……对啊。那本书。那本腐烂了一半的破书，那本我付出了鲜血和灵魂的代价才拿到"
+"的书。我抛弃了同胞、家人、家园……就为了跟着那个该死的死灵法师！最后，他也背叛"
+"了我，就像德罗甘一样，就像德拉一样……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Everyone has betrayed me. I am alone. All that is left..."
-msgstr "每个人都背叛了我我独自一人。剩下的一切..."
+msgstr "所有人都背叛了我。我孓然一身。剩下的只有……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Leave me while I prepare."
-msgstr "我开始准备了，现在离我远点。"
+msgstr "我要做准备了，离我远点。"
 
 #. [message]: role=advisor
 msgid "Yes, master."
 msgstr "遵命，主人。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "... I suppose I have never been one for regrets..."
-msgstr "...我想我从来没有后悔过..."
+msgstr "……我想我从来不是个会后悔的人……"
 
 #. [time]: id=limbo1
 #. [time]: id=limbo2
 #. [time]: id=limbo3
-#, fuzzy
 msgid "Limbo"
 msgstr "虚空幻境"
 
 #. [unit]: id=MKFlesh, type=Necrophage
-#, fuzzy
 msgid "Flesh of Malin Keshar"
-msgstr "马林·凯沙死亡"
+msgstr "马林·凯沙的肉体"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I feel... different. Where am I?"
-msgstr "我觉得...不同。我在哪里？"
+msgstr "我觉得……有什么不太一样。我在哪里？"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Why is my body still intact? Am I still alive? Or..."
-msgstr "为什么我的身体仍然完好无损？我还活着吗？或。。。"
+msgstr "为什么我的身体仍然完好无损？我还活着吗？还是说……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "... something isn’t quite right."
-msgstr "...事情不太对。"
+msgstr "……不太对劲。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "I see, accepting death was not enough. To become a lich, I must master it."
-msgstr "我明白，接受死亡是不够的。要成为一个巫妖，我必须掌握它。"
+msgstr "我明白了，接受死亡还不够。要成为巫妖，我必须掌控死亡。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "First comes the flesh, the physical form of life. Blood is the crux of life "
 "for mortal creatures, but if I wish to ascend beyond that..."
-msgstr ""
-"首先是肉体，生命的物理形式。血液是凡人生物生命的症结所在，但如果我想超越这一"
-"点..."
+msgstr "首先是肉体，生命的物理形式。血液是凡间生命的关键，但如果我要超越这些……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "The flesh dies, and then..."
-msgstr "肉死了 然后..."
+msgstr "肉体死亡，之后……"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "Drain the blood, strip away the meat, and all that is left is the bone."
-msgstr "排干血液，剥去肉，剩下的就是骨头。"
+msgstr "排干血，剥去肉，只剩下骨头。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "I remember a time when I thought skeletons were repulsive, sickening things. "
 "I suppose it’s only natural for the living to fear the most prominent figure "
@@ -3398,37 +3315,32 @@ msgid ""
 "friends, yes, but they were nothing but simpletons. If only they had tried "
 "to understand me instead of shunning me outright."
 msgstr ""
-"我记得有一次，我以为骷髅是令人厌恶的，令人作呕的东西。我想，活着的人害怕最杰"
-"出的死亡人物是很自然的。即使我成长于这种天真的想法...我想我不可能指望德洛根和"
-"德拉这么容易效仿。我的家人和朋友，是的，但他们只不过是个傻瓜。他们会试图理解"
-"我，而不是直接回避我。"
+"我记得，曾经我认为骷髅令人厌恶，让人作呕。我想，活物自然会害怕这代表死亡的最"
+"著名的形象。即使已经不再有这种天真的想法……但我还是觉得没法指望德罗甘和德拉很"
+"轻易就效仿我。他们确实是我的家人和朋友，但也只是群傻瓜而已。如果他们试着去理"
+"解我，而不是直接回避就好了。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I do not really regret following my own path that much."
-msgstr "我并不后悔走自己的路那么多。"
+msgstr "走上自己的道路，我并没有那么后悔。"
 
 #. [unit]: id=MKBone, type=Revenant
-#, fuzzy
 msgid "Bones of Malin Keshar"
-msgstr "马林·凯沙死亡"
+msgstr "马林·凯沙的骨头"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "The physical form collapses altogether. What remains?"
-msgstr "物理形式完全崩溃。还能做什么？"
+msgstr "物理形态完全崩溃了。那么剩下了什么？"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "The soul. Dela always said I was a creature without a soul. I suppose she "
 "was jesting at the time, but maybe not after I killed Drogan."
 msgstr ""
-"灵魂德拉总是说我是一个没有灵魂的生物。我想她当时在嘲笑，但也许不是在我杀了德"
-"罗根之后。"
+"灵魂。德拉总说我是个没有灵魂的生物。我想她当时只是在开玩笑，但也许，我杀掉德"
+"罗甘之后，那就不再是开玩笑了。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Bah! I don’t deserve this, and I certainly don’t answer to someone like her. "
 "I have only ever fought to protect my people and my family, but the only "
@@ -3437,89 +3349,78 @@ msgid ""
 "themselves to orcs than follow my ‘sorcerous ways’. Drogan, Dela... all of "
 "them! They are the ones without souls, not me!"
 msgstr ""
-"呸！两个可以玩这个游戏。我只曾经为保护我的人民和我的家人而奋斗过，但我得到的"
-"唯一回报是蔑视和流放。我自己的妹妹不会听我的。我的人宁愿养活自己的兽人，而不"
-"是遵循我的'巫术方式'。德罗根 德拉...所有的人！他们是没有灵魂的人，不是我！"
+"呸！我不该落得如此下场，我自也不必听她这样的人怎么说。我的战斗，都是为了保护"
+"同胞和家人，但我得到的唯一回报是蔑视和流放。因为我用自己的力量救下了小镇，我"
+"自己的妹妹就觉得我是个怪物。我的同胞宁愿被兽人吃掉，也不愿遵循我的“巫术之"
+"道”。德罗甘、德拉……所有人！他们才是没有灵魂的，而我不是！"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "I should not really care anymore. I don’t care anymore. According to them, I "
 "have forsaken my soul already. So what does it matter?"
-msgstr "我不再在乎了根据他们的说法，我已经抛弃了我的灵魂。那又有什么关系呢？"
+msgstr ""
+"我不该再在乎了。我不在乎了。按他们所说，我早已经抛弃了灵魂。那么还有什么关系"
+"呢？"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I should not regret anything. I’m not really one for regrets..."
-msgstr "我不应该后悔任何事情。我不是一个后悔的人..."
+msgstr "我不应该有哪怕一点点后悔。我不是个会后悔的人。"
 
 #. [unit]: id=MKSpirit, type=Spectre
-#, fuzzy
 msgid "Soul of Malin Keshar"
-msgstr "马林·凯沙死亡"
+msgstr "马林·凯沙的灵魂"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "These thralls contain only a meager amount of energy, but enough to sustain "
 "me."
-msgstr "这些毛套只含有少量的能量，但足以维持我。"
+msgstr "这些奴仆只有一点儿能量，但足以维持我的活动了。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "The flesh appears, distorted and warped, but somehow strangely familiar."
-msgstr "肉出现，扭曲和扭曲，但不知何故奇怪的熟悉。"
+msgstr "血肉出现了，扭曲而反常，但不知何故，有种奇异的熟悉感。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "I feel an aching in my bones, as if they are crumbling inside me."
-msgstr "我感到骨头疼痛，好像我的关节即将破裂。"
+msgstr "我感到骨头很疼，就好像它们在我体内碎裂。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid ""
 "Cold... it’s so very cold. Not a biting chill, but a numbness, an emptiness "
 "that eats at me from within..."
 msgstr ""
-"冷。。。太冷了不是刺骨的寒意，而是麻木，空虚，仿佛我内心什么都没有留下..."
+"冷……真是冷。不是刺骨的寒意，而是麻木和空虚，从体内散发出来，似要把我吞噬……"
 
 #. [leadership]: id=conscience
-#, fuzzy
 msgid "conscience"
-msgstr "良心"
+msgstr "良知"
 
 #. [leadership]: id=conscience
-#, fuzzy
 msgid "This unit has its damage increased by 50%"
-msgstr "此装置的损坏增加了 50%"
+msgstr "此单位获得50%伤害加成"
 
 #. [resistance]: id=carapace
-#, fuzzy
 msgid "carapace"
 msgstr "甲壳"
 
 #. [resistance]: id=carapace
-#, fuzzy
 msgid "This unit gains 40% to all resistances."
-msgstr "此单位获得 40% 的所有阻力。"
+msgstr "此单位获得40%全部种类的抗性加成。"
 
 #. [regenerate]: id=lifeblood
-#, fuzzy
 msgid "lifeblood"
 msgstr "命脉"
 
 #. [regenerate]: id=lifeblood
-#, fuzzy
 msgid ""
 "This unit will heal 40 HP every turn. If it is poisoned, it will remove the "
 "poison instead of healing."
-msgstr "此装置将治愈 40 HP 每回合。如果它被毒害，它会去除毒药，而不是愈合。"
+msgstr "此单位每回合回复40点生命值。如果中了毒，则会疗毒而不是回复生命值。"
 
 #. [message]: speaker=Malin Keshar
-#, fuzzy
 msgid "These runes seem to be useful."
-msgstr "这些运行似乎是有用的。"
+msgstr "这些符文好像有用。"
 
 #. [message]: speaker=narrator
 msgid "There is darkness..."
@@ -3534,16 +3435,14 @@ msgid "for a moment."
 msgstr "与平静。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Then, they are replaced by a pulling, a pain too strong to resist, and "
 "then..."
-msgstr "然后，这平静被拉扯，被无法忍受的极端痛苦所替代，而后……"
+msgstr "而后，这平静变为了拉扯，变为了无法忍受的极端痛苦，再之后……"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "... by emptiness."
-msgstr "一切化为虚无。"
+msgstr "……化为虚无。"
 
 #. [modify_side]
 #. [unit]: type=Lich, id=Fake Mal Keshar
@@ -3557,19 +3456,17 @@ msgstr "<big>啊啊啊啊啊！！</big>"
 
 #. [message]: speaker=Mal Keshar
 msgid "The cold, it burns!"
-msgstr "这寒冷，在燃烧着！"
+msgstr "这寒冷，刺骨难熬！"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "I need warmth... life..."
-msgstr "我需要温暖……生命……我感到这里就有！ "
+msgstr "我需要温暖……生命……"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "I sense some primitive life in that direction. Perhaps I can sustain myself "
 "upon them."
-msgstr "我感觉到一些原始的生活在这个方向。也许我可以支撑自己。"
+msgstr "我感到在那个方向上有些简单的生命体。也许我可以靠它们维持自己的活动。"
 
 #. [objective]: condition=win
 msgid "Regain your strength"
@@ -3581,183 +3478,154 @@ msgid "Destruction of Mal Keshar"
 msgstr "玛尔·凯沙毁灭"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "<s><i>Welcome to Zephryn’s laboratory. Please be mindful of ongoing "
 "experiments during your visit.</i></s>\n"
 "<big><i><b>This territory is the domain of the mighty Xanthric. All "
 "unwelcome intruders shall die.</b></i></big>"
 msgstr ""
-"<s><i>欢迎来到泽弗林的实验室请在访问期间注意正在进行的实验。</i></s>\n"
-"<big><i><b>这片土地是强大的桑斯里克的领地。所有不受欢迎的入侵者都要死。</b></"
+"<s><b>欢迎来到泽弗林的实验室。在访问期间，请留心进行中的实验。</b></s>\n"
+"<big><i><b>这片土地是强大的桑斯里克的领地。所有不受欢迎的入侵者都得死。</b></"
 "i></big>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "That mage’s name is suspiciously... familiar."
-msgstr "那个师子的名字很可疑...熟悉。"
+msgstr "那个法师的名字有些眼熟……可疑。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "A monolith of black stone, a fractured surface shrouded by darkened shadow."
-msgstr "一块黑色石头的巨石，断裂的表面被黑暗的阴影所笼罩。"
+msgstr "一块黝黑石碑，断裂的表面被黑暗阴影所笼罩。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Why are these bats chasing me?"
-msgstr "那些是什么东西？"
+msgstr "这些蝙蝠为什么要追我？"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Blasted rats!"
-msgstr "爆炸的老鼠！"
+msgstr "该死的老鼠！"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "Dela used to be afraid of spiders. Imagine if she saw something like this..."
-msgstr "德拉过去害怕蜘蛛。想象一下，如果我给她看这样的东西..."
+msgstr "德拉曾经很害怕蜘蛛。想象一下，如果我给她看这样的东西……"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "For a moment, I was a little worried there. To have come so far and "
 "conquered death... only to be slain by an oversized arachnid! What a tale "
 "that would be."
 msgstr ""
-"有一瞬间，我有点担心。走了这么远的路，征服了死亡......却被一只超大的蛛形纲动"
-"物杀死了！这将是一个怎样的故事？这将是一个怎样的故事。"
+"有一瞬间，我有点担心。我做到了这么多，还征服了死亡......却被一只大过头的蛛形"
+"纲动物给杀了！这真会是个好故事啊。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "What an unusual bat."
-msgstr "多么不寻常的蝙蝠"
+msgstr "真是只不同寻常的蝙蝠。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Yes! I can draw energy from even these insignificant creatures."
-msgstr "对！我可以从这些微不足道的生物身上吸取能量。"
+msgstr "很好！就算是从这些微不足道的生物身上，我也能吸取能量。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You found some gold!"
-msgstr "你找到一些金子了！"
+msgstr "你找到了一些金币！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You picked up a brazier!"
-msgstr "你捡到了一个巴西人！"
+msgstr "你捡起了一个火盆！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You picked up an empty flask."
-msgstr "你拿起一个空烧瓶"
+msgstr "你拿起了一个空烧瓶。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You should do something else first."
 msgstr "你应该先做点别的事情。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You melted the ice."
-msgstr "你融化了冰"
+msgstr "你融化了冰。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You filled the flask."
-msgstr "你装满了烧瓶"
+msgstr "你装满了烧瓶。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You picked up the flask of water."
-msgstr "你捡起水瓶。"
+msgstr "你捡起了装水的烧瓶。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You created a new potion!"
-msgstr "你创造了一个新的药水！"
+msgstr "你创造了新的药剂！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Mal Keshar drinks the potion and feels energy flow through his skeletal "
 "form. The power of death surges in his vacant body, threatening to overflow, "
 "to burst free, but at the last moment, he reins it in. The stream of magic "
 "trickles down to drops, diminished, tempered, but manageable."
 msgstr ""
-"马尔·凯沙尔喝药水，感觉能量通过他的骨骼形式流动。死亡的力量在他空虚的躯体中涌"
-"出，威胁着溢出，爆发出来，但在最后一刻，他却把它托了过来。魔法流滴到下降，减"
-"少，缓和，但可管理。"
+"玛尔·凯沙喝下了药剂，感到能量流过他的枯骨之躯。死亡之力从他空虚的躯体中涌出，"
+"就快要满溢，要爆发。但在最后一刻，他把这力量束缚在了体内。魔法的涌流缩为了水"
+"滴，它变弱了，驯服了，能被控制了。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "<i>Dark water beneath crystal ice,\n"
 "Unmasked by a lick of flame,\n"
 "Transmuted by the altar of darkness\n"
 "Into pitch black shadow.</i>"
 msgstr ""
-"<i>水晶冰下的暗水\n"
-"被一舔火焰蒙住，\n"
-"被黑暗的祭坛所转变\n"
-"进入俯仰黑影。</i>"
+"<b>冰晶之下的暗水，\n"
+"因一点火焰而显现，\n"
+"用黑暗祭坛来点化，\n"
+"变为漆黑的阴影。</b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Someone left their experiment unfinished here."
-msgstr "有人把他们的实验留在这里了。"
+msgstr "有人没完成实验就离开了。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You picked up a key!"
-msgstr "你拿了一把钥匙！"
+msgstr "你捡起了一把钥匙！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You found a skeleton."
-msgstr "你找到骷髅了"
+msgstr "你找到了一具骷髅。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "There are some robe scraps stuck to this skeleton. This must have once been "
 "a mage."
-msgstr "有一些长袍碎片粘在这个骨架上。这一定是个师。"
+msgstr "有一些长袍碎片粘在这骷髅上。这一定曾是个法师。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You picked up a brazier."
-msgstr "你捡到了一个巴西人"
+msgstr "你捡到了一个火盆。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You opened the coffin."
-msgstr "你打开了棺材"
+msgstr "你打开了棺材。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You placed the skeleton in the coffin."
-msgstr "你把骷髅放在棺材里"
+msgstr "你把骷髅放进棺材里。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "You cremated the bones!"
 msgstr "你火化了骨头！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Ash swirls upward, charred remnants of the once living. Charcoal from bone, "
 "embers from flesh, he consumes the pallid cinders, siphoning away the energy "
 "with a draining touch."
 msgstr ""
-"灰烬向上盘旋，烧焦的残余曾经活着。木炭从骨头，余烬从肉，他消耗苍白的烧渣，吸"
-"走能量与排水触摸。"
+"曾是活人的焦黑残骸，化作飞灰，盘旋而起。骨化烬，肉为炭，他触碰苍白的余灰，吸"
+"走了能量。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "<i>Bones, scattered carelessly onto the floor,\n"
 "Remains laid without rest,\n"
@@ -3766,248 +3634,213 @@ msgid ""
 "Then, the key is found and the lid opened,\n"
 "And the tongue of fire begets ashen repose.</i>"
 msgstr ""
-"<i>骨头，不小心散落在地板上，\n"
-"没有休息的遗物，\n"
-"住在他们的棺材外面，锁起来，\n"
-"在永恒的觉醒中。\n"
-"然后，找到钥匙，盖子打开，\n"
-"火的舌头让阿申休息。</i>"
+"<b>骨头，散落在地，\n"
+"遗体，不得安息。\n"
+"锁在棺材外，\n"
+"永不能休憩。\n"
+"而后，钥匙寻得，盖子开启，\n"
+"火舌赐予它，苍白的长眠。</b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "This place seems familiar."
-msgstr "这个地方似乎很熟悉。"
+msgstr "这个地方似乎挺眼熟。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "The blood is drained and the flesh is stripped. The bone remains, waiting to "
 "be reanimated. A necromancer’s most basic weapon is that, the puppet body of "
 "a skeleton."
 msgstr ""
-"血液被吸干，肉体被剥去。骨头仍然存在，等待被重新激活。死灵法师最基本的武器就"
-"是这个，骷髅的傀儡身体。"
+"血已吸干，肉已剥去。只留下骨头，等待着苏生。死灵法师最基本的武器便是，骷髅，"
+"一具傀儡身躯。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "... but that is not what I am looking at, is it? This is... <i>my</i> face. "
 "This is what I have become..."
 msgstr ""
-"...但这不是我在看的东西，是吗？这是......<i>我的</i>脸。这就是我变成的样子..."
+"……但我看着的并不是简单的骷髅，不是吗？这是……<b>我的</b>脸。这就是我已然变成的"
+"样子……"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid "A skeleton, yourself."
-msgstr "你自己也是一副骨架。"
+msgstr "你自己，也是一具骷髅。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "A skeleton — a puppet for Darken Volk’s manipulation, yes."
-msgstr "一个骷髅--一个供达克-沃尔克操纵的傀儡，是的。"
+msgstr "一具骷髅——一具供达肯·沃克操纵的傀儡，没错。"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid "A puppet of your own machinations."
-msgstr "是你自己阴谋的傀儡。"
+msgstr "是你自己的奸计所操纵的傀儡。"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid ""
 "From the outset, deep down, you knew. If you followed this path, they would "
 "never accept you. Yet, you manipulated yourself into believing the opposite. "
 "You could not face the truth."
 msgstr ""
-"从一开始，在内心深处，你就知道。如果你走这条路，他们将永远不会接受你。然而，"
-"你操纵自己去相信相反的事情。你无法面对事实。"
+"从一开始，在内心深处，你便已然明知。若是走上这条路，他们便永远不会接受你。然"
+"而，你糊弄了自己，让自己相信会发生相反的事情。你不敢面对事实。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "But I was right. My logic was sound. My reasoning was flawless. They should "
 "have accepted me..."
-msgstr "但我是对的。我的逻辑是正确的。我的推理是无懈可击的。他们应该接受我..."
+msgstr "但我是对的。我的逻辑很正确。我的推理无懈可击。他们本应该接受我的……"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid ""
 "A puppet shackled by the limitations of your own feelings. No matter its "
 "faultlessness, logic could not have displaced the reality of your world. A "
 "culture of preconception supplanting even the instinct for survival."
 msgstr ""
-"一个被你自己的感觉的限制所束缚的木偶。不管它是否有错，逻辑不可能取代你世界的"
-"现实。一种先入为主的文化甚至取代了生存的本能。"
+"你是被自己的情感所束缚的傀儡。不论是不是无懈可击，逻辑不可能取代世界的真实。"
+"那先入为主的文化，甚至排挤掉了生存的本能。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Enough of this."
-msgstr "听起来够简洁的。"
+msgstr "够了。"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid ""
 "This is what you have become. A decaying soul chained within the puppet form "
 "of a skeleton."
-msgstr "这就是你已经成为的东西。一个腐烂的灵魂被锁在骷髅的木偶形式中。"
+msgstr "这就是你所变成的样子。被束缚在骷髅傀儡躯体之中的腐烂灵魂。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "A rotten soul? I was never concerned with such things to begin with. When "
 "you are slain by orcs and decompose into nothing but a maggot-eaten carcass, "
 "no ‘soul’ is going to be of any use."
 msgstr ""
-"一个腐朽的灵魂？我从一开始就不关心这种事情。当你被兽人杀死后，除了被蛆虫吃掉"
-"的尸体外，什么'灵魂'都不会有任何作用。"
+"腐烂灵魂？我从一开始就不关心这种事情。当你被兽人杀掉，只剩下被蛆虫吃干净的骨"
+"架时，什么“灵魂”都帮不上忙。"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid "Better to sacrifice the spirit and live, than to die with dignity?"
-msgstr "牺牲精神而活着，比有尊严地死去更好？"
+msgstr "你宁愿献祭灵魂而活，也不愿带着尊严去死？"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "Dignity in death is a notion contrived of by fools. It is an assertion of "
 "lies, told by humans to comfort themselves in the face of an immutable "
 "force. But not I. By sacrificing my soul, I have conquered death and will "
 "live on past all those who tried to destroy me."
 msgstr ""
-"死亡的尊严是一个由傻子提出的概念。它是一个谎言的断言，是人类在面对不可改变的"
-"力量时为了安慰自己而说的。但我不是。通过牺牲我的灵魂，我已经战胜了死亡，并将"
-"活过所有试图毁灭我的人。"
+"带着尊严去死，是傻子提出的概念。是谎言，人类在面对永恒之力时为了安慰自己而说"
+"的谎言。但我不会这么说。献祭我的灵魂之后，我已然征服了死亡，并将比所有试图毁"
+"灭我的人活得都更长久。"
 
 #. [message]: speaker=Fake Mal Keshar
-#, fuzzy
 msgid ""
 "For what purpose? You will persist on, bitter and alone, until the end of "
 "time?"
-msgstr "为了什么目的？你会坚持下去，痛苦而孤独，直到时间的尽头？"
+msgstr "为了什么呢？你要坚持下去，痛苦而孤独地坚持下去，直到时间的尽头？"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "I regret nothing."
-msgstr "我不后悔。"
+msgstr "我心无悔。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "I sense the lair of something powerful nearby. Capturing that castle may be "
 "a worthwhile endeavor, but I shall have to approach carefully."
 msgstr ""
-"我感觉到附近有强大的东西的巢穴。占领那座城堡可能是一项值得的努力，但我必须小"
-"心对待。"
+"我感觉到附近有强大之物的巢穴。或许值得去占领那座城堡，但我必须小心处理。"
 
 #. [unit]: id=Xanthric, type=Fire Dragon
 #. [unit]: id=Xanthric, type=Skeletal Dragon
-#, fuzzy
 msgid "Xanthric"
-msgstr "桑思里奇"
+msgstr "桑斯里克"
 
 #. [message]: speaker=Xanthric
-#, fuzzy
 msgid ""
 "<i><big>What manner of vile creature intrudes upon my domain?!</big></i>"
-msgstr "<i><big>什么卑鄙的生物侵入我的领域？！</big></i>"
+msgstr "<b><big>是什么卑鄙的生物胆敢侵入我的领地？！</big></b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "<i>I suppose there is some irony in this.</i>"
-msgstr "<i>我想这有一些讽刺意味。</i>"
+msgstr "<small>我觉得这有点讽刺。</small>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "I was not aware that dragons still existed. This was most unexpected. "
 "Nevertheless, this shall be a worthwhile test of my new powers."
-msgstr ""
-"我不知道龙仍然存在。这是最出乎意料的。然而，这将是对我新权力的一次值得考验。"
+msgstr "我没想到龙仍然存在。真出乎意料。不过，值得用它来试一下我的新力量。"
 
 #. [message]: speaker=Xanthric
-#, fuzzy
 msgid ""
 "<i><big>A derelict corpse like you has no business challenging a dragon! "
 "Even my lowly elementals will be more than a match for you. Rise, my thralls!"
 "</big></i>"
 msgstr ""
-"<i><big>像你这样的废弃尸体没有生意挑战龙！甚至我的低级元素也会比得上你。站起"
-"来，我的宝贝！</big></i>"
+"<b><big>像你这样的破烂死尸没资格挑战龙！哪怕我的低级元素兵也足以对付你了。起"
+"身，我的仆从！</big></b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "Fire magic. Annoying, but you are not the only one who can summon minions to "
 "your aid."
-msgstr "火魔法令人讨厌，但你并不是唯一能召唤小人来协助的人。"
+msgstr "火焰魔法。烦人。但可以召唤仆从来帮忙的，可并不只有你一个。"
 
 #. [message]: speaker=Xanthric
-#, fuzzy
 msgid ""
 "<i><big>A few decrepit souls will do you no good, necromancer. Your bones "
 "shall soon join my garden of carcasses!</big></i>"
 msgstr ""
-"<i><big>一些破旧的灵魂对你毫无关系，巫师。你的骨头很快就会加入我的尸骨花园！"
-"</big></i>"
+"<b><big>几个老旧的灵魂可帮不了你，死灵法师。你的骨头很快就会陈列在我的尸骨花"
+"园里了！</big></i>"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Defeat Xanthric"
-msgstr "击败另一名愚蠢的英雄"
+msgstr "击败桑斯里克"
 
 #. [note]
-#, fuzzy
 msgid "At most one rune may be activated each turn"
-msgstr "每圈最多可激活一个 rune"
+msgstr "每回合最多可以激活一个符文"
 
 #. [message]: speaker=Xanthric
-#, fuzzy
 msgid ""
 "<i><big>How dare you?! That stone is <b>my</b> throne! I am the king of this "
 "domain!</big></i>"
 msgstr ""
-"<i><big>你怎么敢？！那块石头<b>是我的</b>宝座！我是这个领域的国王！</big></i>"
+"<b><big>你怎么敢？！那块石头是<b>我</b>的宝座！我是这片领地的王！</big></b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "Peasant, warrior, king, and emperor, all living things are the subjects of "
 "death. Eternity will claim your soul as its own if I do not."
 msgstr ""
-"农民、战士、国王或皇帝，所有生物都是死亡的主体。如果我不这样做，永恒将声称你"
-"的灵魂是它自己的。"
+"不论是农民、战士、国王还是皇帝，所有活着的，都会死。如果我不把你的灵魂据为己"
+"有，那么永恒的时间会这么干的。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "There are many corpses around here. I can put them to use."
-msgstr "这附近有很多尸体。我可以利用它们来发挥我的优势。"
+msgstr "这附近有很多尸体。我可以把它们利用起来。"
 
 #. [message]: speaker=Xanthric
-#, fuzzy
 msgid "How could this happen..."
-msgstr "怎么会这样..."
+msgstr "怎么会这样……"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "You were not as powerful as you thought."
-msgstr "你甚至比我所想的还要愚蠢得多。"
+msgstr "你可没你自己以为的那么强大。"
 
 #. [message]: speaker=Xanthric
-#, fuzzy
 msgid "<i>It’s... so... cold...</i>"
-msgstr "<i>我觉得...所以。。。冷。。。</i>"
+msgstr "<b>好……冷……</b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "So, the beast dies. I will have to make a few modifications to this lair "
 "later. First, I shall have to test the extent to which I can push these new "
 "powers."
 msgstr ""
-"所以，野兽死了。我以后必须对这个巢穴做一些修改。首先，我必须测试我在多大程度"
-"上可以推动这些新权力。"
+"于是，野兽死了。之后我得对这个巢穴做些改造。不过首先，我得测试一下新力量的极"
+"限在哪里。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "Excellent! My will is even strong enough to conquer a dragon. None can stand "
 "against me any longer! To those who cursed me prior, I spit at thee! For I "
@@ -4015,76 +3848,69 @@ msgid ""
 "I laugh, for now, you are all naught but remains and dust, and I live on, "
 "alone..."
 msgstr ""
-"非常好！我的意志甚至足以征服一条龙。再也没有人可以反对我了！对那些以前诅咒我"
-"的人：我随你而去！因为我是马尔·凯沙尔的诅咒，被所有的人抛弃，被所有活着和吸气"
-"的人抛弃！我笑，现在，你们都是一无所有，但仍然和灰尘，我生活，独自生活..."
+"好极了！我的意志甚至足以征服一条龙。再也没有人可以反对我了！以前那些诅咒我的"
+"人啊，我藐视你们！因为我是被诅咒的玛尔·凯沙，是被所有会呼吸的活物所唾弃者！而"
+"现在，我笑你们已然不过是尸骸和尘土，而我则会继续活下去，独自活下去……"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "So this is how it ends..."
-msgstr "这就是结局..."
+msgstr "这就是结局啊……"
 
 #. [scenario]: id=10_Endless_Night
 msgid "Endless Night"
 msgstr "无尽长夜"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Years pass. Every summer, by the time the mountainous paths and high passes "
 "shed their wintry gowns of snow, the lich sends his soldiers to attack the "
 "orcs, removing all human, elven, and dwarven patrols that impede them. Every "
 "year, the undead inflict some damage before being repelled."
 msgstr ""
-"很多年过去了。每到夏天，当山道变得畅通无阻时，巫妖便派出他的军队攻击兽人，并"
-"清理掉挡道的人类、精灵或是矮人的所有巡逻队。每年亡灵在被击退回洞穴之前，总要"
-"造成一些破坏。"
+"很多年过去了。每到夏天，当山道和关隘上的冬雪融化时，巫妖便派出他的士兵攻击兽"
+"人，并把挡道的人类、精灵或者矮人巡逻队清理干净。每年，亡灵在被击退回洞穴之"
+"前，总要造成一些破坏。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The lich sometimes wonders if his endeavors are naught but a fruitless "
 "crusade, but then again, so what? Life, unlife, death... nothing has ever "
 "given his existence meaning. And yet, he still persists? For what?"
 msgstr ""
-"巫妖有时想知道，如果他的努力是徒劳的，但徒劳的十字军，但话又说回来，那么呢？"
-"生命，无生命，死亡...从来没有给他的存在意义。然而，他仍然坚持吗？为什么？"
+"巫妖有时想知道，自己的努力是不是徒劳，自己的远征会不会无功。但话说回来，徒劳"
+"无功又如何？生命、伪命、死亡……从来没有任何东西给他的存在赋予意义。然而，他还"
+"在坚持？为了什么呢？"
 
 #. [part]
-#, fuzzy
 msgid "<i>Reason and purpose...</i>"
-msgstr "<i>原因和目的...</i>"
+msgstr "<b>原因和目的……</b>"
 
 #. [part]
-#, fuzzy
 msgid ""
 "He needs none. Philosophy only begets misery. Violence and savagery have "
 "always been the essence of his existence, a conviction that he has only "
 "embraced more wholly in undeath. Better to simply kill without deliberation, "
 "without consideration. He has never been one for regrets."
 msgstr ""
-"他不需要哲学只会带来痛苦。暴力和野蛮一直是他存在的本质，曾经控制他生命的力"
-"量，那些未死的力量。最好是简单地杀人，不经考虑，有什么用，有什么用，想解决任"
-"何选择？他从来就不是一个后悔的人。"
+"他不需要这些。哲学只会带来痛苦。暴力和野蛮一直是他这一存在的本质。在伪死之"
+"中，他更加完全地接受了这一本质。简单的杀戮便是最好，不必思考，不需审慎。他从"
+"来就不是一个会后悔的人。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Rumors circulate of a lich who preys on scouting patrols. A hero, gathering "
 "his loyal troops to him, decides to put an end to the evil."
 msgstr ""
 "传言说道，有一个总是在猎杀巡逻队的巫妖存在。一位英雄将忠于自己的部队组织起"
-"来，决心要将这邪恶的存在消灭。"
+"来，决心要将这邪恶消灭。"
 
 #. [part]
-#, fuzzy
 msgid "Mal Keshar continues to study the book and re-reads the final entry."
-msgstr "玛尔·凯沙继续研读这本书，并重读了最后一节。"
+msgstr "玛尔·凯沙继续研读那本书，并重读了最后一节。"
 
 #. [part]
 #. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
 #. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
-#, fuzzy
 msgid ""
 "<i>“We prevailed today on the field, but our victory did not please me. I "
 "realize now... the world is not ready for our knowledge. They cannot "
@@ -4095,15 +3921,15 @@ msgid ""
 "use. I can certainly afford to wait. In the meantime, we are doing what we "
 "can to hasten that day.”</i>"
 msgstr ""
-"<b>“现在我认识到了……这世界还没有做好接受我们的知识的准备。我决定放弃他们所有"
-"人。我将居于这座古老的巨魔城市，并学会山火的用法。在未来某天，不那么保守的观"
-"念将会占有统治地位，而我当然有资本来等待。与此同时，我们将尽我们所能，让那一"
-"天更快到来。”</b>"
+"<b>“今天我们在战场上获胜了，但这场胜利并不让我欣喜。现在我意识到了……这世界还"
+"没有做好接受我们知识的准备。他们无法理解，我们征服了最本能的恐惧：死亡。而当"
+"他们看着我们的时候，对外表的评判，让他们因无知而陷入恐惧之中。我决定放弃所有"
+"人。[...]在未来某天，不那么保守的观念将会占据统治地位，而我们的知识将得到善"
+"用。我当然可以等待。与此同时，我们将尽我们所能，让那一天更快到来。”</b>"
 
 #. [part]
 #. More text from the epilogue of Secrets of the Ancients
 #. More text from the epilogue of Secrets of the Ancients
-#, fuzzy
 msgid ""
 "<i>“As for me, I will make my journal conspicuous on this battlefield. I "
 "suspect that most will fear it enough to try to destroy it, but I have "
@@ -4112,23 +3938,20 @@ msgid ""
 "minded. Tath, in particular, is home to many mages. It only takes one who is "
 "willing to learn...”</i>"
 msgstr ""
-"<i>\"至于我，我会让我的日记在这个战场上引人注目。我怀疑大多数人会害怕它，试图"
-"摧毁它，但我在我的日记里放了几个病房来保护它。这样，它应该存活足够长的时间，"
-"使其进入一个更开放的人手中。特别是塔思，是许多法师的家。只需要一个愿意学习的"
-"人...\"</i>"
+"<b>“至于我，我会让日记在战场上引人注目。我怀疑大多数人会害怕并试图摧毁它，但"
+"我已用几道守护魔咒把它保护了起来。这样一来，在落入开明之人手中之前，它应该不"
+"会毁坏。特别是，塔斯是许多法师的家。只要有一个愿意学习的人……”</b>"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The final entry gnaws at Mal Keshar. While he had been Darken Volk’s pawn, "
 "both of them were being used as pawns by the author of the book. Has his "
 "whole existence been nothing more than that of a puppet?"
 msgstr ""
-"书上这最后一节折磨着玛尔·凯沙。他被达肯·沃克当卒子使唤，而他们两个都被书的作"
-"者当卒子使唤。"
+"书上这最后一节啃食着玛尔·凯沙。他被达肯·沃克当卒子使唤，而他们两个都被书的作"
+"者当卒子使唤。终其一生，他仅仅就是作为傀儡而存在吗？"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Still, despite his misgivings about being manipulated, he feels that he can "
 "learn something from the book. Orcs had only ever been half of the story — "
@@ -4138,22 +3961,20 @@ msgid ""
 "necromancy as merely another magical art, could it eventually be accepted in "
 "society?"
 msgstr ""
-"尽管如此，尽管他对纵的疑虑，他觉得自己可以从书中学到一些东西。兽人只是故事的"
-"一半——另一个是他自己的人不能接受他使用黑暗魔法。但是，如果他允许一个愚蠢的英"
-"雄拿这本书的副本，其他人最终会跟随他的脚步吗？如果足够多的人开始把坏死仅仅看"
-"作是另一种神奇的艺术，它最终能被社会接受吗？"
+"不过，尽管他对被人操纵这一点有所怀疑，但他觉得自己可以从书中学到一些东西。兽"
+"人只是问题的一半——另一半则是他自己的同胞不能接受他使用黑暗魔法。但是，如果他"
+"让一个愚蠢的英雄拿到这本书的副本，那么其他人最终会追随他的脚步吗？如果有足够"
+"多的人把死灵术仅仅看作是另一种魔法技艺，那么它最终能被社会接受吗？"
 
 #. [part]
-#, fuzzy
 msgid ""
 "The book still sits on a dusty shelf in Mal Keshar’s keep, untended and "
 "untouched, but constantly plaguing his mind."
 msgstr ""
-"这本书仍然放在马尔·凯沙尔的保留，不注意和不变，但不断困扰着利希的头脑最前沿的"
-"尘土飞扬的书架上。"
+"这本书仍然放在玛尔·凯沙要塞中一个蒙尘的书架上，他没去照看，也没去触碰，但那书"
+"仍然不断地让他心生烦恼。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "If he allowed a foolish hero to take a copy of the book, would others "
 "eventually follow in his footsteps? Would the author’s plan actually work, "
@@ -4163,21 +3984,19 @@ msgid ""
 "conclusions, but a slightly embellished copy of the tome sits there in his "
 "lair, waiting to be taken."
 msgstr ""
-"如果他允许一个愚蠢的英雄拿这本书的拷贝，其他人最终会追随他的脚步吗？作者的计"
-"划真的有效吗？还是人们继续将邪恶仅仅视为一种腐败的权力？一个声音告诉他，被社"
-"会接受不应该引起他任何关注。另一位说，不会伤害他尝试。他没有得出任何结论，但"
-"一个稍微修饰的托姆副本坐在他的巢穴里，等待被带走。"
+"如果他让一个愚蠢的英雄拿到这本书的副本，那么其他人最终会追随他的脚步吗？作者"
+"的计划真的能行吗？人们还会继续把死灵术仅仅看作是腐化的力量吗？一个声音告诉"
+"他，他不该在意会不会被社会接受。而另一个声音说，试试看总没错。他没有得出任何"
+"结论，但那本书的一份稍加装饰的副本，现在便放在他的巢穴里，等着被人拿走。"
 
 #. [side]
 #. not yet decided who the enemy will be, or if there will be any
-#, fuzzy
 msgid "teamname^Void"
-msgstr "团队名称^Void"
+msgstr "空缺"
 
 #. [side]
-#, fuzzy
 msgid "teamname^Inky"
-msgstr "团队名称^Inky"
+msgstr "墨墨"
 
 #. [objective]: condition=win
 msgid "Defeat the foolish hero"
@@ -4192,13 +4011,12 @@ msgid "Defeat yet another foolish hero"
 msgstr "击败再一名愚蠢的英雄"
 
 #. [objective]: condition=win
-#, fuzzy
 msgid "Defeat both foolish heroes"
-msgstr "击败愚蠢的英雄"
+msgstr "击败两名愚蠢的英雄"
 
 #. [objective]: condition=win
 msgid "Allow an enemy unit to take the book"
-msgstr "允许一名敌方单位拿走书"
+msgstr "让一名敌方单位拿走书"
 
 #. [note]: description=<b>
 msgid "Endless Night $timesForever"
@@ -4213,9 +4031,8 @@ msgstr "人类"
 #. [unit]: type=Elvish Marshal, id=Too Foolish Hero
 #. [unit]: type=Dwarvish Lord, id=Too Foolish Hero
 #. [unit]: type=Orcish Warlord, id=Too Foolish Hero
-#, fuzzy
 msgid "Too Foolish Hero"
-msgstr "愚蠢的英雄"
+msgstr "过于愚蠢的英雄"
 
 #. [message]: speaker=Too Foolish Hero
 #. the text that the "Too Foolish Hero" speaks is identical to that in the start event and can probably be copied over
