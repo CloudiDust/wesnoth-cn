@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2022-01-31 17:58+0800\n"
+"PO-Revision-Date: 2022-02-02 17:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -114,9 +114,9 @@ msgid ""
 "the north."
 msgstr ""
 "马林·凯沙出生在哈德里克四世逝世后的第十年。他在北部边境的小镇帕辛长大，他是城"
-"里男爵的第二个孩子也是最大的儿子。每到夏天，当高处的山道之上的冬雪融化时，兽"
-"人们便会从北方丘陵南下，大肆破坏边境上的定居点。马林的父亲率领镇民反击侵袭的"
-"兽人，将他们赶回北方。"
+"里男爵的第二个孩子也是最大的儿子。每到夏天，当山道和关隘上的冬雪融化时，兽人"
+"们便会从北方丘陵南下，大肆破坏边境上的定居点。马林的父亲率领镇民反击侵袭的兽"
+"人，将他们赶回北方。"
 
 #. [part]
 msgid ""
@@ -3868,8 +3868,8 @@ msgid ""
 "year, the undead inflict some damage before being repelled."
 msgstr ""
 "很多年过去了。每到夏天，当山道和关隘上的冬雪融化时，巫妖便派出他的士兵攻击兽"
-"人，并把挡道的人类、精灵或者矮人巡逻队清理干净。每年，亡灵在被击退回洞穴之"
-"前，总要造成一些破坏。"
+"人，并把挡道的人类、精灵和矮人巡逻队清理干净。每年，亡灵在被击退回洞穴之前，"
+"总要造成一些破坏。"
 
 #. [part]
 msgid ""
@@ -3961,10 +3961,10 @@ msgid ""
 "necromancy as merely another magical art, could it eventually be accepted in "
 "society?"
 msgstr ""
-"不过，尽管他对被人操纵这一点有所怀疑，但他觉得自己可以从书中学到一些东西。兽"
-"人只是问题的一半——另一半则是他自己的同胞不能接受他使用黑暗魔法。但是，如果他"
-"让一个愚蠢的英雄拿到这本书的副本，那么其他人最终会追随他的脚步吗？如果有足够"
-"多的人把死灵术仅仅看作是另一种魔法技艺，那么它最终能被社会接受吗？"
+"不过，尽管对被人操纵这一点有所怀疑，但他觉得自己可以从书中学到一些东西。兽人"
+"只是问题的一半——另一半则是他自己的同胞不能接受他使用黑暗魔法。但是，如果让一"
+"个愚蠢的英雄拿到这本书的副本，那么其他人最终会追随他的脚步吗？如果有足够多的"
+"人把死灵术仅仅看作是另一种魔法技艺，那么它最终能被社会接受吗？"
 
 #. [part]
 msgid ""
@@ -3984,10 +3984,10 @@ msgid ""
 "conclusions, but a slightly embellished copy of the tome sits there in his "
 "lair, waiting to be taken."
 msgstr ""
-"如果他让一个愚蠢的英雄拿到这本书的副本，那么其他人最终会追随他的脚步吗？作者"
-"的计划真的能行吗？人们还会继续把死灵术仅仅看作是腐化的力量吗？一个声音告诉"
-"他，他不该在意会不会被社会接受。而另一个声音说，试试看总没错。他没有得出任何"
-"结论，但那本书的一份稍加装饰的副本，现在便放在他的巢穴里，等着被人拿走。"
+"如果让一个愚蠢的英雄拿到这本书的副本，那么其他人最终会追随他的脚步吗？作者的"
+"计划真的能行吗？人们还会继续把死灵术仅仅看作是腐化的力量吗？一个声音告诉他，"
+"他不该在意会不会被社会接受。而另一个声音说，试试看总没错。他没有得出任何结"
+"论，但那本书的一份稍加装饰的副本，现在便放在他的巢穴里，等着被人拿走。"
 
 #. [side]
 #. not yet decided who the enemy will be, or if there will be any
@@ -4036,11 +4036,10 @@ msgstr "过于愚蠢的英雄"
 
 #. [message]: speaker=Too Foolish Hero
 #. the text that the "Too Foolish Hero" speaks is identical to that in the start event and can probably be copied over
-#, fuzzy
 msgid ""
 "Your doom is at hand, lich! It is nigh time you answered for your evil "
 "crimes!"
-msgstr "你的死期到了，邪恶的巫妖！我将会亲手击败你。"
+msgstr "你的死期到了，巫妖！是时候赎罪了！"
 
 #. [modify_side]
 msgid "Bandits"
@@ -4048,11 +4047,10 @@ msgstr "强盗"
 
 #. [message]: speaker=Too Foolish Hero
 #. [message]: speaker=Foolish Hero
-#, fuzzy
 msgid ""
 "You have preyed on too many of my men. Our territory will be much more "
 "secure without your undead pestering us."
-msgstr "你猎杀了太多我的属下。我来这里是为了终结这一切，一次彻底解决。"
+msgstr "你杀了我太多属下了。要是你的亡灵不来打扰，我们的领地会安全得多。"
 
 #. [modify_side]
 msgid "Elves"
@@ -4060,14 +4058,13 @@ msgstr "精灵"
 
 #. [message]: speaker=Too Foolish Hero
 #. [message]: speaker=Foolish Hero
-#, fuzzy
 msgid ""
 "We have finally found you, lich! Long have we heard of your abominable "
 "deeds, ensnaring the living with your dark sorceries and molding them into "
 "your slaves. Your wretched unlife ends here!"
 msgstr ""
-"我们终于找到你了，嘿！很久之后，我们听说过你可恶的行为，用你们黑暗之躯把活着"
-"的人包围在一起，把他们塑造成你的奴隶。你可怜的不生活就在这里结束！"
+"我们终于找到你了，巫妖！很久之前，我们就听说了你的恶行。你用黑暗巫术引诱活"
+"人，把他们塑成奴隶。你卑鄙的伪生到此为止了！"
 
 #. [modify_side]
 msgid "Dwarves"
@@ -4077,31 +4074,28 @@ msgstr "矮人"
 #. [message]: speaker=Foolish Hero
 #. written with a dwarvish accent - regular english would be "it's been along time since I've smashed some undead. You've got plenty of bones for my hammer to break"
 #. written with a dwarvish accent - regular english would be "it's been along time since I've smashed some undead. You've got plenty of bones for my hammer to break"
-#, fuzzy
 msgid ""
 "Been a long time since I’ve smashed me some undead. Ye gots ye plenty o’ "
 "bones for me hammer ta break."
-msgstr "很久以来，我一直把我打掉一些不死。叶有你很多骨头给我锤打断。"
+msgstr "俺已经有老长时间没砸亡灵了。你骨头还挺多，够俺拿锤子砸咯！"
 
 #. [message]: speaker=Too Foolish Hero
 #. [message]: speaker=Foolish Hero
-#, fuzzy
 msgid ""
 "I’ve finally found your lair, lich! You have attacked my tribe and wreaked "
 "havoc on our homes for many years. You slew my father and turned his body "
 "into one of your nasty creations. With your death, your annoying minions "
 "will pester us no longer!"
 msgstr ""
-"我终于找到了你的巢穴，巫妖！多年来，你攻击我的部落，破坏我们的家园。你杀死了"
-"我的父亲，把他的尸体变成了你讨厌的造物之一。随着你的死亡，你烦人的奴子将不再"
-"缠着我们！"
+"我终于找到了你的巢穴，巫妖！多年来，你一直攻击我的部落，破坏我们的家园。你杀"
+"害了我的父亲，把他的尸体变成了恶心的造物。等你死了，你烦人的仆从便再也不会滋"
+"扰我们了！"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "I almost feel as if the universe is mocking me by sending me this many "
 "imbeciles..."
-msgstr "我几乎觉得宇宙在嘲笑我，送我这么多傻子..."
+msgstr "我觉得宇宙似乎在嘲弄我，竟然派了这么多蠢货来杀我……"
 
 #. [unit]: type=Royal Guard, id=Foolish Hero
 #. [unit]: type=Highwayman, id=Foolish Hero
@@ -4112,13 +4106,12 @@ msgid "Foolish Hero"
 msgstr "愚蠢的英雄"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "I will destroy you like the last foolish hero who challenged me."
-msgstr "我会像摧毁上一个愚蠢的英雄一样摧毁你。"
+msgstr "就像毁灭上一个愚蠢的英雄那样，我会毁灭你的。"
 
 #. [message]: speaker=Mal Keshar
 msgid "Another foolish hero? Seriously?"
-msgstr "又一个愚蠢的英雄？你认真的吗？"
+msgstr "又来了个愚蠢的英雄？认真的吗？"
 
 #. [message]: speaker=Mal Keshar
 msgid ""
@@ -4133,56 +4126,46 @@ msgid "Am I doomed to fight foolish heroes forever?"
 msgstr "我注定要永远和愚蠢的英雄们作战了吗？"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "How long is this going to keep happening?"
-msgstr "这会不断继续吗？"
+msgstr "这究竟会持续多久？"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "At this point, I would be more surprised if these foolish heroes stopped "
 "showing up."
-msgstr "在这一点上，我会更惊讶，如果这些愚蠢的英雄停止出现。"
+msgstr "到了这时候，要是那些愚蠢的英雄不出现了，我倒会更惊讶的。"
 
 #. [message]: speaker=Foolish Hero
-#, fuzzy
 msgid ""
 "Your doom is at hand, lich! It is nigh time you answered for your crimes "
 "against humanity!"
-msgstr "你的死期到了，邪恶的巫妖！我将会亲手击败你。"
+msgstr "你的死期到了，巫妖！你对人类犯下了罪孽，是时候赎罪了！"
 
 #. [message]: speaker=Mal Keshar
 #. cityfolk - just a person from the city, e.g. Weldyn
-#, fuzzy
 msgid ""
 "Narrow-minded and obtuse, as one would expect of cityfolk. Go back to your "
 "manors and taverns before I decide to kill you."
 msgstr ""
-"狭隘和迟钝，人们期望城里人。在我决定杀了你之前，回到你的庄园和小酒馆去。"
+"狭隘而迟钝，果然是个城里人。在我下决心杀了你之前，回你的庄园和小酒馆去。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Not even real soldiers. How meaningless."
-msgstr "这些连真正的士兵都不是。我将把你像垃圾一样扫掉。"
+msgstr "连真正的士兵都不是。真是毫无意义。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "Life or death, it is all the same. There are always those who try to kill "
 "me. Ever do they fail."
-msgstr "生或死，都是一样的。总是有人想杀我他们曾经失败过。"
+msgstr "生或者死，都是一样的。总会有人想杀我。他们也总会失败。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "And it has been some time since I’ve had a supply of dwarven corpses to work "
 "with. I suppose I can put your hammers to good use in the mines."
-msgstr ""
-"已经有一段时间了，因为我有一批矮人的尸体要处理。我想我可以把你的锤子好好地用"
-"在矿井里。"
+msgstr "我已经有很长时间没有矮人尸体可用了。我觉得你们的锤子在矿井里能有大用。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "The Whitefang Orcs! It is you who despoiled my motherland and razed my home. "
 "It is you who forced me to resort to necromancy to protect myself. It is you "
@@ -4190,83 +4173,76 @@ msgid ""
 "vengeance? Hah! The irony of this would be hysterical if I could still feel "
 "such an emotion."
 msgstr ""
-"白方兽人！是你们掠夺了我的祖国，夷平了我的家。是你强迫我诉诸邪恶来保护我自"
-"己。是你结束了我的凡人生活，迫使我成为一个巫妖。你渴望复仇？哈！讽刺的是，如"
-"果我还能感受到这种情绪，那将是歇斯底里的。"
+"白牙兽人！是你们劫掠了我的祖国，夷平了我的家园。是你们迫使我诉诸死灵术来保护"
+"自己。是你们终结了我的凡生，害我成为巫妖。你们竟渴望复仇？哈！要是还能体会到"
+"感情的话，那我得说这讽刺到了滑稽的程度。"
 
 #. [message]: speaker=unit
 msgid "That’s an evil grimoire!"
 msgstr "是一本邪恶的魔典！"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid "It might be linked to the lich’s power! Try burning it."
-msgstr "它可能与巫妖的力量有关！试着烧掉它。"
+msgstr "它可能与巫妖的力量有联系！试试看能不能烧掉。"
 
 #. [message]: speaker=Mal Keshar
 msgid "<small>(faking pain)</small> Aaargh!"
 msgstr "<small>（假装痛苦）</small>啊啊啊啊！"
 
 #. [message]: role=unit
-#, fuzzy
 msgid "It’s not catching fire!"
-msgstr "它没着火，长官。"
+msgstr "它不起火！"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "Still, it seems to be hurting the lich. Let us retreat and bring it with us. "
 "The mages may be able to destroy this and put an end to this lich."
-msgstr "但看起来它能伤到那巫妖。带走它，我们该撤了，让法师们销毁它吧。"
+msgstr ""
+"但看起来这能伤到巫妖。带走它，我们该撤了。法师或许能销毁它，并终结巫妖。"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "Still, it seems to be hurting the lich. Let us retreat and bring it with us. "
 "We may yet find another way to destroy it and put an end to this lich."
-msgstr "但看起来它能伤到那巫妖。带走它，我们该撤了，让法师们销毁它吧。"
+msgstr ""
+"但看起来这能伤到巫妖。带走它，我们该撤了。我们或许能找到办法来销毁它，并终结"
+"巫妖。"
 
 #. [message]: role=speakinghero
 #. "faerie fire" as in the elvish sylph's attack
-#, fuzzy
 msgid ""
 "It must be connected to the lich’s power. Perhaps if we burn it with faerie "
 "fire, the lich will be destroyed. Let us take it and retreat."
 msgstr ""
-"它必须与巫妖的力量相连。也许如果我们用精灵的火来烧掉它，酒会被摧毁的。让我们"
-"把它和撤退。"
+"它肯定与巫妖的力量有联系。如果我们用仙灵之火烧掉它，那巫妖就会毁灭。带上它，"
+"我们撤。"
 
 #. [message]: speaker=unit
 #. regular english: That's an evil grimoire!
-#, fuzzy
 msgid "That be an evil grimoire!"
 msgstr "是一本邪恶的魔典！"
 
 #. [message]: role=speakinghero
 #. regular english: Try destroying the darned thing.
-#, fuzzy
 msgid "Try destroyin’ the blasted thing."
-msgstr "试着摧毁爆炸的东西。"
+msgstr "试试看能不能把这该死的东西毁了。"
 
 #. [message]: speaker=unit
 #. regular english: My axe can't cut the paper. It's protected by magic!
-#, fuzzy
 msgid "Me axe kinna cut tha paper. It be protected by magic!"
-msgstr "我斧头金娜切纸。它被魔法保护！"
+msgstr "俺的斧头砍不坏这纸头。有魔法保护的！"
 
 #. [message]: role=speakinghero
 #. regular english: Yes, but the lich still seems to be hurt. Let's take it and retreat. Maybe the forge can destroy it.
-#, fuzzy
 msgid ""
 "Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. Maybe "
 "tha forge ken destroy it."
-msgstr "但看起来它能伤到那巫妖。我们带走它，撤回去，用熔炉摧毁它。"
+msgstr "但看来还是能伤到那巫妖。俺们带上它就撤吧。说不定熔炉可以毁掉它。"
 
 #. [message]: speaker=unit
 #. this orc has bad grammar on purpose
-#, fuzzy
 msgid "Me like skull on book. It look good."
-msgstr "书上的骷髅头看起来不错。"
+msgstr "俺喜欢书上那骷髅头，挺好看的。"
 
 #. [message]: role=speakinghero
 msgid "Idiot."
@@ -4274,23 +4250,19 @@ msgstr "蠢货。"
 
 #. [message]: speaker=unit
 #. still the same orc, still has bad grammar. Uuuuuh is a whine-like sound, indicating disappointment.
-#, fuzzy
 msgid "Uuuuuh, I can’t pull skull off book, but lich scream."
-msgstr "啊啊啊，我没法把那骷髅头从书上拔出来，但我拔的时候那巫妖就鬼哭狼嚎的。"
+msgstr "啊呀，那骷髅头俺拔不出来，但巫妖鬼哭狼嚎的。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Defend the book, my minions! Aaargh!"
-msgstr "保护我，我的仆从们！把书抢回来！啊啊啊啊！"
+msgstr "保护书，仆从们！啊啊啊啊！"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "The book must be connected to the lich’s power! Take it and retreat. Once we "
 "smash that book, the lich should be destroyed."
 msgstr ""
-"这本书必须与巫妖的力量联系起来！把它和撤退。一旦我们粉碎了那本书，这些书就应"
-"该被销毁。"
+"这本书肯定与巫妖的力量有联系。带上书就撤。一旦粉碎了书，巫妖就该没命了。"
 
 #. [story]
 msgid "Epilogue"
@@ -4300,12 +4272,9 @@ msgstr "尾声"
 msgid ""
 "The foolish hero was tricked, and left believing both that the book could be "
 "destroyed, and that the lich might be weakened by doing so."
-msgstr ""
-"愚蠢的英雄中计了，他离开时误以为那本书是可以摧毁的，而且摧毁它可以削弱那巫"
-"妖。"
+msgstr "愚蠢的英雄中计了，在离开时还以为可以毁掉那本书，并由此削弱巫妖。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Retreating outside the cave, the foolish hero tried to destroy the book. "
 "None of the attempts left so much as a single dent or char, yet each one "
@@ -4314,114 +4283,97 @@ msgid ""
 "left the ruined lair behind, book stowed away safely — and secretly — in his "
 "pack."
 msgstr ""
-"在洞穴外的安全之地，那愚蠢的英雄试图摧毁那本书。不管他做什么，书上都没有留下"
-"一点凹痕或是燃迹，但每次尝试都让洞中传来哀嚎声。终于，洞穴入口坍塌了，而万物"
-"归于寂静。"
+"撤到洞穴外面之后，那愚蠢的英雄试图摧毁书。不论尝试何种方法，书上都没有留下一"
+"点凹痕或是燃迹。但每次尝试时，洞中都会传来哀嚎声。最终，洞穴入口坍塌了，而万"
+"物归于寂静。愚蠢的英雄很满意，便远离了已成废墟的巢穴，那书便安全地——而且是秘"
+"密地——装进了他的包里。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Years pass. Every summer, by the time the mountainous paths and high passes "
 "shed their wintry gowns of snow, humans, elves and dwarves patrol to resist "
 "orcish raiders. Undead no longer trouble the watches and memories of the "
 "lich fade to mere legend."
 msgstr ""
-"很多年过去了。每年夏天，当山道清朗之时，人类、精灵和矮人四处巡逻，击退兽人劫"
-"掠者。亡灵再也不找巡逻队的麻烦了，而有关那巫妖的记忆，也褪色成了勇敢英雄的胜"
-"利传说的背景。"
+"很多年过去了。每到夏天，当山道和关隘上的冬雪融化时，人类、精灵和矮人便会去巡"
+"逻，并反击兽人劫掠者。亡灵再也没来骚扰警卫队，而关于巫妖的记忆，也淡化成了传"
+"说。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Rumors circulate about a spirit of good fortune that protects these guards. "
 "It is said that when attacked by orcs at night, the darkness itself descends "
 "to repel the assailants."
 msgstr ""
-"谣言流传着保护这些卫兵的好运精神。据说，当在夜间遭到兽人攻击时，黑暗本身会降"
-"临，以击退袭击者。"
+"有传言说，好运之灵守护着这些守卫。据说，当遭到兽人夜袭时，黑暗本身便会降临并"
+"击退袭击者。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "A monolith of black stone, a dark surface reflecting deep shadow infinitely "
 "into the night."
-msgstr "一块黑色石头的巨石，黑暗的表面将深邃的阴影无限地反射到夜里。"
+msgstr "一块黝黑石碑，漆黑的表面，将深深的暗影反射进无尽的夜色中。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "A monolith of black stone, cold and brittle to the touch."
-msgstr "一块黑色石头的巨石，触感冰冷而脆嫩。"
+msgstr "一块黝黑石碑，触感冰冷，似乎易碎。"
 
 #. [unit]: type=Cuttle Fish, id=Inky
-#, fuzzy
 msgid "female^Inky"
-msgstr "女性^Inky"
+msgstr "墨墨"
 
 #. [message]: speaker=Inky
 #. this is just some kind of squishy sound that a squid might make
-#, fuzzy
 msgid "Gllllbbbg!"
-msgstr "诸葛亮!"
+msgstr "哩哩哩哩哩！"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "A cuttlefish! Perhaps I shall make it my pet."
-msgstr "一条墨鱼!也许我应该让它成为我的宠物。"
+msgstr "一条乌贼！也许我该把它变成宠物。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "We meet again, squiddy one."
-msgstr "我们又见面了，小家伙。"
+msgstr "我们又见面了，小墨鱼。"
 
 #. [message]: speaker=Inky
-#, fuzzy
 msgid "Bloub°°°"
-msgstr "卜卜°°°"
+msgstr "卜卜……"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Curses. She got away."
-msgstr "诅咒。她逃脱了。"
+msgstr "该死。她溜了。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "It appears that she has evaded me once again."
-msgstr "看来她又一次逃避了我。"
+msgstr "看来她又躲开我了。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid ""
 "I remember this place. It swirls with strange energy, like a pool of "
 "memories."
-msgstr "我记得这个地方。它旋转着奇怪的能量，像一个记忆的池子。"
+msgstr "我记得这地方。奇怪的能量在此旋转，就像是记忆之池。"
 
 #. [message]: speaker=Drogan
 #. the first sentence in plain english is: Do you still remember the good old days? In the rest of the text, ’n means "and"
-#, fuzzy
 msgid ""
 "D’ya still ’member tha good ol’ days? When you were little, ’n yer father "
 "had no time fer ya, we used ta train together in tha fields. Just you ’n me "
 "fer hours on end, practicin’ with our swords ’n havin’ fun."
 msgstr ""
-"你还记得那些美好的日子吗？你小的时候，你父亲没有时间陪你，我们经常在田里一起"
-"训练。只有你和我，一连几个小时，练习我们的剑，享受乐趣。"
+"你还记着那些好日子不？你小时候，你爹没有时间陪你，俺们就老是在田里一块儿训"
+"练。就你跟俺，一下就几个钟，就练剑，开心得很。"
 
 #. [message]: speaker=Drogan
-#, fuzzy
 msgid ""
 "It were so much simpler back then, without yer complicated magic ’n yer "
 "crazy education ta mess things up. Don’t ya think so, Malin?"
-msgstr ""
-"那时的情况要简单得多，没有复杂的魔法和疯狂的教育把事情搞乱。你不这么认为吗，"
-"马林？"
+msgstr "那会儿可简单了，没啥难懂的魔法，也没啥瞎搞的课业。你觉着呢，马林？"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "That name is no longer mine."
-msgstr "这个名字不再是我的了。"
+msgstr "我不再用那名字了。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "What does the darkness have in store for me this time?"
 msgstr "这一次，黑暗为我准备了什么？"
 
@@ -4430,7 +4382,6 @@ msgid "Dela Keshar"
 msgstr "德拉·凯沙"
 
 #. [message]: speaker=Dela Keshar
-#, fuzzy
 msgid ""
 "I guess we were never that close, but you were still my brother. When you "
 "went to Alduin fer those eight years, I was so lonely, ya know? Bein’ the "
@@ -4438,13 +4389,11 @@ msgid ""
 "always just people tryin’ to be nice and friendly just to get something out "
 "of me. People didn’t care about me. They only cared about my title."
 msgstr ""
-"我想我们从来没有那么亲密，但你仍然是我的兄弟。当你去阿尔杜安的那八年，我是如"
-"此的孤独，你知道吗？作为一个男爵的女儿，我很难交到真正的朋友。人们总是为了从"
-"我这里得到一些东西而试图表现得友好和友善。人们并不关心我。他们只关心我的头"
-"衔。"
+"我想我们从来都没有特别亲密，但你还是我哥哥。你去奥渡因那八年，我特孤单，你知"
+"道么？生为男爵的女儿，我很难交到真正的朋友。人们总是试图表现得友好和善，却只"
+"是为了从我这里得到些什么。人们不关心我。他们只关心我的头衔。"
 
 #. [message]: speaker=Dela Keshar
-#, fuzzy
 msgid ""
 "When you first came back from Alduin, I was so, so happy to see ya. I "
 "thought you and me and pa could finally be a family again and I’d finally "
@@ -4452,30 +4401,26 @@ msgid ""
 "and screwed it all up by turnin’ to that dark magic of yours. You don’t know "
 "how much that hurt me. You really don’t, Malin."
 msgstr ""
-"当你第一次从阿尔杜因回来时，我非常、非常高兴看到你。我以为你、我和爸爸终于可"
-"以再次成为一个家庭，我终于有一个可以作为朋友交谈的人，你知道，一个朋友。然后"
-"你去把这一切都搞砸了，转而使用你的黑暗魔法。你不知道这对我的伤害有多大。你真"
-"的不知道，马林。"
+"你第一次从奥渡因回来时，我非常、非常高兴看到你。我以为你、我和爸爸终于可以再"
+"次组成家庭了，终于有人可以作为，呃，朋友，和我交谈了。而后你用起了黑魔法，把"
+"这一切都搞砸了。你不知道这对我的伤害有多大。你真的不知道，马林。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "That is not my name."
-msgstr "见证者？我的名字是……我的名字并不重要。我的行为自会说明它自身的正确性。"
+msgstr "这不是我的名字。"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "A necromancer’s existence is a solitary one. Though we may be surrounded by "
 "hordes of the undead, it is a scarce occasion that we interact with another "
 "truly sentient being. In all my years of travels, you were my first and only "
 "apprentice."
 msgstr ""
-"亡灵法师的存在是一种孤独的存在。虽然我们可能被成群的亡灵所包围，但我们很少有"
-"机会与另一个真正有生命的人互动。在我这么多年的旅行中，你是我第一个也是唯一一"
-"个学徒。"
+"亡灵法师是一种孤独的存在。虽然可能被成群的亡灵所包围，但我们很少有机会与另一"
+"个真正有自我意识的存在互动。在我这么多年的旅行中，你是我第一个也是唯一一个学"
+"徒。"
 
 #. [message]: speaker=Darken Volk
-#, fuzzy
 msgid ""
 "I taught you everything I knew. I imparted you with all the power you needed "
 "to accomplish your goals. I thought that in return, you would afford me a "
@@ -4483,73 +4428,61 @@ msgid ""
 "me? By betraying me using the very skills I taught you! You are a cursed "
 "soul, Mal Keshar the Damned!"
 msgstr ""
-"我把我知道的一切都教给你。我向你传授了你完成目标所需的所有力量。我以为作为回"
-"报，你会帮我一个小忙，而我不会向你要求更多。你是怎么报答我的？你用我教给你的"
-"技能背叛了我！你是一个被诅咒的灵魂，你是一个被诅咒的人。你是一个被诅咒的灵"
-"魂，被诅咒的马尔-凯沙！\"。"
+"我把我知道的一切都教给了你。我赋予了你完成目标所需的全部力量。我还以为，作为"
+"回报，你会帮我一个小忙，而我再不会要你做更多。而你是怎么报答我的？你用我教给"
+"你的技能背叛了我！你的灵魂被诅咒了，该被诅咒的玛尔·凯沙！"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Hah."
-msgstr "哈，现在你终于知道，活人是无法与亡灵的力量相抗衡的。"
+msgstr "哈。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Hahahahaha."
 msgstr "哈哈哈哈。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "<i>HAHAHAHAHAHAHAHAHA.</i>"
-msgstr "<i>哈哈哈哈哈哈哈哈。</i>"
+msgstr "<b>哈哈哈哈哈哈哈哈。</b>"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "That is indeed my name."
 msgstr "这的确是我的名字。"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid ""
 "Mal Keshar stares into the abyss, oddly at ease alone amongst the darkness."
-msgstr "马尔-凯沙尔凝视着深渊，奇怪的是，他在黑暗中独自自在。"
+msgstr "玛尔-凯沙凝视着深渊。说来也怪，他在黑暗之中独自一人，却很安逸。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Slain by those who were once my countrymen..."
-msgstr "被那些曾经是我的同胞的人杀死..."
+msgstr "被曾是我同胞的人杀死……"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid "His evil deeds have come to an end."
-msgstr "他的恶行终于终结了，而他也终结了。"
+msgstr "他的恶行到此为止了。"
 
 #. [message]: role=second
-#, fuzzy
 msgid "Who do you think he was before he was corrupted by the darkness?"
-msgstr "您觉得在堕入黑暗之道之前，他是谁？"
+msgstr "您觉得在堕入黑暗之前，他是谁？"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "It matters not. He embraced death over life, and thus relinquished his right "
 "to mercy. Let us return home; the town will need us to defend against the "
 "orcish raids."
 msgstr ""
-"重要的不是。他拥抱死亡，而不是生命，从而放弃了我们怜悯的权利。让我们回家吧;镇"
-"子需要我们来防御奥塞奇突袭"
+"这不重要。他拥抱死亡，而不是生命。这样，他便放弃了得到怜悯的权利。我们回家"
+"吧，镇子还需要我们去对付兽人的掠袭。"
 
 #. [message]: role=second
 msgid "Yes, sir."
 msgstr "是的，长官。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Darkness descends... and I..."
-msgstr "黑暗降临...而我..."
+msgstr "黑暗降临……而我……"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid "It’s done. He’ll trouble us no more."
 msgstr "结束了。他再也不会侵扰我们了。"
 
@@ -4558,136 +4491,117 @@ msgid "Who do you think he was before becoming a lich?"
 msgstr "您觉得在成为巫妖之前，他是谁？"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "Likely one of those arrogant mages who think themselves superior to everyone "
 "else. He probably learned necromancy just to subjugate people like us."
 msgstr ""
-"可能是那些自以为优于其他人的傲慢的法师之一。他可能学了坏死只是为了征服像我们"
-"这样的人。"
+"很可能是那些自以为高人一等的傲慢法师之一。他学习死灵术，或许只是为了征服像我"
+"们这样的人。"
 
 #. [message]: role=second
-#, fuzzy
 msgid "So he was an evil tyrant. How dreadful."
-msgstr "所以他是个邪恶的暴君多么可怕。"
+msgstr "那么说，他是个邪恶的暴君。真可怕。"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "Probably. Anyway, there’s no use in dwelling upon one so wicked. Let’s go."
-msgstr "可能。无论如何，在如此邪恶的人身上居住是没有用的。我们走吧"
+msgstr "也许吧。不论如何，对此种大奸大恶之物，思考再多也是无用的。我们走吧。"
 
 #. [message]: role=speakinghero
 msgid "Well, that is the end of his evil ways."
 msgstr "好了，他的邪恶之路走到头了。"
 
 #. [message]: role=second
-#, fuzzy
 msgid ""
 "I wonder who this lich was in life before he turned to the evil that is "
 "undeath."
-msgstr "我想知道，在堕入黑暗之道落得今天的下场之前，在他活着的时候，他是谁。"
+msgstr "我想知道，在堕入邪恶的伪死之前，在这巫妖还活着时，他是谁。"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "A selfish human, only greedy for power while utterly indifferent to anything "
 "but himself. A necromancer’s only purpose is to work for their own gain, "
 "nothing else."
 msgstr ""
-"一个自私的人，只贪图权力，却完全漠然地对除了他自己以外的任何事物无动于衷。巫"
-"师的唯一目的就是为自己谋取利益，别无他法。"
+"一个自私的人类，只贪图力量，而对除了自己以外的任何事物都无动于衷。死灵法师的"
+"唯一目的便是为自己谋取利益，再无其他。"
 
 #. [message]: role=second
-#, fuzzy
 msgid "Pure evil, that is what they are."
-msgstr "纯粹的邪恶，这就是他们。"
+msgstr "纯粹的邪恶，他便是如此。"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "Indeed. We need not afford this one any compassion. Let us leave this "
 "miserable place."
-msgstr "事实上。我们不需要给这个任何同情。让我们离开这个悲惨的地方。"
+msgstr "确实。不需要给此物任何同情。我们离开这悲惨之地吧。"
 
 #. [message]: role=speakinghero
 #. regular english - the lich is nothing but a pile of bones now
-#, fuzzy
 msgid "Tha lich be nae but a pile o’ bones now."
-msgstr "塔利希是天真的，但一堆骨头现在。"
+msgstr "那巫妖现在只剩一滩骨头啦。"
 
 #. [message]: role=second
 #. regular english - I wonder what kind of human he was in life
-#, fuzzy
 msgid "I wonder what kind o’ human he did be in life."
-msgstr "我想知道他一生中是什么样的人。"
+msgstr "俺挺想搞明白他丫翘辫子以前是啥样一人呢。"
 
 #. [message]: role=speakinghero
 #. regular english - I guess he was some crazy mage who wanted to make other humans his slaves. Why else do you think he would turn to dark magic?
-#, fuzzy
 msgid ""
 "Me guess be that he be some loonie mage who wanted ta make other humans inta "
 "’is slaves. Why else d’ye think tha lad woul’ turn ta dark magic?"
 msgstr ""
-"我猜他是一些鲁尼的元年使者，想要让其他人成为奴隶。为什么德耶认为这个小伙子会"
-"变成黑暗魔法？"
+"俺猜丫是个二货法师，寻思着让别个人类给丫当奴隶呢。要不你觉着这货用上黑魔法还"
+"能是为啥啊？"
 
 #. [message]: role=second
 #. regular english - I don't know. You think the lich's castle can be useful
-#, fuzzy
 msgid "I dinna know. Ye think tha lich’s castle ken be useful?"
-msgstr "我知道叶认为萨利希的城堡是有用的吗？"
+msgstr "俺咋知道。你觉着这巫妖的城堡能用不？"
 
 #. [message]: role=speakinghero
 #. regular english - Yes. Let's get to work.
-#, fuzzy
 msgid "Aye. Let’s git to workin’."
-msgstr "咳！我们离开这里吧。"
+msgstr "行。开工了开工了。"
 
 #. [message]: speaker=Mal Keshar
-#, fuzzy
 msgid "Felled by an orc... so it ends... like this..."
-msgstr "被一个猩猩...所以它结束了...喜欢这个。。。"
+msgstr "被兽人杀掉……这就是……结局啊……"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid "The lich is dead! I have finally avenged my father."
-msgstr "巫妖死了！我终于为我父亲报仇了。"
+msgstr "巫妖死了！我终于为父亲报仇了。"
 
 #. [message]: role=second
 msgid "Who you think he was, boss?"
 msgstr "老大，您觉得他以前是谁？"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid ""
 "Just some angst-ridden mage who turned to dark magic when he swore some "
 "stupid quest for revenge upon us. Amusing that he was more bothersome in "
 "death than in life. Annoying that it took so long to kill him."
 msgstr ""
-"只是一些焦虑不安的法师，当他发誓要报复我们时，他转向了黑暗魔法。很有趣的是，"
-"他在死亡中比在生活中更烦人。讨厌花了这么长时间才杀了他"
+"只是个焦虑不安的法师，他发誓要报复我们，便投向了黑暗魔法。有趣的是，他死后比"
+"活着时更烦人。而烦人的是，我们花了这么长时间才杀了他。"
 
 #. [message]: role=second
-#, fuzzy
 msgid "Boss, look! The lich dropped a shiny book!"
 msgstr "老大，看！巫妖掉了一本闪亮的书！"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid "Well, what is it?"
-msgstr "……额，你们想知道什么？"
+msgstr "啊，什么书？"
 
 #. [message]: role=second
-#, fuzzy
 msgid ""
 "I don’t know, but it looks like someone wrote something inside! It says:"
-msgstr "我不知道，但好像有人在里面写了东西！它说："
+msgstr "我不知道，但好像有人在上面写了什么！它写着："
 
 #. [message]: speaker=narrator
 #. hahaha is Zephrin laughing
 #. this line sounds very "modern-day" but that's intentional because it's an easter egg, not meant to be taken strictly at face value
-#, fuzzy
 msgid ""
 "<i>That stupid memory came back to bother me again today. It was that time "
 "at the Academy when Zephrin and I were arguing about orcs. I still remember "
@@ -4698,48 +4612,45 @@ msgid ""
 "I can still hear his infernal cackling ringing in my head. Sure thing, "
 "Zephrin, right... like my whole life was some sort of work of fiction!</i>"
 msgstr ""
-"<i>那个愚蠢的记忆今天又回来了，再次困扰着我。那是在学院的时候，泽夫林和我在争"
-"论兽人。我仍然记得他声音嘶哑地告诉我，'有趣的故事，马林，但你真的应该把免责声"
-"明。你知道，要确保每个人都明白，在制作这个故事时，没有一个兽人受到伤害，哈"
-"哈。\n"
+"<b>那愚蠢的记忆今天又来困扰我了。那便是那一次在学院时，泽弗林和我在争论有关兽"
+"人的事。我仍然记得他声音嘶哑地和我说，“这故事挺有趣的，马林，但你真该写个免责"
+"声明。你懂的，要确保每个人都明白，在制作这个故事时，没有一个兽人受到伤害，哈"
+"哈哈。“\n"
 "\n"
-"我仍然能听到他那地狱般的咯咯声在我的脑海里响起。当然，泽夫林，对...就像我一生"
-"是某种小说！</i>"
+"我仍然能听到他那地狱般的咯咯笑声在脑海里响起。当然了，泽弗林，你说得对……说得"
+"好像我的一生是某种小说似的！</b>"
 
 #. [message]: role=speakinghero
 #. Bah is an exclamation of disgust or irritation
-#, fuzzy
 msgid ""
 "Bah! Do these people believe that we are fools? They must think we are all "
 "actors in a poorly written drama! I’ve had enough of this. I’m going home."
 msgstr ""
-"呸！这些人相信我们是傻瓜吗？他们一定认为我们都是写得不好的戏剧的演员！我受够"
-"了我要回家了。"
+"呸！这些人相信我们是傻瓜吗？他们一定认为我们都是烂片里的演员！我受够了。我要"
+"回家了。"
 
 #. [message]: role=speakinghero
-#, fuzzy
 msgid "Anyway, round up the wolves. I’m going home."
-msgstr "不管怎样，把狼围起来。我要回家了。"
+msgstr "行吧，把狼围起来。我要回家了。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "... Then my battle against the orcs is lost!"
-msgstr "我败给了兽人！"
+msgstr "……我败给了兽人！"
 
 #. [unit_type]: id=Apprentice Mage, race=human
 msgid "Apprentice Mage"
 msgstr "法师学徒"
 
 #. [unit_type]: id=Apprentice Mage, race=human
-#, fuzzy
 msgid ""
 "Trained in swordsmanship as a boy and the magical arts as a young man, Malin "
 "Keshar is talented at both but an expert in neither. Although not as "
 "powerful as other fighters in direct combat, Malin’s sharp wit often allows "
 "him to outsmart his foes without putting himself in much danger."
 msgstr ""
-"少年时接受剑术训练，青年时接受魔法训练，马林·凯沙在这两方面都有才能但都不是专"
-"家。"
+"少年时接受剑术训练，青年时接受魔法训练，马林·凯沙在这两方面都有些才能，但也都"
+"不是专家。尽管在直接对抗时马林不如别的战士强大，但他能靠敏锐的智慧击败对手，"
+"而不必身陷危险之中。"
 
 #. [attack]: type=impact
 msgid "magic blast"
@@ -4750,7 +4661,6 @@ msgid "Apprentice Necromancer"
 msgstr "死灵法师学徒"
 
 #. [unit_type]: id=Apprentice Necromancer, race=human
-#, fuzzy
 msgid ""
 "Under Darken Volk’s tutelage, Malin has become adept at wielding necromancy "
 "both as a tool to raise an army of undead, and as a means to increase his "
@@ -4758,31 +4668,29 @@ msgid ""
 "little time for him to improve his swordsmanship, but he still holds on to "
 "his short sword as his melee weapon of choice."
 msgstr ""
-"在达因·沃尔克的监护下，马林已经善于利用坏死，既作为培养不死军队的工具，又作为"
-"增加自己个人权力的手段。马林专注于提高他的魔法能力，几乎没有时间让他提高他的"
-"剑术，但他仍然坚持他的短剑作为他的近战武器的选择。"
+"在达肯·沃克的指导下，马林已能熟练使用死灵术了。这既能作为苏生亡灵军队的工具，"
+"又能作为增强个人力量的手段。由于专注于提高魔法力量，他几乎没时间来磨练剑术，"
+"但仍然坚持把短剑作为自己的近战武器。"
 
 #. [unit_type]: id=Dark Mage, race=human
 msgid "Dark Mage"
 msgstr "黑暗法师"
 
 #. [unit_type]: id=Dark Mage, race=human
-#, fuzzy
 msgid ""
 "Although Malin’s sword has grown rusty from lack of proper care, he "
 "continues to use it for melee combat, perhaps more as a keepsake than an "
 "effective weapon. His increasing skill with magic, however, is more than "
 "enough to compensate."
 msgstr ""
-"虽然马林的短剑由于缺乏适当的保养而长满了铁锈，但他不断增强的魔法力量弥补这一"
-"缺陷已经足够的很了。"
+"由于缺乏适当的保养，马林的剑长满了铁锈，但他仍然用它来近战。或许它现在更多是"
+"作为纪念品而不是高效的武器了。不过，他不断增强的魔法技能足以弥补这一不足。"
 
 #. [unit_type]: id=Frontier Baroness, race=human
 msgid "female^Frontier Baroness"
-msgstr "边疆女爵"
+msgstr "边境女男爵"
 
 #. [unit_type]: id=Frontier Baroness, race=human
-#, fuzzy
 msgid ""
 "At Wesnoth’s frontiers, all able-bodied men and women must be able to defend "
 "their homes in times of need. Men are most often trained in the use of sword "
@@ -4792,11 +4700,10 @@ msgid ""
 "powerful skirmishers and are highly adept at reconnaissance, allowing them "
 "to often outmaneuver and entrap orcish raiders."
 msgstr ""
-"在韦斯多的边境，所有体格健壮的男女都必须能够在需要的时候保卫自己的家园。男子"
-"最常接受使用剑或弓的训练，并被用作士兵，他们顶住了狂人攻击的冲击，将袭击者挡"
-"在海湾。相反，妇女学会使用工作人员和吊带，作为侦察员和伏击者，她们最为有效。"
-"最熟练的是强大的小气鬼，并且非常善于侦察，允许他们经常超越和诱捕或诱捕的突袭"
-"者。"
+"在韦诺的边境，所有体格健壮的男女都必须能够在有需要时保卫自己的家园。男子最常"
+"接受剑或弓的训练，并当上士兵。他们抵挡兽人的冲击，并拖住这些掠袭者。而妇女们"
+"则学习使用长杖和弹弓，她们最擅长担任侦察兵和伏击者。其中最为熟练者，是强大的"
+"散兵，非常善于侦察，她们常常能够比兽人更快行动，并包围他们。"
 
 #. [advancement]: id=mal_keshar_amla_melee
 #. [advancement]: id=eidolon_baneblade
@@ -4846,7 +4753,6 @@ msgstr "暗影波"
 msgid "Ancient Lich"
 msgstr "上古巫妖"
 
-#, fuzzy
 msgid ""
 "A lich that accrues enough power over its newfound immortal lifespan becomes "
 "one who can stain souls with despair and sow ruin across the world. "
@@ -4858,11 +4764,11 @@ msgid ""
 "that the rise of an Ancient Lich has not led to the shadows ruling the world "
 "for the rest of time."
 msgstr ""
-"在它新获得的无尽生命之中积攒了足够力量的巫妖会成为以绝望玷污灵魂，在世间种下"
-"毁灭的存在。一名这样等级的巫妖一定会指挥着由几乎无穷无尽的复苏武士与亡灵怪物"
-"组成的军团，它对黑暗巫术的掌握，会让最传奇的人类和精灵法师都心生畏惧。如此人"
-"物常常会在历史上留下黑暗而血腥的一章，而在那样的危急时刻，唯有最神勇的英雄们"
-"那不懈的努力，才没让上古巫妖的崛起成为笼罩万世的阴影的先声。"
+"如果巫妖在它新获得的无尽生命之中积攒了足够力量，那便会成为以绝望玷污灵魂、在"
+"世间种下毁灭的存在。这样等级的巫妖定然会指挥由无穷无尽的苏生战士与亡灵怪物组"
+"成的军团。它的黑暗巫术造诣极深，会让最传奇的人类和精灵法师都心生畏惧。如此人"
+"物常常会在历史上留下黑暗而血腥的篇章。而在那些呼唤英雄的时刻，最神勇的英雄们"
+"靠不懈的努力一次次阻止上古巫妖的崛起，故而，阴影才没能笼罩后世。"
 
 #. [advancement]
 msgid "Increased hitpoints"
