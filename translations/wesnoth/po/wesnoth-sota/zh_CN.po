@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-02-01 13:59-0500\n"
+"PO-Revision-Date: 2022-02-03 21:41-0500\n"
 "Last-Translator: David Sun <davidsun.studio@outlook.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -631,8 +631,8 @@ msgid ""
 "Huh. Well, they’re not the first ugly things we’ve seen in the wilds. Your "
 "club crushes bone just fine, so crush them."
 msgstr ""
-"哈。好吧，他们可不是我们在这荒野里遇到的第一种丑陋的东西。你们的棍棒刚好可以"
-"敲碎骨头，所以去敲碎他们吧。"
+"哈。好吧，这又不是咱们在这荒野里第一次见到丑陋的东西。你们的棍棒刚好可以敲碎"
+"骨头，所以去碾压他们吧。"
 
 #. [message]: speaker={ID}
 msgid "And there is a white-haired girl."
@@ -1466,7 +1466,7 @@ msgstr "“朋友？”（<b>傻笑</b>）哦，是的，我们是非常要好�
 msgid ""
 "Or... you know. Thanks so much for getting us out, sir. We would be glad to "
 "follow you!"
-msgstr "或者说……您懂的。十分感谢您把我们弄出来，先生。我们很乐意追随您！"
+msgstr "或者说……您懂的。十分感谢您解救我们出来，先生。我们很乐意追随您！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "You are Carcyn the Third I presume?"
@@ -1596,10 +1596,11 @@ msgstr "这花掉了太多时间。现在我们肯定会错过和阿冬娜的会
 
 #. [scenario]: id=09_Training_Session
 msgid "Training Session"
-msgstr "训练时间"
+msgstr "魔法训练"
 
+# 1.drudgery: 辛苦乏味的工作，苦工，贱役
+# 2.came across: 偶然遇见; 遇见; 碰到; 来到;
 #. [part]
-#, fuzzy
 msgid ""
 "Ras-Tabahn’s offer enticed a large group of youngsters all eager to train as "
 "magi. The fact that it was illicit training in the dark arts was "
@@ -1610,10 +1611,10 @@ msgid ""
 "on, they came across three farmsteads on the riverbank that had clearly been "
 "raided."
 msgstr ""
-"拉斯-塔班的提议引诱了一大群渴望成为法师的年轻人。事实上，这种训练是学习黑魔法"
-"的非法训练，但那并不重要。更重要的是这样便可以逃离早已由父母确定的毫无自由的"
-"未来。拉斯-塔班在卡辛城外的森林里花了几天时间教他们如何拜访灵界并引出其一小部"
-"分力量。他们继续前进之后不久，便在河岸上碰见了三块明显被劫掠过的农场。"
+"拉斯-塔班的提议吸引了一大批渴望成为法师的年轻人。事实上，这种训练是学习黑魔法"
+"的非法训练，不过这不重要。更重要的是这样便可以逃离早已由父母规划好的、枯燥乏"
+"味的未来。拉斯-塔班在卡辛城外的森林里，花了几天时间教他们如何拜访灵界并引出其"
+"一小部分力量。他们继续前进之后不久，便在河岸上看见了三座明显被袭击过的农场。"
 
 #. [objective]: condition=win
 msgid "(there will be three waves)"
@@ -1636,7 +1637,7 @@ msgid ""
 "You will not earn gold this scenario, but your gold from the previous "
 "scenario will be available in the next."
 msgstr ""
-"你在此场景中将无法挣取金币，但在前一场景中遗留下来的金币将可以在下一场景中使"
+"你在此场景中将无法赚取金币，但在前一场景中遗留下来的金币将可以在下一场景中使"
 "用。"
 
 # 前面刚说no matter,所以我认为
@@ -1652,9 +1653,9 @@ msgid ""
 "not help. I intend most of you to survive this battle, so try not to die."
 msgstr ""
 "我很好奇这里发生了什么。好吧，无所谓。对这些家庭来说是坏事，对我们来说就是好"
-"事。我会让他们复苏，而你们要发起进攻。练习使用冰冻术和生命能量攻击。你们每个"
-"人都可以选择我们军队中的一名士兵来保护自己，而我会为你召唤它。之后，我就不会"
-"帮忙了。我希望你们中的绝大部分人在这场战斗中活下来，所以试着别死掉。"
+"事。我来复苏他们，你们先进攻。练习使用冰冻术和生命能量攻击。你们每个人都可以"
+"选择我们军队中的一名士兵来保护自己，而我会为你召唤它。之后，我就不会帮忙了。"
+"我希望你们中的绝大部分人在这场战斗中活下来，所以试着别死掉。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "plural^You may watch."
@@ -1719,7 +1720,7 @@ msgstr "骨头、爪子和翅膀。"
 #. [message]: speaker=$unit.id
 #. Bones examined by a human.
 msgid "There are some large bones here. I can see claws and wings."
-msgstr "这儿有很多大骨架。我能看到爪子和翅膀。"
+msgstr "这儿有很多大骨架。还有爪子和翅膀。"
 
 #. [message]: speaker=$other_human
 msgid "How odd. I wonder what they are from. A gryphon perhaps?"
@@ -1727,20 +1728,20 @@ msgstr "真奇怪。我想知道这些是什么物种的骨架。也许是一只
 
 #. [message]: speaker=Ras-Tabahn
 msgid "A large flightless bird would be my guess."
-msgstr "我猜是一只大型的不能飞的鸟。"
+msgstr "我猜是一只不会飞的大鸟。"
 
 #. [message]: speaker=$other_human
 msgid "Well, there is an easy way to find out."
-msgstr "好吧，有个简单的方法可以知道答案。"
+msgstr "好吧，有个简单的方法可以找到答案。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Indeed. Let us see."
-msgstr "确实如此。我们来看看。"
+msgstr "没错。我们去看看。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "I wonder what they are from. A large flightless bird perhaps? Let us see."
-msgstr "我想知道这些是什么物种的骨架。也许是一只不会飞的大鸟？我们来看看。"
+msgstr "我想知道这些是什么物种的骨架。也许是一只不会飞的大鸟？我们去看看。"
 
 #. [message]: speaker=$other_human
 #. [message]: speaker=Ardonna
@@ -1749,11 +1750,11 @@ msgstr "哦，你说对了！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I wonder if it could carry someone light. A skeleton maybe."
-msgstr "我想知道它能不能载上一个体重轻的人。或许一个骷髅可以。"
+msgstr "我想知道它能不能承载一个体重轻的人。或许一个骷髅可以。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Splendid! These birds could be quite useful."
-msgstr "太棒了！这些鸟会很有用的。"
+msgstr "太棒了！有了这些鸟我们就如虎添翼了。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit chocobones!"
@@ -1761,35 +1762,35 @@ msgstr "你现在可以征募骷髅鸟骑手了！"
 
 #. [set_variable]
 msgid "Hopefully this will be enough gold."
-msgstr "但愿这些金币足够了。"
+msgstr "但愿这些金币足够用。"
 
 #. [set_variable]
 msgid "We have won, but I am afraid this may not be enough gold."
-msgstr "我们赢了，但我担心这些金币并不够。"
+msgstr "我们赢了，但我担心这些金币不够用。"
 
 #. [set_variable]
 msgid "Good. We ended with a fair amount of gold."
-msgstr "很好。结果我们有了不少金币。"
+msgstr "很好。现在我们还有不少金币。"
 
 #. [message]: speaker=Okean
 msgid "You! You have destroyed the town of Carcyn!"
-msgstr "你！你摧毁了卡辛镇！"
+msgstr "是你！你摧毁了卡辛镇！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "The town is hardly destroyed. I just encouraged a change of leadership."
-msgstr "那镇子可不能说是被摧毁了。我不过是鼓励他们更换了领导层罢了。"
+msgstr "那镇子可不能说是被摧毁了。我只是鼓励他们更换了首领而已。"
 
 #. [message]: speaker=Okean
 msgid ""
 "Your words mock us. Those humans were valuable trading partners of ours. We "
 "will have justice!"
-msgstr "你嘲弄我们。那些人类是我们宝贵的贸易伙伴。我们将制裁你们！"
+msgstr "你竟敢这样和我们说话。那些人类是我们重要的贸易伙伴。我们要替他们报仇！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Actually, I expect you will follow them into the ground if you try to harm "
 "us."
-msgstr "实际上，如果你们要伤害我们，那我只能期望你们和他们一样下地狱去了。"
+msgstr "好吧，如果你们要伤害我们，那我只能希望你们和他们一样下地狱去了。"
 
 #. [message]: speaker=Ras-Tabahn
 #. here "you" means both Carcyn and Shynal
@@ -1799,11 +1800,11 @@ msgid ""
 "some. (<i>Cough, cough</i>)"
 msgstr ""
 "这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。你们"
-"帮我收集些金币吧。（<b>咳</b>）"
+"去帮我收集一些金币吧。（<b>咳</b>）"
 
 #. [message]: speaker=Carcyn
 msgid "Right away sir."
-msgstr "马上就干，老师。"
+msgstr "好的，我们现在就去。"
 
 #. [message]: speaker=Shynal
 msgid "Are you feeling well?"
@@ -1816,7 +1817,7 @@ msgstr "好，好。我感觉很好。"
 #. [message]: speaker=Shynal
 #. [message]: id=Carcyn,Shynal
 msgid "I don’t fancy wading in the water to fight these things."
-msgstr "我可不想到水里去和这些东西作战。"
+msgstr "我可不想去水里和这些东西作战。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "No problem. We can lure them onto land."
@@ -1825,7 +1826,7 @@ msgstr "没问题。我们可以把他们引诱到陆地上来。"
 #. [message]: speaker=Shynal
 #. [message]: id=Carcyn,Shynal
 msgid "How?"
-msgstr "怎么做？"
+msgstr "要怎么做？"
 
 #. [message]: speaker=Ras-Tabahn
 #. here "you" means both Carcyn and Shynal, translating it as if "you" meant only Shynal is also ok
@@ -1844,15 +1845,15 @@ msgstr ""
 
 #. [message]: id=Carcyn,Shynal
 msgid "Right away sir. Are you feeling well?"
-msgstr "马上就干，老师。您感觉还好吗？"
+msgstr "好的，我们现在就去。您感觉还好吗？"
 
 #. [message]: id=Carcyn,Shynal
 msgid "self_female^I don’t fancy wading in the water to fight these things."
-msgstr "我可不想到水里去和这些东西作战。"
+msgstr "我可不想去水里和这些东西作战。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Have you never been fishing before? With bait of course."
-msgstr "你从来都没有钓过鱼吗？当然是用鱼饵了。"
+msgstr "你们从来都没有钓过鱼吗？当然是用鱼饵了。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -1862,15 +1863,14 @@ msgid ""
 "should recruit some bait."
 msgstr ""
 "这会花掉我们很多钱，不过我想要留点儿金币以备急用——我觉得50枚就差不多了。我最"
-"好派人帮我收集些金币。（<b>咳</b>）我希望我能把这些小鱼引诱到陆地上来。也许我"
-"该征募一些鱼饵。"
+"好派人帮我收集些金币。（<b>咳</b>）我希望能把这些小鱼引诱到陆地上来。也许我该"
+"征募一些鱼饵。"
 
 #. [scenario]: id=11_Battleground
 msgid "Battleground"
 msgstr "战场"
 
 #. [part]
-#, fuzzy
 msgid ""
 "11 IV, 23 YW\n"
 "\n"
@@ -1883,11 +1883,12 @@ msgid ""
 msgstr ""
 "韦元23年4月11日\n"
 "\n"
-"拉斯塔班似乎是个可以接受的盟友。他和学院里那些平庸的教师可不一样。那些家伙自"
-"以为是，成天自说自话。他也从来没有因为我是个女孩而蔑视我，甚至都没提过我的头"
-"发。只要他还尊重我，那一切都会好的。如果他不尊重我了，那好吧，我可是被那些曾"
-"经以为我很弱的家伙们的遗骸包围着呢。"
+"拉斯塔班似乎是个可以接受的盟友。他和学院里那些呆板的老师们截然不同，那些家伙"
+"自以为是，成天自说自话。他从来没有因为我是个女孩而瞧不起我，甚至从不提我没有"
+"头发的事。只要他还继续尊重我，一切合作都会顺利进行。如果他不尊重我了，好吧，"
+"他就可以去见那些曾经轻视我的家伙们的遗骸了。"
 
+# indestructible: impossible to break or destroy不可毁灭的；无法破坏的
 #. [part]
 msgid ""
 "The question remains whether or not it is wise to trust him. As he said, I "
@@ -1901,8 +1902,8 @@ msgstr ""
 "但相信他是不是一个聪明的选择呢，这一点仍然是个问题。如他所说，现在我并不需要"
 "相信他，但如果我们要一起旅行，那么信任就变得必要了。他向我展示了幽灵那样非凡"
 "的东西，在获得我的信任方面，这一点对他很是有利。经过考虑之后，我决定信任他，"
-"但那只是暂时的。现在而言，我们的弱点都不少，而他肯定知道攻击我是不明智的。然"
-"而，如果他要先于我而变得更强大，那我聪明的做法就该是保持警惕了。"
+"但那只是暂时的。现在而言，我们的弱点都不少，而他肯定知道攻击我是不明智的。无"
+"论如何，如果他要先于我变得永生不死，那我就该保持警惕了。"
 
 #. [part]
 msgid ""
@@ -1915,19 +1916,17 @@ msgid ""
 "bleached white bones jutting from the wreckage."
 msgstr ""
 "我一踏上那曾经发生过战斗的场所，便一眼认出了它来。诸多要塞隔着如今已被淹没的"
-"盆地相望。路边是缓流的水洼，每一处表面上都有腐烂的污泥。武器、盔甲以及更不易"
-"辨认的残物浮现在沼泽中。我能轻易地想象出巨大的攻城器械用巨石轰击如今已然成为"
-"一片坍塌废墟的城墙的情景，以及现在已是废墟之上突兀而出的森森白骨的士兵们互相"
-"砍杀的景象。"
+"盆地相望。道路附近满是积聚的水洼，每一处表面上都有腐烂的污泥。武器、盔甲以及"
+"不易辨认的残片浮现在沼泽中。我能轻易地想象出巨大的投石车在如今已已是坍塌废墟"
+"的城墙上投掷石块，以及现在已是森森白骨的士兵们互相砍杀的景象。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Well, these combatants were going to get a second chance for glory when they "
 "fought for me. The more strong-willed among them may even remember desiring "
 "it."
 msgstr ""
-"好吧，等这些士兵为我而战之时，它们又会得到一次获取荣耀的机会。他们之中意志更"
+"好吧，等这些士兵为我而战之时，它们又会得到一次获得荣耀的机会。他们之中意志更"
 "加坚强的那些，甚至还可能记得自己曾经渴望荣耀。"
 
 #. [side]: type=Saurian Soothsayer, id=Krissaz
@@ -1952,11 +1951,12 @@ msgstr "连克斯克普"
 msgid "Defeat all enemy leaders"
 msgstr "击败所有敌方首领"
 
+# load: a large quantity of something that is carried by a vehicle, person etc 〔车辆、人等的〕负载物
 #. [message]: speaker=Blianxkep
 msgid ""
 "The fish people gave good value for the last load. More metal of that type "
 "is desired."
-msgstr "最后那一票我们从鱼人身上赚了不少。我还想要那种金属，更多。"
+msgstr "鱼人们对最后一批货给予了很好的评价。我还想要更多这种类型的金属。"
 
 #. [message]: speaker=Krissaz
 msgid "Firssst, pay us our ssshare."
@@ -1966,15 +1966,13 @@ msgstr "嘶嘶，首先，把分成付给我们。"
 msgid "Wait, who approaches?"
 msgstr "等等，是谁来了？"
 
-# 原翻译有歧义
-# 对诸位友好的 / 蜥蜴没有威胁
 #. [message]: speaker=Ardonna
 msgid ""
 "I am a mage and not a threat to you gentle... reptiles. I wish only to "
 "animate some spirits, so I won’t disturb your salvage operation."
 msgstr ""
-"我是一名法师，不会伤害诸位友好的……蜥蜴。我只想复苏一些灵魂，这样我便不会打扰"
-"你们的抢收行动。"
+"我是一名法师，对你们没有威胁，蜥蜴...先生。我只想复苏一些灵魂，我并不想打扰你"
+"们的分成谈判。"
 
 #. [message]: speaker=Krissaz
 msgid ""
@@ -1982,37 +1980,40 @@ msgid ""
 "already won’t come here, and we are forced to rely on these ssserpents for "
 "protection."
 msgstr ""
-"不！你不能让这个地方闹更多的鬼！雌嘶嘶性们已经不愿意来这儿了，我们不得不靠这"
-"些蛇来保护自己。"
+"不！你不能让这个地方变得比现在更让人不寒而栗了！嘶嘶，雌性们早就不愿意来这儿"
+"了，我们不得不靠这些蛇来保护自己。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "I was only informing you out of courtesy. In truth, I don’t require your "
 "permission."
-msgstr "我只是出于礼貌才告诉你们这些的，我可不需要你们的允许。"
+msgstr "我只是出于礼貌来通知你们，并不是来和你们商量的。"
 
+# 1. drive off: drive somebody ↔ off to force a person or animal to go away from you 赶走某人[动物]
+# 2. in full: including the whole of something
 #. [message]: speaker=Blianxkep
 msgid ""
 "We will help you drive off this foe if you will consider your share paid in "
 "full."
 msgstr ""
-"我们会帮你们赶走这个敌人，如果你愿意认为我们已经全部支付了你们的分成的话。"
+"如果你愿意考虑一下，就当是我们已经全部支付了你们的分成的话，我们会帮你们击退"
+"这个敌人。"
 
 #. [message]: speaker=Krissaz
 msgid ""
 "When the mage isss dead and her dead horde put to ressst, we agree. We will "
 "have been compensssated adequately."
 msgstr ""
-"等这个法师死嘶嘶掉，而她的亡灵大军停息的时候，我们就会同意。到那时嘶嘶我们就"
-"已经拿到适当的补偿了。"
+"嘶嘶，等这个法师死掉，而她的亡灵大军停止进攻的时候，我们就会同意。嘶嘶，这就"
+"当作分成的补偿了。"
 
 #. [message]: speaker=Ardonna
 msgid "Every time..."
-msgstr "每次都是……"
+msgstr "每次都是这样……"
 
 #. [message]: speaker=Ardonna
 msgid "Good. Now I can practice recruiting ghosts."
-msgstr "很好。现在你可以练习征募幽灵了。"
+msgstr "很好。现在我可以练习征募幽灵了。"
 
 #. [message]: speaker=narrator
 msgid "You can now recruit ghosts!"
@@ -2024,7 +2025,7 @@ msgstr "人类，带我一起走吧！"
 
 #. [message]: speaker=Ardonna
 msgid "Why should I allow that? Your people attacked me!"
-msgstr "我为什么要让你跟着我呢？你们的人攻击了我！"
+msgstr "我为什么要答应你？你们的人攻击我！"
 
 #. [message]: speaker=Vendraxis
 msgid ""
@@ -2032,14 +2033,15 @@ msgid ""
 "learn. My race livesss but a short time compared to yoursss. I would learn "
 "to exssstend my ssspan, and the planetsss told me you know this sssecret."
 msgstr ""
-"我试嘶嘶着阻止他们了！个人而言，我可不想攻击。我想要学习。和你的族人相比，我"
-"们种族的寿命很短。我想要学会延寿之法，而星相告诉我，你知道这一秘密。"
+"嘶嘶，我试着阻止他们了！对我来说，我可不想打仗。我想要的是知识。嘶嘶，和你的"
+"族人相比，我们种族的寿命很短。嘶嘶，我想要学会延寿之法，而星相告诉我，你知道"
+"这一秘密。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "Actually, I am searching for that secret now. But could you follow the "
 "orders of a woman?"
-msgstr "实际上，我正在搜寻这一秘密。但你能听从一个女人的命令吗？"
+msgstr "实际上，我正在探寻这一秘密。但你能听从一个女人的命令吗？"
 
 #. [message]: speaker=Vendraxis
 msgid ""
@@ -2048,27 +2050,29 @@ msgid ""
 "frightening and forbidden by my clan. I sssubmit to your power. Now that I "
 "know you are female, I will find it easier as it isss the way of my kind."
 msgstr ""
-"我注目过繁星之间的黑暗，而并没有被那虚无所吓，但你的心中却有另一种黑暗，我的"
-"部族害怕这黑暗，也禁止我们接触它。我听从你的命令。现在我知道你是女性了，我觉"
-"得服从于你更加容易，因为这就是我们一族的做法。"
+"嘶嘶，我凝视过繁星之间的黑暗深邃，并没有被虚无缥缈所吓倒，但你的心中却存在另"
+"一种黑暗，嘶嘶，我的族人惧怕怕这黑暗，心生忌惮。嘶嘶，我听从你的命令。现在我"
+"知道你是女性，我觉的这更易于我们相处，因为这是我们一族待人处世的方式。"
 
 #. [message]: speaker=Ardonna
 msgid "Very well, come along. I am Ardonna."
-msgstr "很好，一起来吧。我是阿冬娜。"
+msgstr "好，那就一起吧。我叫阿冬娜。"
 
+# untrue:  not based on facts that are correct 不真实的，假的
 #. [message]: speaker=Vendraxis
 msgid ""
 "Yesss, but the planetsss tell me your name isss now untrue. I do not "
 "underssstand thisss."
-msgstr "是嘶嘶，但星相告诉我你的名字现在不再真实了。我不理解。"
+msgstr "嘶嘶，太好了，但星相告诉我你的名字是假的。我不明白。"
 
 #. [message]: speaker=Ardonna
 msgid "Nor do I. Your planets are quite cryptic."
-msgstr "我也不理解。你的星相很神秘。"
+msgstr "我也不明白。你的星相很神秘。"
 
 #. [message]: speaker=Vendraxis
+#, fuzzy
 msgid "They reveal what they will."
-msgstr "它们只揭示它们将揭示之物。"
+msgstr "它们只揭示事物的本质。"
 
 #. [scenario]: id=12_Walking_Trees
 msgid "Walking Trees"
@@ -3862,24 +3866,20 @@ msgid "You can now raise swimming corpses!"
 msgstr "你现在可以征募水行僵尸了！"
 
 #. [value]: type=SotA Walking Corpse_Saurian
-#, fuzzy
 msgid "recruit^Walking Corpse (Saurian)"
-msgstr "新兵^行尸走肉（索尔人）"
+msgstr "征募^陆行僵尸（蜥蜴人）"
 
 #. [value]: type=SotA Walking Corpse_Saurian
-#, fuzzy
 msgid "You can now raise saurian corpses!"
-msgstr "你现在可以征募鬼魂了！"
+msgstr "你现在可以征募僵尸蜥蜴人了！"
 
 #. [value]: type=SotA Walking Corpse_Wose
-#, fuzzy
 msgid "recruit^Walking Corpse (Wose)"
-msgstr "复苏行尸（8枚金币）"
+msgstr "征募^陆行僵尸（树人）"
 
 #. [value]: type=SotA Walking Corpse_Wose
-#, fuzzy
 msgid "You can now raise wose corpses!"
-msgstr "你现在可以征募骷髅鸟骑手了！"
+msgstr "你现在可以征募僵尸树人了！"
 
 #. [value]: type=SotA Walking Corpse_Goblin
 msgid "recruit^Walking Corpse (Goblin)"
@@ -3890,14 +3890,12 @@ msgid "You can now raise goblin corpses!"
 msgstr "你现在可以征募僵尸地精了！"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
-#, fuzzy
 msgid "recruit^Flying Corpse (Gryphon)"
-msgstr "新兵^飞尸（麒麟）"
+msgstr "征募^陆行僵尸（狮鹫）"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
-#, fuzzy
 msgid "You can now raise gryphon corpses!"
-msgstr "你现在可以征募鬼魂了！"
+msgstr "你现在可以征募僵尸狮鹫了！"
 
 #. [value]: type=SotA Walking Corpse_Spider
 msgid "recruit^Walking Corpse (Spider)"
