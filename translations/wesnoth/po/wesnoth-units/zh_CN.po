@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-30 12:48+0800\n"
+"PO-Revision-Date: 2022-02-03 17:53+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
 msgid "female^Dune Falconer"
-msgstr "沙丘驯鹰师"
+msgstr "沙丘驯隼师"
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
 msgid ""
@@ -1096,18 +1096,18 @@ msgid ""
 "the least, forcing them to abandon their efforts on offense in order to "
 "defend themselves properly."
 msgstr ""
-"虽然在沙丘游民中很受尊重，但由于正确训练猛禽所需的时间很长，能力要求很高，故"
-"驯鹰术相对罕见。驯鹰师通常将他们的技艺用于运动或狩猎，尤其是在空旷的沙丘上侦"
-"察猎物和水源。同样的智慧在战时也很有用——若是可以说服驯鹰师将他们的珍贵宠物用"
-"于战斗目的的话。\n"
+"虽然在沙丘游民中很受尊重，但正确训练猛禽所需的时间很长，能力要求很高，故驯隼"
+"术相对罕见。驯隼师通常将他们的技艺用于运动或狩猎，尤其是在空旷的沙丘上侦察猎"
+"物和水源。同样的智慧在战时也很有用——若是可以说服驯隼师将他们的珍贵宠物用于战"
+"斗目的的话。\n"
 "\n"
-"在战斗中，猎隼可以帮助它的主人，用它锋利的爪子攻击敌人，也可以上升到高空，在"
-"头顶盘旋，在敌人转移注意力时发动攻击。让战士的注意力分散到两个目标上，至少可"
-"以说是相当消耗精力的，这迫使他们放弃进攻，以适当地保护自己。"
+"在战斗中，隼可以帮助主人，用锋利的爪子攻击敌人，也可以上升到高空，在头顶盘"
+"旋，在敌人转移注意力时发动攻击。让战士的注意力分散到两个目标上，至少可以说是"
+"相当消耗精力的，这迫使他们放弃进攻，以适当地保护自己。"
 
 #. [attack]: type=blade
 msgid "falcon"
-msgstr "猎隼"
+msgstr "隼"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 msgid "Dune Firetrooper"
@@ -1447,6 +1447,8 @@ msgstr ""
 "者之间的相互牵绊。雕不仅是战斗工具，它们可以活上几十年，往往是它们的沙丘游民"
 "搭档的宝贵伙伴。"
 
+# Eagle：雕
+# Hawk：鹰
 #. [attack]: type=blade
 msgid "eagle"
 msgstr "雕"
