@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-02-03 21:41-0500\n"
+"PO-Revision-Date: 2022-02-06 15:44-0500\n"
 "Last-Translator: David Sun <davidsun.studio@outlook.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2033,8 +2033,8 @@ msgid ""
 "learn. My race livesss but a short time compared to yoursss. I would learn "
 "to exssstend my ssspan, and the planetsss told me you know this sssecret."
 msgstr ""
-"嘶嘶，我试着阻止他们了！对我来说，我可不想打仗。我想要的是知识。嘶嘶，和你的"
-"族人相比，我们种族的寿命很短。嘶嘶，我想要学会延寿之法，而星相告诉我，你知道"
+"嘶嘶，我试着阻止他们了！对我来说，我可不想打仗。我想向你们学习。嘶嘶，和你的"
+"族人相比，我们种族的寿命很短。嘶嘶，我想要学习长寿之法，而星相告诉我，你知道"
 "这一秘密。"
 
 #. [message]: speaker=Ardonna
@@ -2050,9 +2050,9 @@ msgid ""
 "frightening and forbidden by my clan. I sssubmit to your power. Now that I "
 "know you are female, I will find it easier as it isss the way of my kind."
 msgstr ""
-"嘶嘶，我凝视过繁星之间的黑暗深邃，并没有被虚无缥缈所吓倒，但你的心中却存在另"
-"一种黑暗，嘶嘶，我的族人惧怕怕这黑暗，心生忌惮。嘶嘶，我听从你的命令。现在我"
-"知道你是女性，我觉的这更易于我们相处，因为这是我们一族待人处世的方式。"
+"嘶嘶，我凝视过繁星之间的幽暗深邃，并没有被虚无缥缈所吓倒，但你的心中却存在另"
+"一种黑暗，嘶嘶，我的族人惧怕这黑暗，心生忌惮。嘶嘶，我听从你的命令。现在我知"
+"道你是女性，我觉的这更易于我们相处，因为这是我们一族待人处世的方式。"
 
 #. [message]: speaker=Ardonna
 msgid "Very well, come along. I am Ardonna."
@@ -2063,14 +2063,13 @@ msgstr "好，那就一起吧。我叫阿冬娜。"
 msgid ""
 "Yesss, but the planetsss tell me your name isss now untrue. I do not "
 "underssstand thisss."
-msgstr "嘶嘶，太好了，但星相告诉我你的名字是假的。我不明白。"
+msgstr "嘶嘶，太好了，但星相告诉我你的名字现在不再真实了。我不明白。"
 
 #. [message]: speaker=Ardonna
 msgid "Nor do I. Your planets are quite cryptic."
 msgstr "我也不明白。你的星相很神秘。"
 
 #. [message]: speaker=Vendraxis
-#, fuzzy
 msgid "They reveal what they will."
 msgstr "它们只揭示事物的本质。"
 
@@ -2093,11 +2092,11 @@ msgid ""
 msgstr ""
 "韦元23年4月17日\n"
 "\n"
-"我达成了首要目标，同时也迫使了一些幽灵为我卖命。同时，我有了一名很有治疗才能"
-"的同伴。我怀疑拉斯-塔班还并没有到达指定的地点，但我还是想要加快速度，于是我们"
-"便以我们最快的速度沿着精灵之路向北前行。幸运的是，这路并没有年久失修，虽然在"
-"有些敌方它被长出的植物所覆盖，只留下一些鹅卵石，标记着路的位置。第二天，我们"
-"仍然在丛林深处，那时，我们遇到了一名精灵女巫。"
+"我达成了首要目标，同时也迫使了一些幽灵为我卖命。同时，一名有治疗天赋的新同伴"
+"加入了我的队伍。我怀疑拉斯-塔班已经在指定地点等候了，但我还是想要加快速度，于"
+"是我们便以我们最快的速度沿着精灵之路向北前行。幸运的是，这路并没有年久失修，"
+"尽管许多地方杂草丛生，只留下几块光滑的鹅卵石作为路标。第二天，当我们在丛林深"
+"处前行时，我们遇到了一名精灵女巫。"
 
 #. [side]
 msgid "Forest"
@@ -2111,7 +2110,6 @@ msgstr "伊丝忒馨妮尔"
 msgid "Move Ardonna to the northeast corner of the map"
 msgstr "移动阿冬娜至地图东北角"
 
-# 原文第二句非常奇怪？
 #. [message]: speaker=Isthiniel
 msgid ""
 "I felt our dead stirring and corruption descending on the forest. When I "
@@ -2121,26 +2119,28 @@ msgid ""
 "enslaved."
 msgstr ""
 "我感到我们死去的族人又活动起来，腐坏之物正降临到这片森林。当我出发去调查时，"
-"我原以为我会发现这是冷酷而面目模糊的力量所干的好事。但相反，我却发现一名人类"
-"法师正大胆地在我们的路上行进！我不会允许你继续打扰我们的安宁，而你必须立刻释"
-"放你奴役的亡魂们。"
+"我原以为我会发现这是可怕的、隐秘的力量在驱动着。但相反，我却发现一名人类法师"
+"正大胆地在我们的路上行进！我不会允许你继续打扰我们的安宁，而你必须立刻释放你"
+"奴役的亡魂们。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "Well, that I won’t do. However, if you do not attack, you will be rid of me "
 "soon, as I only wish to leave these woods."
 msgstr ""
-"呵，我不会那么做。不过，如果你不攻击我，也就很快不用忍受我了，我只不过是想离"
-"开这丛林而已。"
+"嗯，我不会那么做。不过，如果你不攻击我，很快就不会觉得我碍眼了，因为我只想穿"
+"过这片丛林而已。"
 
+# cast somebody/something ↔ out: to force someone or something to leave a place 把…赶走，驱逐
 #. [message]: speaker=Isthiniel
 msgid ""
 "Attack? No, I cannot. Most of my people won’t come here; it is only duty "
 "that drives me. However, the woods themselves are disturbed, and they will "
 "cast you out on their own. I can feel them awaken."
 msgstr ""
-"攻击？不，我不会攻击你。我大多数族人都不会来这儿；我只因职责驱使而来到此地。"
-"不过，丛林自身已经被打扰了，他们将会自己把你赶出去。我能感到他们已经苏醒了。"
+"攻击？不，我不会攻击你。我大多数族人都不会来这儿；来这里巡查是我的职责。不"
+"过，丛林中的树木们已经被打扰，他们将会凭借自己的力量驱逐你们。我可以感觉到他"
+"们的觉醒。"
 
 #. [unit]: type=Ancient Wose, id=Dolmathengalin
 msgid "Dolmathengalin"
@@ -2148,7 +2148,7 @@ msgstr "多尔玛森伽林"
 
 #. [message]: speaker=Dolmathengalin
 msgid "You are greeted daughter of elves. Why does the forest moan in despair?"
-msgstr "致安，精灵之女。森林缘何绝望地悲叹？"
+msgstr "你好，精灵之女。为什么森林会发出绝望的呻吟？"
 
 #. [message]: speaker=Vendraxis
 msgid "That tree can talk!"
@@ -2159,8 +2159,8 @@ msgid ""
 "That dark mage has woken our dead and stifles the air with her very "
 "presence. Please wake your people, Elder, and destroy her."
 msgstr ""
-"那名黑暗法师让我们死去的族人复苏了，仅仅是她的存在就让这空气变得让人窒息。请"
-"唤醒你的族人，长者，并摧毁她。"
+"那名黑暗法师让我们死去的族人复苏了，仅仅是她的存在就让这空气变得另人窒息。请"
+"唤醒你的族人，长老，消灭她。"
 
 #. [message]: speaker=Dolmathengalin
 msgid "This shall be done."
@@ -2185,23 +2185,24 @@ msgid ""
 msgstr ""
 "韦元23年4月21日\n"
 "\n"
-"要不是有幽灵的帮忙，我根本不可能从那些树的手底下逃脱。它们已经证明了自己的价"
-"值，还救了我的命。因此在我看来，拉斯-塔班的地位也上升了。在逃离树林之后，我们"
-"在路途上并没有遇到新的抵抗。很快，我们便到达了会面地点，而拉斯-塔班正在那儿等"
-"着。"
+"要不是有这些幽灵的帮忙，我根本不可能从那些树人的手底下逃脱。它们已经证明了自"
+"己的价值，还救了我的命。因此在我看来，拉斯-塔班的地位也上升了。在逃离树林之"
+"后，我们在路途上并没有遇到新的抵抗。很快，我们便到达了会面地点，而拉斯-塔班正"
+"在那儿等着。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Greetings Ardonna! (<i>Cough</i>) I was successful, and I see that you were "
 "as well."
-msgstr "你好啊阿冬娜！（<b>咳</b>）我成功了，我看到你也成功了。"
+msgstr "你好阿冬娜！（<b>咳</b>）我很顺利，我看你干的也很不错。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "Well met, Ras-Tabahn. Yes I was. Now, can you explain the mission you spoke "
 "of?"
 msgstr ""
-"幸会，拉斯-塔班。是的，我成功了。现在，你能解释一下你所说的任务是什么了吗？"
+"又见面了，拉斯-塔班。是的，虽然有一些阻挠，但都没难到我。现在，你能解释一下你"
+"所说的任务是什么了吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -2210,15 +2211,15 @@ msgid ""
 "Green Isle directly, he undoubtedly knows more than we about their methods. "
 "Recently, I have learned where to find him."
 msgstr ""
-"乐意之至。我想你在历史课上肯定研习过有关大法师克雷拉努的知识。他和哈德里克一"
-"世国王并肩作战。由于他直面过绿岛的不死领主们，那毫无疑问，他对他们的手段的了"
-"解，肯定比我们的了解要多。最近，我得知了该去哪里找他。"
+"我很高兴可以解释给你听。我想你在历史课上肯定研习过有关大法师克雷拉努的知识。"
+"他和哈德里克一世国王并肩作战。由于他直接面对过绿岛的不朽领主们，他无疑比我们"
+"更了解他们的方法。最近，我已经知道在哪里可以找到他。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "Of course I know about Crelanu. But can we force him to reveal his knowledge "
 "to us?"
-msgstr "我当然知道克雷拉努。但我们能逼他向我们袒露他所知道的东西吗？"
+msgstr "我当然知道克雷拉努。但我们能迫使他把知道的东西都告诉我们吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
@@ -2228,9 +2229,9 @@ msgid ""
 "something I could accomplish on my own, but now, with a force such as ours, "
 "it should be easily done."
 msgstr ""
-"那没必要。我还得知他写了一本书，内里有他所有的秘密，那么那本书也肯定包含了他"
-"所知晓的关于长生不老术的所有知识。我们只需要借到这本书。我知道要获得这本书，"
-"光靠我自己是做不到的，但现在，有我们这么大的一支队伍，要拿到书很容易。"
+"那到没必要。我还得知他写了一本书，内里有他所有的秘密，肯定也包含了长生不老术"
+"的所有内容。我们只需要借到这本书。我知道要得到这本书，光靠我自己是做不到的，"
+"但现在，有我们这么大的一支队伍，要拿到书很容易。"
 
 #. [message]: speaker=Ardonna
 msgid ""
@@ -2242,10 +2243,9 @@ msgstr "是的，这看起来是个成功几率很高的计划。我会协助你
 msgid ""
 "I thought as much. We must cross the Great River, and head north into the "
 "Heart Mountains."
-msgstr "我就知道你会这样说。我们必须横渡泰河，往北进入心之山脉。"
+msgstr "我也是这么想的。我们必须横渡泰河，往北进入心之山脉。"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid ""
 "Before we leave, I have an unrelated question. Vendraxis here has said that "
 "my name is untrue. Do you have an idea what that could mean?"
@@ -2254,7 +2254,6 @@ msgstr ""
 "代表着什么吗？"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid ""
 "Before we leave, I have an unrelated question. I met a mystic who said that "
 "my name was untrue. Do you have an idea what that could mean?"
@@ -2263,7 +2262,6 @@ msgstr ""
 "了。你知道这代表着什么吗？"
 
 #. [message]: speaker=Ras-Tabahn
-#, fuzzy
 msgid ""
 "Possibly. When an Academy mage completes his studies, he is granted "
 "syllables of power, which become his new name. You are well beyond that "
@@ -2272,12 +2270,11 @@ msgid ""
 "no longer suited."
 msgstr ""
 "我或许知道。当一名学院里的法师完成学业之时，会被授予力之音节，而这些音节便会"
-"成为他的新名字。你已经远远超出了那个阶段，但你如今是自由法师的一员，所以选择"
-"自己的名字吧。我原先叫做拉辛·塔宾，但那个名字太普通了，而到了某个时刻，它就不"
-"再合适了。"
+"成为他的新名字。你已经远远超出了那个阶段，你如今是自由法师的一员，所以选择自"
+"己的名字吧。我原先叫做拉辛·塔宾，但那个名字太普通了，而到了某个时刻，它就不再"
+"合适了。"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid ""
 "I suppose you are right. I am no longer the ordinary girl Ardonna, and "
 "Vendraxis was correct. From now on I shall be... Ardryn-Na."
@@ -2302,7 +2299,6 @@ msgid "<i>Chapter Three:</i> To Conquer Death"
 msgstr "<b>第三章：</b>征服死亡"
 
 #. [part]
-#, fuzzy
 msgid ""
 "24 IV, 23 YW\n"
 "\n"
@@ -2321,10 +2317,10 @@ msgstr ""
 "\n"
 "当晨光自北方山峰的背面射来，铺满大地之时，我们到达了雅碧滩。我们涉水而过，暗"
 "色的水淹到了腰部，我们只能缓慢前行。我不敢想象有什么触手怪物潜伏在河底下，但"
-"我们平安无事地过了河。雪融化入水，河水彻骨地冷，因而到达对岸时，我们冷得牙齿"
-"直颤。还好旭日很温暖，很快便把我们晒干了。尽管如此，拉斯-塔班的情况却不好。他"
-"瘫倒在沙地里，猛烈咳嗽起来，我可从没见过这么严重的症状。等他终于可以说话的时"
-"候，他向我保证说这只是因为寒冷而已，我不必担心，但我还是很不放心。"
+"我们平安无事地过了河。河水因融雪而变得冰冷，当我们到达远处的岸边时，我们的牙"
+"齿都在打颤。还好初升的太阳很温暖，很快便把我们晒干了。尽管如此，拉斯-塔班的情"
+"况却不好。他瘫倒在沙地里，猛烈咳嗽起来，我可从没见过这么严重的症状。等他终于"
+"可以说话的时候，他向我保证说这只是因为寒冷，我不必担心，但我还是很不放心。"
 
 #. [side]: type=Orcish Warlord, id=Rod-Ishnak
 #. [side]: type=Orcish Warlord, id=Vok-Hroog
@@ -2344,21 +2340,20 @@ msgid "Krongk"
 msgstr "隆克"
 
 #. [message]: speaker=Vendraxis
-#, fuzzy
 msgid ""
 "I have a sssense of dark foreboding regarding the sssnowy peaksss ahead. We "
 "may meet our doom if we don’t have enough coinsss."
 msgstr ""
-"我感到前方的雪嘶嘶山之中有黑暗笼罩。如果我们的金币不够用，恐怕会嘶嘶丧命于"
-"此。"
+"嘶嘶，我对前方的雪峰有一种不详的预感。如果我们的金币不够用，嘶嘶，恐怕会丧命"
+"于此。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "The passes to the north are the end of many travelers. We would be wise to "
 "reach them with a reserve of gold. (<i>Cough, cough</i>)"
 msgstr ""
-"往北去的通道断送了许多旅行者的命。用些金币来接触他们，是明智的。（<b>咳，咳</"
-"b>）"
+"往北去的通道断送了许多旅行者的命。储备一些金币保存实力，是明智的选择。（<b>"
+"咳，咳</b>）"
 
 #. [message]: speaker=Krongk
 msgid "They’re attacking me!"
@@ -2366,32 +2361,33 @@ msgstr "他们在攻击我！"
 
 #. [message]: speaker=Vok-Hroog
 msgid "Yeah, yeah."
-msgstr "是啊，是啊。"
+msgstr "来吧，开始吧。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "We have crossed into the north. The dwarven kingdom of Knalga lies straight "
 "ahead."
-msgstr "我们已经过河到了北方。矮人王国纳尔迦就在正前方。"
+msgstr "我们已经到了北方地区。矮人王国纳尔迦就在正前方。"
 
 #. [message]: speaker=Shynal
 msgid ""
 "Now I’m really far from home. I’ve never been north of the river before. I "
 "hope I get to see some dwarves!"
 msgstr ""
-"现在我真是离家乡很远了。我可从来没有来过泰河的北面。我希望能见到些矮人！"
+"真的，第一次我离家乡这么远。我从来没有来过泰河的北面。我希望能见到些矮人！"
 
+# true: if a type of animal breeds true, the young animals are exactly like their parents 〔动物〕纯种地〔繁殖〕
 #. [message]: speaker=Vok-Hroog
 msgid ""
 "I claim this territory in the name of Krag-Ubor, the ruler of all true orcs! "
 "Leave now, Ishnak, or face the combined wrath of the five tribes."
 msgstr ""
-"我以拉格-阿博，所有真正兽人的领袖的名义占据此地！现在离开，伊什纳克，不然就准"
-"备好面对五个部落聚起的愤怒吧。"
+"我以拉格-阿博，所有纯血兽人领袖的名义占据此地！现在离开，伊什纳克，不然就准备"
+"好面对五个部落燃起的熊熊怒火吧。"
 
 #. [message]: speaker=Rod-Ishnak
 msgid "I arrived first, Hroog. It’s mine!"
-msgstr "我先来的，鲁格。这地方是我的！"
+msgstr "我先来的，拉格。这地方是我的！"
 
 #. [message]: speaker=Ardonna
 msgid "This could be trouble."
@@ -2415,8 +2411,8 @@ msgid ""
 "a contest. Whoever kills the most wizards and skeletons and stuff takes this "
 "territory and all the human slaves."
 msgstr ""
-"巫师还有死鬼，就像老家一样！我<b>厌恶</b>他们！我提议我们来比一场吧。谁杀的巫"
-"师和骷髅还有别的玩意儿最多，谁就能占有这块领地还有全部的人类奴隶。"
+"巫师还有死鬼，就像老家一样！我<b>厌恶</b>他们！我提议我们来比一场吧。谁杀了最"
+"多的巫师和骷髅之类的东西，谁就能得到这块领地和所有的人类奴隶。"
 
 #. [message]: speaker=Vok-Hroog
 msgid "Huh. Fine. That sounds like good sport."
@@ -2425,7 +2421,7 @@ msgstr "哈。好啊。这听起来是个不错的运动项目。"
 #. [message]: speaker=Krongk
 msgid ""
 "I declare this competition official. I will support the claim of the winner."
-msgstr "我宣布这场竞赛有效。我将会支持胜利者的要求。"
+msgstr "我宣布这场比赛有效。我将会支持胜利者的要求。"
 
 #. [message]: speaker=Ardonna
 msgid "I did say this was trouble."
@@ -2433,7 +2429,7 @@ msgstr "我说过会有麻烦的。"
 
 #. [message]: speaker=Shynal
 msgid "But we’ll win, won’t we?"
-msgstr "但我们会赢的，不是吗？"
+msgstr "但我们肯定会赢的，不是吗？"
 
 #. [scenario]: id=15_Mountain_Pass
 msgid "Mountain Pass"
@@ -3551,7 +3547,6 @@ msgid "Urgh."
 msgstr "啊。"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid "But I don’t know how to bring you back yet!"
 msgstr "但我还不知道怎么让你复活啊！"
 
@@ -3564,7 +3559,6 @@ msgid "Bring her back. Please!"
 msgstr "让她复活吧。求你了！"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid "I’m not sure that’s such a good..."
 msgstr "我不确定这是个好……"
 
@@ -3604,32 +3598,26 @@ msgid "I will miss you."
 msgstr "我会想你的。"
 
 #. [message]: speaker=Vendraxis
-#, fuzzy
 msgid "Now I will never learn the sssecret of exssstending my ssspan."
-msgstr "现在，我永远也学不到延长我寿命的秘诀了。"
+msgstr "现在，我永远也学不到延长寿命的秘诀了。"
 
 #. [message]: speaker=Carcyn
-#, fuzzy
 msgid "I’m going to miss him."
 msgstr "我会想念他的。"
 
 #. [message]: speaker=Ras-Tabahn
-#, fuzzy
 msgid "Unfortunate. He was useful."
-msgstr "不幸的是。他是有用的。"
+msgstr "真不走运。他在团战中作用很大。"
 
 #. [message]: speaker=Shynal
-#, fuzzy
 msgid "Yes, he was helpful."
-msgstr "是的，他很有帮助。"
+msgstr "是的，他的天赋有助于赢得胜利。"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid "Indeed, he will be missed."
-msgstr "的确，我们会想念他。"
+msgstr "的确，我们会想念他的。"
 
 #. [message]: speaker=Ardonna
-#, fuzzy
 msgid "Don’t worry, my pet. I can save you."
 msgstr "别担心，我的宠物。我可以救你。"
 
@@ -3906,14 +3894,12 @@ msgid "You can now raise spider corpses!"
 msgstr "你现在可以征募僵尸蜘蛛了！"
 
 #. [value]: type=SotA Walking Corpse_Troll
-#, fuzzy
 msgid "recruit^Walking Corpse (Troll)"
-msgstr "复苏行尸（8枚金币）"
+msgstr "征募^陆行僵尸（巨魔）"
 
 #. [value]: type=SotA Walking Corpse_Troll
-#, fuzzy
 msgid "You can now raise troll corpses!"
-msgstr "你现在可以征募鬼魂了！"
+msgstr "你现在可以征募僵尸巨魔了！"
 
 #. [value]: type=SotA Walking Corpse_Dwarf
 msgid "recruit^Walking Corpse (Dwarf)"
@@ -3924,7 +3910,6 @@ msgid "You can now raise dwarf corpses!"
 msgstr "你现在可以征募僵尸矮人了！"
 
 #. [message]: speaker=narrator
-#, fuzzy
 msgid "A lua error has occurred, and a corpse cannot be recruited."
 msgstr "发生了一个lua错误，无法征募到僵尸。"
 
