@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-01-12 08:32+0800\n"
+"PO-Revision-Date: 2022-02-08 15:59+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -50,7 +50,6 @@ msgid "Lord"
 msgstr "领主"
 
 #. [campaign]: id=Sceptre_of_Fire
-#, fuzzy
 msgid ""
 "<i>The mark of Wesnoth’s banner bold\n"
 "Comes not from its own land;\n"
@@ -71,9 +70,8 @@ msgstr ""
 "\n"
 
 #. [campaign]: id=Sceptre_of_Fire
-#, fuzzy
 msgid "(Hard level, 10 scenarios.)"
-msgstr "（困难级别，9幕场景。）"
+msgstr "（困难级别，10幕场景。）"
 
 #. [about]
 msgid "Campaign Design"
@@ -92,7 +90,6 @@ msgid "Artwork and Graphics Design"
 msgstr "美工与图像设计"
 
 #. [editor_group]: id=sof
-#, fuzzy
 msgid "Sceptre of Fire"
 msgstr "圣火权杖"
 
@@ -130,7 +127,6 @@ msgid "Elves"
 msgstr "精灵"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Ay, the Sceptre of Fire. The sceptre has a long, glorious, and fearful "
 "history. But I am not here to tell you how the jewel within it was brought "
@@ -138,9 +134,9 @@ msgid ""
 "and the challenge he set, or that of Konrad, King of Wesnoth by virtue of "
 "the Sceptre."
 msgstr ""
-"啊，圣火权杖。这权杖的历史，悠久，光荣而又可怖。但在这里，我不会向你讲述哈德"
-"里克大帝将权杖中的宝石带过大洋的故事，也不会向你讲述伽拉德一世和他所设下的考"
-"验的故事，更不会向你讲述科纳德——由于这权杖而成为韦诺之王的男人的故事。"
+"啊，圣火权杖。这权杖的历史，悠久、光荣而又可怖。但在这里，我不会讲述哈德里克"
+"大帝将权杖中的宝石带过泰洋的故事，也不会讲述伽拉德一世和他设下的考验的故事，"
+"更不会讲述科纳德由于这权杖而成为韦诺之王的故事。"
 
 #. [part]
 msgid ""
@@ -148,21 +144,20 @@ msgid ""
 "dwarfdom. And of the dwarves who made it; for they were great, they were. "
 "They are counted among the greatest of the heroes of ancient Knalga."
 msgstr ""
-"我要讲述的，是权杖的制造过程。是要讲述它的精雕细琢，在矮人之国的深深洞穴之"
-"内。也是要讲述那些制造它的矮人们，因为他们伟大，确实伟大。他们名列克尔伽最伟"
-"大的英雄之中。"
+"我要讲述的是权杖的制造过程。是要讲述矮人之国深深洞穴之内的精雕细琢。也是要讲"
+"述那些制造它的矮人们，因为他们伟大，确实伟大。他们名列古纳尔迦最伟大的英雄之"
+"中。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Our story begins in a small border outpost in the southern hills of Knalga, "
 "with a young dwarf, named Rugnur, in charge of it. And with the second King "
 "of Wesnoth, Haldric II, riding up the road from the Ford of Abez with an "
 "army behind him..."
 msgstr ""
-"我们的故事开始于克尔伽南方丘陵的一个小小的边境哨岗，一位名叫拉格纳的年轻矮人"
-"掌管着这里。而韦诺的第二位国王，哈德里克二世，从雅碧滩出发，骑马北上，一支军"
-"队紧随其后……"
+"我们的故事开始于纳尔迦南方丘陵的一个小小的边境哨岗，一位名叫拉格纳的年轻矮人"
+"掌管着这里。而韦诺的第二位国王，哈德里克二世，从雅碧滩出发，沿路骑马北上，一"
+"支军队紧随其后……"
 
 #. [objective]: condition=win
 msgid "Transport 5 caravans full of silver back to the dwarvish castle"
@@ -193,17 +188,16 @@ msgid "Loss of a caravan"
 msgstr "损失一辆大篷车"
 
 #. [note]
-#, fuzzy
 msgid ""
 "Moving a dwarf to a rune chest beside the keep opens a dialog for obtaining "
 "temporary upgrades which last until the end of the scenario."
 msgstr ""
-"将一个矮人移到堡垒旁边的符文箱中，可以打开一个对话框，获得临时升级，并持续到"
-"剧情结束。"
+"移动一名矮人至主楼旁边的符文箱处，将打开对话框，可获得临时升级，效果持续到此"
+"场景结束。"
 
 #. [message]: speaker=Rugnur
 msgid "Humans, halt! Who dares bring an army into the dwarvish hills?"
-msgstr "人类，停下！你竟敢带着一支军队到矮人山岭来？"
+msgstr "人类，停下！你竟敢带着军队到矮人山岭来？"
 
 #. [message]: speaker=Haldric II
 msgid "We come to make a bargain with you."
@@ -217,11 +211,11 @@ msgstr "好吧，讲讲你的交易。讲完了，要是我们不喜欢，你们
 
 #. [message]: speaker=Haldric II
 msgid "Have you heard of the Ruby of Fire?"
-msgstr "您听说过火炎之红宝石吗？"
+msgstr "您听说过火焰之红宝石吗？"
 
 #. [message]: speaker=Rugnur
 msgid "Yes... your first king brought it from over the sea, right? You own it."
-msgstr "是的……你先王从海的那边带来的，是吗？现在它是你的。"
+msgstr "是的……你先王从海那边带来的，是吗？现在它是你的。"
 
 #. [message]: speaker=Haldric II
 msgid "Correct. However, we have a problem with it."
@@ -271,11 +265,10 @@ msgstr ""
 "控制它。"
 
 #. [message]: speaker=Rugnur
-#, fuzzy
 msgid ""
 "Well... I think we can make a deal, but I’m not sure. I’ll have to ask the "
 "clan leaders."
-msgstr "好吧……我想我们可以做个交易，但我不能肯定。我得先问问部落族长们。"
+msgstr "好吧……我想我们可以做个交易，但我不能肯定。我得先问问族长们。"
 
 #. [message]: speaker=Haldric II
 msgid ""
@@ -288,22 +281,20 @@ msgid ""
 "They would refuse to come. You must come into the caves, and go to the city "
 "in person, or send a representative."
 msgstr ""
-"他们会拒绝来这儿的。你必须一个人进洞穴里来，到我们的城市去，派一位代表也行。"
+"他们会拒绝来这儿。你必须一个人进洞穴里来，到我们的城市去，派一位代表也行。"
 
 #. [message]: speaker=Haldric II
-#, fuzzy
 msgid ""
 "I can always take my offer to another clan more friendly to its potential "
 "patrons. You are not the only smiths in the Northlands!"
 msgstr ""
-"我完全可以去和去另一个对潜在主顾更友好的部族交易。你们并不是北方大陆唯一的工"
-"匠！"
+"我完全可以去和另一个对潜在主顾更友好的部族交易。你们并不是北陆唯一的工匠！"
 
 #. [message]: speaker=Rugnur
 msgid ""
 "Uh, no, wait! Let’s talk business — how much will you pay us to do this for "
 "you?"
-msgstr "啊，别，等等！让我们谈谈交易——我们做这事儿，你准备出多少钱？"
+msgstr "啊，别，等等！我们谈生意吧——请我们干这活儿，你准备出多少？"
 
 #. [message]: speaker=Haldric II
 msgid "Five thousand pieces of silver."
@@ -315,8 +306,8 @@ msgid ""
 "So... twenty thousand, minimum. The crafting of this will take us many "
 "years, you must pay us well."
 msgstr ""
-"你说你想要个强力的法器，又不是孩子的玩具！所以……两万，最低价。打造它要花费我"
-"们很多年时间，你得给个好价钱。"
+"你说你想要个强力的法器，又不是孩子的玩具！所以……两万，最低价。打造它要花我们"
+"很多年时间，你得出个好价钱。"
 
 #. [message]: speaker=Haldric II
 msgid "Ten thousand."
@@ -338,11 +329,12 @@ msgid ""
 msgstr "好吧——就一万……那你究竟想让我们把宝石做成什么？"
 
 #. [message]: speaker=Haldric II
-#, fuzzy
 msgid ""
 "I want you to make it into a sceptre. A gold and ruby sceptre to all "
 "appearances. We shall call it the Sceptre of Fire."
-msgstr "我想请你们把它做成权杖，圣火权杖。"
+msgstr ""
+"我想请你们把它打造成权杖。就外表来看，一柄由黄金和红宝石打造的权杖。我们将把"
+"它命名为圣火权杖。"
 
 #. [message]: speaker=Rugnur
 msgid ""
@@ -431,22 +423,19 @@ msgstr ""
 "可是你自己的决定。"
 
 #. [message]: speaker=Alanin
-#, fuzzy
 msgid "Oh, the elves are going to cut us off!"
-msgstr "哦，精灵们要把我们截住了！"
+msgstr "啊，精灵们要把我们截住了！"
 
 #. [message]: speaker=Glildur
-#, fuzzy
 msgid "I told you this was our road."
-msgstr "我告诉你这是我们的路。"
+msgstr "我告诉过你，这是我们的路。"
 
 #. [message]: speaker=Alanin
-#, fuzzy
 msgid ""
 "Here’s the stone, for you dwarves! Now, if you’ll excuse me, I think I’ll be "
 "taking refuge here... I don’t much like fighting."
 msgstr ""
-"这是宝石，现在给你们矮人了！抱歉，我想我要在你的城堡里躲避一下……我可不太喜欢"
+"这就是宝石，现在给你们矮人了！现在抱歉，我觉得我得在这儿躲一下……我可不太喜欢"
 "战斗。"
 
 #. [message]: speaker=Haldric II
@@ -459,31 +448,28 @@ msgstr "货物已卸下。"
 
 #. [message]: speaker=Haldric II
 msgid "You only need $incominggold more, then you can begin work."
-msgstr "你只需要再运送 $incominggold 银币，就可以开工了。"
+msgstr "你只需要再运送$incominggold银币，就可以开工了。"
 
 #. [message]: speaker=Haldric II
 msgid ""
 "You only need $incominggold more, and the stone, then you can begin work."
-msgstr "你只需要再运送 $incominggold 银币，外加宝石，就可以开工了。"
+msgstr "你只需要再运送$incominggold银币，外加宝石，就可以开工了。"
 
 #. [message]: speaker=Rugnur
 msgid "That’s the last caravan! We will commence work immediately."
-msgstr "那是最后一个大篷车了！我们马上就着手工作。"
+msgstr "那是最后一辆大篷车了！我们马上就着手工作。"
 
 #. [message]: speaker=Rugnur
 msgid "We have all of the silver, now all we need is the stone."
 msgstr "我们已经收到了所有银币，现在只差宝石了。"
 
 #. [message]: speaker=Glildur
-#, fuzzy
 msgid ""
 "Our reinforcements should be here soon. Send those caravans here, we might "
 "let you walk away."
-msgstr ""
-"我们的增援部队应该很快就到了。把那些商队送到这里来，我们可能会让你走掉。"
+msgstr "我们的援军应该很快就到。让大篷车来这儿，我们或许能放你们走。"
 
 #. [message]: speaker=Haldric II
-#, fuzzy
 msgid ""
 "That’s a bluff, what sort of reinforcements can this little band of thieves "
 "possibly count on?"
@@ -493,7 +479,7 @@ msgstr "这是虚张声势，这支小贼团能指望什么援军？"
 msgid ""
 "Ha! Our reinforcements have arrived. There is no way you can withstand our "
 "combined strength!"
-msgstr "哈！我们的增援到了。这下你可抵挡不住我们的合力了！"
+msgstr "哈！我们的援军到了。这下你可抵挡不住我们的合力了！"
 
 #. [message]: speaker=Rugnur
 msgid ""
@@ -529,9 +515,8 @@ msgid "Yer precious Landar can kiss my axe."
 msgstr "你丫高贵的兰达尔来亲亲俺的斧头吧。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "This gains you nothing, we will not rest!"
-msgstr "这对你们没有任何好处，我们不会休息的。"
+msgstr "你们什么都得不到，我们不会休息的！"
 
 #. [message]: speaker=Rugnur
 msgid "Good, the road is secured. Let’s move those caravans!"
@@ -581,13 +566,12 @@ msgid "Death of Baglur"
 msgstr "巴格拉死亡"
 
 #. [note]
-#, fuzzy
 msgid ""
 "Moving a dwarf to a rune chest north of the keep opens a dialog for "
 "obtaining temporary upgrades which last until the end of the scenario."
 msgstr ""
-"将一个矮人移到堡垒北面的符文箱前，可以打开一个对话框，获得临时升级，一直持续"
-"到剧情结束。"
+"移动一名矮人至主楼北侧的符文箱处，将打开对话框，可获得临时升级，效果持续到此"
+"场景结束。"
 
 #. [message]: speaker=Rugnur
 msgid ""
@@ -782,14 +766,12 @@ msgid ""
 msgstr "所有精灵都已经解决了。现在我该继续赶往城里去报告了。我已经晚了……"
 
 #. [scenario]: id=2p5_Reaching_the_Runecrafter
-#, fuzzy
 msgid "Reaching the Runecrafter"
-msgstr "寻找符文师"
+msgstr "接触符文工匠"
 
 #. [side]: type=Orcish Warrior, id=Bragdash
-#, fuzzy
 msgid "Bragdash Gar"
-msgstr "布拉格达斯-加尔"
+msgstr "布拉戈达什·嘎"
 
 #. [side]: type=Orcish Warrior, id=Bragdash
 #. [side]
@@ -798,12 +780,10 @@ msgid "Orcs"
 msgstr "兽人"
 
 #. [side]: type=Goblin Rouser, id=Pidmer
-#, fuzzy
 msgid "Pidmer Gar"
-msgstr "皮德默-加尔"
+msgstr "皮得莫·嘎"
 
 #. [side]: type=Goblin Rouser, id=Pidmer
-#, fuzzy
 msgid "Goblins"
 msgstr "地精"
 
@@ -820,13 +800,12 @@ msgstr ""
 "淡的红光，并能感觉到铁轨的零星震动。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "As the group got near the source of the glow, they heard metallic banging "
 "and guttural shouting, and their noses were assaulted by a fetid smell..."
 msgstr ""
-"当这群人接近光芒的源头时，他们听到了金属撞击声和阴阳怪气的喊叫声，他们的鼻子"
-"被一股腥臭的气味袭击了......。"
+"当他们接近光芒的源头时，听到了金属撞击声还有喉音很重的喊叫声，一股腥臭的气味"
+"冲进了他们的鼻腔……"
 
 #. [objective]: condition=win
 #, fuzzy
