@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-12 08:42+0800\n"
+"PO-Revision-Date: 2022-02-10 15:05+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -54,7 +54,6 @@ msgid "Fighter"
 msgstr "战士"
 
 #. [campaign]: id=Under_the_Burning_Suns
-#, fuzzy
 msgid "Difficult"
 msgstr "困难"
 
@@ -194,17 +193,17 @@ msgstr "泰柳"
 
 #. [message]: speaker=Nym
 msgid "Hey Kaleh, are you in there?"
-msgstr "嘿， 卡勒， 你在里面吗？"
+msgstr "嘿，卡勒，你在里面吗？"
 
 #. [message]: speaker=Kaleh
 msgid "Nym, is that you?"
-msgstr "妮慕， 是你吗？"
+msgstr "妮慕，是你吗？"
 
 #. [message]: speaker=Nym
 msgid ""
 "Yes, come on out already. The storm has passed. With the morning light Naia "
 "has ended the terrible night."
-msgstr "是啊， 快出来吧。风暴结束了。那亚的曙光结束了这可怕的夜晚。"
+msgstr "是啊，快出来吧。风暴结束了。那亚的曙光结束了这可怕的夜晚。"
 
 #. [message]: speaker=Kaleh
 msgid "Has the sky really stopped falling?"
@@ -226,7 +225,6 @@ msgstr ""
 "的村子了。这真是太糟糕了。"
 
 #. [message]: speaker=Nym
-#, fuzzy
 msgid ""
 "Come on, Kaleh, we have to go see if anyone is hurt or needs help. I think I "
 "hear people calling from the south. Now is not a time for fear, we must be "
@@ -235,9 +233,9 @@ msgid ""
 "as you think. Let’s explore the village and see who else has survived the "
 "night."
 msgstr ""
-"快啊，卡勒，我们得瞧瞧还有没有人受伤了或是需要帮助。我想我听到了南边传来呼救"
-"声。现在不能畏惧，我们要坚强。你毕竟是我们的领袖泰纽的侄子，你得承担起责任。"
-"在白天事情可能没有你想象的那么糟。让我们到村里看看还有没有昨夜事件的幸存者。"
+"快啊，卡勒，我们得看看还有没有人受了伤或是需要帮助。我觉得听到南边有呼救声。"
+"现在不能害怕，我们要坚强。你毕竟是我们领袖泰纽的侄子，你得承担起责任。在白天"
+"事情可能没你想的那么糟。让我们到村里看看还有没有昨夜事件的幸存者。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -355,14 +353,13 @@ msgid "Ha! They’re destroyed at last."
 msgstr "哈！ 它们终于覆灭了。"
 
 #. [message]: speaker=Garak
-#, fuzzy
 msgid ""
 "Thanks for the help. I am glad to see that so many have survived the night. "
 "But there’s no time to talk, we must save the rest of our people and crush "
 "these earthen abominations."
 msgstr ""
-"谢谢帮助。我很欣慰昨晚还有这么多幸存者。但现在没功夫寒暄，我们必须救出其他子"
-"民，粉碎任何土中冒出来的怪物。"
+"谢谢帮助。我很欣慰昨晚还有这么多幸存者。但现在没功夫寒暄，我们必须救出其他"
+"人，粉碎这些土里冒出来的怪物。"
 
 #. [message]: speaker=Kaleh
 msgid "This bridge leads to the holy island at the center of our lake."
@@ -578,7 +575,6 @@ msgstr ""
 "手可以轻易击败他们的骷髅军团。"
 
 #. [message]: speaker=Kaleh
-#, fuzzy
 msgid ""
 "I have heard of your kind, foul necromancer. You travel the sands, daring to "
 "bring back and enslave those who have passed on. But we will prove to you "
@@ -586,9 +582,9 @@ msgid ""
 "kith and kin! You shall learn to fear the wrath of Eloh and the Quenoth "
 "Elves!"
 msgstr ""
-"我听说过你这类肮脏的死灵法师。你们游荡于沙漠里，唤醒和控制那些遇难者。但是我"
-"们向会告诉你那不是全能的。不要亵渎我的亲戚朋友的尸体！来承受伊洛和奎诺精灵们"
-"的愤怒！"
+"我听说过你这类肮脏的死灵法师。你们在沙漠里游走，竟敢唤起已死之人，把他们变成"
+"奴隶。但我们会证明死亡并非万能。你不能亵渎我至亲好友的尸体！因伊洛和奎诺精灵"
+"的愤怒而恐惧吧！"
 
 #. [message]: speaker=unit
 msgid ""
@@ -833,28 +829,26 @@ msgid "Defeat outlaw leader"
 msgstr "击败游寇首领"
 
 #. [note]
-#, fuzzy
 msgid ""
 "Your units become dehydrated during the day, losing hitpoints and damage "
 "when they are not on a water hex"
-msgstr "您的单位在白天脱水，失去打击点和伤害时，他们不在水六角"
+msgstr ""
+"您的单位在白天会脱水。如果他们没站在水六角格上，就会失去生命值，造成的伤害也"
+"会降低"
 
 #. [note]
-#, fuzzy
 msgid ""
 "Units are refreshed at the start of your turn when they are on a water or "
 "oasis hex"
-msgstr "当单位在水或绿洲十六进制上时，在轮到您时刷新"
+msgstr "当单位在水或绿洲六角格上时，他们会在你的回合开始时补水"
 
 #. [note]
-#, fuzzy
 msgid "Healers can prevent dehydration from getting worse, but cannot heal it"
-msgstr "治疗者可以防止脱水恶化，但不能治愈它"
+msgstr "医者可以防止脱水状态恶化，但不能治愈此状态"
 
 #. [note]
-#, fuzzy
 msgid "Healers are unable to heal adjacent units during the day"
-msgstr "治疗者在白天无法治愈相邻的单位"
+msgstr "医者在白天无法治疗相邻单位"
 
 #. [label]
 msgid "Pinnacle Rock"
@@ -967,9 +961,8 @@ msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
 msgstr "好吧，越快到达尖塔石越好，我们走吧！"
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
-#, fuzzy
 msgid "Scuttler"
-msgstr "斯卡特勒"
+msgstr "凿岩者"
 
 #. [message]: speaker=unit
 msgid "Wait. I think I spotted something ahead of us..."
@@ -1027,9 +1020,8 @@ msgid "Traveler’s Ring"
 msgstr "旅行者的戒指"
 
 #. [object]: id=Travelring
-#, fuzzy
 msgid "The unit wearing this ring will not become dehydrated by the desert."
-msgstr "戴上这个戒指的单位在白天将不会受到沙漠炎热的伤害。"
+msgstr "戴上此戒指的单位在白天将不会因沙漠炎热而脱水。"
 
 #. [option]
 msgid "No, I think someone else should wear it."
@@ -1048,11 +1040,11 @@ msgid "Hunting Ogre"
 msgstr "狩猎的食人魔"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "Shh... ogres ahead. Behind that dune there, we have to pass them if we want "
 "to reach the next oasis."
-msgstr "啧……食人魔在前面。后面是沙丘，我们必须通过他们到达下一个绿洲。"
+msgstr ""
+"嘘……前面有食人魔，在那沙丘后面。要想到达下一片绿洲，我们必须通过他们的位置。"
 
 #. [message]: speaker=Kaleh
 msgid "No chance to sneak around?"
@@ -1251,23 +1243,22 @@ msgid ""
 msgstr "最讨厌的生物在我的城堡里！来吧，迷失的沙漠之魂！让我们清理这些污秽！"
 
 #. [message]: speaker=Vengeful Lord
-#, fuzzy
 msgid ""
 "Elf of the sands, I remember you. You thought me defeated, but I am back "
 "even more powerful than before. Death reigns eternal, your scorched bones "
 "and lifeless body will join my host."
 msgstr ""
-"拿着弓的精灵们，我记得你们。你们觉得我被击败了，但是我回来了，比以前更加强"
-"大。死亡支配永恒，你烧焦的骨头和无魂的尸体将成为我的部下。"
+"沙之精灵，我记得你们。你们以为我败了，但我回来了，还比以前更强大。死亡永将支"
+"配，你们烧焦的骨头和殒命的躯体将成为我的部下。"
 
 #. [message]: speaker=Garak
 msgid ""
 "Still singing the same tune. We defeated you once before, we can do so again!"
-msgstr "仍然唱着老调。我们原来就击败过你，当然也能再击败你一次！"
+msgstr "还是唱着老调。我们之前击败过你，当然还能再击败你一次！"
 
 #. [message]: speaker=Vengeful Lord
 msgid "Noo... (<i>Fades</i>)"
-msgstr "不……（<b>渐渐消散</b>）"
+msgstr "不……（<b>消散</b>）"
 
 #. [message]: speaker=$speaking_unit.id
 msgid "Searching his castle, we found a chest filled with gold."
@@ -1432,14 +1423,13 @@ msgstr ""
 "么呢？如果要旅游的话，这里也太荒凉了。"
 
 #. [message]: speaker=Elyssa
-#, fuzzy
 msgid ""
 "I’ve been searching for secrets from the past. Did you know that this entire "
 "land used to be a huge empire? Apparently all this used to be great plains "
 "and farmland, before the sands came."
 msgstr ""
-"我在搜寻过去的秘密。你知道这整片地方曾经是个巨大的帝国吗？显然这里成为沙漠之"
-"前，曾经是宽阔的平原和农场。"
+"我在搜寻过去的秘密。你知道这整片地方曾经是个巨大的帝国吗？据说这里成为沙漠之"
+"前，曾经是宽阔的平原和农田。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -1651,11 +1641,10 @@ msgstr ""
 "会伤到活人。"
 
 #. [message]: speaker=Elyssa
-#, fuzzy
 msgid ""
 "Like I haven’t killed enough undead recently. Why can’t these creeps just "
 "stay dead?"
-msgstr "看来最近我杀掉的亡灵还不够多。为什么这些家伙死了也不安分呢？"
+msgstr "弄得好像最近我杀掉的亡灵还不够多似的。为什么这些家伙死了也不安分呢？"
 
 #. [message]: speaker=Garak
 msgid ""
@@ -1719,11 +1708,11 @@ msgid ""
 msgstr "你不能这么做，独自和这种怪物战斗会死的。我们需要你，没有你我们就完了。"
 
 #. [message]: speaker=Garak
-#, fuzzy
 msgid ""
 "I had dreams of this night Kaleh, full of gloom and darkness, my journey "
 "will end here one way or another."
-msgstr "卡勒，我曾经梦到过今晚的事，一片黑暗，我的旅程将到此结束。"
+msgstr ""
+"卡勒，我曾经梦到过今晚的事，梦中一片黑暗。不论结果如何，我的旅程将在此结束。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -1748,31 +1737,27 @@ msgstr ""
 "在黑暗中闪闪发光吧。"
 
 #. [berserk]: id=berserk
-#, fuzzy
 msgid "righteous rage"
-msgstr "正义的愤怒"
+msgstr "正义之怒"
 
 #. [berserk]: id=berserk
-#, fuzzy
 msgid ""
 "If used offensively or defensively against champions Grak or Zur, this "
 "attack presses the engagement until one of the combatants is slain, or 30 "
 "rounds of attacks have occurred."
 msgstr ""
-"无论是进攻还是防守，这种攻击都压得交战，直到其中一名冠军被杀，或者发生了30轮"
-"攻击。"
+"如果对冠军格拉克或泽使用此攻击，则不论在进攻还是防御时，都会让双方不断交战，"
+"直到一方被杀，或者大战30回合为止。"
 
 #. [chance_to_hit]: id=magical
-#, fuzzy
 msgid "true strike"
-msgstr "真正的罢工"
+msgstr "准确打击"
 
 #. [chance_to_hit]: id=magical
-#, fuzzy
 msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
 "ability of the champion being attacked."
-msgstr "无论冠军的防守能力如何，这种攻击总是有70%的命中率。"
+msgstr "无论冠军的防守能力如何，此攻击的命中率总为70%。"
 
 #. [message]: speaker=Garak
 msgid "You there! Creep! Stand and face me, shade! I challenge you!"
@@ -1819,11 +1804,10 @@ msgid ""
 msgstr "我看到他冲入黑暗中的敌阵。希望他平安无恙。"
 
 #. [message]: speaker=$lich_lord.id
-#, fuzzy
 msgid ""
 "No! This contest is not over yet, Ystara. I shall show you a taste of my "
 "true power."
-msgstr "不！你我的争斗还没结束，阿兹卡提。给你看看我真正的力量。"
+msgstr "不！你我的争斗还没结束，伊斯图拉。给你看看我真正的力量。"
 
 #. [message]: speaker=$lich_lord.id
 msgid ""
@@ -2331,7 +2315,6 @@ msgid "Underneath them? But how?"
 msgstr "从它们下面？ 但怎么走？"
 
 #. [message]: speaker=Zhul
-#, fuzzy
 msgid ""
 "Orcs and goblins have been living here for hundreds of years and their "
 "network of tunnels and caves is more extensive than you might think. Who "
@@ -2339,9 +2322,9 @@ msgid ""
 "those frozen peaks. As much as I dislike those pitch-black caves, if we want "
 "to cross these mountains we may have no choice."
 msgstr ""
-"兽人和地精在这里生活了数百年，它们的隧道和洞穴网络比你想的还要复杂。没人知道"
-"它们向地底走了多远。我们没法翻越那些冰冻的山峰，当然我也不喜欢那些伸手不见五"
-"指的洞穴。不过如果想穿越这座山脉，我们别无选择。"
+"兽人和地精在这里生活了数百年，他们的隧道和洞穴网络比你想的还要复杂。谁知道这"
+"网络通往多深的地下呢？我们可没准备好翻越那些冰峰。我是很不喜欢那些伸手不见五"
+"指的洞穴，但若是要穿越这山脉，我们别无选择。"
 
 #. [message]: speaker=Elyssa
 msgid ""
@@ -2418,12 +2401,12 @@ msgstr "湖中的那迦"
 msgid ""
 "Come forth, creatures of the lake! Fulfill the oaths you have made and help "
 "us drive these hated creatures from our lands."
-msgstr "上吧，湖中生物们！履行你们的诺言，帮助我们把这些讨厌的生物驱逐出境。"
+msgstr ""
+"上前，湖中生物们！履行你们的誓言，帮我们把这些讨厌的生物逐出我们的领地。"
 
 #. [message]: speaker=Scylla
-#, fuzzy
 msgid "Yesss, we remember the oath... Sssslay them all!"
-msgstr "是的，我们记得誓言...。把他们都杀了!"
+msgstr "是嘶嘶，我们还记得誓言……把他们都杀啊啊了！"
 
 #. [message]: speaker=Panok
 msgid "These elves are stronger than we thought. Send for more reinforcements!"
@@ -2968,20 +2951,19 @@ msgid "Stand firm, boys, here they come!"
 msgstr "站好了，弟兄们，他们来了！"
 
 #. [message]: speaker=Troll Leader
-#, fuzzy
 msgid ""
 "You invade our tunnels, you slaughter our people, by Griknagh we will make "
 "you pay!"
 msgstr ""
-"你们入侵我们的隧道，你们伤害我们的妇女和孩子，以格纳福之名，你们要付出代价！"
+"你们入侵我们的地道，你们伤害我们的族人，以格利克纳之名，你们要付出代价！"
 
 #. [message]: speaker=Dwarf Leader
 msgid ""
 "Tenacious savages, aren’t they? But these tunnels are rich in ore, and we "
 "won’t let a couple of trolls keep them from us."
 msgstr ""
-"他们真是顽固的野蛮人啊。这些坑道里富含矿石，我们不会让任何一个巨魔把矿石夺"
-"走。"
+"他们真是顽固的野蛮人啊。这些地道富含矿石，我们可不会让几头食人魔阻止我们获得"
+"它们。"
 
 #. [message]: speaker=Troll Leader
 msgid "Wait... What... Who are you?"
@@ -3008,11 +2990,10 @@ msgid "Never mind that, who are you?"
 msgstr "别管那么多， 你们是谁？"
 
 #. [message]: speaker=Kaleh
-#, fuzzy
 msgid ""
 "I am Kaleh, and we are the Quenoth Elves. What in Eloh’s name is going on "
 "here?"
-msgstr "我是卡勒， 我们是奎诺精灵。托伊洛之名， 这里怎么啦？"
+msgstr "我是卡勒， 我们是奎诺精灵。以伊洛之名， 这里发生什么了？"
 
 #. [message]: speaker=Troll Leader
 msgid ""
@@ -3336,7 +3317,7 @@ msgstr "让我安息吧……"
 
 #. [message]: speaker=Nori
 msgid "I go to my ancestors..."
-msgstr "我去见先祖了。。。"
+msgstr "我去见先祖了……"
 
 #. [message]: speaker=Thungar
 msgid "Arrghh!!"
@@ -3344,14 +3325,13 @@ msgstr "呃啊！！"
 
 #. [message]: speaker=Gnarl
 msgid "I will be avenged..."
-msgstr "会有人为我复仇。。。"
+msgstr "会有人为我复仇……"
 
 #. [event]
 msgid "Zurg"
 msgstr "泽格"
 
 #. [message]: speaker=Zurg
-#, fuzzy
 msgid ""
 "Congratulations! Some of trolls didn’t think you strong enough to beat "
 "dwarves."
@@ -3469,7 +3449,6 @@ msgid "It has?"
 msgstr "有什么？"
 
 #. [message]: speaker=Grimnir
-#, fuzzy
 msgid ""
 "Right before the trolls overran this area of the mines, our scouts had found "
 "an old tunnel south of here that leads almost straight to the main lair of "
@@ -3482,12 +3461,12 @@ msgid ""
 "you return your people to the sunlit lands. When you’re ready I’ll show you "
 "the way. It’s not far."
 msgstr ""
-"就在巨魔入侵这个矿区之前，我们的侦察兵发现了南边的一个旧坑道，它直接通向了这"
-"群巨魔的主巢。我们认为指挥这场战争的巨魔首领之一就在那个巢里藏匿着。我们打算"
-"偷偷潜入发动一场突袭，但是很不巧我们人手不够。如果你们利用这个坑道穿过他们的"
-"前线杀死他们的首领，那么巨魔就会陷入混乱。这样我们前线的压力也会减轻。只要你"
-"们愿意干，我们的王答应一定会帮你带领你的人民回到阳光普照的地方去。你准备好了"
-"我就带你去。离这里不远。"
+"就在巨魔快占领这片矿区时，我们的侦察兵发现了南边的一条旧坑道，直接通向这巨魔"
+"部落的主巢。我们认为指挥这场战斗的巨魔首领之一就在主巢里藏匿着。我们打算偷偷"
+"潜入发动一场突袭，但老师说我们人手不够。如果你们利用这条坑道穿过前线杀死首"
+"领，那巨魔就会陷入混乱，而我们的前线压力也会减轻。要是你们干完这些，那我们的"
+"王答应一定会帮你把族人带回阳光普照的地方去。你准备好了我就带你去。离这儿不"
+"远。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -3636,22 +3615,21 @@ msgid "Fire in the hole!"
 msgstr "开火！"
 
 #. [message]: speaker=Grimnir
-#, fuzzy
 msgid ""
 "My work here is done. I must report back to my king. I have many more things "
 "to do before the day is done, but I will return once you finish your "
 "mission. Fight well!"
 msgstr ""
-"我在这里的工作已经完成了。我必须去回禀我们的王了。今天我还有一堆事情要做，不"
-"过如果你们完成了任务，那我就能省很多事了。祝你们胜利！"
+"我完成此处的工作了，必须去回禀我们的王。今天我还有一堆事情要做，不过你们完成"
+"任务时我就会回来。祝旗开得胜！"
 
 #. [message]: speaker=Troll Guard
 msgid "Intruders! Kill them!"
-msgstr "有入侵者！杀啊！"
+msgstr "有入侵者！干掉他们！"
 
 #. [unit]: type=Dwarvish Fighter, id=Wounded Dwarf
 msgid "Wounded Dwarf"
-msgstr "受伤的矮人"
+msgstr "负伤矮人"
 
 #. [message]: speaker=Troll Interrogator
 msgid "Tell us where your leader is hiding!"
@@ -3885,7 +3863,6 @@ msgid "Da big troll is dead. Run for your lives!"
 msgstr "大头目死了。逃命！"
 
 #. [message]: speaker=Grimnir
-#, fuzzy
 msgid ""
 "News travels fast. The chaos you have sown has caused the foul trolls to "
 "start retreating. And now the architect of our suffering is dead. This war "
@@ -3896,11 +3873,11 @@ msgid ""
 "have done great deeds this day. Elves killing a troll chieftain! We will "
 "tell this story for years."
 msgstr ""
-"消息传得很快。你们引起的混乱让愚蠢的巨魔开始撤退了。现在我们苦难的始作俑者已"
-"经死了。虽然战争远未结束，但你们帮我们赢了这场战斗。我们感激你们。我们的王指"
-"示我们带你们去见他，他想见你们并奖赏你们。他在我们最神圣的大厅里等着你们，那"
-"可是个世世代代都没有精灵去过的地方啊。这是个极大的荣耀，但是你们的功绩值得这"
-"份荣耀。精灵杀死了一个巨魔首领！我们会一直传诵这个故事的。"
+"消息传得很快。你们引起的混乱让邪恶巨魔开始撤退了。现在我们苦难的始作俑者已经"
+"死了。虽然战争远未结束，但你们帮我们赢了这场战斗。我们很感激。我们的王指示说"
+"带你们去见他，他想和你们谈谈，并赐予奖赏。他在我们最神圣的大厅里等待，那可是"
+"个世世代代都没有精灵去过的地方。这是极大的荣耀，但你们今日的赫赫战功值得这份"
+"荣耀。精灵杀死了一名巨魔酋长！我们会一直传诵这个故事的。"
 
 #. [message]: speaker=Nym
 msgid ""
@@ -3923,16 +3900,15 @@ msgstr ""
 "个敌人。而且，我想我们引起的混乱已经超出了他们的预期。"
 
 #. [message]: speaker=Kaleh
-#, fuzzy
 msgid ""
 "Shhhh, you two. Yes, of course, we would be honored to come and meet your "
 "king. But first, we left many of our people back up near the entrance to the "
 "great cave where you first met us and I fear that even now those caves "
 "aren’t safe. Can you help us escort my people to safety?"
 msgstr ""
-"嘘，你们两个别说了。呃是的，当然，我们很荣幸能来这里并被你们的王接见。不过我"
-"们还有很多同胞躲在你们第一次见到我们的那个大洞穴的入口附近，我担心那里现在不"
-"安全。你们能帮我把我的同胞们带到安全的地方吗？"
+"嘘，你俩别说了。呃是的，当然，我们很荣幸能来这里并被你们的王接见。不过我们还"
+"有很多族人留在大洞穴的入口附近，就是你们第一次见到我们的地方。我担心那里现在"
+"都还不安全。你们能帮我把族人带去安全的地方吗？"
 
 #. [message]: speaker=Grimnir
 msgid ""
@@ -4240,38 +4216,30 @@ msgstr ""
 "噢，有点骨气好不好……哈？嘿，这个小子说得是真的。来吧，孩子们，杀了入侵者！"
 
 #. [message]
-#, fuzzy
 msgid "No, it’s a... human?"
-msgstr ""
-"一天一只狮鹫兽尖叫着回来报信：一大队精灵正从东边过来。很快他们给精灵发去消"
-"息，询问对方的目的。对方傲慢地回复说：他们想干什么不关矮人和人类的事，精灵接"
-"近的时候，矮人和人类最好躲在自己的洞里。"
+msgstr "不，这是……人类？"
 
 #. [message]: speaker=Dwarf Sergeant
-#, fuzzy
 msgid "What is a human doing here? Come on, boys, kill the intruder!"
-msgstr "什么？！好吧，首要任务，兄弟们，杀死这个入侵者！"
+msgstr "人类来这儿干啥？上啊，兄弟们，杀死入侵者！"
 
 #. [message]
 #. "it" is referring to the dust devil
-#, fuzzy
 msgid "No, it’s a... what is that?"
-msgstr "好，让我们看看门后面有什么。"
+msgstr "不，这是……这是啥？"
 
 #. [message]: speaker=Dwarf Sergeant
 #. 'earth’s guts' references the underground. What is being talked about is the dust devil.
-#, fuzzy
 msgid "What in the earth’s guts is that? Kill it!"
-msgstr "那尤里安的是什么？"
+msgstr "这到底是啥鬼？杀掉它！"
 
 #. [message]
-#, fuzzy
 msgid "No, look behind you!"
-msgstr "但是长官，您背后……！"
+msgstr "不，注意背后！"
 
 #. [message]: speaker=unit
 msgid "I love you, Sarge..."
-msgstr "我爱你，萨居……"
+msgstr "我爱你，军士……"
 
 #. [message]: speaker=Vengeful Dwarf
 msgid ""
@@ -4785,7 +4753,6 @@ msgid "What?!"
 msgstr "什么？！"
 
 #. [message]: speaker=Elyssa
-#, fuzzy
 msgid ""
 "I have learned a lot about the dwarves in my time here, and yet there’s so "
 "much more to learn. Have you seen their forges? They really know how to work "
@@ -4796,10 +4763,10 @@ msgid ""
 "craft the Sceptre of Fire. Imagine if I could find the dwarves who helped "
 "build such an artifact!"
 msgstr ""
-"这段时间我对矮人有了不少了解，但仍有很多需要学习。看到他们的锻造场了吗？他们"
-"真是懂得如何使用火焰，技巧出神入化。他们关于利用我的魔法火焰来提升他们的冶炼"
-"水平的想法非常有意思。你看过他们的记录了吗？他们保留了世世代代产品的档案，甚"
-"至还有制作圣火权杖的那族矮人的记录。试想一下，如果让我找到了参与铸造那宝具的"
+"这段时间我对矮人有了不少了解，但仍有很多需要了解之事。看到他们的锻炉了吗？他"
+"们真是懂得如何使用火焰，技巧出神入化。他们还考虑利用我的魔法火焰来提升冶炼水"
+"平，这些想法挺有趣的。你看过他们的记录了吗？他们保留了世世代代的交易记录。甚"
+"至还有打造圣火权杖的那族矮人的记录。试想一下，如果让我找到了参与打造那法器的"
 "矮人，会发生什么呢！"
 
 #. [message]: speaker=Nym
@@ -5043,15 +5010,14 @@ msgstr ""
 "激你们。你们证明了自己是非常勇敢的强大的战士。诺格会帮助你们找到回地面的路。"
 
 #. [message]: speaker=Nog
-#, fuzzy
 msgid ""
 "You did trolls big service. Nog like to wander in tunnels, and Chief say "
 "that he knows the upper tunnels the best. Nog want to help elves so even "
 "though he not want to leave battle, he agrees to show elves way back to "
 "lighted lands."
 msgstr ""
-"你为巨魔作出了巨大贡献。诺格喜欢在坑道里探索，首领也说诺格最熟悉上层坑道了。"
-"就算不能参与战斗，诺格也要帮助精灵，我愿意做你们回地面的向导。"
+"你们为巨魔作出了巨大贡献。诺格喜欢在坑道里游荡，首领也说诺格最熟悉上层坑道"
+"了。虽说不想脱离战斗，但诺格也想帮助精灵，诺格愿意带精灵回去有光亮的地方。"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -5248,13 +5214,12 @@ msgid "Troll Avenger"
 msgstr "巨魔复仇者"
 
 #. [message]: role=avenger
-#, fuzzy
 msgid ""
 "Foul elves, you not escaped us yet. Great Leader will be avenged! We plugged "
 "river and you all drown with us!"
 msgstr ""
-"龌龊的精灵，你们别想逃。我们要为首领报仇！我们戳通了水坝，不久这里就被淹没"
-"了。死后再见我们吧！"
+"龌龊的精灵，你们别想逃。我们要为大首领报仇！我们堵住了河道，你们会合我们一起"
+"淹死！"
 
 #. [unit]: type=Dwarvish Fighter
 #. [unit]: type=Dwarvish Thunderguard
@@ -5268,8 +5233,8 @@ msgid ""
 "have dammed the river and soon all shall drown in its dark waters. Come join "
 "us in death!"
 msgstr ""
-"龌龊的精灵，你们别想逃。我们要为首领报仇！我们戳通了水坝，不久这里就被淹没"
-"了。死后再见我们吧！"
+"龌龊的精灵，你们别想逃。我们要为酋长报仇！我们在河上筑了坝，不久这里就全会被"
+"黑水淹没。和我们一起去死吧！"
 
 #. [message]: speaker=Kaleh
 msgid ""
@@ -5562,48 +5527,46 @@ msgid "Gate Guard"
 msgstr "门卫"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "This cave seems pretty empty, except for those two glowing runes in the "
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Grog, which "
 "way should we go?"
 msgstr ""
-"这个洞穴好空旷啊，中间还有两个发光的符文。以前这个地方肯定驻扎过很多人，你看"
-"那通向各个方向的小路上留下了那么多的脚印。 $unittest。name 我们该走那条路？"
+"这个洞穴看起来别的没有，只有正中有两个发光的符文。那么多脚印踩出了通往各个方"
+"向的曾经频繁使用的小路，以前这要塞里肯定驻扎过很多人。果洛格，我们该往哪边"
+"走？"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "This cave seems pretty empty, except for those two glowing runes in the "
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Nog, which way "
 "should we go?"
 msgstr ""
-"这个洞穴好空旷啊，中间还有两个发光的符文。以前这个地方肯定驻扎过很多人，你看"
-"那通向各个方向的小路上留下了那么多的脚印。 $unittest。name 我们该走那条路？"
+"这个洞穴看起来别的没有，只有正中有两个发光的符文。那么多脚印踩出了通往各个方"
+"向的曾经频繁使用的小路，以前这要塞里肯定驻扎过很多人。诺格，我们该往哪边走？"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "This cave seems pretty empty, except for those two glowing runes in the "
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Rogrimir, "
 "which way should we go?"
 msgstr ""
-"这个洞穴好空旷啊，中间还有两个发光的符文。以前这个地方肯定驻扎过很多人，你看"
-"那通向各个方向的小路上留下了那么多的脚印。 $unittest。name 我们该走那条路？"
+"这个洞穴看起来别的没有，只有正中有两个发光的符文。那么多脚印踩出了通往各个方"
+"向的曾经频繁使用的小路，以前这要塞里肯定驻扎过很多人。若格瑞莫，我们该往哪边"
+"走？"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid ""
 "This cave seems pretty empty, except for those two glowing runes in the "
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Jarl, which "
 "way should we go?"
 msgstr ""
-"这个洞穴好空旷啊，中间还有两个发光的符文。以前这个地方肯定驻扎过很多人，你看"
-"那通向各个方向的小路上留下了那么多的脚印。 $unittest。name 我们该走那条路？"
+"这个洞穴看起来别的没有，只有正中有两个发光的符文。那么多脚印踩出了通往各个方"
+"向的曾经频繁使用的小路，以前这要塞里肯定驻扎过很多人。查尔，我们该往哪边走？"
 
 #. [message]: speaker=$ally_name
 msgid ""
@@ -5865,9 +5828,8 @@ msgstr ""
 "它，但我不知道这会有什么后果。我可不想那种东西来攻击我。"
 
 #. [option]
-#, fuzzy
 msgid "Break the circle."
-msgstr "破坏魔法圈"
+msgstr "破坏魔法圈。"
 
 #. [command]
 msgid "Kromph"
