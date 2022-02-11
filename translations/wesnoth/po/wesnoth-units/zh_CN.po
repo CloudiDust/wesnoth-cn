@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-02-10 11:20+0800\n"
+"PO-Revision-Date: 2022-02-11 16:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2137,7 +2137,7 @@ msgstr ""
 
 #. [unit_type]: id=Elvish High Lord, race=elf
 msgid "Elvish High Lord"
-msgstr "精灵高阶领主"
+msgstr "精灵高领主"
 
 #. [unit_type]: id=Elvish High Lord, race=elf
 msgid ""
@@ -2164,10 +2164,10 @@ msgstr ""
 "主的直觉通常受到尊重，而他的愤怒则令人畏惧。这一点只会随着年龄的增长而变得更"
 "加真确，因为时间会让精灵的头脑和感官变得更加敏锐。\n"
 "\n"
-"外人认为存在一个“高阶领主”组成的上层阶级。这通常是个谬论，出现这一谬论的原因"
+"外人认为存在一个“高领主”组成的上层阶级。这通常是个谬论，出现这一谬论的原因"
 "是，这些富有经验的精灵在感知和力量方面都有很大的差距。实际上，精灵的统治体系"
 "在不同的领地之间是不同的，在和平与战争时期也是不同的。唯一可以确定的是，无论"
-"这些领主是不是位于指挥链条的顶端，他们的聪慧在维持精灵的繁荣统治方面都是非常"
+"这些领主是不是位于指挥链条的顶端，他们的睿智在维持精灵的繁荣统治方面都是非常"
 "宝贵的。"
 
 #. [unit_type]: id=Elvish Lady, race=elf
@@ -2285,7 +2285,7 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 msgid "Elvish Outrider"
-msgstr "精灵先锋护卫"
+msgstr "精灵先锋骑卫"
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 msgid ""
@@ -2334,9 +2334,11 @@ msgstr ""
 "\n"
 "逸闻真伪，止能度之，精灵先锋，皆有迅足。"
 
+# 在”灼热双日之下“战役中，单位”Quenoth Ranger“的描述中特别提到，把这些奎诺单位称为”Ranger“并不准确，因为”Quenoth Ranger“和曾经拥有同样“Ranger”头衔的那些“自然探险家”并没有多少相同之处。
+# 为了在中文中体现出这种“不合适”，“Ranger”的译文必须含有“自然探险家”要素。因此，其译文从“游侠”改为“巡林者”。
 #. [unit_type]: id=Elvish Ranger, race=elf
 msgid "Elvish Ranger"
-msgstr "精灵游侠"
+msgstr "精灵巡林者"
 
 #. [unit_type]: id=Elvish Ranger, race=elf
 msgid ""
@@ -2350,12 +2352,12 @@ msgid ""
 "their size and will often compel attacking armies to withdraw rather than "
 "risk a game of prolonged guerrilla warfare in the forests."
 msgstr ""
-"游侠是森林中沉默的守望者，匿踪与侦察的大师。许多游侠是孤独的探险家，他们喜欢"
-"独自在高耸树木之间穿行，这些树木保护着他们家园的自然美景。他们对这美丽家园的"
-"保护欲极强。虽然在使用刃器和弓箭方面都有很高的造诣，但游侠并不太擅长在平等条"
-"件下与其他战士对战。他们更愿意在树林的阴影中伏击敌人。游侠的突然袭击甚至能使"
-"一支规模大许多倍的部队瘫痪。进攻的军队往往会选择撤退，而不是冒风险去与森林中"
-"的游侠进行长期游击战。"
+"巡林者是森林中沉默的守望者，匿踪与侦察的大师。许多巡林者是孤独的探险家，他们"
+"喜欢独自在高耸树木之间穿行，这些树木保护着他们家园的自然美景。他们对这美丽家"
+"园的保护欲极强。虽然在使用刃器和弓箭方面都有很高的造诣，但巡林者并不太擅长在"
+"平等条件下与其他战士对战。他们更愿意在树林的阴影中伏击敌人。巡林者的突然袭击"
+"甚至能使一支规模大许多倍的部队瘫痪。进攻的军队往往会选择撤退，而不是冒风险去"
+"与森林中的巡林者进行长期游击战。"
 
 #. [special_note]
 msgid ""
