@@ -1,9 +1,12 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2019 Wesnoth development team
+# Copyright (C) 2005-2022 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Translators and their initial years of participation:
 # IkathrioLionheart <axalaraflameheart@163.com>, 2012.
-# CloudiDust <cloudidust@gmail.com>, 2017, 2019.
+# CloudiDust <cloudidust@gmail.com>, 2017.
 # termanary, 2019.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
