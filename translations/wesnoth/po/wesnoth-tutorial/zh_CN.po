@@ -1,6 +1,8 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2019 Wesnoth development team
+# Copyright (C) 2005-2022 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Translators and their initial years of participation:
 # Huang Huan <unicon221@gmail.com>, 2005.
 # Dionysus(unicon) <huang.wei.bhu@gmail.com>, 2007.
 # CloudiDust <cloudidust@gmail.com>, 2010.
