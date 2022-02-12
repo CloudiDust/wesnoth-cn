@@ -1,71 +1,65 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2022 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Translators and their initial years of participation:
+# CloudiDust <cloudidust@gmail.com>, 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-01-12 08:45+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-02-12 14:45+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Generator: Poedit 3.0.1\n"
 
 #. [advancement]: id=amla_default
-#, fuzzy
 msgid "Max HP bonus +6%"
-msgstr "最大HP奖励+6%"
+msgstr "最大HP加成+6%"
 
-#, fuzzy
 msgid "heroic"
-msgstr "heroic"
+msgstr "英雄"
 
-#, fuzzy
 msgid "female^heroic"
-msgstr "女性^英雄主义"
+msgstr "英雄"
 
-#, fuzzy
 msgid "expert"
 msgstr "专家"
 
-#, fuzzy
 msgid "female^expert"
-msgstr "女性^专家"
+msgstr "专家"
 
-#, fuzzy
 msgid "epic"
 msgstr "史诗"
 
-#, fuzzy
 msgid "female^epic"
-msgstr "女生^epic"
+msgstr "史诗"
 
-#, fuzzy
 msgid "Always AMLA with 60 XP and raises maximum health by 6 HP."
-msgstr "始终是AMLA，有60个XP，并将最大健康值提高6HP。"
+msgstr "总是消耗60经验值来获得满级奖励，并提升6点最大生命值。"
 
-#, fuzzy
 msgid "legendary"
-msgstr "传说中的"
+msgstr "传奇"
 
-#, fuzzy
 msgid "female^legendary"
-msgstr "女性^传说中的"
+msgstr "传奇"
 
-#, fuzzy
 msgid "Special advancement to Chocobone enabled."
-msgstr "启用Chocobone的特别推进。"
+msgstr "已启用特殊升级，可升级为骷髅鸟骑手。"
 
-#, fuzzy
 msgid "Special advancement to Goblin Pillager enabled."
-msgstr "启用对哥布林掠夺者的特别推进。"
+msgstr "已启用特殊升级，可升级为地精掠夺者。"
 
-#, fuzzy
 msgid "World Conquest"
-msgstr "征服世界"
+msgstr "世界征服"
 
-#, fuzzy
 msgid ""
 "Units are defined as pairs in recruit list: Every time a unit is recruited, "
 "it is replaced by its pair. This era is designed to be balanced playing "
@@ -73,697 +67,516 @@ msgid ""
 "Includes an in-game help to know pairs status, with a right-click on an "
 "empty hex."
 msgstr ""
-"单位被定义为招募列表中的一对。每当一个单位被招募，它就会被它的配对所取代。这"
-"个时代的设计是为了平衡《征服世界II》的游戏。\n"
-"包括游戏中的帮助，可以通过右键点击空的六角星来了解配对的状态。"
+"征募列表中的单位都是成对的。每当征募单位时，它都会被对应的”单位对“所取代。此"
+"时代针对”世界征服II“游戏模式进行了平衡。\n"
+"包含游戏内帮助，可以查看单位对的状态，只要在空六角格上右击即可。"
 
-#, fuzzy
 msgid "The Horde"
-msgstr "部队"
+msgstr "部落"
 
-#, fuzzy
 msgid "The Alliance"
 msgstr "联盟"
 
-#, fuzzy
 msgid "The Guild"
 msgstr "公会"
 
-#, fuzzy
 msgid "The Trust"
-msgstr "怎么了，卡勒？你不信任我们吗？"
+msgstr "托拉斯"
 
-#, fuzzy
 msgid "The Gang"
-msgstr ""
-"这终究并不是什么难事。一小群精灵，一两个黑暗巫师，一伙兽人和几个亡灵。对我们"
-"这群人来说真的只是一天工夫而已。"
+msgstr "黑帮"
 
-#, fuzzy
 msgid "The Cult"
 msgstr "邪教"
 
-#, fuzzy
 msgid "The Militia"
 msgstr "民兵"
 
-#, fuzzy
 msgid "The Scourge"
-msgstr "祸害"
+msgstr "天灾"
 
-#, fuzzy
 msgid "The Hand"
-msgstr "但是您看，它在舔我的手。"
+msgstr "神手"
 
-#, fuzzy
 msgid "The Empire"
 msgstr "帝国"
 
 #. [label]: id=title
 #. [lua]: root_node.on_modified
-#, fuzzy
 msgid "WoCopedia"
-msgstr "禾谷百科全书》(WoCopedia)"
+msgstr "世界征服百科全书"
 
 #. [label]: id=title
 #. [lua]: preshow
-#, fuzzy
 msgid "Settings"
 msgstr "设置"
 
 #. [label]
-#, fuzzy
 msgid "Difficulty"
 msgstr "难度"
 
 #. [label]: id=title
-#, fuzzy
 msgid "Choose a bonus for your team"
-msgstr "为你的团队选择奖金"
+msgstr "为你的队伍选择一项加成"
 
 #. [label]: id=title
-#, fuzzy
 msgid "You got"
-msgstr "你有"
+msgstr "你获得了"
 
 #. [button]: id=ok
-#, fuzzy
 msgid "OK"
 msgstr "确定"
 
 #. [label]: id=title
-#, fuzzy
 msgid "Pick up item?"
-msgstr "提取物品？"
+msgstr "捡起物品？"
 
 #. [button]: id=res_yes
-#, fuzzy
 msgid "Yes"
 msgstr "是"
 
 #. [button]: id=res_no
-#, fuzzy
 msgid "No"
 msgstr "否"
 
 #. [label]: id=title
-#, fuzzy
 msgid "Map Settings"
 msgstr "地图设置"
 
 #. [label]
-#, fuzzy
 msgid " players: "
 msgstr "玩家："
 
 #. [label]
-#, fuzzy
 msgid " scenario: "
-msgstr "场景设置"
+msgstr "场景："
 
 #. [label]
-#, fuzzy
 msgid " map: "
-msgstr "地图。"
+msgstr "地图："
 
-#, fuzzy
 msgid "$name|'s pet"
-msgstr "名义上的宠物"
+msgstr "$name|的宠物"
 
-#, fuzzy
 msgid "Defeat all enemy leaders and commanders"
-msgstr "打败所有敌人的领导人和指挥官"
+msgstr "击败所有敌方首领和指挥官"
 
-#, fuzzy
 msgid "Turns run out"
 msgstr "回合耗尽"
 
-#, fuzzy
 msgid "Lose your leader and all your commanders"
-msgstr "失去你的领袖和所有的指挥官"
+msgstr "失去你的首领和所有指挥官"
 
-#, fuzzy
 msgid "An in-game help is available: right-click on any empty hex."
-msgstr "游戏中的帮助是可用的：右键点击任何一个空的六角。"
+msgstr "游戏中有帮助可用：右击任意空六角格即可。"
 
-#, fuzzy
 msgid "Tell me how my recruit works"
-msgstr "告诉我我的新兵如何工作"
+msgstr "告诉我如何进行征募"
 
-#, fuzzy
 msgid ""
 "Every time you recruit a unit, it is replaced in your recruit list by its "
 "pair. The following pairs can also be found here:"
 msgstr ""
-"每当你招募一个单位时，它在你的招募列表中就会被它的配对所取代。以下的配对也可"
-"以在这里找到。"
+"每当征募单位时，它都会被对应的”单位对“所取代。以下单位对也可以在这里找到："
 
 #. [lua]: wesnoth.wml_actions.wc2_recruit_info
-#, fuzzy
 msgid "You are not using a WC2 faction."
-msgstr "你没有使用WC2的派别。"
+msgstr "你没有使用WC2的派系。"
 
 #. [lua]: artifacts.give_item
-#, fuzzy
 msgid "I cannot pick up that item."
-msgstr "我不能拿起那个项目。"
+msgstr "我没法捡起那个物品。"
 
 #. [lua]: wesnoth.wml_actions.wc2_show_item_info
-#, fuzzy
 msgid "Remind me what this item does"
-msgstr "提醒我这个项目是做什么的"
+msgstr "提醒我这个物品有什么用"
 
 #. [lua]: wesnoth.wml_actions.wc2_place_bonus
-#, fuzzy
 msgid "place"
 msgstr "地点"
 
 #. [lua]: span_font_family
-#, fuzzy
 msgid "$name's $type"
-msgstr "名的$类型"
+msgstr "$name|的$type"
 
 #. [lua]: bonus.found_artifact
-#, fuzzy
 msgid "Hey, I found some treasure!"
-msgstr "嘿，我发现了一些宝藏!"
+msgstr "嘿，我发现了一些宝藏！"
 
 #. [lua]: bonus.found_hero
 #. [lua]: bonus.found_training
-#, fuzzy
 msgid "Someone is here!"
-msgstr "有人死在这儿了。"
+msgstr "有人在这儿！"
 
-#, fuzzy
 msgid "Bane"
-msgstr ""
-"韦诺的军队中有前途的矛兵通常会得到晋升而使用长矛，身上披挂的护甲也比他们还是"
-"新兵时的杂牌皮甲要好得多。因为长矛比普通的矛要长，因此所采用的战术也就不同。"
-"长矛兵组成的人墙是骑兵冲锋的克星。同时，纪律严明、战术清晰的长矛兵也能对抗绝"
-"大多数类型的其他步兵。"
+msgstr "祸害"
 
-#, fuzzy
 msgid "Cargo"
-msgstr ""
-"Cargo | By <a href=\"https://www.gouwo8.com\" target=\"_blank\" rel="
-"\"noopener\">狗窝吧汉化</a>"
+msgstr "货物"
 
-#, fuzzy
 msgid "Disaster"
-msgstr "灾难性"
+msgstr "灾难"
 
-#, fuzzy
 msgid "Expedition"
 msgstr "远征"
 
-#, fuzzy
 msgid "Massacre"
-msgstr "大屠杀"
+msgstr "屠杀"
 
-#, fuzzy
 msgid "Point"
-msgstr "积分"
+msgstr "点"
 
-#, fuzzy
 msgid "Rest"
-msgstr "Rest"
+msgstr "支座"
 
-#, fuzzy
 msgid "Rocks"
 msgstr "岩石"
 
-#, fuzzy
 msgid "Route"
-msgstr "路由"
+msgstr "路径"
 
-#, fuzzy
 msgid "Ruin"
-msgstr "毁灭"
+msgstr "废墟"
 
-#, fuzzy
 msgid "Vestige"
-msgstr "缁嶂"
+msgstr "遗迹"
 
-#, fuzzy
 msgid "Waters"
-msgstr "脆弱的冰层在重装武士的脚下塌陷了，他淹死在山脉中冰冷的水里。"
+msgstr "水体"
 
-#, fuzzy
 msgid "Curse"
 msgstr "诅咒"
 
-#, fuzzy
 msgid "Exile"
-msgstr "流亡者"
+msgstr "流亡"
 
-#, fuzzy
 msgid "Lair"
-msgstr ""
-"这些洞穴曾经是具有传奇色彩的古老蛇怪“查克索·内伊克斯”的藏身之处。那些被他石化"
-"的受害者们，至今仍是他那狂暴力量的纪念碑。"
+msgstr "巢穴"
 
-#, fuzzy
 msgid "Passage"
-msgstr "这路是个死胡同。"
+msgstr "通道"
 
-#, fuzzy
 msgid "Death"
 msgstr "死亡"
 
-#, fuzzy
 msgid "Quagmire"
 msgstr "泥潭"
 
-#, fuzzy
 msgid "Cemetery"
 msgstr "墓地"
 
-#, fuzzy
 msgid "Desert"
 msgstr "沙漠"
 
-#, fuzzy
 msgid "Desolation"
-msgstr ""
-"我一直希望能看到这把剑回到人鱼，它真正的所有者的手中。如果你能取回它，你就能"
-"证明自己值得我尽我所能来帮助。我不知道应该去哪里找这把剑，但我认识一个人，他"
-"知道。荒芜沼泽的南边，一座坍塌的城堡附近，住着一位名叫卡拉东的法师。他垂涎宝"
-"剑已有多年，他一定知道该去哪里找到持有这把宝剑的巫妖。"
+msgstr "荒芜"
 
-#, fuzzy
 msgid "Despair"
-msgstr "你是这么认为的吗？我会证明你是错的。看看外面你的族人，绝望吧！"
+msgstr "绝望"
 
-#, fuzzy
 msgid "Wasteland"
-msgstr "不毛之地"
+msgstr "荒原"
 
-#, fuzzy
 msgid "Destruction"
 msgstr "毁坏"
 
-#, fuzzy
 msgid "Cave"
 msgstr "洞穴"
 
-#, fuzzy
 msgid "Graveyard"
-msgstr "墓地"
+msgstr "坟场"
 
-#, fuzzy
 msgid "Grotto"
 msgstr "石窟"
 
-#, fuzzy
 msgid "Bog"
 msgstr "沼泽"
 
-#, fuzzy
 msgid "Hideout"
 msgstr "藏身处"
 
-#, fuzzy
 msgid "Den"
-msgstr "穴位"
+msgstr "兽窝"
 
-#, fuzzy
 msgid "Dungeon"
 msgstr "地牢"
 
-#, fuzzy
 msgid "Mine"
-msgstr "我的"
+msgstr "矿坑"
 
-#, fuzzy
 msgid "Secret"
-msgstr "密钥"
+msgstr "秘密"
 
-#, fuzzy
 msgid "Crypt"
-msgstr "墓室"
+msgstr "地窖"
 
-#, fuzzy
 msgid "Dream"
 msgstr "梦想"
 
-#, fuzzy
 msgid "Mausoleum"
 msgstr "陵墓"
 
-#, fuzzy
 msgid "Ossuary"
-msgstr "骨灰龛"
+msgstr "骨灰盒"
 
-#, fuzzy
 msgid "Peak"
 msgstr "顶峰"
 
-#, fuzzy
 msgid "Quarry"
 msgstr "采石场"
 
-#, fuzzy
 msgid "Site"
 msgstr "站点"
 
-#, fuzzy
 msgid "Destiny"
-msgstr ""
-"她说你会来的。你们可能可以击败我们，但是没有人能对抗她。你们最终还是会屈服"
-"的。这是你们的命运。"
+msgstr "命运"
 
-#, fuzzy
 msgid "Domain"
-msgstr "域名"
+msgstr "领域"
 
-#, fuzzy
 msgid "Door"
 msgstr "门"
 
-#, fuzzy
 msgid "Gate"
-msgstr "门"
+msgstr "大门"
 
-#, fuzzy
 msgid "Armory"
 msgstr "军械库"
 
-#, fuzzy
 msgid "Enclave"
-msgstr "所以你们精灵在我们的地盘上建立了飞地。但是为什么？"
+msgstr "飞地"
 
-#, fuzzy
 msgid "Fair"
-msgstr "一般级别"
+msgstr "集市"
 
-#, fuzzy
 msgid "Festival"
 msgstr "节日"
 
-#, fuzzy
 msgid "Market"
 msgstr "市场"
 
-#, fuzzy
 msgid "Path"
-msgstr "路径"
+msgstr "小径"
 
-#, fuzzy
 msgid "Road"
 msgstr "道路"
 
-#, fuzzy
 msgid "Tournament"
 msgstr "锦标赛"
 
-#, fuzzy
 msgid "Refuge"
 msgstr "避难所"
 
-#, fuzzy
 msgid "Memory"
-msgstr "内存"
+msgstr "记忆"
 
-#, fuzzy
 msgid "Rock"
 msgstr "岩石"
 
-#, fuzzy
 msgid "Triumph"
-msgstr ""
-"苏内达因之柱。他是一位传奇式的矮人领主，在这里他坚守直到最后一息。愿我们能在"
-"他倒下的地方获胜。"
+msgstr "大胜"
 
-#, fuzzy
 msgid "Monolith"
 msgstr "巨石"
 
-#, fuzzy
 msgid "Obelisk"
 msgstr "方尖碑"
 
-#, fuzzy
 msgid "Desire"
 msgstr "欲望"
 
-#, fuzzy
 msgid "Well"
 msgstr "井"
 
-#, fuzzy
 msgid "Cliff"
-msgstr ""
-"\n"
-"\t\tsuffix=汉姆|布里|屯|蒙特|蒙特|克里夫|克里夫\n"
-"\t\tmain=$base{!}{suffix}\n"
-"\t"
+msgstr "悬崖"
 
-#, fuzzy
 msgid "Plateau"
 msgstr "高原"
 
-#, fuzzy
 msgid "Bay"
-msgstr "湾区"
+msgstr "海湾"
 
-#, fuzzy
 msgid "Coast"
 msgstr "海岸"
 
-#, fuzzy
 msgid "Harbor"
-msgstr "ㄗ髡叩ノ唬?"
+msgstr "港湾"
 
-#, fuzzy
 msgid "Lighthouse"
 msgstr "灯塔"
 
-#, fuzzy
 msgid "Port"
-msgstr "端口"
+msgstr "港口"
 
-#, fuzzy
 msgid "Seaport"
 msgstr "海港"
 
-#, fuzzy
 msgid "Shore"
 msgstr "岸边"
 
-#, fuzzy
 msgid "Beacon"
-msgstr "灯塔"
+msgstr "信标"
 
-#, fuzzy
 msgid "Signal"
 msgstr "信号"
 
-#, fuzzy
 msgid "Marsh"
-msgstr "沼泽"
+msgstr "湿地"
 
-#, fuzzy
 msgid "Delirium"
 msgstr "谵妄"
 
-#, fuzzy
 msgid "Conclave"
-msgstr "协进会"
+msgstr "秘密会议"
 
-#, fuzzy
 msgid "Farm"
 msgstr "农场"
 
-#, fuzzy
 msgid "Field"
-msgstr "字段"
+msgstr "农田"
 
-#, fuzzy
 msgid "Granary"
 msgstr "粮仓"
 
-#, fuzzy
 msgid "Grassland"
 msgstr "草原"
 
-#, fuzzy
 msgid "Meadow"
-msgstr "草 地"
+msgstr "草地"
 
-#, fuzzy
 msgid "Prairie"
-msgstr "草 原"
+msgstr "大草原"
 
-#, fuzzy
 msgid "Shire"
-msgstr "希尔"
+msgstr "郡"
 
-#, fuzzy
 msgid "Windmill"
 msgstr "风车"
 
-#, fuzzy
 msgid "Outpost"
 msgstr "前哨站"
 
-#, fuzzy
 msgid "Shelter"
 msgstr "庇护所"
 
-#, fuzzy
 msgid "Altar"
-msgstr "圣坛"
+msgstr "祭坛"
 
-#, fuzzy
 msgid "Oracle"
-msgstr "Oracle"
+msgstr "先知"
 
-#, fuzzy
 msgid "Academy"
 msgstr "学院"
 
-#, fuzzy
 msgid "Library"
-msgstr "库"
+msgstr "书库"
 
-#, fuzzy
 msgid "Sanctuary"
-msgstr "庇护所"
+msgstr "圣所"
 
-#, fuzzy
 msgid "School"
 msgstr "学校"
 
-#, fuzzy
 msgid "Shrine"
-msgstr ""
-"冰冷的死亡便将扼住你，你感到自己的灵魂离开了躯体。你意识到，很快你便将落入和"
-"神殿的幻影守卫一样的命运。"
+msgstr "神殿"
 
-#, fuzzy
 msgid "Temple"
 msgstr "神庙"
 
-#, fuzzy
 msgid "Decay"
-msgstr "衰减  Decay"
+msgstr "衰败"
 
-#, fuzzy
 msgid "Moor"
-msgstr "莫尔"
+msgstr "泊点"
 
-#, fuzzy
 msgid "Perversion"
-msgstr "变态"
+msgstr "曲解"
 
-#, fuzzy
 msgid "Glade"
-msgstr "格莱德"
+msgstr "林间空地"
 
-#, fuzzy
 msgid "Tree"
 msgstr "树"
 
-#, fuzzy
 msgid "Observatory"
-msgstr "观察站"
+msgstr "观测台"
 
-#, fuzzy
 msgid "Tower"
-msgstr "塔筒"
+msgstr "塔"
 
 #. [lua]: wc2_invest.invest
-#, fuzzy
 msgid "WC2 Invest"
 msgstr "WC2投资"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Artifacts"
-msgstr ""
-"矮人旷工是矮人社会的底层工人。他们从地里挖出宝贵的矿物，但从来都不参与武器或"
-"其他铸造品的铸造。他们没有受过军事训练，但还是能用镐子造成一些伤害。"
+msgstr "神器"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Heroes"
-msgstr "呀，我们要成英雄了！"
+msgstr "英雄"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid ""
 "Commanders will take your leader’s place when the leader dies, possible "
 "commanders:"
-msgstr "指挥官将在领袖死亡时取代你的领袖的位置，可能的指挥官。"
+msgstr "当你的首领死亡时，指挥官会取而代之，可能的指挥官："
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Commander"
 msgstr "指挥官"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "promote to leader"
-msgstr "提升为领导"
+msgstr "提升为首领"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "possible units:"
-msgstr "可能的单位。"
+msgstr "可能的单位："
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Deserter"
-msgstr "逃亡者"
+msgstr "逃兵"
 
 #. [lua]: gui.widget.add_invest_item
 #. [lua]: preshow
-#, fuzzy
 msgid "Training"
 msgstr "培训"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "$name Training"
-msgstr "$名称 培训"
+msgstr "$name|正在训练"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "After:"
 msgstr "之后："
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Before:"
 msgstr "之前："
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Other"
 msgstr "其他"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "+70 gold and +1 village"
-msgstr "+70金币和+1村庄"
+msgstr "+70金币且+1村庄"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Stock up supplies"
 msgstr "囤积物资"
 
 #. [lua]: gui.widget.add_invest_item
-#, fuzzy
 msgid "Gives 70 gold and places a village on your keep."
-msgstr "给予70金币，并在你的守卫上放置一个村庄。"
+msgstr "给予70金币，并在你的主楼上放置一个村庄。"
 
-#, fuzzy
 msgid "No! This is the end!"
-msgstr "不，这才是结束。"
+msgstr "不，这才是结束！"
 
-#, fuzzy
 msgid "Don’t lose heart comrades, we can still win this battle."
-msgstr "同志们不要灰心，我们仍然可以赢得这场战斗。"
+msgstr "同志们不要灰心，我们仍然可以赢得战斗。"
 
 msgid ""
 "Aban,Abidin,Acacalide,Acimaëli,Acratoforo,Actarof,Adham,Adnan,Adramitio,Ael-"
@@ -1033,80 +846,329 @@ msgid ""
 "Zogier,Zora,Zorgal,Zorugoth,Zoruleive,Zouhan,Zouridga,Zubayr,Zuhayr,Zuree,"
 "Zzupde"
 msgstr ""
+"Aban,Abidin,Acacalide,Acimaëli,Acratoforo,Actarof,Adham,Adnan,Adramitio,Ael-"
+"Lagaleth,Aereste,Agshirt,Ahyaul,Aigaitha,Aigaithil,Aigaithol,Aigalam,"
+"Aigaling,Aigalir,Aigalol,Aigalsin,Aigatan,Aigatlod,Aigatsel,Aigatsol,Aigatu,"
+"Aigcataz,Aigcatil,Aigcating,Aigcatim,Aigcatsol,Aigcatur,Aigdring,Aigdril,"
+"Aigdersil,Aigdursol,Aigthain,Aigthasim,Aigthaug,Ainhuol,Ainuel,Aj Taum,"
+"Akoark,Akort,Akzalk,Alabrylla,Alaebrylla,Alaeniver,Alaitha,Alaith,Alaithol,"
+"Alaithsol,Alaithu,Alalil,Alalla,Alalol,Alalsol,Alalum,Alamade,Alamaitheol,"
+"Alanamix,Alaryan,Alatarc,Alating,Alatlor,Alatsil,Alberast,Aldarsol,Aldram,"
+"Aldril,Aldring,Aldrinm,Aldrulo,Aldrol,Aldumcatil,Aldura,Aldurlosp,Aldurol,"
+"Aleacla,Aleara,Alearka,Alena,Alengwen,Aleuksia,Al-Kuz,Alianora,Aligbrula,"
+"Alilonna,Alim,Alinash,Alingwen,Alinoe,Alistre,Almarcy,Alminzo,Alolonna,Alora,"
+"Althaam,Althail,Althalea,Althalo,Althaol,Althasil,Althasol,Althau,Althiela,"
+"Alubrylla,Aluneire,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,"
+"Alynoic,Alyra,Alyryan,Almahdi,Altaf,Amedë,Amilmaldur,Amorfir,Amowyn,Amprixta,"
+"Anaitharl,Anaithing,Anaithu,Analil,Anallom,Analol,Analsil,Analuh,Anataj,"
+"Anating,Anatir,Anatol,Anatsol,Ancataz,Ancatil,Ancatol,Ancattu,Andril,Andrih,"
+"Andrulop,Andrun,Anduril,Andurol,Andursol,Anduru,Anerion,Anexir,Anglachem,"
+"Anilad,Anilgawyn,Anitraz,Ankthorez,Anoithil,Anoush,Antarah,Anthaal,Anthaing,"
+"Anthaim,Anthaol,Anthasil,Anthasor,Anthaul,Anui,Anundil,Ardenia,Arnenvier,"
+"Arkarm,Arix,Arnondo,Asadel,Asbasalieg,Asgalioth,Asgertase,Asgriah,Ashraf,"
+"Asvetro,Athir,Atrede,Aufiloch,Auginet,Augithad,Augaithing,Augaithsil,"
+"Augaithur,Augalam,Augaling,Augating,Augatlo,Augatol,Augatsil,Augcatil,"
+"Augcatun,Augdrin,Augdrur,Augdursil,Augdura,Augduril,Augdursol,Augduruh,"
+"Augthail,Augthaim,Augthalo,Augthaol,Aungubulang,Ausrethgul,Auuglann,"
+"Auxdornath,Avenore,Axiz,Azimur,Azkabin,Azluheb,Azorein,Azurena,Azurix,Baart,"
+"Babreca,Bacbouc,Badri,Baelgaltir,Bagar,Baha,Bahamix,Bahiyy,Bahlagdi,"
+"Bahldrusk,Bahomet,Balfelor,Bakr,Bakri,Baligh,Balqueria,Bandar,Baogrish,"
+"Baradug,Barag,Barakah,Barbag,Barguntil,Barkuk,Barnasab,Bashnak,Baugahler,"
+"Baugdurol,Bayhar,Belineur,Belandil,Beleumaodir,Belise,Belithraldor,Belondel,"
+"Belurmeinseil,Belyrion,Bentesicime,Beolduf,Beraorg,Bercenego,Bergsnoth,"
+"Berigstan,Berq Tzerit,Bersevian,Beuchaliol,Bhunk,Bicoru,Bidush,Bielura,"
+"Bierthur,Bifix,Bik,Bilal,Bilerau,Bilg,Bilo,Binak,Biol,Biothfeorst,Birt,Bishr,"
+"Bisiluash,Bistemut,Biung,Bjouz,Bloik,Blokkar,Blygwyn,Bogdush,Bogor,Bok,Bolg,"
+"Bolunir,Bomduril,Borduntur,Borig,Borkuk,Borosnoat,Bort,Boshnak,Boulosh,"
+"Braedda,Brakor,Brassa,Bravyan,Breabrylla,Breall,Brealla,Brealonna,Breana,"
+"Brell,Brellyra,Brera,Brerka,Breryan,Bricla,Brirka,Brithaithol,Britomartix,"
+"Brobrylla,Brogk,Brollyra,Brona,Bronoic,Brora,Brugaranti,Brugung,Brungwen,"
+"Bruorka,Bruryan,Brwra,Brycla,Brynoic,Bukkak,Bulruk,Budail,Budush,Bugdish,Buk,"
+"Bunak,Burag,Burg,Burgaur,Burhan,Burk,Buurk,Cael Einur,Caella,Caena,Caengwen,"
+"Caervecuto,Caevyan,Caldur,Calebrindel,Calebrindir,Calianasa,Calimire,"
+"Calisbia,Calla,Calusa,Calówien,Canduil,Caranfir,Carang,Carduan,Caribdi,Carla,"
+"Carseglio,Cassa,Cealonna,Cecropido,Celang,Cera,Ceryan,Cewdda,Chagron,Chamil,"
+"Chiona,Churumol,Cibrylla,Cicla,Cinoic,Cira,Cirduel,Cirsai,Cissa,Cithraldur,"
+"Clacla,Claella,Claelyan,Claenoic,Clalla,Clallyra,Clara,Clarka,Clavyan,"
+"Cleacla,Cleall,Clealyan,Cleana,Cleezi,Clemirfone,Clenoic,Clezz,Clibrylla,"
+"Clill,Clillyra,Clilyan,Clinoic,Clissa,Clobrylla,Clollyra,Clona,Clothildrien,"
+"Clungwen,Clurka,Cluvyan,Clwdda,Clwlla,Clwvyan,Clydda,Clylla,Colgton,Cora,"
+"Coranthyo,Corkkar,Corodro,Corugush,Coryan,Cradagon,Crespuo,Crudvo,Crysgarin,"
+"Cucla,Cudda,Cundir,Curcopia,Curnacuyac,Curyan,Cwleina,Cwengwen,Cywivyan,"
+"Cydda,Cylasu,Cylla,Cyllyra,Cylyan,Cyniver,Cyvyan,Dabirmiliun,Dabnusagosh,"
+"Daedda,Daelyan,Daengwen,Daenoic,Dagnea,Dalaleika,Dallyra,Dalmalso,Damell,"
+"Dangwen,Danmonlulbam,Dara,Dassa,Deanoic,Deassa,Deborisa,Deimiluel,Delandel,"
+"Delaraldur,Delkkak,Della,Delilmaldor,Deliol,Delorion,Delundil,Demalot,Demla,"
+"Denya,Derceto,Deucalion,Devyan,Deyalh,Dhakwan,Dhogari,Dicla,Dijuf,Diniver,"
+"Dinsill,Dirala,Dirraquio,Dissa,Dobielon,Doburah,Dollyra,Donmolig,Dornoth,"
+"Dorobal,Doromina,Drahganilo,Drasan,Drensig,Drethmol,Dullyra,Dulonna,"
+"Dulaithil,Dulaithing,Dulaithlot,Dulaithsil,Dulaithsol,Dulalat,Dulalin,"
+"Dulalsil,Dulatil,Dulating,Dulatol,Dulatsol,Dulatur,Dulcatil,Dulcating,"
+"Dulcatlom,Duldril,Duldrik,Duldralo,Duldrol,Dulprisil,Duldruz,Duldurag,"
+"Dulduring,Duldursil,Duldurur,Dulnica,Dulthalol,Dulthasil,Dulthasol,Dulthaun,"
+"Dumanti,Dumuthi,Durbag,Durktuver,Duselia,Dwbrylla,Dwdda,Dwna,Dwnoic,Dwra,"
+"Dybrylla,Dydda,Dyssa,Eäréwiel,Eärilmadë,Ealumox,Ebernith,Ebougrush,Ebraham,"
+"Edalei,Edusten,Eefur,Efnix,Efnushguraj,Egnosian,Egulym,Einidia,Eisal,Eitcha,"
+"Eki,Eladrieng,Elacla,Elaedda,Elaell,Elaelonna,Elaessa,Elaevyan,Elaiseng,"
+"Elallyra,Elalonna,Elara,Elavern,Elebrildor,Elebrindel,Elélan,Elémbor,Elemir,"
+"Elealla,Eleanoic,Elenoic,Elerka,Eleusinion,Eliomir,Eliondil,Elithae,Elivyan,"
+"Elomuar,Elorfilad,Elradrien,Elrioldor,Elriolith,Elrorfir,Elsviriz,Elueso,"
+"Elulonna,Elurka,Elval,Elvandir,Elvaramir,Elvioldur,Elwllyra,Elwlonna,"
+"Elwngwen,Elwra,Elycla,Elyllyra,Elyngwen,Elyniver,Elyrion,Elyrka,Elzea,"
+"Enariol,Endaira,Endornathain,Enuilamde,Eowimbor,Eowiomir,Eowyla,Eponure,"
+"Eradash,Eradiush,Eragdish,Eragor,Eranak,Erang,Erarg,Erart,Erigdush,Erik,"
+"Erinak,Eriol,Erirag,Erirbag,Erirg,Erirt,Erishnak,Eriurk,Erogdush,Erok,Erong,"
+"Erorbag,Ertjon,Erudish,Erugar,Erugdush,Erulo,Erunk,Eruol,Erurag,Eruurk,Eshi,"
+"Eshkyrech,Esmodrigor,Estielem,Estinfalide,Estumbuprag,Etsenia,Eubuleo,"
+"Eugabor,Eulimn,Eulqaia,Eurinoa,Eur Masup,Evirigna,Evouli,Exnaug,Eyyu,Ezneale,"
+"Fabudain,Fadriendel,Faduhc,Faeminyon,Faervilim,Faiminei,Faisulal,Falvila,"
+"Fanthurfin,Falulmisso,Famyih,Fanaithsil,Farandir,Farlamir,Farseluo,Faugamel,"
+"Fazzi,Fáwyn,Feagoil,Febarnet,Feplerchaun,Ferabela,Ferdigan,Ferfamora,"
+"Fersijadmul,Festum,Feyz,Fgor,Fizlandilu,Fienar,Figalfin,Filanur,Filictor,"
+"Filvarëule,Finafgol,Findolith,Finduanor,Fioril,Fiorlah,Fizztrax,Flaamenthil,"
+"Flixta,Flizzil,Floqke,Fnigah,Foiginoch,Folmagauh,Fondarea,Fongaorn,Formontor,"
+"Forouzandeh,Fougul,Foutum,Fódë,Frellah,Freomeda,Frikeq,Frizzle,Fraonderic,"
+"Ftiotide,Fudail,Fuensithiem,Fuitheck,Furlamthaol,Furviramo,Fusenoyc,Fymn,"
+"Fyrion,Gabithol,Gadash,Gadriendil,Gadrieng,Gagdush,Gagor,Galalith,Galar,"
+"Galeck,Galela,Galeldur,Galelith,Galo,Galsh,Gamal,Gamilenao,Ganak,Ganamau,"
+"Ganelfir,Gaunk,Gaol,Garadin,Garag,Garaldor,Garchin,Gark,Garkuk,Garlan,Garlin,"
+"Garruj,Garushi,Garzilium,Gashnak,Gashinar,Gasthol,Gaugramelo,Gaunthelar,"
+"Gaushii,Gaustun,Gawna,Gegchi,Gelka,Gelknick,Genoro,Gerchog,Gewcla,Ghafur,"
+"Ghakhan,Ghani,Ghayth,Gienk,Gigor,Gillan,Gillohn,Ginak,Ging,Giombor,Girt,"
+"Gisharri,Glamadriel,Glamaithil,Glamaithim,Glamaithol,Glamaithsol,Glamalil,"
+"Glamaling,Glamalir,Glamallot,Glamaluf,Glamatug,Glamcatah,Glamcatil,Glamcatu,"
+"Glamdran,Glamdril,Glamdrelo,Glamdirsol,Glamdurain,Glamduring,Glamdurix,"
+"Glamthaal,Glamthasil,Glamthasol,Glamthaug,Glararil,Glaunurg,Glilmal,Glimir,"
+"Glomin,Glómir,Gnukk,Goark,Gogdish,Gogdush,Gomaithar,Gomaithil,Gomaithsol,"
+"Gomalil,Gomalux,Gomatarr,Gomatil,Gomating,Gomativ,Gomcatil,Gomcatlo,Gomdrah,"
+"Gomdril,Gomdring,Gomdrim,Gomdrol,Gomduri,Gomdurloh,Gomdursil,Gomdursol,"
+"Gomdurup,Gomthaatz,Gomthalor,Gomthasol,Gorfindil,Gorospkin,Gort,Goruk,Gorzol,"
+"Goshnak,Goust,Gozmiog,Grada,Grahklin,Grak,Gralg,Gralo,Granak,Graol,Graoug,"
+"Grarbag,Greragrog,Greth,Gribbel,Gridash,Griedush,Gridda,Grigar,Grignish,"
+"Grigor,Grilg,Grilo,Grink,Grirg,Grishnak,Grishuglunakh,Grithmau,Grodish,"
+"Grogar,Grolg,Gronk,Grorag,Grorg,Grork,Grort,Groshnak,Grotish,Grouk,Grudash,"
+"Grugdish,Grugdush,Gruk,Grulo,Grunk,Gruol,Grurg,Grurt,Gruurk,Grymma,Gugdish,"
+"Gugdush,Gulcating,Gulg,Gulo,Gumbundulun,Gumalsil,Gunak,Guong,Gurbag,Gurt,"
+"Gushnak,Gurk,Gurm,Guthmorcobel,Gwaera,Gwaessa,Gweacla,Gwedda,Gwerka,Gwicla,"
+"Gwirka,Gwobrylla,Gwoll,Gwona,Gwongwen,Gwonoic,Gworyan,Gwullyra,Gwussa,Gwycla,"
+"Gwydda,Gywvyan,Habohl,Habudamil,Hachuel,Hadash,Haderald,Hadiel,Hadum,"
+"Hafmaihjin,Hagar,Hagdelstaf,Hagdush,Hagor,Haik,Hakam,Halimanir,"
+"Hanfonderlincan,Hank,Haragdinul,Hareth,Harith,Harrmukhag,Harpalice,Harquem,"
+"Hashnak,Hasz,Hathnei,Haub,Haugduring,Haurapitko,Hausieg,Hayanami,Hayanee,"
+"Hebril,Heffez,Hegledna,Heldra,Herbet,Hertrazzir,Herudo,Hesz,Hezzi,Hidaspe,"
+"Hidush,Higduhn,Hilal,Hilg,Hilgarion,Hilmariand,Hilonome,Hilsmagath,Hinak,"
+"Hing,Hiol,Hiragna,Hirg,Hisiloem,Hobgar,Hodul,Hogor,Hoi,Hoidish,Holinurie,"
+"Holruk,Hong,Hool,Horbag,Horfindel,Horgsten,Hort,Hougssen,Housneak,Huadash,"
+"Hualg,Huchnubulo,Hudish,Huesk,Hugor,Huk,Hulo,Huol,Hurag,Hurbag,Hurimtum,Hurk,"
+"Hushnak,Huurk,Huyagharu,Ibmaecire,Ibmahalej,Ibsongord,Ichtka,Ictareuse,"
+"Idaluam,Idrasil,Iekal,Ifianasa,Ifbajimn,Igfeniorth,Igmavenar,Ihbur,Ihmusif,"
+"Ikatere,Ilamound,Ilisiade,Illa,Ilmiwir,Ilsalaah,Inai,Inalai,Inexi,Iraene,"
+"Irele,Iridelia,Irix,Iripza,Irobryne,Isadrieng,Isaurico,Iselan,Isilmandel,"
+"Isirion,Isorfilad,Isorfindir,Isurnym,Isuwyn,Isyndel,Isáwen,Isebridien,"
+"Isebrinia,Isemlath,Isendra,Iséng,Iseviel,Isil-Garith,Isithradien,Isithrarith,"
+"Isithrawiel,Isóthien,Ismozg,Issalai,Istirazu,Ithlurnae,Ivayinna,Iverone,"
+"Ivinhao,Ivonitha,Iznoud,Jabuoc,Jacla,Jadnor,Jaena,Jaerka,Jaevyan,Jalasad,"
+"Jalika,Jalyan,Jana,Jarame,Jarka,Jasmuniure,Jassa,Jaugwan,Jaumalon,Jawhar,"
+"Jeabrylla,Jealla,Jeanoic,Jelifem,Jemara,Jeniver,Jerco,Jerguo,Jeudriel,Jezzix,"
+"Jibran,Jibril,Jiel Dahr,Jiryan,Jissa,Jizz,Joll,Jolla,Jona,Jongwen,Jonoic,"
+"Jora,Jorka,Jovyan,Jowe,Jubair,Judda,Juffarin,Jugrund,Jull,Julonna,Jumah,"
+"Junayd,Jura,Jureh,Jusif,Juturne,Juwain,Jwll,Jwlyan,Jycla,Jyniver,Jynoic,"
+"Jyrka,Jyvyan,Kadar,Kadin,Kadir,Kahil,Kalesiw,Kaliez,Kalinthya,Kalknix,Kall,"
+"Kalynteri,Kategard,Karak,Karbuk,Kargnak,Karterak,Karum,Kauthyn,Kayrak,"
+"Kegchitosh,Kelkrar,Kepz,Kernix,Kersezz,Kerta,Kertrasz,Kerx,Kerxenix,Kezz,"
+"Khaliq,Khayr,Khimessei,Kiryle,Klexaz,Klezyx,Khangatilha,Kiepp,Kierkugar,"
+"Kilkrar,Kingrok,Kitara,Kladiul,Klept,Klowe,Klud,Koen,Kognucha,Kokkan,Kolbyn,"
+"Koleri,Kolk,Komak,Koqeiri,Koqnir,Korgnak,Koria,Kork,Koruck,Koslourg,Kou "
+"Korul,Kórrigan,Kramak,Krog,Krukrak,Krumuk,Kruo,Kuknuk,Kurkur,Kurmak,Krisva,"
+"Konstentyn,Korim,Koschye,Krarax,Krenarex,Krex,Krinex,Kroo,Kropstin,Kthulju,"
+"Kurmalund,Kushana,Kyrtk,Laeniver,Laenoic,Laeryan,Lagrest,Lagusster,"
+"Laivaergne,Laizix,Lalaith,Lamatro,Langwen,Laomedontu,Laphira,Larka,Lassa,"
+"Lauvin,Lazki,Lealonna,Lealyan,Ledda,Legilad,Legorfindil,Legorfirion,"
+"Legorniath,Leifarom,Leivura,Lelonna,Lelyan,Lengwen,Leprethnaum,Lerka,Lessa,"
+"Leucotoe,Leukritia,Leuria,Lewlla,Licurgo,Lidda,Lill,Lilupar,Lina,Lipku,Lirka,"
+"Liryan,Lisgurerg,Lisidice,Lisuvik,Livyan,Lixeez,Loberta,Lobrishg,Locla,Lodda,"
+"Lollyra,Lolonna,Lomurg,Lophareon,Lorbuc,Lorquiel,Lortand,Lorthac,Lorthik,"
+"Loturni,Loubregarc,Loungodul,Lowryan,Luanud,Luargko,Lucanaor,Lugoum,Lullah,"
+"Lulyan,Lungwen,Lunoic,Luriniel,Luryan,Luvatamir,Lwcla,Lwnoic,Lycla,Lylla,"
+"Lylyan,Lyna,Lynoic,Lómariand,Maecla,Maeniver,Maerilna,Magirilion,Mahjub,"
+"Mahmud,Mahrul,Maijzasal,Maimun,Makron,Malaputo,Malatare,Maldurse,Mamurio,"
+"Mansrabunag,Maraldur,Mariudan,Markaak,Mar Kaog,Markuk,Marthaol,Maru,Marvin,"
+"Masaw,Masude,Masulami,Mausika,Mavyan,Meacla,Mealyan,Meana,Meangwen,Meanoic,"
+"Medda,Medesicaste,Meglusur,Megrollu,Meiseleng,Mejmed,Melalin,Meleagride,"
+"Melesagor,Melianur,Melicenea,Melifior,Melisteo,Mengwen,Meniver,Meradda,"
+"Meraecla,Meraelyan,Merall,Merallyra,Merana,Meranoic,Merealonna,Mereangwen,"
+"Mereaniver,Merebrylla,Merella,Merengwen,Meressa,Mergcan,Merilyan,Merina,"
+"Merinoic,Merissa,Merivyan,Merknik,Merogiv,Merolla,Merolyan,Merona,Meroniver,"
+"Mersulla,Merubrylla,Merulda,Merurka,Merwlla,Merwnoic,Merwryan,Merydda,"
+"Merylyan,Mesligfor,Messa,Meuj,Merask,Meyumn,Mhoro,Midsidrie,Migly,Milandra,"
+"Milonna,Minoloti,Miomir,Mireyah,Mirsha,Miskapuo,Mithrand,Miyen Kha,Mohrouh,"
+"Molokti,Molyan,Mondir,Moniver,Monsantir,Mor Drokuhr,Morduf,Morelna,Morgemil,"
+"Morisyeva,Morridgen,Moruboa,Morunthya,Morwen,Mossa,Mosgarnaruth,Mot,Mouresla,"
+"Moxanzz,Mubdugollush,Mudda,Mughni,Muhodre,Mulcatsol,Mullyra,Mulyan,Muneirwe,"
+"Munsif,Muntasir,Muqtadir,Murad,Murid,Murshid,Murstain,Murtada,Muryan,"
+"Musawwir,Mwbrylla,Mwlyan,Mwngwen,Mwnoic,Mycla,Myall,Mylla,Myngol,Myra,Myvyan,"
+"Mylith,Nabrylla,Nadrieldor,Naecla,Naell,Nalith,Nalyan,Nangwen,Naraithil,"
+"Naraithing,Naraithol,Naraithsil,Naraithsol,Naraithum,Naralan,Naralil,"
+"Naralsil,Naraluh,Naratlol,Naratsil,Narcating,Narcativ,Narcatol,Narcatsil,"
+"Narcatsol,Nardrab,Nardril,Nardring,Nardrig,Nardrol,Nardarsil,Nardrsol,"
+"Nardrul,Nardurah,Narduril,Nardurol,Nargak,Nargig,Narthalo,Nasdrubolish,"
+"Nathlaroel,Naucrati,Naumaragoth,Naxisz,Nazmi,Nealla,Neallyra,Nealonna,Nearof,"
+"Neavyan,Nemertex,Nera,Nerogish,Nessa,Ngondo,Nibalusg,Nibiru,Nibrash,Nidal,"
+"Nieron,Nimbuel,Nimdroth,Ninoic,Niryan,Nivyan,Nix,Noalor,Nobrylla,Nocht,"
+"Noctaul,Nolla,Nonoic,Nokan,Norfilith,Norfindir,Norka,Noryan,Noughalya,Nuaym,"
+"Nucla,Nuhayd,Nuhmu,Nulla,Nulyan,Numair,Numan,Nungwen,Nuri,Nusktar,Nusrah,"
+"Nuvyan,Nuyll,Nwllyra,Nwryan,Nwvyan,Nybrylla,Nylyan,Nymn,Nyryan,Nyssa,Nyvyan,"
+"Obeor,Odailuo,Oden,Odiel,Odo,Odoacru,Odurme,Oenoxoe,Ofirion,Ogdenescu,Ogi "
+"Kegnach,Ogliara,Ohcan,Ohecyn,Oktubahli,Olamdursol,Olath,Olegar,Oleif,Oleiron,"
+"Olineur,Olk,Olufarin,Omerith,Omoran,Onesipo,Onore,Onyi,Oona,Opalei,"
+"Orguathise,Orguel,Orialdur,Oridash,Orkut,Orleomyr,Ormagg,Orofarnië,Oroloqi,"
+"Orrh,Orsendur,Orsifal,Orsil,Orugusk,Osarcyn,Osbuhgnax,Oselienn,Oshibi,Osse,"
+"Osteron,Othroshagrat,Otogarim,Otride,Otsere,Ougdram,Oumina,Owac,Owadd,"
+"Owaddyn,Owaecyn,Owaedry,Owain,Owaryn,Oweran,Owercyn,Owidry,Owinyc,Owodd,"
+"Owoddry,Owogwyn,Owollyn,Oworcyn,Oworraent,Owuddyn,Owugwyn,Owur,Owyran,Oxpeii,"
+"Padrusil,Pagdish,Pagor,Pahsur,Paige,Palo,Pambedrumne,Pamirie,Paol,Parag,"
+"Parduthal,Parsifeluem,Parviz,Pashnak,Paskemuthar,Pausul,Pedergish,Pegrorausg,"
+"Pelaithaz,Pelaithil,Pelaithing,Pelaithiq,Pelaithlot,Pelaithol,Pelaithsil,"
+"Pelaithsol,Pelalil,Pelaling,Pelalsil,Pelalsol,Pelalum,Pelatil,Pelating,"
+"Pelatol,Pelatsil,Pelatur,Pelcating,Pelcatlop,Pelcatol,Peldrat,Peldril,"
+"Peldrsol,Peldruh,Pelduril,Pelduring,Pelduri,Peldurol,Peldursol,Peldurum,"
+"Pelthaal,Pelthasil,Pelusso,Persidul,Perthwan,Pesralg,Pestiurn,Phalaxi,Phoebe,"
+"Phutalmo,Pidush,Pigrush,Pilg,Pinak,Piper,Pirgasb,Plaxih,Plesix,Podager,"
+"Podish,Podusg,Poledean,Polg,Porbag,Porg,Pourk,Poret,Porfildur,Poshnak,"
+"Pradish,Pragdush,Pragor,Pralg,Pralo,Prang,Praol,Prarag,Prarg,Prark,Prartsag,"
+"Prashnak,Praurk,Prerfosurz,Presch,Pridish,Prigar,Prigdish,Prigor,Prilg,Prilo,"
+"Prinak,Priol,Prirbag,Prirg,Prirt,Priurk,Prodash,Progush,Prolg,Prolo,Pronak,"
+"Prong,Pronk,Prool,Prourk,Prudish,Prugar,Prugdish,Pruk,Prunak,Prunk,Prurbarg,"
+"Prurg,Pruurk,Psipocum,Ptoliporto,Puladam,Pulg,Pulo,Punak,Punhg,Purag,Purg,"
+"Pusmahalu,Pustten,Puurk,Pyanepsie,Pyldur,Pyturc,Qadir,Qahhar,Qalioqe,Qam,"
+"Qanatloc,Qawi,Qayyum,Qeg Verkum,Qilenrama,Qitanira,Qizzeq,Quarismesta,Quddul,"
+"Quirenia,Quirisofo,Quisadz,Quroqoniba,Rabarecnu,Rabolux,Radash,Raebrylla,"
+"Raera,Raerka,Ragar,Ragdish,Rah,Rahlea,Rahunlar,Raithuin,Rakovisu,Ralonna,"
+"Raluenil,Ramnusia,Rang,Ranko,Ransevkurr,Raol,Rara,Rarag,Rarbag,Rark,Rarka,"
+"Rashid,Rashnak,Rassa,Rastud,Raurk,Ravsnuc,Rawdda,Razzaq,Reacla,Realla,Reana,"
+"Reangwen,Reh Shai,Rella,Relyan,Rengwen,Rei,Reknak,Renuto,Rerka,Reshan,Revyan,"
+"Rewllyra,Riamn,Rialna,Rik,Rileg,Rilluna,Rilmandil,Rilmasil,Rilyan,"
+"Rimilmandir,Rinak,Rirg,Rirka,Rithrandil,Riwlla,Roacura,Rodry,Rodush,Rogdish,"
+"Rohul,Roirk,Rolduen,Rolo,Ronak,Rorfindil,Rorta,Roth,Rubenof,Rucla,Rudash,"
+"Rufaroz,Rugar,Rugdish,Ruhnar,Ruk,Rulairuki,Runadrieng,Rung,Ruol,Rurag,Ruryan,"
+"Rushnak,Ruslika,Ruvlonna,Rwngwen,Rybrylla,Ryna,Ryngwen,Rynk,Rytuirka,Sador,"
+"Saell,Saellyra,Saenuber,Saerka,Saessa,Sahnor,Saibarini,Sailik,Salanix,"
+"Salimeh,Salik,Sallyra,Salmiegar,Salmiriem,Samosatu,Sandix,Sangaratil,Sanoic,"
+"Sanrauv,Saprazz,Sapnux,Saqr,Sara,Saria,Sariyah,Sarjine,Sarrusavag,Sarumegor,"
+"Sasegar,Sassa,Sati,Satral,Savnish,Schohozarog,Scorbu,Searka,Sebetide,Sebrun,"
+"Sehetti,Seif Girud,Seliandra,Selinunt,Seluomon,Sembriolibam,Semirami,Sena,"
+"Senoic,Sentinumo,Senzlerne,Seplattin,Seprorian,Sera,Sergustu,Serieva,Seulona,"
+"Sgalisse,Sgriag,Shaelmoc,Shakur,Siddiq,Sieulieare,Sigrery,Sigwuverno,"
+"Silfeleng,Sillumatti,Silmiril,Silonna,Sinan,Sinderul,Sinobia,Sira,Siraj,"
+"Sireyan,Sirvou,Sivnisiek,Skalix,Skandim,Skazix,Skeely,Skeezun,Sklizle,Skloe,"
+"Skorh,Skrez,Slive,Slizil,Slughirago,Slouag,Smirgaurn,Smirk,Sniuhgor,"
+"Sodelstan,Soederlein,Soereng,Sofian,Soldevig,Soleinth,Sonna,Soraceno,Sorekol,"
+"Sorfind,Sorivor,Sorka,Sorolle,Sougorn,Sowngwen,Soxgeurt,Sprizz,Sqal,Srygor,"
+"Ssexur,Sterizz,Stur,Subhi,Subrylla,Sucrator,Sufyan,Sugner,Suhayb,Sull,"
+"Sulonna,Sulyan,Suniong,Suqruto,Sura,Surdakhaur,Sussa,Suvok,Sverunidgi,"
+"Svignir,Swanoic,Swlla,Swlyan,Swvyan,Sylar,Syllyra,Sylyan,Syssa,Tadriendir,"
+"Tagnia,Takolak,Talerez,Tallasue,Talsthaf,Taltibio,Tanaël,Taral,Taraldur,"
+"Tarcatum,Tarex,Tarigolin,Tarnix,Tarsaff,Tarthmoul,Tarysth,Tauh,Taumacu,"
+"Tavyscite,Tawfiq,Tawhid,Tawwab,Taxiarqi,Taymullah,Taysir,Tel-Fabiel,Telxipea,"
+"Temisnioz,Teptum,Tequely,Terpsicore,Terthasol,Tesmurad,Teugarsen,Thael,"
+"Thalaisiel,Tharil-Garën,Thessaly,Thirgoalin,Thorsgan,Thrambor,Thraom,Thraral,"
+"Thrilgamir,Thrilmandel,Thrimir,Thrion,Throlar,Thrund,Thryriand,Thyndamara,"
+"Tilgan,Tilmalad,Timoh,Tinimir,Tinindil,Tinithrar,Tinoldor,Tinond,Tinorfind,"
+"Timbirtidul,Tirasch,Tirax,Tirix,Tissamo,Tiznuscievi,Tombadulum,Torval,"
+"Torfildur,Torquc,Trabuk,Trakkon,Trathdurl,Treidursol,Tremacalo,Trithaithan,"
+"Trithaithil,Trithaithif,Trithaithlov,Trithaithsil,Trinaithsol,Trirtaithu,"
+"Trigalilh,Trithalol,Trithata,Trislatil,Trithatloh,Triwatsol,Trithcatlo,"
+"Trithcatsol,Trithcatug,Trithdril,Trithdring,Trithdrim,Trithdrloh,Trithdrun,"
+"Trithduril,Trithduring,Trithdurlom,Trithdurol,Trithdursil,Trithduru,Trithaap,"
+"Trimathail,Triththaing,Triththauq,Trogish,Tufail,Tujcara,Tunorfiwyn,Uarso,"
+"Ubereo,Ucalea,Udirne,Udomaela,Uffestux,Ugmelorth,Uksul,Ulmë,Umutno,"
+"Unadrieldor,Unadrier,Unalah,Unaraldur,Unaril,Unénia,Uneldor,Ungolyost,Unil-"
+"Gadia,Unilmadia,Unindra,Uniolia,Uniolith,Unionia,Unioril,Unondir,Unorfildor,"
+"Unorfiril,Unorfiwen,Unulad,Unóndra,Unuviel,Unynia,Uradriela,Uraclya,"
+"Uradriedia,Urambar,Uránia,Urárith,Urebriclya,Ureclya,Urilmadia,Urilmawiel,"
+"Uriolia,Urkar,Urkiark,Usguthmaonu,Ushvasali,Uspai,Usthinier,Utter,Utok,Uzra,"
+"Vaclo,Vadoish,Vadush,Vaescansa,Vak,Vaklin,Valcemlegduf,Valinior,Valnirra,"
+"Valnit,Valnor,Vandir,Varag,Varala,Vararion,Varbag,Vashitt,Vaudash,Vebril,"
+"Vebrilah,Vebrinduil,Velisk,Vellin,Velnick,Venduvalo,Venezh,Veralon,Veramo,"
+"Verath,Verditt,Verilial,Verkon,Verlinn,Vermad,Vernoro,Verra,Vertick,"
+"Verusagno,Veshtar,Veskalica,Vigar,Vigdish,Vigor,Vihlo,Vilg,Vilsug,Vink,Virag,"
+"Virishneya,Virnella,Viroika,Virrugo,Virt,Virugusso,Vishnak,Vitrusgha,"
+"Vixezburto,Vladnir,Vladuanov,Vogdish,Vogor,Volugnaso,Vonak,Vorfin,Vorfindil,"
+"Vorg,Vork,Voshnak,Vougielan,Vourk,Vradash,Vragar,Vragdush,Vragor,Vralo,Vrang,"
+"Vrarbag,Vrarg,Vrart,Vraurk,Vren,Vridash,Vridish,Vrigor,Vrinak,Vring,Vrirt,"
+"Vrishnak,Vriurk,Vrodash,Vrogar,Vrogor,Vrolo,Vrong,Vrorg,Vrork,Vrudish,"
+"Vrugdush,Vrulg,Vrung,Vruol,Vrurg,Vrurt,Vruurk,Vudish,Vugnael,Vuk,Vulg,Vulo,"
+"Vulsulta,Vumla,Vunak,Vurag,Vurbag,Vurg,Vushnak,Vushtin,Vylgrid,Wadud,Wajid,"
+"Wakh,Wakil,Walayla,Warathan,Warith,Wedielya,Wendomilla,Weira,Westraz,"
+"Widviringio,Wiggur,Wilnira,Wilp,Windego,Wintfeil,Wonrunmaldin,Worolusga,"
+"Wotiah,Wurgturah,Xaffrasz,Xaigatil,Xaihan,Xalertha,Xarangat,Xartrez,Xasz,"
+"Xaztex,Xeminei,Xenghir,Xerxix,Xibir,Xiesza,Xirasz,Xirr,Xirtra,Xirz,Xiterz,"
+"Xixzart,Xoishcan,Xoloshiva,Xour,Xue,Xu Ghamul,Yanirah,Yarabo,Yatungoa,Yaugol,"
+"Yazan,Yazid,Yeamila,Yeseriz,Ygrille,Ylena,Ylogcan,Yogthila,Yowuddry,Yrt,"
+"Ysacla,Ysaenoic,Ysaerka,Ysanoic,Yseacla,Ysealonna,Ysealyan,Ysedda,Ysell,"
+"Yselonna,Ysilyan,Ysinoic,Ysodda,Ysongwen,Ysura,Yswniver,Ysycla,Ysylla,"
+"Ysylyan,Ysyrka,Ysyssa,Yuhgurtah,Yunur,Yuraena,Yuriaz,Yushua,Yusri,Yutarh,"
+"Zaembriel,Zagriw,Zahir,Zaki,Zakwan,Zalamua,Zalde,Zalmut,Zandler,Zarep,Zazabi,"
+"Zburait,Zebeli,Zedrix,Zeikhal,Zeliste,Zenur,Zhiro,Ziembieth,Zilrix,Ziyad,"
+"Zogier,Zora,Zorgal,Zorugoth,Zoruleive,Zouhan,Zouridga,Zubayr,Zuhayr,Zuree,"
+"Zzupde"
 
 #. [lua]: training.describe_training_level
-#, fuzzy
 msgid "$name Training Maximum Level"
-msgstr "名称 培训最高级别"
+msgstr "$name|正在进行最高级训练"
 
 #. [lua]: training.describe_training_level
-#, fuzzy
 msgid "$name Training level $level"
-msgstr "$名称 培训级别 $级别"
+msgstr "$name|正在进行第%level|级的训练"
 
 #. [lua]: training.describe_training_level2
-#, fuzzy
 msgid "Maximum Level"
 msgstr "最高级别"
 
 #. [lua]: training.describe_training_level2
-#, fuzzy
 msgid "level $level"
-msgstr "将“$domain|”域切换到“$level|”级别。"
+msgstr "等级$level"
 
 #. [lua]: training.generate_message
-#, fuzzy
 msgid "$chance| chance to $arrow $desc"
-msgstr "$chance| chance to $arrow $desc"
+msgstr "有$chance|机率将$arrow $desc"
 
 #. [lua]: training.apply
-#, fuzzy
 msgid "trained"
-msgstr ""
-"阿雷隆是长弓手，他比普通弓手更为强壮和训练有素。他的箭对没有远程攻击的敌人而"
-"言是致命的。"
+msgstr "训练有素"
 
 #. [lua]: training.apply
-#, fuzzy
 msgid "female^trained"
-msgstr "女性^训练有素"
+msgstr "训练有素"
 
 #. [lua]: training.describe_bonus
-#, fuzzy
 msgid "Nothing to learn here"
 msgstr "这里没什么可学的"
 
 #. [lua]: training.describe_bonus
-#, fuzzy
 msgid "From $level_before to $level_after"
-msgstr "从$level_before到$level_after"
+msgstr "从$level_before|到$level_after"
 
-#, fuzzy
 msgid ""
 "You look like you could use some help. Mind if I join in? It’s been a while "
 "since I had a good fight!"
-msgstr ""
-"你看起来可能需要一些帮助。介意我加入吗？我已经很久没有打过一场漂亮的仗了!"
+msgstr "你看起来可能需要一些帮助。介意我加入吗？我已经很久没打过一场好仗了！"
 
-#, fuzzy
 msgid "Excellent. We could always use more help."
-msgstr "很好。我们总是可以使用更多的帮助。"
+msgstr "很好。我们得到的帮助越多越好。"
 
-#, fuzzy
 msgid "’bout time. Been forever since I had a good fight, eh?"
-msgstr "'bout time.我已经很久没有打过一场好仗了，是吗？"
+msgstr "是时候了，我已经很久没有打过一场好仗了，呃？"
 
-#, fuzzy
 msgid "Who you? I help you smash!"
-msgstr "你是谁？我帮你打碎!"
+msgstr "你谁？我帮你打碎！"
 
-#, fuzzy
 msgid ""
 "My clan was destroyed long ago, leaving me to fend for myself. Let me join "
 "your army and I will fight as though your clan was my own!"
 msgstr ""
-"我的部族很久以前就被摧毁了，只剩下我一个人在自生自灭。让我加入你的军队，我将"
-"像你的部族一样战斗!"
+"我的部族很久以前就被毁了，只剩下我一人自生自灭。让我加入你的军队吧，我将奋力"
+"战斗，如同你的部族是我的部族一般！"
 
 #, fuzzy
 msgid "Hey boss. Looks like you’ve got some prey that need killing."
