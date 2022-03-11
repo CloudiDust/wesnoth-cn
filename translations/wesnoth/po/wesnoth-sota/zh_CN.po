@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-03-08 21:27-0500\n"
+"PO-Revision-Date: 2022-03-11 14:44-0500\n"
 "Last-Translator: David Sun <davidsun.studio@outlook.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2887,13 +2887,12 @@ msgid "We may find out. We should proceed cautiously."
 msgstr "我们也许能找到答案。我们得小心前进。"
 
 #. [message]: speaker=Vendraxis
-#, fuzzy
 msgid "Giant spidersss! That explainsss the cobwebsss everywhere."
-msgstr "大大大蜘蛛！难怪到处都是蛛网。"
+msgstr "巨型蜘蛛！嘶嘶！怪不得到处都是蜘蛛网。"
 
 #. [message]: speaker=Ardonna
 msgid "Giant spiders! That explains the cobwebs everywhere."
-msgstr "巨蛛！难怪到处都是蛛网。"
+msgstr "巨型蜘蛛！怪不得到处都是蜘蛛网。"
 
 #. [message]: speaker=Ardonna
 msgid "They are not moving much. Hopefully they continue to stay sleepy."
@@ -2923,14 +2922,13 @@ msgstr ""
 "韦元23年6月21日\n"
 "\n"
 "我们继续在伸手不见五指的隧道中前行了一段时间。黑暗并没有造成多大困难：蝙蝠们"
-"可以轻松飞行，而所有的法师都能够感受到自己在哪里。拉斯-塔班和我进行了交谈。他"
-"计划前往埃仁撒伐。他相信自己可以推翻城市的政府，并成为一个亡灵帝国的统治者。"
-"市民们会加入他的亡灵行列，不论他们愿不愿意。他们一定会加入的。如果他们不自愿"
-"加入，或者意念不够强大，以致于不能转变成巫妖形态，那么他们自然只能成为没有心"
-"智的奴隶了。"
+"很好地指引方向，而所有的法师都能准确地感知自己的方位。拉斯-塔班和我进行了交"
+"谈。他计划前往埃仁撒伐。他相信自己可以推翻城市的政府，并成为一个亡灵帝国的统"
+"治者。市民们会加入他的亡灵行列，不论他们愿不愿意。他们一定会加入的。如果他们"
+"不自愿加入，或者意念不够强大，以致于不能转变成巫妖形态，那么他们自然只能成为"
+"没有心智的奴隶了。"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Ras-Tabahn has tried to persuade me to join him in his endeavor, but I have "
 "serious misgivings about his plan. I am not positive he can defeat the city "
@@ -2978,15 +2976,16 @@ msgid ""
 "I had heard that mountains sometimes breathed fire like dragons, but that "
 "seemed a fanciful tale. From the look of this, that may actually be true."
 msgstr ""
-"我听说这些山有时会和火龙一样喷吐火焰，但那似乎只是个想象中的传说罢了。但看看"
-"这个，那传说或许是真的。"
+"我听说这些山有时会像龙一样喷吐火焰，但那似乎只是个想象中的传说罢了。现在看"
+"来，那传说或许是真的。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Yes, it’s quite true. This mountain fire has some uses too. For example, "
 "trolls use it for welding together crude armor."
 msgstr ""
-"是的，那真得很。这山中之火也是有些功用的。比如说，巨魔靠它来焊接粗糙的铠甲。"
+"是的，这确实是真的。这山中之火也有一些用途。比如说，巨魔用它来焊接粗糙的铠"
+"甲。"
 
 #. [message]: speaker=Ardonna
 msgid "Trolls! Do you think we shall encounter any?"
@@ -2994,7 +2993,7 @@ msgstr "巨魔！你觉得我们会遇到它们吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "I see no reason to expect..."
-msgstr "我觉得没理由……"
+msgstr "我觉得别遇到比较好……"
 
 #. [message]: speaker=Shurd
 msgid "Invaders!"
@@ -3006,7 +3005,7 @@ msgstr "打碎他们！"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "... Yes. Yes, I do."
-msgstr "……是。是，我觉得会。"
+msgstr "……是的，没错，我觉得会遇到巨魔。"
 
 #. [scenario]: id=20_North_Knalga
 msgid "North Knalga"
@@ -3042,28 +3041,27 @@ msgstr "你可以在英灵殿的任何一处进行征募。"
 msgid ""
 "The invaders approach! Fetch the last chest o’ gold. We’re equippin’ more "
 "soldiers."
-msgstr "入侵者来了！把最后的金柜拿来。我们得武装更多的士兵。"
+msgstr "入侵者来了！把最后的一箱金子拿出来。我们得武装更多的士兵。"
 
 #. [message]: speaker=porter
 msgid "Yes, sire."
-msgstr "是，阁下。"
+msgstr "是，陛下。"
 
 #. [message]: speaker=Ardonna
 msgid ""
 "Actually, I don’t think this is the end. There is air coming through here. "
 "Help me shift these stones."
-msgstr "实际上，我不认为这是尽头。这儿有空气流通。帮我把石头移开。"
+msgstr "实际上，我不认为这是尽头。这儿有空气流通。来帮我把石头移开。"
 
 #. [message]: speaker=Ardonna
 msgid "Now, where are we?"
 msgstr "现在，我们在哪儿？"
 
 #. [message]: speaker=Ras-Tabahn
-#, fuzzy
 msgid ""
 "We are in a dwarvish burial chamber it seems. That is good. We could always "
 "use some more soldiers."
-msgstr "我们似乎是在一座矮人的墓穴里。很好。我们总是能用到更多的士兵。"
+msgstr "我们似乎是在一座矮人的墓穴里。非常好。我们可以征募更多的士兵。"
 
 #. [unit]: type=Dwarvish Sentinel, id=Aigondur
 msgid "Aigondur"
@@ -3073,7 +3071,7 @@ msgstr "艾贡达"
 msgid ""
 "Human invaders be comin’ through the Hall o’ Heroes! I’m closin’ th’ Troll "
 "Gate!"
-msgstr "人类入侵者正通过英灵殿攻来！我正关上巨魔之门！"
+msgstr "人类入侵者正通过英灵殿攻来！我必须立刻关闭巨魔之门！"
 
 #. [message]: speaker=Ardonna
 msgid "Well, we are not going that way."
@@ -3102,7 +3100,6 @@ msgid "Against the World"
 msgstr "世界公敌"
 
 #. [part]
-#, fuzzy
 msgid ""
 "30 VI, 23 YW\n"
 "\n"
@@ -3112,8 +3109,8 @@ msgid ""
 msgstr ""
 "韦元23年6月30日\n"
 "\n"
-"从纳尔迦王国的北部开始，隧道分叉成了很多通路。感受矮人生命力的能力，让我们得"
-"以通过几乎无人的隧道前行，而我们也正是这样做的。"
+"从纳尔迦王国的北部开始，隧道分叉成了很多通路。通过感受矮人的生命力，让我们得"
+"以通过大部分无人居住的通道前行，我们做到了。"
 
 #. [part]
 msgid ""
@@ -3128,10 +3125,10 @@ msgid ""
 msgstr ""
 "韦元23年7月3日\n"
 "\n"
-"我们终于走出了山脉。今晨我们渡过了雅碧滩，余下的时间则往东南方的塔斯镇前行。"
-"我们计划在那儿分道扬镳。我将往南走，去丹·冬克和维尔帝散播我们成功的消息，而拉"
-"斯-塔班将前往埃仁撒伐执行他的计划，为我们在这个世界上开辟出一片特殊的领地。"
-"（并同时变成某种国王什么的，我想。）"
+"我们终于走出了山脉。今天早晨我们渡过了雅碧滩，余下的时间则往东南方的塔斯镇前"
+"行。我们计划在那儿分道扬镳。我将往南走，去丹·冬克和维尔帝散播我们成功的消息，"
+"而拉斯-塔班将前往埃仁撒伐执行他的计划，为我们在这个世界上开辟出一片特殊的领"
+"地。（我想，也会成为某种国王吧。）"
 
 #. [part]
 msgid ""
@@ -3155,35 +3152,35 @@ msgstr "精灵"
 msgid ""
 "The enemy already attempts to breach our castle walls! Up arms lads, look "
 "lively!"
-msgstr "敌人已经在试图突破我们的城墙了！武装起来小子们，打起精神来！"
+msgstr "敌人试图突破我们的城墙！拿起武器，小伙子们，打起精神来！"
 
 #. [message]: speaker=Thrigalurd
 msgid "Now we avenge the fallen of Knalga!"
-msgstr "现在我们要为纳尔迦的牺牲者们复仇！"
+msgstr "现在我们要为纳尔迦的牺牲者们报仇！"
 
 #. [message]: speaker=Carmyna
 msgid ""
 "The enemy is already poised to attack! They must have anticipated our "
 "arrival. No rest my friends; we go to work immediately."
 msgstr ""
-"敌人已经进入进攻态势了！他们一定预计到了我们的到来。没时间休整了朋友们；我们"
-"得马上开始干活。"
+"敌人准备大举进攻了!！他们肯定已经预料到我们的到来。没时间休整了朋友们；我们得"
+"马上开始战斗。"
 
 #. [message]: speaker=Carmyna
 msgid ""
 "The battle is already underway. So many of our comrades have fallen! We must "
 "incinerate these undead and rid the world of this evil."
 msgstr ""
-"战斗已经在进行中了。我们的同志已经牺牲了如此之多！我们必须把这些亡灵烧成灰，"
-"把这邪恶从世上驱除出去。"
+"战斗已经开始了。我们的战友已经牺牲了如此之多！我们必须把这些亡灵烧成灰，把这"
+"邪恶从世上驱除出去。"
 
 #. [message]: speaker=Isthiniel
 msgid ""
 "What is this? The enemy lurking in wait in our forests? To arms! Let us "
 "immediately rid our land of this foulness!"
 msgstr ""
-"这是什么？敌人在我们的森林之中潜伏待动？武装起来！让我们把这些邪恶之物从我们"
-"的领地之上驱除出去吧！"
+"这是什么？敌人在我们的森林之中潜伏待动？拿起武器！让我们把这些邪恶之物从我们"
+"的领地上驱除出去吧！"
 
 #. [message]: speaker=Isthiniel
 msgid ""
@@ -3209,16 +3206,15 @@ msgstr ""
 
 #. [message]: speaker=Taxtrimon
 msgid "Well met Fizztsars. Now these creatures will certainly fall."
-msgstr "幸会，菲兹萨斯。现在这些造物必将死亡。"
+msgstr "幸会，菲兹萨斯。现在这些生物必将被毁灭。"
 
 #. [message]: speaker=Fizztsars
-#, fuzzy
 msgid "Except for the male of oursss with them. He will come with usss."
-msgstr "除了和他们一起的我们的男性。他将和我们一起去。"
+msgstr "他们队伍里有我们的同胞，别杀他。他会回到我们这边的。"
 
 #. [message]: speaker=Vendraxis
 msgid "No! I will not return yet, I still have sssecrets to learn!"
-msgstr "不！我还不会回来，我还有秘密要去探索！"
+msgstr "不！我不会回去的，我还有秘密要去探索！"
 
 #. [unit]: type=Dwarvish Dragonguard, id=Thrigalurd
 msgid "Thrigalurd"
@@ -3226,11 +3222,11 @@ msgstr "崔伽拉德"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Look! The dwarves circled around in front of us."
-msgstr "看！矮人在我们前方折回来了。"
+msgstr "看！矮人又回来添乱了。"
 
 #. [message]: speaker=Ardonna
 msgid "That’s why getting through Knalga was so easy."
-msgstr "这就是通过纳尔迦时那么容易的原因啊。"
+msgstr "这就是通过纳尔迦时那么容易的原因吧。"
 
 #. [unit]: type=Great Mage, id=Carmyna
 msgid "Carmyna"
@@ -3238,11 +3234,11 @@ msgstr "卡麦那"
 
 #. [message]: speaker=Ardonna
 msgid "They just keep coming! Has nobody even considered what we offer?"
-msgstr "他们源源不断！难道就没人考虑过我们的提议吗？"
+msgstr "他们源源不断地来增援！难道就没人考虑过我们永生不死的提议吗？"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Well. That was intense."
-msgstr "好吧。那还真是激烈啊。"
+msgstr "嗯。战斗还挺激烈的。"
 
 #. [message]: speaker=Ardonna
 msgid "At last we are victorious!"
@@ -3264,27 +3260,27 @@ msgstr "这是克雷拉努的狮鹫告诉我们该来的地方，你们这群人
 
 #. [message]: speaker=Gwendir
 msgid "Yes, I believe that is our quarry."
-msgstr "是了，我相信那些就是我们的猎物。"
+msgstr "是了，我相信那些就是我们的目标。"
 
 #. [message]: speaker=Ras-Tabahn
 msgid "Crelanu! Still he haunts us. Remind me again why we didn’t kill him."
-msgstr "克雷拉努！他还是缠着我们不放。再提醒我一下，我们是为什么没有杀掉他。"
+msgstr "克雷拉努！他还是缠着我们不放。再提醒我一下，我们当初为什么没有杀掉他。"
 
 #. [message]: speaker=Gwendir
 msgid ""
 "Ardonna of Tarrynth and Rassin Tabin, you stand convicted of necromancy, and "
 "are sentenced to death!"
-msgstr "塔林斯的阿冬娜以及拉辛·塔宾，你们的亡灵巫术罪名成立，判决是死刑！"
+msgstr "塔林斯的阿冬娜以及拉辛·塔宾，你们的亡灵巫术罪名成立，并被判处死刑!"
 
 #. [message]: speaker=Ras-Tabahn
 msgid ""
 "Is that all? Death holds no terror for us as we have died already. You will "
 "follow shortly."
-msgstr "就这样？死亡可吓不到我们，因为我们已经死了。你很快也会死的。"
+msgstr "就这？死亡可吓不到我们，因为我们已经死了。你很快也会死的。"
 
 #. [message]: speaker=Gwendir
 msgid "The blessed swords of our order will soon give you cause to fear again."
-msgstr "我们骑士团受过祝福的剑，将会很快让你们有再一次恐惧死亡的理由的。"
+msgstr "我们神圣的剑很快就会让你再次感到恐惧。"
 
 #. [message]: speaker=adviser
 msgid "Sir, the magi have not yet arrived."
@@ -3305,8 +3301,8 @@ msgid ""
 "We have found them! These magi destroyed a profitable business venture. We "
 "will take vengeance. You horse humans can assist us."
 msgstr ""
-"我们找到他们了！这些法师摧毁了我们利润丰厚的生意。我们要复仇。你们这些骑马的"
-"人类可以协助我们。"
+"找到他们了！这些法师破坏了我们利润丰厚的生意。我们要报仇。你们这些骑马的人类"
+"可以协助我们。"
 
 #. [unit]: type=Merman Hoplite, id=Mauapan
 msgid "Mauapan"
@@ -3342,13 +3338,14 @@ msgid ""
 msgstr ""
 "韦元23年7月10日——最后一篇\n"
 "\n"
-"今天我们在战场上获胜了，但我们的胜利多少有些苦涩。<b>所有人</b>都很害怕，很愤"
-"怒，他们马上开始攻击我们，而根本没听我们带来的消息。我现在认识到了……世界还没"
-"有准备好接受我们的知识。他们不明白，我们已经征服了最本能的恐惧：死亡。相反，"
-"当他们看着我们时，只凭着外貌便进行判断，这让他们都陷入了无知的恐慌之中。我放"
-"弃了他们所有人。现在，我应该撤退——或许去到那巨魔老城里生活，学习山中之火的用"
-"法。在未来的某时，不那么保守的态度或许会占据主流，而我们的知识将被善加利用。"
-"而我当然是等得起的。在此期间，我们将尽自己所能，让那一天快点儿到来。"
+"今天我们在战场上取得了胜利，但我们赢得多少有些艰辛。<b>所有人</b>看到我们都很"
+"害怕，很愤怒，他们马上开始攻击我们，而根本没听我们带来的消息。我现在认识到"
+"了……这个世界还没有准备好接受我们的知识。他们不明白，我们已经征服了最本能的恐"
+"惧：死亡。相反，当他们看着我们时，只凭着外貌便进行判断，这让他们都陷入了无知"
+"的恐慌之中。我选择放弃他们所有人。现在，我应该隐退——或许住在古老的巨魔城，学"
+"习山中之火的使用。在未来的某个时候，不那么保守的态度或许会占据主流，而我们的"
+"知识将被善加利用。我当然能等得起。在此期间，我们将尽自己所能，让那一天快点儿"
+"到来。"
 
 #. [then]
 msgid ""
@@ -3363,13 +3360,13 @@ msgid ""
 "open-minded. Tath, in particular, is home to many mages. It only takes one "
 "who is willing to learn the secrets of the ancients."
 msgstr ""
-"拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。其他人之中的大部分也会跟他走。"
-"我祝愿他们成功。文德拉克西斯现在已经知晓，要重现我们的变换过程，他需要学习什"
-"么了。他将会用自己的余生去学习，去练习，同时尝试去改变他的族人的态度。至于"
-"我，我将会把我的日志放在这战场上的醒目之处。我怀疑大多数人都会很害怕它，以至"
-"于会尝试摧毁它。但我在日志之上施加了一些咒语来保护它。这样一来，它就能存在足"
-"够长的时间，落到某个更为开明的人手中。特别是塔斯，那是很多法师的家园。只要有"
-"一个人愿意学习古人之密就行。"
+"拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。我们中的大部分也会跟他走。我祝"
+"愿他们成功。文德拉克西斯现在已经知道，要重现我们的变换过程，他需要学习些什"
+"么。他将会用自己的余生去研究，和实践，同时尝试去改变他的族人的态度。至于我，"
+"我将会把我的日志放在这战场上的醒目之处。我怀疑大多数人都会很害怕它，以至于会"
+"尝试摧毁它。但我在日志之上施加了一些咒语来保护它。这样一来，它就能存在足够长"
+"的时间，落到某个更为开明的人手中。特别是塔斯，那是很多法师的家园。只要有一个"
+"人愿意学习古人之密就行。"
 
 #. [else]
 msgid ""
@@ -3382,11 +3379,11 @@ msgid ""
 "to many mages. It only takes one who is willing to learn the secrets of the "
 "ancients."
 msgstr ""
-"拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。其他人之中的大部分也会跟他走。"
-"我祝愿他们成功。至于我，我将会把我的日志放在这战场上的醒目之处。我怀疑大多数"
-"人都会很害怕它，以至于会尝试摧毁它。但我在日志之上施加了一些咒语来保护它。这"
-"样一来，它就能存在足够长的时间，落到某个更为开明的人手中。特别是塔斯，那是很"
-"多法师的家园。只要有一个人愿意学习古人之密就行。"
+"拉斯-塔班将要重建他的部队，并继续前往埃仁撒伐。我们中的大部分也会跟他走。我祝"
+"愿他们成功。至于我，我将会把我的日志放在这战场上的醒目之处。我怀疑大多数人都"
+"会很害怕它，以至于会尝试摧毁它。但我在日志之上施加了一些咒语来保护它。这样一"
+"来，它就能存在足够长的时间，落到某个更为开明的人手中。特别是塔斯，那是很多法"
+"师的家园。只要有一个人愿意学习古人之密就行。"
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
 msgid "Bone Bird"
@@ -3402,8 +3399,8 @@ msgid ""
 "necromancer. Through sheer force of habit, an undead captain continues to "
 "exude authority even if all his other memories have been lost."
 msgstr ""
-"队长们生前是主人，但死后他们或许是死灵法师的奴隶。由于习惯的力量十分强大，尽"
-"管其他的记忆都已消失，但亡灵队长仍然继续散发出掌权者的威严。"
+"队长们生前是掌权者，但死后他们或许是死灵法师的奴隶。由于习惯的力量十分强大，"
+"尽管其他的记忆都已消失，但亡灵队长仍然继续散发出掌权者的威严。"
 
 #. [unit_type]: id=Delinquent, race=human
 msgid "Delinquent"
@@ -3450,15 +3447,14 @@ msgid ""
 "about than death!"
 msgstr ""
 "经验丰富的巫妖可以轻易地利用灵界的力量，射出毁灭性的冰冻闪电，或从躯体之中吸"
-"取生命力。像这样的巫妖所能使用的力量，看起来是惊人的。遇到上古巫妖的任何人，"
-"很可能都得担心比死亡更糟糕的东西！"
+"取生命力。像这样的巫妖所能使用的力量，是令人畏惧的。遇到上古巫妖的任何人，很"
+"可能都得担心比死亡更糟糕的东西！"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
 msgid "Orcish Shaman"
 msgstr "兽人萨满"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
-#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
@@ -3467,9 +3463,9 @@ msgid ""
 "orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
-"兽人萨满是兽人魔法的守卫者，受到各部落的尊重。他们建立了兽人评议会，为整个兽"
-"人社区进行重大决策，并仲裁这一热衷争端的种族的各部落间的种种冲突。尽管他们身"
-"体脆弱（对于兽人而言），兽人萨满却是魔咒专家，可以诅咒敌人并吸取他们的生命。"
+"兽人萨满是兽人魔法的守卫者，受到各部落的尊重。他们建立了兽人议会，为整个兽人"
+"社区进行重大决策，并仲裁这一热衷争端的种族各部落间的种种冲突。尽管他们身体脆"
+"弱（对于兽人而言），兽人萨满却是魔咒专家，可以诅咒敌人并吸取他们的生命。"
 
 #. [unit_type]: id=Sailor, race=human
 msgid "Sailor"
@@ -3482,7 +3478,7 @@ msgid ""
 "considerable damage."
 msgstr ""
 "水手们因力量而被雇佣，而他们的工作则锻炼了更多的肌肉。其结果是，他们拿到的廉"
-"价的刃器仍然可以造成客观的伤害。"
+"价的刀仍然可以造成客观的伤害。"
 
 #. [unit_type]: id=Sea Captain, race=human
 msgid "Sea Captain"
@@ -3495,8 +3491,8 @@ msgid ""
 "their peril, for he is within his rights to summarily execute criminals or "
 "mutineers."
 msgstr ""
-"在他的船上，船长是最终的权力者，他所有的命令都必须被立即遵从。违逆船长的旅客"
-"或船员得自负后果，这是因为他具有当场处决罪犯或叛乱者的权力。"
+"在他的船上，船长是最终的权力者，他所有的命令都必须被立即服从。违逆船长的旅客"
+"或船员得自负后果，因为他有权利立即处决罪犯或叛变者。"
 
 #. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
 #. A fake unit type that appears in the recruit list as soon as the
@@ -3575,7 +3571,6 @@ msgid "Perhaps that was for the best."
 msgstr "或许这样更好吧。"
 
 #. [message]: speaker=Ras-Tabahn
-#, fuzzy
 msgid ""
 "It’s not possible. She was already back from the dead. She has been utterly "
 "destroyed this time."
@@ -3642,12 +3637,12 @@ msgid ""
 "Hey, I wanted to be a wizard like you and live forever when you figure it "
 "out! I know I could be super-powerful in the end."
 msgstr ""
-"嘿，我像成为像你一样的巫师，等你找到不死之法，我也想长生不老！我知道我最后会"
-"变得超级厉害的。"
+"嘿，我想成为像你一样的巫师，等你找到不死之法，我也想长生不老！我知道我最后会"
+"拥有超强的能力。"
 
 #. [option]
 msgid "Hold your tongue. You will do as I command."
-msgstr "注意你的口气。你得遵照我的命令行事。"
+msgstr "注意你的语气。你得遵照我的命令行事。"
 
 #. [option]
 msgid "Very well. Having more adepts might be a good idea after all."
