@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-02-15 16:01+0800\n"
+"PO-Revision-Date: 2022-03-21 16:08+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1563,29 +1563,25 @@ msgstr ""
 "的训练项目，而你目前拥有的训练项目标记为绿色。"
 
 #. [lua]: preshow
-#, fuzzy
 msgid "Items"
 msgstr "物品"
 
 #. [lua]: preshow
-#, fuzzy
 msgid ""
 "Items can be given to units to make them stronger. You can get items in "
 "three ways: 1) By choosing an item as your starting bonus; 2) By finding it "
 "on a map in a bonus point; 3) By dropping from enemies in later scenarios. "
 "Note, however, that not all units can pick up all items."
 msgstr ""
-"可以给单位提供物品，使其更强大。你可以通过三种方式获得物品。1）选择一个物品作"
-"为你的起始奖励；2）在地图上的奖励点找到它；3）在后来的场景中从敌人那里掉落。"
-"然而，请注意，并非所有单位都能捡到所有物品。"
+"把物品给单位，可以让其变强。你可以通过三种方式获得物品：1）选择物品作为起始奖"
+"励；2）在地图上的奖励点找到物品；3）在靠后的场景中拾取敌方掉落物品。然而请注"
+"意，并不是所有单位都能捡起所有物品。"
 
 #. [lua]: preshow
-#, fuzzy
 msgid "Factions"
 msgstr "派系"
 
 #. [lua]: preshow
-#, fuzzy
 msgid ""
 "The World Conquest II era consists of factions that are built from pairs of "
 "mainline factions. One faction will have a healer available (Drakes, Rebels "
@@ -1595,157 +1591,123 @@ msgid ""
 "heroes, deserters, and random leaders also depend on your factions; the "
 "items you can get do not depend on the faction you choose."
 msgstr ""
-"征服世界II时代包括由成对的主线派别组成的派别。一个派别会有治疗师可用（德拉克"
-"人、叛军和忠诚者），一个则没有（兽人、矮人和亡灵）。招募名单也是成对组织的，"
-"所以有时你必须先招募一个不同的单位，然后才能招募你想要的单位。可用的英雄、逃"
-"兵和随机领导人也取决于你的派别；你能得到的物品不取决于你选择的派别。"
+"世界征服II时代包括由成对的主线派系组成的派系。其中一个派系会有医者可用（龙"
+"人、义军和保王党人），另一个则没有（兽人、矮人和亡灵）。征募名单也是成对组织"
+"的，所以有时，在征募想要的单位之前，你必须先征募一个不同的单位。可用的英雄、"
+"逃兵和随机首领也取决于你的派系。而你能得到的物品则不取决于你选择的派系。"
 
 #. [lua]: type_icon
-#, fuzzy
 msgid " (not available for enemies)"
-msgstr "(不提供给敌人)"
+msgstr "（敌方不可使用）"
 
 #. [lua]: type_icon
-#, fuzzy
 msgid " (not available for players)"
-msgstr "(玩家不能使用)"
+msgstr "（玩家不可使用）"
 
 #. [lua]: wc_ii_generate_scenario
 #. [lua]: wct_store_possible_encampment_ford
-#, fuzzy
 msgid "Start"
 msgstr "开始"
 
 #. [lua]: wc_ii_generate_scenario
-#, fuzzy
 msgid "Scenario"
-msgstr "脚本"
+msgstr "场景"
 
 #. [lua]: wc_ii_generate_scenario
-#, fuzzy
 msgid "Final Battle"
-msgstr ""
-"我们为朱尔举办了隆重的葬礼，就像她曾告诉我们的几个世纪之前的人们做的那样。我"
-"带领着剩下的祭祀和所有忠诚的人们组成的队伍，环绕了整座岛，我们想让她看看她带"
-"给我们的这一切。按照对待沙漠精灵祭祀的方式，我们把她葬在岛西北端的一个大沙滩"
-"上。在最后的战役中，她是最老的精灵之一，我感谢伊洛没有让她在旅途中就离去。她"
-"是我的导师、我的信念和我对过去的回忆。我很遗憾她没能看到她的努力所结出的硕"
-"果，但我希望她现在在一个更好的地方，和伊洛在一起。"
+msgstr "决战"
 
 #. [lua]: wct_map_2a_post_bunus_decoration
-#, fuzzy
 msgid "water^Springs"
-msgstr "水^泉"
+msgstr "泉水"
 
 #. [lua]: world_conquest_tek_map_decoration_2c
-#, fuzzy
 msgid "Glaciers"
 msgstr "冰川"
 
 #. [lua]: wct_map_2d_post_bunus_decoration
-#, fuzzy
 msgid "Provinces"
 msgstr "省份"
 
 #. [lua]: wct_map_2f_post_bunus_decoration
-#, fuzzy
 msgid "Clayey"
-msgstr "克雷伊"
+msgstr "粘土"
 
 #. [lua]: wct_map_3c_post_bunus_decoration
-#, fuzzy
 msgid "river^Delta"
-msgstr "河流^三角洲"
+msgstr "三角洲"
 
 #. [lua]: world_conquest_tek_map_repaint_3d
-#, fuzzy
 msgid "Sulfurous"
-msgstr "硫磺味"
+msgstr "硫磺"
 
 #. [lua]: wct_map_3e_post_bunus_decoration
-#, fuzzy
 msgid "made of^Coral"
-msgstr "珊瑚制成的"
+msgstr "珊瑚"
 
 #. [lua]: wct_map_4a_post_bunus_decoration
-#, fuzzy
 msgid "Thermal"
-msgstr "热敏"
+msgstr "热流"
 
 #. [lua]: world_conquest_tek_map_repaint_4b
-#, fuzzy
 msgid "Volcanic"
-msgstr "火山型"
+msgstr "火山"
 
 #. [lua]: wct_map_4d_post_bunus_decoration
-#, fuzzy
 msgid "Podzol"
-msgstr "波德佐尔"
+msgstr "灰壤"
 
 #. [lua]: wct_map_4e_post_bunus_decoration
-#, fuzzy
 msgid "Wicked"
-msgstr ""
-"我们的国家曾经繁荣强大，人丁兴旺。在多位国王的领导下，人民在富饶的土地上平静"
-"的生活着。直到他们来了，那些韦福克人。他们是一个邪恶，残忍而且肮脏的种族。"
+msgstr "恶质"
 
 #. [lua]: wild_store_roads_in_cave_zone
-#, fuzzy
 msgid "Wild"
-msgstr "野生"
+msgstr "野地"
 
 #. [lua]: world_conquest_tek_map_repaint_6d
-#, fuzzy
 msgid "Feudal"
-msgstr "封建的"
+msgstr "封建"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "To war! Prepare to defend yourselves!"
-msgstr "开战!准备好保卫自己!"
+msgstr "开战！准备防御！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "Why do we fight amongst ourselves? We should band together and take the "
 "coast with our combined forces!"
-msgstr "我们为什么要自相残杀？我们应该联合起来，用我们的联合力量夺取海岸线!"
+msgstr "我们为什么要自相残杀？我们应该联合起来，合力夺取海岸！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "You speak truly; together we can overpower the rest. After that, who knows? "
 "Together we could go on to conquer other lands across the sea!"
 msgstr ""
-"你说得真切；我们一起可以压倒其他人。在那之后，谁知道呢？我们可以一起去征服大"
-"洋彼岸的其他土地!"
+"所言极是。我们联合起来就可以压倒其他人。而之后会怎样，谁知道呢？我们可以一起"
+"去征服大洋彼岸的其他土地！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "Foolish upstarts. You will never defeat us! Come, my allies. Let us crush "
 "them!"
-msgstr "愚蠢的后起之秀。你们永远无法打败我们！来吧，我的盟友。让我们击溃他们！"
+msgstr "愚蠢的暴发户。你们永远无法打败我们！来吧，盟友们。我们来击溃他们！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Yes! We will drive them into the sea!"
-msgstr "是的!我们要把他们赶进大海！"
+msgstr "是了！我们会把他们赶下海！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Never fear! Your trusted friends stand beside you!"
-msgstr "永远不要害怕!你信任的朋友站在你身边!"
+msgstr "无须畏惧！你所信任的战友与你并肩作战！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Victory is ours! Let us set sail in search of new lands to conquer!"
-msgstr "胜利属于我们!让我们扬帆起航，寻找可以征服的新土地!"
+msgstr "胜利属于我们！我们扬帆起航，去寻找可以征服的新土地吧！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Ahhh. Just look at these fertile lands, ripe for conquest!"
-msgstr "啊哈。看看这些肥沃的土地吧，征服的时机已经成熟!"
+msgstr "啊哈。看看这些肥沃的土地吧，此刻正是征服之时！"
 
 #. [lua]: end_message
 #, fuzzy
