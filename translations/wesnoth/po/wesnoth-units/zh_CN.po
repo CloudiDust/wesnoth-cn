@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-02-11 16:16+0800\n"
+"PO-Revision-Date: 2022-04-20 15:57+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5847,7 +5847,7 @@ msgstr ""
 
 #. [unit_type]: id=Ghast, race=undead
 msgid "Ghast"
-msgstr "邪灵食尸鬼"
+msgstr "食尸妖鬼"
 
 #. [unit_type]: id=Ghast, race=undead
 msgid ""
@@ -5858,10 +5858,10 @@ msgid ""
 "flesh straight from their foes. Once their enemy is defeated, they eat the "
 "rest of the body, gaining strength in the process."
 msgstr ""
-"邪灵食尸鬼是从人类最原初的噩梦中浮现出来的造物。和它们的低等亲戚——食尸鬼和死"
-"灵食尸鬼——不同的是，在吃掉受害者的身体之前，邪灵食尸鬼可没有等待他们因中毒而"
-"死的耐心。它们直接使用自己巨大的嘴进行攻击，试图从敌手身上生生地撕下肉来。一"
-"旦对手被击败，它们就吃掉尸体的剩余部分，在这个过程中，它们会变得更强大。"
+"食尸妖鬼是从人类最原初的噩梦中浮现出来的造物。和它们的低等亲戚——食尸鬼和食尸"
+"恶鬼——不同的是，在吃掉受害者的身体之前，食尸妖鬼可没有等待他们因中毒而死的耐"
+"心。它们直接使用自己巨大的嘴进行攻击，试图从敌手身上生生地撕下肉来。一旦对手"
+"被击败，它们就吃掉尸体的剩余部分，在这个过程中，它们会变得更强大。"
 
 #. [unit_type]: id=Ghoul, race=undead
 msgid "Ghoul"
@@ -5887,7 +5887,7 @@ msgstr ""
 
 #. [unit_type]: id=Necrophage, race=undead
 msgid "Necrophage"
-msgstr "食尸魔"
+msgstr "食尸恶鬼"
 
 #. [unit_type]: id=Necrophage, race=undead
 msgid ""
@@ -5900,11 +5900,11 @@ msgid ""
 "— a process about which almost nothing is known, but which can be nothing "
 "but nightmarish."
 msgstr ""
-"食尸魔，或者说“死尸吞噬者”，是怪物一样的一团肥胖的东西，和人的形状只有一点粗"
-"糙的相似。它们看上去已经腐烂，尽管还是能够移动。它们的血液里充斥着疾病与致命"
-"的毒素，还有相应的恶臭。但是关于这些怪物最让人反胃的事实是——这只有对那些能够"
-"察觉到它们身上丑恶魔法的踪迹的人来说才清晰可见——它们是通过某种方式用活人制造"
-"出来的。关于这一过程，人们几乎一无所知，但那一定是如同梦魇一般。"
+"食尸恶鬼，或者说“死尸吞噬者”，是怪物一样的一团肥胖的东西，和人的形状只有一点"
+"粗糙的相似。它们看上去已经腐烂，尽管还是能够移动。它们的血液里充斥着疾病与致"
+"命的毒素，还有相应的恶臭。但是关于这些怪物最让人反胃的事实是——这只有对那些能"
+"够察觉到它们身上丑恶魔法的踪迹的人来说才清晰可见——它们是通过某种方式用活人制"
+"造出来的。关于这一过程，人们几乎一无所知，但那一定是如同梦魇一般。"
 
 #. [variation]
 msgid "wc_variation^Drake"

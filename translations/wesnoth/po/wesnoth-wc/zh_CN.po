@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-03-21 16:08+0800\n"
+"PO-Revision-Date: 2022-04-20 16:00+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1710,400 +1710,327 @@ msgid "Ahhh. Just look at these fertile lands, ripe for conquest!"
 msgstr "啊哈。看看这些肥沃的土地吧，此刻正是征服之时！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "What’s this?! Foreign invaders have set foot upon our shores!"
-msgstr "这是什么？外国侵略者已经踏上了我们的海岸!"
+msgstr "这怎么回事？外来侵略者踏上了我们的海岸！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "We’ll send them back to where they came from quick enough. All troops, to me!"
-msgstr "我们会很快把他们送回他们来的地方。所有部队，给我！"
+msgstr "我们会很快送他们回老家的。所有部队，向我集结！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "We win! Truly ours will be a glorious empire!"
-msgstr "我们赢了!我们的帝国将真正成为一个光荣的帝国!"
+msgstr "我们赢了！我们的帝国将真正成为光荣的帝国！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "Do not get hasty! To reach the great continents of the east we must subdue "
 "the savage coast of Moragdu, notorious for its corsairs, before we can "
 "advance further."
 msgstr ""
-"不要急于求成!为了到达东方的伟大大陆，我们必须在进一步前进之前征服因海盗而臭名"
-"昭著的莫拉格杜的野蛮海岸。"
+"别急于求成！要到达东方大陆，我们得先征服野蛮的莫拉格杜海岸，那里因海盗而臭名"
+"昭著。之后，我们才能继续前进。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "What’s this? It is a long time since strangers have set foot upon Moragdu — "
 "and in such great numbers too!"
-msgstr "这是什么？很久没有陌生人踏上莫拉格杜的土地了--而且人数还这么多!"
+msgstr "怎么回事？很久没有陌生人踏上莫拉格杜的土地了——而且有这么多人！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "The time of prophecies is upon us! The destroyers have arrived from beyond "
 "the sea!"
-msgstr "预言的时间到了!毁灭者已经从海的那边来到了!"
+msgstr "预言之时已至！毁灭者自海的那边到来了！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "I don’t know what the lizard is babbling about, but we’ll sort these "
 "‘destroyers’ out quickly enough."
-msgstr "我不知道这只蜥蜴在胡言乱语什么，但我们会很快把这些'破坏者'解决掉。"
+msgstr "我不知道这只蜥蜴在胡言乱语什么，但我们会很快把这些“毁灭者”解决掉。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Ready yourselves, men! The conquering hordes are upon us!"
-msgstr "准备好了，伙计们！征服者的队伍正在向我们走来!"
+msgstr "准备战斗，伙计们！征服者的大军就要到来了！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "Word has come to our island of your victories. Your army is impressive, but "
 "it will avail you not."
 msgstr ""
-"你们胜利的消息已经传到了我们的岛上。你的军队令人印象深刻，但这对你没有好处。"
+"你们获胜的消息传到了我们的岛上。你们的军队令人印象深刻，但并没有什么用。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Indeed. You come this far, and no farther!"
-msgstr "确实如此。你走了这么远，没有更远的路了!"
+msgstr "确实如此。你们已经走了这么远，就别想走更远了！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "Hah! We didn’t come all this way just to give up and go home. We will "
 "destroy you as we have destroyed all that have stood before us!"
 msgstr ""
-"哈!我们一路走来并不是为了放弃和回家。我们将摧毁你们，就像我们摧毁所有站在我们"
-"面前的人一样！\"。"
+"哈！我们远道而来可不是为了撂挑子回家的。我们将毁灭你们，就像我们毁灭所有曾经"
+"反抗我们的人那样！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "So be it. We stand squarely behind our allies."
 msgstr "那就这样吧。我们坚定地支持我们的盟友。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "You are not the only ones with allies! We’ll push on till the end!"
-msgstr "你们并不是唯一有盟友的人!我们会坚持到最后!"
+msgstr "并不是只有你们才有盟友！我们会坚持到最后的！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Onwards to the ships!"
-msgstr "向船只进发!"
+msgstr "向船只进发！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "We have travelled great oceans and brought low mighty empires. Should we not "
 "wait until our forces regain their strength?"
 msgstr ""
-"我们已经走过了大洋，打倒了强大的帝国。难道我们不应该等到我们的军队恢复实力"
-"吗？"
+"我们穿越了大洋，还打倒了强大的帝国。难道我们不该等到军队恢复实力之后吗？"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "One last effort! We better finish our campaign when we hold initiative, "
 "before Winter arrives."
-msgstr "最后一次努力!我们最好在举行倡议时，在冬天到来之前完成我们的运动。"
+msgstr "最后搏一把！我们最好在冬天到来之前，趁着还拥有主动之时结束战役。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "Finally we come to the shores of the last continent. Here at the edge of the "
 "world our empire shall be made complete."
 msgstr ""
-"最后，我们来到了最后一块大陆的海岸。在这里，在世界的边缘，我们的帝国将变得完"
+"我们终于来到了最后一块大陆的岸边。在这里，在世界的边缘，我们的帝国将变得完"
 "整。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "Never! Your mad quest ends here, tyrant."
-msgstr "决不！你的疯狂探索到此为止，暴君。"
+msgstr "决不让你得逞！你的疯狂征服到此为止了，暴君。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid ""
 "All the peoples of the world stand against you. Though we would be enemies "
 "otherwise, we are united in our cause. We must stop you!"
 msgstr ""
-"世界上所有的人都站在你的对立面。虽然我们会成为敌人，但我们的事业是一致的。我"
-"们必须阻止你!"
+"世上所有人都站在你的对立面。虽说若不是因为你，我们会互相为敌，但此刻我们的事"
+"业是一致的。我们必须阻止你！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "No, not all of them. Today our full strength stands behind our allies!"
-msgstr "不，不是所有的人。今天，我们的全部力量站在我们的盟友身后!"
+msgstr "不，不是所有人。今天，我们的全部军力，站在我们的盟友身后！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "That’s it, our work is done here!"
-msgstr "就这样，我们的工作到此结束了!"
+msgstr "结束了，我们的工作完成了！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "The whole world is now ours to command!"
-msgstr "现在整个世界都是我们可以指挥的!"
+msgstr "现在我们君临天下了！"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "It was hard, but I almost regret the fun is over."
-msgstr "这很难，但我几乎后悔，因为乐趣已经结束。"
+msgstr "这场战争很艰难，但没了乐子，我几乎要后悔了。"
 
 #. [lua]: end_message
-#, fuzzy
 msgid "The End"
-msgstr "完结"
+msgstr "结局"
 
 #. [lua]: add_enemy_side
-#, fuzzy
 msgid "Enemies"
-msgstr "敌人"
+msgstr "敌军"
 
 #. [lua]: add_player_side
-#, fuzzy
 msgid "Allies"
-msgstr "同盟"
+msgstr "盟军"
 
-#, fuzzy
 msgid "Preset Advancement"
-msgstr "预设推进"
+msgstr "预设升级"
 
 #. [lua]: wesnoth.wml_actions.wc2_pya_pick
-#, fuzzy
 msgid ""
 "Currently I’m set to advance towards: $name \n"
 "\n"
 "What are your new orders?"
 msgstr ""
-"目前，我设置为向以下方向推进：$name\n"
+"目前，指定给我的升级目标是：$name\n"
 "\n"
-"你的新订单是什么？"
+"你的新命令是什么？"
 
 #. [lua]: wesnoth.wml_actions.wc2_pya_pick
-#, fuzzy
 msgid "Random"
 msgstr "随机"
 
-#, fuzzy
 msgid "Special Overlay"
-msgstr "特殊覆盖物"
+msgstr "特殊覆盖层"
 
-#, fuzzy
 msgid " and "
 msgstr " 和 "
 
-#, fuzzy
 msgid "damage"
 msgstr "伤害"
 
-#, fuzzy
 msgid " resistance vs "
-msgstr "防守方抗性 vs"
+msgstr " 抗性 vs "
 
-#, fuzzy
 msgid "moves"
-msgstr "移动"
+msgstr "行动次数"
 
-#, fuzzy
 msgid "strike"
-msgstr "打倒这些傻瓜。"
+msgstr "打击"
 
-#, fuzzy
 msgid "XP to advance"
-msgstr "晋级的XP"
+msgstr "经验值后升级"
 
 #. [chance]
-#, fuzzy
 msgid "$range|: $special|"
-msgstr "$range|:$special|"
+msgstr "$range|：$special|"
 
 #. [chance]
-#, fuzzy
 msgid "+$boost| moves"
-msgstr "+$boost| moves"
+msgstr "+$boost|行动次数"
 
 #. [chance]
-#, fuzzy
 msgid "$range|: +$boost| damage"
-msgstr "$range|:+$boost|损害"
+msgstr "$range|：+$boost|伤害"
 
 #. [chance]
-#, fuzzy
 msgid "$range|: +1 damage per level"
-msgstr "范围|。每级伤害+1"
+msgstr "$range|：每级+1伤害"
 
 #. [chance]
-#, fuzzy
 msgid "+$hitpoints| hitpoints"
-msgstr "+$hitpoints| hitpoints"
+msgstr "+$hitpoints|生命值"
 
 #. [chance]
-#, fuzzy
 msgid "+$hitpoints| hitpoints per level"
-msgstr "+$hitpoints|每级的hitpoints"
+msgstr "每级+$hitpoints|生命值"
 
 #. [chance]
-#, fuzzy
 msgid "$value| XP to advance"
-msgstr "$value| XP来推进"
+msgstr "获得$value|经验值后升级"
 
 #. [chance]
-#, fuzzy
 msgid "Village/Castle: +5 defense"
-msgstr "村庄/城堡。+5个防御"
+msgstr "村庄/城堡：+5防御"
 
 #. [chance]
-#, fuzzy
 msgid ""
 "$terrain|: +$def| defense and full movement, +$res| resistance vs $dmg_type|"
-msgstr "$terrain|。+防御和完全移动，+$res|对$dmg_type|的抵抗。"
+msgstr "$terrain|：+$def|防御和移动力，+$res|对$dmg_type|的抗性"
 
 #. [chance]
-#, fuzzy
 msgid "$terrain|: +10 defense and full movement"
-msgstr "领土。+10防御和完全移动"
+msgstr "$terrain|：+10防御和移动力"
 
 #. [chance]
-#, fuzzy
 msgid "+moves defense"
-msgstr "+移动防御"
+msgstr "+相当于行动次数的防御"
 
 #. [chance]
-#, fuzzy
 msgid "melee: optional charge"
 msgstr "近战：可选择冲锋"
 
 #. [chance]
-#, fuzzy
 msgid "$range|: arcane and +25% damage"
-msgstr "范围|：奥术和+25% d伤害"
+msgstr "$range|：奥术且+25%伤害"
 
-#, fuzzy
 msgid "Adamant armor"
-msgstr "亚当盔甲"
+msgstr "韧甲"
 
-#, fuzzy
 msgid ""
 "The sturdy plates of this lightweight armor increase the user’s physical "
 "resistances (to a maximum of 10%) and grants the steadfast ability."
 msgstr ""
-"这种轻型盔甲的坚固板块增加了使用者的物理抵抗力（最大为10%），并授予坚定的能"
-"力。"
+"这种轻型铠甲上的坚固板甲会提升装备者的物理抗性（最大为10%），并赋予装备者“坚"
+"定”能力。"
 
-#, fuzzy
 msgid "Assassin’s ring"
-msgstr "刺客的戒指"
+msgstr "刺客戒指"
 
-#, fuzzy
 msgid ""
 "This plain ring with a pleasantly smooth and slippery surface gives its "
 "owner unmatched sneak attacking skills."
-msgstr ""
-"这枚普通的戒指，表面光滑宜人，滑溜溜的，给它的主人带来无与伦比的偷袭技巧。"
+msgstr "这枚普通戒指，表面光滑宜人，会给予它的主人无与伦比的偷袭技巧。"
 
-#, fuzzy
 msgid "Azure pearl"
-msgstr "蔚蓝的珍珠"
+msgstr "蔚蓝珍珠"
 
-#, fuzzy
 msgid ""
 "This wondrous gem lets the bearer breathe and move through water as if it "
 "was air, strongly improving their mobility in water and granting the "
 "submerge ability."
 msgstr ""
-"这颗神奇的宝石可以让持有者在水中呼吸和移动，就像空气一样，有力地提高了他们在"
-"水中的机动性，并赋予了潜入水中的能力。"
+"这颗神奇的宝石可以让持有者在水中呼吸和移动，就像在空气中一样。这强有力地提升"
+"了他们的水中机动性，并赋予了他们潜水能力。"
 
-#, fuzzy
 msgid "Bezoar"
-msgstr "牛郎织女"
+msgstr "牛黄"
 
-#, fuzzy
 msgid ""
 "This shamanic totem protects from poison, drain, and plague. Bearers of the "
 "totem are immune to fear and their vulnerabilities are reduced."
 msgstr ""
-"这个萨满教的图腾可以保护人们免受毒药、排水和瘟疫的伤害。图腾的持有者对恐惧免"
-"疫，他们的脆弱程度也会降低。"
+"这个萨满图腾可以让人免受毒药、吸血和瘟疫的伤害。图腾的持有者免疫恐惧，他们的"
+"抗性也会提升。"
 
-#, fuzzy
 msgid "Blood ring"
-msgstr "血环"
+msgstr "血戒"
 
-#, fuzzy
 msgid ""
 "This pulsing ring empowers the bearer’s melee attacks with the ability to "
 "drain lifeforce from their victim."
-msgstr "这枚脉动戒指赋予佩戴者近战攻击的能力，可以消耗受害者的生命力。"
+msgstr "这枚脉动的戒指会让佩戴者近战攻击获得吸取受害者生命力的能力。"
 
-#, fuzzy
 msgid "Cursed symbol of life"
 msgstr "被诅咒的生命象征"
 
-#, fuzzy
 msgid ""
 "This vampiric amulet allows a unit to drain enemy life from a safe distance."
-msgstr "这个吸血鬼护身符允许一个单位在安全距离内消耗敌人的生命。"
+msgstr "这个吸血鬼护身符可以让单位在安全距离上吸取敌人的生命。"
 
-#, fuzzy
 msgid "Eagle eye longbow"
 msgstr "鹰眼长弓"
 
-#, fuzzy
 msgid ""
 "This enchanted longbow enhances the wielder’s ranged attacks with uncanny "
 "precision and increased damage."
 msgstr ""
-"这把被施了魔法的长弓增强了施法者的远程攻击，具有不可思议的精确性和增加的伤"
-"害。"
+"这把附魔长弓会增强装备者的远程攻击，让其变得不可思议地精确，并会增加伤害。"
 
-#, fuzzy
 msgid "Forbidden grimoire"
-msgstr "禁忌的魔法书"
+msgstr "禁忌法书"
 
-#, fuzzy
 msgid ""
 "This unholy manual gives the user the arcane knowledge to resurrect enemies "
 "slain in melee combat as the walking dead."
 msgstr ""
-"这本邪恶的手册为使用者提供了神秘的知识，使在近战中被杀的敌人复活为行尸走肉。"
+"这本邪恶的手册赋予使用者神秘的知识，让其能把在近战中击杀的敌人唤起为行尸走"
+"肉。"
 
-#, fuzzy
 msgid "Forcefield"
 msgstr "力场"
 
-#, fuzzy
 msgid "adjacent enemies do 13% less damage"
-msgstr "相邻的敌人会受到13% less的伤害"
+msgstr "相邻敌人造成的伤害减少13%"
 
-#, fuzzy
 msgid ""
 "Charged with intense magic, this shield generates a forcefield causing "
 "adjacent enemies to inflict less damage around the wielder."
 msgstr ""
-"充斥着强烈的魔力，这个盾牌产生一个力场，使相邻的敌人对施法者周围造成的伤害减"
-"少。"
+"这面盾中充盈着强烈的魔力，将产生力场，使相邻敌人在装备者周围造成的伤害减少。"
 
-#, fuzzy
 msgid "Ghast’s marrow"
-msgstr "加斯特的骨髓"
+msgstr "食尸妖鬼精华"
 
-#, fuzzy
 msgid ""
 "This grisly concoction instills the drinker with an insatiable unholy hunger "
 "for more blood. Every time a foe is slain, a part of his lifeforce is "
 "eternally claimed through arcane ghoulish powers."
 msgstr ""
-"这种可怕的混合物使饮酒者对更多的血有一种永不满足的邪恶的渴望。每当一个敌人被"
-"杀，他的一部分生命力就会通过神秘的食尸鬼的力量被永远地夺走。"
+"这种恐怖的混合物会让饮用者对血产生永不满足的邪恶渴望。每当敌人被杀，他的一部"
+"分生命力就会被神秘的食尸鬼之力永远夺走。"
 
 #, fuzzy
 msgid "Root of the Elder Wose"
