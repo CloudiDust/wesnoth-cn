@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-04-21 16:45+0800\n"
+"PO-Revision-Date: 2022-04-22 14:45+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1918,11 +1918,11 @@ msgstr "村庄/城堡：+5防御"
 #. [chance]
 msgid ""
 "$terrain|: +$def| defense and full movement, +$res| resistance vs $dmg_type|"
-msgstr "$terrain|：+$def|防御和移动力，+$res|对$dmg_type|的抗性"
+msgstr "$terrain|：+$def|防御并可全速移动，+$res|对$dmg_type|的抗性"
 
 #. [chance]
 msgid "$terrain|: +10 defense and full movement"
-msgstr "$terrain|：+10防御和移动力"
+msgstr "$terrain|：+10防御并可全速移动"
 
 #. [chance]
 msgid "+moves defense"
@@ -1947,12 +1947,12 @@ msgstr ""
 "定”能力。"
 
 msgid "Assassin’s ring"
-msgstr "刺客戒指"
+msgstr "刺客指环"
 
 msgid ""
 "This plain ring with a pleasantly smooth and slippery surface gives its "
 "owner unmatched sneak attacking skills."
-msgstr "这枚普通戒指，表面光滑宜人，会给予它的主人无与伦比的偷袭技巧。"
+msgstr "这枚普通指环，表面光滑宜人，会给予它的主人无与伦比的偷袭技巧。"
 
 msgid "Azure pearl"
 msgstr "蔚蓝珍珠"
@@ -1981,7 +1981,7 @@ msgstr "血戒"
 msgid ""
 "This pulsing ring empowers the bearer’s melee attacks with the ability to "
 "drain lifeforce from their victim."
-msgstr "这枚脉动的戒指会让佩戴者近战攻击获得吸取受害者生命力的能力。"
+msgstr "这枚脉动的指环会让佩戴者近战攻击获得吸取受害者生命力的能力。"
 
 msgid "Cursed symbol of life"
 msgstr "被诅咒的生命象征"
@@ -2107,381 +2107,305 @@ msgstr ""
 "这种来自有机物的奇异药物可以增强使用者的活力和觉知。亡灵服用时没有效果。"
 
 msgid "Ring of frostbite"
-msgstr "霜冻戒指"
+msgstr "霜冻指环"
 
 msgid ""
 "This frigid ring envelops the user’s melee attacks with icy cold, changing "
 "their damage to cold and allowing them to inflict deathly chills that slow "
 "the enemy."
 msgstr ""
-"这个寒冷的戒指将使得使用者的近战攻击被冰寒所笼罩，将其伤害变为冰寒伤害，并让"
+"这个寒冷的指环将使得使用者的近战攻击被冰寒所笼罩，将其伤害变为冰寒伤害，并让"
 "他们能造成让敌人减速的死亡之寒。"
 
 msgid "Ring of power"
-msgstr "力量戒指"
+msgstr "力量指环"
 
 msgid ""
 "Wearing this ring enhances damage with arcane and elemental attacks, "
 "allowing using them with supernatural skill and presence."
 msgstr ""
-"戴上这枚戒指可以提升奥术和元素攻击的伤害，让佩戴者以超自然的技巧和存在感来使"
+"戴上这枚指环可以提升奥术和元素攻击的伤害，让佩戴者以超自然的技巧和存在感来使"
 "用这些攻击。"
 
-#, fuzzy
 msgid "Runic sword"
 msgstr "符文剑"
 
-#, fuzzy
 msgid ""
 "This magic sword empowers the wielder’s melee attacks with the magical "
 "property."
-msgstr "这把魔剑赋予持剑者的近战攻击以魔法属性。"
+msgstr "这把魔剑将使持剑者的近战攻击附魔。"
 
-#, fuzzy
 msgid "Staff of radiance"
 msgstr "光芒之杖"
 
-#, fuzzy
 msgid "This sacred rod can unleash brilliant bursts of luminous energy."
-msgstr "这根神圣的棒子可以释放出辉煌的发光能量。"
+msgstr "这根神圣的棒子可以释放辉煌的光芒能量。"
 
-#, fuzzy
 msgid "Stormbringer"
 msgstr "风暴使者"
 
-#, fuzzy
 msgid ""
 "This tormented sword causes rage in any who wield it. Melee attacks will "
 "gain the fury ability pressing engagement for 3 rounds."
 msgstr ""
-"这把折磨人的剑会让任何挥舞它的人感到愤怒。近战攻击将获得愤怒的能力压迫交战3回"
+"这把磨损的剑会让任何挥舞它的人感到愤怒。近战攻击将获得狂怒能力，强制交战3回"
 "合。"
 
-#, fuzzy
 msgid "Sylph bow"
-msgstr "西尔菲弓"
+msgstr "风仙子弓"
 
-#, fuzzy
 msgid ""
 "A runic bow. This elvish heirloom, passed from Queen to Princess, gathers "
 "power with each generation and speeds up the wielders movements so that more "
 "strikes can be landed before the engagement is over."
 msgstr ""
-"一把符文弓。这个精灵族的传家宝，从女王传到公主，每一代都会收集力量，并加快挥"
-"舞者的动作，以便在交战结束前可以进行更多的打击。"
+"一把符文弓。这是精灵的传家宝，从女王传到公主，每传承一代，都将积蓄力量，并能"
+"加快装备者的动作，在交战结束前可以进行更多次打击。"
 
-#, fuzzy
 msgid "Terror disguise"
-msgstr "恐怖的伪装"
+msgstr "恐怖伪装"
 
-#, fuzzy
 msgid ""
 "This cursed outfit spreads a trail of darkness, harming those who get too "
 "close."
-msgstr "这套被诅咒的装备散布着黑暗的痕迹，伤害那些过于接近的人。"
+msgstr "这件被诅咒的外装会散布黑暗之痕迹，伤害那些过于接近者。"
 
-#, fuzzy
 msgid "The Key"
-msgstr "钥匙"
+msgstr "神钥"
 
-#, fuzzy
 msgid "This magical object opens the gateway between dimensions."
-msgstr "这个神奇的东西能打开维度之间的通道。"
+msgstr "这个魔法物件能打开维度之间的通道。"
 
-#, fuzzy
 msgid "Tome of secrets"
-msgstr "秘密的巨著"
+msgstr "秘密典籍"
 
-#, fuzzy
 msgid "This forgotten book imparts ancient knowledge to the reader."
-msgstr "这本被遗忘的书向读者传授了古老的知识。"
+msgstr "这本被遗忘的书向读者传授古老的知识。"
 
-#, fuzzy
 msgid "Trident of storms"
-msgstr "风暴的三叉戟"
+msgstr "风暴三叉戟"
 
-#, fuzzy
 msgid ""
 "This legendary trident can summon lightning from the heavens, granting its "
 "wielder magical ranged fire attack."
-msgstr "这把传奇的三叉戟可以从天上召唤出闪电，赋予持戟者神奇的远程火力攻击。"
+msgstr "这把传奇的三叉戟可以从天上召唤闪电，赋予持戟者远程魔法火焰攻击能力。"
 
-#, fuzzy
 msgid "Trolls blood potion"
 msgstr "巨魔血药"
 
-#, fuzzy
 msgid "This foul-smelling potion allows the imbiber to regenerate health."
-msgstr "这种散发着恶臭的药水可以让吸食者再生健康。"
+msgstr "这种散发着恶臭的药剂可以让服用者的健康再生。"
 
-#, fuzzy
 msgid "Ointment of venom"
-msgstr "毒药的药膏"
+msgstr "毒液药膏"
 
-#, fuzzy
 msgid ""
 "This deadly poison envenoms the user’s blade and pierce attacks, increasing "
 "damage and allowing them to inflict poison."
 msgstr ""
-"这种致命的毒药使使用者的刀剑和穿刺攻击变成了毒药，增加了伤害，并使其能够造成"
-"毒害。"
+"这种致命的毒剂将使用者的刃器和穿刺攻击附毒，提升其伤害，并使其能够造成中毒效"
+"果。"
 
-#, fuzzy
 msgid "War banner"
-msgstr "战争旗帜"
+msgstr "战旗"
 
-#, fuzzy
 msgid "adjacent allies do 20% more damage"
-msgstr "相邻盟友的伤害增加20%。"
+msgstr "相邻友军的伤害增加20%。"
 
-#, fuzzy
 msgid ""
 "This inspiring banner rallies the bearer’s allies to war, imparting a damage "
 "bonus to the allied units around it."
-msgstr ""
-"这面鼓舞人心的旗帜使持旗者的盟友团结起来，为其周围的盟友单位提供伤害奖励。"
+msgstr "这面鼓舞人心的旗帜使持旗者的友军集结开战，使周围的友军单位伤害上升。"
 
-#, fuzzy
 msgid "Winged scepter"
-msgstr "有翼的权杖"
+msgstr "有翼权杖"
 
-#, fuzzy
 msgid ""
 "This wondrous rod imparts the user the ability to soar through the skies, "
 "making it a breeze to move through most terrain. Units that can already fly "
 "get improved defenses."
 msgstr ""
-"这根神奇的棒子赋予使用者在天空中翱翔的能力，使其轻而易举地穿越大多数地形。已"
-"经能够飞行的单位会得到更好的防御。"
+"这根神奇的棒子赋予使用者在天空中翱翔的能力，使其能轻而易举地穿越大多数地形。"
+"本就能飞行的单位，其防御将提升。"
 
-#, fuzzy
 msgid "Winter’s bloom"
-msgstr "冬天的绽放"
+msgstr "冬日繁花"
 
-#, fuzzy
 msgid ""
 "This delicate blossom rarely found in snowy peaks, is strongly appreciated "
 "for its beneficial effects on health."
-msgstr "这种精致的花朵很少在雪峰上出现，因其对健康的有益作用而受到强烈赞赏。"
+msgstr "这精致的花簇很少在雪峰上出现，它有益健康，因此很受重视。"
 
-#, fuzzy
 msgid "Zephyr cloak"
-msgstr "泽法尔披风"
+msgstr "西风斗篷"
 
-#, fuzzy
 msgid ""
 "This lightweight cloak renders its wearer almost invisible in the darkness "
 "and lets them move with fluid grace past enemies with ease."
 msgstr ""
-"这种轻便的斗篷使穿戴者在黑暗中几乎看不见，并让他们以流畅的姿态轻松地穿过敌"
-"人。"
+"这轻便的斗篷使穿戴者在黑暗中几乎不可见，并让他们能优雅、流畅而轻松地溜过敌人"
+"身边。"
 
-#, fuzzy
 msgid "staff of radiance"
 msgstr "光芒之杖"
 
-#, fuzzy
 msgid "storm trident"
 msgstr "风暴三叉戟"
 
-#, fuzzy
 msgid "ice bow"
 msgstr "冰弓"
 
-#, fuzzy
 msgid "banner"
-msgstr "横幅区"
+msgstr "战旗"
 
-#, fuzzy
 msgid ""
 "This unit can lead ~allied~ units that are next to it, making them fight "
 "better. Adjacent allied units will do 20% more damage. This is cumulative "
 "with leadership."
 msgstr ""
-"这个单位可以领导与它相邻的~盟军~单位，使他们的战斗力提高。相邻的盟友单位会多"
-"造成20%的伤害。这是与领导力累积的。"
+"此单位可以领导与它相邻的友军单位，使他们的战斗力提高。相邻友军单位的伤害提升"
+"20%。此能力效果可与领导能力效果累积。"
 
-#, fuzzy
 msgid "corruption"
-msgstr "腐败"
+msgstr "腐蚀"
 
-#, fuzzy
 msgid ""
 "This unit corrupts adjacent enemies at the beginning of our turn. Corrupted "
 "units lose 6 HP or are reduced to 1 HP. Corruption cannot, of itself, kill a "
 "unit."
 msgstr ""
-"这个单位在我们的回合开始时腐蚀邻近的敌人。被腐蚀的单位会失去6个HP或被减为1个"
-"HP。腐蚀本身不能杀死一个单位。"
+"此单位再我们的回合开始时腐蚀邻近的敌人。被腐蚀的单位会失去6点生命值，或被减至"
+"1点生命值。腐蚀本身不能杀死单位。"
 
-#, fuzzy
 msgid "darkness"
 msgstr "黑暗"
 
-#, fuzzy
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse. Any units adjacent to this unit will fight as "
 "if it were dusk when it is day, and as if it were night when it is dusk."
 msgstr ""
-"这个单位使周围地区变暗，使混乱的单位战斗力提高，合法的单位战斗力下降。任何与"
-"该单位相邻的单位在白天时都会像黄昏一样战斗，在黄昏时则像夜晚一样战斗。"
+"此单位使周围区域变暗，使混沌单位的战斗力上升，而守序单位的战斗力下降。任何与"
+"此单位相邻的单位，在昼间如同在黄昏战斗，而在黄昏则如同在夜间战斗。"
 
-#, fuzzy
 msgid "distract"
 msgstr "分神"
 
-#, fuzzy
 msgid "Allied units ignore enemy zones of control adjacent to this unit."
-msgstr "盟军单位无视与该单位相邻的敌方控制区。"
+msgstr "友方单位无视与此单位相邻的敌方控制区域。"
 
-#, fuzzy
 msgid "flight"
 msgstr "飞行"
 
-#, fuzzy
 msgid ""
 "Full movement and up to 50% defense in all terrains but cave or mushroom "
 "grove."
-msgstr "在除洞穴或蘑菇林以外的所有地形中，都有充分的移动和高达50% d的防御。"
+msgstr "在除洞穴或蘑菇林以外的所有地形上都可以全速移动，并获得最高50%的防御。"
 
-#, fuzzy
 msgid "swim"
 msgstr "游泳"
 
-#, fuzzy
 msgid ""
 "Full movement and up to 60% defense in water or swamp and up to 70% defense "
 "in reef."
-msgstr "在水中或沼泽中可完全移动，防御力高达60% d，在礁石中防御力高达70% d。"
+msgstr ""
+"在水中或沼泽中可以全速移动，并获得最高60%的防御，而在礁石间防御最高可达70%。"
 
-#, fuzzy
 msgid "forcefield"
 msgstr "力场"
 
-#, fuzzy
 msgid "Adjacent enemies do 13% less damage."
-msgstr "相邻的敌人造成13% less的伤害。"
+msgstr "相邻敌人造成的伤害降低13%。"
 
-#, fuzzy
 msgid "fury"
-msgstr "大雪更加猛烈了，就像他的存在抑制了雪势一般。我看不见我们前进的道路。"
+msgstr "狂怒"
 
-#, fuzzy
 msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 3 rounds of attacks have occurred."
 msgstr ""
-"无论是进攻还是防守，这种攻击都会压迫交战，直到其中一个战斗人员被杀死，或者发"
-"生3轮攻击。"
+"无论是进攻还是防御时，此攻击都会强制作战，直到交战双方之一被杀，或者经过了3轮"
+"交战。"
 
-#, fuzzy
 msgid "Full movement on turn recruited or recalled"
-msgstr "轮到招收或召回时的全部动作"
+msgstr "在被征募或召回的回合可全速移动。"
 
-#, fuzzy
 msgid "optional charge"
-msgstr "可选收费"
+msgstr "可选择冲锋"
 
-#, fuzzy
 msgid "tenacity"
 msgstr "顽强"
 
-#, fuzzy
 msgid "This unit’s vulnerabilities are halved when defending."
-msgstr "防守时，该单位的脆弱性减半。"
+msgstr "防御时，此单位的脆弱程度减半。"
 
-#, fuzzy
 msgid "free upkeep"
 msgstr "免费维护"
 
-#, fuzzy
 msgid "full movement"
-msgstr ""
-"<bold>text='沼泽'</bold>代表了所有湿地。\n"
-"沼泽几乎会让所有的单位缓慢下来，而且也同样会妨碍他们的防御能力。一个例外是各"
-"种擅长在水中移动的种族；他们在沼泽中能够全速移动，并且享受防御加成。那些在湿"
-"地中栖息谋生的生灵们也知道如何利用地形掩护自己。\n"
-"\n"
-"大多数单位在沼泽中只拥有30%的防御率。而人鱼、娜迦和蜥蜴人通常都享有60%的防御"
-"率。"
+msgstr "全速移动"
 
-#, fuzzy
 msgid "terrain^water"
-msgstr "地形^水"
+msgstr "水"
 
-#, fuzzy
 msgid "improved defenses"
-msgstr "改善防卫"
+msgstr "防御力改善"
 
-#, fuzzy
 msgid "no undead^consumed by a living being:"
-msgstr "没有亡灵^被活人吃掉。"
+msgstr "被活物吃掉："
 
-#, fuzzy
 msgid "up to"
-msgstr "总结"
+msgstr "上至"
 
-#, fuzzy
 msgid "disengage"
-msgstr "脱离"
+msgstr "脱战"
 
-#, fuzzy
 msgid ""
 "Attack with this weapon gives unit 1 moves at end of combat (unit doesn’t "
 "gain a new attack)."
-msgstr "用此武器攻击，在战斗结束时给单位带来1次移动（单位不获得新的攻击）。"
+msgstr "使用此武器发起攻击，在战斗结束后，单位可以移动1次（但不可再次攻击）。"
 
-#, fuzzy
 msgid "per level"
 msgstr "每级"
 
-#, fuzzy
 msgid "Melee Combat"
-msgstr "近战战斗"
+msgstr "近身战斗"
 
-#, fuzzy
 msgid ""
 "Looks like you could use some help. A grizzled old veteran like me won’t be "
 "much use on the field, but I bet I can teach your men a thing or two about "
 "swordplay."
 msgstr ""
-"看上去你需要一些帮助。像我这样灰头土脸的老兵在战场上用处不大，但我打赌我可以"
-"教你的人一两件关于剑术的事。"
+"看来你需要帮助。像我这样灰头土脸的老兵在战场上用处不大，但我打赌我可以教你的"
+"士兵一些剑术。"
 
-#, fuzzy
 msgid "Ranger Tactics"
-msgstr "突击队战术"
+msgstr "游侠战术"
 
-#, fuzzy
 msgid ""
 "I sympathize with your cause, but this is not my battle. I will not fight "
 "for you, but I will gladly instruct your recruits in the art of the ranger, "
 "that they may better fight on their own."
 msgstr ""
-"我同情你们的事业，但这不是我的战斗。我不会为你而战，但我很乐意指导你的新兵学"
-"习游骑兵的艺术，使他们能更好地独立作战。"
+"我同情你们的事业，但这不是我的战斗。我不会为你而战，但很乐意指导你的新兵学习"
+"游侠的技艺，让他们能更好地独立作战。"
 
-#, fuzzy
 msgid "Health"
 msgstr "健康"
 
-#, fuzzy
 msgid ""
 "Looks like a pretty grim fight you’ve got up ahead. I’ve got too many "
 "troubles of my own to join in, but stick about a while and I’ll put some "
 "steel in your backbone. When I’m through with you you’ll be able to keep on "
 "going no matter the odds!"
 msgstr ""
-"看起来你有一场相当严峻的战斗。我自己有太多的麻烦，不能加入，但坚持一段时间，"
-"我会给你的脊梁骨加点钢。当我完成了对你的训练，你就能继续前进，不管遇到什么困"
-"难！\"。"
+"看来你正要面临一场相当严峻的战斗。我手头也有很多麻烦，不能参战。不过，在这儿"
+"待一会儿吧，我能让你腰板儿挺得更直。完成训练之后，你不论遇到什么困难，都能继"
+"续前进了！"
 
-#, fuzzy
 msgid "Movement"
 msgstr "移动"
 
-#, fuzzy
 msgid ""
 "What, you want me to join the fight? Quite out of the question, old boy! I’m "
 "afraid battlefields just aren’t my scene - no drama, no style, no romance! "
@@ -2489,76 +2413,65 @@ msgid ""
 "I’ll teach you how to break out of those dreary marching formations and step "
 "light as a feather!"
 msgstr ""
-"什么，你想让我加入战斗？这是不可能的，老伙计!恐怕战场不是我的舞台--没有戏剧"
-"性，没有风格，没有浪漫!完全没有技巧!你可能不明白，所以让我来告诉你。我会教你"
-"如何突破那些沉闷的行军队形，像羽毛一样轻盈地迈步!"
+"什么，你想让我参战？这不可能，老伙计！恐怕战场不是我的舞台——没有戏剧性，没有"
+"格调，没有浪漫！完全没有技巧！你可能听不明白，那就让我来告诉你吧。我会教你如"
+"何弃用那些沉闷的行军队形，像羽毛一样轻盈迈步！"
 
-#, fuzzy
 msgid "Combat Experience"
 msgstr "战斗经验"
 
-#, fuzzy
 msgid ""
 " Join the battle? Nay, lads, my talents would be wasted on the frontlines. "
 "Give me some raw recruits to work with, though, and I’ll whip ’em into shape "
 "for you. I know what real battle is like; by the time I’m through with ’em, "
 "your newbies might have some idea of it too."
 msgstr ""
-"参加战斗？不，伙计们，我的才能在前线会被浪费。不过，给我一些生力军，我可以帮"
-"你把他们训练好。我知道真正的战斗是什么样子的；等我把他们训练好了，你的新手们"
-"也许也会有一些想法。"
+"参加战斗？不，伙计们，我这才能，去了前线就是浪费。不过，给我些新兵，我可以帮"
+"你训练好。我知道真正的战斗是什么样子，等我把他们训练好了，你的新兵也会知道一"
+"点儿。"
 
-#, fuzzy
 msgid "Dark"
 msgstr "黑暗"
 
-#, fuzzy
 msgid ""
 "I haven’t lived centuries fighting others’ battles, but I could combat "
 "boredom teaching your men a couple of things about dark techniques."
 msgstr ""
-"我没有活了几个世纪去打别人的仗，但我可以对抗无聊，教你的人一些关于黑暗技术的"
-"东西。"
+"我活了几个世纪，可没有去为别人而战，但要我教你的士兵一些黑暗技艺，这种无聊我"
+"还是能克服的。"
 
-#, fuzzy
 msgid "World Conquest 1p"
-msgstr "征服世界 1p"
+msgstr "世界征服 1p"
 
-#, fuzzy
 msgid "World Conquest 2p"
-msgstr "征服世界 2p"
+msgstr "世界征服 2p"
 
-#, fuzzy
 msgid "World Conquest 3p"
-msgstr "征服世界 3p"
+msgstr "世界征服 3p"
 
-#, fuzzy
 msgid ""
 "A randomly generated campaign for 1 player. It has 6 level of difficulties.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
-"一个随机生成的单人战役。它有6个级别的难度。\n"
-"(专家级，5个场景。)"
+"一个随机生成的单人战役。有6个级别的难度。\n"
+"（专家级别，5幕场景。）"
 
-#, fuzzy
 msgid ""
 "A randomly generated cooperative campaign for 2 players. It has 6 level of "
 "difficulties.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
-"一个随机生成的2人合作战役。它有6个级别的难度。\n"
-"(专家级，5个场景。)"
+"一个随机生成的2人合作战役。有6个级别的难度。\n"
+"（专家级别，5幕场景。）"
 
-#, fuzzy
 msgid ""
 "A randomly generated cooperative campaign for 3 players. It has 6 level of "
 "difficulties.\n"
 "(Expert level, 5 scenarios.)"
 msgstr ""
-"一个随机生成的3人合作战役。它有6个级别的难度。\n"
-"(专家级，5个场景。)"
+"一个随机生成的3人合作战役。有6个级别的难度。\n"
+"（专家级别，5幕场景。）"
 
 #. [campaign]: id=WC_II_{PLAYERS}p, description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
-#, fuzzy
 msgid "WC"
 msgstr "WC"
