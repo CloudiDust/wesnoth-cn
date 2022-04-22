@@ -5,7 +5,7 @@
 # Translators and their initial years of participation:
 # CloudiDust <cloudidust@gmail.com>, 2017.
 # termanary, 2019.
-# David Sun <davidsun.studio@outlook.com>, 2022.
+# D3dSun (David Sun) <davidsun.studio@outlook.com>, 2022.
 #
 msgid ""
 msgstr ""
