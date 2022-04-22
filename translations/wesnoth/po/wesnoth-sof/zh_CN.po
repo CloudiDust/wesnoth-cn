@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-02-10 10:54+0800\n"
+"POT-Creation-Date: 2022-01-17 20:52 UTC\n"
+"PO-Revision-Date: 2022-04-22 16:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2845,8 +2845,8 @@ msgid "That’s great, we could really use some resources about now."
 msgstr "好极了，我们现在真用得上这些资源。"
 
 #. [message]: speaker=Khrakrahs
-msgid "Thieves!  I won’t forget this..."
-msgstr "窃贼！我不会忘记的……"
+msgid "Thieves! I won’t forget this..."
+msgstr "小偷！我不会忘记的……"
 
 #. [message]
 msgid "Haha, you’re making friends all over, you cowards!"
@@ -2854,8 +2854,8 @@ msgstr "哈哈，看来在到处交朋友嘛，你们这些懦夫！"
 
 #. [message]: speaker=Khrakrahs
 msgid ""
-"I don’t care about your petty squabbles, I curse all of you!  I curse all "
-"who invade my lair!"
+"I don’t care about your petty squabbles, I curse all of you! I curse all who "
+"invade my lair!"
 msgstr "我不关心你们琐碎的争吵，我诅咒你们所有人！我诅咒所有入侵我巢穴的人！"
 
 #. [message]: speaker=Thursagan
@@ -3226,8 +3226,8 @@ msgid ""
 msgstr "是的，我们照料并保护这座火山，保护它不被你们这样的人破坏。"
 
 #. [message]: speaker=Rugnur
-msgid "Us?  We’re nice, not like the elves chasing us."
-msgstr "我们？我们是好人，和追来的那些精灵不一样。"
+msgid "Us? We’re nice, not like the elves chasing us."
+msgstr "我们？我们是好人，和追着我们的精灵不一样。"
 
 #. [message]: speaker=Baglur
 msgid ""
@@ -3586,15 +3586,16 @@ msgstr "红爬龙"
 #. [unit_type]: id=Red Wyrm, race=monster
 msgid ""
 "Red Wyrms are strange beasts, basically stout serpents with wings, but no "
-"legs.  Their skin is read and rock-like, impervious to fire but more brittle "
+"legs.  Their skin is red and rock-like, impervious to fire but more brittle "
 "than regular scales or any other lizard armor.  They are relatively rare, "
 "and their presence is attributed to some eccentric wizard or dragon.  Mature "
 "Wyrms have excellent control of their fire breath attack, as if they are "
 "themselves miniature dragons."
 msgstr ""
-"红爬龙是奇怪的野兽，基本上是有翅膀的粗壮蛇类，但没有腿。它们的皮肤像岩石一样"
-"不透火，但比普通的鳞片或其他蜥蜴的外甲更脆。它们比较罕见，其存在归因于古怪的"
-"巫师或者龙。成熟爬龙能很好地控制火焰吐息攻击，就好像它们是缩小的龙一般。"
+"红爬龙是奇怪的野兽，总的说来是有翅膀的粗壮蛇类，但没有腿。它们的皮肤是红色"
+"的，像岩石一样，不透火，但比普通的鳞片或其他蜥蜴的外甲更脆。它们比较罕见，是"
+"由于古怪的巫师或者龙而存在。成熟爬龙能很好地控制火焰吐息攻击，就好像它们自己"
+"便是缩小的龙一般。"
 
 #. [unit_type]: id=Red Wyrmlet, race=monster
 msgid "Red Wyrmlet"

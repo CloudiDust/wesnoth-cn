@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-02 18:03 UTC\n"
-"PO-Revision-Date: 2022-02-12 12:01+0800\n"
+"POT-Creation-Date: 2022-01-17 20:52 UTC\n"
+"PO-Revision-Date: 2022-04-22 16:59+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6520,7 +6520,7 @@ msgstr "我想我们终于走出来了。我都忘了天空的广阔和风的吹
 msgid "Can you see very far? Do you have any idea where we are?"
 msgstr "你能看到远处吗？你知道我们在哪里吗？"
 
-#. [message]: speaker=unit
+#. [message]: speaker=$talking_unit.id
 msgid ""
 "We’ve come out on the side of a mountain, overlooking a large valley. The "
 "land seems to be much the same as the foothills south of the mountains. The "
@@ -6569,7 +6569,7 @@ msgid ""
 "you to congratulate you."
 msgstr "你怀疑我的力量？你从黑暗中脱出，我现身来祝贺你。"
 
-#. [message]: speaker=unit
+#. [message]: speaker=$talking_unit.id
 #. [message]: speaker=Zhul
 msgid "Kaleh, who are you talking to?"
 msgstr "卡勒，你和谁说话？"
@@ -6581,8 +6581,8 @@ msgid ""
 msgstr "现在，我只在你面前显现，只在你面前，卡勒，你是特别的，是被选中的。"
 
 #. [message]: speaker=Kaleh
-msgid "$unit.name|, be quiet, I’ll explain it all later."
-msgstr "$speaker。name|，安静，我稍后再向你解释。"
+msgid "$talking_unit.name, be quiet, I’ll explain it all later."
+msgstr "$talking_unit.name|，安静，我稍后再解释清楚。"
 
 #. [message]: speaker=Kaleh
 msgid "Be quiet Zhul, I’ll explain it all later."
@@ -11477,16 +11477,16 @@ msgstr ""
 
 #. [unit_type]: id=Dawarf, race=monster
 msgid "Dawarf"
-msgstr "矮人"
+msgstr "达瓦夫"
 
 #. [unit_type]: id=Dawarf, race=monster
 msgid ""
 "Don’t ask where the Dawarf came from. You really don’t want to know. It is a "
-"secret well guarded by the great lore-masters of Wesnoth. And it’s isn’t "
+"secret well guarded by the great lore-masters of Wesnoth. And it isn’t "
 "pretty. Hint: it involves lots of sherbet."
 msgstr ""
-"别问矮人从哪里来，你不会感兴趣的，那是被韦诺的学术权威严密把守的秘密，不太光"
-"彩。只有这个提示：它和果子粉有很大关系。"
+"别问达瓦夫是从哪里来的。你肯定不会想知道的。那是被韦诺的博学大师严密把守的秘"
+"密。不太光彩。提示：它和很多很多果子粉有关。"
 
 #. [unit_type]: id=Dust Devil, race=monster
 msgid ""
