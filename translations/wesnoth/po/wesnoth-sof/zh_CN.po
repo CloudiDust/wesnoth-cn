@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-17 20:52 UTC\n"
+"POT-Creation-Date: 2022-05-08 01:42 UTC\n"
 "PO-Revision-Date: 2022-04-22 16:27+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -131,11 +131,12 @@ msgid "Elves"
 msgstr "精灵"
 
 #. [part]
+#, fuzzy
 msgid ""
-"Ay, the Sceptre of Fire. The sceptre has a long, glorious, and fearful "
+"Ay, the Sceptre of Fire. The Sceptre has a long, glorious, and fearful "
 "history. But I am not here to tell you how the jewel within it was brought "
-"over the ocean by Haldric the Great. Nor will I tell the story of Garard I, "
-"and the challenge he set, or that of Konrad, King of Wesnoth by virtue of "
+"over the ocean by Haldric the Great, nor will I tell the story of Garard I "
+"and the challenge he set, nor that of Konrad, King of Wesnoth by virtue of "
 "the Sceptre."
 msgstr ""
 "啊，圣火权杖。这权杖的历史，悠久、光荣而又可怖。但在这里，我不会讲述哈德里克"
@@ -261,9 +262,10 @@ msgid ""
 msgstr "所以？你想让我们来干这个？抑制住宝石的能量？做个法器么？"
 
 #. [message]: speaker=Haldric II
+#, fuzzy
 msgid ""
-"Exactly. I want you to craft it into a mighty artifact, that will leverage "
-"the stone’s power, but contain it also."
+"Exactly. I want you to craft it into a mighty artifact that will not only "
+"leverage the stone’s power, but contain it also."
 msgstr ""
 "正是如此。我想让你把它加工成一件强大的法器，能够发挥宝石的力量，但同时也能够"
 "控制它。"
@@ -281,8 +283,9 @@ msgid ""
 msgstr "如果您无权作出交易的决定，那请派个可以做决定的人来，我会和他谈判的。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"They would refuse to come. You must come into the caves, and go to the city "
+"They would refuse to come. You must come into the caves and go to the city "
 "in person, or send a representative."
 msgstr ""
 "他们会拒绝来这儿。你必须一个人进洞穴里来，到我们的城市去，派一位代表也行。"
@@ -341,17 +344,19 @@ msgstr ""
 "它命名为圣火权杖。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"I’ll see what I can do. But I will need five thousand silver in advance, to "
+"I’ll see what I can do. But I will need five thousand silver in advance to "
 "pay for the materials."
 msgstr "我看看我能做什么。不过我得要五千银币的预付款，这是原料的价格。"
 
 #. [message]: speaker=Haldric II
+#, fuzzy
 msgid ""
 "Very well. I have the silver here, ready to ship, and I will send someone "
 "over with the stone itself. He will stay with you as you make the sceptre, "
-"and make sure you are going to get it done on time. I expect it done before "
-"my reign as king is ended."
+"and make sure you get it done on time. I expect it done before my reign as "
+"king is ended."
 msgstr ""
 "很好。我有银币，整装待发，我还会派遣一人携带宝石前去。你们制作权杖之时，他会"
 "在旁监督，以保证你们能按时完成工作。我希望权杖能在我的统治结束前完成。"
@@ -387,9 +392,10 @@ msgid "Not true! This is dwarvish land; if anything, it’s our road!"
 msgstr "不对！这里是矮人的领地。如果非要指定所属，这是我们的路！"
 
 #. [message]: speaker=Glildur
+#, fuzzy
 msgid ""
-"Nevertheless, if you try to move your caravans here you have to pay the "
-"toll, or face our wrath!"
+"Nevertheless, if you try to move your caravans here, you have to pay the "
+"toll or face our wrath!"
 msgstr ""
 "不论如何，你要是想让大篷车通过，就必须付过路费，不然就面对我们的愤怒吧！"
 
@@ -402,9 +408,10 @@ msgstr ""
 "么！"
 
 #. [message]: speaker=Glildur
+#, fuzzy
 msgid ""
 "I was never among those who agreed to that treaty. Not all of us elves are "
-"as low as Kalenz, or make deals with those who betrayed us."
+"as low as Kalenz or make deals with those who betrayed us."
 msgstr ""
 "我从来就不是那些承认协约的家伙的一份子。并不是我们所有的精灵都象卡雷兹那么低"
 "贱，也不是所有的精灵都会和叛徒缔约。"
@@ -419,9 +426,11 @@ msgstr ""
 "我杀了你也不是问题。拉格纳，我们开始运货。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"Very well. Glildur, if the high elvish council has made an alliance with the "
-"men, I would advise you to follow it, but not doing so is your choice."
+"Very well. Glildur, if the high elvish council has made an alliance with "
+"these humans, I would advise you to follow it. But not doing so is your "
+"choice."
 msgstr ""
 "很好。基利尔达，如果高等精灵议会和人类结成联盟，我建议你还是遵守它，不过不遵"
 "守可是你自己的决定。"
@@ -435,8 +444,9 @@ msgid "I told you this was our road."
 msgstr "我告诉过你，这是我们的路。"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
-"Here’s the stone, for you dwarves! Now, if you’ll excuse me, I think I’ll be "
+"Here’s the stone for you dwarves! Now, if you’ll excuse me, I think I’ll be "
 "taking refuge here... I don’t much like fighting."
 msgstr ""
 "这就是宝石，现在给你们矮人了！现在抱歉，我觉得我得在这儿躲一下……我可不太喜欢"
@@ -474,8 +484,9 @@ msgid ""
 msgstr "我们的援军应该很快就到。让大篷车来这儿，我们或许能放你们走。"
 
 #. [message]: speaker=Haldric II
+#, fuzzy
 msgid ""
-"That’s a bluff, what sort of reinforcements can this little band of thieves "
+"That’s a bluff. What sort of reinforcements can this little band of thieves "
 "possibly count on?"
 msgstr "这是虚张声势，这支小贼团能指望什么援军？"
 
@@ -486,8 +497,9 @@ msgid ""
 msgstr "哈！我们的援军到了。这下你可抵挡不住我们的合力了！"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"We cannot match you above ground, but in the caves we may still defeat you."
+"We cannot match you above ground, but in the caves, we may still defeat you."
 msgstr "我们在地面上敌不过你，但在洞穴里仍然可以击败你。"
 
 #. [message]: speaker=Glildur
@@ -503,7 +515,8 @@ msgid ""
 msgstr "精灵援军！他们哪来的？我本以为反抗协约的精灵没这么多。快，大篷车赶快！"
 
 #. [message]: speaker=unit
-msgid "Die, humans, in the name of Landar!"
+#, fuzzy
+msgid "Die, humans! In the name of Landar!"
 msgstr "以兰达尔的名义，死吧，人类！"
 
 #. [message]: speaker=second_unit
@@ -511,7 +524,8 @@ msgid "Landar? Who is this ‘Landar’ you speak of?"
 msgstr "兰达尔？你们说的“兰达尔”是谁？"
 
 #. [message]: speaker=unit
-msgid "Die, dwarvish scum, in the name of Landar!"
+#, fuzzy
+msgid "Die, dwarvish scum! In the name of Landar!"
 msgstr "以兰达尔的名义，死吧，矮人渣滓！"
 
 #. [message]: speaker=second_unit
@@ -519,7 +533,8 @@ msgid "Yer precious Landar can kiss my axe."
 msgstr "你丫高贵的兰达尔来亲亲俺的斧头吧。"
 
 #. [message]: speaker=unit
-msgid "This gains you nothing, we will not rest!"
+#, fuzzy
+msgid "This gains you nothing! We will not rest!"
 msgstr "你们什么都得不到，我们不会休息的！"
 
 #. [message]: speaker=Rugnur
@@ -544,9 +559,10 @@ msgid "Trolls"
 msgstr "巨魔"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Next in our story, Rugnur retreated into the caves of Knalga. But the elves "
-"pressed on, and would enter the caves shortly."
+"pressed on and would enter the caves shortly."
 msgstr ""
 "接下去，在我们的故事里，拉格纳撤退到克尔伽洞穴之中。但精灵压在后面，马上就要"
 "进洞了。"
@@ -631,9 +647,10 @@ msgid "Not really. This was supposedly a time of peace. Who are you?"
 msgstr "其实没有。现在本该是和平时期。你是谁？"
 
 #. [message]: speaker=Baglur
+#, fuzzy
 msgid ""
 "Argh! I’m a retired warrior... it looks like I’ll ha’ to come out and help "
-"you, else we’ll be overrun by the damn elves... argh again. Well, listen "
+"you, else we’ll be overrun by the damn elves... argh, again. Well, listen "
 "here. This entrance to the city can be closed. There’s a gate. If we can "
 "close it, the elves will no’ be able to enter. And you elves; begone from "
 "here!"
@@ -668,8 +685,9 @@ msgid "Don’t we have troops positioned near these glyphs, to unlock them?"
 msgstr "我们在魔法符附近难道没有驻军可以去解封吗？"
 
 #. [message]: speaker=Baglur
+#, fuzzy
 msgid ""
-"Och, well, no. Lately trolls have been more in charge of those caves where "
+"Och, well, no. Lately, trolls have been more in charge of those caves where "
 "the glyphs are than we dwarves have."
 msgstr "啊，那个，没有。最近貌似是巨魔掌管着魔法符所在的洞穴，而不是我们矮人。"
 
@@ -705,8 +723,10 @@ msgstr ""
 "但这个入口怎么办？精灵可以像进主门一样很容易地通过这里，而且这还不能关闭！"
 
 #. [message]: speaker=Baglur
+#. "it" is a side entrance of a dwarven fortress
+#, fuzzy
 msgid ""
-"I think it can be sealed up somehow... Yes, look, activating that glyph "
+"I think it can be sealed up somehow... yes, look, activating that glyph "
 "seems to have closed up the gap."
 msgstr ""
 "我想它可以用某种方法封起来……对了，看，激活那些魔法符似乎可以关闭这缺口。"
@@ -731,10 +751,11 @@ msgid ""
 msgstr "看着吧。大门马上就要关上了。然后外面的精灵就要和我们无关了。"
 
 #. [message]: speaker=Glildur
+#, fuzzy
 msgid ""
 "Agh! Well, you have defeated me for now, but eventually you will have to "
-"exit these caves, to give Haldric back his jewel. And when you do, we will "
-"be ready for you."
+"exit these caves to give Haldric back his jewel. And when you do, we will be "
+"ready for you."
 msgstr ""
 "啊！好吧，你现在击败我了，但最后你总得要离开洞穴，把宝石还给哈德里克。到你这"
 "么做之时，我们可会等着的。"
@@ -746,8 +767,9 @@ msgid ""
 msgstr "如果这是你的选择，很好，但准备好等上几十年吧。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"There are still some elves left in here. We have to eliminate them, too, "
+"There are still some elves left in here. We have to eliminate them too, "
 "unless they surrender."
 msgstr "这儿还有些剩下的精灵。我们也必须清理掉他们，如果他们不投降的话。"
 
@@ -792,11 +814,12 @@ msgid "Goblins"
 msgstr "地精"
 
 #. [part]
+#, fuzzy
 msgid ""
 "The journey to the far northern wastelands was long and perilous. The "
 "tunnels were narrow, but by following the old mining rails, Rugnur and his "
 "group could make good time. After a few days journey, they saw a dim red "
-"glow in the tunnel ahead, and could feel sporadic vibrations in the rails."
+"glow in the tunnel ahead and could feel sporadic vibrations in the rails."
 msgstr ""
 "前往遥远北荒的旅途漫长而危险。坑道很窄，但拉格纳和他的队伍沿着旧矿轨走，可以"
 "快速行进。几天之后，他们看到前方坑道里有暗淡的红光，还能感到轨道的零星震动。"
@@ -839,7 +862,8 @@ msgstr ""
 "我们看到你们了，我们听到你们说啥了，偷偷摸摸的小鼹鼠！皮得莫，把他们刺穿！"
 
 #. [message]: speaker=Pidmer
-msgid "Um... Aren’t we needed for the salvage?"
+#, fuzzy
+msgid "Um... aren’t we needed for the salvage?"
 msgstr "呃……我们不还要做回收工作吗？"
 
 #. [message]: speaker=Bragdash
@@ -856,12 +880,15 @@ msgid "Uh, well, we’re not getting through without a fight..."
 msgstr "呃，好吧，不打一架不行了……"
 
 #. [message]: speaker=Rugnur
-msgid "... Let’s set up a base here."
+#. second part of "Uh, well, we’re not getting through without a fight..."
+#, fuzzy
+msgid "... let’s set up a base here."
 msgstr "……在这儿建个基地吧。"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
-"This old cart still rolls smoothly on the track... It’s forged by us "
+"This old cart still rolls smoothly on the track... it’s forged by us "
 "dwarves, I shouldn’t be surprised!"
 msgstr "这旧矿车还在轨道上平稳运作……它是我们矮人锻造的，我不该惊讶的！"
 
@@ -885,9 +912,10 @@ msgid "Of course it wasn’t us, you worm!"
 msgstr "当然不是我们啊，你个虫子！"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
 "This underground river is choked off with a rotting mess, it’s overgrown "
-"with fungus. I can try to see what’s underneath... Whoops!"
+"with fungus. I can try to see what’s underneath... whoops!"
 msgstr ""
 "这条地下河被腐烂的东西堵住了，里面长满了真菌。我试下看看下面有什么……哎呀！"
 
@@ -900,7 +928,9 @@ msgid "You’ve flooded your own tunnel, you stupid little gophers!"
 msgstr "你们淹掉了自己的坑道，你们这些愚蠢的小地鼠！"
 
 #. [message]: speaker=Baglur
-msgid "Och, we ’ave... But our rails are as strong and stout as we are!"
+#. "Yes, we have flooded our own tunnel ..."
+#, fuzzy
+msgid "Och, we ’ave... but our rails are as strong and stout as we are!"
 msgstr "呀，确实……但我们的轨道和我们一样强壮结实！"
 
 #. [message]: speaker=Rugnur
@@ -912,7 +942,8 @@ msgid "That’s good, because that water looks so cold!"
 msgstr "很好，毕竟那水看来很冷！"
 
 #. [message]: speaker=Bragdash
-msgid "Arg, I never should’a come to this stinkin’ cathole!"
+#, fuzzy
+msgid "Argh, I never should’a come to this stinkin’ cathole!"
 msgstr "啊，我就不该来这臭气熏天的地儿！"
 
 #. [message]: speaker=Rugnur
@@ -1180,12 +1211,13 @@ msgstr ""
 "道直冲他们身上。他们到达北陆了吗？"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Much to his chagrin, Alanin was dispatched to scout further up the rails, "
-"but he soon came back and claimed the rails ended, the main tunnel was "
-"unfinished to the north. For this reason, Rugnur lead the dwarves up the "
-"cold passage, and began to search for the runesmith named Thursagan. "
-"Thursagan, the Sage of Fire."
+"but he soon came back and claimed the rails ended — the main tunnel was "
+"unfinished to the north. For this reason, Rugnur led the dwarves up the cold "
+"passage and began to search for the runesmith named Thursagan. Thursagan, "
+"the Sage of Fire."
 msgstr ""
 "令他气恼的是，他派阿拉宁去侦察更远轨道的情况，但他很快就回来了，并说轨道已经"
 "到头了，北面的主坑道还没完工。因此，拉格纳带领矮人走上了寒冷的通道，开始寻找"
@@ -1214,9 +1246,10 @@ msgid "Death of Thursagan"
 msgstr "瑟萨冈死亡"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
 "Now where are we going, anyway? I’ve had to ride down cold, dark, unknown "
-"caves... It’s been quite harrowing, this trip had better be worth all that!"
+"caves... it’s been quite harrowing, this trip had better be worth all that!"
 msgstr ""
 "那我们现在到底要去哪里？我不得不在寒冷、黑暗、未知的洞穴里前行……这很痛苦，这"
 "一行最好值得这痛苦！"
@@ -1300,17 +1333,19 @@ msgid "Well, um, yes, Thursagan. Why, can you help us find him?"
 msgstr "嗯，啊，对，瑟萨冈。怎么，你能帮我们找到他吗？"
 
 #. [message]: speaker=Krawg
+#, fuzzy
 msgid ""
 "Yes...\n"
 "<i>(Quickly shifts gaze to nearby woods, adopts a hostile stance, then "
-"glances back to the dwarves.)</i>"
+"glances back at the dwarves.)</i>"
 msgstr ""
 "是的……\n"
 "<b>(迅速将目光转向附近丛林，改为敌对姿态，而后回头瞥向矮人。）</i>"
 
 #. [message]: speaker=Baglur
+#, fuzzy
 msgid ""
-"Aye, trolls and wolves are closing in... Sure, Krawg, we’ll help you fight "
+"Aye, trolls and wolves are closing in... sure, Krawg, we’ll help you fight "
 "them."
 msgstr "是了，巨魔和狼群正逼近……当然了，克拉格，我们会帮你对付他们。"
 
@@ -1337,9 +1372,10 @@ msgid "Go away, you birds! Or I shall burn you out of the air!"
 msgstr "死开！你们这些鸟！不然我就把你们变成空中烤鸟！"
 
 #. [message]: speaker=Baglur
+#, fuzzy
 msgid ""
-"He doesn’t want to talk to the gryphons, apparently. I think we’ll have to "
-"get someone there he will talk to..."
+"He doesn’t want to talk to gryphons, apparently. I think we’ll have to get "
+"someone there he will talk to..."
 msgstr "看上去他不怎么想搭理狮鹫。我觉得我们得找个他愿意搭理的人去……"
 
 #. [message]: speaker=Thursagan
@@ -1426,8 +1462,9 @@ msgstr ""
 "而且我也确实喜欢挑战，所以我们来制造这柄强大的法器吧。我预计这得花几年时间。"
 
 #. [message]: speaker=Baglur
+#, fuzzy
 msgid ""
-"Good. Now, there are still wild animals here... We have to get back into the "
+"Good. Now, there are still wild animals here... we have to get back into the "
 "caves."
 msgstr "好。现在么，这里还有野生动物在游荡，我们得回洞穴里去。"
 
@@ -1443,8 +1480,10 @@ msgstr ""
 "学徒工作……"
 
 #. [message]: speaker=Rugnur
-msgid "Well, now we reached the caves again! Come on, back south, to the city."
-msgstr "啊，现在我们又回洞里了！走，回南边，到城里去。"
+msgid ""
+"Well, we can finally get back in our caves — away from these trolls and "
+"ogres! Come on, let’s head back south, to the city."
+msgstr ""
 
 #. [scenario]: id=3t_The_Council_Regathers
 msgid "The Council Regathers"
@@ -1466,15 +1505,19 @@ msgid "Lord Durstorn, we have succeeded in our mission. Thursagan is here."
 msgstr "达司拓恩领主，我们完成了任务。这位就是瑟萨冈。"
 
 #. [message]: speaker=Durstorn
+#, fuzzy
 msgid ""
 "What? You mean you found Thursagan and got him to return with you? "
-"Astounding! But what is that gryphon doing there?"
+"Astounding! But what is that gryphon doing here?"
 msgstr ""
 "什么？你的意思是说你们找到了瑟萨冈还把他带回来了？真惊人！但那头狮鹫是怎么回"
 "事？"
 
 #. [message]: speaker=Baglur
-msgid "Yes, we did. And that is Krawg, who helped us in the Northlands."
+#, fuzzy
+msgid ""
+"Yes, we did get Thursagan to come along. And that is Krawg, who helped us in "
+"the Northlands."
 msgstr "是的，我们成功了。这位是克拉格，在北陆曾经帮助过我们。"
 
 #. [message]: speaker=Krawg
@@ -1678,19 +1721,21 @@ msgid "Gold"
 msgstr "黄金"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
 "Well, these are the eastern mines. Trolls and ogres live here, be prepared "
-"to fight them; also be prepared to spend quite some time here — mining can "
+"to fight them; also, be prepared to spend quite some time here — mining can "
 "take a while."
 msgstr ""
 "好吧，这儿就是东矿了。有巨魔和食人魔住在这里，做好战斗准备；也要做好在这里多"
 "待会儿的准备——采矿得花点儿时间。"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
 "For me to make the artifact Haldric wants, I need a special type of gold. I "
-"do not know where it was found, but Baglur said these mines were the source "
-"of it."
+"know not exactly where it can be found, but Baglur said these mines were the "
+"source of it."
 msgstr ""
 "为了制造哈德里克想要的魔法物品，我需要一种特殊的黄金。我不知道哪里能找到，但"
 "巴格拉说这片矿是这种黄金的产地。"
@@ -1723,7 +1768,8 @@ msgstr ""
 "旦发现了金矿和煤矿，我们需要矿工来进行采集。"
 
 #. [message]: speaker=unit
-msgid "Here is some of the coal that we need! Bring the miners to take it!"
+#, fuzzy
+msgid "Here is some of the coal that we need! Send a miner here to take it!"
 msgstr "这里有我们需要的煤！带矿工来挖！"
 
 #. [message]: speaker=unit
@@ -1731,7 +1777,8 @@ msgid "I have all the coal I can carry..."
 msgstr "我只能扛这么多煤了……"
 
 #. [message]: speaker=unit
-msgid "Here is the mine of precious gold! Send the miners this way."
+#, fuzzy
+msgid "Here is the mine of precious gold! Send a miner here to take it!"
 msgstr "这就是那宝贵的金矿！派矿工到这边来。"
 
 #. [message]: speaker=unit
@@ -1774,11 +1821,12 @@ msgstr ""
 "匠人瑟甘利。他的戏份不多，但很重要。"
 
 #. [message]: speaker=Durstorn
+#, fuzzy
 msgid ""
 "So, you have returned. I assume you have obtained the required materials? My "
 "jeweler Theganli has spent great time and expense buying jewels from some of "
-"the northern clans. So now go to the forge and make your sceptre. What do "
-"you need to annoy me for?"
+"the northern clans. Now go to the forge and make your sceptre. What do you "
+"need to annoy me for?"
 msgstr ""
 "啊，你回来了。我想你已经拿到必须的原料了吧？我的珠宝匠瑟甘利花了好多时间和"
 "钱，从几个北方部族那边买到了珠宝。现在给我去打造你的权杖吧。你还有什么要打搅"
@@ -1842,8 +1890,9 @@ msgid "Well, Theganli, what do you think of this ruby?"
 msgstr "嗯，瑟甘利，你觉得这块红宝石怎么样？"
 
 #. [message]: speaker=Theganli
+#, fuzzy
 msgid ""
-"Uh, um, yes, yes, very impressive ruby... Even in this raw form, it has an "
+"Uh, um, yes, yes, very impressive ruby... even in this raw form, it has an "
 "odd brilliance!"
 msgstr ""
 "啊，嗯，是了，是了，非常惊人的红宝石……即使在这未经雕琢的状态下，它也有种奇特"
@@ -1854,7 +1903,8 @@ msgid "Do you think you could cut it in the manner my plans specify?"
 msgstr "你看你能按我计划中的样式来切割吗？"
 
 #. [message]: speaker=Theganli
-msgid "Maybe... maybe... It will be hard, let me see..."
+#, fuzzy
+msgid "Maybe... maybe... it will be hard, let me see..."
 msgstr "也许吧……也许吧……这很难，我看看……"
 
 #. [message]: speaker=Thursagan
@@ -1866,8 +1916,9 @@ msgid "Well, do you have anything yet?!"
 msgstr "嘿，有什么成果没？！"
 
 #. [message]: speaker=Theganli
+#, fuzzy
 msgid ""
-"Ah, well, uh, no... no... unfortunately... It seems it can’t be cut, or "
+"Ah, well, uh, no... no... unfortunately... it seems it can’t be cut, or "
 "scratched, or damaged at all! At least not by my tools..."
 msgstr ""
 "啊，对，呃，不……不……不幸的是……看起来它根本没法切割，也不会刮花，是完全没法损"
@@ -1880,10 +1931,12 @@ msgid ""
 msgstr "那你建议我们怎么做？必须要切割宝石，而且要用特定的样式来切。"
 
 #. [message]: speaker=Theganli
+#, fuzzy
 msgid ""
-"Well... Maybe you can ask the Shorbear clan? They have good tools... Chisels "
-"and grit of some rare mineral, I don’t know what it is or how they got it, "
-"but their work is well known among us gem crafters."
+"Well... maybe you can ask the Shorbear clan? They have good tools... chisels "
+"made of a metal that could only be worked in the heat of a volcanic forge. I "
+"don’t know how true that legend is, but their work is well known among us "
+"gem crafters."
 msgstr ""
 "嗯......也许可以问问矮熊氏族的人？他们有很好的工具……凿子，还有一些稀有矿物的"
 "砂砾。我不知道那些是什么，也不知道他们是怎么得到的那些的，但他们的工作在我们"
@@ -1894,8 +1947,9 @@ msgid "Shorbear? Who are they?"
 msgstr "矮熊？他们是谁？"
 
 #. [message]: speaker=Theganli
+#, fuzzy
 msgid ""
-"Another group of dwarves that live south of here... Above ground, if you can "
+"Another group of dwarves that live south of here... above ground, if you can "
 "believe it! Yes, they’re the best jewelers..."
 msgstr ""
 "另一群住在这里往南的矮人……他们住在地面上，你很难相信吧！对，他们是最好的珠宝"
@@ -1909,9 +1963,10 @@ msgstr "好，拉格纳，你还等什么？去从他们那里把工具搞到手
 
 #. [message]: speaker=Baglur
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"We can’t just go in there and take their property. We’ll have to buy, or "
-"rent, it from them."
+"We can’t just go in there and take their property. We’ll have to buy or rent "
+"it from them."
 msgstr "我们不能直接大摇大摆过去拿走他们的财产。我们得从他们那里买来或者租来。"
 
 #. [message]: speaker=Durstorn
@@ -2084,9 +2139,10 @@ msgid "Offer him fifteen hundred, but don’t go up, even if he refuses."
 msgstr "给他一千五，就算他拒绝也不加价了。"
 
 #. [message]: speaker=Durstorn
+#, fuzzy
 msgid ""
-"Bah! Getting this cut isn’t worth that much; what with Rugnur’s mistake "
-"earlier, and all the other expenses, if we pay more than a thousand we’ll "
+"Bah! Getting this cut isn’t worth that much — what with Rugnur’s mistake "
+"earlier, and all the other expenses. If we pay more than a thousand, we’ll "
 "barely even make a profit!"
 msgstr ""
 "呸！就切块宝石值不了那么多。都怪拉格纳早先犯的错，加上其他那些开销，要是出价"
@@ -2129,7 +2185,9 @@ msgid "Shut up, all of you! Attack them!"
 msgstr "所有人都闭嘴！攻击他们！"
 
 #. [message]: speaker=Rugnur
-msgid "Look at him fly... If only we could move that fast."
+#. he’s a gryphon, "flying" is used in the literal rather than figurative meaning
+#, fuzzy
+msgid "Look at him fly... if only we could move that fast."
 msgstr "看他飞来飞去……要是我们也能移动得那么快就好了。"
 
 #. [message]: speaker=Krawg
@@ -2138,8 +2196,17 @@ msgstr "啦！"
 
 #. [message]: speaker=narrator
 msgid ""
-"A brave dwarf ran out, grabbed a friendly gryphon by the sturdy neck-"
-"feathers, and hauled himself up over its back. The big animal took it all in "
+"Suddenly, the air was filled with the cries of another gryphon responding to "
+"Krawg’s call. The dwarves heard the flaps of wings and looked up to the sky "
+"to see another gryphon arriving."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. The mount is a gryphon.
+#, fuzzy
+msgid ""
+"A brave dwarf ran out, grabbed it by the sturdy neck-feathers, and hauled "
+"himself up over its back. The big animal was friendly, took it all in "
 "stride, and seemed to understand what the pats and strokes of the dwarf’s "
 "hands meant."
 msgstr ""
@@ -2161,8 +2228,9 @@ msgid "Who in the earth’s guts are you?"
 msgstr "你他妈是谁？"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"I thought we left the elves behind at the gates way back when... It seems we "
+"I thought we left the elves behind at the gates way back when... it seems we "
 "have two enemies now!"
 msgstr "我还以为……那会儿我们把精灵都关在门外了！看来现在我们有两个敌人了！"
 
@@ -2185,9 +2253,10 @@ msgstr ""
 "钱！"
 
 #. [message]: speaker=Glildur
+#, fuzzy
 msgid ""
-"How about this — We defeat these crazed cave-dwellers, then you keep the "
-"spoils and their territory and we keep the ruby?"
+"How about this — we defeat these crazed cave-dwellers, then you keep the "
+"spoils and their territory, and we keep the ruby?"
 msgstr ""
 "这样吧——我们一起打败这些疯狂的穴居人，之后战利品和他们的领地归你们，红宝石归"
 "我们，怎么样？"
@@ -2205,16 +2274,18 @@ msgid "Ah, they don’t scare me! We can take both of them!"
 msgstr "啊，他们吓不倒我！我们可以对付他们两拨人！"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
 "Don’t be a fool! We can’t take the elves, and it was a mistake to attack "
-"these dwarves, but if we have to fight we should retreat once we get what we "
-"came for, the tools!"
+"these dwarves, but if we have to fight, we should retreat once we get what "
+"we came for, the tools!"
 msgstr ""
 "别傻了！我们对付不了精灵，而且攻击这些矮人也是错的，但如果只能战斗，那一达到"
 "目的就该撤退——拿到工具！"
 
 #. [message]: speaker=Durstorn
-msgid "Ha! Now we can get those tools easily, and go back to our own caves."
+#, fuzzy
+msgid "Ha! Now we can easily take their tools back to our own caves."
 msgstr "哈！现在我们可以轻松拿到工具，然后返回我们自己的洞穴了。"
 
 #. [message]: speaker=Thursagan
@@ -2225,15 +2296,17 @@ msgstr "那你打算怎么办到呢？一大群精灵在这山上涌动，要杀
 
 #. [message]: speaker=Durstorn
 msgid ""
-"You are right... well, we will be able to break out eventually, and while "
-"we’re here, we’ll be able to finally make the sceptre."
+"I'm aware! Close the gates and keep them out! It should be easy to come up "
+"with a plan to outwit them later. Meanwhile, since the Shorbear's rune "
+"workshops are in here, you and your runecrafters might as well make the "
+"sceptre now."
 msgstr ""
-"你说得对……好吧，我们最终一定能突围的。现在我们在这儿，终于可以打造权杖了。"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
-"Well, back to the battle — we are all in the caves, but there are still "
-"enemies in here also!"
+"Well, back to the battle — all of us are already inside, but there are still "
+"some enemy forces in here with us!"
 msgstr "好，再说回战斗——我们都进了洞，但这里还有敌人！"
 
 #. [message]: speaker=Durstorn
@@ -2242,21 +2315,24 @@ msgid ""
 msgstr "确实。干掉他们！确保没有更多敌人进来。然后我们就可以关上大门了。"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
-"We have driven all of the dwarves and elves out of these caves. They are not "
-"ours, though, and we can’t stay here forever."
+"We have driven all of the elves and Shorbear dwarves out of these caves. "
+"They are not ours, though, and we can’t stay here forever."
 msgstr ""
 "我们已经从洞里逐出了全部矮人和精灵。然而这些洞穴不是我们的，我们也不能一直呆"
 "在这里。"
 
 #. [message]: speaker=Durstorn
-msgid "True. I suspect these elves will try to besiege us here."
+#, fuzzy
+msgid "True. I suspect these elves will try to besiege us."
 msgstr "正确。我怀疑那些精灵会试图把我们围困在这里。"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
-"Well, back to the battle — we need everyone to get into the Shorbear caves. "
-"And then stop any enemies from coming in here."
+"Well, back to the battle — we need to get everyone into the Shorbear caves "
+"before we can close the gates."
 msgstr "好，再说回战斗——我们大家都得进入绍比尔洞穴里，然后阻止任何敌人进来。"
 
 #. [message]: speaker=Durstorn
@@ -2264,9 +2340,10 @@ msgid "Indeed. Everyone to the caves, and kill those still inside!"
 msgstr "确实。大家进洞，干掉那些还在洞里的敌人！"
 
 #. [message]: speaker=Durstorn
+#, fuzzy
 msgid ""
-"We have driven all of the dwarves and elves out of these caves! Now, seal "
-"the gates!"
+"We have driven all of the elves and Shorbear dwarves out of these caves! "
+"Now, seal the gates!"
 msgstr "我们已经把矮人和精灵都逐出洞了！现在，封上大门！"
 
 #. [message]: speaker=Glildur
@@ -2306,10 +2383,11 @@ msgstr ""
 "他路径可以出洞。但精灵也没法进入矮熊要塞，因为坚固的矮人之门关上了。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "During this time, Thursagan crafted the Sceptre of Fire, cutting the ruby "
-"himself with the Shorbear tools. Eventually the sceptre was crafted, but "
-"something was not right, no matter what enchantment of runes Thursagan used. "
+"himself with the Shorbear tools. Eventually, the sceptre was crafted, but "
+"something was not right no matter what enchantment of runes Thursagan used. "
 "To finish the sceptre, the dwarves needed to leave the cave."
 msgstr ""
 "在这段时间里，瑟萨冈用矮熊工具切割了红宝石，并打造了圣火权杖。权杖铸成了，但"
@@ -2325,10 +2403,11 @@ msgid "Move Alanin to the southern border east of the river"
 msgstr "移动阿拉宁至河东的南部边界"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"Well, Thursagan has reached a conclusion. He can’t make the sceptre with the "
-"materials he has here, but he has the final plans for it, and all the jewels "
-"and gold he needs. Shouldn’t we leave now?"
+"Well, Thursagan has reached a conclusion. He can’t finish the sceptre with "
+"the materials he has here, but he has the final plans for it, and all the "
+"jewels and gold he needs. Shouldn’t we leave now?"
 msgstr ""
 "恩，瑟萨冈得出了结论。在这里，他没办法用手头的原料来打造权杖，但他还有最后的"
 "设计图纸，还有所需的所有珠宝和黄金。现在我们是不是该离开了？"
@@ -2412,8 +2491,9 @@ msgid ""
 msgstr "如果你允许我的团队安全通过，我可以为你拿到红宝石，还有更多财宝。"
 
 #. [message]: speaker=Glildur
+#, fuzzy
 msgid ""
-"I see... Well, we will not be fooled by your haggling and false promises. "
+"I see... well, we will not be fooled by your haggling and false promises. "
 "You were very foolish to come out here alone."
 msgstr ""
 "我明白了……嗯，我们可不会被你的讨价还价和虚假承诺所迷惑。你独自跑来这里，可太"
@@ -2528,17 +2608,19 @@ msgid "Come out, dwarves, let’s get this over with!"
 msgstr "出来吧，矮人，我们把这事儿了了！"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
 "Alanin, ride south as fast as you can. Tell Haldric we are heading "
-"northeast, towards the old eastern mines, and if he wants his precious "
-"sceptre he should send forces to meet us there as soon as he can!"
+"northeast, towards the old eastern mines. And if he wants his precious "
+"sceptre, he should send forces to meet us there as soon as he can!"
 msgstr ""
 "阿拉宁，向南骑， 能多快就多快。告诉哈德里克我们会前往东北方的古老东矿。如果他"
 "想要他珍贵的权杖，就叫他尽快派军队去和我们汇合！"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
-"I have made it past those elves, but they will chase me, and elvish horses "
+"I have made it past these elves, but they will chase me, and elvish horses "
 "are faster than mine."
 msgstr "我穿过了精灵的封锁，但他们会来追我，而且精灵骑兵的速度比我快。"
 
@@ -2547,10 +2629,11 @@ msgid "Rugnur, I am going south. What should I tell Haldric?"
 msgstr "拉格纳，我要去南边了。我该和哈德里克说些什么？"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
 "Tell him to send forces north to aid us and fight the elves, but that we are "
-"probably going to die. We will run northeast towards the old eastern mines, "
-"and if he wants his sceptre intact he’d best send troops to meet us there."
+"probably going to die. We will run northeast towards the old eastern mines. "
+"And if he wants his sceptre intact, he’d best send troops to meet us there."
 msgstr ""
 "告诉他派军队来支援我们和精灵战斗，不过我们大概要死在这儿了。我们要去东北方，"
 "到古老的东矿，如果他想要他的权杖，最好派部队去那里和我们汇合。"
@@ -2587,9 +2670,10 @@ msgid "Wesnothian Outpost"
 msgstr "韦诺前哨站"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
 "Well, the elves are behind me for now, but their riders are fast and will "
-"catch up quick."
+"catch up quickly."
 msgstr "嗯，现在精灵还在我后面，但他们的骑兵很迅速，很快就会追上来了。"
 
 #. [message]: speaker=Alanin
@@ -2672,7 +2756,8 @@ msgid "Rolin"
 msgstr "罗林"
 
 #. [message]: speaker=Rolin   # wmllint: ignore
-msgid "We will certainly help any warrior of Wesnoth who needs our help!"
+#, fuzzy
+msgid "We will certainly help any warrior of Wesnoth in need!"
 msgstr "我们当然会帮助任何需要帮助的韦诺战士！"
 
 #. [message]: race=elf
@@ -2690,8 +2775,9 @@ msgstr "什么人？"
 
 #. [message]: speaker=Alanin
 #. dragoon = his unit type
+#, fuzzy
 msgid ""
-"I’m a dragoon, with Haldric II’s personal bodyguard. I was sent on a mission "
+"I’m a dragoon with Haldric II’s personal bodyguard. I was sent on a mission "
 "in the Northlands, and now elvish horsemen are chasing me. I barely evaded "
 "them."
 msgstr ""
@@ -2700,10 +2786,11 @@ msgstr ""
 
 #. [message]: speaker=Alanin
 #. cavalier = his unit type
+#, fuzzy
 msgid ""
-"I’m a cavalier, with Haldric II’s personal bodyguard. I was sent on a "
-"mission in the Northlands, and now elvish horsemen are chasing me. I barely "
-"evaded them."
+"I’m a cavalier with Haldric II’s personal bodyguard. I was sent on a mission "
+"in the Northlands, and now elvish horsemen are chasing me. I barely evaded "
+"them."
 msgstr ""
 "我是一名弩骑士，哈德里克二世的御前侍卫。我被派到北陆履行使命，现在精灵骑兵正"
 "在追击我。我好不容易才逃脱。"
@@ -2729,8 +2816,9 @@ msgid "Khrakrahs"
 msgstr "柯拉卡斯"
 
 #. [part]
+#, fuzzy
 msgid ""
-"Thus Alanin escaped from his elvish pursuers. But the dwarves were not so "
+"Thus, Alanin escaped from his elvish pursuers. But the dwarves were not so "
 "lucky, for the section of the old eastern mines that they reached in their "
 "flight had become the lair of the dragon Khrakrahs."
 msgstr ""
@@ -2833,7 +2921,8 @@ msgid ""
 msgstr "我宁愿面对一头强大的龙也不愿面对数以百记的能打的精灵。继续前进！"
 
 #. [message]: speaker=Khrakrahs
-msgid "Stop that! You leave my pets alone!"
+#, fuzzy
+msgid "Stop that! Leave my pets alone!"
 msgstr "停下！别碰我的宠物！"
 
 #. [message]: speaker=unit
@@ -2877,15 +2966,17 @@ msgid "Raaaawww! Loook! Forge heeeere!"
 msgstr "咕咕咕咕咕！看啊啊啊！炉呜呜呜呜呜子！"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
-"It looks like a forge, heated by the lava. It looks magic, and it looks hot "
-"enough to make the Sceptre."
+"It looks like a forge, heated by the lava. It also looks enchanted... and "
+"hot enough to make the Sceptre."
 msgstr "看起来像个熔炉，是熔岩加热的。看似有魔法之力，而且热得可以打造权杖。"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
 "Look, I’ve found something here. It looks like a forge, heated by the lava. "
-"It looks magic, and it looks hot enough to make the sceptre."
+"It also looks enchanted... and hot enough to make the sceptre."
 msgstr ""
 "看，我发现了什么。看起来像个熔炉，是熔岩加热的。看似有魔法之力，而且热得可以"
 "打造权杖。"
@@ -2918,8 +3009,9 @@ msgid ""
 msgstr "我完成了工作。现在这是真正的圣火权杖了，一件强力的魔法物品。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"Good! Now, let’s get out of this cave, before the elves, dwarves or lizards "
+"Good! Now, let’s get out of this cave, before the elves, dwarves or wyrms "
 "kill us all!"
 msgstr "很好！现在，在精灵，矮人或者蜥蜴杀掉我们之前，得从这洞里出去！"
 
@@ -2977,7 +3069,8 @@ msgid ""
 msgstr "愤怒的兽人掏出一块一面印有发光符文的石片，并向敌人挥舞。"
 
 #. [message]: speaker=Gathor
-msgid "Nothing!? Even this magical piece of crap lets me down!"
+#, fuzzy
+msgid "Nothing!? Even this magical piece of troll dung lets me down!"
 msgstr "啥都没发生！？连这片魔法垃圾都让我失望！"
 
 #. [message]: speaker=narrator
@@ -3009,6 +3102,16 @@ msgid ""
 "Krawg puzzled over a stone tile sitting loose on the small mesa. Beneath a "
 "spattering of bat guano, there was a glowing rune. Krawg didn’t know what to "
 "make of it, so the gryphon left it for now."
+msgstr ""
+"克拉格对着小山上散落的一块石片思索着。在溅开的蝙蝠粪便下面，有发光的符文。克"
+"拉格不知该怎么理解，便暂时把它放在一边。"
+
+#. [message]: speaker=$unit.id
+#, fuzzy
+msgid ""
+"The gryphon rider puzzled over a stone tile sitting loose on the small mesa. "
+"Beneath a spattering of bat guano, there was a glowing rune. Neither mount "
+"nor rider knew what to make of it, so they left it for now."
 msgstr ""
 "克拉格对着小山上散落的一块石片思索着。在溅开的蝙蝠粪便下面，有发光的符文。克"
 "拉格不知该怎么理解，便暂时把它放在一边。"
@@ -3070,11 +3173,82 @@ msgstr ""
 msgid "Yah! Krah!"
 msgstr "呀！克拉！"
 
+#. [message]: speaker=$unit.id
+msgid "There’s a tablet with a rune here!"
+msgstr ""
+
+#. [message]: speaker=Thursagan
+#, fuzzy
+msgid ""
+"Yes, that must be the last rune sealing the volcano. Smash it, like the "
+"others!"
+msgstr "对，克拉格，那一定是封印着火山的最后符文。砸碎它，就像砸碎其他的一样！"
+
+#. [message]: speaker=$unit.id
+msgid "The resulting eruption will lead to all of your deaths!"
+msgstr ""
+
+#. [message]: speaker=Thursagan
+#, fuzzy
+msgid ""
+"Just do it! You riders have a chance to escape, our enemies cannot. We knew "
+"that death was likely when we fled here, just go!"
+msgstr ""
+"动手啊，你个笨鸟！你能逃的，敌人不能。我们逃到这里时就知道很可能会死，你走"
+"啊！"
+
+#. [message]: speaker=Rugnur
+#, fuzzy
+msgid "Wait! If the riders can escape, shouldn’t we give them the Sceptre?"
+msgstr "等等！如果克拉格能逃，我们是不是应该把权杖给他？"
+
+#. [message]: speaker=Thursagan
+#, fuzzy
+msgid ""
+"No, too risky, even if they drop it in King Haldric’s hand. You’ve seen how "
+"the elves have behaved, you’ve seen how your lord behaved. The corrupting "
+"emissions from the ruby are nothing compared to the greed already out there, "
+"and my crafted gold cage does nothing to contain that."
+msgstr ""
+"不，就算克拉格能把它丢到哈德里克国王手里，也太冒险了。你也看到了精灵怎么做"
+"的，还看到了你的领主怎么做的。与已经存在的贪婪相比，红宝石发散出的腐化之力根"
+"本算不了什么。而我精心制作的黄金囚笼完全没法遏制这种贪婪。"
+
+#. [message]: speaker=Thursagan
+#. "smash it" refers to a stone tablet, not the Sceptre.
+#, fuzzy
+msgid ""
+"Durstorn and Glildur have both convinced me that the time is not right for "
+"the Sceptre of Fire, best that it rests with us for a while. Now, smash it!"
+msgstr ""
+"达司拓恩和基利尔达两人已经向我证明了，现在还不到圣火权杖现世之时，最好让它和"
+"我们一起呆上一段时间。现在走吧，克拉格！"
+
+#. [message]: speaker=$unit.id
+msgid "Alright, there’s no turning back now!"
+msgstr ""
+
 #. [floating_text]
 msgid "Smash!"
 msgstr "哗啦！"
 
 #. [message]: speaker=narrator
+#. Krawg survives in both variants of this paragraph, but this one has an extra sentence to explain the gryhon riders’ fate. Surrounding events imply that flying units can escape, but the plot requires all dwarves to die.
+#, fuzzy
+msgid ""
+"Once the magic seal capping the throat of the volcano was removed, lava and "
+"toxic gas exploded upward, killing everyone inside and sealing them in a "
+"tomb of hot, flowing rock. Krawg and the gryphon riders flew towards a hole "
+"in the roof but it was only Krawg who managed to outrun the explosion and "
+"emerge as the sole survivor. The Sceptre of Fire would wait, unharmed by the "
+"lava, until some day far in the future."
+msgstr ""
+"封住火山喉的魔法封印一破碎，熔岩和有毒气体便向上爆冲，杀死了里面的所有人，将"
+"他们封死在炎热的流岩墓穴之中。圣火权杖在熔岩中安然无恙，它将等待下去，直到未"
+"来的某一天。"
+
+#. [message]: speaker=narrator
+#. Krawg survives in both variants of this paragraph, this one is shown if the player didn’t have any gryphon riders. Surrounding events imply that flying units can escape, and in this variant Krawg is the only flying unit.
 msgid ""
 "Once the magic seal capping the throat of the volcano was removed, lava and "
 "toxic gas exploded upward, killing everyone inside and sealing them in a "
@@ -3097,10 +3271,11 @@ msgid ""
 msgstr "啊！我们并不是在地下深处徘徊，这是手工制作的石头！不过它非常古老……"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
 "This is some sort of notebook... I can’t read the text, but there are "
 "drawings showing three arcs spanning what must be the volcano. There are "
-"three symbols for these arcs... Well, it must describe the volcano somehow, "
+"three symbols for these arcs... well, it must describe the volcano somehow, "
 "but I can’t puzzle it out now."
 msgstr ""
 "这是种笔记本……我看不懂文字，但上面有画，三条弧线横跨了肯定代表火山的图形。这"
@@ -3143,22 +3318,36 @@ msgid "Yes, an interesting plan. How do you propose we do this?"
 msgstr "是了，这计划有趣。你建议我们怎么做？"
 
 #. [message]: speaker=Thursagan
+#, fuzzy
 msgid ""
-"Look up, if this were a normal volcano, you’d see stars and sky. Instead, "
-"there’s a high ceiling, shaped like a cone. At the center of this chamber, "
-"we’ll find what is holding back the lava flow, and there lies our chance."
+"Look up! If this were a normal volcano, you’d see stars and sky. Instead, "
+"there’s a high ceiling, shaped like a cone. This means that something must "
+"be holding back the volcano’s lava flow. This thing, if it exists, could be "
+"our chance to trigger an eruption. The first place I would consider "
+"investigating would be the center of this chamber."
 msgstr ""
 "抬头看，如果这是座普通火山，你应该会看到星星和天空。但这里能看到的却是圆锥形"
 "的高耸天花板。在这个密室的中心，我们会找到正在阻止熔岩流动的东西，那就是我们"
 "的机会。"
 
 #. [message]: speaker=Rugnur
+#, fuzzy
 msgid ""
-"I see, yes. Quite a gamble, yet what choice do we have? We will continue to "
-"explore until we find it."
+"I see, yes. Quite a gamble, yet what choice do we have? Let’s explore and "
+"hope we find something like what you describe."
 msgstr ""
 "好的，我明白了。挺冒险的，但还有别的选择吗？我们继续探索，直到找到那个东西为"
 "止。"
+
+#. [message]: speaker=Krawg
+#, fuzzy
+msgid ""
+"Krah!\n"
+"<i>(Looks about the cave, adopts a hostile stance, then glances back at the "
+"dwarves.)</i>"
+msgstr ""
+"是的……\n"
+"<b>(迅速将目光转向附近丛林，改为敌对姿态，而后回头瞥向矮人。）</i>"
 
 #. [message]: speaker=Thursagan
 msgid ""
@@ -3199,18 +3388,23 @@ msgid "Damnation! I almost had it... but now I join Landar..."
 msgstr "该死！我差点就拿到它了……但现在我要去见兰达尔了……"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
-"This must be the center of the volcano! It’s plugged up with this enchanted "
-"courtyard?"
+"This must be the center of the volcano! The lava is blocked just as you "
+"surmised, Thursagan! It’s plugged up with this... enchanted courtyard?"
 msgstr "这肯定是火山的中心！它被这附魔的庭院堵住了？"
 
 #. [message]: speaker=Thursagan
-msgid "Aye, it is, we need to break the enchantment somehow."
+#, fuzzy
+msgid ""
+"Aye, it is enchanted; I can tell by those runes. We need to break the "
+"enchantment somehow."
 msgstr "是的，我们得设法破除魔法。"
 
 #. [message]: speaker=unit
+#, fuzzy
 msgid ""
-"It’s very hot here, above the lava. This bridge also seems rather delicate, "
+"It’s very hot here, above the lava. This bridge also seems rather delicate — "
 "I’d better not loiter here."
 msgstr "这里在熔岩上，热死了。这座桥似乎也很脆弱，我最好别在这儿闲逛。"
 
@@ -3258,8 +3452,9 @@ msgid "Epilogue"
 msgstr "尾声"
 
 #. [part]
+#, fuzzy
 msgid ""
-"And thus Rugnur died a glorious death, in the eyes of the dwarven sages — "
+"And thus, in the eyes of the dwarven sages, Rugnur died a glorious death — "
 "and with him, Thursagan, greatest of the Runesmiths, whose legacy was soon "
 "lost. But our tale is not yet complete. For Alanin lived still, as did Krawg "
 "the Gryphon."
@@ -3347,22 +3542,25 @@ msgstr ""
 "吗？"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
-"My Lord, the dwarves lead by Rugnur are dead, slain by fire and smoke as "
-"lava poured out of one of the mountains. I saw the eruption from afar as I "
-"was returning to you."
+"My Lord, the dwarves led by Rugnur are dead, slain by fire and smoke as lava "
+"poured out of one of the mountains. I saw the eruption from afar as I was "
+"returning to you."
 msgstr ""
 "陛下，拉格纳率领的矮人都死了，山中涌出了熔岩，他们都死于火焰和浓烟。我在回国"
 "路上远远看见了火山喷发。"
 
 #. [message]: speaker=Haldric II
-msgid "Why were you returning without the sceptre, then?"
+#, fuzzy
+msgid "Why were you returning without the Sceptre, then?"
 msgstr "那你回来时为何不带上权杖？"
 
 #. [message]: speaker=Alanin
+#, fuzzy
 msgid ""
 "We had been besieged by elves, in a dwarvish castle that was not Rugnur’s. "
-"Rugnur sent me back, with the message that the sceptre was near completion, "
+"Rugnur sent me back, with the message that the Sceptre was near completion, "
 "but he and all the rest of the dwarves went into the caves south of the "
 "Arkan-thoria, and were immediately followed by hundreds of elves."
 msgstr ""
@@ -3371,8 +3569,9 @@ msgstr ""
 "灵紧追他们。"
 
 #. [message]: speaker=Haldric II
+#, fuzzy
 msgid ""
-"If the sceptre was not completed in your sight, what makes you so sure it "
+"If the Sceptre was not completed in your sight, what makes you so sure it "
 "exists?"
 msgstr "如果你没亲眼看到权杖完工，你怎么能这么肯定它存在呢？"
 
@@ -3420,13 +3619,15 @@ msgid "Krah! Here!"
 msgstr "克拉！这里！"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"Krawg reached over his back with his beak, and brought out a scorched "
+"Krawg reached over his back with his beak and brought out a scorched "
 "parchment, which he dropped at the feet of the king."
 msgstr "克拉格把喙伸到背上，取出一张烧焦的羊皮纸，丢在国王脚下。"
 
 #. [message]: speaker=Alanin
-msgid "Those are the plans for the sceptre, or at least an earlier version."
+#, fuzzy
+msgid "Those are the plans for the Sceptre, or at least an earlier version."
 msgstr "这些是权杖的打造计划，至少是早期版本。"
 
 #. [message]: speaker=Haldric II
@@ -3449,8 +3650,9 @@ msgstr ""
 "圣火权杖存在一事，记录在史书上。"
 
 #. [message]: speaker=Haldric II
+#, fuzzy
 msgid ""
-"Your advice is grating to my ears, not what I wish to hear... And yet, I see "
+"Your advice is grating to my ears, not what I wish to hear... and yet, I see "
 "the wisdom in it, and I agree. Alanin, you’ve served in the army long enough "
 "to retire, and even if you hadn’t, you’ve seen enough combat. Go back to "
 "your village, and I shall see that you and your family live well and enjoy "
@@ -3465,8 +3667,9 @@ msgid "Thank you, my lord."
 msgstr "谢谢您，陛下。"
 
 #. [message]: speaker=narrator
+#, fuzzy
 msgid ""
-"The sceptre would not be found until many generations after Haldric II, in "
+"The Sceptre would not be found until many generations after Haldric II, in "
 "the time of Asheviere the Dark Queen. During that time, it remained in the "
 "caves of the Northlands, occasionally moved around by orcs who never "
 "understood its true power."
@@ -3523,11 +3726,12 @@ msgid "Cave Wyrm"
 msgstr "洞爬龙"
 
 #. [unit_type]: id=Cave Wyrm, race=monster
+#, fuzzy
 msgid ""
-"Cave Wyrms are strange beasts, basically stout serpents with wings, but no "
-"legs.  They are relatively rare, and their presence is attributed to some "
-"eccentric wizard or dragon.  Mature Wyrms have excellent control of their "
-"fire breath attack, as if they are themselves miniature dragons."
+"Cave Wyrms are strange beasts, stout serpents with wings, but no legs. They "
+"are relatively rare, and their presence is attributed to some eccentric "
+"wizard or dragon. Mature Wyrms have excellent control of their fire breath "
+"attack, as if they are themselves miniature dragons."
 msgstr ""
 "洞爬龙是奇怪的野兽，基本上是有翅膀的粗壮蛇类，但没有腿。它们比较罕见，其存在"
 "归因于古怪的巫师或者龙。成熟爬龙能很好地控制火焰吐息攻击，就好像它们是缩小的"
@@ -3546,10 +3750,11 @@ msgid "Cave Wyrmlet"
 msgstr "幼洞爬龙"
 
 #. [unit_type]: id=Cave Wyrmlet, race=monster
+#, fuzzy
 msgid ""
-"Cave Wyrms are strange beasts, basically stout serpents with wings, but no "
-"legs.  They are relatively rare, and their presence is attributed to some "
-"eccentric wizard or dragon.  The young are small, but hungry and aggressive."
+"Cave Wyrms are strange beasts, stout serpents with wings, but no legs. They "
+"are relatively rare, and their presence is attributed to some eccentric "
+"wizard or dragon. The young are small, but hungry and aggressive."
 msgstr ""
 "洞爬龙是奇怪的野兽，基本上是有翅膀的粗壮蛇类，但没有腿。它们比较罕见，其存在"
 "归因于古怪的巫师或者龙。幼年爬龙很小，但很容易饿，而且很有攻击性。"
@@ -3584,13 +3789,14 @@ msgid "Red Wyrm"
 msgstr "红爬龙"
 
 #. [unit_type]: id=Red Wyrm, race=monster
+#, fuzzy
 msgid ""
-"Red Wyrms are strange beasts, basically stout serpents with wings, but no "
-"legs.  Their skin is red and rock-like, impervious to fire but more brittle "
-"than regular scales or any other lizard armor.  They are relatively rare, "
-"and their presence is attributed to some eccentric wizard or dragon.  Mature "
-"Wyrms have excellent control of their fire breath attack, as if they are "
-"themselves miniature dragons."
+"Red Wyrms are strange beasts, stout serpents with wings, but no legs. Their "
+"skin is red and rock-like, impervious to fire but more brittle than regular "
+"scales or any other lizard armor. They are relatively rare, and their "
+"presence is attributed to some eccentric wizard or dragon. Mature Wyrms have "
+"excellent control of their fire breath attack, as if they are themselves "
+"miniature dragons."
 msgstr ""
 "红爬龙是奇怪的野兽，总的说来是有翅膀的粗壮蛇类，但没有腿。它们的皮肤是红色"
 "的，像岩石一样，不透火，但比普通的鳞片或其他蜥蜴的外甲更脆。它们比较罕见，是"
@@ -3602,12 +3808,13 @@ msgid "Red Wyrmlet"
 msgstr "幼红爬龙"
 
 #. [unit_type]: id=Red Wyrmlet, race=monster
+#, fuzzy
 msgid ""
-"Red Wyrms are strange beasts, basically stout serpents with wings, but no "
-"legs, and their skin is like some reddish rock.  The rocky skin seems to "
-"protect them from fire, but is quite brittle.  They are relatively rare, and "
-"their presence is attributed to some eccentric wizard or dragon.  The young "
-"are small, but hungry and aggressive."
+"Red Wyrms are strange beasts, stout serpents with wings, but no legs, and "
+"their skin is like some reddish rock. The rocky skin seems to protect them "
+"from fire, but is quite brittle. They are relatively rare, and their "
+"presence is attributed to some eccentric wizard or dragon. The young are "
+"small, but hungry and aggressive."
 msgstr ""
 "红爬龙是奇怪的野兽，基本上是有翅膀的粗壮蛇类，但没有腿。它们的皮肤像岩石一样"
 "不透火，但比普通的鳞片或其他蜥蜴的外甲更脆。它们比较罕见，其存在归因于古怪的"
@@ -3671,7 +3878,8 @@ msgid "Accuracy"
 msgstr "精准"
 
 #. [option]
-msgid "Increases ranged weapon accuracy 20%"
+#, fuzzy
+msgid "Increases ranged weapon accuracy by 20%"
 msgstr "使远程武器的精准度增加20%"
 
 #. [option]
@@ -3704,7 +3912,8 @@ msgid "Adds 1 MP"
 msgstr "增加1点移动点数"
 
 #. [option]
-msgid "Increases ranged weapon accuracy 10%"
+#, fuzzy
+msgid "Increases ranged weapon accuracy by 10%"
 msgstr "使远程武器的精准度增加10%"
 
 #. [option]

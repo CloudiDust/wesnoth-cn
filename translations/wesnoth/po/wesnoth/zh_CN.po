@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-16 21:00+0300\n"
+"POT-Creation-Date: 2022-05-29 13:14+0300\n"
 "PO-Revision-Date: 2022-04-22 17:03+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -170,6 +170,7 @@ msgstr ""
 "在游戏的对话区域内显示关于废弃API的警告消息。即使禁用此功能，这些消息也仍然会"
 "显示在日志中。以及，废弃信息日志域控制着所显示的消息的数量。"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
@@ -184,6 +185,7 @@ msgstr "风暴三叉戟"
 msgid "Gold carryover:"
 msgstr "带走金币："
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 msgid "Notes:"
@@ -3402,6 +3404,7 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -3426,10 +3429,12 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -3750,6 +3755,7 @@ msgstr "是"
 msgid "No"
 msgstr "否"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Screenshot"
 msgstr "截屏"
@@ -3774,6 +3780,7 @@ msgstr "Oldania ADF Std,Droid Sans Fallback"
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "（注：在新代码中，你应当使用$replacement|作为替代）"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 msgid "Invalid deprecation level $level (should be 1-4)"
 msgstr "无效废弃级别$level|（应为1-4）"
@@ -3782,22 +3789,27 @@ msgstr "无效废弃级别$level|（应为1-4）"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "无效废弃级别（应为1-4）"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3810,10 +3822,12 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 msgid "input"
 msgstr "输入"
 
+#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -3832,11 +3846,11 @@ msgstr[1] "（还剩余$remaining_turns|回合）"
 msgid "$percent|% of gold carried over to the next scenario."
 msgstr "$percent|%的金币将会带到下一场景。"
 
-#. [modification]: id=plan_unit_advance
+#. [modification]: id=plan_unit_advance, type=mp
 msgid "Plan Unit Advance"
 msgstr "计划单位升级"
 
-#. [modification]: id=plan_unit_advance
+#. [modification]: id=plan_unit_advance, type=mp
 msgid ""
 "When playing a multiplayer game, you do not control what a unit advances to "
 "if it advances on another player's turn. With this modification you can set "
@@ -5260,6 +5274,9 @@ msgstr "显示版本信息。"
 msgid "Request information about a nickname."
 msgstr "请求一个昵称的有关信息。"
 
+msgid "Clear chat history."
+msgstr "清除聊天历史。"
+
 msgid "Unknown debug level: '$level'."
 msgstr "未知调试级别：“$level|”。"
 
@@ -5379,8 +5396,14 @@ msgid ""
 "Error loading default core game configuration files. The game will now exit."
 msgstr "载入默认核心游戏配置文件时出错。现在游戏将退出。"
 
-msgid "Use [modify_unit_type]\n"
-msgstr "使用[modify_unit_type]\n"
+#. TRANSLATORS: For example, 'Cuttle Fish' units will not be able to advance to 'Kraken'.
+#. The substituted strings are unit ids, not translated names; hopefully any add-ons
+#. that trigger this will be quickly fixed and stop triggering the warning.
+msgid ""
+"Error: [advancefrom] no longer works. ‘$lower_level’ units will not be able "
+"to advance to ‘$higher_level’; please ask the add-on author to use "
+"[modify_unit_type] instead."
+msgstr ""
 
 msgid "instead, use the macro with the same name in the [campaign] tag"
 msgstr "作为替代，在 [campaign]标签中使用同名的宏"
@@ -6179,9 +6202,6 @@ msgstr "查询某一阵营的控制状态。"
 
 msgid "<side>"
 msgstr "<阵营>"
-
-msgid "Clear chat history."
-msgstr "清除聊天历史。"
 
 msgid "Debug foreground terrain."
 msgstr "调试前景地形。"

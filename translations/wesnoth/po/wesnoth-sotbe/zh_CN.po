@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-02 18:02 UTC\n"
+"POT-Creation-Date: 2022-05-08 01:42 UTC\n"
 "PO-Revision-Date: 2022-04-22 16:49+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -183,11 +183,12 @@ msgstr ""
 "毁了。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Retaliating, the orcs systematically slaughtered human colonies and villages "
 "on their lands. Then, Earl Lanbec’h — the most powerful human warlord of the "
-"North — determined to abolish the orcish menace raised an army and conferred "
-"leadership of it to his son-in-law Baron Alber."
+"North — determined to abolish the orcish menace, raised an army and "
+"conferred leadership of it to his son-in-law Baron Alber."
 msgstr ""
 "作为报复，兽人有计划地血洗了人类殖民地。然后，兰贝契伯爵——北方势力最大的人类"
 "军阀，划出被兽人威胁的土地并召集了一只部队，交给他的义子阿尔伯男爵率领前去镇"
@@ -545,8 +546,9 @@ msgid "I mean, we could defeat them easily but it would just slow us down."
 msgstr "俺的意思是，俺们对付它们是简单，但是会拖慢俺们啊。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"We could, but then again, if we crush them then we can loot their treasury "
+"We could, but then again, if we crush them, then we can loot their treasury "
 "and their dwellings. The gold will be useful."
 msgstr ""
 "我们是可以，但是如果我们打败他们，我们就可以洗劫他们的财产了。这些钱对日后应"
@@ -641,11 +643,12 @@ msgid "Argh! I die!"
 msgstr "啊！我要死了！"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"You were warned, dwarf. Riders, spread out of the area and collect what you "
-"can from each of these houses. If anyone refuses to pay, tie them up and "
-"take it anyway. Let them know that they live only on my good graces. I’ll "
-"take the army to Barag Gór. Catch up when you’re done."
+"You were warned, dwarf. Riders, spread out over the area and collect what "
+"you can from each of these houses. If anyone refuses to pay, tie them up and "
+"take what they have anyway. Let them know that they live only on my good "
+"graces. I’ll take the army to Barag Gór. Catch up when you’re done."
 msgstr ""
 "早先警告过你们了，矮人。骑兵们，把他们抢个精光。谁不给钱就绑起来，搜刮完以后"
 "走人。让他们知道留活口算是我发慈悲了。我领队去霸拉戈·高，你们抢完以后跟上。"
@@ -664,9 +667,10 @@ msgstr ""
 "可以看见远处的霸拉戈·高的城墙。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Blemaker, many thanks for your help in this fight. Would you like to join us "
-"in our journey with your son? You are a powerful warrior, and you would be "
+"Blemaker, many thanks for your help in this fight. Would you and your son "
+"like to join us in our journey? You are a powerful warrior, and you would be "
 "of great help."
 msgstr ""
 "布列马克，非常感谢你在战斗中帮助我们。你愿意和儿子一同加入我们的旅程吗？你是"
@@ -867,9 +871,10 @@ msgid ""
 msgstr "人类贿赂了精灵来抓萨满给他们。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "Over my dead body! The shamans of the Great Council are the only people who "
-"can call up the Great Horde. If they are captured then all the orcs on this "
+"can call up the Great Horde. If they are captured, then all the orcs on this "
 "continent would surely be doomed."
 msgstr ""
 "跨过我的尸首再说！评议会的萨满是唯一可以召集大部落的人。如果他们被俘，整个大"
@@ -1013,10 +1018,11 @@ msgid "Ma-Rana"
 msgstr "玛-拉纳"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Kapou’e and the shamans rested and discussed the matter for three days. It "
 "was finally decided that it might be necessary to call up the Great Horde to "
-"deal with this massive human incursion. However, in order to do that the "
+"deal with this massive human incursion. However, in order to do that, the "
 "entire Great Council would have to gather."
 msgstr ""
 "卡破尔和萨满休整三天，讨论了这件事。他们终于决定召唤大部落来对抗此次大规模人"
@@ -1075,8 +1081,9 @@ msgid "No way! Grüü want to crush some undead."
 msgstr "不要！咕噜要扁亡灵。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Grüü is right. It is not wise to let these undead remain here cutting off "
+"Grüü is right. It is not wise to let these undead remain here, cutting off "
 "our supply lines and path of retreat. In these days of turmoil, we don’t "
 "know what lies ahead, so it is best not to leave any threats in our rear."
 msgstr ""
@@ -1369,10 +1376,11 @@ msgstr ""
 "射它们。不过我也希望不要遇到它们。"
 
 #. [message]: speaker=Pirk
+#, fuzzy
 msgid ""
 "I wouldn’t worry about the scorpions right now, I would worry about getting "
 "out of this sandstorm! These things can last for weeks, and if we aren’t "
-"buried alive by all the sand we will die of hunger and thirst."
+"buried alive by all the sand, we will die of hunger and thirst."
 msgstr ""
 "我现在倒是暂时不担心蝎子，我担心我们离不开这可恶的沙暴！这些活见鬼的沙子可能"
 "会刮几个星期呢，而且我们就算不被活埋也会饿死渴死。"
@@ -1386,7 +1394,8 @@ msgid "What?! Through all this chaos?!"
 msgstr "什么？！穿过这大一片沙暴吗？！"
 
 #. [message]: speaker=Kapou'e
-msgid "We don’t have any other choice. If we remain here we’ll die."
+#, fuzzy
+msgid "We don’t have any other choice. If we remain here, we’ll die."
 msgstr "我们别无选择。留在这里必死无疑。"
 
 #. [message]: speaker=Kapou'e
@@ -1659,6 +1668,7 @@ msgid "As for this weakling, I’ll personally behead him."
 msgstr "至于这个软蛋，我要亲手剁下他的脑袋。"
 
 #. [message]: speaker=second_unit
+#. In this string, the speaker is male while the person described as a "weakling" is female.
 msgid "female^With pleasure. But what should I do with this weakling?"
 msgstr "好的。但我要怎么处置这个软蛋？"
 
@@ -1823,10 +1833,11 @@ msgid "But my people..."
 msgstr "但是我的人民……"
 
 #. [message]: speaker=Echarp
+#, fuzzy
 msgid ""
 "You don’t understand. Orcs have been divided for ages. The only one who gave "
-"us some unity was your father, Black-Eye Karun. Hearing rumors of your "
-"exploits, we understood you are a worthy son of your father."
+"us some unity was your father, Black-Eye Karun. When we heard rumors of your "
+"exploits, we understood that you are a worthy son of your father."
 msgstr ""
 "你不理解。兽族已经分裂了几个世纪了。你的父亲黑眼卡伦，是唯一给予了我们些许团"
 "结的人。我们从传言中听闻了你的功绩，相信你一定是个不辱父名的儿子。"
@@ -1857,16 +1868,18 @@ msgstr ""
 "再也不会安全了。你是唯一能够帮助我们坚守普雷斯提姆的人！"
 
 #. [message]: speaker=Pirk
+#, fuzzy
 msgid ""
 "Go defend Prestim, Kapou’e. In the meantime, now that the Council is "
-"complete again, we will decide. We may have to form the Great Horde again, "
-"and give you the leadership of it."
+"complete again, we will decide. We may have to form the Great Horde again "
+"and make you its leader."
 msgstr ""
 "去保卫普雷斯提姆吧，卡破尔。与此同时，既然评议会已经重聚，那我们会作出决定"
 "的。我们可能得再次组成大部落，并授予你最高领导权。"
 
 #. [message]: speaker=Shan Taum
-msgid "Nooo! Don’t kill me, I surrender to you little earthworm."
+#, fuzzy
+msgid "Nooo! Don’t kill me, I surrender to you, little earthworm."
 msgstr "不不不！别杀我，我向你这烂蚯蚓投降。"
 
 #. [scenario]: id=10_Saving_Inarix
@@ -1905,10 +1918,11 @@ msgid "Plonk"
 msgstr "普隆克"
 
 #. [message]: speaker=Plonk
+#, fuzzy
 msgid ""
 "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The "
 "fortified bridge over the River Bork was taken this morning by a small "
-"commando of elves, we have already tried to assault it twice without success."
+"commando of elves. We have already tried to assault it twice without success."
 msgstr ""
 "援军！不管你是谁，欢迎来到普雷斯提姆！伯克河上的桥垒在这个早上被一小队精灵突"
 "击队攻占了，我们已经两次试图发动夺还袭击，但都失败了。"
@@ -1935,9 +1949,10 @@ msgstr ""
 "们必须把南边的桥摧毁。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"If Inarix falls prey to those humans then we won’t be able to count on their "
-"help in this struggle. We must do something!"
+"If Inarix falls prey to those humans, then we won’t be able to count on "
+"their help in this struggle. We must do something!"
 msgstr ""
 "假如依那利克斯成了人类的盘中餐，我们就不能指望他们帮助我们了。我们必须行动起"
 "来！"
@@ -1951,11 +1966,12 @@ msgid "It won’t be that easy! Our enemies are well entrenched."
 msgstr "哪有那么简单！敌人防御森严。"
 
 #. [message]: speaker=Plonk
+#, fuzzy
 msgid ""
-"We can sabotage the southern bridge to slow them down. When the bulk of the "
-"saurians have crossed, someone needs to go and light the barrel of oil we "
-"have set up beside the bridge to destroy it. Any warriors trapped on the "
-"bridge or on the other side of the river will perish!"
+"We can capture the southern bridge and keep it open for the saurians. When "
+"the bulk of them have crossed, someone needs to go and light the barrel of "
+"oil we have set up beside the bridge to destroy it. Any warriors trapped on "
+"the bridge or on the other side of the river will perish!"
 msgstr ""
 "当大队蜥蜴人过河后，我们就派一人炸掉南边的桥，遏制他们前进。所有困在桥上的或"
 "是在河的另一边的人都无法幸免！"
@@ -2015,7 +2031,9 @@ msgid "Hey, don’t light it up, I’m not safe!"
 msgstr "喂，别点火，我还没到地方呢！"
 
 #. [message]: speaker=Grüü
-msgid "Chief, we can’t be blowing the bridge before Inarix is here, can we?"
+#. To "blow up" means "to make something explode".
+#, fuzzy
+msgid "Chief, we can’t be blowing up the bridge before Inarix is here, can we?"
 msgstr "头儿，依那利克斯没到，俺们还不能炸桥吧？"
 
 #. [then]
@@ -2134,11 +2152,12 @@ msgid "Prestim’s walls are rock-hard, they’ll waste themselves on them."
 msgstr "普雷斯提姆的城墙像坚不可摧，他们只会在这上面浪费生命。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "I’m not that sure. Every fortress has its own weakness. Prestim’s walls are "
-"strong but long and it is difficult to defend them from many directions at "
+"strong but long, and it is difficult to defend them from many directions at "
 "once. This Earl Lanbec’h must know they can’t break through by only fording "
-"the river where the bridge previously stood so he must have a better plan "
+"the river where the bridge previously stood, so he must have a better plan "
 "than that."
 msgstr ""
 "我不确定。任何堡垒都自有它的弱点。普雷斯提姆的城墙虽然坚实，但同时也又长又难"
@@ -2160,19 +2179,21 @@ msgid "In four days. I fear it will be too late."
 msgstr "四天左右。我怕会太迟了。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "Fool! We can hold that long. But we have to have Prestim firmly in control "
 "when the shamans arrive with the Great Horde. We can’t let the humans "
-"establish a foothold on this side of the river."
+"establish a foothold on this side of the river..."
 msgstr ""
 "傻×！我们当然可以坚守四天。但是我们必须在萨满和大部落到来前牢牢控制住普雷斯提"
 "姆。我们绝不能让人类在河这边建立一个落脚处。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Because if we cannot decisively beat these humans, the other tribes won’t "
-"think us strong enough to lead them. Each chieftain will try to claim the "
-"leadership of the horde for themselves and the humans will be able to break "
+"... because if we cannot decisively beat these humans, the other tribes "
+"won’t think us strong enough to lead them. Each chieftain will try to claim "
+"leadership of the horde for themselves, and the humans will be able to break "
 "through our defenses."
 msgstr ""
 "我们如果不能在此地决定性的击败人类，其他部落就不会认可我们的领导力。每个部落"
@@ -2236,7 +2257,8 @@ msgid ""
 msgstr "看啊，那帮傻×兽人开始起内讧了！现在我们的机会来了，全体出动！"
 
 #. [message]: speaker=Gork
-msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
+#, fuzzy
+msgid "Here we are! Hold on Prestim, we will help you push them to the river!"
 msgstr "我们来了！守住普雷斯提姆，我们来把他们推到河里去！"
 
 #. [message]: speaker=Earl Lanbec'h
@@ -2293,38 +2315,42 @@ msgstr ""
 "伴随着大部落的到来，人类的撤退同时进行着，联合的兽人军团建立了战争议会。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "After a fair amount of squabbling — for some of the older warlords were "
 "reluctant to let this young upstart lead them — and a few consequent "
-"executions, the leadership of the horde was formally bestowed upon Kapou’e."
+"executions, leadership of the horde was formally bestowed upon Kapou’e."
 msgstr ""
 "经过相当数量的争吵——年长的军阀显然很不情愿承认这位年轻的领袖──最后还砍了几个"
 "头，大部落的领导权终于被正式赋予卡破尔。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Riders were dispatched in all directions to gather intelligence and to "
-"pinpoint the exact location of the hostile forces."
+"pinpoint the exact locations of hostile forces."
 msgstr "狼骑兵被派往各方收集情报，查明敌方军队的准确位置。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "The horde was then split into two forces. On the advice of the shamans, "
 "Kapou’e placed one force under the leadership of Shan Taum the Smug, who — "
 "despite his obnoxious nature — was a fierce and capable leader. He was sent "
 "to Bitok, the most southwestern orcish city, to cut off the humans already "
-"invading the harbor of Tirigaz, and to stop any further human incursion into "
-"orcish territory."
+"invading the port city of Tirigaz, and to stop any further human incursion "
+"into orcish territory."
 msgstr ""
 "大部落军队分兵两路。在萨满的建议下，卡破尔把一部分领导权交给自以为是的闪·陶姆"
 "——虽然其人有点可恶——但闪·陶姆确实是凶悍而称职的首领。他被派往毕脱克——兽人西南"
 "边陲边的城市，以切断已经从提里嘎兹登陆的人类，阻止人类继续侵略兽人领地。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"He sent the shamans, Pirk, Gork and Vraurk back to Borstep — a city just "
-"north of the Mourned Hills — to organize any remaining orcish forces as well "
-"as create an arms and supply depot."
+"Kapou’e sent the shamans, Pirk, Gork and Vraurk back to Borstep — a city "
+"just north of the Mourned Hills — to organize any remaining orcish forces as "
+"well as create an arms and supply depot."
 msgstr ""
 "他派出萨满皮尔克，古尔克和瓦鲁克返回哀悼山峦北部的城市博步，组织所有残余的兽"
 "人军队，同时建立军备补给点。"
@@ -2350,8 +2376,9 @@ msgid ""
 msgstr "抱歉，老小伙子。你还不够格让伯爵亲自处理。他把这美差留给我了。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Foolish human. Attack, men, I want that city to be orcish territory within "
+"Foolish human. Attack, men! I want that city to be orcish territory within "
 "the week. Smite, stab, and slay!"
 msgstr ""
 "愚蠢的人类。进攻，战士们，我要这城市一周之内成为兽人领土！刺穿，砍翻，杀光！"
@@ -2375,18 +2402,20 @@ msgid "Sagmar"
 msgstr "萨格玛"
 
 #. [part]
+#, fuzzy
 msgid ""
 "After conquering and occupying Dorest, Kapou’e and his men set themselves to "
-"stabilizing the area and bringing it firmly under the iron-hard orcish rule."
+"stabilizing the area and bringing it firmly under iron-hard orcish rule."
 msgstr "攻占了多雷斯特后，卡破尔和部下们用兽人铁一般的纪律巩固了这块领土。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "After a few weeks of putting down minor rebellions and clearing out the last "
 "human strongholds, the first snows of the long northern winter began to "
-"fall. A few days after the first snowfall a goblin rider — half dead from "
-"exhaustion — raced into Dorest with the news that Borstep was under siege by "
-"a large force of dwarves, outlaws and elves."
+"fall. A few days after the first snowfall, a goblin rider — half dead from "
+"exhaustion — raced into Dorest with news that Borstep was under siege by a "
+"large force of dwarves, outlaws and elves."
 msgstr ""
 "花了几周时间扑灭了人类的小规模叛乱，又清除人类最后的要塞后，昭示着远北之地漫"
 "漫寒冬的第一片雪花落下了。又过了几天，在第一场雪之后，一个累得半死不活的狼骑"
@@ -2414,12 +2443,13 @@ msgstr ""
 "了小部分军队防御多雷斯特，而他和大部落主力去支援博步。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Rushing to reach Borstep before the river froze up for the winter, the orcs "
-"sailed up the River Bork. Paddling day and night the horde barely managed to "
-"get through the Silent Forest before the river froze solid. Beaching their "
-"crafts, they marched the last leg of their journey through the deepening "
-"snow of the Mourned Hills."
+"sailed up the River Bork. Paddling day and night, the horde barely managed "
+"to get through the Silent Forest before the river froze solid. Beaching "
+"their crafts, they marched the last leg of their journey through the "
+"deepening snow of the Mourned Hills."
 msgstr ""
 "为了赶在寒冬冻结河面之前到达博步，兽人们匆匆乘船抢渡伯克河。没日没夜的航行，"
 "大部落差点没能在河面冻实前穿越寂静森林。登陆之后，他们向旅途的目的地大步进"
@@ -2436,10 +2466,11 @@ msgstr ""
 "逃，惨遭屠戮。找不到任何萨满的痕迹。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "With eyes burning with apprehension and rage, Kapou’e sent his riders out to "
 "scour the land in all directions for the culprits while he made camp with "
-"the rest of the horde. A few hours later a rider reported back that he had "
+"the rest of the horde. A few hours later, a rider reported back that he had "
 "picked up a trail of a large body of dwarves, elves and humans heading east "
 "through the mountains."
 msgstr ""
@@ -2571,10 +2602,11 @@ msgid "What are you thinking, Chief?"
 msgstr "您在盘算什么，首领？"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "My men know the land well. Flar’Tar and Al’Brock, both of you take a scout "
-"and circle around to the Northeast and Southeast respectively. Grüü, you "
-"take your trolls and circle around to the Northwest. If all goes well we "
+"and circle around to the northeast and southeast respectively. Grüü, you "
+"take your trolls and circle around to the northwest. If all goes well, we "
 "shall surround them."
 msgstr ""
 "我的战士熟悉这里的地形。弗拉塔和奥伯克，你们俩注意侦察一下东北和东南的地形。"
@@ -2666,9 +2698,10 @@ msgid "Err, sorry, there were some humans in way. We squash, no problem."
 msgstr "呃对不起……那里有人类挡路，俺们扁了他们一顿，没问题了。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"Better late than never. Now it’s time to kill! Let nobody escape and "
-"everyone keep an eye out for the shamans."
+"Better late than never. Now it’s time to kill! Let nobody escape! Everyone, "
+"keep an eye out for the shamans."
 msgstr "迟到总比来不了好。现在该开杀了！一个也不许放跑，留意萨满。"
 
 #. [message]: speaker=Flar'Tar
@@ -2841,15 +2874,17 @@ msgstr ""
 "实在他们心中渐渐沉湎。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "With the Council broken, there was now nothing left to hold the orcish "
-"forces together. And if the orcish forces began to fight amongst themselves "
+"forces together. And if the orcish forces began to fight amongst themselves, "
 "as they so often did, then the humans would eradicate them with ease."
 msgstr ""
 "元老院被破坏，再没有什么能够团结兽人军队了。假使兽人们一如既往地展开内战，人"
 "类就可以轻易灭绝兽族。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Kapou’e vowed that this would not happen. Events had the smell of a "
 "treacherous plot aimed at destroying the unity of the orcs. Furthermore, if "
@@ -2857,8 +2892,8 @@ msgid ""
 "all. What an orc expected to gain from destroying his own race was beyond "
 "Kapou’e, but he decided to march to Bitok personally and confront the "
 "traitor. Bitok being on the far side of orcish territory, this would also "
-"give him a good chance to clobber the orcs together again — the old "
-"fashioned way."
+"give him a good chance to clobber the orcs into working together again — the "
+"old-fashioned way."
 msgstr ""
 "卡破尔发誓绝不会让兽族分崩离析。近来的事件让他嗅到了破坏兽人团结的变节与险"
 "谋。此外，要是那树皮虱的话可信，那么就是自命不凡的闪·陶姆主使了一切。卡破尔不"
@@ -2891,8 +2926,9 @@ msgid ""
 msgstr "这样定了计划，卡破尔出发前往毕脱克，寻找这叛乱的根源。"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"If we are going to make it to Bitok, and then back to Dorest before spring "
+"If we are going to make it to Bitok, and then back to Dorest before spring, "
 "we have to get a move on. Break camp as soon as possible. Destroy all "
 "opposition in your path, I want this area to be firmly under my control by "
 "the time we are through here."
@@ -2983,12 +3019,13 @@ msgid "Nofhug"
 msgstr "诺夫哈格"
 
 #. [part]
+#, fuzzy
 msgid ""
 "Kapou’e and his followers made a grueling march across the frozen "
-"Northlands. For the orcs it was a constant nightmare of freezing, marching "
+"Northlands. For the orcs, it was a constant nightmare of freezing, marching "
 "and fighting. Food was scarce, and the stores that they managed to seize "
 "from rebellious tribes had to be strictly rationed. Many of the weaker orcs "
-"who weren’t killed in combat died from exhaustion, or fell behind and froze "
+"who weren’t killed in combat died from exhaustion or fell behind and froze "
 "to death."
 msgstr ""
 "卡破尔和他的追随者历经千难万险穿越了冰封的北方大陆。在严寒中迁移和战斗一直都"
@@ -2996,10 +3033,11 @@ msgstr ""
 "死却身体弱小的兽人都死在了这里，不是精疲力竭，就是落单冻死了。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"Throughout this nightmare Kapou’e drove himself and his men ruthlessly. The "
+"Throughout this nightmare, Kapou’e drove himself and his men ruthlessly. The "
 "spring thaw would soon be upon them and with it, the human army that Earl "
-"Lanbec’h was no doubt rallying. By that time the orcs had to be united one "
+"Lanbec’h was no doubt rallying. By that time, the orcs had to be united one "
 "way or another, since if they were separated and scattered, they would "
 "surely be exterminated."
 msgstr ""
@@ -3064,9 +3102,10 @@ msgid "LIES! THESE ARE ALL LIES!"
 msgstr "说谎！全是谎言！！"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "Tell you what, you ungrateful backstabbing traitor, if you surrender right "
-"now I will just cut off your head instead of torturing you to death."
+"now, I will just cut off your head instead of torturing you to death."
 msgstr ""
 "告诉你，背后捅刀子的叛徒，假如你现在投降，我会直接剁下你的脑袋，你就不用享受"
 "一路把你送上黄泉路的酷刑了。"
@@ -3101,9 +3140,10 @@ msgstr ""
 "的。您认为他们离开他了吗？"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
 "I doubt it. Shan Taum knows how to dissemble. I’ll bet he sent them out like "
-"we did to clobber the other tribes to his rule. In any case, it will be "
+"we did to clobber the other tribes into his rule. In any case, it will be "
 "convenient for us."
 msgstr ""
 "恐怕不是。闪·陶姆善于掩饰。我打赌他和我们一样，把部队派出去痛打跟他作对的部落"
@@ -3128,8 +3168,9 @@ msgid "Defeat Earl Lanbec’h"
 msgstr "打败兰贝契伯爵"
 
 #. [part]
+#, fuzzy
 msgid ""
-"As Kapou’e expected, by the time his forces had been defeated Shan Taum was "
+"As Kapou’e expected, by the time his forces had been defeated, Shan Taum was "
 "nowhere to be found. Gritting his teeth and vowing that he would yet make a "
 "mug out of the traitor’s skull, Kapou’e gathered his men and headed for "
 "Dorest."
@@ -3139,10 +3180,11 @@ msgstr ""
 
 # 这应该是真实的意思，之前的翻译与下文不符。
 #. [part]
+#, fuzzy
 msgid ""
-"Once there he found his generals, Al’Brock and Flar’Tar, had already arrived "
-"along with hundreds of bloodthirsty orcs. The warriors of the tribes that "
-"Kapou’e had cowed into submission were also present. In addition, the "
+"Once there, he found that his generals, Al’Brock and Flar’Tar, had already "
+"arrived along with hundreds of bloodthirsty orcs. The warriors of the tribes "
+"that Kapou’e had cowed into submission were also present. In addition, the "
 "remaining shamans of the Great Council were also present to help in whatever "
 "way they could to preserve the unity of the Horde."
 msgstr ""
@@ -3164,18 +3206,20 @@ msgstr ""
 "轻的大兵们尤为热切的崇拜他，接近于敬畏。"
 
 #. [part]
+#, fuzzy
 msgid ""
-"Days passed, the snows melted and Kapou’e readied his defenses. A few weeks "
+"Days passed, the snows melted, and Kapou’e readied his defenses. A few weeks "
 "after Kapou’e’s arrival, riders caught sight of Earl Lanbec’h’s army."
 msgstr ""
 "时光飞逝，积雪消融，卡破尔也备好了防御工事。数周过后，斥候们侦查到了兰贝契的"
 "军队。"
 
 #. [message]: speaker=Earl Lanbec'h
+#, fuzzy
 msgid ""
 "This is it, men! It is time to make these orcs pay for all that they have "
 "done to us. Attack without compromise, we have several detachments of "
-"reinforcements on their way. Spare no orc and let us take back this land "
+"reinforcements on their way. Spare no orc, and let us take back this land, "
 "which is rightfully ours!"
 msgstr ""
 "就在此刻，伙计们！让兽人们血债血偿的时候到了。进攻，绝不留情！我们设下了重重"
@@ -3198,7 +3242,8 @@ msgid "We have arrived, my lord."
 msgstr "我们到了，伯爵阁下。"
 
 #. [message]: speaker=Earl Lanbec'h
-msgid "Ahhh, perfect, more reinforcements."
+#, fuzzy
+msgid "Ahhh, perfect. More reinforcements."
 msgstr "啊，好得很嘛，更多援军。"
 
 #. [unit]: type=General, id=Howgarth III
@@ -3251,9 +3296,10 @@ msgstr ""
 "还算个高尚的人，赶紧召集你的人马帮我们轰走这些兽人。"
 
 #. [message]: speaker=Howgarth III
+#, fuzzy
 msgid ""
 "Cease your lies, Lanbec’h. We all know that you were the one who started "
-"this war. But enough, it is time for all this to end. I call for both sides "
+"this war. But enough. It is time for all this to end. I call for both sides "
 "to parley and we shall discuss this matter."
 msgstr ""
 "别说谎了，兰贝契。所有人都知道是你开战在先的。不过够了，结束这一切的时候到"
@@ -3272,8 +3318,9 @@ msgid "What in the world are you talking about?"
 msgstr "你这是在讲什么啊？"
 
 #. [message]: speaker=Kapou'e
+#, fuzzy
 msgid ""
-"I am Kapou’e, son of the Black-Eye Karun. Seventeen years ago you people "
+"I am Kapou’e, son of the Black-Eye Karun. Seventeen years ago, you people "
 "assassinated my father after inviting him to join the Northern Alliance."
 msgstr ""
 "我是卡破尔，黑眼卡伦之子。十七年前，你们的人在邀请我的父亲加入北方联盟之后暗"
@@ -3361,8 +3408,9 @@ msgid ""
 msgstr "他们正在谈判时，一队兽人从四周的树丛和山丘里包围了谈判者。"
 
 #. [message]: speaker=Shan Taum
+#, fuzzy
 msgid ""
-"Now now now, what do we have here. Collaborating with the enemy again just "
+"Now now now, what do we have here? Collaborating with the enemy again just "
 "like your disgusting father, are you?"
 msgstr "啊呀呀，看看这都是谁呀。像你那恶心老爹一样通敌，嗯哼？"
 
@@ -3385,20 +3433,22 @@ msgid "What did I tell you, Kapou’e?"
 msgstr "你看看我怎么跟你说的，卡破尔？"
 
 #. [message]: speaker=Earl Lanbec'h
+#, fuzzy
 msgid ""
-"Ha ha! Good work Shan Taum. That will teach them. Attack, boys, I want "
+"Ha ha! Good work Shan Taum. That will teach them. Attack, boys! I want "
 "Dorest recaptured by sunset."
 msgstr ""
 "哈哈！干得不错，闪·陶姆。这会好好给他们上一课的。进攻，士兵们！我要在日落前夺"
 "回多雷斯特。"
 
 #. [message]: speaker=Howgarth III
+#, fuzzy
 msgid ""
 "Hold, Earl Lanbec’h. I have reached an agreement with these orcs. Since your "
-"army has been the aggressor, you must immediately disperse your army and "
-"withdraw from orcish territory. Once that is done then Kapou’e will give you "
-"back Dorest and call off the horde. I have had dealings with Kapou’e’s "
-"father before and I believe his blood will be trustworthy. And if that isn’t "
+"army has been the aggressor, you must immediately disperse it and withdraw "
+"from orcish territory. Once that is done, then Kapou’e will give you back "
+"Dorest and call off the horde. I have had dealings with Kapou’e’s father "
+"before, and I believe his blood will be trustworthy. And if that isn’t "
 "enough, then we are here to protect you in case he violates the pact."
 msgstr ""
 "等一下，兰贝契伯爵。我已经和兽人达成协议了。你和你的军队是入侵者，你必须立即"
@@ -3407,8 +3457,9 @@ msgstr ""
 "会留在这里保护你，防止他违约。"
 
 #. [message]: speaker=Earl Lanbec'h
+#, fuzzy
 msgid ""
-"You and your damned compromises can go to hell. Your beloved Kapou’e will be "
+"You and your damned compromises can go to hell! Your beloved Kapou’e will be "
 "joining you shortly."
 msgstr "你和你那见鬼的妥协可以滚TM蛋了。你心爱的卡破尔不久就会陪你一道去。"
 
@@ -3496,11 +3547,12 @@ msgid "Epilogue"
 msgstr "尾声"
 
 #. [part]
+#, fuzzy
 msgid ""
 "True to his word, once Lanbec’h had been slain, Howgarth III dispersed the "
-"Earl’s forces and withdrew them from orcish territory. For his part Kapou’e "
+"Earl’s forces and withdrew them from orcish territory. For his part, Kapou’e "
 "withdrew from Dorest and dispersed the Great Horde. However, before the "
-"horde was dispersed he appointed three more shamans — with the consent of "
+"horde was dispersed, he appointed three more shamans — with the consent of "
 "all — to make the Great Council complete again."
 msgstr ""
 "伯爵被杀后，豪伽施信守承诺，解散了伯爵的军队并撤出兽人领土。卡破尔也从多雷斯"
@@ -3508,9 +3560,10 @@ msgstr ""
 "——来重建评议会。"
 
 #. [part]
+#, fuzzy
 msgid ""
 "As Rahul had done to Kapou’e’s father, Howgarth III issued an invitation to "
-"Kapou’e to join the Northern Alliance. Kapou’e declined. Instead he went "
+"Kapou’e to join the Northern Alliance. Kapou’e declined. Instead, he went "
 "back to Barag Gór and, making that his capital, established himself as "
 "sovereign over all the northern tribes."
 msgstr ""
