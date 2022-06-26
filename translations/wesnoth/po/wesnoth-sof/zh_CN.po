@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 01:42 UTC\n"
-"PO-Revision-Date: 2022-04-22 16:27+0800\n"
+"PO-Revision-Date: 2022-06-26 11:10+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 msgid "The Sceptre of Fire"
@@ -131,7 +131,6 @@ msgid "Elves"
 msgstr "精灵"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Ay, the Sceptre of Fire. The Sceptre has a long, glorious, and fearful "
 "history. But I am not here to tell you how the jewel within it was brought "
@@ -262,13 +261,12 @@ msgid ""
 msgstr "所以？你想让我们来干这个？抑制住宝石的能量？做个法器么？"
 
 #. [message]: speaker=Haldric II
-#, fuzzy
 msgid ""
 "Exactly. I want you to craft it into a mighty artifact that will not only "
 "leverage the stone’s power, but contain it also."
 msgstr ""
-"正是如此。我想让你把它加工成一件强大的法器，能够发挥宝石的力量，但同时也能够"
-"控制它。"
+"正是如此。我想让你把它加工成一件强大的法器，不但能够发挥宝石的力量，同时还能"
+"够控制它。"
 
 #. [message]: speaker=Rugnur
 msgid ""
@@ -283,12 +281,12 @@ msgid ""
 msgstr "如果您无权作出交易的决定，那请派个可以做决定的人来，我会和他谈判的。"
 
 #. [message]: speaker=Rugnur
-#, fuzzy
 msgid ""
 "They would refuse to come. You must come into the caves and go to the city "
 "in person, or send a representative."
 msgstr ""
-"他们会拒绝来这儿。你必须一个人进洞穴里来，到我们的城市去，派一位代表也行。"
+"他们不会同意来这儿的。你必须一个人进洞穴里来，到我们的城市去，派一位代表也"
+"行。"
 
 #. [message]: speaker=Haldric II
 msgid ""
@@ -344,14 +342,12 @@ msgstr ""
 "它命名为圣火权杖。"
 
 #. [message]: speaker=Rugnur
-#, fuzzy
 msgid ""
 "I’ll see what I can do. But I will need five thousand silver in advance to "
 "pay for the materials."
 msgstr "我看看我能做什么。不过我得要五千银币的预付款，这是原料的价格。"
 
 #. [message]: speaker=Haldric II
-#, fuzzy
 msgid ""
 "Very well. I have the silver here, ready to ship, and I will send someone "
 "over with the stone itself. He will stay with you as you make the sceptre, "
@@ -392,7 +388,6 @@ msgid "Not true! This is dwarvish land; if anything, it’s our road!"
 msgstr "不对！这里是矮人的领地。如果非要指定所属，这是我们的路！"
 
 #. [message]: speaker=Glildur
-#, fuzzy
 msgid ""
 "Nevertheless, if you try to move your caravans here, you have to pay the "
 "toll or face our wrath!"
@@ -408,7 +403,6 @@ msgstr ""
 "么！"
 
 #. [message]: speaker=Glildur
-#, fuzzy
 msgid ""
 "I was never among those who agreed to that treaty. Not all of us elves are "
 "as low as Kalenz or make deals with those who betrayed us."
@@ -426,14 +420,13 @@ msgstr ""
 "我杀了你也不是问题。拉格纳，我们开始运货。"
 
 #. [message]: speaker=Rugnur
-#, fuzzy
 msgid ""
 "Very well. Glildur, if the high elvish council has made an alliance with "
 "these humans, I would advise you to follow it. But not doing so is your "
 "choice."
 msgstr ""
-"很好。基利尔达，如果高等精灵议会和人类结成联盟，我建议你还是遵守它，不过不遵"
-"守可是你自己的决定。"
+"很好。基利尔达，如果高等精灵议会和人类结成了联盟，我建议你还是遵守它，不过不"
+"遵守可是你自己的决定。"
 
 #. [message]: speaker=Alanin
 msgid "Oh, the elves are going to cut us off!"
@@ -444,13 +437,12 @@ msgid "I told you this was our road."
 msgstr "我告诉过你，这是我们的路。"
 
 #. [message]: speaker=Alanin
-#, fuzzy
 msgid ""
 "Here’s the stone for you dwarves! Now, if you’ll excuse me, I think I’ll be "
 "taking refuge here... I don’t much like fighting."
 msgstr ""
-"这就是宝石，现在给你们矮人了！现在抱歉，我觉得我得在这儿躲一下……我可不太喜欢"
-"战斗。"
+"这就是那宝石，现在给你们矮人了！现在抱歉了，我觉得我得在这儿躲一下……我可不太"
+"喜欢战斗。"
 
 #. [message]: speaker=Haldric II
 msgid "All the silver is there too. Proceed with the task, Rugnur!"
@@ -484,7 +476,6 @@ msgid ""
 msgstr "我们的援军应该很快就到。让大篷车来这儿，我们或许能放你们走。"
 
 #. [message]: speaker=Haldric II
-#, fuzzy
 msgid ""
 "That’s a bluff. What sort of reinforcements can this little band of thieves "
 "possibly count on?"
@@ -497,7 +488,6 @@ msgid ""
 msgstr "哈！我们的援军到了。这下你可抵挡不住我们的合力了！"
 
 #. [message]: speaker=Rugnur
-#, fuzzy
 msgid ""
 "We cannot match you above ground, but in the caves, we may still defeat you."
 msgstr "我们在地面上敌不过你，但在洞穴里仍然可以击败你。"
@@ -515,7 +505,6 @@ msgid ""
 msgstr "精灵援军！他们哪来的？我本以为反抗协约的精灵没这么多。快，大篷车赶快！"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "Die, humans! In the name of Landar!"
 msgstr "以兰达尔的名义，死吧，人类！"
 
@@ -524,7 +513,6 @@ msgid "Landar? Who is this ‘Landar’ you speak of?"
 msgstr "兰达尔？你们说的“兰达尔”是谁？"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "Die, dwarvish scum! In the name of Landar!"
 msgstr "以兰达尔的名义，死吧，矮人渣滓！"
 
@@ -533,9 +521,8 @@ msgid "Yer precious Landar can kiss my axe."
 msgstr "你丫高贵的兰达尔来亲亲俺的斧头吧。"
 
 #. [message]: speaker=unit
-#, fuzzy
 msgid "This gains you nothing! We will not rest!"
-msgstr "你们什么都得不到，我们不会休息的！"
+msgstr "你们什么都得不到，我们不会放弃的！"
 
 #. [message]: speaker=Rugnur
 msgid "Good, the road is secured. Let’s move those caravans!"
@@ -559,27 +546,26 @@ msgid "Trolls"
 msgstr "巨魔"
 
 #. [part]
-#, fuzzy
 msgid ""
 "Next in our story, Rugnur retreated into the caves of Knalga. But the elves "
 "pressed on and would enter the caves shortly."
 msgstr ""
-"接下去，在我们的故事里，拉格纳撤退到克尔伽洞穴之中。但精灵压在后面，马上就要"
-"进洞了。"
+"接下去，在我们的故事里，拉格纳撤退到了纳尔伽洞穴之中。但精灵压在后面，马上就"
+"要进洞了。"
 
 #. [objective]: condition=win
 msgid ""
 "Place someone on each of the six magic glyphs in order to close the dwarvish "
 "gates"
-msgstr "为关上矮人大门，在六个魔法符上分别站一人"
+msgstr "在六个魔法符上分别站一人，以关上矮人大门"
 
 #. [objective]: condition=win
 msgid "Kill all elves in the caves after the gates are closed"
-msgstr "在大门关上后，杀掉洞穴中所有精灵"
+msgstr "在大门关上后，击杀洞穴里的所有精灵"
 
 #. [objective]: condition=win
 msgid "Kill all elves in the caves"
-msgstr "击败洞穴里的所有精灵"
+msgstr "击杀洞穴里的所有精灵"
 
 #. [objective]: condition=lose
 msgid "Death of Baglur"
@@ -647,7 +633,6 @@ msgid "Not really. This was supposedly a time of peace. Who are you?"
 msgstr "其实没有。现在本该是和平时期。你是谁？"
 
 #. [message]: speaker=Baglur
-#, fuzzy
 msgid ""
 "Argh! I’m a retired warrior... it looks like I’ll ha’ to come out and help "
 "you, else we’ll be overrun by the damn elves... argh, again. Well, listen "
@@ -655,9 +640,9 @@ msgid ""
 "close it, the elves will no’ be able to enter. And you elves; begone from "
 "here!"
 msgstr ""
-"啊！我是一位退役的战士……看样子我必须出山来帮帮你了，不然我们要被这些该死的精"
-"灵蹂躏了……啊，再一次蹂躏。好，听着。这个城市的入口是可以关闭的。这就是大门。"
-"如果我们关上大门，精灵就进不来了。还有，你们这帮精灵，从这儿滚蛋！"
+"啊！我是个退役老兵了……看样子我必须出山来帮帮你了，不然我们就要被这些该死的精"
+"灵蹂躏了……啊，再一次蹂躏。好，听着。这个城市的入口是可以关闭的。有个大门。如"
+"果我们关上大门，精灵就进不来了。还有，你们这帮精灵，滚出这儿！"
 
 #. [message]: speaker=Glildur
 msgid ""
@@ -667,7 +652,7 @@ msgstr "别管闲事，老矮子！拉格纳才是这里管事的，他才是和
 
 #. [message]: speaker=Rugnur
 msgid "Baglur, how do you close the gates?"
-msgstr "巴格纳，怎么才能关上门？"
+msgstr "巴格拉，怎么才能关上门？"
 
 #. [message]: speaker=Baglur
 msgid ""
@@ -834,7 +819,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Reach the top of the map with Rugnur, Baglur, and Alanin"
-msgstr "与拉格纳、巴格纳以及阿拉宁一起到达地图顶端"
+msgstr "与拉格纳、巴格拉以及阿拉宁一起到达地图顶端"
 
 #. [message]: speaker=Rugnur
 msgid "Those are orcs, aren’t they?"
