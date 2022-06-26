@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-29 13:14+0300\n"
-"PO-Revision-Date: 2022-04-22 17:03+0800\n"
+"PO-Revision-Date: 2022-06-26 10:34+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -170,7 +170,6 @@ msgstr ""
 "在游戏的对话区域内显示关于废弃API的警告消息。即使禁用此功能，这些消息也仍然会"
 "显示在日志中。以及，废弃信息日志域控制着所显示的消息的数量。"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 msgid "poisoned"
@@ -185,7 +184,6 @@ msgstr "风暴三叉戟"
 msgid "Gold carryover:"
 msgstr "带走金币："
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 msgid "Notes:"
@@ -3404,7 +3402,6 @@ msgstr "洞穴"
 msgid "Fungus"
 msgstr "真菌"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 msgid "Village"
 msgstr "村庄"
@@ -3429,12 +3426,10 @@ msgstr "不可行走"
 msgid "Impassable"
 msgstr "不可通过"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 msgid "Fog"
 msgstr "迷雾"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 msgid "Shroud"
 msgstr "战场黑幕"
@@ -3755,7 +3750,6 @@ msgstr "是"
 msgid "No"
 msgstr "否"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 msgid "Screenshot"
 msgstr "截屏"
@@ -3780,7 +3774,6 @@ msgstr "Oldania ADF Std,Droid Sans Fallback"
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "（注：在新代码中，你应当使用$replacement|作为替代）"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 msgid "Invalid deprecation level $level (should be 1-4)"
 msgstr "无效废弃级别$level|（应为1-4）"
@@ -3789,27 +3782,22 @@ msgstr "无效废弃级别$level|（应为1-4）"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "无效废弃级别（应为1-4）"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^poisoned"
 msgstr "中毒"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "slowed"
 msgstr "减速"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "female^petrified"
 msgstr "石化"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 msgid "petrified"
 msgstr "石化"
@@ -3822,12 +3810,10 @@ msgstr "不可治疗"
 msgid "unhealable"
 msgstr "不可治疗"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 msgid "input"
 msgstr "输入"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 msgid "Victory:"
 msgstr "胜利："
@@ -5404,6 +5390,8 @@ msgid ""
 "to advance to ‘$higher_level’; please ask the add-on author to use "
 "[modify_unit_type] instead."
 msgstr ""
+"错误：[advancefrom]不再起作用。“$lower_level”单位将不能升级"
+"为“$higher_level”。请让附加组件作者转为使用[modify_unit_type]。"
 
 msgid "instead, use the macro with the same name in the [campaign] tag"
 msgstr "作为替代，在 [campaign]标签中使用同名的宏"
