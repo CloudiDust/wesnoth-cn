@@ -15,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-29 13:14+0300\n"
-"PO-Revision-Date: 2022-06-26 10:34+0800\n"
+"POT-Creation-Date: 2022-08-20 19:38-0500\n"
+"PO-Revision-Date: 2022-09-03 09:00+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. [multiplayer_side]: id=Custom
 msgid "Custom"
@@ -533,6 +533,7 @@ msgid "Altar"
 msgstr "圣坛"
 
 #. [item]: id=ankh-necklace
+#. [item]: id=ankh-necklace2
 msgid "Ankh Necklace"
 msgstr "圆环十字项链"
 
@@ -553,8 +554,17 @@ msgid "Armor"
 msgstr "铠甲"
 
 #. [item]: id=axe
+#. [item]: id=axe2
 msgid "Axe"
 msgstr "斧"
+
+#. [item]: id=axe-small
+msgid "Small Axe"
+msgstr "小斧"
+
+#. [item]: id=axe-throwing
+msgid "Throwing Axe"
+msgstr "掷斧"
 
 #. [item]: id=ball-blue
 msgid "Blue Ball"
@@ -592,27 +602,43 @@ msgstr "骨堆"
 msgid "Book"
 msgstr "书"
 
+#. [item]: id=bow
+#. [item]: id=bow2
+msgid "Bow"
+msgstr "弓"
+
 #. [item]: id=bow-crystal
+#. [item]: id=bow-crystal2
 msgid "Crystal Bow"
 msgstr "水晶弓"
 
 #. [item]: id=bow-elven
+#. [item]: id=bow-elven2
 msgid "Elven Bow"
 msgstr "精灵弓"
-
-#. [item]: id=bow
-msgid "Bow"
-msgstr "弓"
 
 #. [item]: id=box
 msgid "Box"
 msgstr "盒子"
 
+#. [item]: id=branch
+msgid "Branch"
+msgstr "树枝"
+
+#. [item]: id=branch-bare
+msgid "Bare Branch"
+msgstr "秃枝"
+
 #. [item]: id=brazier
 msgid "Brazier"
 msgstr "火盆"
 
+#. [item]: id=brazier-lit1
+msgid "Lit Brazier"
+msgstr "点燃的火盆"
+
 #. [item]: id=buckler
+#. [item]: id=buckler2
 msgid "Buckler"
 msgstr "小圆盾"
 
@@ -624,6 +650,15 @@ msgstr "葬堆"
 msgid "Cage"
 msgstr "笼子"
 
+#. [item]: id=chest
+msgid "Closed Chest"
+msgstr "关着的箱子"
+
+#. [item]: id=chest-open
+#. Open is an adjective here, not a verb. That is, a (treasure) chest that is open, not an action to open such a chest.
+msgid "Open Chest"
+msgstr "开着的箱子"
+
 #. [item]: id=chest-plain-closed
 msgid "Closed Plain Chest"
 msgstr "关着的普通箱子"
@@ -632,17 +667,38 @@ msgstr "关着的普通箱子"
 msgid "Open Plain Chest"
 msgstr "开着的普通箱子"
 
-#. [item]: id=chest
-msgid "Chest"
-msgstr "箱子"
-
 #. [item]: id=cloak-green
 msgid "Green Cloak"
 msgstr "绿斗篷"
 
+#. [item]: id=club
+msgid "Club"
+msgstr "棍棒"
+
 #. [item]: id=coffin-closed
 msgid "Closed Coffin"
 msgstr "关着的棺材"
+
+#. [item]: id=coffin-open
+#. Open is an adjective here, not a verb. That is, a coffin that is open, not an action to open a coffin.
+msgid "Open Coffin"
+msgstr "开着的棺材"
+
+#. [item]: id=crossbow
+msgid "Crossbow"
+msgstr "十字弩"
+
+#. [item]: id=dagger
+msgid "Dagger"
+msgstr "匕首"
+
+#. [item]: id=dagger-poison
+msgid "Poison Dagger"
+msgstr "涂毒匕首"
+
+#. [item]: id=dagger-poison-bare
+msgid "Poison Dagger (clean)"
+msgstr "涂毒匕首（干净）"
 
 #. [item]: id=dragonstatue
 msgid "Dragon Statue"
@@ -651,6 +707,10 @@ msgstr "龙之雕像"
 #. [item]: id=flame-sword
 msgid "Flaming Sword"
 msgstr "烈焰神剑"
+
+#. [item]: id=flame-sword-bare
+msgid "Unenchanted Flaming Sword"
+msgstr "未附魔的烈焰神剑"
 
 #. [item]: id=flower1
 #. [item]: id=flower2
@@ -679,22 +739,43 @@ msgstr "小堆金币"
 msgid "Grain Sheaf"
 msgstr "一捆麦子"
 
+#. [item]: id=hammer
+msgid "Hammer"
+msgstr "锤"
+
 #. [item]: id=hammer-runic
 msgid "Runic Hammer"
 msgstr "符文锤"
 
-#. [item]: id=holly-water
+#. [item]: id=holy-water
 #. [object]
 msgid "Holy Water"
 msgstr "圣水"
 
 #. [item]: id=key
+#. [item]: id=key2
 msgid "Key"
 msgstr "钥匙"
+
+#. [item]: id=key-dark
+msgid "Dark Key"
+msgstr "暗色钥匙"
 
 #. [item]: id=leather-pack
 msgid "Leather Pack"
 msgstr "皮革包"
+
+#. [item]: id=mace
+msgid "Mace"
+msgstr "狼牙棒"
+
+#. [item]: id=necklace-bone
+msgid "Bone Necklace"
+msgstr "骨项链"
+
+#. [item]: id=necklace-stone
+msgid "Stone Necklace"
+msgstr "石项链"
 
 #. [item]: id=orcish-flag
 msgid "Orcish Flag"
@@ -750,6 +831,14 @@ msgstr "银色戒指"
 msgid "White Ring"
 msgstr "白色戒指"
 
+#. [item]: id=rock
+#. [item]: id=rock1
+#. [item]: id=rock2
+#. [item]: id=rock3
+#. [item]: id=rock4
+msgid "Rock"
+msgstr "岩石"
+
 #. [item]: id=scarecrow
 msgid "Scarecrow"
 msgstr "稻草人"
@@ -758,23 +847,51 @@ msgstr "稻草人"
 msgid "Sceptre of Fire"
 msgstr "圣火权杖"
 
+#. [item]: id=sling
+msgid "Sling"
+msgstr "弹弓"
+
+#. [item]: id=spear
+msgid "Spear"
+msgstr "长矛"
+
 #. [item]: id=spear-fancy
+#. [item]: id=spear-fancy2
 msgid "Fancy Spear"
 msgstr "华丽长矛"
 
+#. [item]: id=spear-javelin
+msgid "Javelin"
+msgstr "标枪"
+
+#. [item]: id=staff
+#. [item]: id=staff2
+msgid "Staff"
+msgstr "手杖"
+
+#. [item]: id=staff-druid
+msgid "Druid Staff"
+msgstr "德鲁伊杖"
+
 #. [item]: id=staff-magic
+#. [item]: id=staff-magic2
 msgid "Magic Staff"
 msgstr "法杖"
 
-#. [item]: id=staff
-msgid "Staff"
-msgstr "手杖"
+#. [item]: id=staff-magic-wand
+msgid "Magic Wand"
+msgstr "法棒"
+
+#. [item]: id=staff-plain
+msgid "Plain Staff"
+msgstr "普通杖"
 
 #. [item]: id=stone-tablet
 msgid "Stone Tablet"
 msgstr "石板"
 
 #. [item]: id=storm-trident
+#. [item]: id=storm-trident2
 #. [object]
 msgid "Storm Trident"
 msgstr "风暴三叉戟"
@@ -785,24 +902,63 @@ msgid "Bale of Straw"
 msgstr "稻草包"
 
 #. [item]: id=sword
+#. [item]: id=sword2
 msgid "Sword"
 msgstr "剑"
+
+#. [item]: id=sword-holy
+msgid "Holy Sword"
+msgstr "圣剑"
+
+#. [item]: id=sword-short
+msgid "Short Sword"
+msgstr "短剑"
+
+#. [item]: id=sword-wraith
+msgid "Wraith Sword"
+msgstr "幽魂剑"
+
+#. [item]: id=talisman-ankh
+msgid "Ankh Talisman"
+msgstr "生命十字护身符"
+
+#. [item]: id=talisman-bone
+msgid "Bone Talisman"
+msgstr "骨护身符"
+
+#. [item]: id=talisman-stone
+msgid "Stone Talisman"
+msgstr "石护身符"
+
+#. [item]: id=thunderstick
+msgid "Thunderstick"
+msgstr "雷霆棒"
+
+#. [item]: id=torch
+msgid "Lit Torch"
+msgstr "点燃的火炬"
+
+#. [item]: id=torch-bare
+msgid "Unlit Torch"
+msgstr "未点燃的火炬"
 
 #. [item_group]: id=scenery
 msgid "Scenery"
 msgstr "布景"
 
 #. [item]: id=castle-ruins
+#. [item]: id=castle-ruins2
+#. [item]: id=castle-ruins3
 msgid "Castle Ruins"
 msgstr "城堡废墟"
-
-#. [item]: id=circle-magic-glow
-msgid "Glowing Magic Circle"
-msgstr "发光魔法环"
 
 #. [item]: id=circle-magic
 msgid "Magic Circle"
 msgstr "魔法环"
+
+#. [item]: id=circle-magic-glow
+msgid "Glowing Magic Circle"
+msgstr "发光魔法环"
 
 #. [item]: id=dwarven-doors-closed
 msgid "Closed Dwarven Doors"
@@ -869,15 +1025,9 @@ msgid "Pine Tree"
 msgstr "松树"
 
 #. [item]: id=rock-cairn
+#. [item]: id=rock-cairn2
 msgid "Rock Cairn"
 msgstr "岩石山"
-
-#. [item]: id=rock1
-#. [item]: id=rock2
-#. [item]: id=rock3
-#. [item]: id=rock4
-msgid "Rock"
-msgstr "岩石"
 
 #. [item]: id=rubble
 msgid "Rubble"
@@ -903,6 +1053,8 @@ msgstr "发光符文"
 
 #. [item]: id=shipwreck
 #. [item]: id=wreck
+#. [item]: id=wreck2
+#. [item]: id=wreck3
 msgid "Shipwreck"
 msgstr "残骸"
 
@@ -915,6 +1067,7 @@ msgid "Slab"
 msgstr "石板路面"
 
 #. [item]: id=snowbits
+#. [item]: id=snowbits2
 msgid "Piles of Snow"
 msgstr "雪堆"
 
@@ -934,6 +1087,12 @@ msgstr "召唤阵圆环"
 #. [item]: id=temple1
 msgid "Temple"
 msgstr "神庙"
+
+#. [item]: id=temple-cracked1
+#. [item]: id=temple-cracked2
+#. [item]: id=temple-cracked3
+msgid "Ruined Temple"
+msgstr "毁坏的神庙"
 
 #. [item]: id=tent-fancy-red
 msgid "Fancy Red Tent"
@@ -6433,6 +6592,10 @@ msgstr "不安全模式已启用！"
 
 msgid "Variable not found"
 msgstr "未找到变量"
+
+msgid "Debug command 'unit: $unit' failed: no unit selected or hovered over."
+msgstr ""
+"调试指令“unit: $unit|”失败：未选定任何单位，且鼠标指针未在任何单位上方悬停。"
 
 msgid ""
 "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "

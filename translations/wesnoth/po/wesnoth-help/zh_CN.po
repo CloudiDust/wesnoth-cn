@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 04:42+0300\n"
-"PO-Revision-Date: 2022-06-26 14:06+0200\n"
+"PO-Revision-Date: 2022-09-03 09:05+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -5378,8 +5378,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<bold>text='康健'</bold>单位拥有1点额外的生命值，并且每升一级再获得额外的"
-"1点。他们也能每回合回复2点生命值，而不论在前一回合是否参加了战斗。"
+"<bold>text='康健'</bold>单位拥有1点额外的生命值，并且每升一级再获得额外的1"
+"点。他们也能每回合回复2点生命值，而不论在前一回合是否参加了战斗。"
 
 #. [trait]: id=healthy
 msgid ""

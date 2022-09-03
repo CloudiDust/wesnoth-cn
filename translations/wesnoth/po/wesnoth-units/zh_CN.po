@@ -1,7 +1,7 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
 # Copyright (C) 2005-2022 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-#
+# 
 # Translators and their initial years of participation:
 # jan2xue <75jan@163.com>, 2005.
 # Huang Huan <unicon221@gmail.com>, 2005.
@@ -9,12 +9,12 @@
 # sylecn <sylecn AT yahoo DOT com DOT cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-29 10:14 UTC\n"
+"POT-Creation-Date: 2022-07-05 14:17 UTC\n"
 "PO-Revision-Date: 2022-04-23 10:11+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
