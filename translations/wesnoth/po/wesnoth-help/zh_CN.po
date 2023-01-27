@@ -15,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-08 04:42+0300\n"
-"PO-Revision-Date: 2022-09-03 09:05+0800\n"
+"POT-Creation-Date: 2023-01-14 18:06-0600\n"
+"PO-Revision-Date: 2023-01-27 15:05+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -24,12 +24,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
 msgid "Underground"
 msgstr "地下"
+
+#. [label]
+#. [trait]: id=undead
+msgid "undead"
+msgstr "亡灵"
+
+#. [label]
+#. [trait]: id=fearless
+msgid "fearless"
+msgstr "无惧"
+
+#. [label]
+#. [plague]: id=SotA_plague, type=null # prevents normal corpse, and allows SotA code to handle it
+#. [plague]: id=plague({TYPE}), type={TYPE}
+#. [plague]: id=plague, type=Walking Corpse
+msgid "plague"
+msgstr "瘟疫"
+
+#. [plague]: id=SotA_plague, type=null # prevents normal corpse, and allows SotA code to handle it
+#. [plague]: id=plague, type=Walking Corpse
+msgid ""
+"When a unit is killed by a Plague attack, that unit is replaced with a "
+"Walking Corpse on the same side as the unit with the Plague attack. This "
+"doesn’t work on Undead or units in villages."
+msgstr ""
+"当一个单位被瘟疫攻击杀死时，该单位将变成行尸，并与进行瘟疫攻击的单位属于同一"
+"阵营。这对亡灵或在村庄中的单位不起作用。"
 
 #. [heals]: id=healing
 msgid "heals +4"
@@ -149,10 +176,6 @@ msgstr "防御"
 msgid "drains"
 msgstr "吸血"
 
-#. [trait]: id=fearless
-msgid "fearless"
-msgstr "无惧"
-
 #. [dummy]: id=feeding
 msgid "feeding"
 msgstr "食尸"
@@ -209,11 +232,6 @@ msgstr "蘑菇林"
 msgid "nightstalk"
 msgstr "夜遁"
 
-#. [plague]: id=plague({TYPE}), type={TYPE}
-#. [plague]: id=plague, type=Walking Corpse
-msgid "plague"
-msgstr "瘟疫"
-
 #. [poison]: id=poison
 msgid "poison"
 msgstr "毒素"
@@ -253,10 +271,6 @@ msgstr "沼泽"
 #. [teleport]: id=teleport
 msgid "teleport"
 msgstr "传送"
-
-#. [trait]: id=undead
-msgid "undead"
-msgstr "亡灵"
 
 msgid "Village"
 msgstr "村庄"
@@ -4653,15 +4667,6 @@ msgstr ""
 "当一个单位被瘟疫攻击杀死时，该单位将变成与进行瘟疫攻击的单位属于同一阵营的单"
 "位，并与进行瘟疫攻击的单位属于同一阵营。这对亡灵或在村庄中的单位不起作用。"
 
-#. [plague]: id=plague, type=Walking Corpse
-msgid ""
-"When a unit is killed by a Plague attack, that unit is replaced with a "
-"Walking Corpse on the same side as the unit with the Plague attack. This "
-"doesn’t work on Undead or units in villages."
-msgstr ""
-"当一个单位被瘟疫攻击杀死时，该单位将变成行尸，并与进行瘟疫攻击的单位属于同一"
-"阵营。这对亡灵或在村庄中的单位不起作用。"
-
 #. [slow]: id=slow
 msgid ""
 "This attack slows the target until it ends a turn. Slow halves the damage "
@@ -5324,9 +5329,9 @@ msgstr ""
 "\n"
 "\n"
 "<bold>text='聪慧'</bold>单位在战役的开始阶段非常有用，因为他们能更快地升到高"
-"等级。在战役的后期聪慧单位并不是很有用，因为<bold>text='满级奖励'</"
-"bold>（AMLA）与升级相比效果并不显著。如果拥有很多达到“满级”的单位，那你也许会"
-"希望召回那些拥有更有用的特质的单位。"
+"等级。在战役的后期聪慧单位并不是很有用，因为<bold>text='满级奖励'</bold>"
+"（AMLA）与升级相比效果并不显著。如果拥有很多达到“满级”的单位，那你也许会希望"
+"召回那些拥有更有用的特质的单位。"
 
 #. [trait]: id=intelligent
 msgid "Intelligent units require 20% less experience than usual to advance."

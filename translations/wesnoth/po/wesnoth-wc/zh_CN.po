@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-08 01:42 UTC\n"
-"PO-Revision-Date: 2022-09-03 10:08+0800\n"
+"POT-Creation-Date: 2023-01-02 00:33 UTC\n"
+"PO-Revision-Date: 2023-01-27 15:15+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [advancement]: id=amla_default
 msgid "Max HP bonus +6%"
@@ -107,25 +107,85 @@ msgid "WoCopedia"
 msgstr "世界征服百科全书"
 
 #. [label]: id=title
+#. [lua]: gui.widget.add_invest_item
+msgid "Artifacts"
+msgstr "神器"
+
+#. [label]
+msgid "Recruits"
+msgstr "新兵"
+
+#. [label]
+msgid "Deserters"
+msgstr "逃兵"
+
+#. [label]
+msgid "Commanders"
+msgstr "指挥官"
+
+#. [label]
+#. [lua]: gui.widget.add_invest_item
+msgid "Heroes"
+msgstr "英雄"
+
+#. [label]: id=title_random_leaders
+msgid "Random Leaders"
+msgstr "随机首领"
+
+#. [label]: id=title
 #. [lua]: preshow
 msgid "Settings"
 msgstr "设置"
 
 #. [label]
+msgid "Use World Conquest PYA mod"
+msgstr "使用世界征服的PYA模组"
+
+#. [label]
+msgid "Use World Conquest Unitmarkers"
+msgstr "使用世界征服的单位标记"
+
+#. [label]
+msgid "Use World Conquest experimental pickup"
+msgstr "使用<b>世界征服</b>的试验性物品捡取机制"
+
+#. [label]
+msgid "Show pickup confirmation"
+msgstr "显示捡取确认框"
+
+#. [label]
 msgid "Difficulty"
 msgstr "难度"
+
+#. [label]
+msgid "World Conquest version"
+msgstr "世界征服版本"
 
 #. [label]: id=title
 msgid "Choose a bonus for your team"
 msgstr "为你的队伍选择一项加成"
 
-#. [label]: id=title
-msgid "You got"
-msgstr "你获得了"
+#. [label]
+#. [lua]: gui.widget.add_invest_item
+msgid "Before:"
+msgstr "之前："
+
+#. [label]
+#. [lua]: gui.widget.add_invest_item
+msgid "After:"
+msgstr "之后："
+
+#. [button]: id=ok
+msgid "Get This Item"
+msgstr "获取此物品"
 
 #. [button]: id=ok
 msgid "OK"
 msgstr "确定"
+
+#. [label]: id=title
+msgid "You got"
+msgstr "你获得了"
 
 #. [label]: id=title
 msgid "Pick up item?"
@@ -154,6 +214,34 @@ msgstr "场景："
 #. [label]
 msgid " map: "
 msgstr "地图："
+
+#. [label]
+msgid "map size"
+msgstr "地图尺寸"
+
+#. [label]
+msgid "village density"
+msgstr "村庄密度"
+
+#. [label]
+msgid "keep size"
+msgstr "主楼尺寸"
+
+#. [label]
+msgid "iterations"
+msgstr "迭代次数"
+
+#. [label]
+msgid "terrain factor"
+msgstr "地形因子"
+
+#. [label]
+msgid "island factor"
+msgstr "岛屿因子"
+
+#. [label]
+msgid "number of keeps"
+msgstr "主楼数量"
 
 msgid "$name|'s pet"
 msgstr "$name|的宠物"
@@ -510,14 +598,6 @@ msgid "WC2 Invest"
 msgstr "WC2投资"
 
 #. [lua]: gui.widget.add_invest_item
-msgid "Artifacts"
-msgstr "神器"
-
-#. [lua]: gui.widget.add_invest_item
-msgid "Heroes"
-msgstr "英雄"
-
-#. [lua]: gui.widget.add_invest_item
 msgid ""
 "Commanders will take your leader’s place when the leader dies, possible "
 "commanders:"
@@ -547,14 +627,6 @@ msgstr "培训"
 #. [lua]: gui.widget.add_invest_item
 msgid "$name Training"
 msgstr "$name|训练"
-
-#. [lua]: gui.widget.add_invest_item
-msgid "After:"
-msgstr "之后："
-
-#. [lua]: gui.widget.add_invest_item
-msgid "Before:"
-msgstr "之前："
 
 #. [lua]: gui.widget.add_invest_item
 msgid "Other"

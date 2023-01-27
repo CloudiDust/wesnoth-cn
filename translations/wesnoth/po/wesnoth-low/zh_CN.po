@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-09-03 09:06+0800\n"
+"POT-Creation-Date: 2023-01-22 06:24 UTC\n"
+"PO-Revision-Date: 2023-01-27 15:06+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "LoW"
@@ -39,6 +39,10 @@ msgstr ""
 "这是关于卡雷兹的故事，在兽人第二次入侵泰陆之后，这位至高领主凝聚了他的人民，"
 "他是精灵有记载的历史中最著名的英雄。\n"
 "\n"
+
+#. [campaign]: id=LOW, type=hybrid
+msgid "(Hard level, 17 scenarios.)"
+msgstr "（困难级别，17幕场景。）"
 
 #. [campaign]: id=LOW, type=hybrid
 msgid "(Hard level, 18 scenarios.)"
