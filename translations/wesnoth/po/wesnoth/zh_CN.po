@@ -7056,7 +7056,7 @@ msgid "Clock"
 msgstr "时钟"
 
 msgid "Battery"
-msgstr "炮位"
+msgstr "电池"
 
 msgid "Countdown until your turn automatically ends."
 msgstr "直到你的回合自动结束的倒计时"
