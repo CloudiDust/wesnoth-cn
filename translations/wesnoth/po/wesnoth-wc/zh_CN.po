@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-01-27 15:15+0800\n"
+"POT-Creation-Date: 2023-07-23 03:50 UTC\n"
+"PO-Revision-Date: 2023-09-10 09:13+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [advancement]: id=amla_default
 msgid "Max HP bonus +6%"
@@ -1221,6 +1221,7 @@ msgstr "这里没什么可学的"
 msgid "From $level_before to $level_after"
 msgstr "从$level_before|到$level_after"
 
+#. an Elvish Archer joins a player's side
 msgid ""
 "You look like you could use some help. Mind if I join in? It’s been a while "
 "since I had a good fight!"
@@ -1229,12 +1230,15 @@ msgstr "你看起来可能需要一些帮助。介意我加入吗？我已经很
 msgid "Excellent. We could always use more help."
 msgstr "很好。我们得到的帮助越多越好。"
 
+#. an Orcish Grunt joins a player's side
 msgid "’bout time. Been forever since I had a good fight, eh?"
 msgstr "是时候了，我已经很久没有打过一场好仗了，呃？"
 
+#. a Troll Whelp joins a player's side
 msgid "Who you? I help you smash!"
 msgstr "你谁？我帮你打碎！"
 
+#. an Orcish Archer joins a player's side
 msgid ""
 "My clan was destroyed long ago, leaving me to fend for myself. Let me join "
 "your army and I will fight as though your clan was my own!"
@@ -1242,48 +1246,61 @@ msgstr ""
 "我的部族很久以前就被毁了，只剩下我一人自生自灭。让我加入你的军队吧，我将奋力"
 "战斗，如同你的部族是我的部族一般！"
 
+#. an Orcish Assassin joins a player's side
 msgid "Hey boss. Looks like you’ve got some prey that need killing."
 msgstr "嘿老大，看起来你有些猎物要杀。"
 
+#. a Wolf Rider joins a player's side
 msgid "I hunts. I join you, I hunts good for you!"
 msgstr "我打猎，我加入，我为你好打好猎！"
 
+#. speaker is a Wose, just after a Wolf Rider joins their side
 msgid "Very well. But take care where your dog does its stuff."
 msgstr "很好。但你的狗干活的时候可给我看好了。"
 
+#. an Orcish Leader joins a player's side
 msgid ""
 "Heh, looks like you whelps might be getting in over your heads. Good thing "
 "I’m here now to win this fight for ya, huh?"
 msgstr ""
 "呵，看来你们这些小东西是力有不逮啦。好在俺来了，俺会帮你们赢下这次的，怎样？"
 
+#. a Naga Fighter joins a player's side
+#. a Dune Soldier joins a player's side
 msgid ""
 "I too have come a long way to this strange land. Perhaps we were destined to "
 "join blades here."
 msgstr "我也是远道而来，来到这片陌生的土地。也许我们注定要在这里合力战斗。"
 
+#. speaker is a Gryphon, just after a naga or merfolk joins their side
 msgid "Looks like we fished some tasty help."
 msgstr "看来我们钓到了很不错的帮助啊。"
 
+#. an Elvish Fighter joins a player's side
 msgid "Need a friendly blade?"
 msgstr "需要友好的协助吗？"
 
+#. an Elvish Shaman joins a player's side
 msgid ""
 "The mother forest sends you her blessings. Let us join together against her "
 "foes."
 msgstr "森林之母向你们送上祝福。我们一起对抗她的敌人吧。"
 
+#. speaker is an elf or wose, just after a shaman joins their side
 msgid "Yeah, flower power!"
 msgstr "是的，花的力量!"
 
+#. an Elvish Scout joins a player's side
 msgid ""
 "I offer you the service of my arrows and my steed. You will find none that "
 "fly faster than either."
 msgstr "我的弓箭与我的战马为你服务。你不会见到有比它们飞得更快的了。"
 
+#. a Wose joins a player's side
 msgid "Hmm! Welcome, tree-friends. We will pound our enemies into dust!"
 msgstr "嗯！欢迎啊，树友们。我们要把敌人碾成渣渣！"
 
+#. a Merman Hunter joins a player's side
 msgid ""
 "Greetings, friends. I am a lone hunter and have no legions of warriors to "
 "offer you, but I will gladly lend my arms to your cause."
@@ -1291,11 +1308,14 @@ msgstr ""
 "朋友们，你们好。我是个孤独的猎人，没法带来个战士军团给你们，但我很乐意为你们"
 "的事业出力。"
 
+#. a Mermaid Initiate joins a player's side
 msgid ""
 "You have come a long way over the ocean, yet I see that you know little of "
 "her ways. Let me show you."
 msgstr "你远渡重洋而来，然而我看出你对海洋知之甚少。让我展示给你看吧。"
 
+#. a Cavalryman joins a player's side
+#. a Sergeant joins a player's side
 msgid ""
 "You’re not from around here, but I seem to find myself between employers at "
 "the moment and I’m not picky. I’ll fight for you, if you’ll have me."
@@ -1303,13 +1323,18 @@ msgstr ""
 "你不是这里的人，但我似乎现时并没有雇主，而我也不挑剔。如果你愿意，那我可以为"
 "你而战。"
 
+#. speaker is female, just after a Cavalryman or Horseman joins their side
 msgid "Of course. How could a girl say no to a man riding a horse?"
 msgstr "当然了。一个女孩怎么能对一个骑马的男人说不呢？"
 
+#. a Horseman joins a player's side
 msgid ""
 "Hurrah! Now THIS is a battle too grand to be missed. Save some for me, eh?"
 msgstr "棒极了！<b>这</b>现在是场不容错过的伟大战斗了。给我留点吧，嗯？"
 
+#. a Spearman joins a player's side
+#. a Woodsman joins a player's side
+#. a Dune Rover joins a player's side
 msgid ""
 "Ho there, friends! I am but a soldier of humble circumstances, yet long have "
 "I dreamed of joining great wars beyond our shores. Let me join your mission!"
@@ -1317,12 +1342,14 @@ msgstr ""
 "朋友们，你们好！我只是个出身卑微的士兵，但长久以来，我一直梦想着参与海外的伟"
 "大战争。让我加入你们的征程吧！"
 
+#. a Fencer joins a player's side
 msgid ""
 "Looks like you’re a bit down on your luck, my friends. But now that I am "
 "here, there’s nothing to worry about!"
 msgstr ""
 "看来你的运气有点不好，我的朋友们。但现在我在这里了，那就没有什么可担心的了！"
 
+#. a Heavy Infantryman joins a player's side
 msgid ""
 "Finally reinforcements are here! I’ve been pinned down for days. Help me "
 "fight my way out of here and I’ll gladly follow you!"
@@ -1330,6 +1357,7 @@ msgstr ""
 "援军终于来了！我已经被压制了好几天了。要是能帮我杀出一条路来，那我很乐意追随"
 "你！"
 
+#. a Bowman joins a player's side
 msgid ""
 "Greetings, my lords. I have watched your battle from afar and yearn to join "
 "such a glorious campaign. I pledge myself to your service!"
@@ -1337,6 +1365,8 @@ msgstr ""
 "你们好，诸位阁下。我从远处观看了你们的战斗，渴望加入这场光荣的战役。我承诺将"
 "为你们而战！"
 
+#. a Mage joins a player's side
+#. a Dune Herbalist joins a player's side
 msgid ""
 "Long have I studied the ways of lore, and I have much wisdom to offer. Allow "
 "me to guide you on your quest and together we will accomplish great things!"
@@ -1344,6 +1374,7 @@ msgstr ""
 "我研究代代相传的知识很久了，我的智慧可以与你分享。请允许我在你的征程之中给予"
 "指导，我们将一起成就大业！"
 
+#. a Merman Fighter joins a player's side
 msgid ""
 "I bring greetings from the merfolk. We have heard your plight, and though we "
 "have few warriors to spare among us, I would gladly lend my trident to your "
@@ -1352,9 +1383,12 @@ msgstr ""
 "我带来了人鱼的问候。我们听说了你的困境，虽然我们没法派出多少战士，但我很乐意"
 "为你的事业献上我的三叉戟。"
 
+#. a Dwarvish Fighter joins a player's side
+#. a Dwarvish Scout joins a player's side
 msgid "Having trouble, eh? Never worry, lads, we’ll sort ’em out soon enough!"
 msgstr "遇到麻烦了，是吗？别担心，伙计们，我们很快就会解决掉的！"
 
+#. a Thief joins a player's side. This one's British slang for "you've caught me stealing, let me work for you instead", with extra words that are just parts of the idiom.
 msgid ""
 "You’ve got me, guv, it’s a fair cop! Just lemme work for you instead. You "
 "won’t regret it, guv, I promise!"
@@ -1362,6 +1396,7 @@ msgstr ""
 "你抓住我了，头儿，这算依法逮捕！那就让我为你工作吧。你不会后悔的，头儿，我保"
 "证！"
 
+#. a Dwarvish Thunderer joins a player's side
 msgid ""
 "Listen up, ye primitive screwheads! This... is me BOOM STICK. Lemme show you "
 "what this baby can do!"
@@ -1369,16 +1404,21 @@ msgstr ""
 "听好了，你们这些原始的螺丝脑袋！这……是我的<b>爆炸棍<b>。我来展示一下这宝贝儿"
 "能做什么吧！"
 
+#. a Poacher joins a player's side
+#. a Thug joins a player's side
 msgid ""
 "What, you want my help? A guy like me? Huh, that’s rich. Oh well... let’s "
 "give it a shot, eh?"
 msgstr ""
 "什么，你要我帮忙？要像我这样的人帮忙？哼，可笑。哦行吧……我们试试看，嗯？"
 
+#. a Dwarvish Guardsman joins a player's side
+#. a Dune Rider joins a player's side
 msgid ""
 "A soldier is no good without something to fight for. Let me fight for you!"
 msgstr "一个士兵没有为之奋斗的东西是不行的。让我为你而战！"
 
+#. a Footpad joins a player's side. The first half is "please don’t attack me", the second is "you seem to be in a difficult situation too, I’m good at talking or fighting my way out".
 msgid ""
 "Hey, hey, easy there! I done nothin’ to hurt you. We’re all friends here, "
 "right? Looks like you might be in a tight spot, but don’t worry. No one’s "
@@ -1387,34 +1427,45 @@ msgstr ""
 "嘿，嘿，别紧张！我没做任何会伤害你的事。我们都是朋友，对吗？看来你可能陷入了"
 "困境，但别担心。没人比我更擅长摆脱困境了，老大！"
 
+#. an Ulfserker joins a player's side
 msgid "Chin up, lads. Today is a good day to die!"
 msgstr "振作起来，伙计们。今天是个赴死的好日子！"
 
+#. the speaker is another dwarf, after an Ulf joins their side
 msgid "Brave words. Welcome to The Fight Club..."
 msgstr "这话很勇敢。欢迎来到搏击俱乐部……"
 
+#. The speaker is a human, after an Ulf joins their side.
+#. The Ulf’s "a good day to die" could be read as a Native American battlecry, and "brave words" as "words of an Indian Brave", yet the capitalisation doesn’t allow "little big man" to be a proper noun.
+#. This doesn't sound right as the first thing a human says to a dwarf, either with or without the culture references, however it can’t be removed in 1.16.
 msgid "Brave words. Welcome little big man."
 msgstr "这话很勇敢。欢迎你，小个子真男人。"
 
+#. a Gryphon Rider joins a player's side
 msgid "Need a hand? Me an’ me bird can get just about anywheres you need."
 msgstr "需要帮忙吗？我和我的鸟可以到你想到的任何地方。"
 
+#. the speaker is a naga or merfolk, after a Gryphon Rider joins their side
 msgid "Sounds good. You scared me for a moment."
 msgstr "听起来不错。刚才你吓了我一跳。"
 
+#. the speaker is a bat or a gryphon, after a Gryphon Rider or Drake Glider joins their side
 msgid "Cool. We could always need more air power."
 msgstr "酷。我们的空中力量总是越强越好。"
 
+#. a Drake Fighter joins a player's side; they will have their standard weapon (a "war blade" in English)
 msgid ""
 "The ancient spirits tell me my destiny lies with yours. My sword is at your "
 "command."
 msgstr "古老灵魂告诉我，我的命运与你同在。我的剑听从你的指挥。"
 
+#. a Drake Clasher joins a player's side
 msgid ""
 "Stand fast, for I bring you the strength of dragons to assist you in your "
 "battle!"
 msgstr "站稳脚跟，因为我为你带来了龙的力量，将协助你战斗！"
 
+#. a Drake Burner joins a player's side
 msgid ""
 "Today is a most auspicious day for you, for I deem you worthy of the power "
 "of dragonfire. Show me your foes and I will incinerate them!"
@@ -1422,16 +1473,20 @@ msgstr ""
 "今天对你来说是个很吉祥的日子，我认为你有资格拥有龙火之力。让我看看你的敌人，"
 "我将焚烧他们！"
 
+#. the speaker is another drake, after a Drake Burner joins their side
 msgid "Perfect. We can always use more firepower."
 msgstr "完美。我们的火力总是越强越好。"
 
+#. a Saurian Augur joins a player's side
 msgid ""
 "You no fight good enough, no have saurian way. I show you way of saurian!"
 msgstr "你战斗力不足，又不走蜥蜴人之道。我来给你看看蜥蜴人之道吧！"
 
+#. the speaker is another saurian, after a Saurian Augur joins their side
 msgid "Sure, bro..."
 msgstr "当然了，兄弟……"
 
+#. a Drake Glider joins a player's side
 msgid ""
 "You may be out to take over the land and the seas, but you’ll never get "
 "anywhere without control of the skies. Fortunately I’m here to help you!"
@@ -1439,6 +1494,7 @@ msgstr ""
 "你可能会去占领陆地和海洋，但要是不控制天空，就永远不会有任何进展。幸运的是，"
 "我来帮你了！"
 
+#. a Saurian Skirmisher joins a player's side
 msgid ""
 "Tribe fall long time ago, now tribe lost. This last fight of tribe. I fight "
 "with you, make last very great!"
@@ -1446,6 +1502,7 @@ msgstr ""
 "部落很久以前就衰败了，而现在部落已不再。这是部落的最后一次战斗。我和你一起战"
 "斗，让最后一战成为伟大一战吧！"
 
+#. a Skeleton joins a player's side
 msgid ""
 "Don’t hit me! I’m just your average regular friendly talking skeleton, see? "
 "Looks like you fellows could use some help!"
@@ -1453,12 +1510,14 @@ msgstr ""
 "别打我！我只是一个普通的友好的会说话的骷髅而已，看到了吧？看来你们这些家伙需"
 "要一些帮助！"
 
+#. a Skeleton Archer joins a player's side
 msgid ""
 "I am called forth from eternal rest, bound to follow he who called me. Show "
 "me the enemy, master!"
 msgstr ""
 "我从永恒的安息之中应召而来，注定要跟随召唤我之人。让我面对敌人吧，主人！"
 
+#. a Ghoul joins a player's side, and this line does not fit a Ghoul at all, it’s a pantomime-level stereotype of a British hero.
 msgid ""
 "I say, old sport! It looks like you’ve got a spot of bother. Well, chin up, "
 "I say! I’m sure we’ll make a simply smashing team-up. We can sort this lot "
@@ -1467,9 +1526,12 @@ msgstr ""
 "我说，老伙计！看来你有麻烦了。行了，我说啊，振作起来！我相信我们会成为非常好"
 "的团队的。到茶点儿之前就能搞定了，怎么？"
 
+#. response to the Ghoul’s introduction line
 msgid "Have at thee, unholy abomin... wait, huh?"
 msgstr "准备受死，渎圣的怪……等等，哈？"
 
+#. a Dark Adept joins a player's side
+#. a Dune Burner joins a player's side
 msgid ""
 "You may not trust me or my reasons, but it seems you are not in a position "
 "to be choosy about your allies. Let me assist you and you just may survive."
@@ -1477,6 +1539,7 @@ msgstr ""
 "你可能不信任我，也不信我的说辞，但看来你没资格对盟友挑三拣四。让我帮你吧，你"
 "就可能活下来。"
 
+#. a Ghost joins a player's side
 msgid ""
 "Who calls me from my slumber? I sense a great battle being joined. Point me "
 "towards the enemy and I will feast upon their very souls!"
@@ -1484,38 +1547,49 @@ msgstr ""
 "是谁把我从睡梦中唤醒？我感到有很多人正参与一场伟大的战斗。指出敌人的所在吧，"
 "我将用他们的灵魂大快朵颐！"
 
+#. a Vampire Bat joins a player's side
 msgid "Skreeeeeeee!"
 msgstr "斯克利噫噫噫！"
 
+#. after a Vampire Bat joins the player's side
 msgid ""
 "This creature seems unusually intelligent for its kind. Perhaps it will help "
 "us!"
 msgstr "这个生物相比其同类而言，似乎异常聪明。也许它能帮助我们！"
 
+#. a Young Ogre joins a player's side
 msgid "You friend are? I friend help!"
 msgstr "朋友你们是？我朋友帮忙！"
 
+#. the speaker is an ogre or troll, after a Young Ogre joins their side
 msgid "Me friend. We can play together."
 msgstr "我，朋友。我们可以一起玩。"
 
+#. a Goblin Spearman joins a player's side
 msgid "Ah, please no hurtings me! I helps you, see?"
 msgstr "啊，请不伤我！我帮你，看啦？"
 
+#. after a Goblin Spearman joins a player's side
 msgid "Fine. We could need a small help."
 msgstr "很好。我们正需要有人帮点小忙。"
 
+#. after a Goblin Spearman joins a player's side
 msgid "Excellent. We could always need cannon fodder."
 msgstr "好极了。我们的炮灰越多越好。"
 
+#. a Walking Corpse joins a player’s side
 msgid "..."
 msgstr "……"
 
+#. after a Walking Corpse joins the player’s side
 msgid "Odd, it doesn’t seem to attack. I wonder if we can use it?"
 msgstr "奇怪，它似乎并不攻击。我很好奇能不能利用它？"
 
+#. a Peasant or Ruffian joins a player's side. This line is the speech of an overeager schoolchild.
 msgid "Oooh oooh oooh! I want to help! Pick me, pick me!"
 msgstr "哦哦哦！我想帮忙！选我，选我！"
 
+#. after a Peasant or Ruffian joins the player’s side
 msgid "...fine. I guess."
 msgstr "……很好。我觉得很好。"
 

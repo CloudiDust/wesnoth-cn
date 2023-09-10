@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-01-27 15:10+0800\n"
+"POT-Creation-Date: 2023-07-23 03:50 UTC\n"
+"PO-Revision-Date: 2023-09-10 09:12+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -963,6 +963,7 @@ msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
 msgstr "好吧，越快到达尖塔石越好，我们走吧！"
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
+#. a variant of the Giant Scorpion unit type
 msgid "Scuttler"
 msgstr "凿岩者"
 
@@ -1710,6 +1711,7 @@ msgid ""
 msgstr "你不能这么做，独自和这种怪物战斗会死的。我们需要你，没有你我们就完了。"
 
 #. [message]: speaker=Garak
+#. Garak dies in this scenario, and the important part of this conversation is to tell the player that.
 msgid ""
 "I had dreams of this night Kaleh, full of gloom and darkness, my journey "
 "will end here one way or another."
@@ -4187,6 +4189,7 @@ msgstr ""
 "去。"
 
 #. [message]
+#. "you" is singular and referring to a superior officer
 msgid "But sir, behind you...!"
 msgstr "但是长官，您背后……！"
 
@@ -4223,6 +4226,7 @@ msgid "No, it’s a... human?"
 msgstr "不，这是……人类？"
 
 #. [message]: speaker=Dwarf Sergeant
+#. the human is female (Elyssa), but even if gender matters then the speaker is probably already speaking while turning to see her
 msgid "What is a human doing here? Come on, boys, kill the intruder!"
 msgstr "人类来这儿干啥？上啊，兄弟们，杀死入侵者！"
 
@@ -4241,6 +4245,7 @@ msgid "No, look behind you!"
 msgstr "不，注意背后！"
 
 #. [message]: speaker=unit
+#. "Sarge" is short for "Sergeant". This is intended to be a funny death message.
 msgid "I love you, Sarge..."
 msgstr "我爱你，军士……"
 
@@ -5217,6 +5222,7 @@ msgid "Troll Avenger"
 msgstr "巨魔复仇者"
 
 #. [message]: role=avenger
+#. The grammar here is troll speech, and its second sentence merges the second and third sentences of the dwarven equivalent.
 msgid ""
 "Foul elves, you not escaped us yet. Great Leader will be avenged! We plugged "
 "river and you all drown with us!"
@@ -6110,11 +6116,17 @@ msgstr ""
 msgid "So be it. I care not."
 msgstr "那就走吧，我无所谓。"
 
+#. [set_variable]
+#. Name of the dark assassin who uses "speaker=Cloaked Figure" when talking
+msgid "Keratur"
+msgstr "凯若特"
+
 #. [message]: speaker=$explorer.id
 msgid "Look, daylight! I think we finally made it out of the caves!"
 msgstr "看，阳光！我们终于走出洞穴了！"
 
 #. [message]: speaker=Nym
+#. Nym is blocked by deep water, and drowning is inevitable
 msgid "Kaleh? Zhul? I’m still stuck back here..."
 msgstr "卡勒？朱尔？我还被困在这里……"
 
@@ -6129,6 +6141,7 @@ msgid "Kaleh, I think you should come up and see this."
 msgstr "卡勒，来看这个。"
 
 #. [message]: speaker=Kaleh
+#. Kaleh is blocked by deep water, and drowning is inevitable
 msgid "Ack, I’m surrounded by water!"
 msgstr "咳，我被水包围了！"
 
@@ -7296,6 +7309,7 @@ msgid "Don’t try to explain, Esanoo. We’ll have to show them instead."
 msgstr "伊瑟努，不用解释。我们只能展示给他们看。"
 
 #. [message]: speaker=Esanoo
+#. Esanoo is a merman, his leader (Melusand) is female, and his brethren on this mission include a mix of genders.
 msgid ""
 "It’s not important. What’s important is that I am an emissary from one who "
 "much desires to speak with you, Kaleh. Despite the danger, our wise leader "

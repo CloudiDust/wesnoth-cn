@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-08 01:42 UTC\n"
-"PO-Revision-Date: 2023-01-27 15:05+0800\n"
+"POT-Creation-Date: 2023-04-02 14:56 UTC\n"
+"PO-Revision-Date: 2023-09-10 08:38+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 msgid "Heir to the Throne"
@@ -594,6 +594,11 @@ msgstr "没有他的帮助，我们没办法使用这些船。没有希望了…
 msgid "The Isle of Alduin"
 msgstr "奥渡因岛"
 
+#. [note]
+#. a hint that the player has 3 scenarios before the first main test of their XP management
+msgid "You’ll need experienced troops at Elensefar."
+msgstr "你得带经验丰富的部队去埃仁撒伐。"
+
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
 msgid "Usadar Q’kai"
 msgstr "乌萨达·丘凯"
@@ -611,14 +616,6 @@ msgstr "就这样，一行人在奥渡因岛登岸了。"
 msgid "So this is Alduin. It looks a little... desolate."
 msgstr "这么说这里就是奥渡因岛了。这儿看起来有点……荒凉。"
 
-#. [message]: speaker=Delfador
-msgid ""
-"I fear so, Konrad. It seems that the orcs have come even here. Here to the "
-"place where I was born, where I was trained."
-msgstr ""
-"恐怕是的，科纳德。似乎兽人们甚至已经到了这里。这里，他们入侵了我出生的地方，"
-"我接受训练的地方。"
-
 #. [message]: speaker=Usadar Q'kai
 msgid ""
 "Who is that? Oh, a party of elves has landed. We shall drive them back into "
@@ -627,11 +624,27 @@ msgstr "什么人？哦，有一群精灵登陆了。让我们把他们赶回海
 
 #. [message]: speaker=Delfador
 msgid ""
-"I did not think the orcs would have come here. This island used to be so "
-"beautiful. We must recapture it! To arms!"
+"If the orcs have come here, their forces at Elensefar must be even more "
+"numerous than I feared."
+msgstr "既然兽人都来到这儿了，那他们在埃仁撒伐的军力怕是比我所担心的还要多。"
+
+#. [message]: speaker=Delfador
+#. a hint for players who are expecting campaigns to have a steadily-rising difficulty curve.
+msgid ""
+"Konrad, training is important. If we only have inexperienced troops when we "
+"reach Elensefar, then our journey is likely to end in sight of the city’s "
+"gates."
 msgstr ""
-"我没有料到兽人们会来这里。这个岛曾经是多么美丽啊。我们必须把它夺回来！全军战"
-"备！"
+"科纳德，训练很重要。要是到达埃仁撒伐时只有缺乏经验的部队，那我们的旅程在看到"
+"城门时就很可能会结束。"
+
+#. [message]: speaker=Delfador
+msgid ""
+"This island is the place where I was born, and where I learned magic; it "
+"used to be so beautiful. We must recapture it! To arms!"
+msgstr ""
+"这个岛是我出生之地，也是我学习魔法之地。它曾经是多么美丽啊。我们必须把它夺回"
+"来！拿起武器！"
 
 #. [unit]: id=Elrian, type=Mage
 msgid "Elrian"
@@ -4916,8 +4929,9 @@ msgstr ""
 #. [message]: speaker=Kalenz
 msgid ""
 "Very well. If you convince him not to raise his sword against us, the "
-"Lintair elves shall grant him safe passage."
-msgstr "很好。如果你说服他不要举起剑来对付我们，林塔尼尔精灵们将让他安全通过。"
+"Lintanir elves shall grant him safe passage."
+msgstr ""
+"很好。如果你能说服他，别举起剑来对付我们，那林塔尼尔精灵将准许他安全通过。"
 
 #. [message]: speaker=Konrad
 msgid ""
@@ -7316,3 +7330,10 @@ msgid ""
 msgstr ""
 "德法多逃到了艾森丛林，远在韦诺的西南边境之外。在精灵们的保护下，他将科纳德抚"
 "养长大。而与此同时，他只能悲哀地看着艾什薇尔的恐怖统治开始在这片土地上蔓延……"
+
+#~ msgid ""
+#~ "I fear so, Konrad. It seems that the orcs have come even here. Here to "
+#~ "the place where I was born, where I was trained."
+#~ msgstr ""
+#~ "恐怕是的，科纳德。似乎兽人们甚至已经到了这里。这里，他们入侵了我出生的地"
+#~ "方，我接受训练的地方。"
