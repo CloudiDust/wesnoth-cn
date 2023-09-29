@@ -6153,9 +6153,3 @@ msgid ""
 msgstr ""
 "主键‘$deprecated_key|’已重命名为‘$key’。对‘$deprecated_key|’的支持将在版本"
 "$removal_version|中移除。"
-
-#~ msgid "Show disengaged orb"
-#~ msgstr "显示脱战状态球"
-
-#~ msgid "This uses the colors for partial and moved orbs."
-#~ msgstr "这将使用部分移动和已移动状态球的颜色。"
