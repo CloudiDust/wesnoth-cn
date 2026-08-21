@@ -12,9 +12,12 @@
 | upkeep | 维护费 |
 | recall | 召回 |
 | recruit | 征募 |
+| Weldyn | 维尔帝 | 地名，韦诺首都 |
 | Bay of Pearls | 珍珠湾 | 地名 |
 | merfolk | 人鱼 | 通用译名 |
 | naga | 娜迦 | 种族名 |
+| peasant | 农民 | 单位名 |
+| woodsman | 山名 | 单位名 |
 
 ### 专有名词
 
@@ -55,12 +58,6 @@
 
 ```
 %(context)s
-```
-
-语境注释：
-
-```
-%(comment)s
 ```
 
 待译原文：
