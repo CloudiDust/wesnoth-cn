@@ -2142,6 +2142,7 @@ msgstr "入门介绍"
 msgid "Gameplay"
 msgstr "游戏玩法"
 
+#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:531

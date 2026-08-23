@@ -4210,7 +4210,6 @@ msgstr "正在载入……"
 #. [widget]: id=tab_label
 #: data/gui/window/lobby_main.cfg:75
 #, fuzzy
-#| msgid "General"
 msgid "General Lobby"
 msgstr "通用"
 
@@ -5501,7 +5500,6 @@ msgstr ""
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:201
 #, fuzzy
-#| msgid "Show damage and healing amounts above a unit"
 msgid "Show amount of damage inflicted or healed as fading labels above units"
 msgstr "在单位上方显示伤害和治疗数字"
 
