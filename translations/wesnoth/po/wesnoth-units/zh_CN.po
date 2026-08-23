@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2022 Wesnoth development team
+# Copyright (C) 2005-2026 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
 # Translators and their initial years of participation:
@@ -9,14 +9,15 @@
 # sylecn <sylecn AT yahoo DOT com DOT cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
+# vimacs <vimacs.hacks@gmail.com>, 2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.16\n"
+"Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2026-07-02 22:43+0800\n"
-"Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
+"PO-Revision-Date: 2026-08-23 11:08+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -1065,12 +1066,11 @@ msgstr "嘲讽打击"
 #. [advancement]: id=run_by_taunt
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:183
 msgid "Run By (Taunting strike)"
-msgstr ""
+msgstr "跑打（嘲讽打击）"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [advancement]: id=strength_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:201
-#, fuzzy
 msgid "Strength Training"
 msgstr "力量训练"
 
@@ -5556,7 +5556,7 @@ msgstr "火蚁拥有锋利的颚和一种不寻常的喷火能力，蚁后也不
 #. [unit_type]: id=Firebane Ant, race=monster
 #: data/core/units/monsters/Ant_Firebane.cfg:11
 msgid "Firebane Ant"
-msgstr ""
+msgstr "火刃蚁"
 
 #. [unit_type]: id=Firebomb Ant, race=monster
 #: data/core/units/monsters/Ant_Firebomb.cfg:11
@@ -7879,9 +7879,8 @@ msgstr "蝎"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:364
 #: data/core/units/undead/Corpse_Walking.cfg:365
-#, fuzzy
 msgid "wc_variation^Scuttler"
-msgstr "蜘蛛"
+msgstr "快跑者"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:373

@@ -1,5 +1,5 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2022 Wesnoth development team
+# Copyright (C) 2005-2026 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
 # Translators and their initial years of participation:
@@ -7,14 +7,15 @@
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
 # Yifan <yyf1992@mail.ustc.edu.cn>, 2015.
+# vimacs <vimacs.hacks@gmail.com>, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-08 09:30-0600\n"
-"PO-Revision-Date: 2026-07-03 10:23+0800\n"
-"Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
+"PO-Revision-Date: 2026-08-23 11:02+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -2327,7 +2328,6 @@ msgstr "安装附加组件"
 msgid "Update add-on"
 msgstr "升级附加组件"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_publish
 #. [button]: id=publish
 #: data/gui/widget/addon_list.cfg:412 data/gui/window/addon_manager.cfg:645
@@ -2335,7 +2335,6 @@ msgstr "升级附加组件"
 msgid "Publish add-on"
 msgstr "发布附加组件"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_uninstall
 #. [button]: id=uninstall
 #: data/gui/widget/addon_list.cfg:435 data/gui/window/addon_manager.cfg:622
@@ -2382,7 +2381,6 @@ msgstr "关闭"
 msgid "Profile"
 msgstr "档案"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [grid]
 #: data/gui/window/achievements_dialog.cfg:79
@@ -2415,7 +2413,6 @@ msgstr "密码："
 msgid "Save password locally (encrypted)"
 msgstr "在本地保存密码（明文）"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/addon_auth.cfg:167 data/gui/window/custom_tod.cfg:471
 #: data/gui/window/depcheck_select_new.cfg:151
@@ -2443,7 +2440,6 @@ msgstr "在本地保存密码（明文）"
 msgid "OK"
 msgstr "确定"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 #. [button]: id=placeholder
 #: data/gui/window/addon_auth.cfg:181 data/gui/window/addon_connect.cfg:211
@@ -2575,7 +2571,6 @@ msgstr "首次上传于："
 msgid "date^Updated:"
 msgstr "最后更新于："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [scroll_label]: id=description
 #: data/gui/window/addon_manager.cfg:415
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:559
@@ -2616,7 +2611,6 @@ msgstr "删除附加组件"
 msgid "Dependencies:"
 msgstr "依赖项目："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=dependencies
 #: data/gui/window/addon_manager.cfg:713 src/gui/dialogs/addon/manager.cpp:1092
 msgid "addon_dependencies^None"
@@ -2629,7 +2623,6 @@ msgstr "无"
 msgid "Translations:"
 msgstr "翻译："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=translations
 #: data/gui/window/addon_manager.cfg:748 src/gui/dialogs/addon/manager.cpp:1106
 msgid "translations^None"
@@ -2672,7 +2665,6 @@ msgstr "顺序："
 msgid "Add-ons Manager"
 msgstr "附加组件管理器"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=details_toggle
 #: data/gui/window/addon_manager.cfg:1099 src/gui/dialogs/addon/manager.cpp:546
 #: src/gui/dialogs/addon/manager.cpp:820
@@ -2848,7 +2840,6 @@ msgstr "玩一场战役"
 msgid "game^Play"
 msgstr "开始游玩"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #. [slider]: id=enemey_gold_factor
 #. [slider]: id=enemy_gold_factor
@@ -2864,7 +2855,6 @@ msgstr "难度"
 msgid "Select difficulty:"
 msgstr "选择难度："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/chat_log.cfg:36 src/hotkey/hotkey_command.cpp:287
 msgid "Chat Log"
@@ -2962,7 +2952,6 @@ msgstr "捐款"
 msgid "Load Core"
 msgstr "读取核心"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/core_dialog.cfg:228
 #: data/gui/window/language_selection.cfg:293 src/preferences/display.cpp:119
@@ -3004,7 +2993,6 @@ msgstr "使用文件管理器浏览此位置"
 msgid "Edit Time Schedule"
 msgstr "编辑日程表"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [label]: id=id_label
 #: data/gui/window/custom_tod.cfg:177
@@ -3078,7 +3066,6 @@ msgstr "新建时段"
 msgid "Delete ToD"
 msgstr "删除时段"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/depcheck_confirm_change.cfg:40
 #: src/gui/dialogs/addon/manager.cpp:985 src/gui/dialogs/file_dialog.cpp:306
@@ -3091,7 +3078,6 @@ msgstr "确认"
 msgid "Would you like to apply the changes?"
 msgstr "你想应用这些改变吗？"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/depcheck_confirm_change.cfg:128
 #: data/gui/window/game_delete.cfg:107
@@ -3102,7 +3088,6 @@ msgstr "你想应用这些改变吗？"
 msgid "Yes"
 msgstr "是"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 #: data/gui/window/depcheck_confirm_change.cfg:142
 #: data/gui/window/game_delete.cfg:121
@@ -3150,6 +3135,8 @@ msgid ""
 "New Add-on option is chosen, its ID can be changed via the Change Add-on ID "
 "option."
 msgstr ""
+"选择一个要与当前编辑器会话关联的附加组件。如果选择了“新建附加组件”选项，则可"
+"以通过“更改附加组件ID”选项修改其ID。"
 
 #. [label]: id=existing_addon_id
 #: data/gui/window/editor_choose_addon.cfg:98
@@ -3199,7 +3186,7 @@ msgstr "黑幕中可见"
 #. [label]: id=title
 #: data/gui/window/editor_edit_pbl.cfg:84
 msgid "Add-on Publishing Setup"
-msgstr ""
+msgstr "附加组件发布设置"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:150
@@ -3231,7 +3218,7 @@ msgstr "选择一个图标文件"
 msgid ""
 "The path to the icon image to display in the add-ons manager. Must be an "
 "image from mainline."
-msgstr ""
+msgstr "要在附加组件管理器中显示的图标图片路径。该图片必须来自主线。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:206
@@ -3257,6 +3244,8 @@ msgid ""
 "depends on. The add-on ID is the folder name in your operating system’s file "
 "manager, not the add-on’s name."
 msgstr ""
+"以逗号分隔的列表，其中包含该附加组件所依赖的其他附加组件的ID。附加组件ID是指"
+"您操作系统文件管理器中的文件夹名称，而非附加组件的名称。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:211
@@ -3268,7 +3257,7 @@ msgstr "论坛帖子："
 msgid ""
 "The numeric topic ID of a thread on the Wesnoth forums where players can "
 "post feedback."
-msgstr ""
+msgstr "韦诺论坛上一个帖子的主题ID（为一个数字），玩家可以在该帖子下发表反馈。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:212
@@ -3291,13 +3280,15 @@ msgid ""
 "Whether to use your forum username and password when uploading or to store "
 "your password and email address in the add-on’s _server.pbl."
 msgstr ""
+"上传时是使用论坛用户名和密码，还是将密码和电子邮件地址存储在插件的_server.pbl"
+"文件中。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:214
 msgid ""
 "Comma delimited list of forum usernames of other people who are allowed to "
 "upload updates for this add-on."
-msgstr ""
+msgstr "论坛用户名列表，包含允许为该附加组件上传更新的其他用户，以逗号分隔。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:214
@@ -3308,7 +3299,7 @@ msgstr "第二作者："
 #: data/gui/window/editor_edit_pbl.cfg:215
 msgid ""
 "An email address you can be contacted at in case of issues with your add-on."
-msgstr ""
+msgstr "一个可供联系的电子邮箱地址，当你的插件出现问题时，可以此联系你。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:215
@@ -3320,7 +3311,7 @@ msgstr "Email:"
 msgid ""
 "The add-on’s current password. Using forum authentication is recommended "
 "instead since this password is not stored securely."
-msgstr ""
+msgstr "附加组件的当前密码。建议改用论坛认证，因为此密码并未以安全的方式存储。"
 
 #. [label]: id=translations_title
 #: data/gui/window/editor_edit_pbl.cfg:274
@@ -3352,7 +3343,6 @@ msgstr "删除"
 msgid "Validate"
 msgstr "验证"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #. [button]: id=save
 #: data/gui/window/editor_edit_pbl.cfg:463 data/gui/window/game_save.cfg:120
@@ -3369,7 +3359,7 @@ msgstr "翻译"
 #. [label]
 #: data/gui/window/editor_edit_pbl_translation.cfg:84
 msgid "* Required"
-msgstr ""
+msgstr "* 必需"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:97
@@ -3408,7 +3398,6 @@ msgstr "编辑场景设置"
 msgid "Identifier:"
 msgstr "标识符："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_edit_scenario.cfg:170
 #: src/gui/dialogs/multiplayer/lobby.cpp:455
@@ -3475,7 +3464,6 @@ msgstr "在状态表中隐藏"
 msgid "Gold:"
 msgstr "金币："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:303
 #: src/gui/dialogs/multiplayer/lobby.cpp:456
@@ -3497,7 +3485,6 @@ msgstr "每村庄供给："
 msgid "Controller:"
 msgstr "控制者："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [row]
 #: data/gui/window/editor_edit_side.cfg:399 src/gui/dialogs/game_stats.cpp:71
 msgid "controller^Human"
@@ -3533,7 +3520,6 @@ msgstr "战场黑幕"
 msgid "vision^None"
 msgstr "无"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_generate_map.cfg:43 src/hotkey/hotkey_command.cpp:248
 msgid "Generate Map"
@@ -3544,7 +3530,6 @@ msgstr "生成地图"
 msgid "Choose a map generator:"
 msgstr "选择地图生成器："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=settings
 #. [button]: id=random_map_settings
 #: data/gui/window/editor_generate_map.cfg:128
@@ -3563,7 +3548,6 @@ msgstr "随机数种子："
 msgid "Generate"
 msgstr "生成"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/editor_new_map.cfg:36 src/hotkey/hotkey_command.cpp:178
 msgid "New Map"
@@ -3588,7 +3572,6 @@ msgstr "高度："
 msgid "Create"
 msgstr "创建"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_resize_map.cfg:35 src/hotkey/hotkey_command.cpp:247
 msgid "Resize Map"
@@ -3784,7 +3767,6 @@ msgstr "不再显示"
 msgid "Date"
 msgstr "日期"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #. [button]: id=load_game
 #: data/gui/window/game_load.cfg:317 data/gui/window/mp_create_game.cfg:944
@@ -3838,7 +3820,6 @@ msgstr "取消游戏存档中所有待实施行动"
 msgid "Load"
 msgstr "载入"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #: data/gui/window/game_save.cfg:42 data/gui/window/game_save_message.cfg:42
 #: data/gui/window/game_save_oos.cfg:42 src/hotkey/hotkey_command.cpp:106
@@ -3875,14 +3856,12 @@ msgstr "首领"
 msgid "Team"
 msgstr "团队"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
 #: data/gui/window/game_stats.cfg:63
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:435
 msgid "Gold"
 msgstr "金币"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_3
 #: data/gui/window/game_stats.cfg:76
 #: src/generators/default_map_generator.cpp:198
@@ -3899,7 +3878,6 @@ msgstr "单位"
 msgid "Upkeep"
 msgstr "维护费用"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [image]: id=income_icon
 #. [label]: id=side_income
@@ -3951,7 +3929,6 @@ msgstr ""
 "供给\n"
 "/村庄"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/game_stats.cfg:705 src/gui/dialogs/game_stats.cpp:255
 msgid "Current Status"
@@ -3962,7 +3939,6 @@ msgstr "当前状态"
 msgid "Game Stats"
 msgstr "游戏统计"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 #: data/gui/window/game_stats.cfg:793 src/gui/dialogs/game_stats.cpp:255
 msgid "Scenario Settings"
@@ -4177,6 +4153,8 @@ msgid ""
 "including translation. Translations may drift behind or even become "
 "abandoned."
 msgstr ""
+"<b>韦诺之战</b>的开发工作，包括翻译工作在内，均依赖志愿者。因此，翻译工作可能"
+"会滞后，甚至被搁置。"
 
 #. [label]
 #. Beneath the label widget displaying this text there is a widget displaying
@@ -4187,6 +4165,8 @@ msgid ""
 "interface and in-game help only. More complete stats, including details for "
 "each campaign, are available at the following page:"
 msgstr ""
+"<b>注意：</b>所示的翻译百分比仅适用于核心游戏界面和游戏内帮助。更完整的统计数"
+"据（包括每个战役的详细信息）可在以下页面查看："
 
 #. [label]
 #. Beneath the label widget displaying this text there is a widget displaying
@@ -4209,16 +4189,15 @@ msgstr "正在载入……"
 
 #. [widget]: id=tab_label
 #: data/gui/window/lobby_main.cfg:75
-#, fuzzy
 msgid "General Lobby"
-msgstr "通用"
+msgstr "通用大厅"
 
 #. [widget]: id=tab_label
 #. Games which were created by a bot, there's discussion about the meaning and
 #. possibly better names in https://github.com/wesnoth/wesnoth/issues/8148
 #: data/gui/window/lobby_main.cfg:88
 msgid "Matchmaking"
-msgstr ""
+msgstr "匹配"
 
 #. [label]: id=map
 #: data/gui/window/lobby_main.cfg:140
@@ -4280,14 +4259,12 @@ msgstr "反转过滤条件"
 msgid "Create Game"
 msgstr "创建游戏"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=join_global
 #: data/gui/window/lobby_main.cfg:532 data/gui/window/lobby_main.cfg:796
 #: src/gui/dialogs/multiplayer/lobby.cpp:872
 msgid "Join"
 msgstr "加入"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=observe_global
 #: data/gui/window/lobby_main.cfg:544 data/gui/window/lobby_main.cfg:819
 #: src/gui/dialogs/multiplayer/lobby.cpp:838
@@ -4301,7 +4278,6 @@ msgstr "观察"
 msgid "Announcements"
 msgstr "公告"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=show_preferences
 #. [label]: id=title
 #. [grid]
@@ -4558,7 +4534,6 @@ msgstr "当一位玩家离开大厅或游戏时"
 msgid "When a whisper is received"
 msgstr "当收到悄悄话时"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:186
 #: src/gui/dialogs/multiplayer/mp_report.cpp:49
@@ -4840,7 +4815,6 @@ msgstr "行动奖励"
 msgid "Time for each attack, recruit, and capture"
 msgstr "每次攻击、征募和占领的时间"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 #. [widget]: id=label
 #: data/gui/window/mp_create_game.cfg:579 data/gui/window/preferences.cfg:292
@@ -4917,7 +4891,6 @@ msgid ""
 "Set the password that people wanting to join your game as players must enter"
 msgstr "设置想作为玩家加入你的游戏的人所必须输入的密码"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/mp_create_game/default_resolution.cfg:176
 #: data/gui/window/mp_create_game/small_resolution.cfg:181
@@ -4998,7 +4971,6 @@ msgstr "离开"
 msgid "Game Lobby"
 msgstr "游戏大厅"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=status_label
 #: data/gui/window/mp_join_game.cfg:491 data/gui/window/mp_staging.cfg:623
 #: data/gui/window/mp_staging.cfg:815
@@ -5048,7 +5020,6 @@ msgstr "信息"
 msgid "Players"
 msgstr "玩家"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:401
 #: src/gui/dialogs/multiplayer/lobby.cpp:433
@@ -5079,7 +5050,6 @@ msgstr "内容类型："
 msgid "Game name:"
 msgstr "游戏名称："
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [widget]: id=label
 #. [grid]
@@ -5134,17 +5104,17 @@ msgstr "本地游戏"
 #. [label]
 #: data/gui/window/mp_report.cfg:50
 msgid "* Player being reported:"
-msgstr ""
+msgstr "* 被举报的玩家："
 
 #. [label]
 #: data/gui/window/mp_report.cfg:82
 msgid "* Reason for report:"
-msgstr "* 报告原因："
+msgstr "* 举报原因："
 
 #. [label]
 #: data/gui/window/mp_report.cfg:114
 msgid "Location of occurrence:"
-msgstr ""
+msgstr "发生位置："
 
 #. [label]
 #: data/gui/window/mp_report.cfg:146
@@ -5364,7 +5334,6 @@ msgstr "动作"
 msgid "Hotkey"
 msgstr "快捷键"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
 #. Translate G as the initial letter for Game
 #: data/gui/window/preferences/02_hotkeys.cfg:118
@@ -5377,7 +5346,6 @@ msgstr "G"
 msgid "Available in game"
 msgstr "游戏中可用"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_3
 #. Translate E as the initial letter for Editor
 #: data/gui/window/preferences/02_hotkeys.cfg:131
@@ -5390,7 +5358,6 @@ msgstr "E"
 msgid "Available in editor"
 msgstr "编辑器中可用"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_4
 #. Translate M as the initial letter for Main Menu
 #: data/gui/window/preferences/02_hotkeys.cfg:144
@@ -5421,7 +5388,7 @@ msgstr "窗口大小："
 #. [label]: id=help_text
 #: data/gui/window/preferences/03_display.cfg:39
 msgid "Pixel scale multiplier:"
-msgstr ""
+msgstr "像素缩放系数："
 
 #. [menu_button]: id=resolution_set
 #: data/gui/window/preferences/03_display.cfg:73
@@ -5433,7 +5400,7 @@ msgstr "改变游戏窗口大小"
 msgid ""
 "Set the global pixel scale multiplier. A pixel scale multiplier of 2 will "
 "make everything look twice as large."
-msgstr ""
+msgstr "设置全局像素缩放系数。例如缩放系数为2，那么所有东西看上去都是两倍大。"
 
 #. [toggle_button]: id=fullscreen
 #: data/gui/window/preferences/03_display.cfg:102
@@ -5448,12 +5415,12 @@ msgstr "在全屏和窗口模式之间切换"
 #. [toggle_button]: id=auto_pixel_scale
 #: data/gui/window/preferences/03_display.cfg:114
 msgid "pixel_scale_multiplier^Automatic scale"
-msgstr ""
+msgstr "自动缩放"
 
 #. [toggle_button]: id=auto_pixel_scale
 #: data/gui/window/preferences/03_display.cfg:115
 msgid "Choose pixel scale multiplier automatically based on current resolution"
-msgstr ""
+msgstr "根据当前分辨率，自动选择像素缩放系数"
 
 #. [toggle_button]: id=vsync
 #: data/gui/window/preferences/03_display.cfg:129
@@ -5465,7 +5432,7 @@ msgstr "VSync"
 msgid ""
 "Reduces tearing by synchronizing rendering with the screen refresh rate "
 "(requires restart to take effect)"
-msgstr ""
+msgstr "通过将渲染与屏幕刷新率同步来减少画面撕裂（需要重启才能生效）"
 
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:145
@@ -5490,23 +5457,22 @@ msgstr "界面主题："
 msgid ""
 "Change the in-game interface theme. Additional themes may be provided by "
 "community-made add-ons"
-msgstr ""
+msgstr "更改游戏内界面主题。更多主题可由社区制作的附加组件提供"
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:200
 msgid "Combat damage indicators"
-msgstr ""
+msgstr "战斗伤害标识"
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:201
-#, fuzzy
 msgid "Show amount of damage inflicted or healed as fading labels above units"
-msgstr "在单位上方显示伤害和治疗数字"
+msgstr "用会淡出的标签，在单位上方显示伤害和治疗量"
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:214
 msgid "Team color indicators"
-msgstr ""
+msgstr "团队颜色标识"
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:215
@@ -5518,7 +5484,7 @@ msgstr "在单位脚底周围显示彩色圆环以显示其所属阵营"
 #. [toggle_button]: id=show_grid
 #: data/gui/window/preferences/03_display.cfg:228
 msgid "Grid overlay"
-msgstr ""
+msgstr "网格覆盖层"
 
 #. [toggle_button]: id=show_grid
 #: data/gui/window/preferences/03_display.cfg:229
@@ -5855,7 +5821,6 @@ msgstr "配置所选的自定义模组的设置。"
 msgid "Overall"
 msgstr "总括"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/statistics_dialog.cfg:490 src/hotkey/hotkey_command.cpp:128
 msgid "Statistics"
@@ -5913,7 +5878,6 @@ msgstr ""
 "绿色值表明这一方比所期望的运气更好。\n"
 "红色值表明这一方比所期望的运气更差。"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #: data/gui/window/surrender_quit.cfg:40 src/hotkey/hotkey_command.cpp:131
 msgid "Surrender Game"
@@ -5994,7 +5958,6 @@ msgstr "标志"
 msgid "Choose Theme"
 msgstr "选择主题"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=help
 #: data/gui/window/title_screen.cfg:177 src/hotkey/hotkey_command.cpp:285
 msgid "Help"
@@ -6154,7 +6117,6 @@ msgstr "等级"
 msgid "XP"
 msgstr "经验"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [toggle_button]: id=sort_4
 #: data/gui/window/unit_list.cfg:176 data/gui/window/unit_recall.cfg:89
@@ -6163,7 +6125,6 @@ msgstr "经验"
 msgid "Traits"
 msgstr "特质"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/unit_list.cfg:367 src/hotkey/hotkey_command.cpp:127
 msgid "Unit List"
@@ -6189,7 +6150,6 @@ msgstr "重命名"
 msgid "Dismiss"
 msgstr "解散"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/unit_recall.cfg:450 src/hotkey/hotkey_command.cpp:112
 msgid "Recall"
@@ -6200,13 +6160,11 @@ msgstr "召回"
 msgid "Recruit Unit"
 msgstr "征募单位"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/unit_recruit.cfg:231 src/hotkey/hotkey_command.cpp:110
 msgid "Recruit"
 msgstr "征募"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/wml_error.cfg:40 src/gui/dialogs/message.cpp:209
 #: src/gui/dialogs/preferences_dialog.cpp:253
@@ -6214,7 +6172,6 @@ msgstr "征募"
 msgid "Error"
 msgstr "错误"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=details_heading
 #: data/gui/window/wml_error.cfg:112 src/gui/dialogs/multiplayer/lobby.cpp:181
 #: src/gui/dialogs/multiplayer/lobby.cpp:197 src/gui/dialogs/wml_error.cpp:160
@@ -6723,7 +6680,7 @@ msgstr "此附加组件的远程版本与正在上传的版本相同，或比它
 
 #: src/gui/dialogs/addon/manager.cpp:943
 msgid "The passphrase attribute cannot be present when forum_auth is used."
-msgstr ""
+msgstr "使用forum_auth时，不能有passphrase属性。"
 
 #: src/gui/dialogs/addon/manager.cpp:948
 msgid "Invalid icon path. Make sure the path points to a valid image."
@@ -8526,7 +8483,7 @@ msgstr "添加新的区域"
 
 #: src/hotkey/hotkey_command.cpp:272
 msgid "Add-on Publishing Editor"
-msgstr ""
+msgstr "附加组件发布编辑器"
 
 #: src/hotkey/hotkey_command.cpp:273
 msgid "Change Add-on ID"
@@ -8693,77 +8650,3 @@ msgstr ""
 #: src/wml_exception.cpp:92
 msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgstr "在小节‘[$section|]’中，必须设定的主键‘$key|’没有设定值。"
-
-#~ msgid "Choose your preferred language:"
-#~ msgstr "选择你偏好的语言："
-
-#, fuzzy
-#~| msgid "No nodes defined for a tree view."
-#~ msgid "No grid defined for tree view"
-#~ msgstr "没有已定义的树状视图节点。"
-
-#~ msgid "No node defined."
-#~ msgstr "没有已定义的节点。"
-
-#~ msgid "By:"
-#~ msgstr "作者："
-
-#~ msgid "Gold Left:"
-#~ msgstr "剩余金币："
-
-#~ msgid "Active Troops:"
-#~ msgstr "出战部队数："
-
-#~ msgid "Reserve Troops:"
-#~ msgstr "后备部队数："
-
-#~ msgid "Resolution:"
-#~ msgstr "分辨率："
-
-#~ msgid "Show floating labels"
-#~ msgstr "显示浮动标签"
-
-#~ msgid "Show team colors"
-#~ msgstr "显示团队颜色"
-
-#~ msgid "Show grid"
-#~ msgstr "显示网格"
-
-#~ msgid "Theme"
-#~ msgstr "主题"
-
-#~ msgid "Change the in-game theme"
-#~ msgstr "改变游戏中的主题"
-
-#~ msgid "Area to draw has negative size"
-#~ msgstr "绘图区域的尺寸为负值"
-
-#~ msgid "Area to draw is larger than widget size"
-#~ msgstr "绘图区域比部界面构件尺寸大"
-
-#~ msgid "Selected Game"
-#~ msgstr "选中的游戏"
-
-#~ msgid "Choose Test"
-#~ msgstr "选择测试"
-
-#~ msgid "Start Test Scenario"
-#~ msgstr "开始测试场景"
-
-#~ msgid ""
-#~ "A terrain with a string with more than 4 characters has been found, the "
-#~ "affected terrain is:"
-#~ msgstr "找到一个具有长度超过4个字符的字符串的地形，受影响的地形是："
-
-#~ msgid ""
-#~ "The key '$key' is deprecated and support will be removed in version "
-#~ "$removal_version."
-#~ msgstr ""
-#~ "主键‘$key|’已废弃，且对此主键的支持将在版本$removal_version|中移除。"
-
-#~ msgid ""
-#~ "The key '$deprecated_key' has been renamed to '$key'. Support for "
-#~ "'$deprecated_key' will be removed in version $removal_version."
-#~ msgstr ""
-#~ "主键‘$deprecated_key|’已重命名为‘$key’。对‘$deprecated_key|’的支持将在版本"
-#~ "$removal_version|中移除。"
