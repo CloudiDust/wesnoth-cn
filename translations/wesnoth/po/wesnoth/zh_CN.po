@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-05 21:07-0500\n"
+"POT-Creation-Date: 2026-08-18 09:57-0500\n"
 "PO-Revision-Date: 2026-05-24 12:23+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -511,158 +511,158 @@ msgid "Hebrew Translation"
 msgstr "希伯来文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1007
+#: data/core/about_i18n.cfg:1010
 msgid "Hungarian Translation"
 msgstr "匈牙利文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1068
+#: data/core/about_i18n.cfg:1071
 msgid "Icelandic Translation"
 msgstr "冰岛文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1078
+#: data/core/about_i18n.cfg:1081
 msgid "Indonesian Translation"
 msgstr "印度尼西亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1106
+#: data/core/about_i18n.cfg:1109
 msgid "Irish Translation"
 msgstr "爱尔兰文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1113
+#: data/core/about_i18n.cfg:1116
 msgid "Italian Translation"
 msgstr "意大利文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1160
+#: data/core/about_i18n.cfg:1163
 msgid "Japanese Translation"
 msgstr "日文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1253
+#: data/core/about_i18n.cfg:1256
 msgid "Korean Translation"
 msgstr "韩文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1261
+#: data/core/about_i18n.cfg:1264
 msgid "Latin Translation"
 msgstr "拉丁文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1287
+#: data/core/about_i18n.cfg:1290
 msgid "Latvian Translation"
 msgstr "拉脱维亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1302
+#: data/core/about_i18n.cfg:1305
 msgid "Lithuanian Translation"
 msgstr "立陶宛文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1327
+#: data/core/about_i18n.cfg:1330
 msgid "Macedonian Translation"
 msgstr "马其顿文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1334
+#: data/core/about_i18n.cfg:1337
 msgid "Marathi Translation"
 msgstr "马拉地文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1343
+#: data/core/about_i18n.cfg:1346
 msgid "Norwegian Translation"
 msgstr "挪威文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1372
+#: data/core/about_i18n.cfg:1375
 msgid "Old English Translation"
 msgstr "古英文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1390
+#: data/core/about_i18n.cfg:1393
 msgid "Polish Translation"
 msgstr "波兰文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1465
+#: data/core/about_i18n.cfg:1468
 msgid "Portuguese Translation"
 msgstr "葡萄牙文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1479
+#: data/core/about_i18n.cfg:1482
 msgid "Portuguese (Brazil) Translation"
 msgstr "葡萄牙文（巴西）翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1540
+#: data/core/about_i18n.cfg:1543
 msgid "Romanian Translation"
 msgstr "罗马尼亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1548
+#: data/core/about_i18n.cfg:1551
 msgid "Russian Translation"
 msgstr "俄文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1655
+#: data/core/about_i18n.cfg:1658
 msgid "Scottish Gaelic Translation"
 msgstr "苏格兰盖尔文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1664
+#: data/core/about_i18n.cfg:1667
 msgid "Serbian Translation"
 msgstr "塞尔维亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1683
+#: data/core/about_i18n.cfg:1686
 msgid "Slovak Translation"
 msgstr "斯洛伐克文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1718
+#: data/core/about_i18n.cfg:1721
 msgid "Slovenian Translation"
 msgstr "斯洛文尼亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1734
+#: data/core/about_i18n.cfg:1737
 msgid "Spanish Translation"
 msgstr "西班牙文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1828
+#: data/core/about_i18n.cfg:1831
 msgid "Swedish Translation"
 msgstr "瑞典文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1873
+#: data/core/about_i18n.cfg:1876
 msgid "Turkish Translation"
 msgstr "土耳其文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1898
+#: data/core/about_i18n.cfg:1901
 msgid "Ukrainian Translation"
 msgstr "乌克兰文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1932
+#: data/core/about_i18n.cfg:1935
 msgid "Valencian (southern Catalan) Translation"
 msgstr "瓦伦西亚文（南加泰罗尼亚）翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1945
+#: data/core/about_i18n.cfg:1948
 msgid "Vietnamese Translation"
 msgstr "越南文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1964
+#: data/core/about_i18n.cfg:1967
 msgid "Welsh Translation"
 msgstr "威尔士文翻译"
 
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1973
+#: data/core/about_i18n.cfg:1976
 msgid "RACV’s Translation"
 msgstr "RACV的翻译"
 
@@ -4166,7 +4166,7 @@ msgstr "否"
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
-#: src/hotkey/command_executor.cpp:631
+#: src/hotkey/command_executor.cpp:633
 msgid "Screenshot"
 msgstr "截屏"
 
@@ -6188,32 +6188,38 @@ msgid "Invalid Color"
 msgstr "无效颜色"
 
 #. TRANSLATORS: 24-hour time, eg '13:59'
-#: src/format_time_summary.cpp:48
+#: src/format_time_summary.cpp:49
+#, no-c-format
 msgid "%H:%M"
 msgstr "%H:%M"
 
 #. TRANSLATORS: 12-hour time, eg '1:59 PM'
-#: src/format_time_summary.cpp:52
+#: src/format_time_summary.cpp:54
+#, no-c-format
 msgid "%I:%M %p"
 msgstr "%I:%M %p"
 
 #. TRANSLATORS: Day of week + 24-hour time, eg 'Sunday, 13:59'
-#: src/format_time_summary.cpp:58
+#: src/format_time_summary.cpp:61
+#, no-c-format
 msgid "%A, %H:%M"
 msgstr "%A, %H:%M"
 
 #. TRANSLATORS: Day of week + 12-hour time, eg 'Sunday, 1:59 PM'
-#: src/format_time_summary.cpp:62
+#: src/format_time_summary.cpp:66
+#, no-c-format
 msgid "%A, %I:%M %p"
 msgstr "%A, %H:%M %p"
 
 #. TRANSLATORS: Month + day of month, eg 'Nov 02'. Format for your locale.
-#: src/format_time_summary.cpp:67
+#: src/format_time_summary.cpp:72
+#, no-c-format
 msgid "%b %d"
 msgstr "%b %d"
 
 #. TRANSLATORS: Month + day of month + year, eg 'Nov 02 2021'. Format for your locale.
-#: src/format_time_summary.cpp:72
+#: src/format_time_summary.cpp:78
+#, no-c-format
 msgid "%b %d %Y"
 msgstr "%b %d %Y"
 
@@ -6983,15 +6989,15 @@ msgstr "<header>text='此种族的单位'</header>"
 msgid "corrupted original file"
 msgstr "损坏的原始文件"
 
-#: src/hotkey/command_executor.cpp:405
+#: src/hotkey/command_executor.cpp:406
 msgid "Do you really want to surrender the game?"
 msgstr "你真的想要投降吗？"
 
-#: src/hotkey/command_executor.cpp:405
+#: src/hotkey/command_executor.cpp:406
 msgid "Surrender"
 msgstr "投降"
 
-#: src/hotkey/command_executor.cpp:807
+#: src/hotkey/command_executor.cpp:809
 msgid "Map-Screenshot"
 msgstr "地图-截屏"
 
