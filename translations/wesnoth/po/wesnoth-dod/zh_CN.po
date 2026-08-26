@@ -1,12 +1,19 @@
+# The Battle for Wesnoth - Simplified Chinese Translations
+# Copyright (C) 2005-2026 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Translators and their initial years of participation:
+# vimacs <vimacs.hacks@gmail.com>, 2026.
+# CloudiDust <cloudidust@gmail.com>, 2026.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wesnoth-1.20\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-02 22:26+0800\n"
-"Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-08-25 21:40+0800\n"
+"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -83,19 +90,15 @@ msgstr "作者"
 msgid "Prose and Story Editing, Code Preparation"
 msgstr "散文与故事编辑，代码准备工作"
 
-# Translated by openai with model glm-4.7-flash.
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:43
-#, fuzzy
 msgid "Art - Sprites"
-msgstr "美术 - 素材"
+msgstr "美术 - 2D贴图"
 
-# Translated by openai with model glm-4.7-flash.
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:50
-#, fuzzy
 msgid "Wild and Beast Saurian Sprites"
-msgstr "野生蜥蜴人与兽蜥蜴人插图"
+msgstr "野生蜥蜴人与兽蜥蜴人2D贴图"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:56
@@ -105,40 +108,32 @@ msgstr "文本校对"
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:62
 msgid "WML Assistance"
-msgstr "WML 辅助"
+msgstr "WML辅助"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:68
 msgid "Beta Testing"
-msgstr "Beta 测试"
+msgstr "Beta测试"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [achievement]: id=dod_sbc
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:8
-#, fuzzy
 msgid "Scenario 1: Small but Cunning"
-msgstr "关卡一：小而狡诈"
+msgstr "场景1：渺小而狡诈"
 
-# Translated by openai with model glm-4.7-flash.
 #. [achievement]: id=dod_sbc
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:9
-#, fuzzy
 msgid "Find a way to light the brazier in <i>First Steps</i>."
-msgstr "在 <i>初次尝试</i> 中设法点亮火盆。"
+msgstr "在 <b>初次尝试</b> 中设法点亮火盆。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [achievement]: id=dod_ras
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:16
-#, fuzzy
 msgid "Scenario 1b: Rock and Stone"
-msgstr "第一关b：岩石与坚石"
+msgstr "场景1b：岩石与坚石"
 
-# Translated by openai with model glm-4.7-flash.
 #. [achievement]: id=dod_ras
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:17
-#, fuzzy
 msgid "Complete the <i>Secret</i> on Normal difficulty."
-msgstr "在普通难度下完成 <i>秘密</i>。"
+msgstr "在普通难度下完成 <b>秘密</b>。"
 
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:24
@@ -148,7 +143,7 @@ msgstr "场景2：让它们燃烧！"
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:25
 msgid "Advance a Fire Guardian into a Fire Wraith in <i>A Dream</i>."
-msgstr "在<i>一场梦</i>中，将一名烈火卫士升级为火焰幽魂。"
+msgstr "在 <b>一场梦</b> 中，将一名烈火卫士升级为火焰幽魂。"
 
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:32
@@ -158,7 +153,7 @@ msgstr "场景2：焦土政策"
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:33
 msgid "Fully burn 10 tiles of forest in <i>A Dream</i>."
-msgstr "在<i>一场梦</i>中烧尽 10 个森林格。"
+msgstr "在 <b>一场梦</b> 中烧尽10个森林格。"
 
 #. [achievement]: id=dod_gs
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:40
@@ -168,7 +163,7 @@ msgstr "场景2：绿色的纪念"
 #. [achievement]: id=dod_gs
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:41
 msgid "Find the Wose Branch in <i>A Dream</i>."
-msgstr "在<i>一场梦</i>中寻得树人之枝。"
+msgstr "在 <b>一场梦</b> 中寻得树人之枝。"
 
 #. [achievement]: id=dod_mp
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:48
@@ -178,7 +173,7 @@ msgstr "场景 3：采蘑菇"
 #. [achievement]: id=dod_mp
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:49
 msgid "Harvest at least half of the mushroom groves in <i>Fateful Day</i>."
-msgstr "在 <i>宿命之日</i> 中，采集至少一半的蘑菇林。"
+msgstr "在 <b>宿命之日</b> 中，采集至少一半的蘑菇林。"
 
 #. [achievement]: id=dod_hb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:56
@@ -189,7 +184,7 @@ msgstr "场景3：嘶鸣之战"
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:57
 msgid ""
 "Attack the Blue Blood Saurian leader with Refumee in <i>Fateful Day</i>."
-msgstr "在<i>宿命之日</i>中，使用瑞富米攻击蓝血蜥蜴人首领。"
+msgstr "在 <b>宿命之日</b> 中，使用瑞富米攻击蓝血蜥蜴人首领。"
 
 #. [scenario]: id=00_Being_Born
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:5
@@ -370,12 +365,10 @@ msgstr "仿佛受到奥格尔的咆哮的召唤，其他的巨魔也从沉睡中
 msgid "This is how trolls are born."
 msgstr "巨魔，便是如此诞生。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [scenario]: id=01_First_Steps
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:5
-#, fuzzy
 msgid "First Steps"
-msgstr "第一步"
+msgstr "启程"
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:27
@@ -1098,12 +1091,10 @@ msgid ""
 msgstr ""
 "<b>啊——哈！</b>（你们已经没有希望了。无论来多少帮手，死亡都等着你们。）"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:468
-#, fuzzy
 msgid "<b>S y s s...!</b> (Give up your treasures and we will spare you!)"
-msgstr "<b>S y s s...!</b> (交出你们的财宝，我们就饶你们一命！)"
+msgstr "<b>嘶——嘶——嘶……！</b> (交出你们的财宝，我们就饶你们一命！)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:473
@@ -1195,75 +1186,55 @@ msgstr "<b>啊——哈！</b>（你会为此付出代价的，你这肮脏的�
 msgid "<b>Urg-hah...</b> (No! I can’t die...)"
 msgstr "<b>呃——哈……</b>（不！我不能死……）"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:921
-#, fuzzy
 msgid "<b>S y s s...!</b> (Time to retreat!)"
-msgstr "<b>S y s s...!</b>（该撤退了！）"
+msgstr "<b>嘶——嘶——嘶……！</b>（该撤退了！）"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:937
-#, fuzzy
 msgid "<b>S s a s...!</b> (What a coward!)"
-msgstr "<b>S s a s...!</b> (真是个胆小鬼！)"
+msgstr "<b>嘶—萨—嘶……！</b> (真是个胆小鬼！)"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:949
-#, fuzzy
 msgid "<b>S y s y...</b> (Forgive me for falling...)"
 msgstr "<b>嘶——嘶……</b>（宽恕我的坠落……）"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:968
-#, fuzzy
 msgid "<b>S y s y...</b> (You are a fool of a saurian.)"
-msgstr "<b>S y s y...</b> (你这愚蠢的蜥蜴人。)"
+msgstr "<b>嘶——嘶……</b> (你这愚蠢的蜥蜴人。)"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:977
-#, fuzzy
 msgid "<b>S y s s...!</b> (No, you are. You saurian traitor!)"
-msgstr "<b>嘶——嘶——嘶……！</b>（不，是你。蜥蜴族的叛徒！）"
+msgstr "<b>嘶——嘶——嘶……！</b>（不，是你。蜥蜴人的叛徒！）"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:986
-#, fuzzy
 msgid "<b>S y s y...!</b> (You are, not me!)"
-msgstr "<b>嘶——嘶——嘶——！</b> (你是，而非我！)"
+msgstr "<b>嘶——嘶……！</b>（你是，我不是！）"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1000
-#, fuzzy
 msgid "<b>S y s s...!</b> (You are annoying...)"
-msgstr "**嘶——嘶——！**（你们真是……烦人……）"
+msgstr "<b>嘶——嘶——嘶……！</b>（你们真是……烦人……）"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1014
-#, fuzzy
 msgid "<b>S y s y...</b> (You are more.)"
-msgstr "<b>嘶——嘶——……</b>（你……更为非凡。）"
+msgstr "<b>嘶——嘶……</b>（你更烦。）"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1023
-#, fuzzy
 msgid "<b>S s s s y s y s s y y...!</b> (Saurian insult, no translation.)"
-msgstr "<b>S s s s y s y s s y y...!</b>"
+msgstr "<b>嘶嘶嘶嘶！嘶嘶……!</b>（蜥蜴人脏话，没翻译。）"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1032
-#, fuzzy
 msgid "<b>S y s s...</b> (How dare you!)"
-msgstr "<b>S y s s...</b> (竟敢如此！)"
+msgstr "<b>嘶——嘶……</b> (你敢！)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1049
@@ -1396,14 +1367,12 @@ msgstr ""
 "蜥蜴人窃走了奥格尔体内的内焰，又以魔力将其浇灭。刺骨的严寒，无情地刺入了奥格"
 "尔那如石般的躯体。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:489
-#, fuzzy
 msgid ""
 "<b>S y s s...</b> (You will follow us wherever we go if you want to regain "
 "your inner flame, troll.)"
-msgstr "<b>S y s s...</b>（如果你想重获内焰，就必须追随我们，巨魔。）"
+msgstr "<b>嘶——嘶——嘶……</b>（如果你想重获内心的烈焰，就必须追随我们，巨魔。）"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:495
@@ -1507,14 +1476,9 @@ msgid ""
 msgstr ""
 "巨魔常被视作野兽，只会作恶的嗜血怪物。或许许多确是如此。但许多并非生来如此。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [scenario]: id=Secret
-#: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:5
-#, fuzzy
-msgid "Secret"
-msgstr "秘室"
-
 #. [part]
+#: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:5
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:20
 msgid "Dwarves are a very cautious folk, carefully guarding their secrets."
 msgstr "矮人乃极度谨慎之辈，将诸多秘辛严加守护。"
@@ -1633,10 +1597,8 @@ msgstr "……于是，一个效忠于奥格尔的新石魔像诞生了。"
 msgid "With a squeal of rusty machinery, the gate opens."
 msgstr "伴随着锈蚀机械的刺耳尖叫，大门开启了。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [unit_type]: id=Beast Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:5
-#, fuzzy
 msgid "Beast Saurian"
 msgstr "野兽蜥蜴人"
 
@@ -1749,7 +1711,7 @@ msgstr "奥格尔……！"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:23
 msgid "Should $unit.name| drink the potion?"
-msgstr "是否该让 $unit.name| 喝下这瓶药水？"
+msgstr "是否该让$unit.name|喝下这瓶药水？"
 
 #. [message]: speaker=$unit.id|
 #. [message]: speaker=narrator
@@ -1778,7 +1740,7 @@ msgstr "一瓶来历不明的药水。"
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:48
 msgid "female^Potion grants steadfast ability and 20% resistance to impact."
-msgstr "female^药水赋予坚定能力及20%冲击抗性。"
+msgstr "药水赋予坚定能力及20%冲击抗性。"
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:71
@@ -1790,7 +1752,7 @@ msgstr "否"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:99
 msgid "Should $unit.name| take the branch?"
-msgstr "是否该让 $unit.name| 取走这根树枝？"
+msgstr "是否该让$unit.name|取走这根树枝？"
 
 #. [message]: speaker=$unit.id|
 #. [message]: speaker=narrator
@@ -1812,7 +1774,7 @@ msgstr "某位伟大树人的魔法树枝。"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:170
 msgid "Should $unit.name| touch the monolith?"
-msgstr "$unit.name| 是否应当触碰那方巨石？"
+msgstr "$unit.name|是否应当触碰那方巨石？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:171
@@ -1839,7 +1801,7 @@ msgstr "该单位获得了在进行近战攻击时的“击晕”特攻。"
 msgid ""
 "After $unit.name| absorbed the stone’s power, the monolith lost its magical "
 "properties."
-msgstr "在 $unit.name| 吸收了石头的力量后，那座巨石柱便失去了它的魔力。"
+msgstr "在$unit.name|吸收了石头的力量后，那座巨石柱便失去了它的魔力。"
 
 #. [time]: id=lava
 #: data/campaigns/Dusk_of_Dawn/utils/schedules.cfg:6
