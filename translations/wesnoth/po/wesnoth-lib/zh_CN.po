@@ -9518,38 +9518,3 @@ msgstr "在‘[$section|]’小节中，必须设定的键‘$key|’没有设�
 #: src/wml_exception.cpp:104
 msgid "In section ‘[$section|]’ the mandatory subtag ‘[$tag|]’ is missing."
 msgstr "在‘[$section|]’小节中，必须存在的子标签‘[$tag|]’不存在。"
-
-msgid "Choose your preferred language:"
-msgstr "选择你偏好的语言："
-
-msgid "By:"
-msgstr "作者："
-
-msgid "Active Troops:"
-msgstr "出战部队数："
-
-msgid "Reserve Troops:"
-msgstr "后备部队数："
-
-msgid "Area to draw has negative size"
-msgstr "绘图区域的尺寸为负值"
-
-msgid "Area to draw is larger than widget size"
-msgstr "绘图区域比部界面构件尺寸大"
-
-msgid ""
-"A terrain with a string with more than 4 characters has been found, the "
-"affected terrain is:"
-msgstr "找到一个具有长度超过4个字符的字符串的地形，受影响的地形是："
-
-msgid ""
-"The key '$key' is deprecated and support will be removed in version "
-"$removal_version."
-msgstr "键‘$key|’已废弃，且对此主键的支持将在版本$removal_version|中移除。"
-
-msgid ""
-"The key '$deprecated_key' has been renamed to '$key'. Support for "
-"'$deprecated_key' will be removed in version $removal_version."
-msgstr ""
-"键‘$deprecated_key|’已重命名为‘$key’。对‘$deprecated_key|’的支持将在版本"
-"$removal_version|中移除。"
