@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-11-10 15:08+0800\n"
+"PO-Revision-Date: 2026-11-20 12:03+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -657,7 +657,7 @@ msgstr "选择一项以了解更多……"
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:499
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:800
 msgid "Wose Lore"
-msgstr "树人的传说"
+msgstr "树人传说"
 
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
@@ -4990,7 +4990,7 @@ msgstr ""
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:795
 msgid "As you wish. The wose lore is yours."
-msgstr "如你所愿。树人学识归你所有。"
+msgstr "如你所愿。树人传说归你所有。"
 
 #. [event]: id=boon_wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:801
@@ -5647,7 +5647,7 @@ msgstr ""
 #. Konrad has something to day, and Delfador is promting him.
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:773
 msgid "What is it, Konrad?"
-msgstr "它是什么，科纳德？"
+msgstr "你的意思呢，科纳德？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:786
@@ -7223,8 +7223,8 @@ msgstr "死亡不超过15：可征募精灵弓箭手"
 msgid "10 or fewer deaths: recruit Elvish Scouts"
 msgstr "死亡不超过10：可征募精灵侦察兵"
 
-#. [objective]: condition=win, description=
-#. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>
+#. [objective]: condition=win, description=  
+#. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>  
 #. if 5 or fewer elves die, Konrad will learn to recruit Elvish Fighters
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:339
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:346
